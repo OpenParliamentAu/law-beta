@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00846/Html/b1f22914-6119-48a7-b193-2466d9818c74_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00270/Html/NuclearNonProSaf87WD02_image001.gif)
 
-# Nuclear Non‑Proliferation (Safeguards) Act 1987
+# Nuclear Non-Proliferation (Safeguards) Act 1987
 
 **Act No. 8 of 1987 as amended**
 
-This compilation was prepared on 20 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 16 April 2007
+ taking into account amendments up to Act No. 50 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -182,7 +182,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60](#60).          Safeguards inspections by Agency inspectors
 
-[61](#61).          Offence‑related searches and seizures
+[61](#61).          Offence-related searches and seizures
 
 [62](#62).          Warrants may be granted by telephone
 
@@ -226,9 +226,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Definitions
 
-**Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons** 
+**Schedule 2—Treaty on the Non-Proliferation of Nuclear Weapons** 
 
-**Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons** 
+**Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons** 
 
 **Schedule 4—Convention on the physical protection of nuclear material** 
 
@@ -236,13 +236,13 @@ Definitions
 
 **Notes** 
 
-## An Act to make provision in relation to the non‑proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
+## An Act to make provision in relation to the non-proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
 
 ## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Nuclear Non‑Proliferation (Safeguards) Act 1987_.
+                   This Act may be cited as the _Nuclear Non-Proliferation (Safeguards) Act 1987_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -252,7 +252,7 @@ Definitions
 
 ##### <a id="3"></a>3  Objects of Act
 
-             (1)  The principal object of this Act is to give effect to certain obligations that Australia has as a party to the Non‑Proliferation Treaty, the Agency Agreement, the Supplementary Agency Agreements and the prescribed international agreements.
+             (1)  The principal object of this Act is to give effect to certain obligations that Australia has as a party to the Non-Proliferation Treaty, the Agency Agreement, the Supplementary Agency Agreements and the prescribed international agreements.
 
              (2)  A further object of this Act is to give effect to certain obligations that Australia has as a party to the Physical Protection Convention.
 
@@ -262,7 +262,7 @@ Definitions
 
                     <a name="agenc"></a>**_Agency_** means the International Atomic Energy Agency established by the Agency Statute.
 
-                    <a name="agenc-agreem"></a>**_Agency Agreement_** means the Agreement between Australia and the International Atomic Energy Agency for the Application of Safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons, being the Agreement which was signed on behalf of Australia on 10 July 1974, a copy of which is set out in Schedule 3, and:
+                    <a name="agenc-agreem"></a>**_Agency Agreement_** means the Agreement between Australia and the International Atomic Energy Agency for the Application of Safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons, being the Agreement which was signed on behalf of Australia on 10 July 1974, a copy of which is set out in Schedule 3, and:
 
                      (a)  subject to subsection (3), includes that Agreement as amended from time to time; and
 
@@ -274,7 +274,7 @@ Definitions
 
                     <a name="amend"></a>**_amendment_**, in relation to a document, means an amendment of the text of the document.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="approved-form"></a>**_approved form_** means a form approved by the Minister.
 
@@ -396,7 +396,7 @@ and includes any photograph, model or other thing from which such information ma
 
                              (ii)  organisations that are constituted by the representatives of 2 or more countries, or the Governments of 2 or more countries.
 
-                    <a name="non-prolifer-treati"></a>**_Non‑Proliferation Treaty_** means the Treaty on the Non‑Proliferation of Nuclear Weapons, being the Treaty which was signed on behalf of Australia on 27 February 1970, a copy of the English text of which is set out in Schedule 2, and, subject to subsection (3), includes that Treaty as amended from time to time.
+                    <a name="non-prolifer-treati"></a>**_Non-Proliferation Treaty_** means the Treaty on the Non-Proliferation of Nuclear Weapons, being the Treaty which was signed on behalf of Australia on 27 February 1970, a copy of the English text of which is set out in Schedule 2, and, subject to subsection (3), includes that Treaty as amended from time to time.
 
                     <a name="nuclear-activ"></a>**_nuclear activities_** means:
 
@@ -442,13 +442,13 @@ and, subject to subsection (3), includes such an agreement as amended from tim
 
                     <a name=""></a><a name="supplementari-agenc-agreem"></a>**_Supplementary Agency Agreement_** has the meaning given by section 4A **_._**
 
-                    <a name="surveil-devic"></a>**_surveillance device_** means a seal, camera, closed‑circuit television system or other device that is being used, pursuant to a condition of a permit or pursuant to an order or direction under section 73, to detect:
+                    <a name="surveil-devic"></a>**_surveillance device_** means a seal, camera, closed-circuit television system or other device that is being used, pursuant to a condition of a permit or pursuant to an order or direction under section 73, to detect:
 
                      (a)  movements of nuclear material or an associated item; or
 
                     (aa)  movements of a person or thing past or through a containment device; or
 
-                   (ab)  circumvention of a containment device or surveillance device; or
+                    (ab)  circumvention of a containment device or surveillance device; or
 
                      (b)  interference with a containment device or surveillance device; or
 
@@ -460,7 +460,7 @@ and, subject to subsection (3), includes such an agreement as amended from tim
 
              (2)  A reference in the definition of **_prescribed international agreement_** in subsection (1) to a foreign country includes a reference to an international organisation.
 
-             (3)  An amendment to the Agency Agreement, the Agency Statute, the Non‑Proliferation Treaty, the Physical Protection Convention or a prescribed international agreement:
+             (3)  An amendment to the Agency Agreement, the Agency Statute, the Non-Proliferation Treaty, the Physical Protection Convention or a prescribed international agreement:
 
                      (a)  does not have effect for the purposes of this Act unless the amendment is declared by the regulations to have effect for the purposes of this Act; and
 
@@ -470,13 +470,13 @@ and, subject to subsection (3), includes such an agreement as amended from tim
 
              (5)  Where regulations are made for the purposes of subsection (4) in relation to a determination of the Board of Governors of the Agency, the determination shall be taken, for the purposes of the definition of **_nuclear material_** in the Agency Agreement, to be accepted by Australia.
 
-             (6)  Where a person gives another person, or allows another person to take, possession of associated technology, the first‑mentioned person shall, for the purposes of this Act, be taken to have communicated to that other person the information that is contained in, or that may be obtained or deduced from, that associated technology.
+             (6)  Where a person gives another person, or allows another person to take, possession of associated technology, the first-mentioned person shall, for the purposes of this Act, be taken to have communicated to that other person the information that is contained in, or that may be obtained or deduced from, that associated technology.
 
              (7)  Sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply to declarations made under the definitions of **_associated equipment_**, **_associated material_** and **_associated technology_** in subsection (1) as if in those provisions references to regulations were references to declarations, references to a regulation were references to a provision of a declaration and references to repeal were references to revocation.
 
              (8)  Declarations made under the definitions of **_associated equipment_**, **_associated material_** and **_associated technology_** in subsection (1) shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such declarations as they apply to statutory rules.
 
-             (9)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (8) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
+             (9)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (8) of this section, the reference in the first-mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
            (10)  A reference in this Act to an inspection by an Agency inspector includes a reference to access by the inspector.
 
@@ -518,9 +518,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
                      (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
 
-shall be deemed, for the purposes of this Act, to have been engaged in by the first‑mentioned person.
+shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.
 
              (5)  A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.
 
@@ -532,7 +532,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ##### <a id="7"></a>7  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="8"></a>8  Application of Act
 
@@ -542,7 +542,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
              (3)  Without prejudice to their effect by virtue of subsection (2), the provisions of this Act have effect in relation to an associated item:
 
-                     (a)  control of which is appropriate to give effect to obligations that Australia has as a party to the Non‑Proliferation Treaty, the Agency Agreement, a Supplementary Agency Agreement or a prescribed international agreement (including the obligation that Australia has under Article II of the Non‑Proliferation Treaty not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices);
+                     (a)  control of which is appropriate to give effect to obligations that Australia has as a party to the Non-Proliferation Treaty, the Agency Agreement, a Supplementary Agency Agreement or a prescribed international agreement (including the obligation that Australia has under Article II of the Non-Proliferation Treaty not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices);
 
                      (b)  that is owned by, or is in the possession or control of, a trading corporation or foreign corporation;
 
@@ -574,7 +574,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
              (7)  Without prejudice to their effect by virtue of subsection (6), the provisions of this Act have effect in relation to information of the kinds referred to in the definition of **_associated technology_** in subsection 4(1):
 
-                     (a)  control of which is appropriate to give effect to obligations that Australia has as a party to the Non‑Proliferation Treaty, the Agency Agreement or a prescribed international agreement (including the obligation that Australia has under Article II of the Non‑Proliferation Treaty not to manufacture or otherwise acquire nuclear weapons or other explosive nuclear devices);
+                     (a)  control of which is appropriate to give effect to obligations that Australia has as a party to the Non-Proliferation Treaty, the Agency Agreement or a prescribed international agreement (including the obligation that Australia has under Article II of the Non-Proliferation Treaty not to manufacture or otherwise acquire nuclear weapons or other explosive nuclear devices);
 
                      (b)  communicated by a trading corporation or foreign corporation;
 
@@ -670,7 +670,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
            (11)  Declarations made under this section shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such declarations as they apply to statutory rules.
 
-           (12)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (11) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
+           (12)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (11) of this section, the reference in the first-mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
 ##### <a id="12"></a>12  Application for permit
 
@@ -706,7 +706,7 @@ to which this Part applies.
 
                      (d)  the measures to be taken to ensure the physical security of nuclear material or an associated item;
 
-                   (da)  the taking of measures that are consistent with Australia’s obligations under the Physical Protection Convention;
+                    (da)  the taking of measures that are consistent with Australia’s obligations under the Physical Protection Convention;
 
                      (e)  the persons, or class of persons, who are to be allowed access to nuclear material or an associated item and the conditions on which access to nuclear material or an associated item is to be allowed;
 
@@ -1152,7 +1152,7 @@ Note:          A defendant bears an evidential burden in relat
 
                              (ii)  is not made in accordance with an authority granted under section 18;
 
-the first‑mentioned person is guilty of an offence against this subsection punishable, upon conviction, by imprisonment for not more than 10 years.
+the first-mentioned person is guilty of an offence against this subsection punishable, upon conviction, by imprisonment for not more than 10 years.
 
              (2)  Subsection (1) does not apply to the communication of information by a Commonwealth officer or a prescribed authority of the Commonwealth in the course of:
 
@@ -1376,7 +1376,7 @@ any nuclear material.
 
 ##### <a id="34"></a>34  Demanding nuclear material by threats etc.
 
-                   A person shall not demand that another person give nuclear material to the first‑mentioned person or some other person by force or threat of force or by any form of intimidation.
+                   A person shall not demand that another person give nuclear material to the first-mentioned person or some other person by force or threat of force or by any form of intimidation.
 
                     Penalty:  Imprisonment for 10 years.
 
@@ -1534,7 +1534,7 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
                               (i)  if there is entered in the Register the day on which the revocation, expiration or cessation of that permit took effect— continued to be the holder of that permit until the day so entered; or
 
-                             (ii)  in any other case—is the holder of that permit and has been the holder of that permit since that first‑mentioned day;
+                             (ii)  in any other case—is the holder of that permit and has been the holder of that permit since that first-mentioned day;
 
                      (b)  that a person is not the holder, and has never been the holder, of a relevant permit, if his or her name has not been entered in the Register as a person to whom a relevant permit has been granted; and
 
@@ -1560,11 +1560,11 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
              (1)  There shall be a Director of Safeguards.
 
-             (2)  The Director shall be appointed by the Governor‑General.
+             (2)  The Director shall be appointed by the Governor-General.
 
              (3)  The Director shall be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for reappointment.
 
-             (5)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (5)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
              (6)  The Director may be referred to by another title specified by the Minister by notice in the _Gazette_.
 
@@ -1578,7 +1578,7 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
                      (c)  to monitor compliance with the provisions of the prescribed international agreements by parties other than Australia;
 
-                     (d)  to undertake, co‑ordinate and facilitate research and development in relation to nuclear safeguards;
+                     (d)  to undertake, co-ordinate and facilitate research and development in relation to nuclear safeguards;
 
                      (e)  to advise the Minister on matters relating to the operation of the Australian safeguards system;
 
@@ -1606,11 +1606,11 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
 ##### <a id="47"></a>47  Resignation
 
-                   The Director may resign from office by writing signed by the Director and delivered to the Governor‑General.
+                   The Director may resign from office by writing signed by the Director and delivered to the Governor-General.
 
 ##### <a id="48"></a>48  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
 
              (2)  If the Director:
 
@@ -1622,7 +1622,7 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
                      (d)  fails, without reasonable excuse, to comply with his or her obligations under section 49;
 
-the Governor‑General shall terminate the appointment of the Director.
+the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="49"></a>49  Disclosure of interests
 
@@ -1672,11 +1672,11 @@ the Governor‑General shall terminate the appointment of the Director.
 
                               (i)  the total quantities in each stage of the nuclear fuel cycle; and
 
-                             (ii)  the intended end‑use;
+                             (ii)  the intended end-use;
 
                             of the nuclear material and the items transferred to each jurisdiction;
 
-                     (b)  the quantities, categories and intended end‑use of all nuclear material and associated items within Australia; and
+                     (b)  the quantities, categories and intended end-use of all nuclear material and associated items within Australia; and
 
                      (c)  any unreconciled differences in quantities of:
 
@@ -1874,7 +1874,7 @@ enter upon the land, or upon or into the premises, and exercise any relevant pow
 
 an Agency inspector may accompany the relevant inspector when the relevant inspector enters upon the land or upon or into the premises, vessel, aircraft or vehicle and may, for the purposes of carrying out the inspection referred to in paragraph (b), exercise any relevant power.
 
-##### <a id="61"></a>61  Offence‑related searches and seizures
+##### <a id="61"></a>61  Offence-related searches and seizures
 
              (1)  Where an inspector has reasonable grounds for suspecting that there may be on any land or premises any article or thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
 
@@ -2152,7 +2152,7 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
 
              (3)  A reference in this section to a relevant international agreement is a reference to an agreement that is, by virtue of subsection (4) or (5), a relevant international agreement for the purposes of this section.
 
-             (4)  The Non‑Proliferation Treaty, the Agency Agreement, the Supplementary Agency Agreements and the prescribed international agreements are relevant international agreements for the purposes of this section.
+             (4)  The Non-Proliferation Treaty, the Agency Agreement, the Supplementary Agency Agreements and the prescribed international agreements are relevant international agreements for the purposes of this section.
 
              (5)  The Physical Protection Convention is a relevant international agreement for the purposes of this section.
 
@@ -2244,9 +2244,9 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
 
                      (b)  in the case of a permit granted under section 16—any matter referred to in paragraph 16(3)(b) to (e) (inclusive); and
 
-                   (ba)  in the case of a permit granted under section 16A—any matter referred to in paragraph 16A(3)(a), (b) or (c); and
+                    (ba)  in the case of a permit granted under section 16A—any matter referred to in paragraph 16A(3)(a), (b) or (c); and
 
-                   (bb)  in the case of a permit granted under section 16B—any matter referred to in paragraph 16B(3)(a) or (b); and
+                    (bb)  in the case of a permit granted under section 16B—any matter referred to in paragraph 16B(3)(a) or (b); and
 
                      (c)  in the case of an authority granted under section 18—any matter referred to in paragraph 18(4)(a), (b) or (d).
 
@@ -2256,7 +2256,7 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
 
              (5)  Orders made under this section shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such orders as they apply to statutory rules.
 
-             (6)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (5) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
+             (6)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (5) of this section, the reference in the first-mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
              (7)  A direction given under subsection (1) to the holder of a permit or authority shall have endorsed on it or attached to it a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_ and to subsection 22(8) of this Act, application may be made to the Administrative Appeals Tribunal, by or on behalf of a person whose interests are affected by a decision of the Minister, pursuant to subsection (1) of this section, giving a direction to be complied with by the holder of the permit or authority, for review of the decision.
 
@@ -2266,7 +2266,7 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
 
 ##### <a id="74"></a>74  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2296,7 +2296,7 @@ _Section 4_
 
 As used in this Statute: 
 
-1.    The term “special fissionable material” means plutonium‑239; uranium‑233; uranium enriched in the isotopes 235 or 233; any material containing one or more of the foregoing; and such other fissionable material as the Board of Governors shall from time to time determine; but the term “special fissionable material” does not include source material. 
+1.    The term “special fissionable material” means plutonium-239; uranium-233; uranium enriched in the isotopes 235 or 233; any material containing one or more of the foregoing; and such other fissionable material as the Board of Governors shall from time to time determine; but the term “special fissionable material” does not include source material. 
 
 2.    The term “uranium enriched in the isotopes 235 or 233” means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature. 
 
@@ -2304,7 +2304,7 @@ As used in this Statute:
 
  
 
-# Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons
+# Schedule 2—Treaty on the Non-Proliferation of Nuclear Weapons
 
 _Section 4_
 
@@ -2316,17 +2316,17 @@ Believing that the proliferation of nuclear weapons would seriously enhance the 
 
 In conformity with resolutions of the United Nations General Assembly calling for the conclusion of an agreement on the prevention of wider dissemination of nuclear weapons,
 
-Undertaking to co‑operate in facilitating the application of International Atomic Energy Agency safeguards on peaceful nuclear activities, 
+Undertaking to co-operate in facilitating the application of International Atomic Energy Agency safeguards on peaceful nuclear activities, 
 
 Expressing their support for research, development and other efforts to further the application, within the framework of the International Atomic Energy Agency safeguards system, of the principle of safeguarding effectively the flow of source and special fissionable materials by use of instruments and other techniques at certain strategic points,
 
-Affirming the principle that the benefits of peaceful applications of nuclear technology, including any technological by‑products which may be derived by nuclear‑weapon States from the development of nuclear explosive devices, should be available for peaceful purposes to all Parties to the Treaty, whether nuclear‑weapon or non‑nuclear‑weapon States,
+Affirming the principle that the benefits of peaceful applications of nuclear technology, including any technological by-products which may be derived by nuclear-weapon States from the development of nuclear explosive devices, should be available for peaceful purposes to all Parties to the Treaty, whether nuclear-weapon or non-nuclear-weapon States,
 
-Convinced that, in furtherance of this principle, all Parties to the Treaty are entitled to participate in the fullest possible exchange of scientific information for, and to contribute alone or in co‑operation with other States to, the further development of the applications of atomic energy for peaceful purposes, 
+Convinced that, in furtherance of this principle, all Parties to the Treaty are entitled to participate in the fullest possible exchange of scientific information for, and to contribute alone or in co-operation with other States to, the further development of the applications of atomic energy for peaceful purposes, 
 
 Declaring their intention to achieve at the earliest possible date the cessation of the nuclear arms race and to undertake effective measures in the direction of nuclear disarmament, 
 
-Urging the co‑operation of all States in the attainment of this objective, 
+Urging the co-operation of all States in the attainment of this objective, 
 
 Recalling the determination expressed by the Parties to the 1963 Treaty banning nuclear weapon tests in the atmosphere, in outer space and under water in its Preamble to seek to achieve the discontinuance of all test explosions of nuclear weapons for all time and to continue negotiations to this end, 
 
@@ -2338,31 +2338,31 @@ Have agreed as follows:
 
 **Article I**
 
-Each nuclear‑weapon State Party to the Treaty undertakes not to transfer to any recipient whatsoever nuclear weapons or other nuclear explosive devices or control over such weapons or explosive devices directly, or indirectly; and not in any way to assist, encourage, or induce any non‑nuclear‑weapon State to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices, or control over such weapons or explosive devices. 
+Each nuclear-weapon State Party to the Treaty undertakes not to transfer to any recipient whatsoever nuclear weapons or other nuclear explosive devices or control over such weapons or explosive devices directly, or indirectly; and not in any way to assist, encourage, or induce any non-nuclear-weapon State to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices, or control over such weapons or explosive devices. 
 
 **Article II**
 
-Each non‑nuclear‑weapon State Party to the Treaty undertakes not to receive the transfer from any transferor whatsoever of nuclear weapons or other nuclear explosive devices or of control over such weapons or explosive devices directly, or indirectly; not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and not to seek or receive any assistance in the manufacture of nuclear weapons or other nuclear explosive devices. 
+Each non-nuclear-weapon State Party to the Treaty undertakes not to receive the transfer from any transferor whatsoever of nuclear weapons or other nuclear explosive devices or of control over such weapons or explosive devices directly, or indirectly; not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and not to seek or receive any assistance in the manufacture of nuclear weapons or other nuclear explosive devices. 
 
 **Article III**
 
-1.    Each non‑nuclear‑weapon State Party to the Treaty undertakes to accept safeguards, as set forth in an agreement to be negotiated and concluded with the International Atomic Energy Agency in accordance with the Statute of the International Atomic Energy Agency and the Agency’s safeguards system, for the exclusive purpose of verification of the fulfilment of its obligations assumed under this Treaty with a view to preventing diversion of nuclear energy from peaceful uses to nuclear weapons or other nuclear explosive devices. Procedures for the safeguards required by this Article shall be followed with respect to source or special fissionable material whether it is being produced, processed or used in any principal nuclear facility or is outside any such facility. The safeguards required by this Article shall be applied on all source or special fissionable material in all peaceful nuclear activities within the territory of such State, under its jurisdiction, or carried out under its control anywhere. 
+1.     Each non-nuclear-weapon State Party to the Treaty undertakes to accept safeguards, as set forth in an agreement to be negotiated and concluded with the International Atomic Energy Agency in accordance with the Statute of the International Atomic Energy Agency and the Agency’s safeguards system, for the exclusive purpose of verification of the fulfilment of its obligations assumed under this Treaty with a view to preventing diversion of nuclear energy from peaceful uses to nuclear weapons or other nuclear explosive devices. Procedures for the safeguards required by this Article shall be followed with respect to source or special fissionable material whether it is being produced, processed or used in any principal nuclear facility or is outside any such facility. The safeguards required by this Article shall be applied on all source or special fissionable material in all peaceful nuclear activities within the territory of such State, under its jurisdiction, or carried out under its control anywhere. 
 
-2.    Each State Party to the Treaty undertakes not to provide: _(a)_ source or special fissionable material, or _(b)_ equipment or material especially designed or prepared for the processing, use or production of special fissionable material, to any non‑nuclear‑weapon State for peaceful purposes, unless the source or special fissionable material shall be subject to the safeguards required by this Article.
+2.     Each State Party to the Treaty undertakes not to provide: _(a)_ source or special fissionable material, or _(b)_ equipment or material especially designed or prepared for the processing, use or production of special fissionable material, to any non-nuclear-weapon State for peaceful purposes, unless the source or special fissionable material shall be subject to the safeguards required by this Article.
 
-3.    The safeguards required by this Article shall be implemented in a manner designed to comply with Article IV of this Treaty, and to avoid hampering the economic or technological development of the Parties or international co‑operation in the field of peaceful nuclear activities, including the international exchange of nuclear material and equipment for the processing, use or production of nuclear material for peaceful purposes in accordance with the provisions of this Article and the principle of safeguarding set forth in the Preamble of the Treaty.
+3.     The safeguards required by this Article shall be implemented in a manner designed to comply with Article IV of this Treaty, and to avoid hampering the economic or technological development of the Parties or international co-operation in the field of peaceful nuclear activities, including the international exchange of nuclear material and equipment for the processing, use or production of nuclear material for peaceful purposes in accordance with the provisions of this Article and the principle of safeguarding set forth in the Preamble of the Treaty.
 
-4.    Non‑nuclear‑weapon States Party to the Treaty shall conclude agreements with the International Atomic Energy Agency to meet the requirements of this Article either individually or together with other States in accordance with the Statute of the International Atomic Energy Agency. Negotiation of such agreements shall commence within 180 days from the original entry into force of this Treaty. For States depositing their instruments of ratification or accession after the 180‑day period, negotiation of such agreements shall commence not later than the date of such deposit. Such agreements shall enter into force not later than eighteen months after the date of initiation of negotiations.
+4.     Non-nuclear-weapon States Party to the Treaty shall conclude agreements with the International Atomic Energy Agency to meet the requirements of this Article either individually or together with other States in accordance with the Statute of the International Atomic Energy Agency. Negotiation of such agreements shall commence within 180 days from the original entry into force of this Treaty. For States depositing their instruments of ratification or accession after the 180-day period, negotiation of such agreements shall commence not later than the date of such deposit. Such agreements shall enter into force not later than eighteen months after the date of initiation of negotiations.
 
 **Article IV**
 
-1.    Nothing in this Treaty shall be interpreted as affecting the inalienable right of all the Parties to the Treaty to develop research, production and use of nuclear energy for peaceful purposes without discrimination and in conformity with Articles I and II of this Treaty.
+1.     Nothing in this Treaty shall be interpreted as affecting the inalienable right of all the Parties to the Treaty to develop research, production and use of nuclear energy for peaceful purposes without discrimination and in conformity with Articles I and II of this Treaty.
 
-2.    All the Parties to the Treaty undertake to facilitate, and have the right to participate in, the fullest possible exchange of equipment, materials and scientific and technological information for the peaceful uses of nuclear energy. Parties to the Treaty in a position to do so shall also co‑operate in contributing alone or together with other States or international organizations to the further development of the applications of nuclear energy for peaceful purposes, especially in the territories of non‑nuclear‑weapon States Party to the Treaty, with due consideration for the needs of the developing areas of the world. 
+2.     All the Parties to the Treaty undertake to facilitate, and have the right to participate in, the fullest possible exchange of equipment, materials and scientific and technological information for the peaceful uses of nuclear energy. Parties to the Treaty in a position to do so shall also co-operate in contributing alone or together with other States or international organizations to the further development of the applications of nuclear energy for peaceful purposes, especially in the territories of non-nuclear-weapon States Party to the Treaty, with due consideration for the needs of the developing areas of the world. 
 
 **Article V**
 
-Each Party to the Treaty undertakes to take appropriate measures to ensure that, in accordance with this Treaty, under appropriate international observation and through appropriate international procedures, potential benefits from any peaceful applications of nuclear explosions will be made available to non‑nuclear‑weapon States Party to the Treaty on a non‑discriminatory basis and that the charge to such Parties for the explosive devices used will be as low as possible and exclude any charge for research and development. Non‑nuclear‑weapon States Party to the Treaty shall be able to obtain such benefits, pursuant to a special international agreement or agreements, through an appropriate international body with adequate representation of non‑nuclear‑weapon States. Negotiations on this subject shall commence as soon as possible after the Treaty enters into force. Non‑nuclear‑weapon States Party to the Treaty so desiring may also obtain such benefits pursuant to bilateral agreements.
+Each Party to the Treaty undertakes to take appropriate measures to ensure that, in accordance with this Treaty, under appropriate international observation and through appropriate international procedures, potential benefits from any peaceful applications of nuclear explosions will be made available to non-nuclear-weapon States Party to the Treaty on a non-discriminatory basis and that the charge to such Parties for the explosive devices used will be as low as possible and exclude any charge for research and development. Non-nuclear-weapon States Party to the Treaty shall be able to obtain such benefits, pursuant to a special international agreement or agreements, through an appropriate international body with adequate representation of non-nuclear-weapon States. Negotiations on this subject shall commence as soon as possible after the Treaty enters into force. Non-nuclear-weapon States Party to the Treaty so desiring may also obtain such benefits pursuant to bilateral agreements.
 
 **Article VI**
 
@@ -2374,31 +2374,31 @@ Nothing in this Treaty affects the right of any group of States to conclude regi
 
 **Article VIII**
 
-1.    Any Party to the Treaty may propose amendments to this Treaty. The text of any proposed amendment shall be submitted to the Depositary Governments which shall circulate it to all Parties to the Treaty. Thereupon, if requested to do so by one‑third or more of the Parties to the Treaty, the Depositary Governments shall convene a conference, to which they shall invite all the Parties to the Treaty, to consider such an amendment.
+1.     Any Party to the Treaty may propose amendments to this Treaty. The text of any proposed amendment shall be submitted to the Depositary Governments which shall circulate it to all Parties to the Treaty. Thereupon, if requested to do so by one-third or more of the Parties to the Treaty, the Depositary Governments shall convene a conference, to which they shall invite all the Parties to the Treaty, to consider such an amendment.
 
-2.    Any amendment to this Treaty must be approved by a majority of the votes of all the Parties to the Treaty, including the votes of all nuclear‑weapon States Party to the Treaty and all other Parties which, on the date the amendment is circulated, are members of the Board of Governors of the International Atomic Energy Agency. The amendment shall enter into force for each Party that deposits its instrument of ratification of the amendment upon the deposit of such instruments of ratification by a majority of all the Parties, including the instruments of ratification of all nuclear‑weapon States Party to the Treaty and all other Parties which, on the date the amendment is circulated, are members of the Board of Governors of the International Atomic Energy Agency. Thereafter, it shall enter into force for any other Party upon the deposit of its instrument of ratification of the amendment.
+2.     Any amendment to this Treaty must be approved by a majority of the votes of all the Parties to the Treaty, including the votes of all nuclear-weapon States Party to the Treaty and all other Parties which, on the date the amendment is circulated, are members of the Board of Governors of the International Atomic Energy Agency. The amendment shall enter into force for each Party that deposits its instrument of ratification of the amendment upon the deposit of such instruments of ratification by a majority of all the Parties, including the instruments of ratification of all nuclear-weapon States Party to the Treaty and all other Parties which, on the date the amendment is circulated, are members of the Board of Governors of the International Atomic Energy Agency. Thereafter, it shall enter into force for any other Party upon the deposit of its instrument of ratification of the amendment.
 
-3.    Five years after the entry into force of this Treaty, a conference of Parties to the Treaty shall be held in Geneva, Switzerland, in order to review the operation of this Treaty with a view to assuring that the purposes of the Preamble and the provisions of the Treaty are being realised. At intervals of five years thereafter, a majority of the Parties to the Treaty may obtain, by submitting a proposal to this effect to the Depositary Governments, the convening of further conferences with the same objective of reviewing the operation of the Treaty.
+3.     Five years after the entry into force of this Treaty, a conference of Parties to the Treaty shall be held in Geneva, Switzerland, in order to review the operation of this Treaty with a view to assuring that the purposes of the Preamble and the provisions of the Treaty are being realised. At intervals of five years thereafter, a majority of the Parties to the Treaty may obtain, by submitting a proposal to this effect to the Depositary Governments, the convening of further conferences with the same objective of reviewing the operation of the Treaty.
 
 **Article IX**
 
-1.    This Treaty shall be open to all States for signature. Any State which does not sign the Treaty before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
+1.     This Treaty shall be open to all States for signature. Any State which does not sign the Treaty before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
 
-2.    This Treaty shall be subject to ratification by signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the United Kingdom of Great Britain and Northern Ireland, the Union of Soviet Socialist Republics and the United States of America, which are hereby designated the Depositary Governments.
+2.     This Treaty shall be subject to ratification by signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the United Kingdom of Great Britain and Northern Ireland, the Union   of Soviet Socialist Republics and the United States of America, which are hereby designated the Depositary Governments.
 
-3.    This Treaty shall enter into force after its ratification by the States, the Governments of which are designated Depositaries of the Treaty, and forty other States signatory to this Treaty and the deposit of their instruments of ratification. For the purposes of this Treaty, a nuclear‑weapon State is one which has manufactured and exploded a nuclear weapon or other nuclear explosive device prior to 1 January, 1967.
+3.     This Treaty shall enter into force after its ratification by the States, the Governments of which are designated Depositaries of the Treaty, and forty other States signatory to this Treaty and the deposit of their instruments of ratification. For the purposes of this Treaty, a nuclear-weapon State is one which has manufactured and exploded a nuclear weapon or other nuclear explosive device prior to 1 January, 1967.
 
-4.    For States whose instruments of ratification or accession are deposited subsequent to the entry into force of this Treaty, it shall enter into force on the date of the deposit of their instruments of ratification or accession. 
+4.     For States whose instruments of ratification or accession are deposited subsequent to the entry into force of this Treaty, it shall enter into force on the date of the deposit of their instruments of ratification or accession. 
 
-5.    The Depositary Governments shall promptly inform all signatory and acceding States of the date of each signature, the date of deposit of each instrument of ratification or of accession, the date of the entry into force of this Treaty, and the date of receipt of any requests for convening a conference or other notices.
+5.     The Depositary Governments shall promptly inform all signatory and acceding States of the date of each signature, the date of deposit of each instrument of ratification or of accession, the date of the entry into force of this Treaty, and the date of receipt of any requests for convening a conference or other notices.
 
-6.    This Treaty shall be registered by the Depositary Governments pursuant to Article 102 of the Charter of the United Nations.
+6.     This Treaty shall be registered by the Depositary Governments pursuant to Article 102 of the Charter of the United Nations.
 
 **Article X**
 
-1.    Each Party shall in exercising its national sovereignty have the right to withdraw from the Treaty if it decides that extraordinary events, related to the subject matter of this Treaty, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal to all other Parties to the Treaty and to the United Nations Security Council three months in advance. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.
+1.     Each Party shall in exercising its national sovereignty have the right to withdraw from the Treaty if it decides that extraordinary events, related to the subject matter of this Treaty, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal to all other Parties to the Treaty and to the United Nations Security Council three months in advance. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.
 
-2.    Twenty‑five years after the entry into force of the Treaty, a conference shall be convened to decide whether the Treaty shall continue in force indefinitely, or shall be extended for an additional fixed period or periods. This decision shall be taken by a majority of the Parties to the Treaty.
+2.     Twenty-five years after the entry into force of the Treaty, a conference shall be convened to decide whether the Treaty shall continue in force indefinitely, or shall be extended for an additional fixed period or periods. This decision shall be taken by a majority of the Parties to the Treaty.
 
 **Article XI**
 
@@ -2406,15 +2406,15 @@ This Treaty, the English, Russian, French, Spanish and Chinese texts of which ar
 
  
 
-# Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons
+# Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons
 
 _Section 4_
 
-WHEREAS   Australia is a Party to the Treaty on the Non‑Proliferation of Nuclear Weapons (hereinafter referred to as “the Treaty”) opened for signature at London, Moscow and Washington on 1 July 1968 and which entered into force on 5 March 1970; 
+WHEREAS   Australia is a Party to the Treaty on the Non-Proliferation of Nuclear Weapons (hereinafter referred to as “the Treaty”) opened for signature at London,   Moscow and Washington on 1 July 1968 and which entered into force on 5 March 1970; 
 
 WHEREAS paragraph 1 of Article III of the Treaty reads as follows: 
 
-“Each non‑nuclear‑weapon State Party to the Treaty undertakes to accept safeguards, as set forth in an agreement to be negotiated and concluded with the International Atomic Energy Agency in accordance with the Statute of the International Atomic Energy Agency and the Agency’s safeguards system, for the exclusive purpose of verification of the fulfilment of its obligations assumed under this Treaty with a view to preventing diversion of nuclear energy from peaceful uses to nuclear weapons or other nuclear explosive devices. Procedures for the safeguards required by this Article shall be followed with respect to source or special fissionable material whether it is being produced, processed or used in any principal nuclear facility or is outside any such facility. The safeguards required by this Article shall be applied on all source or special fissionable material in all peaceful nuclear activities within the territory of such State, under its jurisdiction, or carried out under its control anywhere”;
+“Each non-nuclear-weapon State Party to the Treaty undertakes to accept safeguards, as set forth in an agreement to be negotiated and concluded with the International Atomic Energy Agency in accordance with the Statute of the International Atomic Energy Agency and the Agency’s safeguards system, for the exclusive purpose of verification of the fulfilment of its obligations assumed under this Treaty with a view to preventing diversion of nuclear energy from peaceful uses to nuclear weapons or other nuclear explosive devices. Procedures for the safeguards required by this Article shall be followed with respect to source or special fissionable material whether it is being produced, processed or used in any principal nuclear facility or is outside any such facility. The safeguards required by this Article shall be applied on all source or special fissionable material in all peaceful nuclear activities within the territory of such State, under its jurisdiction, or carried out under its control anywhere”;
 
 RECALLING that pursuant to paragraph 1 of Article IV of the Treaty nothing in the Treaty shall be interpreted as affecting the inalienable right of all the Parties to the Treaty to develop research, production and the use of nuclear energy for peaceful purposes without discrimination and in conformity with Articles I and II of the Treaty; 
 
@@ -2422,7 +2422,7 @@ RECALLING that according to paragraph 2 of Article IV of the Treaty all the Part
 
 WHEREAS it is the desire of Australia and the International Atomic Energy Agency (hereinafter referred to as “the Agency”) to avoid unnecessary duplication with regard to Australia’s accounting and control activities;
 
-WHEREAS the Board of Governors of the Agency (hereinafter referred to as “the Board”) has approved a comprehensive set of model provisions for the structure and contents of agreements between the Agency and States required in connection with the Treaty to be used as the basis for negotiating safeguards agreements between the Agency and non‑nuclear‑weapon States Party to the Treaty;
+WHEREAS the Board of Governors of the Agency (hereinafter referred to as “the Board”) has approved a comprehensive set of model provisions for the structure and contents of agreements between the Agency and States required in connection with the Treaty to be used as the basis for negotiating safeguards agreements between the Agency and non-nuclear-weapon States Party to the Treaty;
 
 WHEREAS the Agency is authorized, pursuant to Article III of its Statute, to conclude such agreements;
 
@@ -2442,11 +2442,11 @@ APPLICATION OF SAFEGUARDS
 
 The Agency shall have the right and the obligation to ensure that safeguards will be applied, in accordance with the terms of this Agreement, on all source or special fissionable material in all peaceful nuclear activities within the territory of Australia, under its jurisdiction or carried out under its control anywhere, for the exclusive purpose of verifying that such material is not diverted to nuclear weapons or other nuclear explosive devices.
 
-CO‑OPERATION BETWEEN AUSTRALIA AND THE AGENCY 
+CO-OPERATION BETWEEN AUSTRALIA AND THE AGENCY 
 
 **Article 3**
 
-Australia and the Agency shall co‑operate to facilitate the implementation of the safeguards provided for in this Agreement.
+Australia and the Agency shall co-operate to facilitate the implementation of the safeguards provided for in this Agreement.
 
 IMPLEMENTATION OF SAFEGUARDS
 
@@ -2454,7 +2454,7 @@ IMPLEMENTATION OF SAFEGUARDS
 
 The safeguards provided for in this Agreement shall be implemented in a manner designed: 
 
-(a)   To avoid hampering the economic and technological development of Australia or international co‑operation in the field of peaceful nuclear activities, including international exchange of nuclear material;
+(a)   To avoid hampering the economic and technological development of Australia or international co-operation in the field of peaceful nuclear activities, including international exchange of nuclear material;
 
 (b)   To avoid undue interference in Australia’s peaceful nuclear activities, and in particular in the operation of facilities; and
 
@@ -2466,13 +2466,13 @@ The safeguards provided for in this Agreement shall be implemented in a manner d
 
 (b)  (i)     The Agency shall not publish or communicate to any State, organization or person any information obtained by it in connection with the implementation of this Agreement, except that specific information relating to the implementation thereof may be given to the Board and to such Agency staff members as require such knowledge by reason of their official duties in connection with safeguards, but only to the extent necessary for the Agency to fulfil its responsibilities in implementing this Agreement. 
 
-     (ii)     Summarized information on nuclear material subject to safeguards under this Agreement may be published upon decision of the Board if Australia agrees thereto.
+      (ii)     Summarized information on nuclear material subject to safeguards under this Agreement may be published upon decision of the Board if Australia agrees thereto.
 
 **Article 6**
 
-(a)   The Agency shall, in implementing safeguards pursuant to this Agreement, take full account of technological developments in the field of safeguards, and shall make every effort to ensure optimum cost‑effectiveness and the application of the principle of safeguarding effectively the flow of nuclear material subject to safeguard under this Agreement by use of instruments and other techniques at certain strategic points to the extent that present or future technology permits.
+(a)   The Agency shall, in implementing safeguards pursuant to this Agreement, take full account of technological developments in the field of safeguards, and shall make every effort to ensure optimum cost-effectiveness and the application of the principle of safeguarding effectively the flow of nuclear material subject to safeguard under this Agreement by use of instruments and other techniques at certain strategic points to the extent that present or future technology permits.
 
-(b)   In order to ensure optimum cost‑effectiveness, use shall be made, for example, of such means as: 
+(b)   In order to ensure optimum cost-effectiveness, use shall be made, for example, of such means as: 
 
                 (i)     Containment as a means of defining material balance areas for accounting purposes; 
 
@@ -2496,7 +2496,7 @@ PROVISION OF INFORMATION TO THE AGENCY
 
 (b)  (i)     The Agency shall require only the minimum amount of information and data consistent with carrying out its responsibilities under this Agreement.
 
-     (ii)     Information pertaining to facilities shall be the minimum necessary for safeguarding nuclear material subject to safeguards under this Agreement.
+      (ii)     Information pertaining to facilities shall be the minimum necessary for safeguarding nuclear material subject to safeguards under this Agreement.
 
 (c)        If Australia so requests, the Agency shall be prepared to examine on premises of Australia design information which Australia regards as being of particular sensitivity. Such information need not be physically transmitted to the Agency provided that it remains readily available for further examination by the Agency on premises of Australia. 
 
@@ -2506,9 +2506,9 @@ AGENCY INSPECTORS
 
 (a)  (i)     The Agency shall secure the consent of Australia to the designation of Agency inspectors to Australia. 
 
-     (ii)     If Australia, either upon proposal of a designation or at any other time after a designation has been made, objects to the designation, the Agency shall propose to Australia an alternative designation or designations.
+      (ii)     If Australia, either upon proposal of a designation or at any other time after a designation has been made, objects to the designation, the Agency shall propose to Australia an alternative designation or designations.
 
-    (iii)     If, as a result of the repeated refusal of Australia to accept the designation of Agency inspectors, inspections to be conducted under this Agreement would be impeded, such refusal shall be considered by the Board, upon referral by the Director General of the Agency (hereinafter referred to as “the Director General”), with a view to its taking appropriate action. 
+     (iii)     If, as a result of the repeated refusal of Australia to accept the designation of Agency inspectors, inspections to be conducted under this Agreement would be impeded, such refusal shall be considered by the Board, upon referral by the Director General of the Agency (hereinafter referred to as “the Director General”), with a view to its taking appropriate action. 
 
 (b)   Australia shall take the necessary steps to ensure that Agency inspectors can effectively discharge their functions under this Agreement. 
 
@@ -2516,7 +2516,7 @@ AGENCY INSPECTORS
 
       (i)     To reduce to a minimum the possible inconvenience and disturbance to the Australian authorities concerned and to the peaceful nuclear activities inspected; and
 
-     (ii)     To ensure protection of industrial secrets or any other confidential information coming to the inspectors’ knowledge. 
+      (ii)     To ensure protection of industrial secrets or any other confidential information coming to the inspectors’ knowledge. 
 
 PRIVILEGES AND IMMUNITIES
 
@@ -2534,17 +2534,17 @@ Safeguards shall terminate on nuclear material upon determination by the Agency 
 
 **Article 12**
 
-<u>Transfer of nuclear material out of Australia</u>
+<u>Transfer of nuclear material out of </u><u>Australia</u>
 
-Australia shall give the Agency notification of intended transfers of nuclear material subject to safeguards under this Agreement out of Australia, in accordance with the provisions set out in Part II of this Agreement. The Agency shall terminate safeguards on nuclear material under this Agreement when the recipient State has assumed responsibility therefor, as provided for in Part II of this Agreement. The Agency shall maintain records indicating each transfer and, where applicable, the re‑application of safeguards to the transferred nuclear material. 
+Australia shall give the Agency notification of intended transfers of nuclear material subject to safeguards under this Agreement out of Australia, in accordance with the provisions set out in Part II of this Agreement. The Agency shall terminate safeguards on nuclear material under this Agreement when the recipient State has assumed responsibility therefor, as provided for in Part II of this Agreement. The Agency shall maintain records indicating each transfer and, where applicable, the re-application of safeguards to the transferred nuclear material. 
 
 **Article 13**
 
-<u>Provisions relating to nuclear material to be used in non‑nuclear activities</u>
+<u>Provisions relating to nuclear material to be used in non-nuclear activities</u>
 
-If   Australia wishes to use nuclear material subject to safeguards under this Agreement in non‑nuclear activities, such as the production of alloys or ceramics, it shall agree with the Agency on the circumstances under which the safeguards on such nuclear material may be terminated.
+If   Australia wishes to use nuclear material subject to safeguards under this Agreement in non-nuclear activities, such as the production of alloys or ceramics, it shall agree with the Agency on the circumstances under which the safeguards on such nuclear material may be terminated.
 
-NON‑APPLICATION OF SAFEGUARDS TO NUCLEAR MATERIAL TO BE USED IN NON‑PEACEFUL ACTIVITIES 
+NON-APPLICATION OF SAFEGUARDS TO NUCLEAR MATERIAL TO BE USED IN NON-PEACEFUL ACTIVITIES 
 
 **Article 14**
 
@@ -2552,9 +2552,9 @@ If   Australia intends to exercise its discretion to use nuclear material which 
 
 (a)   Australia shall inform the Agency of the activity, making it clear: 
 
-                (i)     That the use of the nuclear material in a non‑proscribed military activity will not be in conflict with an undertaking Australia may have given and in respect of which Agency safeguards apply, that the nuclear material will be used only in a peaceful nuclear activity; and 
+                (i)     That the use of the nuclear material in a non-proscribed military activity will not be in conflict with an undertaking Australia may have given and in respect of which Agency safeguards apply, that the nuclear material will be used only in a peaceful nuclear activity; and 
 
-               (ii)     That during the period of non‑application of safeguards the nuclear material will not be used for the production of nuclear weapons or other nuclear explosive devices;
+               (ii)     That during the period of non-application of safeguards the nuclear material will not be used for the production of nuclear weapons or other nuclear explosive devices;
 
 (b)   Australia and the Agency shall make an arrangement so that, only while the nuclear material is in such an activity, the safeguards provided for in this Agreement will not be applied. The arrangement shall identify, to the extent possible, the period or circumstances during which safeguards will not be applied. In any event, the safeguards provided for in this Agreement shall apply again as soon as the nuclear material is reintroduced into a peaceful nuclear activity. The Agency shall be kept informed of the total quantity and composition of such unsafeguarded nuclear material in Australia and of any export of such nuclear material; and 
 
@@ -2578,7 +2578,7 @@ INTERNATIONAL RESPONSIBILITY
 
 Any claim by Australia against the Agency or by the Agency against Australia in respect of any damage resulting from the implementation of safeguards under this Agreement, other than damage arising out of a nuclear incident, shall be settled in accordance with international law.
 
-MEASURES IN RELATION TO VERIFICATION OF NON‑DIVERSION 
+MEASURES IN RELATION TO VERIFICATION OF NON-DIVERSION 
 
 **Article 18**
 
@@ -2692,9 +2692,9 @@ Safeguards under this Agreement shall not apply to material in mining or ore pro
 
 **Article 35**
 
-(a)   When any material containing uranium or thorium which has not reached the stage of the nuclear fuel cycle described in paragraph (c) is directly or indirectly exported to a non‑nuclear‑weapon State, Australia shall inform the Agency of its quantity, composition and destination, unless the material is exported for specifically non‑nuclear purposes; 
+(a)   When any material containing uranium or thorium which has not reached the stage of the nuclear fuel cycle described in paragraph (c) is directly or indirectly exported to a non-nuclear-weapon State, Australia shall inform the Agency of its quantity, composition and destination, unless the material is exported for specifically non-nuclear purposes; 
 
-(b)   When any material containing uranium or thorium which has not reached the stage of the nuclear fuel cycle described in paragraph (c) is imported, Australia shall inform the Agency of its quantity and composition, unless the material is imported for specifically non‑nuclear purposes; and 
+(b)   When any material containing uranium or thorium which has not reached the stage of the nuclear fuel cycle described in paragraph (c) is imported, Australia shall inform the Agency of its quantity and composition, unless the material is imported for specifically non-nuclear purposes; and 
 
 (c)   When any nuclear material of a composition and purity suitable for fuel fabrication or for isotopic enrichment leaves the plant or the process stage in which it has been produced, or when such nuclear material, or any other nuclear material produced at a later stage in the nuclear fuel cycle, is imported into Australia, the nuclear material shall become subject to the other safeguards procedures specified in this Agreement. 
 
@@ -2714,9 +2714,9 @@ At the request of Australia, the Agency shall exempt nuclear material from safeg
 
 (a)   Special fissionable material, when it is used in gram quantities or less as a sensing component in instruments; 
 
-(b)   Nuclear material, when it is used in non‑nuclear activities in accordance with Article 13, if such nuclear material is recoverable; and 
+(b)   Nuclear material, when it is used in non-nuclear activities in accordance with Article 13, if such nuclear material is recoverable; and 
 
-(c)   Plutonium with an isotopic concentration of plutonium‑238 exceeding 80%. 
+(c)   Plutonium with an isotopic concentration of plutonium-238 exceeding 80%. 
 
 **Article 38**
 
@@ -2816,15 +2816,15 @@ The results of the examination of the design information shall be included in th
 
 **Article 48**
 
-<u>Re‑examination of design information</u>
+<u>Re-examination of design information</u>
 
-Design information shall be re‑examined in the light of changes in operating conditions, of developments in safeguards technology or of experience in the application of verification procedures, with a view to modifying the action the Agency has taken pursuant to Article 47.
+Design information shall be re-examined in the light of changes in operating conditions, of developments in safeguards technology or of experience in the application of verification procedures, with a view to modifying the action the Agency has taken pursuant to Article 47.
 
 **Article 49**
 
 <u>Verification of design information</u>
 
-The Agency, in co‑operation with Australia, may send inspectors to facilities to verify the design information provided to the Agency pursuant to Articles 43 to 46, for the purposes stated in Article 47.
+The Agency, in co-operation with Australia, may send inspectors to facilities to verify the design information provided to the Agency pursuant to Articles 43 to 46, for the purposes stated in Article 47.
 
 INFORMATION IN RESPECT OF NUCLEAR MATERIAL OUTSIDE FACILITIES
 
@@ -2946,7 +2946,7 @@ Australia shall report each inventory change, adjustment and correction, either 
 
 **Article 67**
 
-The Agency shall provide Australia with semi‑annual statements of book inventory of nuclear material subject to safeguards under this Agreement, for each material balance area, as based on the inventory change reports for the period covered by each such statement.
+The Agency shall provide Australia with semi-annual statements of book inventory of nuclear material subject to safeguards under this Agreement, for each material balance area, as based on the inventory change reports for the period covered by each such statement.
 
 **Article 68**
 
@@ -3060,7 +3060,7 @@ Within the scope of Article 75, the Agency shall be enabled:
 
 (d)   To arrange to use its own equipment for independent measurement and surveillance, and if so agreed and specified in the Subsidiary Arrangements to arrange to install such equipment;
 
-(e)   To apply its seals and other identifying and tamper‑indicating devices to containments, if so agreed and specified in the Subsidiary Arrangements; and 
+(e)   To apply its seals and other identifying and tamper-indicating devices to containments, if so agreed and specified in the Subsidiary Arrangements; and 
 
 (f)   To make arrangements with Australia for the shipping of samples taken for the Agency’s use.
 
@@ -3098,11 +3098,11 @@ The Agency may carry out one routine inspection per year in respect of facilitie
 
 The number, intensity, duration, timing and mode of routine inspections in respect of facilities with a content or annual throughput of nuclear material exceeding five effective kilograms shall be determined on the basis that in the maximum or limiting case the inspection regime shall be no more intensive than is necessary and sufficient to maintain continuity of knowledge of the flow and inventory of nuclear material, and the maximum routine inspection effort in respect of such facilities shall be determined as follows:
 
-(a)   For reactors and sealed storage installations the maximum total of routine inspection per year shall be determined by allowing one sixth of a man‑year of inspection for each such facility;
+(a)   For reactors and sealed storage installations the maximum total of routine inspection per year shall be determined by allowing one sixth of a man-year of inspection for each such facility;
 
-(b)   For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 305ÖE man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man‑years of inspection; and 
+(b)   For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 305ÖE man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man-years of inspection; and 
 
-(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man‑year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2011C00846/Html/b1f22914-6119-48a7-b193-2466d9818c74_files/image002.gif)E man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
+(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man-year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2007C00270/Html/NuclearNonProSaf87WD02_image002.gif)E man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
 
 Australia and the Agency may agree to amend the figures for the maximum inspection effort specified in this Article, upon determination by the Board that such amendment is reasonable.
 
@@ -3200,7 +3200,7 @@ Nuclear material subject or required to be subject to safeguards under this Agre
 
 The point at which the transfer of responsibility will take place shall be determined in accordance with suitable arrangements to be made by the States concerned. Neither Australia nor any other State shall be deemed to have such responsibility for nuclear material merely by reason of the fact that the nuclear material is in transit on or over its territory or its territorial waters, or that it is being transported on a ship under its flag or in its aircraft. 
 
-<u>Transfers out of Australia</u>
+<u>Transfers out of </u><u>Australia</u>
 
 **Article 93**
 
@@ -3228,9 +3228,9 @@ The notification referred to in Article 93 shall be such as to enable the Agency
 
 **Article 95**
 
-If the nuclear material will not be subject to Agency safeguards in the recipient State, Australia shall make arrangements for the Agency to receive, within three months of the time when the recipient State assumes responsibility for the nuclear material from Australia, confirmation by the recipient State of the transfer.
+If the nuclear material will not be subject to Agency safeguards in the recipient State,  Australia shall make arrangements for the Agency to receive, within three months of the time when the recipient State assumes responsibility for the nuclear material from Australia, confirmation by the recipient State of the transfer.
 
-<u>Transfers into Australia</u>
+<u>Transfers into </u><u>Australia</u>
 
 **Article 96**
 
@@ -3274,7 +3274,7 @@ D.   <u>Batch data</u> means the total weight of each element of nuclear mat
 
 (a)   Grams of contained plutonium;
 
-(b)   Grams of total uranium and grams of contained uranium‑235 plus uranium‑233 for uranium enriched in these isotopes; and 
+(b)   Grams of total uranium and grams of contained uranium-235 plus uranium-233 for uranium enriched in these isotopes; and 
 
 (c)   Kilograms of contained thorium, natural uranium or depleted uranium. 
 
@@ -3284,7 +3284,7 @@ E.    <u>Book inventory</u> of a material balance area means the algebraic
 
 F.    <u>Correction</u> means an entry into an accounting record or a report to rectify an identified mistake or to reflect an improved measurement of a quantity previously entered into the record or report. Each correction must identify the entry to which it pertains.
 
-G.   <u>Effective kilogram</u> means a special unit used in safeguarding nuclear material. The quantity in effective kilograms is obtained by taking: 
+G.    <u>Effective kilogram</u> means a special unit used in safeguarding nuclear material. The quantity in effective kilograms is obtained by taking: 
 
 (a)   For plutonium, its weight in kilograms;
 
@@ -3294,7 +3294,7 @@ G.   <u>Effective kilogram</u> means a special unit used in safeguarding nuc
 
 (d)   For depleted uranium with an enrichment of 0.005 (0.5%) or below, and for thorium, its weight in kilograms multiplied by 0.00005.
 
-H.   <u>Enrichment</u> means the ratio of the combined weight of the isotopes uranium‑233 and uranium‑235 to that of the total uranium in question.
+H.   <u>Enrichment</u> means the ratio of the combined weight of the isotopes uranium-233 and uranium-235 to that of the total uranium in question.
 
 I.     <u>Facility</u> means:
 
@@ -3308,19 +3308,19 @@ J.     <u>Inventory change</u> means an increase or decrease, in terms o
 
            (i)     Import; 
 
-          (ii)     Domestic receipt: receipts from other material balance areas, receipts from a non‑safeguarded (non‑peaceful) activity or receipts at the starting point of safeguards;
+          (ii)     Domestic receipt: receipts from other material balance areas, receipts from a non-safeguarded (non-peaceful) activity or receipts at the starting point of safeguards;
 
-         (iii)     Nuclear production: production of special fissionable material in a reactor; and 
+          (iii)     Nuclear production: production of special fissionable material in a reactor; and 
 
-         (iv)     De‑exemption: re‑application of safeguards on nuclear material previously exempted therefrom on account of its use or quantity. 
+         (iv)     De-exemption: re-application of safeguards on nuclear material previously exempted therefrom on account of its use or quantity. 
 
 (b)   Decreases:
 
            (i)     Export; 
 
-          (ii)     Domestic shipment: shipments to other material balance areas or shipments for a non‑safeguarded (non‑peaceful) activity; 
+          (ii)     Domestic shipment: shipments to other material balance areas or shipments for a non-safeguarded (non-peaceful) activity; 
 
-         (iii)     Nuclear loss: loss of nuclear material due to its transformation into other element(s) or isotope(s) as a result of nuclear reactions; 
+          (iii)     Nuclear loss: loss of nuclear material due to its transformation into other element(s) or isotope(s) as a result of nuclear reactions; 
 
          (iv)     Measured discard: nuclear material which has been measured, or estimated on the basis of measurements, and disposed of in such a way that it is not suitable for further nuclear use; 
 
@@ -3328,11 +3328,11 @@ J.     <u>Inventory change</u> means an increase or decrease, in terms o
 
          (vi)     Exemption: exemption of nuclear material from safeguards on account of its use or quantity; and
 
-        (vii)     Other loss: for example, accidental loss (that is, irretrievable and inadvertent loss of nuclear material as the result of an operational accident) or theft.
+         (vii)     Other loss: for example, accidental loss (that is, irretrievable and inadvertent loss of nuclear material as the result of an operational accident) or theft.
 
 K.   <u>Key measurement point</u> means a location where nuclear material appears in such a form that it may be measured to determine material flow or inventory. Key measurement points thus include, but are not limited to, the inputs and outputs (including measured discards) and storages in material balance areas.
 
-L.    <u>Man‑year of inspection</u> means, for the purposes of Article 81, 300 man‑days of inspection, a man‑day being a day during which a single inspector has access to a facility at any time for a total of not more than eight hours.
+L.    <u>Man-year of inspection</u> means, for the purposes of Article 81, 300 man-days of inspection, a man-day being a day during which a single inspector has access to a facility at any time for a total of not more than eight hours.
 
 M.   <u>Material balance area</u> means an area in or outside of a facility such that:
 
@@ -3372,13 +3372,13 @@ _The States Parties to this Convention,_
 
 _Recognizing_ the right of all States to develop and apply nuclear energy for peaceful purposes and their legitimate interests in the potential benefits to be derived from the peaceful application of nuclear energy, 
 
-_Convinced_ of the need for facilitating international co‑operation in the peaceful application of nuclear energy,
+_Convinced_ of the need for facilitating international co-operation in the peaceful application of nuclear energy,
 
 _Desiring_ to avert the potential dangers posed by the unlawful taking and use of nuclear material, 
 
 _Convinced_ that offences relating to nuclear material are a matter of grave concern and that there is an urgent need to adopt appropriate and effective measures to ensure the prevention, detection and punishment of such offences, 
 
-_Aware of the need for_ international co‑operation to establish, in conformity with the national law of each State Party and with this Convention, effective measures for the physical protection of nuclear material,
+_Aware of the need for_ international co-operation to establish, in conformity with the national law of each State Party and with this Convention, effective measures for the physical protection of nuclear material,
 
 _Convinced_ that this Convention should facilitate the safe transfer of nuclear material,
 
@@ -3392,7 +3392,7 @@ _Have agreed_ as follows:
 
 For the purposes of this Convention: 
 
-(a)   “nuclear material” means plutonium except that with isotopic concentration exceeding 80% in plutonium‑238; uranium‑233; uranium enriched in the isotopes 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore‑residue; any material containing one or more of the foregoing; 
+(a)   “nuclear material” means plutonium except that with isotopic concentration exceeding 80% in plutonium-238; uranium-233; uranium enriched in the isotopes 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore-residue; any material containing one or more of the foregoing; 
 
 (b)   “uranium enriched in the isotope 235 or 233” means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotopes 238 is greater than the ratio of isotopes 235 to the isotope 238 occuring in nature;
 
@@ -3428,23 +3428,23 @@ Each State Party shall take appropriate steps within the framework of its nation
 
 **Article 5**
 
-1.    States Parties shall identify and make known to each other directly or through the International Atomic Energy Agency their central authority and point of contact having responsibility for physical protection of nuclear material and for co‑ordinating recovery and response operations in the event of any unauthorized removal, use or alteration of nuclear material or in the event of credible threat thereof.
+1.    States Parties shall identify and make known to each other directly or through the International Atomic Energy Agency their central authority and point of contact having responsibility for physical protection of nuclear material and for co-ordinating recovery and response operations in the event of any unauthorized removal, use or alteration of nuclear material or in the event of credible threat thereof.
 
-2.    In the case of theft, robbery or any other unlawful taking of nuclear material or of credible threat thereof, States Parties shall, in accordance with their national law, provide co‑operation and assistance to the maximum feasible extent in the recovery and protection of such material to any State that so requests. In particular:
+2.    In the case of theft, robbery or any other unlawful taking of nuclear material or of credible threat thereof, States Parties shall, in accordance with their national law, provide co-operation and assistance to the maximum feasible extent in the recovery and protection of such material to any State that so requests. In particular:
 
 (a)   a State Party shall take appropriate steps to inform as soon as possible other States, which appear to it to be concerned, of any theft, robbery or other unlawful taking of nuclear material or credible threat thereof and to inform, where appropriate, international organizations;
 
 (b)   as appropriate, the States Parties concerned shall exchange information with each other or international organizations with a view to protecting threatened nuclear material, verifying the integrity of the shipping container, or recovering unlawfully taken nuclear material and shall:
 
-                (i)     co‑ordinate their efforts through diplomatic and other agreed channels; 
+                (i)     co-ordinate their efforts through diplomatic and other agreed channels; 
 
                (ii)     render assistance, if requested;
 
-              (iii)     ensure the return of nuclear material stolen or missing as a consequence of the above‑mentioned events.
+              (iii)     ensure the return of nuclear material stolen or missing as a consequence of the above-mentioned events.
 
-The means of implementation of this co‑operation shall be determined by the States Parties concerned.
+The means of implementation of this co-operation shall be determined by the States Parties concerned.
 
-3.    States Parties shall co‑operate and consult as appropriate, with each other directly or through international organizations, with a view to obtaining guidance on the design, maintenance and improvement of systems of physical protection of nuclear material in international transport.
+3.    States Parties shall co-operate and consult as appropriate, with each other directly or through international organizations, with a view to obtaining guidance on the design, maintenance and improvement of systems of physical protection of nuclear material in international transport.
 
 **Article 6**
 
@@ -3468,7 +3468,7 @@ The means of implementation of this co‑operation shall be determined by the St
 
                 (i)     to use nuclear material to cause death or serious injury to any person or substantial property damage; or
 
-               (ii)     to commit an offence described in sub‑paragraph (b) in order to compel a natural or legal person, international organization or State to do or to refrain from doing any act;
+               (ii)     to commit an offence described in sub-paragraph (b) in order to compel a natural or legal person, international organization or State to do or to refrain from doing any act;
 
 (f)   an attempt to commit any offence described in paragraphs (a), (b) or (c); and 
 
@@ -3542,7 +3542,7 @@ The Annexes constitute an integral part of this Convention.
 
 1.    In the event of a dispute between two or more States Parties concerning the interpretation or application of this Convention, such States Parties shall consult with a view to the settlement of the dispute by negotiation, or by any other peaceful means of settling disputes acceptable to all parties to the dispute. 
 
-2.    Any dispute of this character which cannot be settled in the manner prescribed in paragraph 1 shall, at the request of any party to such dispute, be submitted to arbitration or referred to the International Court of Justice for decision. Where a dispute is submitted to arbitration, if, within six months from the date of the request, the parties to the dispute are unable to agree on the organization of the arbitration, a party may request the President of the International Court of Justice or the Secretary‑General of the United Nations to appoint one or more arbitrators. In case of conflicting requests by the parties to the dispute, the request to the Secretary‑General of the United Nations shall have priority.
+2.    Any dispute of this character which cannot be settled in the manner prescribed in paragraph 1 shall, at the request of any party to such dispute, be submitted to arbitration or referred to the International Court of Justice for decision. Where a dispute is submitted to arbitration, if, within six months from the date of the request, the parties to the dispute are unable to agree on the organization of the arbitration, a party may request the President of the International Court of Justice or the Secretary-General of the United Nations to appoint one or more arbitrators. In case of conflicting requests by the parties to the dispute, the request to the Secretary-General of the United Nations shall have priority.
 
 3.    Each State Party may at the time of signature, ratification, acceptance or approval of this Convention or accession thereto declare that it does not consider itself bound by either or both of the dispute settlement procedures provided for in paragraph 2\. The other States Parties shall not be bound by a dispute settlement procedure provided for in paragraph 2, with respect to a State Party which has made a reservation to that procedure. 
 
@@ -3556,7 +3556,7 @@ The Annexes constitute an integral part of this Convention.
 
 3.    After its entry into force, this Convention will be open for accession by all States.
 
-4.  (a)  This Convention shall be open for signature or accession by international organizations and regional organizations of an integration or other nature, provided that any such organization is constituted by sovereign States and has competence in respect of the negotiation, conclusion and application of international agreements in matters covered by this Convention.
+4.   (a)  This Convention shall be open for signature or accession by international organizations and regional organizations of an integration or other nature, provided that any such organization is constituted by sovereign States and has competence in respect of the negotiation, conclusion and application of international agreements in matters covered by this Convention.
 
      (b)  In matters within their competence, such organizations shall, on their own behalf, exercise the rights and fulfil the responsibilities which this Convention attributes to States Parties.
 
@@ -3574,7 +3574,7 @@ The Annexes constitute an integral part of this Convention.
 
 **Article 20**
 
-1.    Without prejudice to article 16 a State Party may propose amendments to this Convention. The proposed amendment shall be submitted to the depositary who shall circulate it immediately to all States Parties. If a majority of States Parties request the depositary to convene a conference to consider the proposed amendments, the depositary shall invite all States Parties to attend such a conference to begin not sooner than thirty days after the invitations are issued. Any amendment adopted at the conference by a two‑thirds majority of all States Parties shall be promptly circulated by the depositary to all States Parties.
+1.    Without prejudice to article 16 a State Party may propose amendments to this Convention. The proposed amendment shall be submitted to the depositary who shall circulate it immediately to all States Parties. If a majority of States Parties request the depositary to convene a conference to consider the proposed amendments, the depositary shall invite all States Parties to attend such a conference to begin not sooner than thirty days after the invitations are issued. Any amendment adopted at the conference by a two-thirds majority of all States Parties shall be promptly circulated by the depositary to all States Parties.
 
 2.    The amendment shall enter into force for each State Party that deposits its instrument of ratification, acceptance or approval of the amendment on the thirtieth day after the date on which two thirds of the States Parties have deposited their instruments of ratification, acceptance or approval with the depositary. Thereafter, the amendment shall enter into force for any other State Party on the day on which that State Party deposits its instrument of ratification, acceptance or approval of the amendment. 
 
@@ -3616,7 +3616,7 @@ Levels of Physical Protection to be Applied in International Transport of Nuclea
 
         (a)   For Category III materials, storage within an area to which access is controlled;
 
-       (b)   For Category II materials, storage within an area under constant surveillance by guards or electronic devices, surrounded by a physical barrier with a limited number of points of entry under appropriate control or any area with an equivalent level of physical protection;
+        (b)   For Category II materials, storage within an area under constant surveillance by guards or electronic devices, surrounded by a physical barrier with a limited number of points of entry under appropriate control or any area with an equivalent level of physical protection;
 
         (c)   For Category I material, storage within a protected area as defined for Category II above, to which, in addition, access is restricted to persons whose trustworthiness has been determined, and which is under surveillance by guards who are in close communication with appropriate response forces. Specific measures taken in this context should have as their object the detection and prevention of any assault, unauthorized access or unauthorized removal of material.
 
@@ -3624,9 +3624,9 @@ Levels of Physical Protection to be Applied in International Transport of Nuclea
 
         (a)   For Category II and III materials, transportation shall take place under special precautions including prior arrangement among sender, receiver, and carrier, and prior agreement between natural or legal persons subject to the jurisdiction and regulation of exporting and importing States, specifying time, place and procedures for transferring transport responsibility;
 
-       (b)   For Category I materials, transportation shall take place under special precautions identified above for transportation of Category II and III materials, and in addition, under constant surveillance by escorts and under conditions which assure close communication with appropriate response forces; 
+        (b)   For Category I materials, transportation shall take place under special precautions identified above for transportation of Category II and III materials, and in addition, under constant surveillance by escorts and under conditions which assure close communication with appropriate response forces; 
 
-        (c)   For natural uranium other than in the form of ore or ore‑residue, transportation protection for quantities exceeding 500 kilograms U shall include advance notification of shipment specifying mode of transport, expected time of arrival and confirmation of receipt of shipment.
+        (c)   For natural uranium other than in the form of ore or ore-residue, transportation protection for quantities exceeding 500 kilograms U shall include advance notification of shipment specifying mode of transport, expected time of arrival and confirmation of receipt of shipment.
 
 ANNEX II
 
@@ -3699,7 +3699,7 @@ TABLE: CATEGORIZATION OF NUCLEAR MATERIAL
 </tr>
 <tr>
   <td colspan="2">
-    <div>2\. Uranium‑235</div>
+    <div>2\. Uranium-235</div>
   </td>
   <td colspan="2">
     <div>Unirradiated <sup>b</sup></div>
@@ -3754,7 +3754,7 @@ enriched above natural, but less than 10% 235U</div>
 </tr>
 <tr>
   <td colspan="2">
-    <div>3\. Uranium‑233</div>
+    <div>3\. Uranium-233</div>
   </td>
   <td colspan="2">
     <div>Unirradiated <sup>b</sup></div>
@@ -3780,7 +3780,7 @@ enriched above natural, but less than 10% 235U</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>Depleted or natural uranium, thorium or low‑enriched fuel (less than 10% fissile content) <sup>d e</sup></div>
+    <div>Depleted or natural uranium, thorium or low-enriched fuel (less than 10% fissile content) <sup>d e</sup></div>
   </td>
   <td>
     <div></div>
@@ -3797,7 +3797,7 @@ enriched above natural, but less than 10% 235U</div>
   <td></td>
 </tr></table>
 
-a        All plutonium except that with isotopic concentration exceeding 80% in plutonium‑238.
+a        All plutonium except that with isotopic concentration exceeding 80% in plutonium-238.
 
 b       Material not irradiated in a reactor or material irradiated in a reactor but with a radiation level equal to or less than 100 rads/hour at one metre unshielded.
 
@@ -3836,7 +3836,7 @@ Title</i></div>
 </thead>
 <tr>
   <td>
-    <div>Agreement between the Government of Australia and the Government of Canada for Co‑operation in the Peaceful Uses of Atomic Energy</div>
+    <div>Agreement between the Government of Australia and the Government of Canada for Co-operation in the Peaceful Uses of Atomic Energy</div>
   </td>
   <td colspan="3">
     <div></div>
@@ -3847,7 +3847,7 @@ Title</i></div>
 </tr>
 <tr>
   <td>
-    <div>Agreement between the Government of Australia and the Government of Japan for Co ‑operation in the Peaceful Uses of Atomic Energy</div>
+    <div>Agreement between the Government of Australia and the Government of Japan for Co-operation in the Peaceful Uses of Atomic Energy</div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3869,7 +3869,7 @@ Title</i></div>
 </tr>
 <tr>
   <td>
-    <div>Agreement between the Government of Australia and the Government of the Philippines on co‑operation in Peaceful Uses of Nuclear Energy and the Transfer of Nuclear Material</div>
+    <div>Agreement between the Government of Australia and the Government of the Philippines on co-operation in Peaceful Uses of Nuclear Energy and the Transfer of Nuclear Material</div>
   </td>
   <td colspan="3">
     <div></div>
@@ -3880,7 +3880,7 @@ Title</i></div>
 </tr>
 <tr>
   <td>
-    <div>Agreement between the Government of Australia and the Government of the Republic of Korea concerning Co‑operation in Peaceful Uses of Nuclear Energy and the Transfer of Nuclear Material</div>
+    <div>Agreement between the Government of Australia and the Government of the Republic of Korea concerning Co-operation in Peaceful Uses of Nuclear Energy and the Transfer of Nuclear Material</div>
   </td>
   <td colspan="3">
     <div></div>
@@ -3968,7 +3968,7 @@ Title</i></div>
 </tr>
 <tr>
   <td>
-    <div>Agreement between the Government of Australia and the Government of Japan for Co ‑operation in the Peaceful Uses of Nuclear Energy</div>
+    <div>Agreement between the Government of Australia and the Government of Japan for Co-operation in the Peaceful Uses of Nuclear Energy</div>
   </td>
   <td colspan="3">
     <div></div>
@@ -4002,7 +4002,7 @@ Title</i></div>
 
 ### Note 1
 
-The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ as shown in this compilation comprises Act No. 8, 1987 amended as indicated in the Tables below.
+The _Nuclear Non-Proliferation (Safeguards) Act 1987_ as shown in this compilation comprises Act No. 8, 1987 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 31 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -4040,7 +4040,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Nuclear Non‑Proliferation (Safeguards) Act 1987</div>
+    <div>Nuclear Non-Proliferation (Safeguards) Act 1987</div>
   </td>
   <td>
     <div>8, 1987</div>
@@ -4148,7 +4148,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Nuclear Non‑Proliferation (Safeguards) Amendment Act 1993</div>
+    <div>Nuclear Non-Proliferation (Safeguards) Amendment Act 1993</div>
   </td>
   <td>
     <div>33, 1993</div>
@@ -4305,7 +4305,7 @@ Remainder: 24 May 2001</div>
   </tr>
   <tr>
     <td>
-      <div>Non‑Proliferation Legislation Amendment Act 2003</div>
+      <div>Non-Proliferation Legislation Amendment Act 2003</div>
     </td>
     <td>
       <div>132, 2003</div>
@@ -4323,7 +4323,7 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Non‑Proliferation Legislation Amendment Act 2007</div>
+      <div>Non-Proliferation Legislation Amendment Act 2007</div>
     </td>
     <td>
       <div>50, 2007</div>
@@ -4340,32 +4340,15 @@ Remainder: Royal Assent</div>
       <div>Sch. 1 (items 53,54) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 875–877) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
-_(a)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
+_(a)_     The _Nuclear Non-Proliferation (Safeguards) Act 1987_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
 
                               (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
 
-_(b)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by the _Evidence (Transitional Provisions and Consequential Amendments) Act 1995_, subsections 2(1) and (13) of which provide as follows:
+_(b)_    The _Nuclear Non-Proliferation (Safeguards) Act 1987_ was amended by the _Evidence (Transitional Provisions and Consequential Amendments) Act 1995_, subsections 2(1) and (13) of which provide as follows:
 
                  (1)   This Part and Parts 2 and 3 commence on the day on which this Act receives the Royal Assent.
 
@@ -4377,17 +4360,17 @@ _(b)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
 
  Sections 153 and 155 commenced on 18 April 1995.
 
-_(c)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by Schedule 4 (item 114) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(c)_     The _Nuclear Non-Proliferation (Safeguards) Act 1987_ was amended by Schedule 4 (item 114) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_ The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by Schedule 1 (items 15–29) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_ The _Nuclear Non-Proliferation (Safeguards) Act 1987_ was amended by Schedule 1 (items 15–29) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   If the day on which the first supplementary IAEA agreement is signed on behalf of Australia is a later day than the day on which this Act receives the Royal Assent, the amendments of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ made by this Act commence on that later day.
+                 (2)   If the day on which the first supplementary IAEA agreement is signed on behalf of Australia is a later day than the day on which this Act receives the Royal Assent, the amendments of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ made by this Act commence on that later day.
 
  In pursuance of subsection 2(2), the amendments commenced on Royal Assent.
 
-_(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by Schedule 1 (items 693–695) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Nuclear Non-Proliferation (Safeguards) Act 1987_ was amended by Schedule 1 (items 693–695) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -5043,9 +5026,9 @@ _(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
 
 ### Note 2
 
-_Non‑Proliferation Legislation Amendment Act 2007 (No. 50, 2007)_
+_Non-Proliferation Legislation Amendment Act 2007 (No. 50, 2007)_
 
-The following amendment commences on the day on which the amendments done at Vienna on 8 July 2005 to the Convention on the Physical Protection of Nuclear Material take effect for the purposes of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ in accordance with paragraph 4(3)(b) of that Act.  However, the amendment may not commence, _see_ subsection 2(1) (item 3):
+The following amendment commences on the day on which the amendments done at Vienna on 8 July 2005 to the Convention on the Physical Protection of Nuclear Material take effect for the purposes of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ in accordance with paragraph 4(3)(b) of that Act.  However, the amendment may not commence, _see_ subsection 2(1) (item 3):
 
 ## Schedule 1
 
@@ -5055,31 +5038,7 @@ Repeal the definition, substitute:
 
                     <a name="nuclear-facil"></a>**_nuclear facility_** has the same meaning as in the Physical Protection Convention.
 
-As at 20 October 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 875  Subsection 50(1)
-
-Omit “(1)”.
-
-## 876  At the end of subsection 50(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 877  Subsections 50(2) to (8)
-
-Repeal the subsections.
-
-As at 20 October 2011 the amendments are not incorporated in this compilation.
+As at 16 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5091,11 +5050,11 @@ _Crimes At Sea Act 2000 (No. 13, 2000)_
 
 ## 11  Application of amendments
 
-(1)       The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
+(1)        The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
 
-(2)       Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
+(2)        Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
 
-(3)       For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
+(3)        For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
 
 * * *
 
@@ -5103,9 +5062,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -5115,9 +5074,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -5125,9 +5084,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5152,53 +5111,53 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 * * *
 
-_Non‑Proliferation Legislation Amendment Act 2003 (No. 132, 2003)_
+_Non-Proliferation Legislation Amendment Act 2003 (No. 132, 2003)_
 
 ## Schedule 1
 
 ## 2  Saving of declarations of associated material
 
-(1)       This item applies to a declaration that:
+(1)        This item applies to a declaration that:
 
-                     (a)  declared a class of material to be associated material for the purposes of the definition of **_associated material_** in subsection 4(1) of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_; and
+                     (a)  declared a class of material to be associated material for the purposes of the definition of **_associated material_** in subsection 4(1) of the _Nuclear Non-Proliferation (Safeguards) Act 1987_; and
 
                      (b)  was in force immediately before the commencement of this Schedule.
 
-(2)       The amendment of paragraph (a) of that definition made by this Schedule does not affect the validity of the declaration at and after that commencement, so far as the declaration declared a class of material specially suited for use in the operation of a nuclear reactor to be associated material.
+(2)        The amendment of paragraph (a) of that definition made by this Schedule does not affect the validity of the declaration at and after that commencement, so far as the declaration declared a class of material specially suited for use in the operation of a nuclear reactor to be associated material.
 
 ## 22  Application of new offence
 
-Section 25A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule, whether the authorisation to deal with the associated technology was given before or after that commencement.
+Section 25A of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule, whether the authorisation to deal with the associated technology was given before or after that commencement.
 
 ## 27  Application of new offence
 
-Section 26A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule.
+Section 26A of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule.
 
 ## 33  Application of new offence
 
-(1)       Section 28A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to causing work to be carried out after the commencement of this Schedule, even if the work started to be carried out (as a result of that cause) before that commencement.
+(1)        Section 28A of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ applies to causing work to be carried out after the commencement of this Schedule, even if the work started to be carried out (as a result of that cause) before that commencement.
 
-(2)       However, causing work to be carried out in the 6 months starting on the commencement of this Schedule is not an offence against that section if the work started to be carried out (as a result of that cause) before that commencement.
+(2)        However, causing work to be carried out in the 6 months starting on the commencement of this Schedule is not an offence against that section if the work started to be carried out (as a result of that cause) before that commencement.
 
 ## 46  Application of new offence
 
-Section 31A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule, whether the permit described in paragraph 31A(1)(b) of that Act was granted before or after that commencement.
+Section 31A of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule, whether the permit described in paragraph 31A(1)(b) of that Act was granted before or after that commencement.
 
-## 60  Saving of Register
+## 60  Saving of Register
 
-The amendments of section 69 of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ made by this Schedule do not affect the validity at or after the commencement of this Schedule of the Register as it was in force immediately before that commencement.
+The amendments of section 69 of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ made by this Schedule do not affect the validity at or after the commencement of this Schedule of the Register as it was in force immediately before that commencement.
 
 ## 64  Saving of delegations
 
-The amendment of subsection 72(4) of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ made by this Schedule does not affect the validity at or after the commencement of this Schedule of a delegation described in that subsection that was in force immediately before that commencement.
+The amendment of subsection 72(4) of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ made by this Schedule does not affect the validity at or after the commencement of this Schedule of a delegation described in that subsection that was in force immediately before that commencement.
 
 ## 70  Saving of regulations
 
-The amendments of section 74 of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ made by this Schedule do not affect the validity at or after the commencement of this Schedule of any regulations in force under that Act immediately before that commencement.
+The amendments of section 74 of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ made by this Schedule do not affect the validity at or after the commencement of this Schedule of any regulations in force under that Act immediately before that commencement.
 
 * * *
 
-_Non‑Proliferation Legislation Amendment Act 2007 (No. 50, 2007)_
+_Non-Proliferation Legislation Amendment Act 2007 (No. 50, 2007)_
 
 ## Schedule 1
 
@@ -5208,24 +5167,8 @@ The amendment made by item 19 applies in relation to communications made after
 
 ## 54  Application—decommissioning of facility without permit
 
-(1)       Section 29A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to causing work to be carried out after the commencement of this item, even if the work started to be carried out (as a result of that cause) before that commencement.
+(1)        Section 29A of the _Nuclear Non-Proliferation (Safeguards) Act 1987_ applies to causing work to be carried out after the commencement of this item, even if the work started to be carried out (as a result of that cause) before that commencement.
 
-(2)       However, causing work to be carried out in the period of 6 months starting on the day of c39, 140, 145mmencement of this item is not an offence against that section if the work started to be carried out (as a result of that cause) before that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        However, causing work to be carried out in the period of 6 months starting on the day of commencement of this item is not an offence against that section if the work started to be carried out (as a result of that cause) before that commencement.
 
  
