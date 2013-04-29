@@ -1,188 +1,190 @@
-![](http://www.comlaw.gov.au/Details/C2005C00716/Html/D22AA47DA78A3D74CA2570DD001315D5/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D5F101CB60B9639FCA256FC1001E0626/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Australian National University Act 1991
+# <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Australian</st1:placename> <st1:placename>National</st1:placename> <st1:placetype>University</st1:placetype></st1:place> Act 1991<o:p></o:p>
 
-**Act No. 131 of 1991 as amended**
+**Act No. 131 of 1991 as amended<o:p></o:p>**
 
-This compilation was prepared on 20 December 2005
-taking into account amendments up to Act No. 143 of 2005
+This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="4" month="3">4 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement
+[2](#2).            Commencement<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-**Part 2—The Australian National University** 
+**Part 2—The Australian National University<span style="mso-tab-count: 1">                                                           </span>** 
 
-    **Division 1—Establishment of the University**
+    **Division 1—Establishment of the University<span style="mso-tab-count: 1">                                                   </span>**
 
-[4](#4).            Establishment of the University
+[4](#4).            Establishment of the University<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[4A](#4A).         Modification of the _Commonwealth Authorities and Companies Act 1997_
+[4A](#4A).         Modification of the _Commonwealth Authorities and Companies Act 1997_<span style="mso-tab-count: 1">             </span>
 
-[4B](#4B).         University’s financial year starts on 1 January
+[4B](#4B).         University’s financial year starts on 1 January<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[5](#5).            Functions of the University
+[5](#5).            Functions of the University<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[6](#6).            Powers of the University
+[6](#6).            Powers of the University<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[7](#7).            Organisation of the University
+[7](#7).            Organisation of the University<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-    **Division 2—The Council**
+    **Division 2—The Council<span style="mso-tab-count: 1">                                                                                             </span>**
 
-[8](#8).            The Council
+[8](#8).            The Council<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[9](#9).            Powers of Council
+[9](#9).            Powers of Council<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[10](#10).          Constitution of Council
+[10](#10).          Constitution of Council<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[11](#11).          Qualifications for membership of Council
+[11](#11).          Qualifications for membership of Council<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[12](#12).          Meetings of Council
+[12](#12).          Meetings of Council<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[13](#13).          Resolutions without meetings
+[13](#13).          Resolutions without meetings<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[15](#15).          Vacation of office
+[15](#15).          Vacation of office<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[16](#16).          Casual vacancies
+[16](#16).          Casual vacancies<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[17](#17).          Delegation to member of Council etc 
+[17](#17).          Delegation to member of Council etc <span style="mso-tab-count: 1 dotted">                                                </span>
 
-[18](#18).          Delegation to committee of Council
+[18](#18).          Delegation to committee of Council<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[18A](#18A).       Member to act solely in interest of University
+[18A](#18A).       Member to act solely in interest of University<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[18B](#18B).       Member to exercise care and diligence
+[18B](#18B).       Member to exercise care and diligence<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[18C](#18C).       Member to act in good faith
+[18C](#18C).       Member to act in good faith<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[18D](#18D).       Member not to use position improperly
+[18D](#18D).       Member not to use position improperly<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[18E](#18E).        Member not to use information improperly
+[18E](#18E).        Member not to use information improperly<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[18F](#18F).        Material personal interest
+[18F](#18F).        Material personal interest<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[18G](#18G).       Application of _Commonwealth Authorities and Companies Act 1997_
+[18G](#18G).       Application of _Commonwealth Authorities and Companies Act 1997_<span style="mso-tab-count: 1 dotted"> </span>
 
-    **Division 3—The Institute of Advanced Studies**
+    **Division 3—The Institute of Advanced Studies<span style="mso-tab-count: 1">                                           </span>**
 
-[19](#19).          Constitution of the Institute
+[19](#19).          Constitution of the Institute<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-    **Division 5—Convocation**
+    **Division 4—The Board of The Faculties<span style="mso-tab-count: 1">                                                          </span>** 
 
-[30](#30).          Constitution of Convocation
+    **Division 5—Convocation<span style="mso-tab-count: 1">                                                                                          </span>**
 
-[31](#31).          Quorum at meetings of Convocation
+[30](#30).          Constitution of Convocation<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-    **Division 6—Senior officers of the University**
+[31](#31).          Quorum at meetings of Convocation<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[32](#32).          Chancellor
+    **Division 6—Senior officers of the University<span style="mso-tab-count: 1">                                                </span>**
 
-[33](#33).          Pro-Chancellor
+[32](#32).          Chancellor<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[34](#34).          Vice-Chancellor
+[33](#33).          Pro-Chancellor<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[35](#35).          Deputy Vice-Chancellor
+[34](#34).          Vice-Chancellor<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[37](#37).          Acting appointments
+[35](#35).          Deputy Vice-Chancellor<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-    **Division 7—Miscellaneous**
+[37](#37).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[38](#38).          Execution of contracts
+    **Division 7—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[39](#39).          Validity of acts and proceedings
+[38](#38).          Execution of contracts<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[40](#40).          Religious test not to be administered
+[39](#39).          Validity of acts and proceedings<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-**Part 3—Financial matters** 
+[40](#40).          Religious test not to be administered<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-    **Division 1—Fees**
+**Part 3—Financial matters<span style="mso-tab-count: 1">                                                                                                 </span>** 
 
-[41](#41).          Fees
+    **Division 1—Fees<span style="mso-tab-count: 1">                                                                                                           </span>**
 
-    **Division 2—Finances of the University**
+[41](#41).          Fees<span style="mso-tab-count: 1 dotted">                                                                                                    </span>
 
-[43](#43).          Application of fees and other money
+    **Division 2—Finances of the University<span style="mso-tab-count: 1">                                                            </span>**
 
-[44](#44).          Borrowing
+[43](#43).          Application of fees and other money<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[48](#48).          Taxation
+[44](#44).          Borrowing<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-**Part 4—Statutes**
+[48](#48).          Taxation<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[50](#50).          Statutes
+**Part 4—Statutes<span style="mso-tab-count: 1">                                                                                                                     </span>**
 
-[51](#51).          Statutes relating to traffic
+[50](#50).          Statutes<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-[52](#52).          Statutes to be published
+[51](#51).          Statutes relating to traffic<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Part 5—Consequential and transitional provisions** 
+[52](#52).          Statutes to be published<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-    **Division 1—Preliminary**
+**Part 5—Consequential and transitional provisions<span style="mso-tab-count: 1">                                            </span>** 
 
-[53](#53).          Interpretation
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-    **Division 2—Repeal**
+[53](#53).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[54](#54).          Repeal
+    **Division 2—Repeal<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-    **Division 3—General**
+[54](#54).          Repeal<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-[55](#55).          Senior officers to continue in office
+    **Division 3—General<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[56](#56).          University successor in law of the Arts Institute
+[55](#55).          Senior officers to continue in office<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[57](#57).          Preservation of Statutes etc 
+[56](#56).          University successor in law of the Arts Institute<span style="mso-tab-count: 1 dotted">                             </span>
 
-[58](#58).          Transfer of assets and liabilities of the Arts Institute
+[57](#57).          Preservation of Statutes etc <span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[59](#59).          Arts Institute instruments
+[58](#58).          Transfer of assets and liabilities of the Arts Institute<span style="mso-tab-count: 1 dotted">                       </span>
 
-[60](#60).          State or Territory officer may act on certificate
+[59](#59).          Arts Institute instruments<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[61](#61).          Pending proceedings
+[60](#60).          State or Territory officer may act on certificate<span style="mso-tab-count: 1 dotted">                                </span>
 
-[62](#62).          Staff of the Arts Institute
+[61](#61).          Pending proceedings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[63](#63).          Students of the Arts Institute
+[62](#62).          Staff of the Arts Institute<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[64](#64).          Granting of Arts Institute awards
+[63](#63).          Students of the Arts Institute<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[65](#65).          Transfer of appropriated money
+[64](#64).          Granting of Arts Institute awards<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[66](#66).          Annual report and financial statements
+[65](#65).          Transfer of appropriated money<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-**Notes** 
+[66](#66).          Annual report and financial statements<span style="mso-tab-count: 1 dotted">                                             </span>
 
- 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
+<o:p> </o:p>
 
-## An Act to amend the constitution of the Australian National University and create within it a new institute to replace the Canberra Institute of the Arts, and for related purposes
+
+## An Act to amend the constitution of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Australian</st1:placename> <st1:placename>National</st1:placename> <st1:placetype>University</st1:placetype></st1:place> and create within it a new institute to replace the Canberra Institute of the Arts, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Australian__National__University__Act 1991_.
+                   This Act may be cited as the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_.
 
 ##### <a id="2"></a>2  Commencement
 
-                   This Act commences on 1 January 1992.
+                   This Act commences on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="1">1 January 1992</st1:date>.
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -230,11 +232,11 @@ Attorney-General’s Department, Canberra
 
                      (c)  the academic staff of The Faculties.
 
-                    <a name="institut"></a>**_Institute_** means the Institute of Advanced Studies referred to in paragraph 7(1)(a).
+                    <a name="institut"></a>**_Institute_** means the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Advanced Studies</st1:placename></st1:place> referred to in paragraph 7(1)(a).
 
                     <a name="nomin-committe-council"></a>**_Nominations Committee of Council_** means the persons referred to in subsection 10(2).
 
-                    <a name="origin-act"></a>**_original Act_** means the _Australian__National__University__Act 1946_.
+                    <a name="origin-act"></a>**_original Act_** means the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1946_.
 
                     <a name="pro-chancellor"></a>**_Pro-Chancellor_** means the Pro-Chancellor of the University appointed under section 33.
 
@@ -244,7 +246,7 @@ Attorney-General’s Department, Canberra
 
                     <a name="faculti"></a>**_The Faculties_** means the group of faculties and other bodies referred to in paragraph 7(1)(b).
 
-                    <a name="univers"></a>**_University_** means the Australian National University continued in existence under subsection 4(1).
+                    <a name="univers"></a>**_University_** means the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Australian</st1:placename> <st1:placename>National</st1:placename> <st1:placetype>University</st1:placetype></st1:place> continued in existence under subsection 4(1).
 
                     <a name="univers-bodi"></a>**_University body_** means:
 
@@ -254,13 +256,15 @@ Attorney-General’s Department, Canberra
 
                     <a name="vice-chancellor"></a>**_Vice-Chancellor_** means the Vice-Chancellor of the University appointed under section 34.
 
-## Part 2—The Australian National University
+<o:p> </o:p>
+
+## Part 2—The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename><span class="CharPartText">Australian</span></st1:placename><span class="CharPartText"> </span><st1:placename><span class="CharPartText">National</span></st1:placename><span class="CharPartText"> </span><st1:placetype><span class="CharPartText">University</span></st1:placetype></st1:place>
 
 ### Division 1—Establishment of the University
 
 ##### <a id="4"></a>4  Establishment of the University
 
-             (1)  The Australian National University that was, immediately before the commencement of this Act, in existence by virtue of the original Act is continued in existence under the same name.
+             (1)  The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Australian</st1:placename> <st1:placename>National</st1:placename> <st1:placetype>University</st1:placetype></st1:place> that was, immediately before the commencement of this Act, in existence by virtue of the original Act is continued in existence under the same name.
 
              (2)  The University:
 
@@ -270,7 +274,7 @@ Attorney-General’s Department, Canberra
 
                      (c)  may acquire, hold and dispose of real and personal property.
 
-Note:         Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
+Note:<span style="mso-tab-count: 1">         </span>Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
 
              (3)  The seal of the University must be kept in such custody as the Council directs and may be used only as authorised by the Council.
 
@@ -292,7 +296,7 @@ Note:         Subject to section 4A, the _Commonwealth Authoriti
 
                      (a)  advancing and transmitting knowledge, by undertaking research and teaching of the highest quality;
 
-                     (b)  encouraging, and providing facilities for, research and postgraduate study, both generally and in relation to subjects of national importance to Australia;
+                     (b)  encouraging, and providing facilities for, research and postgraduate study, both generally and in relation to subjects of national importance to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
                      (c)  providing facilities and courses for higher education generally, including education appropriate to professional and other occupations, for students from within Australia and overseas;
 
@@ -304,7 +308,7 @@ Note:         Subject to section 4A, the _Commonwealth Authoriti
 
                      (g)  engaging in extension activities.
 
-             (2)  In the performance of its functions, the University must pay attention to its national and international roles and to the needs of the Australian Capital Territory and the surrounding regions.
+             (2)  In the performance of its functions, the University must pay attention to its national and international roles and to the needs of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the surrounding regions.
 
 ##### <a id="6"></a>6  Powers of the University
 
@@ -350,13 +354,13 @@ Note:         Subject to section 4A, the _Commonwealth Authoriti
 
              (3)  In spite of anything contained in this Act or the _Commonwealth Authorities and Companies Act 1997_, any money or other property held by the University on trust must be dealt with in accordance with the powers and duties of the University as trustee.
 
-             (4)  The powers of the University may be exercised within or outside Australia.
+             (4)  The powers of the University may be exercised within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="7"></a>7  Organisation of the University
 
              (1)  There are, within the University:
 
-                     (a)  an Institute of Advanced Studies constituted in accordance with section 19; and
+                     (a)  an <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Advanced Studies</st1:placename></st1:place> constituted in accordance with section 19; and
 
                      (b)  a group of faculties and other bodies determined by the Council, to be known as the “The Faculties”.
 
@@ -365,6 +369,8 @@ Note:         Subject to section 4A, the _Commonwealth Authoriti
                      (a)  includes bodies, or members of staff, from the Institute and The Faculties; or
 
                      (b)  in any other way draws its resources from the Institute and The Faculties.
+
+<o:p> </o:p>
 
 ### Division 2—The Council
 
@@ -390,7 +396,7 @@ Note:         Subject to section 4A, the _Commonwealth Authoriti
 
                      (k)  one person who is either a dean or the head of a research school and is elected, in either case, by the deans and the heads of the research schools voting together;
 
-                      (l)  one member of the academic staff of the Institute of Advanced Studies elected by members of that staff;
+                      (l)  one member of the academic staff of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Advanced Studies</st1:placename></st1:place> elected by members of that staff;
 
                     (m)  one member of the academic staff of The Faculties elected by members of that staff;
 
@@ -656,6 +662,8 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compa
 
                    Nothing in sections 18A to 18F affects the application of the _Commonwealth Authorities and Companies Act 1997_ to members of the Council.
 
+<o:p> </o:p>
+
 ### Division 3—The Institute of Advanced Studies
 
 ##### <a id="19"></a>19  Constitution of the Institute
@@ -677,6 +685,10 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compa
              (4)  The research school in relation to medical science is to be known as “The John Curtin School of Medical Research”.
 
              (5)  The names of the other research schools and other bodies are as determined by the Council.
+
+### Division 4—The Board of The Faculties
+
+<o:p> </o:p>
 
 ### Division 5—Convocation
 
@@ -701,6 +713,8 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compa
 ##### <a id="31"></a>31  Quorum at meetings of Convocation
 
                    At a meeting of Convocation a quorum is constituted by 50 members of Convocation.
+
+<o:p> </o:p>
 
 ### Division 6—Senior officers of the University
 
@@ -766,6 +780,8 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (d)  the occasion to act had not arisen or had ceased.
 
+<o:p> </o:p>
+
 ### Division 7—Miscellaneous
 
 ##### <a id="38"></a>38  Execution of contracts
@@ -808,6 +824,8 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (c)  the holding of any office.
 
+<o:p> </o:p>
+
 ## Part 3—Financial matters
 
 ### Division 1—Fees
@@ -815,6 +833,8 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 ##### <a id="41"></a>41  Fees
 
              (2)  Fees that are payable to the University, including student contribution amounts and tuition fees within the meaning of the _Higher Education Support Act 2003_, are payable in accordance with the Statutes.
+
+<o:p> </o:p>
 
 ### Division 2—Finances of the University
 
@@ -842,15 +862,17 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
              (3)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under this section to an official (within the meaning of the _Financial Management and Accountability Act 1997_). In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
-             (4)  In this section:
+<span style="mso-tab-count: 1">             </span>(4)<span style="mso-tab-count: 1">  </span>In this section:
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-##### <a id="48"></a>48  Taxation
+##### <a id="48"></a>48<span style="mso-spacerun: yes">  </span>Taxation
 
              (1)  Subject to subsection (2), the University is not subject to taxation under the laws of the Commonwealth or of a State or Territory.
 
              (2)  The University is subject to payroll tax under the law of a State or Territory.
+
+<o:p> </o:p>
 
 ## Part 4—Statutes
 
@@ -994,6 +1016,8 @@ is, in all proceedings, sufficient evidence of the Statute.
 
              (7)  A notice in the _Gazette_ of the fact that a Statute has been made that specifies the number of the Statute is sufficient compliance with the requirement of subsection (2) that the Statute be notified in the _Gazette_.
 
+<o:p> </o:p>
+
 ## Part 5—Consequential and transitional provisions
 
 ### Division 1—Preliminary
@@ -1026,6 +1050,8 @@ being an instrument or document subsisting immediately before the commencement.
 
                     <a name="repeal-enact"></a>**_repealed enactment_** means an enactment repealed by section 54.
 
+<o:p> </o:p>
+
 ### Division 2—Repeal
 
 ##### <a id="54"></a>54  Repeal
@@ -1033,6 +1059,8 @@ being an instrument or document subsisting immediately before the commencement.
              (1)  The original Act is repealed.
 
              (2)  The Arts Institute Ordinance is repealed.
+
+<o:p> </o:p>
 
 ### Division 3—General
 
@@ -1172,7 +1200,7 @@ the person is, in the academic year in which the person would, by the terms of t
 
 ##### <a id="66"></a>66  Annual report and financial statements
 
-                   Sections 47 and 49 apply in relation to the year ending on 31 December 1992, subject to the following qualifications:
+                   Sections 47 and 49 apply in relation to the year ending on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="31" month="12">31 December 1992</st1:date>, subject to the following qualifications:
 
                      (a)  the accounts and records to which section 47 applies are the accounts and records of the University and such of the accounts and records of the Arts Institute as are in the possession of the University;
 
@@ -1181,11 +1209,11 @@ the person is, in the academic year in which the person would, by the terms of t
                      (c)  for the purposes of paragraph 49(2)(c), **_this Act_** includes the original Act and the Arts Institute Ordinance.
 
 
-# Notes to the _Australian National University Act 1991_
+# Notes to the _<span style="mso-no-proof: yes">Australian National University Act 1991</span>_
 
 ### Note 1
 
-The _Australian__National__University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
+The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1203,42 +1231,42 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div>Australian National University Act 1991</div>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Australian</st1:placename> <st1:placename>National</st1:placename> <st1:placetype>University</st1:placetype> </st1:place>Act 1991</div>
     </td>
     <td>
       <div>131, 1991</div>
     </td>
     <td>
-      <div>2 Sept 1991</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="2" month="9">2 Sept 1991</st1:date></div>
     </td>
     <td>
-      <div>1 Jan 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="1">1 Jan 1992</st1:date></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1249,13 +1277,13 @@ of Assent
       <div>158, 1992</div>
     </td>
     <td>
-      <div>11 Dec 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="11" month="12">11 Dec 1992</st1:date></div>
     </td>
     <td>
       <div>Part 1 (ss. 1, 2): Royal Assent 
 Parts 2, 3 (ss. 
-3–46) and Part 5 (ss. 60-70): 1 Jan 1993 
-Remainder: 1 Jan 1994 
+3–46) and Part 5 (ss. 60-70): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="1">1 Jan 1993</st1:date> 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="1">1 Jan 1994</st1:date> 
 
 </div>
     </td>
@@ -1271,12 +1299,12 @@ Remainder: 1 Jan 1994
       <div>168, 1995</div>
     </td>
     <td>
-      <div>16 Dec 1995</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="16" month="12">16 Dec 1995</st1:date></div>
     </td>
     <td>
       <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
-S. 13: 13 Jan 1996 
-Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16) 
+S. 13: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="13" month="1">13 Jan 1996</st1:date> 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="15" month="1">15 Jan 1996</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1996, No. S16) 
 
 </div>
     </td>
@@ -1292,10 +1320,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>43, 1996</div>
     </td>
     <td>
-      <div>25 Oct 1996</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date></div>
     </td>
     <td>
-      <div>Schedule 3 (item 5): 2 Sept 1991</div>
+      <div>Schedule 3 (item 5): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="2" month="9">2 Sept 1991</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -1309,10 +1337,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>152, 1997</div>
     </td>
     <td>
-      <div>24 Oct 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 415–422): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+      <div>Schedule 2 (items 415–422): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1326,10 +1354,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>156, 1999</div>
     </td>
     <td>
-      <div>24 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 10 (item 45): 13 Mar 2000 ( <i>see</i> <i>Gaz ette</i>2000,No. S114) <i>(b)</i></div>
+      <div>Schedule 10 (item 45): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1343,10 +1371,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>86, 2001</div>
     </td>
     <td>
-      <div>18 July 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="18" month="7">18 July 2001</st1:date></div>
     </td>
     <td>
-      <div>Schedule 3: Royal Assent <i>(c)</i></div>
+      <div>Schedule 3: Royal Assent <i style="mso-bidi-font-style: normal">(c)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1360,10 +1388,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>150, 2003</div>
     </td>
     <td>
-      <div>19 Dec 2003</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="19" month="12">19 Dec 2003</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 20–63): 1 July 2004</div>
+      <div>Schedule 2 (items 20–63): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">1 July 2004</st1:date></div>
     </td>
     <td>
       <div>Sch. 2 (item 37)</div>
@@ -1377,10 +1405,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>80, 2004</div>
     </td>
     <td>
-      <div>23 June 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="6">23 June 2004</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 191, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+      <div>Schedule 1 (items 191, 212, 213, 215): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="12">1 Dec 2004</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2004, No. GN34)</div>
     </td>
     <td>
       <div>Sch. 1 (items 212, 213, 215)</div>
@@ -1394,10 +1422,10 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)
       <div>114, 2004</div>
     </td>
     <td>
-      <div>13 July 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="13" month="7">13 July 2004</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 39–45, 80): 14 July 2004 
+      <div>Schedule 2 (items 39–45, 80): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="14" month="7">14 July 2004</st1:date> 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -1415,7 +1443,7 @@ Remainder: Royal Assent
       <div>157, 2004</div>
     </td>
     <td>
-      <div>17 Dec 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="17" month="12">17 Dec 2004</st1:date></div>
     </td>
     <td>
       <div>Schedule 3: Royal Assent</div>
@@ -1432,7 +1460,7 @@ Remainder: Royal Assent
       <div>8, 2005</div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
     </td>
     <td>
       <div>Schedule 2 (items 56, 57, 174): Royal Assent</div>
@@ -1441,37 +1469,20 @@ Remainder: Royal Assent
       <div>Sch. 2 (item 174)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005</div>
-    </td>
-    <td>
-      <div>143, 2005</div>
-    </td>
-    <td>
-      <div>14 Dec 2005</div>
-    </td>
-    <td>
-      <div>Schedule 8 (item 1): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
-_(a)_     The _Australian__National__University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedule<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_    The _Australian__National__University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(b)_    The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12\. 
+                              (c)   the items in Schedule<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>0, 11 and 12\. 
 
-_(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
+_(c)_ The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1487,30 +1498,30 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed    rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 3</div>
+      <div>S. 3 </div>
     </td>
     <td>
       <div>am. No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
@@ -1518,23 +1529,23 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 4(2)</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 4(2) </div>
     </td>
     <td>
       <div>ad. No. 152, 1997</div>
@@ -1542,7 +1553,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 4A, 4B</div>
+      <div>Ss. 4A, 4B </div>
     </td>
     <td>
       <div>ad. No. 152, 1997</div>
@@ -1550,7 +1561,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 6</div>
+      <div>S. 6 </div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
@@ -1558,7 +1569,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 7</div>
+      <div>S. 7 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1566,15 +1577,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 10</div>
+      <div>S. 10 </div>
     </td>
     <td>
       <div>am. No. 86, 2001; No. 150, 2003; Nos. 114 and 157, 2004</div>
@@ -1582,7 +1593,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 11</div>
+      <div>S. 11 </div>
     </td>
     <td>
       <div>am. No. 80, 2004</div>
@@ -1590,7 +1601,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 12, 13</div>
+      <div>Ss. 12, 13 </div>
     </td>
     <td>
       <div>am. No. 114, 2004</div>
@@ -1598,7 +1609,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 14</div>
+      <div>S. 14 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -1606,7 +1617,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 15</div>
+      <div>S. 15 </div>
     </td>
     <td>
       <div>am. No. 152, 1997; No. 156, 1999; No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
@@ -1614,7 +1625,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 16–18</div>
+      <div>Ss. 16–18 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1622,7 +1633,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 18A–18G</div>
+      <div>Ss. 18A–18G </div>
     </td>
     <td>
       <div>ad. No. 150, 2003</div>
@@ -1630,15 +1641,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 3</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 20</div>
+      <div>S. 20 </div>
     </td>
     <td>
       <div>am. No. 86, 2001</div>
@@ -1646,7 +1657,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1654,7 +1665,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 21–24</div>
+      <div>Ss. 21–24 </div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1662,23 +1673,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 4</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 4</div>
-    </td>
-    <td>
-      <div>rep. No. 143, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 25</div>
+      <div>S. 25 </div>
     </td>
     <td>
       <div>am. No. 86, 2001</div>
@@ -1686,7 +1689,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1694,7 +1697,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 26–29</div>
+      <div>Ss. 26–29 </div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1702,15 +1705,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 6</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 6 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 32, 33</div>
+      <div>Ss. 32, 33 </div>
     </td>
     <td>
       <div>am. No. 114, 2004</div>
@@ -1718,7 +1721,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 36</div>
+      <div>S. 36 </div>
     </td>
     <td>
       <div>rep. No. 168, 1995</div>
@@ -1726,15 +1729,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 7</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 7 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 39</div>
+      <div>S. 39 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1742,23 +1745,23 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Part 3</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 41</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41 </div>
     </td>
     <td>
       <div>rs. No. 158, 1992</div>
@@ -1766,7 +1769,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1774,15 +1777,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 42</div>
+      <div>S. 42 </div>
     </td>
     <td>
       <div>rep. No. 158, 1992</div>
@@ -1790,7 +1793,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 43</div>
+      <div>S. 43 </div>
     </td>
     <td>
       <div>am. No. 158, 1992</div>
@@ -1798,7 +1801,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div>rs. No. 150, 2003</div>
@@ -1806,7 +1809,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 44</div>
+      <div>S. 44 </div>
     </td>
     <td>
       <div>am. No. 8, 2005</div>
@@ -1814,7 +1817,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 45–47</div>
+      <div>Ss. 45–47 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -1822,7 +1825,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 49</div>
+      <div>S. 49 </div>
     </td>
     <td>
       <div>rep. No. 152, 1997</div>
@@ -1830,15 +1833,15 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div><b>Part 4</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 50</div>
+      <div>S. 50 </div>
     </td>
     <td>
       <div>am. No. 158, 1992; No. 152, 1997; No. 150, 2003</div>
@@ -1846,7 +1849,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 51</div>
+      <div>S. 51 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1854,7 +1857,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 52</div>
+      <div>Heading to s. 52 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1862,7 +1865,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>S. 52</div>
+      <div>S. 52 </div>
     </td>
     <td>
       <div>am. No. 150, 2003</div>
@@ -1870,7 +1873,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Div. 4 of Part 5</div>
+      <div>Div. 4 of Part 5 </div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1878,7 +1881,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 67–75</div>
+      <div>Ss. 67–75 </div>
     </td>
     <td>
       <div>rep. No. 150, 2003</div>
@@ -1886,7 +1889,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Div. 5 of Part 5</div>
+      <div>Div. 5 of Part 5 </div>
     </td>
     <td>
       <div>rep. No. 43, 1996</div>
@@ -1894,7 +1897,7 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
   </tr>
   <tr>
     <td>
-      <div>Ss. 76, 77</div>
+      <div>Ss. 76, 77 </div>
     </td>
     <td>
       <div>rep. No. 43, 1996</div>
@@ -1903,13 +1906,13 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3
 </tbody></table>
 
 
-## Table A
+## Table A<o:p></o:p>
 
-### Application, saving or transitional provisions
+### Application, saving or transitional provisions<o:p></o:p>
 
-_Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 (No. 150, 2003)_
+_Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 (No. 150, 2003)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2<o:p></o:p>
 
 ## 37  Operation of Nominations Committee prior to commencement
 
@@ -1919,13 +1922,11 @@ If, because of section 4 of the _Acts Interpretation Act 1901_, persons are ap
 
                      (b)  despite subsection 4(2) of that Act, the appointment of persons to the Nominations Committee of the Council is taken to have taken effect before the making of any such recommendation.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)<o:p></o:p>_
 
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
-
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
@@ -2009,11 +2010,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 (2)        The Governor-General may make regulations for the purposes of subitem (1).
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
-
-_Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)_
+_Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)<o:p></o:p>_
 
 ## Schedule 4
 
@@ -2021,7 +2020,7 @@ _Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)_
 
 In this Part:
 
-**_Principal Act_** means the _Australian__National__University__Act 1991_.
+**_Principal Act_** means the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Australian_</st1:placename><st1:placename>_National_</st1:placename><st1:placetype>_University_</st1:placetype></st1:place>_Act 1991_.
 
 ## 21  Amendments relating to the Chancellor
 
@@ -2039,13 +2038,11 @@ The amendments of section 32 of the Principal Act made by this Act apply to ea
 
                      (b)  to have been so appointed for a period equal to the remainder of the period of his or her office as Pro-Chancellor if no amendment of section 33 of the Principal Act had been made by this Act.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
-
-## Schedule 2
+## Schedule 2<o:p></o:p>
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -2066,6 +2063,4 @@ continues to have effect after the commencing time as if it had been done by the
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
 
- 
-
- 
+<o:p> </o:p>
