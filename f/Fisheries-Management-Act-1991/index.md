@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00061/Html/FishMangmtAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00806/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 12 January 2011
+This compilation was prepared on 14 December 2010
  taking into account amendments up to Act No. 137 of 2010
 
 The text of any of those amendments not in force 
@@ -176,8 +176,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [42A](#42A).       Fishing concession condition to facilitate boarding
 
-[42B](#42B).       Regulation-making power for conditions
-
 [43](#43).          Temporary orders
 
 **Part 4—Register of Statutory Fishing Rights**
@@ -297,8 +295,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [84](#84).          Powers of officers
 
 [84AA](#84AA).    Searches under paragraph 84(1)(aaa)
-
-[84B](#84B).       Cooperative Enforcement Agreement
 
 [84C](#84C).       Customs officers may carry arms in exercise of powers under this Act
 
@@ -440,11 +436,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106](#106).        Forfeiture of things used in certain offences
 
-106AAA  Forfeiture of additional things on forfeited boats
+106AAAForfeiture of additional things on forfeited boats
 
-106AAB  Forfeited things become the property of the Commonwealth
+106AABForfeited things become the property of the Commonwealth
 
-106AAC  Rights and interests of the Commonwealth not limited
+106AACRights and interests of the Commonwealth not limited
 
         **Subdivision B—Automatic forfeiture of things**
 
@@ -1056,10 +1052,6 @@ but does not include:
 
                     <a name="convey"></a>**_conveyance_** includes an aircraft, vehicle or vessel.
 
-                    <a name="cooper-enforc"></a>**_cooperative enforcement_** has the meaning given by section 84B.
-
-                    <a name="cooper-enforc-agreem"></a>**_Cooperative Enforcement Agreement_** has the meaning given by section 84B.
-
                     <a name="deal"></a>**_dealing_** includes a transmission by operation of law.
 
                     <a name="defens-equip"></a>**_defensive equipment_** has the meaning given by section 89A.
@@ -1166,16 +1158,6 @@ but does not include:
 
                      (b)  inside the outer limits of the exclusive economic zone adjacent to the coast of the Australian Antarctic  Territory.
 
-                    <a name="holder"></a>**_holder_** of a licence, permit or right:
-
-                     (a)  means:
-
-                              (i)  the person to whom the licence, permit or right was granted; or
-
-                             (ii)  if the permit or right has been transferred—the person to whom the permit or right was last transferred; and
-
-                     (b)  in the case of a statutory fishing right that is leased to another person by a lease registered under section 46—includes the lessee of the statutory fishing right.
-
                     <a name="intern-conserv-manag-measur"></a>**_international conservation and management measure_** means a measure to conserve and manage one or more species of living marine resources that is adopted and applied, in accordance with the relevant rules of international law as reflected in the 1982 United Nations Convention on the Law of the Sea:
 
                      (a)  by a global, regional or subregional fisheries organisation; or
@@ -1187,8 +1169,6 @@ Note:          The English text of the United Nations Conventi
                     <a name="intern-fisheri-manag-measur"></a>**_international fisheries management measure_** means a measure prescribed by the regulations to give effect to a measure established by an international fisheries management organisation.
 
                     <a name="intern-fisheri-manag-organis"></a>**_international fisheries management organisation_** means a global, regional or subregional fisheries organisation or arrangement prescribed by the regulations.
-
-                    <a name="intern-offic"></a>**_international officer_** has the meaning given by section 84B.
 
                     <a name="joint-author"></a>**_Joint Authority_** means an authority established by or under section 61.
 
@@ -1245,8 +1225,6 @@ Note:          The English text of the United Nations Conventi
                     <a name="premis"></a>**_premises_** includes a place and a conveyance.
 
                     <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of Australian Fisheries Management Authority Selection Committees appointed under section 139.
-
-                    <a name="primari-stakehold"></a>**_primary stakeholder_** has the meaning given in the _Fisheries Administration Act 1991_.
 
                     <a name="principl-ecolog-sustain-develop"></a>**_principles of ecologically sustainable development_** has the meaning given by section 3A.
 
@@ -1370,7 +1348,7 @@ This subsection does not limit subsection (2) or express provisions that exten
 
              (4)  Subsections (2) and (3) do not limit the extra-territorial operation of this Act.
 
-##### <a id="8"></a>8  Application of Act to areas outside the AFZ
+##### <a id="8"></a>8  Application of Act to areas outside the AFZ
 
              (1)  The regulations may provide that, in respect of specified areas outside the AFZ, or in respect of the high seas generally, this Act applies to:
 
@@ -1728,7 +1706,7 @@ Offences that prevent AFMA authorising use of boat
 
                      (c)  in such other newspaper or publication (if any) that appears to AFMA to be appropriate in the circumstances.
 
-             (5)  A plan of management for a fishery may set out:
+             (5)  A plan of management for a fishery is to set out:
 
                      (a)  the objectives of the plan of management; and
 
@@ -1737,6 +1715,16 @@ Offences that prevent AFMA authorising use of boat
                      (c)  performance criteria against which, and time frames within which, the measures taken under the plan of management may be assessed.
 
        (5AA)  The objectives to be set out under paragraph (5)(a) must be consistent with, but are not limited to, the objectives set out in section 3.
+
+          (5A)  The measures to be set out under paragraph (5)(b) in a plan of management for a fishery include:
+
+                     (a)  providing for AFMA, after such consultations (if any) as are set out in the plan of management, to direct that fishing is not to be engaged in in the fishery, or a particular part of the fishery, during a particular period or periods; and
+
+                     (b)  providing for holders of fishing concessions in respect of the fishery to be notified of the direction; and
+
+                     (c)  obliging those holders to comply with the direction.
+
+          (5B)  A direction under paragraph (5A)(a) in relation to a part of a fishery may identify the part concerned in any way or ways, including by reference to a particular area, a particular species or type of fish, a particular kind or quantity of fishing equipment, a particular method of fishing, or any combination of the above.
 
           (5C)  A plan of management for a fishery affecting straddling fish stocks, highly migratory fish stocks or ecologically related fish stocks (within the meaning of the Fish Stocks Agreement) must set out stock-specific reference points (within the meaning of that Agreement) for the stocks.
 
@@ -1768,7 +1756,7 @@ Offences that prevent AFMA authorising use of boat
 
           (6A)  Paragraph (6)(aa) authorises the making of a determination in respect of the fishing capacity of a fishery or a part of a fishery that has the effect that no fishing capacity is permitted for the fishery or that part of the fishery in respect of a particular period or periods.
 
-          (6B)  A determination made by AFMA under paragraph (6)(aa) is a legislative instrument.
+          (6B)  A direction given by AFMA under paragraph (5A)(a) or a determination made by AFMA under paragraph (6)(aa) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
           (6C)  If a plan of management for a fishery provides for the management of the fishery by means of a system that consists of or includes statutory fishing rights, the plan:
 
@@ -1805,11 +1793,7 @@ Offences that prevent AFMA authorising use of boat
 
            (10)  While a plan of management is in force for a fishery, AFMA must perform its functions, and exercise its powers, under this Act in relation to the fishery in accordance with the plan of management.
 
-           (11)  AFMA may, by writing under its common seal, delegate any powers conferred on it under a plan of management for a fishery in accordance with paragraph (6)(aa) to:
-
-                     (a)  the CEO; or
-
-                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+           (11)  AFMA may, by writing under its common seal, delegate any powers conferred on it under a plan of management in accordance with paragraph (5A)(a) or (6)(aa) to the CEO, but to no other person.
 
 ##### <a id="17A"></a>17A  Register of persons concerned about plans of management
 
@@ -1883,6 +1867,10 @@ Offences that prevent AFMA authorising use of boat
 
                      (b)  the place or places where copies of the determination can be obtained.
 
+             (2)  Sections 48 (other than paragraph (1)(a)), 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply to determinations as if, in those sections, references to regulations were references to determinations and references to a regulation were references to a provision of a determination.
+
+             (3)  Determinations are not statutory rules within the meaning of the _Statutory Rules Publication Act 1903_.
+
              (5)  A determination is taken to be an enactment for the purposes of the _Administrative Appeals Tribunal Act 1975_.
 
 ##### <a id="20"></a>20  Amendment or revocation of plan of management
@@ -1900,30 +1888,6 @@ Offences that prevent AFMA authorising use of boat
              (4)  Where a plan of management for a fishery is revoked under subsection (3), statutory fishing rights, fishing permits, foreign fishing licences, scientific permits, foreign master fishing licences and fish receiver permits granted by AFMA that relate to the fishery cease to have effect in relation to the fishery.
 
              (5)  Sections 17, 18 and 19 apply in relation to an amendment of a plan of management and the revocation of a plan of management in the same way as they apply to a plan of management prepared under section 17.
-
-             (6)  However, subsection (2) of this section, subsections 17(1B) to (4), and sections 18 and 19 do not apply to an amendment of a plan of management that merely:
-
-                     (a)  corrects an error in the plan (including a factual, grammatical, mapping or typographical error, for example); or
-
-                     (b)  changes the format or presentation of the plan; or
-
-                     (c)  changes a matter in the plan to make the plan consistent with:
-
-                              (i)  this or another Act; or
-
-                             (ii)  the regulations; or
-
-                     (d)  removes conditions from the plan if conditions for the plan’s fishery about the same subject matter have been prescribed in the regulations, whether or not the conditions are in the same terms.
-
-             (7)  Also, subsections 17(1B) to (4) and section 19 do not apply to an amendment of a plan of management to remove a provision from the plan if, within 1 year before the proposed amendment is to take effect, the following entities have been given at least 28 days written notice of the proposed amendment:
-
-                     (a)  if there is a management advisory committee for the plan’s fishery—the management advisory committee;
-
-                     (b)  if a peak body represents the holders of statutory fishing rights under the plan—the peak body;
-
-                     (c)  if there is no management advisory committee or peak body—the holders of the licences, permits or rights for the fishery.
-
-             (8)  However, section 18 applies to an amendment mentioned in subsection (7) in the same way as section 18 applies to a plan of management.
 
 ### Division 3—Statutory fishing rights
 
@@ -2207,7 +2171,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00061/Html/FishMangmtAct1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00806/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -2826,29 +2790,19 @@ it is a condition of the licence that the holder of the licence comply with the 
 
 ##### <a id="41A"></a>41A  AFMA may give directions in relation to closure or partial closure of fishery
 
-             (1)  This section applies to a fishery in respect of which fishing concessions, scientific permits or foreign master fishing licences are in force.
+             (1)  This section applies to a fishery in respect of which:
 
-             (2)  If, after consultation with:
+                     (a)  there is no plan of management; and
 
-                     (a)  the management advisory committee for the fishery; or
+                     (b)  there are in force fishing permits, scientific permits, foreign fishing licences or foreign master fishing licences entitling the holders of such permits or licences to participate in that fishery.
 
-                     (b)  if there is no management advisory committee for the fishery—the holders of fishing concessions, scientific permits or foreign master fishing licences for the fishery;
+             (2)  If, after consultation:
 
-AFMA may direct that fishing not be engaged in any part of the fishery, or in a particular part of the fishery, during a period or periods specified in the direction.
+                     (a)  with the management advisory committee for a fishery to which this section applies; and
 
-          (2A)  At least 7 days before the direction takes effect, AFMA must tell the holders of the fishing concessions, scientific permits or foreign master fishing licences, in writing, about the direction.
+                     (b)  with all holders of fishing permits, scientific permits, foreign fishing licences or foreign master fishing licences entitling the holders to participate in the fishery;
 
-          (2B)  However, if a direction is given in an emergency:
-
-                     (a)  subsection (2A) does not apply; and
-
-                     (b)  AFMA must tell the holders of the fishing concessions, scientific permits or foreign master fishing licences, in writing, about the direction as soon as it can practicably do so.
-
-          (2C)  AFMA may, by writing under its common seal, delegate the power to give a direction under subsection (2) to:
-
-                     (a)  the CEO; or
-
-                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+AFMA is satisfied that it is necessary, in pursuit of its objectives, to direct that fishing not be engaged in in any part of the fishery, or in a particular area of the fishery, during a period or periods specified in the direction, AFMA may, by notice in writing published in the _Gazette_, give a direction to that effect.
 
              (3)  AFMA may, at any time, by a further direction in writing, vary or revoke a direction given under subsection (2).
 
@@ -2901,12 +2855,6 @@ AFMA may direct that fishing not be engaged in any part of the fishery, or in a 
                      (b)  co-operate with inspection of the boat;
 
 by officials of a foreign country acting in accordance with the Fish Stocks Agreement or a measure established by an international fisheries management organisation.
-
-##### <a id="42B"></a>42B  Regulation-making power for conditions
-
-             (1)  The regulations may prescribe conditions that apply to fishing concessions or foreign master fishing licences.
-
-             (2)  A provision of a plan of management has no effect to the extent that it is inconsistent with regulations made for the purposes of this section.
 
 ##### <a id="43"></a>43  Temporary orders
 
@@ -3365,7 +3313,7 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
              (1)  AFMA must register each fishing permit that it grants under section 32 by entering in the Fishing Permits Register:
 
-                     (a)  the name of the holder of the permit; and
+                     (a)  the name of the person to whom the permit is granted; and
 
                      (b)  the area of the AFZ, or the fishery, that is specified in the permit; and
 
@@ -3777,7 +3725,7 @@ to be an officer for the purposes of this Act.
 
              (2)  An officer appointed by AFMA is, in the exercise of his or her powers and performance of his or her functions, subject to the directions of AFMA.
 
-##### <a id="84"></a>84  Powers of officers
+##### <a id="84"></a>84  Powers of officers
 
              (1)  An officer may:
 
@@ -4063,44 +4011,6 @@ that relates to this Act or that provision.
 the officer may continue to keep the weapon or thing for such time as he or she thinks necessary for the purposes of this Act or the _Migration Act 1958_.
 
 Note:          Once the subject ceases to be detained under this Act, the subject will generally need to be detained under the _Migration Act 1958_ while he or she is in the migration zone (because his or her enforcement visa under that Act will cease to have effect). Subsection (6) ensures the officer can keep the weapon or thing while the subject is detained under this Act or that Act.
-
-##### <a id="84B"></a>84B  Cooperative Enforcement Agreement
-
-Purpose
-
-             (1)  The purpose of this section is to implement the Agreement on Cooperative Enforcement of Fisheries Laws between the Government of Australia and the Government of the French Republic in the Maritime Areas Adjacent to the French Southern and Antarctic Territories, Heard Island and the McDonald Islands that was done at Paris on 8 January 2007 (the **_Cooperative Enforcement Agreement_**).
-
-Note 1:       In 2010, the text of the Agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-Note 2:       The Agreement should be read together with the Treaty between the Government of Australia and the Government of the French Republic on cooperation in the Maritime Areas Adjacent to the French Southern and Antarctic Territories (TAAF), Heard Island and the McDonald Islands, that was done at Canberra on 24 November 2003\. The text of the Treaty is set out in Australian Treaty Series 2005 No. 6 (\[2005] ATS 6). In 2010, the text of a treaty in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-International officers
-
-             (2)  An international officer may, for the purposes of conducting cooperative enforcement, exercise any of the powers of an officer in this Division. In doing so, the international officer is taken for the purposes of this Act to have exercised the power as an officer.
-
-             (3)  The regulations may prescribe conditions for the exercise of a power by an international officer.
-
-             (4)  Subsections 84(4) and (6) apply in relation to the exercise of a power by an international officer as if references in those subsections to the officer’s identity card were references to a document:
-
-                     (a)  issued by an officer; and
-
-                     (b)  identifying the international officer as an international officer authorised to conduct cooperative enforcement.
-
-             (5)  An international officer is not liable to any civil or criminal proceedings in respect of anything done or omitted to be done in good faith in the exercise or purported exercise of a power conferred on an international officer by subsection (3).
-
-Officers
-
-             (6)  An officer may, for the purposes of conducting cooperative enforcement, exercise any powers conferred by the Government of the French Republic on officers in order to give effect to the Cooperative Enforcement Agreement.
-
-             (7)  An officer is not liable to any civil or criminal proceedings in respect of anything done or omitted to be done in good faith in the exercise or purported exercise of a power referred to in subsection (6).
-
-Definitions
-
-             (8)  In this Act:
-
-                    <a name="cooper-enforc"></a>**_cooperative enforcement_** means cooperative enforcement, as defined in the Cooperative Enforcement Agreement, that is conducted in accordance with that Agreement.
-
-                    <a name="intern-offic"></a>**_international officer_** means a person who is authorised to conduct cooperative enforcement by a competent authority of the Government of the French Republic.
 
 ##### <a id="84C"></a>84C  Customs officers may carry arms in exercise of powers under this Act
 
@@ -4412,13 +4322,11 @@ the court is to assume, unless the contrary is proved, that the exercise of the 
 
 ##### <a id="87"></a>87  Officers’ powers at place outside AFZ following pursuit
 
-             (1)  An officer may exercise, with respect to boats (including foreign boats) and persons (including foreign nationals) at a place at sea outside the AFZ, a power conferred on the officer under section 84 if:
+             (1)  An officer may exercise, with respect to boats (including foreign boats) and persons (including foreign nationals) at a place at sea outside the AFZ but not within the territorial sea of another country, a power conferred on the officer under section 84 if:
 
                      (a)  subsection (1A), (1B) or (1C) applies in relation to the person or boat; and
 
                      (b)  the power is exercised at or immediately after the end of the pursuit referred to in whichever of subsection (1A), (1B) or (1C) applies.
-
-       (1AA)  Subsection (1) does not apply to a place within the territorial sea of another country, unless the other country has given written permission for the power to be exercised in the other country’s territorial sea (including permission given in a treaty, for example).
 
 Person or boat pursued from within AFZ
 
@@ -4857,7 +4765,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 4—Enforcement generally
 
-##### <a id="95"></a>95  Offences
+##### <a id="95"></a>95  Offences
 
              (1)  A person must not:
 
@@ -5054,7 +4962,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (c)  the boat’s fishing equipment is stowed and the boat is at that location in accordance with the approval of AFMA given under, and in accordance with, the regulations; or
 
-                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+                     (d)  the boat’s fishing equipment is stowed and the boat was travelling through the AFZ from a point outside the AFZ to another point outside the AFZ by the shortest practicable route; or 
 
                      (e)  the use of the boat for scientific research purposes in that area is authorised under a scientific permit.
 
@@ -5098,7 +5006,7 @@ are disengaged and secured, and where practicable stored inside the boat, in suc
 
                      (c)  the boat’s fishing equipment is stowed and the boat is at the place in accordance with the approval of AFMA given under, and in accordance with, the regulations made for the purposes of paragraph 101(1)(c); or
 
-                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+                     (d)  the boat’s fishing equipment is stowed and the boat is travelling through the AFZ from a point outside the AFZ to another point outside the AFZ by the shortest practicable route; or 
 
                      (e)  the use of the boat for scientific research purposes in the place is authorised under a scientific permit.
 
@@ -5138,7 +5046,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the boat’s fishing equipment is stowed and the boat is at the place in accordance with the approval of AFMA given under, and in accordance with, the regulations made for the purposes of paragraph 101(1)(c); or
 
-                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+                     (d)  the boat’s fishing equipment is stowed and the boat is travelling through the AFZ from a point outside the AFZ to another point outside the AFZ by the shortest practicable route; or
 
                      (e)  the use of the boat for scientific research purposes in the place is authorised under a scientific permit.
 
@@ -6162,7 +6070,7 @@ and, without limiting the generality of the above, includes:
 
              (4)  Costs payable by an owner of a foreign boat to the Commonwealth under this Subdivision may be recovered by the Commonwealth as a debt due to the Commonwealth in a court of competent jurisdiction.
 
-##### <a id="106M"></a>106M  Preliminary notice of debt
+##### <a id="106M"></a>106M  Preliminary notice of debt
 
              (1)  As soon as practicable after bringing a foreign boat to which this Subdivision applies to its processing place and after notice of seizure of the boat has been given under section 106C, an AFMA staff member must give written notice to the person:
 
@@ -6380,7 +6288,7 @@ AFMA may, on behalf of the Commonwealth, by written notice given to the holder o
 
 ### Division 2—Collection of levy imposed by the Foreign Fishing Licences Levy Act 1991
 
-##### <a id="114"></a>114  Interpretation
+##### <a id="114"></a>114  Interpretation
 
                    In this Division:
 
@@ -6794,7 +6702,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
              (8)  The procedure of a Committee is to be as determined by the Committee.
 
-##### <a id="141G"></a>141G  Remuneration and allowances
+##### <a id="141G"></a>141G  Remuneration and allowances
 
              (1)  The Presiding Member of a Selection Committee is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination is in operation, the Presiding Member is to be paid such remuneration as is prescribed.
 
@@ -9661,7 +9569,7 @@ and that such vessel has not submitted to the jurisdiction of the Pacific Island
 
 4.7   Financial assurances provided pursuant to this Treaty may be drawn against by any Pacific  Island party to satisfy any civil or criminal judgment or other determination in favour of a national or the Government of a Pacific Island party.
 
-4.8   Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United States shall not institute such proceedings if the Government of that Pacific Island party objects within 30 days of the effective date of such notice.
+4.8   Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United   States shall not institute such proceedings if the Government of that Pacific  Island party objects within 30 days of the effective date of such notice.
 
 4.9   The Government of the United States shall ensure that an agent is appointed and maintained in accordance with the requirements of subparagraphs (a) and (b) of this paragraph, with authority to receive and respond to any legal process issued by a Pacific Island party in respect of an operator of any fishing vessel of the United States (identified in the form set out in Schedule 1 of Annex II) and shall notify the Administrator of the name and address of such agent, who:
 
@@ -10202,7 +10110,7 @@ LIMITED AREAS
 
 Solomon   Islands
 
-1.    The Solomon   Islands Limited Area is all of the Licensing Area within the fishery limits of Solomon Islands as described in the Fishery Limits Act 1977 of Solomon   Islands.
+1.    The Solomon Islands Limited Area is all of the Licensing Area within the fishery limits of Solomon   Islands as described in the Fishery Limits Act 1977 of Solomon Islands.
 
 2.    “Fishing day” means any day or part of a day of the week in which a vessel is used for fishing in the Solomon Islands Limited Area.
 
@@ -14019,8 +13927,8 @@ Schedule 3 (item 17): \[ <i>see</i> <i>(o)</i>and Table A]</div>
     <div>7 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–14): 4 Jan 2011 
-Schedule 3 (items 15–20): 7 Jan 2011</div>
+    <div>Schedule 3 (items 1–14): \[ <i>see</i>Note 4] 
+Schedule 3 (items 15–20): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -14672,7 +14580,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; Nos. 39 and 137, 2010</div>
+    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; No. 39, 2010</div>
   </td>
 </tr>
 <tr>
@@ -14872,7 +14780,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 99, 2005; 36, 2008; No. 137, 2010</div>
+    <div>am. No. 94, 1993; No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 99, 2005; 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14896,15 +14804,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 3, 1995; No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
+    <div>am. No. 3, 1995</div>
   </td>
 </tr>
 <tr>
@@ -15189,14 +15089,6 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 42</div>
   </td>
   <td>
@@ -15225,14 +15117,6 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
   </td>
   <td>
     <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42B</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15357,26 +15241,10 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>S. 57G</div>
+    <div>Ss. 57G, 57H</div>
   </td>
   <td>
     <div>ad. No. 28, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57H</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15621,14 +15489,6 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 84C</div>
   </td>
   <td>
@@ -15680,7 +15540,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 87</div>
   </td>
   <td>
-    <div>am. No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16056,7 +15916,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 101</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16072,7 +15932,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 50, 2000; No. 61, 2006; No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 50, 2000; No. 61, 2006; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16096,7 +15956,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 104, 2007; No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 104, 2007; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -18022,7 +17882,7 @@ _Note 3:    The following heading to subsection 46(2) is inserted “Regis
 
 _Note 4:    The following heading to subsection 46(5) is inserted “Documentation of registration of dealings”._
 
-## 11  Subsection 46(6)
+## 11  Subsection 46(6)
 
 Repeal the subsection.
 
@@ -18176,7 +18036,7 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 12 January 2011 the amendments are not incorporated in this compilation.
+As at 14 December 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -18204,7 +18064,227 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 12 January 2011 the amendment is not incorporated in this compilation.
+As at 14 December 2010 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Fisheries Legislation Amendment Act (No. 2) 2010 (No. 137, 2010)_
+
+The following amendments commence on 4 January 2011:
+
+## Schedule 3
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="holder"></a>**_holder_** of a licence, permit or right:
+
+                     (a)  means:
+
+                              (i)  the person to whom the licence, permit or right was granted; or
+
+                             (ii)  if the permit or right has been transferred—the person to whom the permit or right was last transferred; and
+
+                     (b)  in the case of a statutory fishing right that is leased to another person by a lease registered under section 46—includes the lessee of the statutory fishing right.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="primari-stakehold"></a>**_primary stakeholder_** has the meaning given in the _Fisheries Administration Act 1991_.
+
+## 3  Subsection 17(5)
+
+Omit “is to set out”, substitute “may set out”.
+
+## 4  Subsections 17(5A) and (5B)
+
+Repeal the subsections.
+
+## 5  Subsection 17(6B)
+
+Repeal the subsection, substitute:
+
+          (6B)  A determination made by AFMA under paragraph (6)(aa) is a legislative instrument.
+
+## 6  Subsection 17(11)
+
+Repeal the subsection, substitute:
+
+           (11)  AFMA may, by writing under its common seal, delegate any powers conferred on it under a plan of management for a fishery in accordance with paragraph (6)(aa) to:
+
+                     (a)  the CEO; or
+
+                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+
+## 7  Subsections 19(2) and (3)
+
+Repeal the subsections.
+
+## 8  At the end of section 20
+
+Add:
+
+             (6)  However, subsection (2) of this section, subsections 17(1B) to (4), and sections 18 and 19 do not apply to an amendment of a plan of management that merely:
+
+                     (a)  corrects an error in the plan (including a factual, grammatical, mapping or typographical error, for example); or
+
+                     (b)  changes the format or presentation of the plan; or
+
+                     (c)  changes a matter in the plan to make the plan consistent with:
+
+                              (i)  this or another Act; or
+
+                             (ii)  the regulations; or
+
+                     (d)  removes conditions from the plan if conditions for the plan’s fishery about the same subject matter have been prescribed in the regulations, whether or not the conditions are in the same terms.
+
+             (7)  Also, subsections 17(1B) to (4) and section 19 do not apply to an amendment of a plan of management to remove a provision from the plan if, within 1 year before the proposed amendment is to take effect, the following entities have been given at least 28 days written notice of the proposed amendment:
+
+                     (a)  if there is a management advisory committee for the plan’s fishery—the management advisory committee;
+
+                     (b)  if a peak body represents the holders of statutory fishing rights under the plan—the peak body;
+
+                     (c)  if there is no management advisory committee or peak body—the holders of the licences, permits or rights for the fishery.
+
+             (8)  However, section 18 applies to an amendment mentioned in subsection (7) in the same way as section 18 applies to a plan of management.
+
+## 9  Subsections 41A(1) and (2)
+
+Repeal the subsections, substitute:
+
+             (1)  This section applies to a fishery in respect of which fishing concessions, scientific permits or foreign master fishing licences are in force.
+
+             (2)  If, after consultation with:
+
+                     (a)  the management advisory committee for the fishery; or
+
+                     (b)  if there is no management advisory committee for the fishery—the holders of fishing concessions, scientific permits or foreign master fishing licences for the fishery;
+
+AFMA may direct that fishing not be engaged in any part of the fishery, or in a particular part of the fishery, during a period or periods specified in the direction.
+
+          (2A)  At least 7 days before the direction takes effect, AFMA must tell the holders of the fishing concessions, scientific permits or foreign master fishing licences, in writing, about the direction.
+
+          (2B)  However, if a direction is given in an emergency:
+
+                     (a)  subsection (2A) does not apply; and
+
+                     (b)  AFMA must tell the holders of the fishing concessions, scientific permits or foreign master fishing licences, in writing, about the direction as soon as it can practicably do so.
+
+          (2C)  AFMA may, by writing under its common seal, delegate the power to give a direction under subsection (2) to:
+
+                     (a)  the CEO; or
+
+                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+
+## 10  After section 42A
+
+Insert:
+
+##### <a id="42B"></a>42B  Regulation-making power for conditions
+
+             (1)  The regulations may prescribe conditions that apply to fishing concessions or foreign master fishing licences.
+
+             (2)  A provision of a plan of management has no effect to the extent that it is inconsistent with regulations made for the purposes of this section.
+
+## 11  Paragraph 57H(1)(a)
+
+Omit “person to whom the permit is granted”, substitute “holder of the permit”.
+
+## 12  Paragraph 101(1)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+
+## 13  Paragraph 101A(4)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+
+## 14  Paragraph 101AA(2)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  the boat’s fishing equipment is stowed and the boat is travelling, by the shortest practicable route, through the AFZ from a point beyond the outer limits of the AFZ to another such point; or
+
+The following amendments commence on the later of 4 January 2011 and the day the Agreement on Cooperative Enforcement of Fisheries Laws between the Government of Australia and the Government of the French Republic in the Maritime Areas Adjacent to the French Southern and Antarctic Territories, Heard Island and the McDonald Islands that was done at Paris on 8 January 2007 comes into force. However, if the Agreement does not come into force before 30 June 2011, the amendments do not commence, _see_ subsection 2(1) (item 4):
+
+## Schedule 3
+
+## 15  Subsection 4(1)
+
+Insert:
+
+                    <a name="cooper-enforc"></a>**_cooperative enforcement_** has the meaning given by section 84B.
+
+## 16  Subsection 4(1)
+
+Insert:
+
+                    <a name="cooper-enforc-agreem"></a>**_Cooperative Enforcement Agreement_** has the meaning given by section 84B.
+
+## 17  Subsection 4(1)
+
+Insert:
+
+                    <a name="intern-offic"></a>**_international officer_** has the meaning given by section 84B.
+
+## 18  After section 84AA
+
+Insert:
+
+##### <a id="84B"></a>84B  Cooperative Enforcement Agreement
+
+Purpose
+
+             (1)  The purpose of this section is to implement the Agreement on Cooperative Enforcement of Fisheries Laws between the Government of Australia and the Government of the French Republic in the Maritime Areas Adjacent to the French Southern and Antarctic Territories, Heard Island and the McDonald Islands that was done at Paris on 8 January 2007 (the **_Cooperative Enforcement Agreement_**).
+
+Note 1:       In 2010, the text of the Agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+Note 2:       The Agreement should be read together with the Treaty between the Government of Australia and the Government of the French Republic on cooperation in the Maritime Areas Adjacent to the French Southern and Antarctic Territories (TAAF), Heard Island and the McDonald Islands, that was done at Canberra on 24 November 2003\. The text of the Treaty is set out in Australian Treaty Series 2005 No. 6 (\[2005] ATS 6). In 2010, the text of a treaty in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+International officers
+
+             (2)  An international officer may, for the purposes of conducting cooperative enforcement, exercise any of the powers of an officer in this Division. In doing so, the international officer is taken for the purposes of this Act to have exercised the power as an officer.
+
+             (3)  The regulations may prescribe conditions for the exercise of a power by an international officer.
+
+             (4)  Subsections 84(4) and (6) apply in relation to the exercise of a power by an international officer as if references in those subsections to the officer’s identity card were references to a document:
+
+                     (a)  issued by an officer; and
+
+                     (b)  identifying the international officer as an international officer authorised to conduct cooperative enforcement.
+
+             (5)  An international officer is not liable to any civil or criminal proceedings in respect of anything done or omitted to be done in good faith in the exercise or purported exercise of a power conferred on an international officer by subsection (3).
+
+Officers
+
+             (6)  An officer may, for the purposes of conducting cooperative enforcement, exercise any powers conferred by the Government of the French Republic on officers in order to give effect to the Cooperative Enforcement Agreement.
+
+             (7)  An officer is not liable to any civil or criminal proceedings in respect of anything done or omitted to be done in good faith in the exercise or purported exercise of a power referred to in subsection (6).
+
+Definitions
+
+             (8)  In this Act:
+
+                    <a name="cooper-enforc"></a>**_cooperative enforcement_** means cooperative enforcement, as defined in the Cooperative Enforcement Agreement, that is conducted in accordance with that Agreement.
+
+                    <a name="intern-offic"></a>**_international officer_** means a person who is authorised to conduct cooperative enforcement by a competent authority of the Government of the French Republic.
+
+## 19  Subsection 87(1)
+
+Omit “but not within the territorial sea of another country”.
+
+## 20  After subsection 87(1)
+
+Insert:
+
+       (1AA)  Subsection (1) does not apply to a place within the territorial sea of another country, unless the other country has given written permission for the power to be exercised in the other country’s territorial sea (including permission given in a treaty, for example).
+
+As at 14 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18446,6 +18526,6 @@ Repeal the item.
 
 _Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
 
-As at 12 January 2011 the amendment is not incorporated in this compilation.
+As at 14 December 2010 the amendment is not incorporated in this compilation.
 
  
