@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00488/Html/62d17d20-8b9e-4091-b64c-7983752ac401_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00435/Html/88fb534d-dffe-43ac-8083-8a21a84e03df_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 11 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -176,8 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
 
-[47C](#47C).       Public interest conditional exemptions—deliberative 
- processes
+[47C](#47C).       Public interest conditional exemptions—deliberative processes
 
 [47D](#47D).       Public interest conditional exemptions—financial or property interests of the Commonwealth or Norfolk Island
 
@@ -401,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Onus
 
-[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act  1975_
+[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act 1975_
 
 [62](#62).          Application of section 28 of Administrative Appeals Tribunal Act etc 
 
@@ -633,8 +632,6 @@ Note:          See subsections 3(2) to (7) of the _Ombudsman A
 
                     <a name="cabinet-notebook"></a>**_Cabinet notebook_** means a notebook or other like record that contains notes of discussions or deliberations taking place in a meeting of the Cabinet, if the notes were made in the course of those discussions or deliberations by, or under the authority of, the Secretary to the Cabinet.
 
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
                     <a name="commiss-inquiri"></a>**_Commission of inquiry_** means:
 
                      (a)  the Commission of inquiry within the meaning of the _Quarantine Act 1908_; or
@@ -756,10 +753,6 @@ but does not include:
                      (b)  a document that sets out how to access, or that is likely to facilitate access to, offensive internet content (for example: by setting out the name of a website, an IP address, a URL, a password, or the name of a newsgroup).
 
                     <a name="exempt-matter"></a>**_exempt matter_** means matter the inclusion of which in a document causes the document to be an exempt document.
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
 
                     <a name="ic-review"></a>**_IC review_** has the meaning given by section 54G.
 
@@ -1127,7 +1120,7 @@ but this Act does not apply to any request for access to a document of a tribuna
 
              (2)  For the purposes of this Act, a document in the possession of a person employed under section 13 of the _Governor‑General Act 1974_ that is in his or her possession by reason of his or her employment under that section shall be taken to be in the possession of the Official Secretary to the Governor‑General.
 
-##### <a id="6C"></a>6C  Requirement for Commonwealth contracts
+##### <a id="6C"></a>6C  Requirement for Commonwealth contracts
 
              (1)  This section applies to an agency if a service is, or is to be, provided under a Commonwealth contract in connection with the performance of the functions or the exercise of the powers of the agency.
 
@@ -1670,7 +1663,7 @@ more than 5 years before the commencement of this subsection unless:
 
                      (d)  in the care (within the meaning of the _Archives Act 1983_) of the National Archives of Australia (otherwise than as a document relating to the administration of the National Archives of Australia); or
 
-                     (e)  a program or related material (within the meaning of the _National Film and Sound Archive of Australia Act 2008_) in the collection of the National Film and Sound Archive of Australia;
+                     (e)  a program or related material (within the meaning of the _National Film and Sound Archive Act 2008_) in the collection of the National Film and Sound Archive;
 
 if the document was placed in that collection, or in that custody, by or on behalf of a person (including a Minister or former Minister) other than an agency.
 
@@ -3366,7 +3359,7 @@ Sections 53A, 53B and 53C define the terms **_access refusal decision_**, **_a
 
 ##### <a id="53"></a>53  Interpretation
 
-                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non‑existence of the document is not acknowledged.
+                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non‑existence of the document is not acknowledged.
 
 ##### <a id="53A"></a>53A  What is an _access refusal decision_?
 
@@ -6319,12 +6312,12 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Human Services Department, in relation to documents in respect of commercial activities relating to the functions of the Chief Executive Medicare</div>
+    <div>Indigenous Business Australia, in relation to documents in respect of its commercial activities</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Indigenous Business Australia, in relation to documents in respect of its commercial activities</div>
+    <div>Medicare Australia, in relation to documents in respect of its commercial activities</div>
   </td>
 </tr>
 <tr>
@@ -7333,7 +7326,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 5): 22 Apr 2011 ( <i>see</i>s. 2(2) and F2011L00637)</div>
+    <div>Schedule 2 (item 5): 22 Apr 2011 ( <i>see</i>F2011L00637) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7367,7 +7360,7 @@ Remainder: Royal Assent</div>
     <div>7 July 1997</div>
   </td>
   <td>
-    <div>Schedule 5 (item 3): <i>(c)</i></div>
+    <div>Schedule 5 (item 3): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7435,7 +7428,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 26–28): <i>(d)</i></div>
+    <div>Schedule 3 (items 1, 26–28): <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7452,7 +7445,7 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 8 (item 15): <i>(e)</i></div>
+    <div>Schedule 8 (item 15): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7520,7 +7513,7 @@ Remainder: Royal Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 2): <i>(f)</i></div>
+    <div>Schedule 2 (items 1, 2): <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7554,7 +7547,7 @@ Remainder: Royal Assent</div>
     <div>28 Apr 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): <i>(g)</i></div>
+    <div>Schedule 1 (item 1): <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7605,7 +7598,7 @@ Remainder: Royal Assent</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6, 6A, 7): <i>(h)</i></div>
+    <div>Schedule 1 (items 6, 6A, 7): <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7692,7 +7685,7 @@ Remainder: 28 Nov 2003</div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: <i>(i)</i> 
+    <div>Schedules 1 and 2: <i>(j)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -8107,7 +8100,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 5 (items 58, 59): Royal Assent 
-Schedule 5 (item 137(a), (c)): <i>(j)</i></div>
+Schedule 5 (item 137(a), (c)): <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8125,7 +8118,7 @@ Schedule 5 (item 137(a), (c)): <i>(j)</i></div>
   </td>
   <td>
     <div>Schedule 1, Schedule 3 (items 7–14, 
-16–34, 39), Schedule 4 (items 1–57, 65), Schedule 6 (items 1–41) and Schedule 7: <i>(k)</i> 
+16–34, 39), Schedule 4 (items 1–57, 65), Schedule 6 (items 1–41) and Schedule 7: <i>(l)</i> 
 Schedule 2 and Schedule 3 (item 15): 1 May 2011</div>
   </td>
   <td>
@@ -8146,7 +8139,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
   <td>
     <div>Schedule 1 (item 66): 11 Dec 2010 
 Schedule 1 (items 155–175, 183–239): 1 Jan 2011 
-Schedule 1 (items 176–182): <i>(l)</i></div>
+Schedule 1 (items 176–182): <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8197,7 +8190,7 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 1 July 2011</div>
+    <div>Schedule 1 (items 1, 2): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -8231,7 +8224,7 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 108–113): 1 July 2011</div>
+    <div>Schedule 4 (items 108–113): \[ <i>see</i>Note 5 and Table A]</div>
   </td>
   <td>
     <div>Sch. 4 (item 113) \[ <i>see</i>Table A]</div>
@@ -8250,25 +8243,29 @@ _(b)_     The _Freedom of Information Act 1982_ was amended by the Sched
 
          The transfer time occurred on 19 July 1996.
 
-_(c)_     The _Freedom of Information Act 1982_ was amended by Schedule 5 (item 3) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
+_(c)_     The _Freedom of Information Act 1982_ was amended by Schedule 2 (item 5) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities.
+
+_(d)_     The _Freedom of Information Act 1982_ was amended by Schedule 5 (item 3) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences immediately after the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
 
          The _Aged Care Act 1997_ (other than Division 1) commenced on 1 October 1997 _._
 
-_(d)_     The _Freedom of Information Act 1982_ was amended by Schedule 3 (items 1, 26–28) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Freedom of Information Act 1982_ was amended by Schedule 3 (items 1, 26–28) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   This Act (other than Schedule 3) commences on the day on which it receives the Royal Assent.
 
                  (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
-_(e)_     The _Freedom of Information Act 1982_ was amended by Schedule 8 (item 15) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
+_(f)_      The _Freedom of Information Act 1982_ was amended by Schedule 8 (item 15) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
 
                (17)   Schedule 8 commences immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_. 
 
  The _A New Tax System (Goods and Services Tax) Act 1999_ came into operation on 1 July 2000.
 
-_(f)_      The _Freedom of Information Act 1982_ was amended by Schedule 2 (items 1 and 2) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
+_(g)_     The _Freedom of Information Act 1982_ was amended by Schedule 2 (items 1 and 2) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
@@ -8276,7 +8273,7 @@ Note:          See sections 12 and 13 for the transfer day, 
 
 The transfer day was 1 February 2001 (_see Gazette_ 2001, No. GN6).
 
-_(g)_     The _Freedom of Information Act 1982_ was amended by Schedule 1 (item 1) only of the _Pig Industry Act 2001_, subsection 2(2) of which provides as follows:
+_(h)_     The _Freedom of Information Act 1982_ was amended by Schedule 1 (item 1) only of the _Pig Industry Act 2001_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 1 (other than item 3) commences immediately after the transfer time.
 
@@ -8284,7 +8281,7 @@ Note:          **_Transfer time_** is defined in section 7.
 
          The transfer time was the beginning of 1 July 2001 (_see Gazette_ 2001, No. S269).
 
-_(h)_     Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:
+_(i)_      Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -8374,7 +8371,7 @@ _(h)_     Subsection 2(1) (item 2) of the _Transport Safety Investigat
   </td>
 </tr></table>
 
-_(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
+_(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -8429,7 +8426,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
   </td>
 </tr></table>
 
-_(j)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+_(k)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -8500,7 +8497,7 @@ _(j)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
 </tr></table>
 
-_(k)_ Subsection 2(1) (items 2, 4, 6 and 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
+_(l)_ Subsection 2(1) (items 2, 4, 6 and 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -8629,7 +8626,7 @@ _(k)_ Subsection 2(1) (items 2, 4, 6 and 7) of the _Freedom of Information Ame
   </td>
 </tr></table>
 
-_(l)_      Subsection 2(1) (item 7) of the _Territories Law Reform Act 2010_ provides as follows:
+_(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -8752,7 +8749,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Territories Law Reform A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010; Nos. 23 and 32, 2011</div>
+    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010; No. 23, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9080,7 +9077,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Territories Law Reform A
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 158, 2007; No. 113, 2008; No. 102, 2009; No. 51, 2010; No. 20, 2011</div>
+    <div>am. No. 81, 1983; No. 158, 2007; No. 113, 2008; No. 102, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11554,7 +11551,7 @@ Part VIII</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010; Nos. 23 and 32, 2011</div>
+    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010; No. 23, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11629,6 +11626,71 @@ Section 53B (table item 1)—Schedule 1 (item 210) of the _Territories Law
 After “relations”, insert “etc.”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 4
+
+_Screen Australia (Transfer of Assets) Act 2011 (No. 20, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 1
+
+## 1  Paragraph 13(1)(e)
+
+Omit “_National Film and Sound Archive Act 2008_”, substitute “_National Film and Sound Archive of Australia Act 2008_”.
+
+## 2  Paragraph 13(1)(e)
+
+Omit “National Film and Sound Archive”, substitute “National Film and Sound Archive of Australia”.
+
+As at 11 June 2011 the amendments are not incorporated in this compilation.
+
+### Note 5
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 108  Subsection 4(1)
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 109  Subsection 4(1)
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 110  Subsection 4(1)
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
+
+## 111  Division 1 of Part II of Schedule 2 (before the item relating to Indigenous Business Australia)
+
+Insert:
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>Human Services Department, in relation to documents in respect of commercial activities relating to the functions of the Chief Executive Medicare</div>
+  </td>
+</tr></table>
+
+## 112  Division 1 of Part II of Schedule 2 (the item relating to Medicare Australia)
+
+Repeal the item.
+
+As at 11 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -11896,6 +11958,8 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010 (No. 14
 * * *
 
 _Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following provision commences on 1 July 2011:
 
 ## Schedule 4
 
