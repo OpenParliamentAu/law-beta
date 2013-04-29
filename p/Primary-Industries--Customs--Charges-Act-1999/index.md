@@ -1,284 +1,286 @@
-![](http://www.comlaw.gov.au/Details/C2007C00463/Html/PrimIndCusomstCharges1999WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="50A7C618CA0E5B5CCA256FBD0001419A/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Primary Industries (Customs) Charges Act 1999
 
 **Act No. 30 of 1999 as amended**
 
-This compilation was prepared on 10 July 2007
- taking into account amendments up to Act No. 123 of 2007
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="3" month="3">3 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Simplified outline                                                                                 1
+[3](#3).            Simplified outline<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[5](#5).            Act to bind Crown                                                                               2
+[5](#5).            Act to bind Crown<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[6](#6).            Duties of customs                                                                                2
+[6](#6).            Duties of customs<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[7](#7).            Imposition of charge                                                                            2
+[7](#7).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[8](#8).            Regulations                                                                                          2
+[8](#8).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-**Schedule 1—Buffaloes**
+**Schedule 1—Buffaloes<span style="mso-tab-count: 1">                                                                                                         </span>**
 
-[1](#1).            Imposition of charge                                                                            3
+[1](#1).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[2](#2).            Rate of charge                                                                                      3
+[2](#2).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[3](#3).            Who pays the charge                                                                           3
+[3](#3).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[4](#4).            Transitional—regulations                                                                    3
+[4](#4).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-**Schedule 2—Cattle (exporters)**
+**Schedule 2—Cattle (exporters)<span style="mso-tab-count: 1">                                                                                       </span>**
 
-[1](#1).            Definitions                                                                                           5
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[2](#2).            Imposition of charge                                                                            5
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[3](#3).            Rate of charge                                                                                      5
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[4](#4).            Who pays the charge                                                                           6
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[5](#5).            Regulations                                                                                          6
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[6](#6).            Transitional—regulations                                                                    6
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[7](#7).            Transitional—declarations                                                                   7
+[7](#7).            Transitional—declarations<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-**Schedule 3—Cattle (producers)**
+**Schedule 3—Cattle (producers)<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[1](#1).            Definitions                                                                                           8
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[2](#2).            Imposition of charge                                                                            9
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[3](#3).            Rate of charges                                                                                     9
+[3](#3).            Rate of charges<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[4](#4).            Who pays the charge                                                                         10
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        11
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  11
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[7](#7).            Transitional—declarations                                                                 11
+[7](#7).            Transitional—declarations<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-**Schedule 4—Dairy produce**
+**Schedule 4—Dairy produce<span style="mso-tab-count: 1">                                                                                             </span>**
 
-[1](#1).            Definitions                                                                                         12
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge—re-importation of exported dairy produce    13
+[2](#2).            Imposition of charge—re-importation of exported dairy produce<span style="mso-tab-count: 1 dotted">    </span>
 
-[3](#3).            Imposition of charge—import offset                                                 13
+[3](#3).            Imposition of charge—import offset<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[4](#4).            Rate of charges                                                                                   14
+[4](#4).            Rate of charges<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[5](#5).            Who pays the charge                                                                         15
+[5](#5).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[6](#6).            Charge may be referred to as a levy                                                   16
+[6](#6).            Charge may be referred to as a levy<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-**Schedule 5—Deer**
+**Schedule 5—Deer<span style="mso-tab-count: 1">                                                                                                                 </span>**
 
-[1](#1).            Definitions                                                                                         17
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          17
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    17
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         17
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        17
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  18
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Schedule 6—Deer velvet**
+**Schedule 6—Deer velvet<span style="mso-tab-count: 1">                                                                                                  </span>**
 
-[1](#1).            Definitions                                                                                         19
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          19
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    19
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         21
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        21
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  21
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[7](#7).            Transitional—delegation                                                                    21
+[7](#7).            Transitional—delegation<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-**Schedule 7—Forest industries (export)**
+**Schedule 7—Forest industries (export)<span style="mso-tab-count: 1">                                                                    </span>**
 
-[1](#1).            Definitions                                                                                         22
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          22
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    23
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         23
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        23
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  23
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Schedule 8—Forest industries (import)**
+**Schedule 8—Forest industries (import)<span style="mso-tab-count: 1">                                                                    </span>**
 
-[1](#1).            Definitions                                                                                         24
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          24
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    24
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         25
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        25
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  26
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[7](#7).            Transitional—determinations                                                            26
+[7](#7).            Transitional—determinations<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-**Schedule 9—Honey**
+**Schedule 9—Honey<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[1](#1).            Definitions                                                                                         27
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          27
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    28
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         28
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        28
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  29
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Schedule 10—Horticultural products**
+**Schedule 10—Horticultural products<span style="mso-tab-count: 1">                                                                         </span>**
 
-[1](#1).            Definitions                                                                                         30
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          30
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rates of charge                                                                                   31
+[3](#3).            Rates of charge<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[4](#4).            Who pays the charge                                                                         32
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        32
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  34
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Schedule 11—Live-stock (exporters)**
+**Schedule 11—Live-stock (exporters)<span style="mso-tab-count: 1">                                                                        </span>**
 
-[1](#1).            Definitions                                                                                         35
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          35
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge—sheep                                                                       36
+[3](#3).            Rate of charge—sheep<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[4](#4).            Rate of charge—lambs                                                                       36
+[4](#4).            Rate of charge—lambs<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[5](#5).            Rate of charge—goats                                                                        36
+[5](#5).            Rate of charge—goats<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[6](#6).            Who pays the charge                                                                         36
+[6](#6).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[7](#7).            Regulations                                                                                        37
+[7](#7).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[8](#8).            Transitional—regulations                                                                  37
+[8](#8).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[9](#9).            Transitional—declarations                                                                 37
+[9](#9).            Transitional—declarations<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[10](#10).          Transitional—authorisations                                                             38
+[10](#10).          Transitional—authorisations<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-**Schedule 12—Live-stock (producers)**
+**Schedule 12—Live-stock (producers)<span style="mso-tab-count: 1">                                                                       </span>**
 
-[1](#1).            Definitions                                                                                         39
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          39
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charges—sheep                                                                     40
+[3](#3).            Rate of charges—sheep<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[4](#4).            Rate of charges—lambs                                                                     40
+[4](#4).            Rate of charges—lambs<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[5](#5).            Rate of charges—goats                                                                      40
+[5](#5).            Rate of charges—goats<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[6](#6).            Who pays the charge                                                                         41
+[6](#6).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[7](#7).            Regulations                                                                                        41
+[7](#7).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[8](#8).            Transitional—regulations                                                                  41
+[8](#8).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[9](#9).            Transitional—declarations                                                                 42
+[9](#9).            Transitional—declarations<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-**Schedule 13—Wine**
+**Schedule 13—Wine<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[1](#1).            Definitions                                                                                         43
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[2](#2).            Imposition of charge                                                                          43
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Rate of charge                                                                                    43
+[3](#3).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[4](#4).            Who pays the charge                                                                         43
+[4](#4).            Who pays the charge<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[5](#5).            Regulations                                                                                        44
+[5](#5).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[6](#6).            Transitional—regulations                                                                  44
+[6](#6).            Transitional—regulations<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Schedule 14—Regulations may impose primary industries charges** 
+**Schedule 14—Regulations may impose primary industries charges<span style="mso-tab-count: 1">       </span>** 
 
-**Part 1—Definitions**
+**Part 1—Definitions<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Definitions                                                                                         45
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-**Part 2—Regulations may impose charges on primary industry products**
+**Part 2—Regulations may impose charges on primary industry products<span style="mso-tab-count: 1"> </span>**
 
-[2](#2).            Imposition of charge                                                                          47
+[2](#2).            Imposition of charge<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[3](#3).            Imposition of 2 or more charges                                                        47
+[3](#3).            Imposition of 2 or more charges<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[4](#4).            Additional charges                                                                             47
+[4](#4).            Additional charges<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-**Part 3—Rate of charge**
+**Part 3—Rate of charge<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-[5](#5).            Rate of charge                                                                                    48
+[5](#5).            Rate of charge<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[6](#6).            Composite rate of charge                                                                   48
+[6](#6).            Composite rate of charge<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[7](#7).            Flexibility in relation to rates of charge                                             48
+[7](#7).            Flexibility in relation to rates of charge<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[8](#8).            Maximum rate of charge for animal products                                    48
+[8](#8).            Maximum rate of charge for animal products<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[9](#9).            Maximum rate of charge for plant products                                      49
+[9](#9).            Maximum rate of charge for plant products<span style="mso-tab-count: 1 dotted">                                      </span>
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[10](#10).          Person liable to pay charge                                                                50
+[10](#10).          Person liable to pay charge<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[11](#11).          Exemptions from charge                                                                    50
+[11](#11).          Exemptions from charge<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[12](#12).          Designated bodies                                                                              50
+[12](#12).          Designated bodies<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[13](#13).          Regulations                                                                                        50
+[13](#13).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+
 
 ## An Act relating to the imposition of primary industries charges that are duties of customs
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Primary Industries (Customs) Charges Act 1999_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
@@ -286,17 +288,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Act authorises the imposition of primary industries charges that are duties of customs.</li>
 
-Act authorises the imposition of primary industries charges that are duties of
-
-customs.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Each
-
-of Schedules 1 to 13 imposes a particular charge and makes provision for:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Each of Schedules 1 to 13 imposes a particular charge and makes provision for:</li>
 
                (a)     the operative rate of the charge; and
 
@@ -306,11 +302,7 @@ of Schedules 1 to 13 imposes a particular charge and makes provision for:</li>
 
                (d)     any exemptions from the charge.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule 14
-
-allows the regulations to impose charges. In addition to imposing a particular
-
-charge, regulations under Schedule 14 are to set out:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Schedule 14 allows the regulations to impose charges. In addition to imposing a particular charge, regulations under Schedule 14 are to set out:</li>
 
                (a)     the operative rate of the charge; and
 
@@ -318,13 +310,7 @@ charge, regulations under Schedule 14 are to set out:</li>
 
                (c)     any exemptions from the charge.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule 14
-
-sets out the maximum rate of charge that can be imposed by regulations under
-
-that Schedule.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Schedule 14 sets out the maximum rate of charge that can be imposed by regulations under that Schedule.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -332,7 +318,7 @@ that Schedule.</li>
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island.
+                   This Act binds the Crown in right of each of the States, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
 ##### <a id="6"></a>6  Duties of customs
 
@@ -350,11 +336,12 @@ that Schedule.</li>
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Schedule 1—Buffaloes
 
 ##### <a id="1"></a>1  Imposition of charge
 
-             (1)  Charge is imposed on buffaloes exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on buffaloes exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  The regulations may provide that no amount of charge is payable by producers of buffaloes under this Schedule.
 
@@ -374,17 +361,19 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Na
 
 ##### <a id="3"></a>3  Who pays the charge
 
-                   Charge imposed by this Schedule on buffaloes exported from Australia is payable by the producer of the buffaloes.
+                   Charge imposed by this Schedule on buffaloes exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the producer of the buffaloes.
 
 ##### <a id="4"></a>4  Transitional—regulations
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Buffalo__Export Charge Act 1997_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Export Charge Act 1997_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 2—Cattle (exporters)
 
@@ -398,17 +387,17 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Na
 
                     <a name="licens-dairi-premis"></a>**_licensed dairy premises_** means premises that, under the law of the State or Territory in which the premises are situated, are authorised for use as a dairy farm.
 
-                    <a name="live-stock-export-market-bodi"></a>**_live-stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+                    <a name=""></a><a name="live-stock-export-market-bodi"></a>**_live-stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="live-stock-export-research-bodi"></a>**_live-stock export research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export of cattle (other than dairy cattle) from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on the export of cattle (other than dairy cattle) from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  The regulations may provide that no amount of charge is payable by exporters of cattle under this Schedule.
 
-             (3)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (2) is made, an amount of charge is not payable under this Schedule on the export of cattle from Australia in respect of any period while the regulation is in force.
+             (3)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (2) is made, an amount of charge is not payable under this Schedule on the export of cattle from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in respect of any period while the regulation is in force.
 
 ##### <a id="3"></a>3  Rate of charge
 
@@ -428,7 +417,7 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
 
 ##### <a id="4"></a>4  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of cattle from Australia is payable by the exporter of the cattle.
+                   Charge imposed by this Schedule on the export of cattle from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the exporter of the cattle.
 
 ##### <a id="5"></a>5  Regulations
 
@@ -455,6 +444,8 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
                      (b)  the declaration was in force immediately before the commencement of this clause.
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 3—Cattle (producers)
 
@@ -484,9 +475,9 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export from Australia after the commencement of this Schedule of cattle (other than dairy cattle). However, charge is not imposed by this subclause on the export of cattle (other than dairy cattle) if levy under Schedule 3 to the _Primary Industries (Excise) Levies Act 1999_ or the repealed _Cattle Transactions Levy Act 1997_ has been paid, or is payable, in respect of an act or transaction relating to the cattle.
+             (1)  Charge is imposed on the export from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule of cattle (other than dairy cattle). However, charge is not imposed by this subclause on the export of cattle (other than dairy cattle) if levy under Schedule 3 to the _Primary Industries (Excise) Levies Act 1999_ or the repealed _Cattle Transactions Levy Act 1997_ has been paid, or is payable, in respect of an act or transaction relating to the cattle.
 
-             (2)  Charge is imposed on the export from Australia after the commencement of this Schedule of cattle (other than dairy cattle) if:
+             (2)  Charge is imposed on the export from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule of cattle (other than dairy cattle) if:
 
                      (a)  the cattle were purchased by the exporter, whether before or after the commencement of this Schedule; and
 
@@ -540,7 +531,7 @@ Note 4:       Paragraph (2)(d) identifies amounts that, under the 
 
 ##### <a id="4"></a>4  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of cattle from Australia is payable by the producer of the cattle.
+                   Charge imposed by this Schedule on the export of cattle from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the producer of the cattle.
 
 ##### <a id="5"></a>5  Regulations
 
@@ -568,6 +559,8 @@ Note 4:       Paragraph (2)(d) identifies amounts that, under the 
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 4—Dairy produce
 
 ##### <a id="1"></a>1  Definitions
@@ -580,13 +573,13 @@ Note:          Clause 6 provides that charge imposed by this
 
                      (a)  the person has an export milk fat component or an export protein component, or both, within the meaning of clause 8 of Schedule 6 to the _Primary Industries (Excise) Levies Act 1999_, for a month or months of the year; or
 
-                     (b)  during the year, the person has exported from Australia dairy produce and:
+                     (b)  during the year, the person has exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> dairy produce and:
 
                               (i)  relevant dairy produce used, whether by that person or by another person, in the manufacture of the exported dairy produce has been taken into account in the calculation of manufacturing milk levy; and
 
                              (ii)  the export of the dairy produce has not been taken into account for the purposes of subclause 8(2) of Schedule 6 to the _Primary Industries (Excise) Levies Act 1999_ or of subsection 7(2) of the repealed _Dairy Produce Levy (No. 1) Act 1986_.
 
-             (3)  For the purposes of this Schedule, an export from Australia of dairy produce constitutes a **_relevant export_** if:
+             (3)  For the purposes of this Schedule, an export from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of dairy produce constitutes a **_relevant export_** if:
 
                      (a)  the export of the dairy produce has been taken into account for the purposes of subclause 8(2) of Schedule 6 to the _Primary Industries (Excise) Levies Act 1999_ or of subsection 7(2) of the repealed _Dairy Produce Levy (No. 1) Act 1986_; or
 
@@ -598,11 +591,11 @@ Note:          Clause 6 provides that charge imposed by this
 
              (4)  For the purposes of this Schedule, the question whether a body corporate is related to another body corporate is to be determined in the same way as the question whether bodies corporate are related to each other is determined for the purposes of the _Corporations Act 2001_.
 
-##### <a id="2"></a>2  Imposition of charge—re-importation of exported dairy produce
+##### <a id="2"></a>2  Imposition of charge—re-importation of exported dairy produce
 
                    If:
 
-                     (a)  dairy produce is exported from Australia (whether before or after the commencement of this Schedule); and
+                     (a)  dairy produce is exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this Schedule); and
 
                      (b)  one of the following conditions is satisfied:
 
@@ -612,13 +605,13 @@ Note:          Clause 6 provides that charge imposed by this
 
                             (iii)  a person has been paid, or is entitled to be paid, a manufacturing milk levy rebate under section 108E of the _Dairy Produce Act 1986_ in relation to the export of the dairy produce; and
 
-                     (c)  the dairy produce is subsequently imported into Australia, after the commencement of this Schedule, in the same form, or substantially the same form, as it was exported;
+                     (c)  the dairy produce is subsequently imported into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, after the commencement of this Schedule, in the same form, or substantially the same form, as it was exported;
 
 charge is imposed on the dairy produce.
 
 ##### <a id="3"></a>3  Imposition of charge—import offset
 
-             (1)  Charge is imposed on the total quantity of dairy produce imported into Australia during a financial year commencing on or after 1 July 1999:
+             (1)  Charge is imposed on the total quantity of dairy produce imported into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> during a financial year commencing on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>:
 
                      (a)  by a prescribed exporter; or
 
@@ -684,6 +677,8 @@ charge is not imposed by clause 3 on the importation of dairy produce by the p
 
              (2)  Subclause (1) has effect only for the purposes of the imposition of the charge.
 
+<o:p> </o:p>
+
 # Schedule 5—Deer
 
 ##### <a id="1"></a>1  Definitions
@@ -698,7 +693,7 @@ charge is not imposed by clause 3 on the importation of dairy produce by the p
 
 ##### <a id="2"></a>2  Imposition of charge
 
-                   Charge is imposed on live deer produced in Australia (whether before or after the commencement of this Schedule) that are exported from Australia after the commencement of this Schedule.
+                   Charge is imposed on live deer produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this Schedule) that are exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
 ##### <a id="3"></a>3  Rate of charge
 
@@ -728,6 +723,8 @@ charge is not imposed by clause 3 on the importation of dairy produce by the p
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 6—Deer velvet
 
 ##### <a id="1"></a>1  Definitions
@@ -756,7 +753,7 @@ charge is not imposed by clause 3 on the importation of dairy produce by the p
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on deer velvet produced in Australia (whether before or after the commencement of this Schedule) that is exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on deer velvet produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this Schedule) that is exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed by this Schedule on deer velvet on which levy has already been imposed by Schedule 8 to the _Primary Industries (Excise) Levies Act 1999_ or by the repealed _Deer Velvet Levy Act 1992_.
 
@@ -778,7 +775,7 @@ Declared value
 
                      (b)  the value so determined is the declared value of the deer velvet for the purposes of calculation of charge imposed by this Schedule.
 
-Note:          A determination by the Secretary of the declared value of deer velvet exported from Australia is reviewable under section 28 of the _Primary Industries Levies and Charges Collection Act 1991_.
+Note:          A determination by the Secretary of the declared value of deer velvet exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is reviewable under section 28 of the _Primary Industries Levies and Charges Collection Act 1991_.
 
              (4)  For the purposes of determining the value of deer velvet under paragraph (3)(a), the Secretary must have regard only to the following:
 
@@ -830,6 +827,8 @@ Delegation
 
              (2)  The delegation has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 7—Forest industries (export)
 
 ##### <a id="1"></a>1  Definitions
@@ -852,13 +851,13 @@ Delegation
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on logs produced in Australia (whether before or after the commencement of this Schedule) and exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on logs produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this Schedule) and exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed by this Schedule on logs if:
 
-                     (a)  levy under Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ or the repealed _Forest__Industries Research Levy Act 1993_ has already been paid on the logs; or
+                     (a)  levy under Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ or the repealed <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Levy Act 1993_ has already been paid on the logs; or
 
-                     (b)  charge under this Schedule or the repealed _Forest__Industries Research Export Charge Act 1993_ has already been paid on the logs.
+                     (b)  charge under this Schedule or the repealed <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Export Charge Act 1993_ has already been paid on the logs.
 
              (3)  The regulations may exempt a specified class of logs from charge imposed by this Schedule.
 
@@ -880,11 +879,13 @@ Delegation
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Forest__Industries Research Export Charge Act 1993_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Export Charge Act 1993_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 8—Forest industries (import)
 
@@ -906,7 +907,7 @@ Delegation
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on forest products imported into Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on forest products imported into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  The regulations may exempt a specified class of forest products from charge imposed by this Schedule.
 
@@ -914,7 +915,7 @@ Delegation
 
              (1)  The rate of charge imposed by this Schedule is:
 
-                     (a)  if the forest products are logs—the rate of levy (if any) that would have been payable under Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ if the logs had been produced in Australia and delivered to a mill in Australia; or
+                     (a)  if the forest products are logs—the rate of levy (if any) that would have been payable under Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_ if the logs had been produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and delivered to a mill in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
                      (b)  otherwise—a rate worked out by multiplying:
 
@@ -946,7 +947,7 @@ Delegation
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Forest__Industries Research Import Charge Act 1993_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Import Charge Act 1993_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
@@ -956,11 +957,13 @@ Delegation
 
              (1)  This clause applies to a determination if:
 
-                     (a)  the determination was made for the purposes of a particular provision of the _Forest__Industries Research Import Charge Act 1993_; and
+                     (a)  the determination was made for the purposes of a particular provision of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Import Charge Act 1993_; and
 
                      (b)  the determination was in force immediately before the commencement of this clause.
 
              (2)  The determination has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 9—Honey
 
@@ -968,7 +971,7 @@ Delegation
 
                    In this Schedule:
 
-                    <a name="honei"></a>**_honey_** means honey that is produced in Australia.
+                    <a name="honei"></a>**_honey_** means honey that is produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
                     <a name="industri-servic-bodi"></a>**_industry services body_** means the industry services body declared under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_.
 
@@ -988,7 +991,7 @@ Delegation
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on honey that is exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on honey that is exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed by this Schedule on honey included in a class of honey declared by the regulations to be a class of honey that is exempt from charge.
 
@@ -1006,7 +1009,7 @@ Delegation
 
 ##### <a id="4"></a>4  Who pays the charge
 
-                   Charge imposed by this Schedule on honey exported from Australia is payable by the producer of the honey.
+                   Charge imposed by this Schedule on honey exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the producer of the honey.
 
 ##### <a id="5"></a>5  Regulations
 
@@ -1025,6 +1028,8 @@ Delegation
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 10—Horticultural products
 
@@ -1066,7 +1071,7 @@ Delegation
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on chargeable horticultural products produced in Australia (whether before or after the commencement of this Schedule) that are exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on chargeable horticultural products produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this Schedule) that are exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed on chargeable horticultural products if the producer has paid levy imposed by Schedule 15 to the _Primary Industries (Excise) Levies Act 1999_, or by the repealed _Horticultural Levy Act 1987_, on those horticultural products.
 
@@ -1164,6 +1169,8 @@ may make recommendations to the Minister in relation to regulations to be made f
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 11—Live-stock (exporters)
 
 ##### <a id="1"></a>1  Definitions
@@ -1182,7 +1189,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed by this Schedule on the export of live-stock that is included in a class of live-stock that is, by notice in the _Gazette_, declared:
 
@@ -1194,7 +1201,7 @@ to be a class of live-stock that is exempt from charge.
 
              (3)  The regulations may provide that no amount of charge is payable by exporters of live-stock under this Schedule.
 
-             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of charge is not payable under this Schedule on the export of live-stock from Australia in respect of any period while the regulation is in force.
+             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of charge is not payable under this Schedule on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in respect of any period while the regulation is in force.
 
 ##### <a id="3"></a>3  Rate of charge—sheep
 
@@ -1234,7 +1241,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
 ##### <a id="6"></a>6  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of live-stock from Australia is payable by the exporter of the live-stock.
+                   Charge imposed by this Schedule on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the exporter of the live-stock.
 
 ##### <a id="7"></a>7  Regulations
 
@@ -1272,6 +1279,8 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
              (2)  The authorisation has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 12—Live-stock (producers)
 
 ##### <a id="1"></a>1  Definitions
@@ -1290,11 +1299,11 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  Charge is not imposed by subclause (1) on the export of live-stock if levy under Schedule 18 to the _Primary Industries (Excise) Levies Act 1999_, or under the repealed _Live-stock Transactions Levy Act 1997_, has been paid, or is payable, in respect of an act or transaction relating to the live-stock.
 
-             (3)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule if:
+             (3)  Charge is imposed on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule if:
 
                      (a)  the live-stock were purchased by the exporter, whether before or after the commencement of this Schedule; and
 
@@ -1356,7 +1365,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
 ##### <a id="6"></a>6  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of live-stock from Australia is payable by the producer of the live-stock.
+                   Charge imposed by this Schedule on the export of live-stock from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is payable by the producer of the live-stock.
 
 ##### <a id="7"></a>7  Regulations
 
@@ -1384,6 +1393,8 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
              (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
+<o:p> </o:p>
+
 # Schedule 13—Wine
 
 ##### <a id="1"></a>1  Definitions
@@ -1396,7 +1407,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on wine produced in Australia (whether before or after the commencement of this clause) that is exported from   Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on wine produced in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (whether before or after the commencement of this clause) that is exported from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> after the commencement of this Schedule.
 
              (2)  The regulations may exempt from charge imposed by this Schedule:
 
@@ -1435,6 +1446,8 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+<o:p> </o:p>
 
 # Schedule 14—Regulations may impose primary industries charges
 
@@ -1496,6 +1509,8 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                     <a name="product"></a>**_product_** means an animal product or a plant product (whether or not any operations have been performed in relation to the animal product or plant product).
 
+<o:p> </o:p>
+
 ## Part 2—Regulations may impose charges on primary industry products
 
 ##### <a id="2"></a>2  Imposition of charge
@@ -1513,6 +1528,8 @@ Note:          Products may be specified by name, by inclusion
 ##### <a id="4"></a>4  Additional charges
 
                    This Part does not prevent the imposition of a charge on a particular product in particular circumstances if another Schedule to this Act applies to the product, whether in those circumstances or in any other circumstances.
+
+<o:p> </o:p>
 
 ## Part 3—Rate of charge
 
@@ -1556,6 +1573,8 @@ Note:          Products may be specified by name, by inclusion
 
              (2)  Subclause (1) applies to plant products, whether or not any operations have been performed in relation to the products.
 
+<o:p> </o:p>
+
 ## Part 4—Miscellaneous
 
 ##### <a id="10"></a>10  Person liable to pay charge
@@ -1592,15 +1611,16 @@ Note:          Products may be specified by name, by inclusion
 
              (4)  Before making a recommendation under this clause, a designated body must consult such other bodies (if any) as are specified in the regulations.
 
-# Notes to the _Primary Industries (Customs) Charges Act 1999_
+
+# Notes to the _<span style="mso-no-proof: yes">Primary Industries (Customs) Charges Act 1999</span>_
 
 ### Note 1
 
 The _Primary Industries (Customs) Charges Act 1999_ as shown in this compilation comprises Act No. 30, 1999 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.<o:p></o:p>
 
 ### Table of Acts
 
@@ -1616,138 +1636,127 @@ For all other relevant information pertaining to application, saving or transiti
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Primary Industries (Customs) Charges Act 1999</div>
-  </td>
-  <td>
-    <div>30, 1999</div>
-  </td>
-  <td>
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>1 July 1999 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
-  </td>
-  <td>
-    <div>163, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 4–16): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 432): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
-  </td>
-  <td>
-    <div>139, 2004</div>
-  </td>
-  <td>
-    <div>13 Dec 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 32–65): 13 Dec 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 270–275, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007</div>
-  </td>
-  <td>
-    <div>123, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 4, 5): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Primary Industries (Customs) Charges Act 1999</div>
+    </td>
+    <td>
+      <div>30, 1999</div>
+    </td>
+    <td>
+      <div>14 May 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2)</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
+    </td>
+    <td>
+      <div>163, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="21" month="12">21 Dec 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 4–16): <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (item 432): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="7">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
+    </td>
+    <td>
+      <div>139, 2004</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="13" month="12">13 Dec 2004</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 32–65): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="13" month="12">13 Dec 2004</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005 <o:p></o:p></div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 270–275, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_     The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedule 2 (items 4–16) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
+
+_(a)_     The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedule 2 (items 4–16) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
-Note:          See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
+Note:<span style="mso-tab-count: 1">          </span>See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.<o:p></o:p>
 
-         The transfer day was 1 February 2001 (_see Gazette_ 2001, No. GN6).
+         The transfer day wa<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname> February 2001 (_see Gazette_ 2001, No. GN6).
 
-_(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedule 3 (item 432) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedule 3 (item 432) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections <st1:time minute="56" hour="9">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -1760,326 +1769,299 @@ _(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedul
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to c. 2</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to c. 3(1)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(2)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to c. 3(2)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead to c. 3(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead to c. 3(5)</div>
-  </td>
-  <td>
-    <div>rs. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 4</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 5</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 4</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 5</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to c. 2  <o:p></o:p></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1  <o:p></o:p></div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 3(1) </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 3(1) </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to c. 3(1) </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 3(2) </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to c. 3(2) </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 10 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead to c. 3(3) </div>
+    </td>
+    <td>
+      <div>rs. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead to c. 3(5) </div>
+    </td>
+    <td>
+      <div>rs. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 11 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 4 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 12 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 4 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 to c. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 14 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
-
-The following amendments commence on 28 December 2007 unless proclaimed earlier:
-
-## Schedule 2
-
-## 4  Clause 1 of Schedule 7 (definition of _industry body_)
-
-Repeal the definition, substitute:
-
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are exporters of logs;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
-
-## 5  Clause 1 of Schedule 8 (definition of _industry body_)
-
-Repeal the definition, substitute:
-
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are importers of forest products;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
-
-As at 10 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -2095,12 +2077,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
