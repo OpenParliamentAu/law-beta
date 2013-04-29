@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 17 July 2012
+This compilation was prepared on 2 April 2012
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force 
@@ -44,11 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8B](#8B).         HCFC quotas and reserve HCFC quotas
 
-[8C](#8C).         ODS equipment
-
-[8D](#8D).         SGG equipment
-
-[9](#9).            Scheduled substances (other than SGGs) in manufactured products
+[9](#9).            Scheduled substances in manufactured products
 
 [10](#10).          Quantities expressed in ODP tonnes
 
@@ -142,9 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VII—Reports and records**
 
-[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances (other than SGGs and substances in ODS equipment or SGG equipment)
-
-[46A](#46A).       Quarterly reports by manufacturers, importers and exporters of SGGs, ODS equipment or SGG equipment
+[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre‑charged equipment
 
 [48](#48).          Records to be kept by licensees
 
@@ -328,12 +322,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69](#69).          Collection of licence levies
 
-[69AA](#69AA).    Remission and refund of import levy—SGGs
-
-[69AB](#69AB).    Remission and refund of import levy—SGG equipment
-
-[69AC](#69AC).    Remission and refund of manufacture levy—SGGs
-
 [69A](#69A).       Implementation of Montreal Protocol—supplementary regulations
 
 [69B](#69B).       Severability
@@ -373,8 +361,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part IX—HFCs** 
 
 **Part X—PFCs** 
-
-**Part XI—Sulfur hexafluoride** 
 
 **Schedule 2—Vienna Convention for the Protection of the Ozone Layer** 
 
@@ -440,7 +426,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             to the extent that such replacements and achievements are reasonably possible within the limits imposed by the availability of suitable alternate substances, and appropriate technology and devices; and
 
-                     (d)  to provide controls on the manufacture, import, export and use of SGGs, for the purposes of giving effect to Australia’s obligations under the Framework Convention on Climate Change and the Kyoto Protocol; and
+                     (d)  to provide controls on the manufacture, import, export and use of SGGs, for the purposes of giving effect to Australia’s obligations under the Framework Convention on Climate Change; and
 
                      (e)  to promote the responsible management of scheduled substances so as to minimise their impact on the atmosphere.
 
@@ -468,7 +454,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7"></a>7  Definitions
 
-                   In this Act, unless the contrary intention appears:
+             (1)  In this Act, unless the contrary intention appears:
 
                     <a name="australia"></a>**_Australia_** includes all the external Territories.
 
@@ -570,11 +556,7 @@ Note:          For jurisdiction of State and Territory courts,
 
                     <a name="import"></a>**_import_**, in relation to goods or a substance, means do an act that constitutes importation of the goods or substance into Australia within the meaning of section 50 of the _Customs Act 1901_, or would constitute such importation if the external Territories were part of Australia for the purposes of that Act.
 
-                    <a name="kyoto-protocol"></a>**_Kyoto Protocol_** means the Kyoto Protocol to the United Nations Framework Convention on Climate Change, done at Kyoto on 11 December 1997, as amended and in force for Australia from time to time.
-
-Note:          The text of the Kyoto Protocol is set out in Australian Treaty Series 2008 No. 2 (\[2008] ATS 2). In 2011, the text of an international agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-                    <a name="licenc"></a>**_licence_**(except when used in Part IV) means a controlled substances licence, an essential uses licence, a used substances licence or an ODS/SGG equipment licence.
+                    <a name="licenc"></a>**_licence_**(except when used in Part IV) means a controlled substances licence, an essential uses licence or a used substances licence.
 
                     <a name="licenc-period"></a>**_licence period_** means a period referred to in section 8A.
 
@@ -594,10 +576,6 @@ Note:          The text of the Kyoto Protocol is set out in Au
 
                     <a name="odp-tonn"></a>**_ODP tonnes_** has the meaning given in section 10.
 
-                    <a name="od-equip"></a>**_ODS equipment_** has the meaning given by section 8C.
-
-                    <a name="od-sgg-equip-licenc"></a>**_ODS/SGG equipment licence_** means an ODS/SGG equipment licence under section 13A.
-
                     <a name="offenc-against-act-regul"></a>**_offence against this Act or the regulations_** includes an offence against section 137.1 or 137.2 of the _Criminal Code_ that relates to this Act or the regulations.
 
 Note:          See also section 11.6 of the _Criminal Code_.
@@ -607,6 +585,10 @@ Note:          See also section 11.6 of the _Criminal Code_.
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
                     <a name="pfc"></a>**_PFC_** means a perfluorocarbon referred to in Part X of Schedule 1, whether existing alone or in a mixture.
+
+                    <a name="pre-charg-equip"></a>**_pre‑charged equipment_** means air‑conditioning equipment, or refrigeration equipment, that contains a substance that is an HFC or HCFC or, but for section 9, would be an HFC or HCFC.
+
+                    <a name="pre-charg-equip-licenc"></a>**_pre‑charged equipment licence_** means a pre‑charged equipment licence under section 13A.
 
                     <a name="premis"></a>**_premises_** includes:
 
@@ -626,19 +608,19 @@ Note:          See also section 11.6 of the _Criminal Code_.
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used or destroyed.
+                     (b)  intended to be re‑used after undergoing a cleaning process.
 
                     <a name="recycl-used-methyl-bromid"></a>**_recycled or used methyl bromide_** means methyl bromide that is:
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used or destroyed.
+                     (b)  intended to be re‑used after undergoing a cleaning process.
 
                     <a name="recycl-stage-stage-schuled-substanc"></a>**_recycled stage‑1 or stage‑2 scheduled substances_** means stage‑1 or stage‑2 scheduled substances that are:
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used or destroyed.
+                     (b)  intended to be re‑used after undergoing a cleaning process.
 
                     <a name="regul-hcfc-activ"></a>**_regulated HCFC activity_** means the following:
 
@@ -656,9 +638,7 @@ Note:          See also section 11.6 of the _Criminal Code_.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
-                    <a name="synthetic-greenhous-ga"></a><a name="sgg"></a>**_SGG_** or **_synthetic greenhouse gas_** means an HFC, a PFC or sulfur hexafluoride.
-
-                    <a name="sgg-equip"></a>**_SGG equipment_** has the meaning given by section 8D.
+                    <a name="synthetic-greenhous-ga"></a><a name="sgg"></a>**_SGG_** or **_synthetic greenhouse gas_** means an HFC or a PFC.
 
                     <a name="sgg-licenc"></a>**_SGG licence_** means a controlled substances licence that relates to SGGs.
 
@@ -681,8 +661,6 @@ Note:          See also section 11.6 of the _Criminal Code_.
                      (c)  methyl chloroform; or
 
                      (d)  bromochloromethane.
-
-                    <a name="sulfur-hexafluorid"></a>**_sulfur hexafluoride_** means the substance referred to in Part XI of Schedule 1, whether existing alone or in a mixture.
 
                     <a name="used-substanc-licenc"></a>**_used substances licence_** means a licence referred to in subsection 13A(4).
 
@@ -712,29 +690,9 @@ Note:          See also section 11.6 of the _Criminal Code_.
 
              (2)  A reserve HCFC quota allocated to a licensee is the maximum quantity of HCFCs, expressed in ODP tonnes, allowed for regulated HCFC activities carried out by the licensee while the quota stays in force.
 
-##### <a id="8C"></a>8C  ODS equipment
+##### <a id="9"></a>9  Scheduled substances in manufactured products
 
-                   For the purposes of this Act, **_ODS equipment_** means air‑conditioning equipment, or refrigeration equipment, that contains a substance that is an HCFC or, but for section 9, would be an HCFC.
-
-##### <a id="8D"></a>8D  SGG equipment
-
-             (1)  For the purposes of this Act, **_SGG equipment_** means:
-
-                     (a)  equipment, or a product, that contains a substance that is an HFC or a PFC; or
-
-                     (b)  equipment, or a product, that contains a substance that is sulfur hexafluoride;
-
-but does not include:
-
-                     (c)  equipment, or a product, prescribed by the regulations; or
-
-                     (d)  equipment, or a product, specified in a legislative instrument made by the Minister.
-
-             (2)  Unless sooner revoked, a legislative instrument made under paragraph (1)(d) ceases to be in force 12 months after it is registered under the _Legislative Instruments Act 2003_.
-
-##### <a id="9"></a>9  Scheduled substances (other than SGGs) in manufactured products
-
-             (1)  For the purposes of Parts III, IV and VII, a substance referred to in Schedule 1 (other than a substance referred to in Part IX, X or XI of that Schedule) is to be treated as not being referred to in that Schedule if the substance is in a manufactured product that:
+             (1)  For the purposes of Parts III, IV and VII, a substance referred to in Schedule 1 is to be treated as not being referred to in that Schedule if the substance is in a manufactured product that:
 
                      (a)  in its operation, will use the substance; or
 
@@ -800,21 +758,13 @@ Note:          For example, paragraph (1)(a) would apply to 
 
              (6)  A person must not import or export a recycled or used stage‑1 or stage‑2 scheduled substance unless the person holds a used substances licence that allows the person to do so.
 
-          (6A)  A person must not import ODS equipment or SGG equipment unless:
+          (6A)  A person must not import pre‑charged equipment unless:
 
-                     (a)  the person holds an ODS/SGG equipment licence; or
+                     (a)  the person holds a pre‑charged equipment licence; or
 
-                     (b)  the following conditions are satisfied:
+                     (b)  the equipment is covered by paragraph 68(1)(d) of the _Customs Act 1901_.
 
-                              (i)  the equipment is kept by the person, or by a member of the person’s household, wholly or principally for private or domestic use;
-
-                             (ii)  the equipment is prescribed by the regulations or specified in a legislative instrument made by the Minister;
-
-                            (iii)  if the equipment is prescribed by regulations made for the purposes of subparagraph (ii)—the conditions (if any) prescribed by the regulations;
-
-                            (iv)  if the equipment is specified in an instrument made by the Minister under subparagraph (ii)—the conditions (if any) specified in a legislative instrument made by the Minister.
-
-          (6B)  Unless sooner revoked, a legislative instrument made by the Minister under subparagraph (6A)(b)(ii) or (iv) ceases to be in force 12 months after it is registered under the _Legislative Instruments Act 2003_.
+Note:          Paragraph 68(1)(d) of the _Customs Act 1901_ covers personal or household effects of a passenger, or a member of a crew, of a ship or aircraft
 
              (7)  A person who contravenes this section is guilty of an offence punishable on conviction by a fine not exceeding 500 penalty units.
 
@@ -826,7 +776,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
 
-Note 2:       For maximum penalty, see subsections 65AC(4) and (4A).
+Note 2:       For maximum penalty, see subsection 65AC(4).
 
 ##### <a id="13A"></a>13A  Licences and what they allow
 
@@ -838,7 +788,7 @@ Note 2:       For maximum penalty, see subsections 65AC(4) and (4A).
 
                      (c)  a used substances licence;
 
-                     (d)  an ODS/SGG equipment licence.
+                     (d)  a pre‑charged equipment licence.
 
              (2)  A controlled substances licence allows the licensee to do one of the following:
 
@@ -884,7 +834,7 @@ Note 2:       For maximum penalty, see subsections 65AC(4) and (4A).
 
                      (d)  export specified recycled or used HCFCs or recycled or used methyl bromide.
 
-             (5)  An ODS/SGG equipment licence allows the licensee to import ODS equipment or SGG equipment.
+             (5)  A pre‑charged equipment licence allows the licensee to import pre‑charged equipment.
 
 ##### <a id="14"></a>14  Application for licence
 
@@ -906,7 +856,7 @@ Note 2:       For maximum penalty, see subsections 65AC(4) and (4A).
 
              (1)  Subject to subsections (3A) and (4), the Minister may grant a licence to a person who has applied for it in accordance with section 14.
 
-             (3)  A licence (other than an HCFC licence, an SGG licence or an ODS/SGG equipment licence) must specify:
+             (3)  A licence (other than an HCFC licence, an SGG licence or a pre‑charged equipment licence) must specify:
 
                      (a)  the substance or substances to which it relates; and
 
@@ -1054,7 +1004,7 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
 
              (3)  An essential uses licence or a used substances licence stays in force until the end of the licence period in which it is granted, or of any shorter period specified in it, unless it is cancelled, or stops being in force for any other reason, before then.
 
-             (4)  An ODS/SGG equipment licence stays in force:
+             (4)  A pre‑charged equipment licence stays in force:
 
                      (a)  for a period of 2 years beginning at the start of the day the licence comes into force; or
 
@@ -1066,7 +1016,7 @@ unless it is cancelled, or stops being in force for any other reason, before the
 
              (1)  The Minister may, by written notice given to a licensee, terminate all licences of the kind specified in the notice that are held by the licensee.
 
-             (2)  The Minister must not terminate a licence (other than an SGG licence or an ODS/SGG equipment licence) unless satisfied that it is necessary to do so for the purpose of giving effect to an adjustment or amendment of the Montreal Protocol.
+             (2)  The Minister must not terminate a licence (other than an SGG licence or a pre‑charged equipment licence) unless satisfied that it is necessary to do so for the purpose of giving effect to an adjustment or amendment of the Montreal Protocol.
 
              (3)  A notice terminating a specified kind of licence takes effect on the day specified in the notice.
 
@@ -1170,7 +1120,7 @@ Note:          Section 18 deals with variation of the condit
 
 ##### <a id="22"></a>22  Publication of information regarding licences etc.
 
-                   The regulations may make provision for the periodic publication of details of:
+                   The regulations may make provision for the periodic publication of details of:
 
                      (a)  licences granted;
 
@@ -1589,7 +1539,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image002.gif)
 
 where:
 
@@ -1965,7 +1915,7 @@ Note:          A defendant in criminal proceedings bears an ev
 
 ## Part VII—Reports and records
 
-##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances (other than SGGs and substances in ODS equipment or SGG equipment)
+##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre‑charged equipment
 
              (1)  Each person who manufactured, imported or exported a scheduled substance during a quarter occurring after the commencement of this section must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations specifying the following:
 
@@ -1989,29 +1939,49 @@ Note:          A defendant in criminal proceedings bears an ev
 
                      (a)  an SGG; or
 
-                     (b)  a scheduled substance in ODS equipment or SGG equipment.
+                     (b)  a scheduled substance in pre‑charged equipment.
+
+          (1B)  If a person imports or exports an SGG in a quarter commencing more than 3 months after the commencement of this subsection, the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+       (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+          (1C)  If:
+
+                     (a)  a person imports pre‑charged equipment in a quarter commencing more than 3 months after the commencement of this subsection; and
+
+                     (b)  the equipment is not covered by paragraph 68(1)(d) of the _Customs Act 1901_;
+
+then the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+Note:          Paragraph 68(1)(d) of the _Customs Act 1901_ covers personal or household effects of a passenger, or a member of a crew, of a ship or aircraft.
 
              (2)  A person must not contravene subsection (1).
 
                     Penalty:  60 penalty units.
 
-          (2A)  An offence under subsection (2) is an offence of strict liability.
+       (2AA)  A person must not contravene subsection (1B), (1BA) or (1C).
+
+                    Penalty:  60 penalty units.
+
+          (2A)  An offence under subsection (2) or (2AA) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (2B)  Subsection (2) does not apply if the person has a reasonable excuse.
+          (2B)  Subsection (2) or (2AA) does not apply if the person has a reasonable excuse.
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (2B). See subsection 13.3(3) of the _Criminal Code_.
 
           (2C)  A person must not contravene subsection (1).
 
-          (2E)  Subsection (2C) is a **_civil penalty provision_**.
+          (2D)  A person must not contravene subsection (1B), (1BA) or (1C).
+
+          (2E)  Subsections (2C) and (2D) are **_civil penalty provisions_**.
 
 Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
 
 Note 2:       For maximum penalty, see subsection 65AC(4).
 
-           (2F)  Subsection (2C) does not apply if the person has a reasonable excuse.
+           (2F)  Subsections (2C) and (2D) do not apply if the person has a reasonable excuse.
 
           (2G)  A person who wishes to rely on subsection (2F) of this section in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
 
@@ -2022,86 +1992,6 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
                      (b)  a particular quantity mentioned in subsection (1) is a nil amount for that person in that quarter;
 
 the person’s report must say so.
-
-##### <a id="46A"></a>46A  Quarterly reports by manufacturers, importers and exporters of SGGs, ODS equipment or SGG equipment
-
-Manufacturer
-
-             (1)  If:
-
-                     (a)  a person manufactures an SGG during:
-
-                              (i)  the quarter beginning on 1 July 2012; or
-
-                             (ii)  a later quarter; and
-
-                     (b)  the manufacture is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b);
-
-the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
-
-Importer
-
-             (2)  If:
-
-                     (a)  a person imports an SGG during:
-
-                              (i)  the quarter beginning on 1 July 2012; or
-
-                             (ii)  a later quarter; and
-
-                     (b)  the import is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b); and
-
-                     (c)  the SGG is not contained in ODS equipment or SGG equipment;
-
-the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
-
-             (3)  If:
-
-                     (a)  a person imports ODS equipment or SGG equipment during:
-
-                              (i)  the quarter beginning on 1 July 2012; or
-
-                             (ii)  a later quarter; and
-
-                     (b)  the import is not covered by paragraph 13(6A)(b);
-
-the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
-
-Exporter
-
-             (4)  If:
-
-                     (a)  a person exports an SGG during:
-
-                              (i)  the quarter beginning on 1 July 2012; or
-
-                             (ii)  a later quarter; and
-
-                     (b)  the export is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b);
-
-the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
-
-Offence
-
-             (5)  A person commits an offence if:
-
-                     (a)  the person is subject to a requirement under subsection (1), (2), (3) or (4); and
-
-                     (b)  the person omits to do an act; and
-
-                     (c)  the omission breaches the requirement.
-
-                    Penalty:  60 penalty units.
-
-             (6)  An offence under subsection (5) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (7)  Subsections (1), (2), (3) and (4) are **_civil penalty provisions_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
 
 ##### <a id="48"></a>48  Records to be kept by licensees
 
@@ -2769,7 +2659,7 @@ Note:          For forfeiture, see Division 3.
 
                      (d)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the book, record or document.
 
-##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
+##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
 
              (1)  An inspector may apply to a magistrate for an order that he or she may retain the book, record or document for a further period if:
 
@@ -2811,7 +2701,7 @@ the magistrate may order that an inspector may retain the book, record or docume
 
                              (ii)  evidential material;
 
-                            may be accessible by operating electronic equipment at particular premises; and
+                            may be accessible by operating electronic equipment at particular premises; and
 
                      (b)  expert assistance is required to operate the equipment; and
 
@@ -3539,9 +3429,7 @@ Infringement notices for offences
 
                             (vi)  section 45B;
 
-                           (vii)  section 46;
-
-                          (viii)  section 46A; or
+                           (vii)  section 46; or
 
                      (b)  a specified offence against the regulations;
 
@@ -3617,7 +3505,7 @@ Determining amount of pecuniary penalty
 
 Maximum pecuniary penalty
 
-             (4)  The pecuniary penalty payable by a person in respect of a contravention of a civil penalty provision (other than subsection 13(1A) or (6A) or 65AB(1)) must not exceed:
+             (4)  The pecuniary penalty payable by a person in respect of a contravention of a civil penalty provision (other than subsection 65AB(1)) must not exceed:
 
                      (a)  if an offence against a provision of this Act or the regulations corresponds to the civil penalty provision—the maximum pecuniary penalty that could have been imposed on the person if the person had been convicted of the offence; or
 
@@ -3626,12 +3514,6 @@ Maximum pecuniary penalty
                               (i)  if the person is not a body corporate—50 penalty units; or
 
                              (ii)  if the person is a body corporate—250 penalty units.
-
-          (4A)  The pecuniary penalty payable by a person in respect of a contravention of subsection 13(1A) or (6A) must not exceed:
-
-                     (a)  if the person is not a body corporate—2,000 penalty units; or
-
-                     (b)  if the person is a body corporate—10,000 penalty units.
 
              (5)  The pecuniary penalty payable by a person in respect of a contravention of subsection 65AB(1) that relates to another civil penalty provision must not exceed:
 
@@ -3761,21 +3643,15 @@ State of mind
 
              (1)  Amounts equal to the following amounts must be credited to the Account:
 
-                    (aa)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_;
-
-                   (ab)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_;
-
-                    (ac)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_;
-
                      (a)  amounts received by the Commonwealth under:
 
-                              (i)  section 4 or 4B of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_; or
+                              (i)  the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_; or
 
-                             (ii)  section 4 of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_;
+                             (ii)  the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_;
 
                             including those Acts as in force before the commencement of the _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003_;
 
-                     (b)  amounts received by the Commonwealth as fees for applications under this Act or the regulations;
+                     (b)  amounts received by the Commonwealth as fees for licence applications under this Act or the regulations;
 
                      (c)  amounts received by the Commonwealth as fees for exemption applications under section 40;
 
@@ -3808,38 +3684,6 @@ Note:          This subsection applies to transactions that do
              (3)  In subsection (2):
 
                     <a name="agenc"></a>**_Agency_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
-
-Prescribed rate component
-
-             (4)  For the purposes of paragraph (1)(aa), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image003.gif)
-
-where:
-
-                    <a name="number-tonn-sgg"></a>**_number of tonnes of the SGG_** means the number of tonnes of the SGG to which the levy relates.
-
-                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the applicable rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995._
-
-             (5)  For the purposes of paragraph (1)(ab), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image004.gif)
-
-where:
-
-                    <a name="number-tonn-sgg-contain-equip"></a>**_number of tonnes of the SGG contained in the equipment_** means the number of tonnes of the SGG contained in the equipment to which the levy relates.
-
-                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the applicable rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995._
-
-             (6)  For the purposes of paragraph (1)(ac), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image003.gif)
-
-where:
-
-                    <a name="number-tonn-sgg"></a>**_number of tonnes of the SGG_** means the number of tonnes of the SGG to which the levy relates.
-
-                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
 
 ##### <a id="65D"></a>65D  Purposes of the Account
 
@@ -3935,11 +3779,7 @@ Other powers of disclosure not limited
 
 ##### <a id="69"></a>69  Collection of licence levies
 
-             (1)  A licence levy is due and payable:
-
-                     (a)  at the end of 60 days after the end of the quarter to which the levy relates; or
-
-                     (b)  if the Minister allows the licensee concerned a longer period—at the end of that longer period.
+             (1)  A licence levy is due and payable at the end of 15 days after the end of the quarter to which it relates.
 
              (2)  If the liability of a licensee to pay a licence levy is not discharged on or before the day when the levy becomes due and payable, there is payable by the licensee to the Commonwealth by way of penalty, in addition to the levy, an amount calculated at the rate of 30% per annum upon so much of the levy as from time to time remains unpaid, to be calculated from the day when the levy becomes due and payable.
 
@@ -3959,216 +3799,6 @@ Other powers of disclosure not limited
 
 and includes any amount payable under either of those Acts as in force before the commencement of the _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003_.
 
-##### <a id="69AA"></a>69AA  Remission and refund of import levy—SGGs
-
-Export by licensee
-
-             (1)  If:
-
-                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of an SGG by a licensee; and
-
-                     (b)  the Minister is satisfied that the licensee exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the import; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
-
-                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_);
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image005.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (3)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
-
-Export by purchaser
-
-             (4)  If:
-
-                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of an SGG by a licensee; and
-
-                     (b)  the Minister is satisfied that:
-
-                              (i)  the licensee sold the SGG to another person; and
-
-                             (ii)  the other person exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the import of the SGG; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
-
-                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_);
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image005.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (6)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (4).
-
-Assignment of right to receive refund
-
-             (7)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
-
-##### <a id="69AB"></a>69AB  Remission and refund of import levy—SGG equipment
-
-Export by licensee
-
-             (1)  If:
-
-                     (a)  levy is imposed by section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of SGG equipment by a licensee; and
-
-                     (b)  the Minister is satisfied that the licensee exported the equipment within 12 months (or such longer period as is prescribed by the regulations) after the import; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations;
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image006.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (3)  For the purposes of subsection (2), disregard an SGG that is used, or for use, for a purpose prescribed by regulations made for the purposes of subsection 4A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (4)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
-
-Export by purchaser
-
-             (5)  If:
-
-                     (a)  levy is imposed by section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of SGG equipment by a licensee; and
-
-                     (b)  the Minister is satisfied that:
-
-                              (i)  the licensee sold the equipment to another person; and
-
-                             (ii)  the other person exported the equipment within 12 months (or such longer period as is prescribed by the regulations) after the import of the equipment; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations;
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (6)  For the purposes of subsection (5), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image006.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (7)  For the purposes of subsection (6), disregard an SGG that is used, or for use, for a purpose prescribed by regulations made for the purposes of subsection 4A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
-
-             (8)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (5).
-
-Assignment of right to receive refund
-
-             (9)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
-
-##### <a id="69AC"></a>69AC  Remission and refund of manufacture levy—SGGs
-
-Export by licensee
-
-             (1)  If:
-
-                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ in respect of the manufacture of an SGG by a licensee; and
-
-                     (b)  the Minister is satisfied that the licensee exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the manufacture; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
-
-                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_);
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image005.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
-
-             (3)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
-
-Export by purchaser
-
-             (4)  If:
-
-                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ in respect of the manufacture of an SGG by a licensee; and
-
-                     (b)  the Minister is satisfied that:
-
-                              (i)  the licensee sold the SGG to another person; and
-
-                             (ii)  the other person exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the manufacture of the SGG; and
-
-                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
-
-                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
-
-                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
-
-                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_);
-
-the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
-
-             (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00544/Html/cf11447d-f99b-4404-8a44-24e26f92b153_files/image005.gif)
-
-where:
-
-                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ to the levy.
-
-                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
-
-             (6)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (4).
-
-Assignment of right to receive refund
-
-             (7)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
-
 ##### <a id="69A"></a>69A  Implementation of Montreal Protocol—supplementary regulations
 
              (1)  The regulations may make provision for and in relation to giving effect to an adjustment or amendment of the Montreal Protocol, in so far as the adjustment or amendment relates to a substance other than a scheduled substance (whether that substance exists alone or in a mixture).
@@ -4177,11 +3807,11 @@ Assignment of right to receive refund
 
 ##### <a id="69B"></a>69B  Severability
 
-             (1)  This section applies if the enactment of one or more provisions of this Act (other than Part V or VI) or the regulations goes beyond giving effect to the Vienna Convention, the Montreal Protocol, the Framework Convention on Climate Change and the Kyoto Protocol.
+             (1)  This section applies if the enactment of one or more provisions of this Act (other than Part V or VI) or the regulations goes beyond giving effect to the Vienna Convention, the Montreal Protocol and the Framework Convention on Climate Change.
 
              (2)  The provisions are to be read so that their application is limited to, or in relation to:
 
-                     (a)  giving effect to the Vienna Convention, the Montreal Protocol, the Framework Convention on Climate Change and the Kyoto Protocol; or
+                     (a)  giving effect to the Vienna Convention, the Montreal Protocol and the Framework Convention on Climate Change; or
 
                      (b)  matters external to Australia; or
 
@@ -6312,29 +5942,6 @@ _Section 7_
   </td>
 </tr></table>
 
-## Part XI—Sulfur hexafluoride
-
-<table>
-<colgroup>
-  <col width="100%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>Substance</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Sulfur hexafluoride (SF
-      6)</div>
-  </td>
-</tr></table>
-
 # Schedule 2—Vienna Convention for the Protection of the Ozone Layer
 
 _Section 7_
@@ -6987,4 +6594,6492 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 (a)   Three point one per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
 
-(b)   Its cal
+(b)   Its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C.
+
+2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2004, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty‑five per cent of the sum referred to in paragraph 1 of this Article.
+
+3.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2010, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty‑five per cent of the sum referred to in paragraph 1 of this Article.
+
+4.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2015, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
+
+5.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2020, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, zero point five per cent of the sum referred to in paragraph 1 of this Article.
+
+6.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2030, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+
+7.    As of 1 January 1996, each Party shall endeavour to ensure that:
+
+(a)   The use of controlled substances in Group I of Annex C is limited to those applications where other more environmentally suitable alternative substances or technologies are not available;
+
+(b)   The use of controlled substances in Group I of Annex C is not outside the areas of application currently met by controlled substances in Annexes A, B and C, except in rare cases for the protection of human life or human health; and
+
+(c)   Controlled substances in Group I of Annex C are selected for use in a manner that minimizes ozone depletion, in addition to meeting other environmental, safety and economic considerations.
+
+<u>ARTICLE 2G: HYDROBROMOFLUOROCARBONS</u>
+
+Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex C does not exceed zero. Each Party producing the substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+<u>ARTICLE 2H: METHYL BROMIDE</u>
+
+Each Party shall ensure that for the twelve‑month period commencing on 1 January 1995, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991\. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+
+<u>ARTICLE 3: CALCULATION OF CONTROL LEVELS</u>
+
+For the purposes of Articles 2, 2A to 2H and 5, each Party shall, for each group of substances in Annex A, Annex B, Annex C or Annex E determine its calculated levels of:
+
+(a)   Production by:
+
+(i)    multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A, Annex B, Annex C or Annex E;
+
+(ii)   adding together, for each such Group, the resulting figures;
+
+(b)   Imports and exports, respectively, by following, mutatis mutandis, the procedure set out in subparagraph (a); and
+
+(c)   Consumption by adding together its calculated levels of production and imports and subtracting its calculated level of exports as determined in accordance with subparagraphs (a) and (b). However, beginning on 1 January 1993, any export of controlled substances to non‑Parties shall not be subtracted in calculating the consumption level of the exporting Party.
+
+<u>ARTICLE 4: CONTROL OF TRADE WITH NON‑PARTIES</u>
+
+1.    As of 1 January 1990, each Party shall ban the import of the controlled substances in Annex A from any State not party to this Protocol.
+
+1 bis. Within one year of the date of the entry into force of this paragraph, each Party shall ban the import of the controlled substances in Annex B from any State not party to this Protocol.
+
+1 ter.  Within one year of the date of entry into force of this paragraph, each Party shall ban the import of any controlled substances in Group II of Annex C from any State not party to this Protocol.
+
+2.    As of 1 January 1993, each Party shall ban the export of any controlled substances in Annex A to any State not party to this Protocol.
+
+2 bis. Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
+
+2 ter.  Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Group II of Annex C to any State not party to this Protocol.
+
+3.    By 1 January 1992, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex A. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+3 bis. Within three years of the date of the entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex B. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+3 ter.  Within three years of the date of entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Group II of Annex C. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+4.    By 1 January 1994, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex A. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+4 bis. Within five years of the date of the entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex B. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+4 ter.  Within five years of the date of entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Group II of Annex C. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+5.    Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances in Annexes A and B and Group II of Annex C.
+
+6.    Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances in Annexes A and B and Group II of Annex C.
+
+7.    Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances in Annexes A and B and Group II of Annex C.
+
+8.    Notwithstanding the provisions of this Article, imports referred to in paragraphs 1, 1 bis, 3, 3 bis, 4, and 4 bis and exports referred to in paragraphs 1 to 4 ter of this Article may be permitted from, or to, any State not party to this Protocol, if that State is determined, by a meeting of the Parties, to be in full compliance with Article 2, Articles 2A to 2E, Article 2G and this Article, and have submitted data to that effect as specified in Article 7.
+
+9.    For the purposes of this Article, the term “State not party to this Protocol” shall include, with respect to a particular controlled substance, a State or regional economic integration organization that has not agreed to be bound by the control measures in effect for that substance.
+
+10.  By 1 January 1996, the Parties shall consider whether to amend this Protocol in order to extend the measures in this Article to trade in controlled substances in Group I of Annex C and in Annex E with States not party to the Protocol.
+
+<u>ARTICLE 5: SPECIAL SITUATION OF DEVELOPING COUNTRIES</u>
+
+1.    Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances in Annex A is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter until 1 January 1999, shall, in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures set out in Articles 2A to 2E, provided that any further amendments to the adjustments or Amendment adopted at the Second Meeting of the Parties in London, 29 June 1990, shall apply to the Parties operating under this paragraph after the review provided for in paragraph 8 of this Article has taken place and shall be based on the conclusions of that review.
+
+1 bis. The Parties shall, taking into account the review referred to in paragraph 8 of this Article, the assessments made pursuant to Article 6 and any other relevant information, decide by 1 January 1996, through the procedure set forth in paragraph 9 of Article 2:
+
+(a)   With respect to paragraphs 1 to 6 of Article 2F, what base year, initial levels, control schedules and phase‑out date for consumption of the controlled substances in Group I of Annex C will apply to Parties operating under paragraph 1 of this Article;
+
+(b)   With respect to Article 2G, what phase‑out date for production and consumption of the controlled substances in Group II of Annex C will apply to Parties operating under paragraph 1 of this Article; and
+
+(c)   With respect to Article 2H, what base year, initial levels and control schedules for consumption and production of the controlled substance in Annex E will apply to Parties operating under paragraph 1 of this Article.
+
+2.    However, any Party operating under paragraph 1 of this Article shall exceed neither an annual calculated level of consumption of the controlled substances in Annex A of 0.3 kilograms per capita nor an annual calculated level of consumption of controlled substances of Annex B of 0.2 kilograms per capita.
+
+3.    When implementing the control measures set out in Articles 2A to 2E, any Party operating under paragraph 1 of this Article shall be entitled to use:
+
+(a)   For controlled substances under Annex A, either the average of its annual calculated level of consumption for the period 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures.
+
+(b)   For controlled substances under Annex B, the average of its annual calculated level of consumption for the period 1998 to 2000 inclusive or a calculated level of consumption of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures.
+
+4.    If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2H become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat. The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
+
+5.    Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co‑operation as provided by Article 10 and the transfer of technology as provided by Article 10A.
+
+6.    Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E, or any or all obligations in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, due to the inadequate implementation of Articles 10 and 10A. The Secretariat shall forthwith transmit a copy of the notification to the Parties, which shall consider the matter at their next Meeting, giving due recognition to paragraph 5 of this Article and shall decide upon appropriate action to be taken.
+
+7.    During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non‑compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
+
+8.    A Meeting of the Parties shall review, not later than 1995, the situation of the Parties operating under paragraph 1 of this Article, including the effective implementation of financial co‑operation and transfer of technology to them, and adopt such revisions that may be deemed necessary regarding the schedule of control measures applicable to those Parties.
+
+9.    Decisions of the Parties referred to in paragraph 4, 6 and 7 of this Article shall be taken according to the same procedure applied to decision‑making under Article 10.
+
+<u>ARTICLE 6: ASSESSMENT AND REVIEW OF CONTROL MEASURES</u>
+
+Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2H on the basis of available scientific, environmental, technical and economic information. At least one year before each assessment, the Parties shall convene appropriate panels of experts qualified in the fields mentioned and determine the composition and terms of reference of any such panels. Within one year of being convened, the panels will report their conclusions, through the Secretariat, to the Parties.
+
+<u>ARTICLE 7: REPORTING OF DATA</u>
+
+1.    Each Party shall provide to the Secretariat, within three months of becoming a Party, statistical data on its production, imports and exports of each of the controlled substances in Annex A for the year 1986, or the best possible estimates of such data where actual data are not available.
+
+2.    Each Party shall provide to the Secretariat statistical data on its production, imports and exports of each of the controlled substances,
+
+— in Annexes B and C, for the year 1989;
+
+— in Annex E, for the year 1991,
+
+or the best possible estimates of such data where actual data are not available, not later than three months after the date when the provisions set out in the Protocol with regard to the substances in Annexes B, C and E respectively enter into force for that Party.
+
+3.    Each Party shall provide to the Secretariat statistical data on its annual production (as defined in paragraph 5 of Article 1) of each of the controlled substances listed in Annexes A, B, C and E and, separately, for each substance,
+
+— amounts used for feedstocks,
+
+— amounts destroyed by technologies approved by the Parties, and
+
+— imports from and exports to Parties and non‑Parties respectively,
+
+for the year during which provisions concerning the substances in Annexes A, B, C and E respectively entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
+
+3 bis. Each Party shall provide to the Secretariat separate statistical data of its annual imports and exports of each of the controlled substances listed in Group II of Annex A and Group I of Annex C that have been recycled.
+
+4.    For Parties operating under the provisions of paragraph 8 (a) of Article 2, the requirements in paragraphs 1, 2, 3 and 3 bis of this Article in respect of statistical data on imports and exports shall be satisfied if the regional economic integration organization concerned provides data on imports and exports between the organization and States that are not members of that organization.
+
+<u>ARTICLE 8: NON‑COMPLIANCE</u>
+
+The Parties, at their first meeting, shall consider and approve procedures and institutional mechanisms for determining non‑compliance with the provisions of this Protocol and for treatment of Parties found to be in non‑compliance.
+
+<u>ARTICLE 9: RESEARCH, DEVELOPMENT, PUBLIC AWARENESS AND EXCHANGE OF INFORMATION</u>
+
+1.    The Parties shall co‑operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
+
+(a)   best technologies for improving the containment, recovery, recycling, or destruction of controlled substances or otherwise reducing their emissions;
+
+(b)   possible alternatives to controlled substances, to products containing such substances, and to products manufactured with them; and
+
+(c)   costs and benefits of relevant control strategies.
+
+2.    The Parties, individually, jointly or through competent international bodies, shall co‑operate in promoting public awareness of the environmental effects of the emissions of controlled substances and other substances that deplete the ozone layer.
+
+3.    Within two years of the entry into force of this Protocol and every two years thereafter, each Party shall submit to the Secretariat a summary of the activities it has conducted pursuant to this Article.
+
+<u>ARTICLE 10: FINANCIAL MECHANISM</u>
+
+1.    The Parties shall establish a mechanism for the purposes of providing financial and technical co‑operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol. The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol. An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
+
+2.    The mechanism established under paragraph 1 shall include a Multilateral Fund. It may also include other means of multilateral, regional and bilateral co‑operation.
+
+3.    The Multilateral Fund shall:
+
+(a)   Meet, on a grant or concessional basis as appropriate, and according to criteria to be decided upon by the Parties, the agreed incremental costs;
+
+(b)   Finance clearing‑house functions to:
+
+(i)    Assist Parties operating under paragraph 1 of Article 5, through country specific studies and other technical co‑operation, to identify their needs for co‑operation;
+
+(ii)   Facilitate technical co‑operation to meet these identified needs;
+
+(iii)  Distribute, as provided for in Article 9, information and relevant materials, and hold workshops, training sessions, and other related activities, for the benefit of Parties that are developing countries; and
+
+(iv)  Facilitate and monitor other multilateral, regional and bilateral co‑operation available to Parties that are developing countries;
+
+(c)   Finance the secretarial services of the Multilateral Fund and related support costs.
+
+4.    The Multilateral Fund shall operate under the authority of the Parties who shall decide on its overall policies.
+
+5.    The Parties shall establish an Executive Committee to develop and monitor the implementation of specific operational policies, guidelines and administrative arrangements, including the disbursement of resources, for the purpose of achieving the objectives of the Multilateral Fund. The Executive Committee shall discharge its tasks and responsibilities, specified in its terms of reference as agreed by the Parties, with the co‑operation and assistance of the International Bank for Reconstruction and Development (World Bank), the United Nations Environment Programme, the United Nations Development Programme or other appropriate agencies depending on their respective areas of expertise. The members of the Executive Committee, which shall be selected on the basis of a balanced representation of the Parties operating under paragraph 1 of Article 5 and of the Parties not so operating, shall be endorsed by the Parties.
+
+6.    The Multilateral Fund shall be financed by contributions from Parties not operating under paragraph 1 of Article 5 in convertible currency or, in certain circumstances, in kind and/or in national currency, on the basis of the United Nations scale of assessments. Contributions by other Parties shall be encouraged. Bilateral and, in particular cases agreed by a decision of the Parties, regional co‑operation may, up to a percentage and consistent with any criteria to be specified by decision of the Parties, be considered as a contribution to the Multilateral Fund, provided that such co‑operation, as a minimum:
+
+(a)   Strictly relates to compliance with the provisions of this Protocol;
+
+(b)   Provides additional resources; and
+
+(c)   Meets agreed incremental costs.
+
+7.    The Parties shall decide upon the programme budget of the Multilateral Fund for each fiscal period and upon the percentage of contributions of the individual Parties thereto.
+
+8.    Resources under the Multilateral Fund shall be disbursed with the concurrence of the beneficiary Party.
+
+9.    Decisions by the Parties under this Article shall be taken by consensus whenever possible. If all efforts at consensus have been exhausted and no agreement reached, decisions shall be adopted by a two‑thirds majority vote of the Parties present and voting, representing a majority of the Parties operating under paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting.
+
+10.  The financial mechanism set out in this Article is without prejudice to any future arrangements that may be developed with respect to other environmental issues.
+
+<u>ARTICLE 10A: TRANSFER OF TECHNOLOGY</u>
+
+Each Party shall take every practicable step, consistent with the programmes supported by the financial mechanism, to ensure:
+
+(a)   that the best available, environmentally safe substitutes and related technologies are expeditiously transferred to Parties operating under paragraph 1 of Article 5; and
+
+(b)   that the transfers referred to in subparagraph (a) occur under fair and most favourable conditions.
+
+<u>ARTICLE 11: MEETINGS OF THE PARTIES</u>
+
+1.    The Parties shall hold meetings at regular intervals. The Secretariat shall convene the first meeting of the Parties not later than one year after the date of the entry into force of this Protocol and in conjunction with a meeting of the Conference of the Parties to the Convention, if a meeting of the latter is scheduled within that period.
+
+2.    Subsequent ordinary meetings of the parties shall be held, unless the Parties otherwise decide, in conjunction with meetings of the Conference of the Parties to the Convention. Extraordinary meetings of the Parties shall be held at such other times as may be deemed necessary by a meeting of the Parties, or at the written request of any Party, provided that within six months of such a request being communicated to them by the Secretariat, it is supported by at least one third of the Parties.
+
+3.    The Parties, at their first meeting, shall:
+
+(a)   adopt by consensus rules of procedure for their meetings;
+
+(b)   adopt by consensus the financial rules referred to in paragraph 2 of Article 13;
+
+(c)   establish the panels and determine the terms of reference referred to in Article 6; and
+
+(d)   consider and approve the procedures and institutional mechanisms specified in Article 8.
+
+4.    The functions of the meetings of the Parties shall be to:
+
+(a)   review the implementation of this Protocol;
+
+(b)   decide on any adjustments or reductions referred to in paragraph 9 of Article 2;
+
+(c)   decide on any addition to, insertion in or removal from any annex of substances and on related control measures in accordance with paragraph 10 of Article 2;
+
+(d)   establish, where necessary, guidelines or procedures for reporting of information as provided for in Article 7 and paragraph 3 of Article 9;
+
+(e)   review requests for technical assistance submitted pursuant to paragraph 2 of Article 10;
+
+(f)   review reports prepared by the secretariat pursuant to subparagraph (c) of Article 12;
+
+(g)   assess, in accordance with Article 6, the control measures;
+
+(h)   consider and adopt, as required, proposals for amendment of this Protocol or any annex and for any new annex;
+
+(i)    consider and adopt the budget for implementing this Protocol; and
+
+(j)    consider and undertake any additional action that may be required for the achievement of the purposes of this Protocol.
+
+5.    The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Protocol, may be represented at meetings of the Parties as observers. Any body or agency, whether national or international, governmental or non‑governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Parties as an observer may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Parties.
+
+<u>ARTICLE 12: SECRETARIAT</u>
+
+For the purposes of this Protocol, the Secretariat shall:
+
+(a)   arrange for and service meetings of the Parties as provided for in Article 11;
+
+(b)   receive and make available, upon request by a Party, data provided pursuant to Article 7;
+
+(c)   prepare and distribute regularly to the Parties reports based on information received pursuant to Articles 7 and 9;
+
+(d)   notify the Parties of any request for technical assistance received pursuant to Article 10 so as to facilitate the provision of such assistance;
+
+(e)   encourage non‑Parties to attend the meetings of the Parties as observers and to act in accordance with the provisions of this Protocol;
+
+(f)   provide, as appropriate, the information and requests referred to in subparagraphs (c) and (d) to such non‑party observers; and
+
+(g)   perform such other functions for the achievement of the purposes of this Protocol as may be assigned to it by the Parties.
+
+<u>ARTICLE 13: FINANCIAL PROVISIONS</u>
+
+1.    The funds required for the operation of this Protocol, including those for the functioning of the Secretariat related to this Protocol, shall be charged exclusively against contributions from the Parties.
+
+2.    The Parties, at their first meeting, shall adopt by consensus financial rules for the operation of this Protocol.
+
+<u>ARTICLE 14: RELATIONSHIP OF THIS PROTOCOL TO THE CONVENTION</u>
+
+Except as otherwise provided in this Protocol, the provisions of the Convention relating to its protocols shall apply to this Protocol.
+
+<u>ARTICLE 15: SIGNATURE</u>
+
+This Protocol shall be open for signature by States and by regional economic integration organizations in Montreal on 16 September 1987, in Ottawa from 17 September 1987 to 16 January 1988, and at United Nations Headquarters in New York from 17 January 1988 to 15 September 1988.
+
+<u>ARTICLE 16: ENTRY INTO FORCE</u>
+
+1.    This Protocol shall enter into force on 1 January 1989, provided that at least eleven instruments of ratification, acceptance, approval of the Protocol or accession thereto have been deposited by States or regional economic integration organizations representing at least two‑thirds of 1986 estimated global consumption of the controlled substances, and the provisions of paragraph 1 of Article 17 of the Convention have been fulfilled. In the event that these conditions have not been fulfilled by that date, the Protocol shall enter into force on the ninetieth day following the date on which the conditions have been fulfilled.
+
+2.    For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
+
+3.    After the entry into force of this Protocol, any State or regional economic integration organization shall become a Party to it on the ninetieth day following the date of deposit of its instrument of ratification, acceptance, approval or accession.
+
+<u>ARTICLE 17: PARTIES JOINING AFTER ENTRY INTO FORCE</u>
+
+Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2H and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
+
+<u>ARTICLE 18: RESERVATIONS</u>
+
+No reservations may be made to this Protocol.
+
+<u>ARTICLE 19: WITHDRAWAL</u>
+
+Any Party may withdraw from this Protocol by giving written notification to the Depositary at any time after four years of assuming the obligations specified in paragraph 1 of Article 2A. Any such withdrawal shall take effect upon expiry of one year after the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.
+
+<u>ARTICLE 20: AUTHENTIC TEXTS</u>
+
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+
+IN WITNESS WHEREOF THE UNDERSIGNED, BEING DULY AUTHORIZED TO THAT EFFECT, HAVE SIGNED THIS PROTOCOL.
+
+DONE AT MONTREAL THIS SIXTEENTH DAY OF SEPTEMBER, ONE THOUSAND NINE HUNDRED AND EIGHTY SEVEN.
+
+<u>Annex A</u>
+
+CONTROLLED SUBSTANCES
+
+<table>
+<colgroup>
+  <col width="27%">
+  <col width="32%">
+  <col width="41%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>Group</div>
+  </td>
+  <td>
+    <div>Substance</div>
+  </td>
+  <td>
+    <div>Ozone Depleting Potential
+      */</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group I</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CFCl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑11)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      2Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑12)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2F
+      3Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑113)</div>
+  </td>
+  <td>
+    <div>0.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2F
+      4Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑114)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2F
+      5Cl</div>
+  </td>
+  <td>
+    <div>(CFC‑115)</div>
+  </td>
+  <td>
+    <div>0.6</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group II</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      2BrCl</div>
+  </td>
+  <td>
+    <div>(halon‑1211)</div>
+  </td>
+  <td>
+    <div>3.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      3Br</div>
+  </td>
+  <td>
+    <div>(halon‑1301)</div>
+  </td>
+  <td>
+    <div>10.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2F
+      4Br
+      2
+    </div>
+  </td>
+  <td>
+    <div>(halon‑2402)</div>
+  </td>
+  <td>
+    <div>6.0</div>
+  </td>
+</tr></table>
+
+* /  These ozone depleting potentials are estimates based on existing knowledge and will be reviewed and revised periodically.
+
+<u>Annex B</u>
+
+CONTROLLED SUBSTANCES
+
+<table>
+<colgroup>
+  <col width="27%">
+  <col width="37%">
+  <col width="36%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Group</div>
+    </td>
+    <td>
+      <div>Substance</div>
+    </td>
+    <td>
+      <div>Ozone‑depleting potential</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Group I</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      3Cl</div>
+  </td>
+  <td>
+    <div>(CFC‑13)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2FCl
+      5
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑111)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2F
+      2Cl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑112)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3FCl
+      7
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑211)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      2Cl
+      6
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑212)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      3Cl
+      5
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑213)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      4Cl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑214)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      5Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑215)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      6Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(CFC‑216)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3F
+      7Cl</div>
+  </td>
+  <td>
+    <div>(CFC‑217)</div>
+  </td>
+  <td>
+    <div>1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group II</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CCl
+      4
+    </div>
+  </td>
+  <td>
+    <div>carbon tetrachloride</div>
+  </td>
+  <td>
+    <div>1.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group III</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      3Cl
+      3
+        <span style="position:relative;top:-3.0pt">*</span>
+       </div>
+  </td>
+  <td>
+    <div>1,1,1‑trichloroethane (methyl chloroform)</div>
+  </td>
+  <td>
+    <div>0.1</div>
+  </td>
+</tr></table>
+
+*    This formula does not refer to 1,1,2‑trichloroethane.
+
+<u>Annex C</u>
+
+CONTROLLED SUBSTANCES
+
+<table>
+<colgroup>
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="24%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Group</div>
+    </td>
+    <td>
+      <div>Substance</div>
+    </td>
+    <td>
+      <div>Number of Isomers</div>
+    </td>
+    <td>
+      <div>Ozone Depleting Potential
+        *
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Group I</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHFCl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑21)
+      ** </div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>0.04</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHF
+      2Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑22)
+      ** </div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>0.055</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CH
+      2FCl</div>
+  </td>
+  <td>
+    <div>(HCFC‑31)</div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>0.02</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HFCl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑121)</div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.01—0.04</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      2Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑122)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.02—0.08</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      3Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑123)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.02—0.06</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHCl
+      2CF
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑123)
+      ** </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.02</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      4Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑124)</div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.02—0.04</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHFClCF
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑124)
+      ** </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.022</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2FCl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑131)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.007—0.05</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2F
+      2Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑132)</div>
+  </td>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>0.008—0.05</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2F
+      3Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑133)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.02—0.06</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      3FCl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑141)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.005—0.07</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CH
+      3CFCl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑141b)
+      ** </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.11</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      3F
+      2Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑142)</div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.008—0.07</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CH
+      3CF
+      2Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑142b)
+      ** </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.065</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      4FCl</div>
+  </td>
+  <td>
+    <div>(HCFC‑151)</div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.003—0.005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HFCl
+      6
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑221)</div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.015—0.07</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      2Cl
+      5
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑222)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.01—0.09</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      3Cl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑223)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.01—0.08</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      4Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑224)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.01—0.09</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      5Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑225)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.02—0.07</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      3CF
+      2CHCl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑225ca)
+      **
+    </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.025</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CF
+      2ClCF
+      2CHClF</div>
+  </td>
+  <td>
+    <div>(HCFC‑225cb)
+      **
+    </div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div>0.033</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      6Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑226)</div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.02—0.10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2FCl
+      5
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑231)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.05—0.09</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      2Cl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑232)</div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.008—0.10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      3Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑233)</div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.007—0.23</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      4Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑234)</div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.01—0.28</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      5Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑235)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.03—0.52</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3FCl
+      4
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑241)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.004—0.09</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      2Cl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑242)</div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.005—0.13</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      3Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑243)</div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.007—0.12</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      4Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑244)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.009—0.14</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4FCl
+      3
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑251)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.001—0.01</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4F
+      2Cl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑252)</div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.005—0.04</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4F
+      3Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑253)</div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.003—0.03</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      5FCl
+      2
+    </div>
+  </td>
+  <td>
+    <div>(HCFC‑261)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.002—0.02</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      5F
+      2Cl</div>
+  </td>
+  <td>
+    <div>(HCFC‑262)</div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.002—0.02</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      6FCl</div>
+  </td>
+  <td>
+    <div>(HCFC‑271)</div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.001—0.03</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group II</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHFBr
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>1.00</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CHF
+      2Br</div>
+  </td>
+  <td>
+    <div>(HBFC‑22B1)</div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>0.74</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CH
+      2FBr</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>0.73</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HFBr
+      4
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.3—0.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      2Br
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.5—1.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      3Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.4—1.6</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2HF
+      4Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.7—1.2</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2FBr
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.1—1.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2F
+      2Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>0.2—1.5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      2F
+      3Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.7—1.6</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      3FBr
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.1—1.7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      3F
+      2Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>0.2—1.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      2H
+      4FBr</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>0.07—0.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HFBr
+      6
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.3—1.15</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      2Br
+      5
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.2—1.9</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      3Br
+      4
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.3—1.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      4Br
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.5—2.2</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      5Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.9—2.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3HF
+      6Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.7—3.3</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2FBr
+      5
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.1—1.9</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      2Br
+      4
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.2—2.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      3Br
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.2—5.6</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      4Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.3—7.5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      2F
+      5Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>0.9—1.4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3FBr
+      4
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.08—1.9</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      2Br
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.1—3.1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      3Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div>0.1—2.5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      3F
+      4Br
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.3—4.4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4FBr
+      3
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.03—0.3</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4F
+      2Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div>0.1—1.0</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      4F
+      3Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>0.07—0.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      5FBr
+      2
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.04—0.4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      5F
+      2Br</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>0.07—0.8</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C
+      3H
+      6FBr</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>0.02—0.7</div>
+  </td>
+</tr></table>
+
+*       Where a range of ODPs is indicated, the highest value in that range shall be used for the purposes of the Protocol. The ODPs listed as a single value have been determined from calculations based on laboratory measurements. Those listed as a range are based on estimates and are less certain. The range pertains to an isomeric group. The upper value is the estimate of the ODP of the isomer with the highest ODP, and the lower value is the estimate of the ODP of the isomer with the lowest ODP.
+
+**    Identifies the most commercially viable substances with ODP values listed against them to be used for the purposes of the Protocol.
+
+<u>Annex D</u><u>* </u>
+
+A LIST OF PRODUCTS** CONTAINING CONTROLLED
+ SUBSTANCES SPECIFIED IN ANNEX A (ADOPTED IN 
+ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
+
+<table>
+<colgroup>
+  <col width="7%">
+  <col width="55%">
+  <col width="38%">
+</colgroup>
+
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>PRODUCTS</div>
+  </td>
+  <td>
+    <div>CUSTOMS CODE NO.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>1.</div>
+  </td>
+  <td>
+    <div>Automobile and truck air conditioning units (whether incorporated in vehicles
+      or not)</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2.</div>
+  </td>
+  <td>
+    <div>Domestic and commercial refrigeration and air conditioning/heat pump equipment
+      ***
+    </div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>e.g. Refrigerators</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Freezers</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Dehumidifiers</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Water coolers</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Ice machines</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Air conditioning and heat pump units</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3.</div>
+  </td>
+  <td>
+    <div>Aerosol products, except medical aerosols</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4.</div>
+  </td>
+  <td>
+    <div>Portable fire extinguisher</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5.</div>
+  </td>
+  <td>
+    <div>Insulation boards, panels and pipe covers</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6.</div>
+  </td>
+  <td>
+    <div>Pre‑polymers</div>
+  </td>
+  <td>
+    <div>.........................</div>
+  </td>
+</tr></table>
+
+*       This Annex was adopted by the Third Meeting of the Parties in Nairobi, 21 June 1991 as required by paragraph 3 of Article 4 of the Protocol.
+
+**    Though not when transported in consignments of personal or household effects or in similar non‑commercial situations normally exempted from customs attention.
+
+***   When containing controlled substances in Annex A as a refrigerant and/or in insulating material of the product.
+
+<u>Annex E</u>
+
+CONTROLLED SUBSTANCE
+
+<table>
+<colgroup>
+  <col width="27%">
+  <col width="37%">
+  <col width="37%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>Group</div>
+  </td>
+  <td>
+    <div>Substance</div>
+  </td>
+  <td>
+    <div>Ozone Depleting Potential</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Group I</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>CH3Br</div>
+  </td>
+  <td>
+    <div>methyl bromide</div>
+  </td>
+  <td>
+    <div>0.7</div>
+  </td>
+</tr></table>
+
+# Schedule 3A—Adjustments to the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
+
+_Note:       See the definition of Montreal Protocol in subsection 7(1)._
+
+(Vienna, 7 December 1995)
+
+ADJUSTMENTS TO THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER OF 16 SEPTEMBER 1987
+
+_Controlled substances in Annex A_
+
+Article 5: Special situation of developing countries
+
+The following paragraph 8 _bis_ shall be inserted after paragraph 8 of Article 5 of the Protocol:
+
+8 _bis_.       Based on the conclusions of the review referred to in paragraph 8 above:
+
+(a)     With respect to the controlled substances in Annex A, a Party operating under paragraph 1 of this Article shall, in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures adopted by the Second Meeting of the Parties in London, 29 June 1990, and reference by the Protocol to Articles 2A and 2B shall be read accordingly;
+
+_Controlled substances in Annex B_
+
+Article 5: Special situation of developing countries
+
+The following subparagraph shall be inserted after subparagraph (a) of paragraph 8 _bis_ of Article 5 of the Protocol:
+
+(b)     With respect to the controlled substances in Annex B, a Party operating under paragraph 1 of this Article shall, in order to meet its basic domestic needs, be entitled to delay for ten years it compliance with the control measures adopted by the Second Meeting of the Parties in London, 29 June 1990, and reference by this Protocol to Articles 2C to 2E shall be read accordingly.
+
+_Controlled substances in Annexes C and E_
+
+Article 2F, paragraph 1(a):  Hydrochlorofluorocarbons
+
+In paragraph 1(a) of Article 2F, for the words:
+
+Three point one
+
+there shall be substituted:
+
+Two point eight
+
+Article 2F, paragraph 5:  Hydrochlorofluorocarbons
+
+The following sentence shall be added to the end of paragraph 5 of Article 2F of the Protocol:
+
+Such consumption shall, however, be restricted to the servicing of refrigeration and air conditioning equipment existing at that date.
+
+Article 2H:  Methyl bromide
+
+Article 2H of the Protocol shall read as follows:
+
+Article 2H:  Methyl bromide
+
+1.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 1995, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+
+2.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2001, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy‑five per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy‑five per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+
+3.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+
+4.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2010, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical agricultural uses.
+
+5.            The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+
+Article 5, paragraph 8 _ter_:  Special situation of developing countries
+
+The following paragraph 8 _ter_ shall be inserted after paragraph 8 _bis_ of Article 5 of the Protocol:
+
+8 _ter_.       Pursuant to paragraph 1 _bis_ above:
+
+(a)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2016, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, its calculated level of consumption in 2015;
+
+(b)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2040, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero;
+
+(c)     Each Party operating under paragraph 1 of this Article shall comply with Article 2G:
+
+(d)     With regard to the controlled substance contained in Annex E:
+
+(i)      As of 1 January 2002 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 1 of Article 2H and, as the basis for its compliance with these control measures, it shall use the average of its annual calculated level of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
+
+(ii)     The calculated levels of consumption and production under this subparagraph shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+
+Annex E:  Methyl bromide
+
+For &quot;0.7&quot; in the third column of Annex E substitute &quot;0.6&quot;.
+
+# Schedule 3B—Adjustments to Annexes A, B and E of the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
+
+_Note:       See the definition of Montreal Protocol in subsection 7(1)._
+
+(Montreal, 17 September 1997)
+
+ADJUSTMENTS TO ANNEXES A, B AND E OF THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER
+
+OF 16 SEPTEMBER 1987
+
+Decision IX/1.  Further adjustments with regard to Annex A substances
+
+To adopt, in accordance with the procedure laid down in paragraph 9 of Article 2 of the Montreal Protocol and on the basis of the assessments made pursuant to Article 6 of the Protocol, the adjustments with regard to production of the controlled substances listed in Annex A to the Protocol, as set out in Annex I to the report of the Ninth Meeting of the Parties;
+
+Decision IX/2.  Further adjustments with regard to Annex B substances
+
+To adopt, in accordance with the procedure laid down in paragraph 9 of Article 2 of the Montreal Protocol and on the basis of the assessments made pursuant to Article 6 of the Protocol, the adjustments with regard to production of the controlled substances listed in Annex B to the Protocol, as set out in Annex II to the report of the Ninth Meeting of the Parties;
+
+Decision IX/3.  Further adjustments and reductions with regard to the Annex E substance
+
+To adopt, in accordance with the procedure laid down in paragraph 9 of Article 2 of the Montreal Protocol and on the basis of the assessments made pursuant to Article 6 of the Protocol, the adjustments and reductions of production and consumption of the controlled substance listed in Annex E to the Protocol, as set out in Annex III to the report of the Ninth Meeting of the Parties.
+
+ANNEX I
+
+ADJUSTMENTS AGREED AT THE NINTH MEETING OF THE PARTIES RELATING TO CONTROLLED SUBSTANCES IN ANNEX A
+
+Article 5, paragraph 3
+
+The following words shall be added at the end of paragraph 3(a) of Article 5 of the Protocol:
+
+relating to consumption
+
+The following subparagraph shall be added to paragraph 3 of Article 5 of the Protocol:
+
+(c)        For controlled substances under Annex A, either the average of its annual calculated level of production for the period 1995 to 1997 inclusive or a calculated level of production of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to production.
+
+ANNEX II
+
+ADJUSTMENTS AGREED AT THE NINTH MEETING OF THE PARTIES RELATING TO CONTROLLED SUBSTANCES IN ANNEX B
+
+Article 5, paragraph 3
+
+The following words shall be added at the end of paragraph 3(b) of Article 5 of the Protocol:
+
+relating to consumption
+
+The following subparagraph shall be added to paragraph 3 of Article 5 of the Protocol:
+
+(d)        For controlled substances under Annex B, either the average of its annual calculated level of production for the period 1998 to 2000 inclusive or a calculated level of production of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to production.
+
+ANNEX III
+
+ADJUSTMENTS AGREED AT THE NINTH MEETING OF THE PARTIES RELATING TO THE CONTROLLED SUBSTANCE IN ANNEX E
+
+A.  Article 2H: Methyl bromide
+
+1.         Paragraphs 2 to 4 of Article 2H of the Protocol shall be replaced by the following paragraphs:
+
+2.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 1999, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy‑five percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy‑five percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+
+3.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2001, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+
+4.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2003, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, thirty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, thirty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+
+5.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen percent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses.
+
+2.         Paragraph 5 of Article 2H of the Protocol shall become paragraph 6.
+
+B.  Article 5, paragraph 8ter(d)
+
+1.         The following shall be inserted after paragraph 8ter(d)(i) of Article 5 of the Protocol:
+
+(ii)        Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed, annually, eighty percent of the average of its annual calculated levels of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
+
+(iii)       Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2015 and in each twelve‑month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed zero.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses;
+
+2.         Paragraph 8ter(d)(ii) of Article 5 of the Protocol shall become paragraph 8 ter(d)(iv).
+
+            Adopted at the Ninth Meeting of Parties to the Protocol.
+
+# Schedule 3C—Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
+
+_Note:       See the definition of Montreal Protocol in subsection 7(1)._
+
+(Montreal, 17 September 1997)
+
+AMENDMENT TO THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER OF 16 SEPTEMBER 1987
+
+Decision IX/4.  Further amendment of the Protocol
+
+To adopt, in accordance with the procedure laid down in paragraph 4 of Article 9 of the Vienna Convention for the Protection of the Ozone Layer, the Amendment to the Montreal Protocol as set out in Annex IV to the report of the Ninth Meeting of the Parties.
+
+ANNEX IV
+
+AMENDMENT TO THE MONTREAL PROTOCOL ADOPTED BY THE NINTH MEETING OF THE PARTIES
+
+**Article 1: Amendment**
+
+A.  Article 4, paragraph 1qua
+
+The following paragraph shall be inserted after paragraph 1ter of Article 4 of the Protocol:
+
+1qua    Within one year of the date of entry into force of this paragraph, each Party shall ban the import of the controlled substance in Annex E from any State not party to this Protocol.
+
+B.  Article 4, paragraph 2qua
+
+The following paragraph shall be inserted after paragraph 2ter of Article 4 of the Protocol:
+
+2qua    Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of the controlled substance in Annex E to any State not party to this Protocol.
+
+C.  Article 4, paragraphs 5, 6 and 7
+
+In paragraphs 5, 6 and 7 of Article 4 of the Protocol, for the words:
+
+and Group II of Annex C
+
+there shall be substituted:
+
+, Group II of Annex C and Annex E
+
+D.  Article 4, paragraph 8
+
+In paragraph 8 of Article 4 of the Protocol, for the words:
+
+Article 2G
+
+there shall be substituted:
+
+Articles 2G and 2H
+
+E.  Article 4A: Control of trade with Parties
+
+The following Article shall be added to the Protocol as Article 4A:
+
+1.         Where, after the phase‑out date applicable to it for a controlled substance, a Party is unable, despite having taken all practicable steps to comply with its obligation under the Protocol, to cease production of that substance for domestic consumption, other than for uses agreed by the Parties to be essential, it shall ban the export of used, recycled and reclaimed quantities of that substance, other than for the purpose of destruction.
+
+2.         Paragraph 1 of this Article shall apply without prejudice to the operation of Article 11 of the Convention and the non‑compliance procedure developed under Article 8 of the Protocol.
+
+**F.  Article 4B: Licensing**
+
+The following Article shall be added to the Protocol as Article 4B:
+
+1.         Each Party shall, by 1 January 2000 or within three months of the date of entry into force of this Article for it, whichever is the later, establish and implement a system for licensing the import and export of new, used, recycled and reclaimed controlled substances in Annexes A, B, C and E.
+
+2.         Notwithstanding paragraph 1 of this Article, any Party operating under paragraph 1 of Article 5 which decides it is not in a position to establish and implement a system for licensing the import and export of controlled substances in Annexes C and E, may delay taking those actions until 1 January 2005 and 1 January 2002, respectively.
+
+3.         Each Party shall, within three months of the date of introducing its licensing system, report to the Secretariat on the establishment and operation of that system.
+
+4.         The Secretariat shall periodically prepare and circulate to all Parties a list of the Parties that have reported to it on their licensing systems and shall forward this information to the Implementation Committee for consideration and appropriate recommendations to the Parties.
+
+**Article 2: Relationship to the 1992 Amendment**
+
+No State or regional economic integration organization may deposit an instrument of ratification, acceptance, approval or accession to this Amendment unless it has previously, or simultaneously, deposited such an instrument to the Amendment adopted at the Fourth Meeting of the Parties in Copenhagen, 25 November 1992.
+
+**Article 3: Entry into force**
+
+1.         This Amendment shall enter into force on 1 January 1999, provided that at least twenty instruments of ratification, acceptance or approval of the Amendment have been deposited by States or regional economic integration organizations that are Parties to the Montreal Protocol on Substances that Deplete the Ozone Layer.  In the event that this condition has not been fulfilled by that date, the Amendment shall enter into force on the ninetieth day following the date on which it has been fulfilled.
+
+2.         For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
+
+3.         After the entry into force of this Amendment, as provided under paragraph 1, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of ratification, acceptance or approval.
+
+            Adopted at the Ninth Meeting of Parties to the Protocol.
+
+# Schedule 3D—Beijing amendment to the Montreal Protocol
+
+_Note:       See the definition of Montreal Protocol in subsection 7(1)._
+
+**AMENDMENT TO THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER**
+
+**Article 1: Amendment**
+
+**_A. Article 2, paragraph 5_**
+
+In paragraph 5 of Article 2 of the Protocol, for the words:
+
+Articles 2A to 2E
+
+there shall be substituted:
+
+Articles 2A to 2F
+
+**_B. Article 2, paragraphs 8(a) and 11_**
+
+In paragraphs 8(a) and 11 of Article 2 of the Protocol, for the words:
+
+Articles 2A to 2H
+
+there shall be substituted:
+
+Articles 2A to 2I
+
+**_C. Article 2F, paragraph 8_**
+
+The following paragraph shall be added after paragraph 7 of Article 2F of the Protocol:
+
+Each Party producing one or more of these substances shall ensure that for the twelve‑month period commencing on 1 January 2004, and in each twelve‑month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of:
+
+(a)        The sum of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
+
+(b)        The sum of its calculated level of production in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of production in 1989 of the controlled substances in Group I of Annex A.
+
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production of the controlled substances in Group I of Annex C as defined above.
+
+**_D. Article 2I_**
+
+The following Article shall be inserted after Article 2H of the Protocol:
+
+_Article 2I: Bromochloromethane_
+
+Each Party shall ensure that for the twelve‑month period commencing on 1 January 2002, and in each twelve‑month period thereafter, its calculated level of consumption and production of the controlled substance in Group III of Annex C does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+**_E. Article 3_**
+
+In Article 3 of the Protocol, for the words:
+
+Articles 2, 2A to 2H
+
+there shall be substituted:
+
+Articles 2, 2A to 2I
+
+**_F. Article 4, paragraphs 1 quin. and 1 sex._**
+
+The following paragraphs shall be added to Article 4 of the Protocol after paragraph 1 _qua_:
+
+1 _quin_. As of 1 January 2004, each Party shall ban the import of the controlled substances in Group I of Annex C from any State not party to this Protocol.
+
+1 _sex._ Within one year of the date of entry into force of this paragraph, each Party shall ban the import of the controlled substance in Group III of Annex C from any State not party to this Protocol.
+
+**_G. Article 4, paragraphs 2 quin. and 2 sex._**
+
+The following paragraphs shall be added to Article 4 of the Protocol after paragraph 2 _qua_:
+
+2 _quin_. As of 1 January 2004, each Party shall ban the export of the controlled substances in Group I of Annex C to any State not party to this Protocol.
+
+2 _sex._ Within one year of the date of entry into force of this paragraph, each Party shall ban the export of the controlled substance in Group III of Annex C to any State not party to this Protocol.
+
+**_H. Article 4, paragraphs 5 to 7_**
+
+In paragraphs 5 to 7 of Article 4 of the Protocol, for the words:
+
+Annexes A and B, Group II of Annex C and Annex E
+
+there shall be substituted:
+
+Annexes A, B, C and E
+
+**_I. Article 4, paragraph 8_**
+
+In paragraph 8 of Article 4 of the Protocol, for the words:
+
+Articles 2A to 2E, Articles 2G and 2H
+
+there shall be substituted:
+
+Articles 2A to 2I
+
+**_J. Article 5, paragraph 4_**
+
+In paragraph 4 of Article 5 of the Protocol, for the words:
+
+Articles 2A to 2H
+
+there shall be substituted:
+
+Articles 2A to 2I
+
+**_K. Article 5, paragraphs 5 and 6_**
+
+In paragraphs 5 and 6 of Article 5 of the Protocol, for the words:
+
+Articles 2A to 2E
+
+there shall be substituted:
+
+Articles 2A to 2E and Article 2I
+
+**_L. Article 5, paragraph 8 ter (a)_**
+
+The following sentence shall be added at the end of subparagraph 8 _ter_ (a) of Article 5 of the Protocol:
+
+As of 1 January 2016 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 8 of Article 2F and, as the basis for its compliance with these control measures, it shall use the average of its calculated levels of production and consumption in 2015;
+
+**_M. Article 6_**
+
+In Article 6 of the Protocol, for the words:
+
+Articles 2A to 2H
+
+there shall be substituted:
+
+Articles 2A to 2I
+
+**_N. Article 7, paragraph 2_**
+
+In paragraph 2 of Article 7 of the Protocol, for the words:
+
+Annexes B and C
+
+there shall be substituted:
+
+Annex B and Groups I and II of Annex C
+
+**_O. Article 7, paragraph 3_**
+
+The following sentence shall be added after the first sentence of paragraph 3 of Article 7 of the Protocol:
+
+Each Party shall provide to the Secretariat statistical data on the annual amount of the controlled substance listed in Annex E used for quarantine and pre‑shipment applications.
+
+**_P. Article 10_**
+
+In paragraph 1 of Article 10 of the Protocol, for the words:
+
+Articles 2A to 2E
+
+there shall be substituted:
+
+Articles 2A to 2E and Article 2I
+
+**_Q. Article 17_**
+
+In Article 17 of the Protocol, for the words:
+
+Articles 2A to 2H
+
+there shall be substituted:
+
+Articles 2A to 2I
+
+**_R. Annex C_**
+
+The following group shall be added to Annex C to the Protocol:
+
+Group
+
+Substance                    Number of Isomers      Ozone‑Depleting Potential
+
+Group III
+
+CH<sub>2</sub>BrCl bromochloromethane                        1                      0.12
+
+**Article 2: Relationship to the 1997 Amendment**
+
+No State or regional economic integration organization may deposit an instrument of ratification, acceptance or approval of or accession to this Amendment unless it has previously, or simultaneously, deposited such an instrument to the Amendment adopted at the Ninth Meeting of the Parties in Montreal, 17 September 1997.
+
+**Article 3: Entry into force**
+
+1\. This Amendment shall enter into force on 1 January 2001, provided that at least twenty instruments of ratification, acceptance or approval of the Amendment have been deposited by States or regional economic integration organizations that are Parties to the Montreal Protocol on Substances that Deplete the Ozone Layer. In the event that this condition has not been fulfilled by that date, the Amendment shall enter into force on the ninetieth day following the date on which it has been fulfilled.
+
+2\. For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
+
+3\. After the entry into force of this Amendment, as provided under paragraph 1, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of ratification, acceptance or approval.
+
+# Schedule 3E—Framework Convention on Climate Change
+
+_Note:       See the definition of Framework Convention on Climate Change in subsection 7(1)._
+
+UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE
+
+<u>The Parties to this Convention</u>,
+
+<u>Acknowledging</u> that change in the Earth’s climate and its adverse effects are a common concern of humankind,
+
+<u>Concerned</u> that human activities have been substantially increasing the atmospheric concentrations of greenhouse gases, that these increases enhance the natural greenhouse effect, and that this will result on average in an additional warming of the Earth’s surface and atmosphere and may adversely affect natural ecosystems and humankind,
+
+<u>Noting</u> that the largest share of historical and current global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,
+
+<u>Aware</u> of the role and importance in terrestrial and marine ecosystems of sinks and reservoirs of greenhouse gases,
+
+<u>Noting</u> that there are many uncertainties in predictions of climate change, particularly with regard to the timing, magnitude and regional patterns thereof,
+
+<u>Acknowledging</u> that the global nature of climate change calls for the widest possible cooperation by all countries and their participation in an effective and appropriate international response, in accordance with their common but differentiated responsibilities and respective capabilities and their social and economic conditions,
+
+<u>Recalling</u> the pertinent provisions of the Declaration of the United Nations Conference on the Human Environment, adopted at Stockholm on 16 June 1972,
+
+<u>Recalling  also</u> that States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental and developmental policies, and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction,
+
+<u>Reaffirming</u> the principle of sovereignty of States in international cooperation to address climate change,
+
+<u>Recognizing</u> that States should enact effective environmental legislation, that environmental standards, management objectives and priorities should reflect the environmental and developmental context to which they apply, and that standards applied by some countries may be inappropriate and of unwarranted economic and social cost to other countries, in particular developing countries,
+
+<u>Recalling</u> the provisions of General Assembly resolution 44/228 of 22 December 1989 on the United Nations Conference on Environment and Development, and resolutions 43/53 of 6 December 1988, 44/207 of 22 December 1989, 45/212 of 21 December 1990 and 46/169 of 19 December 1991 on protection of global climate for present and future generations of mankind,
+
+<u>Recalling  also</u> the provisions of General Assembly resolution 44/206 of 22 December 1989 on the possible adverse effects of sealevel rise on islands and coastal areas, particularly low‑lying coastal areas and the pertinent provisions of General Assembly resolution 44/172 of 19 December 1989 on the implementation of the Plan of Action to Combat Desertification,
+
+<u>Recalling  further</u> the Vienna Convention for the Protection of the Ozone Layer, 1985, and the Montreal Protocol on Substances that Deplete the Ozone Layer, 1987, as adjusted and amended on 29 June 1990,
+
+<u>Noting</u> the Ministerial Declaration of the Second World Climate Conference adopted on 7 November 1990,
+
+<u>Conscious</u> of the valuable analytical work being conducted by many States on climate change and of the important contributions of the World Meteorological Organization, the United Nations Environment Programme and other organs, organizations and bodies of the United Nations system, as well as other international and intergovernmental bodies, to the exchange of results of scientific research and the coordination of research,
+
+<u>Recognizing</u> that steps required to understand and address climate change will be environmentally, socially and economically most effective if they are based on relevant scientific, technical and economic considerations and continually re‑evaluated in the light of new findings in these areas,
+
+<u>Recognizing</u> that various actions to address climate change can be justified economically in their own right and can also help in solving other environmental problems,
+
+<u>Recognizing  also</u> the need for developed countries to take immediate action in a flexible manner on the basis of clear priorities, as a first step towards comprehensive response strategies at the global, national and, where agreed, regional levels that take into account all greenhouse gases, with due consideration of their relative contributions to the enhancement of the greenhouse effect,
+
+<u>Recognizing</u> further that low‑lying and other small island countries, countries with low‑lying coastal, arid and semi‑arid areas or areas liable to floods, drought and desertification, and developing countries with fragile mountainous ecosystems are particularly vulnerable to the adverse effects of climate change,
+
+<u>Recognizing</u> the special difficulties of those countries, especially developing countries, whose economies are particularly dependent on fossil fuel production, use and exportation, as a consequence of action taken on limiting greenhouse gas emissions,
+
+<u>Affirming</u> that responses to climate change should be coordinated with social and economic development in an integrated manner with a view to avoiding adverse impacts on the latter, taking into full account the legitimate priority needs of developing countries for the achievement of sustained economic growth and the eradication of poverty,
+
+<u>Recognizing</u> that all countries, especially developing countries, need access to resources required to achieve sustainable social and economic development and that, in order for developing countries to progress towards that goal, their energy consumption will need to grow taking into account the possibilities for achieving greater energy efficiency and for controlling greenhouse gas emissions in general, including through the application of new technologies on terms which make such an application economically and socially beneficial,
+
+<u>Determined</u> to protect the climate system for present and future generations,
+
+<u>Have  agreed</u> as follows:
+
+ARTICLE 1
+
+DEFINITIONS* 
+
+For the purposes of this Convention:
+
+1.         “Adverse effects of climate change” means changes in the physical environment or biota resulting from climate change which have significant deleterious effects on the composition, resilience or productivity of natural and managed ecosystems or on the operation of socio‑economic systems or on human health and welfare.
+
+2.         “Climate change” means a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.
+
+3.         “Climate system” means the totality of the atmosphere, hydrosphere, biosphere and geosphere and their interactions.
+
+4.         “Emissions” means the release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time.
+
+5.         “Greenhouse gases” means those gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and re‑emit infrared radiation.
+
+6.         “Regional economic integration organization” means an organization constituted by sovereign States of a given region which has competence in respect of matters governed by this Convention or its protocols and has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to the instruments concerned.
+
+7.         “Reservoir” means a component or components of the climate system where a greenhouse gas or a precursor of a greenhouse gas is stored.
+
+8.         “Sink” means any process, activity or mechanism which removes a greenhouse gas, an aerosol or a precursor of a greenhouse gas from the atmosphere.
+
+9.         “Source” means any process or activity which releases a greenhouse gas, an aerosol or a precursor of a greenhouse gas into the atmosphere.
+
+ARTICLE 2
+
+OBJECTIVE
+
+The ultimate objective of this Convention and any related legal instruments that the Conference of the Parties may adopt is to achieve, in accordance with the relevant provisions of the Convention, stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. Such a level should be achieved within a time frame sufficient to allow ecosystems to adapt naturally to climate change, to ensure that food production is not threatened and to enable economic development to proceed in a sustainable manner.
+
+ARTICLE 3
+
+PRINCIPLES
+
+In their actions to achieve the objective of the Convention and to implement its provisions, the Parties shall be guided, <u>inter alia</u>, by the following:
+
+1.         The Parties should protect the climate system for the benefit of present and future generations of humankind, on the basis of equity and in accordance with their common but differentiated responsibilities and respective capabilities. Accordingly, the developed country Parties should take the lead in combating climate change and the adverse effects thereof.
+
+2.         The specific needs and special circumstances of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change, and of those Parties, especially developing country Parties, that would have to bear a disproportionate or abnormal burden under the Convention, should be given full consideration.
+
+3.         The Parties should take precautionary measures to anticipate, prevent or minimize the causes of climate change and mitigate its adverse effects. Where there are threats of serious or irreversible damage, lack of full scientific certainty should not be used as a reason for postponing such measures, taking into account that policies and measures to deal with climate change should be cost‑effective so as to ensure global benefits at the lowest possible cost. To achieve this, such policies and measures should take into account different socio‑economic contexts, be comprehensive, cover all relevant sources, sinks and reservoirs of greenhouse gases and adaptation, and comprise all economic sectors. Efforts to address climate change may be carried out cooperatively by interested Parties.
+
+4.         The Parties have a right to, and should, promote sustainable development. Policies and measures to protect the climate system against human‑induced change should be appropriate for the specific conditions of each Party and should be integrated with national development programmes, taking into account that economic development is essential for adopting measures to address climate change.
+
+5.         The Parties should cooperate to promote a supportive and open international economic system that would lead to sustainable economic growth and development in all Parties, particularly developing country Parties, thus enabling them better to address the problems of climate change. Measures taken to combat climate change, including unilateral ones, should not constitute a means of arbitrary or unjustifiable discrimination or a disguised restriction on international trade.
+
+ARTICLE 4
+
+COMMITMENTS
+
+1.         All Parties, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives and circumstances, shall:
+
+(a)        Develop, periodically update, publish and make available to the Conference of the Parties, in accordance with Article 12, national inventories of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, using comparable methodologies to be agreed upon by the Conference of the Parties;
+
+(b)        Formulate, implement, publish and regularly update national and, where appropriate, regional programmes containing measures to mitigate climate change by addressing anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, and measures to facilitate adequate adaptation to climate change;
+
+(c)        Promote and cooperate in the development, application and diffusion, including transfer, of technologies, practices and processes that control, reduce or prevent anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol in all relevant sectors, including the energy, transport, industry, agriculture, forestry and waste management sectors;
+
+(d)        Promote sustainable management, and promote and cooperate in the conservation and enhancement, as appropriate, of sinks and reservoirs of all greenhouse gases not controlled by the Montreal Protocol, including biomass, forests and oceans as well as other terrestrial, coastal and marine ecosystems;
+
+(e)        Cooperate in preparing for adaptation to the impacts of climate change; develop and elaborate appropriate and integrated plans for coastal zone management, water resources and agriculture, and for the protection and rehabilitation of areas, particularly in Africa, affected by drought and desertification, as well as floods;
+
+(f)        Take climate change considerations into account, to the extent feasible, in their relevant social, economic and environmental policies and actions, and employ appropriate methods, for example impact assessments, formulated and determined nationally, with a view to minimizing adverse effects on the economy, on public health and on the quality of the environment, of projects or measures undertaken by them to mitigate or adapt to climate change;
+
+(g)        Promote and cooperate in scientific, technological, technical, socio‑economic and other research, systematic observation and development of data archives related to the climate system and intended to further the understanding and to reduce or eliminate the remaining uncertainties regarding the causes, effects, magnitude and timing of climate change and the economic and social consequences of various response strategies;
+
+(h)        Promote and cooperate in the full, open and prompt exchange of relevant scientific, technological, technical, socio‑economic and legal information related to the climate system and climate change, and to the economic and social consequences of various response strategies;
+
+(i)         Promote and cooperate in education, training and public awareness related to climate change and encourage the widest participation in this process, including that of non‑governmental organizations; and
+
+(j)         Communicate to the Conference of the Parties information related to implementation, in accordance with Article 12.
+
+2.         The developed country Parties and other Parties included in annex I commit themselves specifically as provided for in the following:
+
+(a)        Each of these Parties shall adopt national <u><sup>1</sup></u><sup>/</sup> policies and take corresponding measures on the mitigation of climate change, by limiting its anthropogenic emissions of greenhouse gases and protecting and enhancing its greenhouse gas sinks and reservoirs. These policies and measures will demonstrate that developed countries are taking the lead in modifying longer‑term trends in anthropogenic emissions consistent with the objective of the Convention, recognizing that the return by the end of the present decade to earlier levels of anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol would contribute to such modification, and taking into account the differences in these Parties’ starting points and approaches, economic structures and resource bases, the need to maintain strong and sustainable economic growth, available technologies and other individual circumstances, as well as the need for equitable and appropriate contributions by each of these Parties to the global effort regarding that objective. These Parties may implement such policies and measures jointly with other Parties and may assist other Parties in contributing to the achievement of the objective of the Convention and, in particular, that of this subparagraph;
+
+(b)        In order to promote progress to this end, each of these Parties shall communicate, within six months of the entry into force of the Convention for it and periodically thereafter, and in accordance with Article 12, detailed information on its policies and measures referred to in subparagraph (a) above, as well as on its resulting projected anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol for the period referred to in subparagraph (a), with the aim of returning individually or jointly to their 1990 levels these anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol. This information will be reviewed by the Conference of the Parties, at its first session and periodically thereafter, in accordance with Article 7;
+
+(c)        Calculations of emissions by sources and removals by sinks of greenhouse gases for the purposes of subparagraph (b) above should take into account the best available scientific knowledge, including of the effective capacity of sinks and the respective contributions of such gases to climate change. The Conference of the Parties shall consider and agree on methodologies for these calculations at its first session and review them regularly thereafter;
+
+(d)        The Conference of the Parties shall, at its first session, review the adequacy of subparagraphs (a) and (b) above. Such review shall be carried out in the light of the best available scientific information and assessment on climate change and its impacts, as well as relevant technical, social and economic information. Based on this review, the Conference of the Parties shall take appropriate action, which may include the adoption of amendments to the commitments in subparagraphs (a) and (b) above. The Conference of the Parties, at its first session, shall also take decisions regarding criteria for joint implementation as indicated in subparagraph (a) above. A second review of subparagraphs (a) and (b) shall take place not later than 31 December 1998, and thereafter at regular intervals determined by the Conference of the Parties, until the objective of the Convention is met;
+
+(e)        Each of these Parties shall:
+
+(i)         coordinate as appropriate with other such Parties, relevant economic and administrative instruments developed to achieve the objective of the Convention; and
+
+(ii)        identify and periodically review its own policies and practices which encourage activities that lead to greater levels of anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol than would otherwise occur;
+
+(f)        The Conference of the Parties shall review, not later than 31 December 1998, available information with a view to taking decisions regarding such amendments to the lists in annexes I and II as may be appropriate, with the approval of the Party concerned;
+
+(g)        Any Party not included in annex I may, in its instrument of ratification, acceptance, approval or accession, or at any time thereafter, notify the Depositary that it intends to be bound by subparagraphs (a) and (b) above. The Depositary shall inform the other signatories and Parties of any such notification.
+
+3.         The developed country Parties and other developed Parties included in annex II shall provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in complying with their obligations under Article 12, paragraph 1\. They shall also provide such financial resources, including for the transfer of technology, needed by the developing country Parties to meet the agreed full incremental costs of implementing measures that are covered by paragraph 1 of this Article and that are agreed between a developing country Party and the international entity or entities referred to in Article 11, in accordance with that Article. The implementation of these commitments shall take into account the need for adequacy and predictability in the flow of funds and the importance of appropriate burden sharing among the developed country Parties.
+
+4.         The developed country Parties and other developed Parties included in annex II shall also assist the developing country Parties that are particularly vulnerable to the adverse effects of climate change in meeting costs of adaptation to those adverse effects.
+
+5.         The developed country Parties and other developed Parties included in annex II shall take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies and know‑how to other Parties, particularly developing country Parties, to enable them to implement the provisions of the Convention. In this process, the developed country Parties shall support the development and enhancement of endogenous capacities and technologies of developing country Parties. Other Parties and organizations in a position to do so may also assist in facilitating the transfer of such technologies.
+
+6.         In the implementation of their commitments under paragraph 2 above, a certain degree of flexibility shall be allowed by the Conference of the Parties to the Parties included in annex I undergoing the process of transition to a market economy, in order to enhance the ability of these Parties to address climate change, including with regard to the historical level of anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol chosen as a reference.
+
+7.         The extent to which developing country Parties will effectively implement their commitments under the Convention will depend on the effective implementation by developed country Parties of their commitments under the Convention related to financial resources and transfer of technology and will take fully into account that economic and social development and poverty eradication are the first and overriding priorities of the developing country Parties.
+
+8.         In the implementation of the commitments in this Article, the Parties shall give full consideration to what actions are necessary under the Convention, including actions related to funding, insurance and the transfer of technology, to meet the specific needs and concerns of developing country Parties arising from the adverse effects of climate change and/or the impact of the implementation of response measures, especially on:
+
+(a)        Small island countries;
+
+(b)        Countries with low‑lying coastal areas;
+
+(c)        Countries with arid and semi‑arid areas, forested areas and areas liable to forest decay;
+
+(d)        Countries with areas prone to natural disasters;
+
+(e)        Countries with areas liable to drought and desertification;
+
+(f)        Countries with areas of high urban atmospheric pollution;
+
+(g)        Countries with areas with fragile ecosystems, including mountainous ecosystems;
+
+(h)        Countries whose economies are highly dependent on income generated from the production, processing and export, and/or on consumption of fossil fuels and associated energy‑intensive products; and
+
+(i)         Land‑locked and transit countries.
+
+Further, the Conference of the Parties may take actions, as appropriate, with respect to this paragraph.
+
+9.         The Parties shall take full account of the specific needs and special situations of the least developed countries in their actions with regard to funding and transfer of technology.
+
+10.       The Parties shall, in accordance with Article 10, take into consideration in the implementation of the commitments of the Convention the situation of Parties, particularly developing country Parties, with economies that are vulnerable to the adverse effects of the implementation of measures to respond to climate change. This applies notably to Parties with economies that are highly dependent on income generated from the production, processing and export, and/or consumption of fossil fuels and associated energy‑intensive products and/or the use of fossil fuels for which such Parties have serious difficulties in switching to alternatives.
+
+ARTICLE 5
+
+RESEARCH AND SYSTEMATIC OBSERVATION
+
+In carrying out their commitments under Article 4, paragraph 1 (g), the Parties shall:
+
+(a)        Support and further develop, as appropriate, international and intergovernmental programmes and networks or organizations aimed at defining, conducting, assessing and financing research, data collection and systematic observation, taking into account the need to minimize duplication of effort;
+
+(b)        Support international and intergovernmental efforts to strengthen systematic observation and national scientific and technical research capacities and capabilities, particularly in developing countries, and to promote access to, and the exchange of, data and analyses thereof obtained from areas beyond national jurisdiction; and
+
+(c)        Take into account the particular concerns and needs of developing countries and cooperate in improving their endogenous capacities and capabilities to participate in the efforts referred to in subparagraphs (a) and (b) above.
+
+ARTICLE 6
+
+EDUCATION, TRAINING AND PUBLIC AWARENESS
+
+In carrying out their commitments under Article 4, paragraph 1 (i), the Parties shall:
+
+(a)        Promote and facilitate at the national and, as appropriate, subregional and regional levels, and in accordance with national laws and regulations, and within their respective capacities:
+
+(i)         the development and implementation of educational and public awareness programmes on climate change and its effects;
+
+(ii)        public access to information on climate change and its effects;
+
+(iii)       public participation in addressing climate change and its effects and developing adequate responses; and
+
+(iv)       training of scientific, technical and managerial personnel.
+
+(b)        Cooperate in and promote, at the international level, and, where appropriate, using existing bodies:
+
+(i)         the development and exchange of educational and public awareness material on climate change and its effects; and
+
+(ii)        the development and implementation of education and training programmes, including the strengthening of national institutions and the exchange or secondment of personnel to train experts in this field, in particular for developing countries.
+
+ARTICLE 7
+
+CONFERENCE OF THE PARTIES
+
+1.         A Conference of the Parties is hereby established.
+
+2.         The Conference of the Parties, as the supreme body of this Convention, shall keep under regular review the implementation of the Convention and any related legal instruments that the Conference of the Parties may adopt, and shall make, within its mandate, the decisions necessary to promote the effective implementation of the Convention. To this end, it shall:
+
+(a)        Periodically examine the obligations of the Parties and the institutional arrangements under the Convention, in the light of the objective of the Convention, the experience gained in its implementation and the evolution of scientific and technological knowledge;
+
+(b)        Promote and facilitate the exchange of information on measures adopted by the Parties to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments under the Convention;
+
+(c)        Facilitate, at the request of two or more Parties, the coordination of measures adopted by them to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments under the Convention;
+
+(d)        Promote and guide, in accordance with the objective and provisions of the Convention, the development and periodic refinement of comparable methodologies, to be agreed on by the Conference of the Parties, <u>inter alia</u>, for preparing inventories of greenhouse gas emissions by sources and removals by sinks, and for evaluating the effectiveness of measures to limit the emissions and enhance the removals of these gases;
+
+(e)        Assess, on the basis of all information made available to it in accordance with the provisions of the Convention, the implementation of the Convention by the Parties, the overall effects of the measures taken pursuant to the Convention, in particular environmental, economic and social effects as well as their cumulative impacts and the extent to which progress towards the objective of the Convention is being achieved;
+
+(f)        Consider and adopt regular reports on the implementation of the Convention and ensure their publication;
+
+(g)        Make recommendations on any matters necessary for the implementation of the Convention;
+
+(h)        Seek to mobilize financial resources in accordance with Article 4, paragraphs 3, 4 and 5, and Article 11;
+
+(i)         Establish such subsidiary bodies as are deemed necessary for the implementation of the Convention;
+
+(j)         Review reports submitted by its subsidiary bodies and provide guidance to them;
+
+(k)        Agree upon and adopt, by consensus, rules of procedure and financial rules for itself and for any subsidiary bodies;
+
+(l)         Seek and utilize, where appropriate, the services and cooperation of, and information provided by, competent international organizations and intergovernmental and non‑governmental bodies; and
+
+(m)       Exercise such other functions as are required for the achievement of the objective of the Convention as well as all other functions assigned to it under the Convention.
+
+3.         The Conference of the Parties shall, at its first session, adopt its own rules of procedure as well as those of the subsidiary bodies established by the Convention, which shall include decision‑making procedures for matters not already covered by decision‑making procedures stipulated in the Convention. Such procedures may include specified majorities required for the adoption of particular decisions.
+
+4.         The first session of the Conference of the Parties shall be convened by the interim secretariat referred to in Article 21 and shall take place not later than one year after the date of entry into force of the Convention. Thereafter, ordinary sessions of the Conference of the Parties shall be held every year unless otherwise decided by the Conference of the Parties.
+
+5.         Extraordinary sessions of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the secretariat, it is supported by at least one‑third of the Parties.
+
+6.         The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not Party to the Convention, may be represented at sessions of the Conference of the Parties as observers. Any body or agency, whether national or international, governmental or non‑governmental, which is qualified in matters covered by the Convention, and which has informed the secretariat of its wish to be represented at a session of the Conference of the Parties as an observer, may be so admitted unless at least one‑third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
+
+ARTICLE 8
+
+SECRETARIAT
+
+1.         A secretariat is hereby established.
+
+2.         The functions of the secretariat shall be:
+
+(a)        To make arrangements for sessions of the Conference of the Parties and its subsidiary bodies established under the Convention and to provide them with services as required;
+
+(b)        To compile and transmit reports submitted to it;
+
+(c)        To facilitate assistance to the Parties, particularly developing country Parties, on request, in the compilation and communication of information required in accordance with the provisions of the Convention;
+
+(d)        To prepare reports on its activities and present them to the Conference of the Parties;
+
+(e)        To ensure the necessary coordination with the secretariats of other relevant international bodies;
+
+(f)        To enter, under the overall guidance of the Conference of the Parties, into such administrative and contractual arrangements as may be required for the effective discharge of its functions; and
+
+(g)        To perform the other secretariat functions specified in the Convention and in any of its protocols and such other functions as may be determined by the Conference of the Parties.
+
+3.         The Conference of the Parties, at its first session, shall designate a permanent secretariat and make arrangements for its functioning.
+
+ARTICLE 9
+
+SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNOLOGICAL ADVICE
+
+1.         A subsidiary body for scientific and technological advice is hereby established to provide the Conference of the Parties and, as appropriate, its other subsidiary bodies with timely information and advice on scientific and technological matters relating to the Convention. This body shall be open to participation by all Parties and shall be multidisciplinary. It shall comprise government representatives competent in the relevant field of expertise. It shall report regularly to the Conference of the Parties on all aspects of its work.
+
+2.         Under the guidance of the Conference of the Parties, and drawing upon existing competent international bodies, this body shall:
+
+(a)        Provide assessments of the state of scientific knowledge relating to climate change and its effects;
+
+(b)        Prepare scientific assessments on the effects of measures taken in the implementation of the Convention;
+
+(c)        Identify innovative, efficient and state‑of‑the‑art technologies and know‑how and advise on the ways and means of promoting development and/or transferring such technologies;
+
+(d)        Provide advice on scientific programmes, international cooperation in research and development related to climate change, as well as on ways and means of supporting endogenous capacity‑building in developing countries; and
+
+(e)        Respond to scientific, technological and methodological questions that the Conference of the Parties and its subsidiary bodies may put to the body.
+
+3.         The functions and terms of reference of this body may be further elaborated by the Conference of the Parties.
+
+ARTICLE 10
+
+SUBSIDIARY BODY FOR IMPLEMENTATION
+
+1.         A subsidiary body for implementation is hereby established to assist the Conference of the Parties in the assessment and review of the effective implementation of the Convention. This body shall be open to participation by all Parties and comprise government representatives who are experts on matters related to climate change. It shall report regularly to the Conference of the Parties on all aspects of its work.
+
+2.         Under the guidance of the Conference of the Parties, this body shall:
+
+(a)        Consider the information communicated in accordance with Article 12, paragraph 1, to assess the overall aggregated effect of the steps taken by the Parties in the light of the latest scientific assessments concerning climate change;
+
+(b)        Consider the information communicated in accordance with Article 12, paragraph 2, in order to assist the Conference of the Parties in carrying out the reviews required by Article 4, paragraph 2 (d); and
+
+(c)        Assist the Conference of the Parties, as appropriate, in the preparation and implementation of its decisions.
+
+ARTICLE 11
+
+FINANCIAL MECHANISM
+
+1.         A mechanism for the provision of financial resources on a grant or concessional basis, including for the transfer of technology, is hereby defined. It shall function under the guidance of and be accountable to the Conference of the Parties, which shall decide on its policies, programme priorities and eligibility criteria related to this Convention. Its operation shall be entrusted to one or more existing international entities.
+
+2.         The financial mechanism shall have an equitable and balanced representation of all Parties within a transparent system of governance.
+
+3.         The Conference of the Parties and the entity or entities entrusted with the operation of the financial mechanism shall agree upon arrangements to give effect to the above paragraphs, which shall include the following:
+
+(a)        Modalities to ensure that the funded projects to address climate change are in conformity with the policies, programme priorities and eligibility criteria established by the Conference of the Parties;
+
+(b)        Modalities by which a particular funding decision may be reconsidered in light of these policies, programme priorities and eligibility criteria;
+
+(c)        Provision by the entity or entities of regular reports to the Conference of the Parties on its funding operations, which is consistent with the requirement for accountability set out in paragraph 1 above; and
+
+(d)        Determination in a predictable and identifiable manner of the amount of funding necessary and available for the implementation of this Convention and the conditions under which that amount shall be periodically reviewed.
+
+4.         The Conference of the Parties shall make arrangements to implement the above‑mentioned provisions at its first session, reviewing and taking into account the interim arrangements referred to in Article 21, paragraph 3, and shall decide whether these interim arrangements shall be maintained. Within four years thereafter, the Conference of the Parties shall review the financial mechanism and take appropriate measures.
+
+5.         The developed country Parties may also provide and developing country Parties avail themselves of, financial resources related to the implementation of the Convention through bilateral, regional and other multilateral channels.
+
+ARTICLE 12
+
+COMMUNICATION OF INFORMATION RELATED TO IMPLEMENTATION
+
+1.         In accordance with Article 4, paragraph 1, each Party shall communicate to the Conference of the Parties, through the secretariat, the following elements of information:
+
+(a)        A national inventory of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, to the extent its capacities permit, using comparable methodologies to be promoted and agreed upon by the Conference of the Parties;
+
+(b)        A general description of steps taken or envisaged by the Party to implement the Convention; and
+
+(c)        Any other information that the Party considers relevant to the achievement of the objective of the Convention and suitable for inclusion in its communication, including, if feasible, material relevant for calculations of global emission trends.
+
+2.         Each developed country Party and each other Party included in annex I shall incorporate in its communication the following elements of information:
+
+(a)        A detailed description of the policies and measures that it has adopted to implement its commitment under Article 4, paragraphs 2 (a) and 2 (b); and
+
+(b)        A specific estimate of the effects that the policies and measures referred to in subparagraph (a) immediately above will have on anthropogenic emissions by its sources and removals by its sinks of greenhouse gases during the period referred to in Article 4, paragraph 2 (a).
+
+3.         In addition, each developed country Party and each other developed Party included in annex II shall incorporate details of measures taken in accordance with Article 4, paragraphs 3, 4 and 5.
+
+4.         Developing country Parties may, on a voluntary basis, propose projects for financing, including specific technologies, materials, equipment, techniques or practices that would be needed to implement such projects, along with, if possible, an estimate of all incremental costs, of the reductions of emissions and increments of removals of greenhouse gases, as well as an estimate of the consequent benefits.
+
+5.         Each developed country Party and each other Party included in annex I shall make its initial communication within six months of the entry into force of the Convention for that Party. Each Party not so listed shall make its initial communication within three years of the entry into force of the Convention for that Party, or of the availability of financial resources in accordance with Article 4, paragraph 3\. Parties that are least developed countries may make their initial communication at their discretion. The frequency of subsequent communications by all Parties shall be determined by the Conference of the Parties, taking into account the differentiated timetable set by this paragraph.
+
+6.         Information communicated by Parties under this Article shall be transmitted by the secretariat as soon as possible to the Conference of the Parties and to any subsidiary bodies concerned. If necessary, the procedures for the communication of information may be further considered by the Conference of the Parties.
+
+7.         From its first session, the Conference of the Parties shall arrange for the provision to developing country Parties of technical and financial support, on request, in compiling and communicating information under this Article, as well as in identifying the technical and financial needs associated with proposed projects and response measures under Article 4\. Such support may be provided by other Parties, by competent international organizations and by the secretariat, as appropriate.
+
+8.         Any group of Parties may, subject to guidelines adopted by the Conference of the Parties, and to prior notification to the Conference of the Parties, make a joint communication in fulfilment of their obligations under this Article, provided that such a communication includes information on the fulfilment by each of these Parties of its individual obligations under the Convention.
+
+9.         Information received by the secretariat that is designated by a Party as confidential, in accordance with criteria to be established by the Conference of the Parties, shall be aggregated by the secretariat to protect its confidentiality before being made available to any of the bodies involved in the communication and review of information.
+
+10.       Subject to paragraph 9 above, and without prejudice to the ability of any Party to make public its communication at any time, the secretariat shall make communications by Parties under this Article publicly available at the time they are submitted to the Conference of the Parties.
+
+ARTICLE 13
+
+RESOLUTION OF QUESTIONS REGARDING IMPLEMENTATION
+
+The Conference of the Parties shall, at its first session, consider the establishment of a multilateral consultative process, available to Parties on their request, for the resolution of questions regarding the implementation of the Convention.
+
+ARTICLE 14
+
+SETTLEMENT OF DISPUTES
+
+1.         In the event of a dispute between any two or more Parties concerning the interpretation or application of the Convention, the Parties concerned shall seek a settlement of the dispute through negotiation or any other peaceful means of their own choice.
+
+2.         When ratifying, accepting, approving or acceding to the Convention, or at any time thereafter, a Party which is not a regional economic integration organization may declare in a written instrument submitted to the Depositary that, in respect of any dispute concerning the interpretation or application of the Convention, it recognizes as compulsory <u>ipso facto</u> and without special agreement, in relation to any Party accepting the same obligation:
+
+(a)        Submission of the dispute to the International Court of Justice, and/or
+
+(b)        Arbitration in accordance with procedures to be adopted by the Conference of the Parties as soon as practicable, in an annex on arbitration.
+
+A Party which is a regional economic integration organization may make a declaration with like effect in relation to arbitration in accordance with the procedures referred to in subparagraph (b) above.
+
+3.         A declaration made under paragraph 2 above shall remain in force until it expires in accordance with its terms or until three months after written notice of its revocation has been deposited with the Depositary.
+
+4.         A new declaration, a notice of revocation or the expiry of a declaration shall not in any way affect proceedings pending before the International Court of Justice or the arbitral tribunal, unless the parties to the dispute otherwise agree.
+
+5.         Subject to the operation of paragraph 2 above, if after twelve months following notification by one Party to another that a dispute exists between them, the Parties concerned have not been able to settle their dispute through the means mentioned in paragraph 1 above, the dispute shall be submitted, at the request of any of the parties to the dispute, to conciliation.
+
+6.         A conciliation commission shall be created upon the request of one of the parties to the dispute. The commission shall be composed of an equal number of members appointed by each party concerned and a chairman chosen jointly by the members appointed by each party. The commission shall render a recommendatory award, which the parties shall consider in good faith.
+
+7.         Additional procedures relating to conciliation shall be adopted by the Conference of the Parties, as soon as practicable, in an annex on conciliation.
+
+8.         The provisions of this Article shall apply to any related legal instrument which the Conference of the Parties may adopt, unless the instrument provides otherwise.
+
+ARTICLE 15
+
+AMENDMENTS TO THE CONVENTION
+
+1.         Any Party may propose amendments to the Convention.
+
+2.         Amendments to the Convention shall be adopted at an ordinary session of the Conference of the Parties. The text of any proposed amendment to the Convention shall be communicated to the Parties by the secretariat at least six months before the meeting at which it is proposed for adoption. The secretariat shall also communicate proposed amendments to the signatories to the Convention and, for information, to the Depositary.
+
+3.         The Parties shall make every effort to reach agreement on any proposed amendment to the Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three‑fourths majority vote of the Parties present and voting at the meeting. The adopted amendment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties for their acceptance.
+
+4.         Instruments of acceptance in respect of an amendment shall be deposited with the Depositary. An amendment adopted in accordance with paragraph 3 above shall enter into force for those Parties having accepted it on the ninetieth day after the date of receipt by the Depositary of an instrument of acceptance by at least three‑fourths of the Parties to the Convention.
+
+5.         The amendment shall enter into force for any other Party on the ninetieth day after the date on which that Party deposits with the Depositary its instrument of acceptance of the said amendment.
+
+6.         For the purposes of this Article, “Parties present and voting” means Parties present and casting an affirmative or negative vote.
+
+ARTICLE 16
+
+ADOPTION AND AMENDMENT OF ANNEXES TO THE CONVENTION
+
+1.         Annexes to the Convention shall form an integral part thereof and, unless otherwise expressly provided, a reference to the Convention constitutes at the same time a reference to any annexes thereto. Without prejudice to the provisions of Article 14, paragraphs 2 (b) and 7, such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
+
+2.         Annexes to the Convention shall be proposed and adopted in accordance with the procedure set forth in Article 15, paragraphs 2, 3, and 4.
+
+3.         An annex that has been adopted in accordance with paragraph 2 above shall enter into force for all Parties to the Convention six months after the date of the communication by the Depositary to such Parties of the adoption of the annex, except for those Parties that have notified the Depositary, in writing, within that period of their non‑acceptance of the annex. The annex shall enter into force for Parties which withdraw their notification of non‑acceptance on the ninetieth day after the date on which withdrawal of such notification has been received by the Depositary.
+
+4.         The proposal, adoption and entry into force of amendments to annexes to the Convention shall be subject to the same procedure as that for the proposal, adoption and entry into force of annexes to the Convention in accordance with paragraphs 2 and 3 above.
+
+5.         If the adoption of an annex or an amendment to an annex involves an amendment to the Convention, that annex or amendment to an annex shall not enter into force until such time as the amendment to the Convention enters into force.
+
+ARTICLE 17
+
+PROTOCOLS
+
+1.         The Conference of the Parties may, at any ordinary session, adopt protocols to the Convention.
+
+2.         The text of any proposed protocol shall be communicated to the Parties by the secretariat at least six months before such a session.
+
+3.         The requirements for the entry into force of any protocol shall be established by that instrument.
+
+4.         Only Parties to the Convention may be Parties to a protocol.
+
+5.         Decisions under any protocol shall be taken only by the Parties to the protocol concerned.
+
+ARTICLE 18
+
+RIGHT TO VOTE
+
+1.         Each Party to the Convention shall have one vote, except as provided for in paragraph 2 below.
+
+2.         Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States that are Parties to the Convention. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
+
+ARTICLE 19
+
+DEPOSITARY
+
+The Secretary‑General of the United Nations shall be the Depositary of the Convention and of protocols adopted in accordance with Article 17.
+
+ARTICLE 20
+
+SIGNATURE
+
+This Convention shall be open for signature by States Members of the United Nations or of any of its specialized agencies or that are Parties to the Statute of the International Court of Justice and by regional economic integration organizations at Rio de Janeiro, during the United Nations Conference on Environment and Development, and thereafter at United Nations Headquarters in New York from 20 June 1992 to 19 June 1993.
+
+ARTICLE 21
+
+INTERIM ARRANGEMENTS
+
+1.         The secretariat functions referred to in Article 8 will be carried out on an interim basis by the secretariat established by the General Assembly of the United Nations in its resolution 45/212 of 21 December 1990, until the completion of the first session of the Conference of the Parties.
+
+2.         The head of the interim secretariat referred to in paragraph 1 above will cooperate closely with the Intergovernmental Panel on Climate Change to ensure that the Panel can respond to the need for objective scientific and technical advice. Other relevant scientific bodies could also be consulted.
+
+3.         The Global Environment Facility of the United Nations Development Programme, the United Nations Environment Programme and the International Bank for Reconstruction and Development shall be the international entity entrusted with the operation of the financial mechanism referred to in Article 11 on an interim basis. In this connection, the Global Environment Facility should be appropriately restructured and its membership made universal to enable it to fulfil the requirements of Article 11.
+
+ARTICLE 22
+
+RATIFICATION, ACCEPTANCE, APPROVAL OR ACCESSION
+
+1.         The Convention shall be subject to ratification, acceptance, approval or accession by States and by regional economic integration organizations. It shall be open for accession from the day after the date on which the Convention is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.
+
+2.         Any regional economic integration organization which becomes a Party to the Convention without any of its member States being a Party shall be bound by all the obligations under the Convention. In the case of such organizations, one or more of whose member States is a Party to the Convention, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under the Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under the Convention concurrently.
+
+3.         In their instruments of ratification, acceptance, approval or accession, regional economic integration organizations shall declare the extent of their competence with respect to the matters governed by the Convention. These organizations shall also inform the Depositary, who shall in turn inform the Parties, of any substantial modification in the extent of their competence.
+
+ARTICLE 23
+
+ENTRY INTO FORCE
+
+1.         The Convention shall enter into force on the ninetieth day after the date of deposit of the fiftieth instrument of ratification, acceptance, approval or accession.
+
+2.         For each State or regional economic integration organization that ratifies, accepts or approves the Convention or accedes thereto after the deposit of the fiftieth instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the ninetieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
+
+3.         For the purposes of paragraphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States members of the organization.
+
+ARTICLE 24
+
+RESERVATIONS
+
+No reservations may be made to the Convention.
+
+ARTICLE 25
+
+WITHDRAWAL
+
+1.         At any time after three years from the date on which the Convention has entered into force for a Party, that Party may withdraw from the Convention by giving written notification to the Depositary.
+
+2.         Any such withdrawal shall take effect upon expiry of one year from the date of receipt by the Depositary of the notification of withdrawal, or on such later date as may be specified in the notification of withdrawal.
+
+3.         Any Party that withdraws from the Convention shall be considered as also having withdrawn from any protocol to which it is a Party.
+
+ARTICLE 26
+
+AUTHENTIC TEXTS
+
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.
+
+DONE at New York this ninth day of May one thousand nine hundred and ninety‑two.
+
+\[Signatures omitted]
+
+____________
+
+*  Titles of articles are included solely to assist the reader.
+
+<u><sup>1</sup></u><sup>/</sup> This includes policies and measures adopted by regional economic integration organizations.
+
+ANNEX I
+
+Australia
+
+Austria
+
+Belarus <u>a</u>/
+
+Belgium
+
+Bulgaria <u>a</u>/
+
+Canada
+
+Czechoslovakia <u>a</u>/
+
+Denmark
+
+European Community
+
+Estonia <u>a</u>/
+
+Finland
+
+France
+
+Germany
+
+Greece
+
+Hungary <u>a</u>/
+
+Iceland
+
+Ireland
+
+Italy
+
+Japan
+
+Latvia <u>a</u>/
+
+Lithuania <u>a</u>/
+
+Luxembourg
+
+Netherlands
+
+New Zealand
+
+Norway
+
+Poland <u>a</u>/
+
+Portugal
+
+Romania <u>a</u>/
+
+Russian Federation <u>a</u>/
+
+Spain
+
+Sweden
+
+Switzerland
+
+Turkey
+
+Ukraine <u>a</u>/
+
+United Kingdom of Great Britain and Northern Ireland
+
+United States of America
+
+___________
+
+<u>a</u>/      Countries that are undergoing the process of transition to a market economy.
+
+ANNEX II
+
+Australia
+
+Austria
+
+Belgium
+
+Canada
+
+Denmark
+
+European Community
+
+Finland
+
+France
+
+Germany
+
+Greece
+
+Iceland
+
+Ireland
+
+Italy
+
+Japan
+
+Luxembourg
+
+Netherlands
+
+New Zealand
+
+Norway
+
+Portugal
+
+Spain
+
+Sweden
+
+Switzerland
+
+Turkey
+
+United Kingdom of Great Britain and Northern Ireland
+
+United States of America
+
+# Schedule 4—Control of manufacture etc. of products containing or using scheduled substances
+
+_Section 38_
+
+##### <a id="1"></a>1  Dry cleaning machinery
+
+             (1)  A person shall not manufacture or import machinery that is intended for the dry cleaning of clothing or similar articles if the machinery is capable of being operated using a scheduled substance.
+
+             (2)  This clause applies as follows:
+
+                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of machinery after the commencement of this Act;
+
+                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of machinery after the commencement of the _Ozone Protection Amendment Act 1992_.
+
+##### <a id="2"></a>2  Automotive air conditioning maintenance kits
+
+             (1)  A person shall not manufacture or import equipment that:
+
+                     (a)  is intended for use as, or as a part of, a kit for the maintenance of automotive air conditioning units; and
+
+                     (b)  consists, wholly or partly, of a non‑refillable container:
+
+                              (i)  that encloses a scheduled substance (whether alone or with another substance); and
+
+                             (ii)  the contents of which, immediately after manufacture, weigh 5 kilograms or less.
+
+             (2)  This clause applies as follows:
+
+                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of equipment after 31 January 1989;
+
+                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of equipment after the commencement of the _Ozone Protection Amendment Act 1992_.
+
+##### <a id="4"></a>4  Extruded polystyrene packaging and insulation
+
+             (1)  A person shall not manufacture or import a polystyrene product if:
+
+                     (a)  either:
+
+                              (i)  the product contains a scheduled substance; or
+
+                             (ii)  a scheduled substance was used in the manufacture of the product; and
+
+                     (b)  the product is intended for use as packaging or as thermal insulating material.
+
+             (2)  This clause applies as follows:
+
+                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of products after 31 December 1989;
+
+                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_.
+
+##### <a id="5"></a>5  Aerosol products
+
+             (1)  A person shall not manufacture or import an aerosol product that contains a scheduled substance unless the manufacture or importation is in accordance with an exemption granted to the person under section 40.
+
+       (2)        This clause applies as follows:
+
+                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of products after 31 December 1989;
+
+                     (b)  in the case of a stage‑2 scheduled substance (other than methyl chloroform)—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_;
+
+                     (c)  in the case of methyl chloroform—to the manufacture or import of products after whichever is the later of the following times:
+
+                              (i)  the commencement of the Ozone Protection Amendment Act 1992;
+
+                             (ii)  the end of 31 December 1992.
+
+##### <a id="6"></a>6  Products containing halon
+
+                   A person must not manufacture or import a product that contains a halon.
+
+##### <a id="7"></a>7  Rigid polyurethane foam product
+
+A person must not manufacture or import a rigid polyurethane foam product if the product is intended for use as packaging and:
+
+                     (a)  the product contains a stage‑1 or stage‑2 scheduled substance; or
+
+                     (b)  a stage‑1 or stage‑2 scheduled substance was used in the manufacture of the product.
+
+##### <a id="8"></a>8  Moulded flexible polyurethane foam
+
+                   A person must not manufacture moulded flexible polyurethane foam if:
+
+                     (a)  the foam contains a stage‑1 or stage‑2 scheduled substance; or
+
+                     (b)  a stage‑1 or stage‑2 scheduled substance is used in the manufacture of the foam.
+
+##### <a id="9"></a>9  Disposable containers of refrigerants
+
+                   A person must not manufacture or import a product consisting wholly or partly of a non‑refillable container if:
+
+                     (a)  the product contains a CFC; and
+
+                     (b)  the product is designed for use in the maintenance of refrigerative units (including air conditioning units).
+
+##### <a id="10"></a>10  Refrigeration and air conditioning equipment
+
+             (1)  A person must not manufacture or import refrigeration or air conditioning equipment if:
+
+                     (a)  the equipment is charged with a CFC refrigerant or an HCFC refrigerant; or
+
+                     (b)  the equipment is designed to operate by using a CFC refrigerant or an HCFC refrigerant (whether or not it is also designed to operate using another substance); or
+
+                     (c)  the equipment is insulated with foam manufactured with a CFC or an HCFC.
+
+          (1A)  Subclause (1) does not apply to equipment specified in the regulations.
+
+Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+
+             (2)  Subclause (1) does not apply to the import of refrigerated transport containers (including insulated shipping containers and air freight containers to which refrigerated clip on units are attached).
+
+             (3)  In subclause (2):
+
+                    <a name="refriger-clip-unit"></a>**_refrigerated clip on unit_** means a refrigeration unit that can be attached to an insulated container where the container does not have an integrated refrigeration system.
+
+# Notes to the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+### Note 1
+
+The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ as shown in this compilation comprises Act No. 7, 1989 amended as indicated in the Tables below.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Ozone Protection Act 1989</div>
+  </td>
+  <td>
+    <div>7, 1989</div>
+  </td>
+  <td>
+    <div>16 Mar 1989</div>
+  </td>
+  <td>
+    <div>16 Mar 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ozone Protection Amendment Act 1992</div>
+  </td>
+  <td>
+    <div>46, 1992</div>
+  </td>
+  <td>
+    <div>11 June 1992</div>
+  </td>
+  <td>
+    <div>9 Nov 1992 ( <i>see Gazette</i>1992, No. S321)</div>
+  </td>
+  <td>
+    <div>Ss. 11(2), 26(2), 27(2), 33(2), 34(2) and 37(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ozone Protection Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>124, 1995</div>
+  </td>
+  <td>
+    <div>2 Nov 1995</div>
+  </td>
+  <td>
+    <div>S. 3 and Schedule 1 (items 1–17, 19–66): 1 Jan 1996 Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 
+3(2)–(5), Sch. 1 (item 61) and Sch. 2</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>152, 1997</div>
+  </td>
+  <td>
+    <div>24 Oct 1997</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 11–18): 2 Nov 1995 <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>118, 1997</div>
+  </td>
+  <td>
+    <div>7 July 1997</div>
+  </td>
+  <td>
+    <div>7 July 1997</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ozone Protection Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>36, 1999</div>
+  </td>
+  <td>
+    <div>31 May 1999</div>
+  </td>
+  <td>
+    <div>31 May 1999</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
+  </td>
+  <td>
+    <div>92, 1999</div>
+  </td>
+  <td>
+    <div>16 July 1999</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 17, 18): 16 July 2000 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>Sch. 7 (item 18) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 721–723): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>15, 2001</div>
+  </td>
+  <td>
+    <div>22 Mar 2001</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 1 (items 106–128): 24 May 2001 <i>(d)</i></div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environmental Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>118, 2001</div>
+  </td>
+  <td>
+    <div>18 Sept 2001</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): Royal Assent <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>126, 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment and Heritage Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>97, 2005</div>
+  </td>
+  <td>
+    <div>6 July 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1: 3 Aug 2005 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+  </td>
+  <td>
+    <div>4, 2010</div>
+  </td>
+  <td>
+    <div>19 Feb 2010</div>
+  </td>
+  <td>
+    <div>Schedule 11 (item 14): 20 Feb 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2010</div>
+  </td>
+  <td>
+    <div>8, 2010</div>
+  </td>
+  <td>
+    <div>1 Mar 2010</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010</div>
+  </td>
+  <td>
+    <div>125, 2010</div>
+  </td>
+  <td>
+    <div>18 Nov 2010</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 18 May 2011 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+109–118) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 87–91): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Clean Energy (Consequential Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>132, 2011</div>
+  </td>
+  <td>
+    <div>18 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 194): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+Schedule 1 (items 415B–451, 
+456–460): \[ <i>see</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 456–460) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
+
+_(a)_     The _Ozone Protection Amendment Act 1995_ was amended by Schedule 3 (items 11–17) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 3(f) of which provides as follows:
+
+              (3)(f)   the amendments of the _Ozone Protection Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;.
+
+_(b)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 7 (item 17) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
+
+_(c)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 1 (items 721–723) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(d)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 1 (items 106–128) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the latest of the following days:
+
+                              (c)   the day on which item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ commences.
+
+_(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 2 (item 14) only of the _Environmental Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Sections 1, 2 and 3 and items 1, 4, 5, 6, 7 and 14 of Schedule 2 commence on the day on which this Act receives the Royal Assent.
+
+_(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 5, items 1 to 51
+    </div>
+  </td>
+  <td>
+    <div>
+      The day this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2010
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      38\. Schedule 5, Parts 2 and 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the provision(s) covered by table item 31.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2010
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 126, 2003; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 8A, 8B</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 9</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12B</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12B</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13A</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 1999; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 1999; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19A</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19B</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19C</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IV</div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 22A–22C</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 1997; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 27–33</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 34, 35</div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 118, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 8 and 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 42, 43</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 36, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 44</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 45</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIA</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45A</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45B</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 45B(3)</div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 46</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>rs. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VIII</div>
+  </td>
+  <td>
+    <div>rs. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 1 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 146, 1999; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49A</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 15, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 1 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 51A, 51B</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. C of Div. 1 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>rs. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53A–53C</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 1 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53D–53H</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53J–53L</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. E of 
+Div. 1 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53M</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>rs. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55A–55D</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. F of Div. 1 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55E–55G</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. G of Div. 1 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55H</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 3 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 118, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 3 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 15, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. C of Div. 3 of 
+Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 60A–60D</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. D of 
+Div. 3 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60E</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 15, 2001; No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 15, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>am. No. 4, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65AA</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65AB</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 7 of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65AC–65AM</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIIIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VIIIA</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1998 (as am. by No. 152, 1997)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIIIA</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65A, 65B</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 124, 1995 (as am. by No. 152, 1997); No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65C, 65D</div>
+  </td>
+  <td>
+    <div>ad. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; Nos. 36 and 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67B</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 69</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 124, 1995; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 69A</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 69A, 69B</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 69C–69F</div>
+  </td>
+  <td>
+    <div>ad. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 125, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 1</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2</div>
+  </td>
+  <td>
+    <div>am. No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3</div>
+  </td>
+  <td>
+    <div>rs. No. 46, 1992; No. 124, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to heading to 
+Schedule 3A</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to heading to 
+Schedule 3B</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to heading to 
+Schedule 3C</div>
+  </td>
+  <td>
+    <div>am. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3C</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3D</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3E</div>
+  </td>
+  <td>
+    <div>ad. No. 126, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 4</div>
+  </td>
+  <td>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 125, 2010</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 415B  Paragraph 3(d)
+
+After “Climate Change”, insert “and the Kyoto Protocol”.
+
+## 416  Subsection 7(1)
+
+Omit “(1)” (first occurring).
+
+## 416A  Subsection 7(1) (definition of _licence_)
+
+Omit “or a used substances licence”, substitute “, a used substances licence or an ODS/SGG equipment licence”.
+
+## 416B  Subsection 7(1)
+
+Insert:
+
+                    <a name="kyoto-protocol"></a>**_Kyoto Protocol_** means the Kyoto Protocol to the United Nations Framework Convention on Climate Change, done at Kyoto on 11 December 1997, as amended and in force for Australia from time to time.
+
+Note:          The text of the Kyoto Protocol is set out in Australian Treaty Series 2008 No. 2 (\[2008] ATS 2). In 2011, the text of an international agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+## 417  Subsection 7(1)
+
+Insert:
+
+                    <a name="od-equip"></a>**_ODS equipment_** has the meaning given by section 8C.
+
+## 418  Subsection 7(1)
+
+Insert:
+
+                    <a name="od-sgg-equip-licenc"></a>**_ODS/SGG equipment licence_** means an ODS/SGG equipment licence under section 13A.
+
+## 419  Subsection 7(1) (definition of _pre‑charged equipment_)
+
+Repeal the definition.
+
+## 420  Subsection 7(1) (definition of _pre‑charged equipment licence_)
+
+Repeal the definition.
+
+## 420A  Subsection 7(1) (paragraph (b) of the definition of _recycled or used HCFCs_)
+
+Omit “after undergoing a cleaning process”, substitute “or destroyed”.
+
+## 420B  Subsection 7(1) (paragraph (b) of the definition of _recycled or used methyl bromide_)
+
+Omit “after undergoing a cleaning process”, substitute “or destroyed”.
+
+## 420C  Subsection 7(1) (paragraph (b) of the definition of _recycled stage‑1 or stage‑2 scheduled substances_)
+
+Omit “after undergoing a cleaning process”, substitute “or destroyed”.
+
+## 421  Subsection 7(1) (definition of _SGG_ or _synthetic greenhouse gas_)
+
+Omit “or a PFC”, substitute “, a PFC or sulfur hexafluoride”.
+
+## 421A  Subsection 7(1)
+
+Insert:
+
+                    <a name="sgg-equip"></a>**_SGG equipment_** has the meaning given by section 8D.
+
+## 422  Subsection 7(1)
+
+Insert:
+
+                    <a name="sulfur-hexafluorid"></a>**_sulfur hexafluoride_** means the substance referred to in Part XI of Schedule 1, whether existing alone or in a mixture.
+
+## 423  After section 8B
+
+Insert:
+
+##### <a id="8C"></a>8C  ODS equipment
+
+                   For the purposes of this Act, **_ODS equipment_** means air‑conditioning equipment, or refrigeration equipment, that contains a substance that is an HCFC or, but for section 9, would be an HCFC.
+
+##### <a id="8D"></a>8D  SGG equipment
+
+             (1)  For the purposes of this Act, **_SGG equipment_** means:
+
+                     (a)  equipment, or a product, that contains a substance that is an HFC or a PFC; or
+
+                     (b)  equipment, or a product, that contains a substance that is sulfur hexafluoride;
+
+but does not include:
+
+                     (c)  equipment, or a product, prescribed by the regulations; or
+
+                     (d)  equipment, or a product, specified in a legislative instrument made by the Minister.
+
+             (2)  Unless sooner revoked, a legislative instrument made under paragraph (1)(d) ceases to be in force 12 months after it is registered under the _Legislative Instruments Act 2003_.
+
+## 424A  Section 9 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="9"></a>9  Scheduled substances (other than SGGs) in manufactured products
+
+## 424B  Subsection 9(1)
+
+After “Schedule 1”, insert “(other than a substance referred to in Part IX, X or XI of that Schedule)”.
+
+## 425  Subsection 13(6A)
+
+Repeal the subsection, substitute:
+
+          (6A)  A person must not import ODS equipment or SGG equipment unless:
+
+                     (a)  the person holds an ODS/SGG equipment licence; or
+
+                     (b)  the following conditions are satisfied:
+
+                              (i)  the equipment is kept by the person, or by a member of the person’s household, wholly or principally for private or domestic use;
+
+                             (ii)  the equipment is prescribed by the regulations or specified in a legislative instrument made by the Minister;
+
+                            (iii)  if the equipment is prescribed by regulations made for the purposes of subparagraph (ii)—the conditions (if any) prescribed by the regulations;
+
+                            (iv)  if the equipment is specified in an instrument made by the Minister under subparagraph (ii)—the conditions (if any) specified in a legislative instrument made by the Minister.
+
+          (6B)  Unless sooner revoked, a legislative instrument made by the Minister under subparagraph (6A)(b)(ii) or (iv) ceases to be in force 12 months after it is registered under the _Legislative Instruments Act 2003_.
+
+## 426  Subsection 13(9) (note 2)
+
+Omit “subsection 65AC(4)”, substitute “subsections 65AC(4) and (4A)”.
+
+## 427  Paragraph 13A(1)(d)
+
+Omit “a pre‑charged equipment licence”, substitute “an ODS/SGG equipment licence”.
+
+## 428  Subsection 13A(5)
+
+Repeal the subsection, substitute:
+
+             (5)  An ODS/SGG equipment licence allows the licensee to import ODS equipment or SGG equipment.
+
+## 429  Subsection 16(3)
+
+Omit “a pre‑charged equipment licence”, substitute “an ODS/SGG equipment licence”.
+
+## 430  Subsection 19(4)
+
+Omit “A pre‑charged equipment licence”, substitute “An ODS/SGG equipment licence”.
+
+## 431  Subsection 19A(2)
+
+Omit “a pre‑charged equipment licence”, substitute “an ODS/SGG equipment licence”.
+
+## 431A  Section 46 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances (other than SGGs and substances in ODS equipment or SGG equipment)
+
+## 432  Paragraph 46(1A)(b)
+
+Omit “pre‑charged equipment”, substitute: “ODS equipment or SGG equipment”.
+
+## 433  Subsection 46(1B)
+
+Repeal the subsection.
+
+## 434  Subsection 46(1BA)
+
+Repeal the subsection.
+
+## 435  Subsection 46(1C)
+
+Repeal the subsection.
+
+## 436  Subsection 46(2AA)
+
+Repeal the subsection.
+
+## 437  Subsection 46(2A)
+
+Omit “or (2AA)”.
+
+## 438  Subsection 46(2B)
+
+Omit “or (2AA)”.
+
+## 439  Subsection 46(2D)
+
+Repeal the subsection.
+
+## 440  Subsection 46(2E)
+
+Omit “Subsections (2C) and (2D) are **_civil penalty provisions_**”, substitute “Subsection (2C) is a **_civil penalty provision_**”.
+
+## 441  Subsection 46(2F)
+
+Omit “Subsections (2C) and (2D) do not”, substitute “Subsection (2C) does not”.
+
+## 442  After section 46
+
+Insert:
+
+##### <a id="46A"></a>46A  Quarterly reports by manufacturers, importers and exporters of SGGs, ODS equipment or SGG equipment
+
+Manufacturer
+
+             (1)  If:
+
+                     (a)  a person manufactures an SGG during:
+
+                              (i)  the quarter beginning on 1 July 2012; or
+
+                             (ii)  a later quarter; and
+
+                     (b)  the manufacture is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b);
+
+the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+Importer
+
+             (2)  If:
+
+                     (a)  a person imports an SGG during:
+
+                              (i)  the quarter beginning on 1 July 2012; or
+
+                             (ii)  a later quarter; and
+
+                     (b)  the import is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b); and
+
+                     (c)  the SGG is not contained in ODS equipment or SGG equipment;
+
+the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+             (3)  If:
+
+                     (a)  a person imports ODS equipment or SGG equipment during:
+
+                              (i)  the quarter beginning on 1 July 2012; or
+
+                             (ii)  a later quarter; and
+
+                     (b)  the import is not covered by paragraph 13(6A)(b);
+
+the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+Exporter
+
+             (4)  If:
+
+                     (a)  a person exports an SGG during:
+
+                              (i)  the quarter beginning on 1 July 2012; or
+
+                             (ii)  a later quarter; and
+
+                     (b)  the export is not in circumstances prescribed by regulations made for the purposes of paragraph 13(1A)(b);
+
+the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+Offence
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person is subject to a requirement under subsection (1), (2), (3) or (4); and
+
+                     (b)  the person omits to do an act; and
+
+                     (c)  the omission breaches the requirement.
+
+                    Penalty:  60 penalty units.
+
+             (6)  An offence under subsection (5) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (7)  Subsections (1), (2), (3) and (4) are **_civil penalty provisions_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 442A  Subparagraph 65AA(1)(a)(vii)
+
+Omit “46; or”, substitute “46;”.
+
+## 442B  At the end of paragraph 65AA(1)(a)
+
+Add:
+
+                          (viii)  section 46A; or
+
+## 443  Subsection 65AC(4)
+
+After “subsection”, insert “13(1A) or (6A) or”.
+
+## 444  After subsection 65AC(4)
+
+Insert:
+
+          (4A)  The pecuniary penalty payable by a person in respect of a contravention of subsection 13(1A) or (6A) must not exceed:
+
+                     (a)  if the person is not a body corporate—2,000 penalty units; or
+
+                     (b)  if the person is a body corporate—10,000 penalty units.
+
+## 445  Before paragraph 65C(1)(a)
+
+Insert:
+
+                    (aa)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_;
+
+                   (ab)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_;
+
+                    (ac)  amounts equal to the prescribed rate component of an amount of levy received by the Commonwealth under section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_;
+
+## 446  Subparagraph 65C(1)(a)(i)
+
+Before “the”, insert “section 4 or 4B of”.
+
+## 447  Subparagraph 65C(1)(a)(ii)
+
+Before “the”, insert “section 4 of”.
+
+## 447A  Paragraph 65C(1)(b)
+
+Omit “licence”.
+
+## 448  At the end of section 65C
+
+Add:
+
+Prescribed rate component
+
+             (4)  For the purposes of paragraph (1)(aa), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image003.gif)
+
+where:
+
+                    <a name="number-tonn-sgg"></a>**_number of tonnes of the SGG_** means the number of tonnes of the SGG to which the levy relates.
+
+                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the applicable rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995._
+
+             (5)  For the purposes of paragraph (1)(ab), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image004.gif)
+
+where:
+
+                    <a name="number-tonn-sgg-contain-equip"></a>**_number of tonnes of the SGG contained in the equipment_** means the number of tonnes of the SGG contained in the equipment to which the levy relates.
+
+                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the applicable rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995._
+
+             (6)  For the purposes of paragraph (1)(ac), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image003.gif)
+
+where:
+
+                    <a name="number-tonn-sgg"></a>**_number of tonnes of the SGG_** means the number of tonnes of the SGG to which the levy relates.
+
+                    <a name="prescrib-rate"></a><a name="prescrib-rate"></a>**_prescribed rate_** means the rate prescribed by the regulations made for the purposes of the definition of **_prescribed rate_** in subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
+
+## 449  Subsection 69(1)
+
+Repeal the subsection, substitute:
+
+             (1)  A licence levy is due and payable:
+
+                     (a)  at the end of 60 days after the end of the quarter to which the levy relates; or
+
+                     (b)  if the Minister allows the licensee concerned a longer period—at the end of that longer period.
+
+## 450  After section 69
+
+Insert:
+
+##### <a id="69AA"></a>69AA  Remission and refund of import levy—SGGs
+
+Export by licensee
+
+             (1)  If:
+
+                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of an SGG by a licensee; and
+
+                     (b)  the Minister is satisfied that the licensee exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the import; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
+
+                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_);
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (3)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
+
+Export by purchaser
+
+             (4)  If:
+
+                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of an SGG by a licensee; and
+
+                     (b)  the Minister is satisfied that:
+
+                              (i)  the licensee sold the SGG to another person; and
+
+                             (ii)  the other person exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the import of the SGG; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
+
+                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_);
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (6)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (4).
+
+Assignment of right to receive refund
+
+             (7)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
+
+##### <a id="69AB"></a>69AB  Remission and refund of import levy—SGG equipment
+
+Export by licensee
+
+             (1)  If:
+
+                     (a)  levy is imposed by section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of SGG equipment by a licensee; and
+
+                     (b)  the Minister is satisfied that the licensee exported the equipment within 12 months (or such longer period as is prescribed by the regulations) after the import; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations;
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image006.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (3)  For the purposes of subsection (2), disregard an SGG that is used, or for use, for a purpose prescribed by regulations made for the purposes of subsection 4A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (4)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
+
+Export by purchaser
+
+             (5)  If:
+
+                     (a)  levy is imposed by section 4A of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ in respect of the import of SGG equipment by a licensee; and
+
+                     (b)  the Minister is satisfied that:
+
+                              (i)  the licensee sold the equipment to another person; and
+
+                             (ii)  the other person exported the equipment within 12 months (or such longer period as is prescribed by the regulations) after the import of the equipment; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations;
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (6)  For the purposes of subsection (5), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image006.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 4A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (7)  For the purposes of subsection (6), disregard an SGG that is used, or for use, for a purpose prescribed by regulations made for the purposes of subsection 4A(7) of the _Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995_.
+
+             (8)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (5).
+
+Assignment of right to receive refund
+
+             (9)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
+
+##### <a id="69AC"></a>69AC  Remission and refund of manufacture levy—SGGs
+
+Export by licensee
+
+             (1)  If:
+
+                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ in respect of the manufacture of an SGG by a licensee; and
+
+                     (b)  the Minister is satisfied that the licensee exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the manufacture; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
+
+                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_);
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
+
+             (3)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (1).
+
+Export by purchaser
+
+             (4)  If:
+
+                     (a)  levy is imposed by section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ in respect of the manufacture of an SGG by a licensee; and
+
+                     (b)  the Minister is satisfied that:
+
+                              (i)  the licensee sold the SGG to another person; and
+
+                             (ii)  the other person exported the SGG within 12 months (or such longer period as is prescribed by the regulations) after the manufacture of the SGG; and
+
+                     (c)  the licensee applies to the Minister, in accordance with the regulations, for remission or refund of the whole or a part of the carbon charge component of the amount of the levy; and
+
+                     (d)  the application is accompanied by such information (if any) as is specified in the regulations; and
+
+                     (e)  the application is accompanied by such documents (if any) as are specified in the regulations; and
+
+                      (f)  the licensee is not exempt from the carbon charge component of the amount of the levy (see section 3A of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_);
+
+the Minister must, on behalf of the Commonwealth, remit or refund the whole or a part of the carbon charge component of the amount of the levy.
+
+             (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+
+where:
+
+                    <a name="applic-charg"></a>**_applicable charge_** means the charge that was the applicable charge for the purposes of the application of subsection 3A(5) of the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_ to the levy.
+
+                    <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_** has the same meaning as in the _Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995_.
+
+             (6)  The regulations may provide for verification by statutory declaration of statements in applications under subsection (4).
+
+Assignment of right to receive refund
+
+             (7)  The regulations may authorise a licensee to assign a right to receive a refund under this section.
+
+## 450A  Section 69B
+
+Omit “and the Framework Convention on Climate Change” (wherever occurring), substitute “, the Framework Convention on Climate Change and the Kyoto Protocol”.
+
+## 451  At the end of Schedule 1
+
+Add:
+
+## Part XI—Sulfur hexafluoride
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Substance</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Sulfur hexafluoride (SF
+      6)</div>
+  </td>
+</tr></table>
+
+As at 2 April 2012 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
+
+## Schedule 7
+
+## 18  Application
+
+The amendment of the _Ozone Protection Act 1989_ made by this Schedule applies in relation to applications for licences under Part III of that Act made after the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
+
+* * *
+
+_Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001 (No. 15, 2001)_
+
+##### <a id="4"></a>4  Application of amendments
+
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (No. 126, 2003)_
+
+##### <a id="4"></a>4  Application and transitional
+
+             (1)  To the extent that the amendments made by this Act have the effect of creating, or expanding the scope of, an offence, those amendments do not apply to conduct occurring before a date fixed by Proclamation for the purposes of this section.
+
+             (2)  Subsection (1) does not apply to an offence against subsection 18(7) of the Principal Act.
+
+             (3)  In this section:
+
+                    <a name="princip-act"></a>**_Principal Act_** means the _Ozone Protection Act 1989_, as amended by this Act.
+
+* * *
+
+_Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010 (No. 125, 2010)_
+
+## Schedule 1
+
+## 109  Transitional—declarations under subsection 44(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+(1)       This item applies to a declaration that:
+
+                     (a)  was made under subsection 44(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
+
+                     (b)  was in force immediately before the commencement of this item.
+
+(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(1) of that Act included a reference to subsection 44(2A) of that Act as amended by this Schedule.
+
+## 110  Transitional—declarations under subsection 44(6) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+(1)       This item applies to a declaration that:
+
+                     (a)  was made under subsection 44(6) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
+
+                     (b)  was in force immediately before the commencement of this item.
+
+(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(5) of that Act included a reference to subsection 44(5B) of that Act as amended by this Schedule.
+
+## 111  Transitional—declarations under subsection 45(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+(1)       This item applies to a declaration that:
+
+                     (a)  was made under subsection 45(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
+
+                     (b)  was in force immediately before the commencement of this item.
+
+(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(1) of that Act included a reference to subsection 45(2A) of that Act as amended by this Schedule.
+
+## 112  Transitional—declarations under subsection 45(3B) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+(1)       This item applies to a declaration that:
+
+                     (a)  was made under subsection 45(3B) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
+
+                     (b)  was in force immediately before the commencement of this item.
+
+(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(3A) of that Act included a reference to subsection 45(3AB) of that Act as amended by this Schedule.
+
+## 113  Application—reports under section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+The amendments of section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Schedule apply in relation to a quarter starting after the commencement of this item.
+
+## 114  Application—licence periods of pre‑charged equipment licences
+
+The amendments of section 19 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Schedule apply in relation to a pre‑charged equipment licence granted after the commencement of this item.
+
+## 115  Application—appointment of inspectors
+
+Subsection 49(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ as amended by this Schedule applies in relation to an appointment made after the commencement of this item.
+
+## 116  Transitional—books, records or documents seized, removed or produced before commencement
+
+(1)       This item applies to a book, record or document that was:
+
+                     (a)  removed from premises under subsection 51(1) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; or
+
+                     (b)  seized under section 52 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; or
+
+                     (c)  produced to an inspector in accordance with a requirement made under subsection 54(1) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_;
+
+before the commencement of this item.
+
+(2)       Despite the repeal of section 55 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, that section continues to apply to the book, record or document, as if that repeal had not happened.
+
+## 117  Transitional—things seized before commencement
+
+(1)       This item applies to a thing that was seized under section 52 before the commencement of this item.
+
+(2)       Despite the repeal of subsections 52(6) and (7) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, those subsections continue to apply to the thing, as if that repeal had not happened.
+
+## 118  Transitional—forfeitable goods
+
+Section 57 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_, as amended by this Schedule, in so far as that section relates to a contravention, applies to a contravention that occurred before, at or after the commencement of this item.
+
+* * *
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following provisions commence on 1 July 2012:
+
+## Schedule 1
+
+## 456  Application—section 13 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+The amendments of section 13 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Part apply in relation to imports that occur after the commencement of this item.
+
+## 457  Application—civil penalty orders under the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+The amendments of section 65AC of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Part apply to contraventions of civil penalty provisions that occur after the commencement of this item.
+
+## 458  Application—section 69 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+(1)       Subsection 69(1) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ as amended by this Part applies in relation to levy for a quarter that begins at or after the commencement of this item.
+
+(2)       Despite the repeal of subsection 69(1) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Part, that subsection continues to apply, in relation to levy for a quarter ending before the commencement of this item, as if that repeal had not happened.
+
+## 459  Transitional—pre‑charged equipment licences under the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
+
+Scope
+
+(1)       This item applies to a pre‑charged equipment licence that was in force under the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ immediately before the commencement of this item.
+
+Effect
+
+(2)       The pre‑charged equipment licence has effect, after the commencement of this item, as if it were an ODS/SGG equipment licence in force under the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ as amended by this Act.
+
+## 460  Transitional—reports under the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ for pre‑commencement quarters
+
+Despite the amendments of section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Part, that section continues to apply, in relation to a quarter ending before the commencement of this item, as if those amendments had not been made.
+
+ 
