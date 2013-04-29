@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00195/Html/FinancTransReports1988_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00148/Html/FinancTransReports1988_image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 34 of 2009
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 27 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2364,7 +2364,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
                      (b)  that is given to the institution by or on behalf of the person (whether or not the document is signed by or on behalf of the person).
 
-##### <a id="40E"></a>40E  Meaning of _minimum retention period_
+##### <a id="40E"></a>40E  Meaning of _minimum retention period_
 
                    The **_minimum retention period_**, in relation to a financial transaction document of a financial institution, is:
 
@@ -4045,7 +4045,7 @@ Schedule 1 (items 58, 79, 90–92, 113, 120, 122, 124, 129, 130,
   </td>
   <td>
     <div>Sch. 1 (items 
-159–165) \[ <i>see</i>Table A]</div>
+159–165)</div>
   </td>
 </tr>
 <tr>
@@ -4168,23 +4168,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>34, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 3, 4): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 10 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6600,20 +6583,6 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
   </td>
 </tr></table>
 
-### Note 2
-
-_Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009 (No. 34, 2009)_
-
-The following amendment commences on 19 June 2009:
-
-## Schedule 10
-
-## 3  Subsection 33A(4)
-
-Omit “sections 212 and 213 of the _Customs Act 1901_ apply”, substitute “section 212 of the _Customs Act 1901_ applies”.
-
-As at 26 May 2009 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provision
@@ -6871,21 +6840,5 @@ The Governor-General may make regulations prescribing matters of a transitional 
                      (a)  the amendments made by this Act; or
 
                      (b)  the enactment of this Act or the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
-
-* * *
-
-_Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009 (No. 34, 2009)_
-
-The following provision commences on 19 June 2009:
-
-## Schedule 10
-
-## 4  Application to arrests made before commencement of this Schedule
-
-(1)        The amendments made by this Schedule do not affect the validity of an arrest made before the commencement of this Schedule.
-
-(2)        Subject to subitem (3), the amendments made by this Schedule do not apply in relation to an arrest made before the commencement of this Schedule.
-
-(3)        Subsections 210(3) and (4) of the _Customs Act 1901_ as in force after the commencement of this Schedule apply in relation to a person arrested under section 210 of that Act before the commencement of this Schedule as if he or she had been arrested under that section after that commencement.
 
  
