@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 30 June 2012
- taking into account amendments up to Act No. 98 of 2012
+This compilation was prepared on 27 May 2012
+ taking into account amendments up to Act No. 50 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -520,7 +520,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child
 
-        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6**
 
 [62](#62).          Variation where failure to provide information relevant to conditional eligibility etc 
 
@@ -582,27 +582,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4AA—Child care rebate** 
 
-        **Subdivision AAA—Election to have child care rebate paid in various ways**
+        **Subdivision AAA—Election to have child care rebate paid in various ways** 
 
-[65EAAAA](#65EAAAA).   Individual may elect to have child care rebate paid in various ways
+65EAAAA  Individual may elect to have child care rebate paid in various ways
 
-[65EAAAB](#65EAAAB).                                                     Period in which election has effect
+65EAAAB  Period in which election has effect
 
-[65EAAAC](#65EAAAC).                                       Where no election made for an income year
+65EAAAC  Where no election made for an income year
 
-        **Subdivision AAB—Weekly payments of child care rebate**
+        **Subdivision AAB—Weekly payments of child care rebate** 
 
-[65EAAA](#65EAAA).                                                   Weekly payments of child care rebate
+65EAAA  Weekly payments of child care rebate
 
-65EAAB Where individual elects to have child care rebate paid weekly to approved child care service
+65EAAB  Where individual elects to have child care rebate paid weekly to approved child care service
 
-65EAAC Where individual elects to have child care rebate paid weekly into own bank account
+65EAAC  Where individual elects to have child care rebate paid weekly into own bank account
 
-[65EAAD](#65EAAD).                                Revising a calculation of weekly child care rebate
+65EAAD  Revising a calculation of weekly child care rebate
 
-65EAAE If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
+65EAAE  If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
 
-[65EAAF](#65EAAF).                       Effect of revised calculation—payment to the individual
+65EAAF  Effect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1374,17 +1374,18 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-[219TSGA](#219TSGA).              Conduct contravening more than one civil penalty provision
+219TSGA  Conduct contravening more than one civil penalty 
+ provision
 
-[219TSGB](#219TSGB).                                       Civil proceedings after criminal proceedings
+219TSGB  Civil proceedings after criminal proceedings
 
-[219TSGC](#219TSGC).                                    Criminal proceedings during civil proceedings
+219TSGC  Criminal proceedings during civil proceedings
 
-[219TSGD](#219TSGD).                                       Criminal proceedings after civil proceedings
+219TSGD  Criminal proceedings after civil proceedings
 
-219TSGE Evidence given in proceedings for penalty not admissible in criminal proceedings
+219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
-219TSGF Minister requiring person to assist in applications for civil penalty orders
+219TSGF  Minister requiring person to assist in applications for civil penalty orders
 
     **Division 2—Infringement notices**
 
@@ -2388,7 +2389,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
 
 where:
 
@@ -2442,7 +2443,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
 
 where:
 
@@ -4784,11 +4785,11 @@ Upfront part
 
                      (a)  if the claimant becomes eligible for baby bonus between 1 July 2011 and 31 August 2012—$879.77;
 
-                     (b)  if the claimant becomes eligible for baby bonus between 1 September 2012 and 30 June 2015—$846.20;
+                     (b)  if the claimant becomes eligible for baby bonus between 1 September 2012 and 30 June 2015—$846.15;
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -6298,7 +6299,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
 
 where:
 
@@ -6352,7 +6353,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image002.gif)
 
 where:
 
@@ -7397,7 +7398,7 @@ Variations
 
                             (iii)  if subparagraph 55B(2)(c)(ii) applies to the claimant—subsection (5);
 
-                            for the purposes of having the Secretary reconsider the claim; and
+                            for the purposes of having the Secretary reconsider the claim; and
 
                      (d)  the Secretary is satisfied that, if the claimant were to be entitled to be paid child care benefit in respect of the claim, the amount of the entitlement would be more than a nil amount;
 
@@ -11164,7 +11165,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00498/Html/21d74c8e-c202-4bc5-8f8a-230266eac917_files/image004.gif)
 
 where:
 
@@ -13028,7 +13029,7 @@ application may also be made to the AAT for the review of the decision.
 
 the Secretary may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
 
-##### <a id="145"></a>145  Variation of decision under section 144 before AAT review completed
+##### <a id="145"></a>145  Variation of decision under section 144 before AAT review completed
 
              (1)  If an officer varies a decision after an application has been made under section 144 to the AAT for review of that decision but before the determination of the application, the application is to be treated as if the application were an application for review of the decision as varied.
 
@@ -16370,7 +16371,7 @@ to be given to:
 
 ### Division 3—Payments to payment nominee
 
-##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
+##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
 
              (1)  If:
 
@@ -17356,4 +17357,1568 @@ This section does not apply to a payment of child care benefit.
 
              (1)  If:
 
-                     (a)  a perso
+                     (a)  a person is entitled to an amount of family assistance (other than child care benefit); and
+
+                     (b)  the person is liable for an amount of primary tax;
+
+the Commissioner of Taxation may determine that the whole or a part of the entitlement is to be set off against the liability.
+
+             (2)  If the Commissioner of Taxation does so:
+
+                     (a)  the amount of the entitlement and the amount of the liability are reduced accordingly; and
+
+                     (b)  the person is taken to have paid so much of the amount of the tax as is equal to the amount set off against the tax liability at the time when the Commissioner sets off the amount or at any earlier time that the Commissioner determines.
+
+             (3)  This section has effect in spite of anything in any other Act or any other law of the Commonwealth.
+
+##### <a id="227"></a>227  Payment of deductions to Child Support Registrar
+
+             (1)  The Secretary must, in accordance with a notice given to the Secretary under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ in relation to a person:
+
+                     (a)  make deductions from instalment amounts of family tax benefit that the person is entitled to be paid under section 23; or
+
+                     (b)  make a deduction from an amount of family tax benefit that the person is entitled to be paid under section 24;
+
+and pay amounts so deducted to the Child Support Registrar.
+
+             (2)  However, the Secretary must not deduct an amount under subsection (1) in contravention of section 228.
+
+             (3)  If the Secretary deducts an amount under subsection (1), then:
+
+                     (a)  on the day the amount is deducted, the total amount of the child support debts of the person (being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_) is taken to be reduced by an amount equal to the amount deducted; and
+
+                     (b)  on the day the amount is deducted, the person is taken to have been paid an amount of family tax benefit equal to the amount deducted.
+
+             (4)  A deduction under subsection (1) may result in the family tax benefit that the person is entitled to be paid being reduced to nil.
+
+##### <a id="228"></a>228  Maximum deduction
+
+             (1)  This section applies if a notice is given under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ to a person that specifies:
+
+                     (a)  an amount to be deducted from family tax benefit that the person is entitled to be paid on a day or days specified in the notice; or
+
+                     (b)  a method of working out such an amount.
+
+             (2)  The amount deducted on a particular day must not exceed the total amount of the child support debts of the person on that day, being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_.
+
+             (3)  If, on a day specified in the notice, the person has at least one FTB child, or one regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit who is not a designated child support child of the person, the amount deducted on that day must not exceed the difference between:
+
+                     (a)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (b)  the amount of family tax benefit that the person would be entitled to be paid on that day, assuming that each designated child support child of the person was neither an FTB child, nor a regular care child, of the person on that day.
+
+             (4)  If, on a day specified in the notice:
+
+                     (a)  each FTB child, and each regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit is a designated child support child of the person; and
+
+                     (b)  an income support payment or an income support supplement is payable to the person;
+
+the amount deducted on that day must not exceed the difference between:
+
+                     (c)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (d)  the forgone amount in respect of the person’s income support payment or income support supplement.
+
+             (5)  For the purposes of subsection (4), the **_forgone amount_**, in respect of a person’s income support payment or income support supplement, is the amount that represents the difference between:
+
+                     (a)  the amount of the income support payment or the income support supplement that would have been payable to the person if the person had not been entitled to be paid family tax benefit on that day; and
+
+                     (b)  the amount of the income support payment or the income support supplement payable to the person on that day.
+
+             (6)  In this section:
+
+                    <a name="person"></a><a name="design-child-support-child"></a>**_designated child support child_** **_of a person_** has the same meaning as in section 72AB of the _Child Support (Registration and Collection) Act 1988._
+
+                    <a name="incom-support-payment"></a>**_income support payment_** has the same meaning as in the _Social Security Act 1991_.
+
+                    <a name="incom-support-supplem"></a>**_income support supplement_** has the same meaning as in Part IIIA of the _Veterans’ Entitlements Act 1986_.
+
+##### <a id="229"></a>229  Judicial notice of certain matters
+
+             (1)  All courts are to take judicial notice of a signature that purports to be attached or appended to any official document produced under the family assistance law, if the signature is of a person who is or has been an officer.
+
+             (2)  If the signature of a person referred to in subsection (1) purports to be attached or appended to any official document produced under the family assistance law, all courts are to take judicial notice of the fact that the person is, or has been, an officer.
+
+##### <a id="230"></a>230  Documentary evidence
+
+             (1)  If the signature of any person who is or has been an officer purports to be attached or appended to any official document, the document is to be received in all courts as prima facie evidence of the facts and statements contained in it.
+
+             (2)  A statement in writing signed by a person referred to in subsection (1) that another person is or was entitled to, or had received, a payment under this Act on a certain date and of a certain amount is to be received in all courts as prima facie evidence that the person is or was entitled to, or had received, the payment on the date, and of the amount, stated.
+
+##### <a id="231"></a>231  Application of family assistance law to unincorporated bodies
+
+             (1)  The family assistance law applies to an unincorporated body or association (the **_body_**) as if it were a person other than an individual, but it applies with the following 3 changes.
+
+Imposition of obligations
+
+             (2)  Subject to subsection (2A), the first change is that obligations that would be imposed on the body are imposed instead on:
+
+                     (a)  if the body is a partnership—each partner; or
+
+                     (b)  in any other case—each member of the committee of management of the body;
+
+but they may be discharged by any of the partners or any of those members.
+
+          (2A)  If:
+
+                     (a)  an unincorporated body or association is operating an approved child care service; and
+
+                     (b)  a debt becomes due to the Commonwealth by the service under Part 4;
+
+then subsection (2) does not apply in relation to the debt and the debt is taken to be a debt owed by the service.
+
+Note:          One of the effects of this subsection is that subsection 82(2) rather than subsection 82(1) will apply to the debt. Subsection 82(2) provides more ways of recovering debts than subsection 82(1) (for example, setting off debts against advances is permissible).
+
+Commission of offences
+
+             (3)  The second change is that any offence against this Act that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission.
+
+Contravention of civil penalty provisions
+
+             (4)  The third change is that any contravention of a civil penalty provision that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention.
+
+##### <a id="232"></a>232  Annual report
+
+             (1)  As soon as practicable after 30 June in each year, the Secretary must give the Minister a written report on the administrative operation of the family assistance law during the financial year that ended on that 30 June.
+
+             (2)  The Minister is to cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+
+##### <a id="233"></a>233  Appropriation
+
+                   Payments under this Act are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="234"></a>234  Agreements on administrative arrangements
+
+             (1)  The Secretary and the Principal Member may agree on administrative arrangements to further the objectives of Division 2 of Part 5.
+
+             (2)  The Secretary and the Commissioner of Taxation may agree on administrative arrangements to further the objectives of this Act.
+
+##### <a id="235"></a>235  Regulations
+
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient for carrying out or giving effect to this Act.
+
+Offences and civil penalties
+
+          (1A)  Without limiting subsection (1), the regulations may:
+
+                     (a)  prescribe penalties for offences against the regulations that do not exceed a fine of 10 penalty units; and
+
+                     (b)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
+
+                              (i)  for a body corporate—250 penalty units; or
+
+                             (ii)  in any other case—50 penalty units.
+
+Fees
+
+             (2)  Without limiting subsection (1), the regulations may prescribe fees for the making of applications under section 194 or 207\. Any such fees must not be such as to amount to taxation.
+
+Proof of making of claims etc.
+
+             (3)  Without limiting subsection (1), if a provision of the family assistance law provides that the Secretary or another officer may approve:
+
+                     (a)  the form or manner of making or withdrawing any application or claim; or
+
+                     (b)  the way of doing any other thing that is required or permitted to be done for the purposes of that law;
+
+the regulations may make provision for the proof of the making or withdrawing of the application or claim, or the doing of the other thing, for the purposes of any legal proceedings.
+
+Date of effect of review decisions
+
+             (4)  Without limiting subsection (1), the regulations may provide that specified decisions by:
+
+                     (a)  the Secretary under any provision of this Act; or
+
+                     (b)  an authorised review officer, the Social Security Appeals Tribunal, or the Administrative Appeals Tribunal, under Part 5;
+
+that have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment, only have effect from a specified day before the making of the decisions.
+
+# Notes to the _A New Tax System (Family Assistance) (Administration) Act 1999_
+
+### Note 1
+
+The _A New Tax System (Family Assistance) (Administration) Act 1999_ as shown in this compilation comprises Act No. 81, 1999 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_, _see_ Act No. 65, 2010.
+
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="15%">
+  <col width="0%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance) (Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>81, 1999</div>
+  </td>
+  <td>
+    <div>8 July 1999</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: ( <i>see</i>s. 2(2))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>179, 1999</div>
+  </td>
+  <td>
+    <div>22 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 5, 6): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999</div>
+  </td>
+  <td>
+    <div>192, 1999</div>
+  </td>
+  <td>
+    <div>23 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 4: 1 July 2000 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>44, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 1): <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>45, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedules 2, 5 and 6: <i>(d)</i></div>
+  </td>
+  <td>
+    <div>Schs. 5 and 6</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services (2000 Budget and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>138, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 7–10): 1 Jan 2001 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001</div>
+  </td>
+  <td>
+    <div>47, 2001</div>
+  </td>
+  <td>
+    <div>12 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–27, 29, 32, 33), Schedule 3 (items 1–15) and Schedule 4 (items 1–8A): 1 July 2001 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>75, 2001</div>
+  </td>
+  <td>
+    <div>30 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1A (items 22–24): 1 July 2002 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>137, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Estimate Tolerance (Transition) Act 2001</div>
+  </td>
+  <td>
+    <div>138, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002</div>
+  </td>
+  <td>
+    <div>95, 2002</div>
+  </td>
+  <td>
+    <div>10 Nov 2002</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 1 July 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>30, 2003</div>
+  </td>
+  <td>
+    <div>15 Apr 2003</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 2 (items 14–51): Royal Assent 
+Schedule 2 (item 72): <i>(g)</i> 
+Schedule 2 (item 83): 1 July 2000 
+Schedule 2 (items 84–86): <i>(g)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>35, 2003</div>
+  </td>
+  <td>
+    <div>24 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 4–6): 24 Apr 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>122, 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 1–4): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>150, 2003</div>
+  </td>
+  <td>
+    <div>19 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 95): <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004</div>
+  </td>
+  <td>
+    <div>33, 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 6)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
+  </td>
+  <td>
+    <div>52, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 9, 10): 1 July 2004 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—Increased Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>59, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9, 10, 11(1)) and Schedule 2 (items 12–33): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 11(1)) and Sch. 2 (items 14, 25, 27, 29, 31, 33)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—One‑off Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>60, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2004 Election Commitments) Act 2004</div>
+  </td>
+  <td>
+    <div>132, 2004</div>
+  </td>
+  <td>
+    <div>8 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 44)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>29, 2005</div>
+  </td>
+  <td>
+    <div>21 Mar 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 8, 9, 10(1)): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>61, 2005</div>
+  </td>
+  <td>
+    <div>26 June 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–6), Schedule 3 (items 2, 3) and Schedule 4 (items 1–30): 1 July 2005 
+Schedule 3 (item 4): 1 Jan 2005 
+Schedule 3 (items 5–10, 
+14–17): 1 Jan 2006 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 12), Sch. 2 (items 
+4–7) and Sch. 3 (items 9, 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>111, 2005</div>
+  </td>
+  <td>
+    <div>6 Sept 2005</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 84–89): 1 Oct 2005</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Welfare to Work) Act 2005</div>
+  </td>
+  <td>
+    <div>150, 2005</div>
+  </td>
+  <td>
+    <div>14 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–17) and Schedule 2 (items 15–35): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 16, 17) and 
+Sch. 2 (item 35)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2005 Measures No. 4) Act 2005</div>
+  </td>
+  <td>
+    <div>160, 2005</div>
+  </td>
+  <td>
+    <div>19 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 11): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance, Social Security and Veterans’ Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>36, 2006</div>
+  </td>
+  <td>
+    <div>3 May 2006</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 5: 4 May 2006 
+Schedule 4: 1 July 2006</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 20), Sch. 4 (item 2) and Sch. 5 (items 6, 7)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>82, 2006</div>
+  </td>
+  <td>
+    <div>30 June 2006</div>
+  </td>
+  <td>
+    <div>Schedule 10: 1 July 2006 
+Schedule 11: 1 July 2002</div>
+  </td>
+  <td>
+    <div>Sch. 11 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>108, 2006</div>
+  </td>
+  <td>
+    <div>27 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2: (items 1, 2) and Schedule 8: (items 40–75): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>146, 2006</div>
+  </td>
+  <td>
+    <div>6 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 73): Royal Assent 
+Schedule 5 (items 78–89) and Schedule 8 (items 92–109, 145(1)): 1 July 2008</div>
+  </td>
+  <td>
+    <div>Sch. 8 (item 145(1)) Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (item 16): <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>82, 2007</div>
+  </td>
+  <td>
+    <div>21 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 2–7, 25–37): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 6 (items 7, 37)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>113, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 12–18, 23): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 23)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>118, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1: <i>(j)</i> 
+Schedule 2: 1 July 2007 
+Schedule 3: 29 June 2007 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 91, 92, 94–96, 97, 98, 99, 101), Sch. 2 (item 9) and Sch. 3 (items 
+39–47) 
+Sch. 1 (item 93) (am. by 34, 2010, Sch. 5 \[item 1]) 
+Sch. 1 (item 96A) (ad. by 34, 2010, Sch. 5 \[item 2]; am. by 34, 2010, Sch. 5 \[item 4]) 
+Sch. 1 (item 97B) (ad. by 34, 2010, Sch. 5 \[item 3]; am. by 34, 2010, Sch. 5 \[item 5] \[as am. by 79, 2011, Sch. 1 \[item 35]]; am. by 34, 2010, Sch. 5 \[items 6, 7]) 
+Sch. 1 (item 97C) (ad. by 34, 2010, Sch. 1 \[item 29]; am. by 25, 2011, Sch. 2 \[item 15]; am. by 79, 2011, Sch. 1 \[item 33])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007— continued</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 102) (ad. by 34, 2010, Sch. 6 \[item 1])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 29), Schedules 5 and 6: ( <i>see</i>34, 2010 below)</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 35): <i>(k)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 15): <i>(n)</i> 
+Schedule 3 (item 9): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 33): 26 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007</div>
+  </td>
+  <td>
+    <div>130, 2007</div>
+  </td>
+  <td>
+    <div>17 Aug 2007</div>
+  </td>
+  <td>
+    <div>18 Aug 2007</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 7) 
+Ss. 4–7 (rep. by 93, 2010, Sch. 1 \[item 3])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010</div>
+  </td>
+  <td>
+    <div>93, 2010</div>
+  </td>
+  <td>
+    <div>29 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3, 4): 31 Dec 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Dental Benefits (Consequential Amendments) Act 2008</div>
+  </td>
+  <td>
+    <div>42, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2, 3): 26 June 2008 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>53, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 14–63): 7 July 2008 
+Schedule 1 (item 64), Schedule 3 and Schedule 5 (items 6–22, 
+24–27, 29–31): Royal Assent Schedule 2 
+(items 13–40): 1 July 2008 
+Schedule 4: 26 June 2008 Schedule 5 (item 23): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 63, 64), Sch. 2 (items 
+32–35, 36(1), 
+37–40), Sch. 3 (items 26, 27), Sch. 4 (items 86, 87) and Sch. 5 (items 
+27, 29–31) 
+Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 15, 39): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 6 (items 10, 11, 13, 15): Royal Assent 
+Schedule 2 (items 16–21, 22(1), 24–34, 43, 44): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>S. 4, Sch. 2 (items 22(1), 34, 44) and Sch. 6 (item 15)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008</div>
+  </td>
+  <td>
+    <div>131, 2008</div>
+  </td>
+  <td>
+    <div>1 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 5–15): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Education Refund) Act 2008</div>
+  </td>
+  <td>
+    <div>141, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 10): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>143, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 10–14): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+12–14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+  </td>
+  <td>
+    <div>144, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 21, 22): 1 July 2009</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Household Stimulus Package Act (No. 2) 2009</div>
+  </td>
+  <td>
+    <div>4, 2009</div>
+  </td>
+  <td>
+    <div>18 Feb 2009</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 4–14): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>48, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2–6, 8–12, 14, 15): 1 July 2009 
+Schedule 1 (items 7, 16): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 12, 14–16)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>49, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–3, 7) and Schedule 3: 1 July 2009 
+Schedule 2 (items 4–6, 8): 1 July 2010 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 2), Sch. 2 (items 7, 8) and Sch. 3 (items 3, 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–15, 
+23–38, 42, 43), Schedule 2 (items 11–22), Schedule 3 and Schedule 5 (items 2–12): Royal Assent 
+Schedule 4 (items 1–9): 25 June 2009 
+Schedule 4 (items 10–14): 24 Dec 2009 
+Schedule 5 (items 13–19): 22 July 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 42, 43), Sch. 2 (items 
+20–22), Sch. 3 (items 2, 5) and Sch. 5 (items 3, 8, 10, 19)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Participation Requirement) Act 2009</div>
+  </td>
+  <td>
+    <div>129, 2009</div>
+  </td>
+  <td>
+    <div>10 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–14): 1 Jan 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 13, 14) (am. by 45, 2010, Sch. 3)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3: ( <i>see</i>45, 2010 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+  </td>
+  <td>
+    <div>4, 2010</div>
+  </td>
+  <td>
+    <div>19 Feb 2010</div>
+  </td>
+  <td>
+    <div>Schedule 10 (items 2, 3): 20 Feb 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>33, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–14): 14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
