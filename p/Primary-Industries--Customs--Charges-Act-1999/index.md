@@ -1,7 +1,7 @@
 
 Primary Industries (Customs) Charges Act 1999
 Act No. 30 of 1999 as amended
-This compilation was prepared on 31 July 2001  taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 6 March 2001  taking into account amendments up to Act No. 163 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -299,7 +299,7 @@ Note:	Clause 6 provides that charge imposed by this Schedule may be referred to
 	(b)	both of the following conditions are satisfied:
 	(i)	manufacturing milk levy was imposed on relevant dairy produce used, whether by the person who exported the dairy produce or by another person, in the manufacture of the exported dairy produce;
 	(ii)	the export of the dairy produce has not been taken into account for the purposes of subclause 8(2) of Schedule 6 to the Primary Industries (Excise) Levies Act 1999 or of subsection 7(2) of the repealed Dairy Produce Levy (No. 1) Act 1986.
-	(4)	For the purposes of this Schedule, the question whether a body corporate is related to another body corporate is to be determined in the same way as the question whether bodies corporate are related to each other is determined for the purposes of the Corporations Act 2001.
+	(4)	For the purposes of this Schedule, the question whether a body corporate is related to another body corporate is to be determined in the same way as the question whether bodies corporate are related to each other is determined for the purposes of the Corporations Law.
 2  Imposition of charge—re‑importation of exported dairy produce
 		If:
 	(a)	dairy produce is exported from Australia (whether before or after the commencement of this Schedule); and
@@ -835,7 +835,6 @@ Note:	Products may be specified by name, by inclusion in a specified class, or i
 Notes to the Primary Industries (Customs) Charges Act 1999
 Note 1
 The Primary Industries (Customs) Charges Act 1999 as shown in this compilation comprises Act No. 30, 1999 amended as indicated in the Tables below.
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
 Number  and year
@@ -852,33 +851,23 @@ Horticulture Marketing and Research and Development Services (Repeals and Conseq
 21 Dec 2000
 Schedule 2 (items 4‑16): (a)
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 432): 15 July 2001 (see Gazette 2001, No. S285) (b)
-Ss. 4‑14
 (a)	The Primary Industries (Customs) Charges Act 1999 was amended by Schedule 2 (items 4‑16) only of the Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 Note:	See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
 	The transfer day was 1 February 2001 (see Gazette 2001, No. GN6).
-(b)	The Primary Industries (Customs) Charges Act 1999 was amended by Schedule 3 (item 432) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Schedule 4
 
-C. 1 	
-am. No. 55, 2001
-Schedule 9
-
+Schedule 9 	
+am. No. 163, 2000
 C. 1 	
 am. No. 163, 2000
 C. 5 	
 am. No. 163, 2000
-Schedule 10
-
+Schedule 10 	
+am. No. 163, 2000
 C. 1 	
 am. No. 163, 2000
 Subhead to c. 3(3)	
@@ -889,8 +878,8 @@ C. 3
 am. No. 163, 2000
 C. 5 	
 am. No. 163, 2000
-Schedule 14
-
+Schedule 14	
+am. No. 163, 2000
 C. 1 	
 am. No. 163, 2000
 
