@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00352/Html/BuildingandConstructIndustImprove2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00199/Html/BuildingandConstructIndustImprove2005_image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 14 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -118,9 +118,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39](#39).          Injunction against unlawful industrial action
 
-**Part 3—Protected industrial action**
+**Part 3—Protected action**
 
 [40](#40).          Action involving extraneous participants
+
+[41](#41).          Action before nominal expiry date
 
 **Part 4—Miscellaneous**
 
@@ -130,7 +132,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [43](#43).          Coercion in relation to engagement etc  of building employees and building contractors
 
-[44](#44).          Coercion of persons to make, vary, terminate etc  enterprise agreements etc 
+[44](#44).          Coercion of persons to make, vary, terminate etc  collective agreements etc 
 
 [45](#45).          Discrimination against employer in relation to industrial instruments
 
@@ -198,19 +200,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [71](#71).          ABC Commissioner intervention in court proceedings
 
-[72](#72).          ABC Commissioner may make submissions in FWA proceedings
+[72](#72).          ABC Commissioner intervention in AIRC proceedings
 
-[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc 
+[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the Workplace Relations Act
 
 [73A](#73A).       ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_
 
-[74](#74).          General Manager of FWA must keep ABC Commissioner informed
+[74](#74).          Industrial Registrar must keep ABC Commissioner informed
 
 [75](#75).          Jurisdiction of courts
-
-[75A](#75A).       Exercising jurisdiction in the Fair Work Division of the Federal Court
-
-[75B](#75B).       Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court
 
 [76](#76).          Court not to require undertaking as to damages
 
@@ -410,13 +408,13 @@ Note:          This table relates only to the provisions of th
 
                     <a name="airc"></a>**_AIRC_** means the Australian Industrial Relations Commission established by section 8 of the Workplace Relations Act.
 
-                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the Workplace Relations Act.
 
-                    <a name="awa"></a>**_AWA_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="awa"></a>**_AWA_** has the meaning given by Schedule 7A to the Workplace Relations Act.
 
-                    <a name="award"></a>**_award_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="award"></a>**_award_** has the meaning given by the Workplace Relations Act.
 
-                    <a name="bargain-repres"></a>**_bargaining representative_** has the same meaning as in the FW Act.
+                    <a name="build-agreem"></a>**_building agreement_** means an agreement that applies to building work (whether or not it also applies to other work).
 
                     <a name="build-associ"></a>**_building association_** means an industrial association whose eligibility rules allow membership by at least one of the following groups:
 
@@ -429,6 +427,8 @@ Note:          This table relates only to the provisions of th
 whether or not those rules also allow membership by other persons.
 
                     <a name="build-code"></a>**_Building Code_** means the code of practice referred to in section 27.
+
+                    <a name="build-collect-agreem"></a>**_building collective agreement_** means a collective agreement that applies to building work (whether or not it also applies to other work).
 
                     <a name="build-contractor"></a>**_building contractor_** means a person who has entered into, or who has offered to enter into, a contract for services under which the person:
 
@@ -443,8 +443,6 @@ whether or not those rules also allow membership by other persons.
                      (b)  a person who accepts an offer of engagement as an employee for work that consists of, or includes, building work.
 
                     <a name="build-employ"></a>**_building employer_** means an employer who employs, or offers to employ, building employees.
-
-                    <a name="build-enterpris-agreem"></a>**_building enterprise agreement_** means an enterprise agreement that applies to building work (whether or not it also applies to other work).
 
                     <a name="build-industri-particip"></a>**_building industry participant_** means any of the following:
 
@@ -494,11 +492,7 @@ whether or not those rules also allow membership by other persons.
 
                      (d)  an order of the AIRC;
 
-                     (e)  the Australian Fair Pay and Conditions Standard;
-
-                      (f)  a fair work instrument;
-
-                     (g)  the National Employment Standards.
+                     (e)  the Australian Fair Pay and Conditions Standard.
 
                     <a name="commonwealth-place"></a>**_Commonwealth place_** means a place referred to in paragraph 52(i) of the Constitution, other than the seat of government.
 
@@ -514,7 +508,7 @@ whether or not those rules also allow membership by other persons.
 
                     <a name="design-build-law"></a>**_designated building law_** means:
 
-                     (a)  this Act, the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; or
+                     (a)  this Act, the _Independent Contractors Act 2006_ or the Workplace Relations Act; or
 
                      (b)  a Commonwealth industrial instrument.
 
@@ -528,11 +522,7 @@ whether or not those rules also allow membership by other persons.
 
                      (c)  any other matter prescribed by the regulations for the purposes of this paragraph.
 
-                    <a name="employe-organis"></a>**_employee organisation_** means an organisation of employees.
-
-                    <a name="enterpris-agreem"></a>**_enterprise agreement_** has the same meaning as in the FW Act.
-
-                    <a name="fair-work-instrum"></a>**_fair work instrument_** has the same meaning as in the FW Act.
+                    <a name="employe-organis"></a>**_employee organisation_** means an organisation of employees within the meaning of the Workplace Relations Act.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
@@ -546,10 +536,6 @@ whether or not those rules also allow membership by other persons.
 
                      (b)  a Deputy ABC Commissioner appointed on a full-time basis.
 
-                    <a name="fwa"></a>**_FWA_** has the same meaning as in the FW Act.
-
-                    <a name="fw-act"></a>**_FW Act_** means the _Fair Work Act 2009_.
-
                     <a name="grade-civil-penalti-provision"></a>**_Grade A civil penalty provision_** means:
 
                      (a)  a section of this Act (other than a section that is divided into subsections) that has a note at its foot stating “Grade A civil penalty”; or
@@ -562,25 +548,15 @@ whether or not those rules also allow membership by other persons.
 
                      (b)  a subsection of this Act that has a note at its foot stating “Grade B civil penalty”.
 
-                    <a name="independ-contractor"></a>**_independent contractor_** has the same meaning as in the FW Act.
+                    <a name="industri-associ"></a>**_industrial association_** has the same meaning as in Part XA of the Workplace Relations Act.
 
-                    <a name="industri-associ"></a>**_industrial association_** means:
+                    <a name="industri-bodi"></a>**_industrial body_** means:
 
-                     (a)  an association of employees or independent contractors, or both, or an association of employers, that is registered or recognised as such an association (however described) under a workplace law (within the meaning of the FW Act); or
+                     (a)  the AIRC; or
 
-                     (b)  an association of employees, or independent contractors, or both, a purpose of which is the protection and promotion of their interests in matters concerning their employment, or their interests as independent contractors (as the case may be); or
+                     (b)  a court or commission, however designated, exercising under an industrial law powers and functions corresponding to those conferred on the AIRC by the Workplace Relations Act.
 
-                     (c)  an association of employers a principal purpose of which is the protection and promotion of their interests in matters concerning employment, independent contractors or both;
-
-and includes:
-
-                     (d)  a branch of such an association; and
-
-                     (e)  an organisation; and
-
-                      (f)  a branch of an organisation.
-
-                    <a name="industri-bodi"></a>**_industrial body_** has the same meaning as in the FW Act.
+                    <a name="industri-disput"></a>**_industrial dispute_** (except in subsection 36(4) of this Act) has the meaning given by Schedule 6 to the Workplace Relations Act.
 
                     <a name="industri-instrum"></a>**_industrial instrument_** means an award or agreement, however designated, that:
 
@@ -590,31 +566,31 @@ and includes:
 
                     <a name="industri-law"></a>**_industrial law_** means:
 
-                     (a)  this Act, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; or
+                     (a)  this Act or the Workplace Relations Act; or
 
                      (b)  a law, however designated, of the Commonwealth or of a State or Territory that regulates the relationships between employers and employees or provides for the prevention or settlement of disputes between employers and employees.
 
-                    <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the FW Act.
+                    <a name="industri-registrar"></a>**_Industrial Registrar_** means the Industrial Registrar appointed under section 67 of the Workplace Relations Act.
 
-                    <a name="occupi"></a>**_occupier_** has the same meaning as in the FW Act.
+                    <a name="negoti-parti"></a>**_negotiating party_** has the same meaning as in Part 9 of the Workplace Relations Act.
+
+                    <a name="occupi"></a>**_occupier_** has the meaning given by section 4 of the Workplace Relations Act.
 
                     <a name="offic"></a>**_office_**, in relation to an organisation or industrial association or a branch of an organisation or industrial association, has the meaning given by section 6.
 
                     <a name="offic"></a>**_officer_**, in relation to an organisation or industrial association, means a person who holds an office in the organisation or association.
 
-                    <a name="organis"></a>**_organisation_** has the same meaning as in the _Fair Work (Registered Organisations) Act 2009_.
+                    <a name="organis"></a>**_organisation_** has the meaning given by the Workplace Relations Act.
 
                     <a name="part-time-commission"></a>**_part-time Commissioner_** means a Deputy ABC Commissioner appointed on a part-time basis.
 
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
-                    <a name="premis"></a>**_premises_** has the same meaning as in the FW Act.
+                    <a name="premis"></a>**_premises_** has the meaning given by section 4 of the Workplace Relations Act.
 
-                    <a name="pre-reform-awa"></a>**_pre-reform AWA_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="pre-reform-awa"></a>**_pre-reform AWA_** has the meaning given by the Workplace Relations Act.
 
-                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-                    <a name="protect-industri-action"></a>**_protected industrial action_** has the same meaning as in the FW Act.
+                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the meaning given by the Workplace Relations Act.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
@@ -622,7 +598,7 @@ and includes:
 
                     <a name="unlaw-industri-action"></a>**_unlawful industrial action_** has the meaning given by section 37.
 
-                    <a name="workplac-agreem"></a>**_workplace agreement_** means a workplace agreement within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, and includes an AWA.
+                    <a name="workplac-agreem"></a>**_workplace agreement_** has the meaning given by the Workplace Relations Act, and includes an AWA.
 
                     <a name="workplac-relat-act"></a>**_Workplace Relations Act_** means the _Workplace Relations Act 1996_.
 
@@ -750,7 +726,7 @@ In this subsection, **_association_** means an organisation or branch of an orga
 
                      (a)  monitoring and promoting appropriate standards of conduct by building industry participants, including by:
 
-                              (i)  monitoring and promoting compliance with this Act, the _Independent Contractors Act 2006_, the FW Act and the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; and
+                              (i)  monitoring and promoting compliance with this Act, the _Independent Contractors Act 2006_ and the Workplace Relations Act; and
 
                              (ii)  monitoring and promoting compliance with the Building Code; and
 
@@ -758,17 +734,17 @@ In this subsection, **_association_** means an organisation or branch of an orga
 
                      (b)  investigating suspected contraventions, by building industry participants, of:
 
-                              (i)  this Act, the _Independent Contractors Act 2006_, the FW Act, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ or a Commonwealth industrial instrument; and
+                              (i)  this Act, the _Independent Contractors Act 2006_, the Workplace Relations Act or a Commonwealth industrial instrument; and
 
                              (ii)  the Building Code;
 
-                     (c)  instituting, or intervening in, proceedings, or making submissions, in accordance with this Act;
+                     (c)  instituting, or intervening in, proceedings in accordance with this Act;
 
-                     (d)  providing assistance and advice to building industry participants regarding their rights and obligations under this Act, the _Independent Contractors Act 2006_, the FW Act and the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_;
+                     (d)  providing assistance and advice to building industry participants regarding their rights and obligations under this Act, the _Independent Contractors Act 2006_ and the Workplace Relations Act;
 
-                     (e)  providing representation to a building industry participant who is, or might become, a party to a proceeding under this Act, the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, if the ABC Commissioner considers that providing the representation would promote the enforcement of this Act, the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_;
+                     (e)  providing representation to a building industry participant who is, or might become, a party to a proceeding under this Act, the _Independent Contractors Act 2006_ or the Workplace Relations Act, if the ABC Commissioner considers that providing the representation would promote the enforcement of this Act, the _Independent Contractors Act 2006_ or the Workplace Relations Act;
 
-                      (f)  disseminating information about this Act, the _Independent Contractors Act 2006_, the FW Act, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and the Building Code, and about other matters affecting building industry participants, including disseminating information by facilitating ongoing discussions with building industry participants;
+                      (f)  disseminating information about this Act, the _Independent Contractors Act 2006_, the Workplace Relations Act and the Building Code, and about other matters affecting building industry participants, including disseminating information by facilitating ongoing discussions with building industry participants;
 
                      (g)  any other functions conferred on the ABC Commissioner by this Act or by another Act;
 
@@ -1210,13 +1186,15 @@ Note:          See also subsection (2), which deals with the
 
                      (b)  the action is taken by a constitutional corporation, or adversely affects a constitutional corporation in its capacity as a building industry participant;
 
+                     (c)  the action is taken in connection with an industrial dispute;
+
                      (d)  the action relates to work that is regulated by a Commonwealth industrial instrument;
 
-                     (e)  the action relates to the bargaining or proposed bargaining for, or the making or proposed making of, an enterprise agreement;
+                     (e)  the action relates to the negotiation, proposed negotiation, or making or proposed making, (as relevant), of a collective agreement under Division 2 of Part 8 of the Workplace Relations Act;
 
                       (f)  the action occurs in a Territory or Commonwealth place.
 
-                    <a name="excluded-action"></a>**_excluded action_** means building industrial action that is protected industrial action (as affected by Part 3 of this Chapter).
+                    <a name="excluded-action"></a>**_excluded action_** means building industrial action that is protected action for the purposes of the Workplace Relations Act (as affected by Part 3 of this Chapter).
 
                     <a name="industri-motiv"></a>**_industrially-motivated_** means motivated by one or more of the following purposes, or by purposes that include one or more of the following purposes:
 
@@ -1250,7 +1228,7 @@ The employer referred to in paragraphs (a) and (b) need not be the employer wh
 
                      (d)  a dispute arising between employers and employees, or between members of different industrial associations, as to the demarcation of functions of employees or classes of employees; or
 
-                     (e)  a dispute about the representation of the industrial interests of employees by an industrial association of employees.
+                     (e)  a dispute about the representation under an industrial law of the industrial interests of employees by an industrial association of employees.
 
 ## Part 2—Unlawful industrial action
 
@@ -1294,11 +1272,11 @@ then the court may grant an injunction in such terms as the court considers appr
 
                     <a name="appropri-court"></a>**_appropriate court_** means the Federal Court, the Federal Magistrates Court, a Supreme Court of a State or Territory or a District Court, or County Court, of a State.
 
-## Part 3—Protected industrial action
+## Part 3—Protected action
 
 ##### <a id="40"></a>40  Action involving extraneous participants
 
-             (1)  Building industrial action in relation to a proposed building enterprise agreement is not protected industrial action if:
+             (1)  Building industrial action in relation to a proposed building agreement is not protected action for the purposes of the Workplace Relations Act if:
 
                      (a)  the action is engaged in in concert with one or more persons who are not protected persons for the action; or
 
@@ -1308,25 +1286,39 @@ then the court may grant an injunction in such terms as the court considers appr
 
                     <a name="protect-person"></a>**_protected person_**means:
 
-                     (a)  an employee organisation that is a bargaining representative for the proposed agreement; or
+                     (a)  an employee organisation that is a negotiating party to the proposed agreement; or
 
-                     (b)  a member of such an organisation who is employed by the employer and who will be covered by the proposed agreement; or
+                     (b)  a member of such an organisation who is employed by the employer and whose employment will be subject to the proposed agreement; or
 
                      (c)  an officer or employee of such an organisation acting in that capacity; or
 
-                     (d)  an employee who is a bargaining representative for the proposed agreement.
+                     (d)  an employee who is a negotiating party to the proposed agreement.
+
+##### <a id="41"></a>41  Action before nominal expiry date
+
+                   Building industrial action is not protected action for the purposes of the Workplace Relations Act if:
+
+                     (a)  the action is engaged in for the purpose of supporting or advancing claims:
+
+                              (i)  against an employer; or
+
+                             (ii)  by an employer;
+
+                            in respect of employees whose employment is, in any respect, subject to a building collective agreement; and
+
+                     (b)  the action is taken before the nominal expiry date of that agreement.
 
 ## Part 4—Miscellaneous
 
 ##### <a id="42"></a>42  Payments in relation to periods of building industrial action
 
-             (1)  Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action) applies in relation to building work with the following modifications:
+             (1)  Division 9 of Part 9 of the Workplace Relations Act applies in relation to building work with the following modifications:
 
                      (a)  references in that Division to industrial action are to be read as references to building industrial action that is industrially-motivated and constitutionally-connected;
 
-                     (b)  if the person who contravenes a civil remedy provision to which table item 21, 22, 23 or 24 of the table set out in section 539 of the FW Act relates is a body corporate—then, for the purposes of paragraph 546(2)(b) of that Act, the pecuniary penalty must not be more than 1,000 penalty units.
+                     (b)  the reference in subsections 507(8), 508(6) and 509(4) of the Workplace Relations Act to 300 penalty units is to be read as a reference to 1,000 penalty units if the person is a body corporate.
 
-             (2)  Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action) does not apply to building work except as provided by this section.
+             (2)  Division 9 of Part 9 of the Workplace Relations Act does not apply to building work except as provided by this section.
 
 # Chapter 6—Discrimination, coercion and unfair contracts
 
@@ -1352,7 +1344,7 @@ Note:          Grade A civil penalty.
 
                      (c)  the conduct occurs in a Territory or Commonwealth place.
 
-##### <a id="44"></a>44  Coercion of persons to make, vary, terminate etc. enterprise agreements etc.
+##### <a id="44"></a>44  Coercion of persons to make, vary, terminate etc. collective agreements etc.
 
              (1)  A person must not:
 
@@ -1362,29 +1354,31 @@ Note:          Grade A civil penalty.
 
 with intent to coerce another person, or with intent to apply undue pressure to another person, to agree, or not to agree:
 
-                     (c)  to make, vary or terminate, or extend the nominal expiry date of, a building enterprise agreement; or
+                     (c)  to make, vary or terminate, or extend the nominal expiry date of, a building agreement under Part 8 of the Workplace Relations Act; or
 
                      (d)  to approve any of the things mentioned in paragraph (c).
 
 Note:          Grade A civil penalty.
 
-             (2)  Subsection (1) does not apply to action that is protected industrial action (as affected by Part 3 of Chapter 5 of this Act).
+             (2)  Subsection (1) does not apply to action that is protected action for the purposes of the Workplace Relations Act (as affected by Part 3 of Chapter 5 of this Act).
 
-             (3)  An employer must not coerce, or attempt to coerce, an employee of the employer in relation to who is to be, or is not to be, the employee’s bargaining representative.
+             (3)  An employer must not coerce, or attempt to coerce, an employee of the employer:
+
+                     (a)  not to make a request as mentioned in subsections 335(1) and (2) of the Workplace Relations Act in relation to a building agreement that the employer proposes to make; or
+
+                     (b)  to withdraw such a request.
 
 Note:          Grade A civil penalty.
 
-             (4)  An employer must not apply, or attempt to apply, undue pressure to an employee of the employer in relation to who is to be, or is not to be, the employee’s bargaining representative.
+             (4)  An employer must not apply, or attempt to apply, undue pressure to an employee of the employer:
+
+                     (a)  not to make a request as mentioned in subsections 335(1) and (2) of the Workplace Relations Act in relation to a building agreement that the employer proposes to make; or
+
+                     (b)  to withdraw such a request.
 
 Note:          Grade A civil penalty.
 
-             (5)  To the extent that section 343 of the FW Act relates to:
-
-                     (a)  the making, varying or terminating of an enterprise agreement; or
-
-                     (b)  the appointment, or termination of appointment, of a bargaining representative for an enterprise agreement;
-
-that section does not apply if the agreement is a building enterprise agreement.
+             (5)  Section 400 of the Workplace Relations Act does not apply if the agreement referred to in that section is a building agreement.
 
 ##### <a id="45"></a>45  Discrimination against employer in relation to industrial instruments
 
@@ -1400,8 +1394,6 @@ that section does not apply if the agreement is a building enterprise agreement.
 
                             (iv)  the Australian Fair Pay and Conditions Standard; or
 
-                             (v)  the National Employment Standards; or
-
                      (b)  it is proposed that the employment of the second person’s building employees be covered, or not be covered, by:
 
                               (i)  a particular kind of industrial instrument; or
@@ -1410,13 +1402,15 @@ that section does not apply if the agreement is a building enterprise agreement.
 
                             (iii)  a particular preserved Australian Pay and Classification Scale; or
 
-                            (iv)  the Australian Fair Pay and Conditions Standard; or
-
-                             (v)  the National Employment Standards.
+                            (iv)  the Australian Fair Pay and Conditions Standard.
 
 Note:          Grade A civil penalty.
 
-             (2)  Subsection (1) does not apply to conduct that is protected industrial action (as affected by Part 3 of Chapter 5 of this Act).
+_Example for subparagraphs (1)(a)(ii) and (1)(b)(ii)_
+
+A person contravenes the subparagraph if he or she discriminates against another person on the basis that the other person is, or is not, regulated by the Australian Fair Pay and Conditions Standard only under the WR Act, and not under any workplace agreement or award.
+
+             (2)  Subsection (1) does not apply to conduct that is protected action for the purposes of the Workplace Relations Act (as affected by Part 3 of Chapter 5 of this Act).
 
              (3)  Subsection (1) does not apply to conduct by the first person if:
 
@@ -1430,7 +1424,7 @@ Note:          Grade A civil penalty.
 
              (4)  Subsection (1) does not apply unless:
 
-                     (a)  the industrial instrument referred to in that section is an award, transitional award, workplace agreement, pre-reform certified agreement, pre-reform AWA or fair work instrument; or
+                     (a)  the industrial instrument referred to in that section is an award, transitional award, workplace agreement, pre-reform certified agreement or pre-reform AWA; or
 
                      (b)  the first person is an organisation or a constitutional corporation; or
 
@@ -1454,7 +1448,7 @@ with intent:
 
 Note:          Grade A civil penalty.
 
-             (2)  Subsection (1) does not apply if the relevant action is, or would be, protected industrial action (as affected by Part 3 of Chapter 5).
+             (2)  Subsection (1) does not apply if the relevant action is, or would be, protected action for the purposes of the Workplace Relations Act (as affected by Part 3 of Chapter 5).
 
              (3)  Subsection (1) does not apply unless:
 
@@ -1551,6 +1545,14 @@ Note:          Grade A civil penalty.
 The proceedings for the order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the order are dismissed.
 
              (3)  Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether an order under this Part has been made against the person.
+
+             (4)  If a person’s conduct constitutes a contravention of a civil penalty provision and section 495 of the Workplace Relations Act, proceedings relating to the contravention may be instituted under either or both of the following provisions:
+
+                     (a)  section 49 of this Act;
+
+                     (b)  section 495 of the Workplace Relations Act.
+
+However, the person is not liable to more than one pecuniary penalty in respect of the same conduct.
 
 ##### <a id="51"></a>51  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
@@ -1824,7 +1826,7 @@ Note:          The _Criminal Code_ contains offences for obstr
 
 ### Division 3—Powers of Federal Safety Officers
 
-##### <a id="60"></a>60  Federal Safety Officers
+##### <a id="60"></a>60  Federal Safety Officers
 
              (1)  The Federal Safety Commissioner may, by written instrument, appoint any of the following persons as a Federal Safety Officer:
 
@@ -1998,7 +2000,7 @@ Note:          The _Criminal Code_ contains offences for obstr
 
 ##### <a id="64"></a>64  Project agreements not enforceable
 
-                   If:
+             (1)  If:
 
                      (a)  an agreement is entered into with the intention of securing standard employment conditions for building employees in respect of building work that they carry out at a particular building site or sites; and
 
@@ -2010,9 +2012,11 @@ Note:          The _Criminal Code_ contains offences for obstr
 
                              (ii)  a party to the agreement is a constitutional corporation and at least some of the employees are employees of that corporation; and
 
-                     (d)  the agreement has not been not approved by FWA (within the meaning of the FW Act);
+                     (d)  the agreement is not certified or is not lodged in accordance with Division 5 of Part 8 of the Workplace Relations Act;
 
 then the agreement is unenforceable to the extent to which it relates to building employees.
+
+             (2)  In determining for the purposes of this section whether employees are employed by the same employer, section 322, and subsection 643(11), of the Workplace Relations Act is to be disregarded.
 
 ##### <a id="65"></a>65  Protection of confidentiality of information
 
@@ -2124,7 +2128,7 @@ Definitions
 
                       (i)  a person engaged as a consultant under section 34;
 
-                      (j)  the General Manager of FWA;
+                      (j)  the Industrial Registrar;
 
                      (k)  a person acting under a delegation under this Act from a person covered by any of the above paragraphs.
 
@@ -2166,7 +2170,7 @@ Definitions
 
                      (b)  non-compliance by a building industry participant with this Act, including the names of the participants who have failed to comply; and
 
-                     (c)  non-compliance by a building industry participant with the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, including the names of the participants who have failed to comply.
+                     (c)  non-compliance by a building industry participant with the _Independent Contractors Act 2006_ or the Workplace Relations Act, including the names of the participants who have failed to comply.
 
 ##### <a id="68"></a>68  Delegation by Minister
 
@@ -2248,7 +2252,7 @@ it is not relevant whether or not that person is able, willing or eligible to do
 
                      (a)  arises under this Act; or
 
-                     (b)  arises under the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and involves:
+                     (b)  arises under the _Independent Contractors Act 2006_ or the Workplace Relations Act and involves:
 
                               (i)  a building industry participant; or
 
@@ -2256,21 +2260,21 @@ it is not relevant whether or not that person is able, willing or eligible to do
 
              (2)  If the ABC Commissioner intervenes in a proceeding under subsection (1), the ABC Commissioner is taken to be a party to the proceeding and has all the rights, duties and liabilities of such a party.
 
-##### <a id="72"></a>72  ABC Commissioner may make submissions in FWA proceedings
+##### <a id="72"></a>72  ABC Commissioner intervention in AIRC proceedings
 
-                   The ABC Commissioner may, by giving written notice to the General Manager of FWA, make a submission in a matter before FWA that arises under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and involves:
+                   The ABC Commissioner may, by giving written notice to the Industrial Registrar, intervene in a matter before the AIRC that arises under the Workplace Relations Act and involves:
 
                      (a)  a building industry participant; or
 
                      (b)  building work.
 
-##### <a id="73"></a>73  ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc.
+##### <a id="73"></a>73  ABC Commissioner or ABC Inspector may institute proceedings under the Workplace Relations Act
 
-Powers corresponding to powers of Fair Work Inspectors under the FW Act, etc.
+Powers corresponding to powers of workplace inspectors under the Workplace Relations Act
 
-             (1)  If a provision of the FW Act, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ or of an instrument under either of those Acts, authorises a Fair Work Inspector (within the meaning of the FW Act) to:
+             (1)  If a provision of the Workplace Relations Act, or of an instrument under that Act, authorises a workplace inspector (within the meaning of that Act) to:
 
-                     (a)  make an application to FWA; or
+                     (a)  make an application to the AIRC; or
 
                      (b)  make an application to, or otherwise institute proceedings in, a court;
 
@@ -2280,9 +2284,19 @@ the provision is also taken to authorise the ABC Commissioner or an ABC Inspecto
 
                      (e)  building work.
 
-             (2)  If the ABC Commissioner or an ABC Inspector makes such an application, or institutes such proceedings, the FW Act, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and any such instrument have effect, in relation to the application or proceedings, as if the ABC Commissioner or the ABC Inspector were a Fair Work Inspector (within the meaning of the FW Act).
+             (2)  If the ABC Commissioner or an ABC Inspector makes such an application, or institutes such proceedings, the Workplace Relations Act and any such instrument have effect, in relation to the application or proceedings, as if the ABC Commissioner or the ABC Inspector were a workplace inspector (within the meaning of that Act).
 
-             (3)  Directions under section 704 or 705 of the FW Act do not apply to the ABC Commissioner or an ABC Inspector in relation to such an application or such proceedings.
+             (3)  Directions under subsection 167(7) of the Workplace Relations Act do not apply to the ABC Commissioner or an ABC Inspector in relation to such an application or such proceedings.
+
+Power to apply under subsection 744(1), 769(1), 770(2) or 771(4) or section 807 of the Workplace Relations Act
+
+             (4)  The ABC Commissioner or an ABC Inspector may make an application under subsection 744(1), 769(1), 770(2) or 771(4), or section 807, of the Workplace Relations Act in any case where the application relates to a matter that involves:
+
+                     (a)  a building industry participant; or
+
+                     (b)  building work.
+
+             (5)  Subsection (4) does not, by implication, limit the persons who may make an application under subsection 744(1), 769(1), 770(2) or 771(4), or section 807, of the Workplace Relations Act.
 
 ##### <a id="73A"></a>73A  ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_
 
@@ -2294,13 +2308,13 @@ the provision is also taken to authorise the ABC Commissioner or an ABC Inspecto
 
              (2)  If the ABC Commissioner or an ABC Inspector makes such an application, or institutes such proceedings, the _Independent Contractors Act 2006_ and any such instrument have effect, in relation to the application or proceedings, as if the ABC Commissioner or the ABC Inspector were a workplace inspector (within the meaning of that Act).
 
-             (3)  Directions under section 704 or 705 of the FW Act do not apply to the ABC Commissioner or an ABC Inspector in relation to such an application or such proceedings.
+             (3)  Directions under subsection 167(7) of the Workplace Relations Act do not apply to the ABC Commissioner or an ABC Inspector in relation to such an application or such proceedings.
 
-##### <a id="74"></a>74  General Manager of FWA must keep ABC Commissioner informed
+##### <a id="74"></a>74  Industrial Registrar must keep ABC Commissioner informed
 
-                   The General Manager of FWA must, as soon as practicable, notify the ABC Commissioner of:
+                   The Industrial Registrar must, as soon as practicable, notify the ABC Commissioner of:
 
-                     (a)  every application lodged with FWA, or the General Manager of FWA under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, where the application relates to a matter that involves:
+                     (a)  every application lodged with the AIRC, or the Industrial Registrar, under the Workplace Relations Act, where the application relates to a matter that involves:
 
                               (i)  a building industry participant; or
 
@@ -2322,11 +2336,11 @@ Jurisdiction where Act allows proceedings to be instituted
 
                      (d)  in the case of a court of a Territory—the jurisdiction is vested so far only as the Constitution permits.
 
-Jurisdiction in relation to modified provisions of FW Act
+Jurisdiction in relation to modified provisions of Workplace Relations Act
 
              (3)  If:
 
-                     (a)  a court has jurisdiction in relation to a matter arising under a provision of the FW Act; and
+                     (a)  a court has jurisdiction in relation to a matter arising under a provision of the Workplace Relations Act; and
 
                      (b)  that provision is affected by this Act;
 
@@ -2334,7 +2348,7 @@ then that jurisdiction extends to a matter arising under that provision as affec
 
 Writ of mandamus etc. against officers of the Commonwealth
 
-             (4)  Paragraph 563(b) of the FW Act and paragraph 22(b) of Schedule 17 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ extend to matters in which a writ of mandamus or prohibition, or an injunction, is sought against an officer or officers of the Commonwealth holding office under that Act, in relation to powers or functions under this Act. This subsection is enacted for the avoidance of doubt.
+             (4)  Subsections 412(2) and (3), and subsection 415(1), of the Workplace Relations Act extend to matters in which a writ of mandamus or prohibition, or an injunction, is sought against an officer or officers of the Commonwealth holding office under that Act, in relation to powers or functions under this Act. This subsection is enacted for the avoidance of doubt.
 
              (5)  For the purposes of section 44 of the _Judiciary Act 1903_, the Federal Court is taken to have jurisdiction with respect to any matter in which a writ of mandamus or prohibition, or an injunction, is sought against an officer or officers of the Commonwealth holding office under this Act.
 
@@ -2358,53 +2372,13 @@ If a Judge so refers a matter, the Full Court of the Federal Court may have rega
 
              (9)  The Federal Court has jurisdiction with respect to matters in relation to which questions may be referred to it under subsection (8).
 
-##### <a id="75A"></a>75A  Exercising jurisdiction in the Fair Work Division of the Federal Court
-
-             (1)  This section applies if:
-
-                     (a)  an application is made to the Federal Court under this Act; or
-
-                     (b)  a writ of mandamus or prohibition or an injunction is sought in the Federal Court against a person holding office under this Act; or
-
-                     (c)  a declaration is sought under section 21 of the _Federal Court of Australia Act 1976_ in relation to a matter arising under this Act; or
-
-                     (d)  an injunction is sought under section 23 of the _Federal Court of Australia Act 1976_ in relation to a matter arising under this Act; or
-
-                     (e)  a prosecution is instituted in the Federal Court under this Act; or
-
-                      (f)  an appeal is instituted in the Federal Court from a judgment of the Federal Magistrates Court or a court of a State or Territory in a matter arising under this Act; or
-
-                     (g)  proceedings in relation to a matter arising under this Act are transferred to the Federal Court from the Federal Magistrates Court; or
-
-                     (h)  the Federal Magistrates Court or a court of a State or Territory states a case or reserves a question for the consideration of the Federal Court in a matter arising under this Act; or
-
-                      (i)  the High Court remits a matter arising under this Act to the Federal Court.
-
-             (2)  The jurisdiction of the Federal Court is to be exercised in the Fair Work Division of the Federal Court.
-
-##### <a id="75B"></a>75B  Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court
-
-             (1)  This section applies if:
-
-                     (a)  an application is made to the Federal Magistrates Court under this Act; or
-
-                     (b)  an injunction is sought under section 15 of the _Federal Magistrates Act 1999_ in relation to a matter arising under this Act; or
-
-                     (c)  a declaration is sought under section 16 of the _Federal Magistrates Act 1999_ in relation to a matter arising under this Act; or
-
-                     (d)  proceedings in relation to a matter arising under this Act are transferred to the Federal Magistrates Court from the Federal Court; or
-
-                     (e)  the High Court remits a matter arising under this Act to the Federal Magistrates Court.
-
-             (2)  The jurisdiction of the Federal Magistrates Court is to be exercised in the Fair Work Division of the Federal Magistrates Court.
-
 ##### <a id="76"></a>76  Court not to require undertaking as to damages
 
                    If the ABC Commissioner or an ABC Inspector is an applicant in court proceedings under:
 
                      (a)  section 39 or 49 of this Act; or
 
-                     (b)  the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_;
+                     (b)  the Workplace Relations Act;
 
 then the court cannot require the ABC Commissioner, the ABC Inspector or any other person, as a condition of granting an interim injunction, to give undertakings as to damages.
 
@@ -2414,7 +2388,7 @@ then the court cannot require the ABC Commissioner, the ABC Inspector or any oth
 
                      (a)  by a protected person in the exercise, or purported exercise, of functions, powers or duties under, or in relation to, this Act; or
 
-                     (b)  by a protected person in the exercise, or purported exercise, of functions, powers or duties under, or in relation to, the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, where the exercise, or purported exercise, of the function, power or duty relates to a matter that involves:
+                     (b)  by a protected person in the exercise, or purported exercise, of functions, powers or duties under, or in relation to, the _Independent Contractors Act 2006_ or the Workplace Relations Act, where the exercise, or purported exercise, of the function, power or duty relates to a matter that involves:
 
                               (i)  a building industry participant; or
 
@@ -2442,7 +2416,7 @@ then the court cannot require the ABC Commissioner, the ABC Inspector or any oth
 
                       (i)  a person engaged as a consultant under section 34;
 
-                      (j)  the General Manager of FWA;
+                      (j)  the Industrial Registrar;
 
                      (k)  a person acting under a delegation under this Act from a person covered by any of the above paragraphs.
 
@@ -2464,7 +2438,7 @@ then the court cannot require the ABC Commissioner, the ABC Inspector or any oth
 
                      (d)  requiring a building industry participant to notify the ABC Commissioner of:
 
-                              (i)  an application made to a court under this Act, the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, where the application is made by, or otherwise involves, the participant; and
+                              (i)  an application made to a court under this Act, the _Independent Contractors Act 2006_ or the Workplace Relations Act, where the application is made by, or otherwise involves, the participant; and
 
                              (ii)  the outcome of the application;
 
@@ -2617,132 +2591,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 8 (items 2–84, 
-155–158): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 8 (items 155–158)</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 8, items 1 to 130
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      30\. Schedule 8, items 140 to 161
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -2781,7 +2629,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009</div>
+    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2805,7 +2653,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 163, 2006; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 163, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2893,7 +2741,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2906,35 +2754,10 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 3 
-of Chapt. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
     <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2950,7 +2773,7 @@ of Chapt. 5</div>
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 119; No. 54, 2009</div>
+    <div>am. SLI 2006 Nos. 50 and 119</div>
   </td>
 </tr>
 <tr>
@@ -2966,7 +2789,7 @@ of Chapt. 5</div>
     <div>Heading to s. 44</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2974,7 +2797,7 @@ of Chapt. 5</div>
     <div>Ss. 44, 45</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2983,22 +2806,6 @@ of Chapt. 5</div>
   </td>
   <td>
     <div>ad. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3038,7 +2845,7 @@ of Chapt. 5</div>
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -3054,7 +2861,7 @@ of Chapt. 5</div>
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -3070,7 +2877,7 @@ of Chapt. 5</div>
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 153, 2007; No. 54, 2009</div>
+    <div>am. No. 153, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3078,7 +2885,7 @@ of Chapt. 5</div>
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 163, 2006; No. 54, 2009</div>
+    <div>am. No. 163, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3086,31 +2893,7 @@ of Chapt. 5</div>
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 163, 2006; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 72</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 73</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
+    <div>am. No. 163, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3118,7 +2901,7 @@ of Chapt. 5</div>
     <div>Subhead. to s. 73(1)</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -3126,7 +2909,7 @@ of Chapt. 5</div>
     <div>S. 73</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 163, 2006; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 163, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3139,58 +2922,10 @@ of Chapt. 5</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 74</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 75(3)</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 163, 2006; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 75A, 75B</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
+    <div>am. No. 163, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3198,7 +2933,7 @@ of Chapt. 5</div>
     <div>Ss. 77, 78</div>
   </td>
   <td>
-    <div>am. No. 163, 2006; No. 54, 2009</div>
+    <div>am. No. 163, 2006</div>
   </td>
 </tr></table>
 
@@ -3216,41 +2951,5 @@ _Building and Construction Industry Improvement Amendment (OHS) Act 2007
 (1)        This item applies if, immediately before the commencement of item 1 of this Schedule, a person is engaged as a consultant under section 34 of the _Building and Construction Industry Improvement Act 2005_.
 
 (2)        The person’s engagement has effect from the commencement of item 1 as if the person were engaged under section 34 of the _Building and Construction Industry Improvement Act 2005_ as amended by that item.
-
-* * *
-
-## _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009)
-
-##### <a id="4"></a>4  Definition
-
-                   In this Act:
-
-                    <a name="wr-act-repeal-dai"></a>**_WR Act repeal day_** has the meaning given by Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-## Schedule 8
-
-## 155  General transitional provision relating to functions and powers of the ABC Commissioner and ABC inspectors
-
-If the _Building and Construction Industry Improvement Act 2005_ confers a function or power on the ABC Commissioner or an ABC inspector in relation to the _Fair Work Act 2009_, the _Building and Construction Industry Improvement Act 2005_ has effect, on and after the WR Act repeal day, as if the function or power were also conferred in relation to:
-
-                     (a)  the _Workplace Relations Act 1996_ as in force before the WR Act repeal day; and
-
-                     (b)  the _Workplace Relations Act 1996_ as continued in force after the WR Act repeal day by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009._
-
-## 156  Transitional provision relating to paragraph 44(1)(c)
-
-Despite the amendment of paragraph 44(1)(c) of the _Building and Construction Industry Improvement Act 2005_ made by item 50 of this Schedule, that paragraph applies, in relation to a building agreement made before the WR Act repeal day as if it referred to that agreement.
-
-## 157  Transitional provision relating to paragraph 64(1)(d)
-
-Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Industry Improvement Act 2005_ by item 63 of this Schedule, that paragraph continues to apply, in relation to an agreement entered into before the WR Act repeal day, as if it had not been repealed.
-
-## 158  Transitional provisions relating to the Industrial Registrar
-
-(1)        Section 65 of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a designated person.
-
-(2)        Section 74 of the _Building and Construction Industry Improvement Act 2005_, as in force immediately before the WR Act repeal day, continues to apply in relation to an application lodged before that day.
-
-(3)        Subsection 77(2) of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a protected person.
 
  
