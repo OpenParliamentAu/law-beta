@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C00517/Html/InternationalArbit1974_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01900/Html/InterArb74_image001.gif)
 
 # International Arbitration Act 1974
 
 **Act No. 136 of 1974 as amended**
 
-This compilation was prepared on 31 May 2004
- taking into account amendments up to Act No. 62 of 2004
+This compilation was prepared on 19 October 2000
+ taking into account amendments up to Act No. 160 of 1991
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -20,101 +17,103 @@ Prepared by the Office of Legislative Drafting,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title of Principal Act [_see_ Note 1]
+[1](#1).            Short title of Principal Act [_see_ Note 1]                                              1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[2A](#2A).         Territories
+[2A](#2A).         Territories                                                                                            1
 
-[2B](#2B).         Crown to be bound
+[2B](#2B).         Crown to be bound                                                                              1
 
-[2C](#2C).         Carriage of goods by sea
+[2C](#2C).         Carriage of goods by sea                                                                      1
 
 **Part II—Enforcement of foreign awards**
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       2
 
-[7](#7).            Enforcement of foreign arbitration agreements
+[4](#4).            Accession to Convention                                                                     3
 
-[8](#8).            Recognition of foreign awards
+[7](#7).            Enforcement of foreign arbitration agreements                                    3
 
-[9](#9).            Evidence of awards and arbitration agreements
+[8](#8).            Recognition of foreign awards                                                             4
 
-[10](#10).          Evidence relating to Convention
+[9](#9).            Evidence of awards and arbitration agreements                                   6
 
-[10A](#10A).       Delegation by Secretary to the Department of Foreign Affairs and Trade
+[10](#10).          Evidence relating to Convention                                                          7
 
-[12](#12).          Effect of this Part on other laws
+[10A](#10A).       Delegation by Secretary to the Department of Foreign Affairs and Trade              7
 
-[13](#13).          Judiciary Act
+[12](#12).          Effect of this Part on other laws                                                          8
 
-[14](#14).          Application of Part
+[13](#13).          Judiciary Act                                                                                       8
+
+[14](#14).          Application of Part                                                                              8
 
 **Part III—International Commercial Arbitration** 
 
     **Division 1—Preliminary**
 
-[15](#15).          Interpretation
+[15](#15).          Interpretation                                                                                       9
 
     **Division 2—Model Law**
 
-[16](#16).          Model Law to have force of law
+[16](#16).          Model Law to have force of law                                                        10
 
-[17](#17).          Interpretation of Model Law—use of extrinsic material
+[17](#17).          Interpretation of Model Law—use of extrinsic material                   10
 
-[18](#18).          Courts specified for purposes of Article 6 of Model Law
+[18](#18).          Courts specified for purposes of Article 6 of Model Law                10
 
-[19](#19).          Articles 34 and 36 of Model Law—public policy
+[19](#19).          Articles 34 and 36 of Model Law—public policy                            11
 
-[20](#20).          Chapter VIII of Model Law not to apply in certain cases
+[20](#20).          Chapter VIII of Model Law not to apply in certain cases                11
 
-[21](#21).          Settlement of dispute otherwise than in accordance with Model Law
+[21](#21).          Settlement of dispute otherwise than in accordance with Model Law 11
 
     **Division 3—Optional provisions**
 
-[22](#22).          Application of optional provisions
+[22](#22).          Application of optional provisions                                                   12
 
-[23](#23).          Orders under Article 17 of the Model Law
+[23](#23).          Orders under Article 17 of the Model Law                                       12
 
-[24](#24).          Consolidation of arbitral proceedings
+[24](#24).          Consolidation of arbitral proceedings                                                12
 
-[25](#25).          Interest up to making of award
+[25](#25).          Interest up to making of award                                                          14
 
-[26](#26).          Interest on debt under award
+[26](#26).          Interest on debt under award                                                             14
 
-[27](#27).          Costs
+[27](#27).          Costs                                                                                                  14
 
     **Division 4—Miscellaneous**
 
-[28](#28).          Liability of arbitrator
+[28](#28).          Liability of arbitrator                                                                         16
 
-[29](#29).          Representation in proceedings
+[29](#29).          Representation in proceedings                                                           16
 
-[30](#30).          Application of Part
+[30](#30).          Application of Part                                                                            17
 
 **Part IV—Application of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States** 
 
     **Division 1—Preliminary**
 
-[31](#31).          Interpretation
+[31](#31).          Interpretation                                                                                     18
 
     **Division 2—Investment Convention**
 
-[32](#32).          Application of Investment Convention to Australia
+[32](#32).          Application of Investment Convention to Australia                         19
 
-[33](#33).          Award is binding
+[33](#33).          Award is binding                                                                                19
 
-[34](#34).          Investment Convention awards to prevail over other laws
+[34](#34).          Investment Convention awards to prevail over other laws               19
 
-[35](#35).          Recognition of awards
+[35](#35).          Recognition of awards                                                                       19
 
     **Division 3—Miscellaneous**
 
-[36](#36).          Evidence relating to Investment Convention
+[36](#36).          Evidence relating to Investment Convention                                     20
 
-[37](#37).          Representation in proceedings
+[37](#37).          Representation in proceedings                                                           20
 
-[38](#38).          Judiciary Act
+[38](#38).          Judiciary Act                                                                                     21
 
 **Schedule 1—United Nations Conference on International Commercial Arbitration Convention on the Recognition and Enforcement of Foreign Arbitral Awards** 
 
@@ -136,7 +135,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Sections 1, 2 and 3 shall come into operation on the day on which this Act receives the Royal Assent.
+             (1)  Sections 1, 2, 3 and 4 shall come into operation on the day on which this Act receives the Royal Assent.
 
              (2)  The remaining provisions of this Act shall come into operation on a date to be fixed by Proclamation, being a date not earlier than the date on which the Convention enters into force for Australia.
 
@@ -146,7 +145,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="2B"></a>2B  Crown to be bound
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
 
 ##### <a id="2C"></a>2C  Carriage of goods by sea
 
@@ -181,6 +180,10 @@ Prepared by the Office of Legislative Drafting,
              (2)  In this Part, where the context so admits,**_enforcement_**, in relation to a foreign award, includes the recognition of the award as binding for any purpose, and **_enforce_** and **_enforced_** have corresponding meanings.
 
              (3)  For the purposes of this Part, a body corporate shall be taken to be ordinarily resident in a country if, and only if, it is incorporated or has its principal place of business in that country.
+
+##### <a id="4"></a>4  Accession to Convention
+
+                   Approval is given to accession by Australia to the Convention without any declaration under sub-article 3 of Article I but with a declaration under Article X that the Convention shall extend to all the external Territories other than Papua New Guinea.
 
 ##### <a id="7"></a>7  Enforcement of foreign arbitration agreements
 
@@ -274,7 +277,7 @@ subsections (1) and (2) do not have effect in relation to the award unless that 
 
              (2)  For the purposes of this Part, a copy of the _Gazette_ containing a Proclamation fixing a date under subsection 2(2) is, upon mere production, receivable in any proceedings as _prima facie_ evidence of:
 
-                     (a)  the fact that Australia has acceded to the Convention; and
+                     (a)  the fact that Australia has acceded to the Convention in accordance with section 4; and
 
                      (b)  the fact that the Convention entered into force for Australia on or before the date so fixed.
 
@@ -384,7 +387,7 @@ The following courts shall be taken to have been specified in Article 6 of the M
 
 as if any reference in that chapter to an arbitral award or an award were a reference to such an order.
 
-##### <a id="24"></a>24  Consolidation of arbitral proceedings
+##### <a id="24"></a>24  Consolidation of arbitral proceedings
 
              (1)  A party to arbitral proceedings before an arbitral tribunal may apply to the tribunal for an order under this section in relation to those proceedings and other arbitral proceedings (whether before that tribunal or another tribunal or other tribunals) on the ground that:
 
@@ -582,7 +585,7 @@ ARTICLE II
 
 ARTICLE III 
 
-Each   Contracting State shall recognize arbitral awards as binding and enforce them in accordance with the rules of procedure of the territory where the award is relied upon, under the conditions laid down in the following articles. There shall not be imposed substantially more onerous conditions or higher fees or charges on the recognition or enforcement of arbitral awards to which this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.
+Each Contracting State shall recognize arbitral awards as binding and enforce them in accordance with the rules of procedure of the territory where the award is relied upon, under the conditions laid down in the following articles. There shall not be imposed substantially more onerous conditions or higher fees or charges on the recognition or enforcement of arbitral awards to which this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.
 
 ARTICLE IV
 
@@ -670,7 +673,7 @@ ARTICLE XIII
 
 ARTICLE XIV
 
-A   Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to the extent that it is itself bound to apply the Convention.
+A Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to the extent that it is itself bound to apply the Convention.
 
 ARTICLE XV
 
@@ -696,7 +699,7 @@ ARTICLE XVI
 
 Subsection 15 (1)
 
-CHAPTER  I. GENERAL PROVISIONS
+CHAPTER I. GENERAL PROVISIONS
 
 Article 1\. _Scope of application_<span style="font-family:Symbol">*</span>  
 
@@ -1092,7 +1095,7 @@ SECTION 2
 
 _Article 4_ 
 
-(1)   The Administrative Council shall be composed of one representative of each Contracting  State. An alternate may act as representative in case of his principalîs absence from a meeting or inability to act.
+(1)   The Administrative Council shall be composed of one representative of each Contracting State. An alternate may act as representative in case of his principalîs absence from a meeting or inability to act.
 
 (2)   In the absence of a contrary designation, each governor and alternate governor of the Bank appointed by a Contracting State shall be _ex officio_ its representative and its alternate respectively.
 
@@ -1168,7 +1171,7 @@ The Panel of Conciliators and the Panel of Arbitrators shall each consist of qua
 
 _Article 13_ 
 
-(1)   Each   Contracting State may designate to each Panel four persons who may but need not be its nationals. 
+(1)   Each Contracting State may designate to each Panel four persons who may but need not be its nationals. 
 
 (2)   The Chairman may designate ten persons to each Panel. The persons so designated to a Panel shall each have a different nationality. 
 
@@ -1240,7 +1243,7 @@ _Article 23_
 
 (1)   The archives of the Centre shall be inviolable, wherever they may be. 
 
-(2)   With regard to its official communications, the Centre shall be accorded by each Contracting  State treatment not less favourable than that accorded to other international organizations.
+(2)   With regard to its official communications, the Centre shall be accorded by each Contracting State treatment not less favourable than that accorded to other international organizations.
 
 _Article 24_ 
 
@@ -1266,7 +1269,7 @@ _Article 25_
 
 (3)   Consent by a constituent subdivision or agency of a Contracting State shall require the approval of that State unless that State notifies the Centre that no such approval is required.
 
-(4)   Any   Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
+(4)   Any Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
 
 _Article 26_ 
 
@@ -1288,7 +1291,7 @@ SECTION 1
 
 _Article 28_
 
-(1)   Any   Contracting State or any national of a Contracting State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
+(1)   Any Contracting State or any national of a Contracting State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
 (2)   The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to conciliation in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
@@ -1350,7 +1353,7 @@ SECTION 1
 
 _Article 36_
 
-(1)   Any   Contracting State or any national of a Contracting State wishing to institute arbitration proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
+(1)   Any Contracting State or any national of a Contracting State wishing to institute arbitration proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
 (2)   The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to arbitration in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
@@ -1504,7 +1507,7 @@ _Article 53_
 
 _Article 54_
 
-(1)   Each   Contracting State shall recognize an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent state.
+(1)   Each Contracting State shall recognize an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent state.
 
 (2)   A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary-General. Each Contracting State shall notify the Secretary-General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
 
@@ -1512,7 +1515,7 @@ _Article 54_
 
 _Article 55_ 
 
-Nothing in Article 54 shall be construed as derogating from the law in force in any Contracting  State relating to immunity of that State or of any foreign State from execution. 
+Nothing in Article 54 shall be construed as derogating from the law in force in any Contracting State relating to immunity of that State or of any foreign State from execution. 
 
 CHAPTER V
 
@@ -1584,13 +1587,13 @@ CHAPTER IX
 
 _Article 65_
 
-Any   Contracting State may propose amendment of this Convention. The text of a proposed amendment shall be communicated to the Secretary-General not less than 90 days prior to the meeting of the Administrative Council at which such amendment is to be considered and shall forthwith be transmitted by him to all the members of the Administrative Council.
+Any Contracting State may propose amendment of this Convention. The text of a proposed amendment shall be communicated to the Secretary-General not less than 90 days prior to the meeting of the Administrative Council at which such amendment is to be considered and shall forthwith be transmitted by him to all the members of the Administrative Council.
 
 _Article 66_
 
 (1)   If the Administrative Council shall so decide by a majority of two-thirds of its members, the proposed amendment shall be circulated to all Contracting States for ratification, acceptance or approval. Each amendment shall enter into force 30 days after dispatch by the depositary of this Convention of a notification to Contracting States that all Contracting States have ratified, accepted or approved the amendment.
 
-(2)   No amendment shall affect the rights and obligations under this Convention of any Contracting  State or of any of its constituent subdivisions or agencies, or of any national of such State arising out of consent to the jurisdiction of the Centre given before the date of entry into force of the amendment.
+(2)   No amendment shall affect the rights and obligations under this Convention of any Contracting State or of any of its constituent subdivisions or agencies, or of any national of such State arising out of consent to the jurisdiction of the Centre given before the date of entry into force of the amendment.
 
 CHAPTER X
 
@@ -1608,7 +1611,7 @@ _Article 68_
 
 _Article 69_
 
-Each   Contracting State shall take such legislative or other measures as may be necessary for making the provisions of this Convention effective in its territories.
+Each Contracting State shall take such legislative or other measures as may be necessary for making the provisions of this Convention effective in its territories.
 
 _Article 70_ 
 
@@ -1697,7 +1700,7 @@ of Assent</div>
     <div>9 Dec 1974</div>
   </td>
   <td>
-    <div>Ss. 1–3: Royal Assent 
+    <div>Ss. 1-4: Royal Assent 
 Remainder: 
 24 June 1975 ( <i>see Gazette</i>1975, No. G24, p. 2)</div>
   </td>
@@ -1716,8 +1719,8 @@ Remainder:
     <div>28 Mar 1979</div>
   </td>
   <td>
-    <div>Parts II–XVII 
-(ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+    <div>Parts II-XVII 
+(ss. 3-123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1770,7 +1773,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Parts 2 and 3 
-(ss. 3–8): 1 June 1991 ( <i>see</i>s. 2(2) and <i>Gazette</i>1991, No. S98) 
+(ss. 3-8): 1 June 1991 ( <i>see</i>s. 2(2) and <i>Gazette</i>1991, No. S98) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1793,23 +1796,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>62, 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 40–42): 27 May 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _International Arbitration Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
@@ -1820,7 +1806,20 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-## Table of Amendments
+## Table of Amendments 
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -1828,35 +1827,20 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Title</div>
   </td>
   <td>
     <div>rs. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1873,14 +1857,6 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
   </td>
   <td>
     <div>am. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1909,14 +1885,6 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Part II</div>
   </td>
   <td>
@@ -1929,14 +1897,6 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
   </td>
   <td>
     <div>am. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1965,18 +1925,10 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
+    <div>Ss. 9, 10</div>
   </td>
   <td>
     <div>am. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1989; No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1997,7 +1949,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div>Ss. 12–14</div>
+    <div>Ss. 12-14</div>
   </td>
   <td>
     <div>am. No. 25, 1989</div>
@@ -2005,15 +1957,8 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
+    <div>Part III 
+(ss. 15-30)</div>
   </td>
   <td>
     <div>ad. No. 25, 1989</div>
@@ -2021,15 +1966,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
+    <div>Ss. 15-30</div>
   </td>
   <td>
     <div>ad. No. 25, 1989</div>
@@ -2037,63 +1974,8 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16–21</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22–27</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28–30</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
+    <div>Part IV 
+(ss. 31-38)</div>
   </td>
   <td>
     <div>ad. No. 107, 1990</div>
@@ -2101,58 +1983,10 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
+    <div>Ss. 31-38</div>
   </td>
   <td>
     <div>ad. No. 107, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32–35</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33–38</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedules</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2187,8 +2021,6 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of
     <div>ad. No. 107, 1990</div>
   </td>
 </tr></table>
-
- 
 
  
 * * *
