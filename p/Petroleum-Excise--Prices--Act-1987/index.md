@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00606/Html/PetroleumExcisePrices1987_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00565/Html/PetroleumExcisePrices1987_image001.gif)
 
 # Petroleum Excise (Prices) Act 1987
 
 **Act No. 149 of 1987 as amended**
 
-This compilation was prepared on 26 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 27 October 2008
+ taking into account amendments up to Act No. 108 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  if that oil is obtained from an oil producing region that is located, in whole or in part, on the landward side of the outer limits of the territorial sea of Australia—is the holder of a lease or licence (however described) authorising the obtaining of that oil or a part of that oil, being a lease or licence that is issued under the appropriate law of a State or Territory in which, or in the territorial sea adjacent to which, that region, or a part of that region, is located; or
 
-                     (b)  if that oil is obtained from an oil producing region that is located, in whole or in part, beyond the outer limits of the territorial sea of Australia—is a petroleum production licensee within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                     (b)  if that oil is obtained from an oil producing region that is located, in whole or in part, beyond the outer limits of the territorial sea of Australia—is a production licensee within the meaning of the _Offshore Petroleum Act 2006_.
 
                     <a name="oil-produc-region"></a>**_oil producing region_** means:
 
@@ -642,24 +642,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 1 (items 13, 14) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 58): <i>(b) 
- </i>Schedule 3 (item 32): 22 Nov 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedule 1 (Item 731) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -667,110 +649,6 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(b)_ Subsection 2(1) (item 3) of the _Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008_  provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2008
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -832,7 +710,7 @@ _(b)_ Subsection 2(1) (item 3) of the _Offshore Petroleum Amendment (Greenhouse 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; Nos. 17 and 74, 2006; Nos. 108 and 117, 2008</div>
+    <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; Nos. 17 and 74, 2006; No. 108, 2008</div>
   </td>
 </tr>
 <tr>
