@@ -1,7 +1,7 @@
 
 Director of Public Prosecutions Act 1983 
 Act No. 113 of 1983 as amended
-This compilation was prepared on 1 January 2003 taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 21 October 2002 taking into account amendments up to Act No. 86 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
@@ -15,7 +15,7 @@ Contents
 4	Extension to external Territories	3
 5	Office of the Director of Public Prosecutions	3
 6	Functions of Director	3
-7	Consultation	10
+7	Consultation	9
 8	Directions and guidelines by Attorney‑General	10
 9	Powers of Director	11
 10	Powers and functions of Director do not affect those of certain other persons	17
@@ -23,11 +23,11 @@ Contents
 12	Provision of information to Director	19
 13	Director may request assistance of Commissioner of Police	19
 14	Director to inform court when taking over or carrying on proceedings	20
-15	Appearances by and on behalf of Director	20
-15A	Appearances on behalf of Director in summary or committal proceedings	21
+15	Appearances by and on behalf of Director	21
+15A	Appearances on behalf of Director in summary or committal proceedings	22
 16	Right of Director and staff to practise in their official capacity	22
 16A	Prohibition of publication of evidence etc. in certain proceedings	22
-17	States may give members of staff of Office prosecution and appeal functions relating to State offences	24
+17	States may give members of staff of Office prosecution and appeal functions relating to State offences	23
 18	Appointment, and terms and conditions of appointment, of Director	24
 18A	Appointment etc. of Associate Director	24
 18B	Exercise of powers and functions by Associate Director	25
@@ -36,21 +36,21 @@ Contents
 21	Resignation	26
 22	Director or Associate Director not to undertake other work	26
 23	Termination of appointment	26
-24	Disclosure of interests	28
+24	Disclosure of interests	27
 25	Oath or affirmation of office	28
 26	Acting appointments—Director	28
-26A	Acting appointments—Associate Director	30
+26A	Acting appointments—Associate Director	29
 27	Staff	30
-28	Engagement of consultants etc.	31
+28	Engagement of consultants etc.	30
 29	Staff on secondment to Director	31
 30	Administrative arrangements	31
-31	Delegation by Director	32
+31	Delegation by Director	31
 32	Arrangements with the Australian Government Solicitor	32
 33	Annual report	33
 33A	Service of process on the Director	33
-34	Regulations	34
-Schedule	35
-Notes	36
+34	Regulations	33
+Schedule	34
+Notes 		35
 An Act to establish an Office of the Director of Public Prosecutions and for related purposes
   
 1  Short title [see Note 1]
@@ -128,11 +128,7 @@ Territory does not include the Northern Territory.
 	(k)	to appear in proceedings under the Extradition Act 1988, the International War Crimes Tribunals Act 1995, the International Criminal Court Act 2002 or the Mutual Assistance in Criminal Matters Act 1987; and
 	(m)	where the Director, with the consent of the Attorney‑General, holds an appointment to prosecute offences against the laws of a State—to institute and carry on, in accordance with the terms of the appointment, prosecutions for such offences; and
 	(ma)	if the Director is authorised by or under a law of a State to institute and carry on appeals arising out of prosecutions of offences against the laws of the State, being prosecutions by the Director as mentioned in paragraph (m) or by members of the staff of the Office as mentioned in subsection 17(1)—to institute and carry on such appeals in accordance with requirements of or under that law; and
-	(mb)	for the purpose of enforcing orders under Chapter 2 of the Proceeds of Crime Act 2002:
-	(i)	to institute proceedings; or
-	(ii)	to carry on proceedings (whether or not instituted by the Director); or
-	(iii)	to co‑ordinate or supervise the institution or carrying on of proceedings;
-	(n)	to do anything incidental or conducive to the performance of any of the functions referred to in paragraphs (a) to (mb) and in subsection (2).
+	(n)	to do anything incidental or conducive to the performance of any of the functions referred to in paragraphs (a) to (ma) and in subsection (2).
 	(2)	In addition to his or her functions under subsection (1), the functions of the Director include:
 	(a)	functions that are conferred on the Director by or under any other law of the Commonwealth; and
 	(b)	such other functions as are prescribed.
@@ -234,7 +230,7 @@ specified proceedings means:
 	(aa)	proceedings (including inquiries) under the Crimes (Aviation) Act 1991;
 	(b)	proceedings in Australia under the Extradition Act 1988, the International War Crimes Tribunals Act 1995 or the Mutual Assistance in Criminal Matters Act 1987;
 	(c)	proceedings by way of a coronial inquest or inquiry conducted under the laws of the Commonwealth; or
-	(d)	proceedings under, connected with or arising out of the Proceeds of Crime Act 2002, the Proceeds of Crime Act 1987, Division 3 of Part XIII of the Customs Act 1901 or the forfeiture of goods under the Customs Act 1901.
+	(d)	proceedings under, connected with or arising out of the Proceeds of Crime Act 1987, Division 3 of Part XIII of the Customs Act 1901 or the forfeiture of goods under the Customs Act 1901.
 	(6B)	The Director may, if the Director considers it appropriate to do so, give to a person an undertaking that:
 	(a)	an answer that is given, or a statement or disclosure that is made, by the person in the course of giving evidence in State or Territory proceedings;
 	(b)	the fact that the person discloses or produces a document or other thing in State or Territory proceedings; or
@@ -363,15 +359,11 @@ whether or not he or she would, but for this section, be entitled to practise in
 16A  Prohibition of publication of evidence etc. in certain proceedings
 	(1)	Where the Director takes civil remedies, or co‑ordinates or supervises the taking of civil remedies, in respect of a matter, a court may, at any time during or after the taking of civil remedies in respect of the matter, make, in relation to a proceeding in the court that relates to the taking of civil remedies in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
 	(1A)	Where the Director institutes or carries on proceedings for the recovery of pecuniary penalties, or co‑ordinates or supervises the institution or carrying on of proceedings for the recovery of pecuniary penalties, in respect of a matter, a court may, at any time during or after the completion of proceedings for the recovery of pecuniary penalties in respect of the matter, make, in relation to a proceeding in the court that relates to the recovery of pecuniary penalties in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
-	(1AB)	If the Director applies to a court under section 25 of the Proceeds of Crime Act 2002 for a restraining order under that Act, the court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters:
-	(a)	that are referred to in subsection 17(3) or 18(3), paragraph 19(1)(e) or subsection 20(3) (whichever is applicable) of that Act; and
-	(b)	that were contained in an affidavit made in support of the application;
-if it appears to the Court to be necessary to make the order in order to prevent prejudice to the administration of justice.
 	(1B)	If the Director applies to the Supreme Court of a State or Territory:
 	(a)	under subsection 43(1) of the Proceeds of Crime Act 1987 for a restraining order under that Act; or
 	(b)	under subsection 57(3) of that Act for an extension of such a restraining order;
 the Court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters referred to in subsection 44(3), (5), (6), (7) or (7A) of that Act that were contained in an affidavit made in support of the application if it appears to the Court to be necessary to make the order in order to prevent prejudice to the administration of justice.
-	(2)	The power conferred by subsection (1), (1A), (1AB) or (1B) is in addition to, and shall not be taken to derogate from, any other power of a court.
+	(2)	The power conferred by subsection (1), (1A) or (1B) is in addition to, and shall not be taken to derogate from, any other power of a court.
 	(3)	In this section, proceeding means:
 	(a)	a proceeding in a court;
 	(b)	an incidental proceeding in the course of, or in connection with, a proceeding; or
@@ -693,7 +685,7 @@ Schedules 1‑7: 26 Sept 2002 (see s. 2(1) (item 2) and Gazette 2002, No. GN38)
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1-3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002 No. GN44)
+Schedule 6 (items 27–31): [see (o) and Note 2]
 —
 (a)	The Director of Public Prosecutions Act 1983 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1984, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
@@ -728,8 +720,22 @@ The Extradition Act 1988 came into operation on 1 December 1988 (see Gazette 198
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
 (n)	The Director of Public Prosecutions Act 1983 was amended by Schedule 5 only of the Jurisdiction of Courts Legislation Amendment Act 2000, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+(o)	The Director of Public Prosecutions Act 1983 was amended by Schedule 6 (items 27–31) only of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (item 5) of which provides as follows:
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+Commencement information
+Column 1
+Column 2
+Column 3
+Provision(s)
+Commencement
+Date/Details
+5.  Schedules 6 and 7
+At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
+TBP or 11 April 2003 [see Note 2]
+Table of Amendments
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3 	
@@ -737,11 +743,11 @@ am. No. 28, 1991; No. 196, 1992; No. 57, 2000
 S. 5 	
 am. No. 28, 1991
 S. 6 	
-am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988; No. 108, 1989; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000; No. 42, 2002; No. 86, 2002
+am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988; No. 108, 1989; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000; No. 42, 2002
 S. 8 	
 am. No. 43, 1996
 S. 9 	
-am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988 (as am. by No. 120, 1988); No. 120, 1988; No. 108, 1989; No. 28, 1991; No. 164, 1992; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000; No. 86, 2002
+am. No. 165, 1984; No. 64, 1985; No. 88, 1986; Nos. 86 and 141, 1987; No. 5, 1988 (as am. by No. 120, 1988); No. 120, 1988; No. 108, 1989; No. 28, 1991; No. 164, 1992; No. 182, 1994; No. 19, 1995; No. 43, 1996; No. 57, 2000
 S. 10 	
 am. No. 43, 1996
 S. 11 	
@@ -759,7 +765,7 @@ am. No. 43, 1996
 S. 16A 	
 ad. No. 64, 1985
 
-am. No. 88, 1986; No. 182, 1994; No. 86, 2002
+am. No. 88, 1986; No. 182, 1994
 Heading to s. 17	
 rs. No. 57, 2000
 S. 17	
@@ -802,6 +808,30 @@ S. 33
 am. No. 43, 1996
 S. 33A 	
 ad. No. 164, 1992
+
+Note 2
+Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
+The following amendments commence on 11 April 2003 unless proclaimed earlier:
+Schedule 6
+27  After paragraph 6(1)(ma)
+Insert:
+	(mb)	for the purpose of enforcing orders under Chapter 2 of the Proceeds of Crime Act 2002:
+	(i)	to institute proceedings; or
+	(ii)	to carry on proceedings (whether or not instituted by the Director); or
+	(iii)	to co‑ordinate or supervise the institution or carrying on of proceedings;
+28  Paragraph 6(1)(n)
+Omit “paragraphs (a) to (ma)”, substitute “paragraphs (a) to (mb)”.
+29  Subsection 9(6A) (paragraph (d) of the definition of specified proceedings)
+After “out of”, insert “the Proceeds of Crime Act 2002,”.
+30  After subsection 16A(1A)
+Insert:
+	(1AB)	If the Director applies to a court under section 25 of the Proceeds of Crime Act 2002 for a restraining order under that Act, the court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters:
+	(a)	that are referred to in subsection 17(3) or 18(3), paragraph 19(1)(e) or subsection 20(3) (whichever is applicable) of that Act; and
+	(b)	that were contained in an affidavit made in support of the application;
+if it appears to the Court to be necessary to make the order in order to prevent prejudice to the administration of justice.
+31  Subsection 16A(2)
+After “(1A)”, insert “, (1AB)”.
+As at 21 October 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving and transitional provisions
 Australian Federal Police Legislation Amendment Act 2000  (No. 9, 2000)
@@ -830,6 +860,7 @@ Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 1
 Schedule 1
 97  Application of amendments
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+
 Table B
 Affected by another Act
 CSL Sale Act 1993 (No. 88, 1993)
@@ -845,6 +876,7 @@ Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996
 		The DPP Act continues to apply on and after the transfer day to and in relation to:
 	(a)	acts or omissions in connection with the Corporation that occurred before that day; and
 	(b)	the taking of civil remedies connected with or arising out of a prosecution that relates to acts or omissions referred to in paragraph (a).
+
 Table C
 Modifications
 A.C.T. Self-Government (Consequential Provisions) Regulations
@@ -856,5 +888,4 @@ Subsection 3(1) (definition of “State”):
 After “includes” insert “the Australian Capital Territory and”.
 Subsection 3(1) (definition of “Territory”):
 After “include” insert “the Australian Capital Territory or.”
-
 
