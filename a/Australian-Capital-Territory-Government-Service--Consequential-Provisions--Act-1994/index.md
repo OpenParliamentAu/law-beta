@@ -1,2309 +1,308 @@
-**
+**<b>
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 
-**
+### <center><name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 Consolidated as at 26 October 1996 (#DATE 26:10:1996) </name></center>
+</b>** *1* The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 as shown in this reprint comprises Act No. 92, 1994 amended as indicated in the Tables below.<lf>                             Table of Acts<lf>     Act             Date            Date of         Application<lf>     Number and      of assent       commencement    saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     Australian Capital Territory Government Service (Consequential<lf>     Provisions) Act 1994<lf>     92, 1994        29 June 1994    1 July 1994 (see Gazette 1994<lf>                                     No. S256)<lf>     Employment Services (Consequential Amendments) Act 1994<lf>     177, 1994       19 Dec 1994     Ss. 1, 2 (1), (3) and Part 2 (ss.<lf>                                     3-8): 19 Dec 1994 (see s. 2 (1))<lf>                                     Ss. 2 (2) and 32-39: Royal Assent<lf>                                     Remainder: 1 Jan 1995 (see s. 2 (3)<lf>                                     and Gazette 1994, No. S472)<lf>                                                             -<lf>     Australian Capital Territory Government Service     (Consequential Provisions) Amendment Act 1996     46, 1996       25 Oct 1996      25 Oct 1996             -                             Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     S. 27                am. No. 46, 1996     Schedule 3           am. No. 177, 1994<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                       TABLE OF PROVISIONS<lf> Section<lf>                        PART 1 - PRELIMINARY<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Definitions<lf>             PART 2 - PROVISIONS RELATED TO THE ESTABLISHMENT OF<lf>             THE AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE<lf>     4\.    Effect of earlier staffing action<lf>     5\.    Certain persons cease to be members of the Australian<lf>           Public Service<lf>     6\.    Mobility - appointment to Australian Public Service<lf>     7\.    Mobility - transfer to Australian Public Service<lf>     8\.    Transfer of personnel files<lf>     9\.    Operation of Part IV of the Public Service Act in<lf>           relation to certain staff<lf>    10\.    Arrangements relating to staffing<lf>                 PART 3 - MOBILITY PROVISIONS AFFECTING THE<lf>                        PARLIAMENTARY DEPARTMENTS<lf>    11\.    Mobility between Parliamentary Departments and the<lf>           Australian Capital Territory Government Service<lf>           PART 4 - PROVISIONS AFFECTING THE A.C.T. SELF-GOVERNMENT<lf>                   (CONSEQUENTIAL PROVISIONS) ACT 1988<lf>    12\.    Principal Act<lf>    13\.    Staff from Australian Public Service<lf>    14\.    Repeal of Schedule 1<lf>    15\.    Repeal of certain modifications of the Public Service<lf>           Act 1922<lf>    16\.    Amendments of Schedule 5: Industrial Relations Act<lf>    17\.    Amendments of Schedule 5: Maternity Leave (Commonwealth<lf>           Employees) Act<lf>    18\.    Amendments of Schedule 5: Merit Protection (Australian<lf>           Government Employees) Act<lf>    19\.    Amendments of Schedule 5: Occupational Health and Safety<lf>           (Commonwealth Employment) Act<lf>    20\.    Amendments of Schedule 5: Remuneration Tribunal Act and<lf>           Safety, Rehabilitation and Compensation Act<lf>    21\.    Commencement of amended Schedule 5<lf>                         PART 5 - MISCELLANEOUS<lf>    22\.    Further amendments<lf>    23\.    Modifications of the Privacy Act 1988<lf>    24\.    Saving<lf>    25\.    Leave entitlements on appointment or transfer under<lf>           section 6 or 7<lf>    26\.    Transitional provision: Leave payments<lf>    27\.    Regulations<lf>                             SCHEDULE 1<lf>             NEW ITEMS FOR SCHEDULE 5 TO THE A.C.T. SELF-GOVERNMENT<lf>                    (CONSEQUENTIAL PROVISIONS) ACT 1988<lf>                             SCHEDULE 2<lf>                         FURTHER AMENDMENTS<lf>                             SCHEDULE 3<lf>                MODIFICATIONS OF THE PRIVACY ACT 1988<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-###  Compilation Information 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>       An Act to make provision consequential on the establishment<lf>       of the Australian Capital Territory Government Service, and<lf>                        for related purposes<lf> </lf></lf></lf></sect>
+**<b>
 
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - PART 1  PART 1 - PRELIMINARY </name>
+</b>** 
+**<b>
 
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Australian Capital Territory Government Service (Consequential Provisions) Act 1994.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 2 Commencement </name>
+</b>** 
 
-###  Long Title 
-**
-**
+## SECT
+<sect>   2.*1* (1) This Act commences on a day to be fixed by Proclamation. 
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<part>Part 1&#151;Preliminary </part>
-**
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+<lf>   (2) If this Act does not commence under subsection (1) within 18 months after the day on which it receives the Royal Assent, this Act is repealed on the first day after the end of that period. SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </lf>
+</sect>
+**<b>
 
-		This Act may be cited as the _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_.
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 3 Definitions </name>
+</b>** 
 
- </dl>
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 2  Commencement [_see_ Note 1] 
-<dl compact="">
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears:<lf>   "ACT Branch" means the branch of the Australian Public Service referred to in subsection 21 (2) of the A.C.T. Self-Government (Consequential Provisions) Act 1988;<lf>   "ACT officer" means a person who is an officer within the meaning of the Public Sector Management Act 1994 of the Australian Capital Territory;<lf>   "Public Service Act" means the Public Service Act 1922;<lf>   "transfer day" means the day on which this Act commences;<lf>   "unattached officer" has the same meaning as in section 33C of the Public Service Act. 
 
-<dt>(1)</dt><dd>This Act commences on a day to be fixed by Proclamation.</dd> <dt>(2)</dt><dd>If this Act does not commence under subsection (1) within 18&#160;months after the day on which it receives the Royal Assent, this Act is repealed on the first day after the end of that period. </dd> </dl>
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 3  Definitions 
-<dl compact="">
+<lf>   (2) An expression used in the Public Service Act, when used in this Act, has the same meaning as in the Public Service Act. </lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - PART 2  PART 2 - PROVISIONS RELATED TO THE ESTABLISHMENT OF  THE AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE </name>
+</b>** 
+**<b>
 
-</dd> </dl>
-<dl compact=""><dl compact="">
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 4 Effect of earlier staffing action </name>
+</b>** 
 
-_ACT Branch_ means the branch of the Australian Public Service
+## SECT
+<sect>   4\. (1) In this section, "1989 direction" means the direction given by the Public Service Commissioner on 9 June 1989 under subsection 33C (2) of the Public Service Act and relating to the inclusion of certain unattached officers in the ACT Branch. 
 
-referred to in subsection 21(2) of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_. _ACT officer_ means a person who is an officer within the meaning of the _Public Sector Management Act 1994_ of the Australian Capital Territory. _Public Service Act_ means the _Public Service Act 1922_. _transfer day_ means the day on which this Act commences.  </dl></dl>
+<lf>   (2) The 1989 direction is to be taken to have had the effect of including in the ACT Branch the unattached officers to whom the direction was expressed to apply and to have so included those officers on 9 June 1989\. <p><lf>   (3) A person to whom this subsection applies is to be taken to have been, on 9 June 1989, included in the ACT Branch. <p><lf>   (4) Subsection (3) applies to a person if:<lf>   (a) the person was, on 9 June 1989, an unattached officer; and<lf>   (b) the last office held by the person before that date was an office the duties of which related, wholly or substantially, to matters that, as at 9 June 1989, were dealt with by the ACT Branch. </lf></lf></lf></p></lf></p></lf>
+</sect>
+**<b>
 
-<dl compact=""><dl compact="">
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 5 Certain persons cease to be members of the Australian Public Service </name>
+</b>** 
 
-<dt>(2)</dt><dd>An expression used in the Public Service Act, when used in this Act, has
+## SECT
+<sect>   5\. (1) On the transfer day, an officer of the Australian Public Service to whom this subsection applies ceases, by force of this section, to be an officer of the Australian Public Service. 
 
-the same meaning as in the Public Service Act.
+<lf>   (2) Subsection (1) applies to the following officers:<lf>   (a) an officer who holds an office included in the ACT Branch, whether or not the officer was performing the duties of that office immediately before the transfer day;<lf>   (b) an officer to whom Division 2 of Part IV of the Public Service Act applies and who is included in the ACT Branch;<lf>   (c) an officer to whom the repealed Officers' Rights Declaration Act 1928 applies by virtue of section 87TA of the Public Service Act and who is included in the ACT Branch;<lf>   (d) an unattached officer, other than an officer referred to in paragraph (b) or (c), who is included in the ACT Branch. <p><lf>   (3) On the transfer day:<lf>   (a) a person employed under Division 10 of Part III of the Public Service Act to perform duties in the ACT Branch ceases, by force of this subsection, to be so employed; and<lf>   (b) a person otherwise employed by the Commonwealth to perform duties in the ACT Branch ceases, by force of this subsection, to be so employed. <p><lf>   (4) Subsection (3) applies to a person whether or not the person was actually performing duties in the ACT Branch immediately before the transfer day. </lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-</dd> </dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 6 Mobility - appointment to Australian Public Service </name>
+</b>** 
 
-<center>**
+## SECT
+<sect>   6\. (1) If, under section 50, 50DA or 50DB of the Public Service Act, notification of a vacancy in an office in a Department is given in the Gazette, an ACT officer may apply for appointment to the office. 
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<part>Part 2&#151;Provisions related to the establishment of the Australian Capital Territory Government Service </part>
-**</center>
+<lf>   (2) If:<lf>   (a) an ACT officer applies, under subsection (1), for appointment to an office in a Department; and<lf>   (b) the Secretary of the Department is satisfied that the ACT officer should be appointed to the office;<lf> the Public Service Commissioner may appoint the ACT officer to the office under section 42 of the Public Service Act. <p><lf>   (3) In order to avoid doubt, it is declared that:<lf>   (a) except so far as subsections (4) and (5) provide otherwise, an appointment made by virtue of subsection (2) must be made in accordance with Part III of the Public Service Act; and<lf>   (b) nothing in subsection (2) prevents the application of section 18 of the Public Service Act to the power exercisable by the Commissioner by virtue of subsection (2). <p><lf>   (4) In spite of section 47 of the Public Service Act, the appointment of an ACT officer to an office in the Australian Public Service must not be an appointment on probation if the ACT officer's appointment to the Australian Capital Territory Government Service:<lf>   (a) was an appointment without probation; or<lf>   (b) was an appointment on probation and has been confirmed. <p><lf>   (5) In spite of section 47 of the Public Service Act, the appointment of an ACT officer to an office in the Australian Public Service must not be an appointment on probation if:<lf>   (a) the officer had been appointed to the Australian Public Service before the transfer day; and<lf>   (b) the appointment was confirmed before the transfer day; and<lf>   (c) the officer ceased to be an officer of the Australian Public Service by the operation of section 5\. <p><lf>   (6) If, immediately before the appointment of an ACT officer to the Australian Public Service takes effect:<lf>   (a) the appointee is an ACT officer by virtue of an appointment on probation; and<lf>   (b) that appointment has not been confirmed; and<lf>   (c) the appointment of the ACT officer to the Australian Public Service is an appointment on probation;<lf> section 47 of the Public Service Act has effect as if the period of probation for the purposes of the appointment to the Australian Public Service had commenced when the period of probation as an ACT officer commenced. <p><lf>   (7) If the Public Service Commissioner appoints an ACT officer to an office in a Department the following provisions have effect:<lf>   (a) the provisions of Subdivision D of Division 4 of Part III of the Public Service Act and the provisions of the Merit Protection (Australian Government Employees) Act 1984 apply to the appointment as if:<lf>     (i) the appointment were a promotion (in this subsection<lf> referred to as the "deemed promotion") of the ACT officer to the office made by the Secretary of the Department:<lf>       (A) in the case of an appointment in accordance with the<lf> advice of a Joint Selection Committee constituted under section 50DA of the Public Service Act - under that section; or<lf>       (B) in the case of an appointment in accordance with the<lf> unanimous advice of a Joint Selection Committee constituted under section 50DB of the Public Service Act - under section 50DA of that Act; or<lf>       (C) in any other case - under section 50 of the Public<lf> Service Act; and<lf>     (ii) the ACT officer were an officer within the meaning of the<lf> Public Service Act;<lf>   (b) the deemed promotion takes effect according to the following rules:<lf>     (i) if:<lf>       (A) the deemed promotion is a non-appellable promotion; and<lf>       (B) an application for review of the deemed promotion is made<lf> under subsection 50DAA (1) of the Public Service Act; and<lf>       (C) the Merit Protection and Review Agency makes a decision<lf> under subsection 50DAA (3) of the Public Service Act affirming the promotion;<lf> the deemed promotion takes effect on the day after the day on which the Merit Protection and Review Agency makes its decision;<lf>     (ii) if:<lf>       (A) the deemed promotion is a non-appellable promotion; and<lf>       (B) an application for review of the deemed promotion is made<lf> under subsection 50DAA (1) of the Public Service Act; and<lf>       (C) the Merit Protection and Review Agency makes a<lf> recommendation under subsection 50DAA (4) of the Public Service Act that the promotion be cancelled; and<lf>       (D) the Secretary of the Department decides, under subsection<lf> 50DAA(6) of the Public Service Act, not to cancel the deemed promotion;<lf> the deemed promotion takes effect on the day after the day on which the Secretary makes his or her decision;<lf>     (iii) in any other case, the deemed promotion takes effect in<lf> accordance with section 50E of the Public Service Act;<lf>   (c) subject to paragraph (d), the appointment takes effect on the day on which the appointee resigns from the Australian Capital Territory Government Service, being a day not earlier than the day on which the deemed promotion takes effect;<lf>   (d) the appointment does not take effect if, when the deemed promotion takes effect, the appointee has already ceased to be a member of the Australian Capital Territory Government Service;<lf>   (e) if the appointee does not begin to perform the duties of the office within a reasonable time after the appointment takes effect, the Public Service Commissioner may cancel the appointment. <p><lf>   (8) If:<lf>   (a) before the transfer day, notification of a vacancy in an office was given under section 50, 50DA or 50DB of the Public Service Act; and<lf>   (b) on the transfer day a person who, as an officer, had applied for promotion or transfer to the vacant office ceased, by the operation of section 5, to be an officer;<lf> this section has effect as if:<lf>   (c) the person had applied under this section for appointment to the office; and<lf>   (d) when the person so applied, he or she had been an ACT officer. </lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf>
+</sect>
+**<b>
 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 7 Mobility - transfer to Australian Public Service </name>
+</b>** 
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 4  Effect of earlier staffing action 
-**
+## SECT
+<sect>   7\. (1) In this section:<lf>   "eligible ACT officer" means a person who:<lf>   (a) is an ACT officer; and<lf>   (b) ceased to be an officer of the Australian Public Service by the operation of section 5; and<lf>   (c) immediately before he or she so ceased to be an officer of the Australian Public Service, held an office in that Service other than a Senior Executive Service office;<lf>   "vacant office" includes an office that is expected to become vacant. 
 
- <dl compact=""><dl compact="">
+<lf>   (2) For the purposes only of subsection (3), a person who is an eligible ACT officer is taken to hold an office as follows:<lf>   (a) if the person was an unattached officer immediately before he or she ceased to be an officer of the Australian Public Service by virtue of section 5, the person is taken to hold an office having a classification the same as his or her classification as an unattached officer;<lf>   (b) in any other case, the person is taken to hold an office having a classification the same as the classification of the office held by him or her immediately before he or she ceased, by the operation of section 5, to be an officer of the Australian Public Service. <p><lf>   (3) If an office in a Department is vacant, an eligible ACT officer who is taken to hold an office the classification of which is the same as, or higher than, the classification of the vacant office may apply for transfer to the vacant office. <p><lf>   (4) Subject to this section, in the case of an ACT officer who has applied under subsection (3), sections 33 (except subsection (1)), 33A, 47, 50, 50E and 50G of the Public Service Act, to the extent that they relate to transfers under section 50 of that Act, apply as if the ACT officer were an officer of the Australian Public Service. <p><lf>   (5) If, as a result of an application under subsection (3), a person ("the transferee") has been transferred to a vacant office, the following provisions have effect:<lf>   (a) if the office is vacant when the transfer takes effect, the transferee is taken to be appointed to the office in accordance with the Public Service Act on the day on which the transfer takes effect;<lf>   (b) if the office is occupied by an officer on the day on which, apart from this paragraph, the transfer would take effect, the transfer does not take effect and the transferee is taken to be appointed, on that day, to the Australian Public Service as an unattached officer;<lf>   (c) the transferee is taken to be appointed without probation if the transferee's appointment to the Australian Capital Territory Government Service:<lf>     (i) was an appointment without probation; or<lf>     (ii) was an appointment on probation and has been confirmed;<lf>   (d) if paragraph (c) does not apply, the transferee is taken to be appointed on probation. <p><lf>   (6) If a person is taken, by virtue of subsection (5), to be appointed on probation, section 47 of the Public Service Act has effect as follows:<lf>   (a) any period of probation served by the person as an ACT officer is taken to have been part of the period of probation for the purposes of section 47;<lf>   (b) if, immediately before the person ceased to be an officer of the Australian Public Service by the operation of section 5, he or she was an officer under an appointment on probation and the appointment had not been confirmed, the period of probation served by the person in relation to that appointment ("the previous Commonwealth probation period") is taken to be part of the period of probation for the purposes of section 47;<lf>   (c) the period of probation for the purposes of section 47 is taken to have commenced:<lf>     (i) at the beginning of any period of probation as an ACT<lf> officer; or<lf>     (ii) if paragraph (b) applies, at the beginning of the previous<lf> Commonwealth probation period. <p><lf>   (7) A transfer made on an application under subsection (3) is not subject to the approval of any person other than the Secretary who makes the transfer. <p><lf>   (8) Subject to subsections (5), (9) and (10), a transfer made on an application under subsection (3) takes effect according to section 50E of the Public Service Act. <p><lf>   (9) If, apart from this subsection, a transfer made on an application under subsection (3) would take effect after the end of the period of 2 years commencing on the transfer day, the transfer takes effect on the last day of that period. <p><lf>   (10) A transfer made on an application under subsection (3) does not take effect unless the transferee has resigned from the Australian Capital Territory Government Service so that he or she ceases to be an ACT officer immediately before the time at which the transfer is to take effect. <p><lf>   (11) If a person who has been transferred on an application under subsection (3) does not begin to perform duties as an officer within a reasonable time after the transfer takes effect:<lf>   (a) the Secretary who made the transfer may cancel it; and<lf>   (b) if the Secretary cancels the transfer, subsection (5) ceases to apply to the person. <p><lf>   (12) A transfer of an ACT officer who has applied under subsection (3) cannot be made after the end of the period of 2 years commencing on the transfer day. </lf></p></lf></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></p></lf></p></lf></lf></lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
 
-<dt>(1)</dt><dd>In this section, _1989 direction_ means the direction given by
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 8 Transfer of personnel files </name>
+</b>** 
 
-the Public Service Commissioner on 9 June 1989 under subsection&#160;33C(2) of
+## SECT
+<sect>   8\. (1) This section applies where:<lf>   (a) a person ceases to be an officer of the Australian Public Service and becomes an ACT officer; or<lf>   (b) a person ceases to be an ACT officer and becomes an officer of the Australian Public Service. 
 
-the Public Service Act and relating to the inclusion of certain unattached
+<lf>   (2) In a case referred to in paragraph (1) (a), the relevant Secretary may deliver to the appropriate authority of the Australian Capital Territory all records kept by the Secretary in relation to the person and reasonably necessary to be so delivered in connection with the employment of the person as an ACT officer. <p><lf>   (3) In a case referred to in paragraph (1) (b), records kept, in relation to the person, for the purposes of the Australian Capital Territory Government Service may be delivered to the relevant Secretary if it is reasonably necessary for the records to be so delivered in connection with the employment of the person as an officer of the Australian Public Service. <p><lf>   (4) Personal information contained in records delivered to an authority under subsection (2) may be used as if the information had been collected by the authority for the purposes of the Australian Capital Territory Government Service. <p><lf>   (5) Personal information contained in records delivered to a Secretary under subsection (3) may be used as if the information had been collected by the Secretary for the purposes of the Australian Public Service. </lf></p></lf></p></lf></p></lf>
+</lf></lf></sect>
+**<b>
 
-officers in the ACT Branch.</dd> <dt>(2)</dt><dd>The 1989 direction is to be taken to have had the effect of including in the ACT Branch the unattached officers to whom the direction was expressed to apply and to have so included those officers on 9 June 1989.</dd> <dt>(3)</dt><dd>A person to whom this subsection applies is to be taken to have been, on 9 June 1989, included in the ACT Branch.</dd> <dt>(4)</dt><dd>Subsection (3) applies to a person if: </dd> </dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 9 Operation of Part IV of the Public Service Act in relation to certain staff </name>
+</b>** 
 
-<dl compact=""><dl compact=""><dl compact="">
+## SECT
+<sect>   9\. (1) If, but for this subsection, an officer to whom subsection 5(1) applies would have been, on the transfer day, an officer to whom a provision of Part IV of the Public Service Act applied:<lf>   (a) Part IV of that Act ceases, on the transfer day, to have any application to the officer; and<lf>   (b) in the case of an officer to whom a provision of Division 4 of Part IV of that Act would have applied, the repealed Officers' Rights Declaration Act 1928 ceases, on the transfer day, to have any application to the officer. 
 
-<dt>(a)</dt><dd>the person was, on 9 June 1989, an unattached officer; and</dd>
+<lf>   (2) If:<lf>   (a) but for this subsection, Division 3 of Part IV of the Public Service Act would have applied to a person on the transfer day; and<lf>   (b) the Department in which the person last held an office before that day was the ACT Branch;<lf> the person ceases, on the transfer day, to be a person to whom Division 3 of Part IV of the Public Service Act applies. <p><lf>   (3) If:<lf>   (a) but for this subsection, Division 3 of Part IV of the Public Service Act would have applied to a person on the transfer day; and<lf>   (b) the last office held by that person before that day was an office the duties of which related, wholly or substantially, to matters that, as at the transfer day, were dealt with by the ACT Branch;<lf> the person ceases, on the transfer day, to be a person to whom Division 3 of Part IV of the Public Service Act applies. <p><lf>   (4) To the extent that they prescribe Calvary Hospital A.C.T. Incorporated for the purposes of paragraph (d) of the definition of "public authority" in subsection 87 (1) of the Public Service Act, regulations under that Act cease to have effect on the transfer day. </lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf>
+</lf></lf></sect>
+**<b>
 
-<dt>(b)</dt><dd>the last office held by the person before that date was an office the
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 10 Arrangements relating to staffing </name>
+</b>** 
 
-duties of which related, wholly or substantially, to matters that, as at 9 June
+## SECT
+<sect>   10\. The Secretary of a Department of the Australian Public Service may arrange with an appropriate authority of the Australian Capital Territory:<lf>   (a) for the services of officers or employees in the Department to be made available to the authority; or<lf>   (b) for the services of officers or employees of the Australian Capital Territory Government Service to be made available to the Secretary. </lf></lf></sect>
+**<b>
 
-1989, were dealt with by the ACT Branch.
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - PART 3  PART 3 - MOBILITY PROVISIONS AFFECTING THE  PARLIAMENTARY DEPARTMENTS </name>
+</b>** 
+**<b>
 
-</dd>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 11 Mobility between Parliamentary Departments and the Australian Capital Territory Government Service </name>
+</b>** 
 
-</dl></dl></dl>
+## SECT
+<sect>   11\. (1) Subject to subsection (2), sections 6 and 7 apply, so far as they are capable of application, as if:<lf>   (a) paragraph 6 (3) (b) and paragraphs 6 (7) (a), (b) and (d) were omitted; and<lf>   (b) a reference to section 42 of the Public Service Act included a reference to section 9 of the Public Service Act; and<lf>   (c) a reference to notification of a vacancy in the Gazette under section 50, 50DA, or 50DB of the Public Service Act included a reference to notification of a vacancy in the Gazette for the purposes of the exercise of any powers under section 9 of the Public Service Act; and<lf>   (d) a reference to a Department included a reference to a Department referred to in subsection 9 (2) of the Public Service Act; and<lf>   (e) a reference to an office in the Australian Public Service included a reference to an office in a Department referred to in subsection 9 (2) of the Public Service Act; and<lf>   (f) a reference to the Public Service Commissioner included a reference to the President of the Senate or the Speaker of the House of Representatives or the President and the Speaker, as the case may be; and<lf>   (g) all words after "Service" were omitted from paragraph 6 (7) (c). 
 
-<center>Back to Top</center>
+<lf>   (2) Subsection (1) applies to paragraph 6 (3) (a) to the extent to which, on the date of commencement of this Act, Part III of the Public Service Act applies to a Department referred to in subsection 9 (2) of the Public Service Act. </lf>
+</lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - PART 4  PART 4 - PROVISIONS AFFECTING THE A.C.T. SELF-GOVERNMENT  (CONSEQUENTIAL PROVISIONS) ACT 1988 </name>
+</b>** 
+**<b>
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 5  Certain persons cease to be members of the Australian Public Service 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 12 Principal Act </name>
+</b>** 
 
-<dl compact=""><dl compact="">
+## SECT
+<sect>   12\. In this Part, "Principal Act" means the A.C.T. Self-Government (Consequential Provisions) Act 1988\. </sect>
+**<b>
 
-<dt>(1)</dt><dd>On the transfer day, an officer of the Australian Public Service to whom
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 13 Staff from Australian Public Service </name>
+</b>** 
 
-this subsection applies ceases, by force of this section, to be an officer of
+## SECT
+<sect>   13\. Section 21 of the Principal Act is amended by omitting subsection (5). </sect>
+**<b>
 
-the Australian Public Service.</dd> <dt>(2)</dt><dd>Subsection (1) applies to the following officers: </dd> </dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 14 Repeal of Schedule 1 </name>
+</b>** 
 
-<dl compact=""><dl compact=""><dl compact="">
+## SECT
+<sect>   14\. Schedule 1 to the Principal Act is repealed. </sect>
+**<b>
 
-<dt>(a)</dt><dd>an officer who holds an office included in the ACT Branch, whether or not
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 15 Repeal of certain modifications of the Public Service Act 1922 </name>
+</b>** 
 
-the officer was performing the duties of that office immediately before the
+## SECT
+<sect>   15\. (1) Regulations in force under section 31 of the Principal Act immediately before the transfer day, to the extent that they have the effect of:<lf>   (a) modifying section 7, 22B, 22C, 87 or 87J of the Public Service Act 1922; or<lf>   (b) modifying the Public Service Act 1922 by inserting Part IVA;<lf> cease to have effect on the transfer day. 
 
-transfer day;</dd>
+<lf>   (2) Section 8 of the Acts Interpretation Act 1901, in its application by virtue of section 46 of that Act, has effect in relation to regulations to which subsection (1) applies as if, to the extent that they cease to have effect on the transfer day, the regulations had been repealed on that day by regulations. </lf>
+</lf></lf></lf></sect>
+**<b>
 
-<dt>(b)</dt><dd>an officer to whom Division 2 of Part IV of the Public Service Act applies
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 16 Amendments of Schedule 5: Industrial Relations Act </name>
+</b>** 
 
-and who is included in the ACT Branch;</dd>
+## SECT
+<sect>   16\. Schedule 5 to the Principal Act is amended:<lf>   (a) by omitting the items relating to subsection 4 (1) of the Industrial Relations Act 1988 and substituting the items set out in Part 1 of Schedule 1;<lf>   (b) by adding at the end of the items relating to the Industrial Relations Act 1988 the items set out in Part 2 of Schedule 1\. </lf></lf></sect>
+**<b>
 
-<dt>(c)</dt><dd>an officer to whom the repealed _Officers&apos; Rights Declaration Act 1928_ applies by virtue of section 87TA of the Public Service Act and who is
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 17 Amendments of Schedule 5: Maternity Leave (Commonwealth Employees) Act </name>
+</b>** 
 
-included in the ACT Branch;</dd>
+## SECT
+<sect>   17\. (1) In this section, "Maternity Leave Act" means the Maternity Leave (Commonwealth Employees) Act 1973\. 
 
-<dt>(d)</dt><dd>an unattached officer, other than an officer referred to in paragraph (b)
+<lf>   (2) Schedule 5 to the Principal Act is amended:<lf>   (a) by inserting "of"in the item relating to paragraph 5 (1) (b) of the Maternity Leave Act after "law";<lf>   (b) by inserting "of" in the item relating to paragraph 5 (2) (b) of the Maternity Leave Act after "law";<lf>   (c) by omitting the item inserting paragraph 5 (3) (aa) in the Maternity Leave Act and substituting the following item:<lf>   "After paragraph 5 (3) (a):<lf> Insert the following paragraph:<lf>   '(aa) a person who holds an office defined by section 73 of the Australian Capital Territory (Self-Government) Act 1988 or an office established by or under an enactment as defined by section 3 of that Act;'.". </lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-or (c), who is included in the ACT Branch.
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 18 Amendments of Schedule 5: Merit Protection (Australian Government Employees) Act </name>
+</b>** 
 
-</dd>
+## SECT
+<sect>   18\. Schedule 5 to the Principal Act is amended:<lf>   (a) by omitting the item that inserts definitions of "ACT enactment", "Self-Government Act" and "Territory authority" in subsection 3 (1) of the Merit Protection (Australian Government Employees) Act 1984 and substituting the item set out in Part 3 of Schedule 1;<lf>   (b) by omitting the item that inserts section 6A in the Merit Protection (Australian Government Employees) Act 1984\. </lf></lf></sect>
+**<b>
 
-</dl></dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 19 Amendments of Schedule 5: Occupational Health and Safety (Commonwealth Employment) Act </name>
+</b>** 
 
-<dl compact=""><dl compact="">
+## SECT
+<sect>   19\. Schedule 5 to the Principal Act is amended by inserting after the items relating to the Merit Protection (Australian Government Employees) Act 1984 the heading and items set out in Part 4 of Schedule 1\. </sect>
+**<b>
 
-<dt>(3)</dt><dd>On the transfer day:
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 20 Amendments of Schedule 5: Remuneration Tribunal Act and Safety, Rehabilitation and Compensation Act </name>
+</b>** 
 
-</dd> </dl></dl>
+## SECT
+<sect>   20\. (1) Schedule 5 to the Principal Act is amended by omitting the items relating to subsection 4 (1), subparagraph 5 (2) (c) (ii) and subsection 5 (8) of the Commonwealth Employees' Rehabilitation and Compensation Act 1988 and the heading immediately before those items referring to that Act. 
 
-<dl compact=""><dl compact=""><dl compact="">
+<lf>   (2) Schedule 5 to the Principal Act is amended by omitting the heading "Remuneration Tribunals Act 1973" and the item relating to subsection 3 (3) of that Act and substituting the headings and items set out in Part 5 of Schedule 1\. </lf>
+</sect>
+**<b>
 
-<dt>(a)</dt><dd>a person employed under Division 10 of Part III of the Public Service Act
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 21 Commencement of amended Schedule 5 </name>
+</b>** 
 
-to perform duties in the ACT Branch ceases, by force of this subsection, to be
+## SECT
+<sect>   21\. (1) Items in Schedule 5 to the Principal Act, as amended by this Act, that have not commenced under section 2 of the Principal Act commence immediately after the commencement of this Act. 
 
-so employed; and</dd>
+<lf>   (2) This section has effect in spite of subsection 2 (3) of the Principal Act. </lf>
+</sect>
+**<b>
 
-<dt>(b)</dt><dd>a person otherwise employed by the Commonwealth to perform duties in the
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - PART 5  PART 5 - MISCELLANEOUS </name>
+</b>** 
+**<b>
 
-ACT Branch ceases, by force of this subsection, to be so employed.
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 22 Further amendments </name>
+</b>** 
 
-</dd>
+## SECT
+<sect>   22\. The Acts specified in Schedule 2 are amended as set out in that Schedule. </sect>
+**<b>
 
-</dl></dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 23 Modifications of the Privacy Act 1988 </name>
+</b>** 
 
-<dl compact=""><dl compact="">
+## SECT
+<sect>   23\. (1) Until a day fixed by or under an ACT enactment for the purposes of this subsection, the Privacy Act 1988, as amended by this Act, has effect as if it had been further amended as set out in Schedule 3\. 
 
-<dt>(4)</dt><dd>Subsection (3) applies to a person whether or not the person was actually
+<lf>   (2) On and after the day fixed for the purposes of subsection (1), section 8 of the Acts Interpretation Act 1901 has effect as if subsection (1) and Schedule 3 had been repealed on that day by an Act. <p><lf>   (3) In this section, "ACT enactment" has the same meaning as "enactment" has in the Australian Capital Territory (Self-Government) Act 1988\. </lf></p></lf>
+</sect>
+**<b>
 
-performing duties in the ACT Branch immediately before the transfer day.
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 24 Saving </name>
+</b>** 
 
-</dd> </dl></dl>
+## SECT
+<sect>   24\. (1) If, immediately before the transfer day:<lf>   (a) a provision of Part IV of the Public Service Act applied to a person; and<lf>   (b) the person holds an office or appointment, other than an office of Minister within the meaning of the Australian Capital Territory (Self-Government) Act 1988, the holder of which is appointed by the Executive, or by a Minister, within the meaning of that Act;<lf> the provision of Part IV of the Public Service Act continues to apply to the person, in spite of the operation of section 15 of this Act, while the person continues to hold the office or appointment referred to in paragraph (b). 
 
-**
+<lf>   (2) If:<lf>   (a) but for this subsection, as a result of amendments of the Public Service Act made by section 22 and Schedule 2, a person would cease to be a person to whom a provision of Part IV of the Public Service Act applied; and<lf>   (b) the person is not a person to whom section 9 of this Act applies;<lf> the provision of Part IV of the Public Service Act continues to apply to the person as if section 22 and Schedule 2 had not been enacted. <p><lf>   (3) If:<lf>   (a) immediately before the transfer day, a provision of Part IV of the Public Service Act applied to a person because the person was engaged in employment referred to in paragraph 87 (2) (ka) or (kb) of that Act as modified by regulations made under section 31 of the A.C.T. Self-Government (Consequential Provisions) Act 1988; and<lf>   (b) the Department in which the person last held an office was a Department other than the ACT Branch;<lf> the provision of Part IV of the Public Service Act continues to apply to the person, in spite of the operation of section 15 of this Act, while the person continues to be engaged in employment referred to in paragraph (a). <p><lf>   (4) If:<lf>   (a) immediately before the transfer day:<lf>     (i) a person was employed by Calvary Hospital A.C.T.<lf> Incorporated ("Calvary Hospital"); and<lf>     (ii) a provision of Part IV of the Public Service Act applied<lf> to the person; and<lf>     (iii) the provision applied to the person because Calvary<lf> Hospital was a public authority within the meaning of Part IV of the Public Service Act;  and<lf>   (b) the last office held by the person before he or she became an employee of Calvary Hospital was not an office the duties of which related, wholly or substantially, to matters that, as at the transfer day, were dealt with by the ACT Branch;<lf> the provision referred to in subparagraph (a) (ii) continues to apply to the person, while he or she remains an employee of Calvary Hospital, as if Calvary Hospital were still a public authority within the meaning of Part IV of the Public Service Act. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf>
+</lf></lf></lf></sect>
+**<b>
 
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 8  Transfer of personnel files 
-**
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 25 Leave entitlements on appointment or transfer under section 6 or 7 </name>
+</b>** 
 
- <dl compact=""><dl compact="">
+## SECT
+<sect>   25\. (1) This section applies to:<lf>   (a) a person who is appointed under section 6 to an office in a Department; and<lf>   (b) a person who, by virtue of subsection 7 (5), is taken to be appointed to an office in a Department or as an unattached officer. 
 
-<dt>(1)</dt><dd>This section applies where before the commencement of the _Public Service Act 1999_:
+<lf>   (2) This section has effect as if a person referred to in paragraph (1) (b) had been appointed on the day on which, by virtue of subsection 7 (5), he or she is to be taken to have been so appointed. <p><lf>   (3) If, immediately before a person to whom this section applies ceases to be an ACT officer, the person has an entitlement, as such an officer, to leave of absence for recreation, the person retains that entitlement, on appointment to an office or as an unattached officer, as if the entitlement had accrued under the Public Service Act. <p><lf>   (4) The Public Service Act has effect, in relation to the accrual, on and after the appointment of a person to an office or as an unattached officer, of the person's entitlement to leave of absence for recreation in relation to a period since the person last gained an entitlement, as an ACT officer, to leave of absence for recreation as if service by the person as an ACT officer during that period had been service as an officer of the Australian Public Service. <p><lf>   (5) If, immediately before the appointment of a person to an office or as an unattached officer, the person has an entitlement, as an ACT officer, to be paid a recreation leave loading, the person retains the entitlement as if the entitlement had accrued under clause 6 of the Australian Government Employment (Recreation Leave - Additional Payment) Award 1986, but the entitlement is subject to the provisions of that award as if it had arisen under that award. <p><lf>   (6) The reference in subsection (5) to a recreation leave loading is a reference to a payment that corresponds, or substantially corresponds, to a payment under clause 6 of the Australian Government Employment (Recreation Leave - Additional Payment) Award 1986\. </lf></p></lf></p></lf></p></lf></p></lf>
+</lf></lf></sect>
+**<b>
 
-</dd> </dl></dl>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 26 Transitional provision: Leave payments </name>
+</b>** 
 
-<dl compact=""><dl compact=""><dl compact="">
+## SECT
+<sect>   26\. (1) If, but for this section:<lf>   (a) an amount would become due to a person:<lf>     (i) under the Public Service Act, or under regulations or a<lf> determination made under that Act, in lieu of leave of absence for recreation or in any other way in relation to any entitlement of the person to such leave of absence; or<lf>     (ii) under the Long Service Leave (Commonwealth Employees) Act<lf> 1976; and<lf>   (b) the amount would become due solely because of the operation of section 5 of this Act in relation to the person;<lf> the amount does not become due. 
 
-<dt>(a)</dt><dd>a person ceases to be an officer of the Australian Public Service and
+<lf>   (2) If, but for this section:<lf>   (a) an amount would become due to a person:<lf>     (i) under the Public Service Act, or under regulations or a<lf> determination made under that Act, in lieu of leave of absence for recreation or in any other way in relation to any entitlement of the person to such leave of absence; or<lf>     (ii) under the Long Service Leave (Commonwealth Employees) Act<lf> 1976; and<lf>   (b) the amount would become due solely because of the resignation of the person from the Australian Public Service for the purpose of his or her being appointed to the Australian Capital Territory Government Service under a provision corresponding to section 6 of this Act;<lf> the amount does not become due on the person's resignation from the Australian Public Service. <p><lf>   (3) This section has effect in spite of any provision of:<lf>   (a) the Long Service Leave (Commonwealth Employees) Act 1976; or<lf>   (b) the Public Service Act 1922; or<lf>   (c) any regulations or determination made under either of those Acts. </lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-becomes an ACT officer; or</dd>
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SECT 27 Regulations </name>
+</b>** 
 
-<dt>(b)</dt><dd>a person ceases to be an ACT officer and becomes an officer of the
+## SECT
+<sect>   27\. (1) The Governor-General may make regulations providing for modifications of an Act in its application in relation to:   (a) any matter arising from, connected with, or consequential on the establishment of the Australian Capital Territory Government Service; or   (b) any matter arising from, connected with, or consequential on the amendments of the Public Service Act made by this Act. 
 
-Australian Public Service.
+  (2) Regulations may not be made under subsection (1) after the end of a period of 2 years beginning on the transfer day. 
 
-</dd>
+  (3) The Governor-General may make regulations providing for modifications of this Act or any other Act in its application in relation to any matter arising from or connected with, or consequential on, an ACT officer becoming an employee by or under a law of the Territory of a body corporate controlled by the Territory before, on or after the commencement of this subsection. 
 
-</dl></dl></dl>
+  (4) Regulations may not be made under subsection (3) after 30 June 1998\. 
 
-<dl compact=""><dl compact="">
+  (5) In this Section:   "Territory" means the Australian Capital Territory. 
+</sect>
+**<b>
 
-<dt>(2)</dt><dd>In a case referred to in paragraph (1)(a), the relevant Secretary or
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SCHEDULE 1 </name>
+</b>** 
 
-Agency Head (within the meaning of the _Public Service Act 1999_) may
+## SCH
+<sch>                      SCHEDULE 1         Sections 16, 18, 19 and 20<lf>       NEW ITEMS FOR SCHEDULE 5 TO THE A.C.T. SELF-GOVERNMENT<lf>               (CONSEQUENTIAL PROVISIONS) ACT 1988<lf>                            PART 1<lf> Subsection 4 (1) (definition of "public sector employment"):<lf>   After paragraph (b) insert the following paragraphs:<lf>   (ba) under a law of the Australian Capital Territory relating to<lf> employment by that Territory, including a law relating to the<lf> Australian Capital Territory Government Service;<lf>   (bb) by or in the service of:<lf>     (i) an enactment authority as defined by section 3 of the<lf> A.C.T. Consequential Provisions Act; or<lf>     (ii) a body corporate incorporated under a law of the<lf> Australian Capital Territory and in which the Australian Capital<lf> Territory has a controlling interest;<lf> other than a prescribed authority or body;".<lf> Subsection 4 (1):<lf>   Insert the following definitions:<lf>   "'A.C.T. Consequential Provisions Act' means the A.C.T.<lf> Self-Government (Consequential Provisions) Act 1988;<lf>   'Australian Capital Territory Government Service' means the<lf> service established by the Public Sector Management Act 1994 of the<lf> Australian Capital Territory;".<lf>                           PART 2<lf> Subsection 121 (2) (definition of "relevant law"):<lf>   Omit "Commonwealth Employees' Rehabilitation and Compensation Act<lf> 1988", substitute "Safety, Rehabilitation and Compensation Act<lf> 1988".<lf> After subsection 149 (1):<lf>   Insert the following subsection:<lf>   "(1A) For the purposes of subsection (1), the Australian Capital<lf> Territory Government Service is taken to be the successor to the<lf> business of the Australian Capital Territory in relation to the<lf> transitional staff within the meaning of the A.C.T. Self-Government<lf> (Consequential Provisions) Act 1988.".<lf>                           PART 3<lf> Section 6:<lf>   (a) Omit from paragraph (e) "and" (last occurring).<lf>   (b) Add at the end the following paragraphs and subsection:<lf>   "(g) to provide to Secretaries of Departments services in<lf> connection with the establishment, constitution and operation of<lf> Joint Selection Committees under section 50DA or 50DB of the Public<lf> Service Act 1922; and<lf>   (h) with the consent of the Minister, to enter into an<lf> arrangement with the Australian Capital Territory or an authority<lf> of the Territory under which the Agency will perform, for the<lf> Territory or the authority, as the case may be, functions conferred<lf> by an enactment and similar, or substantially similar, to functions<lf> performed by the Agency under this Act.<lf>   "(2) An arrangement referred to in paragraph (1) (h) may include<lf> provisions for payment by the other party to the arrangement for<lf> the performance of functions by the Agency in accordance with the<lf> arrangement.".<lf>                           PART 4<lf>   Occupational Health and Safety (Commonwealth Employment) Act 1991<lf> Subsection 5 (1) (definition of "Commonwealth authority"):<lf>   Omit from paragraph (a) "other than", substitute "other than the<lf> Australian Capital Territory,".<lf> Subparagraph 9 (2) (c) (ii):<lf>   Omit "other than", substitute "other than the Australian Capital<lf> Territory,".<lf>                           PART 5<lf>                Remuneration Tribunal Act 1973<lf> Subsection 3 (1):<lf>   Insert the following definition:<lf>   ""ACT office" means:<lf>   (a) an office or appointment specified in any of paragraphs (fc)<lf> to (fh) of subsection 3 (4), as modified by regulations in force<lf> under the A.C.T. Self-Government (Consequential Provisions) Act<lf> 1988; or<lf>   (b) an office or appointment specified in subsection 73 (1) of<lf> the Australian Capital Territory (Self-Government) Act 1988;".<lf> Subsection 3 (3):<lf>   Omit the subsection, substitute:<lf>   "(3) A reference in this Part to an office includes a reference<lf> to an office that, within the meaning of the Australian Capital<lf> Territory (Self-Government) Act 1988, is an office of member of the<lf> Assembly or Minister and any office in or in connection with that<lf> Assembly that can be held only by a member of that Assembly.".<lf> Subsection 7 (6):<lf>   Omit the subsection, substitute:<lf>   "(6) The Tribunal must give the Minister a copy of every<lf> determination made by the Tribunal, other than a determination that<lf> relates to an ACT office.<lf>   "(6A) The Tribunal must give the Chief Minister of the Australian<lf> Capital Territory a copy of every determination made by the<lf> Tribunal in relation to an ACT office.".<lf> Subsection 7 (7):<lf>   After "determination" (first occurring), insert ", other than a<lf> determination that relates to an ACT office,".<lf> After subsection 7 (8):<lf>   Insert:<lf>   "(8A) If the Legislative Assembly of the Australian Capital<lf> Territory, within 30 sitting days of the Assembly after a copy of a<lf> determination that relates to an ACT office is given to the Chief<lf> Minister, passes a resolution disapproving of the determination,<lf> then:<lf>   (a) if the determination has not come into operation - the<lf> determination does not come into operation; or<lf>   (b) if the determination has come into operation - the<lf> determination does not have any force or effect after the day on<lf> which the resolution is passed.".<lf>          Safety, Rehabilitation and Compensation Act 1988<lf> Subsection 4 (1) (paragraph (b) of the definition of "Commonwealth<lf> authority"):<lf>   After "other than" insert "an ACT enactment or a law of".<lf> Subsection 4 (1) (subparagraph (c) (ii) of the definition of<lf> "Commonwealth authority"):<lf>   After "other than" insert "the Australian Capital Territory or".<lf> Subsection 4 (1) (definition of "Commonwealth authority"):<lf>   Add at the end the following word and paragraph:<lf>   "or  (e) if a declaration is in force under section 4A, the<lf> Australian Capital Territory;".<lf> Subsection 4 (1):Insert the following definitions:<lf>   "'ACT enactment' means an enactment as defined by section 3 of<lf> the ACT Self-Government Act;<lf>   'ACT Self-Government Act' means the Australian Capital Territory<lf> (Self-Government) Act 1988;".<lf> Section 4:<lf>   Add at the end the following subsection:<lf>   "(14) In spite of the definition of "principal officer" in<lf> subsection (1), if the Australian Capital Territory is a<lf> Commonwealth authority for the purposes of this Act, the following<lf> rules have effect:<lf>   (a) if there is in force a written declaration by the Minister,<lf> made at the written request of the Chief Minister for the<lf> Territory, that a specified person is to be taken to be the<lf> principal officer of the Territory, this Act has effect<lf> accordingly;<lf>   (b) if there is no such declaration in force, the Chief Minister<lf> of the Territory is to be taken to be the principal officer of the<lf> Territory.".<lf> After section 4:<lf>   Insert the following section:<lf> Declaration that ACT a Commonwealth authority<lf>   "4A. (1) If the Chief Minister for the Australian Capital<lf> Territory so requests in writing, the Minister may, in writing,<lf> declare the Australian Capital Territory to be a Commonwealth<lf> authority for the purposes of this Act.<lf>   "(2) The Minister may revoke a declaration under subsection (1).<lf>   "(3) The Minister may only revoke a declaration if either:<lf>   (a) the Minister has given the Chief Minister at least 12 months'<lf> notice in writing of his or her intention to revoke the<lf> declaration; or<lf>   (b) the Chief Minister has given the Minister a written request<lf> that the declaration be revoked and:<lf>     (i) a period of at least 12 months; or<lf>     (ii) such shorter period as is agreed on by the Minister and<lf> the Chief Minister;<lf> has elapsed since the request was given to the Minister.".<lf> Subsection 5 (1):<lf>   Insert the following definition:<lf>   "'Chief Minister' means the Chief Minister for the Australian<lf> Capital Territory;".<lf> Subparagraph 5 (2) (c) (ii):<lf>   After "other than" insert "an ACT enactment or a law of".<lf> Section 5:<lf>   Add at the end the following subsections:<lf>   "(11) For the purposes of this Act, the following are taken to be<lf> employed by the Australian Capital Territory:<lf>   (a) a person who is an officer or employee of an authority or<lf> body established by an ACT enactment, other than an authority or<lf> body in respect of which a declaration is in force under subsection<lf> (12);<lf>   (b) a person who is an officer or employee of a body corporate<lf> incorporated under a law of the Commonwealth or a law in force in a<lf> State or Territory, being a body:<lf>     (i) in which the Australian Capital Territory or an authority<lf> or body established by an ACT enactment has a controlling interest;<lf> and<lf>     (ii) in respect of which a declaration under subsection (13) is<lf> in force;<lf>   (c) a person who is an officer or employee of a body corporate<lf> incorporated under a law of the Commonwealth or a law in force in a<lf> State or Territory, being a body:<lf>     (i) in which a body corporate referred to in paragraph (b) has<lf> a controlling interest; and<lf>     (ii) in respect of which a declaration under subsection (13) is<lf> in force;<lf>   (d) a person who is employed under the Legislative Assembly<lf> (Members' Staff) Act 1989 of the Australian Capital Territory;<lf>   (e) the Commissioner, Deputy Commissioner and members of the<lf> Australian Capital Territory Fire Brigade under the Fire Brigade<lf> (Administration) Act 1974 of the Australian Capital Territory;<lf>   (f) a person who holds, or is acting in, an office established by<lf> an ACT enactment, other than an office in respect of which a<lf> declaration is in force under subsection (12).<lf>   "(12) If the Chief Minister so requests in writing, the Minister<lf> may make a written declaration that:<lf>   (a) an authority or body is not an authority or body to which<lf> subsection (11) applies; or<lf>   (b) an office is not an office to which subsection (11) applies.<lf>   "(13) If the Chief Minister so requests in writing, the Minister<lf> may make a written declaration that a body corporate is a body to<lf> which subsection (11) applies.<lf>   "(14) Subsection (11) does not apply to the following offices<lf> established by the Australian Capital Territory (Self-Government)<lf> Act 1988:<lf>   (a) Chief Minister for the Australian Capital Territory;<lf>   (b) Deputy Chief Minister for the Australian Capital Territory;<lf>   (c) Minister;<lf>   (d) Presiding Officer of the Legislative Assembly for the<lf> Australian Capital Territory;<lf>   (e) deputy to the Presiding Officer of the Legislative Assembly<lf> for the Australian Capital Territory;<lf>   (f) member of the Legislative Assembly for the Australian Capital<lf> Territory.<lf>   "(15) If the Chief Minister so requests in writing, the Minister<lf> may make a written declaration that persons specified in the<lf> declaration, when engaging in activities:<lf>   (a) at the request or direction, or for the benefit, of the<lf> Australian Capital Territory; or<lf>   (b) in accordance with a requirement made by or under an ACT<lf> enactment; or<lf>   (c) at the request or direction, or for the benefit, of an<lf> authority or body established by an ACT enactment;<lf> are to be taken to be employees of the Australian Capital<lf> Territory.".<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
 
-deliver to the appropriate authority of the Australian Capital Territory all
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SCHEDULE 2 </name>
+</b>** 
 
-records kept by the Secretary or Agency Head in relation to the person and
+## SCH
+<sch>                         SCHEDULE 2                     Section 22<lf>                     FURTHER AMENDMENTS<lf>     Australian Capital Territory (Self-Government) Act 1988<lf> Section 3:<lf>   Omit the definitions of "Associate Head of Administration", "Head<lf> of Administration", "public servant" and "public service".<lf> Part VI:<lf>   Repeal the Part.<lf> Section 71:<lf>   Repeal the section.<lf> Paragraphs 73 (1) (g) and (h):<lf>   Omit the paragraphs, substitute:<lf>   "(g) an office declared by an enactment to be an office to which<lf> this section applies.".<lf>                     Privacy Act 1988<lf> Subsection 4 (1):<lf>   After "States," insert "of the Australian Capital Territory,".<lf> Subsection 4 (2):<lf>   After "State," insert "of the Australian Capital Territory,".<lf> Subsection 4 (3):<lf>   After "State," insert "of the Australian Capital Territory,".<lf> Subsection 6 (1) (definition of "agency"):<lf>   (a) Add at the end of subparagraph (c) (i) "or".<lf>   (b) Omit from subparagraph (c) (ii) "or" (last occurring).<lf>   (c) Omit subparagraph (c) (iii).<lf>   (d) Omit from paragraph (g) "and a court of the Australian<lf> Capital Territory".<lf> Subsection 6 (1) (definition of "Commonwealth enactment"):<lf>   After subparagraph (a) (ii) insert the following word and<lf> subparagraph:<lf>   "or    (iii) the Australian Capital Territory (Self-Government)<lf> Act 1988;".<lf> Subsection 6 (1) (definition of "Commonwealth officer"):<lf>   After "temporarily employed in" insert "the Australian Capital<lf> Territory Government Service or in".<lf> Subsection 6 (1) (definition of "State"):<lf>   After "includes" insert "the Australian Capital Territory and".<lf> Subsection 6 (1):<lf>   Insert the following definition:<lf>   "'ACT enactment' has the same meaning as 'enactment' has in the<lf> Australian Capital Territory (Self-Government) Act 1988;".<lf> After subsection 6 (1):<lf>   Insert the following subsection:<lf>   "(1A) In order to avoid doubt, it is declared that an ACT<lf> enactment is not a Commonwealth enactment for the purposes of this<lf> Act.".<lf> Subparagraph 7 (1) (a) (ii):<lf>   Omit "or a court of the Australian Capital Territory".<lf> Paragraph 7 (1) (b):<lf>   Omit ", a court of the Australian Capital Territory or",<lf> substitute "or by".<lf>   After paragraph 33 (2) (d):<lf>   Insert the following paragraph:<lf>   "(da) the disclosure of the deliberations or decisions of the<lf> Australian Capital Territory Executive or of a committee of that<lf> Executive;".<lf> Section 37:<lf>   Omit from Column 1 of Item 4 in the table "or a court of the<lf> Australian Capital Territory".<lf>                    Public Service Act 1922<lf> Subsection 7 (1) (definition of "Commonwealth authority"):<lf>   (a) Omit from paragraph (a) "an enactment within the meaning of<lf> the Australian Capital Territory (Self-Government) Act 1988 or a<lf> law of the", substitute "a law of the Australian Capital Territory<lf> or the".<lf>   (b) In paragraph (b), after "other than"insert "the Australian<lf> Capital Territory or".<lf> Paragraph 22B (14) (b):<lf>   Omit the paragraph.<lf> Paragraph 22C (13) (b):<lf>   Omit the paragraph.<lf> Subsection 87 (1) (definition of "Commonwealth authority"):<lf>   In paragraph (a), after "not being"insert "the Australian Capital<lf> Territory or".<lf> Subsection 87 (1) (definition of "Commonwealth office"):<lf>   In paragraph (a), after "other than" insert "the Australian<lf> Capital Territory or".<lf> Subsection 87 (1) (definition of "public authority"):<lf>   In paragraph (c), after "a State," insert "of the Australian<lf> Capital Territory,".<lf> Subsection 87 (1) (definition of "public office"):<lf>   (a) After subparagraph (b) (i) insert the following subparagraph:<lf>     "(ia) by the Australian Capital Territory Executive or by the<lf> Chief Minister or a Minister for the Australian Capital Territory;<lf> or".<lf>   (b) After "in the public service of a State" insert ", of the<lf> Australian Capital Territory".<lf> Paragraph 87 (2) (a):<lf>   After "other than" insert "the Australian Capital Territory or".<lf> Paragraph 87 (2) (c):<lf>   Omit the paragraph.<lf> Paragraph 87 (2) (j):<lf>   After "other than" insert "the Australian Capital Territory or".<lf> Paragraph 87 (2) (jb):<lf>   Add at the end "or".<lf> Paragraph 87 (2) (k):<lf>   Omit the paragraph.<lf> Paragraph 87 (3) (aa):<lf>   Omit the paragraph.<lf> Paragraph 87 (3) (b):<lf>   After "office or appointment in" insert "the Australian Capital<lf> Territory Government Service or".<lf> After subparagraph 87 (3) (b) (i):<lf>   Insert the following subparagraph:<lf>   "    (ia) by the Australian Capital Territory Executive or by the<lf> Chief Minister or a Minister for the Australian Capital Territory;<lf> or".<lf> Subsection 87J (1) (definition of "Territory"):<lf>   After "include" insert "the Australian Capital Territory or".<lf> Paragraph 87J (2) (a):<lf>   Omit the paragraph.<lf> Paragraph 87J (2A) (a):<lf>   After "including" insert "the Australian Capital Territory and".<lf> Paragraph 87J (2A) (b):<lf>   After "including" insert "the Australian Capital Territory<lf> Executive and".<lf> Paragraph 87J (2A) (c):<lf>   After "including" insert "a Minister for the Australian Capital<lf> Territory and".<lf> Paragraph 87J (2A) (d):<lf>   After "including" insert "the Chief Minister for the Australian<lf> Capital Territory and".<lf> Subparagraph 87ZE (4) (a) (i):<lf>   After "State" insert "or of the Legislative Assembly for the<lf> Australian Capital Territory".<lf> Subparagraph 87ZE (5) (a) (i):<lf>   After "State" insert "or of the Legislative Assembly for the<lf> Australian Capital Territory".<lf>                     Superannuation Act 1976<lf> After subsection 58 (3A):<lf>   Insert the following subsection:<lf>   "(3B) The termination, under the Public Sector Management Act<lf> 1994 of the Australian Capital Territory, of an appointment made<lf> under that Act is not to be taken to be the termination of the<lf> appointment for the purposes of paragraph (3) (b) of this section<lf> if:<lf>   (a) the appointment was made on probation; and<lf>   (b) the appointment had not been confirmed when the termination<lf> was effected.".<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
 
-reasonably necessary to be so delivered in connection with the employment of
+### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SCHEDULE 3 </name>
+</b>** 
 
-the person as an ACT officer.</dd> <dt>(3)</dt><dd>In a case referred to in paragraph (1)(b), records kept, in relation to the person, for the purposes of the Australian Capital Territory Government Service may be delivered to the relevant Secretary or Agency Head (within the meaning of the _Public Service Act 1999_) if it is reasonably necessary for the records to be so delivered in connection with the employment of the person as an officer of the Australian Public Service.</dd> <dt>(4)</dt><dd>Personal information contained in records delivered to an authority under subsection (2) may be used as if the information had been collected by the authority for the purposes of the Australian Capital Territory Government Service.</dd> <dt>(5)</dt><dd>Personal information contained in records delivered to a Secretary or Agency Head under subsection (3) may be used as if the information had been collected by the Secretary for the purposes of the Australian Public Service. </dd> </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 9  Operation of Part IV of the Public Service Act in relation to certain staff 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If, but for this subsection, an officer to whom subsection 5(1) applies
-
-would have been, on the transfer day, an officer to whom a provision of Part IV
-
-of the Public Service Act applied:
-
-</dd> </dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Part IV of that Act ceases, on the transfer day, to have any application
-
-to the officer; and</dd>
-
-<dt>(b)</dt><dd>in the case of an officer to whom a provision of Division 4 of Part IV of
-
-that Act would have applied, the repealed _Officers&apos; Rights Declaration Act 1928_ ceases, on the transfer day, to have any application to the officer.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>but for this subsection, Division 3 of Part IV of the Public Service Act
-
-would have applied to a person on the transfer day; and</dd>
-
-<dt>(b)</dt><dd>the Department in which the person last held an office before that day was
-
-the ACT Branch;
-
-</dd>
-
-</dl></dl></dl>
-
-the person ceases, on the transfer day, to be a person to whom Division 3 of Part IV of the Public Service Act applies.
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>but for this subsection, Division 3 of Part IV of the Public Service Act
-
-would have applied to a person on the transfer day; and</dd>
-
-<dt>(b)</dt><dd>the last office held by that person before that day was an office the
-
-duties of which related, wholly or substantially, to matters that, as at the
-
-transfer day, were dealt with by the ACT Branch;
-
-</dd>
-
-</dl></dl></dl>
-
-the person ceases, on the transfer day, to be a person to whom Division 3 of Part IV of the Public Service Act applies.
-
-<dl compact=""><dl compact="">
-
-<dt>(4)</dt><dd>To the extent that they prescribe Calvary Hospital A.C.T. Incorporated for
-
-the purposes of paragraph (d) of the definition of _public authority_ in subsection 87(1) of the Public Service Act, regulations
-
-under that Act cease to have effect on the transfer day.
-
-</dd> </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 10  Arrangements relating to staffing 
-**
-
- <dl compact=""><dl compact="">
-
-		An Agency Head (within the meaning of the _Public Service Act 1999_) may arrange with an appropriate authority of the Australian
-
-Capital Territory:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>for the services of officers or employees in the Agency (within the
-
-meaning of that Act) to be made available to the authority; or</dd>
-
-<dt>(b)</dt><dd>for the services of officers or employees of the Australian Capital
-
-Territory Government Service to be made available to the Agency Head.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<part>Part 4&#151;Provisions affecting the A.C.T. Self-Government (Consequential Provisions) Act 1988 </part>
-**</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 12  Principal Act 
-**
-
- <dl compact=""><dl compact="">
-
-		In this Part, _Principal Act_ means the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
-
- </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 13  Staff from Australian Public Service 
-**
-
- <dl compact=""><dl compact="">
-
-		Section 21 of the Principal Act is amended by omitting subsection&#160;(5).
-
- </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 14  Repeal of Schedule 1 
-**
-
- <dl compact=""><dl compact="">
-
-		Schedule 1 to the Principal Act is repealed.
-
- </dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 15  Repeal of certain modifications of the _Public Service Act 1922_ 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Regulations in force under section 31 of the Principal Act immediately
-
-before the transfer day, to the extent that they have the effect of:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>modifying section 7, 22B, 22C, 87 or 87J of the _Public Service Act 1922_; or</dd>
-
-<dt>(b)</dt><dd>modifying the _Public Service Act 1922_ by inserting Part&#160;IVA;
-
-</dd>
-
-</dl></dl></dl>
-
-cease to have effect on the transfer day.
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>Section 8 of the _Acts Interpretation Act 1901_, in its application
-
-by virtue of section 46 of that Act, has effect in relation to regulations to
-
-which subsection (1) applies as if, to the extent that they cease to have
-
-effect on the transfer day, the regulations had been repealed on that day by
-
-regulations.
-
-</dd> </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 16  Amendments of Schedule 5: Industrial Relations Act 
-**
-
- <dl compact=""><dl compact="">
-
-		Schedule 5 to the Principal Act is amended:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>by omitting the items relating to subsection 4(1) of the _Industrial Relations Act 1988_ and substituting the items set out in Part 1 of Schedule
-
-1;</dd>
-
-<dt>(b)</dt><dd>by adding at the end of the items relating to the _Industrial Relations Act 1988_ the items set out in Part 2 of Schedule 1.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 17  Amendments of Schedule 5: Maternity Leave (Commonwealth Employees) Act 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>In this section, _Maternity Leave Act_ means the _Maternity Leave (Commonwealth Employees) Act 1973_.</dd> <dt>(2)</dt><dd>Schedule 5 to the Principal Act is amended: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>by inserting "of" in the item relating to paragraph 5(1)(b) of the
-
-Maternity Leave Act after "law";</dd>
-
-<dt>(b)</dt><dd>by inserting "of" in the item relating to paragraph 5(2)(b) of the
-
-Maternity Leave Act after "law";</dd>
-
-<dt>(c)</dt><dd>by omitting the item inserting paragraph 5(3)(aa) in the Maternity Leave
-
-Act and substituting the following item:</dd>
-
-		After paragraph 5(3)(a):
-
-		Insert the following paragraph:
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(aa)	a person who holds an office defined by section 73 of the _Australian Capital Territory (Self-Government) Act 1988_ or an office established
-
-by or under an enactment as defined by section 3 of that Act;".
-
-</dl></dl></dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 18  Amendments of Schedule 5: _Merit Protection (Australian Government Employees) Act_ 
-**
-
-<dl compact=""><dl compact="">
-
-		Schedule 5 to the Principal Act is amended:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>by omitting the item that inserts definitions of _ACT enactment_, _Self-Government Act_ and _Territory authority_ in subsection 3(1) of the _Merit Protection (Australian Government Employees) Act 1984_ and substituting the item set out in Part 3
-
-of Schedule 1;</dd>
-
-<dt>(b)</dt><dd>by omitting the item that inserts section 6A in the _Merit Protection (Australian Government Employees) Act 1984_.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 19  Amendments of Schedule 5: Occupational Health and Safety (Commonwealth Employment) Act 
-**
-
-<dl compact=""><dl compact="">
-
-		Schedule 5 to the Principal Act is amended by inserting after the items
-
-relating to the _Merit Protection (Australian Government Employees) Act 1984_ the heading and items set out in Part 4 of Schedule 1.
-
- </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 20  Amendments of Schedule 5: Remuneration Tribunal Act and Safety, Rehabilitation and Compensation Act 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Schedule 5 to the Principal Act is amended by omitting the items relating
-
-to subsection 4(1), subparagraph 5(2)(c)(ii) and subsection&#160;5(8) of the
-
-_Commonwealth Employees&apos; Rehabilitation and Compensation Act 1988_ and the
-
-heading immediately before those items referring to that Act.</dd> <dt>(2)</dt><dd>Schedule 5 to the Principal Act is amended by omitting the heading "Remuneration Tribunals Act 1973" and the item relating to subsection 3(3) of that Act and substituting the headings and items set out in Part 5 of Schedule 1\. </dd> </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 21  Commencement of amended Schedule 5 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Items in Schedule 5 to the Principal Act, as amended by this Act, that
-
-have not commenced under section 2 of the Principal Act commence immediately
-
-after the commencement of this Act.</dd> <dt>(2)</dt><dd>This section has effect in spite of subsection 2(3) of the Principal Act. </dd> </dl></dl>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<part>Part 5&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 22  Further amendments 
-**
-
- <dl compact=""><dl compact="">
-
-		The Acts specified in Schedule 2 are amended as set out in that Schedule.
-
- </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 23  Modifications of the _Privacy Act 1988_ 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Until a day fixed by or under an ACT enactment for the purposes of this
-
-subsection, the _Privacy Act 1988_, as amended by this Act, has effect as
-
-if it had been further amended as set out in Schedule&#160;3.</dd> <dt>(2)</dt><dd>On and after the day fixed for the purposes of subsection (1), section 8 of the _Acts Interpretation Act 1901_ has effect as if subsection (1) and Schedule 3 had been repealed on that day by an Act.</dd> <dt>(3)</dt><dd>In this section, _ACT enactment_ has the same meaning as _enactment_ has in the _Australian Capital Territory (Self-Government) Act 1988_. </dd> </dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 25  Leave entitlements 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>This section applies to a person who is engaged under section 22 of the
-
-_Public Service Act 1999_.</dd> <dt>(3)</dt><dd>If, immediately before a person to whom this section applies ceases to be an ACT officer, the person has an entitlement, as such an officer, to leave of absence for recreation, the person retains that entitlement, on engagement as an APS employee, as if the entitlement had accrued under the _Public Service Act 1999_.</dd> <dt>(4)</dt><dd>The _Public Service Act 1999_ has effect, in relation to the accrual, on and after the engagement of a person as an APS employee, of the person's entitlement to leave of absence for recreation in relation to a period since the person last gained an entitlement, as an ACT officer, to leave of absence for recreation as if service by the person as an ACT officer during that period had been service as an APS employee.</dd> <dt>(5)</dt><dd>If, immediately before the engagement of a person as an APS employee, the person has an entitlement, as an ACT officer, to be paid a recreation leave loading, the person retains the entitlement as if the entitlement had accrued under the APS Award 1998, but the entitlement is subject to the provisions of that award as if it had arisen under that award.</dd> <dt>(6)</dt><dd>The reference in subsection (5) to a recreation leave loading is a reference to a payment that corresponds, or substantially corresponds, to a payment under the APS Award 1998\. </dd> </dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 26  Transitional provision: Leave payments 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If, but for this section:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an amount would become due to a person:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>under the Public Service Act, or under regulations or a determination made
-
-under that Act, in lieu of leave of absence for recreation or in any other way
-
-in relation to any entitlement of the person to such leave of absence; or</dd>
-
-<dt>(ii)</dt><dd>under the _Long Service Leave (Commonwealth Employees) Act 1976_; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the amount would become due solely because of the operation of section 5
-
-of this Act in relation to the person;
-
-</dd>
-
-</dl></dl></dl>
-
-the amount does not become due.
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>If, but for this section:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an amount would become due to a person:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>under the _Public Service Act 1999_, or under regulations or a
-
-determination made under that Act, in lieu of leave of absence for recreation
-
-or in any other way in relation to any entitlement of the person to such leave
-
-of absence; or</dd>
-
-<dt>(ii)</dt><dd>under the _Long Service Leave (Commonwealth Employees) Act 1976_; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the amount would become due solely because of the resignation of the
-
-person from the Australian Public Service for the purpose of his or her being
-
-appointed to the Australian Capital Territory Government Service;
-
-</dd>
-
-</dl></dl></dl>
-
-the amount does not become due on the person's resignation from the Australian Public Service.
-
-<dl compact=""><dl compact="">
-
-<dt>(3)</dt><dd>This section has effect in spite of any provision of:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the _Long Service Leave (Commonwealth Employees) Act 1976_; or</dd>
-
-<dt>(b)</dt><dd>the _Public Service Act 1922_ or the _Public Service Act 1999_;
-
-or</dd>
-
-<dt>(c)</dt><dd>any regulations or determination made under either of those Acts.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT 27  Regulations 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may make regulations providing for modifications of
-
-an Act in its application in relation to:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>any matter arising from, connected with, or consequential on the
-
-establishment of the Australian Capital Territory Government Service; or</dd>
-
-<dt>(b)</dt><dd>any matter arising from, connected with, or consequential on the
-
-amendments of the Public Service Act made by this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>Regulations may not be made under subsection (1) after the end of a period
-
-of 2 years beginning on the transfer day.</dd> <dt>(3)</dt><dd>The Governor-General may make regulations providing for modifications of this Act or any other Act in its application in relation to any matter arising from or connected with, or consequential on, an ACT officer becoming an employee by or under a law of the Territory of a body corporate controlled by the Territory before, on or after the commencement of this subsection.</dd> <dt>(4)</dt><dd>Regulations may not be made under subsection (3) after 30 June 1998.</dd> <dt>(5)</dt><dd>In this Section:</dd> _Territory_ means the Australian Capital Territory.  </dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994Schedule 1&#151;New items for Schedule 5 to the A.C.T. Self-Government (Consequential Provisions) Act 1988 
-**</center>
-
- Sections 16, 18, 19 and 20 
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<part>Part 1 </part>
-**</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT Subsection 4(1) (definition of _public sector employment_): 
-**
-
-After paragraph (b) insert the following paragraphs:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"(ba)	under a law of the Australian Capital Territory relating to employment
-
-by that Territory, including a law relating to the Australian Capital Territory
-
-Government Service; 
-
-<dt>(bb)</dt><dd>by or in the service of:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>an enactment authority as defined by section 3 of the A.C.T. Consequential
-
-Provisions Act; or</dd>
-
-<dt>(ii)</dt><dd>a body corporate incorporated under a law of the Australian Capital
-
-Territory and in which the Australian Capital Territory has a controlling
-
-interest; 
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		other than a prescribed authority or body;"
-
-</dl></dl></dl>
-
-Subsection 4(1):
-
-Insert the following definitions:
-
-<def><dl compact=""><dl compact="">
-
-_A.C.T. Consequential Provisions Act_ means the _A.C.T. Self-Government (Consequential Provisions) Act 1988_. _Australian Capital Territory Government Service_ means the service established by the _Public Sector Management Act 1994_ of the Australian Capital Territory.  </dl></dl>
-
-Part 2
- Subsection 121(2) (definition of relevant law):
-
-Omit "_Commonwealth Employees&apos; Rehabilitation and Compensation Act 1988_", substitute "_Safety, Rehabilitation and Compensation Act 1988_".
-
-After subsection 149(1):
-
-Insert the following subsection:
-
-<dl compact=""><dl compact="">
-
-	"(1A)	For the purposes of subsection (1), the Australian Capital Territory
-
-Government Service is taken to be the successor to the business of the
-
-Australian Capital Territory in relation to the transitional staff within the
-
-meaning of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.".
-
- </dl></dl>
-
-Part 3
- Section 6:
-
-(a)	Omit from paragraph (e) "and" (last occurring).
- (b)	Add at the end the following paragraphs and subsection:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"(g)	to provide to Secretaries of Departments services in connection with the
-
-establishment, constitution and operation of Joint Selection Committees under
-
-section 50DA or 50DB of the _Public Service Act 1922_; and
-
-<dt>(h)</dt><dd>with the consent of the Minister, to enter into an arrangement with the
-
-Australian Capital Territory or an authority of the Territory under which the
-
-Agency will perform, for the Territory or the authority, as the case may be,
-
-functions conferred by an enactment and similar, or substantially similar, to
-
-functions performed by the Agency under this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-	"(2)	An arrangement referred to in paragraph (1)(h) may include provisions for
-
-payment by the other party to the arrangement for the performance of functions
-
-by the Agency in accordance with the arrangement.".
-
- </dl></dl>
-
-Part 4 
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994- SECT _Occupational Health and Safety (Commonwealth Employment) Act 1991_ 
-**
-
-Subsection 5(1) (definition of Commonwealth authority):
-
-Omit from paragraph (a) "other than", substitute "other than the Australian Capital Territory,".
-
-Subparagraph 9(2)(c)(ii):
-
-Omit "other than", substitute "other than the Australian Capital Territory,".
-
-Part 5
- Remuneration Tribunal Act 1973
- Subsection 3(1):
-
-Insert the following definition:
-
-<def><dl compact=""><dl compact="">
-
-"_ACT office_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an office or appointment specified in any of paragraphs (fc) to (fh) of
-
-subsection 3(4), as modified by regulations in force under the _A.C.T. Self-Government (Consequential Provisions) Act 1988_; or</dd>
-
-<dt>(b)</dt><dd>an office or appointment specified in subsection 73(1) of the
-
-_Australian Capital Territory (Self-Government) Act 1988_,".
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 3(3):
-
-Omit the subsection, substitute:
-
-<dl compact=""><dl compact="">
-
-	"(3)	A reference in this Part to an office includes a reference to an office
-
-that, within the meaning of the _Australian Capital Territory (Self-Government) Act 1988_, is an office of member of the Assembly or
-
-Minister and any office in or in connection with that Assembly that can be held
-
-only by a member of that Assembly.".
-
- </dl></dl>
-
-Subsection 7(6):
-
-Omit the subsection, substitute:
-
-<dl compact=""><dl compact="">
-
-	"(6)	The Tribunal must give the Minister a copy of every determination made by
-
-the Tribunal, other than a determination that relates to an ACT office. <dt>(6A)</dt><dd>The Tribunal must give the Chief Minister of the Australian Capital Territory a copy of every determination made by the Tribunal in relation to an ACT office.". </dd> </dl></dl>
-
-Subsection 7(7):
-
-After "determination" (first occurring), insert ", other than a determination that relates to an ACT office,".
-
-After subsection 7(8):
-
-Insert:
-
-<dl compact=""><dl compact="">
-
-	"(8A)	If the Legislative Assembly of the Australian Capital Territory, within
-
-30 sitting days of the Assembly after a copy of a determination that relates to
-
-an ACT office is given to the Chief Minister, passes a resolution disapproving
-
-of the determination, then:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the determination has not come into operation&#151;the determination does
-
-not come into operation; or</dd>
-
-<dt>(b)</dt><dd>if the determination has come into operation&#151;the determination does not
-
-have any force or effect after the day on which the resolution is passed.".
-
-</dd>
-
-</dl></dl></dl>
-
-Safety, Rehabilitation and Compensation Act 1988
-
-Subsection 4(1) (paragraph (b) of the definition of _Commonwealth authority_):
- After "other than" insert "an ACT enactment or a law of".
-
-Subsection 4(1) (subparagraph (c)(ii) of the definition of Commonwealth authority):
-
-After "other than" insert "the Australian Capital Territory or".
-
-Subsection 4(1) (definition of Commonwealth authority): 
-
-Add at the end the following word and paragraph:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"or	(e)	if a declaration is in force under section 4A, the Australian Capital
-
-Territory;".
-
-</dl></dl></dl>
-
-Subsection 4(1):
-
-<center>Back to Top</center>
-
-Insert the following definitions:
-
-<def><dl compact=""><dl compact="">
-
-_ACT enactment_ means an enactment as defined by section 3 of the
-
-ACT Self-Government Act. _ACT Self-Government Act_ means the _Australian Capital Territory (Self-Government) Act 1988_.  </dl></dl>
-
-Section 4:
-
-Add at the end the following subsection:
-
-<dl compact=""><dl compact="">
-
-	"(14)	In spite of the definition of principal officer in subsection&#160;(1),
-
-if the Australian Capital Territory is a Commonwealth authority for the
-
-purposes of this Act, the following rules have effect:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if there is in force a written declaration by the Minister, made at the
-
-written request of the Chief Minister for the Territory, that a specified
-
-person is to be taken to be the principal officer of the Territory, this Act
-
-has effect accordingly;</dd>
-
-<dt>(b)</dt><dd>if there is no such declaration in force, the Chief Minister of the
-
-Territory is to be taken to be the principal officer of the Territory.".
-
-</dd>
-
-</dl></dl></dl>
-
-After section 4:
-
-Insert the following section:
-
-4A  Declaration that ACT a Commonwealth authority
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If the Chief Minister for the Australian Capital Territory so requests in
-
-writing, the Minister may, in writing, declare the Australian Capital Territory
-
-to be a Commonwealth authority for the purposes of this Act.</dd> <dt>(2)</dt><dd>The Minister may revoke a declaration under subsection (1).</dd> <dt>(3)</dt><dd>The Minister may only revoke a declaration if either: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Minister has given the Chief Minister at least 12 months' notice in
-
-writing of his or her intention to revoke the declaration; or </dd>
-
-<dt>(b)</dt><dd>the Chief Minister has given the Minister a written request that the
-
-declaration be revoked and:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>a period of at least 12 months; or</dd>
-
-<dt>(ii)</dt><dd>such shorter period as is agreed on by the Minister and the Chief
-
-Minister;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-has elapsed since the request was given to the Minister.".
-
-Subsection 5(1):
-
-Insert the following definition:
-
-<def><dl compact=""><dl compact="">
-
-"_Chief Minister_ means the Chief Minister for the Australian
-
-Capital Territory.".
-
- </dl></dl>
-
-Subparagraph 5(2)(c)(ii):
-
-After "other than" insert "an ACT enactment or a law of".
-
-Section 5:
-
-Add at the end the following subsections:
-
-<dl compact=""><dl compact="">
-
-	"(11)	For the purposes of this Act, the following are taken to be employed by
-
-the Australian Capital Territory:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person who is an officer or employee of an authority or body established
-
-by an ACT enactment, other than an authority or body in respect of which a
-
-declaration is in force under subsection (12);</dd>
-
-<dt>(b)</dt><dd>a person who is an officer or employee of a body corporate incorporated
-
-under a law of the Commonwealth or a law in force in a State or Territory,
-
-being a body:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in which the Australian Capital Territory or an authority or body
-
-established by an ACT enactment has a controlling interest; and</dd>
-
-<dt>(ii)</dt><dd>in respect of which a declaration under subsection (13) is in force;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>a person who is an officer or employee of a body corporate incorporated
-
-under a law of the Commonwealth or a law in force in a State or Territory,
-
-being a body:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in which a body corporate referred to in paragraph (b) has a controlling
-
-interest; and</dd>
-
-<dt>(ii)</dt><dd>in respect of which a declaration under subsection (13) is in force;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>a person who is employed under the Legislative Assembly (Members' Staff)
-
-Act 1989 of the Australian Capital Territory;</dd>
-
-<dt>(e)</dt><dd>the Commissioner, Deputy Commissioner and members of the Australian
-
-Capital Territory Fire Brigade under the Fire Brigade (Administration) Act 1974
-
-of the Australian Capital Territory;</dd>
-
-<dt>(f)</dt><dd>a person who holds, or is acting in, an office established by an ACT
-
-enactment, other than an office in respect of which a declaration is in force
-
-under subsection (12).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(12)</dt><dd>If the Chief Minister so requests in writing, the Minister may make a
-
-written declaration that:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an authority or body is not an authority or body to which subsection (11)
-
-applies; or</dd>
-
-<dt>(b)</dt><dd>an office is not an office to which subsection (11) applies.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(13)</dt><dd>If the Chief Minister so requests in writing, the Minister may make a
-
-written declaration that a body corporate is a body to which subsection (11)
-
-applies.</dd> <dt>(14)</dt><dd>Subsection (11) does not apply to the following offices established by the _Australian Capital Territory (Self-Government) Act 1988_: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Chief Minister for the Australian Capital Territory;</dd>
-
-<dt>(b)</dt><dd>Deputy Chief Minister for the Australian Capital Territory;</dd>
-
-<dt>(c)</dt><dd>Minister;</dd>
-
-<dt>(d)</dt><dd>Presiding Officer of the Legislative Assembly for the Australian Capital
-
-Territory;</dd>
-
-<dt>(e)</dt><dd>deputy to the Presiding Officer of the Legislative Assembly for the
-
-Australian Capital Territory;</dd>
-
-<dt>(f)</dt><dd>member of the Legislative Assembly for the Australian Capital Territory.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(15)</dt><dd>If the Chief Minister so requests in writing, the Minister may make a
-
-written declaration that persons specified in the declaration, when engaging in
-
-activities:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>at the request or direction, or for the benefit, of the Australian Capital
-
-Territory; or</dd>
-
-<dt>(b)</dt><dd>in accordance with a requirement made by or under an ACT enactment; or</dd>
-
-<dt>(c)</dt><dd>at the request or direction, or for the benefit, of an authority or body
-
-established by an ACT enactment;
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-		are to be taken to be employees of the Australian Capital Territory.".
-
- </dl></dl>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994Schedule 2&#151;Further amendments 
-**</center>
-
- Section 22
-
-Australian Capital Territory (Self-Government) Act 1988
- Section 3:
-
-Omit the definitions of _Associate Head of Administration_, _Head of Administration_, _public servant_ and _public service_.
-
-<center>Back to Top</center>
-
-Part VI:
-
-Repeal the Part.
-
-Section 71:
-
-Repeal the section.
-
-Paragraphs 73(1)(g) and (h):
-
-Omit the paragraphs, substitute:
-
-<dl compact=""><dl compact="">
-
-	"(g)	an office declared by an enactment to be an office to which this section
-
-applies.".
-
- </dl></dl>
-
-Privacy Act 1988
- Subsection 4(1):
-
-After "States", insert "of the Australian Capital Territory,".
-
-Subsection 4(2):
-
-After "State, insert of the Australian Capital Territory,.
-
-Subsection 4(3):
-
-After "State," insert "of the Australian Capital Territory,".
-
-Subsection 6(1) (definition of agency):
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Add at the end of subparagraph (c)(i) "or".</dd>
-
-<dt>(b)</dt><dd>Omit from subparagraph (c)(ii) "or" (last occurring).</dd>
-
-<dt>(c)</dt><dd>Omit subparagraph (c)(iii).</dd>
-
-<dt>(d)</dt><dd>Omit from paragraph (g) "and a court of the Australian Capital Territory".
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 6(1) (definition of Commonwealth enactment): 
-
-After subparagraph (a)(ii) insert the following word and subparagraph:
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"or	(iii)	the _Australian Capital Territory (Self-Government) Act 1988_;".
-
-</dl></dl></dl></dl>
-
-Subsection 6 (1) (definition of Commonwealth officer):
-
-After "temporarily employed in" insert "the Australian Capital Territory Government Service or in".
-
-Subsection 6 (1) (definition of State):
-
-After "includes" insert "the Australian Capital Territory and".
-
-Subsection 6(1):
-
-Insert the following definition:
-
-<def><dl compact=""><dl compact="">
-
-"_ACT enactment_ has the same meaning as _enactment_
-
-has in the _Australian Capital Territory (Self-Government) Act 1988_.
-
- </dl></dl>
-
-After subsection 6(1):
-
-Insert the following subsection:
-
-<dl compact=""><dl compact="">
-
-	"(1A)	In order to avoid doubt, it is declared that an ACT enactment is not a
-
-Commonwealth enactment for the purposes of this Act.".
-
- </dl></dl>
-
-Subparagraph 7(1)(a)(ii):
-
-Omit "or a court of the Australian Capital Territory".
-
-Paragraph 7(1)(b):
-
-Omit ", a court of the Australian Capital Territory or", substitute "or by".
-
-After paragraph 33(2)(d):
-
-Insert the following paragraph:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"(da)	the disclosure of the deliberations or decisions of the Australian
-
-Capital Territory Executive or of a committee of that Executive;".
-
-</dl></dl></dl>
-
-Section 37:
-
-Omit from Column 1 of Item 4 in the table "or a court of the Australian Capital Territory".
-
-Public Service Act 1922
- Subsection 7(1) (definition of Commonwealth authority):
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"(a)	Omit from paragraph (a) "an enactment within the meaning of the
-
-_Australian Capital Territory (Self-Government) Act 1988_ or a law of
-
-the", substitute "a law of the Australian Capital Territory or the".
-
-<dt>(b)</dt><dd>In paragraph (b), after "other than" insert "the Australian Capital
-
-Territory or".
-
-</dd>
-
-</dl></dl></dl>
-
-Paragraph 22B(14)(b):
-
-Omit the paragraph.
-
-Paragraph 22C(13)(b):
-
-Omit the paragraph. 
-
-<center>Back to Top</center>
-
-Subsection 87(1) (definition of Commonwealth authority):
-
-In paragraph (a), after "not being" insert "the Australian Capital Territory or". 
-
-Subsection 87(1) (definition of Commonwealth office):
-
-In paragraph (a), after "other than" insert "the Australian Capital Territory or". 
-
-Subsection 87(1) (definition of public authority):
-
-In paragraph (c), after "a State," insert "of the Australian Capital Territory,".
-
-Subsection 87 (1) (definition of public office):
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>After subparagraph (b)(i) insert the following subparagraph: 
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(ia)	by the Australian Capital Territory Executive or by the Chief Minister
-
-or a Minister for the Australian Capital Territory; or". 
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>After "in the public service of a State" insert ",of the Australian
-
-Capital Territory". 
-
-</dd>
-
-</dl></dl></dl>
-
-Paragraph 87(2)(a):
-
-After "other than" insert "the Australian Capital Territory or". 
-
-Paragraph 87(2)(c):
-
-Omit the paragraph.
-
-Paragraph 87(2)(j): 
-
-After other than insert the Australian Capital Territory or. 
-
-Paragraph 87(2)(jb): 
-
-Add at the end or. 
-
-Paragraph 87(2)(k): 
-
-Omit the paragraph. 
-
-Paragraph 87(3)(aa): 
-
-Omit the paragraph. 
-
-Paragraph 87(3)(b): 
-
-After "office or appointment in" insert "the Australian Capital Territory Government Service or".
-
-After subparagraph 87(3)(b)(i):
-
-Insert the following subparagraph:
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(ia)	by the Australian Capital Territory Executive or by the Chief Minister
-
-or a Minister for the Australian Capital Territory; or".
-
-</dl></dl></dl></dl>
-
-Subsection 87J(1) (definition of Territory): 
-
-After "include" insert "the Australian Capital Territory or". 
-
-Paragraph 87J(2)(a):
-
-Omit the paragraph. 
-
-Paragraph 87J(2A)(a): 
-
-After "including" insert "the Australian Capital Territory and". 
-
-Paragraph 87J(2A)(b):
-
-After "including" insert "the Australian Capital Territory Executive and". 
-
-Paragraph 87J(2A)(c): 
-
-After "including" insert "a Minister for the Australian Capital Territory and".
-
-Paragraph 87J(2A)(d): 
-
-After "including" insert "the Chief Minister for the Australian Capital Territory and". 
-
-Subparagraph 87ZE(4)(a)(i): 
-
-After "State" insert "or of the Legislative Assembly for the Australian Capital Territory". 
-
-Subparagraph 87ZE(5)(a)(i): 
-
-After "State" insert :or of the Legislative Assembly for the Australian Capital Territory". 
-
-Superannuation Act 1976
- After subsection 58(3A):
-
-Insert the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(3B)	The termination, under the Public Sector Management Act 1994 of the
-
-Australian Capital Territory, of an appointment made under that Act is not to
-
-be taken to be the termination of the appointment for the purposes of paragraph
-
-(3)(b) of this section if: 
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the appointment was made on probation; and </dd>
-
-<dt>(b)</dt><dd>the appointment had not been confirmed when the termination was effected.".
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact="">
-
- </dl></dl>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994Schedule 3 &#151;Modifications of the Privacy Act 1988 
-**</center>
-
- Section 23 
-
-Subsection 6(1) (definition of agency):
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>after paragraph (b) insert the following paragraph:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(ba)	an ACT agency; or".
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>Omit paragraph (g) and substitute the following paragraph:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(g)	a federal court and a court of the Australian Capital Territory; or".
-
-</dl></dl></dl></dl>
-
-Subsection 6(1): 
-
-Insert the following definitions:
-
-<def><dl compact=""><dl compact="">
-
-"_ACT agency_ has the same meaning as _agency_ has in
-
-the _Freedom of Information Act 1989_ of the Australian Capital Territory,
-
-except that it does not include:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Clerk of the Legislative Assembly or persons employed or appointed to
-
-assist the Clerk; or</dd>
-
-<dt>(b)</dt><dd>a body corporate constituted under subsection 4(1) of the Legal
-
-Practitioners Act 1970 of the Australian Capital Territory;
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-"_ACT Minister_ means a Minister within the meaning of the
-
-_Australian Capital Territory (Self-Government) Act 1988_;".
-
- </dl></dl>
-
-After subsection 6(1A):
-
-Insert the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(1B)	The definition o _f ACT agency_ in subsection (1) has the
-
-same effect as if the _Freedom of Information Act 1989_ of the Australian
-
-Capital Territory made the same provision in relation to an agency as
-
-subsection 4(2) of that Act makes in relation to a prescribed authority.
-
- </dl></dl>
-
-Subparagraph 7(1)(a)(ii): 
-
-Omit the subparagraph, substitute:
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-"(ii)	a federal court or a court of th _e_ Australian Capital
-
-Territory;".
-
-</dl></dl></dl></dl>
-
-After subparagraph 7(1)(a)(iii): 
-
-Insert the following subparagraph: 
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	"(iiia)	an ACT agency;".
-
-</dl></dl></dl></dl>
-
-Paragraph 7(1)(b):
-
-Omit "federal court or by", substitute "federal court, a court of the Australian Capital Territory or".
-
-After paragraph 7(1)(c): 
-
-Insert the following paragraph:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-	"(ca)	an act done, or a practice engaged in, as the case may be, by an ACT
-
-agency, other than an act done, or a practice engaged in, in relation to: 
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>a section 5 document; or </dd>
-
-<dt>(ii)</dt><dd>a document in relation to which, by virtue of section 6 of the
-
-_Freedom of Information Act 1989_ of the Australian Capital Territory, the
-
-agency is exempt from the operation of that Act;". 
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-Section 7: 
-
-Add at the end the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(5)	A document is a section 5 document for the purposes of
-
-paragraph&#160;(1)(ca) if: 
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>it is a document of a tribunal, authority or body identified in
-
-regulations made for the purposes of section 5 of the _Freedom of Information Act 1989_ of the Australian Capital Territory; and</dd>
-
-<dt>(b)</dt><dd>the document does not relate to matters of an administrative nature.".
-
-</dd>
-
-</dl></dl></dl>
-
-After section 15: 
-
-Insert the following section: 
-
-15A.  Special provision relating to the application of the Information Privacy Principles in relation to the ACT 
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>In relation to a record-keeper that is an ACT agency or a court of the
-
-Australian Capital Territory, a reference in Information Privacy Principle 5 or
-
-6 to any law of the Commonwealth that provides for access by persons to
-
-documents is to be read as a reference to any law of the Australian Capital
-
-Territory that provides for access by persons to documents.</dd> <dt>(2)</dt><dd>In relation to a record-keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in Information Privacy Principle 7 to a law of the Commonwealth that provides a right to require the correction or amendment of documents is to be read as a reference to a law of the Australian Capital Territory that provides such a right. </dd> <dt>(3)</dt><dd>For the purposes of the application of Information Privacy Principle 7 in relation to a record-keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in that Principle to the applicable provisions of a law of the Commonwealth is to be read as a reference to the applicable provisions of a law of the Australian Capital Territory.".  </dd> </dl></dl>
-
-Paragraph 27(1)(b): 
-
-After "Minister" insert "or an ACT Minister". 
-
-Paragraph 27(1)(f):
-
-After "Minister" insert ", to an ACT Minister". 
-
-Paragraph 27(1)(k): 
-
-After "Minister" insert "or an ACT Minister". 
-
-Paragraph 30(3)(d): 
-
-Omit "the Minister (if any)", substitute "any Minister or ACT Minister".
-
-Subsection 30(4): 
-
-Omit "the Minister (if any)", substitute any Minister or ACT Minister". 
-
-After section 33: 
-
-Insert the following section in Division 3 of Part IV: 
-
-33A  Copies of certain reports to be given to ACT Attorney-General 
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If: 
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Commissioner gives a report to the Minister under section 30, 31 or
-
-32; and</dd>
-
-<dt>(b)</dt><dd>the report relates to an ACT matter; 
-
-</dd>
-
-</dl></dl></dl>
-
-the Commissioner must, at the same time, give a copy of the report to the Attorney-General of the Australian Capital Territory. 
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>A report relates to an ACT matter if: 
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a report under section 30, the report relates to an act or
-
-practice of an ACT agency or of a court of the Australian Capital Territory; or
-
-</dd>
-
-<dt>(b)</dt><dd>in the case of a report under section 31, the report relates to a proposed
-
-ACT enactment; or </dd>
-
-<dt>(c)</dt><dd>in the case of a report under section 32, the report relates to an
-
-activity or audit of an ACT agency or of a court of the Australian Capital
-
-Territory.". 
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 34(2): 
-
-After "Minister" (wherever occurring) insert "or an ACT Minister". 
-
-After section 35: 
-
-<center>Back to Top</center>
-
-Insert the following section in Division 4 of Part IV: 
-
-35A  Special provision relating to the application of sections 34 and&#160;35 in relation to the ACT 
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>In this section, _ACT Freedom of Information Act_ means the
-
-_Freedom of Information Act 1989_ of the Australian Capital Territory. </dd> <dt>(2)</dt><dd>For the purposes of the application of sections 34 and 35 in relation to an ACT agency, a court of the Australian Capital Territory or a document of such an agency or court: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a reference in either of those sections to the _Freedom of Information Act 1982_ is to be read as a reference to the ACT Freedom of Information
-
-Act; and </dd>
-
-<dt>(b)</dt><dd>a reference in either of those sections to a provision of the _Freedom of Information Act 1982_ is to be read as a reference to the corresponding
-
-provision of the ACT Freedom of Information Act; and </dd>
-
-<dt>(c)</dt><dd>a reference in either of those sections to an authority or body is to be
-
-read as a reference to the authority or body having similar functions under the
-
-corresponding provision of the ACT Freedom of Information Act.. 
-
-</dd>
-
-</dl></dl></dl>
-
-Section 37:
-
-(a)	Insert after "federal" court in Column 1 of Item 4 in the table "or a court of the Australian Capital Territory". 
- (b)	Add at the end the following subsection:
-
-<dl compact=""><dl compact="">
-
-	"(2)	For the purposes of this Part, the principal executive of an ACT agency
-
-that is an unincorporated body is the chief executive officer (however
-
-described) of the agency.". 
-
- </dl></dl>
-
-Paragraph 41(1)(e): 
-
-After "Commonwealth enactment" insert "or an ACT enactment". 
-
-Paragraph 41(1)(f): 
-
-After "Commonwealth enactment" insert "or an ACT enactment". 
-
-Section 41: 
-
-Add at the end the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(5)	 If: 
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Commissioner decides not to investigate, or not to investigate
-
-further, an act or practice on the ground set out in paragraph (1(e) or (f);
-
-and </dd>
-
-<dt>(b)</dt><dd>the ground relates to an ACT enactment; 
-
-</dd>
-
-</dl></dl></dl>
-
-the following provisions apply: 
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>the Commissioner must transfer any complaint about the act or practice to
-
-the person or body authorised to deal with the complaint under that
-
-enactment;</dd>
-
-<dt>(d)</dt><dd>the Commissioner must give notice in writing to the complainant stating
-
-that the complaint has been so transferred; </dd>
-
-<dt>(e)</dt><dd>the Commissioner must give to the person or body referred to in paragraph
-
-<dt>(c)</dt><dd>any information or documents that relate to the complaint and are in the
-
-possession, or under the control, of the Commissioner; </dd></dd>
-
-<dt>(f)</dt><dd>a complaint transferred under paragraph (c) is to be taken to be an
-
-application under the ACT enactment concerned. 
-
-</dd>
-
-</dl></dl></dl>
-
-Subsection 43(7): 
-
-Omit "the responsible Minister" (if any), substitute "any responsible Minister or ACT Minister". 
-
-Subsection 43(8): 
-
-After "Minister" insert "or ACT Minister". 
-
-Subsection 43(9): 
-
-After "Minister" insert "or ACT Minister". 
-
-Section 51: 
-
-Add at the end the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(2)	A reference in subsection (1) to the Auditor-General is a reference to:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Auditor-General of the Commonwealth; or </dd>
-
-<dt>(b)</dt><dd>the Auditor-General within the meaning of the _Audit Act 1989_
-
-of the Australian Capital Territory.". 
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-After subsection 60(2): 
-
-Insert the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(2A)	 If a determination relates to an ACT agency or a court of the
-
-Australian Capital Territory, the reference in subsection (2) to the
-
-Commonwealth is to be read as a reference to the Australian Capital Territory.".
-
- </dl></dl>
-
-Subsection 68(1): 
-
-Omit "the Attorney-General has furnished a certificate under subsection 70(1) or (2)", substitute "a certificate has been furnished under subsection 70(1), (2) or (3)". 
-
-Section 70: 
-
-Add at the end the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(3)	If the Attorney-General of the Australian Capital Territory furnishes to
-
-the Commissioner a certificate certifying that the giving to the Commissioner
-
-of information concerning a specified matter (including the giving of
-
-information in answer to a question), or the production to the Commissioner of
-
-a specified document or other record, would be contrary to the public interest
-
-because it would:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>involve the disclosure of communications between an ACT Minister and a
-
-Minister of the Commonwealth or of a State, being a disclosure that would
-
-prejudice relations between the Government of the Australian Capital Territory
-
-and the Government of the Commonwealth or of a State; or </dd>
-
-<dt>(b)</dt><dd>involve the disclosure of deliberations or decisions of the Cabinet of the
-
-Australian Capital Territory or of a committee of the Cabinet; or </dd>
-
-<dt>(c)</dt><dd>involve the disclosure of deliberations or decisions of the Australian
-
-Capital Territory Executive or of a committee of that Executive; or </dd>
-
-<dt>(d)</dt><dd>prejudice the conduct of an investigation or inquiry into crime or
-
-criminal activity that is currently being pursued, or prejudice the fair trial
-
-of any person; or </dd>
-
-<dt>(e)</dt><dd>disclose, or enable a person to ascertain, the existence or identity of a
-
-confidential source of information in relation to the enforcement of the
-
-criminal law; or </dd>
-
-<dt>(f)</dt><dd>prejudice the effectiveness of the operational methods or investigative
-
-practices or techniques of agencies responsible for the enforcement of the
-
-criminal law; or </dd>
-
-<dt>(g)</dt><dd>endanger the life or physical safety of any person; 
-
-</dd>
-
-</dl></dl></dl>
-
-the Commissioner is not entitled to require a person to give any information concerning the matter or to produce the document or other record.". 
-
-Section 74: 
-
-Add at the end the following subsection: 
-
-<dl compact=""><dl compact="">
-
-	"(3)	For the purposes of its application in relation to an ACT agency or a
-
-court of the Australian Capital Territory, subsection (2) has effect as if the
-
-reference in that subsection to Part IV of the _Freedom of Information Act 1982_ were a reference to Part IV of the _Freedom of Information Act 1989_ of the Australian Capital Territory.". 
-
- </dl></dl>
-
-<center>**
-
-###  AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994<centreit>Notes to the _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ as shown in this compilation comprises Act No. 92, 1994 amended as indicated in the Tables below.
- The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332). The amendments are incorporated in this compilation.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>92, 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>29 June 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 July 1994 ( <i>see Gazette</i>1994 No.&#160;S256)</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Employment Services (Consequential Amendments) Act 1994</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>177, 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>19 Dec 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 1, 2(1), (3) and Part 2 (ss. 3-8): 19 Dec 1994 ( <i>see</i>s. 2(1)) 
-Ss. 2(2) and 32-39: Royal Assent 
-Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian Capital Territory Government Service (Consequential Provisions) Amendment Act 1996</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>46, 1996</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>25 Oct 1996</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>25 Oct 1996</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>146, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>11 Nov 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1 (items 117-140): 5 Dec 1999 (s <i>ee Gazette</i>1999, No. S584) <i>(a)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ was amended by Schedule 1 (items 117-140) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 6, 7</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 8</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 10</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part 3 
-(s. 11)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 11</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 24</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 25</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 25</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332)</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 26</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 27</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 46, 1996</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Schedule 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 177, 1994</div>
-
-  </td>
-</tr></table>
-
-</def></def>
-
-</def>
-
-</def></def>
-
-</def>
-
-</def>
-
-
+## SCH
+<sch>                        Schedule 3                       Section 23<lf>            MODIFICATIONS OF THE PRIVACY ACT 1988<lf> Subsection 6 (1) (definition of "agency"):<lf>   (a) After paragraph (b) insert the following paragraph:<lf>   "(ba) an ACT agency; or".<lf>   (b) Omit paragraph (g) and substitute the following paragraph:<lf>   "(g) a federal court and a court of the Australian Capital<lf> Territory; or".<lf> Subsection 6 (1):<lf>   Insert the following definitions:<lf>   "'ACT agency' has the same meaning as 'agency' has in the Freedom<lf> of Information Act 1989 of the Australian Capital Territory, except<lf> that it does not include:<lf>   (a) the Clerk of the Legislative Assembly or persons employed or<lf> appointed to assist the Clerk; or<lf>   (b) a body corporate constituted under subsection 4 (1) of the<lf> Legal Practitioners Act 1970 of the Australian Capital Territory;<lf>   'ACT Minister' means a Minister within the meaning of the<lf> Australian Capital Territory (Self-Government) Act 1988;".<lf> After subsection 6 (1A):<lf>   Insert the following subsection:<lf>   "(1B) The definition of "ACT agency" in subsection (1) has the<lf> same effect as if the Freedom of Information Act 1989 of the<lf> Australian Capital Territory made the same provision in relation to<lf> an agency as subsection 4 (2) of that Act makes in relation to a<lf> prescribed authority.".<lf> Subparagraph 7 (1) (a) (ii):<lf>   Omit the subparagraph, substitute:<lf>   "(ii) a federal court or a court of the Australian Capital<lf> Territory;".<lf> After subparagraph 7 (1) (a) (iii):<lf>   Insert the following subparagraph:<lf>   "(iiia) an ACT agency;".<lf> Paragraph 7 (1) (b):<lf>   Omit "federal court or by", substitute "federal court, a court of<lf> the Australian Capital Territory or".<lf> After paragraph 7 (1) (c):<lf>   Insert the following paragraph:<lf>   "(ca) an act done, or a practice engaged in, as the case may be,<lf> by an ACT agency, other than an act done, or a practice engaged in,<lf> in relation to:<lf>     (i) a section 5 document; or<lf>     (ii) a document in relation to which, by virtue of section 6 of<lf> the Freedom of Information Act 1989 of the Australian Capital<lf> Territory, the agency is exempt from the operation of that Act;".<lf> Section 7:<lf>   Add at the end the following subsection:<lf>   "(5) A document is a section 5 document for the purposes of<lf> paragraph (1) (ca) if:<lf>   (a) it is a document of a tribunal, authority or body identified<lf> in regulations made for the purposes of section 5 of the Freedom of<lf> Information Act 1989 of the Australian Capital Territory; and<lf>   (b) the document does not relate to matters of an administrative<lf> nature.".<lf> After section 15:<lf>   Insert the following section:<lf> Special provision relating to the application of the Information<lf> Privacy Principles in relation to the ACT<lf>   "15A. (1) In relation to a record-keeper that is an ACT agency or<lf> a court of the Australian Capital Territory, a reference in<lf> Information Privacy Principle 5 or 6 to any law of the Commonwealth<lf> that provides for access by persons to documents is to be read as a<lf> reference to any law of the Australian Capital Territory that<lf> provides for access by persons to documents.<lf>   "(2) In relation to a record-keeper that is an ACT agency or a<lf> court of the Australian Capital Territory, the reference in<lf> Information Privacy Principle 7 to a law of the Commonwealth that<lf> provides a right to require the correction or amendment of<lf> documents is to be read as a reference to a law of the Australian<lf> Capital Territory that provides such a right.<lf>   "(3) For the purposes of the application of Information Privacy<lf> Principle 7 in relation to a record-keeper that is an ACT agency or<lf> a court of the Australian Capital Territory, the reference in that<lf> Principle to the applicable provisions of a law of the Commonwealth<lf> is to be read as a reference to the applicable provisions of a law<lf> of the Australian Capital Territory.".<lf> Paragraph 27 (1) (b):<lf>   After "Minister" insert "or an ACT Minister".<lf> Paragraph 27 (1) (f):<lf>   After "Minister" insert ", to an ACT Minister".<lf> Paragraph 27 (1) (k):<lf>   After "Minister" insert "or an ACT Minister".<lf> Paragraph 30 (3) (d):<lf>   Omit "the Minister (if any)", substitute "any Minister or ACT<lf> Minister".<lf> Subsection 30 (4):<lf>   Omit "the Minister (if any)", substitute "any Minister or ACT<lf> Minister".<lf> After section 33:<lf>   Insert the following section in Division 3 of Part IV:<lf> Copies of certain reports to be given to ACT Attorney-General<lf>   "33A. (1) If:<lf>   (a) the Commissioner gives a report to the Minister under section<lf> 30, 31 or 32; and<lf>   (b) the report relates to an ACT matter;<lf> the Commissioner must, at the same time, give a copy of the report<lf> to the Attorney-General of the Australian Capital Territory.<lf>   "(2) A report relates to an ACT matter if:<lf>   (a) in the case of a report under section 30, the report relates<lf> to an act or practice of an ACT agency or of a court of the<lf> Australian Capital Territory; or<lf>   (b) in the case of a report under section 31, the report relates<lf> to a proposed ACT enactment; or<lf>   (c) in the case of a report under section 32, the report relates<lf> to an activity or audit of an ACT agency or of a court of the<lf> Australian Capital Territory.".<lf> Subsection 34 (2):<lf>   After "Minister" (wherever occurring) insert "or an ACT<lf> Minister".<lf> After section 35:<lf>   Insert the following section in Division 4 of Part IV:<lf> Special provision relating to the application of sections 34 and 35<lf> in relation to the ACT<lf>   "35A. (1) In this section, "ACT Freedom of Information Act" means<lf> the Freedom of Information Act 1989 of the Australian Capital<lf> Territory.<lf>   "(2) For the purposes of the application of sections 34 and 35 in<lf> relation to an ACT agency, a court of the Australian Capital<lf> Territory or a document of such an agency or court:<lf>   (a) a reference in either of those sections to the Freedom of<lf> Information Act 1982 is to be read as a reference to the ACT<lf> Freedom of Information Act; and<lf>   (b) a reference in either of those sections to a provision of the<lf> Freedom of Information Act 1982 is to be read as a reference to the<lf> corresponding provision of the ACT Freedom of Information Act; and<lf>   (c) a reference in either of those sections to an authority or<lf> body is to be read as a reference to the authority or body having<lf> similar functions under the corresponding provision of the ACT<lf> Freedom of Information Act.".<lf> Section 37:<lf>   (a) Insert after "federal court" in Column 1 of Item 4 in the<lf> table "or a court of the Australian Capital Territory".<lf>   (b) Add at the end the following subsection:<lf>   "  (2) For the purposes of this Part, the principal executive of<lf> an ACT agency that is an unincorporated body is the chief executive<lf> officer (however described) of the agency.".<lf> Paragraph 41 (1) (e):<lf>   After "Commonwealth enactment" insert "or an ACT enactment".<lf> Paragraph 41 (1) (f):<lf>   After "Commonwealth enactment" insert "or an ACT enactment".<lf> Section 41:<lf>   Add at the end the following subsection:<lf>   "(5) If:<lf>   (a) the Commissioner decides not to investigate, or not to<lf> investigate further, an act or practice on the ground set out in<lf> paragraph (1)(e) or (f); and<lf>   (b) the ground relates to an ACT enactment;<lf> the following provisions apply:<lf>   (c) the Commissioner must transfer any complaint about the act or<lf> practice to the person or body authorised to deal with the<lf> complaint under that enactment;<lf>   (d) the Commissioner must give notice in writing to the<lf> complainant stating that the complaint has been so transferred;<lf>   (e) the Commissioner must give to the person or body referred to<lf> in paragraph (c) any information or documents that relate to the<lf> complaint and are in the possession, or under the control, of the<lf> Commissioner;<lf>   (f) a complaint transferred under paragraph (c) is to be taken to<lf> be an application under the ACT enactment concerned.<lf> Subsection 43 (7):<lf>   Omit "the responsible Minister (if any)", substitute "any<lf> responsible Minister or ACT Minister".<lf> Subsection 43 (8):<lf>   After "Minister" insert "or ACT Minister".<lf> Subsection 43 (9):<lf>   After "Minister" insert "or ACT Minister".<lf> Section 51:<lf>   Add at the end the following subsection:<lf>   "(2) A reference in subsection (1) to the Auditor-General is a<lf> reference to:<lf>   (a) the Auditor-General of the Commonwealth; or<lf>   (b) the Auditor-General within the meaning of the Audit Act 1989<lf> of the Australian Capital Territory.".<lf> After subsection 60 (2):<lf>   Insert the following subsection:<lf>   "(2A) If a determination relates to an ACT agency or a court of<lf> the Australian Capital Territory, the reference in subsection (2)<lf> to the Commonwealth is to be read as a reference to the Australian<lf> Capital Territory.".<lf> Subsection 68 (1):<lf>   Omit "the Attorney-General has furnished a certificate under<lf> subsection 70 (1) or (2)", substitute "a certificate has been<lf> furnished under subsection 70 (1), (2) or (3)".<lf> Section 70:<lf>   Add at the end the following subsection:<lf>   "(3) If the Attorney-General of the Australian Capital Territory<lf> furnishes to the Commissioner a certificate certifying that the<lf> giving to the Commissioner of information concerning a specified<lf> matter (including the giving of information in answer to a<lf> question), or the production to the Commissioner of a specified<lf> document or other record, would be contrary to the public interest<lf> because it would:<lf>   (a) involve the disclosure of communications between an ACT<lf> Minister and a Minister of the Commonwealth or of a State, being a<lf> disclosure that would prejudice relations between the Government of<lf> the Australian Capital Territory and the Government of the<lf> Commonwealth or of a State; or<lf>   (b) involve the disclosure of deliberations or decisions of the<lf> Cabinet of the Australian Capital Territory or of a committee of<lf> the Cabinet; or<lf>   (c) involve the disclosure of deliberations or decisions of the<lf> Australian Capital Territory Executive or of a committee of that<lf> Executive; or<lf>   (d) prejudice the conduct of an investigation or inquiry into<lf> crime or criminal activity that is currently being pursued, or<lf> prejudice the fair trial of any person; or<lf>   (e) disclose, or enable a person to ascertain, the existence or<lf> identity of a confidential source of information in relation to the<lf> enforcement of the criminal law; or<lf>   (f) prejudice the effectiveness of the operational methods or<lf> investigative practices or techniques of agencies responsible for<lf> the enforcement of the criminal law; or<lf>   (g) endanger the life or physical safety of any person;<lf> the Commissioner is not entitled to require a person to give any<lf> information concerning the matter or to produce the document or<lf> other record.".<lf> Section 74:<lf>   Add at the end the following subsection:<lf>   "(3) For the purposes of its application in relation to an ACT<lf> agency or a court of the Australian Capital Territory, subsection<lf> (2) has effect as if the reference in that subsection to Part IV of<lf> the Freedom of Information Act 1982 were a reference to Part IV of<lf> the Freedom of Information Act 1989 of the Australian Capital<lf> Territory.".<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
