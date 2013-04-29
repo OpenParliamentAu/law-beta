@@ -1,588 +1,358 @@
-![](http://www.comlaw.gov.au/Details/C2005C00470/Html/e714e6b1-d469-4293-9e3b-fb438afb8c80_files/image001.gif)
+**
 
-# Import Processing Charges Act 2001
+###  IMPORT PROCESSING CHARGES ACT 2001 
+**
 
-**Act No. 90 of 2001 as amended**
 
-This compilation was prepared on 19 July 2005
- taking into account amendments up to Act No. 91 of 2005
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+see
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Imposition of import processing charges                                             1
 
-[5](#5).            Amounts of import processing charges                                                2
 
-[6](#6).            Regulations                                                                                          3
 
-**Notes** 
 
- 
 
-## An Act to impose import processing charges in respect of certain goods imported into Australia, and for related purposes
+**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+###  Long Title 
+**
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-                   This Act may be cited as the _Import Processing Charges Act 2001_.
+		This Act may be cited as the _Import Processing Charges Act 2001_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+ </dl>
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-             (1)  Section 1 and this section commence on the day on which this Act receives the Royal Assent.
+<dt>(1)</dt><dd>Section&#160;1 and this section commence on the day on which this Act
 
-             (2)  The remaining sections commence on the day fixed by Proclamation under subsection 2(3) of the _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_.
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>The remaining sections commence on the day fixed by Proclamation under subsection 2(3) of the _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_. </dd> </dl>
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 3  Definitions 
+<dl compact="">
 
-##### <a id="3"></a>3  Definitions
+<dt>(1)</dt><dd>In this Act:
 
-             (1)  In this Act:
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                    <a name="custom-act"></a>**_Customs Act_** means the _Customs Act 1901_.
+_Customs Act_ means the _Customs Act 1901_. _import processing charge_ means any of the following:  </dl></dl>
 
-                    <a name="import-process-charg"></a>**_import processing charge_** means any of the following:
+	(a)	screening charge;
+ 	(b)	self-assessed clearance declaration charge;
+ 	(c)	import declaration processing charge;
+ 	(d)	RCR processing charge;
+ 	(e)	periodic declaration processing charge;
+ 	(f)	warehouse declaration processing charge.
 
-                     (c)  import declaration processing charge;
+<def><dl compact=""><dl compact="">
 
-                     (d)  RCR processing charge;
+_prescribed_ means prescribed by the regulations. _reportable document_ means:  </dl></dl>
 
-                     (e)  periodic declaration processing charge;
+	(a)	any paper or other material on which there is writing; or
+ 	(b)	any paper or other material on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them; or
+ 	(c)	any paper or other material on which a photographic image or other image is recorded; or
+ 	(d)	any article or material from which sounds, images or writing is capable of being produced with or without the aid of a computer or of some other device;
 
-                      (f)  warehouse declaration processing charge.
+but does not include any such paper, article or other material:
 
-                    <a name="prescrib"></a>**_prescribed_** means prescribed by the regulations.
+	(e)	that comprises advertising material; or
+ 	(f)	that does not yet contain the sounds, images or writing for the carriage of which it was produced.
 
-             (2)  Expressions used in this Act have the same meanings as in the Customs Act.
+<dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Imposition of import processing charges
+<dt>(2)</dt><dd>Expressions used in this Act have the same meanings as in the Customs Act.
 
-             (3)  Import declaration processing charge payable as set out in section 71B of the Customs Act is imposed.
+</dd> </dl></dl>
 
-             (4)  RCR processing charge payable as set out in section 71DC of the Customs Act is imposed.
+**
 
-             (5)  Periodic declaration processing charge payable as set out in section 71DG of the Customs Act is imposed.
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 4  Imposition of import processing charges 
+**
 
-             (6)  Warehouse declaration processing charge payable as set out in section 71DI of the Customs Act is imposed.
+ <dl compact=""><dl compact="">
 
-##### <a id="5"></a>5  Amounts of import processing charges
+<dt>(1)</dt><dd>Screening charge payable as set out in section&#160;64ABC of the Customs
 
-             (3)  The amount of an import declaration processing charge is:
+Act is imposed.</dd> <dt>(2)</dt><dd>Self-assessed clearance declaration charge payable as set out in section&#160;71AAA of the Customs Act is imposed.</dd> <dt>(3)</dt><dd>Import declaration processing charge payable as set out in section&#160;71B of the Customs Act is imposed.</dd> <dt>(4)</dt><dd>RCR processing charge payable as set out in section&#160;71DC of the Customs Act is imposed.</dd> <dt>(5)</dt><dd>Periodic declaration processing charge payable as set out in section&#160;71DG of the Customs Act is imposed.</dd> <dt>(6)</dt><dd>Warehouse declaration processing charge payable as set out in section&#160;71DI of the Customs Act is imposed. </dd> </dl></dl>
 
-                     (a)  for an electronic import declaration that relates to goods imported into Australia by air (other than goods imported through the post)—$30.10 or such other amount (not exceeding $45.00) as is prescribed; or
+<center>Back to Top</center>
 
-                     (b)  for a documentary import declaration that relates to goods imported into Australia by air (other than goods imported through the post)—$48.85 or such other amount (not exceeding $73.30) as is prescribed; or
+**
 
-                     (c)  for an electronic import declaration that relates to goods imported into Australia through the post—$30.10 or such other amount (not exceeding $45.00) as is prescribed; or
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 5  Amounts of import processing charges 
+**
 
-                     (d)  for a documentary import declaration that relates to goods imported into Australia through the post—$48.85 or such other amount (not exceeding $73.30) as is prescribed; or
+ <dl compact=""><dl compact="">
 
-                     (e)  for an electronic import declaration that relates to goods imported into Australia by sea (other than goods imported through the post)—$49.50 or such other amount (not exceeding $74.00) as is prescribed; or
+<dt>(1)</dt><dd>The amount of a screening charge for an abbreviated cargo report is $45 or
 
-                      (f)  for a documentary import declaration that relates to goods imported into Australia by sea (other than goods imported through the post)—$65.75 or such other amount (not exceeding $98.60) as is prescribed.
+such other amount (not exceeding $67.50) as is prescribed.</dd> <dt>(2)</dt><dd>The amount of a self-assessed clearance declaration charge is: </dd> </dl></dl>
 
-             (4)  The amount of a periodic declaration processing charge is $1,275 or such other amount (not exceeding $1,912.50) as is prescribed.
+	(a)	for a self-assessed clearance declaration that is made by a cargo reporter in respect of 21 or more reportable documents included in a cargo report&#151;$45 or such other amount (not exceeding $67.50) as is prescribed; or
+ 	(b)	in any other case&#151;$2.15 or such other amount (not exceeding $3.23) as is prescribed.
 
-             (5)  The amount of an RCR processing charge is $9.40 or such other amount (not exceeding $14.10) as is prescribed.
+<dl compact=""><dl compact="">
 
-             (6)  The amount of a warehouse declaration processing charge is:
+<dt>(3)</dt><dd>The amount of an import declaration processing charge is:
 
-                     (a)  for an electronic warehouse declaration that relates to goods imported into Australia by air (other than goods imported through the post)—$30.10 or such other amount (not exceeding $45.00) as is prescribed; or
+</dd> </dl></dl>
 
-                     (b)  for a documentary warehouse declaration that relates to goods imported into Australia by air (other than goods imported through the post)—$48.85 or such other amount (not exceeding $73.30) as is prescribed; or
+	(a)	for an electronic import declaration that relates to goods to which section&#160;68 applies:
+ 	(i)	if the value of the goods is more than $250 (or such other amount as is prescribed) but not more than $1,000 (or such other amount as is prescribed)&#151;$23.20 or such other amount (not exceeding $34.80) as is prescribed; or
+ 	(ii)	if the value of the goods is more than $1,000 (or such other amount as is prescribed)&#151;$29.25 or such other amount (not exceeding $43.85) as is prescribed; or
+ 	(b)	for a documentary import declaration that relates to goods to which section&#160;68 applies&#151;$60.00 or such other amount (not exceeding $90.00) as is prescribed.
 
-                     (c)  for an electronic warehouse declaration that relates to goods imported into Australia through the post—$30.10 or such other amount (not exceeding $45.00) as is prescribed; or
+<dl compact=""><dl compact="">
 
-                     (d)  for a documentary warehouse declaration that relates to goods imported into Australia through the post—$48.85 or such other amount (not exceeding $73.30) as is prescribed; or
+<dt>(4)</dt><dd>The amount of a periodic declaration processing charge is $1,275 or such
 
-                     (e)  for an electronic warehouse declaration that relates to goods imported into Australia by sea (other than goods imported through the post)—$49.50 or such other amount (not exceeding $74.00) as is prescribed; or
+other amount (not exceeding $1,912.50) as is prescribed.</dd> <dt>(5)</dt><dd>The amount of an RCR processing charge is $9.40 or such other amount (not exceeding $14.10) as is prescribed.</dd> <dt>(6)</dt><dd>The amount of a warehouse declaration processing charge is: </dd> </dl></dl>
 
-                      (f)  for a documentary warehouse declaration that relates to goods imported into Australia by sea (other than goods imported through the post)—$65.75 or such other amount (not exceeding $98.60) as is prescribed.
+	(a)	for an electronic warehouse declaration:
+ 	(i)	if the value of the goods is more than $250 (or such other amount as is prescribed) but not more than $1,000 (or such other amount as is prescribed)&#151;$23.20 or such other amount (not exceeding $34.80) as is prescribed; or
+ 	(ii)	if the value of the goods is more than $ 00 (or such other amount as is prescribed)&#151;$29.25 or such other amount (not exceeding $43.85) as is prescribed; or
+ 	(b)	for a documentary warehouse declaration&#151;$60.00 or such other amount (not exceeding $90.00) as is prescribed. 
 
-##### <a id="6"></a>6  Regulations
+**
 
-                   The Governor‑General may make regulations for the purposes of section 5.
+###  IMPORT PROCESSING CHARGES ACT 2001- SECT 6  Regulations 
+**
 
-# Notes to the _Import Processing Charges Act 2001_
+ <dl compact=""><dl compact="">
 
-### Note 1
+		The Governor-General may make regulations for the purposes of section&#160;5.
 
-The _Import Processing Charges Act 2001_ as shown in this compilation comprises Act No. 90, 2001 amended as indicated in the Tables below.
+ </dl></dl>
 
-### Table of Acts
+<center>**
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+###  IMPORT PROCESSING CHARGES ACT 2001<centreit>Notes to the _Import Processing Charges Act 2001_ </centreit>
+**</center>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+**Note 1**
+
+The _Import Processing Charges Act 2001_ as shown in this compilation comprises Act No.&#160;90, 2001 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead></table>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-<tr>
-  <td>
-    <div>Import Processing Charges Act 2001</div>
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<center>Back to Top</center>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Import Processing Charges Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>90, 2001</div>
+
   </td>
-  <td>
-    <div>18 July 2001</div>
+  <td colspan="1" align="left">
+    <div>18&#160;July 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 19 July 2005 ( <i>see</i>F2005L01812)</div>
+Remainder: ( <i>see</i>s.&#160;2(2))</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Import Processing Charges (Amendment and Repeal) Act 2002</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Import Processing Charges (Amendment and Repeal) Act 2002</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>79, 2002</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>8 Oct 2002</div>
+
   </td>
-  <td>
-    <div>Schedule 1: <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1: \[ <i>see (a)</i>and Note 2]</div>
+
   </td>
-  <td>
-    <div>S. 2(1) (am. by 25, 2004, Sch. 2 \[item 32])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>S. 2(1) (am. by 25, 2004, Sch.&#160;2 \[item 32])</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>25, 2004</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Mar 2004</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (item 32): <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (item 32): <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
+</tr></table>
+
+_(a)_	Subsection 2(1) (item&#160;6(a)) of the _Import Processing Charges (Amendment and Repeal) Act 2002_ provides as follows:
+
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Commencement information</b></div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Import Processing Charges Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>90, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1: <i>(c)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Column 1</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 2</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 3</b></div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Import Processing Charges) Act 2005</div>
-  </td>
-  <td>
-    <div>91, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 9–12): <i>(d)</i> 
-Schedule 1 (item 13): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
 
-_(a)_     Subsection 2(1) (item 6) of the _Import Processing Charges (Amendment and Repeal) Act 2002_ provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of section 5 of the
-        <i>Import Processing Charges Act 2001</i>; and
-    </div>
-    <div>
-      (b) the day on which this Act receives the Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      19 July 2005
-      (paragraph (a) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(b)_     Subsection 2(1) (item 20) of the _Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      20\. Schedule 2, item 32
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Import Processing Charges (Amendment and Repeal) Act 2002</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      8 October 2002
-    </div>
-  </td>
-</tr></table>
-
-_(c)_     Subsection 2(1) (item 2) of the _Import Processing Charges Amendment Act 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 6 of the
-        <i>Import Processing Charges Act 2001</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      19 July 2005
-    </div>
-  </td>
-</tr></table>
-
-_(d)_     Subsection 2(1) (items 7 and 8) of the _Customs Legislation Amendment (Import Processing Charges) Act 2005_ provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 1, items 9 to 12
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 6 of the
-        <i>Import Processing Charges Act 2001</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      19 July 2005
-    </div>
-  </td>
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 1, item 13
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Import Processing Charges (Amendment and Repeal) Act 2002</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      19 July 2005
-    </div>
-  </td>
-</tr></table>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>6\. Schedule&#160;1</div>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
   </td>
-  <td>
-    <div>am. No. 91, 2005</div>
+  <td colspan="1" align="left">
+    <div>The later of: 
+(a) immediately after the commencement of section&#160;5 of the <i>Import Processing Charges Act 2001</i>; and</div>
+
   </td>
+  <td colspan="1" align="left">
+    <div>\[ <i>see</i>Note 2]</div>
+
+  </td>
+</tr></table>_(b)_ Subsection 2(1) (item&#160;20) of the _Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004_ provides as follows:
+
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms. 
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2002; Nos. 90 and 91, 2005</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>20\. Schedule&#160;2, item&#160;32</div>
 
- 
+  </td>
+  <td colspan="1" align="left">
+    <div>Immediately after the commencement of section&#160;2 of the <i>Import Processing Charges (Amendment and Repeal) Act 2002</i>.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>8&#160;October 2002</div>
+
+  </td>
+</tr></table>  <center>**
+
+###  Note 2 
+**</center>  **Note 2**
+
+_Import Processing Charges (Amendment and Repeal) Act 2002_(No.&#160;79, 2002)
+
+The following amendment commences on 20&#160;July 2005 unless proclaimed earlier:
+
+**Schedule&#160;1** **1  Paragraph 5(2)(a)** Omit all the words before "included in", substitute "for 21 or more self-assessed clearance declarations that are made by a cargo reporter in respect of reportable documents".
+
+As at 29 March 2004 the amendment is not incorporated in this compilation.
+
+</def>
+
+
