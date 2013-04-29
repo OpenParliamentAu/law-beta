@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00038/Html/MarineNavLevyColl89WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00535/Html/MarineNavLevyColl89WD02_image001.gif)
 
 # Marine Navigation Levy Collection Act 1989
 
 **Act No. 162 of 1989 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 15 October 2008
+ taking into account amendments up to Act No. 94 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -43,8 +43,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [12](#12).          Regulations
 
 [13](#13).          Amendments of _Lighthouses Act 1911_ [_see_ Note 2]
-
-**Schedule—Amendments of the Lighthouses Act 1911** 
 
 **Notes** 
 
@@ -194,22 +192,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The _Lighthouses Act 1911_ is amended as set out in the Schedule.
 
-# Schedule—Amendments of the Lighthouses Act 1911
-
-_Section 13_
-
-* * *
-
-**Note:**
-
-The amendments made by this Schedule are incorporated in the compilation on ComLaw.
-
-_Lighthouses Act 1911_<span style="font-size:9.0pt"> </span>
-
-For access to the wording of the amendments made by this Schedule _see_ Act No. 162, 1989.
-
-* * *
-
 # Notes to the _Marine Navigation Levy Collection Act 1989_
 
 ### Note 1
@@ -299,23 +281,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 2, 3): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -361,26 +326,5 @@ of Assent</div>
 ### Note 2
 
 Section 13—The amendments made by section 13 have been incorporated in the reprint of the _Lighthouses Act 1911_, which is published separately.
-
-### Note 3
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 2  Section 10
-
-Before “Any”, insert “(1)”.
-
-## 3  At the end of section 10
-
-Add:
-
-             (2)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
-As at 2 February 2010 the amendments are not incorporated in this compilation.
 
  
