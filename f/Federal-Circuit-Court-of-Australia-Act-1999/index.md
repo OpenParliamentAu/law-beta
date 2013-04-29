@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00012/Html/FederalMagis1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00341/Html/FederalMagis1999WD02_image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 1 January 2010
- taking into account amendments up to Act No. 117 of 2009
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 55 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -693,27 +693,11 @@ Jurisdiction that is required to be exercised in both Divisions
 
 Responsibility of Chief Federal Magistrate
 
-             (1)  The Chief Federal Magistrate is responsible for ensuring the effective, orderly and expeditious discharge of the business of the Federal Magistrates Court.
+             (1)  The Chief Federal Magistrate is responsible for ensuring the orderly and expeditious discharge of the business of the Federal Magistrates Court.
 
              (2)  In discharging his or her responsibility under subsection (1), the Chief Federal Magistrate must promote the objects of this Act.
 
-             (3)  In discharging his or her responsibility under subsection (1) (and without limiting the generality of that subsection) the Chief Federal Magistrate:
-
-                     (a)  may, subject to this Act and to such consultation with Federal Magistrates as is appropriate and practicable, do all or any of the following:
-
-                              (i)  make arrangements as to the Federal Magistrate who is to constitute the Federal Magistrates Court in particular matters or classes of matters;
-
-                             (ii)  without limiting the generality of subparagraph (i)—assign particular caseloads, classes of cases or functions to particular Federal Magistrates;
-
-                            (iii)  temporarily restrict a Federal Magistrate to non-sitting duties; and
-
-                     (b)  must ensure that arrangements are in place to provide Federal Magistrates with appropriate access to (or reimbursement for the cost of):
-
-                              (i)  annual health assessments; and
-
-                             (ii)  short-term  counselling services; and
-
-                            (iii)  judicial education.
+             (3)  Subject to such consultation with the Federal Magistrates as is appropriate and practicable, the Chief Federal Magistrate may make arrangements as to the Federal Magistrate who is to constitute the Federal Magistrates Court in particular matters or classes of matters.
 
 Exercise of powers of General and Fair Work Divisions of the Federal Magistrates Court
 
@@ -732,12 +716,6 @@ Assignment of Federal Magistrates to locations or registries
              (5)  An instrument under subsection (4) has no effect unless it is approved, in writing, by the Minister.
 
              (6)  Subsection (4) does not prevent a Federal Magistrate from performing his or her duties at one or more other locations or registries on a temporary basis (whether on circuit or otherwise).
-
-Protection of the Chief Federal Magistrate in the exercise of functions or powers
-
-          (6A)  In exercising the functions or powers mentioned in paragraph (3)(a) or subsection (4), the Chief Federal Magistrate has the same protection and immunity as if he or she were exercising those functions or powers as, or as a member of, the Federal Magistrates Court.
-
-          (6B)  Despite section 39B of the _Judiciary Act 1903_, the Federal Court of Australia does not have jurisdiction with respect to a matter relating to the exercise by the Chief Federal Magistrate of the functions or powers mentioned in subsection (3) or (4).
 
 Functions and powers of the Chief Federal Magistrate
 
@@ -953,7 +931,7 @@ about the dispute resolution processes that could be used to resolve any matter 
 
              (1)  A designated officer of the Federal Magistrates Court must, as far as practicable, on request by:
 
-                     (a)  a party to proceedings in the Federal Magistrates Court; or
+                     (a)  a party to proceedings in the Federal   Magistrates Court; or
 
                      (b)  a person considering instituting proceedings in the Federal Magistrates Court;
 
@@ -2269,7 +2247,7 @@ for an employee or employees of the agency or organisation to:
 
                    There is to be a Chief Executive Officer of the Federal Magistrates Court.
 
-##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
+##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
 
                    Schedule 2 has effect.
 
@@ -2799,7 +2777,7 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ### Division 2—Disability and death benefits
 
-##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
+##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
 
              (1)  If:
 
@@ -3443,23 +3421,6 @@ Schedule 2 (items
     <div>Sch. 17 (item 20)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Access to Justice (Civil Litigation Reforms) Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>117, 2009</div>
-  </td>
-  <td>
-    <div>4 Dec 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (items 11–14(1)): 1 Jan 2010</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 14(1))</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3810,7 +3771,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. Nos. 55 and 117, 2009</div>
+    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4679,16 +4640,5 @@ _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (No.�
 (2)        A person who is a Federal Magistrate (other than the Chief Federal Magistrate) of the Federal Magistrates Court immediately before Part 2 of this Schedule commences, is taken, for all purposes, not to have been assigned under clause 1A of Schedule 1 to the _Federal Magistrates Act 1999_ (as inserted by item 16 of this Schedule) to either Division of the Federal Magistrates Court.
 
 _Note:       A Federal Magistrate (including the Chief Federal Magistrate) who is not assigned to either Division of the Federal Magistrates Court may exercise the powers of the Federal Magistrates Court in either Division (see subsection 12(3C) of the Federal Magistrates Act 1999, as inserted by item 13 of this Schedule)._
-
-* * *
-
-_Access to Justice (Civil Litigation Reforms) Amendment Act 2009
- (No. 117, 2009)_
-
-## Schedule 3
-
-## 14  Application of amendments
-
-(1)        The amendments made by this Part, other than items 6 and 7, apply in relation to Judges and Federal Magistrates whether appointed before or after the commencement of the amendments.
 
  
