@@ -1,56 +1,51 @@
 
 Primary Industries Levies and Charges Collection Act 1991 
 Act No. 25 of 1991 as amended
-This compilation was prepared on 16 February 2000 taking into account amendments up to Acts No. 170, 1999
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-
-  
-  
-  
+Consolidated as in force on 6 October 1999
+(includes amendments up to Act No. 118 of 1999)
+This Act has uncommenced provisions and amendments For uncommenced provisions and amendments, see the endnotes
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 1	Short title [see Note 1]	1
-2	Commencement	1
+2	Commencement [see Note 1]	1
 3	Objects	1
-4	Interpretation	1
+4	Interpretation [see Note 2]	1
 5	Act binds Crown	11
 6	When levy or charge due for payment	11
 7	Liability of intermediaries	11
 8	Liability of intermediaries—ancillary provisions	14
 9	Liability of sellers of prescribed goods or services	16
-10	Collection agreements with States and Territories	19
+10	Collection agreements with States and Territories	20
 11	Collection agreements with collecting organisations	21
 12	Industry consultation	23
 13	Application of Financial Management and Accountability Act	23
 14	Commonwealth not to discriminate or give preference	24
-15	Penalty for late payment	24
+15	Penalty for non-payment	24
 16	Remission of penalty	26
 17	Recovery of levy, charge and other amounts	26
-18	Refund of levy, charge etc.	26
-19	Powers of authorised person in relation to premises	27
-19A	Offence of obstructing an authorised person acting under a warrant	28
-19B	Persons to assist authorised person acting under a warrant	28
+18	Refund of levy, charge etc.	27
+19	Powers of authorised person in relation to premises	28
 20	Warrant to enter premises	28
 21	Retention and return of seized property	29
-22	Identity cards	30
+22	Identity cards	29
 23	Power to call for information	30
 24	Offences in relation to returns etc.	30
 24A	Offences in relation to weighing cattle carcases	31
 25	Conduct of directors, servants and agents	32
-26	Appointment of authorised persons	34
+26	Appointment of authorised persons	33
 27	Publishing of information	34
-28	Reconsideration and review of decisions	35
+28	Reconsideration and review of decisions	34
 29	Delegation by Secretary	36
 29A	Associated Acts do not authorise the imposition of a tax on property of a State	36
 30	Regulations	37
-31	Orders	38
+31	Orders	37
 Schedule 1—Acts that impose a charge	39
 Schedule 2—Acts that impose a levy	40
-Notes to the Primary Industries Levies and Charges Collection Act 1991	41
-
+Notes 		41
 An Act relating to the collection of primary industries levies and charges imposed by various Acts
-  
-  
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Primary Industries Levies and Charges Collection Act 1991.
 2  Commencement 
@@ -66,7 +61,7 @@ associated Act means:
 	(a)	an Act specified in Schedule 1 or prescribed for the purposes of the definition of charge in this subsection; or
 	(b)	an Act specified in Schedule 2 or prescribed for the purposes of the definition of levy in this subsection.
 authorised person means a person who is, because of an appointment under section 26, an authorised person for the purposes of the provision in which the expression appears.
-buying agent means a person who, in the course of carrying on a business (including the business of a settlement agent or a solicitor), purchases products on behalf of the first purchaser, or the processor, of the products.
+buying agent means a person who, in the course of carrying on a business, purchases products on behalf of the first purchaser, or the processor, of the products.
 charge means charge imposed by or under an Act specified in Schedule 1 or by an Act prescribed for the purposes of this definition.
 charge payer means a person who has paid, or is liable to pay, a charge.
 collecting authority means a State, or an authority of a State, that, by reason of an agreement entered into under section 10, has agreed to collect on behalf of the Commonwealth money payable under this Act.
@@ -83,8 +78,8 @@ examinable documents means any books or documents relating to:
 	(a)	the producing of collection products, whether by:
 	(i)	growing or harvesting; or
 	(ii)	processing the products or other products; or
-	(b)	the handling, storing, transporting, processing, marketing, purchasing or selling of collection products; or
-	(c)	the purchasing or selling of prescribed goods or services in relation to collection products of any kind;
+	(b)	the handling, storing, transporting, processing or marketing of collection products; or
+	(c)	the sale of prescribed goods or services in relation to collection products of any kind;
 including, without limiting the generality of the foregoing, books or documents relating to financial dealings between any of the following persons:
 	(d)	producers of collection products;
 	(e)	selling agents;
@@ -99,9 +94,9 @@ including, without limiting the generality of the foregoing, books or documents 
 	(m)	receivers of collection products;
 	(n)	persons who handle, store, transport or market collection products;
 	(p)	persons who sell goods or services that, in relation to collection products of any kind, are prescribed goods or services;
-	(q)	persons who deal with by‑products of collection goods.
+	(q)	persons who deal with by-products of collection goods.
 exporting agent means a person who, in the course of carrying on a business, exports collection products from Australia on behalf of other persons (whether or not the other persons are the owners of the products).
-feedlot operator means a person with control of premises where cattle within the meaning of Schedule 1 or 3 to the Primary Industries (Excise) Levies Act 1999 or Schedule 2 to the Primary Industries (Customs) Charges Act 1999 are confined in watered and serviced yards, with no access to pasture or crops, for a period of more than 60 days, and fed a protein based feed the components of which are intended to facilitate efficient live‑stock growth.
+feedlot operator means a person with control of premises where cattle within the meaning of Schedule 1 or 3 to the Primary Industries (Excise) Levies Act 1999 or Schedule 2 to the Primary Industries (Customs) Charges Act 1999 are confined in watered and serviced yards, with no access to pasture or crops, for a period of more than 60 days, and fed a protein based feed the components of which are intended to facilitate efficient live-stock growth.
 first purchaser means a person who, in the course of carrying on a business, purchases collection products from the producers of the products (otherwise than through selling agents) but does not include prescribed persons who so purchase collection products for retail sale.
 forest industries levy or charge means:
 	(a)	levy imposed by Schedule 10 to the Primary Industries (Excise) Levies Act 1999; or
@@ -112,6 +107,9 @@ intermediary, in relation to a producer, means a person required, under subsecti
 leviable amount, in relation to a levy year, means:
 	(a)	$50; or
 	(b)	if, before the commencement of the levy year, another amount is prescribed in relation to that year, that prescribed amount.
+leviable weight, in relation to a levy year, means:
+	(a)	15 tonnes; or
+	(b)	if, before the commencement of the levy year, another weight is prescribed in relation to that year, that prescribed weight.
 levy means levy imposed by or under an Act specified in Schedule 2 or by an Act prescribed for the purposes of this definition.
 levy payer means a person who has paid, or is liable to pay, levy.
 levy year, in relation to a collection product, means the period of whatever duration that is prescribed in relation to that product.
@@ -133,7 +131,7 @@ prescribed goods or services, in relation to collection products of a particular
 process, in relation to a collection product, means the performance of any operation in relation to the product but does not include the performance of an operation prescribed for the purposes of this definition, either generally or in relation to the product.
 processing establishment means a place at which a process in relation to a product is performed by a processor and includes an abattoir.
 processor means:
-	(a)	in relation to a collection product declared by the regulations to be a product to which this paragraph applies—the person, association, co‑operative society, board or authority that produces the product; or
+	(a)	in relation to a collection product declared by the regulations to be a product to which this paragraph applies—the person, association, co-operative society, board or authority that produces the product; or
 	(b)	in relation to a collection product declared by the regulations to be a product to which this paragraph applies—the proprietor of the processing establishment that processes the product unless, immediately prior to delivery to that establishment, the product is owned by the proprietor of another processing establishment, in which case the proprietor of that other establishment.
 producer means:
 	(a)	in the case of honey on which levy is imposed by clause 2 of Schedule 14 to the Primary Industries (Excise) Levies Act 1999 or a product prescribed for the purposes of this paragraph—the person who owned the product immediately before sale; or
@@ -144,41 +142,38 @@ producer means:
 	(i)	where a marketing law vests the product in a person or body or in the Crown in right of a State at or before the time the product is produced—the person who would have owned the product but for that marketing law; or
 	(ii)	where subparagraph (i) does not apply—the person who, immediately before the product is produced, owns the prescribed thing from which the product is produced; or
 	(d)	in the case of juicing fruit or processing fruit on which, in each case, levy is imposed or in the case of a product prescribed for the purposes of this paragraph—the person who produced the product by processing the product or another product; or
-	(da)	in the case of logs within the meaning of Schedule 10 to the Primary Industries (Excise) Levies Act 1999—the operator of the mill to which the logs were delivered; or
+	(da)	in the case of logs within the meaning of Schedule 10 to the Primary Industries (Excise) Levies Act 1999—the operator of the mill to which the logs were delivered;
 	(e)	in the case of a product prescribed for the purposes of this paragraph—the person who, under the regulations, is to be taken to be the producer of the product; or
 	(f)	in the case of pigs in relation to which levy is imposed or in the case of such other animals as are prescribed for the purposes of this paragraph—the person who owns the animals at the time when the slaughter takes place; or
-	(fa)	in the case of live‑stock within the meaning of Schedule 12 to the Primary Industries (Customs) Charges Act 1999 (in so far as collection of charge imposed under that Schedule is concerned—the person who owned the live‑stock immediately before the export in respect of which the charge is imposed; or
-	(fb)	in the case of cattle within the meaning of Schedule 3 to the Primary Industries (Customs) Charges Act 1999 (in so far as collection of charges imposed under that Schedule is concerned)—the person who owned the cattle immediately before the export in respect of which the charge is imposed; or
-	(fc)	in the case of buffaloes (in so far as collection of charge imposed under Schedule 1 to the Primary Industries (Customs) Charges Act 1999 is concerned)—the person who owned the buffaloes immediately before the export in respect of which the charge is imposed; or
-	(g)	in the case of honey, live‑stock within the meaning of Schedule 11 to the Primary Industries (Customs) Charges Act 1999 (in so far as the collection of charge imposed under that Schedule is concerned), logs within the meaning of Schedule 7 to the Primary Industries (Customs) Charges Act 1999 or chargeable horticultural products on which, in each case, charge is imposed or in the case of a product prescribed for the purposes of this paragraph—the person who exports the product from Australia; or
-	(ga)	in the case of forest products within the meaning of Schedule 8 to the Primary Industries (Customs) Charges Act 1999 or in the case of such other products as are prescribed for the purposes of this paragraph—the person who imports the product into Australia; or
+	(fa)	in the case of live-stock within the meaning of Schedule 12 to the Primary Industries (Customs) Charges Act 1999 (in so far as collection of charge imposed under that Schedule is concerned—the person who owned the live-stock immediately before the export in respect of which the charge is imposed;
+	(fb)	in the case of cattle within the meaning of Schedule 3 to the Primary Industries (Customs) Charges Act 1999 (in so far as collection of charges imposed under that Schedule is concerned)—the person who owned the cattle immediately before the export in respect of which the charge is imposed;
+	(fc)	in the case of buffaloes (in so far as collection of charge imposed under Schedule 1 to the Primary Industries (Customs) Charges Act 1999 is concerned)—the person who owned the buffaloes immediately before the export in respect of which the charge is imposed;
+	(g)	in the case of honey, live-stock within the meaning of Schedule 11 to the Primary Industries (Customs) Charges Act 1999 (in so far as the collection of charge imposed under that Schedule is concerned), logs within the meaning of Schedule 7 to the Primary Industries (Customs) Charges Act 1999 or chargeable horticultural products on which, in each case, charge is imposed or in the case of a product prescribed for the purposes of this paragraph—the person who exports the product from Australia; or
+	(ga)	in the case of forest products within the meaning of Schedule 8 to the Primary Industries (Customs) Charges Act 1999 or in the case of such other products as are prescribed for the purposes of this paragraph—the person who imports the product into Australia;
 	(h)	in the case of fresh grapes, dried grapes or grape juice on which, in each case, levy (other than wine grapes levy) is imposed or in the case of a product prescribed for the purposes of this paragraph:
 	(i)	where a person is the grower of the product and the proprietor of the processing establishment at which the product is processed—that person; or
-	(iii)	in any other case—the person who was the owner of the product immediately before delivery to a processing establishment; or
-	(hb)	in the case of a collection product that will, for the purpose of the imposition of levy under subclause 2(2) of Schedule 15 to the Primary Industries (Excise) Levies Act 1999, be presumed to have been produced in Australia—the person who would, if the collection product presumed to be produced were actually produced, be taken to be the grower of the product; or
-	(ha)	in respect of fresh grapes, dried grapes or grape juice on which wine grapes levy is imposed—the person who is the owner of the product when the wine‑making process (as defined by clause 1 of Schedule 26 to the Primary Industries (Excise) Levies Act 1999) begins in relation to the product; or
+	(ii)	where the owner of the product immediately before delivery to a processing establishment at which the product is processed is the proprietor of another processing establishment—the proprietor of the first‑mentioned processing establishment; or
+	(iii)	where neither subparagraph (i) nor (ii) apply—the person who was the owner of the product immediately before delivery to a processing establishment; or
+	(hb)	in the case of a collection product that will, for the purpose of the imposition of levy under subclause 2(2) of Schedule 15 to the Primary Industries (Excise) Levies Act 1999, be presumed to have been produced in Australia—the person who would, if the collection product presumed to be produced were actually produced, be taken to be the grower of the product;
+	(ha)	in respect of fresh grapes, dried grapes or grape juice on which wine grapes levy is imposed—the person who is the owner of the product when the wine-making process (as defined by subsection 4(1) of the Wine Grapes Levy Act 1979) begins in relation to the product;
 	(j)	except where subsection (2) applies, in the case of any other product—the grower or breeder of the product.
 product includes a thing occurring naturally.
-proprietor means:
-	(a)	in relation to an abattoir:
-	(i)	if a licence is required under any law of the Commonwealth or of a State or Territory to carry on abattoir activities—the person who holds the licence; or
-	(ii)	if no licence is required under any such law—the person carrying on the business of operating the abattoir; and
-	(b)	in relation to any other processing establishment—the person carrying on the business of processing collection products in that establishment.
+proprietor, in relation to a processing establishment, means the person who processes prescribed products at that establishment.
 R & D Corporation means an R & D Corporation established under section 8 of the Primary Industries and Energy Research and Development Act 1989.
 receiver, in relation to a collection product, means the person who:
 	(a)	takes delivery of the product, personally or through a person acting on his or her behalf, from the producer otherwise than for storage on behalf of the producer where no person is liable to pay the producer for the product; or
 	(b)	takes the product out of the control of the producer under a marketing law.
 regulations includes orders.
 Secretary means the Secretary to the Department.
-selling agent means a person who, in the course of carrying on a business (including the business of a settlement agent or a solicitor), sells collection products on behalf of the producers of the products but does not include a prescribed person who sells collection products by retail sale.
+selling agent means a person who, in the course of carrying on a business, sells collection products on behalf of the producers of the products but does not include a prescribed person who sells collection products by retail sale.
 State includes the Australian Capital Territory and the Northern Territory.
 this Act includes the regulations.
 	(2)	For the purposes of this Act:
 	(a)	a person who, under subclause 7(1), (2) or (3) of Schedule 3 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to cattle is taken to be the producer of the cattle, and a feedlot operator who buys the cattle from such a person is taken to be a first purchaser of the cattle; and
 	(b)	a person who, under clause 4 of Schedule 1 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to cattle is taken to be the producer of the cattle; and
 	(c)	a person who, under clause 4 of Schedule 2 to the Primary Industries (Customs) Charges Act 1999, is liable to pay charge in relation to cattle is taken to be the producer of the cattle; and
-	(d)	a person who, under clause 4 of Schedule 17 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live‑stock is taken to be the producer of the live‑stock; and
-	(e)	a person who, under clause 5 of Schedule 18 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live‑stock is taken to be the producer of the live‑stock; and
+	(d)	a person who, under clause 4 of Schedule 17 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live-stock is taken to be the producer of the live-stock; and
+	(e)	a person who, under clause 5 of Schedule 18 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live-stock is taken to be the producer of the live‑stock; and
 	(f)	a person who, under clause 3 of Schedule 2 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to buffaloes is taken to be the producer of the buffaloes.
 	(3)	A reference in this Act to a contravention of a provision of this Act includes a reference to an offence against section 6, 7 or 7A, or paragraph 86(1)(a) of the Crimes Act 1914 that relates to that provision.
 	(4)	Unless the contrary intention appears, for the purposes of the collection of a particular levy or charge, a word or expression contained in this Act that is not defined for the purposes of this Act but is defined in:
@@ -199,31 +194,30 @@ has the same meaning in this Act as in the associated Act, that Schedule or thos
 	(b)	a first purchaser of such products (otherwise than such products purchased through a selling agent or a buying agent); and
 	(c)	a buying agent who purchases such products on behalf of the first purchaser, or the processor, of the products, otherwise than from a selling agent;
 is liable to pay in accordance with subsection (4), on behalf of the producer, an amount equal to the sum of:
-	(d)	the amount of any levy due for payment on or in relation to the products; and
+	(d)	the amount of any levy due for payment on or in relation to the products that remains unpaid by the producer; and
 	(e)	any amount payable by the producer under subsection 15(1) in relation to that levy.
 	(2)	Subject to subsection (2A), for better securing the payment of levy:
 	(a)	a receiver of a product on or in relation to which levy is imposed, being a product declared by the regulations to be a product to which this paragraph applies; and
 	(b)	a processor who processes a product on or in relation to which levy is imposed, being a product declared by the regulations to be a product to which this paragraph applies;
 is liable to pay in accordance with subsection (4), on behalf of the producer, an amount equal to the sum of:
-	(c)	the amount of any levy due for payment on or in relation to the product; and
+	(c)	the amount of any levy due for payment on or in relation to the product that remains unpaid by the producer; and
 	(d)	any amount payable by the producer under subsection 15(1) in relation to that levy.
 	(2A)	Subsections (1) and (2) do not both apply to a particular amount of levy that is payable. In the case of levy imposed on the sale of cattle by Schedule 3 to the Primary Industries (Excise) Levies Act 1999, subsection (2) only applies if subsection (1) does not. In any other case, subsection (1) only applies if subsection (2) does not.
 	(3)	For better securing the payment of charge, an exporting agent who exports prescribed products on which charge is imposed is liable to pay in accordance with subsection (4), on behalf of the producer, an amount equal to the sum of:
-	(a)	the amount of any charge due for payment on or in relation to the products; and
+	(a)	the amount of any charge due for payment on or in relation to the products that remains unpaid by the producer; and
 	(b)	any amount payable by the producer under subsection 15(1) in relation to that charge.
 Note:	under paragraph (g) of the definition of producer in subsection 4(1), the producer is taken to be the person who exports the products from Australia.
 	(3A)	For better securing the payment of charge, an importing agent who imports prescribed products on which charge is imposed is liable to pay in accordance with subsection (4), on behalf of the producer, an amount equal to the sum of:
-	(a)	the amount of any charge due for payment on or in relation to the products; and
+	(a)	the amount of any charge due for payment on or in relation to the products that remains unpaid by the producer; and
 	(b)	any amount payable by the producer under subsection 15(1) in relation to that charge.
 Note:	under paragraph (ga) of the definition of producer in subsection 4(1), the producer is taken to be the person who imports the products into Australia.
-	(3B)	An agreement between a producer and an intermediary that purports, expressly or implicitly, to require the producer to pay levy or charge as a condition for the provision of services by the intermediary is void to that extent, if the intermediary would otherwise have to pay an amount under this section in relation to that levy or charge.
 	(4)	Amounts required to be paid under subsection (1), (2), (3) or (3A) in respect of products of a particular kind must be paid:
 	(a)	unless paragraph (b) or (c) applies—to the Commonwealth; or
 	(b)	if an agreement has been entered into under section 10 between the Commonwealth and a State concerning the collection of such amounts in respect of products of that kind and the agreement does not provide otherwise—to the collecting authority under that agreement; or
 	(c)	if an agreement has been entered into under section 11 between the Commonwealth and a collecting organisation concerning the collection of such amounts in respect of products of that kind and the agreement does not provide otherwise—to the collecting organisation.
 	(5)	Where an amount is paid by an intermediary under subsection (1), (2), (3) or (3A):
 	(a)	the producer is, to the extent of that amount, discharged from so much of his or her liability to the Commonwealth in relation to the products as has not previously been discharged under subsection 8(2); and
-	(b)	the intermediary may recover from the producer, by set‑off or otherwise, an amount equal to the amount by which the first‑mentioned amount exceeds the amount (if any) deducted by the intermediary under subsection 8(1).
+	(b)	the intermediary may recover from the producer, by set-off or otherwise, an amount equal to the amount by which the first-mentioned amount exceeds the amount (if any) deducted by the intermediary under subsection 8(1).
 	(6)	Where a person who is an intermediary in relation to a producer:
 	(a)	sells collection products; or
 	(b)	purchases collection products; or
@@ -234,12 +228,8 @@ Note:	under paragraph (ga) of the definition of producer in subsection 4(1), the
 on which an amount of levy or charge, or an amount on account of levy or charge, has been paid to the Commonwealth, this section does not apply to that intermediary in respect of those products to the extent of that amount.
 	(7)	The regulations may provide that this section does not apply in relation to specified intermediaries or specified products.
 8  Liability of intermediaries—ancillary provisions
-	(1)	Despite any law of a State or any agreement (whether entered into before or after the commencement of this Act) to the contrary, an intermediary referred to in subsection 7(1), (2), (3) or (3A) may, for the purpose of ensuring that the intermediary is provided with the funds necessary for the due payment by the intermediary, on behalf of the producer, of levy or charge on the products, deduct from any money received by the intermediary on behalf of the producer, or payable by the intermediary, in relation to the products an amount equal to, or that may reasonably be expected to be equal to, the amount in relation to levy or charge for which the intermediary is liable under that subsection.
-	(2)	When an intermediary deducts an amount under subsection (1) in respect of levy or charge:
-	(a)	the producer is discharged from liability to pay that levy or charge to the extent of the amount deducted; and
-	(b)	the intermediary must:
-	(i)	give the producer, within 7 days after the date of deduction, a receipt or other written statement acknowledging deduction and specifying the date on which it was made; and
-	(ii)	in accordance with this Act, pay any amount in relation to the levy or charge that the intermediary is liable to pay on behalf of the producer.
+	(1)	Despite any law of a State or any agreement (whether entered into before or after the commencement of this Act) to the contrary, an intermediary referred to in subsection 7(1), (2), (3) or (3A) may, for the purpose of ensuring that the intermediary is provided with the funds necessary for the due payment by the intermediary, on behalf of the producer, of levy or charge on the products, deduct from any money received by the intermediary on behalf of the producer, or payable by the intermediary, in relation to the products an amount equal to, or that may reasonably be expected to be equal to, the unpaid levy or charge on the products.
+	(2)	Where the intermediary deducts an amount under subsection (1), the producer is, on the levy or charge becoming due for payment, discharged from liability to pay the levy or charge to the extent of the amount deducted, but the liability of the intermediary under subsection 7(1), (2), (3) or (3A), as the case may be, is not affected.
 	(3)	The proprietor of an abattoir may, despite any law of a State or Territory or any contract entered into before the commencement of this Act, refuse to slaughter, or to permit the slaughter of, sheep, lambs, buffaloes, goats or pigs owned by another person at the abattoir unless that other person first provides the proprietor with the funds necessary for the due payment, on behalf of that other person, of levy on the slaughter of the sheep, lambs, buffaloes, goats or pigs.
 	(4)	The proprietor of an abattoir may, despite any law of a State or Territory or any contract entered into before the commencement of this Act, refuse to slaughter or to permit the slaughter of cattle (being cattle within the meaning of Schedule 1 or 3 to the Primary Industries (Excise) Levies Act 1999) owned by another person at the abattoir unless that other person first provides the proprietor with the funds necessary for the due payment, on behalf of that other person, of levy on or in relation to the cattle.
 	(4A)	In spite of any law of a State or Territory or any contract entered into before the commencement of the Primary Industries Levies and Charges Collection Amendment Act 1992, the proprietor of an abattoir may refuse to:
@@ -259,12 +249,12 @@ unless the person liable to pay the levy first provides the proprietor with the 
 	(1)	For better securing the payment of levy or charge, a person who has been paid an amount on account of levy or charge or in relation to penalty under subsection (2) or (2A), must, within a prescribed period after the receipt of that amount, pay that amount to the Commonwealth.
 	(2)	Subject to this section, a person to whom prescribed goods or services in relation to collection products of a particular kind (other than collection products of a kind dealt with in subsection (2A)), are sold must, within a prescribed period after the purchase of those goods or services, pay to the person selling those goods or services:
 	(a)	an amount on account of:
-	(i)	in the case of leviable products—the levy that would be payable by that first‑mentioned person on products of that kind on their sale or use in the production of other goods after being subjected to the process facilitated by those goods or services; or
-	(ii)	in the case of chargeable products that are not also leviable products—the charge that would be payable by that first‑mentioned person on products of that kind on their exportation from Australia after being subjected to the process facilitated by those goods or services; and
-	(b)	an amount equal to the amount of any penalty payable by that first‑mentioned person under section 15 in relation to levy or charge, as the case may be, because of a previous purchase of such prescribed goods or services.
+	(i)	in the case of leviable products—the levy that would be payable by that first-mentioned person on products of that kind on their sale or use in the production of other goods after being subjected to the process facilitated by those goods or services; or
+	(ii)	in the case of chargeable products that are not also leviable products—the charge that would be payable by that first-mentioned person on products of that kind on their exportation from Australia after being subjected to the process facilitated by those goods or services; and
+	(b)	an amount equal to the amount of any penalty payable by that first-mentioned person under section 15 in relation to levy or charge, as the case may be, because of a previous purchase of such prescribed goods or services.
 	(2A)	Subject to this section, a person to whom prescribed goods are sold in relation to collection products of a kind that will, for the purposes of the imposition of levy, be presumed to have been produced in Australia must, within a prescribed period after the purchase of those goods, pay to the person selling those goods:
-	(a)	an amount on account of the levy that will be payable by that first‑mentioned person on products of that kind on their presumed production; and
-	(b)	an amount equal to the amount of any penalty payable by that first‑mentioned person under section 15 in relation to levy because of a previous purchase of such prescribed goods.
+	(a)	an amount on account of the levy that will be payable by that first-mentioned person on products of that kind on their presumed production; and
+	(b)	an amount equal to the amount of any penalty payable by that first-mentioned person under section 15 in relation to levy because of a previous purchase of such prescribed goods.
 	(3)	A person is not required to make a payment under paragraph (2)(a) because of the purchase of prescribed goods or services in relation to collection products of a particular kind (other than collection products of a kind dealt with in subsection (3A)) if he or she informs the person selling those goods or services, in writing:
 	(a)	where leviable products of that kind are not also chargeable products:
 	(i)	that he or she does not intend to use those goods or services in producing leviable products of that kind; or
@@ -276,12 +266,12 @@ unless the person liable to pay the levy first provides the proprietor with the 
 	(i)	that he or she does not intend to use those goods or services in producing leviable products, or chargeable products, of that kind; or
 	(ii)	that he or she does intend to use those goods and services in producing leviable products, or chargeable products, of that kind but does not intend, in the case of leviable products, to sell those products or use them in the production of other goods, or, in the case of chargeable products, to export those products from Australia.
 	(3A)	A person is not required to make a payment under paragraph (2A)(a) because of the purchase of prescribed goods in relation to collection products of a kind that will, for the purpose of the imposition of levy, be presumed to have been produced in Australia if he or she informs the person selling those goods, in writing, that he or she does not intend to use those goods in producing leviable products of that kind.
-	(4)	Where a person makes a payment to a seller of prescribed goods or services in relation to collection products of a particular kind (other than collection products of a kind dealt with in subsection (4A)) on account of levy or charge that would be payable on products of that kind if they were sold, or used in the production of other goods, after being subjected to the process facilitated by those goods or services, the first‑mentioned person is, on making that payment, discharged from liability to pay levy or charge on collection products of that kind that are so sold or used after being subjected to the process facilitated by those goods or services but the liability of the seller under subsection (1) is not affected.
+	(4)	Where a person makes a payment to a seller of prescribed goods or services in relation to collection products of a particular kind (other than collection products of a kind dealt with in subsection (4A)) on account of levy or charge that would be payable on products of that kind if they were sold, or used in the production of other goods, after being subjected to the process facilitated by those goods or services, the first-mentioned person is, on making that payment, discharged from liability to pay levy or charge on collection products of that kind that are so sold or used after being subjected to the process facilitated by those goods or services but the liability of the seller under subsection (1) is not affected.
 	(4A)	If:
 	(a)	a person makes a payment to a seller of prescribed goods in relation to collection products; and
 	(b)	those collection products are products of a kind that will, for the purpose of the imposition of levy, be presumed to have been produced in Australia; and
 	(c)	the payment is a payment on account of levy that will be payable on products of that kind on their presumed production;
-the first‑mentioned person is, on making that payment, discharged from liability to pay levy on the presumed production of collection products of that kind but the liability of the seller under subsection (1) is not affected.
+the first-mentioned person is, on making that payment, discharged from liability to pay levy on the presumed production of collection products of that kind but the liability of the seller under subsection (1) is not affected.
 	(5)	Where a person makes a payment of an amount of penalty to a seller of prescribed goods or services in relation to collection products of a particular kind, being penalty payable by reason of a previous purchase of such goods or services, the person is, on making that payment, discharged from liability to pay that penalty to the Commonwealth but the liability of the seller under subsection (1) is not affected.
 	(6)	If, after payment of an amount on account of levy under this Act to the seller of prescribed goods or services, those goods or services are used in the production, or preparation for export from Australia, of chargeable products:
 	(a)	the amount paid to the seller is taken to have been paid on account of charge; and
@@ -339,7 +329,7 @@ related amount has the same meaning as in section 10 or 11, as the case may be.
 The Commonwealth must not, in exercising its powers under subsection 10(1) or 11(1):
 	(a)	discriminate between States or parts of States within the meaning of subparagraph 51(ii) of the Constitution; or
 	(b)	give preference to one State or any part thereof within the meaning of section 99 of the Constitution.
-15  Penalty for late payment
+15  Penalty for non-payment
 	(1)	If any levy or charge in relation to collection products remains unpaid after the time when it became due for payment, there is payable by the producer to the Commonwealth, by way of penalty accruing from the time the levy or charge became due for payment until it is paid in full, an amount worked out as follows:
 	(a)	during the month in which the levy or charge became due for payment the amount of penalty accrues at the rate of 2% per month on the levy or charge due;
 	(b)	during the next and each subsequent month the amount of penalty consists of the sum of each amount that accrued during a previous month and the amount accruing during that month at the rate of 2% per month on the sum of the amount of levy or charge then payable and penalty payable at the end of the previous month.
@@ -350,20 +340,20 @@ there is payable by the intermediary to the Commonwealth, by way of penalty accr
 	(c)	during the month in which the levy or charge became due for payment the amount of penalty accrues at the rate of 2% per month on the amount deducted;
 	(d)	during the next and each subsequent month the amount of penalty consists of the sum of each amount that accrued during a previous month and the amount accruing during that month at the rate of 2% per month on the sum of the unpaid amount deducted and penalty payable at the end of the previous month.
 	(3)	Where:
-	(a)	a person purchases prescribed goods or services in respect of a collection product of a particular kind; and
+	(a)	a person purchases collection goods or services in respect of a prescribed product of a particular kind; and
 	(b)	a person fails to pay to the seller of those goods or services an amount on account of levy or charge (in this subsection called the unpaid amount) in accordance with subsection 9(2) within the period prescribed for the purposes of that subsection;
 there is payable to the Commonwealth by the person, by way of penalty accruing from the end of that period until the unpaid amount is paid to the seller, an amount worked out as follows:
 	(c)	during the month in which that period ends the amount of penalty accrues at the rate of 2% per month on the unpaid amount;
 	(d)	during the next and each subsequent month the amount of penalty consists of the sum of each amount that accrued during a previous month and the amount accruing during that month at the rate of 2% per month on the sum of the unpaid amount and penalty payable at the end of the previous month.
 	(4)	Where:
-	(a)	a person who sells prescribed goods or services has received an amount on account of levy or charge; and
+	(a)	a person who sells collection goods and services has received an amount on account of levy or charge; and
 	(b)	that person does not pay the amount received to the Commonwealth before the end of the period within which, under subsection 9(1), it should have been so paid;
 there is payable to the Commonwealth by that person, by way of penalty accruing from the end of that period until the amount is so paid to the Commonwealth, an amount worked out as follows:
 	(c)	during the month in which that period ends the amount of penalty accrues at the rate of 2% per month on the amount received;
 	(d)	during the next and each subsequent month the amount of penalty consists of the sum of each amount that accrued during a previous month and the amount accruing during that month at the rate of 2% per month on the sum of the amount received and penalty payable at the end of the previous month.
 16  Remission of penalty
 	(1)	Where an amount of penalty becomes payable under section 15 because an amount of levy or charge in respect of particular collection products remains unpaid after the time when it becomes due for payment, the Minister or an authorised person may, subject to subsection (2), remit the whole or a part of that amount of penalty.
-	(2)	An amount remitted by an authorised person under subsection (1) is not to exceed $5,000 or such lower amount as is specified in the authorisation.
+	(2)	An amount remitted by an authorised person under subsection (1) is not to exceed $2,000 or such lower amount as is specified in the authorisation.
 17  Recovery of levy, charge and other amounts
 		The following amounts may be recovered by the Commonwealth as debts due to the Commonwealth:
 	(a)	amounts of levy or charge that are due for payment;
@@ -378,19 +368,13 @@ there is payable to the Commonwealth by that person, by way of penalty accruing 
 the Secretary must, by determination in writing, order the amount paid to be refunded and, upon the Secretary so doing, the amount paid must be refunded by the Commonwealth.
 	(3)	Where, in purported compliance with a distribution Act, an amount equal to the amount overpaid, or part of that amount, has been paid to a body, fund or account, then:
 	(a)	if the Commonwealth has not, under subsection (1), refunded the amount overpaid—that amount must be refunded by the body, or out of the fund or account, as the case may be; or
-	(b)	if the Commonwealth has so refunded the amount payable—the Commonwealth is entitled to recover from the body, fund or account, as the case may be, by set‑off or otherwise, the amount so refunded.
+	(b)	if the Commonwealth has so refunded the amount payable—the Commonwealth is entitled to recover from the body, fund or account, as the case may be, by set-off or otherwise, the amount so refunded.
 19  Powers of authorised person in relation to premises
-	(1)	An authorised person may, with the consent of the occupier or person in charge of premises or in accordance with a warrant issued under section 20, enter the premises for the purpose of ascertaining whether a person has contravened or is contravening a provision of this Act.
+	(1)	An authorised person may, with the consent of the occupier of premises or in accordance with a warrant issued under section 20, enter the premises for the purpose of ascertaining whether a person has contravened or is contravening a provision of this Act.
 	(2)	Where an authorised person enters any premises under subsection (1), the authorised person may:
 	(a)	search the premises for, examine and take stock of, any products used to produce collection products; and
-	(b)	search the premises for, inspect, examine, take extracts from, and make copies of, any examinable documents; and
+	(b)	search the premises for, inspect, take extracts from, and make copies of, any examinable documents; and
 	(c)	seize anything found during the course of the search that he or she believes, on reasonable grounds, will afford evidence of the contravention of this Act.
-19A  Offence of obstructing an authorised person acting under a warrant
-		A person must not obstruct or hinder an authorised person in the exercise of his or her power under section 19 if the authorised person is exercising the power in accordance with a warrant issued under section 20.
-Penalty:	30 penalty units
-19B  Persons to assist authorised person acting under a warrant
-		If an authorised person enters any premises under section 19 in accordance with a warrant issued under section 20, the occupier or the person in charge must, if required to do so by the authorised person, provide reasonable assistance to the authorised person in the exercise of his or her power under that section in relation to such premises.
-Penalty:	30 penalty units
 20  Warrant to enter premises
 	(1)	If a magistrate, on application by an authorised person, is satisfied, by information on oath:
 	(a)	that there are reasonable grounds for believing:
@@ -420,22 +404,19 @@ the magistrate may issue a warrant authorising the authorised person to enter th
 	(b)	be in a form approved, in writing, by the Secretary.
 	 (3)	Where a person to whom an identity card has been issued ceases to be an authorised person, the person must immediately return the identity card to a person occupying such office in the Department as is designated, in writing, by the Secretary.
 	(4)	A person who, without reasonable excuse, contravenes subsection (3) is guilty of an offence punishable upon conviction by a fine not exceeding $100.
-	(5)	Where an authorised person proposes to enter premises otherwise than in accordance with a warrant issued under section 20, the authorised person must produce his or her identity card to the occupier or the person in charge of the premises for inspection and, if the authorised person fails to do so, the authorised person is not entitled to enter the premises under section 19.
+	(5)	Where an authorised person proposes to enter premises otherwise than in accordance with a warrant issued under section 20, the authorised person must produce his or her identity card to the occupier of the premises for the occupier’s inspection and, if the authorised person fails to do so, the authorised person is not entitled to enter the premises under section 19.
 23  Power to call for information
 		An authorised person may, by notice in writing given to a person, require the person:
 	(a)	to give the authorised person, within such reasonable time as is specified in the notice, such return of information in relation to matters relevant to the operation of this Act as is specified in the notice; and
 	(b)	to verify any such return or information by statutory declaration.
 24  Offences in relation to returns etc.
 	(1)	A person must not, without reasonable excuse, refuse or fail to give a return or information that the person is required to give by or under this Act.
-Penalty:	60 penalty units.
+Penalty:	$6,000.
 	(2)	A person is not excused from submitting a return or information on the ground that the return or information might tend to incriminate the person, but any return or information given, and any information or thing (including any document) obtained as a direct or indirect consequence of the giving of the return or information, is not admissible in evidence against the person in:
 	(a)	criminal proceedings other than proceedings for an offence against subsection (1) or (3); or
 	(b)	proceedings for recovery of an amount payable by way of penalty under section 15.
 	(3)	A person must not knowingly present a document, make a statement or give a return or information, that is false or misleading in a material particular, to a person performing duties under this Act.
 Penalty:	Imprisonment for 12 months.
-	(4)	If a person is convicted of an offence under subsection (1):
-	(a)	the court may direct the person to give the return or information that he or she is required to give by or under this Act; and
-	(b)	on being so directed, the person must give the return or information to an authorised person within the time specified in the direction.
 24A  Offences in relation to weighing cattle carcases
 	(1)	This section applies to carcases of cattle slaughtered at an abattoir if levy is imposed on the slaughter by Schedule 1 to the Primary Industries (Excise) Levies Act 1999.
 	(2)	The proprietor of the abattoir must take reasonable steps to ensure that:
@@ -466,8 +447,8 @@ is to be taken, for the purposes of this Act, to have been engaged in also by th
 	(b)	that the servant or agent had the state of mind.
 	(4)	Any conduct engaged in on behalf of a person other than a body corporate by:
 	(a)	a servant or agent of the person within the scope of his or her actual or apparent authority; or
-	(b)	any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
-is to be taken, for the purposes of this Act, to have been engaged in also by the first‑mentioned person.
+	(b)	any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
+is to be taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person.
 	(5)	A reference in subsection (1) or (3) to the state of mind of a person includes a reference to:
 	(a)	the knowledge, intention, opinion, belief or purpose of the person; and
 	(b)	the person’s reasons for the intention, opinion, belief or purpose.
@@ -480,7 +461,7 @@ the person is not liable to be punished by imprisonment for the offence.
 26  Appointment of authorised persons
 		The Secretary may, in writing:
 	(a)	appoint a person employed by, or in the service of, a collecting authority or a collecting organisation to be an authorised person for the purposes of section 23; and
-	(b)	appoint a person appointed or engaged under the Public Service Act 1999 to be an authorised person for the purposes of a specified provision of this Act including section 23.
+	(b)	appoint an officer of the Australian Public Service to be an authorised person for the purposes of a specified provision of this Act including section 23.
 27  Publishing of information
 	(1)	An authorised person may publish:
 	(a)	the name and address of a levy payer or charge payer or an intermediary in relation to a producer; or
@@ -516,16 +497,14 @@ relevant decision means:
 	(2)	In this section, property of any kind belonging to a State has the same meaning as in section 114 of the Constitution.
 	(3)	For the purposes of this section, it is to be assumed that a reference in section 114 of the Constitution to a State includes a reference to the Australian Capital Territory and the Northern Territory.
 30  Regulations
-	(1)	The Governor‑General may make regulations not inconsistent with this Act, prescribing matters:
+	(1)	The Governor-General may make regulations not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 	(2)	The matters that may be prescribed under subsection (1) include, but are not limited to:
 	(a)	making provision in relation to the payment of levy or charge, of amounts on account of levy or charge and of other amounts payable to the Commonwealth under this Act; and
 	(b)	requiring producers of collection products, intermediaries in relation to such producers, and any other person prescribed, to make and keep accounts and other records in respect of prescribed products; and
-	(ba)	requiring persons who produce prescribed goods or provide prescribed services, and any other persons prescribed in relation to such goods or services, to make and keep accounts and other records in respect of such goods or services; and
 	 (c)	requiring producers of collection products, intermediaries in relation to such producers, and any other persons prescribed, to give returns or information for the purposes of this Act; and
-	(ca)	requiring persons who produce prescribed goods or provide prescribed services, and any other persons prescribed in relation to such goods or services, to give returns or information for the purposes of this Act; and
-	(d)	establishing offences, punishable on conviction by a fine not exceeding 10 penalty units, for a failure to comply with requirements of the regulations.
+	(d)	prescribing penalties, not exceeding a fine of $1,000, for offences against the regulations.
 	(3)	Without limiting the manner in which products may be described in the regulations, the regulations may describe them by reference to:
 	(a)	the use for which the products are sold by the producer; or
 	(b)	the use to which the products are put by the producer; or
@@ -536,28 +515,25 @@ relevant decision means:
 	(2)	An order must not be made prescribing any penalty.
 	(3)	Sections 48, 48A, 48B, 49, 49A and 50 of the Acts Interpretation Act 1901 apply in relation to orders as if references to regulations were references to orders and references to an Act were references to regulations.
 	(4)	An order is not to be taken to be a statutory rule within the meaning of the Statutory Rules Publication Act 1903, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to an order in like manner as they apply in relation to a statutory rule.
-	(5)	For the purposes of the application of subsection 5(3B) of the Statutory Rules Publication Act 1903 in accordance with subsection (4), the reference in the first‑mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
-	(6)	An order is an enactment for the purposes of the Administrative Appeals Tribunal Act 1975.
+	(5)	For the purposes of the application of subsection 5(3B) of the Statutory Rules Publication Act 1903 in accordance with subsection (4), the reference in the first-mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
+	(6)	An order is an enactment for the purposes of the Administrative Appeals Tribunal Act 1975. 
 Schedule 1—Acts that impose a charge
 Note:	See subsection 4(1).
-  
-  
+Do not delete : Part placeholder
 
 Primary Industries (Customs) Charges Act 1999
-
 Schedule 2—Acts that impose a levy
 Note:	See subsection 4(1).
-  
-  
+Do not delete : Part placeholder
 
 National Residue Survey (Customs) Levy Act 1998
 National Residue Survey (Excise) Levy Act 1998
 Primary Industries (Excise) Levies Act 1999
-
+Wine Grapes Levy Act 1979
 Notes to the Primary Industries Levies and Charges Collection Act 1991
 Note 1
-The Primary Industries Levies and Charges Collection Act 1991 as shown in this compilation comprises Act No. 25, 1991 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 17 April 1998 are not included in this compilation. For subsequent information see Table A.
+The Primary Industries Levies and Charges Collection Act 1991 as shown in this consolidation comprises Act No. 25, 1991 amended as indicated in the Tables below. 
+All relevant information pertaining to application, saving or transitional provisions prior to 17 April 1998 are not included in this reprint. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -592,7 +568,7 @@ National Residue Survey (Consequential Provisions) Act 1992
 Primary Industries and Energy Legislation Amendment Act 1993
 94, 1993
 16 Dec 1993
-Parts 11 and 12 (ss. 47‑65): 1 Jan 1994 S. 69(1)(b): 1 July 1989 Remainder: Royal Assent
+Parts 11 and 12 (ss. 47-65): 1 Jan 1994 S. 69(1)(b): 1 July 1989 Remainder: Royal Assent
 —
 Primary Industries Levies and Charges Collection Amendment Act 1994
 117, 1994
@@ -607,7 +583,7 @@ Primary Industries Levies and Charges (Wine Grapes) Collection Amendment Act 199
 Primary Industries Legislation Amendment Act 1994
 137, 1994
 18 Nov 1994
-Part 2 (ss. 3‑6): 1 Feb 1995 (see Gazette 1995, No. S23) Part 3 (ss. 7‑11): 1 Feb 1995 (see Gazette 1994, No. S470) Remainder: Royal Assent
+Part 2 (ss. 3-6): 1 Feb 1995 (see Gazette 1995, No. S23) Part 3 (ss. 7-11): 1 Feb 1995 (see Gazette 1994, No. S470) Remainder: Royal Assent
 S. 9(2)
 Primary Industries Levies and Charges Collection Amendment Act 1995
 79, 1995
@@ -632,7 +608,7 @@ Wine Export Charge (Consequential Amendments) Act 1997
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (item 1097): 1 Jan 1998 (see Gazette 1997, No. GN49) (c)
+Schedule 2 (item 1097): 1 Jan 1998 (see Gazette  1997, No. GN49) (c)
 —
 Wheat Marketing Amendment Act 1997
 194, 1997
@@ -642,34 +618,23 @@ Schedule 1 (item 4): Royal Assent (d) Schedule 1 (item 140): 1 July 1999 (d)
 Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997
 207, 1997
 17 Dec 1997
-Schedule 3 (items 9‑22): 1 July 1998 (see Gazette 1998, No. GN22) (e)
+Schedule 3 (items 9-22): 1 July 1998 (see Gazette 1998, No. GN22) (e)
 —
 National Residue Survey Administration Amendment Act 1998
 31, 1998
 17 Apr 1998
-Schedule 2 (items 9‑11): 1 Aug 1998 (see Gazette 1998, No. S382) (f)
+Schedule 2 (items 9-11): 1 Aug 1998 (see Gazette 1998, No. S382) (f)
 Sch. 2 (item 8(2)) [see Table A]
 Primary Industries Levies and Charges (Consequential Amendments) Act 1999
 32, 1999
 14 May 1999
-Schedule 2 (items 1-36): 1 July 1999 (g) Schedule 2 (Items 37-40): 1 Jan 2000 (g)
-Sch. 2 (items 35, 36, 39, 40)
+Schedule 2 (Parts 1, 2): 1 July 1999 (g) Schedule 2 (Parts 3, 4): [see (g) and Note 3]
+Sch. 2 (items 35, 36) [see Table A] Sch. 2 (items 39, 40) [see Note 3]
 Statute Stocktake Act 1999
 118, 1999
 22 Sept 1999
 22 Sept 1999
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 737): 5 Dec 1999 (see Gazette 1999, No. S584) (h)
-—
-Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999
-170, 1999
-10 Dec 1999
-Schedule 2: 1 Jan 2000 Schedule 3 (items 2, 3): 28 June 1996 Schedule 6: 1 Apr 1999 Remainder: Royal Assent
-Sch. 2 (item 27)
-
 (a)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(3) of which provides as follows:
 	(3)	Schedules 3, 4 and 8 commence on the day on which a notice is published in the Gazette under subsection 6(6) of the Poultry Industry Assistance Act 1965.
 (b)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 2 (item 89) only of the Statute Law Revision Act 1996, subsection 2(2) of which provides as follows:
@@ -680,28 +645,25 @@ Sch. 2 (item 27)
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (d)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 1 (items 4 and 140) only of the Wheat Marketing Amendment Act 1997, subsections 2(1) and (5) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(5)	Part 3 of Schedule 1 commences on 1 July 1999. 
-(e)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 3 (items 9‑22) only of the Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997, subsection 2(4) of which provides as follows:
-	(4)	Subject to this section, the remaining provisions of this Act commence on the same day as Part 3 of the Australian Meat and Live‑stock Industry Act 1997.
-(f)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 2 (items 9‑11) only of the National Residue Survey Administration Amendment Act 1998, subsection 2(3) of which provides as follows:
+	(5)	Part 3 of Schedule 1 commences on 1 July 1999. [see Note 2]
+(e)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 3 (items 9-22) only of the Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997, subsection 2(4) of which provides as follows:
+	(4)	Subject to this section, the remaining provisions of this Act commence on the same day as Part 3 of the Australian Meat and Live-stock Industry Act 1997.
+(f)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 2 (items 9-11) only of the National Residue Survey Administration Amendment Act 1998, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsection (4), Schedules 2 and 3 commence on a day to be fixed by Proclamation.
 (g)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 2 only of the Primary Industries Levies and Charges (Consequential Amendments) Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the commencement of section 1 of the Primary Industries (Excise) Levies Act 1999.
 	(2)	The following provisions commence on 1 January 2000:
-	(b)	Parts 3 and 4 of Schedule 2;
-(h)	The Petroleum Resource Rent Tax Assessment Act 1987 was amended by Schedule 1 (item 737) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
+	(b)	Parts 3 and 4 of Schedule 2; [see Note 3]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4	
-am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; Nos. 32 and 170, 1999
+am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; No. 32, 1999
 S. 7	
-am. No. 94, 1993; No. 137, 1994; No. 79, 1995; No. 207, 1997; Nos. 32 and 170, 1999
+am. No. 94, 1993; No. 137, 1994; No. 79, 1995; No. 207, 1997; No. 32, 1999
 S. 8	
-am. No. 32, 1992; No. 94, 1993; No. 137, 1994; No. 79, 1995; No. 207, 1997; Nos. 32 and 170, 1999
+am. No. 32, 1992; No. 94, 1993; No. 137, 1994; No. 79, 1995; No. 207, 1997; No. 32, 1999
 S. 9	
 am. No. 117, 1994
 Ss. 10, 11	
@@ -710,36 +672,22 @@ Heading to s. 13
 am. No. 152, 1997
 S. 13 	
 am. No. 152, 1997
-Heading to s. 15 	
-am. No. 170, 1999
-Ss. 15, 16 	
-am. No. 170, 1999
 S. 18	
 am. No. 117, 1994
-S. 19 	
-am. No. 170, 1999
-Ss. 19A, 19B 	
-ad. No. 170, 1999
-S. 22 	
-am. No. 170, 1999
 S. 24	
-am. No. 43, 1996; No. 170, 1999
+am. No. 43, 1996
 S. 24A	
 ad. No. 137, 1994
 
 am. No. 32, 1999
 Note to s. 24A	
 am. No. 32, 1999
-S. 26 	
-am. No. 146, 1999
 S. 27 	
 am. No. 194, 1997
 S. 28	
 am. No. 32, 1992; Nos. 32 and 118, 1999
 S. 29A	
 ad. No. 32, 1999
-S. 30 	
-am. No. 170, 1999
 Schedule 1	
 am. No. 32, 1992; No. 94, 1993; Nos. 86 and 207, 1997
 
@@ -749,21 +697,36 @@ am. Nos. 20, 32 and 247, 1992; No. 94, 1993; No. 79, 1995; Nos. 194 and 207, 19
 
 rs. No. 32, 1999
 
-am. No. 32, 1999
 
 
+Note 2
+The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 2 only of the Primary Industries Levies and Charges (Consequential Amendments) Act 1999. The applicable provisions provide as follows:
+Schedule 2
+Part 3—Amendments commencing on 1 January 2000
+37  Subsection 4(1) (paragraph (ha) of the definition of producer)
+Omit “subsection 4(1) of the Wine Grapes Levy Act 1979”, substitute “clause 1 of Schedule 26 to the Primary Industries (Excise) Levies Act 1999”.
+38  Schedule 2
+Omit:
+Wine Grapes Levy Act 1979
+
+Part 4—Transitional provisions relating to wine grapes levy
+39  Transitional—pre‑commencement levy
+Despite the amendments of the Primary Industries Levies and Charges Collection Act 1991 made by this Schedule, that Act continues to apply, in relation to levy imposed by the Wine Grapes Levy Act 1979, as if those amendments had not been made.
+40  Transitional—regulations
+Unless the contrary intention appears, regulations made for the purposes of the Primary Industries Levies and Charges Collection Act 1991 apply, in relation to levy imposed by Schedule 26 to the Primary Industries (Excise) Levies Act 1999, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed Wine Grapes Levy Act 1979.
+As at 6 October 1999 the amendments are not incorporated in this consolidation.
 Table A
 Application, saving or transitional provisions
 National Residue Survey Administration Amendment Act 1998 (No. 31, 1998)
-Schedule 2  
-8  Transitional—pre‑commencement levies
+Schedule 2
+8  Transitional—pre-commencement levies
 (2)	Despite the amendments and repeals made by this Schedule and Schedule 3, the National Residue Survey Administration Act 1992 and the Primary Industries Levies and Charges Collection Act 1991 continue to apply, in relation to National Residue Survey Levy imposed:
 	(a)	by a repealed Act specified in the second column of the table in subitem (3); and
 	(b)	in respect of the corresponding matter specified in the third column of that table;
 as if those amendments and repeals had not been made.
 
 Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No. 32, 1999)
-Schedule 2  
+Schedule 2
 35  Transitional—pre‑commencement charges and levies
 Despite the amendments of the Primary Industries Levies and Charges Collection Act 1991 made by this Schedule, that Act continues to apply, in relation to:
 	(a)	a charge imposed by an Act repealed by Part 1 of Schedule 1 to this Act; or
@@ -777,16 +740,5 @@ in a corresponding way to the way in which those regulations apply in relation t
 	(c)	in the case of a charge (other than charge imposed by Schedule 4 to the Primary Industries (Customs) Charges Act 1999)—the corresponding charge imposed by an Act repealed by Part 1 of Schedule 1 to this Act; or
 	(d)	in the case of a charge imposed by Schedule 4 to the Primary Industries (Customs) Charges Act 1999—the corresponding levy imposed by the repealed Dairy Produce Levy (No. 2) Act 1986; or
 	(e)	in the case of a levy—the corresponding levy imposed by an Act repealed by Part 1 of Schedule 1 to this Act.
-39  Transitional—pre‑commencement levy
-Despite the amendments of the Primary Industries Levies and Charges Collection Act 1991 made by this Schedule, that Act continues to apply, in relation to levy imposed by the Wine Grapes Levy Act 1979, as if those amendments had not been made.
-40  Transitional—regulations
-Unless the contrary intention appears, regulations made for the purposes of the Primary Industries Levies and Charges Collection Act 1991 apply, in relation to levy imposed by Schedule 26 to the Primary Industries (Excise) Levies Act 1999, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed Wine Grapes Levy Act 1979.
-
-Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No. 170, 1999)
-27  Saving provision
-If, under regulations made for the purposes of section 30 of the Primary Industries Levies and Charges Collection Act 1991 as in force immediately before the commencement of this item, it is an offence to contravene any particular provision of the regulations, then, despite the repeal and substitution of paragraph 30(2)(d) of that Act by item 26:
-	(a)	that offence continues to have effect, after that time, as if the amendment made by item 26 had been in force at the time the offence was created and the offence had been duly created for the purposes of section 30 of that Act as so amended; and
-	(b)	if any proceedings have been started but not completed in relation to that offence as at the commencement of this item, those proceedings are unaffected by that amendment of section 30 of that Act.
-
 
 
