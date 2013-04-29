@@ -1,175 +1,131 @@
-![](http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image001.jpg)
+# ![](http://www.comlaw.gov.au/Details/C2004C01840/Html/AlburyWodDev73_image001.gif)
 
 # Albury-Wodonga Development Act 1973
 
 **Act No. 189 of 1973 as amended**
 
-Consolidated as in force on 4 January 2000
+Consolidated as in force on 3 June 1998
 
-(includes amendments up to Act No. 146 of 1999)
+(includes amendments up to Act No. 152 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
-## Contents
+ 
+
+Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                        
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2  Commencement \[see Note 1]](#2  Commencement \[see Note 1]).                                                                              
 
-[3](#3).            Interpretation                                                                                       1
+[3  Interpretation](#3  Interpretation).                                                                                                      
 
-[4](#4).            Act to bind Crown                                                                               2
+[4  Act to bind Crown](#4  Act to bind Crown).                                                                                              
 
-[5](#5).            Powers of Australian Minister [_see_ Note 2]                                       2
+[5  Powers of Australian Minister \[see Note 2]](#5  Powers of Australian Minister \[see Note 2]).                                                       
 
 **Part II—Albury-Wodonga Area Development Agreement**
 
-[6](#6).            Approval of agreement                                                                        3
+[6  Approval of agreement](#6  Approval of agreement).                                                                                       
 
-[6A](#6A).         Approval of amendment agreement                                                     3
+[6A  Approval of amendment agreement](#6A  Approval of amendment agreement).                                                                 
 
-[6B](#6B).         Approval of second amendment agreement                                         3
+[6B  Approval of second amendment agreement](#6B  Approval of second amendment agreement).                                                     
 
 **Part III—Establishment, functions and powers of the Albury-Wodonga Development Corporation**
 
-[7](#7).            Albury-Wodonga Development Corporation                                      4
+[7  Albury-Wodonga Development Corporation](#7  Albury-Wodonga Development Corporation).                                                     
 
-[8](#8).            Functions and powers of Corporation                                                4
+[8  Functions and powers of Corporation](#8  Functions and powers of Corporation).                                                                
 
-[8A](#8A).         Chief executive officer’s function                                                        5
+[8A  Chief executive officer’s function](#8A  Chief executive officer’s function).                                                                    
 
 **Part IV—Constitution and meetings of the Corporation**
 
-[9](#9).            Nature of Corporation                                                                         6
+[9  Nature of Corporation](#9  Nature of Corporation).                                                                                        
 
-[9A](#9A).         Commonwealth _Authorities and Companies Act 1997_ does not apply to Corporation        6
+9A  _Commonwealth Authorities and Companies Act 1997_ does not apply to Corporation          
 
-[10](#10).          Composition of Corporation                                                               6
+[10  Composition of Corporation](#10  Composition of Corporation).                                                                            
 
-[10A](#10A).       Appointment of chief executive officer                                               7
+[10A  Appointment of chief executive officer](#10A  Appointment of chief executive officer).                                                         
 
-[11](#11).          Period of appointment of appointed members                                    7
+[11  Period of appointment of appointed members](#11  Period of appointment of appointed members).                                                 
 
-[12](#12).          Remuneration and allowances for appointed members                       7
+[12  Remuneration and allowances for appointed members](#12  Remuneration and allowances for appointed members).                                     
 
-[14](#14).          Resignation of members                                                                       8
+[14  Resignation of members](#14  Resignation of members).                                                                                    
 
-[15](#15).          Dismissal of appointed members                                                        8
+[15  Dismissal of appointed members](#15  Dismissal of appointed members).                                                                      
 
-[16](#16).          Disclosure of interest by members                                                      9
+[16  Disclosure of interest by members](#16  Disclosure of interest by members).                                                                   
 
-[17](#17).          Condition of service—appointed member                                           9
+[17  Condition of service—appointed member](#17  Condition of service—appointed member).                                                        
 
-[18](#18).          Acting appointments                                                                         10
+[18  Acting appointments](#18  Acting appointments).                                                                                        
 
-[19](#19).          Meetings                                                                                            11
+[19  Meetings](#19  Meetings).                                                                                                         
 
-[20](#20).          Delegation                                                                                          12
+[20  Delegation](#20  Delegation).                                                                                                       
 
 **Part V—Staff**
 
-[21](#21).          Officers and employees                                                                     13
+[21  Officers and employees](#21  Officers and employees).                                                                                  
+
+22  Persons appointed under section 21 to have certain rights of entry into the Australian Public Service           
 
 **Part VI—Finance**
 
-[24](#24).          Moneys available to Corporation                                                      14
+[24  Moneys available to Corporation](#24  Moneys available to Corporation).                                                                   
 
-[25](#25).          Grants to Corporation                                                                       14
+[25  Grants to Corporation](#25  Grants to Corporation).                                                                                    
 
-[26](#26).          Borrowing by Corporation                                                                14
+[26  Borrowing by Corporation](#26  Borrowing by Corporation).                                                                             
 
-[27](#27).          Bank accounts                                                                                    15
+[27  Bank accounts](#27  Bank accounts).                                                                                                 
 
-[28](#28).          Application of moneys                                                                      15
+[28  Application of moneys](#28  Application of moneys).                                                                                   
 
-[29](#29).          Power to enter contracts                                                                    15
+[29  Power to enter contracts](#29  Power to enter contracts).                                                                                 
 
-[30](#30).          Audit                                                                                                  15
+[30  Audit](#30  Audit).  
 
-[31](#31).          Liability to taxation                                                                           16
+[31  Liability to taxation](#31  Liability to taxation).                                                                                         
 
 **Part VII—Miscellaneous**
 
-[32](#32).          Annual Report                                                                                   17
+[32  Annual Report](#32  Annual Report).                                                                                                
 
-[33](#33).          Annual financial statement                                                                17
+[33  Annual financial statement](#33  Annual financial statement).                                                                              
 
-[34](#34).          Regulations                                                                                        18
+[34  Regulations](#34  Regulations).                                                                                                      
 
 **Schedule 1—Albury-Wodonga Area Development Agreement** 
 
-**PART I—GENERAL**
+**Schedule 2—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1)** 
 
-[Definitions](#Definitions).                                                                                                       19
+**Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2)** 
 
-[Commencement](#Commencement).                                                                                               20
-
-[Albury-Wodonga Area](#Albury-Wodonga Area).                                                                                    22
-
-**PART II—ORGANIZATION**
-
-[Ministerial Council](#Ministerial Council).                                                                                          25
-
-[Development Corporation](#Development Corporation).                                                                               26
-
-[Staff of Development Corporation](#Staff of Development Corporation).                                                                  29
-
-[State Corporations](#State Corporations).                                                                                           30
-
-[Consultative Council](#Consultative Council).                                                                                       31
-
-**PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS**
-
-[Development Plan and Financial Programme](#Development Plan and Financial Programme).                                                  33
-
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         38
-
-[Accounts of Corporations](#Accounts of Corporations).                                                                               39
-
-[Revenue and Repayment of Loans](#Revenue and Repayment of Loans).                                                                  39
-
-**PART IV—RESPONSIBILITY FOR ASSETS**
-
-[Responsibility of Corporations for Sites and Buildings](#Responsibility of Corporations for Sites and Buildings).                                  40
-
-**Schedule 2—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1)**
-
-[Definitions](#Definitions).                                                                                                       42
-
-[Development Corporation](#Development Corporation).                                                                               43
-
-[State Corporations](#State Corporations).                                                                                           45
-
-[Consultative Council Advisory Committees](#Consultative Council Advisory Committees).                                                   47
-
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         47
-
-**Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2)**
-
-[Definitions](#Definitions).                                                                                                       49
-
-[Ministerial Council](#Ministerial Council).                                                                                          50
-
-[Development Corporation](#Development Corporation).                                                                               50
-
-[State Corporations](#State Corporations).                                                                                           54
-
-**Notes** 
+ 
 
 ## An Act relating to the Development of the Albury-Wodonga Area
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Albury-Wodonga Development Act 1973_.
+This Act may be cited as the _Albury-Wodonga Development Act 1973_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -181,7 +137,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="approved-bank"></a>**_approved bank_** means the Reserve Bank of Australia or another bank approved by the Treasurer.
 
-                    <a name="australian-public-servic"></a>**_Australian Public Service_** means the APS within the meaning of the _Public Service Act 1999_.
+                    <a name="australian-public-servic"></a>**_Australian Public Service_** means the service established under the _Public Service Act 1922-1973_.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Corporation.
 
@@ -201,7 +157,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, the State of New South Wales and the State of Victoria.
+This Act binds the Crown in right of the Commonwealth, the State of New South Wales and the State of Victoria.
 
 ##### <a id="5"></a>5  Powers of Australian Minister [_see_ Note 2]
 
@@ -211,19 +167,23 @@ Prepared by the Office of Legislative Drafting,
 
 ## Part II—Albury-Wodonga Area Development Agreement
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="6"></a>6  Approval of agreement
 
-                   The Agreement, called the Albury-Wodonga Area Development Agreement, a copy of which is set out in Schedule 1, is approved.
+The Agreement, called the Albury-Wodonga Area Development Agreement, a copy of which is set out in Schedule 1, is approved.
 
 ##### <a id="6A"></a>6A  Approval of amendment agreement
 
-                   The agreement, called the Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1), a copy of which is set out in Schedule 2, is approved.
+The agreement, called the Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1), a copy of which is set out in Schedule 2, is approved.
 
 ##### <a id="6B"></a>6B  Approval of second amendment agreement
 
-                   If (whether before or after the commencement of this section) an agreement substantially in accordance with the form of agreement set out in Schedule 3 has been or is executed by the Commonwealth and the States of New South Wales and Victoria, the agreement is approved by the Parliament.
+If (whether before or after the commencement of this section) an agreement substantially in accordance with the form of agreement set out in Schedule 3 has been or is executed by the Commonwealth and the States of New South Wales and Victoria, the agreement is approved by the Parliament.
 
 ## Part III—Establishment, functions and powers of the Albury-Wodonga Development Corporation
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="7"></a>7  Albury-Wodonga Development Corporation
 
@@ -241,7 +201,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (d)  to facilitate the settlement in the Area of immigrants to Australia; and
 
-                     (e)  to provide, or take part in arrangements for the provision of, accommodation, services and facilities in the Area for Agencies (within the meaning of the _Public Service Act 1999_) and authorities of the Commonwealth and for persons employed in or by those Agencies or authorities, including members of the Defence Force.
+                     (e)  to provide, or take part in arrangements for the provision of, accommodation, services and facilities in the Area for Departments and authorities of the Commonwealth and for persons employed in or by those Departments or authorities, including members of the Defence Force.
 
              (2)  The Corporation has power to do all things necessary or convenient to be done for or in connexion with, or as incidental to, the performance of its functions and, in particular, without limiting the generality of the foregoing, has power, either directly or by arrangement with other persons, to construct buildings and works and carry on services.
 
@@ -259,9 +219,11 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="8A"></a>8A  Chief executive officer’s function
 
-                   The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
+The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
 
 ## Part IV—Constitution and meetings of the Corporation
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="9"></a>9  Nature of Corporation 
 
@@ -311,7 +273,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="10A"></a>10A  Appointment of chief executive officer
 
-                   The chief executive officer is to be appointed by the appointed members, and holds office on terms and conditions determined by the appointed members.
+The chief executive officer is to be appointed by the appointed members, and holds office on terms and conditions determined by the appointed members.
 
 ##### <a id="11"></a>11  Period of appointment of appointed members
 
@@ -331,7 +293,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="14"></a>14  Resignation of members
 
-                   An appointed member may resign office by writing signed by him or her and delivered to the Governor-General.
+An appointed member may resign office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="15"></a>15  Dismissal of appointed members
 
@@ -377,7 +339,7 @@ shall, as soon as possible after the relevant facts have come to his or her know
 
 ##### <a id="17"></a>17  Condition of service—appointed member
 
-                   Subject to this Act, the appointed members hold office on such terms and conditions as the Ministerial Council determines.
+Subject to this Act, the appointed members hold office on such terms and conditions as the Ministerial Council determines.
 
 ##### <a id="18"></a>18  Acting appointments
 
@@ -435,13 +397,15 @@ shall, as soon as possible after the relevant facts have come to his or her know
 
 ## Part V—Staff
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="21"></a>21  Officers and employees
 
              (1)  The Corporation may appoint such officers or engage such employees as it thinks necessary for the purposes of this Act.
 
              (2)  The terms and conditions of service or employment (in respect of matters not provided for by this Act) of persons so appointed or engaged are such as are determined by the Corporation.
 
-             (3)  The Corporation may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_, or with a body established by an Act, for the services of officers or employees of the Agency or of the body to be made available to the Corporation.
+             (3)  The Corporation may arrange with the Secretary of any Department of the Australian Public Service, or with a body established by an Act, for the services of officers or employees of the Department or of the body to be made available to the Corporation.
 
              (4)  The Governor-General may enter into an arrangement with the Governor of a State for the services of officers or employees of the Public Service of the State or of an authority of the State to be made available to the Corporation.
 
@@ -449,7 +413,79 @@ shall, as soon as possible after the relevant facts have come to his or her know
 
              (6)  In subsection (2), “terms and conditions” include conditions with respect to the duration of service or employment or with respect to dismissal from service or employment.
 
+##### <a id="22"></a>22  Persons appointed under section 21 to have certain rights of entry into the Australian Public Service
+
+             (1)  In this section, unless the contrary intention appears:
+
+                    <a name="corpor-offic"></a>**_Corporation officer_** means a person who is an appointed officer of the Corporation.
+
+                    <a name="servic"></a><a name="secretari"></a><a name="offic"></a><a name="depart"></a>**_Department_**, **_office_**,**_Secretary_** and **_Service_** have the same respective meanings as they have in the Public Service Act.
+
+                    <a name="vacanc"></a><a name="promotion"></a><a name="non-appel-promotion"></a>**_non-appellable promotion_**, **_promotion_** and **_vacancy_** have the same respective meanings as they have in Division 4 of Part III of the Public Service Act.
+
+                    <a name="public-servic-act"></a>**_Public Service Act_** means the _Public Service Act 1922_.
+
+             (2)  Where, under section 50, 50DA or 50DB of the Public Service Act, notification of a vacancy in an office in a Department is given in the _Gazette_, a Corporation officer may apply for appointment to the office.
+
+             (3)  Where:
+
+                     (a)  a Corporation officer applies under subsection (2) for appointment to an office in a Department; and
+
+                     (b)  the Secretary of the Department is satisfied that the Corporation officer should be appointed to the office;
+
+the Public Service Commissioner may appoint the Corporation officer to the office, in accordance with section 42 or 43 of the Public Service Act.
+
+             (4)  Despite section 47 of the Public Service Act, the appointment of a Corporation officer to an office in a Department must not be an appointment on probation if the Corporation officer’s appointment as an officer of the Corporation under section 21:
+
+                     (a)  was an appointment without probation; or
+
+                     (b)  was an appointment on probation and has been confirmed.
+
+             (5)  Where the Public Service Commissioner appoints a Corporation officer to an office in a Department the following provisions have effect:
+
+                     (a)  the provisions of Subdivision D of Division 4 of Part III of the Public Service Act and the provisions of the _Merit Protection (Australian Government Employees) Act 1984_ apply to and in relation to the appointment as if:
+
+                              (i)  the appointment were a promotion (in this subsection referred to as the **_deemed promotion_**) of the Corporation officer to the office by the Secretary of the Department, being a promotion:
+
+                                        (A)  in a case where the appointment is in accordance with the advice of a Joint Selection Committee constituted for the purposes of section 50DA—made under section 50DA of the Public Service Act; or
+
+                                        (B)  in the case where the appointment is in accordance with the unanimous advice of a Joint Selection Committee constituted for the purposes of section 50DB of the Public Service Act—made under section 50DA of the Public Service Act; or
+
+                                        (C)  in any other case—made under section 50 of the Public Service Act; and
+
+                             (ii)  the Corporation officer were an officer within the meaning of the Public Service Act;
+
+                     (b)  the deemed promotion takes effect as provided for in section 50E of the Public Service Act;
+
+                     (c)  except where paragraph (d) or (e) applies, the appointment does not take effect from the making of the appointment but takes effect on the day (if any) on which the deemed promotion takes effect;
+
+                     (d)  where:
+
+                              (i)  the deemed promotion is a non-appellable promotion; and
+
+                             (ii)  an application for review of the deemed promotion by the Merit Protection and Review Agency has been lodged under subsection 50DA(1); and
+
+                            (iii)  the Merit Protection and Review Agency makes a decision in writing under subparagraph 50DAA(3)(b)(i) affirming the promotion;
+
+                            the appointment does not take effect unless and until that decision is made;
+
+                     (e)  where:
+
+                              (i)  the deemed promotion is a non-appellable promotion; and
+
+                             (ii)  an application for review of the deemed promotion by the Merit Protection and Review Agency has been lodged under subsection 50DAA(1); and
+
+                            (iii)  the Merit Protection and Review Agency has recommended to the Secretary under subsection 50DAA(4) that the promotion be cancelled;
+
+                            the appointment does not take effect unless and until the Secretary makes a decision under subsection 50DAA(6) not to cancel the promotion;
+
+                      (f)  the Corporation officer is taken to be absent from the Service on leave of absence without pay until he or she begins to perform the duties of the office;
+
+                     (g)  if the Corporation officer does not begin to perform the duties of the office within a reasonable time after the appointment takes effect, the Public Service Commissioner or the Secretary of the Department may cancel the appointment.
+
 ## Part VI—Finance
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="24"></a>24  Moneys available to Corporation
 
@@ -459,7 +495,7 @@ shall, as soon as possible after the relevant facts have come to his or her know
 
 ##### <a id="25"></a>25  Grants to Corporation
 
-                   The Corporation may receive financial assistance granted to it by the State of New South Wales or the State of Victoria.
+The Corporation may receive financial assistance granted to it by the State of New South Wales or the State of Victoria.
 
 ##### <a id="26"></a>26  Borrowing by Corporation
 
@@ -503,7 +539,7 @@ but not otherwise.
 
 ##### <a id="29"></a>29  Power to enter contracts
 
-                   The Corporation shall not enter into any contract or acquire or dispose of any property except in accordance with an approval of the Ministerial Council.
+The Corporation shall not enter into any contract or acquire or dispose of any property except in accordance with an approval of the Ministerial Council.
 
 ##### <a id="30"></a>30  Audit
 
@@ -531,9 +567,11 @@ but not otherwise.
 
 ## Part VII—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="32"></a>32  Annual Report
 
-                   The Corporation shall, as soon as practicable after each financial year:
+The Corporation shall, as soon as practicable after each financial year:
 
                      (a)  prepare a report, in the form approved by the Minister for Finance, of:
 
@@ -549,7 +587,7 @@ but not otherwise.
 
 ##### <a id="33"></a>33  Annual financial statement
 
-                   Before furnishing the Corporation’s financial statements to the Minister, the Corporation shall submit them to the Auditor-General, who shall report to the Australian Minister:
+Before furnishing the Corporation’s financial statements to the Minister, the Corporation shall submit them to the Auditor-General, who shall report to the Australian Minister:
 
                      (a)  whether the statements are based on proper accounts and records;
 
@@ -563,7 +601,11 @@ but not otherwise.
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule 1—Albury-Wodonga Area Development Agreement
+* * *
+
+ 
+
+<span style="font-size:16.0pt">Schedule 1</span>—<span class="ScheduleHeadText">Albury-Wodonga Area Development Agreement</span>
 
 _Section 6_
 
@@ -579,9 +621,9 @@ AND WHEREAS the intentions of the three Governments are—
 
 NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:— 
 
-## <span style="font-weight:normal">PART I</span>—<span class="CharPartText">GENERAL</span>
+PART I—GENERAL
 
-##### Definitions 
+Definitions 
 
 1.  In this agreement, unless the contrary intention appears—
 
@@ -615,7 +657,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 ‘the Ministerial Council’ means the Ministerial Council provided for in clause 4 hereof.
 
-##### Commencement 
+Commencement 
 
 2.  (1)   This agreement, other than this sub-clause and sub-clauses (2), (5) and (6) of this clause, shall have no force or effect and shall not be binding on any of the parties hereto unless and until it is approved by the respective Parliaments of Australia, the State of New South Wales and the State of Victoria, but upon being so approved by those Parliaments, it shall be of full force and effect and binding on the parties. 
 
@@ -657,7 +699,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 for the purpose of giving effect to this agreement. 
 
-##### Albury-Wodonga Area
+Albury-Wodonga Area
 
 3.(1)   For the purposes of this agreement, the Albury-Wodonga Area means an area of land in the State of New South Wales and the State of Victoria approximately five thousand (5,000) square kilometres in total extent contained within the boundaries set out in sub-clause (2) of this clause. 
 
@@ -727,9 +769,9 @@ for the purpose of giving effect to this agreement.
 
           (c)     a reference to the Governor of Victoria is a reference to the person administering the Government of Victoria with the advice of the Executive Council of that State at the date of the relevant proclamation or the giving of the relevant approval, as the case may be. 
 
-## <span style="font-weight:normal">PART II</span>—<span class="CharPartText">ORGANIZATION</span>
+PART II—ORGANIZATION 
 
-##### Ministerial Council 
+Ministerial Council 
 
 4.(1)   For the purposes of this agreement there shall be a Ministerial Council consisting of three members—an Australian Minister, a New South Wales Minister and a Victorian Minister. 
 
@@ -751,7 +793,7 @@ for the purpose of giving effect to this agreement.
 
 (7)   Each of the members of the Ministerial Council shall be informed forthwith in writing of each of the decisions made at meetings of the Development Corporation.
 
-##### Development Corporation 
+Development Corporation 
 
 5.  (1)   The Albury-Wodonga Development Corporation will be a corporation aggregate consisting of five members of whom three—the Chairman and the two Deputy Chairmen—will be executive members and two will be part-time members, appointed by the Governor-General, or the person who is at the date of the relevant appointment the person administering the Government of Australia, acting with the advice of the Federal Executive Council, and holding office— 
 
@@ -801,7 +843,7 @@ for the purpose of giving effect to this agreement.
 
                         (vii) levees and river protection works; 
 
-                        (viii) wharves, jetties, marinas and ferries; 
+                        (viii)  wharves, jetties, marinas and ferries; 
 
                         (ix)  public amenities including baths, bathing areas and other areas for sport and recreation; and 
 
@@ -823,7 +865,7 @@ for the purpose of giving effect to this agreement.
 
 (16) The Ministerial Council may give directions to the Development Corporation concerning the performance of its functions, the exercise of its powers and its procedure, and the Development Corporation shall comply with those directions. 
 
-##### Staff of Development Corporation
+Staff of Development Corporation
 
 6.  (1)   The terms and conditions of employment of officers and employees of the Development Corporation will be determined as provided for in the Australian Act. 
 
@@ -833,7 +875,7 @@ for the purpose of giving effect to this agreement.
 
 (4)   The staff establishment of the Development Corporation shall be as approved from time to time by the Ministerial Council. 
 
-##### State Corporations
+State Corporations
 
 7.  (1)   There will be two State Corporations, namely— 
 
@@ -883,7 +925,7 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (11) In this clause, ‘the constituting State’ means the State by the Act of whose Parliament the relevant State Corporation was constituted. 
 
-##### Consultative Council
+Consultative Council
 
 8.  (1)   For the purposes of this agreement, there shall be a Consultative Council constituted, subject to sub-clause (2) of this clause, as determined from time to time by the Ministerial Council. 
 
@@ -909,9 +951,9 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (7)   The Development Corporation shall make suitable arrangements for secretarial services for and meetings of the Consultative Council. 
 
-## <span style="font-weight:normal">PART III</span>—<span class="CharPartText">DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS</span>
+PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS 
 
-##### Development Plan and Financial Programme 
+Development Plan and Financial Programme 
 
 9.  (1)   The Development Corporation shall prepare and submit for consideration to the Ministerial Council each year by a date determined by the Ministerial Council a comprehensive proposed forward plan for development of the growth complex (to be called ‘the Proposed Albury-Wodonga Development Plan’ for the period to which it relates and in this clause referred to as ‘the Plan’)— 
 
@@ -1003,9 +1045,9 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (11) The programme covering the commencement of the development of the growth complex during the financial year 1973/74 and the sources of the funds to cover that programme shall be as agreed between the three Governments. 
 
-##### Operating Expenses of Development Corporation 
+Operating Expenses of Development Corporation 
 
-10.  (1) (a)   Subject to paragraph (b) of this sub-clause, the expenses of operating the Development Corporation, the State Corporations and the Consultative Council (in this Agreement referred to as “operating expenses”), as distinct from direct capital expenditure by any of those corporations, shall be borne by the Development Corporation. 
+10.       (1)   (a) Subject to paragraph (b) of this sub-clause, the expenses of operating the Development Corporation, the State Corporations and the Consultative Council (in this Agreement referred to as “operating expenses”), as distinct from direct capital expenditure by any of those corporations, shall be borne by the Development Corporation. 
 
                  (b)   Operating expenses, as defined in paragraph (a) of this sub-clause, shall not include expenditure in respect of services carried on by a State Corporation. 
 
@@ -1037,13 +1079,13 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (6)   Administrative expenses shall comprise all operating expenses that are not developmental expenses. 
 
-##### Accounts of Corporations 
+Accounts of Corporations 
 
 11.   (1)   The Development Corporation and each of the State Corporations shall cause to be kept proper accounts and records of their respective transactions and affairs in accordance with appropriate accounting principles and each shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorized and that adequate control is maintained over the assets belonging to it or in its custody or control and over the incurring of liabilities by it. 
 
 (2)   The Development Corporation shall each year cause to be prepared in respect of the immediately preceding financial year, by a date and in a form determined by the Ministerial Council, a consolidated statement of revenue received and expenditure incurred by the Development Corporation and the State Corporations during that financial year and shall submit them to the Ministerial Council as directed by it. 
 
-##### Revenue and Repayment of Loans 
+Revenue and Repayment of Loans 
 
 12.   (1)   All revenues payable in respect of the use of land vested in a State Corporation or of buildings or other works responsibility for which has passed to a State Corporation shall be payable to that State Corporation until other arrangements are made in that behalf by the parties hereto. 
 
@@ -1059,9 +1101,9 @@ each of which will be a corporation aggregate consisting of three members appoin
 
           (c)     the three Governments will consult to determine whether the outstanding balance should be dealt with otherwise than on the basis referred to in paragraph (b) of this sub-clause.
 
-## <span style="font-weight:normal">PART IV</span>—<span style="font-weight:normal">RESPONSIBILITY FOR ASSETS</span>
+PART IV—RESPONSIBILITY FOR ASSETS 
 
-##### Responsibility of Corporations for Sites and Buildings
+Responsibility of Corporations for Sites and Buildings
 
 13.   (1)   The Development Corporation shall, during the period of construction, have possession of each building or other work that it constructs or arranges to have constructed and the site of each such building or other work. 
 
@@ -1079,11 +1121,14 @@ IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf
 <tr>
   <td></td>
   <td>
-    <img width="473" height="324" src="http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image002.gif">
+    <img width="473" height="313" src="http://www.comlaw.gov.au/Details/C2004C01840/Html/AlburyWodDev73_image002.gif">
   </td>
 </tr></table>    
 
-# Schedule 2—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1) 
+* * *
+
+
+<span style="font-size:16.0pt">Schedule 2</span>—<span class="ScheduleHeadText">Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1)</span> 
 
 _Section 6A_
 
@@ -1099,7 +1144,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 (2)   The Australian, New South Wales and Victorian Governments will submit this agreement for approval to their respective Parliaments as soon as practicable after the date of this agreement. 
 
-##### Definitions
+Definitions
 
 3.    Clause 1 of the principal agreement is amended by inserting after the definition of “land” the following definitions: 
 
@@ -1107,7 +1152,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 ‘Mayor of the Rural City of Wodonga’ means the person for the time being elected to that office under the provisions of the Local Government Act 1958 of the State of Victoria;”. 
 
-##### Development Corporation
+Development Corporation
 
 4.    (1)   Sub-clause 5 (1) of the principal agreement is amended by deleting the word “five” and substituting the word “eight” and by deleting the word “two” where second occurring and substituting the word “five”  and further by deleting all words appearing after the words “part-time members”.
 
@@ -1141,7 +1186,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 (4)   Sub-clause 5 (7) of the principal agreement is amended by deleting the words “three persons” and substituting the words “a majority of the members for the time being holding office provided that there shall be present at least one executive member.”. 
 
-##### State Corporations
+State Corporations
 
 5.  (1)   Sub-clause 7 (1) of the principal agreement is amended by deleting all words after the words “consisting of” and substituting the words “eight members of whom three—the Chairman and the two Deputy Chairmen—will be executive members and five will be part-time members.”. 
 
@@ -1193,19 +1238,22 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 6.    Clause 8 of the principal agreement is deleted and the following clause substituted: 
 
-##### Consultative Council Advisory Committees
+Consultative Council Advisory Committees
 
 “8.   The Development Corporation may establish advisory committees for the purpose of advising it in respect of the carrying out of its functions.”. 
 
-##### Operating Expenses of Development Corporation
+Operating Expenses of Development Corporation
 
 7.    Sub-clause 10 (1) (a) of the principal agreement is amended by deleting the words “the Consultative Council” and substituting the words “advisory committees”. 
 
 IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf of the parties hereto on the day and year first above-written.
 
-![](http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image003.gif) 
+<span style="left:0px;position:absolute; left:-2px;top:-96px;width:485px;height:296px">![](http://www.comlaw.gov.au/Details/C2004C01840/Html/AlburyWodDev73_image003.gif)</span> 
 
-# Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2) 
+* * *
+
+
+<span style="font-size:16.0pt">Schedule 3</span>—<span class="ScheduleHeadText">Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2)</span> 
 
 _Section 6B_
 
@@ -1220,7 +1268,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 2.    This agreement, other than this clause, shall have no force or effect and shall not be binding on any of the parties unless and until it is approved by the Parliaments of Australia, the State of New South Wales and the State of Victoria, but upon being so approved by all of those Parliaments, it shall be of full force and effect and binding on the parties.
 
-##### Definitions 
+Definitions 
 
 3.    Clause 1 of the principal agreement is amended by: 
 
@@ -1246,13 +1294,13 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
        (b)   altering the reference to paragraph (c) to paragraph (b). 
 
-##### Ministerial Council 
+Ministerial Council 
 
 5.    Sub-clause 4 (2) of the principal agreement is amended by deleting paragraph (a) and substituting the following paragraph: 
 
               “(a) The members of the Ministerial Council will be the Australian Minister for Immigration, Local Government and Ethnic Affairs, the New South Wales Minister for Business and Consumer Affairs and the Victorian Minister for Manufacturing and Industry Development.” 
 
-##### Development Corporation 
+Development Corporation 
 
 6.    Clause 5 of the principal agreement is deleted and the following clause substituted: 
 
@@ -1314,7 +1362,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
                           (vii) levees and river protection works; 
 
-                          (viii) wharves, jetties, marinas and ferries; 
+                          (viii)  wharves, jetties, marinas and ferries; 
 
                           (ix)  public amenities including baths, bathing areas and other areas for sport and recreation; and 
 
@@ -1334,7 +1382,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 (16) The Ministerial Council may give directions to the Development Corporation concerning the performance of its functions, the exercise of its powers and its procedure, and the Development Corporation shall comply with those directions.” 
 
-##### State Corporations 
+State Corporations 
 
 7.    Clause 7 of the principal agreement is deleted and the following clause substituted: 
 
@@ -1410,13 +1458,15 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 10.   Clause 12 of the principal agreement and its heading are deleted and clause 13 is renumbered clause 12.
 
-# Notes to the _Albury-Wodonga Development Act 1973_
+* * *
 
-### Note 1
+ 
 
-The _Albury-Wodonga Development Act 1973_ as shown in this consolidation comprises Act No. 189, 1973 amended as indicated in the Tables below.
+# NOTES
 
-### Table of Acts
+1.  The _Albury-Wodonga Development Act 1973_ as shown in this reprint comprises Act No. 189, 1973 amended as indicated in the Tables below.
+
+Table of Acts
 
 <table>
 <colgroup>
@@ -1686,62 +1736,39 @@ Remainder: 17 Feb 1992 ( <i>see Gazette</i>1992, No. S48)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 86-91): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Albury-Wodonga Development Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
-                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                 “(4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.”
 
 _(b)_    The _Albury-Wodonga Development Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
 _(c)_     The _Albury-Wodonga Development Amendment Act 1991_ was amended by Schedule 3 (items 1, 2) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                 “(3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.”
 
 _(d)_     The _Albury-Wodonga Development Act 1973_ was amended by section 6 only of the _Social Security (Rewrite) Transition Act 1991_, section 2 of which provides as follows:
 
-                    2.   This Act commences immediately after the _Social Security Act 1991_ commences.
+                  “2.   This Act commences immediately after the _Social Security Act 1991_ commences.”
 
          The _Social Security Act 1991_ commenced on 1 July 1991.
 
 _(e)_     The _Albury-Wodonga Development Act 1973_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
-                  (1)   Part 1, Divisions I and II of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
+                 “(1)   Part 1, Divisions I and II of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.”
 
 _(f)_      The _Albury-Wodonga Development Act 1973_ was amended by Schedule 4 (item 8) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.” 
 
 _(g)_     The _Albury-Wodonga Development Act 1973_ was amended by Schedule 2 (items 154-156) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
-
-_(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Schedule 1 (items 86-91) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”
 
  
 
@@ -1768,15 +1795,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
+    <div>Ss. 3, 4</div>
   </td>
   <td>
     <div>am. No. 96, 1979; No. 60, 1991</div>
@@ -1819,7 +1838,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999</div>
+    <div>am. No. 96, 1979; No. 60, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1931,7 +1950,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 199, 1991; No. 146, 1999</div>
+    <div>am. No. 63, 1984; No. 199, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1948,14 +1967,6 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
   </td>
   <td>
     <div>ad. No. 60, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2065,9 +2076,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 
  
 
-### Note 2
-
-Section 5—Schedule 2 (items 154, 155) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ provides as follows:
+2.   Section 5—Schedule 2 (items 154, 155) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ provides as follows:
 
 ## Schedule 2
 
