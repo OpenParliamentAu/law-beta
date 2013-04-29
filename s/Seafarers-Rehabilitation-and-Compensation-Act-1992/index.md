@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 31 July 2012
- taking into account amendments up to Act No. 56 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 181 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -404,10 +404,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="attend-care-servic"></a>**_attendant care services_**, in relation to an employee, means services (other than household services, medical or surgical services or nursing care) required for the essential and regular personal care of the employee.
 
-                    <a name="australian-gener-ship-regist"></a>**_Australian General Shipping Register_** has the same meaning as in the _Shipping Registration Act 1981_.
-
-                    <a name="australian-intern-ship-regist"></a>**_Australian International Shipping Register_** has the same meaning as in the _Shipping Registration Act 1981_.
-
                     <a name="australian-maritim-safeti-author"></a>**_Australian Maritime Safety Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
                     <a name="authorised-insur"></a>**_authorised insurer_** means a general insurer or Lloyd’s underwriter under the _Insurance Act 1973_ or an insurer that carries on State insurance (whether or not the State insurance extends beyond the limits of the State concerned).
@@ -421,8 +417,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="claim"></a>**_claim_** means a claim under Part 5.
 
                     <a name="claimant"></a>**_claimant_**, in relation to a time after the death of a claimant, means the claimant’s legal personal representative.
-
-                    <a name="coastal-trade"></a>**_coastal trading_** has the same meaning as in the _Coastal Trading (Revitalising Australian Shipping) Act 2012_.
 
                     <a name="comcar"></a>**_Comcare_** has the same meaning as in the _Safety, Rehabilitation and Compensation Act 1988_.
 
@@ -480,8 +474,6 @@ Note:          see also section 16.
 
 being an ailment or an aggravation that was contributed to in a material degree by the employee’s employment.
 
-                    <a name="emerg-licenc"></a>**_emergency licence_** has the same meaning as in the _Coastal Trading (Revitalising Australian Shipping) Act 2012_.
-
                     <a name="employe"></a>**_employee_** has the meaning given in section 4.
 
                     <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation within the meaning of paragraph 51(xx) of the Constitution.
@@ -489,8 +481,6 @@ being an ailment or an aggravation that was contributed to in a material degree 
                     <a name="foreign-corpor"></a>**_foreign corporation_** means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution and includes a body that is incorporated in an external Territory.
 
                     <a name="fund"></a>**_Fund_** has the meaning given in section 96.
-
-                    <a name="gener-licenc"></a>**_general licence_** has the same meaning as in the _Coastal Trading (Revitalising Australian Shipping) Act 2012_.
 
                     <a name="govern-ship"></a>**_Government ship_** means a ship:
 
@@ -944,15 +934,7 @@ is taken to be a person who was wholly dependent on the employee at that date.
 
                      (c)  within a Territory, between a State and a Territory or between 2 Territories.
 
-Note:          This Act does not apply if a prescribed ship is a ship registered in the Australian International Shipping Register, see paragraph 61AA(b) of the _Shipping Registration Act 1981_.
-
-       (1AA)  This Act also applies to the employment of employees on:
-
-                     (a)  a vessel that is used to engage in coastal trading under a general licence; or
-
-                     (b)  a vessel that is used to engage in coastal trading under an emergency licence if the vessel is registered in the Australian General Shipping Register.
-
-          (1A)  This Act also applies to the employment of employees on any prescribed ship that is:
+          (1A)  In addition, this Act applies to the employment of employees on any prescribed ship that is:
 
                      (a)  an off‑shore industry vessel in relation to which a declaration under subsection 8A(2) of the Navigation Act is in force; or
 
@@ -1078,7 +1060,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image002.gif)
 
 where:
 
@@ -1170,7 +1152,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
 
 where:
 
@@ -1284,7 +1266,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image004.gif)
 
 where:
 
@@ -1392,7 +1374,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image005.gif)
 
 where:
 
@@ -1422,7 +1404,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image006.gif)
 
 where:
 
@@ -1460,7 +1442,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image007.gif)
 
 where:
 
@@ -1500,7 +1482,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image008.gif)
 
 where:
 
@@ -1606,7 +1588,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image009.gif)
 
 where:
 
@@ -1714,7 +1696,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image010.gif)
 
 where:
 
@@ -1802,7 +1784,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
 
 where:
 
@@ -1854,7 +1836,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
 
 where:
 
@@ -2298,7 +2280,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
 
 where:
 
@@ -2614,7 +2596,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
 
 where:
 
@@ -3402,7 +3384,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00583/Html/9d1bac13-cf02-49e3-a9d3-30e27604a4e6_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image011.gif)
 
 where:
 
@@ -4021,26 +4003,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments) and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>56, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 15–21): <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4248,61 +4210,6 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-_(l)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments and Transitional Provisions) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Coastal Trading (Revitalising Australian Shipping) Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2012
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -4347,7 +4254,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008; No. 54, 2009; No. 56, 2012</div>
+    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4419,15 +4326,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian 
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; No. 10, 1997; No. 56, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2012</div>
+    <div>am. No. 5, 1994; No. 10, 1997</div>
   </td>
 </tr>
 <tr>
