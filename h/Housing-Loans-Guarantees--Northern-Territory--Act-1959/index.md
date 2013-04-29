@@ -1,81 +1,59 @@
-![](http://www.comlaw.gov.au/Details/C2004C00513/Html/BB29D293C36BF41BCA257163002267B8/$FILE/image001.gif)
+**<b>
 
-# Housing Loans Guarantees (Northern Territory) Act 1959
+### <center><name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - Assented to 22 May 1959 (HISTACT2 CHAP 78 #DATE 22:05:1959) </name></center>
+</b>** 
+**<b>
 
-**Act No. 47 of 1959**
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This Act was prepared on 30 April 2002
+## TABLE
+<tables> <tt><lf>           HOUSING  LOANS  GUARANTEES  (NORTHERN  TERRITORY)  ACT  1959<lf> <lf>                              TABLE  OF  PROVISIONS<lf> Section<lf>   1\.        Short title<lf>   2\.        Commencement<lf>   3\.        Interpretation<lf>   4\.        Treasurer may guarantee loans<lf>   5\.        Delegation by Treasurer<lf> <lf>                                -----------------<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - SECT. 1\. Short title. </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
-Attorney-General’s Department, Canberra
+## SECT
+<sect> and Housing Authorities of the Northern Territory of Australia.<lf>   1\. This Act may be cited as the Housing Loans Guarantees (Northern Territory) Act 1959.*<lf> </lf></lf></sect>
+**<b>
 
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - SECT. 2\. Commencement. </name>
+</b>** 
 
-# Contents
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*<lf> </lf></sect>
+**<b>
 
-[1](#1).            Short Title [_see_ Note 1]                                                                       1
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - SECT. 3\. Interpretation. </name>
+</b>** 
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+## SECT
+<sect>   3\. (1) In this Act, ''loan'' includes an advance by way of overdraft.<lf> 
 
-[3](#3).            Interpretation                                                                                       1
+  (2) In this Act, a reference to an Ordinance shall be deemed-<lf> <lf>   (a)  if that Ordinance is amended-to be a reference to that Ordinance as amended; or<lf> <lf>   (b)  if that Ordinance is repealed and remade, with or without modifications, by another Ordinance-to be a reference to that other Ordinance.<lf> </lf></lf></lf></lf></lf>
+</lf></sect>
+**<b>
 
-[4](#4).            Treasurer may guarantee loans                                                            1
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - SECT. 4\. Treasurer may guarantee loans. </name>
+</b>** 
 
-[5](#5).            Delegation by Treasurer                                                                      2
+## SECT
+<sect>   4\. (1) The Treasurer may, on behalf of the Commonwealth, guarantee the repayment to the lender of a loan (including interest on the loan) made to-<lf> <lf>   (a)  a co-operative building society registered under a law of the Northern Territory of Australia relating to co-operative societies;<lf> <lf>   (b)  the Commissioner for Housing holding office under the Housing Loans Ordinance 1949-1956 of the Northern Territory of Australia; or<lf> <lf>   (c)  the Housing Commission constituted by the Housing Ordinance 1959 of the Northern Territory of Australia.<lf> 
 
-**Notes** 
+  (2) The terms and conditions of the guarantee shall be as agreed to between the Treasurer and the lender.<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
- 
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - SECT. 5\. Delegation by Treasurer. </name>
+</b>** 
 
+## SECT
+<sect>   5\. (1) The Treasurer may, by instrument in writing, delegate to a person, either generally or otherwise as provided in the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation) so that the delegated powers and functions may be exercised and performed by the delegate in accordance with the instrument of delegation.<lf> 
 
-## An Act to facilitate the Borrowing of Money by Co-operative Building Societies and Housing Authorities of the Northern Territory of Australia
+  (2) A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Treasurer.<lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf>
+</lf></sect>
+**<b>
 
-##### <a id="1"></a>1  Short Title [_see_ Note 1]
-
-                   This Act may be cited as the _Housing Loans Guarantees (Northern Territory) Act 1959_. 
-
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
-
-This Act shall come into operation on the day on which it receives the Royal Assent.
-
-##### <a id="3"></a>3  Interpretation
-
-             (1)  In this Act, **_loan_** includes an advance by way of overdraft. 
-
-             (2)  In this Act, a reference to an Ordinance shall be deemed:
-
-                     (a)  if that Ordinance is amended—to be a reference to that Ordinance as amended; or
-
-                     (b)  if that Ordinance is repealed and remade, with or without modifications, by another Ordinance—to be a reference to that other Ordinance.
-
-##### <a id="4"></a>4  Treasurer may guarantee loans
-
-(1)  The Treasurer may, on behalf of the Commonwealth, guarantee the repayment to the lender of a loan (including interest on the loan) made to:
-
-                     (a)  a co-operative building society registered under a law of the Northern Territory of Australia relating to co-operative societies;
-
-                     (b)  the Commissioner for Housing holding office under the _Housing Loans Ordinance 1949-195_ 6 of the Northern Territory of Australia; or
-
-                     (c)  the Housing Commission constituted by the _Housing Ordinance 195_ 9 of the Northern Territory of Australia.
-
-             (2)  The terms and conditions of the guarantee shall be as agreed to between the Treasurer and the lender. 
-
-##### <a id="5"></a>5  Delegation by Treasurer
-
-             (1)  The Treasurer may, by instrument in writing, delegate to a person, either generally or otherwise as provided in the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation) so that the delegated powers and functions may be exercised and performed by the delegate in accordance with the instrument of delegation. 
-
-             (2)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Treasurer. 
-
-
-# Notes to the _Housing Loans Guarantees (Northern Territory) Act 1959_
-
-### Note 1
-
-Act No. 47, 1959; assented to and commenced 22 May 1959.
-
-
- 
-
- 
+### <name>HOUSING LOANS GUARANTEES (NORTHERN TERRITORY) ACT 1959 - NOTE </name>
+</b>** <lf>                                       NOTE<lf> 1\.  Act No. 47, 1959; assented to 22 May 1959\. </lf></lf>
