@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00016/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00488/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 1 January 2010
+This compilation was prepared on 16 October 2009
  taking into account amendments up to Act No. 103 of 2009
 
 The text of any of those amendments not in force
@@ -40,13 +40,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Imposition of safety case levy—designated coastal waters
 
+**Part 4—Pipeline safety management plan levy**
+
+[9](#9).            Imposition of pipeline safety management plan levy—Commonwealth waters
+
+[10](#10).          Imposition of pipeline safety management plan levy—designated coastal waters
+
 **Part 5—Regulations**
 
 [11](#11).          Regulations
 
 **Notes** 
 
-## An Act to impose safety investigation levy and safety case levy, in relation to offshore petroleum and greenhouse gas facilities
+## An Act to impose safety investigation levy, safety case levy, and pipeline safety management plan levy, in relation to offshore petroleum and greenhouse gas facilities
 
 ## Part 1—Introduction
 
@@ -152,6 +158,8 @@ Note:          This table relates only to the provisions of th
 
                     <a name="oh-inspector"></a>**_OHS inspector_** has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
+                    <a name="pipelin-safeti-manag-plan-levi"></a>**_pipeline safety management plan levy_** means levy imposed by section 9 or 10.
+
                     <a name="safeti-author"></a>**_Safety Authority_** means the National Offshore Petroleum Safety Authority continued in existence by Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006._
 
                     <a name="safeti-case-levi"></a>**_safety case levy_** means levy imposed by section 7 or 8.
@@ -170,7 +178,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to each external Territory to which the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ extends.
+                   This Act extends to each external Territory to which the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ extends.
 
 Note:          See section 34 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -294,11 +302,7 @@ levy is imposed on the safety case in respect of:
 
              (2)  Levy imposed by subsection (1) is to be known as **_safety case levy_**.
 
-             (3)  Safety case levy imposed by subsection (1) is payable by:
-
-                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
-
-                     (b)  otherwise—the operator of the facility.
+             (3)  Safety case levy imposed by subsection (1) is payable by the operator of the facility.
 
 Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -319,14 +323,6 @@ Definitions
                     <a name="facil"></a>**_facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a proposed facility.
 
                     <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a pipeline that is:
-
-                     (a)  proposed to be constructed or operated; or
-
-                     (b)  being constructed.
-
-                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
                     <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -354,13 +350,9 @@ levy is imposed on the safety case in respect of:
 
              (2)  Levy imposed by subsection (1) is to be known as **_safety case levy_**.
 
-             (3)  Safety case levy imposed by subsection (1) is payable by:
+             (3)  Safety case levy imposed by subsection (1) is payable by the operator of the facility.
 
-                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
-
-                     (b)  otherwise—the operator of the facility.
-
-Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ .
 
 Amount of safety case levy
 
@@ -380,6 +372,106 @@ Definitions
 
                     <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in the applicable State or Territory safety law.
 
+                    <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in the applicable State or Territory safety law.
+
+                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_.
+
+             (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
+
+## Part 4—Pipeline safety management plan levy
+
+##### <a id="9"></a>9  Imposition of pipeline safety management plan levy—Commonwealth waters
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  at the start of a year, a pipeline safety management plan is in force in relation to a pipeline; or
+
+                             (ii)  a pipeline safety management plan is in force in relation to a pipeline during a part of a year, but is not in force at the start of that year; and
+
+                     (b)  the pipeline is located, or proposed to be located, in Commonwealth waters; and
+
+                     (c)  the pipeline is covered by a pipeline licence;
+
+levy is imposed on the pipeline safety management plan in respect of:
+
+                     (d)  if subparagraph (a)(i) applies—that year; or
+
+                     (e)  if subparagraph (a)(ii) applies—that part of that year.
+
+             (2)  Levy imposed by subsection (1) is to be known as **_pipeline safety management plan levy_**.
+
+             (3)  Pipeline safety management plan levy imposed by subsection (1) is payable by the licensee of the pipeline licence.
+
+Note:          For collection of pipeline safety management plan levy, see section 688 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+Amount of pipeline safety management plan levy
+
+             (4)  The amount of pipeline safety management plan levy imposed by subsection (1) in respect of a year is the amount that is specified in, or worked out in accordance with, the regulations.
+
+             (5)  The amount of pipeline safety management plan levy imposed by subsection (1) in respect of a part of a year is the amount that is worked out in accordance with the regulations.
+
+             (6)  The regulations may specify different amounts of pipeline safety management plan levy, or different means of working out amounts of pipeline safety management plan levy, in relation to different kinds of pipelines.
+
+             (7)  Subsection (6) does not limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Definitions
+
+             (8)  In this section:
+
+                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a pipeline that is:
+
+                     (a)  proposed to be constructed or operated; or
+
+                     (b)  being constructed.
+
+                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+                    <a name="pipelin-safeti-manag-plan-forc-relat-pipelin"></a>**_pipeline safety management plan in force in relation to a pipeline_**has the same meaning as in the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_.
+
+             (9)  If the regulations referred to in the definition of **_pipeline safety management plan in force in relation to a pipeline_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
+
+##### <a id="10"></a>10  Imposition of pipeline safety management plan levy—designated coastal waters
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  at the start of a year, a pipeline safety management plan is in force in relation to a pipeline; or
+
+                             (ii)  a pipeline safety management plan is in force in relation to a pipeline during a part of a year, but is not in force at the start of that year; and
+
+                     (b)  the pipeline is located, or proposed to be located, in the designated coastal waters of a State or of the Northern   Territory; and
+
+                     (c)  the pipeline is covered by a pipeline licence;
+
+levy is imposed on the pipeline safety management plan in respect of:
+
+                     (d)  if subparagraph (a)(i) applies—that year; or
+
+                     (e)  if subparagraph (a)(ii) applies—that part of that year.
+
+             (2)  Levy imposed by subsection (1) is to be known as **_pipeline safety management plan levy_**.
+
+             (3)  Pipeline safety management plan levy imposed by subsection (1) is payable by the licensee of the pipeline licence.
+
+Note:          For collection of pipeline safety management plan levy, see section 688 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+Amount of pipeline safety management plan levy
+
+             (4)  The amount of pipeline safety management plan levy imposed by subsection (1) in respect of a year is the amount that is specified in, or worked out in accordance with, the regulations.
+
+             (5)  The amount of pipeline safety management plan levy imposed by subsection (1) in respect of a part of a year is the amount that is worked out in accordance with the regulations.
+
+             (6)  The regulations may specify different amounts of pipeline safety management plan levy, or different means of working out amounts of pipeline safety management plan levy, in relation to different kinds of pipelines.
+
+             (7)  Subsection (6) does not limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Definitions
+
+             (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern   Territory:
+
                     <a name="pipelin"></a>**_pipeline_** has the same meaning as in the applicable State or Territory safety law, and includes a pipeline that is:
 
                      (a)  proposed to be constructed or operated; or
@@ -388,17 +480,15 @@ Definitions
 
                     <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the applicable State or Territory safety law.
 
-                    <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in the applicable State or Territory safety law.
+                    <a name="pipelin-safeti-manag-plan-forc-relat-pipelin"></a>**_pipeline safety management plan in force in relation to a pipeline_**has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_.
 
-                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_.
-
-             (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
+             (9)  If the regulations referred to in the definition of **_pipeline safety management plan in force in relation to a pipeline_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
 
 ## Part 5—Regulations
 
 ##### <a id="11"></a>11  Regulations
 
-                   The Governor-General may make regulations for the purposes of sections 5, 6, 7 and 8.
+                   The Governor-General may make regulations for the purposes of sections 5, 6, 7, 8, 9 and 10.
 
 # Notes to the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
 
@@ -507,7 +597,7 @@ Remainder: Royal Assent</div>
     <div>8 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–12): 1 Jan 2010 
+    <div>Schedule 1 (items 1–12): \[ <i>see</i>Note 2 and Table A] 
 Schedule 1 (item 13): 9 Oct 2009 
 Remainder: Royal Assent</div>
   </td>
@@ -649,7 +739,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 120, 2008; No. 103, 2009</div>
+    <div>am. No. 120, 2008</div>
   </td>
 </tr>
 <tr>
@@ -670,15 +760,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
+    <div>Ss. 3, 4</div>
   </td>
   <td>
     <div>am. No. 19, 2006; No. 120, 2008</div>
@@ -745,7 +827,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009</div>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
   </td>
 </tr>
 <tr>
@@ -758,18 +840,10 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 103, 2009</div>
+    <div>am. No. 19, 2006</div>
   </td>
 </tr>
 <tr>
@@ -782,18 +856,10 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
   </td>
 </tr>
 <tr>
@@ -806,26 +872,10 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 9(3)</div>
   </td>
   <td>
     <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
   </td>
 </tr>
 <tr>
@@ -838,44 +888,94 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 10(3)</div>
   </td>
   <td>
     <div>am. No. 19, 2006; No. 120, 2008</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2009</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009 (No. 103, 2009)_
+
+The following amendments commence on 1 January 2010:
+
+## Schedule 1
+
+## 1  Subsection 7(3)
+
+Repeal the subsection, substitute:
+
+             (3)  Safety case levy imposed by subsection (1) is payable by:
+
+                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
+
+                     (b)  otherwise—the operator of the facility.
+
+Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 2  Subsection 7(8)
+
+Insert:
+
+                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a pipeline that is:
+
+                     (a)  proposed to be constructed or operated; or
+
+                     (b)  being constructed.
+
+## 3  Subsection 7(8)
+
+Insert:
+
+                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 4  Subsection 8(3)
+
+Repeal the subsection, substitute:
+
+             (3)  Safety case levy imposed by subsection (1) is payable by:
+
+                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
+
+                     (b)  otherwise—the operator of the facility.
+
+Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 5  Subsection 8(8)
+
+Insert:
+
+                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the applicable State or Territory safety law, and includes a pipeline that is:
+
+                     (a)  proposed to be constructed or operated; or
+
+                     (b)  being constructed.
+
+## 6  Subsection 8(8)
+
+Insert:
+
+                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the applicable State or Territory safety law.
+
+## 8  Title
+
+Omit “**, safety case levy, and pipeline safety management plan levy**”, substitute “**and safety case levy**”.
+
+## 9  Section 3 (definition of _pipeline safety management plan levy_)
+
+Repeal the definition.
+
+## 10  Part 4
+
+Repeal the Part.
+
+## 11  Section 11
+
+Omit “, 8, 9 and 10”, substitute “and 8”.
+
+As at 16 October 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -941,14 +1041,6 @@ _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 200
 
 ## Schedule 1
 
-## 7  Application of amendments
-
-The amendments made by this Part apply in relation to a safety case to the extent to which the safety case is in force at or after the commencement of this item.
-
-## 12  Application of amendments
-
-The amendments made by this Part apply in relation to a pipeline safety management plan to the extent to which the plan is in force at or after the commencement of this item.
-
 ## 13  Transitional—references to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
 
 (1)        During the period:
@@ -960,5 +1052,17 @@ The amendments made by this Part apply in relation to a pipeline safety manageme
 the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_ is taken to have had effect as if each reference in that Act to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ were a reference to the _Offshore Petroleum Act 2006_.
 
 (2)        Subitem (1) is enacted for the avoidance of doubt.
+
+The following provisions commence on 1 January 2010:
+
+## Schedule 1
+
+## 7  Application of amendments
+
+The amendments made by this Part apply in relation to a safety case to the extent to which the safety case is in force at or after the commencement of this item.
+
+## 12  Application of amendments
+
+The amendments made by this Part apply in relation to a pipeline safety management plan to the extent to which the plan is in force at or after the commencement of this item.
 
  
