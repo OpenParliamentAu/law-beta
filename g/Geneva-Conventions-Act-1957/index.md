@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image001.gif)
 
 # Geneva Conventions Act 1957
 
 **Act No. 103 of 1957 as amended**
 
-This compilation was prepared on 15 March 2010
+This compilation was prepared on 7 April 2009
  taking into account amendments up to Act No. 18 of 2009
 
 The text of any of those amendments not in force
@@ -13,42 +13,42 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[5](#5).            Interpretation                                                                                        1
+[5](#5).            Interpretation
 
-[6](#6).            Application of Act                                                                                3
+[6](#6).            Application of Act
 
-[6A](#6A).         Application of the _Criminal Code_                                                        3
+[6A](#6A).         Application of the _Criminal Code_
 
 **Part III—Legal proceedings in respect of protected persons**
 
-[10A](#10A).       Court may determine whether person is a protected prisoner of war    4
+[10A](#10A).       Court may determine whether person is a protected prisoner of war
 
-[11](#11).          Notice of trial of protected prisoners of war and internees to be served on protecting power etc             4
+[11](#11).          Notice of trial of protected prisoners of war and internees to be served on protecting power etc 
 
-[12](#12).          Legal representation of prisoners of war                                              5
+[12](#12).          Legal representation of prisoners of war
 
-[13](#13).          Appeals by protected prisoners of war and internees                           7
+[13](#13).          Appeals by protected prisoners of war and internees
 
-[14](#14).          Reduction of sentence and custody of protected prisoners of war and internees      8
+[14](#14).          Reduction of sentence and custody of protected prisoners of war and internees
 
 **Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms**
 
-[15](#15).          Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms    9
+[15](#15).          Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
 
 **Part V—Regulations**
 
-[16](#16).          Regulations                                                                                        12
+[16](#16).          Regulations
 
 **The Schedules** 
 
@@ -61,8 +61,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949** 
 
 **Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)** 
-
-**Schedule 6—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III)** 
 
 **Notes** 
 
@@ -96,8 +94,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="protocol"></a>**_Protocol I_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I), done at Geneva on 10 June 1977, a copy of the English text of which is set out in Schedule 5.
 
-                    <a name="protocol-iii"></a>**_Protocol III_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), done at Geneva on 8 December 2005, a copy of the English text of which is set out in Schedule 6.
-
              (2)  In this Act, unless the contrary intention appears:
 
                     <a name="australia"></a>**_Australia_** includes the Territories.
@@ -114,13 +110,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="protect-power"></a>**_the protecting power_**, in relation to a protected prisoner of war or a protected internee, means the power or organization which is carrying out, in the interests of the power of which he or she is a national, or of whose forces he or she is, or was at any material time, a member, the duties assigned to protecting powers under the Third Convention, the Fourth Convention or Protocol I, as the case may be.
 
-             (3)  If the ratification on behalf of Australia of any of the Conventions or of Protocol I or Protocol III is subject to a reservation or is accompanied by a declaration, that Convention or that Protocol shall, for the purposes of this Act, have effect and be construed subject to and in accordance with that reservation or declaration.
+             (3)  If the ratification on behalf of Australia of any of the Conventions or of Protocol I is subject to a reservation or is accompanied by a declaration, that Convention or that Protocol shall, for the purposes of this Act, have effect and be construed subject to and in accordance with that reservation or declaration.
 
 ##### <a id="6"></a>6  Application of Act
 
              (1)  This Act extends to every Territory.
 
-             (2)  This Act has extra‑territorial operation according to its tenor.
+             (2)  This Act has extra-territorial operation according to its tenor.
 
 ##### <a id="6A"></a>6A  Application of the _Criminal Code_
 
@@ -154,7 +150,7 @@ shall not proceed with the trial until it is proved to the satisfaction of the c
 
                      (a)  the full name, date of birth and description of the accused, including his or her profession or trade;
 
-                   (ab)  where the accused is a protected prisoner of war—the accused’s rank and his or her army, regimental, personal and serial number;
+                    (ab)  where the accused is a protected prisoner of war—the accused’s rank and his or her army, regimental, personal and serial number;
 
                      (b)  the accused’s place of detention, internment or residence;
 
@@ -216,7 +212,7 @@ that the protecting power has been notified of his or her conviction and sentenc
 
                      (b)  in fixing any penalty other than imprisonment in respect of the offence, take that period of custody into account.
 
-             (2)  Where the Attorney‑General is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, while awaiting trial, in a place other than a camp or place in which protected prisoners of war are detained, for an aggregate period of not less than 3 months, the Attorney‑General may direct that the prisoner shall be transferred from that custody to the custody of an officer of the Defence Force and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed for his or her trial.
+             (2)  Where the Attorney-General is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, while awaiting trial, in a place other than a camp or place in which protected prisoners of war are detained, for an aggregate period of not less than 3 months, the Attorney-General may direct that the prisoner shall be transferred from that custody to the custody of an officer of the Defence Force and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed for his or her trial.
 
 ## Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
 
@@ -226,19 +222,17 @@ that the protecting power has been notified of his or her conviction and sentenc
 
                      (a)  the emblem of a red cross with vertical and horizontal arms of the same length on, and completely surrounded by, a white ground, or the designation “Red Cross” or “Geneva Cross”;
 
-                     (b)  the emblem of a red crescent moon on, and completely surrounded by, a white ground, or the designation “Red Crescent”;
+                     (b)  the emblem of a red crescent moon on, and completely surrounded by, a white ground, or the designation “Red Crescent”.
 
                      (c)  the following emblem in red on, and completely surrounded by, a white ground, that is to say, a lion passing from right to left of, and with its face turned towards, the observer, holding erect in its raised right forepaw a scimitar, with, appearing above the lion’s back, the upper half of the sun shooting forth rays, or the designation “Red Lion and Sun”;
 
-                    (ca)  the emblem of a red frame in the shape of a square on edge on a white ground, or the designation “Red Crystal”;
-
                      (d)  the emblem of a white or silver cross with vertical and horizontal arms of the same length on, and completely surrounded by, a red ground, being the heraldic emblem of the Swiss Confederation;
 
-                     (e)  a design or wording so nearly resembling any of the emblems or designations specified in paragraph (a), (b), (c), (ca) or (d) as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems;
+                     (e)  a design or wording so nearly resembling any of the emblems or designations specified in paragraph (a), (b), (c) or (d) as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems;
 
-                      (f)  such other emblems, identity cards, signs, signals, insignia or uniforms as are prescribed for the purpose of giving effect to Protocol I or Protocol III.
+                      (f)  such other emblems, identity cards, signs, signals, insignia or uniforms as are prescribed for the purpose of giving effect to Protocol I.
 
-                    Penalty:  $1,000.
+                    Penalty:  $1,000
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -254,29 +248,23 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  any identity cards, insignia or uniforms used in the commission of the offence.
 
-             (5)  In the case of a trade mark registered before the day to which subsection (5A) applies, subsections (1), (2), (3) and (4) do not apply by reason only of its consisting of or containing an emblem or designation specified in paragraph (1)(b), (c) or (ca) or a design or wording resembling such an emblem or designation; and where a person is charged with using such an emblem, designation, design or wording for any purpose and it is proved that the person used it otherwise than as, or as part of, a trade mark so registered, it is a defence for the person to prove:
+             (5)  In the case of a trade mark registered before the day on which this Act received the Royal Assent, subsections (1), (2), (3) and (4) do not apply by reason only of its consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation; and where a person is charged with using such an emblem, designation, design or wording for any purpose and it is proved that the person used it otherwise than as, or as part of, a trade mark so registered, it is a defence for the person to prove:
 
-                     (a)  that the person lawfully used that emblem, designation, design or wording for that purpose before the day to which subsection (5A) applies; or
+                     (a)  that the person lawfully used that emblem, designation, design or wording for that purpose before the day on which this Act received the Royal Assent; or
 
-                     (b)  in a case where the person is charged with using the emblem, designation, design or wording upon goods, that the emblem, designation, design or wording had been applied to the goods before the person acquired them by some other person who had manufactured or dealt with the goods in the course of trade and who lawfully used the emblem, designation, design or wording upon similar goods before the day to which subsection (5A) applies.
-
-          (5A)  For the purposes of subsection (5), this subsection applies to the following day:
-
-                     (a)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation—the day on which this Act received the Royal Assent;
-
-                     (b)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(ca) or a design or wording resembling such an emblem or designation—the day on which Schedule 1 to the _Defence Legislation (Miscellaneous Amendments) Act 2009_ commenced.
+                     (b)  in a case where the person is charged with using the emblem, designation, design or wording upon goods, that the emblem, designation, design or wording had been applied to the goods before the person acquired them by some other person who had manufactured or dealt with the goods in the course of trade and who lawfully used the emblem, designation, design or wording upon similar goods before the day on which this Act received the Royal Assent.
 
              (6)  Where an offence against this section committed by a body corporate is proved to have been committed with the consent or connivance of a director, manager, secretary or other officer of the body corporate, or a person purporting to act in any such capacity, he or she, as well as the body corporate, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
              (7)  This section extends to the use in or outside Australia of an emblem, designation, design, wording, sign, signal, identity card, insignia or uniform referred to in subsection (1) on any ship or aircraft registered in Australia.
 
-             (8)  Proceedings under this section shall not be instituted without the consent in writing of the Attorney‑General.
+             (8)  Proceedings under this section shall not be instituted without the consent in writing of the Attorney-General.
 
 ## Part V—Regulations
 
 ##### <a id="16"></a>16  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -310,7 +298,7 @@ Article 3
 
           (1)  Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed _hors de combat_ by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.
 
-                          To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above‑mentioned persons:
+                          To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:
 
    (_a_)   violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
@@ -414,7 +402,7 @@ Article 13
 
           (5)  Members of crews, including masters, pilots and apprentices, of the merchant marine and the crews of civil aircraft of the Parties to the conflict, who do not benefit by more favourable treatment under any other provisions in international law.
 
-          (6)  Inhabitants of a non‑occupied territory who, on the approach of the enemy, spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
+          (6)  Inhabitants of a non-occupied territory who, on the approach of the enemy, spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
 
 Article 14
 
@@ -422,7 +410,7 @@ Article 14
 
 Article 15
 
-       At all times, and particularly after an engagement, Parties to the conflict shall, without delay, take all possible measures to search for and collect the wounded and sick, to protect them against pillage and ill‑treatment, to ensure their adequate care, and to search for the dead and prevent their being despoiled.
+       At all times, and particularly after an engagement, Parties to the conflict shall, without delay, take all possible measures to search for and collect the wounded and sick, to protect them against pillage and ill-treatment, to ensure their adequate care, and to search for the dead and prevent their being despoiled.
 
        Whenever circumstances permit, an armistice or a suspension of fire shall be arranged, or local arrangements made, to permit the removal, exchange and transport of the wounded left on the battlefield.
 
@@ -444,7 +432,7 @@ Article 16
 
              (_e_)  date of birth;
 
-              (_f_)  any other particulars shown on his identity card or disc;
+             (_f_)  any other particulars shown on his identity card or disc;
 
              (_g_)  date and place of capture or death;
 
@@ -520,7 +508,7 @@ Article 24
 
 Article 25
 
-       Members of the armed forces specially trained for employment, should the need arise, as hospital orderlies, nurses or auxiliary stretcher‑bearers, in the search for or the collection, transport or treatment of the wounded and sick shall likewise be respected and protected if they are carrying out these duties at the time when they come into contact with the enemy or fall into his hands.
+       Members of the armed forces specially trained for employment, should the need arise, as hospital orderlies, nurses or auxiliary stretcher-bearers, in the search for or the collection, transport or treatment of the wounded and sick shall likewise be respected and protected if they are carrying out these duties at the time when they come into contact with the enemy or fall into his hands.
 
 Article 26
 
@@ -616,11 +604,11 @@ Article 36
 
        They shall bear, clearly marked, the distinctive emblem prescribed in Article 38, together with their national colours, on their lower, upper and lateral surfaces. They shall be provided with any other markings or means of identification that may be agreed upon between the belligerents upon the outbreak or during the course of hostilities.
 
-       Unless agreed otherwise, flights over enemy or enemy‑occupied territory are prohibited.
+       Unless agreed otherwise, flights over enemy or enemy-occupied territory are prohibited.
 
        Medical aircraft shall obey every summons to land. In the event of a landing thus imposed, the aircraft with its occupants may continue its flight after examination, if any.
 
-       In the event of an involuntary landing in enemy or enemy‑occupied territory, the wounded and sick, as well as the crew of the aircraft shall be prisoners of war. The medical personnel shall be treated according to Article 24 and the Articles following.
+       In the event of an involuntary landing in enemy or enemy-occupied territory, the wounded and sick, as well as the crew of the aircraft shall be prisoners of war. The medical personnel shall be treated according to Article 24 and the Articles following.
 
 Article 37
 
@@ -644,9 +632,9 @@ Article 39
 
 Article 40
 
-       The personnel designated in Article 24 and in Articles 26 and 27 shall wear, affixed to the left arm, a water‑resistant armlet bearing the distinctive emblem, issued and stamped by the military authority.
+       The personnel designated in Article 24 and in Articles 26 and 27 shall wear, affixed to the left arm, a water-resistant armlet bearing the distinctive emblem, issued and stamped by the military authority.
 
-       Such personnel, in addition to wearing the identity disc mentioned in Article 16, shall also carry a special identity card bearing the distinctive emblem. This card shall be water‑resistant and of such size that it can be carried in the pocket. It shall be worded in the national language, shall mention at least the surname and first names, the date of birth, the rank and the service number of the bearer, and shall state in what capacity he is entitled to the protection of the present Convention. The card shall bear the photograph of the owner and also either his signature or his finger‑prints or both. It shall be embossed with the stamp of the military authority.
+       Such personnel, in addition to wearing the identity disc mentioned in Article 16, shall also carry a special identity card bearing the distinctive emblem. This card shall be water-resistant and of such size that it can be carried in the pocket. It shall be worded in the national language, shall mention at least the surname and first names, the date of birth, the rank and the service number of the bearer, and shall state in what capacity he is entitled to the protection of the present Convention. The card shall bear the photograph of the owner and also either his signature or his finger-prints or both. It shall be embossed with the stamp of the military authority.
 
        The identity card shall be uniform throughout the same armed forces and, as far as possible, of a similar type in the armed forces of the High Contracting Parties. The Parties to the conflict may be guided by the model which is annexed, by way of example, to the present Convention. They shall inform each other, at the outbreak of hostilities, of the model they are using. Identity cards should be made out, if possible, at least in duplicate, one copy being kept by the home country.
 
@@ -688,7 +676,7 @@ CHAPTER VIII.—EXECUTION OF THE CONVENTION
 
 Article 45
 
-       Each Party to the conflict, acting through its commanders‑in‑chief, shall ensure the detailed execution of the preceding Articles and provide for unforeseen cases, in conformity with the general principles of the present Convention.
+       Each Party to the conflict, acting through its commanders-in-chief, shall ensure the detailed execution of the preceding Articles and provide for unforeseen cases, in conformity with the general principles of the present Convention.
 
 Article 46
 
@@ -734,7 +722,7 @@ Article 53
 
        The use by individuals, societies, firms or companies either public or private, other than those entitled thereto under the present Convention, of the emblem or the designation “Red Cross” or “Geneva Cross,” or any sign or designation constituting an imitation thereof, whatever the object of such use, and irrespective of the date of its adoption, shall be prohibited at all times.
 
-       By reason of the tribute paid to Switzerland by the adoption of the reversed Federal colours, and of the confusion which may arise between the arms of Switzerland and the distinctive emblem of the Convention, the use by private individuals, societies or firms, of the arms of the Swiss Confederation, or of marks constituting an imitation thereof, whether as trade‑marks or commercial marks, or as parts of such marks, or for a purpose contrary to commercial honesty, or in circumstances capable of wounding Swiss national sentiment, shall be prohibited at all times.
+       By reason of the tribute paid to Switzerland by the adoption of the reversed Federal colours, and of the confusion which may arise between the arms of Switzerland and the distinctive emblem of the Convention, the use by private individuals, societies or firms, of the arms of the Swiss Confederation, or of marks constituting an imitation thereof, whether as trade-marks or commercial marks, or as parts of such marks, or for a purpose contrary to commercial honesty, or in circumstances capable of wounding Swiss national sentiment, shall be prohibited at all times.
 
        Nevertheless, such High Contracting Parties as were not party to the Geneva Convention of July 27, 1929, may grant to prior users of the emblems, designations, signs or marks designated in the first paragraph, a time limit not to exceed three years from the coming into force of the present Convention to discontinue such use, provided that the said use shall not be such as would appear, in time of war, to confer the protection of the Convention.
 
@@ -832,7 +820,7 @@ Article 3
 
           (1)  Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed _hors de combat_ by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.
 
-                          To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above‑mentioned persons:
+                          To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:
 
    (_a_)   violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
@@ -922,13 +910,13 @@ Article 13
 
           (2)  Members of other militias and members of other volunteer corps, including those of organized resistance movements, belonging to a Party to the conflict and operating in or outside their own territory, even if this territory is occupied, provided that such militias or volunteer corps, including such organized resistance movements, fulfil the following conditions:
 
-   _(a)_   that of being commanded by a person responsible for his subordinates;
+   (a)   that of being commanded by a person responsible for his subordinates;
 
-   _(b)_   that of having a fixed distinctive sign recognizable at a distance;
+   (b)   that of having a fixed distinctive sign recognizable at a distance;
 
-   _(c)_   that of carrying arms openly;
+   (c)   that of carrying arms openly;
 
-   _(d)_   that of conducting their operations in accordance with the laws and customs of war.
+   (d)   that of conducting their operations in accordance with the laws and customs of war.
 
           (3)  Members of regular armed forces who profess allegiance to a Government or an authority not recognized by the Detaining Power.
 
@@ -936,7 +924,7 @@ Article 13
 
           (5)  Members of crews, including masters, pilots and apprentices, of the merchant marine and the crews of civil aircraft of the Parties to the conflict, who do not benefit by more favourable treatment under any other provisions of international law.
 
-          (6)  Inhabitants of a non‑occupied territory who, on the approach of the enemy, spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
+          (6)  Inhabitants of a non-occupied territory who, on the approach of the enemy, spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
 
 Article 14
 
@@ -958,7 +946,7 @@ Article 17
 
 Article 18
 
-       After each engagement, Parties to the conflict shall, without delay, take all possible measures to search for and collect the shipwrecked, wounded and sick, to protect them against pillage and ill‑treatment, to ensure their adequate care, and to search for the dead and prevent their being despoiled.
+       After each engagement, Parties to the conflict shall, without delay, take all possible measures to search for and collect the shipwrecked, wounded and sick, to protect them against pillage and ill-treatment, to ensure their adequate care, and to search for the dead and prevent their being despoiled.
 
        Whenever circumstances permit, the Parties to the conflict shall conclude local arrangements for the removal of the wounded and sick by sea from a besieged or encircled area and for the passage of medical and religious personnel and equipment on their way to that area.
 
@@ -976,13 +964,13 @@ Article 19
 
              (_e_)  date of birth;
 
-              (_f_)  any other particulars shown on his identity card or disc;
+             (_f_)  any other particulars shown on his identity card or disc;
 
              (_g_)  date and place of capture or death;
 
              (_h_)  particulars concerning wounds or illness, or cause of death.
 
-       As soon as possible the above‑mentioned information shall be forwarded to the information bureau described in Article 122 of the Geneva Convention relative to the Treatment of Prisoners of War of August 12, 1949, which shall transmit this information to the Power on which these persons depend through the intermediary of the Protecting Power and of the Central Prisoners of War Agency.
+       As soon as possible the above-mentioned information shall be forwarded to the information bureau described in Article 122 of the Geneva Convention relative to the Treatment of Prisoners of War of August 12, 1949, which shall transmit this information to the Power on which these persons depend through the intermediary of the Protecting Power and of the Central Prisoners of War Agency.
 
        Parties to the conflict shall prepare and forward to each other through the same bureau, certificates of death or duly authenticated lists of the dead. They shall likewise collect and forward through the same bureau one half of the double identity disc, or the identity disc itself if it is a single disc, last wills or other documents of importance to the next of kin, money and in general all articles of an intrinsic or sentimental value, which are found on the dead. These articles, together with unidentified articles, shall be sent in sealed packets, accompanied by statements giving all particulars necessary for the identification of the deceased owners, as well as by a complete list of the contents of the parcel.
 
@@ -1034,7 +1022,7 @@ Article 27
 
 Article 28
 
-       Should fighting occur on board a warship, the sick‑bays shall be respected and spared as far as possible. Sick‑bays and their equipment shall remain subject to the laws of warfare, but may not be diverted from their purpose so long as they are required for the wounded and sick. Nevertheless, the commander into whose power they have fallen may, after ensuring the proper care of the wounded and sick who are accommodated therein, apply them to other purposes in case of urgent military necessity.
+       Should fighting occur on board a warship, the sick-bays shall be respected and spared as far as possible. Sick-bays and their equipment shall remain subject to the laws of warfare, but may not be diverted from their purpose so long as they are required for the wounded and sick. Nevertheless, the commander into whose power they have fallen may, after ensuring the proper care of the wounded and sick who are accommodated therein, apply them to other purposes in case of urgent military necessity.
 
 Article 29
 
@@ -1070,21 +1058,21 @@ Article 33
 
 Article 34
 
-       The protection to which hospital ships and sick‑bays are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming in all appropriate cases a reasonable time limit, and after such warning has remained unheeded.
+       The protection to which hospital ships and sick-bays are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming in all appropriate cases a reasonable time limit, and after such warning has remained unheeded.
 
        In particular, hospital ships may not possess or use a secret code for their wireless or other means of communication.
 
 Article 35
 
-       The following conditions shall not be considered as depriving hospital ships or sick‑bays of vessels of the protection due to them:
+       The following conditions shall not be considered as depriving hospital ships or sick-bays of vessels of the protection due to them:
 
-(1)  The fact that the crews of ships or sick‑bays are armed for the maintenance of order, for their own defence or that of the sick and wounded.
+(1)  The fact that the crews of ships or sick-bays are armed for the maintenance of order, for their own defence or that of the sick and wounded.
 
-          (2)  The presence on board of apparatus exclusively intended to facilitate navigation or communication.
+          (2)  The presence on board of apparatus exclusively intended to facilitate _navigation_ or communication.
 
-          (3)  The discovery on board hospital ships or in sick‑bays of portable arms and ammunition taken from the wounded, sick and shipwrecked and not yet handed to the proper service.
+          (3)  The discovery on board hospital ships or in sick-bays of portable arms and ammunition taken from the wounded, sick and shipwrecked and not yet handed to the proper service.
 
-          (4)  The fact that the humanitarian activities of hospital ships and sick‑bays of vessels or of the crews extend to the care of wounded, sick or shipwrecked civilians.
+          (4)  The fact that the humanitarian activities of hospital ships and sick-bays _of_ vessels or of the crews extend to the care of wounded, sick or shipwrecked civilians.
 
           (5)  The transport of equipment and of personnel intended exclusively for medical duties, over and above the normal requirements.
 
@@ -1096,7 +1084,7 @@ Article 36
 
 Article 37
 
-       The religious, medical and hospital personnel assigned to the medical or spiritual care of the persons designated in Articles 12 and 13 shall, if they fall into the hands of the enemy, be respected and protected; they may continue to carry out their duties as long as this is necessary for the care of the wounded and sick. They shall afterwards be sent back as soon as the Commander‑in‑Chief, under whose authority they are, considers it practicable. They may take with them, on leaving the ship, their personal property.
+       The religious, medical and hospital personnel assigned to the medical or spiritual care of the persons designated in Articles 12 and 13 shall, if they fall into the hands of the enemy, be respected and protected; they may continue to carry out their duties as long as this is necessary for the care of the wounded and sick. They shall afterwards be sent back as soon as the Commander-in-Chief, under whose authority they are, considers it practicable. They may take with them, on leaving the ship, their personal property.
 
        If, however, it prove necessary to retain some of this personnel owing to the medical or spiritual needs of prisoners of war, everything possible shall be done for their earliest possible landing.
 
@@ -1116,11 +1104,11 @@ Article 39
 
        They shall be clearly marked with the distinctive emblem prescribed in Article 41, together with their national colours, on their lower, upper and lateral surfaces. They shall be provided with any other markings or means of identification which may be agreed upon between the Parties to the conflict upon the outbreak or during the course of hostilities.
 
-       Unless agreed otherwise, flights over enemy or enemy‑occupied territory are prohibited.
+       Unless agreed otherwise, flights over enemy or enemy-occupied territory are prohibited.
 
        Medical aircraft shall obey every summons to alight on land or water. In the event of having thus to alight, the aircraft with its occupants may continue its flight after examination, if any.
 
-       In the event of alighting involuntarily on land or water in enemy or enemy‑occupied territory, the wounded, sick and shipwrecked, as well as the crew of the aircraft shall be prisoners of war. The medical personnel shall be treated according to Articles 36 and 37.
+       In the event of alighting involuntarily on land or water in enemy or enemy-occupied territory, the wounded, sick and shipwrecked, as well as the crew of the aircraft shall be prisoners of war. The medical personnel shall be treated according to Articles 36 and 37.
 
 Article 40
 
@@ -1140,9 +1128,9 @@ Article 41
 
 Article 42
 
-       The personnel designated in Articles 36 and 37 shall wear, affixed to the left arm, a water‑resistant armlet bearing the distinctive emblem, issued and stamped by the military authority.
+       The personnel designated in Articles 36 and 37 shall wear, affixed to the left arm, a water-resistant armlet bearing the distinctive emblem, issued and stamped by the military authority.
 
-       Such personnel, in addition to wearing the identity disc mentioned in Article 19, shall also carry a special identity card bearing the distinctive emblem. This card shall be water‑resistant and of such size that it can be carried in the pocket. It shall be worded in the national language, shall mention at least the surname and first names, the date of birth, the rank and the service number of the bearer, and shall state in what capacity he is entitled to the protection of the present Convention. The card shall bear the photograph of the owner and also either his signature or his fingerprints or both. It shall be embossed with the stamp of the military authority.
+       Such personnel, in addition to wearing the identity disc mentioned in Article 19, shall also carry a special identity card bearing the distinctive emblem. This card shall be water-resistant and of such size that it can be carried in the pocket. It shall be worded in the national language, shall mention at least the surname and first names, the date of birth, the rank and the service number of the bearer, and shall state in what capacity he is entitled to the protection of the present Convention. The card shall bear the photograph of the owner and also either his signature or his fingerprints or both. It shall be embossed with the stamp of the military authority.
 
        The identity card shall be uniform throughout the same armed forces and, as far as possible, of a similar type in the armed forces of the High Contracting Parties. The Parties to the conflict may be guided by the model which is annexed, by way of example, to the present Convention. They shall inform each other, at the outbreak of hostilities, of the model they are using. Identity cards should be made out, if possible, at least in duplicate, one copy being kept by the home country.
 
@@ -1160,7 +1148,7 @@ Article 43
 
        Lifeboats of hospital ships, coastal lifeboats and all small craft used by the Medical Service shall be painted white with dark red crosses prominently displayed and shall, in general, comply with the identification system prescribed above for hospital ships.
 
-       The above‑mentioned ships and craft, which may wish to ensure by night and in times of reduced visibility the protection to which they are entitled, must, subject to the assent of the Party to the conflict under whose power they are, take the necessary measures to render their painting and distinctive emblems sufficiently apparent.
+       The above-mentioned ships and craft, which may wish to ensure by night and in times of reduced visibility the protection to which they are entitled, must, subject to the assent of the Party to the conflict under whose power they are, take the necessary measures to render their painting and distinctive emblems sufficiently apparent.
 
        Hospital ships which, in accordance with Article 31, are provisionally detained by the enemy, must haul down the flag of the Party to the conflict in whose service they are or whose direction they have accepted.
 
@@ -1182,7 +1170,7 @@ CHAPTER VII.—EXECUTION OF THE CONVENTION
 
 Article 46
 
-       Each Party to the conflict, acting through its Commanders‑in‑Chief, shall ensure the detailed execution of the preceding Articles and provide for unforeseen cases, in conformity with the general principles of the present Convention.
+       Each Party to the conflict, acting through its Commanders-in-Chief, shall ensure the detailed execution of the preceding Articles and provide for unforeseen cases, in conformity with the general principles of the present Convention.
 
 Article 47
 
@@ -1294,7 +1282,7 @@ _Section 5_
 
        The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of revising the Convention concluded at Geneva on July 27, 1929, relative to the Treatment of Prisoners of War, have agreed as follows:
 
-PART  I.—GENERAL PROVISIONS
+PART I.—GENERAL PROVISIONS
 
 Article 1
 
@@ -1314,7 +1302,7 @@ Article 3
 
           (1)  Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed _hors de combat_ by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.
 
-                          To this end the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above‑mentioned persons:
+                          To this end the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:
 
    (_a_)   violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
@@ -1354,13 +1342,13 @@ Article 4
 
           (5)  Members of crews, including masters, pilots and apprentices, of the merchant marine and the crews of civil aircraft of the Parties to the conflict, who do not benefit by more favourable treatment under any other provisions of international law.
 
-          (6)  Inhabitants of a non‑occupied territory, who on the approach of the enemy spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
+          (6)  Inhabitants of a non-occupied territory, who on the approach of the enemy spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
 
        B. The following shall likewise be treated as prisoners of war under the present Convention:
 
           (1)  Persons belonging, or having belonged, to the armed forces of the occupied country, if the occupying Power considers it necessary by reason of such allegiance to intern them, even though it has originally liberated them while hostilities were going on outside the territory it occupies, in particular where such persons have made an unsuccessful attempt to rejoin the armed forces to which they belong and which are engaged in combat, or where they fail to comply with a summons made to them with a view to internment.
 
-          (2)  The persons belonging to one of the categories enumerated in the present Article, who have been received by neutral or non‑belligerent Powers on their territory and whom these Powers are required to intern under international law, without prejudice to any more favourable treatment which these Powers may choose to give and with the exception of Articles 8, 10, 15, 30, fifth paragraph, 58‑67, 92, 126 and, where diplomatic relations exist between the Parties to the conflict and the neutral or non‑belligerent Power concerned, those Articles concerning the Protecting Power. Where such diplomatic relations exist, the Parties to a conflict on whom these persons depend shall be allowed to perform towards them the functions of a Protecting Power as provided in the present Convention, without prejudice to the functions which these Parties normally exercise in conformity with diplomatic and consular usage and treaties.
+          (2)  The persons belonging to one of the categories enumerated in the present Article, who have been received by neutral or non-belligerent Powers on their territory and whom these Powers are required to intern under international law, without prejudice to any more favourable treatment which these Powers may choose to give and with the exception of Articles 8, 10, 15, 30, fifth paragraph, 58-67, 92, 126 and, where diplomatic relations exist between the Parties to the conflict and the neutral or non-belligerent Power concerned, those Articles concerning the Protecting Power. Where such diplomatic relations exist, the Parties to a conflict on whom these persons depend shall be allowed to perform towards them the functions of a Protecting Power as provided in the present Convention, without prejudice to the functions which these Parties normally exercise in conformity with diplomatic and consular usage and treaties.
 
        C. This Article shall in no way affect the status of medical personnel and chaplains as provided for in Article 33 of the present Convention.
 
@@ -1522,7 +1510,7 @@ Article 23
 
        Detaining Powers shall give the Powers concerned, through the intermediary of the Protecting Powers, all useful information regarding the geographical location of prisoner of war camps.
 
-       Whenever military considerations permit, prisoner of war camps shall be indicated in the day‑time by the letters PW or PG, placed so as to be clearly visible from the air. The Powers concerned may, however, agree upon any other system of marking. Only prisoner of war camps shall be marked as such.
+       Whenever military considerations permit, prisoner of war camps shall be indicated in the day-time by the letters PW or PG, placed so as to be clearly visible from the air. The Powers concerned may, however, agree upon any other system of marking. Only prisoner of war camps shall be marked as such.
 
 Article 24
 
@@ -1708,7 +1696,7 @@ Article 48
 
        In the event of transfer, prisoners of war shall be officially advised of their departure and of their new postal address. Such notifications shall be given in time for them to pack their luggage and inform their next of kin.
 
-       They shall be allowed to take with them their personal effects, and the correspondence and parcels which have arrived for them. The weight of such baggage may be limited, if the conditions of transfer so require, to what each prisoner can reasonably carry, which shall in no case be more than twenty‑five kilograms per head.
+       They shall be allowed to take with them their personal effects, and the correspondence and parcels which have arrived for them. The weight of such baggage may be limited, if the conditions of transfer so require, to what each prisoner can reasonably carry, which shall in no case be more than twenty-five kilograms per head.
 
        Mail and parcels addressed to their former camp shall be forwarded to them without delay. The camp commander shall take, in agreement with the prisoners’ representative, any measures needed to ensure the transport of the prisoners’ community property and of the luggage they are unable to take with them in consequence of restrictions imposed by virtue of the second paragraph of this Article.
 
@@ -1720,7 +1708,7 @@ Article 49
 
        The Detaining Power may utilize the labour of prisoners of war who are physically fit, taking into account their age, sex, rank and physical aptitude, and with a view particularly to maintaining them in a good state of physical and mental health.
 
-       Non‑commissioned officers who are prisoners of war shall only be required to do supervisory work. Those not so required may ask for other suitable work which shall, so far as possible, be found for them.
+       Non-commissioned officers who are prisoners of war shall only be required to do supervisory work. Those not so required may ask for other suitable work which shall, so far as possible, be found for them.
 
        If officers or persons of equivalent status ask for suitable work, it shall be found for them, so far as possible, but they may in no circumstances be compelled to work.
 
@@ -1764,7 +1752,7 @@ Article 53
 
        The duration of the daily labour of prisoners of war, including the time of the journey to and fro, shall not be excessive, and must in no case exceed that permitted for civilian workers in the district, who are nationals of the Detaining Power and employed on the same work.
 
-       Prisoners of war must be allowed, in the middle of the day’s work, a rest of not less than one hour. This rest will be the same as that to which workers of the Detaining Power are entitled, if the latter is of longer duration. They shall be allowed in addition a rest of twenty‑four consecutive hours every week, preferably on Sunday or the day of rest in their country of origin. Furthermore, every prisoner who has worked for one year shall be granted a rest of eight consecutive days, during which his working pay shall be paid him.
+       Prisoners of war must be allowed, in the middle of the day’s work, a rest of not less than one hour. This rest will be the same as that to which workers of the Detaining Power are entitled, if the latter is of longer duration. They shall be allowed in addition a rest of twenty-four consecutive hours every week, preferably on Sunday or the day of rest in their country of origin. Furthermore, every prisoner who has worked for one year shall be granted a rest of eight consecutive days, during which his working pay shall be paid him.
 
        If methods of labour such as piece work are employed, the length of the working period shall not be rendered excessive thereby.
 
@@ -1786,7 +1774,7 @@ Article 56
 
        Every labour detachment shall remain under the control of and administratively part of a prisoner of war camp. The military authorities and the commander of the said camp shall be responsible, under the direction of their government, for the observance of the provisions of the present Convention in labour detachments.
 
-       The camp commander shall keep an up‑to‑date record of the labour detachments dependent on his camp, and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross, or of other agencies giving relief to prisoners of war, who may visit the camp.
+       The camp commander shall keep an up-to-date record of the labour detachments dependent on his camp, and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross, or of other agencies giving relief to prisoners of war, who may visit the camp.
 
 Article 57
 
@@ -1812,15 +1800,15 @@ Article 60
 
        The Detaining Power shall grant all prisoners of war a monthly advance of pay, the amount of which shall be fixed by conversion, into the currency of the said Power, of the following amounts:
 
-Category       I:   Prisoners ranking below sergeants: eight Swiss francs.
+Category        I:   Prisoners ranking below sergeants: eight Swiss francs.
 
-Category      II:   Sergeants and other non‑commissioned officers, or prisoners of equivalent rank: twelve Swiss francs.
+Category       II:   Sergeants and other non-commissioned officers, or prisoners of equivalent rank: twelve Swiss francs.
 
-Category     III:   Warrant officers and commissioned officers below the rank of major or prisoners of equivalent rank: fifty Swiss francs.
+Category      III:   Warrant officers and commissioned officers below the rank of major or prisoners of equivalent rank: fifty Swiss francs.
 
-Category     IV:   Majors, lieutenant‑colonels, colonels or prisoners of equivalent rank: sixty Swiss francs.
+Category     IV:   Majors, lieutenant-colonels, colonels or prisoners of equivalent rank: sixty Swiss francs.
 
-Category      V:   General officers or prisoners of war of equivalent rank: seventy‑five Swiss francs.
+Category       V:   General officers or prisoners of war of equivalent rank: seventy-five Swiss francs.
 
        However, the Parties to the conflict concerned may by special agreement modify the amount of advances of pay due to prisoners of the preceding categories.
 
@@ -1838,9 +1826,9 @@ Article 61
 
 Article 62
 
-       Prisoners of war shall be paid a fair working rate of pay by the detaining authorities direct. The rate shall be fixed by the said authorities, but shall at no time be less than one‑fourth of one Swiss franc for a full working day. The Detaining Power shall inform prisoners of war, as well as the Power on which they depend, through the intermediary of the Protecting Power, of the rate of daily working pay that it has fixed.
+       Prisoners of war shall be paid a fair working rate of pay by the detaining authorities direct. The rate shall be fixed by the said authorities, but shall at no time be less than one-fourth of one Swiss franc for a full working day. The Detaining Power shall inform prisoners of war, as well as the Power on which they depend, through the intermediary of the Protecting Power, of the rate of daily working pay that it has fixed.
 
-       Working pay shall likewise be paid by the detaining authorities to prisoners of war permanently detailed to duties or to a skilled or semi‑skilled occupation in connection with the administration, installation or maintenance of camps, and to the prisoners who are required to carry out spiritual or medical duties on behalf of their comrades.
+       Working pay shall likewise be paid by the detaining authorities to prisoners of war permanently detailed to duties or to a skilled or semi-skilled occupation in connection with the administration, installation or maintenance of camps, and to the prisoners who are required to carry out spiritual or medical duties on behalf of their comrades.
 
        The working pay of the prisoners’ representative, of his advisers, if any, and of his assistants, shall be paid out of the fund maintained by canteen profits. The scale of this working pay shall be fixed by the prisoners’ representative and approved by the camp commander. If there is no such fund, the detaining authorities shall pay these prisoners a fair working rate of pay.
 
@@ -1942,7 +1930,7 @@ Article 74
 
 Article 75
 
-       Should military operations prevent the Powers concerned from fulfilling their obligation to assure the transport of the shipments referred to in Articles 70, 71, 72 and 77, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake to ensure the conveyance of such shipments by suitable means (railway wagons, motor vehicles, vessels or aircraft, etc.). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport and to allow its circulation, especially by granting the necessary safe‑conducts.
+       Should military operations prevent the Powers concerned from fulfilling their obligation to assure the transport of the shipments referred to in Articles 70, 71, 72 and 77, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake to ensure the conveyance of such shipments by suitable means (railway wagons, motor vehicles, vessels or aircraft, etc.). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport and to allow its circulation, especially by granting the necessary safe-conducts.
 
        Such transport may also be used to convey:
 
@@ -1950,7 +1938,7 @@ Article 75
 
           (_b_)  correspondence and reports relating to prisoners of war which the Protecting Powers, the International Committee of the Red Cross or any other body assisting the prisoners, exchange either with their own delegates or with the Parties to the conflict.
 
-       These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport, if it should so prefer, nor preclude the granting of safe‑conducts, under mutually agreed conditions, to such means of transport.
+       These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport, if it should so prefer, nor preclude the granting of safe-conducts, under mutually agreed conditions, to such means of transport.
 
        In the absence of special agreements, the costs occasioned by the use of such means of transport shall be borne proportionally by the Parties to the conflict whose nationals are benefited thereby.
 
@@ -1958,7 +1946,7 @@ Article 76
 
        The censoring of correspondence addressed to prisoners of war or despatched by them shall be done as quickly as possible. Mail shall be censored only by the despatching State and the receiving State, and once only by each.
 
-       The examination of consignments intended for prisoners of war shall not be carried out under conditions that will expose the goods contained in them to deterioration; except in the case of written or printed matter, it shall be done in the presence of the addressee, or of a fellow‑prisoner duly delegated by him. The delivery to prisoners of individual or collective consignments shall not be delayed under the pretext of difficulties of censorship.
+       The examination of consignments intended for prisoners of war shall not be carried out under conditions that will expose the goods contained in them to deterioration; except in the case of written or printed matter, it shall be done in the presence of the addressee, or of a fellow-prisoner duly delegated by him. The delivery to prisoners of individual or collective consignments shall not be delayed under the pretext of difficulties of censorship.
 
        Any prohibition of correspondence ordered by Parties to the conflict, either for military or political reasons, shall be only temporary and its duration shall be as short as possible.
 
@@ -1986,7 +1974,7 @@ CHAPTER II.—PRISONER OF WAR REPRESENTATIVES
 
 Article 79
 
-       In all places where there are prisoners of war, except in those where there are officers, the prisoner shall freely elect by secret ballot, every six months, and also in case of vacancies, prisoners’ representatives entrusted with representing them before the military authorities, the Protecting Powers, the International Committee of the Red Cross and any other organization which may assist them. These prisoners’ representatives shall be eligible for re‑election.
+       In all places where there are prisoners of war, except in those where there are officers, the prisoner shall freely elect by secret ballot, every six months, and also in case of vacancies, prisoners’ representatives entrusted with representing them before the military authorities, the Protecting Powers, the International Committee of the Red Cross and any other organization which may assist them. These prisoners’ representatives shall be eligible for re-election.
 
        In camps for officers and persons of equivalent status or in mixed camps, the senior officer among the prisoners of war shall be recognized as the camp prisoners’ representative. In camps for officers, he shall be assisted by one or more advisers chosen by the officers; in mixed camps, his assistants shall be chosen from among the prisoners of war who are not officers and shall be elected by them.
 
@@ -1998,7 +1986,7 @@ Article 79
 
 Article 80
 
-       Prisoners’ representatives shall further the physical, spiritual and intellectual well‑being of prisoners of war.
+       Prisoners’ representatives shall further the physical, spiritual and intellectual well-being of prisoners of war.
 
        In particular, where the prisoners decide to organize amongst themselves a system of mutual assistance, this organization will be within the province of the prisoners’ representative, in addition to the special duties entrusted to him by other provisions of the present Convention.
 
@@ -2058,7 +2046,7 @@ Article 87
 
 Article 88
 
-       Officers, non‑commissioned officers and men who are prisoners of war undergoing a disciplinary or judicial punishment, shall not be subjected to more severe treatment than that applied in respect of the same punishment to members of the armed forces of the Detaining Power of equivalent rank.
+       Officers, non-commissioned officers and men who are prisoners of war undergoing a disciplinary or judicial punishment, shall not be subjected to more severe treatment than that applied in respect of the same punishment to members of the armed forces of the Detaining Power of equivalent rank.
 
        A woman prisoner of war shall not be awarded or sentenced to a punishment more severe, or treated whilst undergoing punishment more severely, than a woman member of the armed forces of the Detaining Power dealt with for a similar offence.
 
@@ -2118,7 +2106,7 @@ Article 93
 
        Escape or attempt to escape, even if it is a repeated offence, shall not be deemed an aggravating circumstance if the prisoner of war is subjected to trial by judicial proceedings in respect of an offence committed during his escape or attempt to escape.
 
-       In conformity with the principle stated in Article 83, offences committed by prisoners of war with the sole intention of facilitating their escape and which do not entail any violence against life or limb, such as offences against public property, theft without intention of self‑enrichment, the drawing up or use of false papers, or the wearing of civilian clothing, shall occasion disciplinary punishment only.
+       In conformity with the principle stated in Article 83, offences committed by prisoners of war with the sole intention of facilitating their escape and which do not entail any violence against life or limb, such as offences against public property, theft without intention of self-enrichment, the drawing up or use of false papers, or the wearing of civilian clothing, shall occasion disciplinary punishment only.
 
        Prisoners of war who aid or abet an escape or an attempt to escape shall be liable on this count to disciplinary punishment only.
 
@@ -2152,7 +2140,7 @@ Article 97
 
        All premises in which disciplinary punishments are undergone shall conform to the sanitary requirements set forth in Article 25\. A prisoner of war undergoing punishment shall be enabled to keep himself in a state of cleanliness, in conformity with Article 29.
 
-       Officers and persons of equivalent status shall not be lodged in the same quarters as non‑commissioned officers or men.
+       Officers and persons of equivalent status shall not be lodged in the same quarters as non-commissioned officers or men.
 
        Women prisoners of war undergoing disciplinary punishment shall be confined in separate quarters from male prisoners of war and shall be under the immediate supervision of women.
 
@@ -2248,7 +2236,7 @@ Article 107
 
           (3)  notification, where applicable, of the establishment where the sentence will be served.
 
-       The communications provided for in the foregoing sub‑paragraphs shall be sent to the Protecting Power at the address previously made known to the Detaining Power.
+       The communications provided for in the foregoing sub-paragraphs shall be sent to the Protecting Power at the address previously made known to the Detaining Power.
 
 Article 108
 
@@ -2266,7 +2254,7 @@ Article 109
 
        Subject to the provisions of the third paragraph of this Article, Parties to the conflict are bound to send back to their own country, regardless of number or rank, seriously wounded and seriously sick prisoners of war, after having cared for them until they are fit to travel, in accordance with the first paragraph of the following Article.
 
-       Throughout the duration of hostilities, Parties to the conflict shall endeavour, with the cooperation of the neutral Powers concerned, to make arrangements for the accommodation in neutral countries of the sick and wounded prisoners of war referred to in the second paragraph of the following Article. They may, in addition, conclude agreements with a view to the direct repatriation or internment in a neutral country of able‑bodied prisoners of war who have undergone a long period of captivity.
+       Throughout the duration of hostilities, Parties to the conflict shall endeavour, with the cooperation of the neutral Powers concerned, to make arrangements for the accommodation in neutral countries of the sick and wounded prisoners of war referred to in the second paragraph of the following Article. They may, in addition, conclude agreements with a view to the direct repatriation or internment in a neutral country of able-bodied prisoners of war who have undergone a long period of captivity.
 
        No sick or injured prisoner of war who is eligible for repatriation under the first paragraph of this Article, may be repatriated against his will during hostilities.
 
@@ -2320,7 +2308,7 @@ Article 113
 
 Article 114
 
-       Prisoners of war who meet with accidents shall, unless the injury is self‑inflicted, have the benefit of the provisions of this Convention as regards repatriation or accommodation in a neutral country.
+       Prisoners of war who meet with accidents shall, unless the injury is self-inflicted, have the benefit of the provisions of this Convention as regards repatriation or accommodation in a neutral country.
 
 Article 115
 
@@ -2360,7 +2348,7 @@ Article 119
 
        On repatriation, any articles of value impounded from prisoners of war under Article 18, and any foreign currency which has not been converted into the currency of the Detaining Power, shall be restored to them. Articles of value and foreign currency which, for any reason whatever, are not restored to prisoners of war on repatriation, shall be despatched to the Information Bureau set up under Article 122.
 
-       Prisoners of war shall be allowed to take with them their personal effects, and any correspondence and parcels which have arrived for them. The weight of such baggage may be limited, if the conditions of repatriation so require, to what each prisoner can reasonably carry. Each prisoner shall in all cases be authorized to carry at least twenty‑five kilograms.
+       Prisoners of war shall be allowed to take with them their personal effects, and any correspondence and parcels which have arrived for them. The weight of such baggage may be limited, if the conditions of repatriation so require, to what each prisoner can reasonably carry. Each prisoner shall in all cases be authorized to carry at least twenty-five kilograms.
 
        The other personal effects of the repatriated prisoner shall be left in the charge of the Detaining Power which shall have them forwarded to him as soon as it has concluded an agreement to this effect, regulating the conditions of transport and the payment of the costs involved, with the Power on which the prisoner depends.
 
@@ -2398,9 +2386,9 @@ PART V.—INFORMATION BUREAUX AND RELIEF SOCIETIES FOR PRISONERS OF WAR
 
 Article 122
 
-       Upon the outbreak of a conflict and in all cases of occupation, each of the Parties to the conflict shall institute an official Information Bureau for prisoners of war who are in its power. Neutral or non‑belligerent Powers who may have received within their territory persons belonging to one of the categories referred to in Article 4, shall take the same action with respect to such persons. The Power concerned shall ensure that the Prisoners of War Information Bureau is provided with the necessary accommodation, equipment and staff to ensure its efficient working. It shall be at liberty to employ prisoners of war in such a Bureau under the conditions laid down in the Section of the present Convention dealing with work by prisoners of war.
+       Upon the outbreak of a conflict and in all cases of occupation, each of the Parties to the conflict shall institute an official Information Bureau for prisoners of war who are in its power. Neutral or non-belligerent Powers who may have received within their territory persons belonging to one of the categories referred to in Article 4, shall take the same action with respect to such persons. The Power concerned shall ensure that the Prisoners of War Information Bureau is provided with the necessary accommodation, equipment and staff to ensure its efficient working. It shall be at liberty to employ prisoners of war in such a Bureau under the conditions laid down in the Section of the present Convention dealing with work by prisoners of war.
 
-       Within the shortest possible period, each of the Parties to the conflict shall give its Bureau the information referred to in the fourth, fifth and sixth paragraphs of this Article regarding any enemy person belonging to one of the categories referred to in Article 4, who has fallen into its power. Neutral or non‑belligerent Powers shall take the same action with regard to persons belonging to such categories whom they have received within their territory.
+       Within the shortest possible period, each of the Parties to the conflict shall give its Bureau the information referred to in the fourth, fifth and sixth paragraphs of this Article regarding any enemy person belonging to one of the categories referred to in Article 4, who has fallen into its power. Neutral or non-belligerent Powers shall take the same action with regard to persons belonging to such categories whom they have received within their territory.
 
        The Bureau shall immediately forward such information by the most rapid means to the Powers concerned, through the intermediary of the Protecting Powers and likewise of the Central Agency provided for in Article 123.
 
@@ -2438,11 +2426,11 @@ Article 125
 
        The special position of the International Committee of the Red Cross in this field shall be recognized and respected at all times.
 
-       As soon as relief supplies or material intended for the above‑mentioned purposes are handed over to prisoners of war, or very shortly afterwards, receipts for each consignment, signed by the prisoners’ representative, shall be forwarded to the relief society or organization making the shipment. At the same time, receipts for these consignments shall be supplied by the administrative authorities responsible for guarding the prisoners.
+       As soon as relief supplies or material intended for the above-mentioned purposes are handed over to prisoners of war, or very shortly afterwards, receipts for each consignment, signed by the prisoners’ representative, shall be forwarded to the relief society or organization making the shipment. At the same time, receipts for these consignments shall be supplied by the administrative authorities responsible for guarding the prisoners.
 
 PART VI.—EXECUTION OF THE CONVENTION
 
-Section  I.—General Provisions
+Section I.—General Provisions
 
 Article 126
 
@@ -2504,7 +2492,7 @@ Article 134
 
 Article 135
 
-       In the relations between the Powers which are bound by the Hague Convention respecting the Laws and Customs of War on Land, whether that of July 29, 1899, or that of October 18, 1907, and which are parties to the present Convention, this last Convention shall be complementary to Chapter II of the Regulations annexed to the above‑mentioned Conventions of the Hague.
+       In the relations between the Powers which are bound by the Hague Convention respecting the Laws and Customs of War on Land, whether that of July 29, 1899, or that of October 18, 1907, and which are parties to the present Convention, this last Convention shall be complementary to Chapter II of the Regulations annexed to the above-mentioned Conventions of the Hague.
 
 Article 136
 
@@ -2584,7 +2572,7 @@ Article 3
 
           (1)  Persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed _hors de combat_ by sickness, wounds, detention, or any other cause, shall in all circumstances be treated humanely, without any adverse distinction founded on race, colour, religion or faith, sex, birth or wealth, or any other similar criteria.
 
-To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above‑mentioned persons:
+To this end, the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:
 
    (_a_)   violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
@@ -2606,7 +2594,7 @@ Article 4
 
        Persons protected by the Convention are those who, at a given moment and in any manner whatsoever, find themselves, in case of a conflict or occupation, in the hands of a Party to the conflict or Occupying Power of which they are not nationals.
 
-       Nationals of a State which is not bound by the Convention are not protected by it. Nationals of a neutral State who find themselves in the territory of a belligerent State, and nationals of a co‑belligerent State, shall not be regarded as protected persons while the State of which they are nationals has normal diplomatic representation in the State in whose hands they are.
+       Nationals of a State which is not bound by the Convention are not protected by it. Nationals of a neutral State who find themselves in the territory of a belligerent State, and nationals of a co-belligerent State, shall not be regarded as protected persons while the State of which they are nationals has normal diplomatic representation in the State in whose hands they are.
 
        The provisions of Part II are, however, wider in application, as defined in Article 13.
 
@@ -2628,7 +2616,7 @@ Article 6
 
        In the case of occupied territory, the application of the present Convention shall cease one year after the general close of military operations; however, the Occupying Power shall be bound, for the duration of the occupation, to the extent that such Power exercises the functions of government in such territory, by the provisions of the following Articles of the present Convention: 1 to 12, 27, 29 to 34, 47, 49, 51, 52, 53, 59, 61 to 77, 143.
 
-       Protected persons whose release, repatriation or re‑establishment may take place after such dates shall meanwhile continue to benefit by the present Convention.
+       Protected persons whose release, repatriation or re-establishment may take place after such dates shall meanwhile continue to benefit by the present Convention.
 
 Article 7
 
@@ -2682,7 +2670,7 @@ Article 13
 
 Article 14
 
-       In time of peace, the High Contracting Parties and, after the outbreak of hostilities, the Parties thereto, may establish in their own territory and, if the need arises, in occupied areas, hospital and safety zones and localities so organized as to protect from the effects of war, wounded, sick and aged persons, children under fifteen, expectant‑mothers and mothers of children under seven.
+       In time of peace, the High Contracting Parties and, after the outbreak of hostilities, the Parties thereto, may establish in their own territory and, if the need arises, in occupied areas, hospital and safety zones and localities so organized as to protect from the effects of war, wounded, sick and aged persons, children under fifteen, expectant-mothers and mothers of children under seven.
 
        Upon the outbreak and during the course of hostilities, the Parties concerned may conclude agreements on mutual recognition of the zones and localities they have created. They may for this purpose implement the provisions of the Draft Agreement annexed to the present Convention, with such amendments as they may consider necessary.
 
@@ -2692,7 +2680,7 @@ Article 15
 
        Any Party to the conflict may, either direct or through a neutral State or some humanitarian organization, propose to the adverse Party to establish, in the regions where fighting is taking place, neutralized zones intended to shelter from the effects of war the following persons, without distinction:
 
-          (_a_)  wounded and sick combatants or non‑combatants;
+          (_a_)  wounded and sick combatants or non-combatants;
 
           (_b_)  civilian persons who take no part in hostilities, and who, while they reside in the zones, perform no work of a military character.
 
@@ -2702,7 +2690,7 @@ Article 16
 
        The wounded and sick, as well as the infirm, and expectant mothers, shall be the object of particular protection and respect.
 
-       As far as military considerations allow, each Party to the conflict shall facilitate the steps taken to search for the killed and wounded, to assist the shipwrecked and other persons exposed to grave danger, and to protect them against pillage and ill‑treatment.
+       As far as military considerations allow, each Party to the conflict shall facilitate the steps taken to search for the killed and wounded, to assist the shipwrecked and other persons exposed to grave danger, and to protect them against pillage and ill-treatment.
 
 Article 17
 
@@ -2730,11 +2718,11 @@ Article 20
 
        Persons regularly and solely engaged in the operation and administration of civilian hospitals, including the personnel engaged in the search for, removal and transporting of and caring for wounded and sick civilians, the infirm and maternity cases, shall be respected and protected.
 
-       In occupied territory and in zones of military operations, the above personnel shall be recognizable by means of an identity card certifying their status, bearing the photograph of the holder and embossed with the stamp of the responsible authority, and also by means of a stamped, water‑resistant armlet which they shall wear on the left arm while carrying out their duties. This armlet shall be issued by the State and shall bear the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949.
+       In occupied territory and in zones of military operations, the above personnel shall be recognizable by means of an identity card certifying their status, bearing the photograph of the holder and embossed with the stamp of the responsible authority, and also by means of a stamped, water-resistant armlet which they shall wear on the left arm while carrying out their duties. This armlet shall be issued by the State and shall bear the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949.
 
        Other personnel who are engaged in the operation and administration of civilian hospitals shall be entitled to respect and protection and to wear the armlet, as provided in and under the conditions prescribed in this Article, while they are employed on such duties. The identity card shall state the duties on which they are employed.
 
-       The management of each hospital shall at all times hold at the disposal of the competent national or occupying authorities an up‑to‑date list of such personnel.
+       The management of each hospital shall at all times hold at the disposal of the competent national or occupying authorities an up-to-date list of such personnel.
 
 Article 21
 
@@ -2746,7 +2734,7 @@ Article 22
 
        They may be marked with the distinctive emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949.
 
-       Unless agreed otherwise, flights over enemy or enemy‑occupied territory are prohibited.
+       Unless agreed otherwise, flights over enemy or enemy-occupied territory are prohibited.
 
        Such aircraft shall obey every summons to land. In the event of a landing thus imposed, the aircraft with its occupants may continue its flight after examination, if any.
 
@@ -2760,7 +2748,7 @@ Article 23
 
           (_b_)  that the control may not be effective, or
 
-          (_c_)  that a definite advantage may accrue to the military efforts or economy of the enemy through the substitution of the above‑mentioned consignments for goods which would otherwise be provided or produced by the enemy or through the release of such material, services or facilities as would otherwise be required for the production of such goods.
+          (_c_)  that a definite advantage may accrue to the military efforts or economy of the enemy through the substitution of the above-mentioned consignments for goods which would otherwise be provided or produced by the enemy or through the release of such material, services or facilities as would otherwise be required for the production of such goods.
 
        The Power which allows the passage of the consignments indicated in the first paragraph of this Article may make such permission conditional on the distribution to the persons benefited thereby being made under the local supervision of the Protecting Powers.
 
@@ -2780,7 +2768,7 @@ Article 25
 
        If, as a result of circumstances, it becomes difficult or impossible to exchange family correspondence by the ordinary post, the Parties to the conflict concerned shall apply to a neutral intermediary, such as the Central Agency provided for in Article 140, and shall decide in consultation with it how to ensure the fulfilment of their obligations under the best possible conditions, in particular with the cooperation of the National Red Cross (Red Crescent, Red Lion and Sun) Societies.
 
-       If the Parties to the conflict deem it necessary to restrict family correspondence, such restrictions shall be confined to the compulsory use of standard forms containing twenty‑five freely chosen words, and to the limitation of the number of these forms despatched to one each month.
+       If the Parties to the conflict deem it necessary to restrict family correspondence, such restrictions shall be confined to the compulsory use of standard forms containing twenty-five freely chosen words, and to the limitation of the number of these forms despatched to one each month.
 
 Article 26
 
@@ -2974,7 +2962,7 @@ Article 51
 
        The work shall be carried out only in the occupied territory where the persons whose services have been requisitioned are. Every such person shall, so far as possible, be kept in his usual place of employment. Workers shall be paid a fair wage and the work shall be proportionate to their physical and intellectual capacities. The legislation in force in the occupied country concerning working conditions, and safeguards as regards, in particular, such matters as wages, hours of work, equipment, preliminary training and compensation for occupational accidents and diseases, shall be applicable to the protected persons assigned to the work referred to in this Article.
 
-       In no case shall requisition of labour lead to a mobilization of workers in an organization of a military or semi‑military character.
+       In no case shall requisition of labour lead to a mobilization of workers in an organization of a military or semi-military character.
 
 Article 52
 
@@ -3054,7 +3042,7 @@ Article 63
 
           (_b_)  the Occupying Power may not require any changes in the personnel or structure of these societies, which would prejudice the aforesaid activities.
 
-       The same principles shall apply to the activities and personnel of special organizations of a non‑military character, which already exist or which may be established, for the purpose of ensuring the living conditions of the civilian population by the maintenance of the essential public utility services, by the distribution of relief and by the organization of rescues.
+       The same principles shall apply to the activities and personnel of special organizations of a non-military character, which already exist or which may be established, for the purpose of ensuring the living conditions of the civilian population by the maintenance of the essential public utility services, by the distribution of relief and by the organization of rescues.
 
 Article 64
 
@@ -3068,7 +3056,7 @@ Article 65
 
 Article 66
 
-       In case of a breach of the penal provisions promulgated by it by virtue of the second paragraph of Article 64, the Occupying Power may hand over the accused to its properly constituted, non‑political military courts, on condition that the said courts sit in the occupied country. Courts of appeal shall preferably sit in the occupied country.
+       In case of a breach of the penal provisions promulgated by it by virtue of the second paragraph of Article 64, the Occupying Power may hand over the accused to its properly constituted, non-political military courts, on condition that the said courts sit in the occupied country. Courts of appeal shall preferably sit in the occupied country.
 
 Article 67
 
@@ -3226,7 +3214,7 @@ Article 86
 
 Article 87
 
-       Canteens shall be installed in every place of internment, except where other suitable facilities are available. The purpose shall be to enable internees to make purchases, at prices not higher than local market prices, of foodstuffs and articles of everyday use, including soap and tobacco, such as would increase their personal well‑being and comfort.
+       Canteens shall be installed in every place of internment, except where other suitable facilities are available. The purpose shall be to enable internees to make purchases, at prices not higher than local market prices, of foodstuffs and articles of everyday use, including soap and tobacco, such as would increase their personal well-being and comfort.
 
        Profits made by canteens shall be credited to a welfare fund to be set up for each place of internment, and administered for the benefit of the internees attached to such place of internment. The Internee Committee provided for in Article 102 shall have the right to check the management of the canteen and of the said fund.
 
@@ -3308,7 +3296,7 @@ Article 95
 
 Article 96
 
-       All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up‑to‑date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment.
+       All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up-to-date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment.
 
 CHAPTER VI.—PERSONAL PROPERTY AND FINANCIAL RESOURCES
 
@@ -3352,7 +3340,7 @@ Article 100
 
        The disciplinary regime in places of internment shall be consistent with humanitarian principles, and shall in no circumstances include regulations imposing on internees any physical exertion dangerous to their health or involving physical or moral victimization. Identification by tattooing or imprinting signs or markings on the body, is prohibited.
 
-       In particular, prolonged standing and roll‑calls, punishment drill, military drill and manoeuvres, or the reduction of food rations, are prohibited.
+       In particular, prolonged standing and roll-calls, punishment drill, military drill and manoeuvres, or the reduction of food rations, are prohibited.
 
 Article 101
 
@@ -3366,13 +3354,13 @@ Article 101
 
 Article 102
 
-       In every place of internment, the internees shall freely elect by secret ballot every six months, the members of a Committee empowered to represent them before the Detaining and the Protecting Powers, the International Committee of the Red Cross and any other organization which may assist them. The members of the Committee shall be eligible for re‑election.
+       In every place of internment, the internees shall freely elect by secret ballot every six months, the members of a Committee empowered to represent them before the Detaining and the Protecting Powers, the International Committee of the Red Cross and any other organization which may assist them. The members of the Committee shall be eligible for re-election.
 
        Internees so elected shall enter upon their duties after their election has been approved by the detaining authorities. The reasons for any refusals or dismissals shall be communicated to the Protecting Powers concerned.
 
 Article 103
 
-       The Internee Committees shall further the physical, spiritual and intellectual well‑being of the internees.
+       The Internee Committees shall further the physical, spiritual and intellectual well-being of the internees.
 
        In case the internees decide, in particular, to organize a system of mutual assistance amongst themselves, this organization would be within the competence of the Committees in addition to the special duties entrusted to them under other provisions of the present Convention.
 
@@ -3424,7 +3412,7 @@ Article 110
 
        All relief shipments for internees shall be exempt from import, customs and other dues.
 
-       All matter sent by mail, including relief parcels sent by parcel post and remittances of money, addressed from other countries to internees or despatched by them through the post office, either direct or through the Information Bureaux provided for in Article 136 and the Central Information Agency provided for in Article 140, shall be exempt from all postal dues both in the countries of origin and destination and in intermediate countries. To this end, in particular, the exemption provided by the Universal Postal Convention of 1947 and by the agreements of the Universal Postal Union in favour of civilians of enemy nationality detained in camps or civilian prisons, shall be extended to the other interned persons protected by the present Convention. The countries not signatory to the above‑mentioned agreements shall be bound to grant freedom from charges in the same circumstances.
+       All matter sent by mail, including relief parcels sent by parcel post and remittances of money, addressed from other countries to internees or despatched by them through the post office, either direct or through the Information Bureaux provided for in Article 136 and the Central Information Agency provided for in Article 140, shall be exempt from all postal dues both in the countries of origin and destination and in intermediate countries. To this end, in particular, the exemption provided by the Universal Postal Convention of 1947 and by the agreements of the Universal Postal Union in favour of civilians of enemy nationality detained in camps or civilian prisons, shall be extended to the other interned persons protected by the present Convention. The countries not signatory to the above-mentioned agreements shall be bound to grant freedom from charges in the same circumstances.
 
        The cost of transporting relief shipments which are intended for internees and which, by reason of their weight or any other cause, cannot be sent through the post office, shall be borne by the Detaining Power in all the territories under its control. Other Powers which are Parties to the present Convention shall bear the cost of transport in their respective territories.
 
@@ -3434,7 +3422,7 @@ Article 110
 
 Article 111
 
-       Should military operations prevent the Powers concerned from fulfilling their obligation to ensure the conveyance of the mail and relief shipments provided for in Articles 106, 107, 108 and 113, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake the conveyance of such shipments by suitable means (rail, motor vehicles, vessels or aircraft, etc.). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport, and to allow its circulation, especially by granting the necessary safe‑conducts.
+       Should military operations prevent the Powers concerned from fulfilling their obligation to ensure the conveyance of the mail and relief shipments provided for in Articles 106, 107, 108 and 113, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake the conveyance of such shipments by suitable means (rail, motor vehicles, vessels or aircraft, etc.). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport, and to allow its circulation, especially by granting the necessary safe-conducts.
 
        Such transport may also be used to convey:
 
@@ -3442,7 +3430,7 @@ Article 111
 
           (_b_)  correspondence and reports relating to internees which the Protecting Powers, the International Committee of the Red Cross or any other organization assisting the internees exchange either with their own delegates or with the Parties to the conflict.
 
-       These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport if it should so prefer, nor preclude the granting of safe‑conducts, under mutually agreed conditions, to such means of transport.
+       These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport if it should so prefer, nor preclude the granting of safe-conducts, under mutually agreed conditions, to such means of transport.
 
        The costs occasioned by the use of such means of transport shall be borne, in proportion to the importance of the shipments, by the Parties to the conflict whose nationals are benefited thereby.
 
@@ -3450,7 +3438,7 @@ Article 112
 
        The censoring of correspondence addressed to internees or despatched by them shall be done as quickly as possible.
 
-       The examination of consignments intended for internees shall not be carried out under conditions that will expose the goods contained in them to deterioration. It shall be done in the presence of the addressee, or of a fellow‑internee duly delegated by him. The delivery to internees of individual or collective consignments shall not be delayed under the pretext of difficulties of censorship.
+       The examination of consignments intended for internees shall not be carried out under conditions that will expose the goods contained in them to deterioration. It shall be done in the presence of the addressee, or of a fellow-internee duly delegated by him. The delivery to internees of individual or collective consignments shall not be delayed under the pretext of difficulties of censorship.
 
        Any prohibition of correspondence ordered by the Parties to the conflict either for military or political reasons, shall be only temporary and its duration shall be as short as possible.
 
@@ -3586,7 +3574,7 @@ Article 128
 
        In the event of transfer, internees shall be officially advised of their departure and of their new postal address. Such notification shall be given in time for them to pack their luggage and inform their next of kin.
 
-       They shall be allowed to take with them their personal effects, and the correspondence and parcels which have arrived for them. The weight of such baggage may be limited if the conditions of transfer so require, but in no case to less than twenty‑five kilograms per internee.
+       They shall be allowed to take with them their personal effects, and the correspondence and parcels which have arrived for them. The weight of such baggage may be limited if the conditions of transfer so require, but in no case to less than twenty-five kilograms per internee.
 
        Mail and parcels addressed to their former place of internment shall be forwarded to them without delay.
 
@@ -3596,7 +3584,7 @@ CHAPTER XI.—DEATHS
 
 Article 129
 
-       The wills of internees shall be received for safe‑keeping by the responsible authorities; and in the event of the death of an internee his will shall be transmitted without delay to a person whom he has previously designated.
+       The wills of internees shall be received for safe-keeping by the responsible authorities; and in the event of the death of an internee his will shall be transmitted without delay to a person whom he has previously designated.
 
        Deaths of internees shall be certified in every case by a doctor, and a death certificate shall be made out, showing the causes of death and the conditions under which it occurred.
 
@@ -3606,7 +3594,7 @@ Article 130
 
        The detaining authorities shall ensure that internees who die while interned are honourably buried, if possible according to the rites of the religion to which they belonged, and that their graves are respected, properly maintained, and marked in such a way that they can always be recognized.
 
-       Deceased internees shall be buried in individual graves unless unavoidable circumstances require the use of collective graves. Bodies may be cremated only for imperative reasons of hygiene, on account of the religion of the deceased or in accordance with his expressed wish to this effect. In case of cremation, the fact shall be stated and the reasons given in the death certificate of the deceased. The ashes shall be retained for safe‑keeping by the detaining authorities and shall be transferred as soon as possible to the next of kin on their request.
+       Deceased internees shall be buried in individual graves unless unavoidable circumstances require the use of collective graves. Bodies may be cremated only for imperative reasons of hygiene, on account of the religion of the deceased or in accordance with his expressed wish to this effect. In case of cremation, the fact shall be stated and the reasons given in the death certificate of the deceased. The ashes shall be retained for safe-keeping by the detaining authorities and shall be transferred as soon as possible to the next of kin on their request.
 
        As soon as circumstances permit, and not later than the close of hostilities, the Detaining Power shall forward lists of graves of deceased internees to the Powers on whom the deceased internees depended, through the Information Bureaux provided for in Article 136\. Such lists shall include all particulars necessary for the identification of the deceased internees, as well as the exact location of their graves.
 
@@ -3690,7 +3678,7 @@ Article 141
 
 PART IV.—EXECUTION OF THE CONVENTION
 
-Section  i.—General Provisions
+Section i.—General Provisions
 
 Article 142
 
@@ -3796,7 +3784,7 @@ Article 158
 
        The denunciation shall be notified in writing to the Swiss Federal Council, which shall transmit it to the Governments of all the High Contracting Parties.
 
-       The denunciation shall take effect one year after the notification thereof has been made to the Swiss Federal Council. However, a denunciation of which notification has been made at a time when the denouncing Power is involved in a conflict shall not take effect until peace has been concluded, and until after operations connected with the release, repatriation and re‑establishment of the persons protected by the present Convention have been terminated.
+       The denunciation shall take effect one year after the notification thereof has been made to the Swiss Federal Council. However, a denunciation of which notification has been made at a time when the denouncing Power is involved in a conflict shall not take effect until peace has been concluded, and until after operations connected with the release, repatriation and re-establishment of the persons protected by the present Convention have been terminated.
 
        The denunciation shall have effect only in respect of the denouncing Power. It shall in no way impair the obligations which the Parties to the conflict shall remain bound to fulfil by virtue of the principles of the law of nations, as they result from the usages established among civilized peoples, from the laws of humanity and the dictates of the public conscience.
 
@@ -3838,13 +3826,13 @@ GENERAL PROVISIONS
 
 _Article 1—General principles and scope of application_
 
-     1.    The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
+     1.     The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
 
-     2.    In cases not covered by this Protocol or by other international agreements, civilians and combatants remain under the protection and authority of the principles of international law derived from established custom, from the principles of humanity and from the dictates of public conscience.
+     2.     In cases not covered by this Protocol or by other international agreements, civilians and combatants remain under the protection and authority of the principles of international law derived from established custom, from the principles of humanity and from the dictates of public conscience.
 
-     3.    This Protocol, which supplements the Geneva Conventions of 12 August 1949 for the protection of war victims, shall apply in the situations referred to in Article 2 common to those Conventions.
+     3.     This Protocol, which supplements the Geneva Conventions of 12 August 1949 for the protection of war victims, shall apply in the situations referred to in Article 2 common to those Conventions.
 
-     4.    The situations referred to in the preceding paragraph include armed conflicts in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self‑determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co‑operation among States in accordance with the Charter of the United Nations.
+     4.     The situations referred to in the preceding paragraph include armed conflicts in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations.
 
 _Article 2—Definitions_
 
@@ -3864,7 +3852,7 @@ _Article 3—Beginning and end of application_
 
      (_a_)   the Conventions and this Protocol shall apply from the beginning of any situation referred to in Article 1 of this Protocol;
 
-     (_b_)   the application of the Conventions and of this Protocol shall cease, in the territory of Parties to the conflict, on the general close of military operations and, in the case of occupied territories, on the termination of the occupation, except, in either circumstance, for those persons whose final release, repatriation or re‑establishment takes place thereafter. These persons shall continue to benefit from the relevant provisions of the Conventions and of this Protocol until their final release, repatriation or re‑establishment.
+     (_b_)   the application of the Conventions and of this Protocol shall cease, in the territory of Parties to the conflict, on the general close of military operations and, in the case of occupied territories, on the termination of the occupation, except, in either circumstance, for those persons whose final release, repatriation or re-establishment takes place thereafter. These persons shall continue to benefit from the relevant provisions of the Conventions and of this Protocol until their final release, repatriation or re-establishment.
 
 _Article 4—Legal status of the Parties to the conflict_
 
@@ -3872,29 +3860,29 @@ _Article 4—Legal status of the Parties to the conflict_
 
 _Article 5—Appointment of Protecting Powers and of their substitute_
 
-     1.    It is the duty of the Parties to a conflict from the beginning of that conflict to secure the supervision and implementation of the Conventions and of this Protocol by the application of the system of Protecting Powers, including _inter alia_ the designation and acceptance of those Powers, in accordance with the following paragraphs. Protecting Powers shall have the duty of safeguarding the interests of the parties to the conflict.
+     1.     It is the duty of the Parties to a conflict from the beginning of that conflict to secure the supervision and implementation of the Conventions and of this Protocol by the application of the system of Protecting Powers, including inter alia the designation and acceptance of those Powers, in accordance with the following paragraphs. Protecting Powers shall have the duty of safeguarding the interests of the parties to the conflict.
 
-     2.    From the beginning of a situation referred to in Article 1, each Party to the conflict shall without delay designate a Protecting Power for the purpose of applying the Conventions and this Protocol and shall, likewise without delay and for the same purpose, permit the activities of a Protecting Power which has been accepted by it as such after designation by the adverse Party.
+     2.     From the beginning of a situation referred to in Article 1, each Party to the conflict shall without delay designate a Protecting Power for the purpose of applying the Conventions and this Protocol and shall, likewise without delay and for the same purpose, permit the activities of a Protecting Power which has been accepted by it as such after designation by the adverse Party.
 
-     3.    If a Protecting Power has not been designated or accepted from the beginning of a situation referred to in Article 1, the International Committee of the Red Cross, without prejudice to the right of any other impartial humanitarian organization to do likewise, shall offer its good offices to the Parties to the conflict with a view to the designation without delay of a Protecting Power to which the Parties to the conflict consent. For that purpose it may, _inter alia_, ask each Party to provide it with a list of at least five States which that Party considers acceptable to act as Protecting Power on its behalf in relation to an adverse Party, and ask each adverse Party to provide a list of at least five States which it would accept as the Protecting Power of the first Party; these lists shall be communicated to the Committee within two weeks after the receipt of the request; it shall compare them and seek the agreement of any proposed State named on both lists.
+     3.     If a Protecting Power has not been designated or accepted from the beginning of a situation referred to in Article 1, the International Committee of the Red Cross, without prejudice to the right of any other impartial humanitarian organization to do likewise, shall offer its good offices to the Parties to the conflict with a view to the designation without delay of a Protecting Power to which the Parties to the conflict consent. For that purpose it may, inter alia, ask each Party to provide it with a list of at least five States which that Party considers acceptable to act as Protecting Power on its behalf in relation to an adverse Party, and ask each adverse Party to provide a list of at least five States which it would accept as the Protecting Power of the first Party; these lists shall be communicated to the Committee within two weeks after the receipt of the request; it shall compare them and seek the agreement of any proposed State named on both lists.
 
-     4.    If, despite the foregoing, there is no Protecting Power, the Parties to the conflict shall accept without delay an offer which may be made by the International Committee of the Red Cross or by any other organization which offers all guarantees of impartiality and efficacy, after due consultations with the said Parties and taking into account the result of these consultations, to act as a substitute. The functioning of such a substitute is subject to the consent of the Parties to the conflict; every effort shall be made by the Parties to the conflict to facilitate the operations of the substitute in the performance of its tasks under the Conventions and this Protocol.
+     4.     If, despite the foregoing, there is no Protecting Power, the Parties to the conflict shall accept without delay an offer which may be made by the International Committee of the Red Cross or by any other organization which offers all guarantees of impartiality and efficacy, after due consultations with the said Parties and taking into account the result of these consultations, to act as a substitute. The functioning of such a substitute is subject to the consent of the Parties to the conflict; every effort shall be made by the Parties to the conflict to facilitate the operations of the substitute in the performance of its tasks under the Conventions and this Protocol.
 
-     5.    In accordance with Article 4, the designation and acceptance of Protecting Powers for the purpose of applying the Conventions and this Protocol shall not affect the legal status of the Parties to the conflict or of any territory, including occupied territory.
+     5.     In accordance with Article 4, the designation and acceptance of Protecting Powers for the purpose of applying the Conventions and this Protocol shall not affect the legal status of the Parties to the conflict or of any territory, including occupied territory.
 
-     6.    The maintenance of diplomatic relations between Parties to the conflict or the entrusting of the protection of a Party's interests and those of its nationals to a third State in accordance with the rules of international law relating to diplomatic relations is no obstacle to the designation of Protecting Powers for the purpose of applying the Conventions and this Protocol.
+     6.     The maintenance of diplomatic relations between Parties to the conflict or the entrusting of the protection of a Party's interests and those of its nationals to a third State in accordance with the rules of international law relating to diplomatic relations is no obstacle to the designation of Protecting Powers for the purpose of applying the Conventions and this Protocol.
 
-     7.    Any subsequent mention in this Protocol of a Protecting Power includes also a substitute.
+     7.     Any subsequent mention in this Protocol of a Protecting Power includes also a substitute.
 
 _Article 6—Qualified persons_
 
-     1.    The High Contracting Parties shall, also in peacetime, endeavour, with the assistance of the national Red Cross (Red Crescent, Red Lion and Sun) Societies, to train qualified personnel to facilitate the application of the Conventions and of this Protocol, and in particular the activities of the Protecting Powers.
+     1.     The High Contracting Parties shall, also in peacetime, endeavour, with the assistance of the national Red Cross (Red Crescent, Red Lion and Sun) Societies, to train qualified personnel to facilitate the application of the Conventions and of this Protocol, and in particular the activities of the Protecting Powers.
 
-     2.    The recruitment and training of such personnel are within domestic jurisdiction.
+     2.     The recruitment and training of such personnel are within domestic jurisdiction.
 
-     3.    The International Committee of the Red Cross shall hold at the disposal of the High Contracting Parties the lists of persons so trained which the High Contracting Parties may have established and may have transmitted to it for that purpose.
+     3.     The International Committee of the Red Cross shall hold at the disposal of the High Contracting Parties the lists of persons so trained which the High Contracting Parties may have established and may have transmitted to it for that purpose.
 
-     4.    The conditions governing the employment of such personnel outside the national territory shall, in each case, be the subject of special agreements between the Parties concerned.
+     4.     The conditions governing the employment of such personnel outside the national territory shall, in each case, be the subject of special agreements between the Parties concerned.
 
 _Article 7—Meetings_
 
@@ -3912,33 +3900,33 @@ _Article 8—Terminology_
 
      For the purposes of this Protocol:
 
-     (_a_)   “wounded” and “sick” mean persons, whether military or civilian, who, because of trauma, disease or other physical or mental disorder or disability, are in need of medical assistance or care and who refrain from any act of hostility. These terms also cover maternity cases, new‑born babies and other persons who may be in need of immediate medical assistance or care, such as the infirm or expectant mothers, and who refrain from any act of hostility;
+     (_a_)   “wounded” and “sick” mean persons, whether military or civilian, who, because of trauma, disease or other physical or mental disorder or disability, are in need of medical assistance or care and who refrain from any act of hostility. These terms also cover maternity cases, new-born babies and other persons who may be in need of immediate medical assistance or care, such as the infirm or expectant mothers, and who refrain from any act of hostility;
 
      (_b_)   “shipwrecked” means persons, whether military or civilian, who are in peril at sea or in other waters as a result of misfortune affecting them or the vessel or aircraft carrying them and who refrain from any act of hostility. These persons, provided that they continue to refrain from any act of hostility, shall continue to be considered shipwrecked during their rescue until they acquire another status under the Conventions or this Protocol;
 
-     (_c_)   “medical personnel” means those persons assigned, by a Party to the conflict, exclusively to the medical purposes enumerated under sub‑paragraph (_e_) or to the administration of medical units or to the operation or administration of medical transports. Such assignments may be either permanent or temporary. The term includes:
+     (_c_)   “medical personnel” means those persons assigned, by a Party to the conflict, exclusively to the medical purposes enumerated under sub-paragraph (_e_) or to the administration of medical units or to the operation or administration of medical transports. Such assignments may be either permanent or temporary. The term includes:
 
              (i)     medical personnel of a Party to the conflict, whether military or civilian, including those described in the First and Second Conventions, and those assigned to civil defence organizations;
 
-            (ii)     medical personnel of national Red Cross (Red Crescent, Red Lion and Sun) Societies and other national voluntary aid societies duly recognized and authorized by a Party to the conflict;
+             (ii)     medical personnel of national Red Cross (Red Crescent, Red Lion and Sun) Societies and other national voluntary aid societies duly recognized and authorized by a Party to the conflict;
 
-           (iii)     medical personnel of medical units or medical transports described in Article 9, paragraph 2;
+            (iii)     medical personnel of medical units or medical transports described in Article 9, paragraph 2;
 
      (_d_)   “religious personnel” means military or civilian persons, such as chaplains, who are exclusively engaged in the work of their ministry and attached:
 
              (i)     to the armed forces of a Party to the conflict;
 
-            (ii)     to medical units or medical transports of a Party to the conflict;
+             (ii)     to medical units or medical transports of a Party to the conflict;
 
-           (iii)     to medical units or medical transports described in Article 9, paragraph 2; or
+            (iii)     to medical units or medical transports described in Article 9, paragraph 2; or
 
-           (iv)     to civil defence organizations of a Party to the conflict.
+            (iv)     to civil defence organizations of a Party to the conflict.
 
-The attachment of religious personnel may be either permanent or temporary, and the relevant provisions mentioned under sub‑paragraph (_k_) apply to them;
+The attachment of religious personnel may be either permanent or temporary, and the relevant provisions mentioned under sub-paragraph (_k_) apply to them;
 
      (_e_)   “medical units” means establishments and other units, whether military or civilian, organized for medical purposes, namely the search for, collection, transportation, diagnosis or treatment—including first aid treatment—of the wounded, sick and shipwrecked, or for the prevention of disease. The term includes, for example, hospitals and other similar units, blood transfusion centres, preventive medicine centres and institutes, medical depots and the medical and pharmaceutical stores of such units. Medical units may be fixed or mobile, permanent or temporary;
 
-     (_f_)    “medical transportation” means the conveyance by land, water or air of the wounded, sick, shipwrecked, medical personnel, religious personnel, medical equipment or medical supplies protected by the Conventions and by this Protocol;
+     (_f_)   “medical transportation” means the conveyance by land, water or air of the wounded, sick, shipwrecked, medical personnel, religious personnel, medical equipment or medical supplies protected by the Conventions and by this Protocol;
 
      (_g_)   “medical transports” means any means of transportation, whether military or civilian, permanent or temporary, assigned exclusively to medical transportation and under the control of a competent authority of a Party to the conflict;
 
@@ -3946,7 +3934,7 @@ The attachment of religious personnel may be either permanent or temporary, and 
 
      (_i_)    “medical ships and craft” means any medical transports by water;
 
-     (_j_)    “medical aircraft” means any medical transports by air;
+     (_j_)   “medical aircraft” means any medical transports by air;
 
      (_k_)   “permanent medical personnel”, “permanent medical units” and “permanent medical transports” mean those assigned exclusively to medical purposes for an indeterminate period. “Temporary medical personnel”, “temporary medical units” and “temporary medical transports” mean those devoted exclusively to medical purposes for limited periods during the whole of such periods. Unless otherwise specified, the terms “medical personnel”, “medical units” and “medical transports” cover both permanent and temporary categories;
 
@@ -3956,9 +3944,9 @@ The attachment of religious personnel may be either permanent or temporary, and 
 
 _Article 9—Field of application_
 
-     1.    This Part, the provisions of which are intended to ameliorate the condition of the wounded, sick and shipwrecked, shall apply to all those affected by a situation referred to in Article 1, without any adverse distinction founded on race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria.
+     1.     This Part, the provisions of which are intended to ameliorate the condition of the wounded, sick and shipwrecked, shall apply to all those affected by a situation referred to in Article 1, without any adverse distinction founded on race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria.
 
-     2.    The relevant provisions of Articles 27 and 32 of the First Convention shall apply to permanent medical units and transports (other than hospital ships, to which Article 25 of the Second Convention applies) and their personnel made available to a Party to the conflict for humanitarian purposes:
+     2.     The relevant provisions of Articles 27 and 32 of the First Convention shall apply to permanent medical units and transports (other than hospital ships, to which Article 25 of the Second Convention applies) and their personnel made available to a Party to the conflict for humanitarian purposes:
 
      (_a_)   by a neutral or other State which is not a Party to that conflict;
 
@@ -3968,15 +3956,15 @@ _Article 9—Field of application_
 
 _Article 10—Protection and care_
 
-     1.    All the wounded, sick and shipwrecked, to whichever Party they belong, shall be respected and protected.
+     1.     All the wounded, sick and shipwrecked, to whichever Party they belong, shall be respected and protected.
 
-     2.    In all circumstances they shall be treated humanely and shall receive, to the fullest extent practicable and with the least possible delay, the medical care and attention required by their condition. There shall be no distinction among them founded on any grounds other than medical ones.
+     2.     In all circumstances they shall be treated humanely and shall receive, to the fullest extent practicable and with the least possible delay, the medical care and attention required by their condition. There shall be no distinction among them founded on any grounds other than medical ones.
 
 _Article 11—Protection of persons_
 
-     1.    The physical or mental health and integrity of persons who are in the power of the adverse Party or who are interned, detained or otherwise deprived of liberty as a result of a situation referred to in Article 1 shall not be endangered by any unjustified act or omission. Accordingly, it is prohibited to subject the persons described in this Article to any medical procedure which is not indicated by the state of health of the person concerned and which is not consistent with generally accepted medical standards which would be applied under similar medical circumstances to persons who are nationals of the Party conducting the procedure and who are in no way deprived of liberty.
+     1.     The physical or mental health and integrity of persons who are in the power of the adverse Party or who are interned, detained or otherwise deprived of liberty as a result of a situation referred to in Article 1 shall not be endangered by any unjustified act or omission. Accordingly, it is prohibited to subject the persons described in this Article to any medical procedure which is not indicated by the state of health of the person concerned and which is not consistent with generally accepted medical standards which would be applied under similar medical circumstances to persons who are nationals of the Party conducting the procedure and who are in no way deprived of liberty.
 
-     2.    It is, in particular, prohibited to carry out on such persons, even with their consent:
+     2.     It is, in particular, prohibited to carry out on such persons, even with their consent:
 
      (_a_)   physical mutilations;
 
@@ -3986,19 +3974,19 @@ _Article 11—Protection of persons_
 
 except where these acts are justified in conformity with the conditions provided for in paragraph 1.
 
-     3.    Exceptions to the prohibition in paragraph 2 (_c_) may be made only in the case of donations of blood for transfusion or of skin for grafting, provided that they are given voluntarily and without any coercion or inducement, and then only for therapeutic purposes, under conditions consistent with generally accepted medical standards and controls designed for the benefit of both the donor and the recipient.
+     3.     Exceptions to the prohibition in paragraph 2 (_c_) may be made only in the case of donations of blood for transfusion or of skin for grafting, provided that they are given voluntarily and without any coercion or inducement, and then only for therapeutic purposes, under conditions consistent with generally accepted medical standards and controls designed for the benefit of both the donor and the recipient.
 
-     4.    Any wilful act or omission which seriously endangers the physical or mental health or integrity of any person who is in the power of a Party other than the one on which he depends and which either violates any of the prohibitions in paragraphs 1 and 2 or fails to comply with the requirements of paragraph 3 shall be a grave breach of this Protocol.
+     4.     Any wilful act or omission which seriously endangers the physical or mental health or integrity of any person who is in the power of a Party other than the one on which he depends and which either violates any of the prohibitions in paragraphs 1 and 2 or fails to comply with the requirements of paragraph 3 shall be a grave breach of this Protocol.
 
-     5.    The persons described in paragraph 1 have the right to refuse any surgical operation. In case of refusal, medical personnel shall endeavour to obtain a written statement to that effect, signed or acknowledged by the patient.
+     5.     The persons described in paragraph 1 have the right to refuse any surgical operation. In case of refusal, medical personnel shall endeavour to obtain a written statement to that effect, signed or acknowledged by the patient.
 
-     6.    Each Party to the conflict shall keep a medical record for every donation of blood for transfusion or skin for grafting by persons referred to in paragraph 1, if that donation is made under the responsibility of that Party. In addition, each Party to the conflict shall endeavour to keep a record of all medical procedures undertaken with respect to any person who is interned, detained or otherwise deprived of liberty as a result of a situation referred to in Article 1\. These records shall be available at all times for inspection by the Protecting Power.
+     6.     Each Party to the conflict shall keep a medical record for every donation of blood for transfusion or skin for grafting by persons referred to in paragraph 1, if that donation is made under the responsibility of that Party. In addition, each Party to the conflict shall endeavour to keep a record of all medical procedures undertaken with respect to any person who is interned, detained or otherwise deprived of liberty as a result of a situation referred to in Article 1\. These records shall be available at all times for inspection by the Protecting Power.
 
 _Article 12—Protection of medical units_
 
-     1.    Medical units shall be respected and protected at all times and shall not be the object of attack.
+     1.     Medical units shall be respected and protected at all times and shall not be the object of attack.
 
-     2.    Paragraph 1 shall apply to civilian medical units, provided that they:
+     2.     Paragraph 1 shall apply to civilian medical units, provided that they:
 
      (_a_)   belong to one of the Parties to the conflict;
 
@@ -4006,31 +3994,31 @@ _Article 12—Protection of medical units_
 
      (_c_)   are authorized in conformity with Article 9, paragraph 2, of this Protocol or Article 27 of the First Convention.
 
-     3.    The Parties to the conflict are invited to notify each other of the location of their fixed medical units. The absence of such notification shall not exempt any of the Parties from the obligation to comply with the provisions of paragraph 1.
+     3.     The Parties to the conflict are invited to notify each other of the location of their fixed medical units. The absence of such notification shall not exempt any of the Parties from the obligation to comply with the provisions of paragraph 1.
 
-     4.    Under no circumstances shall medical units be used in an attempt to shield military objectives from attack. Whenever possible, the Parties to the conflict shall ensure that medical units are so sited that attacks against military objectives do not imperil their safety.
+     4.     Under no circumstances shall medical units be used in an attempt to shield military objectives from attack. Whenever possible, the Parties to the conflict shall ensure that medical units are so sited that attacks against military objectives do not imperil their safety.
 
 _Article 13—Discontinuance of protection of civilian medical units_
 
-     1.    The protection to which civilian medical units are entitled shall not cease unless they are used to commit, outside their humanitarian function, acts harmful to the enemy. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time‑limit, and after such warning has remained unheeded.
+     1.     The protection to which civilian medical units are entitled shall not cease unless they are used to commit, outside their humanitarian function, acts harmful to the enemy. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time-limit, and after such warning has remained unheeded.
 
-     2.    The following shall not be considered as acts harmful to the enemy:
+     2.     The following shall not be considered as acts harmful to the enemy:
 
      (_a_)   that the personnel of the unit are equipped with light individual weapons for their own defence or for that of the wounded and sick in their charge;
 
      (_b_)   that the unit is guarded by a picket or by sentries or by an escort;
 
-     (_c_)   that small‑arms and ammunition taken from the wounded and sick, and not yet handed to the proper service, are found in the units;
+     (_c_)   that small-arms and ammunition taken from the wounded and sick, and not yet handed to the proper service, are found in the units;
 
      (_d_)   that members of the armed forces or other combatants are in the unit for medical reasons.
 
 _Article 14—Limitations on requisition of civilian medical units_
 
-     1.    The Occupying Power has the duty to ensure that the medical needs of the civilian population in occupied territory continue to be satisfied.
+     1.     The Occupying Power has the duty to ensure that the medical needs of the civilian population in occupied territory continue to be satisfied.
 
-     2.    The Occupying Power shall not, therefore, requisition civilian medical units, their equipment, their _mat&#233;riel_ or the services of their personnel, so long as these resources are necessary for the provision of adequate medical services for the civilian population and for the continuing medical care of any wounded and sick already under treatment.
+     2.     The Occupying Power shall not, therefore, requisition civilian medical units, their equipment, their _mat&#233;riel_ or the services of their personnel, so long as these resources are necessary for the provision of adequate medical services for the civilian population and for the continuing medical care of any wounded and sick already under treatment.
 
-     3.    Provided that the general rule in paragraph 2 continues to be observed, the Occupying Power may requisition the said resources, subject to the following particular conditions:
+     3.     Provided that the general rule in paragraph 2 continues to be observed, the Occupying Power may requisition the said resources, subject to the following particular conditions:
 
      (_a_)   that the resources are necessary for the adequate and immediate medical treatment of the wounded and sick members of the armed forces of the Occupying Power or of prisoners of war;
 
@@ -4040,47 +4028,47 @@ _Article 14—Limitations on requisition of civilian medical units_
 
 _Article 15—Protection of civilian medical and religious personnel_
 
-     1.    Civilian medical personnel shall be respected and protected.
+     1.     Civilian medical personnel shall be respected and protected.
 
-     2.    If needed, all available help shall be afforded to civilian medical personnel in an area where civilian medical services are disrupted by reason of combat activity.
+     2.     If needed, all available help shall be afforded to civilian medical personnel in an area where civilian medical services are disrupted by reason of combat activity.
 
-     3.    The Occupying Power shall afford civilian medical personnel in occupied territories every assistance to enable them to perform, to the best of their ability, their humanitarian functions. The Occupying Power may not require that, in the performance of those functions, such personnel shall give priority to the treatment of any person except on medical grounds. They shall not be compelled to carry out tasks which are not compatible with their humanitarian mission.
+     3.     The Occupying Power shall afford civilian medical personnel in occupied territories every assistance to enable them to perform, to the best of their ability, their humanitarian functions. The Occupying Power may not require that, in the performance of those functions, such personnel shall give priority to the treatment of any person except on medical grounds. They shall not be compelled to carry out tasks which are not compatible with their humanitarian mission.
 
-     4.    Civilian medical personnel shall have access to any place where their services are essential, subject to such supervisory and safety measures as the relevant Party to the conflict may deem necessary.
+     4.     Civilian medical personnel shall have access to any place where their services are essential, subject to such supervisory and safety measures as the relevant Party to the conflict may deem necessary.
 
-     5.    Civilian religious personnel shall be respected and protected. The provisions of the Conventions and of this Protocol concerning the protection and identification of medical personnel shall apply equally to such persons.
+     5.     Civilian religious personnel shall be respected and protected. The provisions of the Conventions and of this Protocol concerning the protection and identification of medical personnel shall apply equally to such persons.
 
 _Article 16—General protection of medical duties_
 
-     1.    Under no circumstances shall any person be punished for carrying out medical activities compatible with medical ethics, regardless of the person benefiting therefrom.
+     1.     Under no circumstances shall any person be punished for carrying out medical activities compatible with medical ethics, regardless of the person benefiting therefrom.
 
-     2.    Persons engaged in medical activities shall not be compelled to perform acts or to carry out work contrary to the rules of medical ethics or to other medical rules designed for the benefit of the wounded and sick or to the provisions of the Conventions or of this Protocol, or to refrain from performing acts or from carrying out work required by those rules and provisions.
+     2.     Persons engaged in medical activities shall not be compelled to perform acts or to carry out work contrary to the rules of medical ethics or to other medical rules designed for the benefit of the wounded and sick or to the provisions of the Conventions or of this Protocol, or to refrain from performing acts or from carrying out work required by those rules and provisions.
 
-     3.    No person engaged in medical activities shall be compelled to give to anyone belonging either to an adverse Party, or to his own Party except as required by the law of the latter Party, any information concerning the wounded and sick who are, or who have been, under his care, if such information would, in his opinion, prove harmful to the patients concerned or to their families. Regulations for the compulsory notification of communicable diseases shall, however, be respected.
+     3.     No person engaged in medical activities shall be compelled to give to anyone belonging either to an adverse Party, or to his own Party except as required by the law of the latter Party, any information concerning the wounded and sick who are, or who have been, under his care, if such information would, in his opinion, prove harmful to the patients concerned or to their families. Regulations for the compulsory notification of communicable diseases shall, however, be respected.
 
 _Article 17—Role of the civilian population and of aid societies_
 
-     1.    The civilian population shall respect the wounded, sick and shipwrecked, even if they belong to the adverse Party, and shall commit no act of violence against them. The civilian population and aid societies, such as national Red Cross (Red Crescent, Red Lion and Sun) Societies, shall be permitted, even on their own initiative, to collect and care for the wounded, sick and shipwrecked, even in invaded or occupied areas. No one shall be harmed, prosecuted, convicted or punished for such humanitarian acts.
+     1.     The civilian population shall respect the wounded, sick and shipwrecked, even if they belong to the adverse Party, and shall commit no act of violence against them. The civilian population and aid societies, such as national Red Cross (Red Crescent, Red Lion and Sun) Societies, shall be permitted, even on their own initiative, to collect and care for the wounded, sick and shipwrecked, even in invaded or occupied areas. No one shall be harmed, prosecuted, convicted or punished for such humanitarian acts.
 
-     2.    The Parties to the conflict may appeal to the civilian population and the aid societies referred to in paragraph 1 to collect and care for the wounded, sick and shipwrecked, and to search for the dead and report their location; they shall grant both protection and the necessary facilities to those who respond to this appeal. If the adverse Party gains or regains control of the area, that Party also shall afford the same protection and facilities for so long as they are needed.
+     2.     The Parties to the conflict may appeal to the civilian population and the aid societies referred to in paragraph 1 to collect and care for the wounded, sick and shipwrecked, and to search for the dead and report their location; they shall grant both protection and the necessary facilities to those who respond to this appeal. If the adverse Party gains or regains control of the area, that Party also shall afford the same protection and facilities for so long as they are needed.
 
 _Article 18—Identification_
 
-     1.    Each Party to the conflict shall endeavour to ensure that medical and religious personnel and medical units and transports are identifiable.
+     1.     Each Party to the conflict shall endeavour to ensure that medical and religious personnel and medical units and transports are identifiable.
 
-     2.    Each Party to the conflict shall also endeavour to adopt and to implement methods and procedures which will make it possible to recognize medical units and transports which use the distinctive emblem and distinctive signals.
+     2.     Each Party to the conflict shall also endeavour to adopt and to implement methods and procedures which will make it possible to recognize medical units and transports which use the distinctive emblem and distinctive signals.
 
-     3.    In occupied territory and in areas where fighting is taking place or is likely to take place, civilian medical personnel and civilian religious personnel should be recognizable by the distinctive emblem and an identity card certifying their status.
+     3.     In occupied territory and in areas where fighting is taking place or is likely to take place, civilian medical personnel and civilian religious personnel should be recognizable by the distinctive emblem and an identity card certifying their status.
 
-     4.    With the consent of the competent authority, medical units and transports shall be marked by the distinctive emblem. The ships and craft referred to in Article 22 of this Protocol shall be marked in accordance with the provisions of the Second Convention.
+     4.     With the consent of the competent authority, medical units and transports shall be marked by the distinctive emblem. The ships and craft referred to in Article 22 of this Protocol shall be marked in accordance with the provisions of the Second Convention.
 
-     5.    In addition to the distinctive emblem, a Party to the conflict may, as provided in Chapter III of Annex I to this Protocol, authorize the use of distinctive signals to identify medical units and transports. Exceptionally, in the special cases covered in that Chapter, medical transports may use distinctive signals without displaying the distinctive emblem.
+     5.     In addition to the distinctive emblem, a Party to the conflict may, as provided in Chapter III of Annex I to this Protocol, authorize the use of distinctive signals to identify medical units and transports. Exceptionally, in the special cases covered in that Chapter, medical transports may use distinctive signals without displaying the distinctive emblem.
 
-     6.    The application of the provisions of paragraphs 1 to 5 of this Article is governed by Chapters I to III of Annex I to this Protocol. Signals designated in Chapter III of the Annex for the exclusive use of medical units and transports shall not, except as provided therein, be used for any purpose other than to identify the medical units and transports specified in that Chapter.
+     6.     The application of the provisions of paragraphs 1 to 5 of this Article is governed by Chapters I to III of Annex I to this Protocol. Signals designated in Chapter III of the Annex for the exclusive use of medical units and transports shall not, except as provided therein, be used for any purpose other than to identify the medical units and transports specified in that Chapter.
 
-     7.    This Article does not authorize any wider use of the distinctive emblem in peacetime than is prescribed in Article 44 of the First Convention.
+     7.     This Article does not authorize any wider use of the distinctive emblem in peacetime than is prescribed in Article 44 of the First Convention.
 
-     8.    The provisions of the Conventions and of this Protocol relating to supervision of the use of the distinctive emblem and to the prevention and repression of any misuse thereof shall be applicable to distinctive signals.
+     8.     The provisions of the Conventions and of this Protocol relating to supervision of the use of the distinctive emblem and to the prevention and repression of any misuse thereof shall be applicable to distinctive signals.
 
 _Article 19—Neutral and other States not Parties to the conflict_
 
@@ -4100,7 +4088,7 @@ _Article 21—Medical vehicles_
 
 _Article 22—Hospital ships and coastal rescue craft_
 
-     1.    The provisions of the Conventions relating to:
+     1.     The provisions of the Conventions relating to:
 
      (_a_)   vessels described in Articles 22, 24, 25 and 27 of the Second Convention,
 
@@ -4112,7 +4100,7 @@ _Article 22—Hospital ships and coastal rescue craft_
 
 shall also apply where these vessels carry civilian wounded, sick and shipwrecked who do not belong to any of the categories mentioned in Article 13 of the Second Convention. Such civilians shall not, however, be subject to surrender to any Party which is not their own, or to capture at sea. If they find themselves in the power of a Party to the conflict other than their own they shall be covered by the Fourth Convention and by this Protocol.
 
-     2.    The protection provided by the Conventions to vessels described in Article 25 of the Second Convention shall extend to hospital ships made available for humanitarian purposes to a Party to the conflict:
+     2.     The protection provided by the Conventions to vessels described in Article 25 of the Second Convention shall extend to hospital ships made available for humanitarian purposes to a Party to the conflict:
 
      (_a_)   by a neutral or other State which is not a Party to that conflict; or
 
@@ -4120,21 +4108,21 @@ shall also apply where these vessels carry civilian wounded, sick and shipwrecke
 
 provided that, in either case, the requirements set out in that Article are complied with.
 
-     3.    Small craft described in Article 27 of the Second Convention shall be protected even if the notification envisaged by that Article has not been made. The Parties to the conflict are, nevertheless, invited to inform each other of any details of such craft which will facilitate their identification and recognition.
+     3.     Small craft described in Article 27 of the Second Convention shall be protected even if the notification envisaged by that Article has not been made. The Parties to the conflict are, nevertheless, invited to inform each other of any details of such craft which will facilitate their identification and recognition.
 
 _Article 23—Other medical ships and craft_
 
-     1.    Medical ships and craft other than those referred to in Article 22 of this Protocol and Article 38 of the Second Convention shall, whether at sea or in other waters, be respected and protected in the same way as mobile medical units under the Conventions and this Protocol. Since this protection can only be effective if they can be identified and recognized as medical ships or craft, such vessels should be marked with the distinctive emblem and as far as possible comply with the second paragraph of Article 43 of the Second Convention.
+     1.     Medical ships and craft other than those referred to in Article 22 of this Protocol and Article 38 of the Second Convention shall, whether at sea or in other waters, be respected and protected in the same way as mobile medical units under the Conventions and this Protocol. Since this protection can only be effective if they can be identified and recognized as medical ships or craft, such vessels should be marked with the distinctive emblem and as far as possible comply with the second paragraph of Article 43 of the Second Convention.
 
-     2.    The ships and craft referred to in paragraph 1 shall remain subject to the laws of war. Any warship on the surface able immediately to enforce its command may order them to stop, order them off, or make them take a certain course, and they shall obey every such command. Such ships and craft may not in any other way be diverted from their medical mission so long as they are needed for the wounded, sick and shipwrecked on board.
+     2.     The ships and craft referred to in paragraph 1 shall remain subject to the laws of war. Any warship on the surface able immediately to enforce its command may order them to stop, order them off, or make them take a certain course, and they shall obey every such command. Such ships and craft may not in any other way be diverted from their medical mission so long as they are needed for the wounded, sick and shipwrecked on board.
 
-     3.    The protection provided in paragraph 1 shall cease only under the conditions set out in Articles 34 and 35 of the Second Convention. A clear refusal to obey a command given in accordance with paragraph 2 shall be an act harmful to the enemy under Article 34 of the Second Convention.
+     3.     The protection provided in paragraph 1 shall cease only under the conditions set out in Articles 34 and 35 of the Second Convention. A clear refusal to obey a command given in accordance with paragraph 2 shall be an act harmful to the enemy under Article 34 of the Second Convention.
 
-     4.    A Party to the conflict may notify any adverse Party as far in advance of sailing as possible of the name, description, expected time of sailing, course and estimated speed of the medical ship or craft, particularly in the case of ships of over 2,000 gross tons, and may provide any other information which would facilitate identification and recognition. The adverse Party shall acknowledge receipt of such information.
+     4.     A Party to the conflict may notify any adverse Party as far in advance of sailing as possible of the name, description, expected time of sailing, course and estimated speed of the medical ship or craft, particularly in the case of ships of over 2,000 gross tons, and may provide any other information which would facilitate identification and recognition. The adverse Party shall acknowledge receipt of such information.
 
-     5.    The provisions of Article 37 of the Second Convention shall apply to medical and religious personnel in such ships and craft.
+     5.     The provisions of Article 37 of the Second Convention shall apply to medical and religious personnel in such ships and craft.
 
-     6.    The provisions of the Second Convention shall apply to the wounded, sick and shipwrecked belonging to the categories referred to in Article 13 of the Second Convention and in Article 44 of this Protocol who may be on board such medical ships and craft. Wounded, sick and shipwrecked civilians who do not belong to any of the categories mentioned in Article 13 of the Second Convention shall not be subject, at sea, either to surrender to any Party which is not their own, or to removal from such ships or craft; if they find themselves in the power of a Party to the conflict other than their own, they shall be covered by the Fourth Convention and by this Protocol.
+     6.     The provisions of the Second Convention shall apply to the wounded, sick and shipwrecked belonging to the categories referred to in Article 13 of the Second Convention and in Article 44 of this Protocol who may be on board such medical ships and craft. Wounded, sick and shipwrecked civilians who do not belong to any of the categories mentioned in Article 13 of the Second Convention shall not be subject, at sea, either to surrender to any Party which is not their own, or to removal from such ships or craft; if they find themselves in the power of a Party to the conflict other than their own, they shall be covered by the Fourth Convention and by this Protocol.
 
 _Article 24—Protection of medical aircraft_
 
@@ -4142,37 +4130,37 @@ _Article 24—Protection of medical aircraft_
 
 _Article 25—Medical aircraft in areas not controlled by an adverse Party_
 
-     In and over land areas physically controlled by friendly forces, or in and over sea areas not physically controlled by an adverse Party, the respect and protection of medical aircraft of a Party to the conflict is not dependent on any agreement with an adverse Party. For greater safety, however, a Party to the conflict operating its medical aircraft in these areas may notify the adverse Party, as provided in Article 29, in particular when such aircraft are making flights bringing them within range of surface‑to‑air weapons systems of the adverse Party.
+     In and over land areas physically controlled by friendly forces, or in and over sea areas not physically controlled by an adverse Party, the respect and protection of medical aircraft of a Party to the conflict is not dependent on any agreement with an adverse Party. For greater safety, however, a Party to the conflict operating its medical aircraft in these areas may notify the adverse Party, as provided in Article 29, in particular when such aircraft are making flights bringing them within range of surface-to-air weapons systems of the adverse Party.
 
 _Article 26—Medical aircraft in contact or similar zones_
 
-     1.    In and over those parts of the contact zone which are physically controlled by friendly forces and in and over those areas the physical control of which is not clearly established, protection for medical aircraft can be fully effective only by prior agreement between the competent military authorities of the Parties to the conflict, as provided for in Article 29\. Although, in the absence of such an agreement, medical aircraft operate at their own risk, they shall nevertheless be respected after they have been recognized as such.
+     1.     In and over those parts of the contact zone which are physically controlled by friendly forces and in and over those areas the physical control of which is not clearly established, protection for medical aircraft can be fully effective only by prior agreement between the competent military authorities of the Parties to the conflict, as provided for in Article 29\. Although, in the absence of such an agreement, medical aircraft operate at their own risk, they shall nevertheless be respected after they have been recognized as such.
 
-     2.    “Contact zone” means any area on land where the forward elements of opposing forces are in contact with each other, especially where they are exposed to direct fire from the ground.
+     2.     “Contact zone” means any area on land where the forward elements of opposing forces are in contact with each other, especially where they are exposed to direct fire from the ground.
 
 _Article 27—Medical aircraft in areas controlled by an adverse Party_
 
-     1.    The medical aircraft of a Party to the conflict shall continue to be protected while flying over land or sea areas physically controlled by an adverse Party, provided that prior agreement to such flights has been obtained from the competent authority of that adverse Party.
+     1.     The medical aircraft of a Party to the conflict shall continue to be protected while flying over land or sea areas physically controlled by an adverse Party, provided that prior agreement to such flights has been obtained from the competent authority of that adverse Party.
 
-     2.    A medical aircraft which flies over an area physically controlled by an adverse Party without, or in deviation from the terms of, an agreement provided for in paragraph 1, either through navigational error or because of an emergency affecting the safety of the flight, shall make every effort to identify itself and to inform the adverse Party of the circumstances. As soon as such medical aircraft has been recognized by the adverse Party, that Party shall make all reasonable efforts to give the order to land or to alight on water, referred to in Article 30, paragraph 1, or to take other measures to safeguard its own interests, and, in either case, to allow the aircraft time for compliance, before resorting to an attack against the aircraft.
+     2.     A medical aircraft which flies over an area physically controlled by an adverse Party without, or in deviation from the terms of, an agreement provided for in paragraph 1, either through navigational error or because of an emergency affecting the safety of the flight, shall make every effort to identify itself and to inform the adverse Party of the circumstances. As soon as such medical aircraft has been recognized by the adverse Party, that Party shall make all reasonable efforts to give the order to land or to alight on water, referred to in Article 30, paragraph 1, or to take other measures to safeguard its own interests, and, in either case, to allow the aircraft time for compliance, before resorting to an attack against the aircraft.
 
 _Article 28—Restrictions on operations of medical aircraft_
 
-     1.    The Parties to the conflict are prohibited from using their medical aircraft to attempt to acquire any military advantage over an adverse Party. The presence of medical aircraft shall not be used in an attempt to render military objectives immune from attack.
+     1.     The Parties to the conflict are prohibited from using their medical aircraft to attempt to acquire any military advantage over an adverse Party. The presence of medical aircraft shall not be used in an attempt to render military objectives immune from attack.
 
-     2.    Medical aircraft shall not be used to collect or transmit intelligence data and shall not carry any equipment intended for such purposes. They are prohibited from carrying any persons or cargo not included within the definition in Article 8, sub‑paragraph (_f_). The carrying on board of the personal effects of the occupants or of equipment intended solely to facilitate navigation, communication or identification shall not be considered as prohibited.
+     2.     Medical aircraft shall not be used to collect or transmit intelligence data and shall not carry any equipment intended for such purposes. They are prohibited from carrying any persons or cargo not included within the definition in Article 8, sub-paragraph (_f_). The carrying on board of the personal effects of the occupants or of equipment intended solely to facilitate navigation, communication or identification shall not be considered as prohibited.
 
-     3.    Medical aircraft shall not carry any armament except small‑arms and ammunition taken from the wounded, sick and shipwrecked on board and not yet handed to the proper service, and such light individual weapons as may be necessary to enable the medical personnel on board to defend themselves and the wounded, sick and shipwrecked in their charge.
+     3.     Medical aircraft shall not carry any armament except small-arms and ammunition taken from the wounded, sick and shipwrecked on board and not yet handed to the proper service, and such light individual weapons as may be necessary to enable the medical personnel on board to defend themselves and the wounded, sick and shipwrecked in their charge.
 
-     4.    While carrying out the flights referred to in Articles 26 and 27, medical aircraft shall not, except by prior agreement with the adverse Party, be used to search for the wounded, sick and shipwrecked.
+     4.     While carrying out the flights referred to in Articles 26 and 27, medical aircraft shall not, except by prior agreement with the adverse Party, be used to search for the wounded, sick and shipwrecked.
 
 _Article 29—Notifications and agreements concerning medical aircraft_
 
-     1.    Notifications under Article 25, or requests for prior agreement under Articles 26, 27, 28 (paragraph 4), or 31 shall state the proposed number of medical aircraft, their flight plans and means of identification, and shall be understood to mean that every flight will be carried out in compliance with Article 28.
+     1.     Notifications under Article 25, or requests for prior agreement under Articles 26, 27, 28 (paragraph 4), or 31 shall state the proposed number of medical aircraft, their flight plans and means of identification, and shall be understood to mean that every flight will be carried out in compliance with Article 28.
 
-     2.    A Party which receives a notification given under Article 25 shall at once acknowledge receipt of such notification.
+     2.     A Party which receives a notification given under Article 25 shall at once acknowledge receipt of such notification.
 
-     3.    A Party which receives a request for prior agreement under Articles 26, 27, 28 (paragraph 4), or 31 shall, as rapidly as possible, notify the requesting Party:
+     3.     A Party which receives a request for prior agreement under Articles 26, 27, 28 (paragraph 4), or 31 shall, as rapidly as possible, notify the requesting Party:
 
      (_a_)   that the request is agreed to;
 
@@ -4180,19 +4168,19 @@ _Article 29—Notifications and agreements concerning medical aircraft_
 
      (_c_)   of reasonable alternative proposals to the request. It may also propose a prohibition or restriction of other flights in the area during the time involved. If the Party which submitted the request accepts the alternative proposals, it shall notify the other Party of such acceptance.
 
-     4.    The Parties shall take the necessary measures to ensure that notifications and agreements can be made rapidly.
+     4.     The Parties shall take the necessary measures to ensure that notifications and agreements can be made rapidly.
 
-     5.    The Parties shall also take the necessary measures to disseminate rapidly the substance of any such notifications and agreements to the military units concerned and shall instruct those units regarding the means of identification that will be used by the medical aircraft in question.
+     5.     The Parties shall also take the necessary measures to disseminate rapidly the substance of any such notifications and agreements to the military units concerned and shall instruct those units regarding the means of identification that will be used by the medical aircraft in question.
 
 _Article 30—Landing and inspection of medical aircraft_
 
-     1.    Medical aircraft flying over areas which are physically controlled by an adverse Party, or over areas the physical control of which is not clearly established, may be ordered to land or to alight on water, as appropriate, to permit inspection in accordance with the following paragraphs. Medical aircraft shall obey any such order.
+     1.     Medical aircraft flying over areas which are physically controlled by an adverse Party, or over areas the physical control of which is not clearly established, may be ordered to land or to alight on water, as appropriate, to permit inspection in accordance with the following paragraphs. Medical aircraft shall obey any such order.
 
-     2.    If such an aircraft lands or alights on water, whether ordered to do so or for other reasons, it may be subjected to inspection solely to determine the matters referred to in paragraphs 3 and 4\. Any such inspection shall be commenced without delay and shall be conducted expeditiously. The inspecting Party shall not require the wounded and sick to be removed from the aircraft unless their removal is essential for the inspection. That Party shall in any event ensure that the condition of the wounded and sick is not adversely affected by the inspection or by the removal.
+     2.     If such an aircraft lands or alights on water, whether ordered to do so or for other reasons, it may be subjected to inspection solely to determine the matters referred to in paragraphs 3 and 4\. Any such inspection shall be commenced without delay and shall be conducted expeditiously. The inspecting Party shall not require the wounded and sick to be removed from the aircraft unless their removal is essential for the inspection. That Party shall in any event ensure that the condition of the wounded and sick is not adversely affected by the inspection or by the removal.
 
-     3.    If the inspection discloses that the aircraft:
+     3.     If the inspection discloses that the aircraft:
 
-     (_a_)   is a medical aircraft within the meaning of Article 8, sub‑paragraph (_j_),
+     (_a_)   is a medical aircraft within the meaning of Article 8, sub-paragraph (_j_),
 
      (_b_)   is not in violation of the conditions prescribed in Article 28, and
 
@@ -4200,9 +4188,9 @@ _Article 30—Landing and inspection of medical aircraft_
 
 the aircraft and those of its occupants who belong to the adverse Party or to a neutral or other State not a Party to the conflict shall be authorized to continue the flight without delay.
 
-     4.    If the inspection discloses that the aircraft:
+     4.     If the inspection discloses that the aircraft:
 
-     (_a_)   is not a medical aircraft within the meaning of Article 8, sub‑paragraph (_f_),
+     (_a_)   is not a medical aircraft within the meaning of Article 8, sub-paragraph (_f_),
 
      (_b_)   is in violation of the conditions prescribed in Article 28, or
 
@@ -4212,15 +4200,15 @@ the aircraft may be seized. Its occupants shall be treated in conformity with th
 
 _Article 31—Neutral or other States not Parties to the conflict_
 
-     1.    Except by prior agreement, medical aircraft shall not fly over or land in the territory of a neutral or other State not a Party to the conflict. However, with such an agreement, they shall be respected throughout their flight and also for the duration of any calls in the territory. Nevertheless they shall obey any summons to land or to alight on water, as appropriate.
+     1.     Except by prior agreement, medical aircraft shall not fly over or land in the territory of a neutral or other State not a Party to the conflict. However, with such an agreement, they shall be respected throughout their flight and also for the duration of any calls in the territory. Nevertheless they shall obey any summons to land or to alight on water, as appropriate.
 
-     2.    Should a medical aircraft, in the absence of an agreement or in deviation from the terms of an agreement, fly over the territory of a neutral or other State not a Party to the conflict, either through navigational error or because of an emergency affecting the safety of the flight, it shall make every effort to give notice of the flight and to identify itself. As soon as such medical aircraft is recognized, that State shall make all reasonable efforts to give the order to land or to alight on water referred to in Article 30, paragraph 1, or to take other measures to safeguard its own interests, and, in either case, to allow the aircraft time for compliance, before resorting to an attack against the aircraft.
+     2.     Should a medical aircraft, in the absence of an agreement or in deviation from the terms of an agreement, fly over the territory of a neutral or other State not a Party to the conflict, either through navigational error or because of an emergency affecting the safety of the flight, it shall make every effort to give notice of the flight and to identify itself. As soon as such medical aircraft is recognized, that State shall make all reasonable efforts to give the order to land or to alight on water referred to in Article 30, paragraph 1, or to take other measures to safeguard its own interests, and, in either case, to allow the aircraft time for compliance, before resorting to an attack against the aircraft.
 
-     3.    If a medical aircraft, either by agreement or in the circumstances mentioned in paragraph 2, lands or alights on water in the territory of a neutral or other State not Party to the conflict, whether ordered to do so or for other reasons, the aircraft shall be subject to inspection for the purposes of determining whether it is in fact a medical aircraft. The inspection shall be commenced without delay and shall be conducted expeditiously. The inspecting Party shall not require the wounded and sick of the Party operating the aircraft to be removed from it unless their removal is essential for the inspection. The inspecting Party shall in any event ensure that the condition of the wounded and sick is not adversely affected by the inspection or the removal. If the inspection discloses that the aircraft is in fact a medical aircraft, the aircraft with its occupants, other than those who must be detained in accordance with the rules of international law applicable in armed conflict, shall be allowed to resume its flight, and reasonable facilities shall be given for the continuation of the flight. If the inspection discloses that the aircraft is not a medical aircraft, it shall be seized and the occupants treated in accordance with paragraph 4.
+     3.     If a medical aircraft, either by agreement or in the circumstances mentioned in paragraph 2, lands or alights on water in the territory of a neutral or other State not Party to the conflict, whether ordered to do so or for other reasons, the aircraft shall be subject to inspection for the purposes of determining whether it is in fact a medical aircraft. The inspection shall be commenced without delay and shall be conducted expeditiously. The inspecting Party shall not require the wounded and sick of the Party operating the aircraft to be removed from it unless their removal is essential for the inspection. The inspecting Party shall in any event ensure that the condition of the wounded and sick is not adversely affected by the inspection or the removal. If the inspection discloses that the aircraft is in fact a medical aircraft, the aircraft with its occupants, other than those who must be detained in accordance with the rules of international law applicable in armed conflict, shall be allowed to resume its flight, and reasonable facilities shall be given for the continuation of the flight. If the inspection discloses that the aircraft is not a medical aircraft, it shall be seized and the occupants treated in accordance with paragraph 4.
 
-     4.    The wounded, sick and shipwrecked disembarked, otherwise than temporarily, from a medical aircraft with the consent of the local authorities in the territory of a neutral or other State not a Party to the conflict shall, unless agreed otherwise between that State and the Parties to the conflict, be detained by that State where so required by the rules of international law applicable in armed conflict, in such a manner that they cannot again take part in the hostilities. The cost of hospital treatment and internment shall be borne by the State to which those persons belong.
+     4.     The wounded, sick and shipwrecked disembarked, otherwise than temporarily, from a medical aircraft with the consent of the local authorities in the territory of a neutral or other State not a Party to the conflict shall, unless agreed otherwise between that State and the Parties to the conflict, be detained by that State where so required by the rules of international law applicable in armed conflict, in such a manner that they cannot again take part in the hostilities. The cost of hospital treatment and internment shall be borne by the State to which those persons belong.
 
-     5.    Neutral or other States not Parties to the conflict shall apply any conditions and restrictions on the passage of medical aircraft over, or on the landing of medical aircraft in, their territory equally to all Parties to the conflict.
+     5.     Neutral or other States not Parties to the conflict shall apply any conditions and restrictions on the passage of medical aircraft over, or on the landing of medical aircraft in, their territory equally to all Parties to the conflict.
 
 SECTION III
 
@@ -4232,23 +4220,23 @@ _Article 32—General principle_
 
 _Article 33—Missing persons_
 
-     1.    As soon as circumstances permit, and at the latest from the end of active hostilities, each Party to the conflict shall search for the persons who have been reported missing by an adverse Party. Such adverse Party shall transmit all relevant information concerning such persons in order to facilitate such searches.
+     1.     As soon as circumstances permit, and at the latest from the end of active hostilities, each Party to the conflict shall search for the persons who have been reported missing by an adverse Party. Such adverse Party shall transmit all relevant information concerning such persons in order to facilitate such searches.
 
-     2.    In order to facilitate the gathering of information pursuant to the preceding paragraph, each Party to the conflict shall, with respect to persons who would not receive more favourable consideration under the Conventions and this Protocol:
+     2.     In order to facilitate the gathering of information pursuant to the preceding paragraph, each Party to the conflict shall, with respect to persons who would not receive more favourable consideration under the Conventions and this Protocol:
 
      (_a_)   record the information specified in Article 138 of the Fourth Convention in respect of such persons who have been detained, imprisoned or otherwise held in captivity for more than two weeks as a result of hostilities or occupation, or who have died during any period of detention;
 
      (_b_)   to the fullest extent possible, facilitate and, if need be, carry out the search for and the recording of information concerning such persons if they have died in other circumstances as a result of hostilities or occupation.
 
-     3.    Information concerning persons reported missing pursuant to paragraph 1 and requests for such information shall be transmitted either directly or through the Protecting Power or the Central Tracing Agency of the International Committee of the Red Cross or national Red Cross (Red Crescent, Red Lion and Sun) Societies. Where the information is not transmitted through the International Committee of the Red Cross and its Central Tracing Agency, each Party to the conflict shall ensure that such information is also supplied to the Central Tracing Agency.
+     3.     Information concerning persons reported missing pursuant to paragraph 1 and requests for such information shall be transmitted either directly or through the Protecting Power or the Central Tracing Agency of the International Committee of the Red Cross or national Red Cross (Red Crescent, Red Lion and Sun) Societies. Where the information is not transmitted through the International Committee of the Red Cross and its Central Tracing Agency, each Party to the conflict shall ensure that such information is also supplied to the Central Tracing Agency.
 
-     4.    The Parties to the conflict shall endeavour to agree on arrangements for teams to search for, identify and recover the dead from battlefield areas, including arrangements, if appropriate, for such teams to be accompanied by personnel of the adverse Party while carrying out these missions in areas controlled by the adverse Party. Personnel of such teams shall be respected and protected while exclusively carrying out these duties.
+     4.     The Parties to the conflict shall endeavour to agree on arrangements for teams to search for, identify and recover the dead from battlefield areas, including arrangements, if appropriate, for such teams to be accompanied by personnel of the adverse Party while carrying out these missions in areas controlled by the adverse Party. Personnel of such teams shall be respected and protected while exclusively carrying out these duties.
 
 _Article 34—Remains of deceased_
 
-     1.    The remains of persons who have died for reasons related to occupation or in detention resulting from occupation or hostilities and those of persons not nationals of the country in which they have died as a result of hostilities shall be respected, and the gravesites of all such persons shall be respected, maintained and marked as provided for in Article 130 of the Fourth Convention, where their remains or gravesites would not receive more favourable consideration under the Conventions and this Protocol.
+     1.     The remains of persons who have died for reasons related to occupation or in detention resulting from occupation or hostilities and those of persons not nationals of the country in which they have died as a result of hostilities shall be respected, and the gravesites of all such persons shall be respected, maintained and marked as provided for in Article 130 of the Fourth Convention, where their remains or gravesites would not receive more favourable consideration under the Conventions and this Protocol.
 
-     2.    As soon as circumstances and the relations between the adverse Parties permit, the High Contracting Parties in whose territories graves and, as the case may be, other locations of the remains of persons who have died as a result of hostilities or during occupation or in detention are situated, shall conclude agreements in order:
+     2.     As soon as circumstances and the relations between the adverse Parties permit, the High Contracting Parties in whose territories graves and, as the case may be, other locations of the remains of persons who have died as a result of hostilities or during occupation or in detention are situated, shall conclude agreements in order:
 
      (_a_)   to facilitate access to the gravesites by relatives of the deceased and by representatives of official graves registration services and to regulate the practical arrangements for such access;
 
@@ -4256,9 +4244,9 @@ _Article 34—Remains of deceased_
 
      (_c_)   to facilitate the return of the remains of the deceased and of personal effects to the home country upon its request or, unless that country objects, upon the request of the next of kin.
 
-     3.    In the absence of the agreements provided for in paragraph 2 (_b_) or (_c_) and if the home country of such deceased is not willing to arrange at its expense for the maintenance of such gravesites, the High Contracting Party in whose territory the gravesites are situated may offer to facilitate the return of the remains of the deceased to the home country. Where such an offer has not been accepted the High Contacting Party may, after the expiry of five years from the date of the offer and upon due notice to the home country, adopt the arrangements laid down in its own laws relating to cemeteries and graves.
+     3.     In the absence of the agreements provided for in paragraph 2 (_b_) or (_c_) and if the home country of such deceased is not willing to arrange at its expense for the maintenance of such gravesites, the High Contracting Party in whose territory the gravesites are situated may offer to facilitate the return of the remains of the deceased to the home country. Where such an offer has not been accepted the High Contacting Party may, after the expiry of five years from the date of the offer and upon due notice to the home country, adopt the arrangements laid down in its own laws relating to cemeteries and graves.
 
-     4.    A High Contracting Party in whose territory the gravesites referred to in this Article are situated shall be permitted to exhume the remains only:
+     4.     A High Contracting Party in whose territory the gravesites referred to in this Article are situated shall be permitted to exhume the remains only:
 
      (_a_)   in accordance with paragraphs 2 (_c_) and 3, or
 
@@ -4266,7 +4254,7 @@ _Article 34—Remains of deceased_
 
 **PART III**
 
-METHODS AND MEANS OF WARFARE COMBATANT AND PRISONER‑OF‑WAR STATUS
+METHODS AND MEANS OF WARFARE COMBATANT AND PRISONER-OF-WAR STATUS
 
 SECTION I
 
@@ -4274,11 +4262,11 @@ METHODS AND MEANS OF WARFARE
 
 _Article 35—Basic rules_
 
-     1.    In any armed conflict, the right of the Parties to the conflict to choose methods or means of warfare is not unlimited.
+     1.     In any armed conflict, the right of the Parties to the conflict to choose methods or means of warfare is not unlimited.
 
-     2.    It is prohibited to employ weapons, projectiles and material and methods of warfare of a nature to cause superfluous injury or unnecessary suffering.
+     2.     It is prohibited to employ weapons, projectiles and material and methods of warfare of a nature to cause superfluous injury or unnecessary suffering.
 
-     3.    It is prohibited to employ methods or means of warfare which are intended, or may be expected, to cause widespread, long‑term and severe damage to the natural environment.
+     3.     It is prohibited to employ methods or means of warfare which are intended, or may be expected, to cause widespread, long-term and severe damage to the natural environment.
 
 _Article 36—New weapons_
 
@@ -4286,31 +4274,31 @@ _Article 36—New weapons_
 
 _Article 37—Prohibition of perfidy_
 
-     1.    It is prohibited to kill, injure or capture an adversary by resort to perfidy. Acts inviting the confidence of an adversary to lead him to believe that he is entitled to, or is obliged to accord, protection under the rules of international law applicable in armed conflict, with intent to betray that confidence, shall constitute perfidy. The following acts are examples of perfidy:
+     1.     It is prohibited to kill, injure or capture an adversary by resort to perfidy. Acts inviting the confidence of an adversary to lead him to believe that he is entitled to, or is obliged to accord, protection under the rules of international law applicable in armed conflict, with intent to betray that confidence, shall constitute perfidy. The following acts are examples of perfidy:
 
      (_a_)   the feigning of an intent to negotiate under a flag of truce or of a surrender;
 
      (_b_)   the feigning of an incapacitation by wounds or sickness;
 
-     (_c_)   the feigning of civilian, non‑combatant status; and
+     (_c_)   the feigning of civilian, non-combatant status; and
 
      (_d_)   the feigning of protected status by the use of signs, emblems or uniforms of the United Nations or of neutral or other States not Parties to the conflict.
 
-     2.    Ruses of war are not prohibited. Such ruses are acts which are intended to mislead an adversary or to induce him to act recklessly but which infringe no rule of international law applicable in armed conflict and which are not perfidious because they do not invite the confidence of an adversary with respect to protection under that law. The following are examples of such ruses: the use of camouflage, decoys, mock operations and misinformation.
+     2.     Ruses of war are not prohibited. Such ruses are acts which are intended to mislead an adversary or to induce him to act recklessly but which infringe no rule of international law applicable in armed conflict and which are not perfidious because they do not invite the confidence of an adversary with respect to protection under that law. The following are examples of such ruses: the use of camouflage, decoys, mock operations and misinformation.
 
 _Article 38—Recognized emblems_
 
-     1.    It is prohibited to make improper use of the distinctive emblem of the red cross, red crescent or red lion and sun or of other emblems, signs or signals provided for by the Conventions or by this Protocol. It is also prohibited to misuse deliberately in an armed conflict other internationally recognized protective emblems, signs or signals, including the flag of truce, and the protective emblem of cultural property.
+     1.     It is prohibited to make improper use of the distinctive emblem of the red cross, red crescent or red lion and sun or of other emblems, signs or signals provided for by the Conventions or by this Protocol. It is also prohibited to misuse deliberately in an armed conflict other internationally recognized protective emblems, signs or signals, including the flag of truce, and the protective emblem of cultural property.
 
-     2.    It is prohibited to make use of the distinctive emblem of the United Nations, except as authorized by that Organization.
+     2.     It is prohibited to make use of the distinctive emblem of the United Nations, except as authorized by that Organization.
 
 _Article 39—Emblems of nationality_
 
-     1.    It is prohibited to make use in an armed conflict of the flags or military emblems, insignia or uniforms of neutral or other States not Parties to the conflict.
+     1.     It is prohibited to make use in an armed conflict of the flags or military emblems, insignia or uniforms of neutral or other States not Parties to the conflict.
 
-     2.    It is prohibited to make use of the flags or military emblems, insignia or uniforms of adverse Parties while engaging in attacks or in order to shield, favour, protect or impede military operations.
+     2.     It is prohibited to make use of the flags or military emblems, insignia or uniforms of adverse Parties while engaging in attacks or in order to shield, favour, protect or impede military operations.
 
-     3.    Nothing in this Article or in Article 37, paragraph 1 (_d_), shall affect the existing generally recognized rules of international law applicable to espionage or to the use of flags in the conduct of armed conflict at sea.
+     3.     Nothing in this Article or in Article 37, paragraph 1 (_d_), shall affect the existing generally recognized rules of international law applicable to espionage or to the use of flags in the conduct of armed conflict at sea.
 
 _Article 40—Quarter_
 
@@ -4318,9 +4306,9 @@ _Article 40—Quarter_
 
 _Article 41—Safeguard of an enemy hors de combat_
 
-     1.    A person who is recognized or who, in the circumstances, should be recognized to be _hors de combat_ shall not be made the object of attack.
+     1.     A person who is recognized or who, in the circumstances, should be recognized to be _hors de combat_ shall not be made the object of attack.
 
-     2.    A person is _hors de combat_ if:
+     2.     A person is _hors de combat_ if:
 
      (_a_)   he is in the power of an adverse Party;
 
@@ -4330,35 +4318,35 @@ _Article 41—Safeguard of an enemy hors de combat_
 
 provided that in any of these cases he abstains from any hostile act and does not attempt to escape.
 
-     3.    When persons entitled to protection as prisoners of war have fallen into the power of an adverse Party under unusual conditions of combat which prevent their evacuation as provided for in Part III, Section I, of the Third Convention, they shall be released and all feasible precautions shall be taken to ensure their safety.
+     3.     When persons entitled to protection as prisoners of war have fallen into the power of an adverse Party under unusual conditions of combat which prevent their evacuation as provided for in Part III, Section I, of the Third Convention, they shall be released and all feasible precautions shall be taken to ensure their safety.
 
 _Article 42—Occupants of aircraft_
 
-     1.    No person parachuting from an aircraft in distress shall be made the object of attack during his descent.
+     1.     No person parachuting from an aircraft in distress shall be made the object of attack during his descent.
 
-     2.    Upon reaching the ground in territory controlled by an adverse Party, a person who has parachuted from an aircraft in distress shall be given an opportunity to surrender before being made the object of attack, unless it is apparent that he is engaging in a hostile act.
+     2.     Upon reaching the ground in territory controlled by an adverse Party, a person who has parachuted from an aircraft in distress shall be given an opportunity to surrender before being made the object of attack, unless it is apparent that he is engaging in a hostile act.
 
-     3.    Airborne troops are not protected by this Article.
+     3.     Airborne troops are not protected by this Article.
 
 SECTION II
 
-COMBATANT AND PRISONER‑OF‑WAR STATUS
+COMBATANT AND PRISONER-OF-WAR STATUS
 
 _Article 43—Armed forces_
 
-     1.    The armed forces of a Party to a conflict consist of all organized armed forces, groups and units which are under a command responsible to that Party for the conduct of its subordinates, even if that Party is represented by a government or an authority not recognized by an adverse Party. Such armed forces shall be subject to an internal disciplinary system which, _inter alia_, shall enforce compliance with the rules of international law applicable in armed conflict.
+     1.     The armed forces of a Party to a conflict consist of all organized armed forces, groups and units which are under a command responsible to that Party for the conduct of its subordinates, even if that Party is represented by a government or an authority not recognized by an adverse Party. Such armed forces shall be subject to an internal disciplinary system which, _inter alia_, shall enforce compliance with the rules of international law applicable in armed conflict.
 
-     2.    Members of the armed forces of a Party to a conflict (other than medical personnel and chaplains covered by Article 33 of the Third Convention) are combatants, that is to say, they have the right to participate directly in hostilities.
+     2.     Members of the armed forces of a Party to a conflict (other than medical personnel and chaplains covered by Article 33 of the Third Convention) are combatants, that is to say, they have the right to participate directly in hostilities.
 
-     3.    Whenever a Party to a conflict incorporates a paramilitary or armed law inforcement agency into its armed forces it shall so notify the other Parties to the conflict.
+     3.     Whenever a Party to a conflict incorporates a paramilitary or armed law inforcement agency into its armed forces it shall so notify the other Parties to the conflict.
 
 _Article 44—Combatants and prisoners of war_
 
-     1.    Any combatant, as defined in Article 43, who falls into the power of an adverse Party shall be a prisoner of war.
+     1.     Any combatant, as defined in Article 43, who falls into the power of an adverse Party shall be a prisoner of war.
 
-     2.    While all combatants are obliged to comply with the rules of international law applicable in armed conflict, violations of these rules shall not deprive a combatant of his right to be a combatant or, if he falls into the power of an adverse Party, of his right to be a prisoner of war, except as provided in paragraphs 3 and 4.
+     2.     While all combatants are obliged to comply with the rules of international law applicable in armed conflict, violations of these rules shall not deprive a combatant of his right to be a combatant or, if he falls into the power of an adverse Party, of his right to be a prisoner of war, except as provided in paragraphs 3 and 4.
 
-     3.    In order to promote the protection of the civilian population from the effects of hostilities, combatants are obliged to distinguish themselves from the civilian population while they are engaged in an attack or in a military operation preparatory to an attack. Recognizing, however, that there are situations in armed conflicts where, owing to the nature of the hostilities an armed combatant cannot so distinguish himself, he shall retain his status as a combatant, provided that, in such situations, he carries his arms openly:
+     3.     In order to promote the protection of the civilian population from the effects of hostilities, combatants are obliged to distinguish themselves from the civilian population while they are engaged in an attack or in a military operation preparatory to an attack. Recognizing, however, that there are situations in armed conflicts where, owing to the nature of the hostilities an armed combatant cannot so distinguish himself, he shall retain his status as a combatant, provided that, in such situations, he carries his arms openly:
 
      (_a_)   during each military engagement, and
 
@@ -4366,39 +4354,39 @@ _Article 44—Combatants and prisoners of war_
 
 Acts which comply with the requirements of this paragraph shall not be considered as perfidious within the meaning of Article 37, paragraph 1 (_c_).
 
-     4.    A combatant who falls into the power of an adverse Party while failing to meet the requirements set forth in the second sentence of paragraph 3 shall forfeit his right to be a prisoner of war, but he shall, nevertheless, be given protections equivalent in all respects to those accorded to prisoners of war by the Third Convention and by this Protocol. This protection includes protections equivalent to those accorded to prisoners of war by the Third Convention in the case where such a person is tried and punished for any offences he has committed.
+     4.     A combatant who falls into the power of an adverse Party while failing to meet the requirements set forth in the second sentence of paragraph 3 shall forfeit his right to be a prisoner of war, but he shall, nevertheless, be given protections equivalent in all respects to those accorded to prisoners of war by the Third Convention and by this Protocol. This protection includes protections equivalent to those accorded to prisoners of war by the Third Convention in the case where such a person is tried and punished for any offences he has committed.
 
-     5.    Any combatant who falls into the power of an adverse Party while not engaged in an attack or in a military operation preparatory to an attack shall not forfeit his rights to be a combatant and a prisoner of war by virtue of his prior activities.
+     5.     Any combatant who falls into the power of an adverse Party while not engaged in an attack or in a military operation preparatory to an attack shall not forfeit his rights to be a combatant and a prisoner of war by virtue of his prior activities.
 
-     6.    This Article is without prejudice to the right of any person to be a prisoner of war pursuant to Article 4 of the Third Convention.
+     6.     This Article is without prejudice to the right of any person to be a prisoner of war pursuant to Article 4 of the Third Convention.
 
-     7.    This Article is not intended to change the generally accepted practice of States with respect to the wearing of the uniform by combatants assigned to the regular, uniformed armed units of a Party to the conflict.
+     7.     This Article is not intended to change the generally accepted practice of States with respect to the wearing of the uniform by combatants assigned to the regular, uniformed armed units of a Party to the conflict.
 
-     8.    In addition to the categories of persons mentioned in Article 13 of the First and Second Conventions, all members of the armed forces of a Party to the conflict, as defined in Article 43 of this Protocol, shall be entitled to protection under those Conventions if they are wounded or sick or, in the case of the Second Convention, shipwrecked at sea or in other waters.
+     8.     In addition to the categories of persons mentioned in Article 13 of the First and Second Conventions, all members of the armed forces of a Party to the conflict, as defined in Article 43 of this Protocol, shall be entitled to protection under those Conventions if they are wounded or sick or, in the case of the Second Convention, shipwrecked at sea or in other waters.
 
 _Article 45—Protection of persons who have taken part in hostilities_
 
-     1.    A person who takes part in hostilities and falls into the power of an adverse Party shall be presumed to be a prisoner of war, and therefore shall be protected by the Third Convention, if he claims the status of prisoner of war, or if he appears to be entitled to such status, or if the Party on which he depends claims such status on his behalf by notification to the detaining Power or to the Protecting Power. Should any doubt arise as to whether any such person is entitled to the status of prisoner of war, he shall continue to have such status and, therefore, to be protected by the Third Convention and this Protocol until such time as his status has been determined by a competent tribunal.
+     1.     A person who takes part in hostilities and falls into the power of an adverse Party shall be presumed to be a prisoner of war, and therefore shall be protected by the Third Convention, if he claims the status of prisoner of war, or if he appears to be entitled to such status, or if the Party on which he depends claims such status on his behalf by notification to the detaining Power or to the Protecting Power. Should any doubt arise as to whether any such person is entitled to the status of prisoner of war, he shall continue to have such status and, therefore, to be protected by the Third Convention and this Protocol until such time as his status has been determined by a competent tribunal.
 
-     2.    If a person who has fallen into the power of an adverse Party is not held as a prisoner of war and is to be tried by that Party for an offence arising out of the hostilities, he shall have the right to assert his entitlement to prisoner‑of‑war status before a judicial tribunal and to have that question adjudicated. Whenever possible under the applicable procedure, this adjudication shall occur before the trial for the offence. The representatives of the Protecting Power shall be entitled to attend the proceedings in which that question is adjudicated, unless, exceptionally, the proceedings are held _in camera_ in the interest of State security. In such a case the detaining Power shall advise the Protecting Power accordingly.
+     2.     If a person who has fallen into the power of an adverse Party is not held as a prisoner of war and is to be tried by that Party for an offence arising out of the hostilities, he shall have the right to assert his entitlement to prisoner-of-war status before a judicial tribunal and to have that question adjudicated. Whenever possible under the applicable procedure, this adjudication shall occur before the trial for the offence. The representatives of the Protecting Power shall be entitled to attend the proceedings in which that question is adjudicated, unless, exceptionally, the proceedings are held in camera in the interest of State security. In such a case the detaining Power shall advise the Protecting Power accordingly.
 
-     3.    Any person who has taken part in hostilities, who is not entitled to prisoner‑of‑war status and who does not benefit from more favourable treatment in accordance with the Fourth Convention shall have the right at all times to the protection of Article 75 of this Protocol. In occupied territory, any such person, unless he is held as a spy, shall also be entitled, notwithstanding Article 5 of the Fourth Convention, to his rights of communication under that Convention.
+     3.     Any person who has taken part in hostilities, who is not entitled to prisoner-of-war status and who does not benefit from more favourable treatment in accordance with the Fourth Convention shall have the right at all times to the protection of Article 75 of this Protocol. In occupied territory, any such person, unless he is held as a spy, shall also be entitled, notwithstanding Article 5 of the Fourth Convention, to his rights of communication under that Convention.
 
 _Article 46—Spies_
 
-     1.    Notwithstanding any other provision of the Conventions or of this Protocol, any member of the armed forces of a Party to the conflict who falls into the power of an adverse Party while engaging in espionage shall not have the right to the status of prisoner of war and may be treated as a spy.
+     1.     Notwithstanding any other provision of the Conventions or of this Protocol, any member of the armed forces of a Party to the conflict who falls into the power of an adverse Party while engaging in espionage shall not have the right to the status of prisoner of war and may be treated as a spy.
 
-     2.    A member of the armed forces of a Party to the conflict who, on behalf of that Party and in territory controlled by an adverse Party, gathers or attempts to gather information shall not be considered as engaging in espionage if, while so acting, he is in the uniform of his armed forces.
+     2.     A member of the armed forces of a Party to the conflict who, on behalf of that Party and in territory controlled by an adverse Party, gathers or attempts to gather information shall not be considered as engaging in espionage if, while so acting, he is in the uniform of his armed forces.
 
-     3.    A member of the armed forces of a Party to the conflict who is a resident of territory occupied by an adverse Party and who, on behalf of the Party on which he depends, gathers or attempts to gather information of military value within that territory shall not be considered as engaging in espionage unless he does so through an act of false pretences or deliberately in a clandestine manner. Moreover, such a resident shall not lose his right to the status of prisoner of war and may not be treated as a spy unless he is captured while engaging in espionage.
+     3.     A member of the armed forces of a Party to the conflict who is a resident of territory occupied by an adverse Party and who, on behalf of the Party on which he depends, gathers or attempts to gather information of military value within that territory shall not be considered as engaging in espionage unless he does so through an act of false pretences or deliberately in a clandestine manner. Moreover, such a resident shall not lose his right to the status of prisoner of war and may not be treated as a spy unless he is captured while engaging in espionage.
 
-     4.    A member of the armed forces of a Party to the conflict who is not a resident of territory occupied by an adverse Party and who has engaged in espionage in that territory shall not lose his right to the status of prisoner of war and may not be treated as a spy unless he is captured before he has rejoined the armed forces to which he belongs.
+     4.     A member of the armed forces of a Party to the conflict who is not a resident of territory occupied by an adverse Party and who has engaged in espionage in that territory shall not lose his right to the status of prisoner of war and may not be treated as a spy unless he is captured before he has rejoined the armed forces to which he belongs.
 
 _Article 47—Mercenaries_
 
-     1.    A mercenary shall not have the right to be a combatant or a prisoner of war.
+     1.     A mercenary shall not have the right to be a combatant or a prisoner of war.
 
-     2.    A mercenary is any person who:
+     2.     A mercenary is any person who:
 
      (_a_)   is specially recruited locally or abroad in order to fight in an armed conflict;
 
@@ -4410,7 +4398,7 @@ _Article 47—Mercenaries_
 
      (_e_)   is not a member of the armed forces of a Party to the conflict; and
 
-     (_f_)    has not been sent by a State which is not a Party to the conflict on official duty as a member of its armed forces.
+     (_f_)   has not been sent by a State which is not a Party to the conflict on official duty as a member of its armed forces.
 
 **PART IV**
 
@@ -4430,13 +4418,13 @@ _Article 48—Basic rule_
 
 _Article 49—Definition of attacks and scope of application_
 
-     1.    “Attacks” means acts of violence against the adversary, whether in offence of in defence.
+     1.     “Attacks” means acts of violence against the adversary, whether in offence of in defence.
 
-     2.    The provisions of this Protocol with respect to attacks apply to all attacks in whatever territory conducted, including the national territory belonging to a Party to the conflict but under the control of an adverse Party.
+     2.     The provisions of this Protocol with respect to attacks apply to all attacks in whatever territory conducted, including the national territory belonging to a Party to the conflict but under the control of an adverse Party.
 
-     3.    The provisions of this Section apply to any land, air or sea warfare which may affect the civilian population, individual civilians or civilian objects on land. They further apply to all attacks from the sea or from the air against objectives on land but do not otherwise affect the rules of international law applicable in armed conflict at sea or in the air.
+     3.     The provisions of this Section apply to any land, air or sea warfare which may affect the civilian population, individual civilians or civilian objects on land. They further apply to all attacks from the sea or from the air against objectives on land but do not otherwise affect the rules of international law applicable in armed conflict at sea or in the air.
 
-     4.    The provisions of this Section are additional to the rules concerning humanitarian protection contained in the Fourth Convention, particularly in Part II thereof, and in other international agreements binding upon the High Contracting Parties, as well as to other rules of international law relating to the protection of civilians and civilian objects on land, at sea or in the air against the effects of hostilities.
+     4.     The provisions of this Section are additional to the rules concerning humanitarian protection contained in the Fourth Convention, particularly in Part II thereof, and in other international agreements binding upon the High Contracting Parties, as well as to other rules of international law relating to the protection of civilians and civilian objects on land, at sea or in the air against the effects of hostilities.
 
 _Chapter II_
 
@@ -4444,21 +4432,21 @@ _CIVILIANS AND CIVILIAN POPULATION_
 
 _Article 50—Definition of civilians and civilian population_
 
-     1.    A civilian is any person who does not belong to one of the categories of persons referred to in Article 4A (1), (2), (3) and (6) of the Third Convention and in Article 43 of this Protocol. In case of doubt whether a person is a civilian, that person shall be considered to be a civilian.
+     1.     A civilian is any person who does not belong to one of the categories of persons referred to in Article 4A (1), (2), (3) and (6) of the Third Convention and in Article 43 of this Protocol. In case of doubt whether a person is a civilian, that person shall be considered to be a civilian.
 
-     2.    The civilian population comprises all persons who are civilians.
+     2.     The civilian population comprises all persons who are civilians.
 
-     3.    The presence within the civilian population of individuals who do not come within the definition of civilians does not deprive the population of its civilian character.
+     3.     The presence within the civilian population of individuals who do not come within the definition of civilians does not deprive the population of its civilian character.
 
 _Article 51—Protection of the civilian population_
 
-     1.    The civilian population and individual civilians shall enjoy general protection against dangers arising from military operations. To give effect to this protection, the following rules, which are additional to other applicable rules of international law, shall be observed in all circumstances.
+     1.     The civilian population and individual civilians shall enjoy general protection against dangers arising from military operations. To give effect to this protection, the following rules, which are additional to other applicable rules of international law, shall be observed in all circumstances.
 
-     2.    The civilian population as such, as well as individual civilians, shall not be the object of attack. Acts or threats of violence the primary purpose of which is to spread terror among the civilian population are prohibited.
+     2.     The civilian population as such, as well as individual civilians, shall not be the object of attack. Acts or threats of violence the primary purpose of which is to spread terror among the civilian population are prohibited.
 
-     3.    Civilians shall enjoy the protection afforded by this Section, unless and for such time as they take a direct part in hostilities.
+     3.     Civilians shall enjoy the protection afforded by this Section, unless and for such time as they take a direct part in hostilities.
 
-     4.    Indiscriminate attacks are prohibited. Indiscriminate attacks are:
+     4.     Indiscriminate attacks are prohibited. Indiscriminate attacks are:
 
      (_a_)   those which are not directed at a specific military objective;
 
@@ -4468,17 +4456,17 @@ _Article 51—Protection of the civilian population_
 
 and consequently, in each such case, are of a nature to strike military objectives and civilians or civilian objects without distinction.
 
-     5.    Among others, the following types of attacks are to be considered as indiscriminate:
+     5.     Among others, the following types of attacks are to be considered as indiscriminate:
 
      (_a_)   an attack by bombardment by any methods or means which treats as a single military objective a number of clearly separated and distinct military objectives located in a city, town, village or other area containing a similar concentration of civilians or civilian objects; and
 
      (_b_)   an attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated.
 
-     6.    Attacks against the civilian population or civilians by way of reprisals are prohibited.
+     6.     Attacks against the civilian population or civilians by way of reprisals are prohibited.
 
-     7.    The presence or movements of the civilian population or individual civilians shall not be used to render certain points or areas immune from military operations, in particular in attempts to shield military objectives from attacks or to shield, favour or impede military operations. The Parties to the conflict shall not direct the movement of the civilian population or individual civilians in order to attempt to shield military objectives from attacks or to shield military operations.
+     7.     The presence or movements of the civilian population or individual civilians shall not be used to render certain points or areas immune from military operations, in particular in attempts to shield military objectives from attacks or to shield, favour or impede military operations. The Parties to the conflict shall not direct the movement of the civilian population or individual civilians in order to attempt to shield military objectives from attacks or to shield military operations.
 
-     8.    Any violation of these prohibitions shall not release the Parties to the conflict from their legal obligations with respect to the civilian population and civilians, including the obligation to take the precautionary measures provided for in Article 57.
+     8.     Any violation of these prohibitions shall not release the Parties to the conflict from their legal obligations with respect to the civilian population and civilians, including the obligation to take the precautionary measures provided for in Article 57.
 
 _Chapter III_
 
@@ -4486,11 +4474,11 @@ _CIVILIAN OBJECTS_
 
 _Article 52—General protection of civilian objects_
 
-     1.    Civilian objects shall not be the object of attack or of reprisals. Civilian objects are all objects which are not military objectives as defined in paragraph 2.
+     1.     Civilian objects shall not be the object of attack or of reprisals. Civilian objects are all objects which are not military objectives as defined in paragraph 2.
 
-     2.    Attacks shall be limited strictly to military objectives. In so far as objects are concerned, military objectives are limited to those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage.
+     2.     Attacks shall be limited strictly to military objectives. In so far as objects are concerned, military objectives are limited to those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage.
 
-     3.    In case of doubt whether an object which is normally dedicated to civilian purposes, such as a place of worship, a house or other dwelling or a school, is being used to make an effective contribution to military action, it shall be presumed not to be so used.
+     3.     In case of doubt whether an object which is normally dedicated to civilian purposes, such as a place of worship, a house or other dwelling or a school, is being used to make an effective contribution to military action, it shall be presumed not to be so used.
 
 _Article 53—Protection of cultural objects and of places of worship_
 
@@ -4504,31 +4492,31 @@ _Article 53—Protection of cultural objects and of places of worship_
 
 _Article 54—Protection of objects indispensable to the survival of the civilian population_
 
-     1.    Starvation of civilians as a method of warfare is prohibited.
+     1.     Starvation of civilians as a method of warfare is prohibited.
 
-     2.    It is prohibited to attack, destroy, remove or render useless objects indispensable to the survival of the civilian population, such as foodstuffs, agricultural areas for the production of foodstuffs, crops, livestock, drinking water installations and supplies and irrigation works, for the specific purpose of denying them for their sustenance value to the civilian population or to the adverse Party, whatever the motive, whether in order to starve out civilians, to cause them to move away, or for any other motive.
+     2.     It is prohibited to attack, destroy, remove or render useless objects indispensable to the survival of the civilian population, such as foodstuffs, agricultural areas for the production of foodstuffs, crops, livestock, drinking water installations and supplies and irrigation works, for the specific purpose of denying them for their sustenance value to the civilian population or to the adverse Party, whatever the motive, whether in order to starve out civilians, to cause them to move away, or for any other motive.
 
-     3.    The prohibitions in paragraph 2 shall not apply to such of the objects covered by it as are used by an adverse Party:
+     3.     The prohibitions in paragraph 2 shall not apply to such of the objects covered by it as are used by an adverse Party:
 
      (_a_)   as sustenance solely for the members of its armed forces; or
 
      (_b_)   if not as sustenance, then in direct support of military action, provided, however, that in no event shall actions against these objects be taken which may be expected to leave the civilian population with such inadequate food or water as to cause its starvation or force its movement.
 
-     4.    These objects shall not be made the object of reprisals.
+     4.     These objects shall not be made the object of reprisals.
 
-     5.    In recognition of the vital requirements of any Party to the conflict in the defence of its national territory against invasion, derogation from the prohibitions contained in paragraph 2 may be made by a Party to the conflict within such territory under its own control where required by imperative military necessity.
+     5.     In recognition of the vital requirements of any Party to the conflict in the defence of its national territory against invasion, derogation from the prohibitions contained in paragraph 2 may be made by a Party to the conflict within such territory under its own control where required by imperative military necessity.
 
 _Article 55—Protection of the natural environment_
 
-     1.    Care shall be taken in warfare to protect the natural environment against widespread, long‑term and severe damage. This protection includes a prohibition of the use of methods or means of warfare which are intended or may be expected to cause such damage to the natural environment and thereby to prejudice the health or survival of the population.
+     1.     Care shall be taken in warfare to protect the natural environment against widespread, long-term and severe damage. This protection includes a prohibition of the use of methods or means of warfare which are intended or may be expected to cause such damage to the natural environment and thereby to prejudice the health or survival of the population.
 
-     2.    Attacks against the natural environment by way of reprisals are prohibited.
+     2.     Attacks against the natural environment by way of reprisals are prohibited.
 
 _Article 56—Protection of works and installations containing dangerous forces_
 
-     1.    Works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attack may cause the release of dangerous forces and consequent severe losses among the civilian population. Other military objectives located at or in the vicinity of these works or installations shall not be made the object of attack if such attack may cause the release of dangerous forces from the works or installations and consequent severe losses among the civilian population.
+     1.     Works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attack may cause the release of dangerous forces and consequent severe losses among the civilian population. Other military objectives located at or in the vicinity of these works or installations shall not be made the object of attack if such attack may cause the release of dangerous forces from the works or installations and consequent severe losses among the civilian population.
 
-     2.    The special protection against attack provided by paragraph 1 shall cease:
+     2.     The special protection against attack provided by paragraph 1 shall cease:
 
      (_a_)   for a dam or a dyke only if it is used for other than its normal function and in regular, significant and direct support of military operations and if such attack is the only feasible way to terminate such support;
 
@@ -4536,15 +4524,15 @@ _Article 56—Protection of works and installations containing dangerous forces_
 
      (_c_)   for other military objectives located at or in the vicinity of these works or installations only if they are used in regular, significant and direct support of military operations and if such attack is the only feasible way to terminate such support.
 
-     3.    In all cases, the civilian population and individual civilians shall remain entitled to all the protection accorded them by international law, including the protection of the precautionary measures provided for in Article 57\. If the protection ceases and any of the works, installations or military objectives mentioned in paragraph 1 is attacked, all practical precautions shall be taken to avoid the release of the dangerous forces.
+     3.     In all cases, the civilian population and individual civilians shall remain entitled to all the protection accorded them by international law, including the protection of the precautionary measures provided for in Article 57\. If the protection ceases and any of the works, installations or military objectives mentioned in paragraph 1 is attacked, all practical precautions shall be taken to avoid the release of the dangerous forces.
 
-     4.    It is prohibited to make any of the works, installations or military objectives mentioned in paragraph 1 the object of reprisals.
+     4.     It is prohibited to make any of the works, installations or military objectives mentioned in paragraph 1 the object of reprisals.
 
-     5.    The Parties to the conflict shall endeavour to avoid locating any military objectives in the vicinity of the works or installations mentioned in paragraph 1\. Nevertheless, installations erected for the sole purpose of defending the protected works or installations from attack are permissible and shall not themselves be made the object of attack, provided that they are not used in hostilities except for defensive actions necessary to respond to attacks against the protected works or installations and that their armament is limited to weapons capable only of repelling hostile action against the protected works or installations.
+     5.     The Parties to the conflict shall endeavour to avoid locating any military objectives in the vicinity of the works or installations mentioned in paragraph 1\. Nevertheless, installations erected for the sole purpose of defending the protected works or installations from attack are permissible and shall not themselves be made the object of attack, provided that they are not used in hostilities except for defensive actions necessary to respond to attacks against the protected works or installations and that their armament is limited to weapons capable only of repelling hostile action against the protected works or installations.
 
-     6.    The High Contracting Parties and the Parties to the conflict are urged to conclude further agreements among themselves to provide additional protection for objects containing dangerous forces.
+     6.     The High Contracting Parties and the Parties to the conflict are urged to conclude further agreements among themselves to provide additional protection for objects containing dangerous forces.
 
-     7.    In order to facilitate the identification of the objects protected by this Article, the Parties to the conflict may mark them with a special sign consisting of a group of three bright orange circles placed on the same axis, as specified in Article 16 of Annex I to this Protocol. The absence of such marking in no way relieves any Party to the conflict of its obligations under this Article.
+     7.     In order to facilitate the identification of the objects protected by this Article, the Parties to the conflict may mark them with a special sign consisting of a group of three bright orange circles placed on the same axis, as specified in Article 16 of Annex I to this Protocol. The absence of such marking in no way relieves any Party to the conflict of its obligations under this Article.
 
 _Chapter IV_
 
@@ -4552,27 +4540,27 @@ _PRECAUTIONARY MEASURES_
 
 _Article 57—Precautions in attack_
 
-     1.    In the conduct of military operations, constant care shall be taken to spare the civilian population, civilians and civilian objects.
+     1.     In the conduct of military operations, constant care shall be taken to spare the civilian population, civilians and civilian objects.
 
-     2.    With respect to attacks, the following precautions shall be taken:
+     2.     With respect to attacks, the following precautions shall be taken:
 
      (_a_)   those who plan or decide upon an attack shall:
 
              (i)     do everything feasible to verify that the objectives to be attacked are neither civilians nor civilian objects and are not subject to special protection but are military objectives within the meaning of paragraph 2 of Article 52 and that it is not prohibited by the provisions of this Protocol to attack them;
 
-            (ii)     take all feasible precautions in the choice of means and methods of attack with a view to avoiding, and in any event to minimizing, incidental loss of civilian life, injury to civilians and damage to civilian objects;
+             (ii)     take all feasible precautions in the choice of means and methods of attack with a view to avoiding, and in any event to minimizing, incidental loss of civilian life, injury to civilians and damage to civilian objects;
 
-           (iii)     refrain from deciding to launch any attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated;
+            (iii)     refrain from deciding to launch any attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated;
 
      (_b_)   an attack shall be cancelled or suspended if it becomes apparent that the objective is not a military one or is subject to special protection or that the attack may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated;
 
      (_c_)   effective advance warning shall be given of attacks which may affect the civilian population, unless circumstances do not permit.
 
-     3.    When a choice is possible between several military objectives for obtaining a similar military advantage, the objective to be selected shall be that the attack on which may be expected to cause the least danger to civilian lives and to civilian objects.
+     3.     When a choice is possible between several military objectives for obtaining a similar military advantage, the objective to be selected shall be that the attack on which may be expected to cause the least danger to civilian lives and to civilian objects.
 
-     4.    In the conduct of military operations at sea or in the air, each Party to the conflict shall, in conformity with its rights and duties under the rules of international law applicable in armed conflict, take all reasonable precautions to avoid losses of civilian lives and damage to civilian objects.
+     4.     In the conduct of military operations at sea or in the air, each Party to the conflict shall, in conformity with its rights and duties under the rules of international law applicable in armed conflict, take all reasonable precautions to avoid losses of civilian lives and damage to civilian objects.
 
-     5.    No provision of this Article may be construed as authorizing any attacks against the civilian population, civilians or civilian objects.
+     5.     No provision of this Article may be construed as authorizing any attacks against the civilian population, civilians or civilian objects.
 
 _Article 58—Precautions against the effects of attacks_
 
@@ -4588,11 +4576,11 @@ _Chapter V_
 
 _LOCALITIES AND ZONES UNDER SPECIAL PROTECTION_
 
-_Article 59—Non‑defended localities_
+_Article 59—Non-defended localities_
 
-     1.    It is prohibited for the Parties to the conflict to attack, by any means whatsoever, non‑defended localities.
+     1.     It is prohibited for the Parties to the conflict to attack, by any means whatsoever, non-defended localities.
 
-     2.    The appropriate authorities of a Party to the conflict may declare as a non‑defended locality any inhabited place near or in a zone where armed forces are in contact which is open for occupation by an adverse Party. Such a locality shall fulfil the following conditions:
+     2.     The appropriate authorities of a Party to the conflict may declare as a non-defended locality any inhabited place near or in a zone where armed forces are in contact which is open for occupation by an adverse Party. Such a locality shall fulfil the following conditions:
 
      (_a_)   all combatants, as well as mobile weapons and mobile military equipment must have been evacuated;
 
@@ -4602,23 +4590,23 @@ _Article 59—Non‑defended localities_
 
      (_d_)   no activities in support of military operations shall be undertaken.
 
-     3.    The presence, in this locality, of persons specially protected under the Conventions and this Protocol, and of police forces retained for the sole purpose of maintaining law and order, is not contrary to the conditions laid down in paragraph 2.
+     3.     The presence, in this locality, of persons specially protected under the Conventions and this Protocol, and of police forces retained for the sole purpose of maintaining law and order, is not contrary to the conditions laid down in paragraph 2.
 
-     4.    The declaration made under paragraph 2 shall be addressed to the adverse Party and shall define and describe, as precisely as possible, the limits of the non‑defended locality. The Party to the conflict to which the declaration is addressed shall acknowledge its receipt and shall treat the locality as a non‑defended locality unless the conditions laid down in paragraph 2 are not in fact fulfilled, in which event it shall immediately so inform the Party making the declaration. Even if the conditions laid down in paragraph 2 are not fulfilled, the locality shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
+     4.     The declaration made under paragraph 2 shall be addressed to the adverse Party and shall define and describe, as precisely as possible, the limits of the non-defended locality. The Party to the conflict to which the declaration is addressed shall acknowledge its receipt and shall treat the locality as a non-defended locality unless the conditions laid down in paragraph 2 are not in fact fulfilled, in which event it shall immediately so inform the Party making the declaration. Even if the conditions laid down in paragraph 2 are not fulfilled, the locality shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
 
-     5.    The Parties to the conflict may agree on the establishment of non‑defended localities even if such localities do not fulfil the conditions laid down in paragraph 2\. The agreement should define and describe, as precisely as possible, the limits of the non‑defended locality; if necessary, it may lay down the methods of supervision.
+     5.     The Parties to the conflict may agree on the establishment of non-defended localities even if such localities do not fulfil the conditions laid down in paragraph 2\. The agreement should define and describe, as precisely as possible, the limits of the non-defended locality; if necessary, it may lay down the methods of supervision.
 
-     6.    The Party which is in control of a locality governed by such an agreement shall mark it, so far as possible, by such signs as may be agreed upon with the other Party, which shall be displayed where they are clearly visible, especially on its perimeter and limits and on highways.
+     6.     The Party which is in control of a locality governed by such an agreement shall mark it, so far as possible, by such signs as may be agreed upon with the other Party, which shall be displayed where they are clearly visible, especially on its perimeter and limits and on highways.
 
-     7.    A locality loses its status as a non‑defended locality when it ceases to fulfil the conditions laid down in paragraph 2 or in the agreement referred to in paragraph 5\. In such an eventuality, the locality shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
+     7.     A locality loses its status as a non-defended locality when it ceases to fulfil the conditions laid down in paragraph 2 or in the agreement referred to in paragraph 5\. In such an eventuality, the locality shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
 
 _Article 60—Demilitarized zones_
 
-     1.    It is prohibited for the Parties to the conflict to extend their military operations to zones on which they have conferred by agreement the status of demilitarized zone, if such extension is contrary to the terms of this agreement.
+     1.     It is prohibited for the Parties to the conflict to extend their military operations to zones on which they have conferred by agreement the status of demilitarized zone, if such extension is contrary to the terms of this agreement.
 
-     2.    The agreement shall be an express agreement, may be concluded verbally or in writing, either directly or through a Protecting Power or any impartial humanitarian organization, and may consist of reciprocal and concordant declarations. The agreement may be concluded in peacetime, as well as after the outbreak of hostilities, and should define and describe, as precisely as possible, the limits of the demilitarized zone and, if necessary, lay down the methods of supervision.
+     2.     The agreement shall be an express agreement, may be concluded verbally or in writing, either directly or through a Protecting Power or any impartial humanitarian organization, and may consist of reciprocal and concordant declarations. The agreement may be concluded in peacetime, as well as after the outbreak of hostilities, and should define and describe, as precisely as possible, the limits of the demilitarized zone and, if necessary, lay down the methods of supervision.
 
-     3.    The subject of such an agreement shall normally be any zone which fulfils the following conditions:
+     3.     The subject of such an agreement shall normally be any zone which fulfils the following conditions:
 
      (_a_)   all combatants, as well as mobile weapons and mobile military equipment, must have been evacuated;
 
@@ -4628,15 +4616,15 @@ _Article 60—Demilitarized zones_
 
      (_d_)   any activity linked to the military effort must have ceased.
 
-The Parties to the conflict shall agree upon the interpretation to be given to the condition laid down in sub‑paragraph (_d_) and upon persons to be admitted to the demilitarized zone other than those mentioned in paragraph 4.
+The Parties to the conflict shall agree upon the interpretation to be given to the condition laid down in sub-paragraph (_d_) and upon persons to be admitted to the demilitarized zone other than those mentioned in paragraph 4.
 
-     4.    The presence, in this zone, of persons specially protected under the Conventions and this Protocol, and of police forces retained for the sole purpose of maintaining law and order, is not contrary to the conditions laid down in paragraph 3.
+     4.     The presence, in this zone, of persons specially protected under the Conventions and this Protocol, and of police forces retained for the sole purpose of maintaining law and order, is not contrary to the conditions laid down in paragraph 3.
 
-     5.    The Party which is in control of such a zone shall mark it, so far as possible, by such signs as may be agreed upon with the other Party, which shall be displayed where they are clearly visible, especially on its perimeter and limits and on highways.
+     5.     The Party which is in control of such a zone shall mark it, so far as possible, by such signs as may be agreed upon with the other Party, which shall be displayed where they are clearly visible, especially on its perimeter and limits and on highways.
 
-     6.    If the fighting draws near to a demilitarized zone, and if the Parties to the conflict have so agreed, none of them may use the zone for purposes related to the conduct of military operations or unilaterally revoke its status.
+     6.     If the fighting draws near to a demilitarized zone, and if the Parties to the conflict have so agreed, none of them may use the zone for purposes related to the conduct of military operations or unilaterally revoke its status.
 
-     7.    If one of the Parties to the conflict commits a material breach of the provisions of paragraphs 3 or 6, the other Party shall be released from its obligations under the agreement conferring upon the zone the status of demilitarized zone. In such an eventuality, the zone loses its status but shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
+     7.     If one of the Parties to the conflict commits a material breach of the provisions of paragraphs 3 or 6, the other Party shall be released from its obligations under the agreement conferring upon the zone the status of demilitarized zone. In such an eventuality, the zone loses its status but shall continue to enjoy the protection provided by the other provisions of this Protocol and the other rules of international law applicable in armed conflict.
 
 _Chapter VI_
 
@@ -4650,113 +4638,113 @@ _Article 61—Definitions and scope_
 
              (i)     warning;
 
-            (ii)     evacuation;
+             (ii)     evacuation;
 
-           (iii)     management of shelters;
+            (iii)     management of shelters;
 
-           (iv)     management of blackout measures;
+            (iv)     management of blackout measures;
 
             (v)     rescue;
 
-           (vi)     medical services, including first aid, and religious assistance;
+            (vi)     medical services, including first aid, and religious assistance;
 
-          (vii)     fire‑fighting;
+           (vii)     fire-fighting;
 
-         (viii)     detection and marking of danger areas;
+          (viii)     detection and marking of danger areas;
 
-           (ix)     decontamination and similar protective measures;
+            (ix)     decontamination and similar protective measures;
 
             (x)     provision of emergency accommodation and supplies;
 
-           (xi)     emergency assistance in the restoration and maintenance of order in distressed areas;
+            (xi)     emergency assistance in the restoration and maintenance of order in distressed areas;
 
-          (xii)     emergency repair of indispensable public utilities;
+           (xii)     emergency repair of indispensable public utilities;
 
-         (xiii)     emergency disposal of the dead;
+          (xiii)     emergency disposal of the dead;
 
-         (xiv)     assistance in the preservation of objects essential for survival;
+          (xiv)     assistance in the preservation of objects essential for survival;
 
-          (xv)     complementary activities necessary to carry out any of the tasks mentioned above, including, but not limited to, planning and organization;
+           (xv)     complementary activities necessary to carry out any of the tasks mentioned above, including, but not limited to, planning and organization;
 
-     (_b_)   “civil defence organizations” means those establishments and other units which are organized or authorized by the competent authorities of a Party to the conflict to perform any of the tasks mentioned under sub‑paragraph (_a_), and which are assigned and devoted exclusively to such tasks;
+     (_b_)   “civil defence organizations” means those establishments and other units which are organized or authorized by the competent authorities of a Party to the conflict to perform any of the tasks mentioned under sub-paragraph (_a_), and which are assigned and devoted exclusively to such tasks;
 
-     (_c_)   “personnel” of civil defence organizations means those persons assigned by a Party to the conflict exclusively to the performance of the tasks mentioned under sub‑paragraph (_a_), including personnel assigned by the competent authority of that Party exclusively to the administration of these organizations;
+     (_c_)   “personnel” of civil defence organizations means those persons assigned by a Party to the conflict exclusively to the performance of the tasks mentioned under sub-paragraph (_a_), including personnel assigned by the competent authority of that Party exclusively to the administration of these organizations;
 
-     (_d_)   “_mat&#233;riel_” of civil defence organizations means equipment, supplies and transports used by these organizations for the performance of the tasks mentioned under sub‑paragraph (_a_).
+     (_d_)   “_mat&#233;riel_” of civil defence organizations means equipment, supplies and transports used by these organizations for the performance of the tasks mentioned under sub-paragraph (_a_).
 
 _Article 62—General protection_
 
-     1.    Civilian civil defence organizations and their personnel shall be respected and protected, subject to the provisions of this Protocol, particularly the provisions of this Section. They shall be entitled to perform their civil defence tasks except in case of imperative military necessity.
+     1.     Civilian civil defence organizations and their personnel shall be respected and protected, subject to the provisions of this Protocol, particularly the provisions of this Section. They shall be entitled to perform their civil defence tasks except in case of imperative military necessity.
 
-     2.    The provisions of paragraph 1 shall also apply to civilians who, although not members of civilian civil defence organizations, respond to an appeal from the competent authorities and perform civil defence tasks under their control.
+     2.     The provisions of paragraph 1 shall also apply to civilians who, although not members of civilian civil defence organizations, respond to an appeal from the competent authorities and perform civil defence tasks under their control.
 
-     3.    Buildings and _mat&#233;riel_ used for civil defence purposes and shelters provided for the civilian population are covered by Article 52\. Objects used for civil defence purposes may not be destroyed or diverted from their proper use except by the Party to which they belong.
+     3.     Buildings and _mat&#233;riel_ used for civil defence purposes and shelters provided for the civilian population are covered by Article 52\. Objects used for civil defence purposes may not be destroyed or diverted from their proper use except by the Party to which they belong.
 
 _Article 63—Civil defence in occupied territories_
 
-     1.    In occupied territories, civilian civil defence organizations shall receive from the authorities the facilities necessary for the performance of their tasks. In no circumstances shall their personnel be compelled to perform activities which would interfere with the proper performance of these tasks. The Occupying Power shall not change the structure or personnel of such organizations in any way which might jeopardize the efficient performance of their mission. These organizations shall not be required to give priority to the nationals or interests of that Power.
+     1.     In occupied territories, civilian civil defence organizations shall receive from the authorities the facilities necessary for the performance of their tasks. In no circumstances shall their personnel be compelled to perform activities which would interfere with the proper performance of these tasks. The Occupying Power shall not change the structure or personnel of such organizations in any way which might jeopardize the efficient performance of their mission. These organizations shall not be required to give priority to the nationals or interests of that Power.
 
-     2.    The Occupying Power shall not compel, coerce or induce civilian civil defence organizations to perform their tasks in any manner prejudicial to the interests of the civilian population.
+     2.     The Occupying Power shall not compel, coerce or induce civilian civil defence organizations to perform their tasks in any manner prejudicial to the interests of the civilian population.
 
-     3.    The Occupying Power may disarm civil defence personnel for reasons of security.
+     3.     The Occupying Power may disarm civil defence personnel for reasons of security.
 
-     4.    The Occupying Power shall neither divert from their proper use nor requisition buildings or _mat&#233;riel_ belonging to or used by civil defence organizations if such diversion or requisition would be harmful to the civilian population.
+     4.     The Occupying Power shall neither divert from their proper use nor requisition buildings or _mat&#233;riel_ belonging to or used by civil defence organizations if such diversion or requisition would be harmful to the civilian population.
 
-     5.    Provided that the general rule in paragraph 4 continues to be observed, the Occupying Power may requisition or divert these resources, subject to the following particular conditions:
+     5.     Provided that the general rule in paragraph 4 continues to be observed, the Occupying Power may requisition or divert these resources, subject to the following particular conditions:
 
      (_a_)   that the buildings or _mat&#233;riel_ are necessary for other needs of the civilian population; and
 
      (_b_)   that the requisition or diversion continues only while such necessity exists.
 
-     6.    The Occupying Power shall neither divert nor requisition shelters provided for the use of the civilian population or needed by such population.
+     6.     The Occupying Power shall neither divert nor requisition shelters provided for the use of the civilian population or needed by such population.
 
-_Article 64—Civilian civil defence organizations of neutral or other States not Parties to the conflict and international co‑ordinating organizations_
+_Article 64—Civilian civil defence organizations of neutral or other States not Parties to the conflict and international co-ordinating organizations_
 
-     1.    Articles 62, 63, 65 and 66 shall also apply to the personnel and _mat&#233;riel_ of civilian civil defence organizations of neutral or other States not Parties to the conflict which perform civil defence tasks mentioned in Article 61 in the territory of a Party to the conflict, with the consent and under the control of that Party. Notification of such assistance shall be given as soon as possible to any adverse Party concerned. In no circumstances shall this activity be deemed to be an interference in the conflict. This activity should, however, be performed with due regard to the security interests of the Parties to the conflict concerned.
+     1.     Articles 62, 63, 65 and 66 shall also apply to the personnel and _mat&#233;riel_ of civilian civil defence organizations of neutral or other States not Parties to the conflict which perform civil defence tasks mentioned in Article 61 in the territory of a Party to the conflict, with the consent and under the control of that Party. Notification of such assistance shall be given as soon as possible to any adverse Party concerned. In no circumstances shall this activity be deemed to be an interference in the conflict. This activity should, however, be performed with due regard to the security interests of the Parties to the conflict concerned.
 
-     2.    The Parties to the conflict receiving the assistance referred to in paragraph 1 and the High Contracting Parties granting it should facilitate international co‑ordination of such civil defence actions when appropriate. In such cases the relevant international organizations are covered by the provisions of this Chapter.
+     2.     The Parties to the conflict receiving the assistance referred to in paragraph 1 and the High Contracting Parties granting it should facilitate international co-ordination of such civil defence actions when appropriate. In such cases the relevant international organizations are covered by the provisions of this Chapter.
 
-     3.    In occupied territories, the Occupying Power may only exclude or restrict the activities of civilian civil defence organizations of neutral or other States not Parties to the conflict and of international co‑ordinating organizations if it can ensure the adequate performance of civil defence tasks from its own resources or those of the occupied territory.
+     3.     In occupied territories, the Occupying Power may only exclude or restrict the activities of civilian civil defence organizations of neutral or other States not Parties to the conflict and of international co-ordinating organizations if it can ensure the adequate performance of civil defence tasks from its own resources or those of the occupied territory.
 
 _Article 65—Cessation of protection_
 
-     1.    The protection to which civilian civil defence organizations, their personnel, buildings, shelters and _mat&#233;riel_ are entitled shall not cease unless they commit or are used to commit, outside their proper tasks, acts harmful to the enemy. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time‑limit, and after such warning has remained unheeded.
+     1.     The protection to which civilian civil defence organizations, their personnel, buildings, shelters and _mat&#233;riel_ are entitled shall not cease unless they commit or are used to commit, outside their proper tasks, acts harmful to the enemy. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time-limit, and after such warning has remained unheeded.
 
-     2.    The following shall not be considered as acts harmful to the enemy:
+     2.     The following shall not be considered as acts harmful to the enemy:
 
      (_a_)   that civil defence tasks are carried out under the direction or control of military authorities;
 
-     (_b_)   that civilian civil defence personnel co‑operate with military personnel in the performance of civil defence tasks, or that some military personnel are attached to civilian civil defence organizations;
+     (_b_)   that civilian civil defence personnel co-operate with military personnel in the performance of civil defence tasks, or that some military personnel are attached to civilian civil defence organizations;
 
      (_c_)   that the performance of civil defence tasks may incidentally benefit military victims, particularly those who are _hors de combat_.
 
-     3.    It shall also not be considered as an act harmful to the enemy that civilian civil defence personnel bear light individual weapons for the purpose of maintaining order or for self‑defence. However, in areas where land fighting is taking place or is likely to take place, the Parties to the conflict shall undertake the appropriate measures to limit these weapons to handguns, such as pistols or revolvers, in order to assist in distinguishing between civil defence personnel and combatants. Although civil defence personnel bear other light individual weapons in such areas, they shall nevertheless be respected and protected as soon as they have been recognized as such.
+     3.     It shall also not be considered as an act harmful to the enemy that civilian civil defence personnel bear light individual weapons for the purpose of maintaining order or for self-defence. However, in areas where land fighting is taking place or is likely to take place, the Parties to the conflict shall undertake the appropriate measures to limit these weapons to handguns, such as pistols or revolvers, in order to assist in distinguishing between civil defence personnel and combatants. Although civil defence personnel bear other light individual weapons in such areas, they shall nevertheless be respected and protected as soon as they have been recognized as such.
 
-     4.    The formation of civilian civil defence organizations along military lines, and compulsory service in them, shall also not deprive them of the protection conferred by this Chapter.
+     4.     The formation of civilian civil defence organizations along military lines, and compulsory service in them, shall also not deprive them of the protection conferred by this Chapter.
 
 _Article 66—Identification_
 
-     1.    Each Party to the conflict shall endeavour to ensure that its civil defence organizations, their personnel, buildings and _mat&#233;riel_, are identifiable while they are exclusively devoted to the performance of civil defence tasks. Shelters provided for the civilian population should be similarly identifiable.
+     1.     Each Party to the conflict shall endeavour to ensure that its civil defence organizations, their personnel, buildings and _mat&#233;riel_, are identifiable while they are exclusively devoted to the performance of civil defence tasks. Shelters provided for the civilian population should be similarly identifiable.
 
-     2.    Each Party to the conflict shall also endeavour to adopt and implement methods and procedures which will make it possible to recognize civilian shelters as well as civil defence personnel, buildings and _mat&#233;riel_ on which the international distinctive sign of civil defence is displayed.
+     2.     Each Party to the conflict shall also endeavour to adopt and implement methods and procedures which will make it possible to recognize civilian shelters as well as civil defence personnel, buildings and _mat&#233;riel_ on which the international distinctive sign of civil defence is displayed.
 
-     3.    In occupied territories and in areas where fighting is taking place or is likely to take place, civilian civil defence personnel should be recognizable by the international distinctive sign of civil defence and by an identity card certifying their status.
+     3.     In occupied territories and in areas where fighting is taking place or is likely to take place, civilian civil defence personnel should be recognizable by the international distinctive sign of civil defence and by an identity card certifying their status.
 
-     4.    The international distinctive sign of civil defence is an equilateral blue triangle on an orange ground when used for the protection of civil defence organizations, their personnel, buildings and _mat&#233;riel_ and for civilian shelters.
+     4.     The international distinctive sign of civil defence is an equilateral blue triangle on an orange ground when used for the protection of civil defence organizations, their personnel, buildings and _mat&#233;riel_ and for civilian shelters.
 
-     5.    In addition to the distinctive sign, Parties to the conflict may agree upon the use of distinctive signals for civil defence identification purposes.
+     5.     In addition to the distinctive sign, Parties to the conflict may agree upon the use of distinctive signals for civil defence identification purposes.
 
-     6.    The application of the provisions of paragraphs 1 to 4 is governed by Chapter V of Annex I to this Protocol.
+     6.     The application of the provisions of paragraphs 1 to 4 is governed by Chapter V of Annex I to this Protocol.
 
-     7.    In time of peace, the sign described in paragraph 4 may, with the consent of the competent national authorities, be used for civil defence identification purposes.
+     7.     In time of peace, the sign described in paragraph 4 may, with the consent of the competent national authorities, be used for civil defence identification purposes.
 
-     8.    The High Contracting Parties and the Parties to the conflict shall take the measures necessary to supervise the display of the international distinctive sign of civil defence and to prevent and repress any misuse thereof.
+     8.     The High Contracting Parties and the Parties to the conflict shall take the measures necessary to supervise the display of the international distinctive sign of civil defence and to prevent and repress any misuse thereof.
 
-     9.    The identification of civil defence medical and religious personnel, medical units and medical transports is also governed by Article 18.
+     9.     The identification of civil defence medical and religious personnel, medical units and medical transports is also governed by Article 18.
 
 _Article 67—Members of the armed forces and military units assigned to civil defence organizations_
 
-     1.    Members of the armed forces and military units assigned to civil defence organizations shall be respected and protected, provided that:
+     1.     Members of the armed forces and military units assigned to civil defence organizations shall be respected and protected, provided that:
 
      (_a_)   such personnel and such units are permanently assigned and exclusively devoted to the performance of any of the tasks mentioned in Article 61;
 
@@ -4764,19 +4752,19 @@ _Article 67—Members of the armed forces and military units assigned to civil d
 
      (_c_)   such personnel are clearly distinguishable from the other members of the armed forces by prominently displaying the international distinctive sign of civil defence, which shall be as large as appropriate, and such personnel are provided with the identity card referred to in Chapter V of Annex I to this Protocol certifying their status;
 
-     (_d_)   such personnel and such units are equipped only with light individual weapons for the purpose of maintaining order or for self‑defence. The provisions of Article 65, paragraph 3 shall also apply in this case;
+     (_d_)   such personnel and such units are equipped only with light individual weapons for the purpose of maintaining order or for self-defence. The provisions of Article 65, paragraph 3 shall also apply in this case;
 
      (_e_)   such personnel do not participate directly in hostilities, and do not commit, or are not used to commit, outside their civil defence tasks, acts harmful to the adverse Party;
 
-     (_f_)    such personnel and such units perform their civil defence tasks only within the national territory of their party.
+     (_f_)   such personnel and such units perform their civil defence tasks only within the national territory of their party.
 
-The non‑observance of the conditions stated in (_e_) above by any member of the armed forces who is bound by the conditions prescribed in (_a_) and (_b_) above is prohibited.
+The non-observance of the conditions stated in (_e_) above by any member of the armed forces who is bound by the conditions prescribed in (_a_) and (_b_) above is prohibited.
 
-     2.    Military personnel serving within civil defence organizations shall, if they fall into the power of an adverse Party, be prisoners of war. In occupied territory they may, but only in the interest of the civilian population of that territory, be employed on civil defence tasks in so far as the need arises, provided however that, if such work is dangerous, they volunteer for such tasks.
+     2.     Military personnel serving within civil defence organizations shall, if they fall into the power of an adverse Party, be prisoners of war. In occupied territory they may, but only in the interest of the civilian population of that territory, be employed on civil defence tasks in so far as the need arises, provided however that, if such work is dangerous, they volunteer for such tasks.
 
-     3.    The buildings and major items of equipment and transports of military units assigned to civil defence organizations shall be clearly marked with the international distinctive sign of civil defence. This distinctive sign shall be as large as appropriate.
+     3.     The buildings and major items of equipment and transports of military units assigned to civil defence organizations shall be clearly marked with the international distinctive sign of civil defence. This distinctive sign shall be as large as appropriate.
 
-     4.    The _mat&#233;riel_ and buildings of military units permanently assigned to civil defence organizations and exclusively devoted to the performance of civil defence tasks shall, if they fall into the hands of an adverse Party, remain subject to the laws of war. They may not be diverted from their civil defence purpose so long as they are required for the performance of civil defence tasks, except in case of imperative military necessity, unless previous arrangements have been made for adequate provision for the needs of the civilian population.
+     4.     The _mat&#233;riel_ and buildings of military units permanently assigned to civil defence organizations and exclusively devoted to the performance of civil defence tasks shall, if they fall into the hands of an adverse Party, remain subject to the laws of war. They may not be diverted from their civil defence purpose so long as they are required for the performance of civil defence tasks, except in case of imperative military necessity, unless previous arrangements have been made for adequate provision for the needs of the civilian population.
 
 SECTION II
 
@@ -4788,17 +4776,17 @@ _Article 68—Field of application_
 
 _Article 69—Basic needs in occupied territories_
 
-     1.    In addition to the duties specified in Article 55 of the Fourth Convention concerning food and medical supplies, the Occupying Power shall, to the fullest extent of the means available to it and without any adverse distinction, also ensure the provision of clothing, bedding, means of shelter, other supplies essential to the survival of the civilian population of the occupied territory and objects necessary for religious worship.
+     1.     In addition to the duties specified in Article 55 of the Fourth Convention concerning food and medical supplies, the Occupying Power shall, to the fullest extent of the means available to it and without any adverse distinction, also ensure the provision of clothing, bedding, means of shelter, other supplies essential to the survival of the civilian population of the occupied territory and objects necessary for religious worship.
 
-     2.    Relief actions for the benefit of the civilian population of occupied territories are governed by Articles 59, 60, 61, 62, 108, 109, 110 and 111 of the Fourth Convention, and by Article 71 of this Protocol, and shall be implemented without delay.
+     2.     Relief actions for the benefit of the civilian population of occupied territories are governed by Articles 59, 60, 61, 62, 108, 109, 110 and 111 of the Fourth Convention, and by Article 71 of this Protocol, and shall be implemented without delay.
 
 _Article 70—Relief actions_
 
-     1.    If the civilian population of any territory under the control of a Party to the conflict, other than occupied territory, is not adequately provided with the supplies mentioned in Article 69, relief actions which are humanitarian and impartial in character and conducted without any adverse distinction shall be undertaken, subject to the agreement of the Parties concerned in such relief actions. Offers of such relief shall not be regarded as interference in the armed conflict or as unfriendly acts. In the distribution of relief consignments, priority shall be given to those persons, such as children, expectant mothers, maternity cases and nursing mothers, who, under the Fourth Convention or under this Protocol, are to be accorded privileged treatment or special protection.
+     1.     If the civilian population of any territory under the control of a Party to the conflict, other than occupied territory, is not adequately provided with the supplies mentioned in Article 69, relief actions which are humanitarian and impartial in character and conducted without any adverse distinction shall be undertaken, subject to the agreement of the Parties concerned in such relief actions. Offers of such relief shall not be regarded as interference in the armed conflict or as unfriendly acts. In the distribution of relief consignments, priority shall be given to those persons, such as children, expectant mothers, maternity cases and nursing mothers, who, under the Fourth Convention or under this Protocol, are to be accorded privileged treatment or special protection.
 
-     2.    The Parties to the conflict and each High Contracting Party shall allow and facilitate rapid and unimpeded passage of all relief consignments, equipment and personnel provided in accordance with this Section, even if such assistance is destined for the civilian population of the adverse Party.
+     2.     The Parties to the conflict and each High Contracting Party shall allow and facilitate rapid and unimpeded passage of all relief consignments, equipment and personnel provided in accordance with this Section, even if such assistance is destined for the civilian population of the adverse Party.
 
-     3.    The Parties to the conflict and each High Contracting Party which allow the passage of relief consignments, equipment and personnel in accordance with paragraph 2:
+     3.     The Parties to the conflict and each High Contracting Party which allow the passage of relief consignments, equipment and personnel in accordance with paragraph 2:
 
      (_a_)   shall have the right to prescribe the technical arrangements, including search, under which such passage is permitted;
 
@@ -4806,19 +4794,19 @@ _Article 70—Relief actions_
 
      (_c_)   shall, in no way whatsoever, divert relief consignments from the purpose for which they are intended nor delay their forwarding, except in cases of urgent necessity in the interest of the civilian population concerned.
 
-     4.    The Parties to the conflict shall protect relief consignments and facilitate their rapid distribution.
+     4.     The Parties to the conflict shall protect relief consignments and facilitate their rapid distribution.
 
-     5.    The Parties to the conflict and each High Contracting Party concerned shall encourage and facilitate effective international co‑ordination of the relief actions referred to in paragraph 1.
+     5.     The Parties to the conflict and each High Contracting Party concerned shall encourage and facilitate effective international co-ordination of the relief actions referred to in paragraph 1.
 
 _Article 71—Personnel participating in relief actions_
 
-     1.    Where necessary, relief personnel may form part of the assistance provided in any relief action, in particular for the transportation and distribution of relief consignments; the participation of such personnel shall be subject to the approval of the Party in whose territory they will carry out their duties.
+     1.     Where necessary, relief personnel may form part of the assistance provided in any relief action, in particular for the transportation and distribution of relief consignments; the participation of such personnel shall be subject to the approval of the Party in whose territory they will carry out their duties.
 
-     2.    Such personnel shall be respected and protected.
+     2.     Such personnel shall be respected and protected.
 
-     3.    Each Party in receipt of relief consignments shall, to the fullest extent practicable, assist the relief personnel referred to in paragraph 1 in carrying out their relief mission. Only in case of imperative military necessity may the activities of the relief personnel be limited or their movements temporarily restricted.
+     3.     Each Party in receipt of relief consignments shall, to the fullest extent practicable, assist the relief personnel referred to in paragraph 1 in carrying out their relief mission. Only in case of imperative military necessity may the activities of the relief personnel be limited or their movements temporarily restricted.
 
-     4.    Under no circumstances may relief personnel exceed the terms of their mission under this Protocol. In particular they shall take account of the security requirements of the Party in whose territory they are carrying out their duties. The mission of any of the personnel who do not respect these conditions may be terminated.
+     4.     Under no circumstances may relief personnel exceed the terms of their mission under this Protocol. In particular they shall take account of the security requirements of the Party in whose territory they are carrying out their duties. The mission of any of the personnel who do not respect these conditions may be terminated.
 
 SECTION III
 
@@ -4836,25 +4824,25 @@ _Article 73—Refugees and stateless persons_
 
      Persons who, before the beginning of hostilities, were considered as stateless persons or refugees under the relevant international instruments accepted by the Parties concerned or under the national legislation of the State of refuge or State of residence shall be protected persons within the meaning of Parts I and III of the Fourth Convention, in all circumstances and without any adverse distinction.
 
-_Article 74—Reunion of dispersed families_
+_Article 74—__Reunion__of dispersed families_
 
      The High Contracting Parties and the Parties to the conflict shall facilitate in every possible way the reunion of families dispersed as a result of armed conflicts and shall encourage in particular the work of the humanitarian organizations engaged in this task in accordance with the provisions of the Conventions and of this Protocol and in conformity with their respective security regulations.
 
 _Article 75—Fundamental guarantees_
 
-     1.    In so far as they are affected by a situation referred to in Article 1 of this Protocol, persons who are in the power of a Party to the conflict and who do not benefit from more favourable treatment under the Conventions or under this Protocol shall be treated humanely in all circumstances and shall enjoy, as a minimum, the protection provided by this Article without any adverse distinction based upon race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria. Each Party shall respect the person, honour, convictions and religious practices of all such persons.
+     1.     In so far as they are affected by a situation referred to in Article 1 of this Protocol, persons who are in the power of a Party to the conflict and who do not benefit from more favourable treatment under the Conventions or under this Protocol shall be treated humanely in all circumstances and shall enjoy, as a minimum, the protection provided by this Article without any adverse distinction based upon race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria. Each Party shall respect the person, honour, convictions and religious practices of all such persons.
 
-     2.    The following acts are and shall remain prohibited at any time and in any place whatsoever, whether committed by civilian or by military agents:
+     2.     The following acts are and shall remain prohibited at any time and in any place whatsoever, whether committed by civilian or by military agents:
 
-     (_a_)   violence to the life, health, or physical or mental well‑being of persons, in particular:
+     (_a_)   violence to the life, health, or physical or mental well-being of persons, in particular:
 
              (i)     murder;
 
-            (ii)     torture of all kinds, whether physical or mental;
+             (ii)     torture of all kinds, whether physical or mental;
 
-           (iii)     corporal punishment; and
+            (iii)     corporal punishment; and
 
-           (iv)     mutilation;
+            (iv)     mutilation;
 
      (_b_)   outrages upon personal dignity, in particular humiliating and degrading treatment, enforced prostitution and any form of indecent assault;
 
@@ -4864,9 +4852,9 @@ _Article 75—Fundamental guarantees_
 
      (_e_)   threats to commit any of the foregoing acts.
 
-     3.    Any person arrested, detained or interned for actions related to the armed conflict shall be informed promptly, in a language he understands, of the reasons why these measures have been taken. Except in cases of arrest or detention for penal offences, such persons shall be released with the minimum delay possible and in any event as soon as the circumstances justifying the arrest, detention or internment have ceased to exist.
+     3.     Any person arrested, detained or interned for actions related to the armed conflict shall be informed promptly, in a language he understands, of the reasons why these measures have been taken. Except in cases of arrest or detention for penal offences, such persons shall be released with the minimum delay possible and in any event as soon as the circumstances justifying the arrest, detention or internment have ceased to exist.
 
-     4.    No sentence may be passed and no penalty may be executed on a person found guilty of a penal offence related to the armed conflict except pursuant to a conviction pronounced by an impartial and regularly constituted court respecting the generally recognized principles of regular judicial procedure, which include the following:
+     4.     No sentence may be passed and no penalty may be executed on a person found guilty of a penal offence related to the armed conflict except pursuant to a conviction pronounced by an impartial and regularly constituted court respecting the generally recognized principles of regular judicial procedure, which include the following:
 
      (_a_)   the procedure shall provide for an accused to be informed without delay of the particulars of the offence alleged against him and shall afford the accused before and during his trial all necessary rights and means of defence;
 
@@ -4878,7 +4866,7 @@ _Article 75—Fundamental guarantees_
 
      (_e_)   anyone charged with an offence shall have the right to be tried in his presence;
 
-     (_f_)    no one shall be compelled to testify against himself or to confess guilt;
+     (_f_)   no one shall be compelled to testify against himself or to confess guilt;
 
      (_g_)   anyone charged with an offence shall have the right to examine, or have examined, the witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;
 
@@ -4886,19 +4874,19 @@ _Article 75—Fundamental guarantees_
 
      (_i_)    anyone prosecuted for an offence shall have the right to have the judgement pronounced publicly; and
 
-     (_j_)    a convicted person shall be advised on conviction of his judicial and other remedies and of the time‑limits within which they may be exercised.
+     (_j_)   a convicted person shall be advised on conviction of his judicial and other remedies and of the time-limits within which they may be exercised.
 
-     5.    Women whose liberty has been restricted for reasons related to the armed conflict shall be held in quarters separated from men's quarters. They shall be under the immediate supervision of women. Nevertheless, in cases where families are detained or interned, they shall, whenever possible, be held in the same place and accommodated as family units.
+     5.     Women whose liberty has been restricted for reasons related to the armed conflict shall be held in quarters separated from men's quarters. They shall be under the immediate supervision of women. Nevertheless, in cases where families are detained or interned, they shall, whenever possible, be held in the same place and accommodated as family units.
 
-     6.    Persons who are arrested, detained or interned for reasons related to the armed conflict shall enjoy the protection provided by this Article until their final release, repatriation or re‑establishment, even after the end of the armed conflict.
+     6.     Persons who are arrested, detained or interned for reasons related to the armed conflict shall enjoy the protection provided by this Article until their final release, repatriation or re-establishment, even after the end of the armed conflict.
 
-     7.    In order to avoid any doubt concerning the prosecution and trial of persons accused of war crimes or crimes against humanity, the following principles shall apply:
+     7.     In order to avoid any doubt concerning the prosecution and trial of persons accused of war crimes or crimes against humanity, the following principles shall apply:
 
      (_a_)   persons who are accused of such crimes should be submitted for the purpose of prosecution and trial in accordance with the applicable rules of international law; and
 
      (_b_)   any such persons who do not benefit from more favourable treatment under the Conventions or this Protocol shall be accorded the treatment provided by this Article, whether or not the crimes of which they are accused constitute grave breaches of the Conventions or of this Protocol.
 
-     8.    No provision of this Article may be construed as limiting or infringing any other more favourable provision granting greater protection, under any applicable rules of international law, to persons covered by paragraph 1.
+     8.     No provision of this Article may be construed as limiting or infringing any other more favourable provision granting greater protection, under any applicable rules of international law, to persons covered by paragraph 1.
 
 _Chapter II_
 
@@ -4906,57 +4894,57 @@ _MEASURES IN FAVOUR OF WOMEN AND CHILDREN_
 
 _Article 76—Protection of women_
 
-     1.    Women shall be the object of special respect and shall be protected in particular against rape, forced prostitution and any other form of indecent assault.
+     1.     Women shall be the object of special respect and shall be protected in particular against rape, forced prostitution and any other form of indecent assault.
 
-     2.    Pregnant women and mothers having dependent infants who are arrested, detained or interned for reasons related to the armed conflict, shall have their cases considered with the utmost priority.
+     2.     Pregnant women and mothers having dependent infants who are arrested, detained or interned for reasons related to the armed conflict, shall have their cases considered with the utmost priority.
 
-     3.    To the maximum extent feasible, the Parties to the conflict shall endeavour to avoid the pronouncement of the death penalty on pregnant women or mothers having dependent infants, for an offence related to the armed conflict. The death penalty for such offences shall not be executed on such women.
+     3.     To the maximum extent feasible, the Parties to the conflict shall endeavour to avoid the pronouncement of the death penalty on pregnant women or mothers having dependent infants, for an offence related to the armed conflict. The death penalty for such offences shall not be executed on such women.
 
 _Article 77—Protection of children_
 
-     1.    Children shall be the object of special respect and shall be protected against any form of indecent assault. The Parties to the conflict shall provide them with the care and aid they require, whether because of their age or for any other reason.
+     1.     Children shall be the object of special respect and shall be protected against any form of indecent assault. The Parties to the conflict shall provide them with the care and aid they require, whether because of their age or for any other reason.
 
-     2.    The Parties to the conflict shall take all feasible measures in order that children who have not attained the age of fifteen years do not take a direct part in hostilities and, in particular, they shall refrain from recruiting them into their armed forces. In recruiting among those persons who have attained the age of fifteen years but who have not attained the age of eighteen years, the Parties to the conflict shall endeavour to give priority to those who are oldest.
+     2.     The Parties to the conflict shall take all feasible measures in order that children who have not attained the age of fifteen years do not take a direct part in hostilities and, in particular, they shall refrain from recruiting them into their armed forces. In recruiting among those persons who have attained the age of fifteen years but who have not attained the age of eighteen years, the Parties to the conflict shall endeavour to give priority to those who are oldest.
 
-     3.    If, in exceptional cases, despite the provisions of paragraph 2, children who have not attained the age of fifteen years take a direct part in hostilities and fall into the power of an adverse Party, they shall continue to benefit from the special protection accorded by this Article, whether or not they are prisoners of war.
+     3.     If, in exceptional cases, despite the provisions of paragraph 2, children who have not attained the age of fifteen years take a direct part in hostilities and fall into the power of an adverse Party, they shall continue to benefit from the special protection accorded by this Article, whether or not they are prisoners of war.
 
-     4.    If arrested, detained or interned for reasons related to the armed conflict, children shall be held in quarters separate from the quarters of adults, except where families are accommodated as family units as provided in Article 75, paragraph 5.
+     4.     If arrested, detained or interned for reasons related to the armed conflict, children shall be held in quarters separate from the quarters of adults, except where families are accommodated as family units as provided in Article 75, paragraph 5.
 
-     5.    The death penalty for an offence related to the armed conflict shall not be executed on persons who had not attained the age of eighteen years at the time the offence was committed.
+     5.     The death penalty for an offence related to the armed conflict shall not be executed on persons who had not attained the age of eighteen years at the time the offence was committed.
 
 _Article 78—Evacuation of children_
 
-     1.    No Party to the conflict shall arrange for the evacuation of children, other than its own nationals, to a foreign country except for a temporary evacuation where compelling reasons of the health or medical treatment of the children or, except in occupied territory, their safety, so require. Where the parents or legal guardians can be found, their written consent to such evacuation is required. If these persons cannot be found, the written consent to such evacuation of the persons who by law or custom are primarily responsible for the care of the children is required. Any such evacuation shall be supervised by the Protecting Power in agreement with the Parties concerned, namely, the Party arranging for the evacuation, the Party receiving the children and any Parties whose nationals are being evacuated. In each case, all Parties to the conflict shall take all feasible precautions to aviod endangering the evacuation.
+     1.     No Party to the conflict shall arrange for the evacuation of children, other than its own nationals, to a foreign country except for a temporary evacuation where compelling reasons of the health or medical treatment of the children or, except in occupied territory, their safety, so require. Where the parents or legal guardians can be found, their written consent to such evacuation is required. If these persons cannot be found, the written consent to such evacuation of the persons who by law or custom are primarily responsible for the care of the children is required. Any such evacuation shall be supervised by the Protecting Power in agreement with the Parties concerned, namely, the Party arranging for the evacuation, the Party receiving the children and any Parties whose nationals are being evacuated. In each case, all Parties to the conflict shall take all feasible precautions to aviod endangering the evacuation.
 
-     2.    Whenever an evacuation occurs pursuant to paragraph 1, each child's education, including his religious and moral education as his parents desire, shall be provided while he is away with the greatest possible continuity.
+     2.     Whenever an evacuation occurs pursuant to paragraph 1, each child's education, including his religious and moral education as his parents desire, shall be provided while he is away with the greatest possible continuity.
 
-     3.    With a view to facilitating the return to their families and country of children evacuated pursuant to this Article, the authorities of the Party arranging for the evacuation and, as appropriate, the authorities of the receiving country shall establish for each child a card with photographs, which they shall send to the Central Tracing Agency of the International Committee of the Red Cross. Each card shall bear, whenever possible, and whenever it involves no risk of harm to the child, the following information:
+     3.     With a view to facilitating the return to their families and country of children evacuated pursuant to this Article, the authorities of the Party arranging for the evacuation and, as appropriate, the authorities of the receiving country shall establish for each child a card with photographs, which they shall send to the Central Tracing Agency of the International Committee of the Red Cross. Each card shall bear, whenever possible, and whenever it involves no risk of harm to the child, the following information:
 
      (_a_)   surname(s) of the child;
 
-     (_b_)   the child’s first name(s);
+     (_b_)   the child's first name(s);
 
-     (_c_)   the child’s sex;
+     (_c_)   the child's sex;
 
      (_d_)   the place and date of birth (or, if that date is not known, the approximate age);
 
-     (_e_)   the father’s full name;
+     (_e_)   the father's full name;
 
-     (_f_)    the mother's full name and her maiden name;
+     (_f_)   the mother's full name and her maiden name;
 
-     (_g_)   the child’s next‑of‑kin;
+     (_g_)   the child's next-of-kin;
 
-     (_h_)   the child’s nationality;
+     (_h_)   the child's nationality;
 
-     (_i_)    the child’s native language, and any other languages he speaks;
+     (_i_)    the child's native language, and any other languages he speaks;
 
-     (_j_)    the address of the child’s family;
+     (_j_)   the address of the child's family;
 
      (_k_)   any identification number for the child;
 
-     (_l_)    the child’s state of health;
+     (_l_)    the child's state of health;
 
-     (_m_)  the child’s blood group;
+     (_m_)  the child's blood group;
 
      (_n_)   any distinguishing features;
 
@@ -4964,9 +4952,9 @@ _Article 78—Evacuation of children_
 
      (_p_)   the date on which and the place from which the child left the country;
 
-     (_q_)   the child’s religion, if any;
+     (_q_)   the child's religion, if any;
 
-     (_r_)   the child’s present address in the receiving country;
+     (_r_)   the child's present address in the receiving country;
 
      (_s_)   should the child die before his return, the date, place and circumstances of death and place of interment.
 
@@ -4976,11 +4964,11 @@ _JOURNALISTS_
 
 _Article 79—Measures of protection for journalists_
 
-     1.    Journalists engaged in dangerous professional missions in areas of armed conflict shall be considered as civilians within the meaning of Article 50, paragraph 1.
+     1.     Journalists engaged in dangerous professional missions in areas of armed conflict shall be considered as civilians within the meaning of Article 50, paragraph 1.
 
-     2.    They shall be protected as such under the Conventions and this Protocol, provided that they take no action adversely affecting their status as civilians, and without prejudice to the right of war correspondents accredited to the armed forces to the status provided for in Article 4A (4) of the Third Convention.
+     2.     They shall be protected as such under the Conventions and this Protocol, provided that they take no action adversely affecting their status as civilians, and without prejudice to the right of war correspondents accredited to the armed forces to the status provided for in Article 4A (4) of the Third Convention.
 
-     3.    They may obtain an identity card similar to the model in Annex II of this Protocol. This card, which shall be issued by the government of the State of which the journalist is a national or in whose territory he resides or in which the news medium employing him is located, shall attest to his status as a journalist.
+     3.     They may obtain an identity card similar to the model in Annex II of this Protocol. This card, which shall be issued by the government of the State of which the journalist is a national or in whose territory he resides or in which the news medium employing him is located, shall attest to his status as a journalist.
 
 **PART V**
 
@@ -4992,19 +4980,19 @@ GENERAL PROVISIONS
 
 _Article 80—Measures for execution_
 
-     1.    The High Contracting Parties and the Parties to the conflict shall without delay take all necessary measures for the execution of their obligations under the Conventions and this Protocol.
+     1.     The High Contracting Parties and the Parties to the conflict shall without delay take all necessary measures for the execution of their obligations under the Conventions and this Protocol.
 
-     2.    The High Contracting Parties and the Parties to the conflict shall give orders and instructions to ensure observance of the Conventions and this Protocol, and shall supervise their execution.
+     2.     The High Contracting Parties and the Parties to the conflict shall give orders and instructions to ensure observance of the Conventions and this Protocol, and shall supervise their execution.
 
 _Article 81—Activities of the Red Cross and other humanitarian organizations_
 
-     1.    The Parties to the conflict shall grant to the International Committee of the Red Cross all facilities within their power so as to enable it to carry out the humanitarian functions assigned to it by the Conventions and this Protocol in order to ensure protection and assistance to the victims of conflicts; the International Committee of the Red Cross may also carry out any other humanitarian activities in favour of these victims, subject to the consent of the Parties to the conflict concerned.
+     1.     The Parties to the conflict shall grant to the International Committee of the Red Cross all facilities within their power so as to enable it to carry out the humanitarian functions assigned to it by the Conventions and this Protocol in order to ensure protection and assistance to the victims of conflicts; the International Committee of the Red Cross may also carry out any other humanitarian activities in favour of these victims, subject to the consent of the Parties to the conflict concerned.
 
-     2.    The Parties to the conflict shall grant to their respective Red Cross (Red Crescent, Red Lion and Sun) organizations the facilities necessary for carrying out their humanitarian activities in favour of the victims of the conflict, in accordance with the provisions of the Conventions and this Protocol and the fundamental principles of the Red Cross as formulated by the International Conferences of the Red Cross.
+     2.     The Parties to the conflict shall grant to their respective Red Cross (Red Crescent, Red Lion and Sun) organizations the facilities necessary for carrying out their humanitarian activities in favour of the victims of the conflict, in accordance with the provisions of the Conventions and this Protocol and the fundamental principles of the Red Cross as formulated by the International Conferences of the Red Cross.
 
-     3.    The High Contracting Parties and the Parties to the conflict shall facilitate in every possible way the assistance which Red Cross (Red Crescent, Red Lion and Sun) organizations and the League of Red Cross Societies extend to the victims of conflicts in accordance with the provisions of the Conventions and this Protocol and with the fundamental principles of the Red Cross as formulated by the International Conferences of the Red Cross.
+     3.     The High Contracting Parties and the Parties to the conflict shall facilitate in every possible way the assistance which Red Cross (Red Crescent, Red Lion and Sun) organizations and the League of Red Cross Societies extend to the victims of conflicts in accordance with the provisions of the Conventions and this Protocol and with the fundamental principles of the Red Cross as formulated by the International Conferences of the Red Cross.
 
-     4.    The High Contracting Parties and the Parties to the conflict shall, as far as possible, make facilities similar to those mentioned in paragraphs 2 and 3 available to the other humanitarian organizations referred to in the Conventions and this Protocol which are duly authorized by the respective Parties to the conflict and which perform their humanitarian activities in accordance with the provisions of the Conventions and this Protocol.
+     4.     The High Contracting Parties and the Parties to the conflict shall, as far as possible, make facilities similar to those mentioned in paragraphs 2 and 3 available to the other humanitarian organizations referred to in the Conventions and this Protocol which are duly authorized by the respective Parties to the conflict and which perform their humanitarian activities in accordance with the provisions of the Conventions and this Protocol.
 
 _Article 82—Legal advisers in armed forces_
 
@@ -5012,9 +5000,9 @@ _Article 82—Legal advisers in armed forces_
 
 _Article 83—Dissemination_
 
-     1.    The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate the Conventions and this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that those instruments may become known to the armed forces and to the civilian population.
+     1.     The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate the Conventions and this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that those instruments may become known to the armed forces and to the civilian population.
 
-     2.    Any military or civilian authorities who, in time of armed conflict, assume responsibilities in respect of the application of the Conventions and this Protocol shall be fully acquainted with the text thereof.
+     2.     Any military or civilian authorities who, in time of armed conflict, assume responsibilities in respect of the application of the Conventions and this Protocol shall be fully acquainted with the text thereof.
 
 _Article 84—Rules of application_
 
@@ -5026,11 +5014,11 @@ REPRESSION OF BREACHES OF THE CONVENTIONS AND OF THIS PROTOCOL
 
 _Article 85—Repression of breaches of this Protocol_
 
-     1.    The provisions of the Conventions relating to the repression of breaches and grave breaches, supplemented by this Section, shall apply to the repression of breaches and grave breaches of this Protocol.
+     1.     The provisions of the Conventions relating to the repression of breaches and grave breaches, supplemented by this Section, shall apply to the repression of breaches and grave breaches of this Protocol.
 
-     2.    Acts described as grave breaches in the Conventions are grave breaches of this Protocol if committed against persons in the power of an adverse Party protected by Articles 44, 45 and 73 of this Protocol, or against the wounded, sick and shipwrecked of the adverse Party who are protected by this Protocol, or against those medical or religious personnel, medical units or medical transports which are under the control of the adverse Party and are protected by this Protocol.
+     2.     Acts described as grave breaches in the Conventions are grave breaches of this Protocol if committed against persons in the power of an adverse Party protected by Articles 44, 45 and 73 of this Protocol, or against the wounded, sick and shipwrecked of the adverse Party who are protected by this Protocol, or against those medical or religious personnel, medical units or medical transports which are under the control of the adverse Party and are protected by this Protocol.
 
-     3.    In addition to the grave breaches defined in Article 11, the following acts shall be regarded as grave breaches of this Protocol, when committed wilfully, in violation of the relevant provisions of this Protocol, and causing death or serious injury to body or health:
+     3.     In addition to the grave breaches defined in Article 11, the following acts shall be regarded as grave breaches of this Protocol, when committed wilfully, in violation of the relevant provisions of this Protocol, and causing death or serious injury to body or health:
 
      (_a_)   making the civilian population or individual civilians the object of attack;
 
@@ -5038,13 +5026,13 @@ _Article 85—Repression of breaches of this Protocol_
 
      (_c_)   launching an attack against works or installations containing dangerous forces in the knowledge that such attack will cause excessive loss of life, injury to civilians or damage to civilian objects, as defined in Article 57, paragraph 2 (_a_) (iii);
 
-     (_d_)   making non‑defended localities and demilitarized zones the object of attack;
+     (_d_)   making non-defended localities and demilitarized zones the object of attack;
 
      (_e_)   making a person the object of attack in the knowledge that he is _hors de combat_;
 
-     (_f_)    the perfidious use, in violation of Article 37, of the distinctive emblem of the red cross, red crescent or red lion and sun or of other protective signs recognized by the Conventions or this Protocol.
+     (_f_)   the perfidious use, in violation of Article 37, of the distinctive emblem of the red cross, red crescent or red lion and sun or of other protective signs recognized by the Conventions or this Protocol.
 
-     4.    In addition to the grave breaches defined in the preceding paragraphs and in the Conventions, the following shall be regarded as grave breaches of this Protocol, when committed wilfully and in violation of the Conventions or the Protocol:
+     4.     In addition to the grave breaches defined in the preceding paragraphs and in the Conventions, the following shall be regarded as grave breaches of this Protocol, when committed wilfully and in violation of the Conventions or the Protocol:
 
      (_a_)   the transfer by the Occupying Power of parts of its own civilian population into the territory it occupies, or the deportation or transfer of all or parts of the population of the occupied territory within or outside this territory, in violation of Article 49 of the Fourth Convention;
 
@@ -5052,41 +5040,41 @@ _Article 85—Repression of breaches of this Protocol_
 
      (_c_)   practices of _apartheid_ and other inhuman and degrading practices involving outrages upon personal dignity, based on racial discrimination;
 
-     (_d_)   making the clearly recognized historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples and to which special protection has been given by special arrangement, for example, within the framework of a competent international organization, the object of attack, causing as a result extensive destruction thereof, where there is no evidence of the violation by the adverse Party of Article 53, sub‑paragraph (_b_), and when such historic monuments, works of art and places of worship are not located in the immediate proximity of military objectives;
+     (_d_)   making the clearly recognized historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples and to which special protection has been given by special arrangement, for example, within the framework of a competent international organization, the object of attack, causing as a result extensive destruction thereof, where there is no evidence of the violation by the adverse Party of Article 53, sub-paragraph (_b_), and when such historic monuments, works of art and places of worship are not located in the immediate proximity of military objectives;
 
      (_e_)   depriving a person protected by the Conventions or referred to in paragraph 2 of this Article of the rights of fair and regular trial.
 
-     5.    Without prejudice to the application of the Conventions and of this Protocol, grave breaches of these instruments shall be regarded as war crimes.
+     5.     Without prejudice to the application of the Conventions and of this Protocol, grave breaches of these instruments shall be regarded as war crimes.
 
 _Article 86—Failure to act_
 
-     1.    The High Contracting Parties and the Parties to the conflict shall represss grave breaches, and take measures necessary to suppress all other breaches, of the Conventions or of this Protocol which result from a failure to act when under a duty to do so.
+     1.     The High Contracting Parties and the Parties to the conflict shall represss grave breaches, and take measures necessary to suppress all other breaches, of the Conventions or of this Protocol which result from a failure to act when under a duty to do so.
 
-     2.    The fact that a breach of the Conventions or of this Protocol was committed by a subordinate does not absolve his superiors from penal or disciplinary responsibility, as the case may be, if they knew, or had information which should have enabled them to conclude in the circumstances at the time, that he was committing or was going to commit such a breach and if they did not take all feasible measures within their power to prevent or repress the breach.
+     2.     The fact that a breach of the Conventions or of this Protocol was committed by a subordinate does not absolve his superiors from penal or disciplinary responsibility, as the case may be, if they knew, or had information which should have enabled them to conclude in the circumstances at the time, that he was committing or was going to commit such a breach and if they did not take all feasible measures within their power to prevent or repress the breach.
 
 _Article 87—Duty of commanders_
 
-     1.    The High Contracting Parties and the Parties to the conflict shall require military commanders, with respect to members of the armed forces under their command and other persons under their control, to prevent and, where necessary, to suppress and to report to competent authorities breaches of the Conventions and of this Protocol.
+     1.     The High Contracting Parties and the Parties to the conflict shall require military commanders, with respect to members of the armed forces under their command and other persons under their control, to prevent and, where necessary, to suppress and to report to competent authorities breaches of the Conventions and of this Protocol.
 
-     2.    In order to prevent and suppress breaches, High Contracting Parties and Parties to the conflict shall require that, commensurate with their level of responsibility, commanders ensure that members of the armed forces under their command are aware of their obligations under the Conventions and this Protocol.
+     2.     In order to prevent and suppress breaches, High Contracting Parties and Parties to the conflict shall require that, commensurate with their level of responsibility, commanders ensure that members of the armed forces under their command are aware of their obligations under the Conventions and this Protocol.
 
-     3.    The High Contracting Parties and Parties to the conflict shall require any commander who is aware that subordinates or other persons under his control are going to commit or have committed a breach of the Conventions or of this Protocol, to initiate such steps as are necessary to prevent such violations of the Conventions or this Protocol, and, where appropriate, to initiate disciplinary or penal action against violators thereof.
+     3.     The High Contracting Parties and Parties to the conflict shall require any commander who is aware that subordinates or other persons under his control are going to commit or have committed a breach of the Conventions or of this Protocol, to initiate such steps as are necessary to prevent such violations of the Conventions or this Protocol, and, where appropriate, to initiate disciplinary or penal action against violators thereof.
 
 _Article 88—Mutual assistance in criminal matters_
 
-     1.    The High Contracting Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of grave breaches of the Conventions or of this Protocol.
+     1.     The High Contracting Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of grave breaches of the Conventions or of this Protocol.
 
-     2.    Subject to the rights and obligations established in the Conventions and in Article 85, paragraph 1, of this Protocol, and when circumstances permit, the High Contracting Parties shall co‑operate in the matter of extradition. They shall give due consideration to the request of the State in whose territory the alleged offence has occurred.
+     2.     Subject to the rights and obligations established in the Conventions and in Article 85, paragraph 1, of this Protocol, and when circumstances permit, the High Contracting Parties shall co-operate in the matter of extradition. They shall give due consideration to the request of the State in whose territory the alleged offence has occurred.
 
-     3.    The law of the High Contracting Party requested shall apply in all cases. The provisions of the preceding paragraphs shall not, however, affect the obligations arising from the provisions of any other treaty of a bilateral or multilateral nature which governs or will govern the whole or part of the subject of mutual assistance in criminal matters.
+     3.     The law of the High Contracting Party requested shall apply in all cases. The provisions of the preceding paragraphs shall not, however, affect the obligations arising from the provisions of any other treaty of a bilateral or multilateral nature which governs or will govern the whole or part of the subject of mutual assistance in criminal matters.
 
-_Article 89—Co‑operation_
+_Article 89—Co-operation_
 
-     In situations of serious violations of the Conventions or of this Protocol, the High Contracting Parties undertake to act, jointly or individually, in co‑operation with the United Nations and in conformity with the United Nations Charter.
+     In situations of serious violations of the Conventions or of this Protocol, the High Contracting Parties undertake to act, jointly or individually, in co-operation with the United Nations and in conformity with the United Nations Charter.
 
-_Article 90—International Fact‑Finding Commission_
+_Article 90—International Fact-Finding Commission_
 
-1.    (_a_)   An International Fact‑Finding Commission (hereinafter referred to as “the Commission”) consisting of fifteen members of high moral standing and acknowledged impartiality shall be established.
+1.    (_a_)   An International Fact-Finding Commission (hereinafter referred to as “the Commission”) consisting of fifteen members of high moral standing and acknowledged impartiality shall be established.
 
             (_b_)   When not less than twenty High Contracting Parties have agreed to accept the competence of the Commission pursuant to paragraph 2, the depositary shall then, and at intervals of five years thereafter, convene a meeting of representatives of those High Contracting Parties for the purpose of electing the members of the Commission. At the meeting, the representatives shall elect the members of the Commission by secret ballot from a list of persons to which each of those High Contracting Parties may nominate one person.
 
@@ -5094,7 +5082,7 @@ _Article 90—International Fact‑Finding Commission_
 
        (_d_)   At the election, the High Contracting Parties shall ensure that the persons to be elected to the Commission individually possess the qualifications required and that, in the Commission as a whole, equitable geographical representation is assured.
 
-       (_e_)   In the case of a casual vacancy, the Commission itself shall fill the vacancy, having due regard to the provisions of the preceding sub‑paragraphs.
+       (_e_)   In the case of a casual vacancy, the Commission itself shall fill the vacancy, having due regard to the provisions of the preceding sub-paragraphs.
 
        (_f_)    The depositary shall make available to the Commission the necessary administrative facilities for the performance of its functions.
 
@@ -5106,7 +5094,7 @@ _Article 90—International Fact‑Finding Commission_
 
                       (i)  enquire into any facts alleged to be a grave breach as defined in the Conventions and this Protocol or other serious violation of the Conventions or of this Protocol;
 
-                     (ii)  facilitate, through its good offices, the restoration of an attitude of respect for the Conventions and this Protocol.
+                      (ii)  facilitate, through its good offices, the restoration of an attitude of respect for the Conventions and this Protocol.
 
        (_d_)   In other situations, the Commission shall institute an enquiry at the request of a Party to the conflict only with the consent of the other Party or Parties concerned.
 
@@ -5116,11 +5104,11 @@ _Article 90—International Fact‑Finding Commission_
 
                       (i)  five members of the Commission, not nationals of any Party to the conflict, appointed by the President of the Commission on the basis of equitable representation of the geographical areas, after consultation with the Parties to the conflict;
 
-                     (ii)  two _ad hoc_ members, not nationals of any Party to the conflict, one to be appointed by each side.
+                      (ii)  two _ad hoc_ members, not nationals of any Party to the conflict, one to be appointed by each side.
 
-       (_b_)   Upon receipt of the request for an enquiry, the President of the Commission shall specify an appropriate time‑limit for setting up a Chamber. If any _ad hoc_ member has not been appointed within the time‑limit, the President shall immediately appoint such additional member or members of the Commission as may be necessary to complete the membership of the Chamber.
+       (_b_)   Upon receipt of the request for an enquiry, the President of the Commission shall specify an appropriate time-limit for setting up a Chamber. If any ad hoc member has not been appointed within the time-limit, the President shall immediately appoint such additional member or members of the Commission as may be necessary to complete the membership of the Chamber.
 
-4.    (_a_)   The Chamber set up under paragraph 3 to undertake an enquiry shall invite the Parties to the conflict to assist it and to present evidence. The Chamber may also seek such other evidence as it deems appropriate and may carry out an investigation of the situation _in loco_.
+4.    (_a_)   The Chamber set up under paragraph 3 to undertake an enquiry shall invite the Parties to the conflict to assist it and to present evidence. The Chamber may also seek such other evidence as it deems appropriate and may carry out an investigation of the situation in loco.
 
        (_b_)   All evidence shall be fully disclosed to the Parties, which shall have the right to comment on it to the Commission.
 
@@ -5132,9 +5120,9 @@ _Article 90—International Fact‑Finding Commission_
 
        (_c_)   The Commission shall not report its findings publicly, unless all the Parties to the conflict have requested the Commission to do so.
 
-     6.    The Commission shall establish its own rules, including rules for the presidency of the Commission and the presidency of the Chamber. Those rules shall ensure that the functions of the President of the Commission are exercised at all times and that, in the case of an enquiry, they are exercised by a person who is not a national of a Party to the conflict.
+     6.     The Commission shall establish its own rules, including rules for the presidency of the Commission and the presidency of the Chamber. Those rules shall ensure that the functions of the President of the Commission are exercised at all times and that, in the case of an enquiry, they are exercised by a person who is not a national of a Party to the conflict.
 
-     7.    The administrative expenses of the Commission shall be met by contributions from the High Contracting Parties which made declarations under paragraph 2, and by voluntary contributions. The Party or Parties to the conflict requesting an enquiry shall advance the necessary funds for expenses incurred by a Chamber and shall be reimbursed by the Party or Parties against which the allegations are made to the extent of fifty per cent of the costs of the Chamber. Where there are counter‑allegations before the Chamber each side shall advance fifty per cent of the necessary funds.
+     7.     The administrative expenses of the Commission shall be met by contributions from the High Contracting Parties which made declarations under paragraph 2, and by voluntary contributions. The Party or Parties to the conflict requesting an enquiry shall advance the necessary funds for expenses incurred by a Chamber and shall be reimbursed by the Party or Parties against which the allegations are made to the extent of fifty per cent of the costs of the Chamber. Where there are counter-allegations before the Chamber each side shall advance fifty per cent of the necessary funds.
 
 _Article 91—Responsibility_
 
@@ -5158,17 +5146,17 @@ _Article 94—Accession_
 
 _Article 95—Entry into force_
 
-     1.    This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
+     1.     This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
 
-     2.    For each Party to the Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
+     2.     For each Party to the Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
 
 _Article 96—Treaty relations upon entry into force of this Protocol_
 
-     1.    When the Parties to the Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
+     1.     When the Parties to the Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
 
-     2.    When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
+     2.     When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
 
-     3.    The authority representing a people engaged against a High Contracting Party in an armed conflict of the type referred to in Article 1, paragraph 4, may undertake to apply the Conventions and this Protocol in relation to that conflict by means of a unilateral declaration addressed to the depositary. Such declaration shall, upon its receipt by the depositary, have in relation to that conflict the following effects:
+     3.     The authority representing a people engaged against a High Contracting Party in an armed conflict of the type referred to in Article 1, paragraph 4, may undertake to apply the Conventions and this Protocol in relation to that conflict by means of a unilateral declaration addressed to the depositary. Such declaration shall, upon its receipt by the depositary, have in relation to that conflict the following effects:
 
      (_a_)   the Conventions and this Protocol are brought into force for the said authority as a Party to the conflict with immediate effect;
 
@@ -5178,33 +5166,33 @@ _Article 96—Treaty relations upon entry into force of this Protocol_
 
 _Article 97—Amendment_
 
-     1.    Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties and the International Committee of the Red Cross, whether a conference should be convened to consider the proposed amendment.
+     1.     Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties and the International Committee of the Red Cross, whether a conference should be convened to consider the proposed amendment.
 
-     2.    The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol.
+     2.     The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol.
 
 _Article 98—Revision of Annex I_
 
-     1.    Not later than four years after the entry into force of this Protocol and thereafter at intervals of not less than four years, the International Committee of the Red Cross shall consult the High Contracting Parties concerning Annex I to this Protocol and, if it considers it necessary, may propose a meeting of technical experts to review Annex I and to propose such amendments to it as may appear to be desirable. Unless, within six months of the communication of a proposal for such a meeting to the High Contracting Parties, one third of them object, the International Committee of the Red Cross shall convene the meeting, inviting also observers of appropriate international organizations. Such a meeting shall also be convened by the International Committee of the Red Cross at any time at the request of one third of the High Contracting Parties.
+     1.     Not later than four years after the entry into force of this Protocol and thereafter at intervals of not less than four years, the International Committee of the Red Cross shall consult the High Contracting Parties concerning Annex I to this Protocol and, if it considers it necessary, may propose a meeting of technical experts to review Annex I and to propose such amendments to it as may appear to be desirable. Unless, within six months of the communication of a proposal for such a meeting to the High Contracting Parties, one third of them object, the International Committee of the Red Cross shall convene the meeting, inviting also observers of appropriate international organizations. Such a meeting shall also be convened by the International Committee of the Red Cross at any time at the request of one third of the High Contracting Parties.
 
-     2.    The depositary shall convene a conference of the High Contracting Parties and the Parties to the Conventions to consider amendments proposed by the meeting of technical experts if, after that meeting, the International Committee of the Red Cross or one third of the High Contracting Parties so request.
+     2.     The depositary shall convene a conference of the High Contracting Parties and the Parties to the Conventions to consider amendments proposed by the meeting of technical experts if, after that meeting, the International Committee of the Red Cross or one third of the High Contracting Parties so request.
 
-     3.    Amendments to Annex I may be adopted at such a conference by a two‑thirds majority of the High Contracting Parties present and voting.
+     3.     Amendments to Annex I may be adopted at such a conference by a two-thirds majority of the High Contracting Parties present and voting.
 
-     4.    The depositary shall communicate any amendment so adopted to the High Contracting Parties and to the Parties to the Conventions. The amendment shall be considered to have been accepted at the end of a period of one year after it has been so communicated, unless within that period a declaration of non‑acceptance of the amendment has been communicated to the depositary by not less than one third of the High Contracting Parties.
+     4.     The depositary shall communicate any amendment so adopted to the High Contracting Parties and to the Parties to the Conventions. The amendment shall be considered to have been accepted at the end of a period of one year after it has been so communicated, unless within that period a declaration of non-acceptance of the amendment has been communicated to the depositary by not less than one third of the High Contracting Parties.
 
-     5.    An amendment considered to have been accepted in accordance with paragraph 4 shall enter into force three months after its acceptance for all High Contracting Parties other than those which have made a declaration of non‑acceptance in accordance with that paragraph. Any Party making such a declaration may at any time withdraw it and the amendment shall then enter into force for that Party three months thereafter.
+     5.     An amendment considered to have been accepted in accordance with paragraph 4 shall enter into force three months after its acceptance for all High Contracting Parties other than those which have made a declaration of non-acceptance in accordance with that paragraph. Any Party making such a declaration may at any time withdraw it and the amendment shall then enter into force for that Party three months thereafter.
 
-     6.    The depositary shall notify the High Contracting Parties and the Parties to the Conventions of the entry into force of any amendment, of the Parties bound thereby, of the date of its entry into force in relation to each Party, of declarations of non‑acceptance made in accordance with paragraph 4, and of withdrawals of such declarations.
+     6.     The depositary shall notify the High Contracting Parties and the Parties to the Conventions of the entry into force of any amendment, of the Parties bound thereby, of the date of its entry into force in relation to each Party, of declarations of non-acceptance made in accordance with paragraph 4, and of withdrawals of such declarations.
 
 _Article 99—Denunciation_
 
-     1.    In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in one of the situations referred to in Article 1, the denunciation shall not take effect before the end of the armed conflict or occupation and not, in any case, before operations connected with the final release, repatriation or re‑establishment of the persons protected by the Conventions or this Protocol have been terminated.
+     1.     In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in one of the situations referred to in Article 1, the denunciation shall not take effect before the end of the armed conflict or occupation and not, in any case, before operations connected with the final release, repatriation or re-establishment of the persons protected by the Conventions or this Protocol have been terminated.
 
-     2.    The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
+     2.     The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
 
-     3.    The denunciation shall have effect only in respect of the denouncing Party.
+     3.     The denunciation shall have effect only in respect of the denouncing Party.
 
-     4.    Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
+     4.     Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
 
 _Article 100—Notifications_
 
@@ -5222,9 +5210,9 @@ _Article 100—Notifications_
 
 _Article 101—Registration_
 
-     1.    After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
+     1.     After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
 
-     2.    The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
+     2.     The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
 
 _Article 102—Authentic texts_
 
@@ -5240,7 +5228,7 @@ _IDENTITY CARDS_
 
 _Article 1—Identity card for permanent civilian medical and religious personnel_
 
-     1.    The identity card for permanent civilian medical and religious personnel referred to in Article 18, paragraph 3, of the Protocol should:
+     1.     The identity card for permanent civilian medical and religious personnel referred to in Article 18, paragraph 3, of the Protocol should:
 
      (_a_)   bear the distinctive emblem and be of such size that it can be carried in the pocket;
 
@@ -5252,21 +5240,21 @@ _Article 1—Identity card for permanent civilian medical and religious personne
 
      (_e_)   state in what capacity the holder is entitled to the protection of the Conventions and of the Protocol;
 
-     (_f_)    bear the photograph of the holder as well as his signature or his thumbprint, or both;
+     (_f_)   bear the photograph of the holder as well as his signature or his thumbprint, or both;
 
      (_g_)   bear the stamp and signature of the competent authority;
 
      (_h_)   state the date of issue and date of expiry of the card.
 
-     2.    The identity card shall be uniform throughout the territory of each High Contracting Party and, as far as possible, of the same type for all parties to the conflict. The Parties to the conflict may be guided by the single‑languange model shown in Figure 1\. At the outbreak of hostilities, they shall transmit to each other a specimen of the model they are using, if such model differs from that shown in Figure 1\. The identity card shall be made out, if possible, in duplicate, one copy being kept by the issuing authority, which should maintain control of the cards which it has issued.
+     2.     The identity card shall be uniform throughout the territory of each High Contracting Party and, as far as possible, of the same type for all parties to the conflict. The Parties to the conflict may be guided by the single-languange model shown in Figure 1\. At the outbreak of hostilities, they shall transmit to each other a specimen of the model they are using, if such model differs from that shown in Figure 1\. The identity card shall be made out, if possible, in duplicate, one copy being kept by the issuing authority, which should maintain control of the cards which it has issued.
 
-     3.    In no circumstances may permanent civilian medical and religious personnel be deprived of their identity cards. In the event of the loss of a card, they shall be entitled to obtain a duplicate copy.
+     3.     In no circumstances may permanent civilian medical and religious personnel be deprived of their identity cards. In the event of the loss of a card, they shall be entitled to obtain a duplicate copy.
 
 _Article 2—Identity card for temporary civilian medical and religious personnel_
 
-     1.    The identity card for temporary civilian medical and religious personnel should, whenever possible, be similar to that provided for in Article 1 of these Regulations. The Parties to the conflict may be guided by the model shown in Figure 1.
+     1.     The identity card for temporary civilian medical and religious personnel should, whenever possible, be similar to that provided for in Article 1 of these Regulations. The Parties to the conflict may be guided by the model shown in Figure 1.
 
-     2.    When circumstances preclude the provision to temporary civilian medical and religious personnel of identity cards similar to those described in Article 1 of these Regulations, the said personnel may be provided with a certificate signed by the competent authority certifying that the person to whom it is issued is assigned to duty as temporary personnel and stating, if possible, the duration of such assignment and his right to wear the distinctive emblem. The certificate should mention the holder's name and date of birth (or if that date is not available, his age at the time when the certificate was issued), his function and identity number, if any. It shall bear his signature or his thumbprint, or both.
+     2.     When circumstances preclude the provision to temporary civilian medical and religious personnel of identity cards similar to those described in Article 1 of these Regulations, the said personnel may be provided with a certificate signed by the competent authority certifying that the person to whom it is issued is assigned to duty as temporary personnel and stating, if possible, the duration of such assignment and his right to wear the distinctive emblem. The certificate should mention the holder's name and date of birth (or if that date is not available, his age at the time when the certificate was issued), his function and identity number, if any. It shall bear his signature or his thumbprint, or both.
 
 _Fig. 1: Model of identity card_
 
@@ -5278,19 +5266,19 @@ _THE DISTINCTIVE EMBLEM_
 
 _Article 3—Shape and nature_
 
-     1.    The distinctive emblem (red on a white ground) shall be as large as appropriate under the circumstances. For the shapes of the cross, the crescent or the lion and sun, the High Contracting Parties may be guided by the models shown in Figure 2.
+     1.     The distinctive emblem (red on a white ground) shall be as large as appropriate under the circumstances. For the shapes of the cross, the crescent or the lion and sun, the High Contracting Parties may be guided by the models shown in Figure 2.
 
-     2.    At night or when visibility is reduced, the distinctive emblem may be lighted or illuminated; it may also be made of materials rendering it recognizable by technical means of detection.
+     2.     At night or when visibility is reduced, the distinctive emblem may be lighted or illuminated; it may also be made of materials rendering it recognizable by technical means of detection.
 
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image003.jpg)
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image003.jpg)
 
 _Fig. 2: Distinctive emblems in red on a white ground_
 
 _Article 4—Use_
 
-     1.    The distinctive emblem shall, whenever possible, be displayed on a flat surface or on flags visible from as many directions and from as far away as possible.
+     1.     The distinctive emblem shall, whenever possible, be displayed on a flat surface or on flags visible from as many directions and from as far away as possible.
 
-     2.    Subject to the instructions of the competent authority, medical and religious personnel carrying out their duties in the battle area shall, as far as possible, wear headgear and clothing bearing the distinctive emblem.
+     2.     Subject to the instructions of the competent authority, medical and religious personnel carrying out their duties in the battle area shall, as far as possible, wear headgear and clothing bearing the distinctive emblem.
 
 _Chapter III_
 
@@ -5298,13 +5286,13 @@ _DISTINCTIVE SIGNALS_
 
 _Article 5—Optional Use_
 
-     1.    Subject to the provisions of Article 6 of these Regulations, the signals specified in this Chapter for exclusive use by medical units and transports shall not be used for any other purpose. The use of all signals referred to in this Chapter is optional.
+     1.     Subject to the provisions of Article 6 of these Regulations, the signals specified in this Chapter for exclusive use by medical units and transports shall not be used for any other purpose. The use of all signals referred to in this Chapter is optional.
 
-     2.    Temporary medical aircraft which cannot, either for lack of time or because of their characteristics, be marked with the distinctive emblem, may use the distinctive signals authorized in this Chapter. The best method of effective identification and recognition of medical aircraft is, however, the use of a visual signal, either the distinctive emblem or the light signal specified in Article 6, or both, supplemented by the other signals referred to in Articles 7 and 8 of these Regulations.
+     2.     Temporary medical aircraft which cannot, either for lack of time or because of their characteristics, be marked with the distinctive emblem, may use the distinctive signals authorized in this Chapter. The best method of effective identification and recognition of medical aircraft is, however, the use of a visual signal, either the distinctive emblem or the light signal specified in Article 6, or both, supplemented by the other signals referred to in Articles 7 and 8 of these Regulations.
 
 _Article 6—Light signal_
 
-     1.    The light signal, consisting of a flashing blue light, is established for the use of medical aircraft to signal their identity. No other aircraft shall use this signal. The recommended blue colour is obtained by using, as trichromatic co‑ordinates:
+     1.     The light signal, consisting of a flashing blue light, is established for the use of medical aircraft to signal their identity. No other aircraft shall use this signal. The recommended blue colour is obtained by using, as trichromatic co-ordinates:
 
 <table>
 <colgroup>
@@ -5317,7 +5305,7 @@ _Article 6—Light signal_
     <div>green boundary</div>
   </td>
   <td>
-    <div>y = 0.065 + 0.805x</div>
+    <div>y= 0.065 + 0.805x</div>
   </td>
 </tr>
 <tr>
@@ -5325,7 +5313,7 @@ _Article 6—Light signal_
     <div>white boundary</div>
   </td>
   <td>
-    <div>y = 0.400 – x</div>
+    <div>y= 0.400 – x</div>
   </td>
 </tr>
 <tr>
@@ -5333,21 +5321,21 @@ _Article 6—Light signal_
     <div>purple boundary</div>
   </td>
   <td>
-    <div>x = 0.133 + 0.600y</div>
+    <div>x= 0.133 + 0.600y</div>
   </td>
 </tr></table>
 
 The recommended flashing rate of the blue light is between sixty and one hundred flashes per minute.
 
-     2.    Medical aircraft should be equipped with such lights as may be necessary to make the light signal visible in as many directions as possible.
+     2.     Medical aircraft should be equipped with such lights as may be necessary to make the light signal visible in as many directions as possible.
 
-     3.    In the absence of a special agreement between the Parties to the conflict reserving the use of flashing blue lights for the identification of medical vehicles and ships and craft, the use of such signals for other vehicles or ships is not prohibited.
+     3.     In the absence of a special agreement between the Parties to the conflict reserving the use of flashing blue lights for the identification of medical vehicles and ships and craft, the use of such signals for other vehicles or ships is not prohibited.
 
 _Article 7—Radio signal_
 
-     1.    The radio signal shall consist of a radiotelephonic or radiotelegraphic message preceded by a distinctive priority signal to be designated and approved by a World Administrative Radio Conference of the International Telecommunication Union. It shall be transmitted three times before the call sign of the medical transport involved. This message shall be transmitted in English at appropriate intervals on a frequency or frequencies specified pursuant to paragraph 3\. The use of the priority signal shall be restricted exclusively to medical units and transports.
+     1.     The radio signal shall consist of a radiotelephonic or radiotelegraphic message preceded by a distinctive priority signal to be designated and approved by a World Administrative Radio Conference of the International Telecommunication Union. It shall be transmitted three times before the call sign of the medical transport involved. This message shall be transmitted in English at appropriate intervals on a frequency or frequencies specified pursuant to paragraph 3\. The use of the priority signal shall be restricted exclusively to medical units and transports.
 
-     2.    The radio message preceded by the distinctive priority signal mentioned in paragraph 1 shall convey the following data:
+     2.     The radio message preceded by the distinctive priority signal mentioned in paragraph 1 shall convey the following data:
 
 (_a_)   call sign of the medical transport;
 
@@ -5359,15 +5347,15 @@ _Article 7—Radio signal_
 
      (_e_)   estimated time _en route_ and of departure and arrival, as appropriate;
 
-     (_f_)    any other information such as flight altitude, radio frequencies guarded, languages and secondary surveillance radar modes and codes.
+     (_f_)   any other information such as flight altitude, radio frequencies guarded, languages and secondary surveillance radar modes and codes.
 
-     3.    In order to facilitate the communications referred to in paragraphs 1 and 2, as well as the communications referred to in Articles 22, 23, 25, 26, 27, 28, 29, 30 and 31 of the Protocol, the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, may designate, in accordance with the Table of Frequency Allocations in the Radio Regulations annexed to the International Telecommunication Convention, and publish selected national frequencies to be used by them for such communications. These frequencies shall be notified to the International Telecommunication Union in accordance with procedures to be approved by a World Administrative Radio Conference.
+     3.     In order to facilitate the communications referred to in paragraphs 1 and 2, as well as the communications referred to in Articles 22, 23, 25, 26, 27, 28, 29, 30 and 31 of the Protocol, the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, may designate, in accordance with the Table of Frequency Allocations in the Radio Regulations annexed to the International Telecommunication Convention, and publish selected national frequencies to be used by them for such communications. These frequencies shall be notified to the International Telecommunication Union in accordance with procedures to be approved by a World Administrative Radio Conference.
 
 _Article 8—Electronic identification_
 
-     1.    The Secondary Surveillance Radar (SSR) system, as specified in Annex 10 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used to identify and to follow the course of medical aircraft. The SSR mode and code to be reserved for the exclusive use of medical aircraft shall be established by the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, in accordance with procedures to be recommended by the International Civil Aviation Organization.
+     1.     The Secondary Surveillance Radar (SSR) system, as specified in Annex 10 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used to identify and to follow the course of medical aircraft. The SSR mode and code to be reserved for the exclusive use of medical aircraft shall be established by the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, in accordance with procedures to be recommended by the International Civil Aviation Organization.
 
-     2.    Parties to a conflict may, by special agreement between them, establish for their use a similar electronic system for the identification of medical vehicles, and medical ships and craft.
+     2.     Parties to a conflict may, by special agreement between them, establish for their use a similar electronic system for the identification of medical vehicles, and medical ships and craft.
 
 _Chapter IV_
 
@@ -5379,11 +5367,11 @@ _Article 9—Radiocommunications_
 
 _Article 10—Use of international codes_
 
-     Medical units and transports may also use the codes and signals laid down by the International Telecommunication Union, the International Civil Aviation Organization and the Inter‑Governmental Maritime Consultative Organization. These codes and signals shall be used in accordance with the standards, practices and procedures established by these Organizations.
+     Medical units and transports may also use the codes and signals laid down by the International Telecommunication Union, the International Civil Aviation Organization and the Inter-Governmental Maritime Consultative Organization. These codes and signals shall be used in accordance with the standards, practices and procedures established by these Organizations.
 
 _Article 11—Other means of communication_
 
-     When two‑way radiocommunication is not possible, the signals provided for in the International Code of Signals adopted by the Inter‑Governmental Maritime Consultative Organization or in the appropriate Annex to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used.
+     When two-way radiocommunication is not possible, the signals provided for in the International Code of Signals adopted by the Inter-Governmental Maritime Consultative Organization or in the appropriate Annex to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used.
 
 _Article 12—Flight plans_
 
@@ -5399,18 +5387,18 @@ _CIVIL DEFENCE_
 
 _Article 14—Identity card_
 
-     1.    The identity card of the civil defence personnel provided for in Article 66, paragraph 3, of the Protocol is governed by the relevant provisions of Article 1 of these Regulations.
+     1.     The identity card of the civil defence personnel provided for in Article 66, paragraph 3, of the Protocol is governed by the relevant provisions of Article 1 of these Regulations.
 
-     2.    The identity card for civil defence personnel may follow the model shown in Figure 3.
+     2.     The identity card for civil defence personnel may follow the model shown in Figure 3.
 
-     3.    If civil defence personnel are permitted to carry light individual weapons, an entry to that effect should be made on the card mentioned.
+     3.     If civil defence personnel are permitted to carry light individual weapons, an entry to that effect should be made on the card mentioned.
 
 FRONT
 
 * * *
 
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image004.gif)(space reserved for the name
- ![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image005.gif)of the country and authority
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image004.gif)![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image004.gif)(space reserved for the name
+ ![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image005.gif)of the country and authority
  issuing this card)
 
 IDENTITY CARD
@@ -5421,11 +5409,11 @@ Name ...........................................................................
 
 ................................................................................................................. 
 
-Date of birth (or age) ................................................................................. 
+Date of birth (or age) .................................................................................. 
 
-Identity No. (if any) .................................................................................. 
+Identity No. (if any) ..................................................................................... 
 
-The holder of this card is protected by the Geneva Conventions of 12 August 1949 and by the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) in his capacity as .................................................................... 
+The holder of this card is protected by the Geneva Conventions of 12 August 1949 and by the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) in his capacity as ......................................................................................... 
 
 ................................................................................................................. 
 
@@ -5435,17 +5423,17 @@ The holder of this card is protected by the Geneva Conventions of 12 August 19
 
 none;border-right:solid windowtext 1.0pt;padding:0cm 1.0pt 0cm 1.0pt">
 
-Date of issue ..................................... No. of card ..................................... 
+Date of issue ...................................... No. of card ...................................... 
 
-                                                                 Signature of issuing
+                                                                  Signature of issuing
 
-                                                                         authority
+                                                                          authority
 
 </div>
 
 * * *
 
-Date if expiry ............................ 
+Date if expiry .............................. 
 
 * * *
 
@@ -5461,7 +5449,7 @@ REVERSE SIDE
 
 <tr>
   <td>
-    <div>Height........................</div>
+    <div>Height.........................</div>
   </td>
   <td colspan="2">
     <div>Eyes.......................</div>
@@ -5475,7 +5463,7 @@ REVERSE SIDE
     <div>Other distinguishing marks or information:</div>
     <div>.................................................................................................................</div>
     <div>.................................................................................................................</div>
-      <div>Weapons ...................................................................................................</div>
+      <div>Weapons ....................................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -5514,14 +5502,14 @@ _Article 15—International distinctive sign_
 <tr>
   <td></td>
   <td>
-    <img width="152" height="134" src="http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image006.gif">
+    <img width="152" height="134" src="http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image006.gif">
   </td>
 </tr></table>  
-      1.    The international distinctive sign of civil defence provided for in Article 66, paragraph 4, of the Protocol is an equilateral blue triangle on an orange ground. A model is shown in Figure 4:
+      1.     The international distinctive sign of civil defence provided for in Article 66, paragraph 4, of the Protocol is an equilateral blue triangle on an orange ground. A model is shown in Figure 4:
 
 _Fig. 4: Blue triangle on an orange ground_
 
-     2.    It is recommended that:
+     2.     It is recommended that:
 
      (_a_)   if the blue triangle is on a flag or armlet or tabard, the ground to the triangle be the orange flag, armlet or tabard;
 
@@ -5529,7 +5517,7 @@ _Fig. 4: Blue triangle on an orange ground_
 
      (_c_)   no angle of the triangle touch the edge of the orange ground.
 
-     3.    The international distinctive sign shall be as large as appropriate under the circumstances. The distinctive sign shall, whenever possible, be displayed on flat surfaces or on flags visible from as many directions and from as far away as possible. Subject to the instructions of the competent authority, civil defence personnel shall, as far as possible, wear headgear and clothing bearing the international distinctive sign. At night or when visibility is reduced, the sign may be lighted or illuminated; it may also be made of materials redering it recognizable by technical means of detection.
+     3.     The international distinctive sign shall be as large as appropriate under the circumstances. The distinctive sign shall, whenever possible, be displayed on flat surfaces or on flags visible from as many directions and from as far away as possible. Subject to the instructions of the competent authority, civil defence personnel shall, as far as possible, wear headgear and clothing bearing the international distinctive sign. At night or when visibility is reduced, the sign may be lighted or illuminated; it may also be made of materials redering it recognizable by technical means of detection.
 
 _Chapter VI_
 
@@ -5537,13 +5525,13 @@ _WORKS AND INSTALLATIONS CONTAINING_ _DANGEROUS FORCES_
 
 _Article 16—International special sign_
 
-     1.    The international special sign for works and installations containing dangerous forces, as provided for in Article 56, paragraph 7, of the Protocol, shall be a group of three bright orange circles of equal size, placed on the same axis, the distance between each circle being one radius, in accordance with Figure 5 illustrated below.
+     1.     The international special sign for works and installations containing dangerous forces, as provided for in Article 56, paragraph 7, of the Protocol, shall be a group of three bright orange circles of equal size, placed on the same axis, the distance between each circle being one radius, in accordance with Figure 5 illustrated below.
 
-     2.    The sign shall be as large as appropriate under the circumstances. When displayed over an extended surface it may be repeated as often as appropriate under the circumstances. It shall, whenever possible, be displayed on flat surfaces or on flags so as to be visible from as many directions and from as far away as possible.
+     2.     The sign shall be as large as appropriate under the circumstances. When displayed over an extended surface it may be repeated as often as appropriate under the circumstances. It shall, whenever possible, be displayed on flat surfaces or on flags so as to be visible from as many directions and from as far away as possible.
 
-     3.    On a flag, the distance between the outer limits of the sign and the adjacent sides of the flag shall be one radius of a circle. The flag shall be rectangular and shall have a white ground.
+     3.     On a flag, the distance between the outer limits of the sign and the adjacent sides of the flag shall be one radius of a circle. The flag shall be rectangular and shall have a white ground.
 
-     4.    At night or when visibility is reduced, the sign may be lighted or illuminated. It may also be made of materials rendering it recognizable by technical means of detection.
+     4.     At night or when visibility is reduced, the sign may be lighted or illuminated. It may also be made of materials rendering it recognizable by technical means of detection.
 
   <table align="left">
 <colgroup>
@@ -5555,7 +5543,7 @@ _Article 16—International special sign_
 <tr>
   <td></td>
   <td>
-    <img width="357" height="93" src="http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image007.gif">
+    <img width="357" height="93" src="http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image007.gif">
   </td>
 </tr></table>    
 
@@ -5565,171 +5553,9 @@ _Fig. 5: International special sign for works and installations containing dange
 
  IDENTITY CARD FOR JOURNALISTS ON DANGEROUS PROFESSIONAL MISSIONS
 
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image009.gif)
-
-# Schedule 6—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III)
-
-_Section 5_
-
-**_Preamble_**
-
-_The High Contracting Parties,_
-
-(PP1) _Reaffirming_ the provisions of the Geneva Conventions of 12 August 1949 (in particular Articles 26, 38, 42 and 44 of the First Geneva Convention) and, where applicable, their Additional Protocols of 8 June 1977 (in particular Articles 18 and 38 of Additional Protocol I and Article 12 of Additional Protocol II), concerning the use of distinctive emblems,
-
-(PP2) _Desiring_ to supplement the aforementioned provisions so as to enhance their protective value and universal character,
-
-(PP3) _Noting_ that this Protocol is without prejudice to the recognized right of High Contracting Parties to continue to use the emblems they are using in conformity with their obligations under the Geneva Conventions and, where applicable, the Protocols additional thereto,
-
-(PP4) _Recalling_ that the obligation to respect persons and objects protected by the Geneva Conventions and the Protocols additional thereto derives from their protected status under international law and is not dependent on use of the distinctive emblems, signs or signals,
-
-(PP5) _Stressing_ that the distinctive emblems are not intended to have any religious, ethnic, racial, regional or political significance,
-
-(PP6) _Emphasizing_ the importance of ensuring full respect for the obligations relating to the distinctive emblems recognized in the Geneva Conventions, and, where applicable, the Protocols additional thereto,
-
-(PP7) _Recalling_ that Article 44 of the First Geneva Convention makes the distinction between the protective use and the indicative use of the distinctive emblems,
-
-(PP8) _Recalling further_ that National Societies undertaking activities on the territory of another State must ensure that the emblems they intend to use within the framework of such activities may be used in the country where the activity takes place and in the country or countries of transit,
-
-(PP9) _Recognizing_ the difficulties that certain States and National Societies may have with the use of the existing distinctive emblems,
-
-(PP10) _Noting_ the determination of the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and the International Red Cross and Red Crescent Movement to retain their current names and emblems,
-
-_Have agreed on the following:_
-
-**_Article 1 ‑ Respect for and scope of application of this Protocol_**
-
-1.   The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
-
-2.   This Protocol reaffirms and supplements the provisions of the four Geneva Conventions of 12 August 1949 (“the Geneva Conventions”) and, where applicable, of their two Additional Protocols of 8 June 1977 (“the 1977 Additional Protocols”) relating to the distinctive emblems, namely the red cross, the red crescent and the red lion and sun, and shall apply in the same situations as those referred to in these provisions.
-
-**_Article 2 ‑ Distinctive emblems_**
-
-1.   This Protocol recognizes an additional distinctive emblem in addition to, and for the same purposes as, the distinctive emblems of the Geneva Conventions. The distinctive emblems shall enjoy equal status.
-
-2.   This additional distinctive emblem, composed of a red frame in the shape of a square on edge on a white ground, shall conform to the illustration in the Annex to this Protocol. This distinctive emblem is referred to in this Protocol as the “third Protocol emblem”.
-
-3.   The conditions for use of and respect for the third Protocol emblem are identical to those for the distinctive emblems established by the Geneva Conventions and, where applicable, the 1977 Additional Protocols.
-
-4.   The medical services and religious personnel of armed forces of High Contracting Parties may, without prejudice to their current emblems, make temporary use of any distinctive emblem referred to in paragraph 1 of this Article where this may enhance protection.
-
-**_Article 3 ‑ Indicative use of the third Protocol emblem_**
-
-1.   National Societies of those High Contracting Parties which decide to use the third Protocol emblem may, in using the emblem in conformity with relevant national legislation, choose to incorporate within it, for indicative purposes:
-
-a)   a distinctive emblem recognized by the Geneva Conventions or a combination of these emblems; or
-
-b)  another emblem which has been in effective use by a High Contracting Party and was the subject of a communication to the other High Contracting Parties and the International Committee of the Red Cross through the depositary prior to the adoption of this Protocol.
-
-Incorporation shall conform to the illustration in the Annex to this Protocol.
-
-2.   A National Society which chooses to incorporate within the third Protocol emblem another emblem in accordance with paragraph 1 above, may, in conformity with national legislation, use the designation of that emblem and display it within its national territory.
-
-3.   National Societies may, in accordance with national legislation and in exceptional circumstances and to facilitate their work, make temporary use of the distinctive emblem referred to in Article 2 of this Protocol.
-
-4.   This Article does not affect the legal status of the distinctive emblems recognized in the Geneva Conventions and in this Protocol, nor does it affect the legal status of any particular emblem when incorporated for indicative purposes in accordance with paragraph 1 of this Article.
-
-**_Article 4 ‑ International Committee of the Red Cross and_**
-
-**_International_**
-
-**_Federation of Red Cross and Red Crescent Societies_**
-
-The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, and their duly authorized personnel, may use, in exceptional circumstances and to facilitate their work, the distinctive emblem referred to in Article 2 of this Protocol.
-
-**_Article 5 ‑ Missions under United Nations auspices_**
-
-The medical services and religious personnel participating in operations under the auspices of the United Nations may, with the agreement of participating States, use one of the distinctive emblems mentioned in Articles 1 and 2.
-
-**_Article 6 ‑ Prevention and repression of misuse_**
-
-1.   The provisions of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, governing prevention and repression of misuse of the distinctive emblems shall apply equally to the third Protocol emblem. In particular, the High Contracting Parties shall take measures necessary for the prevention and repression, at all times, of any misuse of the distinctive emblems mentioned in Articles 1 and 2 and their designations, including the perfidious use and the use of any sign or designation constituting an imitation thereof.
-
-2.   Notwithstanding paragraph 1 above, High Contracting Parties may permit prior users of the third Protocol emblem, or of any sign constituting an imitation thereof, to continue such use, provided that the said use shall not be such as would appear, in time of armed conflict, to confer the protection of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, and provided that the rights to such use were acquired before the adoption of this Protocol.
-
-**_Article 7 ‑ Dissemination_**
-
-The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that this instrument may become known to the armed forces and to the civilian population.
-
-**_Article 8 ‑ Signature_**
-
-This Protocol shall be open for signature by the Parties to the Geneva Conventions on the day of its adoption and will remain open for a period of twelve months.
-
-**_Article 9 ‑ Ratification_**
-
-This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Geneva Conventions and the 1977 Additional Protocols.
-
-**_Article 10 ‑ Accession_**
-
-This Protocol shall be open for accession by any Party to the Geneva Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
-
-**_Article 11 ‑ Entry into force_**
-
-1.   This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
-
-2.   For each Party to the Geneva Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
-
-**_Article 12 ‑ Treaty relations upon entry into force of this Protocol_**
-
-1.   When the Parties to the Geneva Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
-
-2.   When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
-
-**_Article 13 ‑ Amendment_**
-
-1.   Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties, the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, whether a conference should be convened to consider the proposed amendment.
-
-2.   The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol.
-
-**_Article 14 ‑ Denunciation_**
-
-1.   In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in a situation of armed conflict or occupation, the denunciation shall not take effect before the end of the armed conflict or occupation.
-
-2.   The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
-
-3.   The denunciation shall have effect only in respect of the denouncing Party.
-
-4.   Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict or occupation, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
-
-**_Article 15 ‑ Notifications_**
-
-The depositary shall inform the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol, of:
-
-a)   signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 8, 9 and 10;
-
-b)  the date of entry into force of this Protocol under Article 11 within ten days of said entry into force;
-
-c)   communications received under Article 13;
-
-d)  denunciations under Article 14.
-
-**_Article 16 ‑ Registration_**
-
-1.   After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
-
-2.   The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
-
-**_Article 17 ‑ Authentic texts_**
-
-The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Geneva Conventions.
-
-**<u>ANNEX</u>**
-
-**THIRD PROTOCOL EMBLEM**
-
-(Article 2, paragraph 2 and Article 3, paragraph 1 of the Protocol)
-
-_Article 1 ‑ Distinctive emblem_
-
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image010.gif)
-
-_Article 2 ‑ Indicative use of the third Protocol emblem_
-
-![](http://www.comlaw.gov.au/Details/C2010C00183/Html/a5dc118e-c7a6-401e-a327-56575c97a4f5_files/image011.gif)
-
-_Note:       The emblems in the Annex to the Protocol are in red on a white ground._
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image009.gif)
 
 # Notes to the _Geneva Conventions Act 1957_
 
@@ -5746,7 +5572,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="31%">
   <col width="16%">
   <col width="18%">
-  <col width="22%">
+  <col width="21%">
+  <col width="0%">
   <col width="14%">
 </colgroup>
 
@@ -5766,7 +5593,7 @@ of Assent</div>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
@@ -5781,8 +5608,8 @@ of Assent</div>
   <td>
     <div>18 Dec 1957</div>
   </td>
-  <td>
-    <div>1 Sept 1959 ( <i>see Gazette</i>1959, p. 3001)</div>
+  <td colspan="2">
+    <div>1 Sept 1959 ( <i>see Gazette</i>1959, p. 3001)</div>
   </td>
   <td>
     <div></div>
@@ -5798,7 +5625,7 @@ of Assent</div>
   <td>
     <div>29 Oct 1966</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>1 Dec 1966</div>
   </td>
   <td>
@@ -5815,7 +5642,7 @@ of Assent</div>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>31 Dec 1973</div>
   </td>
   <td>
@@ -5832,8 +5659,8 @@ of Assent</div>
   <td>
     <div>31 Dec 1982</div>
   </td>
-  <td>
-    <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
+  <td colspan="2">
+    <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
   </td>
   <td>
     <div>—</div>
@@ -5841,7 +5668,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Director of Public Prosecutions (Consequential Amendments) Act 1983</div>
+    <div>Director of Public Prosecutions (Consequential Amendments)Act 1983</div>
   </td>
   <td>
     <div>114, 1983</div>
@@ -5849,7 +5676,7 @@ of Assent</div>
   <td>
     <div>14 Dec 1983</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Part IX (ss. 18, 19): 5 Mar 1984 ( <i>see Gazette</i>1984, No. S55) <i>(a)</i></div>
   </td>
   <td>
@@ -5866,8 +5693,8 @@ of Assent</div>
   <td>
     <div>4 Mar 1991</div>
   </td>
-  <td>
-    <div>28 Mar 1991 ( <i>see Gazette</i>1991, No. S81)</div>
+  <td colspan="2">
+    <div>28 Mar 1991 ( <i>see Gazette</i>1991, No. S81)</div>
   </td>
   <td>
     <div>—</div>
@@ -5883,7 +5710,7 @@ of Assent</div>
   <td>
     <div></div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
   <td>
@@ -5900,7 +5727,7 @@ of Assent</div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 3 (item 27): 4 Mar 1991 <i>(b)</i></div>
   </td>
   <td>
@@ -5917,7 +5744,7 @@ of Assent</div>
   <td>
     <div>6 Apr 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 4(1), (2) and Schedule 30: <i>(c)</i></div>
   </td>
   <td>
@@ -5934,8 +5761,8 @@ of Assent</div>
   <td>
     <div>27 June 2002</div>
   </td>
-  <td>
-    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+  <td colspan="2">
+    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
 Remainder: 28 June 2002</div>
   </td>
   <td>
@@ -5952,19 +5779,27 @@ Remainder: 28 June 2002</div>
   <td>
     <div>26 Mar 2009</div>
   </td>
-  <td>
-    <div>Schedule 1 (items 3–12): 15 Feb 2010</div>
+  <td colspan="2">
+    <div>Schedule 1 (items 3–12): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     The _Geneva__Conventions Act 1957_ was amended by Part IX (sections 18 and 19) only of the _Director of Public Prosecutions (Consequential Amendments) Act 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the _Director of Public Prosecutions Act 1983_ comes into operation.
 
-_(b)_     The _Geneva__Conventions Amendment Act 1991_ was amended by Schedule 3 (item 27) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(b)_    The _Geneva__Conventions Amendment Act 1991_ was amended by Schedule 3 (item 27) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
@@ -6036,7 +5871,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 153, 1982; No. 27, 1991; No. 18, 2009</div>
+    <div>am. No. 216, 1973; No. 153, 1982; No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6212,7 +6047,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 27, 1991; No. 24, 2001; No. 18, 2009</div>
+    <div>am. No. 93, 1966; No. 27, 1991; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6257,8 +6092,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
 </tr>
 <tr>
   <td>
-    <div>Heading to Second 
-Schedule</div>
+    <div>Heading to Second Schedule</div>
   </td>
   <td>
     <div>rep. No. 27, 1991</div>
@@ -6311,15 +6145,229 @@ Schedule</div>
   <td>
     <div>ad. No. 27, 1991</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 6</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2009</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Defence Legislation (Miscellaneous Amendments) Act 2009 (No. 18, 2009)_
+
+The following amendments commence on Proclamation or one month after the day on which Protocol III to the Geneva Conventions enters into force for Australia, _see_ subsection 2(1) (item 2):
+
+## Schedule 1
+
+## 3  Subsection 5(1A)
+
+Insert:
+
+                    <a name="protocol-iii"></a>**_Protocol III_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), done at Geneva on 8 December 2005, a copy of the English text of which is set out in Schedule 6.
+
+## 4  Subsection 5(3)
+
+After “Protocol I”, insert “or Protocol III”.
+
+## 5  After paragraph 15(1)(c)
+
+Insert:
+
+                    (ca)  the emblem of a red frame in the shape of a square on edge on a white ground, or the designation “Red Crystal”;
+
+## 6  Paragraph 15(1)(e)
+
+After “(c)”, insert “, (ca)”.
+
+## 7  At the end of paragraph 15(1)(f)
+
+Add “or Protocol III”.
+
+## 8  Subsection 15(5)
+
+Omit “the day on which this Act received the Royal Assent” (first occurring), substitute “the day to which subsection (5A) applies”.
+
+## 9  Subsection 15(5)
+
+Omit “paragraph (1)(b) or (c)”, substitute “paragraph (1)(b), (c) or (ca)”.
+
+## 10  Paragraphs 15(5)(a) and (b)
+
+Omit “the day on which this Act received the Royal Assent”, substitute “the day to which subsection (5A) applies”.
+
+## 11  After subsection 15(5)
+
+Insert:
+
+          (5A)  For the purposes of subsection (5), this subsection applies to the following day:
+
+                     (a)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation—the day on which this Act received the Royal Assent;
+
+                     (b)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(ca) or a design or wording resembling such an emblem or designation—the day on which Schedule 1 to the _Defence Legislation (Miscellaneous Amendments) Act 2009_ commenced.
+
+## 12  At the end of the Act
+
+Add:
+
+# Schedule 6—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III)
+
+_Section 5_
+
+**_Preamble_**
+
+_The High Contracting Parties,_
+
+(PP1) _Reaffirming_ the provisions of the Geneva Conventions of 12 August 1949 (in particular Articles 26, 38, 42 and 44 of the First Geneva Convention) and, where applicable, their Additional Protocols of 8 June 1977 (in particular Articles 18 and 38 of Additional Protocol I and Article 12 of Additional Protocol II), concerning the use of distinctive emblems,
+
+(PP2) _Desiring_ to supplement the aforementioned provisions so as to enhance their protective value and universal character,
+
+(PP3) _Noting_ that this Protocol is without prejudice to the recognized right of High Contracting Parties to continue to use the emblems they are using in conformity with their obligations under the Geneva Conventions and, where applicable, the Protocols additional thereto,
+
+(PP4) _Recalling_ that the obligation to respect persons and objects protected by the Geneva Conventions and the Protocols additional thereto derives from their protected status under international law and is not dependent on use of the distinctive emblems, signs or signals,
+
+(PP5) _Stressing_ that the distinctive emblems are not intended to have any religious, ethnic, racial, regional or political significance,
+
+(PP6) _Emphasizing_ the importance of ensuring full respect for the obligations relating to the distinctive emblems recognized in the Geneva Conventions, and, where applicable, the Protocols additional thereto,
+
+(PP7) _Recalling_ that Article 44 of the First Geneva Convention makes the distinction between the protective use and the indicative use of the distinctive emblems,
+
+(PP8) _Recalling further_ that National Societies undertaking activities on the territory of another State must ensure that the emblems they intend to use within the framework of such activities may be used in the country where the activity takes place and in the country or countries of transit,
+
+(PP9) _Recognizing_ the difficulties that certain States and National Societies may have with the use of the existing distinctive emblems,
+
+(PP10) _Noting_ the determination of the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and the International Red Cross and Red Crescent Movement to retain their current names and emblems,
+
+_Have agreed on the following:_
+
+**_Article 1 - Respect for and scope of application of this Protocol_**
+
+1.   The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
+
+2.   This Protocol reaffirms and supplements the provisions of the four Geneva Conventions of 12 August 1949 (“the Geneva Conventions”) and, where applicable, of their two Additional Protocols of 8 June 1977 (“the 1977 Additional Protocols”) relating to the distinctive emblems, namely the red cross, the red crescent and the red lion and sun, and shall apply in the same situations as those referred to in these provisions.
+
+**_Article 2 - Distinctive emblems_**
+
+1.   This Protocol recognizes an additional distinctive emblem in addition to, and for the same purposes as, the distinctive emblems of the Geneva Conventions. The distinctive emblems shall enjoy equal status.
+
+2.   This additional distinctive emblem, composed of a red frame in the shape of a square on edge on a white ground, shall conform to the illustration in the Annex to this Protocol. This distinctive emblem is referred to in this Protocol as the “third Protocol emblem”.
+
+3.   The conditions for use of and respect for the third Protocol emblem are identical to those for the distinctive emblems established by the Geneva Conventions and, where applicable, the 1977 Additional Protocols.
+
+4.   The medical services and religious personnel of armed forces of High Contracting Parties may, without prejudice to their current emblems, make temporary use of any distinctive emblem referred to in paragraph 1 of this Article where this may enhance protection.
+
+**_Article 3 - Indicative use of the third Protocol emblem_**
+
+1.   National Societies of those High Contracting Parties which decide to use the third Protocol emblem may, in using the emblem in conformity with relevant national legislation, choose to incorporate within it, for indicative purposes:
+
+a)   a distinctive emblem recognized by the Geneva Conventions or a combination of these emblems; or
+
+b)   another emblem which has been in effective use by a High Contracting Party and was the subject of a communication to the other High Contracting Parties and the International Committee of the Red Cross through the depositary prior to the adoption of this Protocol.
+
+Incorporation shall conform to the illustration in the Annex to this Protocol.
+
+2.   A National Society which chooses to incorporate within the third Protocol emblem another emblem in accordance with paragraph 1 above, may, in conformity with national legislation, use the designation of that emblem and display it within its national territory.
+
+3.   National Societies may, in accordance with national legislation and in exceptional circumstances and to facilitate their work, make temporary use of the distinctive emblem referred to in Article 2 of this Protocol.
+
+4.   This Article does not affect the legal status of the distinctive emblems recognized in the Geneva Conventions and in this Protocol, nor does it affect the legal status of any particular emblem when incorporated for indicative purposes in accordance with paragraph 1 of this Article.
+
+**_Article 4 - International Committee of the Red Cross and_**
+
+**_International_**
+
+**_Federation of Red Cross and Red Crescent Societies_**
+
+The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, and their duly authorized personnel, may use, in exceptional circumstances and to facilitate their work, the distinctive emblem referred to in Article 2 of this Protocol.
+
+**_Article 5 - Missions under United Nations auspices_**
+
+The medical services and religious personnel participating in operations under the auspices of the United Nations may, with the agreement of participating States, use one of the distinctive emblems mentioned in Articles 1 and 2.
+
+**_Article 6 - Prevention and repression of misuse_**
+
+1.   The provisions of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, governing prevention and repression of misuse of the distinctive emblems shall apply equally to the third Protocol emblem. In particular, the High Contracting Parties shall take measures necessary for the prevention and repression, at all times, of any misuse of the distinctive emblems mentioned in Articles 1 and 2 and their designations, including the perfidious use and the use of any sign or designation constituting an imitation thereof.
+
+2.   Notwithstanding paragraph 1 above, High Contracting Parties may permit prior users of the third Protocol emblem, or of any sign constituting an imitation thereof, to continue such use, provided that the said use shall not be such as would appear, in time of armed conflict, to confer the protection of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, and provided that the rights to such use were acquired before the adoption of this Protocol.
+
+**_Article 7 - Dissemination_**
+
+The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that this instrument may become known to the armed forces and to the civilian population.
+
+**_Article 8 - Signature_**
+
+This Protocol shall be open for signature by the Parties to the Geneva Conventions on the day of its adoption and will remain open for a period of twelve months.
+
+**_Article 9 - Ratification_**
+
+This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Geneva Conventions and the 1977 Additional Protocols.
+
+**_Article 10 - Accession_**
+
+This Protocol shall be open for accession by any Party to the Geneva Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
+
+**_Article 11 - Entry into force_**
+
+1.   This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
+
+2.   For each Party to the Geneva Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
+
+**_Article 12 - Treaty relations upon entry into force of this Protocol_**
+
+1.   When the Parties to the Geneva Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
+
+2.   When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
+
+**_Article 13 - Amendment_**
+
+1.   Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties, the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, whether a conference should be convened to consider the proposed amendment.
+
+2.   The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol.
+
+**_Article 14 - Denunciation_**
+
+1.   In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in a situation of armed conflict or occupation, the denunciation shall not take effect before the end of the armed conflict or occupation.
+
+2.   The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
+
+3.   The denunciation shall have effect only in respect of the denouncing Party.
+
+4.   Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict or occupation, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
+
+**_Article 15 - Notifications_**
+
+The depositary shall inform the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol, of:
+
+a)   signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 8, 9 and 10;
+
+b)   the date of entry into force of this Protocol under Article 11 within ten days of said entry into force;
+
+c)   communications received under Article 13;
+
+d)   denunciations under Article 14.
+
+**_Article 16 - Registration_**
+
+1.   After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
+
+2.   The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
+
+**_Article 17 - Authentic texts_**
+
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Geneva Conventions.
+
+**<u>ANNEX</u>**
+
+**THIRD PROTOCOL EMBLEM**
+
+(Article 2, paragraph 2 and Article 3, paragraph 1 of the Protocol)
+
+_Article 1 - Distinctive emblem_
+
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image010.gif)
+
+_Article 2 - Indicative use of the third Protocol emblem_
+
+![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image011.gif)
+
+_Note:       The emblems in the Annex to the Protocol are in red on a white ground._
+
+As at 7 April 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
