@@ -1,120 +1,119 @@
-![](http://www.comlaw.gov.au/Details/C2011C00340/Html/fb8270b4-aa77-4491-87d3-dc72aa78b68a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00176/Html/image001.gif)
 
 # Primary Industry Councils Act 1991
 
-**Act No. 206 of 1991 as amended**
+**Act No. 206 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 May 2000 
+taking into account amendments up to Act No. 170 of 1999
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, Canberra
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Object of Act
+[3](#3).            Object of Act                                                                                       1
 
-[4](#4).            Interpretation: general
+[4](#4).            Interpretation: general                                                                          1
 
-[5](#5).            Relevant primary industry
+[5](#5).            Relevant primary industry                                                                  2
 
-**Part 2—Establishment, functions and powers of industry councils**
+**Part 2—Establishment, functions and powers of industry councils**
 
-[6](#6).            Establishment of industry councils
+[6](#6).            Establishment of industry councils                                                     3
 
-[7](#7).            Functions
+[7](#7).            Functions                                                                                             3
 
-[8](#8).            Powers
+[8](#8).            Powers                                                                                                 3
 
-[9](#9).            Reports on strategic direction
+[9](#9).            Reports on strategic direction                                                              3
 
-[10](#10).          Industry review conferences
+[10](#10).          Industry review conferences                                                                4
 
-[11](#11).          Conferences of chairpersons of industry statutory bodies
+[11](#11).          Conferences of chairpersons of industry statutory bodies                 4
 
-[12](#12).          Publication of reports etc 
+[12](#12).          Publication of reports etc                                                                    5
 
-[13](#13).          Disagreement as to contents of a report
+[13](#13).          Disagreement as to contents of a report                                              5
 
-**Part 3—Constitution and meetings of councils**
+**Part 3—Constitution and meetings of councils**
 
-[14](#14).          Constitution of councils
+[14](#14).          Constitution of councils                                                                      6
 
-[15](#15).          Appointment of members of councils
+[15](#15).          Appointment of members of councils                                                 6
 
-[16](#16).          Deputy chairperson
+[16](#16).          Deputy chairperson                                                                             6
 
-[17](#17).          Deputies of members
+[17](#17).          Deputies of members                                                                           7
 
-[18](#18).          Meetings
+[18](#18).          Meetings                                                                                              8
 
-**Part 4—Committees and working parties**
+**Part 4—Committees and working parties**
 
-[19](#19).          Establishment of committees and working parties
+[19](#19).          Establishment of committees and working parties                            10
 
-[20](#20).          Constitution of committees and working parties
+[20](#20).          Constitution of committees and working parties                              10
 
-[21](#21).          Chairpersons of committees
+[21](#21).          Chairpersons of committees                                                              10
 
-[22](#22).          Meetings of committees
+[22](#22).          Meetings of committees                                                                    11
 
-[23](#23).          Reports of committees
+[23](#23).          Reports of committees                                                                      11
 
-[24](#24).          Disclosure of interests by members of committees
+[24](#24).          Disclosure of interests by members of committees                           11
 
-[25](#25).          Application of Part to working parties
+[25](#25).          Application of Part to working parties                                             12
 
-[26](#26).          Allowances of members of committees and working parties
+[26](#26).          Allowances of members of committees and working parties            12
 
-**Part 5—Terms and conditions applying to all members of councils**
+**Part 5—Terms and conditions applying to all members of councils**
 
-[27](#27).          Term of office
+[27](#27).          Term of office                                                                                    13
 
-[28](#28).          Terms and conditions of office
+[28](#28).          Terms and conditions of office                                                          13
 
-[29](#29).          Remuneration and allowances
+[29](#29).          Remuneration and allowances                                                            13
 
-[30](#30).          Leave of absence
+[30](#30).          Leave of absence                                                                                14
 
-[31](#31).          Resignation
+[31](#31).          Resignation                                                                                        14
 
-[32](#32).          Disclosure of interests
+[32](#32).          Disclosure of interests                                                                       15
 
-[33](#33).          Termination of appointment
+[33](#33).          Termination of appointment                                                             15
 
-**Part 6—Miscellaneous**
+**Part 6—Miscellaneous**
 
-[34](#34).          Staff
+[34](#34).          Staff                                                                                                   17
 
-[35](#35).          Consultants
+[35](#35).          Consultants                                                                                        17
 
-[36](#36).          Delegation by council
+[36](#36).          Delegation by council                                                                        17
 
-[37](#37).          Annual report
+[37](#37).          Annual report                                                                                    18
 
-[38](#38).          Orders
+[38](#38).          Orders                                                                                                18
 
-[39](#39).          Regulations
+[39](#39).          Regulations                                                                                        19
 
 **Schedule—Establishment of industry councils** 
 
 **Notes** 
 
+
 ## An Act to provide for the establishment of industry councils for primary industries, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -126,7 +125,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object of Act
 
-                   The object of this Act is to provide for the establishment of industry councils for primary industries in order to facilitate the development by the Commonwealth Government of sound, consistent and comprehensive policies concerning primary industries, through the active and co‑ordinated involvement of those industries and related industries in the process of policy formulation.
+                   The object of this Act is to provide for the establishment of industry councils for primary industries in order to facilitate the development by the Commonwealth Government of sound, consistent and comprehensive policies concerning primary industries, through the active and co-ordinated involvement of those industries and related industries in the process of policy formulation.
 
 ##### <a id="4"></a>4  Interpretation: general
 
@@ -134,7 +133,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="armcanz"></a>**_ARMCANZ_** means:
 
-                     (a)  subject to paragraph (b), Agriculture and Resource Management Council of Australia and New Zealand, whether known by that name or any other name; or
+                     (a)  subject to paragraph (b), Agriculture and Resource Management Council of Australia and New Zealand, whether known by that name or any other name; or
 
                      (b)  if another body is prescribed by the regulations for the purposes of this definition—that other body.
 
@@ -164,7 +163,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The expression “the relevant primary industry”, when used in relation to a council, means the industry in relation to which the council is established.
 
-## Part 2—Establishment, functions and powers of industry councils
+## Part 2—Establishment, functions and powers of industry councils
 
 ##### <a id="6"></a>6  Establishment of industry councils
 
@@ -182,7 +181,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  to convene industry review conferences;
 
-                     (e)  to consult and co‑operate with such persons, organisations and bodies as the council thinks fit in relation to matters affecting the relevant primary industry;
+                     (e)  to consult and co-operate with such persons, organisations and bodies as the council thinks fit in relation to matters affecting the relevant primary industry;
 
                       (f)  such other functions as are conferred on the council by this Act or the regulations or by another Act.
 
@@ -230,7 +229,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (4)  At a conference under this section:
 
-                     (a)  the chairperson of the relevant council has the same standing as if he or she were a chairperson of a body referred to in subsection (1); and
+                     (a)  the chairperson of the relevant council has the same standing as if he or she were a chairperson of a body referred to in subsection (1); and
 
                      (b)  the chairperson of the relevant council is to preside.
 
@@ -250,7 +249,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  include a summary of the member’s views in relation to the finding or recommendation.
 
-## Part 3—Constitution and meetings of councils
+## Part 3—Constitution and meetings of councils
 
 ##### <a id="14"></a>14  Constitution of councils
 
@@ -290,7 +289,7 @@ the deputy chairperson may act as chairperson.
 
              (6)  The deputy chairperson has, when acting as chairperson, all the powers, duties, rights and entitlements of the chairperson.
 
-             (7)  Anything done by or in relation to a person purporting to act as chairperson under subsection (5) is not ineffective because:
+             (7)  Anything done by or in relation to a person purporting to act as chairperson under subsection (5) is not ineffective because:
 
                      (a)  there was a defect or irregularity in connection with the appointment of the person as deputy chairperson; or
 
@@ -306,7 +305,7 @@ the deputy chairperson may act as chairperson.
 
              (3)  In the case of a member who holds office because he or she holds a particular office or appointment in an organisation or body, a deputy may only be appointed at the request of that organisation or body.
 
-             (4)  Subject to section 33, a person appointed as the deputy of a member continues as that member’s deputy until the appointment of the member expires or otherwise ceases to have effect.
+             (4)  Subject to section 33, a person appointed as the deputy of a member continues as that member’s deputy until the appointment of the member expires or otherwise ceases to have effect.
 
              (5)  During any period when the member is unable, for any reason, to attend meetings of the council, the deputy may attend meetings of the council in place of the member.
 
@@ -314,17 +313,17 @@ the deputy chairperson may act as chairperson.
 
                      (a)  the deputy has the powers, duties, rights and entitlements of a member of the council, including the right to be paid travel allowance; and
 
-                     (b)  sections 13 and 32 apply to the deputy as if he or she were a member of the council.
+                     (b)  sections 13 and 32 apply to the deputy as if he or she were a member of the council.
 
              (7)  Subsection 29(3) applies to the deputy of a member as if he or she were a member.
 
-             (8)  Section 33 (except paragraph (1)(e)) applies to the deputy of a member as if:
+             (8)  Section 33 (except paragraph (1)(e)) applies to the deputy of a member as if:
 
                      (a)  the deputy were an appointed member of a council; and
 
                      (b)  in the case of a deputy appointed at the request of an organisation or body, the deputy had been appointed on the nomination of that organisation or body.
 
-             (9)  Anything done by or in relation to a person attending a meeting in place of a member under subsection (5) is not ineffective because:
+             (9)  Anything done by or in relation to a person attending a meeting in place of a member under subsection (5) is not ineffective because:
 
                      (a)  there was a defect or irregularity in connection with the appointment of the person as the deputy of the member; or
 
@@ -334,7 +333,7 @@ the deputy chairperson may act as chairperson.
 
 ##### <a id="18"></a>18  Meetings
 
-             (1)  Subject to subsection (2), a council may hold such meetings as it thinks fit.
+             (1)  Subject to subsection (2), a council may hold such meetings as it thinks fit.
 
              (2)  The chairperson:
 
@@ -360,9 +359,9 @@ the deputy chairperson may act as chairperson.
 
              (9)  A council may invite a person to attend a meeting for the purpose of advising it or informing it on any matter.
 
-## Part 4—Committees and working parties
+## Part 4—Committees and working parties
 
-##### <a id="19"></a>19  Establishment of committees and working parties
+##### <a id="19"></a>19  Establishment of committees and working parties
 
              (1)  A council may establish such committees and working parties as the council thinks fit to assist it in the performance of its functions and the exercise of its powers.
 
@@ -416,7 +415,7 @@ the deputy chairperson may act as chairperson.
 
 ##### <a id="24"></a>24  Disclosure of interests by members of committees
 
-                   In relation to committees and members of committees, section 32 applies as if:
+                   In relation to committees and members of committees, section 32 applies as if:
 
                      (a)  a reference in that section to a council were a reference to a committee; and
 
@@ -426,17 +425,17 @@ the deputy chairperson may act as chairperson.
 
 ##### <a id="25"></a>25  Application of Part to working parties
 
-                   Except for sections 19 and 20, this Part applies to a working party and its members as if the working party were a committee.
+                   Except for sections 19 and 20, this Part applies to a working party and its members as if the working party were a committee.
 
 ##### <a id="26"></a>26  Allowances of members of committees and working parties
 
                    Subsections 29(2) and (3) apply to a person who is a member of a committee or working party as if the person were a member of a council.
 
-## Part 5—Terms and conditions applying to all members of councils
+## Part 5—Terms and conditions applying to all members of councils
 
 ##### <a id="27"></a>27  Term of office
 
-             (1)  Subject to section 33, an appointed member of a council holds office for such period, not exceeding 3 years, as is specified in the member’s instrument of appointment, and is eligible for re‑appointment.
+             (1)  Subject to section 33, an appointed member of a council holds office for such period, not exceeding 3 years, as is specified in the member’s instrument of appointment, and is eligible for re-appointment.
 
              (2)  A person appointed as a government member of a council holds office at the pleasure of the Minister.
 
@@ -444,7 +443,7 @@ the deputy chairperson may act as chairperson.
 
              (1)  A member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined in writing by the Minister.
 
-             (2)  Each member holds office on a part‑time basis.
+             (2)  Each member holds office on a part-time basis.
 
 ##### <a id="29"></a>29  Remuneration and allowances
 
@@ -462,17 +461,17 @@ the person is not to be paid remuneration or allowances under this Act, but is t
 
              (4)  If a person appointed as chairperson of a council:
 
-                     (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
+                     (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
 
-                     (b)  is in the service or employment of a State, or an authority of a State, on a full‑time basis; or
+                     (b)  is in the service or employment of a State, or an authority of a State, on a full-time basis; or
 
-                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full‑time basis;
+                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full-time basis;
 
 it is a condition of the person’s holding office as chairperson that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to the amount of remuneration.
 
-             (5)  An amount payable under subsection (4) to a State by a person is a debt due to the State, and the State may recover the amount by action against the person in a court of competent jurisdiction.
+             (5)  An amount payable under subsection (4) to a State by a person is a debt due to the State, and the State may recover the amount by action against the person in a court of competent jurisdiction.
 
-             (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="30"></a>30  Leave of absence
 
@@ -482,9 +481,9 @@ it is a condition of the person’s holding office as chairperson that the perso
 
 ##### <a id="31"></a>31  Resignation
 
-             (1)  A person may resign any office or appointment under this Act (other than an appointment under Part 4) by giving written notice of resignation to the Minister.
+             (1)  A person may resign any office or appointment under this Act (other than an appointment under Part 4) by giving written notice of resignation to the Minister.
 
-             (2)  A person may resign an appointment under Part 4 by giving written notice of resignation to the chairperson of the council by which the appointment was made.
+             (2)  A person may resign an appointment under Part 4 by giving written notice of resignation to the chairperson of the council by which the appointment was made.
 
 ##### <a id="32"></a>32  Disclosure of interests
 
@@ -500,7 +499,7 @@ it is a condition of the person’s holding office as chairperson that the perso
 
                      (b)  take part in any decision of the council in relation to the matter.
 
-             (5)  For the purpose of a determination being made under subsection (4), the member must not:
+             (5)  For the purpose of a determination being made under subsection (4), the member must not:
 
                      (a)  be present during any deliberation of the council for the purpose of making the determination; or
 
@@ -524,7 +523,7 @@ it is a condition of the person’s holding office as chairperson that the perso
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of such creditors; or
 
-                     (c)  if the member, without reasonable excuse, contravenes section 32; or
+                     (c)  if the member, without reasonable excuse, contravenes section 32; or
 
                      (d)  in the case of the chairperson of a council—if the chairperson is absent without the leave of the Minister from 3 consecutive meetings; or
 
@@ -532,19 +531,19 @@ it is a condition of the person’s holding office as chairperson that the perso
 
              (2)  Where a member was appointed on the nomination of an organisation or body, the Minister must terminate the member’s appointment if the organisation or body so requests in writing.
 
-## Part 6—Miscellaneous
+## Part 6—Miscellaneous
 
 ##### <a id="34"></a>34  Staff
 
-             (1)  A council may arrange with the Secretary of the Department for the services of officers or employees of the Department to be made available to the council.
+             (1)  A council may arrange with the Secretary to the Department for the services of officers or employees of the Department to be made available to the council.
 
-             (2)  A person performing services for a council under an arrangement under subsection (1) is subject to the direction of the council.
+             (2)  A person performing services for a council under an arrangement under subsection (1) is subject to the direction of the council.
 
              (3)  A council has no power:
 
                      (a)  to employ persons; or
 
-                     (b)  except under subsection (1), to obtain the services of persons as staff of the council.
+                     (b)  except under subsection (1), to obtain the services of persons as staff of the council.
 
 ##### <a id="35"></a>35  Consultants
 
@@ -562,17 +561,17 @@ it is a condition of the person’s holding office as chairperson that the perso
 
                      (c)  a person performing services for the council under an arrangement under subsection 34(1).
 
-             (2)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the council.
+             (2)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the council.
 
-             (3)  A delegation under subsection (1):
+             (3)  A delegation under subsection (1):
 
                      (a)  may be revoked by resolution of the council; and
 
                      (b)  continues in force notwithstanding a change in the membership of the council.
 
-             (4)  A certificate signed by the chairperson of a council stating any matter in relation to a delegation under subsection (1) by the council is _prima facie_ evidence of the matter.
+             (4)  A certificate signed by the chairperson of a council stating any matter in relation to a delegation under subsection (1) by the council is _prima facie_ evidence of the matter.
 
-             (5)  A document purporting to be a certificate under subsection (4), unless the contrary is established, is to be taken to be such a certificate.
+             (5)  A document purporting to be a certificate under subsection (4), unless the contrary is established, is to be taken to be such a certificate.
 
 ##### <a id="37"></a>37  Annual report
 
@@ -580,7 +579,7 @@ it is a condition of the person’s holding office as chairperson that the perso
 
              (2)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 
-             (3)  If a council is not established at the beginning of a financial year, this section has effect in relation to the period commencing on the establishment of the council and ending on the next 30 June as if:
+             (3)  If a council is not established at the beginning of a financial year, this section has effect in relation to the period commencing on the establishment of the council and ending on the next 30 June as if:
 
                      (a)  in a case where the period is less than 6 months—the period were included in the next financial year; or
 
@@ -588,35 +587,39 @@ it is a condition of the person’s holding office as chairperson that the perso
 
 ##### <a id="38"></a>38  Orders
 
-             (1)  Subject to subsection (2), the regulations may make provision empowering the Minister to make orders, not inconsistent with this Act, with respect to any matter in relation to which provision may be made by the regulations.
+             (1)  Subject to subsection (2), the regulations may make provision empowering the Minister to make orders, not inconsistent with this Act, with respect to any matter in relation to which provision may be made by the regulations.
 
              (2)  An order must not be made prescribing any penalty.
 
-             (3)  Sections 48, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders as if references to regulations were references to orders and references to an Act were references to regulations.
+             (3)  Sections 48, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders as if references to regulations were references to orders and references to an Act were references to regulations.
 
              (4)  An order is not to be taken to be a statutory rule within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to an order in the same way as they apply in relation to a statutory rule.
 
-             (5)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (4), the reference in the first‑mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
+             (5)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (4), the reference in the first-mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
 
 ##### <a id="39"></a>39  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
+ 
+
+
 # Schedule—Establishment of industry councils
 
-_Section 6_
+_Section 6_
 
 _Note:       At present, there are no industry councils established by this Act._
+
 
 # Notes to the _Primary Industry Councils Act 1991_
 
 ### Note 1
 
-The _Primary Industry Councils Act 1991_ as shown in this compilation comprises Act No. 206, 1991 amended as indicated in the Tables below.
+The _Primary Industry Councils Act 1991_ as shown in this compilation comprises Act No. 206, 1991 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -629,18 +632,20 @@ The _Primary Industry Councils Act 1991_ as shown in this compilation comprises 
   <col width="14%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td>
       <div>Act</div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -649,119 +654,114 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>Primary Industry Councils Act 1991</div>
-  </td>
-  <td>
-    <div>206, 1991</div>
-  </td>
-  <td>
-    <div>24 Dec 1991</div>
-  </td>
-  <td>
-    <div>24 Dec 1991</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>35, 1993</div>
-  </td>
-  <td>
-    <div>20 Sept 1993</div>
-  </td>
-  <td>
-    <div>20 Sept 1993</div>
-  </td>
-  <td>
-    <div>Ss. 18–22</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>129, 1994</div>
-  </td>
-  <td>
-    <div>21 Oct 1994</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
-  </td>
-  <td>
-    <div>102, 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>170, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 5: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 112): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>Primary Industry Councils Act 1991</div>
+    </td>
+    <td>
+      <div>206, 1991</div>
+    </td>
+    <td>
+      <div>24 Dec 1991</div>
+    </td>
+    <td>
+      <div>24 Dec 1991</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>35, 1993</div>
+    </td>
+    <td>
+      <div>20 Sept 1993</div>
+    </td>
+    <td>
+      <div>20 Sept 1993</div>
+    </td>
+    <td>
+      <div>Ss. 18-22</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>129, 1994</div>
+    </td>
+    <td>
+      <div>21 Oct 1994</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
+    </td>
+    <td>
+      <div>102, 1998</div>
+    </td>
+    <td>
+      <div>30 July 1998</div>
+    </td>
+    <td>
+      <div>30 July 1998</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>170, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 5: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     The _Primary Industry Councils Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(b)_    The _Primary Industry Councils Act 1991_ was amended by Schedule 5 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+ 
+
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
@@ -775,54 +775,25 @@ of Assent</div>
       <div>How affected</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1993; No. 129, 1994; No. 102, 1998; No. 170, 1999</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1993; No. 129, 1994; No. 102, 1998; No. 170, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+ 
 
  
