@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00512/Html/ReferMachProv1984WD02_image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 23 July 2010
  taking into account amendments up to Act No. 110 of 2010
 
 The text of any of those amendments not in force
@@ -161,6 +161,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [58](#58).          Dispatch of postal voting papers to registered general postal voters
 
 [59](#59).          Election and referendum on the same day
+
+[60](#60).          Duty of witness
 
 [61](#61).          Issue of certificate and ballot-papers
 
@@ -994,7 +996,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
              (7)  The polling booths and ballot-boxes provided for the purposes of a referendum may be used for the purposes of an election held on the same day, but the ballot-papers for the election and the referendum shall be distinctively coloured.
 
-##### <a id="18"></a>18  Substitute for presiding officer
+##### <a id="18"></a>18  Substitute for presiding officer
 
              (1)  During a temporary absence of a presiding officer, the duties of the presiding officer may be performed by a person appointed for the purpose by the presiding officer.
 
@@ -1936,11 +1938,29 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
 ##### <a id="55"></a>55  Application for postal vote
 
-             (1)  An application must be in writing in the approved form and must contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote.
+             (1)  An application shall be in writing in the approved form and shall:
+
+                     (a)  contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote; and
+
+                     (b)  be signed by the applicant in the presence of an authorised witness (but see subsection (3A)).
 
              (2)  An application made in Australia shall be made to a DRO.
 
              (3)  An application made outside Australia shall be made to an Assistant Returning Officer or a DRO.
+
+          (3A)  An application made outside Australia that does not meet the requirement in paragraph (1)(b) is taken to meet that requirement for the purposes of this Act if:
+
+                     (a)  the application is accompanied by a signed statement by the applicant setting out why the applicant was unable to meet the requirement; and
+
+                     (b)  the Assistant Returning Officer or DRO is satisfied that the applicant made reasonable efforts to comply with the requirement; and
+
+                     (c)  the application is accompanied by a photocopy, that is certified by the applicant to be a true copy, of a part of the applicant’s passport that includes:
+
+                              (i)  the country and date of issue and the number of the passport; and
+
+                             (ii)  the applicant’s name, date of birth and signature; and
+
+                            (iii)  a photograph of the applicant.
 
              (4)  An application for a postal vote may not be made until after the issue of the writ for the referendum in relation to which a postal vote is sought or the public announcement of the proposed date for the voting, whichever is the earlier.
 
@@ -1984,9 +2004,27 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                       (f)  a ballot-paper bearing the postal vote of an elector in the referendum may be enclosed in the same envelope as the postal ballot-paper bearing the elector’s postal vote in the election.
 
+##### <a id="60"></a>60  Duty of witness
+
+             (1)  A person shall not witness the signature of another person (in this section called the **_elector_**) on an application for a postal vote unless:
+
+                     (a)  the person is satisfied of the identity of the elector;
+
+                     (b)  the person has seen the elector sign the application; and
+
+                     (c)  either:
+
+                              (i)  the person knows that the statements in the application are true; or
+
+                             (ii)  the person is satisfied, on the basis of inquiries of the elector or otherwise, that the statements in the application are true.
+
+                    Penalty:  $500.
+
+             (2)  The person who witnesses the signature of the elector to the application shall sign the application in his or her own handwriting and write on the application the date of signature.
+
 ##### <a id="61"></a>61  Issue of certificate and ballot-papers
 
-             (1)  A DRO or Assistant Returning Officer who receives an application for a postal vote that is in accordance with subsection 55(1) must (unless the application fails to meet the deadline as mentioned in subsection 55(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (2A) and (2B) of this section applies:
+             (1)  A DRO or Assistant Returning Officer who receives an application, properly signed and witnessed, for a postal vote must (unless the application fails to meet the deadline as mentioned in subsection 55(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (2A) and (2B) of this section applies:
 
                      (a)  a postal vote certificate printed on an envelope addressed:
 
@@ -1995,6 +2033,8 @@ the presiding officer shall visit the patient for the purpose of taking the pati
                              (ii)  otherwise—to the DRO for the Division for which the applicant declares that he or she is enrolled; and
 
                      (b)  a postal ballot-paper.
+
+Note:          An application may be taken to be properly witnessed because of subsection 55(3A).
 
              (2)  Subject to subsection (2A), if the DRO or Assistant Returning Officer receives the application for a postal vote at or before 6 pm on the Friday that is 8 days before voting day in the referendum, the material required by subsection (1) must be sent to the applicant by post or by another means (not being an electronic means, such as fax or email).
 
@@ -2140,10 +2180,6 @@ Definitions
 
                      (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot-paper, fold the ballot-paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
 
-                    (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of voting;
-
-                    (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of voting;
-
                      (e)  the elector shall post or deliver the envelope to the appropriate DRO;
 
                       (f)  if the elector cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the elector may, according to the directions of the elector, do for the elector any act required by paragraph (d) or (e);
@@ -2152,7 +2188,7 @@ Definitions
 
           (1A)  A postal vote by an elector outside Australia that does not meet the requirements in subsection (1) concerning an authorised witness is, despite that subsection, taken to meet those requirements for the purposes of this Act if:
 
-                     (a)  the postal vote is accompanied by a signed and dated statement by the elector setting out why the elector was unable to comply with those requirements; and
+                     (a)  the postal vote is accompanied by a signed statement by the elector setting out why the elector was unable to comply with those requirements; and
 
                      (b)  the DRO or officer dealing with the postal vote under section 67 is satisfied that the elector made reasonable efforts to comply with those requirements; and
 
@@ -2798,7 +2834,7 @@ before the ballot-box is so used again, a voting officer, in the presence of any
 
 ### Division 4—Voting by pre-poll declaration vote
 
-##### <a id="73CS"></a>73CS  Persons to whom this Division applies
+##### <a id="73CS"></a>73CS  Persons to whom this Division applies
 
                    This Division applies to a person who has, in accordance with Division 2, applied for a pre-poll vote but who is not, under Division 3, entitled to vote by pre-poll ordinary vote.
 
@@ -4167,7 +4203,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00512/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00512/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4188,7 +4224,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00512/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2010C00512/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -4290,7 +4326,15 @@ _Subsection 89A(3)_
 
               2.  All written applications for postal votes not already dealt with at a preliminary scrutiny shall be produced at each preliminary scrutiny of postal votes.
 
-              3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
+              3.  The DRO shall compare the signature of the elector on each postal vote application with the signature on the relevant postal vote certificate and allow the scrutineers to inspect both signatures.
+
+            3A.  For each postal vote certificate not dealt with under paragraph 3, the DRO must compare the signature of the elector on the postal vote certificate with the signature of the elector on:
+
+                     (a)  the elector’s application for registration as a general postal voter under the _Commonwealth Electoral Act 1918_; or
+
+                     (b)  the elector’s application for enrolment or transfer of enrolment under the _Commonwealth Electoral Act 1918_;
+
+and allow the scrutineers to inspect both signatures.
 
               4.  The DRO shall divide the envelopes being dealt with into groups, as follows:
 
@@ -4334,13 +4378,13 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
             6B.  Paragraphs 19 and 20 do not apply to envelopes excluded from further scrutiny because of subparagraph 6A(b).
 
-              7.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if the date referred to in paragraph 65(1)(c) in relation to the postal vote certificate is a date after voting day.
+              7.  Where the envelope purporting to contain a postal ballot-paper bears a postmark that includes a date after voting day, the vote marked on the ballot-paper shall be taken not to have been recorded prior to the close of voting.
 
             7A.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if:
 
-                     (a)  subsection 65(1A) applies in relation to the vote; and
+                     (a)  in the case of a ballot-paper taken to be witnessed because of subsection 65(1A)—the envelope purporting to contain the ballot-paper does not bear a legible postmark; or
 
-                     (b)  the date referred to in paragraph 65(1A)(a) is a date after voting day.
+                     (b)  in any other case—the envelope purporting to contain the ballot-paper does not bear a legible postmark and the signature of the witness bears a date after voting day.
 
               8.  An envelope purporting to contain an absent vote ballot-paper, a provisional vote ballot-paper or a pre-poll vote ballot-paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 34(2) or section 73F, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot-paper was properly issued.
 
@@ -5092,7 +5136,7 @@ Schedule 2 (items 182–189): 19 July 2010 ( <i>see</i>F2010L02126)</div>
   <td>
     <div>Schedule 1 (items 19–33, 37–39), Schedule 4 (items 18–31, 39–45, 48, 49), Schedule 8 (items 3–5) and Schedule 9 (items 47, 48): 15 July 2010 
 Schedule 5 (items 55–107, 108(2)): 23 July 2010 ( <i>see</i>F2010L02128) 
-Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
+Schedule 6 (items 11, 13–22): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 21, 32), Sch. 5 (items 107, 108(2)), Sch. 6 (items 21, 22) and Sch. 8 (item 5) \[ <i>see</i>Table A]</div>
@@ -6114,7 +6158,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; Nos. 34 and 109, 2001; No. 22, 2007; No. 110, 2010</div>
+    <div>am. No. 167, 1991; Nos. 34 and 109, 2001; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6175,26 +6219,10 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>S. 59</div>
+    <div>Ss. 59, 60</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6210,7 +6238,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007; No. 110, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6219,14 +6247,6 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
   </td>
   <td>
     <div>ad. No. 34, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7735,9 +7755,71 @@ No. 219, 1992</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 110, 2010</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008)</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010 (No. 110, 2010)_
+
+The following amendments commence on 14 January 2011 unless proclaimed earlier:
+
+## Schedule 6
+
+## 11  Subsection 55(1)
+
+Repeal the subsection, substitute:
+
+             (1)  An application must be in writing in the approved form and must contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote.
+
+## 13  Subsection 55(3A)
+
+Repeal the subsection.
+
+## 14  Section 60
+
+Repeal the section.
+
+## 15  Subsection 61(1)
+
+Omit “, properly signed and witnessed, for a postal vote”, substitute “for a postal vote that is in accordance with subsection 55(1)”.
+
+## 16  Subsection 61(1) (note)
+
+Repeal the note.
+
+## 17  After paragraph 65(1)(d)
+
+Insert:
+
+                    (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of voting;
+
+                    (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of voting;
+
+## 18  Paragraph 65(1A)(a)
+
+After “signed”, insert “and dated”.
+
+## 19  Paragraphs 3 and 3A of Schedule 4
+
+Repeal the paragraphs, substitute:
+
+              3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
+
+## 20  Paragraphs 7 and 7A of Schedule 4
+
+Repeal the paragraphs, substitute:
+
+              7.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if the date referred to in paragraph 65(1)(c) in relation to the postal vote certificate is a date after voting day.
+
+            7A.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if:
+
+                     (a)  subsection 65(1A) applies in relation to the vote; and
+
+                     (b)  the date referred to in paragraph 65(1A)(a) is a date after voting day.
+
+As at 23 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7819,6 +7901,14 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 (2)        Despite the amendment made by item 56, the definition of **_officer_** in subsection 3(1) of the _Referendum (Machinery Provisions) Act 1984_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 116 of that Act.
 
+## Schedule 8
+
+## 5  Application of amendments
+
+The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
+
+The following provisions commence on 14 January 2011 unless proclaimed earlier:
+
 ## Schedule 6
 
 ## 21  Application of amendments
@@ -7834,11 +7924,5 @@ A form that, immediately before the commencement of this Part, was an approved f
                      (b)  subsection 55(1) of the _Referendum (Machinery Provisions) Act 1984_ (as in force immediately before that commencement);
 
 continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
-
-## Schedule 8
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
  
