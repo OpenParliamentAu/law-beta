@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 7 April 2009
- taking into account amendments up to Act No. 27 of 2009
+This compilation was prepared on 18 December 2008
+ taking into account amendments up to Act No. 149 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -536,6 +536,8 @@ and includes a bank.
 
                             (iii)  the Agency.
 
+                    <a name="rental-properti-loss"></a>**_rental property loss_** has the meaning given by subsection 12ZL(2).
+
                     <a name="repay-debt"></a>**_repayable debt_**, for an income year, has the meaning given by section 12ZLB.
 
                     <a name="repay-incom"></a>**_repayment income_** has the meaning given by section 12ZL.
@@ -816,7 +818,7 @@ the person is, for the purposes of this section, taken to be undertaking that co
 
                      (b)  a specified greater amount of financial supplement (not being an amount that is greater than the maximum amount of financial supplement that the person is eligible to obtain).
 
-##### <a id="12H"></a>12H  Effect of financial supplement on certain other benefits
+##### <a id="12H"></a>12H  Effect of financial supplement on certain other benefits
 
              (1)  The payment of financial supplement to a person will, as mentioned in subsection 12A(2), reduce the person’s entitlement to certain other benefits under the ABSTUDY scheme in accordance with subsection (2).
 
@@ -1094,13 +1096,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1120,7 +1122,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1144,7 +1146,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image005.gif)
 
              (2)  In subsection (1):
 
@@ -1158,7 +1160,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1170,7 +1172,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1194,7 +1196,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1222,11 +1224,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1300,7 +1302,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image010.gif)
 
 where:
 
@@ -1312,7 +1314,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image011.gif)
 
 where:
 
@@ -1324,7 +1326,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image012.gif)
 
 where:
 
@@ -1346,7 +1348,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1438,7 +1440,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
 
                      (a)  the person’s taxable income for the income year; and
 
-                     (b)  the person’s total net investment loss (within the meaning of the _Income Tax Assessment Act 1997_) for the income year; and
+                     (b)  if a person has a rental property loss for the income year—the amount of that rental property loss; and
 
                      (c)  if the person:
 
@@ -1448,9 +1450,11 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
 
                             the reportable fringe benefits total for the income year; and
 
-                     (d)  the person’s exempt foreign income for the income year; and
+                     (d)  if the person has exempt foreign income for the income year—the amount of that exempt foreign income.
 
-                     (e)  the person’s reportable superannuation contributions (within the meaning of the _Income Tax Assessment Act 1997_) for the income year.
+             (2)  The person’s **_rental property loss_** is the amount (if any) by which the amount of the person’s allowable deductions under the _Income Tax Assessment Act 1997_ in respect of rental property in Australia exceeds the person’s gross rental property income.
+
+             (3)  For the purposes of subsection (2), disregard any rental property income that the person derives as a member of a partnership.
 
              (4)  The person’s **_exempt foreign income_** is the total amount (if any) by which the person’s income that is exempt from tax under section 23AF or 23AG of the _Income Tax Assessment Act 1936_ exceeds the total amount of losses and outgoings that the person incurs in deriving that exempt income.
 
@@ -1872,7 +1876,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2192,7 +2196,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image015.gif)
 
 where:
 
@@ -2212,7 +2216,7 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:       The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2009C00157/Html/StudntAssistnceA73_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -2966,7 +2970,7 @@ the person may either:
 
                    This Division sets out the modifications of the _Administrative Appeals Tribunal Act 1975_ that need to be made for applications for review under section 324.
 
-##### <a id="328"></a>328  Statement of reasons for decision
+##### <a id="328"></a>328  Statement of reasons for decision
 
                    The _Administrative Appeals Tribunal Act 1975_ applies to an application under section 324 for review of a decision as if references in section 28 of that Act to the person who made the decision were references to the National Convener.
 
@@ -3615,7 +3619,7 @@ No. 82, p. 4)</div>
     <div>7 May 1982</div>
   </td>
   <td>
-    <div>Part XXXIX (ss. 218–237): 4 June 1982 <i>(a)</i></div>
+    <div>Part XXXIX (ss. 218–237): 4 June 1982 <i>( a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4614,7 +4618,7 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
     <div>28 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: Royal Assent</div>
+    <div>Schedule 1:Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4686,23 +4690,6 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
   </td>
   <td>
     <div>Sch. 1 (item 34) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
-  </td>
-  <td>
-    <div>27, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 84–87, 102(1)): 27 Mar 2009</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -4931,7 +4918,7 @@ The amendment history of the _Student Assistance Act 1973_ after renumbering by 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009</div>
+    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5822,14 +5809,6 @@ rep. No. 45, 1998</div>
   </td>
   <td>
     <div>ad. No. 47, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -13324,15 +13303,7 @@ _Social Security and Veterans’ Entitlements Legislation Amendment (Schooling R
 
 The amendments made by Part 1 of this Schedule apply in relation to a schooling requirement payment (within the meaning of the _Social Security (Administration) Act 1999_ as amended by this Act) whether it is claimed, or granted, before, on or after the day on which the amendments commence.
 
-* * *
-
-_Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
-
-## Schedule 3
-
-## 102  Application
-
-(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+ 
 
 Table showing new Part, Division and section numbers of the _Student Assistance Act 1973_ after renumbering by the _Student Assistance Amendment Act (No. 2) 1989_ (No. 171, 1989).
 
