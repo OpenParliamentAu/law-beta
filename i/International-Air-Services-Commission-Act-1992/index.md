@@ -1,7 +1,7 @@
 
 International Air Services Commission Act 1992
 Act No. 103 of 1992 as amended
-This compilation was prepared on 23 October 2001 taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 30 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -14,7 +14,6 @@ Part 1—Preliminary	1
 3	Object of Act	1
 4	Interpretation	1
 5	Available capacity	4
-5A	Application of the Criminal Code	4
 Part 2—Key provisions	5
 6	The International Air Services Commission	5
 7	Determinations allocating capacity	5
@@ -55,7 +54,7 @@ Division 2—Hearings	21
 34	Summons to give evidence	22
 35	Failure of witness to attend	22
 36	False information	22
-37	Refusal to provide information etc.	23
+37	Refusal to provide information etc.	22
 38	Allowances to witnesses	23
 Part 5—Membership of the Commission	24
 39	Constitution of Commission	24
@@ -79,7 +78,6 @@ Part 6—Miscellaneous	28
 54B	Pre‑existing capacity	31
 55	Regulations	31
 Notes		33
-
 An Act to establish the International Air Services Commission, and for related purposes
 Part 1—Preliminary
   
@@ -130,9 +128,6 @@ wholly‑owned subsidiary has the same meaning as in the Corporations Act 2001.
 5  Available capacity
 	(1)	Subject to subsection (2) of this section and subsection 9(2A), capacity is taken to be available capacity for the purposes of this Act if operational decisions are not in force in relation to that capacity.
 	(2)	If the Commission makes a determination, the capacity to which it relates is taken not to be available capacity during the period beginning when the determination is made and ending when the Secretary advises the Commission under section 50 in relation to the capacity.
-5A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences created by this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part 2—Key provisions
   
@@ -388,35 +383,25 @@ the Commission may:
 	(d)	give directions prohibiting or restricting publication or disclosure:
 	(i)	of evidence given at a hearing, whether in public or in private; or
 	(ii)	of any matters contained in documents received in evidence or otherwise obtained by the Commission.
-	(3)	A person must not contravene a direction under paragraph (2)(d).
+	(3)	A person must not knowingly or recklessly contravene a direction under paragraph (2)(d).
 Penalty:	$5,000.
 34  Summons to give evidence
 		A member may summon a person to appear at the hearing:
 	(a)	to give evidence to the Commission; and
 	(b)	to produce such documents as are referred to in the summons.
 35  Failure of witness to attend
-	(1)	A person summoned to appear as a witness before the Commission must not:
+		A person summoned to appear as a witness before the Commission must not, without reasonable excuse:
 	(a)	fail to attend as required by the summons; or
-	(b)	fail to appear and report from day to day.
+	(b)	fail to appear and report from day to day unless excused or released from further attendance by a member of the Commission.
 Penalty:	$3,000.
-	(2)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the Criminal Code).
-	(3)	An offence under paragraph (1)(a) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(4)	Paragraph (1)(b) does not apply if the person is excused or released from further attendance by a member of the Commission.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the Criminal Code).
 36  False information
-		A person appearing as a witness before the Commission must not provide false or misleading information to the Commission.
+		A person appearing as a witness before the Commission must not knowingly provide false or misleading information to the Commission.
 Penalty:	Imprisonment for 12 months.
 37  Refusal to provide information etc.
-	(1)	A person summoned to appear as a witness before the Commission must not fail:
+		A person summoned to appear as a witness before the Commission must not, without reasonable excuse, refuse or fail:
 	(a)	to answer a question or provide information as required by a member of the Commission; or
 	(b)	to produce a document as required by a summons served under section 34.
 Penalty:	$5,000.
-	(2)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the Criminal Code).
-	(3)	An offence under subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 38  Allowances to witnesses
 		A person summoned to appear as a witness before the Commission is entitled to be paid:
 	(a)	if the witness was summoned on the application of a party to the proceedings—by that party; or
@@ -550,7 +535,6 @@ pre‑existing capacity means capacity that came into existence before the comme
 Notes to the International Air Services Commission Act 1992
 Note 1
 The International Air Services Commission Act 1992 as shown in this compilation comprises Act No. 103, 1992 amended as indicated in the Tables below. 
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
@@ -583,11 +567,7 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 303): 15 July 2001 (see Gazette 2001, No. S285) (c)
 Ss. 4‑14
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001
-143, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4
+
 (a)	The International Air Services Commission Act 1992 was amended by Schedule 2 (items 1‑22) only of the Aviation Legislation Amendment Act (No. 1) 1998, subsections 2(1) and (3) of which provide as follows:
 	(1)	Subject to subsections (2) and (3), Schedule 1 (other than items 9, 10 and 11) and Schedule 5 commence on a day or days to be fixed by Proclamation.
 	(3)	If Schedule 5 does not commence under subsection (1) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
@@ -605,11 +585,7 @@ S. 4
 am. No. 139, 1994; No. 95, 1998; No. 55, 2001
 Heading to s. 5	
 rs. No. 95, 1998
-S. 5	
-am No. 139, 1994; No. 95, 1998
-S. 5A	
-ad. No. 143, 2001
-Ss. 6, 7	
+Ss. 5‑7	
 am No. 139, 1994; No. 95, 1998
 S. 9	
 am. No. 139, 1994
@@ -645,14 +621,8 @@ S. 29
 rep. No. 139, 1994
 S. 30	
 rs. No. 139, 1994
-S. 33	
-am. No. 143, 2001
 S. 34	
 am. No. 139, 1994
-S. 35	
-rs. No. 143, 2001
-Ss. 36, 37	
-am. No. 143, 2001
 S. 39	
 am. No. 139, 1994
 S. 44	
@@ -664,10 +634,4 @@ rs. No. 139, 1994
 S. 54A	
 ad. No. 139, 1994
 
-Table A
-Application, saving or transitional provisions
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
-4  Application of Amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
