@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00523/Html/Defence03_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00467/Html/Defence03_WD02_image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 2 August 2010
+This compilation was prepared on 7 July 2010
  taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force
@@ -251,6 +251,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [58A](#58A).       Interpretation
 
 [58B](#58B).       Minister may make determinations
+
+[58C](#58C).       Tabling, disallowance etc  of determinations
 
 [58E](#58E).        Delegation
 
@@ -2942,13 +2944,11 @@ Note:          The definitions of **_public sector superannuat
 
        (1AA)  Expressions used in paragraph (1)(ga) that are defined in the _Defence Reserve Service (Protection) Act 2001_ have the same meaning as in that Act.
 
-          (1A)  Paragraph 46AA(1)(a) of the _Acts Interpretation Act 1901_ applies, in relation to a determination, as if the reference in that paragraph to disallowable legislative instruments also included a reference to:
+          (1A)  A determination made under this section may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification:
 
-                     (a)  determinations made under section 58B or 58H of the _Defence Act 1903_; and
+                     (a)  the provisions of any Act or of any regulations made under an Act or of any determination made under this section, section 58H of this Act or section 24 of the _Public Service Act 1999_, as in force at a particular time or as in force from time to time; or
 
-                     (b)  determinations made under section 24 of the _Public Service Act 1999_.
-
-Note:          Section 46AA of the _Acts Interpretation Act 1901_ deals with prescribing matters by reference to other instruments.
+                     (b)  any matter contained in any other instrument or writing as in force or existing at the time when the first-mentioned determination takes effect.
 
           (1B)  A determination under this section may provide that, where an amount has been paid (whether before or after the commencement of this subsection) to a member or cadet or to a member of the family of a member or cadet under the regulations or under a determination made under this section or under Division 2, the member or cadet or the member of the family of the member or cadet is required to pay to the Commonwealth an amount, not exceeding the first-mentioned amount, upon the occurrence of an event specified in the determination, and may provide for the manner of recovery of such an amount.
 
@@ -2960,25 +2960,41 @@ Note:          Section 46AA of the _Acts Interpretation Act 
 
                      (b)  allowances or other pecuniary benefits referred to in paragraph (1)(b) or (c).
 
-             (4)  A determination is a disallowable instrument for the purposes of section 46B of the _Acts Interpretation Act 1901_. However:
+             (4)  A determination takes effect:
 
-                     (a)  subsections (5) to (5C) of this section apply to a determination instead of subsections 46B(5) to (8) of that Act; and
+                     (a)  on the day on which it is made; or
 
-                     (b)  paragraph 46B(2)(d) and subsection 46B(3) of that Act have effect in relation to a determination as if references to subsection (5) of section 46B were instead references to subsection (5) of this section.
+                     (b)  where another day (which may be a day earlier than the day on which it is made) is specified for the purpose in the determination, on the day so specified.
 
-             (5)  A determination must be notified in the _Gazette_ and, if the determination is not so notified by being published in full in the _Gazette_, a notice in the _Gazette_ of the determination’s having been made, and of the website on which it is available, is sufficient compliance with that requirement.
+             (5)  A determination shall not be expressed to take effect on a day earlier than the day on which it is made in any case where, if the determination so took effect:
 
-          (5A)  If a notice of the making of a determination is published in accordance with subsection (5), the determination must, at the time of publication of the notice or as soon as practicable thereafter, be made available on the website specified in the notice.
+                     (a)  the rights of a person (other than the Commonwealth) existing immediately before the last-mentioned day would be affected in a manner prejudicial to that person; or
 
-          (5B)  If, on the day of publication of a notice referred to in subsection (5), the determination to which the notice relates is not available on the website specified in the notice, the Minister must cause to be laid before each House of the Parliament, within 15 sitting days of that House after that day, a statement that the determination was not so available and the reason why it was not so available.
+                     (b)  liabilities would be imposed on a person (other than the Commonwealth) in respect of anything done or omitted to be done before that last-mentioned day;
 
-          (5C)  Failure to comply with a requirement of subsection (5A) or (5B) in relation to a determination does not constitute a failure to comply with subsection (5).
+and where, in a determination, any provision is made in contravention of this subsection, that provision shall be void and of no effect.
 
              (6)  The determinations made in each secular year (including determinations amending or revoking other determinations) shall be numbered in regular arithmetic series, beginning with the number 1, as nearly as possible in the order in which they are made.
 
              (7)  A determination may, without prejudice to any other manner of citation, be cited by reference to its number and the secular year in which it was made.
 
+             (8)  The Minister shall cause to be published in the _Gazette_, in respect of each determination, notice of:
+
+                     (a)  the fact that the determination has been made; and
+
+                     (b)  the place or places where copies of the determination can be obtained.
+
              (9)  In this section, a reference to this Act does not include a reference to the regulations.
+
+##### <a id="58C"></a>58C  Tabling, disallowance etc. of determinations
+
+             (1)  The provisions of section 48 (other than paragraphs (1)(a) and (b) and subsection (2)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to determinations as if:
+
+                     (a)  references in those provisions to regulations were references to determinations and references to a regulation were references to a provision of a determination; and
+
+                     (b)  references in those provisions to the repeal of a regulation were references to the revocation of a determination or of a provision of a determination, as the case requires.
+
+             (3)  Determinations shall not be deemed to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_.
 
 ##### <a id="58E"></a>58E  Delegation
 
@@ -4584,7 +4600,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The regulations may make provision in relation to the procedures and powers of the Inspector-General ADF in respect of the performance of the Inspector-General ADF’s functions (see paragraph 124(1)(h)).
 
-##### <a id="110D"></a>110D  When the Inspector-General ADF can conduct inquiries or investigations
+##### <a id="110D"></a>110D  When the Inspector-General ADF can conduct inquiries or investigations
 
              (1)  The Inspector-General ADF may conduct an inquiry or an investigation on his or her own initiative.
 
@@ -5453,7 +5469,7 @@ the paying officer shall, subject to subsection (13), in relation to each pay-
 
                    The production of an appointment, or order in writing purporting to be granted or made according to the provisions of this Act shall be _prima facie_ evidence of the appointment, or order, without proving the signature or seal thereto, or the authority of the person granting or making the appointment, or order.
 
-##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
+##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
 
                    The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
 
@@ -8082,7 +8098,7 @@ Schedule 7 (item 38): <i>(za)</i></div>
   <td>
     <div>Schedule 1: \[ <i>see</i>Note 4 and Table A] 
 Schedule 2: Royal Assent 
-Schedule 3: 2 Aug 2010</div>
+Schedule 3: \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 2–5), Sch. 2 (item 9) and Sch. 3 (item 5) \[ <i>see</i>Table A]</div>
@@ -12122,7 +12138,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 178, 1981; No. 164, 1984; No. 65, 1985 (as am. by No. 75, 1990); No. 75, 1988; No. 146, 1999; No. 10, 2001; No. 95, 2010</div>
+    <div>am. No. 178, 1981; No. 164, 1984; No. 65, 1985 (as am. by No. 75, 1990); No. 75, 1988; No. 146, 1999; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -12139,14 +12155,6 @@ Div. 4 of Part IIIAAA</div>
   </td>
   <td>
     <div>am. No. 80, 1982; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 95, 2010</div>
   </td>
 </tr>
 <tr>
@@ -17174,7 +17182,49 @@ there are taken to be 10 offices of Tribunal members in addition to the Chair.
 
                      (c)  proof of decisions or orders of the Tribunal.
 
-As at 2 August 2010 the amendments are not incorporated in this compilation.
+The following amendments commence on 2 August 2010:
+
+## Schedule 3
+
+## 1  Subsection 58B(1A)
+
+Repeal the subsection, substitute:
+
+          (1A)  Paragraph 46AA(1)(a) of the _Acts Interpretation Act 1901_ applies, in relation to a determination, as if the reference in that paragraph to disallowable legislative instruments also included a reference to:
+
+                     (a)  determinations made under section 58B or 58H of the _Defence Act 1903_; and
+
+                     (b)  determinations made under section 24 of the _Public Service Act 1999_.
+
+Note:          Section 46AA of the _Acts Interpretation Act 1901_ deals with prescribing matters by reference to other instruments.
+
+## 2  Subsections 58B(4) and (5)
+
+Repeal the subsections, substitute:
+
+             (4)  A determination is a disallowable instrument for the purposes of section 46B of the _Acts Interpretation Act 1901_. However:
+
+                     (a)  subsections (5) to (5C) of this section apply to a determination instead of subsections 46B(5) to (8) of that Act; and
+
+                     (b)  paragraph 46B(2)(d) and subsection 46B(3) of that Act have effect in relation to a determination as if references to subsection (5) of section 46B were instead references to subsection (5) of this section.
+
+             (5)  A determination must be notified in the _Gazette_ and, if the determination is not so notified by being published in full in the _Gazette_, a notice in the _Gazette_ of the determination’s having been made, and of the website on which it is available, is sufficient compliance with that requirement.
+
+          (5A)  If a notice of the making of a determination is published in accordance with subsection (5), the determination must, at the time of publication of the notice or as soon as practicable thereafter, be made available on the website specified in the notice.
+
+          (5B)  If, on the day of publication of a notice referred to in subsection (5), the determination to which the notice relates is not available on the website specified in the notice, the Minister must cause to be laid before each House of the Parliament, within 15 sitting days of that House after that day, a statement that the determination was not so available and the reason why it was not so available.
+
+          (5C)  Failure to comply with a requirement of subsection (5A) or (5B) in relation to a determination does not constitute a failure to comply with subsection (5).
+
+## 3  Subsection 58B(8)
+
+Repeal the subsection.
+
+## 4  Section 58C
+
+Repeal the section.
+
+As at 7 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -17882,16 +17932,6 @@ _Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
 
 The amendments made by this Schedule apply in relation to positive test results returned after the commencement of this Schedule.
 
-## Schedule 3
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to:
-
-                     (a)  the making of determinations on or after the commencement of this Schedule; and
-
-                     (b)  the making of variations or revocations of determinations on or after that commencement.
-
 The following provisions commence on 5 January 2011 unless proclaimed earlier:
 
 ## Schedule 1
@@ -17953,5 +17993,17 @@ the new Tribunal must deal with the application or direction as if it had been p
 (1)        The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to the transition from the old Tribunal to the new Tribunal.
 
 (2)        The provisions of this Part have effect subject to any such regulations.
+
+The following provision commences on 2 August 2010:
+
+## Schedule 3
+
+## 5  Application of amendments
+
+The amendments made by this Schedule apply in relation to:
+
+                     (a)  the making of determinations on or after the commencement of this Schedule; and
+
+                     (b)  the making of variations or revocations of determinations on or after that commencement.
 
  
