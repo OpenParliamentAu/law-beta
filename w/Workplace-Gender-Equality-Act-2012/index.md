@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00442/Html/2be31d0e-e89d-4ca5-87b5-88d43d6a3480_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00329/Html/EqualOppforWomWkpl1999_WD02_image001.gif)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 21 June 2011
- taking into account amendments up to Act No. 40 of 2011
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Advisory committees
 
-[32](#32).          Non‑disclosure of confidential information
+[32](#32).          Non-disclosure of confidential information
 
 [33](#33).          Delegation
 
@@ -146,7 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  an incorporated company over which the Commonwealth, a State, a Territory or a body referred to in paragraph (a) is in a position to exercise control.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="club"></a>**_club_** means an association (whether incorporated or not) of not less than 30 persons associated together for social, literary, cultural, political, sporting, athletic or other lawful purposes that:
 
@@ -156,13 +156,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="confidenti-report"></a>**_confidential report_** means a confidential report referred to in section 14.
 
-                    <a name="discrimin"></a>**_discrimination_** means discrimination as defined in section 5, 6, 7, 7AA or 7A of the _Sex Discrimination Act 1984_.
+                    <a name="discrimin"></a>**_discrimination_** means discrimination as defined in section 5, 6 or 7 of the _Sex Discrimination Act 1984_.
 
                     <a name="director"></a>**_Director_** means the Director of Equal Opportunity for Women in the Workplace.
 
                     <a name="employ"></a>**_employer_** means an individual, or a body or association (whether incorporated or not), that employs an individual:
 
-                     (a)  under a contract of service, whether on a full‑time, part‑time, casual or temporary basis; or
+                     (a)  under a contract of service, whether on a full-time, part-time, casual or temporary basis; or
 
                      (b)  under a contract for services; or
 
@@ -180,7 +180,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  conditions of service of employees;
 
-(f) arrangements for dealing with sex‑based harassment of women in the workplace;
+(f) arrangements for dealing with sex-based harassment of women in the workplace;
 
                      (g)  arrangements for dealing with pregnant, or potentially pregnant employees and employees who are breastfeeding their children.
 
@@ -192,7 +192,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="higher-educ-institut"></a>**_higher education institution_** means a university or other institution of higher education that is included in:
 
-                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post‑Compulsory Education and Training; or
+                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post-Compulsory Education and Training; or
 
                      (b)  the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications;
 
@@ -224,7 +224,7 @@ but does not include the Commonwealth, a State, a Territory or an authority.
 
              (2)  For the purpose of paragraph (b) of the definition of **_relevant employer_** in subsection (1):
 
-                     (a)  a corporation employs a person where the person is employed by another corporation which is a subsidiary of the first‑mentioned corporation; and
+                     (a)  a corporation employs a person where the person is employed by another corporation which is a subsidiary of the first-mentioned corporation; and
 
                      (b)  the question whether a corporation is a subsidiary of another corporation shall be determined as it would be determined for the purposes of the _Corporations Act 2001_.
 
@@ -490,13 +490,13 @@ the Agency may, subject to subsection (2), name the relevant employer in a rep
 
 ##### <a id="20"></a>20  Appointment of Director
 
-             (1)  The Director shall be appointed by the Governor‑General.
+             (1)  The Director shall be appointed by the Governor-General.
 
 ##### <a id="21"></a>21  Tenure of Director
 
-             (1)  The Director holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (1)  The Director holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 
-             (2)  The Director holds office, subject to this Part, on such terms and conditions as are determined by the Governor‑General.
+             (2)  The Director holds office, subject to this Part, on such terms and conditions as are determined by the Governor-General.
 
 ##### <a id="22"></a>22  Remuneration and allowances
 
@@ -518,11 +518,11 @@ the Agency may, subject to subsection (2), name the relevant employer in a rep
 
 ##### <a id="25"></a>25  Resignation
 
-                   The Director may resign the office of Director by writing signed and delivered to the Governor‑General.
+                   The Director may resign the office of Director by writing signed and delivered to the Governor-General.
 
 ##### <a id="26"></a>26  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
 
              (2)  If the Director:
 
@@ -534,7 +534,7 @@ the Agency may, subject to subsection (2), name the relevant employer in a rep
 
                      (d)  without reasonable excuse, contravenes section 27;
 
-the Governor‑General shall terminate the appointment of the Director.
+the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="27"></a>27  Disclosure of interest
 
@@ -602,7 +602,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (e)  having special knowledge or interest in relation to workplace programs, the functions of the Agency or the operation of this Act.
 
-             (4)  A member of an advisory committee holds office for such period as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (4)  A member of an advisory committee holds office for such period as is specified in the instrument of appointment, but is eligible for re-appointment.
 
              (5)  A member of an advisory committee may resign from office by writing signed and delivered to the Minister.
 
@@ -614,11 +614,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="32"></a>32  Non‑disclosure of confidential information
+##### <a id="32"></a>32  Non-disclosure of confidential information
 
              (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to a confidential report or confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
                      (b)  make use of any such report or information as is mentioned in paragraph (a); or
 
@@ -640,9 +640,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to a confidential report or confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
+                     (a)  to divulge or communicate to a court any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
 
-                     (b)  to produce in a court a confidential report or a document relating to confidential information of which the first‑ mentioned person has custody, or to which that person has access, by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
+                     (b)  to produce in a court a confidential report or a document relating to confidential information of which the first- mentioned person has custody, or to which that person has access, by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
 except to the extent that the report or information was the subject of a consent under subsection 16(2) or where it is necessary to do so for the purposes of this Act.
 
@@ -676,7 +676,7 @@ all or any of the powers and functions of the Agency under this Act other than t
 
              (4)  The Minister may make an arrangement with a Minister of a State for and in relation to the exercise of powers, and the performance of functions, of the Agency under this Act by an officer of the State.
 
-             (5)  In relation to higher education institutions, the Minister may make an arrangement with a Minister of a State for the Agency and an officer of the State to co‑operate, to the extent specified in the arrangement, in:
+             (5)  In relation to higher education institutions, the Minister may make an arrangement with a Minister of a State for the Agency and an officer of the State to co-operate, to the extent specified in the arrangement, in:
 
                      (a)  exchanging information relating to the development and implementation of workplace programs; and
 
@@ -690,7 +690,7 @@ all or any of the powers and functions of the Agency under this Act other than t
 
 ##### <a id="34"></a>34  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -989,10 +989,10 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4‑14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
+    <div>Ss. 4-14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
   </td>
   <td>
-    <div>Ss. 4‑14</div>
+    <div>Ss. 4-14</div>
   </td>
 </tr>
 <tr>
@@ -1006,7 +1006,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 10‑14): 2 Oct 2001 <i>(g)</i></div>
+    <div>S. 4 and Schedule 1 (items 10-14): 2 Oct 2001 <i>(g)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -1114,23 +1114,6 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex and Age Discrimination Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>40, 2011</div>
-  </td>
-  <td>
-    <div>20 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 70): 21 June 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
@@ -1143,7 +1126,7 @@ _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ wa
 
          The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995.
 
-_(b)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
+_(b)_    The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1165,7 +1148,7 @@ _(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10‑14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
+_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10-14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
 
@@ -1254,10 +1237,12 @@ _(i)_ Subsection 2(1) (item 8) of the _Higher Education Support (Transitional Pr
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -1312,13 +1297,14 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1391,7 +1377,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; Nos. 105 and 127, 2002; No. 150, 2003; No. 54, 2009; No. 40, 2011</div>
+    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; Nos. 105 and 127, 2002; No. 150, 2003; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
