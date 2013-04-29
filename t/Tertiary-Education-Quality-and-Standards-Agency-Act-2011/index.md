@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00737/Html/45747d81-e02d-41e1-8d0d-cd06090f1279_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00527/Html/11f9d79b-3f59-4350-afa9-51a204317234_files/image001.gif)
 
 # Tertiary Education Quality and Standards Agency Act 2011
 
 **Act No. 73 of 2011 as amended**
 
-This compilation was prepared on 3 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 9 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -779,7 +780,7 @@ Note:          This table relates only to the provisions of this
 
 ##### <a id="3"></a>3  Objects
 
-                   The objects of this Act are:
+                   The objects of this Act are:
 
                      (a)  to provide for national consistency in the regulation of higher education; and
 
@@ -3455,7 +3456,7 @@ Civil penalty
 
              (3)  The Federal Court or the Federal Magistrates Court may make a single order to pay a pecuniary penalty for all the contraventions described in subsection (2), but the penalty must not exceed the sum of the maximum penalties that could be ordered if a separate penalty were ordered for each of the contraventions.
 
-##### <a id="120"></a>120  Mistake of fact
+##### <a id="120"></a>120  Mistake of fact
 
              (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
 
@@ -3829,7 +3830,19 @@ Requirements before appointing a person to act
 
                      (b)  the Minister has consulted the Research Minister about the proposed appointment.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For further provisions about acting appointments, see the _Acts Interpretation Act 1901_.
 
 ### Division 3—TEQSA procedures
 
@@ -4247,9 +4260,19 @@ Note:          If the Panel Chair resigns, he or she also resi
 
              (2)  When appointing a person to act as a Panel member, the Minister must have regard to the matters in subsection 167(2).
 
-Note 1:       A Commissioner cannot be appointed to act as a Panel member (see subsection 170(2)).
+Note:          A Commissioner cannot be appointed to act as a Panel member (see subsection 170(2)).
 
-Note 2:       For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For further provisions about acting appointments, see the _Acts Interpretation Act 1901_.
 
 ### Division 3—Panel meetings
 
@@ -4918,23 +4941,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 44, 62)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 45–50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 11) of the _Tertiary Education Quality and Standards Agency_ _(Consequential Amendments and Transitional Provisions)_ _Act 2011_ provides as follows:
@@ -5087,80 +5093,6 @@ _(a)_     Subsection 2(1) (item 11) of the _Tertiary Education Quality
 </tr>
 <tr>
   <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 147</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 147(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 179</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 179(2) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 179(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 10</b></div>
   </td>
   <td>
@@ -5215,15 +5147,5 @@ The amendments made by this Schedule apply in relation to any default by a regis
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 **_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
