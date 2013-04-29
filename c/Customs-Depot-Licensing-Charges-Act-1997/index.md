@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03306/Html/CustDepotLicenChar97_image001.gif)
 
 # Customs Depot Licensing Charges Act 1997
 
 **Act No. 4 of 1997 as amended**
 
-This compilation was prepared on 16 September 2002
+This compilation was prepared on 10 August 2001
  taking into account amendments up to Act No. 91 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -28,13 +25,13 @@ Prepared by the Office of Legislative Drafting,
 
 [5](#5).            Amount of depot licence application charge                                       2
 
-[6](#6).            Amount of depot licence charge                                                          3
-
-[6A](#6A).         Amount of depot licence variation charge                                           6
+[6](#6).            Amount of depot licence charge                                                          2
 
 [7](#7).            Regulations                                                                                          6
 
 **Notes** 
+
+ 
 
 ## An Act to impose charges in relation to the licensing of depots under the _Customs Act 1901_
 
@@ -62,8 +59,6 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="depot-licenc-charg"></a>**_depot licence charge_** means the depot licence charge payable as set out in section 77M or 77U of the Customs Act.
 
-                    <a name="depot-licenc-variat-charg"></a>**_depot licence variation charge_** means the depot licence variation charge payable as set out in section 77LA of the Customs Act.
-
                     <a name="electron"></a>**_electronic_**, in relation to a cargo report, means transmitted to Customs by computer.
 
                     <a name="line-cargo"></a>**_line of cargo_** means cargo covered by that part of an electronic or documentary cargo report that constitutes a reference to:
@@ -81,8 +76,6 @@ Prepared by the Office of Legislative Drafting,
              (2)  Depot licence charge payable as set out in section 77M of the Customs Act is imposed.
 
              (3)  Depot licence charge payable as set out in section 77U of the Customs Act is imposed.
-
-             (4)  Depot licence variation charge payable as set out in section 77LA of the Customs Act is imposed.
 
 ##### <a id="5"></a>5  Amount of depot licence application charge
 
@@ -104,9 +97,9 @@ is $1,000.
 
                      (a)  if the depot concerned was not licensed under Part IVA of that Act immediately before the commencement of the period for which the grant is sought—$4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount; or
 
-                     (b)  if the depot concerned was licensed under Part IVA of that Act during the whole of the year (the **_reference year_**) ending on the 31 March preceding the commencement of the financial year for which the renewal is sought and the depot handled not less than 300 transactions during the reference year—$4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount; or
+                     (b)  if the depot concerned was licensed under Part IVA of that Act during the whole of the year (the **_reference year_**) ending on the 31 March preceding the commencement of the financial year for which the renewal is sought and the depot handled not less than 100 transactions during the reference year—$4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount; or
 
-                     (c)  if the depot concerned was licensed under Part IVA of that Act during the whole of the year (the **_reference year_**) ending on the 31 March preceding the commencement of the financial year for which the renewal is sought and the depot handled less than 300 transactions during the reference year—$1,500, or, if another amount not exceeding $2,250 is prescribed, that other amount.
+                     (c)  if the depot concerned was licensed under Part IVA of that Act during the whole of the year (the **_reference year_**) ending on the 31 March preceding the commencement of the financial year for which the renewal is sought and the depot handled less than 100 transactions during the reference year—$1,500, or, if another amount not exceeding $2,250 is prescribed, that other amount.
 
              (3)  If the depot concerned commenced to be licensed under Part IVA of the Customs Act during the course of the year (the **_reference year_**) ending on the 31 March preceding the commencement of the financial year for which the renewal is sought and did not cease to be so licensed during that year, subsection (2) has effect as if:
 
@@ -114,7 +107,7 @@ is $1,000.
 
                      (b)  the number of transactions handled by the depot during the reference year were worked out to the nearest whole number using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image002.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C03306/Html/CustDepotLicenChar97_image002.gif)</sub>
 
              (4)  In subsection (3):
 
@@ -130,7 +123,7 @@ is $1,000.
 
              (5)  If a depot licence is granted for a period that is less than a year, the amount of depot licence charge payable as set out in section 77U in respect of that grant is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image003.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C03306/Html/CustDepotLicenChar97_image003.gif)</sub>
 
 where:
 
@@ -156,7 +149,7 @@ where:
 
                      (b)  the number of transactions handled by the place during the reference year were worked out to the nearest whole number using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image002.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C03306/Html/CustDepotLicenChar97_image002.gif)</sub>
 
              (8)  In subsection (7):
 
@@ -170,13 +163,9 @@ where:
 
                     <a name="refer-dai"></a>**_reference days_** means the number of days in relation to a place in the reference year during which the place was appointed under paragraph 17(b) of the Customs Act.
 
-##### <a id="6A"></a>6A  Amount of depot licence variation charge
-
-                   The amount of depot licence variation charge payable by an applicant for the variation of a depot licence is $300 or, if another amount, not exceeding $450, is prescribed, that other amount.
-
 ##### <a id="7"></a>7  Regulations
 
-                   The Governor-General may make regulations for the purposes of sections 5, 6 and 6A.
+                   The Governor-General may make regulations for the purposes of sections 5 and 6.
 
 # Notes to the _Customs Depot Licensing Charges Act 1997_
 
@@ -239,7 +228,7 @@ of Assent</div>
     <div>28 Feb 1997</div>
   </td>
   <td>
-    <div>1 Apr 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. GN12)</div>
+    <div>1 Apr 1997: ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. GN12)</div>
   </td>
   <td>
     <div></div>
@@ -256,64 +245,54 @@ of Assent</div>
     <div>18 July 2001</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. S223) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: \[ <i>see</i> <i>(a)</i>, Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 6)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+_(a)_ The _Customs Depot Licensing Charges Act 1997_ was amended by the _Customs Depot Licensing Charges Amendment Act 2001_, subsection 2(2) of which provides as follows:
 
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+                 (2)   Schedule 1 commences on the day on which item 146in Schedule 3 to the _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_ commences. [_see_ Note 2]
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+### Note 2
 
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 91, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 91, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 91, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 91, 2001</div>
-  </td>
-</tr></table>
+_Customs Depot Licensing Charges Amendment Act 2001 (No. 91, 2001)_
+
+The following amendments commence on 20 July 2003 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 3
+
+Insert:
+
+                    <a name="depot-licenc-variat-charg"></a>**_depot licence variation charge_** means the depot licence variation charge payable as set out in section 77LA of the Customs Act.
+
+## 2  At the end of section 4
+
+Add:
+
+             (4)  Depot licence variation charge payable as set out in section 77LA of the Customs Act is imposed.
+
+## 3  Paragraphs 6(2)(b) and (c)
+
+Omit “100”, substitute “300”.
+
+## 4  After section 6
+
+Insert:
+
+##### <a id="6A"></a>6A  Amount of depot licence variation charge
+
+                   The amount of depot licence variation charge payable by an applicant for the variation of a depot licence is $300 or, if another amount, not exceeding $450, is prescribed, that other amount.
+
+## 5  Section 7
+
+Omit “and 6”, substitute “, 6 and 6A”.
+
+As at 10 August 2001 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -321,10 +300,14 @@ ad. = added or inserted      am. = amended      rep. = repea
 
 _Customs Depot Licensing Charges Amendment Act 2001 (No. 91, 2001)_
 
+The following provision commences on 20 July 2003 unless proclaimed earlier:
+
 ## Schedule 1
 
 ## 6  Application
 
 The amendment made by item 3 applies to the reference year ending on 31 March 2001 and all following reference years.
+
+      
 
  
