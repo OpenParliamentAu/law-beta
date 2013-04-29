@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00011/Html/ce986ca8-c0fc-4f10-987e-536d9a284e3a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00754/Html/01067e93-fc96-4b1b-9150-b7f538925c7c_files/image001.gif)
 
 # Foreign Proceedings (Excess of Jurisdiction) Act 1984
 
 **Act No. 3 of 1984 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 16 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -107,6 +107,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                              (ii)  to require the answering of questions or the production of documents.
 
                     <a name="court"></a>**_Court_** means the Federal Court of Australia.
+
+                    <a name="docum"></a>**_document_** includes any writing and also includes any disc, tape or device on or in which information is recorded or stored, whether originally or by way of a copy.
 
                     <a name="foreign-author"></a>**_foreign authority_** means an authority of a country other than Australia.
 
@@ -721,7 +723,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 206): 15 July 2001 ( <i>see</i>s. 2(3) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (item 206): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -772,12 +774,16 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 634) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 634) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
+
+_(a)_ The _Foreign Proceedings (Excess of Jurisdiction) Act 1984_ was amended by Schedule 3 (item 206) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
 ## Table of Amendments
 
@@ -815,7 +821,7 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 62, 2004; No. 46, 2011</div>
+    <div>am. No. 55, 2001; No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -939,11 +945,27 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 634  Subsection 3(1) (definition of _document_)
+
+Repeal the definition.
+
+As at 16 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
