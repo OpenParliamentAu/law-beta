@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00779/Html/e18b29e8-1e1c-42c4-a06f-8d3132c1be13_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00572/Html/ff290fa3-8299-4c90-93e7-f89a3bac2569_files/image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 2 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 26 July 2012
+ taking into account amendments up to Act No. 82 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -151,9 +152,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [61](#61).          Regulations
 
+**Part 8—Amendments of other Acts**
+
+[62](#62).          Amendments of other Acts
+
 **Part 9—Transitional provisions**
 
 [63](#63).          Actions etc  under provisions amended or repealed
+
+**Schedule—Amendments of Acts** 
 
 **Notes** 
 
@@ -1055,7 +1062,7 @@ has effect after the transfer as if, to the extent to which the contract or inst
 
 ##### <a id="60"></a>60  Publication of directions
 
-                   Where the Minister gives a direction under section 8, the Minister must cause a copy of the direction to be published in the _Gazette_ within 21 days after it is given.
+                   Where the Minister gives a direction under section 8, the Minister must cause a copy of the direction to be published in the _Gazette_ within 21 days after it is given.
 
 ##### <a id="61"></a>61  Regulations
 
@@ -1064,6 +1071,12 @@ has effect after the transfer as if, to the extent to which the contract or inst
                      (a)  prescribing matters required or permitted by this Act to be prescribed; and
 
                      (b)  prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+## Part 8—Amendments of other Acts
+
+##### <a id="62"></a>62  Amendments of other Acts 
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
 
 ## Part 9—Transitional provisions
 
@@ -1094,6 +1107,29 @@ is to be read as a reference to the Authority.
                      (c)  the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_;
 
 and in force immediately before the amendment of that Act by this Act continues in force as if it were an order made by the Authority under the relevant provision of that Act as so amended.
+
+# Schedule—Amendments of Acts
+
+_Section 62_
+
+* * *
+
+**Note**
+ The amendments made by this Schedule are incorporated in the compilations on ComLaw
+
+_Lighthouses Act 1911_
+
+_Navigation Act 1912_
+
+_Protection of the Sea (Powers of Intervention) Act 1981_
+
+_Protection of the Sea (Prevention of Pollution from Ships) Act 1983_
+
+_Shipping Registration Act 1981_
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 78, 1990.
+
+* * *
 
 # Notes to the _Australian Maritime Safety Authority Act 1990_
 
@@ -1272,7 +1308,7 @@ Schedule 1 (Part C \[items 4, 5, 7]): 1 Jan 1998 ( <i>see Gazette</i>1997, N
   </td>
   <td>
     <div>Ss. 4–7 
-S. 2(4) (as am. by 152, 1997, Sch. 3 \[item 30])</div>
+S. 2(4) (as am. by 152, 1997, Sch. 3 \[item 30])</div>
   </td>
 </tr>
 <tr>
@@ -1510,7 +1546,7 @@ Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 30–33) and Schedule 7 (item 22): 19 Apr 2011</div>
+    <div>Schedule 5 (items 30–33) and Schedule 7 (item 22): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1530,7 +1566,7 @@ Royal Assent</div>
     <div>Schedule 2 (items 189–194) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1544,7 +1580,7 @@ Royal Assent</div>
     <div>21 June 2012</div>
   </td>
   <td>
-    <div>Schedule 4 (item 1): 1 July 2012</div>
+    <div>Schedule 4 (item 1): 1 July 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -1561,7 +1597,7 @@ Royal Assent</div>
     <div>21 June 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): <i>(m)</i></div>
+    <div>Schedule 1 (item 1): <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1581,58 +1617,7 @@ Royal Assent</div>
     <div>Schedule 1 (items 24–26): 29 June 2012</div>
   </td>
   <td>
-    <div>Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marine Safety (Domestic Commercial Vessel) National Law (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>122, 2012</div>
-  </td>
-  <td>
-    <div>12 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i> <i>(n)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Navigation (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>129, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 7–10): \[ <i>see</i>s. 2(1) and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 13, 14): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1783,7 +1768,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>
       1 July 2003
       (
-        <i>see Gazette</i>2003, No. S229)
+        <i>see Gazette</i>2003, No. S229)
     </div>
   </td>
 </tr></table>
@@ -1843,68 +1828,12 @@ _(m)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian 
   </td>
 </tr></table>
 
-_(n)_ Subsection 2(1) (item 2) of the _Marine Safety (Domestic Commercial Vessel) National Law (Consequential Amendments) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="23%">
-  <col width="53%">
-  <col width="24%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Marine Safety (Domestic Commercial Vessel) National Law Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2369,89 +2298,7 @@ _(n)_ Subsection 2(1) (item 2) of the _Marine Safety (Domestic Commercial Vessel
   <td>
     <div>am. No. 95, 1995</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 8</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-_Marine Safety (Domestic Commercial Vessel) National Law (Consequential Amendments) Act 2012 (No. 122, 2012)_
-
-The following amendments commence immediately after the commencement of section 3 of the _Marine Safety (Domestic Commercial Vessel) National Law Act 2012_:
-
-## Schedule 1
-
-## 1  Subsection 3(1)
-
-Insert:
-
-                    <a name="domest-commerci-vessel"></a>**_domestic commercial vessel_** has the same meaning as in the Marine Safety (Domestic Commercial Vessel) National Law of the Commonwealth.
-
-Note:          For **_Marine Safety (Domestic Commercial Vessel) National Law of the Commonwealth_**, see paragraph 4(b) of the _Marine Safety (Domestic Commercial Vessel) National Law Act 2012._
-
-## 2  Paragraph 13(1)(e)
-
-Omit “4”, substitute “5”.
-
-## 3  After subsection 13(4)
-
-Insert:
-
-          (4A)  The Minister must use his or her best endeavours to ensure that at least one of the members referred to in paragraph (1)(e) is a person who the Minister is satisfied has knowledge of, or experience relevant to, the construction or operation of domestic commercial vessels.
-
-## 4  Subsection 22(6)
-
-Omit “4”, substitute “5”.
-
-As at 2 November 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Navigation (Consequential Amendments) Act 2012 (No. 129, 2012)_
-
-The following amendments commence at the same time as section 3 of the _Navigation Act 2012_:
-
-## Schedule 2
-
-## 7  Subsection 3(1) (definition of _the Safety Convention_)
-
-Omit “in the _Navigation Act 1912_”, substitute “**_Safety Convention_** has in the _Navigation Act 2012_”.
-
-## 8  Section 46 (subparagraph (c)(i) of the definition of _charge_)
-
-Omit “_1912_”, substitute “_2012_”.
-
-## 9  Section 46 (subparagraph (c)(v) of the definition of _charge_)
-
-Repeal the subparagraph.
-
-## 10  Paragraph 63(3)(a)
-
-Repeal the paragraph.
-
-As at 2 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
