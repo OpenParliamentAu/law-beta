@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00229/Html/FD7F562F350DB746CA2571630017A069/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00194/Html/4609DAE04852E3C3CA25715600825A18/$FILE/image001.gif)
 
 # Lighthouses Act 1911
 
 **Act No. 14 of 1911 as amended**
 
-This compilation was prepared on 4 May 2006
+This compilation was prepared on 13 April 2006
 taking into account amendments up to Act No. 24 of 2006
 
 The text of any of those amendments not in force
@@ -20,45 +20,45 @@ Attorney-General’s Department, Canberra
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Application to Territories
+[4](#4).            Application to Territories                                                                   1
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       2
 
 **Part II—Marine Navigational Aids**
 
-[5](#5).            Acquisition of lighthouses etc 
+[5](#5).            Acquisition of lighthouses etc                                                             3
 
-[6](#6).            Transfer of lighthouses etc  to be valid and effectual
+[6](#6).            Transfer of lighthouses etc  to be valid and effectual                          3
 
-[6A](#6A).         Acquisition of lighthouses by compulsory process
+[6A](#6A).         Acquisition of lighthouses by compulsory process                            3
 
-[7](#7).            Power to establish and maintain lighthouses etc 
+[7](#7).            Power to establish and maintain lighthouses etc                                 4
 
-[8](#8).            Powers of inspection and maintenance
+[8](#8).            Powers of inspection and maintenance                                                5
 
-[10](#10).          Powers in relation to lights and navigational aid
+[10](#10).          Powers in relation to lights and navigational aid                                  5
 
-[11](#11).          Returns of harbour light and navigational aid
+[11](#11).          Returns of harbour light and navigational aid                                      6
 
-[12](#12).          Protection from actions
+[12](#12).          Protection from actions                                                                       6
 
 **Part IV—Offences**
 
-[19](#19).          Destroying or damaging marine navigational aids etc 
+[19](#19).          Injuring lighthouses etc                                                                        7
 
-[19A](#19A).       Damage to be made good
+[19A](#19A).       Damage to be made good                                                                     8
 
-[19B](#19B).       Notice of damage to be given
+[19B](#19B).       Notice of damage to be given                                                               8
 
 **Part V—Regulations**
 
-[20](#20).          Regulations fixing light dues
+[20](#20).          Regulations fixing light dues                                                                9
 
 **Notes** 
 
@@ -157,31 +157,25 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="10"></a>10  Powers in relation to lights and navigational aid
 
-             (1)  The Authority may, by notice in writing served on the owner of any marine navigational aid or of any lamp or light, if in its opinion it is desirable for the safety of navigation to do so, require the owner of the marine navigational aid, lamp or light:
+             (1)  The Authority may, by notice in writing, whenever in its opinion it is desirable for the safety or convenience of navigation so to do, require the owner of any marine navigational aid or of any lamp or light:
 
-                     (a)  by a date specified in the notice—to remove it entirely or to move it to another position; or
+                     (a)  to remove it entirely or to some other position; or
 
-                     (b)  by a date specified in the notice—to modify it or to alter its character to such an extent and in such a manner as the Authority specifies in the notice; or
+                     (b)  to modify it or to alter its character to such an extent and in such manner as the Authority directs; or
 
-                     (c)  in the case of a lamp, with effect from a date specified in the notice—to refrain from lighting the lamp either entirely or for such a period as the Authority specifies in the notice; or
+                     (c)  to refrain from lighting the lamp either entirely or for such period as the Authority directs; or
 
-                     (d)  in the case of a light, with effect from a date specified in the notice—to cease exhibiting the light either entirely or for such a period as the Authority specifies in the notice.
+                     (d)  to cease from exhibiting the light either entirely or for such period as the Authority directs.
 
-             (2)  Unless exceptional circumstances relating to the safety of persons or ships require otherwise, the date specified in a notice referred to in subsection (1) must be at least one day after the service of the notice on the owner of the marine navigational aid, lamp or light concerned.
-
-Note:          If the person who is required under subsection (1) to take action by or from a date specified in the notice does not take that action by or from that specified date, the obligation to take that action continues after that specified date, with daily offences being committed until the obligation is complied with (see section 4K of the _Crimes Act 1914_).
+             (2)  It shall be the duty of the owner to comply with any notice served upon him in pursuance of this section.
 
              (3)  If the notice is not complied with, the Authority may take possession of the marine navigational aid or of the lamp or light referred to in the notice, and may order it to be forfeited, or may do in regard to it, at the expense of the owner, anything which the owner was required by the notice to do.
 
              (4)  Any expense incurred by the Authority under this section may be recovered by the Authority from the owner, as a debt due by the owner to the Authority.
 
-             (5)  A person commits an offence if the person does not comply with a notice under this section.
+             (5)  No person shall fail to comply with a notice under this section.
 
-                    Penalty:  40 penalty units.
-
-       (5AA)  Subsection 4K(2) of the _Crimes Act 1914_ ceases to apply in relation to an offence against subsection (5) of this section on the sixth day after the day on which the obligation to take the action first arose.
-
-Note:          Because of this subsection, 200 penalty units is the maximum penalty that can be imposed for offences against subsection (5).
+                    Penalty:  One hundred dollars.
 
           (5A)  Subsection (5) does not apply if the person has reasonable cause.
 
@@ -194,8 +188,6 @@ Note:          For **_strict liability_**, see section 6.1 o
              (6)  In this section **_owner_** includes a State Government and any authority of a State having the control or management of any marine navigational aid or of any lamp or light:
 
 Provided that nothing in this section shall render a State Government or any authority of a State liable to a pecuniary penalty under subsection (5).
-
-             (7)  A notice under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
 ##### <a id="11"></a>11  Returns of harbour light and navigational aid
 
@@ -211,239 +203,39 @@ Provided that nothing in this section shall render a State Government or any aut
 
 ## Part IV—Offences
 
-##### <a id="19"></a>19  Destroying or damaging marine navigational aids etc.
+##### <a id="19"></a>19  Injuring lighthouses etc.
 
-Intentionally destroying, fouling or damaging marine navigational aids etc.
+             (1)  A person commits an offence if the person does an act and the person intends or is negligent as to whether the act will result in:
 
-             (1)  A person commits an offence if:
+                     (a)  injury, destruction, running foul of, or damage to:
 
-                     (a)  the person engages in conduct; and
+                              (i)  any marine navigational aid that is the property of, or under the control of, the Authority; or
 
-                     (b)  the conduct results in the destruction or fouling of, or damage to:
+                             (ii)  any light exhibited on any such marine navigational aid; or
 
-                              (i)  any marine navigational aid; or
+                            (iii)  any ship, vessel, stores, equipment, or other property used by the Authority in connection with the establishment, maintenance or servicing of marine navigational aids; or
 
-                             (ii)  any light exhibited on a marine navigational aid; or
+                     (b)  obstruction of the view of any lighthouse, lightship, beacon or buoy that is the property of, or under the control of, the Authority, in such a manner as to lessen its efficiency; or
 
-                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
+                     (c)  interference with the operation of, or the use by a person of, a marine navigational aid that is the property of, or under the control of, the Authority so as to hinder its effective operation or use.
 
-                     (c)  the person intends that the conduct will have that result; and
+                    Penalty:  $200.
 
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+          (1A)  A person commits an offence if the person does an act and the act results in the removal, altering, riding by or making fast of any marine navigational aid that is the property of, or under the control of, the Authority.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  $200.
 
-Recklessly destroying, fouling or damaging marine navigational aids etc.
+          (1B)  A person commits an offence if the person trespasses or goes upon:
 
-          (1A)  A person commits an offence if:
+                     (a)  any marine navigational aid that is the property of, or under the control of, the Authority; or
 
-                     (a)  the person engages in conduct; and
+                     (b)  any ship, vessel, or property used by the Authority in the establishment, maintenance or servicing of marine navigational aids.
 
-                     (b)  the conduct results in the destruction or fouling of, or damage to:
-
-                              (i)  any marine navigational aid; or
-
-                             (ii)  any light exhibited on a marine navigational aid; or
-
-                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
-
-                     (c)  the person is reckless as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 7 years.
-
-Negligently destroying, fouling or damaging marine navigational aids etc.
-
-          (1B)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct involves the destruction or fouling of, or damage to:
-
-                              (i)  any marine navigational aid; or
-
-                             (ii)  any light exhibited on a marine navigational aid; or
-
-                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
-
-                     (c)  the person is negligent as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  200 penalty units.
-
-          (1C)  Absolute liability applies to paragraphs (1)(d), (1A)(d) and (1B)(d).
-
-Intentionally obstructing the view of marine navigational aids
-
-          (1D)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
-
-                     (c)  the person intends that the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 10 years.
-
-Recklessly obstructing the view of marine navigational aids
-
-           (1E)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
-
-                     (c)  the person is reckless as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 7 years.
-
-Negligently obstructing the view of marine navigational aids
-
-           (1F)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
-
-                     (c)  the person is negligent as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  200 penalty units.
-
-          (1G)  Absolute liability applies to paragraphs (1D)(d), (1E)(d) and (1F)(d).
-
-Intentionally interfering with marine navigational aids
-
-          (1H)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
-
-                     (c)  the person intends that the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 10 years.
-
-Recklessly interfering with marine navigational aids
-
-           (1J)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
-
-                     (c)  the person is reckless as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 7 years.
-
-Negligently interfering with marine navigational aids
-
-          (1K)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
-
-                     (c)  the person is negligent as to whether the conduct will have that result; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  200 penalty units.
-
-           (1L)  Absolute liability applies to paragraphs (1H)(d), (1J)(d) and (1K)(d).
-
-Defence to offences against subsections (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) and (1K)
-
-          (1M)  Subsection (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) or (1K) does not apply if:
-
-                     (a)  the conduct that resulted in the destruction, fouling, damage, obstruction or interference referred to in that subsection was necessary to save a life or a ship, or to prevent pollution; and
-
-                     (b)  the defendant took all reasonable steps to avoid causing that destruction, fouling, damage, obstruction or interference.
-
-Note:          A defendant bears a legal burden in relation to the matters in this subsection (see section 13.4 of the _Criminal Code_).
-
-Intentional removal of marine navigational aids
-
-          (1N)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct involves removing, altering, riding by, or making fast to, a marine navigational aid; and
-
-                     (c)  the person intends that the conduct will result in that removal, alteration, riding by or making fast; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 10 years.
-
-Reckless removal of marine navigational aids
-
-          (1O)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct involves removing, altering, riding by, or making fast to, a marine navigational aid; and
-
-                     (c)  the person is reckless as to whether the conduct will result in that removal, alteration, riding by or making fast; and
-
-                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  Imprisonment for 7 years.
-
-           (1P)  Absolute liability applies to paragraphs (1N)(d) and (1O)(d).
-
-Trespassing on marine navigational aids
-
-          (1Q)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct involves trespassing or going on a marine navigational aid; and
-
-                     (c)  the marine navigational aid is the property of, or under the control of, the Authority.
-
-                    Penalty:  10 penalty units.
-
-          (1R)  Absolute liability applies to paragraph (1Q)(c).
-
-Trespassing on ships, vessels, or property used by the Authority
-
-           (1S)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct involves trespassing or going on any ship, vessel, or property; and
-
-                     (c)  the ship, vessel, or property is used by, or on behalf of, the Authority in the establishment, maintenance or servicing of marine navigational aids.
-
-                    Penalty:  10 penalty units.
-
-           (1T)  Absolute liability applies to paragraph (1S)(c).
+                    Penalty:  $200.
 
              (2)  In addition to the penalty, any offender may be ordered to pay the amount of the damage caused by the commission of the offence, or the cost of repairing, replacing, or reinstating the marine navigational aid.
 
              (3)  Where any damage to any marine navigational aid the property of, or under the control of, the Authority is caused by any ship, the damage shall be charged on the ship, and the ship may be detained by any officer of Customs until the amount of the damage is paid.
-
-             (4)  In this section:
-
-                    <a name="conduct"></a>**_conduct_** means an act or an omission to perform an act or a state of affairs.
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
 
 ##### <a id="19A"></a>19A  Damage to be made good
 
@@ -453,7 +245,7 @@ Trespassing on ships, vessels, or property used by the Authority
 
              (1)  A person who, or the master of a ship which, damages a marine navigational aid the property of the Authority shall, as soon as practicable having regard to the means of communication available to him, report the damage to a prescribed officer.
 
-                    Penalty:  60 penalty units.
+                    Penalty:  Two hundred dollars.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -931,7 +723,7 @@ Remainder: Royal Assent
         <div>6 Apr 2006</div>
       </td>
       <td>
-        <div>Schedule 1: 4 May 2006</div>
+        <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
       </td>
       <td>
         <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
@@ -1157,7 +949,7 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
       <div>S. 10</div>
     </td>
     <td>
-      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001</div>
     </td>
   </tr>
   <tr>
@@ -1274,18 +1066,10 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 19</div>
-    </td>
-    <td>
-      <div>rs. No. 24, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 19</div>
     </td>
     <td>
-      <div>am. No. 9, 1957; No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+      <div>am. No. 9, 1957; No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001</div>
     </td>
   </tr>
   <tr>
@@ -1325,7 +1109,7 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
       <div></div>
     </td>
     <td>
-      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001</div>
     </td>
   </tr>
   <tr>
@@ -1355,6 +1139,297 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
 </tbody></table>
 
 
+### Note 2
+
+_Maritime Legislation Amendment Act 2006 (No. 24, 2006)_
+
+The following amendments commence on 4 May 2006:
+
+## Schedule 1
+
+## 1  Subsections 10(1) and (2)
+
+Repeal the subsections, substitute:
+
+             (1)  The Authority may, by notice in writing served on the owner of any marine navigational aid or of any lamp or light, if in its opinion it is desirable for the safety of navigation to do so, require the owner of the marine navigational aid, lamp or light:
+
+                     (a)  by a date specified in the notice—to remove it entirely or to move it to another position; or
+
+                     (b)  by a date specified in the notice—to modify it or to alter its character to such an extent and in such a manner as the Authority specifies in the notice; or
+
+                     (c)  in the case of a lamp, with effect from a date specified in the notice—to refrain from lighting the lamp either entirely or for such a period as the Authority specifies in the notice; or
+
+                     (d)  in the case of a light, with effect from a date specified in the notice—to cease exhibiting the light either entirely or for such a period as the Authority specifies in the notice.
+
+             (2)  Unless exceptional circumstances relating to the safety of persons or ships require otherwise, the date specified in a notice referred to in subsection (1) must be at least one day after the service of the notice on the owner of the marine navigational aid, lamp or light concerned.
+
+Note:          If the person who is required under subsection (1) to take action by or from a date specified in the notice does not take that action by or from that specified date, the obligation to take that action continues after that specified date, with daily offences being committed until the obligation is complied with (see section 4K of the _Crimes Act 1914_).
+
+## 2  Subsection 10(5)
+
+Repeal the subsection, substitute:
+
+             (5)  A person commits an offence if the person does not comply with a notice under this section.
+
+                    Penalty:  40 penalty units.
+
+       (5AA)  Subsection 4K(2) of the _Crimes Act 1914_ ceases to apply in relation to an offence against subsection (5) of this section on the sixth day after the day on which the obligation to take the action first arose.
+
+Note:          Because of this subsection, 200 penalty units is the maximum penalty that can be imposed for offences against subsection (5).
+
+## 3  At the end of the section 10
+
+Add:
+
+             (7)  A notice under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+
+## 5  Subsections 19(1), (1A) and (1B)
+
+Repeal the subsections, substitute:
+
+Intentionally destroying, fouling or damaging marine navigational aids etc.
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct results in the destruction or fouling of, or damage to:
+
+                              (i)  any marine navigational aid; or
+
+                             (ii)  any light exhibited on a marine navigational aid; or
+
+                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
+
+                     (c)  the person intends that the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 10 years.
+
+Recklessly destroying, fouling or damaging marine navigational aids etc.
+
+          (1A)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct results in the destruction or fouling of, or damage to:
+
+                              (i)  any marine navigational aid; or
+
+                             (ii)  any light exhibited on a marine navigational aid; or
+
+                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
+
+                     (c)  the person is reckless as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 7 years.
+
+Negligently destroying, fouling or damaging marine navigational aids etc.
+
+          (1B)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct involves the destruction or fouling of, or damage to:
+
+                              (i)  any marine navigational aid; or
+
+                             (ii)  any light exhibited on a marine navigational aid; or
+
+                            (iii)  any ship, vessel, stores, equipment, or other property used by, or on behalf of, the Authority in connection with the establishment, maintenance or servicing of a marine navigational aid; and
+
+                     (c)  the person is negligent as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  200 penalty units.
+
+          (1C)  Absolute liability applies to paragraphs (1)(d), (1A)(d) and (1B)(d).
+
+Intentionally obstructing the view of marine navigational aids
+
+          (1D)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
+
+                     (c)  the person intends that the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 10 years.
+
+Recklessly obstructing the view of marine navigational aids
+
+           (1E)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
+
+                     (c)  the person is reckless as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 7 years.
+
+Negligently obstructing the view of marine navigational aids
+
+           (1F)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct results in the obstruction of the view of any marine navigational aid; and
+
+                     (c)  the person is negligent as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  200 penalty units.
+
+          (1G)  Absolute liability applies to paragraphs (1D)(d), (1E)(d) and (1F)(d).
+
+Intentionally interfering with marine navigational aids
+
+          (1H)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
+
+                     (c)  the person intends that the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 10 years.
+
+Recklessly interfering with marine navigational aids
+
+           (1J)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
+
+                     (c)  the person is reckless as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 7 years.
+
+Negligently interfering with marine navigational aids
+
+          (1K)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  that conduct results in an interference  with the operation of, or the use by a person of, a marine navigational aid; and
+
+                     (c)  the person is negligent as to whether the conduct will have that result; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  200 penalty units.
+
+           (1L)  Absolute liability applies to paragraphs (1H)(d), (1J)(d) and (1K)(d).
+
+Defence to offences against subsections (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) and (1K)
+
+          (1M)  Subsection (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) or (1K) does not apply if:
+
+                     (a)  the conduct that resulted in the destruction, fouling, damage, obstruction or interference referred to in that subsection was necessary to save a life or a ship, or to prevent pollution; and
+
+                     (b)  the defendant took all reasonable steps to avoid causing that destruction, fouling, damage, obstruction or interference.
+
+Note:          A defendant bears a legal burden in relation to the matters in this subsection (see section 13.4 of the _Criminal Code_).
+
+Intentional removal of marine navigational aids
+
+          (1N)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct involves removing, altering, riding by, or making fast to, a marine navigational aid; and
+
+                     (c)  the person intends that the conduct will result in that removal, alteration, riding by or making fast; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 10 years.
+
+Reckless removal of marine navigational aids
+
+          (1O)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct involves removing, altering, riding by, or making fast to, a marine navigational aid; and
+
+                     (c)  the person is reckless as to whether the conduct will result in that removal, alteration, riding by or making fast; and
+
+                     (d)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  Imprisonment for 7 years.
+
+           (1P)  Absolute liability applies to paragraphs (1N)(d) and (1O)(d).
+
+Trespassing on marine navigational aids
+
+          (1Q)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct involves trespassing or going on a marine navigational aid; and
+
+                     (c)  the marine navigational aid is the property of, or under the control of, the Authority.
+
+                    Penalty:  10 penalty units.
+
+          (1R)  Absolute liability applies to paragraph (1Q)(c).
+
+Trespassing on ships, vessels, or property used by the Authority
+
+           (1S)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct involves trespassing or going on any ship, vessel, or property; and
+
+                     (c)  the ship, vessel, or property is used by, or on behalf of, the Authority in the establishment, maintenance or servicing of marine navigational aids.
+
+                    Penalty:  10 penalty units.
+
+           (1T)  Absolute liability applies to paragraph (1S)(c).
+
+_Note:       The heading to section 19 is replaced by the heading “Destroying or damaging marine navigational aids etc.”._
+
+## 6  At the end of section 19
+
+Add:
+
+             (4)  In this section:
+
+                    <a name="conduct"></a>**_conduct_** means an act or an omission to perform an act or a state of affairs.
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+## 7  Subsection 19B(1) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  60 penalty units.
+
+As at 13 April 2006 the amendments are not incorporated in this compilation.
+
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1372,6 +1447,8 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
  </div>
 
 _Maritime Legislation Amendment Act 2006 (No. 24, 2006)_
+
+The following provision commences on 4 May 2006:
 
 ## Schedule 1
 
