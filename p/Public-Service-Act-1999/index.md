@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00090/Html/PublicService1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00349/Html/PublicService1999WD02_Version1_image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 1 July 2006
+ taking into account amendments up to Act No. 56 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -309,8 +309,6 @@ Note:          See also the _Public Employment (Consequential 
                     <a name="ap-employ"></a>**_APS employment_** means employment as an APS employee.
 
                     <a name="ap-valu"></a>**_APS Values_** means the values in section 10.
-
-                    <a name="awa"></a>**_AWA_** has the meaning given by Schedule 7A to the _Workplace Relations Act 1996_.
 
                     <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
 
@@ -634,11 +632,11 @@ must do so without patronage or favouritism.
 
                      (g)  in other circumstances prescribed by the regulations.
 
-             (5)  If a relevant APCS, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
+             (5)  If a relevant APCS, workplace agreement, pre-reform certified agreement or pre-reform AWA contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
 
 ##### <a id="24"></a>24  Remuneration and other conditions
 
-             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or employees in the Agency.  A determination is of no effect to the extent that it would reduce the benefit to an employee of any individual term or condition applicable to the employee under the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA.
+             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or employees in the Agency.  A determination is of no effect to the extent that it would reduce the benefit to an employee of any individual term or condition applicable to the employee under the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement or pre-reform AWA.
 
 Note:          Other Commonwealth laws deal with matters such as superannuation, compensation, long-service leave and maternity leave.
 
@@ -1260,7 +1258,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  If an APS employee (the **_transferred employee_**) becomes an employee of a Commonwealth authority under paragraph (1)(b), the employee is entitled to remuneration and other conditions of employment that are not less favourable than the terms and conditions to which the employee was entitled as an APS employee, immediately before ceasing to be an APS employee, under:
 
-                     (a)  the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA; or
+                     (a)  the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement or pre-reform AWA; or
 
                      (b)  a determination under this Act.
 
@@ -1272,7 +1270,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                              (ii)  an adjustment or variation of the Australian Fair Pay and Conditions Standard; or 
 
-                            (iii)  the termination or replacement of a pre-reform certified agreement, AWA or pre-reform AWA; and
+                            (iii)  the termination or replacement of a pre-reform certified agreement or pre-reform AWA; and
 
                      (b)  applies to the transferred employee, or to a class of employees that includes the transferred employee.
 
@@ -1560,24 +1558,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td>
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1786,7 +1766,7 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -1810,7 +1790,7 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     <div>Ss. 23, 24</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -1898,7 +1878,7 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2019,5 +1999,7 @@ the enabling legislation has effect, on and after the commencing day, as if:
              (5)  In this section:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
+
+ 
 
  
