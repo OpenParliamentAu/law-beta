@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00570/Html/6a8c4973-2a68-4cb2-8e14-e942ddd6a094_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 25 July 2012
- taking into account amendments up to Act No. 111 of 2012
+This compilation was prepared on 14 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -721,10 +721,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                              (ii)  ending on the close of voting at the referendum;
 
                             must not be considered until after the end of the suspension period; and
-
-                    (aa)  a name must not be deleted from a roll or entered on another roll under section 103A of the _Commonwealth Electoral Act 1918_ during the suspension period; and
-
-                   (ab)  a name must not be entered on a roll under section 103B of the _Commonwealth Electoral Act 1918_ during the suspension period; and
 
                      (b)  a name must not be removed from a roll under section 118 of the _Commonwealth Electoral Act 1918_ during the suspension period.
 
@@ -4098,7 +4094,7 @@ I command you to cause a proposed law entitled [_here insert the title of the pr
 
 I appoint the following dates:
 
-            1.   For the close of the Rolls: the        day of              20    .
+            1.   For the close of the Rolls: the        day of              20    .
 
             2.   For taking the votes of the electors: the      day of             20    .
 
@@ -4119,7 +4115,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00570/Html/6a8c4973-2a68-4cb2-8e14-e942ddd6a094_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00570/Html/6a8c4973-2a68-4cb2-8e14-e942ddd6a094_files/image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4140,7 +4136,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00570/Html/6a8c4973-2a68-4cb2-8e14-e942ddd6a094_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2012C00570/Html/6a8c4973-2a68-4cb2-8e14-e942ddd6a094_files/image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -4306,17 +4302,15 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
               9.  The DRO shall seal up in a parcel the envelopes that do not meet the requirements of paragraph 6 and shall write on the parcel a description of its contents, the name of the Division and the date of commencement of the preliminary scrutiny.
 
-            10.  The DRO must divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
+            10.  The DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
 
-                     (a)  in one group:
+                     (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the _Commonwealth Electoral Act 1918_ applies;
 
-                              (i)  the envelopes bearing certificates or declarations by persons who are enrolled for the State or Territory in which the Division is situated (whether or not for the Division itself); and
+                     (b)  in another group the envelopes to which paragraph 11 applies;
 
-                             (ii)  the envelopes bearing certificates or declarations by persons whose claims for enrolment are claims to which subsection 102(5) of the _Commonwealth Electoral Act 1918_ applies; and
+                     (c)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division but are enrolled for the State or Territory in which the Division is situated;
 
-                            (iii)  the envelopes to which paragraph 11 of this Schedule applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the State or Territory in which the Division is situated (whether or not in the Division itself);
-
-                     (b)  in another group, all the other envelopes.
+                     (d)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division or for the State or Territory in which the Division is situated.
 
             11.  This paragraph applies to an envelope if the DRO is satisfied:
 
@@ -4326,7 +4320,9 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                               (i)  that the elector was, at the time of voting, entitled to be enrolled for the Division; and
 
-                             (ii)  that the omission of the elector’s name from the Roll for the Division was due to an error made by an officer or to a mistake of fact.
+                             (ii)  that the omission of the elector’s name from the Roll for the Division was due to an error made by an officer or to a mistake of fact; and
+
+                            (iii)  that the omission was not attributable to subsection 118(4A) of the _Commonwealth Electoral Act 1918_.
 
             12.  Subparagraph 11(b) does not apply if:
 
@@ -4334,7 +4330,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (b)  where there has been a redistribution of the State or Territory that includes the Division since the last election but one before the election to which the scrutiny relates, the error or mistake was made before the last such redistribution.
 
-            13.  In paragraph 12, **_election_** means:
+            13.  In paragraph 12, election means:
 
                      (a)  a general election for the House of Representatives;
 
@@ -4342,19 +4338,17 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (c)  a referendum not held concurrently with a general election.
 
-            14.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 21, exclude from further scrutiny the ballot‑papers contained in envelopes referred to in subparagraph 10(b).
+            14.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 21, exclude from further scrutiny the ballot‑papers contained in envelopes referred to in subparagraph 10(d).
 
-            15.  The DRO shall seal up in a parcel the envelopes referred to in subparagraph 10(b) and shall write on the parcel a description of the contents, the name of the Division and the date.
+            15.  The DRO shall seal up in a parcel the envelopes referred to in subparagraph 10(d) and shall write on the parcel a description of the contents, the name of the Division and the date.
 
-            16.  The DRO must, after the close of voting in the Division, without unfolding or inspecting them or allowing any other person to do so:
+            16.  The DRO shall, after the close of voting in the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot‑papers from envelopes referred to in paragraph 10 that still remain in the preliminary scrutiny.
 
-                     (a)  withdraw the ballot‑papers from envelopes referred to in subparagraph 10(a); and
-
-                     (b)  place those ballot papers in a ballot‑box by themselves for further scrutiny.
+            17.  Ballot‑papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) shall be placed in a ballot‑box by themselves for further scrutiny.
 
             18.  Where a ballot‑paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
 
-            19.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot‑papers that are required, under that scrutiny, to be placed in a ballot‑box under paragraph 16 are so placed, but not before the close of the poll for the Division, must:
+            19.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot‑papers that are required, under that scrutiny, to be placed in a ballot‑box under paragraph 17 are so placed, but not before the close of the poll for the Division, must:
 
                      (a)  open the parcel of envelopes that contains the ballot‑papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 20, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 20; and
 
@@ -4381,7 +4375,7 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
   <col width="14%">
@@ -5127,41 +5121,6 @@ Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Maintaining Address) Act 2012</div>
-  </td>
-  <td>
-    <div>110, 2012</div>
-  </td>
-  <td>
-    <div>24 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 16): 25 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012</div>
-  </td>
-  <td>
-    <div>111, 2012</div>
-  </td>
-  <td>
-    <div>24 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 17): <i>(j)</i> 
-Schedule 2 (items 7–12): 25 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Referendum (Machinery Provisions) Act 1984_ was amended by section 116 only of the _Special Broadcasting Service Act 1991_, subsection 2(1) of which provides as follows:
@@ -5457,74 +5416,6 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
   </td>
 </tr></table>
 
-_(j)_      Subsection 2(1) (item 2) of the _Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the day after this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 2 to the Electoral
-        and Referendum Amendment (Maintaining Address) Act 2012.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      25 July 2012
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -5601,7 +5492,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Electoral and Referendum A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 166, 1995; No. 94, 1998; No. 65, 2006; No. 29, 2011; Nos. 110 and 111, 2012</div>
+    <div>am. No. 24, 1990; No. 166, 1995; No. 94, 1998; No. 65, 2006; No. 29, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7894,7 +7785,7 @@ No. 219, 1992</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 110, 2010; Nos. 29 and 37, 2011; No. 111, 2012</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 110, 2010; Nos. 29 and 37, 2011</div>
   </td>
 </tr></table>
 
@@ -8002,7 +7893,7 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 * * *
 
-_Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011 (No. 29, 2011)_
+_Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011 (No. 29, 2011)_
 
 ## Schedule 1
 
