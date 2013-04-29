@@ -1,21 +1,18 @@
 
 New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002
 Act No. 90 of 2002 as amended
-This compilation was prepared on 15 May 2003
-[This Act was amended by Act No. 117 of 2002 and Act No. 16 of 2003]
+This compilation was prepared on 22 January 2003
+[This Act was amended by Act No. 117 of 2002]
 Amendments from Act No. 117 of 2002
 [Schedule 15 (items 2–4) amends Schedule 10
 Schedule 15 (items 2 to 4) commenced on 24 October 2002]
-Amendments from Act No. 16 of 2003
-[Schedule 18 added item 11 to Schedule 10
-Schedule 18 commenced on 24 October 2002]
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
   
 Contents
-1	Short title	1
-2	Commencement	1
+1	Short title	3
+2	Commencement	3
 3	Schedule(s)	2
 4	Amendment of income tax assessments	2
 Schedule 1—Consolidation: membership rules	3
@@ -24,50 +21,50 @@ Schedule 2—Consolidation: miscellaneous changes to asset cost provisions	4
 Income Tax Assessment Act 1997	4
 Schedule 3—Consolidation: new Subdivision 705‑B (tax cost setting amount on group formation)	14
 Income Tax Assessment Act 1997	14
-Schedule 4—Consolidation: reset cost base assets held on revenue account	24
+Schedule 4—Consolidation: reset cost base assets held on revenue account	23
+Income Tax Assessment Act 1997	23
+Schedule 5—Consolidation: imputation	24
 Income Tax Assessment Act 1997	24
-Schedule 5—Consolidation: imputation	25
+Schedule 6—Consolidation: international tax	25
 Income Tax Assessment Act 1997	25
-Schedule 6—Consolidation: international tax	26
-Income Tax Assessment Act 1997	26
-Schedule 7—Consolidation: application and transitional asset cost provisions	42
-Income Tax (Transitional Provisions) Act 1997	42
-Schedule 8—Consolidation: amendment of transitional provisions for losses	56
+Schedule 7—Consolidation: application and transitional asset cost provisions	41
+Income Tax (Transitional Provisions) Act 1997	41
+Schedule 8—Consolidation: amendment of transitional provisions for losses	54
+Income Tax (Transitional Provisions) Act 1997	54
+Schedule 9—Consolidation: transitional provisions for international tax	56
 Income Tax (Transitional Provisions) Act 1997	56
-Schedule 9—Consolidation: transitional provisions for international tax	58
-Income Tax (Transitional Provisions) Act 1997	58
-Schedule 10—Consolidation: consequential provisions for international tax	61
-Income Tax Assessment Act 1936	61
-Schedule 11—Consolidation: amendment of transitional provision about limiting access to group concessions	63
-New Business Tax System (Consolidation) Act (No. 1) 2002	67
-Schedule 12—Consolidation: amendments of Dictionary	68
-Income Tax Assessment Act 1997	68
-Schedule 13—Exempting entities and former exempting entities	69
-Income Tax Assessment Act 1997	69
-Schedule 14—Loss integrity rules: global method of valuing assets	121
-Part 1—Income Tax Assessment Act 1997	121
-Part 2—Income Tax (Transitional Provisions) Act 1997	132
-Part 3—Dictionary amendments	136
-Income Tax Assessment Act 1997	136
-Part 4—Application of amendments	137
-Schedule 15—Value shifting	138
-Part 1—New Divisions inserted in the Income Tax Assessment Act 1997	138
-Part 2—Amendment of the Income Tax (Transitional Provisions) Act 1997	254
-Part 3—Consequential amendment of the Income Tax Assessment Act 1997	256
-Division 1—Amendments	256
-Division 2—Saving and transitional provisions	258
-Part 4—Consequential amendment of the Income Tax Assessment Act 1936	259
-Part 5—Dictionary amendments	260
-Income Tax Assessment Act 1997	260
-Schedule 16—Demerger relief	276
-Part 1—CGT relief	276
-Income Tax Assessment Act 1997	276
-Part 2—Dividend relief	294
-Income Tax Assessment Act 1936	294
-Part 3—Consequential amendments	302
-Income Tax Assessment Act 1997	302
-Part 4—Transitional	308
-Part 5—Application	309
+Schedule 10—Consolidation: consequential provisions for international tax	59
+Income Tax Assessment Act 1936	59
+Schedule 11—Consolidation: amendment of transitional provision about limiting access to group concessions	61
+New Business Tax System (Consolidation) Act (No. 1) 2002	64
+Schedule 12—Consolidation: amendments of Dictionary	65
+Income Tax Assessment Act 1997	65
+Schedule 13—Exempting entities and former exempting entities	66
+Income Tax Assessment Act 1997	66
+Schedule 14—Loss integrity rules: global method of valuing assets	118
+Part 1—Income Tax Assessment Act 1997	118
+Part 2—Income Tax (Transitional Provisions) Act 1997	129
+Part 3—Dictionary amendments	133
+Income Tax Assessment Act 1997	133
+Part 4—Application of amendments	134
+Schedule 15—Value shifting	135
+Part 1—New Divisions inserted in the Income Tax Assessment Act 1997	135
+Part 2—Amendment of the Income Tax (Transitional Provisions) Act 1997	248
+Part 3—Consequential amendment of the Income Tax Assessment Act 1997	250
+Division 1—Amendments	250
+Division 2—Saving and transitional provisions	252
+Part 4—Consequential amendment of the Income Tax Assessment Act 1936	253
+Part 5—Dictionary amendments	254
+Income Tax Assessment Act 1997	254
+Schedule 16—Demerger relief	270
+Part 1—CGT relief	270
+Income Tax Assessment Act 1997	270
+Part 2—Dividend relief	288
+Income Tax Assessment Act 1936	288
+Part 3—Consequential amendments	296
+Income Tax Assessment Act 1997	296
+Part 4—Transitional	302
+Part 5—Application	303
 
 An Act about income tax to implement a New Business Tax System, and for related purposes
 [Assented to 24 October 2002]
@@ -105,12 +102,14 @@ Note:	This table relates only to the provisions of this Act as originally passed
 		Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 4  Amendment of income tax assessments
 		Section 170 of the Income Tax Assessment Act 1936 does not prevent the amendment of an assessment made before the commencement of this section for the purposes of giving effect to this Act.
+
 Schedule 1—Consolidation: membership rules
   
 Income Tax Assessment Act 1997
 1  Subsection 703‑20(2) (table item 4)
 Repeal the item.
-Schedule 2—Consolidation: miscellaneous changes to asset cost provisions
+
+Schedule 2—Consolidation: miscellaneous changes to asset cost provisions
   
 Income Tax Assessment Act 1997
 1  At the end of subsection 701‑25(4)
@@ -1029,13 +1028,6 @@ the old section 160AFE applies to the taxpayer from 1 July 2002 until just bef
 10  Parts of income years not earlier income years
 Any period that is shorter than an income year and that is treated as if it were an income year for the purposes of item 5, 6 or 7 of this Schedule is taken not to be an earlier income year for the purposes of section 160AFE of the Income Tax Assessment Act 1936 as amended by this Schedule.
 
-11  Transitional provision for section 160AF
-(1)	This item applies if:
-	(a)	because of item 5, 6 or 7, old section 160AFE applies to a taxpayer as if a period were an income year (the notional income year); and
-	(b)	the taxpayer has an initial excess credit (within the meaning of old section 160AFE) in relation to the notional income year; and
-	(c)	the taxpayer transfers all or part (the extent of the transfer being the transfer amount) of that initial excess credit under old section 160AFE for utilisation by another company in the notional income year.
-(2)	Section 160AF of the Income Tax Assessment Act 1936 applies to the taxpayer for the year of income in which the notional income year ends as if the amount of foreign tax paid by the taxpayer mentioned in paragraph 160AF(1)(b) of that Act were reduced by the transfer amount.
-(3)	This item operates separately in relation to each class of foreign income identified in subsection 160AF(7) of the Income Tax Assessment Act 1936, as if the taxpayer’s foreign income of that class for a year of income were the whole of the taxpayer’s foreign income for that year.
 Schedule 11—Consolidation: amendment of transitional provision about limiting access to group concessions
   
 New Business Tax System (Consolidation) Act (No. 1) 2002
@@ -2472,8 +2464,8 @@ Up interests:
 *down interests owned by you that have *pre‑shift gains
 up interests owned by other *affected owners
 Note:	If there is a taxing event generating a gain on a down interest, CGT event K8 happens: see section 104‑240. However, a capital gain you make under CGT event K8 is disregarded if the down interest:
-•	is your trading stock (see section 118‑25); or
-•	is a pre‑CGT asset (see subsection 104‑240(5)).
+is your trading stock (see section 118‑25); or
+is a pre‑CGT asset (see subsection 104‑240(5)).
 725‑250  Table of consequences for adjustable values of interests as CGT assets
 	(1)	The table in subsection (2) sets out consequences of the *direct value shift for the *adjustable values of *down interests and *up interests of which you are an *affected owner, in their character as *CGT assets.
 	(2)	To the extent that the *direct value shift is from *down interests specified in an item in the table to *up interests specified in that item:
@@ -2567,9 +2559,9 @@ Effect of reduction or uplift of adjustable value
 	(b)	immediately after the increase time, you had bought the interest back for the uplifted adjustable value.
 	(4)	However, the increase in the cost of an *up interest because of paragraph (3)(b) is taken into account from time to time only to the extent that the amount of the increase is still reflected in the market value of the interest.
 Note:	The situations where the increase in cost would be taken into account include:
-•	in working out your deductions for the cost of trading stock acquired during the income year in which the increase time happens; and
-•	the end of an income year if the interest’s closing value as trading stock is worked out on the basis of its cost; and
-•	the start of the income year in which the interest is disposed of, if that happens in a later income year and the interest’s closing value as trading stock at the end of the previous income year was worked out on the basis of its cost.
+in working out your deductions for the cost of trading stock acquired during the income year in which the increase time happens; and
+the end of an income year if the interest’s closing value as trading stock is worked out on the basis of its cost; and
+the start of the income year in which the interest is disposed of, if that happens in a later income year and the interest’s closing value as trading stock at the end of the previous income year was worked out on the basis of its cost.
 	If the interest stops being trading stock, section 70‑110 treats you as having disposed of it.
 Taxing event generating a gain
 	(5)	For each *taxing event generating a gain under an item in the table in subsection 725‑335(3), the gain is included in your assessable income for the income year in which the *decrease time happens.
@@ -2845,8 +2837,8 @@ in cases where the 2 entities are related as set out in this Division.
 	(d)	no exclusion in Subdivision 727‑C applies.
 Note 1:	The consequences for direct and indirect interests in the losing entity or in the gaining entity are set out in Subdivision 727‑F. If those consequences are to be worked out using the realisation time method (under Subdivision 727‑G), there are further exclusions for certain 95% services indirect value shifts: see section 727‑700.
 Note 2:	An indirect value shift does not have consequences for interests in the losing entity or gaining entity owned immediately before the IVS time by an entity that:
-•	is eligible to be an STS taxpayer for each income year that includes any of the IVS period; or
-•	would satisfy the maximum net asset value test in section 152‑15 throughout the IVS period.
+is eligible to be an STS taxpayer for each income year that includes any of the IVS period; or
+would satisfy the maximum net asset value test in section 152‑15 throughout the IVS period.
 	See subsection 727‑470(2).
 727‑105  Ultimate controller test
 		It must be the case that, at some time during the *IVS period:
@@ -2888,8 +2880,8 @@ Table of sections
 	(c)	there are no other economic benefits that are to be provided in connection with the scheme if some contingency is met.
 That time is called the IVS time for the scheme.
 Note:	In most cases, the IVS time will be at or soon after the scheme is entered into. However, if:
-•	direct or indirect interests in a company or trust are realised at a loss when the IVS time for the scheme has not yet happened (even if it never happens); and
-•	the company or trust has provided, is providing, is to provide, or might provide, economic benefits in connection with the scheme;
+direct or indirect interests in a company or trust are realised at a loss when the IVS time for the scheme has not yet happened (even if it never happens); and
+the company or trust has provided, is providing, is to provide, or might provide, economic benefits in connection with the scheme;
 	there may be consequences for those interests similar to those of an indirect value shift resulting from the scheme. See Subdivision 727‑K.
 	(3)	The *scheme results in an indirect value shift from one entity (the losing entity) to another entity (the gaining entity) if the total market value of the one or more economic benefits (the greater benefits) that the losing entity has *provided, is providing, or is to provide, to the gaining entity *in connection with the scheme exceeds:
 	(a)	the total market value of the one or more economic benefits (lesser benefits) that the gaining entity has provided, is providing, or is to provide, to the losing entity in connection with the scheme; or
@@ -3764,9 +3756,9 @@ Reductions and uplifts also apply to pre‑CGT assets
 Note:	The notional sale and repurchase are separated in time. As a result, if this section is applied to another indirect value shift that happens later in the same income year, the interest’s adjustable value will be the cost on the notional repurchase: see paragraph (2)(b).
 	(4)	However, the increase in the cost of an interest because of paragraph (3)(b) is taken into account from time to time only to the extent that the amount of the increase is still reflected in the market value of the interest.
 Note:	The situations where the increase in cost would be taken into account include:
-•	in working out your deductions for the cost of trading stock acquired during the income year in which the increase happens; and
-•	the end of an income year if the interest’s closing value as trading stock is worked out on the basis of its cost; and
-•	the start of the income year in which the interest is disposed of, if that happens in a later income year and the interest’s closing value as trading stock at the end of the previous income year was worked out on the basis of its cost.
+in working out your deductions for the cost of trading stock acquired during the income year in which the increase happens; and
+the end of an income year if the interest’s closing value as trading stock is worked out on the basis of its cost; and
+the start of the income year in which the interest is disposed of, if that happens in a later income year and the interest’s closing value as trading stock at the end of the previous income year was worked out on the basis of its cost.
 	(5)	If this Division provides for the *adjustable value of the interest to be both reduced and uplifted:
 	(a)	the reduction and uplift offset each other to the extent of whichever of them is the lesser, and subsection (3) of this section applies accordingly; but
 	(b)	to the extent that the amount of the uplift is no longer reflected in the market value of the interest, this section is taken always to have applied on the basis that the amount of the uplift was reduced to the same extent.
@@ -3805,8 +3797,8 @@ the loss is reduced by an amount that is reasonable having regard to a reasonabl
 	(i)	when the scheme was entered into; and
 	(j)	the time of the last realisation event that happened to the interest.
 Note 1:	This Subdivision does not reduce gains from realisation events, but loss reductions under this Subdivision are taken into account in working out:
-•	gain reductions under Subdivision 727‑G for interests in a gaining entity that are realised after the IVS time for the scheme (see section 727‑625); or
-•	uplifts under Subdivision 727‑H in the adjustable values of interests in a gaining entity (see section 727‑810).
+gain reductions under Subdivision 727‑G for interests in a gaining entity that are realised after the IVS time for the scheme (see section 727‑625); or
+uplifts under Subdivision 727‑H in the adjustable values of interests in a gaining entity (see section 727‑810).
 Note 2:	Section 727‑865 provides for how other provisions of this Division apply for the purposes of this Subdivision.
 Further exclusion for certain 95% services indirect value shifts
 	(2)	The loss is not reduced if the *presumed indirect value shift is a *95% services indirect value shift because of subsection 727‑865(2), unless:
