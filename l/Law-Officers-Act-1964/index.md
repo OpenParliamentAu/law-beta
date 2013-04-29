@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2008C00197/Html/LawOfficers64_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00300/Html/5885F266BDDD551FCA257187001F5E11/$FILE/image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 26 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 13 June 2006
+taking into account amendments up to Act No. 40 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -55,6 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [19](#19).          Regulations
 
 **Notes** 
+
 
 ## An Act relating to the Law Officers of the Commonwealth
 
@@ -150,7 +152,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
                              (ii)  the Commonwealth;
 
-                            (iii)  a person suing or being sued on behalf of the Commonwealth;
+                            (iii) a person suing or being sued on behalf of the Commonwealth;
 
                             (iv)  a Minister;
 
@@ -188,9 +190,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
                               (i)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                            (iii)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; and
 
                      (b)  he or she does not make an election under subsection (2).
 
@@ -198,9 +198,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_.
+                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_.
 
           (2A)  The election must be made:
 
@@ -216,9 +214,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
                               (i)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                            (iii)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_;
 
                             immediately before being appointed as the Solicitor-General.
 
@@ -242,7 +238,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
                      (b)  the person ceases to hold that office after that commencement, otherwise than under paragraph 10(b); and
 
-                     (c)  the person is not entitled to payment of a pension under subsection (1);
+                     (c) the person is not entitled to payment of a pension under subsection (1);
 
 subsections (5) to (9), inclusive, apply in relation to the person.
 
@@ -280,7 +276,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00197/Html/LawOfficers64_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00300/Html/5885F266BDDD551FCA257187001F5E11/$FILE/image002.gif)
 
 For the purposes of the calculation:
 
@@ -374,6 +370,7 @@ whichever is the lesser period.
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Law Officers Act 1964_
 
 ### Note 1
@@ -398,11 +395,13 @@ The _Law Officers Act 1964_ as shown in this compilation comprises Act No. 91,
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -412,263 +411,251 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Law Officers Act 1964</div>
-  </td>
-  <td>
-    <div>91, 1964</div>
-  </td>
-  <td>
-    <div>5 Nov 1964</div>
-  </td>
-  <td>
-    <div>5 Nov 1964</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Officers Act 1968</div>
-  </td>
-  <td>
-    <div>152, 1968</div>
-  </td>
-  <td>
-    <div>10 Dec 1968</div>
-  </td>
-  <td>
-    <div>10 Dec 1968</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
-  </td>
-  <td>
-    <div>91, 1983</div>
-  </td>
-  <td>
-    <div>22 Nov 1983</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 4 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(14) and 6(1), (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>120, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part XIV (ss. 42, 43): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>136, 1991</div>
-  </td>
-  <td>
-    <div>12 Sept 1991</div>
-  </td>
-  <td>
-    <div>Schedule: 10 Oct 1991 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>22, 1992</div>
-  </td>
-  <td>
-    <div>13 Apr 1992</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
-  </td>
-  <td>
-    <div>94, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>S. 3: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>141, 1994</div>
-  </td>
-  <td>
-    <div>28 Nov 1994</div>
-  </td>
-  <td>
-    <div>S. 3 (item 11) and s. 4 (items 
-151–173): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Officers Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>39, 1998</div>
-  </td>
-  <td>
-    <div>4 June 1998</div>
-  </td>
-  <td>
-    <div>4 June 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>64, 2003</div>
-  </td>
-  <td>
-    <div>30 June 2003</div>
-  </td>
-  <td>
-    <div>1 July 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>62, 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 44, 45): 27 May 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications (Interception) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>40, 2006</div>
-  </td>
-  <td>
-    <div>3 May 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 21): 13 June 2006 ( <i>see</i>F2006L01623)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 82–85): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Law Officers Act 1964</div>
+    </td>
+    <td>
+      <div>91, 1964</div>
+    </td>
+    <td>
+      <div>5 Nov 1964</div>
+    </td>
+    <td>
+      <div>5 Nov 1964</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Officers Act 1968</div>
+    </td>
+    <td>
+      <div>152, 1968</div>
+    </td>
+    <td>
+      <div>10 Dec 1968</div>
+    </td>
+    <td>
+      <div>10 Dec 1968</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+    </td>
+    <td>
+      <div>91, 1983</div>
+    </td>
+    <td>
+      <div>22 Nov 1983</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 4 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(14) and 6(1), (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>120, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part XIV (ss. 42, 43): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>136, 1991</div>
+    </td>
+    <td>
+      <div>12 Sept 1991</div>
+    </td>
+    <td>
+      <div>Schedule: 10 Oct 1991 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>22, 1992</div>
+    </td>
+    <td>
+      <div>13 Apr 1992</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
+    </td>
+    <td>
+      <div>94, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>S. 3: 1 July 1990 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>141, 1994</div>
+    </td>
+    <td>
+      <div>28 Nov 1994</div>
+    </td>
+    <td>
+      <div>S. 3 (item 11) and s. 4 (items 
+151–173): Royal Assent <i>(f)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Officers Amendment Act 1998</div>
+    </td>
+    <td>
+      <div>39, 1998</div>
+    </td>
+    <td>
+      <div>4 June 1998</div>
+    </td>
+    <td>
+      <div>4 June 1998</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>64, 2003</div>
+    </td>
+    <td>
+      <div>30 June 2003</div>
+    </td>
+    <td>
+      <div>1 July 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>62, 2004</div>
+    </td>
+    <td>
+      <div>26 May 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 44, 45): 27 May 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Telecommunications (Interception) Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>40, 2006</div>
+    </td>
+    <td>
+      <div>3 May 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 21): 13 June 2006 ( <i>see</i>F2006L01623)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
 
@@ -696,6 +683,7 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
+
 ## Table of Amendments
 
 <table>
@@ -719,189 +707,194 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1992; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 91, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 94, 1992; No. 64, 2003; No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 91, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994; No. 39, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 91, 1983; No. 141, 1994; No. 62, 2004; No. 40, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 91, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 91, 1983; No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>rs. No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1992; No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 91, 1983; No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 141, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 62, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 91, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 94, 1992; No. 64, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16A</div>
+    </td>
+    <td>
+      <div>ad. No. 91, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 1994; No. 39, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 91, 1983; No. 141, 1994; No. 62, 2004; No. 40, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1985</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+ 
 
  
