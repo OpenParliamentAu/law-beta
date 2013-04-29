@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00930/Html/3bce4a28-9c9d-4ab3-a9b1-ebe7851f4882_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00654/Html/b98edf66-dc73-4dd9-8663-03e74a7de525_files/image001.gif)
 
 # Child Care Act 1972
 
 **Act No. 121 of 1972 as amended**
 
-This compilation was prepared on 19 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 22 August 2011
+ taking into account amendments up to Act No. 79 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -139,17 +140,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Child Care Act 1972_.
+                   This Act may be cited as the _Child Care Act 1972_. 
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+                   This Act shall come into operation on the day on which it receives the Royal Assent. 
 
 ##### <a id="4"></a>4  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
-
-                    <a name="acnc-type-entiti"></a>**_ACNC type of entity_** means an entity that meets the description of a type of entity in column 1 of the table in subsection 25‑5(5) of the _Australian Charities and Not‑for‑profits Commission Act 2012_.
 
                     <a name="bodi"></a>**_body_** includes an association and society.
 
@@ -223,150 +222,29 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
              (2)  For the purposes of Part IVA, a place is a child care centre whether or not all or the majority of the children for whom child care is provided at the place attend the place on a regular basis.
 
-##### <a id="4B"></a>4B  Eligible child care centres
+##### <a id="4B"></a>4B  Eligible child care centres 
 
-                   For the purposes of this Act, a child care centre is an **_eligible child care centre_** if:
+             (1)  For the purposes of this Act, a child care centre is an eligible child care centre if:
 
-                     (a)  the centre is operated, or proposed to be operated, by an entity that meets the requirements of columns 1 and (if applicable) 2 of an item of the following table; and
+                     (a)  the centre is operated, or proposed to be operated, by:
 
-                     (b)  the Minister determines that the centre is an eligible child care centre for the purposes of this Act:
+                              (i)  a body corporate, other than:
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
+                                        (A)  a body corporate that is carried on for the purpose of profit or gain; or 
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Entities that operate eligible child care centres</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>
-        <b>The entity is …</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>a body corporate that is registered under the
-      <i>Australian Charities and Not‑for‑profits Commission Act 2012</i>
-    </div>
-  </td>
-  <td>
-    <div>not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>a body corporate that is not an ACNC type of entity</div>
-  </td>
-  <td>
-    <div>the body corporate is:</div>
-    <div>(a) not carried on for the purpose of profit or gain; and</div>
-    <div>(b) not a Commonwealth, State or Territory authority</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the trustee of a trust that is registered under the
-      <i>Australian Charities and Not‑for‑profits Commission Act 2012</i>
-    </div>
-  </td>
-  <td>
-    <div>not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>the trustee of a trust that is not an ACNC type of entity</div>
-  </td>
-  <td>
-    <div>the trust is established by an entity that meets the requirements of item 1,
-      2, 3, 7 or 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>an unincorporated body that is registered under the
-      <i>Australian Charities and Not‑for‑profits Commission Act 2012</i>
-    </div>
-  </td>
-  <td>
-    <div>the unincorporated body is approved by the Minister for the purposes of
-      this item</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>an unincorporated body that is not an ACNC type of entity</div>
-  </td>
-  <td>
-    <div>the unincorporated body is:</div>
-    <div>(a) not carried on for the purpose of profit or gain; and</div>
-    <div>(b) approved by the Minister for the purposes of this item</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>the Australian Capital Territory</div>
-  </td>
-  <td>
-    <div>not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>a local governing body established by or under State or Territory law</div>
-  </td>
-  <td>
-    <div>not applicable</div>
-  </td>
-</tr></table>
+                                        (B)  a Commonwealth, State or Territory authority; or
+
+                             (ii)  the Australian Capital   Territory; or
+
+                            (iii)  a local governing body established by or under State or Territory law; or
+
+                            (iv)  the trustees of a trust established for charitable or benevolent purposes; or
+
+                             (v)  the trustees of a trust established by a person or body mentioned in subparagraph (i), (ii), (iii) or (iv); or
+
+                            (vi)  an unincorporated body (other than an unincorporated body that is carried on for the purpose of profit or gain) approved by the Minister for the purposes of this subparagraph; and
+
+                     (b)  the Minister determines that the centre is an eligible child care centre for the purposes of this Act.
 
 ##### <a id="4C"></a>4C  Guidelines for eligible child care centres 
 
@@ -412,7 +290,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 the Minister may approve, for the purposes of this Division, the purchase or proposed purchase or the construction or alteration or the proposed construction or alteration, as the case may be.
 
-##### <a id="7"></a>7  Grants for approved projects
+##### <a id="7"></a>7  Grants for approved projects
 
              (1)  The Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an eligible child care centre of an amount not exceeding the capital cost of an approved project.
 
@@ -1131,8 +1009,8 @@ Schedule 2 (items 4, 5): <i>(h)</i>
 Schedule 3: <i>(h)</i></div>
   </td>
   <td>
-    <div>S. 4 (am. by 83, 1999, Sch. 11 \[item 1]) 
-S. 5 (ad. by 83, 1999, Sch. 11 \[item 2]) \[ <i>see</i>Table A]</div>
+    <div>S. 4 (am. by 83, 1999, Sch. 11 (item 1)) 
+S. 5 (ad. by 83, 1999, Sch. 11 (item 2)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1167,24 +1045,7 @@ S. 5 (ad. by 83, 1999, Sch. 11 \[item 2]) \[ <i>see</i>Table A]</div>
 Schedule 11 (item 2): <i>(i)</i></div>
   </td>
   <td>
-    <div>S. 2(9) (rs. by 172, 1999, Sch. 2 \[item 3])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+    <div>S. 2(9) (rs. by 172, 1999, Sch. 2 (item 3))</div>
   </td>
 </tr>
 <tr>
@@ -1216,40 +1077,6 @@ Schedule 11 (item 2): <i>(i)</i></div>
   </td>
   <td>
     <div>Schedule 3 <i>(k)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2) (am. by 172, 1999, Sch. 2 \[item 1])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999</div>
-  </td>
-  <td>
-    <div>172, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1286,7 +1113,7 @@ Schedule 11 (item 2): <i>(i)</i></div>
     <div>Schedule 5 (item 11) and Schedule 7: <i>(l)</i></div>
   </td>
   <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1304,23 +1131,6 @@ Schedule 11 (item 2): <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 155–157): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 157) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1380,7 +1190,7 @@ _(h)_     The _Child Care Act 1972_ was amended by Schedule 2 (items�
 
          The _A New Tax System (Family Assistance) Act 1999_ and the _A New Tax System (Compensation Measures Legislation Amendment) Act 1999_ commenced on 1 July 2000.
 
-_(i)_ The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ was amended by Schedule 11 (items 1 and 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsections 2(8) and (9) of which provide as follows:
+_(i)_ The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 1) 1999_ was amended by Schedule 11 (items 1 and 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsections 2(8) and (9) of which provide as follows:
 
                  (8)   Item 1 of Schedule 11 commences, or is taken to have commenced, immediately after the commencement of section 4 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_.
 
@@ -1392,11 +1202,11 @@ _(i)_ The _A New Tax System (Family Assistance) (Consequential and Related Measu
 
          Section 4 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ commenced on 8 July 1999.
 
-_(j)_      The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ was amended by Schedule 2 (items 1 and 3) only of the _Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999_, subsection 2(4) of which provides as follows:
+_(j)_      The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ was amended by Schedule 2 (item 3) only of the _Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999_, subsection 2(4) of which provides as follows:
 
                  (4)   Schedule 2 commences, or is taken to have commenced, immediately after the commencement of section 2 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
 
- Section 2 commenced on 8 July 1999.
+ Section 2 commenced on 8 July 1999
 
 _(k)_     The _Child Care Act 1972_ was amended by Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
@@ -1500,8 +1310,8 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1556,7 +1366,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998; Nos. 82 and 83, 1999; No. 79, 2011; No. 169, 2012</div>
+    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998; Nos. 82 and 83, 1999; No. 79, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1581,14 +1391,6 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
   </td>
   <td>
     <div>am. No. 13, 1998; No. 82, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 169, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1929,7 +1731,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Ss. 12K–12N</div>
+    <div>S. 12K–12N</div>
   </td>
   <td>
     <div>ad. No. 13, 1998</div>
@@ -2153,14 +1955,6 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21</div>
   </td>
   <td>
@@ -2251,29 +2045,5 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
              (2)  To avoid doubt, if information is used or disclosed in accordance with subsection (1), the use or disclosure is taken, for the purposes of the Information Privacy Principles set out in section 14 of the _Privacy Act 1988_, to be authorised by law.
 
              (3)  Unless the contrary intention appears, an expression used in this section has the same meaning as in the _Privacy Act 1988_.
-
-* * *
-
-_Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
-
-## Schedule 2
-
-## 157  Saving of determinations and approvals
-
-(1)       A determination:
-
-                     (a)  made under paragraph 4B(1)(b) of the _Child Care Act 1972_; and
-
-                     (b)  in force just before the commencement of this item;
-
-has effect, from that commencement, as if it had been made for the purposes of paragraph 4B(b) of that Act, as amended by this Schedule.
-
-(2)       An approval:
-
-                     (a)  made for the purposes of subparagraph 4B(1)(a)(vi) of the _Child Care Act 1972_; and
-
-                     (b)  in force just before the commencement of this item;
-
-has effect, from that commencement, as if it had been made for the purposes of items 5 and 6 of the table in section 4B of that Act, as amended by this Schedule.
 
  
