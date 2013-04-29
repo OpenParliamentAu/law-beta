@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00078/Html/ae36c1fb-a43c-4994-881e-95b0b466c83c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00566/Html/ae5540ec-0487-4559-9632-f8d8cff3cf26_files/image001.gif)
 
 # Antarctic Treaty (Environment Protection) Act 1980
 
 **Act No. 103 of 1980 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 25 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -164,7 +164,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Antarctic Treaty (Environment Protection) Act 1980_.
 
@@ -237,6 +237,8 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
                      (b)  the management plan for which has been adopted by the Commission for the Conservation of Antarctic Marine Living Resources in accordance with Conservation Measure 18/IX adopted by the Commission, which became binding on Australia on 7 May 1991.
 
                     <a name="collect"></a>**_collect_**, in relation to a native plant, includes severing, or applying any substance harmful to, the plant.
+
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_. 
 
                     <a name="contravent"></a>**_contravention_**, in relation to a provision, includes a failure to comply with that provision.
 
@@ -3228,7 +3230,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 66) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 66) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3325,7 +3327,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992; No. 164, 2006; No. 4, 2010; No. 46, 2011</div>
+    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992; No. 164, 2006; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4268,7 +4270,21 @@ SPECIALLY PROTECTED SPECIES
 
 _Ommatophoca rossii_, Ross Seal.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 25 July 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 66  Subsection 3(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+As at 25 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4406,6 +4422,8 @@ The following provision commences on the day Measure 16, adopted by the XXXIInd 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
