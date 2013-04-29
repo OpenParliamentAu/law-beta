@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00701/Html/1727370b-6332-4351-9f0c-de01c5632fc4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00202/Html/d033e69c-7164-4b9a-943e-05eb9d323d8c_files/image001.gif)
 
 # Australian Film, Television and Radio School Act 1973
 
 **Act No. 95 of 1973 as amended**
 
-This compilation was prepared on 31 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -316,7 +316,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (6)  A document purporting to be a certificate mentioned in subsection (5) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
 
-##### <a id="13"></a>13  Chair and Deputy Chair of Council
+##### <a id="13"></a>13  Chair and Deputy Chair of Council
 
              (1)  Subject to subsection (3), the Governor‑General shall appoint a member of the Council to be the Chair of the Council.
 
@@ -918,7 +918,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L01863)</div>
+    <div>Schedule 1 (item 2): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L01863)</div>
   </td>
   <td>
     <div>—</div>
@@ -935,27 +935,10 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 24, 25): 19 Apr 2011</div>
+    <div>Schedule 5 (items 24, 25): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 154, 155) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1503,26 +1486,6 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 154  At the end of subsection 31(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 155  Subsections 31(3) to (7)
-
-Repeal the subsections.
-
-As at 31 August 2011 the amendments are not incorporated in this compilation.
-
 Table A
 
 ### Application, saving or transitional provisions
@@ -1544,21 +1507,5 @@ _Arts Legislation Amendment (Maritime Museum and Film, Television and Radio Scho
 ## 3  Saving provision
 
 Despite the amendment made by item 1, regulations in force for the purposes of paragraph 5(1)(g) of the _Australian Film, Television and Radio School Act 1973_ immediately before the commencement of this item continue in effect, after that commencement, until the first determination made under section 6A of that Act is registered under the _Legislative Instruments Act 2003_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
