@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00285/Html/ANTSAustBusNum1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00497/Html/ANTSAustBusNum1999_WD02_image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 1 July 2009
- taking into account amendments up to Act No. 42 of 2009
+This compilation was prepared on 24 September 2008
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -61,7 +61,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          You must notify Registrar of changes to matters set out in the Register
 
-[15](#15).          Obligation to give Registrar information if requested
+[15](#15).          Your obligation to give Registrar information if requested
 
 [16](#16).          Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees
 
@@ -73,9 +73,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Reinstating your registration
 
-    **Division 8—Review of reviewable ABN decisions**
+    **Division 7—Signatures**
 
-[21](#21).          Review of reviewable ABN decisions
+[20](#20).          Applications and notices must be signed
+
+    **Division 8—Review of decisions about registration**
+
+[21](#21).          Review of decisions
+
+[22](#22).          Statement of rights to seek review
 
     **Division 9—Offences in relation to use of ABNs**
 
@@ -93,13 +99,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Evidentiary value of the Australian Business Register
 
+    **Division 10A—Review of decisions about disclosure**
+
+[27A](#27A).       Review of decisions
+
+[27B](#27B).       Statement of rights to seek review
+
     **Division 11—Other administrative matters**
 
 [28](#28).          The Registrar
 
 [29](#29).          Annual report on operation of this Act
-
-[29A](#29A).       Adjustments to details
 
 [30](#30).          Protection of confidentiality of information
 
@@ -209,17 +219,31 @@ Note:          This will mean that such an activity will be an
 
 ##### <a id="9"></a>9  Applying for registration
 
-             (1)  To get an * ABN, * you must apply to the * Registrar to be registered in the * Australian Business Register.
+             (1)  To get an * ABN, * you must apply to be registered in the * Australian Business Register.
 
 Note 1:       You may apply yourself or someone may apply on your behalf.
 
 Note 2:       If you are registered, you will be allocated an ABN and your ABN will be entered in the Register (see subsection 11(1)).
 
-             (2)  * Your application must be in the * approved form.
+             (2)  * Your application:
 
-             (3)  That form may request, but not compel, * you to provide your * TFN or that of an * associate.
+                     (a)  must be in a form approved by the * Registrar; and
 
-Note:          Including a TFN in an application will not be an offence against subsection 8WB(1) of the _Taxation Administration Act 1953_ (see paragraph 8WB(1A)(a) of that Act).
+                     (b)  must be lodged at, or posted to, an office or facility designated by the Registrar as a receiving centre for applications of that kind; and
+
+                     (c)  may be * lodged electronically.
+
+Note:          Your application must be signed (see section 20).
+
+             (3)  Without limiting paragraph (2)(a), the form approved under that paragraph:
+
+                     (a)  may require you to set out in your application:
+
+                              (i)  the name and address of, and other information about, an * associate; or
+
+                             (ii)  any identifying number (other than a * TFN) that has been issued to you or to an associate; and
+
+                     (b)  may request, but not compel, you to provide your TFN or that of an associate.
 
 ##### <a id="10"></a>10  Registrar must register you if conditions met
 
@@ -235,15 +259,13 @@ Note:          Including a TFN in an application will not be a
 
                      (c)  the Registrar is satisfied that your identity has been established; and
 
-                    (ca)  if details about an * associate of yours were requested in the * approved form for registration—the Registrar is satisfied that the identity of the associate has been established; and
-
                      (d)  you are not already registered in the Register.
 
              (2)  The * Registrar may request * you to give the Registrar specified information or a specified document the Registrar needs to be satisfied that:
 
                      (a)  you are entitled to have an * ABN; or
 
-                     (b)  your identity, or that of an * associate referred to in paragraph (1)(ca), is established.
+                     (b)  your identity is established.
 
 ##### <a id="11"></a>11  Steps taken by Registrar to register you
 
@@ -259,8 +281,6 @@ Note:          Including a TFN in an application will not be a
 
                             (iii)  the date of effect of the registration.
 
-Note:          A decision setting the date of effect of your registration is a reviewable ABN decision.
-
              (2)  The date specified as the date of effect of * your registration may be any date (including a date before your application for registration was made).
 
              (3)  The * Registrar must give * you a written notice of:
@@ -273,13 +293,11 @@ Note:          A decision setting the date of effect of your r
 
                      (d)  the other details entered in relation to you in the * Australian Business Register (see section 25).
 
-Note:          Section 12 deals with giving notice to an entity registered under this section.
+Note:          Section 12 deals with giving notice to a registered entity.
 
 ##### <a id="12"></a>12  If you are registered, notices may be sent to you at your registered address for service 
 
              (1)  If * you are registered in the * Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre-paid post to, the address shown in the Register as your address for service.
-
-Note:          This subsection applies only to entities registered under section 11.
 
              (2)  Subsection (1):
 
@@ -295,7 +313,7 @@ Note:          This subsection applies only to entities regist
 
                      (b)  the reasons for the refusal.
 
-Note:          A decision refusing to register you is a reviewable ABN decision.
+Note:          Section 22 requires the notice to be accompanied by a statement of your right to seek AAT review.
 
              (2)  If the * Registrar has not decided * your application for registration within 28 days after your application is made, you may, at any time, give the Registrar written notice that you wish to treat your application as having been refused.
 
@@ -329,99 +347,47 @@ Note 2:       This Act is a taxation law for the purposes of the _Ta
 
                      (a)  must be lodged with the * Registrar; and
 
-                     (b)  must be in the * approved form.
+                     (b)  may be * lodged electronically.
 
-##### <a id="15"></a>15  Obligation to give Registrar information if requested
+Note:          The notice must be signed (see section 20).
 
-             (1)  The * Registrar may request an * entity to give the Registrar information in accordance with the following table. The entity must comply with the request.
+##### <a id="15"></a>15  Your obligation to give Registrar information if requested
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
+             (1)  If * you are registered in the * Australian Business Register, the * Registrar may request you to give the Registrar information that is relevant to:
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Entities that can be requested to give information</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>These entities ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>can be requested to give this information ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>
-      *You, if you are registered in the
-      *Australian Business Register</div>
-  </td>
-  <td>
-    <div>information that is relevant to:</div>
-    <div>(a) your entitlement to be registered; or</div>
-    <div>(b) confirming your identity; or</div>
-    <div>(c) the details entered in relation to you in the Register</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>
-      *Your
-      *associate (if any) entered in the
-      *Australian Business Register in relation to you</div>
-  </td>
-  <td>
-    <div>information relevant to confirming the associate’s identity</div>
-  </td>
-</tr></table>
+                     (a)  your entitlement to be registered; or
 
-Note:          This Act is a taxation law for the purposes of the _Taxation Administration Act 1953_. If an entity fails to comply with this subsection, the entity commits an offence against section 8C of that Act.
+                     (b)  confirming your identity; or
 
-             (2)  A request under subsection (1) to an * entity:
+                     (c)  the details entered in relation to you in the Register.
 
-                     (a)  is to be made by notice in writing to the entity; and
+You must comply with the request.
 
-                     (b)  may ask the entity to give the information in writing; and
+Note:          This Act is a taxation law for the purposes of the _Taxation Administration Act 1953_. If you fail to comply with this subsection, you commit an offence against section 8C of that Act.
+
+             (2)  The request:
+
+                     (a)  is to be made by notice in writing to * you; and
+
+                     (b)  may ask you to give the information in writing; and
 
                      (c)  must specify:
 
-                              (i)  the information the entity is to give; and
+                              (i)  the information you are to give; and
 
-                             (ii)  the period within which the entity is to give the information.
+                             (ii)  the period within which you are to give the information.
 
 The period specified under subparagraph (c)(ii) must end at least 14 days after the notice is given.
 
-Note:          Section 12 deals with giving notice to an entity registered under section 11.
+Note:          Section 12 deals with giving notice to a registered entity.
 
-             (3)  If the request asks the * entity to give the information in writing, the information:
+             (3)  If the request asks * you to give the information in writing, the information:
 
                      (a)  must be lodged with the * Registrar; and
 
-                     (b)  must be in the * approved form.
+                     (b)  may be * lodged electronically.
+
+Note:          The information must be signed (see section 20).
 
 ##### <a id="16"></a>16  Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees
 
@@ -471,7 +437,7 @@ the obligation is imposed on that person.
 
                      (b)  giving you written notice of the new ABN.
 
-Note:          Section 12 deals with giving notice to an entity registered under section 11.
+Note:          Section 12 deals with giving notice to a registered entity.
 
              (2)  The notice must state the date from which the new * ABN has effect.
 
@@ -489,9 +455,7 @@ On Registrar’s initiative
 
                      (c)  you are no longer entitled to have an ABN.
 
-Note 1:       If your registration is cancelled, you cease to have an ABN (see the definition of **_ABN_** in section 41).
-
-Note 2:       A decision to cancel your registration is a reviewable ABN decision.
+Note:          If your registration is cancelled, you cease to have an ABN (see the definition of **_ABN_** in section 41).
 
              (2)  The * Registrar must give * you written notice of the cancellation. The notice must state:
 
@@ -499,9 +463,9 @@ Note 2:       A decision to cancel your registration is a reviewable
 
                      (b)  the date of effect of the cancellation.
 
-Note 1:       A decision setting the date of effect of a cancellation is a reviewable ABN decision.
+Note 1:       Section 22 requires the notice to be accompanied by a statement of your right to seek AAT review.
 
-Note 2:       Section 12 deals with giving notice to an entity registered under section 11.
+Note 2:       Section 12 deals with giving notice to a registered entity.
 
              (3)  The date of effect of the cancellation may be any of the following:
 
@@ -513,15 +477,11 @@ Note 2:       Section 12 deals with giving notice to an entity reg
 
 At your request
 
-             (4)  The * Registrar may cancel * your registration if you apply to the Registrar for cancellation of the registration in the * approved form.
-
-Note:          A decision to refuse to cancel your registration is a reviewable ABN decision.
+             (4)  The * Registrar may cancel * your registration if you apply to the Registrar for cancellation of the registration in a form approved by the Registrar.
 
              (5)  The * Registrar must give * you written notice of the cancellation. The notice must state the date of effect of the cancellation.
 
-Note 1:       Section 12 deals with giving notice to an entity registered under section 11.
-
-Note 2:       A decision setting the date of effect of a cancellation is a reviewable ABN decision.
+Note:          Section 12 deals with giving notice to a registered entity.
 
              (6)  The date of effect of the cancellation may be any of the following:
 
@@ -537,123 +497,55 @@ Note 2:       A decision setting the date of effect of a cancellatio
 
              (2)  The * Registrar must give * you written notice of the reinstatement.
 
-Note:          Section 12 deals with giving notice to an entity registered under section 11.
+Note:          Section 12 deals with giving notice to a registered entity.
 
              (3)  The reinstatement has effect on and from the day on which the registration was cancelled.
 
-### Division 8—Review of reviewable ABN decisions
+### Division 7—Signatures
 
-##### <a id="21"></a>21  Review of reviewable ABN decisions
+##### <a id="20"></a>20  Applications and notices must be signed
 
-             (1)  * You may object, in the manner set out in Part IVC of the _Taxation Administration Act 1953_, against a decision you are dissatisfied with that is a * reviewable ABN decision.
+                   An application under section 9, a notice under subsection 14(1) and information lodged under subsection 15(3) must either:
 
-             (2)  Each of the following decisions is a **_reviewable ABN decision_**:
+                     (a)  be signed by * you, or the * person lodging it on your behalf, if it is not * lodged electronically; or
 
-<table>
-<colgroup>
-  <col width="11%">
-  <col width="59%">
-  <col width="30%">
-</colgroup>
+                     (b)  contain * your * electronic signature, or the electronic signature of the person lodging it on your behalf, if it is lodged electronically.
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Reviewable ABN decisions</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Decision</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Provision under which decision is made</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Setting the date of effect of
-      *your registration</div>
-  </td>
-  <td>
-    <div>subsection 11(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Refusing to register
-      *you</div>
-  </td>
-  <td>
-    <div>section 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Cancelling
-      *your registration</div>
-  </td>
-  <td>
-    <div>subsection 18(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Refusing to cancel
-      *your registration</div>
-  </td>
-  <td>
-    <div>subsection 18(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Setting the date of effect of a cancellation</div>
-  </td>
-  <td>
-    <div>subsection 18(2) or (5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Refusing an application not to disclose details</div>
-  </td>
-  <td>
-    <div>subsection 26(4) or 27(7)</div>
-  </td>
-</tr></table>
+### Division 8—Review of decisions about registration
 
-             (3)  Part IVC of the _Taxation Administration Act 1953_ applies in relation to a * reviewable ABN decision as if references in that Part to the Commissioner of Taxation were references to the * Registrar.
+##### <a id="21"></a>21  Review of decisions
+
+             (1)  Applications may be made to the Administrative Appeals Tribunal for review of the following decisions of the * Registrar:
+
+                     (a)  a decision setting the date of effect of * your registration under subsection 11(1);
+
+                     (b)  a decision refusing your application for registration under section 13 (including a decision that is taken to have been made because of subsections 13(2) and (3));
+
+                     (c)  a decision to cancel your registration under subsection 18(1);
+
+                     (d)  a decision to refuse to cancel your registration under subsection 18(4);
+
+                     (e)  a decision setting the date of effect of a cancellation of your registration under subsection 18(2) or (5).
+
+             (2)  If an application is made to the Tribunal for review of a decision referred to in paragraph (1)(b), the orders that may be made under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ include an order that the * Registrar register * you pending the determination of your application for review.
+
+             (3)  * Your registration under an order under subsection (2) ceases to have effect when your application is finally disposed of.
+
+##### <a id="22"></a>22  Statement of rights to seek review
+
+             (1)  If:
+
+                     (a)  a decision of a kind referred to in section 21 is made; and
+
+                     (b)  notice in writing of the decision is given to a * person whose interests are affected by the decision;
+
+that notice must:
+
+                     (c)  include a statement to the effect that, if the person is dissatisfied with the decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Tribunal for review of the decision; and
+
+                     (d)  except where subsection 28(4) of that Act applies—also include a statement to the effect that the person may request a statement under section 28 of that Act.
+
+             (2)  A failure to comply with subsection (1) does not affect the validity of the decision.
 
 ### Division 9—Offences in relation to use of ABNs
 
@@ -698,8 +590,6 @@ Note:          Section 12 deals with giving notice to an ent
              (2)  The * Registrar must also enter the following details in the * Australian Business Register in relation to the * entity:
 
                      (a)  an address for service of notices under this Act;
-
-                    (aa)  details about the entity’s * associates that were requested in the * approved form for registration in that Register;
 
                      (b)  the details prescribed in the regulations.
 
@@ -777,8 +667,6 @@ Note 2:       Section 426-65 in Schedule 1 to the _Taxation Admi
 
 the Registrar must not disclose the detail under this section.
 
-Note:          A decision refusing an application not to disclose details is a reviewable ABN decision.
-
              (5)  In addition to providing copies under subsection (1), the * Registrar may make publicly available any details listed in subsection (3), or in regulations made under subsection (3), in relation to an * entity, other than any detail that the Registrar is prohibited from disclosing under subsection (4).
 
 ##### <a id="27"></a>27  Evidentiary value of the Australian Business Register
@@ -803,7 +691,29 @@ Note:          A decision refusing an application not to discl
 
 the detail must not be included in any document the Registrar issues or gives under subsection (2) or (4).
 
-Note:          A decision refusing an application not to disclose details is a reviewable ABN decision.
+### Division 10A—Review of decisions about disclosure
+
+##### <a id="27A"></a>27A  Review of decisions
+
+             (1)  Applications may be made to the Administrative Appeals Tribunal for review of a decision of the * Registrar under subsection 26(4) or 27(7).
+
+             (2)  If an application for review is made under subsection (1), the orders that may be made under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ include an order that the * Registrar not disclose the details that are the subject of the application pending the determination of the application for review.
+
+##### <a id="27B"></a>27B  Statement of rights to seek review
+
+             (1)  If:
+
+                     (a)  a decision of a kind referred to in section 27A is made; and
+
+                     (b)  notice in writing of the decision is given to a * person whose interests are affected by the decision;
+
+that notice must:
+
+                     (c)  include a statement to the effect that, if the person is dissatisfied with the decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Tribunal for review of the decision; and
+
+                     (d)  except where subsection 28(4) of that Act applies—also include a statement to the effect that the person may request a statement under section 28 of that Act.
+
+             (2)  A failure to comply with subsection (1) does not affect the validity of the decision.
 
 ### Division 11—Other administrative matters
 
@@ -828,12 +738,6 @@ Note 2:       Subsections 8(1) and (1A) of the _Taxation Administrat
 Note:          Section 34C of the _Acts Interpretation Act 1901_ applies to reports under this section.
 
              (2)  The Minister must table a copy of the report before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
-
-##### <a id="29A"></a>29A  Adjustments to details
-
-             (1)  This section applies if the * Registrar is satisfied that details entered in relation to an * entity in the * Australian Business Register are incorrect and the Registrar has access to details that the Registrar believes to be the correct ones.
-
-             (2)  The * Registrar may adjust the details accordingly.
 
 ##### <a id="30"></a>30  Protection of confidentiality of information
 
@@ -967,8 +871,6 @@ and, in particular:
 
                     <a name="abn-australian-busi-number"></a>**_ABN (Australian Business Number)_** for an * entity means the entity’s ABN as shown in the * Australian Business Register.
 
-                    <a name="approved-form"></a>**_approved form_** has the same meaning as in the * ITAA 1997.
-
                     <a name="associ"></a>**_associate_** has the meaning given by section 318 of the * ITAA 1936.
 
                     <a name="australia"></a>**_Australia_** does not include any external Territory. However, it includes an installation (within the meaning of the _Customs Act 1901_) that is deemed by section 5C of the _Customs Act 1901_ to be part of Australia.
@@ -990,6 +892,8 @@ but does not include a * partnership or a * non-entity joint venture.
                     <a name="australia"></a><a name="connect"></a>**_connected with_****_Australia_**, in relation to a * supply, has the meaning given by section 195-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="corpor-act-compani"></a>**_Corporations Act company_** means a body registered as a company under the _Corporations Act 2001_.
+
+                    <a name="electron-signatur"></a>**_electronic signature_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="enterpris"></a>**_enterprise_** has the meaning given by section 9-20 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
@@ -1022,6 +926,8 @@ but does not include a * partnership or a * non-entity joint venture.
                     <a name="itaa-1936"></a>**_ITAA 1936_** means the _Income Tax Assessment Act 1936_.
 
                     <a name="itaa-1997"></a>**_ITAA 1997_** means the _Income Tax Assessment Act 1997_.
+
+                    <a name="lodg-electron"></a>**_lodged electronically_**: a document is lodged electronically if it is transmitted to the Registrar in an electronic format approved by the Registrar.
 
                     <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
@@ -1082,8 +988,6 @@ Note:          The Registrar may delegate powers and functions
                      (c)  a full-time member of a religious order; or
 
                      (d)  a student at a college conducted solely for training persons to become members of religious orders.
-
-                    <a name="review-abn-decision"></a>**_reviewable ABN decision_** has the meaning given by section 21.
 
                     <a name="rse-licenc"></a>**_RSE licence_** means an RSE licence within the meaning of the _Superannuation Industry (Supervision) Act 1993_.
 
@@ -1175,7 +1079,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 92–94): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 92–94): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1209,7 +1113,7 @@ of Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
+    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1278,7 +1182,7 @@ Remainder: Royal Assent</div>
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3: 24 Dec 1999 <i>(e)</i></div>
+    <div>Schedule 3: 24 Dec 1999 <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1313,7 +1217,7 @@ Schedule 4C: 1 July 2000 <i>(f)</i></div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2): <i>(g)</i> 
+    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2): <i>(g)</i> 
 Schedule 11 (items 2A, 2B) <i>(g)</i></div>
   </td>
   <td>
@@ -1418,7 +1322,7 @@ Schedule 10 (items 1–3): 1 July 2005</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2), Schedule 2 (items 5–8) and Schedule 6 (items 1, 6–11): 
+    <div>Schedule 1 (items 1, 2), Schedule 2 (items 5–8) and Schedule 6 (items 1, 6–11): 
 Royal Assent</div>
   </td>
   <td>
@@ -1436,7 +1340,7 @@ Royal Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 7 (item 1): Royal Assent</div>
+    <div>Schedule 7 (item 1): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1458,24 +1362,6 @@ Schedule 1 (item 245): 24 Sept 2008</div>
   </td>
   <td>
     <div>Sch. 1 (item 296)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 2) Act 2009</div>
-  </td>
-  <td>
-    <div>42, 2009</div>
-  </td>
-  <td>
-    <div>23 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1–32): Royal Assent 
-Schedule 6 (items 35–57): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 32)</div>
   </td>
 </tr></table>
 
@@ -1652,42 +1538,10 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(3)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
+    <div>am. No. 179, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1696,14 +1550,6 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
   </td>
   <td colspan="2">
     <div>am. No. 179, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13(1)</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1719,23 +1565,7 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
     <div>S. 14</div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14(2)</div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 42, 2009</div>
+    <div>am. No. 179, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1764,136 +1594,6 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 17(1)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(1) 
-Renumbered Note 1</div>
-  </td>
-  <td colspan="2">
-    <div>
-No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 18(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 18(2)</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 18(2)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(5)</div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to s. 18(5)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(2)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 7 of Part 2</div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 8 of Part 2</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td colspan="2">
@@ -1906,14 +1606,6 @@ No. 42, 2009</div>
   </td>
   <td colspan="2">
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1952,14 +1644,6 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 26(4).....................</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td colspan="2">
@@ -1968,10 +1652,10 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 27(7)</div>
+    <div><b>Division 10A</b></div>
   </td>
   <td colspan="2">
-    <div>ad. No. 42, 2009</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1984,15 +1668,7 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>rep. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27A, 27B</div>
+    <div>S. 27A</div>
   </td>
   <td colspan="2">
     <div>ad. No. 91, 2000</div>
@@ -2000,10 +1676,10 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 27B</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 42, 2009</div>
+    <div>ad. No. 91, 2000</div>
   </td>
 </tr>
 <tr>
@@ -2012,14 +1688,6 @@ No. 95, 2004</div>
   </td>
   <td colspan="2">
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2107,7 +1775,7 @@ No. 95, 2004</div>
     <div>S. 41</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; No. 42, 2009</div>
+    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007</div>
   </td>
 </tr>
 <tr height="0">
@@ -2115,369 +1783,6 @@ No. 95, 2004</div>
   <td></td>
   <td></td>
 </tr></table>
-
-### Note 2
-
-The following amendments commence on 23 June 2010 unless proclaimed earlier:
-
-**Schedule 6**
-
-## 35  Before subsection 3(1)
-
-Insert:
-
-Main object
-
-## 36  Before subsection 3(3)
-
-Insert:
-
-Reducing registration and reporting requirements
-
-## 37  At the end of section 3
-
-Add:
-
-Multi-agency dealings
-
-             (4)  The objects of this Act also include allowing the * Registrar to register and maintain details about representatives of * businesses that are registered under this Act, for the purpose of facilitating electronic dealings by those businesses with * government entities.
-
-## 38  Section 9 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="9"></a>9  Applying for an ABN
-
-## 39  After section 9
-
-Insert:
-
-##### <a id="9A"></a>9A  Applying for registration of representatives
-
-             (1)  If * you are registered in the * Australian Business Register, or you are applying to be so registered, you may make an application to the * Registrar requesting the Registrar to register details about a nominated representative (who is an individual) for the purpose of facilitating your electronic dealings with * government entities.
-
-             (2)  An application must be in the * approved form.
-
-             (3)  That form may request, but not compel, the provision of:
-
-                     (a)  the * TFN of the representative; and
-
-                     (b)  the TFN of the individual (the **_nominating individual_**) who is to sign the declaration in the form.
-
-Note:          Including a TFN in an application will not be an offence against subsection 8WB(1) of the _Taxation Administration Act 1953_ (see paragraph 8WB(1A)(a) of that Act).
-
-## 40  After section 10
-
-Insert:
-
-##### <a id="10A"></a>10A  Registrar must register your representative if conditions met
-
-             (1)  The * Registrar must register * your representative in the * Australian Business Register if:
-
-                     (a)  an application has been made under section 9A; and
-
-                     (b)  the Registrar is satisfied that the identity of the nominating individual (see paragraph 9A(3)(b)) has been established; and
-
-                     (c)  if the representative is to be authorised to nominate other representatives of yours—the Registrar is satisfied that the identity of the representative has been established; and
-
-                     (d)  the representative’s details are not already registered in the * Australian Business Register in relation to you.
-
-             (2)  If * your proposed representative is to be authorised to nominate other representatives of yours, the * Registrar may request you or your proposed representative to give the Registrar specified information or a specified document the Registrar needs to be satisfied that the identity of the proposed representative is established.
-
-## 41  Subsection 11(1)
-
-After “* you”, insert “(for an application under section 9)”.
-
-## 42  After section 11
-
-Insert:
-
-##### <a id="11A"></a>11A  Steps taken by Registrar to register your representative
-
-                   The * Registrar registers * your representative (for an application under section 9A) by entering in the * Australian Business Register in relation to you:
-
-                     (a)  the name of the representative; and
-
-                     (b)  the representative’s email address; and
-
-                     (c)  the date of effect of the registration.
-
-## 43  Subsection 13(1)
-
-After “for registration”, insert “under section 9 or your application for registration of your representative under section 9A”.
-
-## 44  Subsection 13(1) (note)
-
-After “register you”, insert “or your representative”.
-
-## 45  Subsection 13(2)
-
-After “for registration”, insert “under section 9, or your application for registration of your representative under section 9A,”.
-
-## 46  Subsection 13(4)
-
-Repeal the subsection, substitute:
-
-             (4)  For the purposes of measuring the 28 days mentioned in subsection (2) for * your application under section 9, disregard each period (if any):
-
-                     (a)  starting on the day when the * Registrar requests you under subsection 10(2) to give the Registrar specified information or a specified document; and
-
-                     (b)  ending at the end of the day you give the Registrar the specified information or document.
-
-             (5)  For the purposes of measuring the 28 days mentioned in subsection (2) for * your application under section 9A, disregard each period (if any):
-
-                     (a)  starting on the day when the * Registrar requests you, or your proposed representative, under subsection 10A(2) to give the Registrar specified information or a specified document; and
-
-                     (b)  ending at the end of the day you give the Registrar the specified information or document.
-
-## 47  Subsection 15(1) (at the end of the table)
-
-Add:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Either:</div>
-    <div>(a)
-      *your representative (if any) registered in the
-      *Australian Business Register in relation to you; or</div>
-    <div>(b) you</div>
-  </td>
-  <td>
-    <div>information relevant to:</div>
-    <div>(a) confirming the representative’s identity; or</div>
-    <div>(b) the details entered in relation to the representative in the Register</div>
-  </td>
-</tr></table>
-
-## 48  After subsection 18(1)
-
-Insert:
-
-          (1A)  The * Registrar may cancel the registration of * your representative in the * Australian Business Register if satisfied that:
-
-                     (a)  your registration is cancelled under subsection (1); or
-
-                     (b)  the representative no longer represents you; or
-
-                     (c)  the representative is registered under an identity that is not the representative’s true identity; or
-
-                     (d)  the representative’s identity is no longer satisfactorily established.
-
-Note:          A decision to cancel the registration of your representative is a reviewable ABN decision.
-
-## 49  Subsection 18(4)
-
-Repeal the subsection, substitute:
-
-At your request
-
-             (4)  The * Registrar may:
-
-                     (a)  cancel * your registration if you apply to the Registrar for cancellation of the registration in the * approved form; or
-
-                     (b)  cancel the registration of your representative, if you apply to the Registrar for cancellation of the registration in the approved form.
-
-Note:          A decision to refuse to cancel your registration or that of your representative is a reviewable ABN decision.
-
-## 50  Subsection 19(1)
-
-After “* your registration”, insert “, or the registration of your representative,”.
-
-## 51  Subsection 21(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Each of the following decisions is a **_reviewable ABN decision_**:
-
-<table>
-<colgroup>
-  <col width="11%">
-  <col width="59%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Reviewable ABN decisions</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Decision</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Provision under which decision is made</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Setting the date of effect of
-      *your registration</div>
-  </td>
-  <td>
-    <div>subsection 11(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Refusing to register
-      *you or your representative</div>
-  </td>
-  <td>
-    <div>section 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Cancelling
-      *your registration</div>
-  </td>
-  <td>
-    <div>subsection 18(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Cancelling the registration of
-      *your representative</div>
-  </td>
-  <td>
-    <div>subsection 18(1A)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Refusing to cancel
-      *your registration or that of your representative</div>
-  </td>
-  <td>
-    <div>subsection 18(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Setting the date of effect of a cancellation</div>
-  </td>
-  <td>
-    <div>subsection 18(2) or (5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Refusing an application not to disclose details</div>
-  </td>
-  <td>
-    <div>subsection 26(4) or 27(7)</div>
-  </td>
-</tr></table>
-
-## 52  Division 9 (heading)
-
-Repeal the heading, substitute:
-
-### Division 9—Offences
-
-## 53  Section 23 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="23"></a>23  Identification offences
-
-## 54  At the end of section 23
-
-Add:
-
-             (3)  * You commit an offence if:
-
-                     (a)  you purport to identify yourself as being registered under this Act as the representative of an * entity; and
-
-                     (b)  you are not the registered representative of the entity.
-
-                    Penalty:  Imprisonment for 2 years.
-
-## 55  At the end of section 25 (before the notes)
-
-Add:
-
-             (3)  Under section 11A, the * Registrar enters in the * Australian Business Register in relation to each representative registered in the Register:
-
-                     (a)  the representative’s name; and
-
-                     (b)  the representative’s email address; and
-
-                     (c)  the date of effect of the registration.
-
-             (4)  The * Registrar must also enter in the * Australian Business Register in relation to a representative the details prescribed in the regulations.
-
-## 56  Subsection 29A(1)
-
-Repeal the subsection, substitute:
-
-             (1)  This section applies if the * Registrar is satisfied that:
-
-                     (a)  details entered in relation to an * entity in the * Australian Business Register; or
-
-                     (b)  details entered in relation to an entity’s representative in that Register;
-
-are incorrect and the Registrar has access to details that the Registrar believes to be the correct ones.
-
-## 57  At the end of subsection 30(3)
-
-Add:
-
-                   ; (e)  the entrusted person is the Registrar and the disclosure:
-
-                              (i)  is of information relating to an individual who is, or who has been, registered as an * entity’s representative in the * Australian Business Register; and
-
-                             (ii)  is for the purposes of facilitating the entity’s electronic dealings with * government entities or for maintaining details in the Register.
-
-Note:          A disclosure under paragraph (3)(e) could, for example, be for the purpose of administering or cancelling the representative’s registration.
-
-As at 1 July 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2599,21 +1904,4 @@ _Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 
 ## 296  Regulations may prescribe matters
 
 The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) in relation to the amendments or repeals made by this Schedule.
-
-* * *
-
-_Tax Laws Amendment (2009 Measures No. 2) Act 2009 (No. 42, 2009)_
-
-## Schedule 6
-
-## 32  Application
-
-(1)        The amendments made by items 1, 2, 3, 4, 23 and 28 of this Schedule apply in relation to applications made under section 9 of the _A New Tax System (Australian Business Number) Act 1999_ after the commencement of those items.
-
-(2)        The amendments made by items 9 and 10 of this Schedule apply in relation to changes in circumstances, for the purposes of paragraph 14(1)(c) of that Act, happening after the commencement of those items.
-
-(3)        The amendment made by item 11 of this Schedule applies in relation to requests given under subsection 15(1) of that Act after the commencement of that item.
-
-(4)        The amendment made by item 17 of this Schedule applies in relation to applications made under subsection 18(4) of that Act after the commencement of that item.
-
  
