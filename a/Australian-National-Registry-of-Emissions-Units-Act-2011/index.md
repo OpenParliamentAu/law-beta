@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00628/Html/1cba17fc-03aa-4f27-8384-87fda236a78d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00610/Html/d74ed1a3-ddf4-40de-83d4-261d90acc44b_files/image001.gif)
 
 # Australian National Registry of Emissions Units Act 2011
 
 **Act No. 99 of 2011 as amended**
 
-This compilation was prepared on 22 August 2012
+This compilation was prepared on 30 June 2012
  taking into account amendments up to Act No. 84 of 2012
 
 The text of any of those amendments not in force
@@ -55,8 +55,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [13](#13).          Opening of new Commonwealth Registry accounts
 
 [14](#14).          Units in certain accounts cannot be transferred
-
-[14A](#14A).       Units in certain accounts cannot be surrendered
 
 [15](#15).          Voluntary closure of Registry accounts
 
@@ -182,23 +180,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Publication of concise description of the characteristics of eligible international emissions units
 
-[61A](#61A).       Information about number of voluntarily cancelled carbon units
-
-[61B](#61B).       Information about number of voluntarily cancelled Australian carbon credit units
-
 [62](#62).          Information about number of voluntarily cancelled Kyoto units
 
 [63](#63).          Information about number of voluntarily cancelled prescribed international units
 
-[63A](#63A).       Number of voluntarily cancelled units to be entered in the Information Database
-
 **Part 6—Voluntary cancellation of emissions units**
 
 [64](#64).          Simplified outline
-
-[64A](#64A).       Voluntary cancellation of carbon units
-
-[64B](#64B).       Voluntary cancellation of Australian carbon credit units
 
 [65](#65).          Voluntary cancellation of Kyoto units
 
@@ -385,13 +373,11 @@ person.</li>
 
 Registry accounts for:</li>
 
-               (a)     carbon units; and
+               (a)     Australian carbon credit units; and
 
-              (b)     Australian carbon credit units; and
+              (b)     Kyoto units; and
 
-               (c)     Kyoto units; and
-
-              (d)     prescribed international units.
+               (c)     prescribed international units.
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act sets out rules
 
@@ -428,8 +414,6 @@ about dealings with:</li>
                      (b)  a Sunday; or
 
                      (c)  a public holiday in the Australian Capital Territory.
-
-                    <a name="carbon-unit"></a>**_carbon unit_** has the same meaning as in the _Clean Energy Act 2011_.
 
                     <a name="certifi-emiss-ruction"></a>**_certified emission reduction_** means a certified emission reduction issued outside Australia in accordance with the relevant provisions of the Kyoto rules.
 
@@ -487,8 +471,6 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="fix-charg-year"></a>**_fixed charge year_** has the same meaning as in the _Clean Energy Act 2011_.
-
                     <a name="foreign-account"></a>**_foreign account_**:
 
                      (a)  when used in relation to a Kyoto unit—means an account kept within a foreign Kyoto registry; or
@@ -519,9 +501,7 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                      (b)  is specified in the regulations.
 
-                    <a name="hold"></a><a name="hold"></a>**_hold_**: a person **_holds_** a carbon unit or an Australian carbon credit unit if the person is the registered holder of the unit.
-
-                    <a name="inform-databas"></a>**_Information Database_** has the same meaning as in the _Clean Energy Act 2011_.
+                    <a name="hold"></a><a name="hold"></a>**_hold_** an Australian carbon credit unit: a person **_holds_** an Australian carbon credit unit if the person is the registered holder of the unit.
 
                     <a name="intern-agreem"></a>**_international agreement_** means an agreement whose parties are:
 
@@ -529,11 +509,7 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                      (b)  Australia and 2 or more foreign countries.
 
-                    <a name="issu"></a>**_issue_**:
-
-                     (a)  in relation to a carbon unit—has the same meaning as in the _Clean Energy Act 2011_; or
-
-                     (b)  in relation to an Australian carbon credit unit—has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+                    <a name="issu"></a>**_issue_**, in relation to an Australian carbon credit unit, has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
                     <a name="kyoto-australian-carbon-crite-unit"></a>**_Kyoto Australian carbon credit unit_** has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
@@ -629,8 +605,6 @@ It is immaterial whether a unit covered by paragraph (a) was issued in or outs
 
                     <a name="regist-holder"></a>**_registered holder_**, in relation to:
 
-                    (aa)  a carbon unit; or
-
                      (a)  an Australian carbon credit unit; or
 
                      (b)  a Kyoto unit; or
@@ -664,8 +638,6 @@ means the person in whose Registry account there is an entry for the unit.
                     <a name="truste"></a>**_trustee_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
                     <a name="trust-estat"></a>**_trust estate_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="vintag-year"></a>**_vintage year_** has the same meaning as in the _Clean Energy Act 2011_.
 
                     <a name="voluntari-cancel-account"></a>**_voluntary cancellation account_** means a Commonwealth Registry account designated as the voluntary cancellation account for a particular commitment period.
 
@@ -763,7 +735,7 @@ Note:          In this Act, **_Registry_** means the Australia
 
              (4)  The purposes of the Registry are as follows:
 
-                     (a)  to be a registry for carbon units, Australian carbon credit units and prescribed international units;
+                     (a)  to be a registry for Australian carbon credit units;
 
                      (b)  to be Australia’s national registry for Kyoto units.
 
@@ -823,7 +795,7 @@ Note 2:       See also section 16 (unilateral closure of Registry 
 
              (5)  The regulations may provide that, if a Registry account is subject to a particular transaction limit, the Regulator must not:
 
-                     (a)  issue any carbon units or Australian carbon credit units to the account; or
+                     (a)  issue any Australian carbon credit units to the account; or
 
                      (b)  comply with an instruction to transfer units to the account;
 
@@ -847,12 +819,6 @@ if doing so would result in the account having entries for a number of units tha
 
              (2)  Regulations made for the purposes of subsection (1) have effect despite any other provision of this Act or the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
-##### <a id="14A"></a>14A  Units in certain accounts cannot be surrendered
-
-             (1)  The regulations may provide that, if there is an entry for a Kyoto unit in a specified Commonwealth Registry account, the unit cannot be surrendered under the _Clean Energy Act 2011_.
-
-             (2)  Regulations made for the purposes of subsection (1) have effect despite any other provision of the _Clean Energy Act 2011_.
-
 ##### <a id="15"></a>15  Voluntary closure of Registry accounts
 
              (1)  The regulations may make provision for and in relation to empowering the Regulator to close a Registry account kept in the name of a person.
@@ -860,8 +826,6 @@ if doing so would result in the account having entries for a number of units tha
              (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to close a Registry account unless:
 
                      (a)  the person, by written notice given to the Regulator, requests the Regulator to close the account; and
-
-                    (aa)  there are no entries for any carbon units in the account; and
 
                      (b)  there are no entries for any Australian carbon credit units in the account; and
 
@@ -884,8 +848,6 @@ if doing so would result in the account having entries for a number of units tha
                              (ii)  setting out the effect of any regulations made for the purposes of subsections (3), (4), (5) and (6).
 
 Cancellation or transfer of units
-
-          (2A)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a carbon unit in the account, the unit is cancelled.
 
              (3)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for an Australian carbon credit unit in the account, the unit is cancelled.
 
@@ -914,10 +876,6 @@ Record
 ### Division 4—Entries in Registry accounts
 
 ##### <a id="17"></a>17  Entries in Registry accounts
-
-Carbon units
-
-          (1A)  An entry for a carbon unit in a Registry account may be made in accordance with the _Clean Energy Act 2011_.
 
 Australian carbon credit units
 
@@ -974,8 +932,6 @@ Power of correction
                      (a)  regulations made for the purposes of section 32A or 49A of this Act; or
 
                      (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
-          (3B)  The Regulator must not exercise the power conferred by subsection (1) of this section in a manner contrary to section 103A of the _Clean Energy Act 2011_.
 
 Publication of alteration
 
@@ -1089,8 +1045,6 @@ Court orders
 
                      (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
-          (4B)  The court must not make an order that is contrary to section 103A of the _Clean Energy Act 2011_.
-
              (5)  In proceedings under this section, the court may decide any question that it is necessary or expedient to decide in connection with the rectification of the Registry.
 
 Appearance of Regulator
@@ -1176,8 +1130,6 @@ Exception
              (3)  Subsections (1) and (2) do not apply if the use or disclosure of the information is relevant to:
 
                      (a)  the holding of:
-
-                            (ia)  carbon units; or
 
                               (i)  Australian carbon credit units; or
 
@@ -1285,8 +1237,6 @@ Scope
 
              (1)  This section applies if the Regulator receives an instruction to transfer one or more:
 
-                    (aa)  carbon units; or
-
                      (a)  Australian carbon credit units; or
 
                      (b)  Kyoto units; or
@@ -1315,8 +1265,6 @@ Other provisions
 
                      (a)  any other provision of this Act; or
 
-                    (aa)  anything in the _Clean Energy Act 2011_; or
-
                      (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
 ##### <a id="28B"></a>28B  Regulator may refuse to give effect to a transfer instruction
@@ -1324,8 +1272,6 @@ Other provisions
 Scope
 
              (1)  This section applies if the Regulator receives an instruction to transfer one or more:
-
-                    (aa)  carbon units; or
 
                      (a)  Australian carbon credit units; or
 
@@ -1391,8 +1337,6 @@ Other provisions
 
                      (a)  any other provision of this Act; or
 
-                    (aa)  anything in the _Clean Energy Act 2011_; or
-
                      (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
 Note:          For additional powers of refusal, see:
@@ -1403,9 +1347,7 @@ Note:          For additional powers of refusal, see:
 
 (c)    subsection 36(2) of this Act; and
 
-(d)    subsection 53(2) of this Act; and
-
-(e)    subsection 109(2) of the _Clean Energy Act 2011_.
+(d)    subsection 53(2) of this Act.
 
 ##### <a id="28C"></a>28C  Conditions restricting or limiting the operation of Registry accounts
 
@@ -1511,8 +1453,6 @@ Other provisions
 
                      (a)  any other provision of this Act; or
 
-                    (aa)  anything in the _Clean Energy Act 2011_; or
-
                      (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
 ##### <a id="28D"></a>28D  Suspension of Registry accounts
@@ -1545,15 +1485,9 @@ Suspension
 
                               (i)  give effect to any instruction to transfer units to or from the Registry account; or
 
-                             (ii)  issue any carbon units or Australian carbon credit units to the Registry account; and
+                             (ii)  issue any Australian carbon credit units to the Registry account; and
 
-                     (b)  none of the following notices have effect:
-
-                              (i)  a notice to surrender eligible emissions units under section 122 of the _Clean Energy Act 2011_;
-
-                             (ii)  a notice to relinquish carbon units under section 210 of the _Clean Energy Act 2011_;
-
-                            (iii)  a notice to relinquish Australian carbon credit units under section 175 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+                     (b)  a notice to relinquish Australian carbon credit units under section 175 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_ does not have effect.
 
 Notification
 
@@ -1626,8 +1560,6 @@ Other provisions
            (16)  This section has effect despite:
 
                      (a)  any other provision of this Act; or
-
-                    (aa)  anything in the _Clean Energy Act 2011_; or
 
                      (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
@@ -2419,11 +2351,9 @@ certain information about:</li>
 
                (a)     the holders of Registry accounts; and
 
-              (b)     carbon units; and
+              (b)     Kyoto units; and
 
-               (c)     Kyoto units; and
-
-              (d)     prescribed international units.
+               (c)     prescribed international units.
 
 * * *
 
@@ -2485,22 +2415,6 @@ Prescribed international units
 
                      (b)  keep that statement up‑to‑date.
 
-##### <a id="61A"></a>61A  Information about number of voluntarily cancelled carbon units
-
-                   As soon as practicable after one or more carbon units held by a person are cancelled under section 64A, the Regulator must publish on the Regulator’s website:
-
-                     (a)  the name of the person; and
-
-                     (b)  the total number of carbon units cancelled.
-
-##### <a id="61B"></a>61B  Information about number of voluntarily cancelled Australian carbon credit units
-
-                   As soon as practicable after one or more Australian carbon credit units held by a person are cancelled under section 64B, the Regulator must publish on the Regulator’s website:
-
-                     (a)  the name of the person; and
-
-                     (b)  the total number of Australian carbon credit units cancelled.
-
 ##### <a id="62"></a>62  Information about number of voluntarily cancelled Kyoto units
 
                    As soon as practicable after one or more Kyoto units held by a person are transferred under section 65 to a voluntary cancellation account, the Regulator must publish on the Regulator’s website:
@@ -2517,28 +2431,6 @@ Prescribed international units
 
                      (b)  the total number of prescribed international units cancelled.
 
-##### <a id="63A"></a>63A  Number of voluntarily cancelled units to be entered in the Information Database
-
-Scope
-
-             (1)  This section applies if there is an entry for a person in the Information Database in relation to an eligible financial year (within the meaning of the _Clean Energy Act 2011_).
-
-Carbon units
-
-             (2)  As soon as practicable after one or more carbon units held by the person are cancelled under section 64A, the Regulator must enter in the Information Database the total number of carbon units cancelled.
-
-Australian carbon credit units
-
-             (3)  As soon as practicable after one or more Australian carbon credit units held by the person are cancelled under section 64B, the Regulator must enter in the Information Database the total number of Australian carbon credit units cancelled.
-
-Kyoto units
-
-             (4)  As soon as practicable after one or more Kyoto units held by the person are transferred under section 65 to a voluntary cancellation account, the Regulator must enter in the Information Database the total number of Kyoto units transferred.
-
-Prescribed international units
-
-             (5)  As soon as practicable after one or more prescribed international units held by the person are cancelled under section 66, the Regulator must enter in the Information Database the total number of prescribed international units cancelled.
-
 ## Part 6—Voluntary cancellation of emissions units
 
 ##### <a id="64"></a>64  Simplified outline
@@ -2546,22 +2438,6 @@ Prescribed international units
                    The following is a simplified outline of this Part:
 
 * * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
-
-registered holder of one or more carbon units, the person may request the
-
-Regulator to cancel any or all of those units. However, this rule does not
-
-apply to a unit that was issued for a fixed charge and has a vintage year that
-
-is a fixed charge year.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
-
-registered holder of one or more Australian carbon credit units, the person may
-
-request the Regulator to cancel any or all of those units.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a person is the
 
@@ -2578,54 +2454,6 @@ registered holder of one or more prescribed international units, the person may
 request the Regulator to cancel any or all of those units.</li>
 
 * * *
-
-##### <a id="64A"></a>64A  Voluntary cancellation of carbon units
-
-             (1)  If a person is the registered holder of one or more carbon units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
-
-             (2)  A notice under subsection (1) must:
-
-                     (a)  specify the carbon unit or units that are to be cancelled; and
-
-                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the carbon unit or units that are to be cancelled.
-
-             (3)  A person is not entitled to request the Regulator to cancel a carbon unit that:
-
-                     (a)  was issued in accordance with section 100 of the _Clean Energy Act 2011_; or
-
-                     (b)  has a vintage year that is a fixed charge year.
-
-             (4)  If the Regulator receives a notice under subsection (1) in relation to a carbon unit:
-
-                     (a)  the unit is cancelled; and
-
-                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
-
-             (5)  The Registry must set out a record of each notice under subsection (1).
-
-##### <a id="64B"></a>64B  Voluntary cancellation of Australian carbon credit units
-
-             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
-
-             (2)  A notice under subsection (1) must:
-
-                     (a)  specify the Australian carbon credit unit or units that are to be cancelled; and
-
-                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the Australian carbon credit unit or units that are to be cancelled.
-
-             (3)  If the Regulator receives a notice under subsection (1) in relation to an Australian carbon credit unit:
-
-                     (a)  the unit is cancelled; and
-
-                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
-
-                     (c)  if the unit is a Kyoto Australian carbon credit unit:
-
-                              (i)  the Minister must, by written notice given to the Regulator, direct the Regulator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
-
-                             (ii)  the Regulator must comply with a direction under subparagraph (i).
-
-             (4)  The Registry must set out a record of each notice under subsection (1).
 
 ##### <a id="65"></a>65  Voluntary cancellation of Kyoto units
 
@@ -3266,7 +3094,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 5–7, 13, 15, 43–46, 215A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 229–256): 1 July 2012 
+Schedule 1 (items 229–256): \[ <i>see</i>Note 2] 
 Schedule 4: 8 Dec 2011</div>
   </td>
   <td>
@@ -3295,8 +3123,8 @@ Schedule 4: 8 Dec 2011</div>
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="33%">
+  <col width="67%">
 </colgroup>
 
 <thead>
@@ -3404,7 +3232,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
+    <div>Ss. 10–13</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3412,55 +3240,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 16(3)</div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
+    <div>Ss. 15, 16</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3516,15 +3296,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
+    <div>Ss. 19, 20</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3668,47 +3440,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 28B(11)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28C</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28D</div>
+    <div>Ss. 28B–28D</div>
   </td>
   <td>
     <div>ad. No. 132, 2011</div>
@@ -3988,31 +3720,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
+    <div>Ss. 58–60</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -4028,31 +3736,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61B</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
+    <div>Ss. 61, 62</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -4076,14 +3760,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 63A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -4092,39 +3768,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64B</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
+    <div>Ss. 64, 65</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -4258,6 +3902,378 @@ Schedule 4: 8 Dec 2011</div>
     <div>am. No. 132, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 229  Section 3
+
+Omit:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      Entries may be made in
+
+Registry accounts for:</li>
+
+               (a)     Australian carbon credit units; and
+
+              (b)     Kyoto units; and
+
+               (c)     prescribed international units.
+
+* * *
+
+substitute:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      Entries may be made in
+
+Registry accounts for:</li>
+
+               (a)     carbon units; and
+
+              (b)     Australian carbon credit units; and
+
+               (c)     Kyoto units; and
+
+              (d)     prescribed international units.
+
+* * *
+
+## 230  Section 4
+
+Insert:
+
+                    <a name="carbon-unit"></a>**_carbon unit_** has the same meaning as in the _Clean Energy Act 2011_.
+
+## 231  Section 4
+
+Insert:
+
+                    <a name="fix-charg-year"></a>**_fixed charge year_** has the same meaning as in the _Clean Energy Act 2011_.
+
+## 232  Section 4 (definition of _hold_)
+
+Repeal the definition, substitute:
+
+                    <a name="hold"></a><a name="hold"></a>**_hold_**: a person **_holds_** a carbon unit or an Australian carbon credit unit if the person is the registered holder of the unit.
+
+## 233  Section 4
+
+Insert:
+
+                    <a name="inform-databas"></a>**_Information Database_** has the same meaning as in the _Clean Energy Act 2011_.
+
+## 234  Section 4 (definition of _issue_)
+
+Repeal the definition, substitute:
+
+                    <a name="issu"></a>**_issue_**:
+
+                     (a)  in relation to a carbon unit—has the same meaning as in the _Clean Energy Act 2011_; or
+
+                     (b)  in relation to an Australian carbon credit unit—has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+## 235  Section 4 (before paragraph (a) of the definition of _registered holder_)
+
+Insert:
+
+                    (aa)  a carbon unit; or
+
+## 236  Section 4
+
+Insert:
+
+                    <a name="vintag-year"></a>**_vintage year_** has the same meaning as in the _Clean Energy Act 2011_.
+
+## 237  Paragraph 9(4)(a)
+
+Omit “Australian carbon credit units”, substitute “carbon units, Australian carbon credit units and prescribed international units”.
+
+## 238  Paragraph 11(5)(a)
+
+After “any”, insert “carbon units or”.
+
+## 239  After section 14
+
+Insert:
+
+##### <a id="14A"></a>14A  Units in certain accounts cannot be surrendered
+
+             (1)  The regulations may provide that, if there is an entry for a Kyoto unit in a specified Commonwealth Registry account, the unit cannot be surrendered under the _Clean Energy Act 2011_.
+
+             (2)  Regulations made for the purposes of subsection (1) have effect despite any other provision of the _Clean Energy Act 2011_.
+
+## 240  After paragraph 15(2)(a)
+
+Insert:
+
+                    (aa)  there are no entries for any carbon units in the account; and
+
+## 241  After subsection 16(2)
+
+Insert:
+
+Cancellation or transfer of units
+
+          (2A)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a carbon unit in the account, the unit is cancelled.
+
+## 241A  Subsection 16(3) (heading)
+
+Repeal the heading.
+
+## 242  Before subsection 17(1)
+
+Insert:
+
+Carbon units
+
+          (1A)  An entry for a carbon unit in a Registry account may be made in accordance with the _Clean Energy Act 2011_.
+
+## 242A  Before subsection 19(4)
+
+Insert:
+
+          (3B)  The Regulator must not exercise the power conferred by subsection (1) of this section in a manner contrary to section 103A of the _Clean Energy Act 2011_.
+
+## 242B  Before subsection 22(5)
+
+Insert:
+
+          (4B)  The court must not make an order that is contrary to section 103A of the _Clean Energy Act 2011_.
+
+## 243  Before subparagraph 26(3)(a)(i)
+
+Insert:
+
+                            (ia)  carbon units; or
+
+## 244  Before paragraph 28A(1)(a)
+
+Insert:
+
+                    (aa)  carbon units; or
+
+## 245  After paragraph 28A(4)(a)
+
+Insert:
+
+                    (aa)  anything in the _Clean Energy Act 2011_; or
+
+## 246  Before paragraph 28B(1)(a)
+
+Insert:
+
+                    (aa)  carbon units; or
+
+## 247  After paragraph 28B(11)(a)
+
+Insert:
+
+                    (aa)  anything in the _Clean Energy Act 2011_; or
+
+## 248  Subsection 28B(11) (at the end of the note)
+
+Add:
+
+; and (e)       subsection 109(2) of the _Clean Energy Act 2011_.
+
+## 249  After paragraph 28C(17)(a)
+
+Insert:
+
+                    (aa)  anything in the _Clean Energy Act 2011_; or
+
+## 250  Subparagraph 28D(5)(a)(ii)
+
+After “issue any”, insert “carbon units or”.
+
+## 251  Paragraph 28D(5)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  none of the following notices have effect:
+
+                              (i)  a notice to surrender eligible emissions units under section 122 of the _Clean Energy Act 2011_;
+
+                             (ii)  a notice to relinquish carbon units under section 210 of the _Clean Energy Act 2011_;
+
+                            (iii)  a notice to relinquish Australian carbon credit units under section 175 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+## 252  After paragraph 28D(16)(a)
+
+Insert:
+
+                    (aa)  anything in the _Clean Energy Act 2011_; or
+
+## 253  Section 58
+
+Repeal the section, substitute:
+
+##### <a id="58"></a>58  Simplified outline
+
+                   The following is a simplified outline of this Part:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      The Regulator must publish
+
+certain information about:</li>
+
+               (a)     the holders of Registry accounts; and
+
+              (b)     carbon units; and
+
+               (c)     Kyoto units; and
+
+              (d)     prescribed international units.
+
+* * *
+
+## 254  After section 61
+
+Insert:
+
+##### <a id="61A"></a>61A  Information about number of voluntarily cancelled carbon units
+
+                   As soon as practicable after one or more carbon units held by a person are cancelled under section 64A, the Regulator must publish on the Regulator’s website:
+
+                     (a)  the name of the person; and
+
+                     (b)  the total number of carbon units cancelled.
+
+##### <a id="61B"></a>61B  Information about number of voluntarily cancelled Australian carbon credit units
+
+                   As soon as practicable after one or more Australian carbon credit units held by a person are cancelled under section 64B, the Regulator must publish on the Regulator’s website:
+
+                     (a)  the name of the person; and
+
+                     (b)  the total number of Australian carbon credit units cancelled.
+
+## 255  At the end of Part 5
+
+Add:
+
+##### <a id="63A"></a>63A  Number of voluntarily cancelled units to be entered in the Information Database
+
+Scope
+
+             (1)  This section applies if there is an entry for a person in the Information Database in relation to an eligible financial year (within the meaning of the _Clean Energy Act 2011_).
+
+Carbon units
+
+             (2)  As soon as practicable after one or more carbon units held by the person are cancelled under section 64A, the Regulator must enter in the Information Database the total number of carbon units cancelled.
+
+Australian carbon credit units
+
+             (3)  As soon as practicable after one or more Australian carbon credit units held by the person are cancelled under section 64B, the Regulator must enter in the Information Database the total number of Australian carbon credit units cancelled.
+
+Kyoto units
+
+             (4)  As soon as practicable after one or more Kyoto units held by the person are transferred under section 65 to a voluntary cancellation account, the Regulator must enter in the Information Database the total number of Kyoto units transferred.
+
+Prescribed international units
+
+             (5)  As soon as practicable after one or more prescribed international units held by the person are cancelled under section 66, the Regulator must enter in the Information Database the total number of prescribed international units cancelled.
+
+## 256  Section 64
+
+Repeal the section, substitute:
+
+##### <a id="64"></a>64  Simplified outline
+
+                   The following is a simplified outline of this Part:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
+
+registered holder of one or more carbon units, the person may request the
+
+Regulator to cancel any or all of those units. However, this rule does not
+
+apply to a unit that was issued for a fixed charge and has a vintage year that
+
+is a fixed charge year.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
+
+registered holder of one or more Australian carbon credit units, the person may
+
+request the Regulator to cancel any or all of those units.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
+
+registered holder of one or more Kyoto units, the person may request the
+
+Regulator to transfer to a voluntary cancellation account any or all of those
+
+units.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
+
+registered holder of one or more prescribed international units, the person may
+
+request the Regulator to cancel any or all of those units.</li>
+
+* * *
+
+##### <a id="64A"></a>64A  Voluntary cancellation of carbon units
+
+             (1)  If a person is the registered holder of one or more carbon units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
+
+             (2)  A notice under subsection (1) must:
+
+                     (a)  specify the carbon unit or units that are to be cancelled; and
+
+                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the carbon unit or units that are to be cancelled.
+
+             (3)  A person is not entitled to request the Regulator to cancel a carbon unit that:
+
+                     (a)  was issued in accordance with section 100 of the _Clean Energy Act 2011_; or
+
+                     (b)  has a vintage year that is a fixed charge year.
+
+             (4)  If the Regulator receives a notice under subsection (1) in relation to a carbon unit:
+
+                     (a)  the unit is cancelled; and
+
+                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
+
+             (5)  The Registry must set out a record of each notice under subsection (1).
+
+##### <a id="64B"></a>64B  Voluntary cancellation of Australian carbon credit units
+
+             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
+
+             (2)  A notice under subsection (1) must:
+
+                     (a)  specify the Australian carbon credit unit or units that are to be cancelled; and
+
+                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the Australian carbon credit unit or units that are to be cancelled.
+
+             (3)  If the Regulator receives a notice under subsection (1) in relation to an Australian carbon credit unit:
+
+                     (a)  the unit is cancelled; and
+
+                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
+
+                     (c)  if the unit is a Kyoto Australian carbon credit unit:
+
+                              (i)  the Minister must, by written notice given to the Regulator, direct the Regulator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
+
+                             (ii)  the Regulator must comply with a direction under subparagraph (i).
+
+             (4)  The Registry must set out a record of each notice under subsection (1).
+
+As at 30 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
