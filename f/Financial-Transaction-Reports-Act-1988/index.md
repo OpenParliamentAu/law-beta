@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00586/Html/010cd946-92ee-478f-aa58-8ab5416f0816_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00233/Html/FinancTransReports1988_image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 17 December 2009
- taking into account amendments up to Act No. 133 of 2009
+This compilation was prepared on 19 June 2009
+ taking into account amendments up to Act No. 34 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -586,7 +586,7 @@ that shows that name as the person’s name.
 
                      (c)  a person appointed or engaged under the _Public Service Act 1999_ and performing duties in the Australian Taxation Office.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory.
 
                     <a name="totalis-agenc-board"></a>**_totalisator agency board_** means a board or authority established by or under a law of a State or Territory for purposes that include the purpose of operating a betting service.
 
@@ -1232,7 +1232,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                             (iv)  whether or not particular information was given under subsection (4) (whether before or after the commencement of this subsection).
 
-          (5E)  In subsection (5D):
+           (5E)  In subsection (5D):
 
                     <a name="inform"></a>**_information_** includes the formation or existence of a suspicion referred to in subsection (1) or (1A).
 
@@ -1446,7 +1446,7 @@ the cash dealer commits an offence against this subsection.
 
                      (c)  made under section 89, 195 or 196 of the _Retirement Savings Accounts Act 1997_; or
 
-                    (ca)  made in accordance with Part 3, 3A or 4A of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_; or
+                    (ca)  made in accordance with Part 3 or 3A of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_; or
 
                      (d)  that are used to make payments of insurance premiums in accordance with the terms and conditions of the account.
 
@@ -1526,7 +1526,7 @@ the court may make such orders as it thinks fit in relation to that amount, incl
 
              (2)  Subsection (1) does not apply to information obtained by the cash dealer before the commencement of Part 2 of the _Crimes Legislation Amendment Act 1992_.
 
-##### <a id="20A"></a>20A  Identification record
+##### <a id="20A"></a>20A  Identification record
 
              (1)  For the purposes of this Act, a cash dealer has an identification record for a signatory to an account if, and only if:
 
@@ -2052,7 +2052,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                     (aa)  misleading an identifying cash dealer in the carrying out of a verification procedure under paragraph 20A(1)(b); or
 
-                   (ab)  misleading a bullion seller in the carrying out of a verification procedure under paragraph 24C(2)(a) or (b); or
+                    (ab)  misleading a bullion seller in the carrying out of a verification procedure under paragraph 24C(2)(a) or (b); or
 
                      (a)  being used for the purposes of inducing a financial institution to enter a transaction or a class of transactions in the institution’s exemption register; or
 
@@ -2736,7 +2736,7 @@ _Subsection 12(5)_
 
 3.   The total amount of currency involved in the transaction or the range of amounts of currency involved in the class of transactions. 
 
-3A.           The total monetary amount of the transaction or the range of monetary amounts of the class of transactions. 
+3A.            The total monetary amount of the transaction or the range of monetary amounts of the class of transactions. 
 
 3B.            The amount and types of any foreign currency involved in a transaction. 
 
@@ -4186,23 +4186,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   <td>
     <div>Sch. 10 (item 4) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009</div>
-  </td>
-  <td>
-    <div>133, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 27, 44, 45): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 44, 45) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Transaction Reports Act 1988_ was amended by sections 20–23 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1) and (2) of which provide as follows: 
@@ -4211,11 +4194,11 @@ _(a)_     The _Financial Transaction Reports Act 1988_ was amended by se
 
                  (2)   Section 23, paragraph 30(b), subsection 61(2) and sections 62, 63, 67 and 73 commence on a day to be fixed by Proclamation, being the day on which Schedule 1(3) to the State Drug Crime Commission (Amendment) Act 1990 of New South Wales commences.
 
-_(b)_     The _Crimes Legislation Amendment Act 1992_ was amended by Schedule 3 (items 11 and 12) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(b)_    The _Crimes Legislation Amendment Act 1992_ was amended by Schedule 3 (items 11 and 12) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(c)_     The _Financial Transaction Reports Act 1988_ was amended by sections 63–65 only of the _Banking (State Bank of South Australia and Other Matters) Act 1994_, subsection 2(1) of which provides as follows: 
+_(c)_     The _Financial Transaction Reports Act 1988_ was amended by sections 63–65 only of the _Banking (State Bank of__South   Australia__and Other Matters) Act 1994_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -4441,7 +4424,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4464,7 +4449,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4487,7 +4474,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4510,7 +4499,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4533,7 +4524,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4556,7 +4549,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4579,7 +4574,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4602,7 +4599,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4625,7 +4624,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4648,7 +4649,9 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4781,7 +4784,9 @@ _(u)_     Subsection 2(1) (item 2) of the _Financial Transaction Repor
     <div>
       However, if section 3 of the
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
-        before 14 December 2006, the provision(s) do not commence at all.
+        before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4894,8 +4899,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4916,8 +4922,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4938,8 +4945,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4960,8 +4968,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -4982,8 +4991,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -5004,8 +5014,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -5026,8 +5037,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -5048,8 +5060,9 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
         <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
-      However, if that section commences before 14 December 2006, the provision(s)
-        do not commence at all.
+      However, if that section commences before
+      14 December 2006
+      , the provision(s) do not commence at all.
     </div>
   </td>
   <td>
@@ -5543,7 +5556,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 4, 1990; No. 164, 1992; No. 33, 1997; No. 62, 1997 (as am. by No. 41, 2003); No. 128, 1999; No. 24, 2001; No. 170, 2006; Nos. 27 and 133, 2009</div>
+    <div>am. No. 4, 1990; No. 164, 1992; No. 33, 1997; No. 62, 1997 (as am. by No. 41, 2003); No. 128, 1999; No. 24, 2001; No. 170, 2006; No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5868,7 +5881,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 27(4), (5).</div>
+    <div>Subheads. to s. 27(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 66, 2002</div>
@@ -6609,7 +6622,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -6617,7 +6630,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -6631,9 +6644,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -6641,15 +6654,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -6665,7 +6678,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
@@ -6709,9 +6722,9 @@ _Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 
 ## 226  Transitional regulations
 
-(1)       The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
+(1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 
-(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -6743,99 +6756,99 @@ _Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 ## 159  Instrument of appointment—AUSTRAC CEO
 
-(1)       This item applies to an instrument of appointment that:
+(1)        This item applies to an instrument of appointment that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under subsection 36(1) of the _Financial Transaction Reports Act 1988_.
 
-(2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
+(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under subsection 214(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 160  Terms and conditions of appointment—AUSTRAC CEO
 
-(1)       This item applies to an instrument that:
+(1)        This item applies to an instrument that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under subsection 36(2) of the _Financial Transaction Reports Act 1988_.
 
-(2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument (to the extent to which it deals with matters not covered by the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_) has effect, after the commencement of this item, as if:
+(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument (to the extent to which it deals with matters not covered by the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_) has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under section 220 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 161  Acting appointments
 
-(1)       This item applies to an instrument of appointment that:
+(1)        This item applies to an instrument of appointment that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under subsection 37(1) of the _Financial Transaction Reports Act 1988_.
 
-(2)       The instrument has effect, after the commencement of this item, as if:
+(2)        The instrument has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under subsection 221(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 162  Leave—AUSTRAC CEO
 
-(1)       This item applies to an instrument that:
+(1)        This item applies to an instrument that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under subsection 36B(2) of the _Financial Transaction Reports Act 1988_.
 
-(2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
+(2)        If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under subsection 216(2) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 163  Delegations
 
-(1)       This item applies to an instrument of delegation that:
+(1)        This item applies to an instrument of delegation that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under section 39 of the _Financial Transaction Reports Act 1988_.
 
-(2)       The instrument has effect, after the commencement of this item, as if:
+(2)        The instrument has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under subsection 222(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 164  Consultants
 
-(1)       This item applies to an agreement or determination that:
+(1)        This item applies to an agreement or determination that:
 
                      (a)  was in force immediately before the commencement of this item; and
 
                      (b)  was made under subsection 40A(1) or (2) of the _Financial Transaction Reports Act 1988_.
 
-(2)       The agreement or determination has effect, after the commencement of this item, as if:
+(2)        The agreement or determination has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under subsection 225(1) or (2), as the case requires, of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the agreement or determination to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
-(3)       This item does not limit section 25B of the _Acts Interpretation Act 1901_.
+(3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
 ## 165  Transitional regulations
 
@@ -6853,29 +6866,10 @@ _Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009 (No.�
 
 ## 4  Application to arrests made before commencement of this Schedule
 
-(1)       The amendments made by this Schedule do not affect the validity of an arrest made before the commencement of this Schedule.
+(1)        The amendments made by this Schedule do not affect the validity of an arrest made before the commencement of this Schedule.
 
-(2)       Subject to subitem (3), the amendments made by this Schedule do not apply in relation to an arrest made before the commencement of this Schedule.
+(2)        Subject to subitem (3), the amendments made by this Schedule do not apply in relation to an arrest made before the commencement of this Schedule.
 
-(3)       Subsections 210(3) and (4) of the _Customs Act 1901_ as in force after the commencement of this Schedule apply in relation to a person arrested under section 210 of that Act before the commencement of this Schedule as if he or she had been arrested under that section after that commencement.
-
-* * *
-
-_Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009
- (No. 133, 2009)_
-
-## Schedule 3
-
-## 44  Application
-
-The amendments made by this Schedule apply in relation to:
-
-                     (a)  the last unclaimed money day (within the meaning of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_) occurring before 1 July 2010; and
-
-                     (b)  later unclaimed money days.
-
-## 45  Saving—regulations
-
-If, just before the commencement of this item, regulations made for the purposes of paragraph 18B(4)(a) of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ were in force, the regulations have effect, from that commencement, as if they had also been made for the purposes of paragraph 24K(4)(a) of that Act, as inserted by this Schedule.
+(3)        Subsections 210(3) and (4) of the _Customs Act 1901_ as in force after the commencement of this Schedule apply in relation to a person arrested under section 210 of that Act before the commencement of this Schedule as if he or she had been arrested under that section after that commencement.
 
  
