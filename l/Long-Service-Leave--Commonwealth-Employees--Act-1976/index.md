@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 15 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 3 July 2008
+ taking into account amendments up to Act No. 40 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -500,7 +500,7 @@ those periods of employment referred to in paragraph (a) or (b) of this subsec
 
            (11)  For the purposes of subsection (4), an employee shall be taken to occupy an executive office if and only if:
 
-                     (a)  the employee is an officer or employee, within the meaning of the _Fair Work (Registered Organisations) Act 2009_, of an organisation within the meaning of that Act; or
+                     (a)  the employee is an officer or employee, within the meaning of the _Workplace Relations Act 1996_, of an organisation within the meaning of that Act; or
 
                      (b)  he or she occupies an office that is a prescribed office for the purposes of this subsection;
 
@@ -616,9 +616,7 @@ after the expiration of the period of his or her relevant employment and before 
 
                      (c)  does not prevent the making of an award or workplace agreement, or the certification of an agreement, under the _Workplace Relations Act 1996_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees, or affect the operation of such an award or workplace agreement or agreement; and
 
-                     (d)  does not affect the operation of an AWA within the meaning of Schedule 7A to the _Workplace Relations Act 1996_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees; and
-
-                     (e)  does not prevent the making of an award, order, agreement or determination under the _Fair Work Act 2009_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees, or affect the operation of such an award, order, agreement or determination.
+                     (d)  does not affect the operation of an AWA within the meaning of Schedule 7A to the _Workplace Relations Act 1996_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees.
 
              (2)  Where an employee has, in accordance with an award, order or agreement referred to in subsection (1), been granted long service leave, or been paid in lieu of long service leave, in respect of a period of employment, no part of that period of employment shall be included in the period of service of the employee for the purposes of this Act.
 
@@ -626,7 +624,7 @@ after the expiration of the period of his or her relevant employment and before 
 
              (4)  In this section:
 
-                    <a name="maritim-employe"></a>**_maritime employee_** has the same meaning as in the _Fair Work Act 2009_.
+                    <a name="maritim-employe"></a>**_maritime employee_** has the same meaning as in the _Workplace Relations Act 1996_.
 
                     <a name="seamen"></a>**_seamen_** has the same meaning as in Division 2 of Part III of the _Conciliation and Arbitration Act 1904_.
 
@@ -702,7 +700,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image002.gif)
 
                             where:
 
@@ -712,7 +710,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image003.gif)
 
                             where:
 
@@ -722,7 +720,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image004.gif)
 
                             where:
 
@@ -776,7 +774,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00242/Html/LongServiceLeaveCE1976WD02_image005.gif)
 
                                    where:
 
@@ -1077,7 +1075,7 @@ After “before”, insert “the third anniversary of”.
 
 Omit “was”, substitute “is”.
 
-## 21  Item 64 of Schedule 1 (new paragraph 9G(b))
+## 21  Item 64 of Schedule 1 (new paragraph 9G(b))
 
 After “after”, insert “the third anniversary of”.
 
@@ -1673,23 +1671,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 5) \[ <i>see</i> Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 98–100): <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
@@ -1757,94 +1738,6 @@ _(j)_      The _Long Service Leave (Commonwealth Employees) Act 1976_ 
 _(k)_ The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by Schedule 2 (items 64 and 65) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-
-_(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 8, items 1 to 130
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1956,7 +1849,7 @@ No. 43, 1996</div>
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 61, 1981; No. 87, 1988; No. 215, 1992; Nos. 43 and 60, 1996; No. 146, 1999; No. 10, 2001; No. 54, 2009</div>
+    <div>am. No. 61, 1981; No. 87, 1988; No. 215, 1992; Nos. 43 and 60, 1996; No. 146, 1999; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1972,7 +1865,7 @@ No. 43, 1996</div>
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
+    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2064,8 +1957,10 @@ _Law Officers Legislation Amendment Act 2008 (No. 40, 2008)_
 
 ## Schedule 1
 
-## 5  Application
+## 5  Application
 
 The _Long Service Leave (Commonwealth Employees) Act 1976_, as amended by this Schedule, applies to a person in respect of any period (whether before or after the commencement of this item) during which the person holds office as the Solicitor-General if the person was appointed as Solicitor-General after 31 December 1997.
+
+##  
 
  
