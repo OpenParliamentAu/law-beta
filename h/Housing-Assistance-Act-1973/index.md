@@ -1,353 +1,118 @@
-![](http://www.comlaw.gov.au/Details/C2004C00510/Html/C6B29320689C8236CA25716300172453/$FILE/image001.gif)
+**<b>
 
-# Housing Assistance Act 1973
+### <center><name>HOUSING ASSISTANCE ACT 1973 - Reprinted as at 30 September 1981 (HISTACT CHAP 491 #DATE 30:09:1981) </name></center>
+</b>** *1* The Housing Assistance Act 1973 as shown in this reprint comprises Act No.<lf> 30, 1973 as amended by the other Act specified in the following table:<lf> ---------------------------------------------------------------------------- <lf> Application,<lf>                                                                    saving<lf>                           Number   Date        Date of             or<lf> transitional<lf>     Act                   and year of Assent   commencement        provisions<lf> ---------------------------------------------------------------------------- Housing Assistance<lf>     Act 1973              30, 1973 15 May 1973 15 May 1973<lf>     Housing Assistance<lf>     Act 1978              79, 1978 22 June 1978 Parts I and II<lf>                                                (ss. 1-10):<lf>                                                Royal Assent<lf>                                                Remainder: 1 July<lf>                                                1978                -<lf> ---------------------------------------------------------------------------- </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 30 of 1973 as amended**
+### <name>HOUSING ASSISTANCE ACT 1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This compilation was prepared on 7 October 2000
-taking into account amendments up to Act No. 79 of 1978
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section
+<lf> Section<lf> <p>  1\.        Short title<lf> <p>  2\.        Commencement<lf> <p>  3\.        Interpretation<lf> <p>  4\.        Loans to States for purpose of housing<lf> <p>  5\.        Loans to be subject to conditions<lf> <p>  6\.        Purpose of loans<lf> <p>  7\.        Repayment of loans<lf> <p>  8\.        (Repealed)<lf> <p>  9\.        Furnishing of certificates and information<lf> <p>  10\.       Appropriation<lf> <p><lf>                                     SCHEDULE<lf> <p><lf>                                 Loans to States<lf> <p><lf>                                -----------------<lf> <p><lf> </lf></p></lf></lf></p></lf></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
-Prepared by the Office of Legislative Drafting,
-Attorney-General’s Department, 
-Canberra
+### <name>HOUSING ASSISTANCE ACT 1973 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to grant Financial Assistance to the States by way of Loans for the purpose of commencing the Erection of additional Houses in the Financial Year ending on 30th June, 1973 </sect>
+**<b>
 
-# Contents
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 1\. Short title </name>
+</b>** 
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+## SECT
+<sect>   1\. This Act may be cited as the Housing Assistance Act 1973.*1* 
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
-[3](#3).            Interpretation                                                                                       1
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 2\. Commencement </name>
+</b>** 
 
-[4](#4).            Loans to States for purpose of housing                                               2
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-[5](#5).            Loans to be subject to conditions                                                        2
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
-[6](#6).            Purpose of loans                                                                                  2
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 3\. Interpretation </name>
+</b>** 
 
-[7](#7).            Repayment of loans                                                                             3
+## SECT
+<sect>   3\. In this Act, unless the contrary intention appears-<lf> <lf>   ''approved person'' means a person included in a class of persons whom the appropriate Minister of State of the State in which those persons live considers to be in need of assistance in connexion with the provision of dwellings for leasing;<lf> <lf>   ''housing authority'', in relation to a State, means-<lf> <lf>      (a)  in the case of New South Wales-The Housing Commission of New South Wales;<lf> <lf>      (b)  in the case of Victoria-the Housing Commission constituted under the Housing Act 1958 of that State as amended and in force for the time being;<lf> <lf>      (c)  in the case of Queensland-The Queensland Housing Commission;<lf> <lf>      (d)  in the case of South Australia-the South Australian Housing Trust;<lf> <lf>      (e)  in the case of Western Australia-The State Housing Commission constituted under the State Housing Act, 1946 of that State as amended and in force for the time being; and<lf> <lf>      (f)  in the case of Tasmania-the Director of Housing holding office under the Homes Act, 1935 of that State as amended and in force for the time being;<lf> <lf>   ''prescribed period'' means the period commencing on the date of commencement of this Act and ending on 30th June, 1973\. 
 
-[9](#9).            Furnishing of certificates and information                                           3
+<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-[10](#10).          Appropriation                                                                                     4
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 4\. Loans to States for purpose of housing </name>
+</b>** 
 
-**Schedule** 
+## SECT
+<sect>   4\. (1) There is payable to each State, during the prescribed period, for the purpose of financial assistance by way of loan, the amount specified in the Schedule opposite to the name of that State. 
 
-**Notes** 
+<lf>   (2) Payments under this section shall be made in such amounts, and at such times during the prescribed period, as the Minister determines. <p><lf> </lf></p></lf>
+</sect>
+**<b>
 
- 
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 5\. Loans to be subject to conditions </name>
+</b>** Amended by No. 79, 1978, s. 19<lf> 
 
+## SECT
+<sect>   5\. A grant of financial assistance to a State under section 4 is subject to the condition that the State will comply with the provisions of sections 6, 7 and 9\. 
 
-## An Act to grant Financial Assistance to the States by way of Loans for the purpose of commencing the Erection of additional Houses in the Financial Year ending on 30th June, 1973
+<lf> </lf>
+</sect></lf>
+**<b>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 6\. Purpose of loans </name>
+</b>** 
 
-                   This Act may be cited as the _Housing Assistance Act 1973_.
+## SECT
+<sect>   6\. (1) Subject to this section, a State to which an amount is paid under section 4 shall, during the prescribed period, pay that amount to the housing authority of the State and shall ensure that that amount is expended by that housing authority during the prescribed period on-<lf> <lf>   (a)  the erection of dwellings to which this paragraph applies by the housing authority; and<lf> <lf>   (b)  the purchase, or purchase and renovation, of dwellings to which this paragraph applies by the housing authority. 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<lf>   (2) Paragraph (1) (a) applies to dwellings-<lf> <lf>   (a)   that are erected for leasing to approved persons; and<lf> <lf>   (b)  the erection of which-<lf> <lf>       (i)  commenced or commences before 1st July, 1973; and<lf> <lf>      (ii)  would not, but for the financial assistance to the State under this Act or the expectation of that assistance, have been commenced before 1st July, 1973\. <p><lf>   (3) Paragraph (1) (b) applies to dwellings-<lf> <lf>   (a)  that were or are purchased for leasing to approved persons; and<lf> <lf>   (b)  the agreements for the purchase of which-<lf> <lf>       (i)  were or are entered into before 1st July, 1973; and<lf> <lf>      (ii)  would not, but for the financial assistance under this Act or the expectation of that assistance, have been entered into before 1st July, 1973\. <p><lf> </lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 7\. Repayment of loans </name>
+</b>** 
 
-##### <a id="3"></a>3  Interpretation
+## SECT
+<sect>   7\. (1) Interest from the date on which each amount is paid to a State under section 4 accrues at the rate of four per centum per annum on so much of the amount as is outstanding from time to time. 
 
-                   In this Act, unless the contrary intention appears:
+<lf>   (2) The amount, or the sum of the amounts, paid to a State under section 4 together with the interest accruing on that amount or the sum of those amounts after 30th June, 1973, is payable to the Commonwealth by the State by fifty-three equal annual instalments. <p><lf>   (3) A State shall pay to the Commonwealth-<lf> <lf>   (a)  the amount of the interest that accrues in accordance with sub-section (1) in respect of an amount in respect of the period commencing on the date on which the amount was paid to the State under section 4 and ending on 30th June, 1973, on or before that last-mentioned date; and<lf> <lf>   (b)  the first of the annual instalments referred to in sub-section (2) on or before 30th June, 1974, and a further instalment on or before each subsequent 30th June. <p><lf> Section 8 repealed by No. 79, 1978, s. 20<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf>
+</sect>
+**<b>
 
-                    <a name="approved-person"></a>**_approved person_** means a person included in a class of persons whom the appropriate Minister of State of the State in which those persons live considers to be in need of assistance in connexion with the provision of dwellings for leasing.
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 9\. Furnishing of certificates and information </name>
+</b>** 
 
-                    <a name="hous-author"></a>**_housing authority_**, in relation to a State, means:
+## SECT
+<sect>   9\. A State to which a grant of financial assistance under section 4 is made shall, as soon as practicable after the end of the prescribed period, furnish to the Minister-<lf> <lf>   (a)  a certificate by the Auditor-General of the State stating whether the amounts paid to the State under section 4 were paid to, and expended by, the housing authority of the State in accordance with section 6; and<lf> <lf>   (b)  such other information (if any) as the Minister requires in relation to the manner in which those amounts were applied by the housing authority of the State. 
 
-                     (a)  in the case of New South Wales—The Housing Commission of New South Wales;
+<lf> </lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-                     (b)  in the case of Victoria—the Housing Commission constituted under the _Housing Act 1958_ of that State as amended and in force for the time being;
+### <name>HOUSING ASSISTANCE ACT 1973 - SECT. 10\. Appropriation </name>
+</b>** 
 
-                     (c)  in the case of Queensland—The Queensland Housing Commission;
+## SECT
+<sect>   10\. Payments for the purposes of this Act shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly. 
 
-                     (d)  in the case of South Australia—the South Australian Housing Trust;
+<lf>                                   -----------<lf> <lf> </lf></lf></lf>
+</sect>
+**<b>
 
-                     (e)  in the case of Western Australia—The State Housing Commission constituted under the _State Housing Act 1946_ of that State as amended and in force for the time being; and
+### <name>HOUSING ASSISTANCE ACT 1973 - SCHEDULE </name>
+</b>** 
 
-                      (f)  in the case of Tasmania—the Director of Housing holding office under the _Homes Act 1935_ of that State as amended and in force for the time being.
-
-                    <a name="prescrib-period"></a>**_prescribed period_** means the period commencing on the date of commencement of this Act and ending on 30th June, 1973.
-
-##### <a id="4"></a>4  Loans to States for purpose of housing
-
-             (1)  There is payable to each State, during the prescribed period, for the purpose of financial assistance by way of loan, the amount specified in the Schedule opposite to the name of that State.
-
-             (2)  Payments under this section shall be made in such amounts, and at such times during the prescribed period, as the Minister determines.
-
-##### <a id="5"></a>5  Loans to be subject to conditions
-
-                   A grant of financial assistance to a State under section 4 is subject to the condition that the State will comply with the provisions of sections 6, 7 and 9\. 
-
-##### <a id="6"></a>6  Purpose of loans
-
-             (1)  Subject to this section, a State to which an amount is paid under section 4 shall, during the prescribed period, pay that amount to the housing authority of the State and shall ensure that that amount is expended by that housing authority during the prescribed period on:
-
-                     (a)  the erection of dwellings to which this paragraph applies by the housing authority; and
-
-                     (b)  the purchase, or purchase and renovation, of dwellings to which this paragraph applies by the housing authority.
-
-             (2)  Paragraph (1)(a) applies to dwellings:
-
-                     (a)  that are erected for leasing to approved persons; and 
-
-                     (b)  the erection of which:
-
-                              (i)  commenced or commences before 1st July, 1973; and
-
-                             (ii)  would not, but for the financial assistance to the State under this Act or the expectation of that assistance, have been commenced before 1st July, 1973.
-
-             (3)  Paragraph (1)(b) applies to dwellings:
-
-                     (a)  that were or are purchased for leasing to approved persons; and
-
-                     (b)  the agreements for the purchase of which:
-
-                              (i)  were or are entered into before 1st July, 1973; and
-
-                             (ii)  would not, but for the financial assistance under this Act or the expectation of that assistance, have been entered into before 1st July, 1973.
-
-##### <a id="7"></a>7  Repayment of loans
-
-             (1)  Interest from the date on which each amount is paid to a State under section 4 accrues at the rate of four per centum per annum on so much of the amount as is outstanding from time to time.
-
-             (2)  The amount, or the sum of the amounts, paid to a State under section 4 together with the interest accruing on that amount or the sum of those amounts after 30th June, 1973, is payable to the Commonwealth by the State by fifty-three equal annual instalments.
-
-             (3)  A State shall pay to the Commonwealth:
-
-                     (a)  the amount of the interest that accrues in accordance with subsection (1) in respect of an amount in respect of the period commencing on the date on which the amount was paid to the State under section 4 and ending on 30th June, 1973, on or before that last-mentioned date; and 
-
-                     (b)  the first of the annual instalments referred to in subsection (2) on or before 30th June, 1974, and a further instalment on or before each subsequent 30th June.
-
-##### <a id="9"></a>9  Furnishing of certificates and information
-
-                   A State to which a grant of financial assistance under section 4 is made shall, as soon as practicable after the end of the prescribed period, furnish to the Minister:
-
-                     (a)  a certificate by the Auditor-General of the State stating whether the amounts paid to the State under section 4 were paid to, and expended by, the housing authority of the State in accordance with section 6; and
-
-                     (b)  such other information (if any) as the Minister requires in relation to the manner in which those amounts were applied by the housing authority of the State.
-
-##### <a id="10"></a>10  Appropriation
-
-                   Payments for the purposes of this Act shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-
-# Schedule
-
-_Section 4_
-
-<table>
-<colgroup>
-  <col width="85%">
-  <col width="15%">
-</colgroup>
-
-<tbody>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>$</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>New South Wales............................................................................</div>
-    </td>
-    <td>
-      <div>3,500,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Victoria...........................................................................................</div>
-    </td>
-    <td>
-      <div>1,500,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Queensland......................................................................................</div>
-    </td>
-    <td>
-      <div>350,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>South Australia.................................................................................</div>
-    </td>
-    <td>
-      <div>500,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Western Australia............................................................................</div>
-    </td>
-    <td>
-      <div>400,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tasmania.........................................................................................</div>
-    </td>
-    <td>
-      <div>300,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>6,550,000</div>
-    </td>
-  </tr>
-</tbody></table>
-
- 
-
-
-# Notes to the _Housing Assistance Act 1973_
-
-### Note 1
-
-The _Housing Assistance Act 1973_ as shown in this compilation comprises Act No. 30, 1973 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="0%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td colspan="2">
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><i> Housing Assistance Act 1973 </i></div>
-    </td>
-    <td>
-      <div>30, 1973</div>
-    </td>
-    <td>
-      <div>15 May 1973</div>
-    </td>
-    <td colspan="2">
-      <div>15 May 1973</div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><i> Housing Assistance Act 1978 </i></div>
-    </td>
-    <td>
-      <div>79, 1978</div>
-    </td>
-    <td>
-      <div>22 June 1978</div>
-    </td>
-    <td colspan="2">
-      <div>Parts I and II (ss. 1-10): Royal Assent 
-Remainder: 
-
-  1 July 1978</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr height="0">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 79, 1978</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>rep. No. 79, 1978</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
- 
+## SCH
+<sch>                                     SCHEDULE<lf>                                                                        Section 4 <lf> $ New South Wales . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,500,000 Victoria  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1,500,000 Queensland  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    350,000 South Australia . . . . . . . . . . . . . . . . . . . . . . . . . . .    500,000 Western Australia . . . . . . . . . . . . . . . . . . . . . . . . . .    400,000 Tasmania  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    300,000 -------- 6,550,000 ------------------------------------------------------------------------------ -- <lf> </lf></lf></lf></sch>
