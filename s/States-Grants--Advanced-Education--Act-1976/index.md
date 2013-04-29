@@ -1,4381 +1,5577 @@
-![](http://www.comlaw.gov.au/Details/C2008C00409/Html/ce9c69d1-6fa3-405e-82f1-5f3905c5e2d1_files/image001.gif)
+**
 
-# States Grants (Advanced Education) Act 1976
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976 
+**
 
-**Act No. 15 of 1976 as amended**
 
-This compilation was prepared on 14 July 2008
- taking into account amendments up to Act No. 73 of 2008
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Approvals of projects                                                                           4
 
-[5](#5).            Approvals in respect of courses and works                                         4
 
-[6](#6).            Grants for recurrent expenditure                                                          4
 
-[7](#7).            Reimbursement of money expended by States before commencing day on recurrent expenditure of colleges of advanced education                                                                                              7
+**
 
-[8](#8).            Limits on payments under sections 6 and 7                                          9
+###  Long Title 
+**
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[9](#9).            Recurrent grants in respect of student residences and affiliated colleges  9
+		This Act may be cited as the _States Grants (Advanced Education) Act 1976_.
 
-[10](#10).          Reimbursement of moneys expended by States before commencing day on recurrent expenditure of student residence and affiliated colleges                                                                         12
+ </dl>
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[11](#11).          Limits on payments under sections 9 and 10                                      13
+		This Act shall come into operation on the day on which it receives the Royal
 
-[12](#12).          Grants for capital expenditure on college building projects, etc          13
+Assent.
 
-[12A](#12A).       Termination of payments under section 12                                         16
+ </dl>
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 3  Interpretation 
+<dl compact="">
 
-[13](#13).          Reimbursement of moneys expended by States before commencing day on college building projects     16
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[14](#14).          Limits on payments under sections 12 and 13                                    17
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-[15](#15).          Additional conditions                                                                         17
+_affiliated college_, in relation to a college of advanced
 
-[16](#16).          Minister may fix amounts, and times of payments, of financial assistance               18
+education, means a residential college (not being a student residence)
 
-[17](#17).          Progress reports                                                                                 18
+affiliated with the college of advanced education and approved by the
 
-[18](#18).          Delegation by the Minister                                                                 18
+Commission, for the purposes of this Act, as an affiliated college. _approved project_ means a work or other matter in respect of a college of advanced education, being a work or other matter:  </dl></dl>
 
-[19](#19).          Payments may be made out of Consolidated Revenue Fund or Loan Fund              19
+	(a)	specified in column 2 of Part&#160;I of Schedule&#160;2 in relation to the name of that college in column 1 of that Part of that Schedule; or
+ 	(b)	approved by the Minister under subsection 4(1);
 
-[20](#20).          Authority to borrow                                                                           19
+to the extent to which particulars of that work or other matter have been approved under section&#160;4 or 5, whichever is applicable.
 
-[21](#21).          Application of moneys borrowed                                                       19
+<def><dl compact=""><dl compact="">
 
-[22](#22).          Reimbursement of Consolidated Revenue Fund from Loan Fund     19
+_capital expenditure_ means:
 
-[23](#23).          Appropriation                                                                                     20
+ </dl></dl>
 
-**Schedule 1** 
+	(a)	expenditure on the purchase of land, with or without buildings, the planning, erection, alteration or extension of a building, the development or preparation of land for building or other purposes or the installation of water, electricity or other services; and
+ 	(b)	expenditure exceeding $2,000 for the purchase of, or otherwise connected with, a single item of equipment.
 
-**Part I—Grants for recurrent expenditure in respect of 1976 by specified colleges** 
+<def><dl compact=""><dl compact="">
 
-**Part II—Grants for recurrent expenditure in respect of 1976 by all or any colleges** 
+_college of advanced education_ means a place of education or body
 
-**Schedule 2** 
+specified in column 1 of Part&#160;I of Schedule&#160;1\. _college purposes_, in relation to a college of advanced education, means the general teaching purposes of that college in connexion with courses of study at that college approved by the Commission under section&#160;5, including external tuition for those courses of study and planning and other preparatory work in connexion with proposed courses of study approved by the Commission under that section. _collegiate accommodation_ means residential accommodation (including related facilities) for students of a college of advanced education, being accommodation that, having regard to the facilities and services provided for the students, is, in the opinion of the Commission, of a collegiate nature. _commencing day_ means the day on which this Act receives the Royal Assent. _Commission_ means the Commission on Advanced Education referred to in the Commission on _Advanced Education Act 1971-1973_. _fees_ means tuition, examination and other fees payable by a student enrolled at, or applying for enrolment at, a college of advanced education in connexion with a course of study at the college approved by the Commission under section&#160;5, and includes fees payable by a student to a college of advanced education in respect of the conferring of a degree, diploma, certificate or other award in respect of such a course of study, but does not include:  </dl></dl>
 
-**Part I—Grants for approved projects—1976** 
+<center>Back to Top</center>
 
-**Part II—Grants for all or any colleges and additional projects approved by the Minister—1976** 
+	(a)	fees the payment of which is voluntary;
+ 	(b)	fees payable to an organization of students; and
+ 	(c)	fees in respect of residential accommodation.
 
-**Part III—Maximum grants for all approved projects—1976** 
+<def><dl compact=""><dl compact="">
 
-**Notes** 
+_non-collegiate accommodation_ means residential accommodation
 
-## An Act relating to the Grant of Financial Assistance to the States in connexion with Advanced Education
+(including related facilities) for students of a college of advanced education,
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+other than collegiate accommodation. _place of education_ includes a place of education that is proposed to be established. _qualified accountant_, in relation to the furnishing of a statement referred to in paragraph 7(2)(a) or (3)(a), subsection 10(2) or paragraph 13(2)(a) or 15(c), means:  </dl></dl>
 
-                   This Act may be cited as the _States Grants (Advanced Education) Act 1976_.
+	(a)	a person who is registered as a company auditor or public accountant under a law in force in a State or Territory;
+ 	(b)	a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants; or
+ 	(c)	a person approved by the Commission as a person competent to furnish such a statement.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<def><dl compact=""><dl compact="">
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+_recurrent expenditure_ means expenditure that is not capital
 
-##### <a id="3"></a>3  Interpretation
+expenditure. _relevant period_ means the period that commenced on 20&#160;November 1975 and ended on the day immediately preceding the commencing day. _student residence_, in relation to a college of advanced education, means a hall, college or other establishment at which any students of the college reside, being an establishment:  </dl></dl>
 
-             (1)  In this Act, unless the contrary intention appears:
+	(a)	administered by:
+ 	(i)	the college or the body administering the college; or
+ 	(ii)	a body established by the college or by the body administering the college; and
+ 	(b)	approved by the Commission, for the purposes of this Act, as a student residence.
 
-                    <a name="affiliated-colleg"></a>**_affiliated college_**, in relation to a college of advanced education, means a residential college (not being a student residence) affiliated with the college of advanced education and approved by the Commission, for the purposes of this Act, as an affiliated college.
+<dl compact=""><dl compact="">
 
-                    <a name="approved-project"></a>**_approved project_** means a work or other matter in respect of a college of advanced education, being a work or other matter:
+<dt>(2)</dt><dd>Where the Minister is satisfied that a place of education or a body that
 
-                     (a)  specified in column 2 of Part I of Schedule 2 in relation to the name of that college in column 1 of that Part of that Schedule; or
+is known by a name other than a name specified in this Act is:
 
-                     (b)  approved by the Minister under subsection 4(1);
+</dd> </dl></dl>
 
-to the extent to which particulars of that work or other matter have been approved under section 4 or 5, whichever is applicable.
+	(a)	substantially identical with a college of advanced education, being a place of education or body specified in column 1 of Schedule&#160;1; or
+ 	(b)	in relation to courses of study, works or other matters approved under section&#160;4 or 5 or works or other matters specified in column 2 of Part&#160;I of Schedule&#160;2, the successor of such a college of advanced education;
 
-                    <a name="capit-expenditur"></a>**_capital expenditure_** means:
+the Minister may, in his discretion and with the approval of the State in which the first-mentioned place of education or body is situated, by instrument in writing, declare that he is so satisfied, and, upon the making of such a declaration, that place of education or body shall, for the purpose of this Act, be deemed to be the college of advanced education referred to in the declaration. 
 
-                     (a)  expenditure on the purchase of land, with or without buildings, the planning, erection, alteration or extension of a building, the development or preparation of land for building or other purposes or the installation of water, electricity or other services; and
+**
 
-                     (b)  expenditure exceeding $2,000 for the purchase of, or otherwise connected with, a single item of equipment.
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 4  Approvals of projects 
+**
 
-                    <a name="colleg-advanced-educ"></a>**_college of advanced education_** means a place of education or body specified in column 1 of Part I of Schedule 1.
+ <dl compact=""><dl compact="">
 
-                    <a name="colleg-purpos"></a>**_college purposes_**, in relation to a college of advanced education, means the general teaching purposes of that college in connexion with courses of study at that college approved by the Commission under section 5, including external tuition for those courses of study and planning and other preparatory work in connexion with proposed courses of study approved by the Commission under that section.
+<dt>(1)</dt><dd>For the purpose of this Act, the Minister may approve, in respect of a
 
-                    <a name="collegi-accommod"></a>**_collegiate accommodation_** means residential accommodation (including related facilities) for students of a college of advanced education, being accommodation that, having regard to the facilities and services provided for the students, is, in the opinion of the Commission, of a collegiate nature.
+college of advanced education, a work or other matter, additional to the works
 
-                    <a name="commenc-dai"></a>**_commencing day_** means the day on which this Act receives the Royal Assent.
+or matters (if any) specified in column 2 of Part&#160;I of Schedule&#160;2 in
 
-                    <a name="commiss"></a>**_Commission_** means the Commission on Advanced Education referred to in the Commission on _Advanced Education Act 1971‑1973_.
+relation to that college, and the estimated cost of the work or matter so
 
-                    <a name="fee"></a>**_fees_** means tuition, examination and other fees payable by a student enrolled at, or applying for enrolment at, a college of advanced education in connexion with a course of study at the college approved by the Commission under section 5, and includes fees payable by a student to a college of advanced education in respect of the conferring of a degree, diploma, certificate or other award in respect of such a course of study, but does not include:
+approved, and may revoke or vary any such approval.</dd> <dt>(2)</dt><dd>As soon as practicable after the Minister has approved a work or matter in pursuance of subsection&#160;(1), he shall cause a statement specifying the work or matter and the approved estimated cost of the work or matter to be laid before each House of the Parliament. </dd> </dl></dl>
 
-                     (a)  fees the payment of which is voluntary;
+**
 
-                     (b)  fees payable to an organization of students; and
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 5  Approvals in respect of courses and works 
+**
 
-                     (c)  fees in respect of residential accommodation.
+ <dl compact=""><dl compact="">
 
-                    <a name="non-collegi-accommod"></a>**_non‑collegiate accommodation_** means residential accommodation (including related facilities) for students of a college of advanced education, other than collegiate accommodation.
+<dt>(1)</dt><dd>For the purposes of this Act, the Commission may:
 
-                    <a name="place-educ"></a>**_place of education_** includes a place of education that is proposed to be established.
+</dd> </dl></dl>
 
-                    <a name="qualifi-account"></a>**_qualified accountant_**, in relation to the furnishing of a statement referred to in paragraph 7(2)(a) or (3)(a), subsection 10(2) or paragraph 13(2)(a) or 15(c), means:
-
-                     (a)  a person who is registered as a company auditor or public accountant under a law in force in a State or Territory;
-
-                     (b)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants; or
-
-                     (c)  a person approved by the Commission as a person competent to furnish such a statement.
-
-                    <a name="recurr-expenditur"></a>**_recurrent expenditure_** means expenditure that is not capital expenditure.
-
-                    <a name="relev-period"></a>**_relevant period_** means the period that commenced on 20 November 1975 and ended on the day immediately preceding the commencing day.
-
-                    <a name="student-resid"></a>**_student residence_**, in relation to a college of advanced education, means a hall, college or other establishment at which any students of the college reside, being an establishment:
-
-                     (a)  administered by:
-
-                              (i)  the college or the body administering the college; or
-
-                             (ii)  a body established by the college or by the body administering the college; and
-
-                     (b)  approved by the Commission, for the purposes of this Act, as a student residence.
-
-             (2)  Where the Minister is satisfied that a place of education or a body that is known by a name other than a name specified in this Act is:
-
-                     (a)  substantially identical with a college of advanced education, being a place of education or body specified in column 1 of Schedule 1; or
-
-                     (b)  in relation to courses of study, works or other matters approved under section 4 or 5 or works or other matters specified in column 2 of Part I of Schedule 2, the successor of such a college of advanced education;
-
-the Minister may, in his or her discretion and with the approval of the State in which the first‑mentioned place of education or body is situated, by instrument in writing, declare that he or she is so satisfied, and, upon the making of such a declaration, that place of education or body shall, for the purpose of this Act, be deemed to be the college of advanced education referred to in the declaration.
-
-##### <a id="4"></a>4  Approvals of projects
-
-             (1)  For the purpose of this Act, the Minister may approve, in respect of a college of advanced education, a work or other matter, additional to the works or matters (if any) specified in column 2 of Part I of Schedule 2 in relation to that college, and the estimated cost of the work or matter so approved, and may revoke or vary any such approval.
-
-             (2)  As soon as practicable after the Minister has approved a work or matter in pursuance of subsection (1), he or she shall cause a statement specifying the work or matter and the approved estimated cost of the work or matter to be laid before each House of the Parliament.
-
-##### <a id="5"></a>5  Approvals in respect of courses and works
-
-             (1)  For the purposes of this Act, the Commission may:
-
-                     (a)  approve courses of study and proposed courses of study in respect of a college of advanced education;
-
-                     (b)  approve, in respect of a college of advanced education referred to in column 1 of Part I of Schedule 2, particulars of a work or other matter specified in column 2 of Part I of that Schedule in relation to that college; and
-
-                     (c)  approve particulars of a work or other matter approved by the Minister under subsection 4(1) in respect of a college of advanced education;
+	(a)	approve courses of study and proposed courses of study in respect of a college of advanced education;
+ 	(b)	approve, in respect of a college of advanced education referred to in column 1 of Part&#160;I of Schedule&#160;2, particulars of a work or other matter specified in column 2 of Part&#160;I of that Schedule in relation to 
+<center>Back to Top</center>
+ that college; and
+ 	(c)	approve particulars of a work or other matter approved by the Minister under subsection 4(1) in respect of a college of advanced education;
 
 and may revoke or vary any such approval.
 
-             (2)  Where a work or other matter:
+<dl compact=""><dl compact="">
 
-                     (a)  specified in column 2 of Part I of Schedule 2; or
+<dt>(2)</dt><dd>Where a work or other matter:
 
-                     (b)  approved by the Minister under subsection 4(1);
+</dd> </dl></dl>
 
-consists of, or includes, the erection, alteration or extension of a building, that work or matter shall be deemed to include the provision of furnishings and equipment for that building, or for the altered parts or extensions of that building, as the case may be.
+	(a)	specified in column 2 of Part&#160;I of Schedule&#160;2; or
+ 	(b)	approved by the Minister under subsection 4(1);
 
-##### <a id="6"></a>6  Grants for recurrent expenditure
+consists of, or includes, the erection, alteration or extension of a building, that work or matter shall be deemed to include the provision of furnishings and equipment for that building, or for the altered parts or extensions of that building, as the case may be. 
 
-             (1)  Subject to this section and to section 8, in relation to a college of advanced education specified in column 1 of Part I of Schedule 1, there is payable to the State in which the college is situated, in respect of the year 1976, for the purpose of financial assistance in relation to recurrent expenditure of the college for college purposes:
+**
 
-                     (a)  if a determination is in force under subsection (2) specifying an amount to be the amount payable under this section to the State in relation to recurrent expenditure of the college for college purposes in respect of the year 1976—the amount so specified; or
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 6  Grants for recurrent expenditure 
+**
 
-                     (b)  in any other case—the maximum amount available in relation to recurrent expenditure of the college for college purposes.
+ <dl compact=""><dl compact="">
 
-             (2)  Where a State requests that the maximum amount available in relation to recurrent expenditure of a college of advanced education for college purposes in respect of the year 1976 be increased or reduced:
+<dt>(1)</dt><dd>Subject to this section and to section&#160;8, in relation to a college of
 
-                     (a)  the Minister may, in his or her discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the maximum amount available in relation to that recurrent expenditure is to be the amount payable to the State in relation to that expenditure; or
+advanced education specified in column 1 of Part&#160;I of Schedule&#160;1,
 
-                     (b)  if there is no determination by the Minister in force under paragraph (a) in relation to a college of advanced education—the Commission may, in its discretion, determine that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the maximum amount available in relation to that recurrent expenditure, is to be the amount payable to the State in relation to that expenditure.
+there is payable to the State in which the college is situated, in respect of
 
-             (3)  If, after the Commission has made a determination under paragraph (2)(b) in relation to a college of advanced education, the Minister makes a determination under paragraph (2)(a) in relation to the college, the determination made by the Commission ceases to have effect.
+the year 1976, for the purpose of financial assistance in relation to recurrent
 
-             (4)  Where the Minister is satisfied that an amount of recurrent expenditure expended after the expiration of the year 1976 related to college purposes of a college of advanced education in respect of that year, he or she may, in his or her discretion and with the approval of the State, direct that, for the purposes of this section, that amount shall be treated as having been expended during that year.
+expenditure of the college for college purposes:
 
-             (5)  Where the Commission is satisfied that an amount of recurrent expenditure, not exceeding $200,000, expended after the expiration of the year 1976 related to college purposes of a college of advanced education in respect of that year, the Commission may, in its discretion and with the approval of the State, direct that, for the purposes of this section, that amount shall be treated as having been expended during that year.
+</dd> </dl></dl>
 
-             (6)  The sum of the amounts payable under this section to a State in relation to colleges of advanced education shall not exceed the sum of the maximum amounts available in relation to the recurrent expenditures of those colleges for college purposes in respect of the year 1976 and the amount specified in Part II of Schedule 1 in relation to the State.
+	(a)	if a determination is in force under subsection&#160;(2) specifying an amount to be the amount payable under this section to the State in relation to recurrent expenditure of the college for college purposes in respect of the year 1976&#151;the amount so specified; or
+ 	(b)	in any other case&#151;the maximum amount available in relation to recurrent expenditure of the college for college purposes.
 
-             (7)  The financial assistance to a State under this section in relation to a college of advanced education is granted on the conditions that:
+<dl compact=""><dl compact="">
 
-                     (a)  the State will, in respect of each payment of that financial assistance and without undue delay, ensure that the amount of the payment is applied in expenditure by way of recurrent expenditure of that college for college purposes in respect of the year 1976; and
+<dt>(2)</dt><dd>Where a State requests that the maximum amount available in relation to
 
-                     (b)  the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
+recurrent expenditure of a college of advanced education for college purposes
 
-             (8)  As soon as practicable after the Commission has made a determination under subsection (2), the Commission shall furnish to the Minister particulars of the determination.
+in respect of the year 1976 be increased or reduced:
 
-             (9)  As soon as practicable after the Minister has made a determination under subsection (2) or has been furnished under subsection (8) with particulars of a determination made by the Commission under subsection (2), the Minister shall cause a statement setting out particulars of the determination to be laid before each House of the Parliament.
+</dd> </dl></dl>
 
-           (10)  For the purposes of this section, the maximum amount available in relation to recurrent expenditure of a college of advanced education for college purposes in respect of the year 1976 is an amount equal to the sum of:
+	(a)	the Minister may, in his discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the maximum amount available in relation to that recurrent expenditure is to be the amount payable to the State in relation to that expenditure; or
+ 	(b)	if there is no determination by the Minister in force under paragraph&#160;(a) in relation to a college of advanced education-the Commission may, in its discretion, determine that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the maximum amount available in relation to that recurrent expenditure, is to be the amount payable to the State in relation to that expenditure.
 
-                     (a)  the amount specified in column 2 of Part I of Schedule 1 opposite to the name of that college in column 1 of that Schedule; and
+<dl compact=""><dl compact="">
 
-                     (b)  the amount (if any) by which the maximum grant for the year 1975 in respect of the college as set out in the First Schedule, or the Fourth Schedule, whichever is applicable to the college, to the _States Grants (Advanced Education) Act 1972‑1976_ exceeds the amount of the recurrent expenditure, within the meaning of that Act, of the college on college purposes in respect of that year.
+<dt>(3)</dt><dd>If, after the Commission has made a determination under
 
-           (11)  An amount equal to the amount (if any) by which the sum of the amounts (including advances) paid to a State under the _States Grants (Advanced Education) Act 1972_, or under that Act as subsequently amended, for the purpose of financial assistance in relation to recurrent expenditure of a college of advanced education on college purposes in respect of the year 1975 exceeds the sum of the amounts of recurrent expenditure of the college on college purposes in respect of that year shall be deemed to have been paid to the State under this Act for the purpose of financial assistance in relation to recurrent expenditure of the college on college purposes in respect of the year 1976, and that first‑mentioned sum shall be deemed to have been reduced by an amount equal to that excess.
+paragraph&#160;(2)(b) in relation to a college of advanced education, the
 
-##### <a id="7"></a>7  Reimbursement of money expended by States before commencing day on recurrent expenditure of colleges of advanced education
+Minister makes a determination under paragraph&#160;(2)(a) in relation to the
 
-             (1)  Where the State Education Minister for a State requests the Commonwealth Education Minister to authorize the reimbursement to the State:
+college, the determination made by the Commission ceases to have effect.</dd> <dt>(4)</dt><dd>Where the Minister is satisfied that an amount of recurrent expenditure expended after the expiration of the year 1976 related to college purposes of a college of advanced education in respect of that year, he may, in his discretion and with the approval of the State, direct that, for the purposes of this section, that amount shall be treated as having been expended during that year.</dd> <dt>(5)</dt><dd>Where the Commission is satisfied that an amount of recurrent expenditure, not exceeding $200,000, expended after the expiration of the year 1976 related to college purposes of a college of advanced education in respect of that year, the Commission may, in its discretion and with the approval of the State, direct that, for the purposes of this section, that amount shall be treated as having been expended during that year.</dd> <dt>(6)</dt><dd>The sum of the amounts payable under this section to a State in relation to colleges of advanced education shall not exceed the sum of the maximum amounts available in relation to the recurrent expenditures of those colleges for college purposes in respect of the year 1976 and the amount specified in Part&#160;II of Schedule&#160;1 in relation to the State.</dd> <dt>(7)</dt><dd>The financial assistance to a State under this section in relation to a college of advanced education is granted on the conditions that: </dd> </dl></dl>
 
-                     (a)  of an amount of moneys which, during the relevant period, had been paid by the State to a college of advanced education for the purpose of expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976; or
+	(a)	the State will, in respect of each payment of that financial assistance and without undue delay, ensure that the amount of the payment is applied in expenditure by way of recurrent expenditure of that college for college purposes in respect of the year 1976; and
+ 	(b)	the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
 
-                     (b)  of an amount of moneys which, during the relevant period, had been applied by the State for the purpose of expenditure, by way of recurrent expenditure of the college for college purposes, in respect of the year 1976;
+<center>Back to Top</center>
 
-otherwise than out of financial assistance granted to the State under any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education, the Commonwealth Education Minister may, subject to section 8, authorize the payment to the State under this subsection, by way of financial assistance to the State, of such amount as the Commonwealth Education Minister determines, being an amount that does not exceed the amount referred to in the request.
+<dl compact=""><dl compact="">
 
-             (2)  The financial assistance to a State constituted by a payment or payments of moneys under subsection (1) (in this subsection referred to as the **_relevant financial assistance_**) in relation to an amount or amounts of moneys paid to a college of advanced education for the purpose referred to in paragraph (1)(a) is granted on the conditions:
+<dt>(8)</dt><dd>As soon as practicable after the Commission has made a determination under
 
-                     (a)  that the State will cause to be furnished to the Commission, not later than 30 September 1977, a statement in writing signed by the Auditor‑General of the State, or by a qualified accountant, to the effect that he or she has satisfied himself or herself that an amount equal to the relevant financial assistance was applied in expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976, otherwise than out of moneys paid to the college from financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+subsection&#160;(2), the Commission shall furnish to the Minister particulars
 
-                     (b)  that the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
+of the determination.</dd> <dt>(9)</dt><dd>As soon as practicable after the Minister has made a determination under subsection&#160;(2) or has been furnished under subsection&#160;(8) with particulars of a determination made by the Commission under subsection&#160;(2), the Minister shall cause a statement setting out particulars of the determination to be laid before each House of the Parliament.</dd> <dt>(10)</dt><dd>For the purposes of this section, the maximum amount available in relation to recurrent expenditure of a college of advanced education for college purposes in respect of the year 1976 is an amount equal to the sum of: </dd> </dl></dl>
 
-             (3)  The financial assistance to a State constituted by a payment or payments of moneys under subsection (1) (in this subsection referred to as the **_relevant financial assistance_**) in relation to an amount or amounts of moneys applied by the State for the purpose referred to in paragraph (1)(b) in relation to a college of advanced education is granted on the conditions:
+	(a)	the amount specified in column 2 of Part&#160;I of Schedule&#160;1 opposite to the name of that college in column 1 of that Schedule; and
+ 	(b)	the amount (if any) by which the maximum grant for the year 1975 in respect of the college as set out in the First Schedule, or the Fourth Schedule, whichever is applicable to the college, to the _States Grants (Advanced Education) Act 1972-1976_ exceeds the amount of the recurrent expenditure, within the meaning of that Act, of the college on college purposes in respect of that year.
 
-                     (a)  that the State will cause to be furnished to the Commission, not later than 30 September 1977, a statement in writing signed by the Auditor‑General of the State, or by a qualified accountant, to the effect that he or she has satisfied himself or herself that an amount equal to the relevant financial assistance was, during the relevant period, applied in expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976 otherwise than out of financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+<dl compact=""><dl compact="">
 
-                     (b)  that the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
+<dt>(11)</dt><dd>An amount equal to the amount (if any) by which the sum of the amounts
 
-             (4)  For the purposes of this section, an amount that was expended during the relevant period by way of recurrent expenditure of a college of advanced education in respect of the year 1976 shall be deemed to have been expended for college purposes if it was expended:
+(including advances) paid to a State under the _States Grants (Advanced Education) Act 1972_, or under that Act as subsequently amended, for the
 
-                     (a)  for the general teaching purposes of the college in connexion with courses of study of the college, being courses of study that were, after the commencing day, approved by the Commission under section 5;
+purpose of financial assistance in relation to recurrent expenditure of a
 
-                     (b)  for tuition for any such courses of study; or
+college of advanced education on college purposes in respect of the year 1975
 
-                     (c)  for planning and other preparatory work in connexion with proposed courses of study, being proposed courses of study that were so approved by the Commission.
+exceeds the sum of the amounts of recurrent expenditure of the college on
 
-##### <a id="8"></a>8  Limits on payments under sections 6 and 7
+college purposes in respect of that year shall be deemed to have been paid to
 
-                   Payments shall not be made to a State under sections 6 and 7, in relation to a college of advanced education, that exceed, in the aggregate, the sum of the amounts that, but for this section, would be authorised to be paid to the State under section 6 in relation to that college.
+the State under this Act for the purpose of financial assistance in relation to
 
-##### <a id="9"></a>9  Recurrent grants in respect of student residences and affiliated colleges
+recurrent expenditure of the college on college purposes in respect of the year
 
-             (1)  Subject to section 11, there is payable to each State, in respect of the year 1976, for the purpose of financial assistance in relation to student residences and affiliated colleges of colleges of advanced education in the State, amounts determined in accordance with this section.
+1976, and that first-mentioned sum shall be deemed to have been reduced by an
 
-             (2)  In relation to each college of advanced education providing collegiate accommodation at a student residence or at student residences, there is payable to the State in which the college is situated an amount equal to the sum of the amount of $8,083 and the amount ascertained by multiplying $127.02 by the number of resident full‑time students at that student residence, or at those student residences, as the case may be, in the year 1976.
+amount equal to that excess.
 
-             (3)  In relation to each affiliated college, there is payable to a State under this section, an amount ascertained by multiplying the basic grant in relation to the college by the number of resident full‑time students of the college in the year 1976.
+</dd> </dl></dl>
 
-             (4)  For the purpose of subsection (3), the basic grant in relation to an affiliated college is:
+**
 
-                     (a)  if the number of resident full‑time students of the college in the year 1976 is not more than 50—$288.68;
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 7  Reimbursement of money expended by States before commencing day on recurrent expenditure of colleges of advanced education 
+**
 
-                     (b)  if the number of resident full‑time students of the college in the year 1976 is more than 50 but not more than 75—$288.68 reduced by $2.31 for each student by which that number of students exceeds 50;
+<dl compact=""><dl compact="">
 
-                     (c)  if the number of resident full‑time students of the college in the year 1976 is more than 75 and not more than 100—$230.94 reduced by $0.92 for each student by which that number of students exceeds 75; and
+<dt>(1)</dt><dd>Where the State Education Minister for a State requests the Commonwealth
 
-                     (d)  if the number of resident full‑time students of the college in 1976 is more than 100—$207.85 reduced by $0.18 for each student for which that number of students exceeds 100.
+Education Minister to authorize the reimbursement to the State:
 
-             (5)  Where a student residence or affiliated college, or a part of such a residence or college, was not in use during the whole of the academic year comprised in the year 1976, the Commission may determine that an amount payable under this section in respect of that year in relation to that residence or college shall be such part only of the amount that would otherwise be payable as the Commission thinks appropriate.
+</dd> </dl></dl>
 
-             (6)  The financial assistance to a State by way of a payment of an amount under this section in relation to a student residence or affiliated college of a college of advanced education is granted on the conditions that:
+	(a)	of an amount of moneys which, during the relevant period, had been paid by the State to a college of advanced education for the purpose of expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976; or
+ 	(b)	of an amount of moneys which, during the relevant period, had been applied by the State for the purpose of expenditure, by way of recurrent expenditure of the college for college purposes, in respect of the year 1976;
 
-                     (a)  in the case of the payment of an amount in relation to a student residence or student residences—the State will ensure that the amount is applied for meeting administrative costs of the student residence, or of those student residences, in respect of the year 1976; or
+otherwise than out of financial assistance granted to the State under any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education, the Commonwealth Education Minister may, subject to section&#160;8, authorize the payment to the State under this subsection, by way of financial assistance to the State, of such amount as the Commonwealth Education Minister determines, being an amount that does not exceed the amount referred to in the request.
 
-                     (b)  in the case of a payment of an amount in relation to an affiliated college:
+<dl compact=""><dl compact="">
 
-                              (i)  the State will, without undue delay, pay that amount to the body administering the affiliated college; and
+<dt>(2)</dt><dd>The financial assistance to a State constituted by a payment or payments
 
-                             (ii)  the State will ensure the amount so paid by the State is applied for meeting administrative costs of the affiliated college in respect of the year 1976.
+of moneys under subsection&#160;(1) (in this subsection referred to as the
 
-             (7)  For the purposes of this section, the number of resident full‑time students of a student residence or affiliated college in the year 1976 is the number that is the average of the maximum numbers of such students during the several terms of that year.
+_relevant financial assistance_) in relation to an amount or
 
-             (8)  This section does not apply in relation to a student residence or affiliated college that does not provide collegiate accommodation, and, for the purposes of this section, no account shall be taken of resident full‑time students occupying non‑collegiate accommodation.
+amounts of moneys paid to a college of advanced education for the purpose
 
-             (9)  In this section:
+referred to in paragraph&#160;(1)(a) is granted on the conditions:
 
-                    <a name="full-time-student"></a>**_full‑time student_** means a student who is pursuing, at a college of advanced education or at a University, a course of study that the Commission is satisfied is such as would reasonably require full‑time study.
+</dd> </dl></dl>
 
-                    <a name="resid-full-time-student"></a>**_resident full‑time student_**, in relation to a student residence or affiliated college, means a full‑time student who:
+	(a)	that the State will cause to be furnished to the Commission, not later than 30&#160;September 1977, a statement in writing signed by the Auditor-General of the State, or by a qualified accountant, to the effect that he has satisfied himself that an amount equal to the relevant financial assistance was applied in expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976, otherwise than out of moneys paid to the college from financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+ 	(b)	that the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
 
-                     (a)  is a resident of the student residence or affiliated college; and
+<dl compact=""><dl compact="">
 
-                     (b)  in the case of a student of a college of advanced education‑is pursuing a course of study approved by the Commission under section 5.
+<dt>(3)</dt><dd>The financial assistance to a State constituted by a payment or payments
 
-                    <a name="term"></a>**_term_** includes a semester and any other period into which an academic year is divided.
+of moneys under subsection&#160;(1) (in this subsection referred to as the
 
-                    <a name="univers"></a>**_University_** has the same meaning as in the _States Grants (Universities) Act 1972‑1976_.
+_relevant financial assistance_) in relation to an amount or
 
-##### <a id="10"></a>10  Reimbursement of moneys expended by States before commencing day on recurrent expenditure of student residence and affiliated colleges
+amounts of moneys applied by the State for the purpose referred to in
 
-             (1)  Where the State Education Minister for a State requests the Commonwealth Education Minister to authorize the reimbursement to the State of an amount of moneys which, during the relevant period:
+paragraph&#160;(1)(b) in relation to a college of advanced education is granted
 
-                     (a)  had been paid by the State to a college of advanced education for the purpose of meeting administrative costs of a student residence, or of student residences, of the college in respect of the year 1976; or
+on the conditions:
 
-                     (b)  had been paid by the State to the body administering an affiliated college of a college of advanced education for the purpose of meeting administrative costs of the affiliated college in respect of the year 1976;
+</dd> </dl></dl>
 
-otherwise than out of financial assistance granted to the State under any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education, the Commonwealth Education Minister may, subject to section 11, authorize the payment to the State under this subsection, by way of financial assistance to the State, of such amount as the Commonwealth Education Minister determines, being an amount that does not exceed the amount referred to in the request.
+<center>Back to Top</center>
 
-             (2)  The financial assistance to a State constituted by a payment or payments of moneys under subsection (1) (in this subsection referred to as the **_relevant financial assistance_**) in relation to a student residence, or student residences, of a college of advanced education, or in relation to an affiliated college of a college of advanced education, is granted on the condition that the State will cause to be furnished to the Commission, not later than 30 September 1977, a statement in writing signed by the Auditor‑General of the State or by a qualified accountant to the effect that he or she has satisfied himself or herself that an amount equal to the relevant financial assistance was applied for meeting administrative costs of the student residence or student residences, or of the affiliated college, as the case may be, in respect of the year 1976, otherwise than out of moneys paid to the college of advanced education, or to the body administering the affiliated college, as the case may be, from financial assistance granted to the States under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education.
+	(a)	that the State will cause to be furnished to the Commission, not later than 30&#160;September 1977, a statement in writing signed by the Auditor-General of the State, or by a qualified accountant, to the effect that he has satisfied himself that an amount equal to the relevant financial assistance was, during the relevant period, applied in expenditure by way of recurrent expenditure of the college for college purposes in respect of the year 1976 otherwise than out of financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+ 	(b)	that the State will ensure that no college of advanced education situated in the State charges fees in respect of the year 1976 or any part of that year.
 
-             (3)  For the purposes of this section:
+<dl compact=""><dl compact="">
 
-                     (a)  moneys applied during the relevant period for meeting administrative costs of a hall, college or other establishment at which any students of a college of advanced education reside, being an establishment administered by:
+<dt>(4)</dt><dd>For the purposes of this section, an amount that was expended during the
 
-                              (i)  the college or the body administering the college; or
+relevant period by way of recurrent expenditure of a college of advanced
 
-                             (ii)  a body established by the college or by the body administering the college;
+education in respect of the year 1976 shall be deemed to have been expended for
 
-                            shall be taken to have been applied for meeting the administrative costs of a student residence of the college if the establishment was, after the commencing day, approved by the Commission, for the purpose of this Act, as a student residence; and
+college purposes if it was expended:
 
-                     (b)  moneys applied during the relevant period for meeting administrative costs of a residential college, not being a hall, college or other establishment referred to in paragraph (a), affiliated with a college of advanced education shall be taken to have been applied for meeting the administrative costs of an affiliated college if the residential college was, after the commencing day, approved by the Commission, for the purposes of this Act, as an affiliated college.
+</dd> </dl></dl>
 
-##### <a id="11"></a>11  Limits on payments under sections 9 and 10
+	(a)	for the general teaching purposes of the college in connexion with courses of study of the college, being courses of study that were, after the commencing day, approved by the Commission under section&#160;5;
+ 	(b)	for tuition for any such courses of study; or
+ 	(c)	for planning and other preparatory work in connexion with proposed courses of study, being proposed courses of study that were so approved by the Commission. 
 
-                   Payments shall not be made to a State under sections 9 and 10, in relation to a student residence, or student residences, of a college of advanced education, or in relation to an affiliated college of a college of advanced education, that exceed, in the aggregate, the sum of the amounts that, but for this section, would be authorized to be paid to the State under section 9 in relation to the student residence or student residences, or to the affiliated college, of that college of advanced education.
+**
 
-##### <a id="12"></a>12  Grants for capital expenditure on college building projects, etc
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 8  Limits on payments under sections&#160;6 and 7 
+**
 
-             (1)  Subject to this section and to section 14, in relation to each college of advanced education specified in column 1 of Part I of Schedule 2, there is payable to the State in which the college is situated, for the purpose of financial assistance in relation to a work or other matter specified in column 2 of that Part of that Schedule, such amount (if any) as the Commission approves, but not exceeding:
+ <dl compact=""><dl compact="">
 
-                     (a)  if a determination is in force under subsection (2) specifying an amount to be the maximum amount payable under this section to the State in respect of the work or matter—the amount so specified; or
+		Payments shall not be made to a State under sections&#160;6 and 7, in
 
-                     (b)  in any other case‑the amount specified in column 3 of that Part of that Schedule opposite to the description of the work or matter in column 2.
+relation to a college of advanced education, that exceed, in the aggregate, the
 
-             (2)  If a State requests that the maximum amount payable under this section to the State in respect of a work or other matter specified in respect of a college of advanced education in column 2 of Part I of Schedule 2 be increased or reduced:
+sum of the amounts that, but for this section, would be authorised to be paid
 
-                     (a)  the Minister may, in his or her discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the amount specified in column 3 of Part I of that Schedule opposite to the description of the work or matter in column 2 is to be the maximum amount payable to the State in respect to the work or matter; or
+to the State under section&#160;6 in relation to that college.
 
-                     (b)  if there is no determination by the Minister in force under paragraph (a) in respect of the work or matter, the Commission may, in its discretion, determine that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the amount specified in column 3 of that Part of that Schedule opposite to the description of the work or matter in column 2, is to be the maximum amount payable to the State in respect of the work or matter.
+ </dl></dl>
 
-             (3)  If, after the Commission has made a determination under paragraph (2)(b) in relation to a work or matter, the Minister makes a determination under paragraph (2)(a) in relation to the work or matter, the determination of the Commission ceases to have effect.
+**
 
-             (4)  Subject to subsection (5), where the Minister approves a work or other matter in respect of a college of advanced education under subsection 4(1), there is payable to the State in which the college is situated, for the purpose of financial assistance in relation to the work or other matter, such amounts (if any) as the Commission approves, but not exceeding the amount approved by the Minister under that subsection as the estimated cost of that work or other matter.
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 9  Recurrent grants in respect of student residences and affiliated colleges 
+**
 
-             (5)  The sum of the amounts payable to a State under subsection (4) shall not exceed:
+<dl compact=""><dl compact="">
 
-                     (a)  if a determination is in force under subsection (6) specifying an amount to be the maximum amount payable under subsection (4) to the State in respect of works and other matters referred to in that subsection‑the amount so specified; or
+<dt>(1)</dt><dd>Subject to section&#160;11, there is payable to each State, in respect of
 
-                     (b)  in any other case—the amount specified in column 2 of Part II of Schedule 2 in relation to the State.
+the year 1976, for the purpose of financial assistance in relation to student
 
-             (6)  At the request of a State:
+residences and affiliated colleges of colleges of advanced education in the
 
-                     (a)  the Minister may, in his or her discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the amount specified in relation to the State in column 2 of Part II of Schedule 2, is to be the maximum amount payable under subsection (4) to the State in respect of works or other matters referred to in that subsection; or
+State, amounts determined in accordance with this section.</dd> <dt>(2)</dt><dd>In relation to each college of advanced education providing collegiate accommodation at a student residence or at student residences, there is payable to the State in which the college is situated an amount equal to the sum of the amount of $8,083 and the amount ascertained by multiplying $127.02 by the number of resident full-time students at that student residence, or at those student residences, as the case may be, in the year 1976.</dd> <dt>(3)</dt><dd>In relation to each affiliated college, there is payable to a State under this section, an amount ascertained by multiplying the basic grant in relation to the college by the number of resident full-time students of the college in the year 1976.</dd> <dt>(4)</dt><dd>For the purpose of subsection&#160;(3), the basic grant in relation to an affiliated college is: </dd> </dl></dl>
 
-                     (b)  if there is no determination by the Minister in force under paragraph (a) in respect of a State, the Commission may, in its discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the amount specified in relation to the State in column 2 of Part II of Schedule 2 is to be the maximum amount payable under subsection (4) to the State in respect of works or matters referred to in that subsection.
+	(a)	if the number of resident full-time students of the college in the year 1976 is not more than 50&#151;$288.68;
+ 	(b)	if the number of resident full-time students of the college in the year 1976 is more than 50 but not more than 75&#151;$288.68 reduced by $2.31 for each student by which that number of students exceeds 50;
+ 	(c)	if the number of resident full-time students of the college in the year 1976 is more than 75 and not more than 100&#151;$230.94 reduced by $0.92 for each student by which that number of students exceeds 75; and
+ 	(d)	if the number of resident full-time students of the college in 1976 is more than 100&#151;$207.85 reduced by $0.18 for each student for which that number of students exceeds 100.
 
-             (7)  If, after the Commission has made a determination under paragraph (6)(b) in respect of a State, the Minister makes a determination under paragraph (6)(a) in respect of the State, the determination of the Commission ceases to have effect.
+<dl compact=""><dl compact="">
 
-             (8)  The sum of the amounts payable to a State under subsections (1) and (4) in relation to colleges of advanced education situated in the State shall not exceed the amount specified, in relation to the State, in column 2 of Part III of Schedule 2.
+<dt>(5)</dt><dd>Where a student residence or affiliated college, or a part of such a
 
-             (9)  The financial assistance to a State under subsection (1) or (4) in respect of an approved project is granted on the condition that the State will, in respect of each payment of that financial assistance and without undue delay, ensure that the amount of the payment is applied towards the approved project in a manner approved by the Commission.
+residence or college, was not in use during the whole of the academic year
 
-           (10)  As soon as practicable after the Commission has made a determination under subsection (2) or (6), the Commission shall furnish to the Minister particulars of the determination.
+comprised in the year 1976, the Commission may determine that an amount payable
 
-           (11)  As soon as practicable after the Minister has made a determination under subsection (2) or (6), or has been furnished under subsection (10) with particulars of a determination made by the Commission under subsection (2) or (6), the Minister shall cause a statement setting out particulars of the determination to be laid before each House of the Parliament.
+under this section in respect of that year in relation to that residence or
 
-##### <a id="12A"></a>12A  Termination of payments under section 12
+college shall be such part only of the amount that would otherwise be payable
 
-                   Notwithstanding any other provision of this Act, section 12 does not authorize any payment to a State by way of financial assistance to the State after 31 December 1977.
+as the Commission thinks appropriate.</dd> <dt>(6)</dt><dd>The financial assistance to a State by way of a payment of an amount under this section in relation to a student residence or affiliated college of a college of advanced education is granted on the conditions that: </dd> </dl></dl>
 
-##### <a id="13"></a>13  Reimbursement of moneys expended by States before commencing day on college building projects
+<center>Back to Top</center>
 
-             (1)  Where the State Education Minister for a State requests the Commonwealth Education Minister to authorize the reimbursement to the State of an amount of moneys which, during the relevant period, has been paid by the State to a college of advanced education for the purpose of being applied towards a work or matter specified, in relation to the college, in column 2 of Part I of Schedule 2 in a manner approved by the Commission, otherwise than out of financial assistance granted to the State under any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education, the Commonwealth Education Minister may, subject to section 14, authorize the payment to the State, under this subsection, by way of financial assistance to the State, of such amount as the Commonwealth Education Minister determines, being an amount that does not exceed the amount referred to in the request.
+	(a)	in the case of the payment of an amount in relation to a student residence or student residences&#151;the State will ensure that the amount is applied for meeting administrative costs of the student residence, or of those student residences, in respect of the year 1976; or
+ 	(b)	in the case of a payment of an amount in relation to an affiliated college:
+ 	(i)	the State will, without undue delay, pay that amount to the body administering the affiliated college; and
+ 	(ii)	the State will ensure the amount so paid by the State is applied for meeting administrative costs of the affiliated college in respect of the year 1976.
 
-             (2)  The financial assistance to a State constituted by a payment or payments of moneys under subsection (1) (in this subsection referred to as the **_relevant financial assistance_**) in relation to a work or matter specified, in relation to a college of advanced education, in column 2 of Part I of Schedule 2 is granted on the conditions:
+<dl compact=""><dl compact="">
 
-                     (a)  that the State will cause to be furnished to the Commission, not later than 30 September 1977, a statement in writing signed by the Auditor‑General of the State, or by a qualified accountant, to the effect that he or she has satisfied himself or herself that an amount equal to the relevant financial assistance was applied towards the work or matter in a manner approved, whether before, on or after the commencing day, by the Commission, otherwise than out of moneys paid to the college from financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+<dt>(7)</dt><dd>For the purposes of this section, the number of resident full-time
 
-                     (b)  that the work or matter is carried out in accordance with particulars of the work or matter that become, after the commencing day, approved by the Commission under section 5.
+students of a student residence or affiliated college in the year 1976 is the
 
-##### <a id="14"></a>14  Limits on payments under sections 12 and 13
+number that is the average of the maximum numbers of such students during the
 
-                   Payments shall not be made to a State under sections 12 and 13, in relation to a work or matter specified, in relation to a college of advanced education, in column 2 of Part I of Schedule 2 that exceed, in the aggregate, the sum of the amounts that, but for this section, would be authorized to be paid to the State under section 12 in relation to that work or matter.
+several terms of that year.</dd> <dt>(8)</dt><dd>This section does not apply in relation to a student residence or affiliated college that does not provide collegiate accommodation, and, for the purposes of this section, no account shall be taken of resident full-time students occupying non-collegiate accommodation.</dd> <dt>(9)</dt><dd>In this section: </dd> </dl></dl>
 
-##### <a id="15"></a>15  Additional conditions
+<def><dl compact=""><dl compact="">
 
-                   In addition to conditions specified in any other provision of this Act, an amount of financial assistance to a State under this Act is granted on the conditions that:
+_full-time student_ means a student who is pursuing, at a college
 
-                     (a)  if the Minister informs the Treasurer of the State that he or she is satisfied that the State has failed to fulfil the conditions applicable to that amount, the State will repay that amount, or such part of that amount as the Minister specifies, to the Commonwealth;
+of advanced education or at a University, a course of study that the Commission
 
-                     (b)  if that amount exceeds the amount properly payable, the State will repay the excess to the Commonwealth;
+is satisfied is such as would reasonably require full-time study. _resident full-time student_, in relation to a student residence or affiliated college, means a full-time student who:  </dl></dl>
 
-                     (c)  in the case of an amount of financial assistance that is paid to a State in respect of an approved project under section 12—the work or other matter constituting the project will be carried out in accordance with particulars of that work or matter approved under section 5; and
+	(a)	is a resident of the student residence or affiliated college; and
+ 	(b)	in the case of a student of a college of advanced education-is pursuing a course of study approved by the Commission under section&#160;5.
 
-                     (d)  in the case of an amount of financial assistance that is paid by the State to a body, being a college of advanced education or a body administering a college of advanced education, a student residence or an affiliated college—the State will ensure that that body furnishes to the Commission, not later than 9 months after the end of the year in which the payment is made by the State, a statement in writing signed by the Auditor‑General of the State or by a qualified accountant to the effect that he or she has satisfied himself or herself that the amount has been applied in accordance with this Act.
+<def><dl compact=""><dl compact="">
 
-##### <a id="16"></a>16  Minister may fix amounts, and times of payments, of financial assistance
+_term_ includes a semester and any other period into which an
 
-                   Financial assistance payable to a State under this Act shall be paid in such amounts, and at such times, as the Minister determines in accordance with arrangements approved by the Minister for Finance.
+academic year is divided. _University_ has the same meaning as in the _States Grants (Universities)Act 1972-1976_.  </dl></dl>
 
-##### <a id="17"></a>17  Progress reports
+**
 
-                   The Commission shall furnish to the Minister, at such times as the Minister requests, such reports as the Minister requires on the progress made and the progress proposed to be made on the carrying out of approved projects or on any other matter relevant to the operation of this Act.
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 10  Reimbursement of moneys expended by States before commencing day on recurrent expenditure of student residence and affiliated colleges 
+**
 
-##### <a id="18"></a>18  Delegation by the Minister
+<dl compact=""><dl compact="">
 
-             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to the Commission or to a full‑time member of the Commission any of his or her powers under this Act, other than this power of delegation.
+<dt>(1)</dt><dd>Where the State Education Minister for a State requests the Commonwealth
 
-             (2)  A power so delegated and exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
+Education Minister to authorize the reimbursement to the State of an amount of
 
-             (3)  A delegation under this section does not prevent the exercise of a power by the Minister.
+moneys which, during the relevant period:
 
-##### <a id="19"></a>19  Payments may be made out of Consolidated Revenue Fund or Loan Fund
+</dd> </dl></dl>
 
-                   Payments to a State under this Act may be made out of:
+	(a)	had been paid by the State to a college of advanced education for the purpose of meeting administrative costs of a student residence, or of student residences, of the college in respect of the year 1976; or
+ 	(b)	had been paid by the State to the body administering an affiliated college of a college of advanced education for the purpose of meeting administrative costs of the affiliated college in respect of the year 1976;
 
-                     (a)  in the case of payments in accordance with section 12 or 13—the Consolidated Revenue Fund or the Loan Fund; or
+otherwise than out of financial assistance granted to the State under any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education, the Commonwealth Education Minister may, subject to section&#160;11, authorize the payment to the State under this subsection, by way of financial assistance to the State, of such amount as the Commonwealth Education Minister determines, being an amount that does not exceed the amount referred to in the request.
 
-                     (b)  in any other case—the Consolidated Revenue Fund.
+<dl compact=""><dl compact="">
 
-##### <a id="20"></a>20  Authority to borrow
+<dt>(2)</dt><dd>The financial assistance to a State constituted by a payment or payments
 
-                   The Treasurer may, from time to time, in accordance with the provisions of the _Commonwealth Inscribed Stock Act 1911‑1973_, or in accordance with the provisions of an Act authorizing the issue of Treasury Bills, borrow moneys not exceeding in the aggregate the sum of the amounts payable to the States in accordance with sections 12 and 13.
+of moneys under subsection&#160;(1) (in this subsection referred to as the
 
-##### <a id="21"></a>21  Application of moneys borrowed
+_relevant financial assistance_) in relation to a student
 
-                   Moneys borrowed under section 20 shall be issued and applied only for the expenses of borrowing, for the purpose of making payments to the States in accordance with sections 12 and 13 and for the purpose of making payments to the Consolidated Revenue Fund in accordance with section 22.
+residence, or student residences, of a college of advanced education, or in
 
-##### <a id="22"></a>22  Reimbursement of Consolidated Revenue Fund from Loan Fund
+relation to an affiliated college of a college of advanced education, is
 
-             (1)  Where an amount has been paid out of the Consolidated Revenue Fund in accordance with section 12 or 13, the Minister for Finance may authorize the payment to that Fund, out of the Loan Fund, of an amount not exceeding the amount so paid.
+granted on the condition that the State will cause to be furnished to the
 
-             (2)  In any statement of the receipts and expenditure, or of the expenditure, of the Consolidated Revenue Fund prepared by the Minister for Finance under section 49 or 50 of the _Audit Act 1901‑1975_, amounts paid to the Consolidated Revenue Fund under subsection (1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund under this Act.
+Commission, not later than 30&#160;September 1977, a statement in writing
 
-##### <a id="23"></a>23  Appropriation
+signed by the Auditor-General of the State or by a qualified accountant to the
 
-                   The Consolidated Revenue Fund and the Loan Fund are appropriated as necessary for the purposes of this Act.
+effect that he has satisfied himself that an amount equal to the relevant
 
-# Schedule 1  
+financial assistance was applied for meeting administrative costs of the
 
-_Section 6_
+student residence or student residences, or of the affiliated college, as the
 
-## Part I—Grants for recurrent expenditure in respect of 1976 by specified colleges
+case may be, in respect of the year 1976, otherwise than out of moneys paid to
 
-<table>
-<colgroup>
-  <col width="73%">
-  <col width="27%">
-  <col width="0%">
-</colgroup>
+the college of advanced education, or to the body administering the affiliated
 
-<thead>
-  <tr>
-    <td>
-      <div>Column 1
+college, as the case may be, from financial assistance granted to the States
 
+under this Act or any other Act providing for the granting of financial
+
+assistance to the States in relation to colleges of advanced education.</dd> <dt>(3)</dt><dd>For the purposes of this section: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	moneys applied during the relevant period for meeting administrative costs of a hall, college or other establishment at which any students of a college of advanced education reside, being an establishment administered by:
+ 	(i)	the college or the body administering the college; or
+ 	(ii)	a body established by the college or by the body administering the college;
+ 		shall be taken to have been applied for meeting the administrative costs of a student residence of the college if the establishment was, after the commencing day, approved by the Commission, for the purpose of this Act, as a student residence; and
+ 	(b)	moneys applied during the relevant period for meeting administrative costs of a residential college, not being a hall, college or other establishment referred to in paragraph&#160;(a), affiliated with a college of advanced education shall be taken to have been applied for meeting the administrative costs of an affiliated college if the residential college was, after the commencing day, approved by the Commission, for the purposes of this Act, as an affiliated college. 
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 11  Limits on payments under sections&#160;9 and 10 
+**
+
+ <dl compact=""><dl compact="">
+
+		Payments shall not be made to a State under sections&#160;9 and 10, in
+
+relation to a student residence, or student residences, of a college of
+
+advanced education, or in relation to an affiliated college of a college of
+
+advanced education, that exceed, in the aggregate, the sum of the amounts that,
+
+but for this section, would be authorized to be paid to the State under
+
+section&#160;9 in relation to the student residence or student residences, or
+
+to the affiliated college, of that college of advanced education.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 12  Grants for capital expenditure on college building projects, etc 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section and to section&#160;14, in relation to each
+
+college of advanced education specified in column 1 of Part&#160;I of
+
+Schedule&#160;2, there is payable to the State in which the college is
+
+situated, for the purpose of financial assistance in relation to a work or
+
+other matter specified in column 2 of that Part of that Schedule, such amount
+
+(if any) as the Commission approves, but not exceeding:
+
+</dd> </dl></dl>
+
+	(a)	if a determination is in force under subsection&#160;(2) specifying an amount to be the maximum amount payable under this section to the State in respect of the work or matter&#151;the amount so specified; or
+ 	(b)	in any other case-the amount specified in column 3 of that Part of that Schedule opposite to the description of the work or matter in column 2.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If a State requests that the maximum amount payable under this section to
+
+the State in respect of a work or other matter specified in respect of a
+
+college of advanced education in column 2 of Part&#160;I of Schedule&#160;2 be
+
+increased or reduced:
+
+</dd> </dl></dl>
+
+	(a)	the Minister may, in his discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the amount specified in column 3 of Part&#160;I of that Schedule opposite to the description of the work or matter in column 2 is to be the maximum amount payable to the State in respect to the work or matter; or
+ 	(b)	if there is no determination by the Minister in force under paragraph&#160;(a) in respect of the work or matter, the Commission may, in its discretion, determine that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the amount specified in column 3 of that Part of that Schedule opposite to the description of the work or matter in column 2, is to be the maximum amount payable to the State in respect of the work or matter.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If, after the Commission has made a determination under
+
+paragraph&#160;(2)(b) in relation to a work or matter, the Minister makes a
+
+determination under paragraph&#160;(2)(a) in relation to the work or matter,
+
+the determination of the Commission ceases to have effect.</dd> <dt>(4)</dt><dd>Subject to subsection&#160;(5), where the Minister approves a work or other matter in respect of a college of advanced education under subsection 4(1), there is payable to the State in which the college is situated, for the purpose of financial assistance in relation to the work or other matter, such amounts (if any) as the Commission approves, but not exceeding the amount approved by the Minister under that subsection as the estimated cost of that work or other matter.</dd> <dt>(5)</dt><dd>The sum of the amounts payable to a State under subsection&#160;(4) shall not exceed: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	if a determination is in force under subsection&#160;(6) specifying an amount to be the maximum amount payable under subsection&#160;(4) to the State in respect of works and other matters referred to in that subsection-the amount so specified; or
+ 	(b)	in any other case&#151;the amount specified in column 2 of Part&#160;II of Schedule&#160;2 in relation to the State.
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>At the request of a State:
+
+</dd> </dl></dl>
+
+	(a)	the Minister may, in his discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less than the amount specified in relation to the State in column 2 of Part&#160;II of Schedule&#160;2, is to be the maximum amount payable under subsection&#160;(4) to the State in respect of works or other matters referred to in that subsection; or
+ 	(b)	if there is no determination by the Minister in force under paragraph&#160;(a) in respect of a State, the Commission may, in its discretion, determine, in writing, that an amount specified in the determination, being an amount that is greater or less by not more than $200,000 than the amount specified in relation to the State in column 2 of Part&#160;II of Schedule&#160;2 is to be the maximum amount payable under subsection&#160;(4) to the State in respect of works or matters referred to in that subsection.
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>If, after the Commission has made a determination under
+
+paragraph&#160;(6)(b) in respect of a State, the Minister makes a determination
+
+under paragraph&#160;(6)(a) in respect of the State, the determination of the
+
+Commission ceases to have effect.</dd> <dt>(8)</dt><dd>The sum of the amounts payable to a State under subsections&#160;(1) and <dt>(4)</dt><dd>in relation to colleges of advanced education situated in the State shall not exceed the amount specified, in relation to the State, in column 2 of Part&#160;III of Schedule&#160;2.</dd></dd> <dt>(9)</dt><dd>The financial assistance to a State under subsection&#160;(1) or (4) in respect of an approved project is granted on the condition that the State will, in respect of each payment of that financial assistance and without undue delay, ensure that the amount of the payment is applied towards the approved project in a manner approved by the Commission.</dd> <dt>(10)</dt><dd>As soon as practicable after the Commission has made a determination under subsection&#160;(2) or (6), the Commission shall furnish to the Minister particulars of the determination.</dd> <dt>(11)</dt><dd>As soon as practicable after the Minister has made a determination under subsection&#160;(2) or (6), or has been furnished under subsection&#160;(10) with particulars of a determination made by the Commission under subsection&#160;(2) or (6), the Minister shall cause a statement setting out particulars of the determination to be laid before each House of the Parliament. </dd> </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 12A  Termination of payments under section 12 
+**
+
+ <dl compact=""><dl compact="">
+
+		Notwithstanding any other provision of this Act, section 12 does not
+
+authorize any payment to a State by way of financial assistance to the State
+
+after 31 December 1977.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 13  Reimbursement of moneys expended by States before commencing day on college building projects 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Where the State Education Minister for a State requests the Commonwealth
+
+Education Minister to authorize the reimbursement to the State of an amount of
+
+moneys which, during the relevant period, has been paid by the State to a
+
+college of advanced education for the purpose of being applied towards a work
+
+or matter specified, in relation to the college, in column 2 of Part&#160;I of
+
+Schedule&#160;2 in a manner approved by the Commission, otherwise than out of
+
+financial assistance granted to the State under any other Act providing for the
+
+granting of financial assistance to the States in relation to colleges of
+
+advanced education, the Commonwealth Education Minister may, subject to
+
+section&#160;14, authorize the payment to the State, under this subsection, by
+
+way of financial assistance to the State, of such amount as the Commonwealth
+
+Education Minister determines, being an amount that does not exceed the amount
+
+referred to in the request.</dd> <dt>(2)</dt><dd>The financial assistance to a State constituted by a payment or payments of moneys under subsection&#160;(1) (in this subsection referred to as the _relevant financial assistance_) in relation to a work or matter specified, in relation to a college of advanced education, in column 2 of Part&#160;I of Schedule&#160;2 is granted on the conditions: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	that the State will cause to be furnished to the Commission, not later than 30&#160;September 1977, a statement in writing signed by the Auditor-General of the State, or by a qualified accountant, to the effect that he has satisfied himself that an amount equal to the relevant financial assistance was applied towards the work or matter in a manner approved, whether before, on or after the commencing day, by the Commission, otherwise than out of moneys paid to the college from financial assistance granted to the State under this Act or any other Act providing for the granting of financial assistance to the States in relation to colleges of advanced education; and
+ 	(b)	that the work or matter is carried out in accordance with particulars of the work or matter that become, after the commencing day, approved by the Commission under section&#160;5\. 
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 14  Limits on payments under sections&#160;12 and 13 
+**
+
+ <dl compact=""><dl compact="">
+
+		Payments shall not be made to a State under sections&#160;12 and 13, in
+
+relation to a work or matter specified, in relation to a college of advanced
+
+education, in column 2 of Part&#160;I of Schedule&#160;2 that exceed, in the
+
+aggregate, the sum of the amounts that, but for this section, would be
+
+authorized to be paid to the State under section&#160;12 in relation to that
+
+work or matter.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 15  Additional conditions 
+**
+
+ <dl compact=""><dl compact="">
+
+		In addition to conditions specified in any other provision of this Act, an
+
+amount of financial assistance to a State under this Act is granted on the
+
+conditions that:
+
+ </dl></dl>
+
+	(a)	if the Minister informs the Treasurer of the State that he is satisfied that the State has failed to fulfil the conditions applicable to that amount, the State will repay that amount, or such part of that amount as the Minister specifies, to the Commonwealth;
+ 	(b)	if that amount exceeds the amount properly payable, the State will repay the excess to the Commonwealth;
+ 	(c)	in the case of an amount of financial assistance that is paid to a State in respect of an approved project under section&#160;12&#151;the work or other matter constituting the project will be carried out in accordance with particulars of that work or matter approved under section&#160;5; and
+ 	(d)	in the case of an amount of financial assistance that is paid by the State to a body, being a college of advanced education or a body administering a college of advanced education, a student residence or an affiliated college&#151;the State will ensure that that body furnishes to the Commission, not later than 9 months after the end of the year in which the payment is made by the State, a statement in writing signed by the Auditor-General of the State or by a qualified accountant to the effect that he has satisfied himself that the amount has been applied in accordance with this Act. 
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 16  Minister may fix amounts, and times of payments, of financial assistance 
+**
+
+<dl compact=""><dl compact="">
+
+		Financial assistance payable to a State under this Act shall be paid in such
+
+amounts, and at such times, as the Minister determines in accordance with
+
+arrangements approved by the Minister for Finance.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 17  Progress reports 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Commission shall furnish to the Minister, at such times as the Minister
+
+requests, such reports as the Minister requires on the progress made and the
+
+progress proposed to be made on the carrying out of approved projects or on any
+
+other matter relevant to the operation of this Act.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 18  Delegation by the Minister 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, either generally or as otherwise provided by the
+
+instrument of delegation, by writing signed by him, delegate to the Commission
+
+or to a full-time member of the Commission any of his powers under this Act,
+
+other than this power of delegation.</dd> <dt>(2)</dt><dd>A power so delegated and exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.</dd> <dt>(3)</dt><dd>A delegation under this section does not prevent the exercise of a power by the Minister. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 19  Payments may be made out of Consolidated Revenue Fund or Loan Fund 
+**
+
+<dl compact=""><dl compact="">
+
+		Payments to a State under this Act may be made out of:
+
+ </dl></dl>
+
+	(a)	in the case of payments in accordance with section&#160;12 or 13&#151;the Consolidated Revenue Fund or the Loan Fund; or
+ 	(b)	in any other case&#151;the Consolidated Revenue Fund. 
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 20  Authority to borrow 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Treasurer may, from time to time, in accordance with the provisions of
+
+the _Commonwealth Inscribed Stock Act 1911-1973_, or in accordance with
+
+the provisions of an Act authorizing the issue of Treasury Bills, borrow moneys
+
+not exceeding in the aggregate the sum of the amounts payable to the States in
+
+accordance with sections&#160;12 and 13.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 21  Application of moneys borrowed 
+**
+
+ <dl compact=""><dl compact="">
+
+		Moneys borrowed under section&#160;20 shall be issued and applied only for
+
+the expenses of borrowing, for the purpose of making payments to the States in
+
+accordance with sections&#160;12 and 13 and for the purpose of making payments
+
+to the Consolidated Revenue Fund in accordance with section&#160;22.
+
+ </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 22  Reimbursement of Consolidated Revenue Fund from Loan Fund 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Where an amount has been paid out of the Consolidated Revenue Fund in
+
+accordance with section&#160;12 or 13, the Minister for Finance may authorize
+
+the payment to that Fund, out of the Loan Fund, of an amount not exceeding the
+
+amount so paid.</dd> <dt>(2)</dt><dd>In any statement of the receipts and expenditure, or of the expenditure, of the Consolidated Revenue Fund prepared by the Minister for Finance under section&#160;49 or 50 of the _Audit Act 1901-1975_, amounts paid to the Consolidated Revenue Fund under subsection&#160;(1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund under this Act. </dd> </dl></dl>
+
+**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976- SECT 23  Appropriation 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Consolidated Revenue Fund and the Loan Fund are appropriated as necessary
+
+for the purposes of this Act.
+
+ </dl></dl>
+
+<center>**
+
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976Schedule&#160;1   
+**</center>
+
+ Section&#160;6 
+
+Part&#160;I&#151;Grants for recurrent expenditure in respect of 1976 by specified colleges
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Column 1 
 College of Advanced Education</div>
-    </td>
-    <td colspan="2">
-      <div>Column 2
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 2 
 Grant for 1976</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> </div>
-    </td>
-    <td colspan="2">
-      <div>$</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+    <div>$</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>New South Wales:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Alexander Mackie College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,117,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Armidale College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,256,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Catholic College of Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>771,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Catholic Teachers College, North Sydney</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,481,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Cumberland College of Health Sciences</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,285,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Department of Technical and Further Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,752,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Good Samaritan Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>423,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Goulburn College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,473,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Hawkesbury Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,265,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Kuring‑gai College of Advanced Education</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Kuring-gai College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,956,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Mitchell College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,797,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Nepean College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,922,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>New South Wales Higher Education Board</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>761,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>New South Wales State Conservatorium of Music</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,319,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Newcastle College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,456,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Northern Rivers College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,918,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Nursery School Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>607,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Orange Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>893,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Riverina College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6,068,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney College of the Arts</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,411,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney Kindergarten Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>873,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7,049,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Guild Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>955,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Milperra College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,201,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The New South Wales Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>13,085,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Wollongong Institute of Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,747,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Total</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>76,841,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Victoria:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ballarat College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,086,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Bendigo College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,704,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Burnley Horticultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>217,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Caulfield Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9,065,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>College of Nursing, Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>821,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Dookie Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>474,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Emily McPherson College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,017,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Footscray Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,900,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Gippsland Institute of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,259,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Gordon Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,335,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Lincoln Institute</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,569,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Longerenong Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>236,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Prahran College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,570,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Preston Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,989,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Royal Melbourne Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22,268,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>452,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Burwood</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,497,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Coburg</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,042,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Frankston</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,025,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Geelong</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,080,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Hawthorn</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,766,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>State College of Victoria—Institute of Catholic Education:</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria&#151;Institute of Catholic Education:</div>
+
   </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Christ College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,424,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Mercy College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,053,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>State College of Victoria—Institute of Early Childhood Development ................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria&#151;Institute of Early Childhood Development</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
-
 1,753,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Melbourne</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11,627,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Rusden</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,997,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Toorak</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,403,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Swinburne College of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>10,695,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Victorian College of the Arts</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>769,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Victorian School of Forestry, Creswick</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>187,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Victoria Institute of Colleges</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>915,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Victorian College of Pharmacy</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,578,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Warrnambool Institute of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,090,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total ......................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>124,863,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Queensland:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Board of Advanced Education.....................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Board of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>365,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Brisbane Kindergarten Teachers College.....................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Brisbane Kindergarten Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,060,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Capricornia Institute of Advanced Education...........................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Capricornia Institute of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,815,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Darling Downs Institute of Advanced Education......................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Darling Downs Institute of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,375,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Kelvin Grove College of Advanced Education...........................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Kelvin Grove College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,023,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Mount Gravatt College of Advanced Education.......................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Mount Gravatt College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,257,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>North Brisbane College of Advanced Education.......................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>North Brisbane College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,040,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland Agricultural College...................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,234,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland Conservatorium of Music........................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Conservatorium of Music</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>675,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland Institute of Technology............................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11,230,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Townsville College of Advanced Education...............................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Townsville College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,620,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total ......................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>39,694,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>South Australia:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Adelaide College of Advanced Education..................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Adelaide College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>3,322,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Kingston College of Advanced Education..................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Kingston College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>887,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Murray Park College of Advanced Education...........................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Murray Park College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>3,218,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Roseworthy Agricultural College...................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Roseworthy Agricultural College</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>1,439,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Salisbury College of Advanced Education..................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Salisbury College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>3,023,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australian Board of Advanced Education......................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australian Board of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>357,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australian Institute of Technology...................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australian Institute of Technology</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>11,573,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Sturt College of Advanced Education..........................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Sturt College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>3,048,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Torrens College of Advanced Education.....................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Torrens College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>5,572,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total ......................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>32,439,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Western Australia:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Churchlands Teachers College......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Churchlands Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,521,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Claremont Teachers College..........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Claremont Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,353,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Graylands Teachers College...........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Graylands Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,423,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Mount Lawley Teachers College...................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Mount Lawley Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,328,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australian Institute of Technology...............................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australian Institute of Technology</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>26,564,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australian Secondary Teachers College.......................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australian Secondary Teachers College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,638,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australian Teacher Education Authority.....................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australian Teacher Education Authority</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>214,000</div>
-  </td>
-  <td>
-    <div></div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total ......................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>41,041,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Tasmania:</div>
+
   </td>
-  <td colspan="2">
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmanian College of Advanced Education..............................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmanian College of Advanced Education</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>7,506,000</div>
+
   </td>
 </tr></table>
 
-## Part II—Grants for recurrent expenditure in respect of 1976 by all or any colleges
+<center>Back to Top</center>
 
-<u> </u>
+Part&#160;II&#151;Grants for recurrent expenditure in respect of 1976 by all or any colleges
 
-<table>
-<colgroup>
-  <col width="80%">
-  <col width="20%">
-</colgroup>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Colleges in</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Colleges in</div>
-    </td>
-    <td>
-      <div>Amount of grant</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div>$</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>New South Wales.............................................................................................</div>
+  </th>
+  <th colspan="1" align="left">
+    <div>Amount of grant</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+    <div>$</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>221,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria..............................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>846,000</div>
+
   </td>
 </tr></table>
 
- 
+<center>**
 
-# Schedule 2  
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976Schedule&#160;2   
+**</center>
 
-_Section 12_
+ Section&#160;12 
 
-## Part I—Grants for approved projects—1976
+Part&#160;I&#151;Grants for approved projects&#151;1976
 
-<u> </u>
-
-<table>
-<colgroup>
-  <col width="41%">
-  <col width="42%">
-  <col width="18%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Column 1
-
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Column 1 
 College of Advanced Education</div>
-    </td>
-    <td>
-      <div>Column 2
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 2 
 Work or other matter</div>
-    </td>
-    <td>
-      <div>Column 3
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 3 
 Maximum grant</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div>$</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+    <div>$</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>New South Wales:</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Alexander Mackie College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Continuation of teaching and administration buildings—Stage 1.............................................</div>
-    <div>Equipment</div>
-    <div>Other works and services</div>
+  <td colspan="1" align="left">
+    <div>Continuation of teaching and administration buildings&#151;Stage 1</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 1,450,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>30,000</div>
-    <div>200,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>
+200,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>1,680,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Armidale College of Advanced Education</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Renovation of residential accommodation</div>
-    <div>Other works and services.................</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 287,500</div>
-    <div>116,800</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>
+116,800</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>404,300</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Catholic College of Education</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>86,600</div>
+  <td colspan="1" align="left">
+    <div>
+86,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Catholic Teachers College, North Sydney</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>80,000</div>
+  <td colspan="1" align="left">
+    <div>
+80,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Cumberland College of Health Sciences</div>
+
   </td>
-  <td>
-    <div>Continuation of teaching and administration buildings—Stage 1.............................................</div>
-    <div>Teaching and administration buildings—Stages 2 and 3—schematic design
-      stage.................</div>
-    <div>Equipment..........................................</div>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Continuation of teaching and administration buildings&#151;Stage 1</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 2,587,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Teaching and administration buildings&#151;Stages 2 and 3&#151;schematic design stage</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 50,000</div>
-    <div>8,000</div>
-    <div>162,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2,807,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Department of Technical and Further Education</div>
-  </td>
-  <td>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>69,100</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      New South Wales
-      —
-        <i>continued</i>
 
-    </div>
-    <div>Good Samaritan Teachers College</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Equipment..........................................</div>
-    <div>Other works and services.................</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>15,067</div>
-    <div>26,000</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
-    <div>41,067</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Goulburn College of Advanced Education</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-  </td>
-  <td>
-    <div>61,000</div>
+  <td colspan="1" align="left">
+    <div>8,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Hawkesbury Agricultural College</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>66,670</div>
-    <div>80,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>146,670</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Kuring‑gai College of Advanced Education</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-  </td>
-  <td>
-    <div>41,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Mitchell College of Advanced Education</div>
-  </td>
-  <td>
-    <div>Equipment..........................................</div>
-    <div>Site development and other works and services....................................</div>
-  </td>
-  <td>
-    <div>42,000</div>
+  <td colspan="1" align="left">
     <div>
+162,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2,807,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Department of Technical and Further Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>69,100</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Good Samaritan Teachers College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>15,067 
+
+26,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>41,067</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Goulburn College of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+61,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Hawkesbury Agricultural College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+66,670 
+80,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>146,670</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Kuring-gai College of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+41,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Mitchell College of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Site development and other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>42,000 
 
 125,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>167,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Nepean College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of teaching and administration buildings—Stage 1.............................................</div>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Completion of teaching and administration buildings&#151;Stage 1 
+Other works and services</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-2,784,200</div>
-    <div>150,000</div>
+2,784,200 
+
+150,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,934,200</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>New South Wales Higher Education Board</div>
+
   </td>
-  <td>
-    <div>Purchase of property........................</div>
+  <td colspan="1" align="left">
+    <div>Purchase of property</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>500,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Newcastle College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>146,000</div>
+  <td colspan="1" align="left">
+    <div>
+146,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Northern Rivers College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Teaching building—Stage 1—schematic design stage.................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services 
+Teaching building&#151;Stage 1&#151;schematic design stage</div>
+
   </td>
-  <td>
-    <div>25,000</div>
+  <td colspan="1" align="left">
     <div>
+25,000 
 
 55,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>80,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Nursery School Teachers College</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Other works and services</div>
+
   </td>
-  <td>
-    <div>3,900</div>
-    <div>6,000</div>
+  <td colspan="1" align="left">
+    <div>3,900 
+
+6,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9,900</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Orange Agricultural College</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-  </td>
-  <td>
-    <div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
 30,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      New South Wales
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Riverina College of Advanced Education</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Equipment..........................................</div>
-    <div>Site development and other works and services....................................
-      ..........................................................</div>
-    <div>Lecture unit No. 2—project documentation..............................</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>53,000</div>
-    <div>
 
-169,000</div>
-    <div>
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Site development and other works and services 
+Lecture unit No. 2&#151;project documentation</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>53,000 
+
+169,000 
 
 30,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>252,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney College of the Arts</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>50,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney Kindergarten Teachers College</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sydney Teachers College</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>50,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Guild Teachers College</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>10,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The Milperra College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Commencement of education buildings—Stage 1B.....................</div>
-    <div>Equipment..........................................</div>
-    <div>Other works and services.................</div>
+  <td colspan="1" align="left">
+    <div>Commencement of education buildings&#151;Stage 1B 
+Equipment 
+Other works and services</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-1,250,000</div>
-    <div>38,000</div>
-    <div>6,000</div>
+1,250,000 
+38,000 
+
+6,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,294,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>The New South Wales Institute of Technology</div>
-  </td>
-  <td>
-    <div>Continuation of teaching building 1........................................</div>
-    <div>Completion of teaching building 2 (lower 3 levels)...............................</div>
-    <div>Purchase of property........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Extension of teaching building 2....</div>
-  </td>
-  <td>
-    <div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>Continuation of teaching building 1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
 2,800,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Completion of teaching building 2 (lower 3 levels)</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 3,587,685</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Purchase of property</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>46,329</div>
-    <div>275,000</div>
-    <div>170,571</div>
-    <div>435,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>7,314,585</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Wollongong Institute of Education</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>17,228</div>
-    <div>15,742</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>32,970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Total, New South Wales</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>18,291,392</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Victoria:</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ballarat College of Advanced Education</div>
-  </td>
-  <td>
-    <div>Completion of physical education—recreation building..</div>
+  <td colspan="1" align="left">
     <div>Other works and services</div>
-    <div>Major projects—schematic design stage.................................................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>
 
-639,661</div>
-    <div>41,430</div>
-    <div>80,000</div>
-    <div>20,700</div>
+  </td>
+  <td colspan="1" align="left">
+    <div>
+275,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>170,571</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Extension of teaching building 2</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+435,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>7,314,585</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Wollongong Institute of Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+17,228 
+15,742</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>32,970</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total, New South Wales</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>18,291,392</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria:</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ballarat College of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Completion of physical education&#151;recreation building 
+Other works and services 
+Major projects&#151;schematic design stage 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+
+639,661 
+
+41,430 
+
+80,000 
+20,700</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>781,791</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Bendigo College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Construction of library.....................</div>
-    <div>Equipment..........................................</div>
-    <div>Purchase of property........................</div>
+  <td colspan="1" align="left">
+    <div>Construction of library 
+Equipment 
+Purchase of property</div>
+
   </td>
-  <td>
-    <div>500,000</div>
-    <div>23,000</div>
-    <div>100,000</div>
+  <td colspan="1" align="left">
+    <div>500,000 
+23,000 
+100,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>623,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Burnley Horticultural College</div>
-  </td>
-  <td>
-    <div>Construction of soil science laboratory.......................................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>
 
-142,420</div>
-    <div>3,960</div>
+  </td>
+  <td colspan="1" align="left">
+    <div>Construction of soil science laboratory 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+142,420 
+3,960</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>146,380</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Caulfield Institute of Technology</div>
+
   </td>
-  <td>
-    <div>Alterations to existing buildings......</div>
-    <div>Purchase of property........................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Alterations to existing buildings 
+Purchase of property 
+Equipment</div>
+
   </td>
-  <td>
-    <div>93,000</div>
-    <div>120,288</div>
-    <div>81,900</div>
+  <td colspan="1" align="left">
+    <div>
+93,000 
+120,288 
+81,900</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>295,188</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>College of Nursing, Australia</div>
+
   </td>
-  <td>
-    <div>Completion of extension to existing building.............................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of extension to existing building 
+Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-302,395</div>
-    <div>5,000</div>
+302,395 
+5,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>307,395</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Dookie Agricultural College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Emily McPherson College</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,750</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Victoria
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Footscray Institute of Technology</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>Completion of physical education centre...............................................</div>
-    <div>Other works and services.................</div>
-    <div>Planning..............................................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of general teaching and lecture theatre building.........</div>
-    <div>Costs associated with relocation of Farnsworth Avenue.......................</div>
+  <td colspan="1" align="left">
+    <div>Completion of physical education centre 
+Other works and services 
+Planning 
+Equipment 
+Completion of general teaching and lecture theatre building 
+Costs associated with relocation of Farnsworth Avenue</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-    </div>
-    <div>2,358,121</div>
-    <div>10,100</div>
-    <div>35,000</div>
-    <div>7,260</div>
-    <div>
+2,358,121 
 
-694,302</div>
-    <div>
+10,100 
+35,000 
+7,260 
+
+694,302 
 
 47,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,151,783</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Gippsland Institute of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Alterations to existing buildings—Churchill and Newborough sites.</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Alterations to existing buildings&#151;Churchill and Newborough sites 
+Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-21,440</div>
-    <div>10,000</div>
+21,440 
+10,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31,440</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Gordon Institute of Technology</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7,400</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Lincoln Institute</div>
+
   </td>
-  <td>
-    <div>Alterations to existing buildings......</div>
-    <div>Part payment for acquisition of Abbotsford site..............................</div>
-    <div>Planning..............................................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Alterations to existing buildings</div>
+
   </td>
-  <td>
-    <div>500,000</div>
+  <td colspan="1" align="left">
+    <div>
+500,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part payment for acquisition of Abbotsford site 
+Planning 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
-2,926,688</div>
-    <div>15,000</div>
-    <div>5,000</div>
+2,926,688 
+15,000 
+5,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,446,688</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Longerenong Agricultural College</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Prahran College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of general teaching and administration building........</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Purchase of property........................</div>
+  <td colspan="1" align="left">
+    <div>Completion of general teaching and administration building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 3,510,000</div>
-    <div>24,800</div>
-    <div>3,030</div>
-    <div>183,300</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Other works and services 
+Equipment 
+Purchase of property</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>
+24,800 
+3,030 
+183,300</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>3,721,130</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Preston Institute of Technology</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services 
+Equipment</div>
+
   </td>
-  <td>
-    <div>19,444</div>
-    <div>10,100</div>
+  <td colspan="1" align="left">
+    <div>
+19,444 
+10,100</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29,544</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Victoria
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Royal Melbourne Institute of Technology</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>Completion of north‑western building—Wing A..........................</div>
-    <div>Construction of student lounge/plaza mall..........................</div>
-    <div>Installation of PABX........................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of north-western building&#151;Wing A</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-    </div>
-    <div>1,170,000</div>
+1,170,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Construction of student lounge/plaza mall</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 798,000</div>
-    <div>50,000</div>
-    <div>24,450</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2,042,450</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>State College of Victoria</div>
-  </td>
-  <td>
-    <div>Provision of temporary accommodation............................</div>
-  </td>
-  <td>
-    <div>
 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Installation of PABX 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>50,000 
+24,450</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2,042,450</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Provision of temporary accommodation</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
 31,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Burwood</div>
+
   </td>
-  <td>
-    <div>Purchase of property........................</div>
-    <div>Site works and services.....................</div>
-    <div>Minor building works........................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Purchase of property 
+Site works and services 
+Minor building works 
+Equipment</div>
+
   </td>
-  <td>
-    <div>173,000</div>
-    <div>63,400</div>
-    <div>15,000</div>
-    <div>85,300</div>
+  <td colspan="1" align="left">
+    <div>173,000 
+
+63,400 
+15,000 
+85,300</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>336,700</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Coburg</div>
+
   </td>
-  <td>
-    <div>Completion of extension to teaching building...........................</div>
-    <div>Site works and services.....................</div>
-    <div>Equipment..........................................</div>
-    <div>Academic building—schematic design stage....................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of extension to teaching building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 295,000</div>
-    <div>59,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Site works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+59,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>48,600</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Academic building&#151;schematic design stage</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 40,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>442,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Frankston</div>
+
   </td>
-  <td>
-    <div>Site works and services.....................</div>
-    <div>Minor building works........................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Site works and services</div>
+
   </td>
-  <td>
-    <div>36,000</div>
+  <td colspan="1" align="left">
+    <div>
+36,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Minor building works</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>31,090</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>36,610</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>103,700</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Geelong</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>32,400</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Victoria
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>State College of Victoria, Hawthorn</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Completion of general purpose building............................................</div>
-    <div>Completion of college additions.....</div>
-    <div>Site works and services.....................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>
 
-    </div>
-    <div>526,000</div>
-    <div>1,956,000</div>
-    <div>10,000</div>
+  </td>
+  <td colspan="1" align="left">
+    <div>Completion of general purpose building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+526,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Completion of college additions</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+1,956,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Site works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+10,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>61,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,553,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>State College of Victoria—Institute of Catholic Education</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria&#151;Institute of Catholic Education</div>
+
   </td>
-  <td>
-    <div>Christ College:
+  <td colspan="1" align="left">
+    <div>Christ College: 
+Minor building works 
+Site works and services 
+Equipment</div>
 
-Minor building works....................
-
-Site works and services.................
-
-Equipment......................................</div>
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-171,000
+171,000 
 
-13,000
-
+13,000 
 21,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Mercy College:
+<tr align="left">
+  <td colspan="1" align="left">
 
-Minor building works....................
-
-Equipment......................................</div>
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Mercy College: 
+Minor building works 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
-120,700
-
+120,700 
 32,400</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>358,700</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>State College of Victoria—Institute of Early Childhood Development</div>
-  </td>
-  <td>
-    <div>Site works and services.....................</div>
-    <div>Planning..............................................</div>
-    <div>Alterations to existing buildings......</div>
-    <div>Equipment..........................................</div>
-    <div>Purchase of property........................</div>
-  </td>
-  <td>
-    <div>56,500</div>
-    <div>15,000</div>
-    <div>483,437</div>
-    <div>27,800</div>
-    <div>177,563</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>760,300</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>State College of Victoria, Melbourne</div>
-  </td>
-  <td>
-    <div>Site works and services.....................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>149,207</div>
-    <div>195,493</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>344,700</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>State College of Victoria, Rusden</div>
-  </td>
-  <td>
-    <div>Extension to existing building.........</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>426,100</div>
-    <div>70,200</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>496,300</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Victoria
-      —
-        <i>continued</i>
 
-    </div>
-    <div>State College of Victoria, Toorak</div>
   </td>
-  <td>
-    <div> </div>
-    <div>Alterations to east building</div>
-    <div>Alterations to main building</div>
-    <div>Site works and services.....................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of general purpose building............................................</div>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
-    <div>240,000</div>
-    <div>100,000</div>
-    <div>45,000</div>
-    <div>71,300</div>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>358,700</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria&#151;Institute of Early Childhood Development</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Site works and services 
+Planning 
+Alterations to existing buildings 
+Equipment 
+Purchase of property</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
+56,500 
+15,000 
+
+483,437 
+27,800 
+177,563</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>760,300</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria, Melbourne</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Site works and services 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+149,207 
+195,493</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>344,700</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria, Rusden</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Extension to existing building 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+426,100 
+70,200</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>496,300</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>State College of Victoria, Toorak</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Alterations to east building 
+Alterations to main building 
+Site works and services 
+Equipment 
+Completion of general purpose building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+240,000 
+
+100,000 
+
+45,000 
+71,300 
 
 20,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>476,300</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Swinburne College of Technology</div>
-  </td>
-  <td>
-    <div>Alterations to existing buildings......</div>
-    <div>Purchase of property........................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>77,500</div>
-    <div>365,200</div>
-    <div>11,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>453,700</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Victorian College of the Arts</div>
-  </td>
-  <td>
-    <div>Alterations to drill hall......................</div>
-    <div>Equipment..........................................</div>
-    <div>Commencement of theatre technical services building...........</div>
-    <div>Other works and services.................</div>
-    <div>Planning..............................................</div>
-  </td>
-  <td>
-    <div>145,800</div>
-    <div>3,000</div>
-    <div>
 
-12,200</div>
-    <div>36,000</div>
-    <div>16,000</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>213,000</div>
+  <td colspan="1" align="left">
+    <div>476,300</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>The Victorian School of Forestry, Creswick</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Swinburne College of Technology</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
-    <div>Erection of residential accommodation............................</div>
+  <td colspan="1" align="left">
+    <div>Alterations to existing buildings 
+Purchase of property 
+Equipment</div>
+
   </td>
-  <td>
-    <div>5,000</div>
+  <td colspan="1" align="left">
     <div>
+77,500 
+365,200 
+11,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>453,700</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Victorian College of the Arts</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Alterations to drill hall 
+Equipment 
+Commencement of theatre technical services building 
+Other works and services 
+Planning</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>145,800 
+3,000 
+
+12,200 
+
+36,000 
+16,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>213,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Victorian School of Forestry, Creswick</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Erection of residential accommodation</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5,000 
 
 50,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>55,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Victoria Institute of Colleges</div>
+
   </td>
-  <td>
-    <div>Purchase of property........................</div>
+  <td colspan="1" align="left">
+    <div>Purchase of property</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>505,475</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Victorian College of Pharmacy</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,650</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Victoria
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Warrnambool Institute of Advanced Education</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Site works............................................</div>
-    <div>Construction of administration and teaching building—Stage 2</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of administration and teaching building—Stage 1</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>100,000</div>
-    <div>
 
-712,000</div>
-    <div>13,250</div>
-    <div>
+  </td>
+  <td colspan="1" align="left">
+    <div>Site works 
+Construction of administration and teaching building&#151;Stage 2 
+Equipment 
+Completion of administration and teaching building&#151;Stage 1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>100,000 
+
+712,000 
+13,250 
 
 161,600</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>986,850</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Total, Victoria</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22,746,414</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Queensland:</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Brisbane Kindergarten Teachers College</div>
+
   </td>
-  <td>
-    <div>Purchase of property........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Purchase of property 
+Other works and services</div>
+
   </td>
-  <td>
-    <div>30,052</div>
-    <div>19,651</div>
+  <td colspan="1" align="left">
+    <div>30,052 
+
+19,651</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>18,947</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>68,650</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Capricornia Institute of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Continuation of educational resources building..........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Continuation of educational resources building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 1,140,190</div>
-    <div>50,000</div>
-    <div>82,710</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>1,272,900</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Darling Downs Institute of Advanced Education</div>
-  </td>
-  <td>
-    <div>Completion of general services building............................................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>
 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+50,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>82,710</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1,272,900</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Darling Downs Institute of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Completion of general services building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
 65,093</div>
-    <div>95,177</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+95,177</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>82,820</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>243,090</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Kelvin Grove College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Construction of education building—Stage 2..........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of science building......</div>
+  <td colspan="1" align="left">
+    <div>Construction of education building&#151;Stage 2</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 757,210</div>
-    <div>136,370</div>
-    <div>88,560</div>
-    <div>196,120</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>1,178,260</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Queensland
-      —
-        <i>continued</i>
 
-    </div>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+136,370</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Completion of science building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>88,560 
+
+196,120</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1,178,260</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Mount Gravatt College of Advanced Education</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>26,580</div>
+  <td colspan="1" align="left">
+    <div>
+26,580</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>49,700</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>76,280</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>North Brisbane College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of teaching block 2—Aspley..............................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of teaching block 2&#151;Aspley</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 550,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>Construction of community building—Aspley...........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Construction of community building&#151;Aspley</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 1,795,040</div>
-    <div>216,134</div>
-    <div>29,626</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2,590,800</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Queensland Agricultural College</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Sewerage repair and upgrading.......</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>106,500</div>
-    <div>49,710</div>
-    <div>40,150</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>196,360</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Queensland Conservatorium of Music</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>7,100</div>
-    <div>22,270</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>29,370</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Queensland Institute of Technology</div>
-  </td>
-  <td>
-    <div>Continuation of library building.....</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>1,742,180</div>
-    <div>83,220</div>
-    <div>269,230</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2,094,630</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Townsville College of Advanced Education</div>
-  </td>
-  <td>
-    <div>Other works and services.................</div>
-  </td>
-  <td>
-    <div>
 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+216,134</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29,626</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2,590,800</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Agricultural College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sewerage repair and upgrading</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+106,500</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+49,710</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>40,150</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>196,360</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Conservatorium of Music</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+7,100</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22,270</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29,370</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland Institute of Technology</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Continuation of library building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+1,742,180</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+83,220</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>269,230</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2,094,630</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Townsville College of Advanced Education</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
 45,270</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>12,050</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>57,320</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Total, Queensland</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7,807,660</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>South Australia:</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Adelaide College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of alterations to library</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>500</div>
-    <div>23,500</div>
-    <div>52,000</div>
+  <td colspan="1" align="left">
+    <div>
+500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Completion of alterations to library</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>23,500 
+
+52,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>76,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Kingston College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Purchase of property........................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Purchase of property 
+Other works and services</div>
+
   </td>
-  <td>
-    <div>100,000</div>
-    <div>10,500</div>
+  <td colspan="1" align="left">
+    <div>100,000 
+
+10,500</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>14,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>125,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Murray Park College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>35,000</div>
+  <td colspan="1" align="left">
+    <div>
+35,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>33,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>68,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Roseworthy Agricultural College</div>
+
   </td>
-  <td>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
-    <div>18,800</div>
+  <td colspan="1" align="left">
+    <div>
+18,800</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>40,200</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>59,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Salisbury College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of staff studies and arts building....................................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of staff studies and arts building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 592,000</div>
-    <div>35,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+35,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>42,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>669,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>South Australian Institute of Technology</div>
+
   </td>
-  <td>
-    <div>Completion of mathematics and data processing building...............</div>
-    <div>Other works and services—all campuses........................................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of extension to Playford Building..........................</div>
+  <td colspan="1" align="left">
+    <div>Completion of mathematics and data processing building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 241,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services&#151;all campuses</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 115,000</div>
-    <div>175,000</div>
-    <div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Completion of extension to Playford Building</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>175,000 
 
 716,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,247,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      South Australia
-      —
-        <i>continued</i>
-
-    </div>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Sturt College of Advanced Education</div>
-  </td>
-  <td>
-    <div> </div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Preliminary planning for library/teaching resources centre</div>
-  </td>
-  <td>
-    <div>
 
-    </div>
-    <div>35,000</div>
-    <div>37,000</div>
-    <div>20,000</div>
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+35,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Preliminary planning for library/teaching resources centre</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>37,000 
+
+20,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>92,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Torrens College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of industrial design building............................................</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Planning..............................................</div>
+  <td colspan="1" align="left">
+    <div>Completion of industrial design building</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 2,445,595</div>
-    <div>167,000</div>
-    <div>189,000</div>
-    <div>20,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>
+167,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Planning</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>189,000 
+20,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>2,821,595</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Total, South Australia</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,157,595</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Western Australia:</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Churchlands Teachers College</div>
+
   </td>
-  <td>
-    <div>Construction of additional teaching accommodation............</div>
-    <div>Minor works and services................</div>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Construction of additional teaching accommodation 
+Minor works and services 
+Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
-400,000</div>
-    <div>149,000</div>
-    <div>10,000</div>
+400,000 
+
+149,000 
+10,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>559,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Claremont Teachers College</div>
-  </td>
-  <td>
-    <div>Minor works and services................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>10,000</div>
-    <div>8,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>18,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Graylands Teachers College</div>
-  </td>
-  <td>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>6,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Mount Lawley Teachers College</div>
-  </td>
-  <td>
-    <div>Minor works and services................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>41,000</div>
-    <div>10,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>51,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Western Australia
-      —
-        <i>continued</i>
 
-    </div>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Claremont Teachers College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Minor works and services 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+10,000 
+8,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>18,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Graylands Teachers College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>6,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Mount Lawley Teachers College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Minor works and services 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+41,000 
+10,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>51,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Western Australian Institute of Technology</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>Purchase of bookshop extension...</div>
-    <div>Purchase of property—Kalgoorlie..</div>
-    <div>Construction of engineering complex —Stage 4........................</div>
-    <div>Upgrading geology facilities—Kalgoorlie........................................</div>
-    <div>Construction of general facilities building—Muresk..........................</div>
-    <div>Equipment..........................................</div>
-    <div>Animal breeding centre—W.A.I.T. contribution....................................</div>
-    <div>Extension to library/general facilities building—design stage..</div>
+  <td colspan="1" align="left">
+    <div>Purchase of bookshop extension</div>
+
   </td>
-  <td>
-    <div> </div>
-    <div>70,000</div>
-    <div>15,000</div>
+  <td colspan="1" align="left">
+    <div>
+70,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Purchase of property&#151;Kalgoorlie</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+
+15,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Construction of engineering complex &#151;Stage 4</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 1,116,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Upgrading geology facilities&#151;Kalgoorlie</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 860,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Construction of general facilities building&#151;Muresk 
+Equipment 
+Animal breeding centre&#151;W.A.I.T. contribution 
+Extension to library/general facilities building&#151;design stage</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
-585,000</div>
-    <div>740,907</div>
-    <div>
+585,000 
+740,907 
 
-5,180</div>
-    <div>
+5,180 
 
 120,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3,512,087</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Western Australian Secondary Teachers College</div>
-  </td>
-  <td>
-    <div>Purchase of property........................</div>
-    <div>Completion of resources centre/teaching block...................</div>
-    <div>Equipment..........................................</div>
-  </td>
-  <td>
-    <div>29,555</div>
-    <div>
 
-667,000</div>
-    <div>10,000</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>3,512,087</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australian Secondary Teachers College</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Purchase of property 
+Completion of resources centre/teaching block 
+Equipment</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29,555 
+
+667,000 
+10,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
     <div>706,555</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Western Australian Teacher Education Authority</div>
+
   </td>
-  <td>
-    <div>Equipment..........................................</div>
+  <td colspan="1" align="left">
+    <div>Equipment</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>218,162</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Total, Western Australia</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,070,804</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Tasmania:</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Tasmanian College of Advanced Education</div>
+
   </td>
-  <td>
-    <div>Completion of building for school of business and administration—Mount
-      Nelson campus............................................</div>
-    <div>Extension of resource materials centre—Newnham campus.........</div>
-    <div>Planning—Newnham campus........</div>
-    <div>Other works and services.................</div>
-    <div>Equipment..........................................</div>
-    <div>Completion of physical education centre—Mount Nelson campus..</div>
-    <div>Completion of student residence—Newnham campus........................</div>
+  <td colspan="1" align="left">
+    <div>Completion of building for school of business and administration&#151;Mount Nelson campus</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>
 
 347,670</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Extension of resource materials centre&#151;Newnham campus</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
 
 750,000</div>
-    <div>75,000</div>
-    <div>35,000</div>
-    <div>60,000</div>
-    <div>
 
-63,500</div>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Planning&#151;Newnham campus</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>
+75,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Other works and services</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>
+35,000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Equipment 
+Completion of physical education centre&#151;Mount Nelson campus 
+Completion of student residence&#151;Newnham campus</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>60,000 
+
+63,500 
 
 61,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,392,170</div>
+
   </td>
 </tr></table>
 
-## Part II—Grants for all or any colleges and additional projects approved by the Minister—1976
+<center>Back to Top</center>
 
-<table>
-<colgroup>
-  <col width="78%">
-  <col width="22%">
-</colgroup>
+Part&#160;II&#151;Grants for all or any colleges and additional projects approved by the Minister&#151;1976
 
-<thead>
-  <tr>
-    <td>
-      <div>Column 1
-
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Column 1 
 State</div>
-    </td>
-    <td>
-      <div>Column 2
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 2 
 Maximum grant</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div>$</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>New South Wales.........................................................................................</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+    <div>$</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,330,428</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria..........................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2,221,276</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland...................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>205,410</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia.............................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>321,275</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia.........................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>497,786</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania......................................................................................................
-      .........................................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>203,200</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total...................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4,779,375</div>
+
   </td>
 </tr></table>
 
-## Part III—Maximum grants for all approved projects—1976
+Part&#160;III&#151;Maximum grants for all approved projects&#151;1976
 
-<table>
-<colgroup>
-  <col width="78%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Column 1
-
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Column 1 
 State</div>
-    </td>
-    <td>
-      <div>Column 2
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 2 
 Maximum grant</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div>$</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>New South Wales.........................................................................................</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+    <div>$</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19,621,820</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria..........................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24,967,690</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland...................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>8,013,070</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia.............................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,478,870</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia.........................................................................................
-      .........................................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5,568,590</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania......................................................................................................
-      .........................................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1,595,370</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total...................................................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>65,245,410</div>
+
   </td>
 </tr></table>
 
-# Notes to the _States Grants (Advanced Education) Act 1976_
+<center>Back to Top</center>
 
-### Note 1
+<center>**
 
-The _States Grants (Advanced Education) Act 1976_ as shown in this compilation comprises Act No. 15, 1976 amended as indicated in the Tables below.
+###  STATES GRANTS (ADVANCED EDUCATION) ACT 1976<centreit>Notes to the _States Grants (Advanced Education) Act 1976_ </centreit>
+**</center>
 
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+**Note 1**
 
-### Table of Acts
+The _States Grants (Advanced Education) Act 1976_ as shown in this compilation comprises Act No.&#160;15, 1976 amended as indicated in the Tables below.
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>States Grants (Advanced Education) Act 1976</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States Grants (Advanced Education) Act 1976</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15, 1976</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Apr 1976</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Apr 1976</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>States Grants (Advanced Education) Amendment Act (No. 2) 1976</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States Grants (Advanced Education) Amendment Act (No. 2) 1976</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>120, 1976</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Nov 1976</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Nov 1976</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 19</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>States Grants (Advanced Education Assistance) Amendment Act 1977</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States Grants (Advanced Education Assistance) Amendment Act 1977</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>60, 1977</div>
+
   </td>
-  <td>
-    <div>16 June 1977</div>
+  <td colspan="1" align="left">
+    <div>16 June 1977</div>
+
   </td>
-  <td>
-    <div>16 June 1977</div>
+  <td colspan="1" align="left">
+    <div>16 June 1977</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 6 and 7</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>States Grants (Tertiary Education Assistance) Act 1977</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States Grants (Tertiary Education Assistance) Act 1977</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>158, 1977</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>10 Nov 1977</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>10 Nov 1977</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12 June 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12 June 1978</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Companies (Miscellaneous Amendments) Act 1981</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Companies (Miscellaneous Amendments) Act 1981</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>92, 1981</div>
+
   </td>
-  <td>
-    <div>18 June 1981</div>
+  <td colspan="1" align="left">
+    <div>18 June 1981</div>
+
   </td>
-  <td>
-    <div>Schedule (in part): 1 July 1982 ( <i>see</i> 
+  <td colspan="1" align="left">
+    <div>Schedule (in part): 1 July 1982 ( <i>see</i> 
 s. 2 and <i>Gazette</i>1982, No. S124)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
+</tr></table>**Table <center>Back to Top</center> of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 474–477): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-## Table of Amendments
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 92, 1981; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No. 92, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>am. No. 120, 1976; No. 60, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No. 120, 1976; No. 60, 1977</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12A</div>
+
   </td>
-  <td>
-    <div>ad. No. 158, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 158, 1977</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16</div>
+
   </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No. 36, 1978</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>rs. No. 120, 1976; No. 60, 1977</div>
+  <td colspan="1" align="left">
+    <div>am. No. 36, 1978</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule 1</div>
+
   </td>
-  <td>
-    <div>rs. No. 120, 1976; No. 60, 1977</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 120, 1976; No. 60, 1977</div>
+
   </td>
-</tr></table>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule 2</div>
 
-## Table A
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 120, 1976; No. 60, 1977</div>
 
-### Application, saving or transitional provisions
+  </td>
+</tr></table>  <center>**
 
-_States Grants (Advanced Education) Amendment Act (No. 2) 1976 
- (No. 120, 1976)_
+###  Table A 
+**</center>  **Table A**
 
-##### 19  Payments made before Royal Assent
+**Application, saving or transitional provisions**
 
-                   Payments made to a State under the Principal Act before the date on which this Act received the Royal Assent shall be deemed to have been made for the purposes of the Principal Act as amended by this Act.
+_States Grants (Advanced Education) Amendment Act (No. 2) 1976_ 
+(No. 120, 1976) 
 
-* * *
+**19  Payments made before Royal Assent**
 
-_States Grants (Advanced Education Assistance) Amendment Act 1977 
- (No. 60, 1977)_
+<dl compact=""><dl compact="">
 
-##### 6  Approvals and determinations under Principal Act
+		Payments made to a State under the Principal Act before the date on which
 
-                   An approval given under subsection 4(1) of the Principal Act, or a determination made under paragraph 6(2)(a) or (b), 12(2)(a) or (b) or 12(6)(a) or (b) of the Principal Act, and in force immediately before the commencement of this Act shall, by force of this section, cease to have effect upon the commencement of this Act, but this section shall not be taken to affect the previous operation of the approval or determination, as the case may be.
+this Act received the Royal Assent shall be deemed to have been made for the
 
-##### 7  Payments made before Royal Assent
+purposes of the Principal Act as amended by this Act.
 
-                   Payments made to a State under the Principal Act before the date on which this Act receives the Royal Assent shall be deemed to have been made for the purposes of the Principal Act as amended by this Act.
+ </dl></dl>
 
-* * *
+_States Grants (Advanced Education Assistance) Amendment Act 1977_ 
+(No. 60, 1977) 
 
-_Administrative Changes (Consequential Provisions) Act 1978 (No. 36, 1978)_
+**6  Approvals and determinations under Principal Act**
 
-##### 8  Application of certain provisions to certain actions taken by the Treasurer
+<dl compact=""><dl compact="">
 
-             (1)  In this section:
+		An approval given under subsection 4(1) of the Principal Act, or a
 
-                     (a)  a reference to a prescribed provision of an Act shall be read as a reference to a provision specified in Schedule 1 relating to the capital, or to the moneys, of a body corporate established by an Act; and
+determination made under paragraph 6(2)(a) or (b), 12(2)(a) or (b) or 12(6)(a)
 
-                     (b)  a reference to taking any action shall be read as a reference to doing any act or thing, and includes, without limiting the generality of the expression, a reference to making a payment, making an advance, making moneys available, paying an amount, giving a direction or making a decision or determination.
+or (b) of the Principal Act, and in force immediately before the commencement
 
-             (2)  A reference in any prescribed provision of an Act to any action taken by the Minister for Finance shall be read as including a reference to any such action taken before 20 December 1977 by the Treasurer.
+of this Act shall, by force of this section, cease to have effect upon the
 
- 
+commencement of this Act, but this section shall not be taken to affect the
 
- 
+previous operation of the approval or determination, as the case may be.
+
+ </dl></dl>
+
+**7  Payments made before Royal Assent**
+
+<dl compact=""><dl compact="">
+
+		Payments made to a State under the Principal Act before the date on which
+
+this Act receives the Royal Assent shall be deemed to have been made for the
+
+purposes of the Principal Act as amended by this Act.
+
+ </dl></dl>
+
+_Administrative Changes (Consequential Provisions) Act 1978_ (No. 36, 1978) 
+
+**8  Application of certain provisions to certain actions taken by the Treasurer**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+	(a)	a reference to a prescribed provision of an Act shall be read as a reference to a provision specified in Schedule 1 relating to the capital, or to the moneys, of a body corporate established by an Act; and
+ 	(b)	a reference to taking any action shall be read as a reference to doing any act or thing, and includes, without limiting the generality of the expression, a reference to making a payment, making an advance, making moneys available, paying an amount, giving a direction or making a decision or determination.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A reference in any prescribed provision of an Act to any action taken by
+
+the Minister for Finance shall be read as including a reference to any such
+
+action taken before 20 December 1977 by the Treasurer.
+
+</dd> </dl></dl>
+
+</def></def>
+
+</def></def>
+
+</def></def>
+
+
