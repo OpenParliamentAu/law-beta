@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00004/Html/63437267-b295-410b-9110-8f16403c2863_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00557/Html/bde69cb5-288c-477d-b734-38946eead4fd_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 21 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -808,7 +808,7 @@ the Minister may, by signed writing, make orders with respect to that matter tha
 
 ##### <a id="9"></a>9  Certain matter not to form part of this Act
 
-                   Despite subsection 13(1) of the _Acts Interpretation Act 1901_, the following provisions that are included in the Schedule do not form part of this Act:
+                   Despite subsection 13(2) of the _Acts Interpretation Act 1901_, the following provisions that are included in the Schedule do not form part of this Act:
 
                      (a)  the Table of contents that appears at the beginning of the Schedule;
 
@@ -1582,6 +1582,11 @@ _Section_
 </tr>
 <tr>
   <td>
+    <div>document</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>eligible law</div>
   </td>
 </tr>
@@ -1734,7 +1739,13 @@ _Section_
   <td>
     <div>plant</div>
   </td>
-</tr>
+</tr></table>
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
 <tr>
   <td>
     <div>premises</div>
@@ -1747,12 +1758,12 @@ _Section_
 </tr>
 <tr>
   <td>
-    <div>previous registering authority</div>
+    <div>previously endorsed active constituent</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>previously endorsed active constituent</div>
+    <div>previous registering authority</div>
   </td>
 </tr>
 <tr>
@@ -2187,6 +2198,8 @@ to perform the functions of a co‑ordinator under this Code.
 
                     <a name="distinguish-number"></a>**_distinguishing number_** includes a distinguishing number together with one or more letters or symbols, or both.
 
+                    <a name="docum"></a>**_document_** includes a book or other record.
+
                     <a name="elig-law"></a>**_eligible law_**, in relation to a jurisdiction, means a law, or a provision of a law, of that jurisdiction that is declared by a law of that jurisdiction to be an eligible law for the purposes of this Code.
 
                     <a name="emerg-us"></a>**_emergency use_** has the same meaning as in the regulations.
@@ -2313,8 +2326,6 @@ to perform the functions of a co‑ordinator under this Code.
 
                     <a name="prescrib"></a>**_prescribed_** means prescribed by the Agvet Code of this jurisdiction or by the regulations.
 
-                    <a name="previou-regist-author"></a>**_previous registering authority_** means a registering authority under a corresponding previous law.
-
                     <a name="previous-endorsed-activ-constitu"></a>**_previously endorsed active constituent_** for a chemical product at a particular time means a substance that:
 
                      (a)  before that time, had been approved or registered (however described) under a law of the Commonwealth or a State or Territory as an active constituent for a chemical product; or
@@ -2322,6 +2333,8 @@ to perform the functions of a co‑ordinator under this Code.
                      (b)  was an active constituent for a chemical product that, before that time, had been approved or registered (however described) under a law of the Commonwealth or a State or Territory as a chemical product;
 
 whether or not the approval or registration was a result of an application by a particular person.
+
+                    <a name="previou-regist-author"></a>**_previous registering authority_** means a registering authority under a corresponding previous law.
 
                     <a name="primari-activ-constitu"></a>**_primary active constituent_** has the meaning given in section 59.
 
@@ -4468,7 +4481,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                            (vii)  a monograph referred to in subparagraph (v) or (vi) as modified in a manner specified in the standard;
 
-                          (viii)  a standard published by Standards Australia;
+                          (viii)  a standard published by Standards Australia International Limited;
 
                             (ix)  such other matters as the APVMA thinks fit; and
 
@@ -6004,7 +6017,7 @@ Note:          The defendant bears an evidential burden in rel
 
                     Penalty:  300 penalty units.
 
-##### <a id="88"></a>88  Certain notices not to be published
+##### <a id="88"></a>88  Certain notices not to be published
 
              (1)  In this section:
 
@@ -8088,7 +8101,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00004/Html/63437267-b295-410b-9110-8f16403c2863_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00557/Html/bde69cb5-288c-477d-b734-38946eead4fd_files/image002.gif)
 
 where:
 
@@ -8436,11 +8449,11 @@ For all other relevant information pertaining to application, saving or transiti
 
 <table>
 <colgroup>
-  <col width="29%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -8475,7 +8488,7 @@ of Assent</div>
     <div>24 Mar 1994</div>
   </td>
   <td>
-    <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
+    <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div></div>
@@ -8509,7 +8522,7 @@ of Assent</div>
     <div>20 July 1995</div>
   </td>
   <td>
-    <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423)</div>
+    <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8526,7 +8539,7 @@ of Assent</div>
     <div>20 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 3: 15 Mar 1995</div>
+    <div>Schedule 3: 15 Mar 1996 <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8543,7 +8556,7 @@ of Assent</div>
     <div>7 Apr 1997</div>
   </td>
   <td>
-    <div>Schedule 1: Royal Assent</div>
+    <div>Schedule 1: Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8560,7 +8573,7 @@ of Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–7): 22 June 2001 ( <i>see</i>s. 2)</div>
+    <div>22 June 2001 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -8577,7 +8590,7 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 18): 15 July 2001 ( <i>see</i>s. 2(3) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (item 18): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -8594,7 +8607,7 @@ of Assent</div>
     <div>18 Sept 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 38–119): 16 Oct 2001</div>
+    <div>16 Oct 2001</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -8611,7 +8624,8 @@ of Assent</div>
     <div>8 Apr 2003</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1: 8 Oct 2003</div>
+    <div>S. 4 and Schedules 1, 2 and 3: 8 Oct 2003 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -8645,7 +8659,7 @@ of Assent</div>
     <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (item 3): <i>(b)</i></div>
+    <div>Schedule 2 (item 3): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8662,7 +8676,7 @@ of Assent</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
+    <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
 Schedule 2 (item 1): 24 June 2004</div>
   </td>
   <td>
@@ -8680,8 +8694,8 @@ Schedule 2 (item 1): 24 June 2004</div>
     <div>16 Aug 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
-Schedule 2 (items 15–21): <i>(c)</i></div>
+    <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
+Schedule 2 (items 15–21): <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8715,7 +8729,7 @@ Schedule 2 (items 15–21): <i>(c)</i></div>
     <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (item 4): <i>(d)</i> 
+    <div>Schedule 1 (item 4): <i>(h)</i> 
 Schedule 1 (item 5): Royal Assent</div>
   </td>
   <td>
@@ -8733,7 +8747,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 72, 73, 77, 78): <i>(e)</i></div>
+    <div>Schedule 1 (items 72, 73, 77, 78): <i>(i)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 77, 78)</div>
@@ -8770,7 +8784,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>15 July 2010</div>
   </td>
   <td>
-    <div>Sch. 1 (items 7B, 8)</div>
+    <div>Sch. 1 (items 7B, 8)</div>
   </td>
 </tr>
 <tr>
@@ -8784,7 +8798,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–6): 1 Mar 2011 ( <i>see</i>F2011L00312)</div>
+    <div>Schedule 1 (items 2–6): 1 Mar 2011 ( <i>see</i>F2011L00312)</div>
   </td>
   <td>
     <div>Sch. 1 (item 6)</div>
@@ -8801,10 +8815,10 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 49–51) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 49–51) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -8812,7 +8826,23 @@ _(a)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was 
 
                  (2)   The amendments made by this Act to the _Agricultural and Veterinary Chemicals Code Act 1994_ commence, or are taken to have commenced, on the same day as that Act, immediately after the commencement of that Act.
 
-_(b)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2005_ provides as follows:
+_(b)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
+
+                 (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
+
+_(c)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(3) of which provides as follows:
+
+                 (3)   Schedule 3 is taken to have commenced on 15 March 1995.
+
+_(d)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 1 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_ The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 3 (item 18) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(f)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -8900,7 +8930,7 @@ _(b)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2005_ provide
   </td>
 </tr></table>
 
-_(c)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation Act 2004_ provides as follows:
+_(g)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -8970,7 +9000,7 @@ _(c)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation
   </td>
 </tr></table>
 
-_(d)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides as follows:
+_(h)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -9025,7 +9055,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides
   </td>
 </tr></table>
 
-_(e)_ Subsection 2(1) (items 2–6) of the _Food Standards Australia New Zealand Amendment Act 2007_ provides as follows:
+_(i)_ Subsection 2(1) (item 6) of the _Food Standards Australia New Zealand Amendment Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -9061,86 +9091,6 @@ _(e)_ Subsection 2(1) (items 2–6) of the _Food Standards Australia New Zealand
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, Parts 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      A single day to be fixed by Proclamation.
-    </div>
-    <div>
-      However, if any of the provision(s) do not commence within the period
-        of 6 months beginning on the day on which this Act receives the Royal Assent,
-        they commence on the first day after the end of that period.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-    <div>
-      (
-        <i>see</i>F2007L01822)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, items 64 to 67
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 1, items 68 to 70
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provisions covered by table
-        item 3.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, item 71
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 4.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>
@@ -9225,14 +9175,6 @@ _(e)_ Subsection 2(1) (items 2–6) of the _Food Standards Australia New Zealand
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule</b></div>
   </td>
   <td>
@@ -9252,7 +9194,7 @@ _(e)_ Subsection 2(1) (items 2–6) of the _Food Standards Australia New Zealand
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007; No. 113, 2010; No. 46, 2011</div>
+    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007; No. 113, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10340,23 +10282,7 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 56D</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56E, 56F</div>
+    <div>Ss. 56D–56F</div>
   </td>
   <td>
     <div>ad. No. 13, 2003</div>
@@ -12036,6 +11962,28 @@ Part 2A</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 49  Section 9
+
+Omit “subsection 13(2)”, substitute “subsection 13(1)”.
+
+## 50  Subsection 3(1) of the Code set out in the Schedule (definition of _document_)
+
+Repeal the definition.
+
+## 51  Subparagraph 56D(5)(a)(viii) of the Code set out in the Schedule
+
+Omit “Standards Australia International Limited”, substitute “Standards Australia”.
+
+As at 21 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -12109,7 +12057,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 ## Schedule 1
 
-## 7B  Labels approved under existing law
+## 7B  Labels approved under existing law
 
 (1)       If a label was, immediately before commencement, an approved label within the meaning of the old law, then:
 
@@ -12209,6 +12157,8 @@ The amendments made by items 2 to 4 apply in relation to applications or varia
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
