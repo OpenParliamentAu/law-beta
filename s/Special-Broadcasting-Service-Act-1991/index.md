@@ -1,238 +1,243 @@
-![](http://www.comlaw.gov.au/Details/C2006C00563/Html/SpecBroadService91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00398/Html/62A3B2E9DE9E67F0CA257028000DB114/$FILE/image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 29 September 200 6
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                          2
 
 **Part 2—Establishment, functions and management of the SBS**
 
-[5](#5).            Special Broadcasting Service Corporation
+[5](#5).            Special Broadcasting Service Corporation                                           3
 
-[6](#6).            Charter of the SBS
+[6](#6).            Charter of the SBS                                                                               3
 
-[6A](#6A).         Datacasting functions
+[6A](#6A).         Datacasting functions                                                                          4
 
-[7](#7).            Establishment of Special Broadcasting Service Board
+[7](#7).            Establishment of Special Broadcasting Service Board                         5
 
-[8](#8).            Constitution of the Board
+[8](#8).            Constitution of the Board                                                                    5
 
-[9](#9).            Role of the Board
+[9](#9).            Role of the Board                                                                                 5
 
-[10](#10).          Duties of the Board
+[10](#10).          Duties of the Board                                                                             5
 
-[11](#11).          Minister may give directions to the Board
+[11](#11).          Minister may give directions to the Board                                          6
 
-[12](#12).          Minister may give directions to the SBS in the national interest
+[12](#12).          Minister may give directions to the SBS in the national interest        6
 
-[13](#13).          Limits on Government directions to SBS
+[13](#13).          Limits on Government directions to SBS                                            7
 
-[14](#14).           Managing Director
+[14](#14).          Managing Director                                                                              7
 
-[15](#15).          Duties of the Managing Director
+[15](#15).          Duties of the Managing Director                                                         7
 
 **Part 3—The Board of Directors and the Managing Director** 
 
     **Division 1—Provisions relating to non-executive Directors**
 
-[16](#16).          This Division applies to non-executive Directors
+[16](#16).          This Division applies to non-executive Directors                               9
 
-[17](#17).          Appointment of non-executive Directors
+[17](#17).          Appointment of non-executive Directors                                            9
 
-[18](#18).          Term of appointment
+[18](#18).          Term of appointment                                                                          9
 
-[19](#19).          Non-executive Directors hold office on part-time basis
+[19](#19).          Non-executive Directors hold office on part-time basis                    10
 
-[20](#20).          Terms and conditions of appointment not provided for by Act
+[20](#20).          Terms and conditions of appointment not provided for by Act       10
 
-[21](#21).          Appointment of Chairperson and Deputy Chairperson
+[21](#21).          Appointment of Chairperson and Deputy Chairperson                   10
 
-[22](#22).          Board’s functions and powers not affected by vacancy etc 
+[22](#22).          Board’s functions and powers not affected by vacancy etc              10
 
-[23](#23).          Remuneration and allowances of non-executive Directors
+[23](#23).          Remuneration and allowances of non-executive Directors                10
 
-[24](#24).          Acting Chairperson and other acting non-executive Directors
+[24](#24).          Acting Chairperson and other acting non-executive Directors          11
 
-[25](#25).          Leave of absence of non-executive Directors
+[25](#25).          Leave of absence of non-executive Directors                                     12
 
-[26](#26).          Resignation of non-executive Directors
+[26](#26).          Resignation of non-executive Directors                                             12
 
-[27](#27).          Removal of non-executive Directors from office
+[27](#27).          Removal of non-executive Directors from office                               12
 
     **Division 2—Provisions relating to the Managing Director**
 
-[28](#28).          Appointment of Managing Director
+[28](#28).          Appointment of Managing Director                                                  14
 
-[29](#29).          Term of appointment of Managing Director
+[29](#29).          Term of appointment of Managing Director                                     14
 
-[30](#30).          Managing Director holds office on a full-time basis
+[30](#30).          Managing Director holds office on a full-time basis                          14
 
-[31](#31).          Terms and conditions of appointment not provided for by Act
+[31](#31).          Terms and conditions of appointment not provided for by Act       14
 
-[32](#32).          Remuneration and allowances of Managing Director
+[32](#32).          Remuneration and allowances of Managing Director                        14
 
-[33](#33).          Acting Managing Director
+[33](#33).          Acting Managing Director                                                                 15
 
-[34](#34).          Leave of absence of Managing Director
+[34](#34).          Leave of absence of Managing Director                                             15
 
-[35](#35).          Resignation of Managing Director
+[35](#35).          Resignation of Managing Director                                                     16
 
-[36](#36).          Duty of Managing Director to disclose certain interests
+[36](#36).          Duty of Managing Director to disclose certain interests                   16
 
-[37](#37).          Removal of Managing Director from office
+[37](#37).          Removal of Managing Director from office                                       16
 
     **Division 3—Meetings of the Board**
 
-[38](#38).          Meetings of the Board
+[38](#38).          Meetings of the Board                                                                       17
 
-[39](#39).          Presiding at meetings
+[39](#39).          Presiding at meetings                                                                         17
 
-[40](#40).          Quorum and voting at meetings
+[40](#40).          Quorum and voting at meetings                                                         17
 
-[41](#41).          Conduct of meetings
+[41](#41).          Conduct of meetings                                                                          18
 
-[42](#42).          Resolutions without formal meetings
+[42](#42).          Resolutions without formal meetings                                                18
 
 **Part 4—Powers and duties of the SBS**
 
-[44](#44).          General powers of the SBS
+[44](#44).          General powers of the SBS                                                                20
 
-[45](#45).          Advertising and sponsorship
+[45](#45).          Advertising and sponsorship                                                             21
 
-[46](#46).          Community information
+[46](#46).          Community information                                                                    23
 
-[47](#47).          Corporate plans
+[47](#47).          Corporate plans                                                                                 23
 
-[48](#48).          Matters to be included in corporate plans
+[48](#48).          Matters to be included in corporate plans                                         23
 
-[49](#49).          Corporate plans to be given to Minister
+[49](#49).          Corporate plans to be given to Minister                                           24
 
-[50](#50).          Community Advisory Committee
+[50](#50).          Community Advisory Committee                                                     24
 
-[51](#51).          Board to notify Minister of certain matters
+[51](#51).          Board to notify Minister of certain matters                                      25
 
-[52](#52).          Power to form companies etc 
+[52](#52).          Power to form companies etc                                                            25
 
 **Part 5—Staff**
 
-[53](#53).          Staff of the SBS until section 54 commences
+[53](#53).          Staff of the SBS until section 54 commences                                    27
 
-[54](#54).          Staff of the SBS
+[54](#54).          Staff of the SBS                                                                                 27
 
-[55](#55).          The SBS is to achieve and maintain high standards as an employer
+[55](#55).          The SBS is to achieve and maintain high standards as an employer  27
 
 **Part 6—Finance**
 
-[56](#56).          Money to be appropriated
+[56](#56).          Money to be appropriated                                                                28
 
-[57](#57).          Money of the SBS
+[57](#57).          Money of the SBS                                                                             28
 
-[58](#58).          Application of money
+[58](#58).          Application of money                                                                       28
 
-[59](#59).          Borrowing from the Commonwealth
+[59](#59).          Borrowing from the Commonwealth                                                 29
 
-[60](#60).          Borrowings otherwise than from the Commonwealth
+[60](#60).          Borrowings otherwise than from the Commonwealth                       29
 
-[61](#61).          Guarantee of borrowing
+[61](#61).          Guarantee of borrowing                                                                     29
 
-[62](#62).          The SBS may give security
+[62](#62).          The SBS may give security                                                                29
 
-[63](#63).          Borrowings not otherwise permitted
+[63](#63).          Borrowings not otherwise permitted                                                 30
 
-[64](#64).          Delegation by Finance Minister
+[64](#64).          Delegation by Finance Minister                                                        30
 
-[65](#65).          Hedging contracts etc 
+[65](#65).          Hedging contracts etc                                                                         30
 
-[68](#68).          Taxation
+[68](#68).          Taxation                                                                                             31
 
 **Part 7—Miscellaneous**
 
-[70](#70).          Application of Broadcasting Act
+[70](#70).          Application of Broadcasting Act                                                       32
 
-[70AA](#70AA).    Report by ACMA on degradation of signal quality
+[70AA](#70AA).    Report by ACMA on degradation of signal quality                          32
 
-[70A](#70A).       Broadcasting of political or controversial matter
+[70A](#70A).       Broadcasting of political or controversial matter                               32
 
-[70B](#70B).       Records of matter broadcast
+[70B](#70B).       Records of matter broadcast                                                              34
 
-[70C](#70C).       Broadcasting of election advertisements
+[70C](#70C).       Broadcasting of election advertisements                                            35
 
-[73](#73).          Matters to be included in annual report
+[73](#73).          Matters to be included in annual report                                            37
 
-[74](#74).          Delegation by the SBS
+[74](#74).          Delegation by the SBS                                                                       38
 
-[75](#75).          Delegation by Managing Director
+[75](#75).          Delegation by Managing Director                                                      38
 
-[76](#76).          Regulations
+[76](#76).          Regulations                                                                                        38
 
 **Part 8—Transitional**
 
-[77](#77).          Interpretation
+[77](#77).          Interpretation                                                                                     39
 
-[78](#78).          Person holding office as Executive Director of the old body corporate
+[78](#78).          Person holding office as Executive Director of the old body corporate   39
 
-[79](#79).          Person holding office as member of the old body corporate
+[79](#79).          Person holding office as member of the old body corporate             40
 
-[80](#80).          Persons employed or engaged by the old body corporate
+[80](#80).          Persons employed or engaged by the old body corporate                 41
 
-[81](#81).          Persons engaged under section 53
+[81](#81).          Persons engaged under section 53                                                      41
 
-[82](#82).          Delegations and authorisations
+[82](#82).          Delegations and authorisations                                                          41
 
-[83](#83).          References to old body corporate in instruments etc 
+[83](#83).          References to old body corporate in instruments etc                        42
 
-[84](#84).          Property, powers, liabilities etc 
+[84](#84).          Property, powers, liabilities etc                                                        42
 
-[85](#85).          Saving of proceedings
+[85](#85).          Saving of proceedings                                                                        42
 
-[86](#86).          Judicial notice
+[86](#86).          Judicial notice                                                                                    43
 
-[87](#87).          Application of money
+[87](#87).          Application of money                                                                       43
 
-[88](#88).          First estimates
+[88](#88).          First estimates                                                                                   43
 
-[89](#89).          Bank accounts to be treated as if opened under this Act
+[89](#89).          Bank accounts to be treated as if opened under this Act                  43
 
-[90](#90).          Audit
+[90](#90).          Audit                                                                                                  44
 
-[91](#91).           Annual report and financial statements
+[91](#91).          Annual report and financial statements                                            44
 
-[92](#92).          Transfer of appropriations
+[92](#92).          Transfer of appropriations                                                                45
 
-**Part 9—Consequential amendments of the Broadcasting Act 1942** 
+**Part 9—Consequential amendments of the Broadcasting Act 1942**
 
-Sections 93 to 115
+[Sections 93 to 115](#Sections 93 to 115).                                                                                           46
 
 **Part 10—Consequential amendments of other Acts**
 
-[116](#116).        Consequential amendments of other Acts
+[116](#116).        Consequential amendments of other Acts                                         47
 
 **Schedule—Consequential amendments of other Acts** 
 
 **Notes** 
+
+ 
+
 
 ## An Act relating to the Special Broadcasting Service Corporation, and for related purposes
 
@@ -1068,7 +1073,7 @@ and must give to the SBS a copy of each determination made under this subsection
 
 ##### <a id="68"></a>68  Taxation
 
-                   The SBS is not subject to taxation under any law of the Commonwealth, of a State or of a Territory.
+                   The SBS is not subject to taxation under any law of the Commonwealth, of a State or of a Territory and, in particular, sales tax is not payable by the SBS, or by any other person, on goods that are for use by the SBS.
 
 ## Part 7—Miscellaneous
 
@@ -1364,7 +1369,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                    All courts, judges and persons acting judicially must take judicial notice of the imprint of the seal of the old body corporate appearing on a document that was executed before the restructuring day and must presume that the document was duly sealed.
 
-##### <a id="87"></a>87  Application of money
+##### <a id="87"></a>87  Application of money
 
                    Despite section 58 of this Act, the money of the restructured body corporate may be applied:
 
@@ -1386,7 +1391,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
 ##### <a id="91"></a>91   Annual report and financial statements
 
-             (1)   If the old body corporate had not, before the restructuring day, furnished a report and financial statement in relation to its operations during the year that ended on 30 June last preceding that day, the Board of the restructured body corporate must prepare a report and financial statement in relation to those operations in accordance with section 79ZH of the _Broadcasting Act 1942_ and, despite the repeal of that section effected by this Act, that section continues in force for the purpose of the preparation of that report and financial statement as if the body required to prepare and furnish the report and financial statement under that section were the restructured body corporate.
+             (1)  If the old body corporate had not, before the restructuring day, furnished a report and financial statement in relation to its operations during the year that ended on 30 June last preceding that day, the Board of the restructured body corporate must prepare a report and financial statement in relation to those operations in accordance with section 79ZH of the _Broadcasting Act 1942_ and, despite the repeal of that section effected by this Act, that section continues in force for the purpose of the preparation of that report and financial statement as if the body required to prepare and furnish the report and financial statement under that section were the restructured body corporate.
 
              (2)  If the restructuring day is a day other than 1 July, the report and financial statement in relation to the operations of the restructured body corporate during the year ending on 30 June next following the restructuring day that is required to be prepared by section 63M of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69 of this Act must include details in relation to the operations of the old body corporate during the part of that year that preceded the restructuring day.
 
@@ -1406,18 +1411,16 @@ the SBS must not broadcast an election advertisement in relation to the election
 
 ##### Sections <a id="93 to 115"></a>93 to 115
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 54pt; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on ComLaw.
+The amendments made by this Part are incorporated in the compilation on SCALEplus.
 
 _Broadcasting Act 1942_
- <span style="font-size:9.0pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
+<span style="FONT-SIZE: 9pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
 
-For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.
-
-* * *
+For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.</div>
 
 ## Part 10—Consequential amendments of other Acts
 
@@ -1427,23 +1430,23 @@ For access to the wording of the amendments made by this Part, _see_ Act  No. 
 
              (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in Australia by the Special Broadcasting Service before the commencement of this section. 
 
+
 # Schedule—Consequential amendments of other Acts
 
 Section <a id="116"></a>116
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus and ComLaw.
 
 Archives Act 1983
 
 Australian Broadcasting Corporation Act 1983
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.</div>
 
-* * *
 
 # Notes to the _Special Broadcasting Service Act 1991_
 
@@ -1473,11 +1476,13 @@ All other relevant information pertaining to application, saving or transitional
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1487,281 +1492,268 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Special Broadcasting Service Act 1991</div>
-  </td>
-  <td>
-    <div>180, 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
-Remainder: 23 Dec 1991</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>105, 1992</div>
-  </td>
-  <td>
-    <div>9 July 1992</div>
-  </td>
-  <td>
-    <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax Amendment (Transitional) Act 1992</div>
-  </td>
-  <td>
-    <div>118, 1992</div>
-  </td>
-  <td>
-    <div>30 Sept 1992</div>
-  </td>
-  <td>
-    <div>28 Oct 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>167, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>1 July 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 3) 1992</div>
-  </td>
-  <td>
-    <div>216, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 9 (ss. 33–35): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
-  </td>
-  <td>
-    <div>32, 1995</div>
-  </td>
-  <td>
-    <div>12 Apr 1995</div>
-  </td>
-  <td>
-    <div>S. 3 (item 122): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>59, 1997</div>
-  </td>
-  <td>
-    <div>3 May 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 49, 50): 1 July 1997 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1207–1218): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Transmission Network Sale (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>131, 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 826, 827): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 119–121): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Broadcasting Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>23, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 29): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 162–168, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>45, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 124–126) and Schedule 4: 1 July 2005 <i>(h)</i> 
-Schedule 2: <i>(h)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 138) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Special Broadcasting Service Act 1991</div>
+    </td>
+    <td>
+      <div>180, 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td>
+      <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
+Remainder: 23 Dec 1991 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>105, 1992</div>
+    </td>
+    <td>
+      <div>9 July 1992</div>
+    </td>
+    <td>
+      <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax Amendment (Transitional) Act 1992</div>
+    </td>
+    <td>
+      <div>118, 1992</div>
+    </td>
+    <td>
+      <div>30 Sept 1992</div>
+    </td>
+    <td>
+      <div>28 Oct 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>167, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>1 July 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act (No. 3) 1992</div>
+    </td>
+    <td>
+      <div>216, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 9 (ss. 33–35): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
+    </td>
+    <td>
+      <div>32, 1995</div>
+    </td>
+    <td>
+      <div>12 Apr 1995</div>
+    </td>
+    <td>
+      <div>S. 3 (item 122): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>59, 1997</div>
+    </td>
+    <td>
+      <div>3 May 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 49, 50): 1 July 1997 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1207–1218): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Transmission Network Sale (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>131, 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 826, 827): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 119–121): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Broadcasting Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>23, 2001</div>
+    </td>
+    <td>
+      <div>6 Apr 2001</div>
+    </td>
+    <td>
+      <div>6 Apr 2001</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 29): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 162–168, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
+    </td>
+    <td>
+      <div>45, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 124–126) and Schedule 4: 1 July 2005 <i>(h)</i> 
+Schedule 2: <i>(h)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 4</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Special Broadcasting Service Act 1991_ was amended by Part 9 (sections 33–35) only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992,_ subsection 2(1) of which provides as follows:
 
@@ -1861,24 +1853,26 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      23\. Schedule 1, item 29
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after subsection 53(2) of the
-        <i>Special Broadcasting Service Act 1991</i>commenced
-    </div>
-  </td>
-  <td>
-    <div>
-      23 December 1991
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        23\. Schedule 1, item 29
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after subsection 53(2) of the
+          <i>Special Broadcasting Service Act 1991</i>commenced
+      </div>
+    </td>
+    <td>
+      <div>
+        23 December 1991
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
 
@@ -1916,62 +1910,65 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 2
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of the provision(s) covered by table
+          item 2.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10\. Schedule 4
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 ## Table of Amendments
 
@@ -1996,406 +1993,409 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; Nos. 8 and 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 105, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 23, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 105, 1992; No. 23, 2001; No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 131, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. Nos. 105 and 216, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 52(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 63, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 58</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 59–61</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101\. 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 105, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 70AA</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70AA</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70A</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70B</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70C</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>rep. No. 131, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 131, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; Nos. 8 and 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 5(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 105, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 23, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 105, 1992; No. 23, 2001; No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 13</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 131, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. Nos. 105 and 216, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 52(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 63, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 58</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 59–61</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>rep. No. 32, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>am. No. 105, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 70AA</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70AA</div>
+    </td>
+    <td>
+      <div>ad. No. 131, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70A</div>
+    </td>
+    <td>
+      <div>ad. No. 105, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70B</div>
+    </td>
+    <td>
+      <div>ad. No. 105, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70C</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>rep. No. 131, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 131, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 131, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2423,79 +2423,5 @@ continues to have effect after the commencing time as if it had been done by the
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
