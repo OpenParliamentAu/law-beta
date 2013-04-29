@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00384/Html/e0e9d9a9-0d5b-433e-83e7-80c33cce5325_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00148/Html/3582952c-43e7-4d17-a6fa-b2f523598c6b_files/image001.gif)
 
 # Healthcare Identifiers Act 2010
 
 **Act No. 72 of 2010 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 29 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -134,11 +134,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Healthcare Identifiers Act 2010_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act commences on the day after this Act receives the Royal Assent.
 
@@ -540,7 +540,7 @@ Example:    A healthcare provider may be asked for original documentation,
 
              (4)  If the service operator is not satisfied by the information given, it does not have to assign a healthcare identifier to the healthcare provider.
 
-##### <a id="9C"></a>9C  Review of decision not to assign a healthcare identifier
+##### <a id="9C"></a>9C  Review of decision not to assign a healthcare identifier
 
              (1)  This section applies to a decision by the service operator not to assign a healthcare identifier to a healthcare provider under paragraph 9(1)(a).
 
@@ -1170,23 +1170,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 152–158): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1260,59 +1243,5 @@ of Assent</div>
     <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 152  Section 5
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 153  Section 5
-
-Insert:
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-## 154  Section 5
-
-Insert:
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
-
-## 155  Section 5
-
-Insert:
-
-                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 156  Section 5 (definition of _service operator_)
-
-Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
-
-## 157  Paragraph 12(2)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the Human Services Department;
-
-## 158  At the end of section 12
-
-Add:
-
-             (4)  This section does not apply to identifying information if:
-
-                     (a)  the data source is the Human Services Department; and
-
-                     (b)  the identifying information was not obtained in connection with a medicare program.
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
