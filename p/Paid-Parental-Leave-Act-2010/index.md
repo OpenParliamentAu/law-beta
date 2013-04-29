@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00909/Html/b53895d4-8ea0-4068-a487-5effc468d285_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00714/Html/c08317ec-0b16-4526-a9ac-9b3efbc01353_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 15 December 2012
- taking into account amendments up to Act No. 154 of 2012
+This compilation was prepared on 1 October 2012
+ taking into account amendments up to Act No. 109 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -561,8 +561,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [130](#130).        Offence—unauthorised use of protected information
 
-[130A](#130A).     Disclosure of information by SSAT members—threat to life, health or welfare
-
 [131](#131).        Offence—soliciting disclosure of protected information
 
 [132](#132).        Offence—offering to supply protected information
@@ -855,9 +853,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [244](#244).        Power to obtain information
 
-    **Division 6—Directions hearings**
+    **Division 6—Pre‑hearing conferences**
 
-[245](#245).        Directions hearings
+[245](#245).        Pre‑hearing conferences
 
 [246](#246).        Powers of SSAT if parties reach agreement
 
@@ -867,13 +865,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [248](#248).        Hearing in private
 
+[249](#249).        Restrictions on disclosure of information obtained at hearing
+
     **Division 8—Other procedural matters**
 
 [250](#250).        Adjournment of SSAT hearings
 
-[251](#251).        Dismissal of application for review by SSAT
+[251](#251).        Withdrawal of application for review
 
-[252](#252).        Dismissal of application for review on request of party
+[252](#252).        Dismissal of an application
 
 [253](#253).        Presiding member at SSAT hearing
 
@@ -886,8 +886,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
     **Division 9—Notice of decisions**
 
 [257](#257).        Procedure following SSAT decision
-
-[257A](#257A).     Notice to persons removed as parties
 
     **Division 10—Correction of errors in decisions or statements of reasons**
 
@@ -938,12 +936,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [272](#272).        Review body may determine events to have happened, or not to have happened
 
 [273](#273).        Certain income test determinations not to be changed on review
-
-[273A](#273A).     Orders restricting disclosure of information
-
-[273B](#273B).     Varying an order to permit certain disclosures
-
-[273C](#273C).     Orders restricting secondary disclosures of information
 
 **Chapter 6—Miscellaneous** 
 
@@ -1607,8 +1599,6 @@ and, without limiting paragraphs (a), (b) and (c), includes a police reservist
 
                     <a name="princip-member"></a>**_Principal Member_** means the Principal Member of the Social Security Appeals Tribunal.
 
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the Social Security Appeals Tribunal.
-
                     <a name="protect-inform"></a>**_protected information_** means:
 
                     (aa)  information about a person that is or was held in the records of the Department or the Human Services Department; or
@@ -1666,12 +1656,6 @@ Note:          Schedule 3 to the _Social Security (Administr
                     <a name="special-categori-visa"></a>**_special category visa_** has the same meaning as in the _Migration Act 1958_.
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT.
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
 
                     <a name="claimant-decision"></a><a name="ssat-review"></a>**_SSAT reviewable_** **_claimant decision_**: see section 215.
 
@@ -2559,7 +2543,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2012C00909/Html/b53895d4-8ea0-4068-a487-5effc468d285_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00714/Html/c08317ec-0b16-4526-a9ac-9b3efbc01353_files/image002.gif)
 
 where:
 
@@ -4616,7 +4600,7 @@ the Secretary must pay the person the difference between the higher amount and t
 
              (2)  To avoid doubt, any difference worked out under subsection (1) is also dad and partner pay.
 
-##### <a id="115EG"></a>115EG  Protection of payment
+##### <a id="115EG"></a>115EG  Protection of payment
 
              (1)  A payment of dad and partner pay is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
 
@@ -4980,14 +4964,6 @@ Note:          Information disclosed under this section must a
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="130A"></a>130A  Disclosure of information by SSAT members—threat to life, health or welfare
-
-                   Despite section 130, an SSAT member may disclose information if the information concerns a threat to the life, health or welfare of a person and either of the following applies:
-
-                     (a)  the member believes on reasonable grounds that the disclosure is necessary to prevent or lessen the threat;
-
-                     (b)  there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the member discloses the information for the purpose of preventing, investigating or prosecuting such an offence.
-
 ##### <a id="131"></a>131  Offence—soliciting disclosure of protected information
 
              (1)  A person commits an offence if:
@@ -5345,4 +5321,5480 @@ Note:          If the Fair Work Ombudsman gives a compliance n
   </td>
   <td>
     <div>Subsection 105(3)</div>
-  </t
+  </td>
+  <td>
+    <div>60 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>Subsection 157(4) (in relation to a contravention of a compliance notice
+      given in relation to a contravention of section 80 or subsection 81(1)
+      or (2))</div>
+  </td>
+  <td>
+    <div>30 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>Subsection 157(4) (in relation to a contravention of a compliance notice
+      given in relation to any other civil penalty provision)</div>
+  </td>
+  <td>
+    <div>60 penalty units</div>
+  </td>
+</tr></table>
+
+##### <a id="147"></a>147  Civil penalty orders
+
+             (1)  If the Federal Court or the Federal Magistrates Court is satisfied that a person has contravened one or more civil penalty provisions, the court may, on the application of the Secretary or the Fair Work Ombudsman, order the person to pay to the Commonwealth such pecuniary penalty, in relation to each contravention, as the court determines to be appropriate.
+
+Note:          Subsection (3) sets out the maximum penalty that the court may order the person to pay.
+
+             (2)  An order under subsection (1) is a **_civil penalty order_**.
+
+Determining pecuniary penalty
+
+             (3)  The pecuniary penalty must not be more than:
+
+                     (a)  if the person is a body corporate—5 times the maximum number of penalty units referred to in the relevant item in column 2 of the table in section 146; and
+
+                     (b)  otherwise—the maximum number of penalty units referred to in the relevant item in column 2 of the table in section 146.
+
+             (4)  In determining the pecuniary penalty, the court must take into account all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered because of the contravention; and
+
+                     (c)  the circumstances in which the contravention took place; and
+
+                     (d)  whether the person has previously been found by a court in proceedings under this Act to have engaged in any similar conduct; and
+
+                     (e)  the likely impact of the penalty on the person.
+
+Civil enforcement of penalty
+
+             (5)  The pecuniary penalty is a civil debt payable to the Commonwealth.
+
+             (6)  The Commonwealth may enforce a civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
+
+##### <a id="148"></a>148  Proceedings may be heard together
+
+                   The Federal Court or the Federal Magistrates Court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
+
+##### <a id="149"></a>149  Time limit for application for an order
+
+                   Proceedings for a civil penalty order may be commenced no later than 4 years after the contravention.
+
+##### <a id="150"></a>150  Civil evidence and procedure rules for civil penalty orders
+
+                   The Federal Court or the Federal Magistrates Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
+
+##### <a id="151"></a>151  Conduct contravening more than one civil penalty provision
+
+             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Act against a person in relation to the contravention of any one or more of those provisions.
+
+             (2)  However, the person is not liable to more than one pecuniary penalty under this Act in relation to the same conduct.
+
+##### <a id="152"></a>152  Civil proceedings after criminal proceedings
+
+                   Neither the Federal Court nor the Federal Magistrates Court may make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
+
+##### <a id="153"></a>153  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are commenced or have already been commenced against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
+
+                     (a)  the civil proceedings are dismissed; and
+
+                     (b)  costs must not be awarded in relation to the civil proceedings.
+
+##### <a id="154"></a>154  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be commenced against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
+
+##### <a id="155"></a>155  Evidence given in proceedings for penalty not admissible in criminal proceedings
+
+             (1)  Evidence of information given or evidence of production of documents by a natural person is not admissible in criminal proceedings against the person if:
+
+                     (a)  the person previously gave the evidence or produced the documents in proceedings for a civil penalty order against the person for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  However, subsection (1) does not apply to criminal proceedings in relation to the falsity of the evidence given by the person in the proceedings for the civil penalty order.
+
+##### <a id="156"></a>156  Requirement for person to assist in applications for civil penalty orders
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Secretary requests, in writing, the person to give all reasonable assistance in connection with an application for a civil penalty order; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, documents or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Secretary can request a person to assist under subsection (1) only if:
+
+                     (a)  it appears to the Secretary that the person is unlikely to have:
+
+                              (i)  contravened the civil penalty provision to which the application relates; or
+
+                             (ii)  committed an offence constituted by the same, or substantially the same, conduct as the conduct to which the application relates; and
+
+                     (b)  the Secretary suspects or believes that the person can give information relevant to the application.
+
+             (4)  The Secretary cannot request a person to assist under subsection (1) if the person is or has been a lawyer for the person suspected of contravening the civil penalty provision to which the application relates.
+
+             (5)  The Federal Court or the Federal Magistrates Court may order a person to comply with a request under subsection (1) in a specified way. Only the Secretary may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether the application for the civil penalty order has actually been made.
+
+### Division 4—Compliance notices
+
+##### <a id="157"></a>157  Giving a compliance notice
+
+Compliance notice given by Secretary
+
+             (1)  This section applies if the Secretary reasonably believes that a person has contravened one or more of the following provisions:
+
+                     (a)  subsection 82(2) (which deals with notifying the Secretary if certain events happen);
+
+                     (b)  section 103 (which deals with responding to an employer determination);
+
+                     (c)  subsection 105(3) (which deals with giving bank account and pay cycle information etc. after a review).
+
+Compliance notice given by Fair Work Ombudsman
+
+             (2)  This section also applies if the Fair Work Ombudsman reasonably believes that a person has contravened one or more of the following provisions:
+
+                     (a)  subsection 70(2) (which deals with unauthorised deductions from instalments);
+
+                     (b)  subsection 72(1), (2) or (3) (which deals with when an employer pays instalments);
+
+                     (c)  section 74 (which deals with the method of payment of instalments payable by an employer);
+
+                     (d)  section 80 (which deals with giving a person a record of payment);
+
+                     (e)  subsection 81(1) or (2) (which deals with keeping records).
+
+Requirements of a compliance notice
+
+             (3)  The Secretary or the Fair Work Ombudsman may give the person a notice (a **_compliance notice_**) requiring the person to do the following within 14 days of the day on which the notice is given:
+
+                     (a)  take the action set out in the notice to rectify the contravention;
+
+                     (b)  produce reasonable evidence of the person’s compliance with the notice.
+
+             (4)  A person must not fail to comply with a compliance notice.
+
+Note:          This subsection is a civil penalty provision (see section 146).
+
+Contents of a compliance notice
+
+             (5)  A compliance notice must also:
+
+                     (a)  set out the name of the person to whom the notice is given; and
+
+                     (b)  set out the name of the person who gave the notice; and
+
+                     (c)  set out brief details of the alleged contravention; and
+
+                     (d)  explain that a failure to comply with the notice may contravene a civil penalty provision; and
+
+                     (e)  set out any other matters prescribed by the PPL rules.
+
+##### <a id="158"></a>158  Fair Work Ombudsman to notify of outcome of compliance notice
+
+                   If the Fair Work Ombudsman gives a compliance notice to a person, the Fair Work Ombudsman must, as soon as practicable, notify the Secretary, in writing, of the outcome of the compliance notice.
+
+### Division 5—Infringement notices
+
+##### <a id="159"></a>159  Giving an infringement notice
+
+Infringement notice given by Secretary
+
+             (1)  The Secretary may give a person a notice (an **_infringement notice_**) if the Secretary reasonably believes that the person has contravened one or more of the following provisions:
+
+                     (a)  subsection 82(2) (which deals with notifying the Secretary if certain events happen);
+
+                     (b)  section 103 (which deals with responding to an employer determination);
+
+                     (c)  subsection 105(3) (which deals with giving bank account and pay cycle information etc. after a review);
+
+                     (d)  subsection 157(4), in relation to a compliance notice given to the person by the Secretary.
+
+Infringement notice given by Fair Work Ombudsman
+
+             (2)  The Fair Work Ombudsman may give a person a notice (an **_infringement notice_**) if the Fair Work Ombudsman reasonably believes that the person has contravened one or more of the following provisions:
+
+                     (a)  subsection 70(2) (which deals with unauthorised deductions from instalments);
+
+                     (b)  subsection 72(1), (2) or (3) (which deals with when an employer pays instalments);
+
+                     (c)  section 74 (which deals with the method of payment of instalments payable by an employer);
+
+                     (d)  section 80 (which deals with giving a person a record of a payment);
+
+                     (e)  subsection 81(1) or (2) (which deals with keeping records);
+
+                      (f)  subsection 157(4), in relation to a compliance notice given to the person by the Fair Work Ombudsman.
+
+When infringement notice must be given
+
+             (3)  The infringement notice must be given within 12 months of:
+
+                     (a)  if paragraph (1)(d) or (2)(f) applies—the day on which the 14 day period referred to in subsection 157(3) ends; and
+
+                     (b)  otherwise—the day on which the alleged contravention occurred.
+
+Contents of infringement notice
+
+             (4)  An infringement notice must:
+
+                     (a)  set out the name of the person to whom the notice is given; and
+
+                     (b)  set out the name of the person who gave the notice; and
+
+                     (c)  set out brief details of the contravention or alleged contravention, including:
+
+                              (i)  the day referred to in paragraph (3)(a) or (b); and
+
+                             (ii)  the provision of this Act that was allegedly contravened; and
+
+                     (d)  contain a statement to the effect that the matter or matters will not be dealt with by the Federal Court or the Federal Magistrates Court if the penalty specified in the notice is paid to the Commonwealth, within:
+
+                              (i)  28 days after the notice is given; or
+
+                             (ii)  if the Secretary allows a longer period—that longer period; and
+
+                     (e)  give an explanation of how payment of the penalty is to be made; and
+
+                      (f)  set out any other matters prescribed by the PPL rules.
+
+Amount of penalties in infringement notices
+
+             (5)  An infringement notice that is given to a body corporate must specify a pecuniary penalty equal to:
+
+                     (a)  in relation to a contravention of section 80 (which deals with giving a person a record of payments) or subsection 81(1) or (2) (which deals with keeping records)—15 penalty units; and
+
+                     (b)  in relation to a contravention of a compliance notice given in relation to a contravention of section 80 or subsection 81(1) or (2)—15 penalty units; and
+
+                     (c)  otherwise—30 penalty units.
+
+             (6)  An infringement notice that is given to a person other than a body corporate must specify a pecuniary penalty equal to:
+
+                     (a)  in relation to a contravention of section 80 (which deals with giving a person a record of payments) or subsection 81(1) or (2) (which deals with keeping records)—3 penalty units; and
+
+                     (b)  in relation to a contravention of a compliance notice given in relation to a contravention of section 80 or subsection 81(1) or (2)—3 penalty units; and
+
+                     (c)  otherwise—6 penalty units.
+
+##### <a id="160"></a>160  Withdrawal of an infringement notice
+
+             (1)  The Secretary may withdraw an infringement notice that has been given to a person by the Secretary.
+
+             (2)  The Fair Work Ombudsman may withdraw an infringement notice that has been given to a person by the Fair Work Ombudsman.
+
+             (3)  For a withdrawal to be effective, a written notice that withdraws the infringement notice must be given to the person within 42 days after the infringement notice was given to the person.
+
+             (4)  Despite subsection (3), a withdrawal may be effective if it is given to a person later than 42 days after an infringement notice is given to the person if the person has applied to a court for judicial review in relation to the making of an employer determination.
+
+Refund of penalty if infringement notice withdrawn
+
+             (5)  The Commonwealth is liable to refund the amount of the penalty specified in an infringement notice if the infringement notice is withdrawn after the penalty has been paid.
+
+##### <a id="161"></a>161  What happens if the penalty is paid
+
+             (1)  Any liability of a person for an alleged civil penalty is discharged if:
+
+                     (a)  an infringement notice is given to the person in relation to the alleged civil penalty; and
+
+                     (b)  the penalty is paid in accordance with the infringement notice; and
+
+                     (c)  the infringement notice is not withdrawn.
+
+             (2)  In addition, proceedings under Division 3  must not be brought against the person for the alleged civil penalty.
+
+##### <a id="162"></a>162  Effect of this Division on civil proceedings
+
+                   This Division does not:
+
+                     (a)  require an infringement notice to be given in relation to an alleged civil penalty; or
+
+                     (b)  affect the liability of a person to have proceedings under Division 3 brought against the person for an alleged civil penalty if:
+
+                              (i)  the person does not comply with an infringement notice relating to the contravention; or
+
+                             (ii)  an infringement notice relating to the contravention is not given to the person; or
+
+                            (iii)  an infringement notice relating to the contravention is given to the person and later withdrawn; or
+
+                     (c)  limit the discretion of the Federal Court or the Federal Magistrates Court to determine the amount of a penalty to be imposed on a person who is found in proceedings under Division 3 to have contravened a civil penalty provision.
+
+##### <a id="163"></a>163  Further provision in relation to infringement notices
+
+                   The Minister may further provide in relation to infringement notices in the PPL rules.
+
+## Part 4‑3—Debt recovery
+
+### Division 1—Guide to this Part
+
+##### <a id="164"></a>164  Guide to this Part
+
+* * *
+
+This Part provides for debts in relation to the paid parental leave scheme, and for the recovery of debts owing to the Commonwealth.
+
+Division 2 provides for the main debts recoverable by the Commonwealth under this Act, as follows:
+
+<li class="BoxList" style="margin-left:21.25pt">(a)   overpayments or mistaken
+
+payments of parental leave pay or dad and partner pay;</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(b)   PPL funding amounts for a
+
+person that are not paid to the person as parental leave pay;</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(c)   parental leave pay, PPL
+
+funding amounts or dad and partner pay paid to the wrong person.</li>
+
+Division 3 allows an employee to recover, as a debt, parental leave pay due from his or her employer.
+
+Division 4 deals with the procedure for raising a debt that is recoverable by the Commonwealth under this Act, and charging interest on the debt. An administrative charge of $50 is also payable if interest is charged.
+
+Division 5 deals with how the Commonwealth can recover debts.
+
+Division 6 allows the Secretary to write off debts. Even if a debt is written off, it can be later recovered if circumstances change.
+
+Division 7 allows the Secretary to waive debts in various circumstances.
+
+Division 8 provides that debts under this Act apply in relation to matters inside and outside Australia, and to all persons irrespective of nationality or citizenship.
+
+* * *
+
+### Division 2—Main debts recoverable under this Act
+
+##### <a id="165"></a>165  Debts due to the Commonwealth
+
+                   If an amount has been paid by way of parental leave pay, a PPL funding amount or dad and partner pay, the amount (or an amount equivalent to the amount) is a debt due to the Commonwealth only to the extent expressly provided for under:
+
+                     (a)  this Act; or
+
+                     (b)  the _Data‑matching Program (Assistance and Tax) Act 1990_.
+
+Note:          The main debts due to the Commonwealth under this Act are provided for in this Division. Other debts due to the Commonwealth are provided for in the following provisions:
+
+(a)    section 177 (which deals with interest);
+
+(b)    section 179 (which imposes an administrative charge);
+
+(c)    section 186 (which deals with non‑compliance with garnishee notices).
+
+##### <a id="166"></a>166  Parental leave pay instalment debts—instalments paid by employer
+
+             (1)  This section applies if:
+
+                     (a)  the total of amounts paid to a person (the **_first person_**) by way of PPL funding amounts in relation to instalments for another person for a child exceeds (by the **_PPL funding excess_**) the total of amounts payable to the first person as PPL funding amounts in relation to those instalments; and
+
+                     (b)  the first person pays an amount (the **_employer payment_**) to, or in relation to, the other person for the child by way of an instalment; and
+
+                     (c)  the total of employer payments paid for the child exceeds (by the **_instalment excess_**) the total of amounts that are payable by the first person to, or in relation to, the other person for the child as instalments under Division 2 of Part 3‑2 (which deals with the payment of instalments by employers).
+
+Note:          Instalments may stop being payable with retrospective effect if a payability determination that parental leave is payable to the other person for the child is set aside or varied after the instalments are paid.
+
+             (2)  An amount equal to the lesser of the PPL funding excess and the instalment excess is a debt due to the Commonwealth by the other person.
+
+Example:    If no amounts are payable by the first person to, or in relation to, the other person for a child as instalments, the amount of the instalment excess is the total amount of the employer payments.
+
+             (3)  The debt under subsection (2) arises:
+
+                     (a)  if the other person has a PPL period for the child—immediately after the end of the person’s PPL period; or
+
+                     (b)  otherwise—when subsection (1) starts to apply in relation to an employer payment.
+
+Note 1:       The other person does not have a PPL period for the child if a payability determination that parental leave pay is payable to the other person for the child has not been made, or has been set aside. In such a case, a debt will arise as soon as there is an instalment excess.
+
+Note 2:       This section may apply to overpayments by way of instalments or amounts that are mistakenly paid. For example, an overpayment or mistaken payment may arise due to administrative error, the setting aside or variation of a payability determination or payments following a stay order under subsection 41(2) of the AAT Act.
+
+##### <a id="167"></a>167  Parental leave pay instalment debts—instalments paid by Secretary
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary pays an amount (the **_Secretary payment_**) to, or in relation to, a person for a child by way of an instalment; and
+
+                     (b)  the total of Secretary payments paid for the child exceeds the total of amounts that are payable to, or in relation to, the person for the child as instalments under Part 3‑3 (which deals with the payment of instalments by the Secretary).
+
+Note:          Instalments may stop being payable with retrospective effect if the payability determination is set aside or varied after the instalments are paid.
+
+             (2)  An amount equal to the amount of the excess is a debt due to the Commonwealth by the person.
+
+Example:    If no amounts are payable to, or in relation to, a person for a child as instalments, the amount of the excess is the total amount of the Secretary payments.
+
+             (3)  The debt under subsection (2) arises:
+
+                     (a)  if the person has a PPL period for the child—immediately after the end of the person’s PPL period; or
+
+                     (b)  otherwise—when subsection (1) starts to apply in relation to a Secretary payment.
+
+Note 1:       The person does not have a PPL period for the child if a payability determination that parental leave pay is payable to the person for the child has not been made, or has been set aside. In such a case, a debt will arise as soon as there is an excess as referred to in subsection (1).
+
+Note 2:       This section may apply to overpayments by way of instalments or amounts that are mistakenly paid. For example, an overpayment or mistaken payment may arise due to administrative error, the setting aside or variation of a payability determination or payments following a stay order under subsection 41(2) of the AAT Act.
+
+##### <a id="168"></a>168  PPL funding amount debts—amounts not paid as parental leave pay instalments
+
+             (1)  This section applies if the total of amounts paid to a person (the **_first person_**) by way of PPL funding amounts in relation to instalments for another person for a child exceeds the total of amounts paid by the first person to, or in relation to, the other person by way of such instalments for the child.
+
+             (2)  The amount of the excess is a debt due to the Commonwealth by the first person.
+
+Example:    If the first person has not paid any amounts by way of instalments to the other person, the amount of the excess is the total of amounts paid to the first person by way of PPL funding amounts in relation to instalments for the other person for the child.
+
+             (3)  The debt under subsection (2) arises:
+
+                     (a)  if the other person has a PPL period for the child—at the earlier of the following times:
+
+                              (i)  when the Secretary pays one or more of the instalments to, or in relation to, the other person under section 85, 86 or 87 (which deal with the payment of arrears);
+
+                             (ii)  immediately after the end of the other person’s PPL period; or
+
+                     (b)  otherwise—when subsection (1) starts to apply in relation to an amount paid to the first person.
+
+Note 1:       The other person does not have a PPL period for the child if a payability determination that parental leave pay is payable to the person for the child has not been made, or has been set aside. In such a case, a debt will arise as soon as there is an excess referred to in subsection (1).
+
+Note 2:       This section may apply to overpayments by way of PPL funding amounts or amounts that are mistakenly paid. For example, an overpayment or mistaken payment may arise due to administrative error or the revocation or setting aside of an employer determination.
+
+##### <a id="168A"></a>168A  Dad and partner pay debts
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary pays an amount (the **_Secretary payment_**) to, or in relation to, a person for a child by way of dad and partner pay; and
+
+                     (b)  the total of Secretary payments paid for the child exceeds the total of amounts that are payable to, or in relation to, the person for the child under Part 3A‑5 (which deals with the payment of dad and partner pay by the Secretary).
+
+Note:          Dad and partner pay may cease to be payable after it has already been paid, if the payability determination is later set aside or varied.
+
+             (2)  An amount equal to the amount of the excess is a debt due to the Commonwealth by the person.
+
+Example:    If no dad and partner pay is payable to, or in relation to, a person for the child, the amount of the excess is the total amount of the Secretary payments.
+
+             (3)  The debt under subsection (2) arises:
+
+                     (a)  if the person has a DAPP period for the child—immediately after the end of the person’s DAPP period; or
+
+                     (b)  otherwise—when subsection (1) starts to apply in relation to a Secretary payment.
+
+Note 1:       The person does not have a DAPP period for the child if a payability determination that dad and partner pay is payable to the person for the child has not been made, or has been set aside. In such a case, a debt will arise as soon as there is an excess as referred to in subsection (1).
+
+Note 2:       This section may apply to overpayments by way of payments that are mistakenly paid. For example, an overpayment or mistaken payment may arise due to administrative error, the setting aside or variation of a payability determination or payments following a stay order under subsection 41(2) of the AAT Act.
+
+##### <a id="169"></a>169  Wrong person receives parental leave pay instalment, PPL funding amount or dad and partner pay
+
+                 (1)  This section applies if:
+
+                     (a)  an instalment, a PPL funding amount or dad and partner pay (the **_PPL payment_**) is paid by the Secretary or an employer; and
+
+                     (b)  a person (the **_wrong recipient_**) other than the person (the **_right recipient_**) to whom the PPL payment is payable receives the PPL payment (or a part of it); and
+
+                     (c)  the wrong recipient is not authorised by the right recipient, or authorised under law, to receive the PPL payment (or that part).
+
+             (2)  An amount equal to the PPL payment (or that part of the PPL payment), is a debt due by the wrong recipient to:
+
+                     (a)  if the PPL payment is made by the Secretary—the Commonwealth; or
+
+                     (b)  if the PPL payment is made by an employer—the employer.
+
+Note 1:       Because the PPL payment (or part) has not been properly paid to the right recipient, the Secretary or the employer must repay to the right recipient the amount of the PPL payment that ought to have been paid to the right recipient in the first place.
+
+Note 2:       The Secretary may recover a debt due to the Commonwealth under this section from an ADI (see section 192).
+
+##### <a id="170"></a>170  Joint and several liability for debts arising because of false and misleading statements
+
+                   A person (the **_recipient_**) and another person are jointly and severally liable to pay a debt if:
+
+                     (a)  the recipient is liable under this Division to repay an amount (the **_unauthorised amount_**) paid to, or in relation to, the recipient (or an amount equal to such an amount); and
+
+                     (b)  the unauthorised amount was paid because the recipient contravened Part 7.4 of the _Criminal Code_ (which deals with false and misleading statements); and
+
+                     (c)  the other person is convicted of an offence:
+
+                              (i)  that is taken to have been committed in relation to that contravention because of section 11.2 or 11.2A of the _Criminal Code_ (which deal with complicity, common purpose and joint commission); or
+
+                             (ii)  in relation to that contravention against section 11.4 or 11.5 of the _Criminal Code_ (which deal with incitement and conspiracy).
+
+##### <a id="171"></a>171  Debts under the _Data‑matching Program (Assistance and Tax) Act 1990_
+
+                   An amount is recoverable by the Commonwealth if:
+
+                     (a)  the amount has been paid to, or in relation to, a person by way of an instalment or by way of dad and partner pay; and
+
+                     (b)  the amount is a debt due to the Commonwealth under subsection 11(6) of the _Data‑matching Program (Assistance and Tax) Act 1990_.
+
+### Division 3—Parental leave pay recoverable by employees from employers
+
+##### <a id="172"></a>172  PPL funding amount debts—debts owing by employers to employees
+
+             (1)  This section applies if:
+
+                     (a)  a PPL funding amount is paid to an employer in relation to an instalment that is payable to a person; and
+
+                     (b)  the instalment, or part of the instalment, is not paid to, or in relation to, the person in accordance with the following provisions:
+
+                              (i)  section 70 (which deals with unauthorised deductions from instalments);
+
+                             (ii)  Division 2 of Part 3‑2 (which deals with the payment of instalments by employers).
+
+             (2)  So much of the instalment as is not paid to, or in relation to, the person in accordance with section 70 and Division 2 of Part 3‑2, or as arrears under section 85, 86 or 87, is a debt due to the person by the employer, and is recoverable by the person in a court of competent jurisdiction.
+
+### Division 4—Debt notices and interest on debts
+
+##### <a id="173"></a>173  Debt notices—initial notice
+
+Requirement to give initial notice
+
+             (1)  If a debt due to the Commonwealth under this Act has not been wholly paid, the Secretary must give the debtor a notice stating the following:
+
+                     (a)  the date the preparation of the notice is completed (the **_date of the initial debt notice_**);
+
+                     (b)  for a debt under section 168 that relates to a PPL funding amount payable in relation to an instalment (or a debt under this Division in relation to such a debt)—the name of the person to whom, or in relation to whom, the instalment is payable;
+
+                     (c)  the reason the debt was incurred, including a brief explanation of the circumstances that led to the debt being incurred;
+
+                     (d)  the period to which the debt relates;
+
+                     (e)  the outstanding amount of the debt at the date of the initial debt notice;
+
+                      (f)  the day on which the outstanding amount is due and payable;
+
+                     (g)  that a range of options is available for repayment of the debt;
+
+                     (h)  the contact details for inquiries concerning the debt.
+
+Due date
+
+             (2)  The outstanding amount of the debt is due and payable on the 28th day after the date of the initial debt notice.
+
+Combining initial and further debt notices
+
+             (3)  If a notice given under this section states the matters referred to in paragraphs 174(2)(e) and (f) (which relate to interest and an administrative charge), the notice is taken also to be a further debt notice given under section 174.
+
+##### <a id="174"></a>174  Debt notices—further debt notice if repayments not made
+
+When a further debt notice may be given
+
+             (1)  This section applies if:
+
+                     (a)  a person has been given a notice under section 173 for a debt; and
+
+                     (b)  the debt has not been wholly paid; and
+
+                     (c)  either:
+
+                              (i)  the person has failed to enter into a debt payment arrangement to pay the outstanding amount of the debt; or
+
+                             (ii)  the person has entered into a debt payment arrangement, but has failed to make a payment (or payments) in accordance with the arrangement.
+
+Contents of further debt notice
+
+             (2)  The Secretary may give the person a further notice (the **_further debt notice_**) stating the following:
+
+                     (a)  the date the preparation of the notice is completed (the **_date of the further debt notice_**);
+
+                     (b)  the matters referred to in paragraphs 173(1)(b) to (d);
+
+                     (c)  the outstanding amount of the debt at the date of the further debt notice;
+
+                     (d)  the matters referred to in paragraphs 173(1)(f) to (h);
+
+                     (e)  the effect of sections 175, 176, 177 and 179 (which deal with interest and an administrative charge);
+
+                      (f)  how the interest under section 175 is to be calculated.
+
+Note:          A person may be taken to have been given a notice under this section by the giving of an initial notice under section 173 if the matters stated in paragraphs (2)(e) and (f) of this section are stated in the initial notice (see subsection 173(3)).
+
+##### <a id="175"></a>175  Interest on debts—when interest becomes payable
+
+Scope
+
+             (1)  This section applies if a further debt notice is given under section 174 in relation to a debt.
+
+Final debt payment day
+
+             (2)  The **_final debt payment day_** for the payment of a debt is the latest of the following days:
+
+                     (a)  the 90th day after the day on which the outstanding amount of the debt was due and payable;
+
+                     (b)  the 28th day after the date of the further debt notice;
+
+                     (c)  if the debtor (or another person) applies in accordance with section 206 for internal review of the decision to give the notice under section 173, or the further debt notice—the 90th day after the day on which an officer makes a decision in relation to the application.
+
+No arrangement made for payment of debt
+
+             (3)  Subsection (4) applies if:
+
+                     (a)  the person has not entered into a debt payment arrangement, on or before the final debt payment day, to pay the outstanding amount of the debt; and
+
+                     (b)  the further debt notice  states that the person will be required to pay interest under subsection (4) of this section.
+
+             (4)  The person is liable to pay interest on any outstanding amount from time to time:
+
+                     (a)  from and including the first day after the final debt payment day until the debt is wholly paid; and
+
+                     (b)  at the penalty interest rate.
+
+Failure to pay amount due under an arrangement
+
+             (5)  Subsection (6) applies if:
+
+                     (a)  the person has entered into a debt payment arrangement to pay the outstanding amount of the debt; and
+
+                     (b)  the person has failed to make a particular payment in accordance with the arrangement; and
+
+                     (c)  the further debt notice  states that the person will be required to pay interest under subsection (6) of this section.
+
+             (6)  The person is liable to pay interest, at the penalty interest rate, on the outstanding amount from time to time:
+
+                     (a)  if the failure happens on or before the final debt payment day—from and including the first day after the final debt payment day until the debt is wholly paid; or
+
+                     (b)  if the failure happens after the final debt payment day—from and including the day after the day in relation to which the last payment in relation to the debt was made until the debt is wholly paid.
+
+Interest not payable on debts incurred because of Commonwealth administrative error
+
+             (7)  A person is not liable under this section to pay interest on a debt, or the proportion of a debt, that was incurred because of an administrative error made by the Commonwealth or an agent of the Commonwealth.
+
+##### <a id="176"></a>176  Interest on debts—application
+
+                   An amount of interest payable on a debt under section 175 that has been paid on the debt is to be applied as follows:
+
+                     (a)  until the debt (excluding interest) is fully paid—in satisfaction of the amount of the debt that is due when the payment is made;
+
+                     (b)  after the debt (excluding interest) is fully paid—in satisfaction of the interest that had become payable on the debt before the debt was fully paid.
+
+##### <a id="177"></a>177  Interest on debts—recovery as a debt
+
+                   The interest payable by a person under section 175 on the outstanding amount of a debt is a debt due to the Commonwealth by the person.
+
+##### <a id="178"></a>178  Interest exemption determinations
+
+             (1)  The Secretary may determine (by an **_interest exemption determination_**) that interest is not payable, or is not payable in relation to a particular period, by a person on the outstanding amount of a debt.
+
+             (2)  The Secretary may make an interest exemption determination under this section in circumstances that include the Secretary being satisfied that the person has a reasonable excuse for:
+
+                     (a)  failing to enter into a debt payment arrangement to pay the outstanding amount of the debt; or
+
+                     (b)  having entered such an arrangement, failing to make a payment (or payments) in accordance with the arrangement.
+
+             (3)  An interest exemption determination may:
+
+                     (a)  relate to a period before, or to a period that includes a period before, the making of the determination; and
+
+                     (b)  be expressed to be subject to the person complying with one or more stated conditions.
+
+             (4)  If a person has been given a further debt notice requiring the person to pay interest on the debt, the Secretary must give written notice of the decision to make an interest exemption determination to the person as soon as practicable after the determination is made.
+
+             (5)  If a person contravenes a condition, or conditions, of an interest exemption determination without reasonable excuse, the determination ceases to have effect from and including the day on which the contravention, or the earliest of the contraventions, occurred.
+
+             (6)  The Secretary may cancel or vary an interest exemption determination by written notice given to the person.
+
+##### <a id="179"></a>179  Administrative charge
+
+             (1)  When a person first becomes liable to pay interest under section 175 in relation to the outstanding amount of a particular debt, the person is liable to pay an administrative charge of $50 in relation to the outstanding amount of that debt.
+
+             (2)  An administrative charge payable by a person is a debt due to the Commonwealth by the person.
+
+##### <a id="180"></a>180  Penalty interest rate
+
+Interest rate
+
+             (1)  The **_penalty interest rate_** is:
+
+                     (a)  20% per year; or
+
+                     (b)  if a lower rate is prescribed by the PPL rules under subsection (2)—that lower rate.
+
+             (2)  The PPL rules may prescribe a rate of less than 20% per year as the penalty interest rate.
+
+Guidelines
+
+             (3)  The PPL rules must prescribe guidelines for the operation of the provisions of this Act dealing with penalty interest.
+
+### Division 5—How the Commonwealth can recover debts
+
+##### <a id="181"></a>181  Debts to which Division 5 applies
+
+                   This Division applies to debts due to the Commonwealth under this Act.
+
+Note:          See the following provisions:
+
+(a)    Division 2 (which provides for the main debts recoverable under this Act);
+
+(b)    sections 177, 179 and 186 (which provide for debts relating to interest and garnishee notices).
+
+##### <a id="182"></a>182  How to recover debts
+
+                   A debt is recoverable by the Commonwealth from a person by one or more of the following means:
+
+                     (a)  legal proceedings (see section 183);
+
+                     (b)  garnishee notice (see section 184);
+
+                     (c)  debt payment arrangements (see section 190);
+
+                     (d)  deductions from instalments payable to another person for the same child (see section 191);
+
+                     (e)  recovery from an ADI, if the debt arises from a payment to the wrong person, or the amount is to be recovered from a deceased estate (see section 192);
+
+                      (f)  deduction or setting off in relation to a payment to which the debtor (or another person) is entitled under another Act, but only if the other Act expressly provides for recovery of the debt by such deduction or setting off.
+
+Note:          A debt can be recovered by deduction or set off in relation to other payments as follows:
+
+(a)    sections 84 and 92 of the _A New Tax System (Family Assistance) (Administration) Act 1999_(which deal with family tax benefit);
+
+(b)    sections 84A and 92A of the _A New Tax System (Family Assistance) (Administration) Act 1999_ (which deal with family assistance);
+
+(c)    sections 1231 and 1234A of the Social Security Act (which deal with social security payments).
+
+(d)    section 205 of the _Veterans’ Entitlements Act 1986_ (which deals with pensions, allowances and other payments).
+
+##### <a id="183"></a>183  Legal proceedings
+
+                   A debt is recoverable by the Commonwealth in a court of competent jurisdiction.
+
+Note:          See section 189 for time limits on recovery by legal proceedings.
+
+##### <a id="184"></a>184  Garnishee notices—general
+
+Issue of garnishee notice
+
+             (1)  The Secretary may, by written notice (the **_garnishee notice_**) to any of the following people (the **_garnishee_**), require the garnishee to pay the Commonwealth the amount covered by subsection (2) in relation to a debt (the **_original debt_**) that is recoverable by the Commonwealth under this Act from a person (the **_original debtor_**):
+
+                     (a)  a person by whom any money is due or accruing, or may become due, to the original debtor;
+
+                     (b)  a person who holds or may later hold money for or on account of the original debtor;
+
+                     (c)  a person who holds or may later hold money on account of some other person for payment to the original debtor;
+
+                     (d)  a person who has authority from some other person to pay money to the original debtor.
+
+Note 1:       Subsection (3) provides that conditions on the payment of money due to the original debtor are to be ignored for the purposes of this section.
+
+Note 2:       See section 189 for time limits on recovery by garnishee notice.
+
+             (2)  The amount covered by this subsection is:
+
+                     (a)  an amount stated in the garnishee notice, not exceeding the amount of the original debt or the amount of the money referred to in paragraph (1)(a), (b), (c) or (d); or
+
+                     (b)  an amount stated in the garnishee notice out of each payment that the garnishee becomes liable from time to time to make to the original debtor, until the original debt is satisfied; or
+
+                     (c)  the amount of a percentage stated in the garnishee notice of each payment that the garnishee becomes liable from time to time to make to the original debtor, until the original debt is satisfied.
+
+             (3)  For the purposes of this section, if, apart from this subsection, money is not due or repayable on demand to the original debtor unless a condition is fulfilled, the money is taken to be due or repayable on demand, even though the condition has not been fulfilled.
+
+Time for compliance
+
+             (4)  The time for making a payment in compliance with a garnishee notice is the time stated in the notice, but not before:
+
+                     (a)  the money concerned becomes due or is held; or
+
+                     (b)  the end of 14 days after the notice is given.
+
+             (5)  The Secretary must give a copy of a garnishee notice to the original debtor.
+
+##### <a id="185"></a>185  Garnishee notices—amounts paid in compliance
+
+             (1)  A person who makes a payment to the Commonwealth in compliance with a garnishee notice is taken to have made the payment under the authority of the original debtor and of any other person concerned.
+
+             (2)  If, after a garnishee notice is given to a garnishee, an amount is paid by another person in reduction or in satisfaction of the original debt:
+
+                     (a)  the Secretary must notify the garnishee accordingly; and
+
+                     (b)  the amount of the unpaid debt stated in the garnishee notice is taken to be reduced by an amount equal to the amount paid.
+
+##### <a id="186"></a>186  Garnishee notices—debt for failure to comply with notice
+
+             (1)  This section applies if a garnishee fails to comply with the garnishee notice to the extent that the garnishee is capable of complying with it.
+
+             (2)  The amount of the debt outstanding (worked out under subsection (3)) is a debt due to the Commonwealth by the garnishee.
+
+             (3)  The amount of the debt outstanding is the amount equal to the lesser of the following amounts:
+
+                     (a)  as much of the amount required by the garnishee notice to be paid by the garnishee as the garnishee was able to pay;
+
+                     (b)  as much of the debt due by the original debtor when the notice was given as remains due from time to time.
+
+             (4)  If the Commonwealth recovers the whole or part of the debt due by the garnishee under subsection (2), or by the original debtor, then:
+
+                     (a)  both debts are reduced by the amount that the Commonwealth has so recovered; and
+
+                     (b)  the amount of the unpaid debt stated in the garnishee notice is taken to be reduced by the amount so recovered.
+
+             (5)  This section applies to an amount despite any law of a State or a Territory (however expressed) under which the amount is inalienable.
+
+##### <a id="187"></a>187  Garnishee notices—offence for non‑compliance
+
+                   A person commits an offence if:
+
+                     (a)  the person is a garnishee; and
+
+                     (b)  the person is given a garnishee notice; and
+
+                     (c)  the person refuses or fails to comply with the notice.
+
+                    Penalty:  Imprisonment for 12 months.
+
+##### <a id="188"></a>188  Garnishee notices—relationship with other laws
+
+                   Sections 184 to 187 apply to an amount of money despite any law of a State or a Territory (however expressed) under which the amount is inalienable.
+
+##### <a id="189"></a>189  Legal proceedings and garnishee notices—time limits for debt recovery
+
+General rule—6 years after officer becomes aware of debt
+
+             (1)  Action (**_debt recovery action_**) under section 183 or 184 for the recovery of a debt by legal proceedings or garnishee notice is not to be started after the end of 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt.
+
+Extension of time if debt starts to be paid
+
+             (2)  If, within the period referred to in subsection (1), part of the amount owing on the debt is paid, debt recovery action may be commenced within 6 years starting on the day of the payment.
+
+Extension of time if debt acknowledged
+
+             (3)  If, within the period referred to in subsection (1), the person who owes the debt acknowledges that he or she owes it, debt recovery action may be commenced within 6 years starting on the day of acknowledgment.
+
+Extension of time following earlier debt recovery action
+
+             (4)  If, within the period referred to in subsection (1), debt recovery action (the **_first action_**) by one method (either legal proceedings or garnishee notice) is commenced, debt recovery by the other method may be commenced within 6 years after the end of the first action.
+
+Extension of time following internal Departmental action
+
+             (5)  If, within the period referred to in subsection (1), an action covered by subsection (6) is commenced, debt recovery action may be commenced within 6 years after the end of the action.
+
+             (6)  This subsection covers the following actions:
+
+                     (a)  a review of a file relating to action for the recovery of the debt;
+
+                     (b)  other internal Departmental action relating to action for the recovery of the debt.
+
+##### <a id="190"></a>190  Payment of debts by arrangement
+
+             (1)  The Secretary may, on behalf of the Commonwealth, enter into an arrangement (a **_debt payment arrangement_**) with a person who owes a debt, under which the person is to pay the debt, or the outstanding amount of the debt, by part payments in accordance with the terms of the arrangement.
+
+             (2)  A debt payment arrangement operates, or is taken to have operated, on and after the day stated in the arrangement as the day on which the arrangement starts (whether that day is the day on which the arrangement is entered into or an earlier or later day).
+
+             (3)  If a debt payment arrangement does not state a day as referred to in subsection (2), it operates on and after the day on which it is entered into.
+
+             (4)  The Secretary may terminate or alter a debt payment arrangement:
+
+                     (a)  at the debtor’s request; or
+
+                     (b)  after giving 28 days’ notice to the debtor of the proposed termination or alteration; or
+
+                     (c)  without notice, if the Secretary is satisfied that the debtor has failed to disclose material information about the debtor’s true capacity to repay the debt.
+
+##### <a id="191"></a>191  Deductions from instalments payable to another person
+
+             (1)  This section applies if an amount is deducted under subsection 67(2) from an instalment payable to a secondary claimant for a child, if the deduction is for the purposes of the recovery of a debt due to the Commonwealth by the primary claimant in relation to the same child.
+
+             (2)  The debt due to the Commonwealth by the primary claimant is reduced by an amount equal to the amount of the deduction.
+
+##### <a id="192"></a>192  Recovery from an ADI
+
+Payment into wrong account or payment for deceased person
+
+             (1)  This section applies if:
+
+                     (a)  an instalment, a PPL funding amount or dad and partner pay is paid to an ADI for the credit of an account kept with the ADI in the name of a person or persons; and
+
+                     (b)  a debt that is recoverable by the Commonwealth under this Act arises (or such debts arise) because either:
+
+                              (i)  the payment was intended to be paid to someone other than the person, or those persons; or
+
+                             (ii)  the payment was intended to be paid to the person, or one of those persons, but the person for whom the payment was intended dies before the payment was made.
+
+Notice to ADI requiring repayment and to deceased estate
+
+             (2)  The Secretary may give a written notice to the ADI setting out the relevant matters referred to in paragraphs (1)(a) and (b) and requiring the ADI to pay to the Commonwealth, within a period (being a reasonable period) stated in the notice, the lesser of the following amounts:
+
+                     (a)  the amount of the instalment, PPL funding amount or dad and partner pay, as stated in the notice;
+
+                     (b)  the amount standing to the credit of the account when the notice is given to the ADI.
+
+             (3)  If the notice relates to a payment to a person who has died, as soon as possible after issuing the notice, the Secretary must inform the deceased estate in writing of:
+
+                     (a)  the amount sought to be recovered from the deceased person’s account; and
+
+                     (b)  the reasons for the recovery action.
+
+Offence for contravening notice
+
+             (4)  A body corporate commits an offence if:
+
+                     (a)  the body is an ADI; and
+
+                     (b)  the body is given a notice under subsection (2); and
+
+                     (c)  the body refuses or fails to comply with the notice.
+
+                    Penalty:  300 penalty units.
+
+Amount recovered reduces debt
+
+             (5)  Any amount recovered by the Commonwealth from an ADI under this section reduces the amount of a debt referred to in paragraph (1)(b).
+
+### Division 6—Writing off debts
+
+##### <a id="193"></a>193  When debts can be written off
+
+General
+
+             (1)  The Secretary may, on behalf of the Commonwealth, decide to write off, for a stated period or otherwise, a debt that is due to the Commonwealth under this Act.
+
+Note:          Debts recoverable by the Commonwealth under this Act are provided for by the following provisions:
+
+(a)    Division 2 (which provides for the main debts recoverable under this Act);
+
+(b)    sections 177, 179 and 186 (which provide for debts relating to interest and garnishee notices).
+
+Write off conditions
+
+             (2)  The Secretary may decide to write off a debt under subsection (1) if, and only if:
+
+                     (a)  the debt is irrecoverable at law; or
+
+                     (b)  the debtor has no capacity to repay the debt; or
+
+                     (c)  the debtor’s whereabouts are unknown after all reasonable efforts have been made to locate the debtor; or
+
+                     (d)  it is not cost effective for the Commonwealth to take action to recover the debt.
+
+When a debt is irrecoverable
+
+             (3)  For the purposes of paragraph (2)(a), a debt is taken to be irrecoverable at law if, and only if:
+
+                     (a)  the debt cannot be recovered under Division 5, for example because a time limit for recovery action under that Division has elapsed; or
+
+                     (b)  there is no proof of the debt capable of sustaining legal proceedings for its recovery; or
+
+                     (c)  the debtor is discharged from bankruptcy or administration and the debt was incurred before the debtor became bankrupt or entered into administration, and was not incurred by fraud; or
+
+                     (d)  the debtor has died leaving no estate or not enough funds in the debtor’s estate to repay the debt.
+
+When a debtor has capacity to repay by deductions etc.
+
+             (4)  For the purposes of paragraph (2)(b), a person is taken to have the capacity to repay a debt to which subsection (5) applies, unless recovery by those means would cause the person severe financial hardship.
+
+             (5)  This subsection applies to a debt if it could be recovered by deduction or setting off in relation to a payment to which the debtor is entitled under another Act.
+
+When write off comes into operation
+
+             (6)  A decision under subsection (1) to write off a debt comes into operation:
+
+                     (a)  if no day is stated in the decision—on the day the decision is made; or
+
+                     (b)  if a day is stated in the decision—on the stated day (whether that day is before, after or on the day on which the decision is made).
+
+Debt that has been written off may be recovered
+
+             (7)  Nothing in this section prevents anything being done at any time to recover a debt that has been written off under this section.
+
+### Division 7—Waiver of debts
+
+##### <a id="194"></a>194  Waiver of debts—general
+
+             (1)  This Division applies to debts that are due to the Commonwealth under this Act.
+
+Note:          Debts recoverable by the Commonwealth under this Act are provided for by the following provisions:
+
+(a)    Division 2 (which provides for the main debts recoverable under this Act);
+
+(b)    sections 177, 179 and 186 (which provide for debts relating to interest and garnishee notices).
+
+             (2)  The Secretary may, on behalf of the Commonwealth, decide to waive the Commonwealth’s right to recover the whole or a part of a debt, but only if required or allowed to do so under another provision of this Division.
+
+             (3)  A decision to waive the right to recover a debt (or a part of a debt) comes into operation:
+
+                     (a)  if no day is stated in the decision—on the day the decision is made; or
+
+                     (b)  if a day is stated in the decision—on the stated day (whether that day is before, after or on the day on which the decision is made).
+
+##### <a id="195"></a>195  Waiver of debts—administrative error
+
+                   The Secretary must waive the right to recover so much of a debt as is attributable solely to an administrative error made by the Commonwealth, or an agent of the Commonwealth, if:
+
+                     (a)  the debtor received in good faith the payment or payments that gave rise to that proportion of the debt; and
+
+                     (b)  the debtor would suffer severe financial hardship if it were not waived.
+
+##### <a id="196"></a>196  Waiver of debts—arising from offence
+
+                   The Secretary must waive the right to recover so much of a debt as arises from an offence, if:
+
+                     (a)  the debtor is convicted of the offence; and
+
+                     (b)  the court indicated in sentencing the debtor that it imposed a longer custodial sentence on the debtor because he or she was unable or unwilling to pay the debt.
+
+##### <a id="197"></a>197  Waiver of debts—small debts
+
+             (1)  The Secretary must waive the right to recover a debt if:
+
+                     (a)  the debt is, or is likely to be, less than $200; and
+
+                     (b)  it is not cost effective for the Commonwealth to take action to recover the debt.
+
+             (2)  Subsection (1) does not apply if the debt is at least $50 and could be recovered by deduction or setting off in relation to a payment to which the debtor is entitled under another Act.
+
+##### <a id="198"></a>198  Waiver of debts—settlement of civil actions
+
+Settlement of civil action
+
+             (1)  If the Commonwealth has agreed to settle a civil action against a debtor for recovery of a debt for less than the full amount of the debt, the Secretary must waive the right to recover the difference between the debt and the amount that is the subject of the settlement.
+
+Settlement of proceedings before the AAT
+
+             (2)  If the Secretary has agreed to settle proceedings before the AAT relating to recovery of a debt on the basis that the debtor will pay less than the full amount of the debt, the Secretary must waive the right to recover the difference between the debt and the amount that is the subject of the settlement.
+
+Note:          See section 263 (which deals with settlement of proceedings before the AAT).
+
+Waiver where at least 80% of debt recovered and debtor cannot pay more
+
+             (3)  If:
+
+                     (a)  the Commonwealth has recovered at least 80% of the original value of a debt from a debtor; and
+
+                     (b)  the Commonwealth and the debtor agree that the recovery is in full satisfaction for the whole of the debt; and
+
+                     (c)  the debtor cannot repay a greater proportion of the debt;
+
+the Secretary must waive the right to recover the remaining 20% or less of the value of the original debt.
+
+Agreement for part payment in satisfaction of outstanding debt
+
+             (4)  If the Secretary and a debtor agree that the debtor’s debt will be fully satisfied if the debtor pays the Commonwealth an agreed amount less than the amount (the **_unpaid_**_amount_) of the debt outstanding when the agreement is made, the Secretary must, if the agreed amount is paid, waive the right to recover the difference between the unpaid amount and the agreed amount.
+
+Limits on agreement to accept part payment in satisfaction of outstanding debt
+
+             (5)  The Secretary must not make an agreement described in subsection (4) unless the Secretary is satisfied that the agreed amount is at least the present value of the unpaid amount if it is repaid in instalments of amounts, and at times, determined by the Secretary.
+
+Working out present value of unpaid amount
+
+             (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00714/Html/c08317ec-0b16-4526-a9ac-9b3efbc01353_files/image003.gif)
+
+where:
+
+                    <a name="annual-repay"></a>**_annual repayment_** is the amount of the debt that the Secretary believes would be recovered under Division 5 in a year if subsection (4) did not apply in relation to the debt.
+
+                    <a name="rp"></a>**_rp_**(short for repayment period) is the number of years needed to repay the unpaid amount if repayments equal to the annual repayment were made each year.
+
+                    <a name="settlem-interest"></a>**_settlement interest_** is an annual rate of interest prescribed for the purposes of this subsection by the PPL rules.
+
+##### <a id="199"></a>199  Waiver of debts—special circumstances
+
+                   The Secretary may waive the right to recover all or part of a debt if the Secretary is satisfied that:
+
+                     (a)  the debt did not result wholly or partly from the debtor or another person knowingly:
+
+                              (i)  making a false or misleading statement or representation; or
+
+                             (ii)  failing or omitting to comply with a provision of this Act; and
+
+                     (b)  there are special circumstances (other than financial hardship alone) that make it desirable to waive the debt (or part); and
+
+                     (c)  it is more appropriate to waive the debt (or part) than to write off the debt (or part).
+
+##### <a id="200"></a>200  Waiver of debts—determined classes
+
+             (1)  The Secretary may, on behalf of the Commonwealth, decide to waive the Commonwealth’s right to recover debts (or parts of debts) that are included in a class of debts determined by the Minister by legislative instrument.
+
+             (2)  A determination under subsection (1) may state:
+
+                     (a)  conditions to be met before the Secretary exercises the power to waive the debts (or parts); and
+
+                     (b)  limits on the amounts of the debts to be waived.
+
+             (3)  A decision under subsection (1) comes into operation:
+
+                     (a)  if no day is stated in the decision—on the day the decision is made; or
+
+                     (b)  if a day is stated in the decision—on the stated day (whether before, after or on the day the decision is made).
+
+### Division 8—Miscellaneous
+
+##### <a id="201"></a>201  Overseas application of debts
+
+                   The operation of a provision creating a debt under this Part (except for section 171) extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+Note:          Section 171 provides for debts under the _Data‑matching Program (Assistance and Tax) Act 1990_.
+
+##### <a id="201A"></a>201A  Debts arising from civil penalty orders
+
+                   This Part does not apply to a debt arising from a civil penalty order.
+
+# Chapter 5—Review of decisions
+
+## Part 5‑1—Internal review of decisions
+
+### Division 1—Guide to this Part
+
+##### <a id="202"></a>202  Guide to this Part
+
+* * *
+
+This Part is about the internal review of decisions of officers under this Act.
+
+Division 2 sets out 3 kinds of internal review of those decisions.
+
+The first kind of review is where the Secretary, on his or her own initiative, reviews those decisions.
+
+The second kind of review is where a person whose interests are affected by certain decisions (which are “claimant decisions”) applies for internal review of the decision.
+
+The third kind of review is where an employer applies for internal review of certain decisions that affect the employer (those decisions are “employer determination decisions” and “employer funding amount decisions”). Employer determination decisions can only be reviewed on application, and not on the Secretary’s own initiative.
+
+* * *
+
+### Division 2—Internal review of decisions
+
+##### <a id="203"></a>203  Internal review—own‑initiative review by Secretary
+
+             (1)  The Secretary may, on his or her own initiative, review a decision of an officer under this Act if the Secretary is satisfied that there is enough reason to review the decision.
+
+             (2)  However, the Secretary must not, on his or her own initiative, review a decision of an officer under section 101 to make an employer determination.
+
+Note 1:       An employer may apply for review of a decision to make an employer determination (see section 207).
+
+Note 2:       For revocation of employer determinations, see section 108.
+
+             (3)  The Secretary may review a decision:
+
+                     (a)  whether or not any person has applied for review of the decision; and
+
+                     (b)  even though an application has been made to the SSAT or the AAT for review of the decision.
+
+             (4)  On review of a decision, the Secretary may:
+
+                     (a)  affirm the decision; or
+
+                     (b)  vary the decision; or
+
+                     (c)  set the decision aside and substitute a new decision.
+
+             (5)  A reference in subsection (1) to a decision of an officer under this Act includes a reference to a determination that the Secretary is taken, because of a provision of this Act, to have made.
+
+##### <a id="204"></a>204  Internal review—own‑initiative review and tribunal review
+
+             (1)  The Secretary must give the Principal Member written notice of a decision under subsection 203(4) if, when the Secretary makes the decision, an application has been made to the SSAT for review in relation to the decision that was reviewed by the Secretary.
+
+             (2)  The Secretary must give the Registrar of the AAT written notice of a decision under subsection 203(4) if, when the Secretary makes the decision, an application has been made to the AAT for review in relation to the decision that was reviewed by the Secretary.
+
+##### <a id="205"></a>205  Internal review—review following application
+
+             (1)  If an application is made under section 206, 207 or 208 for review of a decision, the Secretary or an authorised review officer must:
+
+                     (a)  review the decision; and
+
+                     (b)  do one of the following:
+
+                              (i)  affirm the decision;
+
+                             (ii)  vary the decision;
+
+                            (iii)  set the decision aside and substitute a new decision.
+
+             (2)  However, an authorised review officer must not, under subsection (1), review a decision relating to the exercise of the Secretary’s power under section 263 (settlement of proceedings before the AAT).
+
+##### <a id="206"></a>206  Internal review—application for review of claimant decision
+
+Claimant decisions
+
+             (1)  This section applies to a decision of an officer under this Act, unless the decision is:
+
+                     (a)  a decision under Part 3‑2 (which deals with the payment of instalments by employer); or
+
+                     (b)  a decision under Part 3‑5 (which deals with employer determinations); or
+
+                     (c)  a decision under Part 4‑2 (which deals with compliance); or
+
+                     (d)  a decision under the PPL rules, if the PPL rules state that this section does not apply to the decision; or
+
+                     (e)  a decision under the regulations, if the regulations state that this section does not apply to the decision.
+
+             (2)  A reference in subsection (1) to a decision of an officer under this Act includes a reference to a determination that the Secretary is taken, because of a provision of this Act, to have made.
+
+             (3)  A decision to which this section applies is a **_claimant decision_**.
+
+Application for review
+
+             (4)  A person whose interests are affected by a claimant decision may apply to the Secretary for review of the decision, unless the decision was made personally by a PPL agency representative.
+
+             (5)  An application under subsection (4) may only be made:
+
+                     (a)  within 28 days after the day the decision was made; or
+
+                     (b)  if the Secretary is satisfied that a longer period should apply—within the longer period.
+
+             (6)  A person cannot make an application under subsection (4) in the person’s capacity as an employer.
+
+##### <a id="207"></a>207  Internal review—application for review of employer determination decision
+
+Scope
+
+             (1)  This section applies to a decision (an **_employer determination decision_**) of an officer under section 101 to make an employer determination.
+
+             (2)  A reference in subsection (1) to a decision of an officer includes a reference to a determination that the Secretary is taken, because of a provision of this Act, to have made.
+
+Application
+
+             (3)  An employer may apply, in writing, to the Secretary for review of an employer determination decision that relates to the employer and a person if the employer believes that:
+
+                     (a)  both:
+
+                              (i)  a condition in paragraph 101(1)(b) or (c) is not satisfied in relation to the employer determination; and
+
+                             (ii)  the employer has not made an election under section 109 that applies to the person; or
+
+                     (b)  a condition in paragraph 101(1)(d) or (e) is not satisfied in relation to the employer determination.
+
+Note 1:       The conditions in paragraphs 101(1)(b) to (e) relate to the employment by an employer of someone to whom parental leave pay is payable.
+
+Note 2:       Section 109 allows an employer to elect to pay instalments to an employee, a class of employees or all employees of the employer. Subsection 101(2) deals with the application of paragraphs 101(1)(b) and (c) if the employer has made an election under section 109 that applies to the person.
+
+             (4)  However, the employer cannot make an application under subsection (3) for review of an employer determination decision that was made personally by a PPL agency representative.
+
+             (5)  An application under subsection (3) may only be made within the 14 day period referred to in section 103.
+
+Note:          Section 103 requires an employer for which an employer determination has been made to, within a 14 day period, either provide a notice to the Secretary accepting the determination or apply for review of the employer determination.
+
+             (6)  An application under subsection (3) must:
+
+                     (a)  specify the condition or conditions that the employer believes are not satisfied; and
+
+                     (b)  if paragraph (3)(a) applies to the application—state whether the employer believes that an election under section 109 applies to the person; and
+
+                     (c)  be signed by a person authorised by the employer; and
+
+                     (d)  be accompanied by:
+
+                              (i)  documentary evidence supporting the application; or
+
+                             (ii)  if the applicant is unable to provide documentary evidence—a statutory declaration supporting the application.
+
+             (7)  The disclosure of personal information (within the meaning of the _Privacy Act 1988_) for the purposes of making an application under subsection (3) is taken to be authorised by law for the purposes of:
+
+                     (a)  the _Privacy Act 1988_; and
+
+                     (b)  any provision of a law of a State or a Territory that provides that personal information may be used or disclosed if the use or disclosure is authorised by law.
+
+##### <a id="208"></a>208  Internal review—application for review of employer funding amount decision
+
+Scope
+
+             (1)  This section applies to a decision of an officer under section 75 to pay a PPL funding amount to an employer.
+
+             (2)  A reference in subsection (1) to a decision of an officer includes a reference to a determination that the Secretary is taken, because of a provision of this Act, to have made.
+
+             (3)  A decision to which this section applies is an **_employer funding amount decision_**.
+
+Application
+
+             (4)  An employer may apply, in writing, to the Secretary for review of an employer funding amount decision that relates to the employer if:
+
+                     (a)  the employer believes that the Secretary has contravened subsection 75(3) in relation to the decision; and
+
+                     (b)  the decision was not made personally by a PPL agency representative.
+
+Note:          Subsection 75(3) requires the Secretary to pay a PPL funding amount to an employer within a certain time.
+
+             (5)  An application under subsection (4) must be signed by a person authorised by the employer.
+
+             (6)  An application under subsection (4) in relation to a PPL funding amount may only be made within 14 days after the second payroll cut‑off referred to in subsection 75(3) in relation to the PPL funding amount.
+
+##### <a id="209"></a>209  Internal review—withdrawal of application
+
+             (1)  A person or an employer who has applied to the Secretary for review of a decision may withdraw the application at any time before the review has been completed.
+
+             (2)  If an application for review of a decision, other than an application under section 207 (which deals with application for review of employer determination decisions), is withdrawn, the application is taken never to have been made.
+
+             (3)  An application may be withdrawn orally or in writing or in any other manner approved by the Secretary.
+
+##### <a id="210"></a>210  Internal review—when decision made on review comes into force
+
+             (1)  A decision under subsection 203(4) or paragraph 205(1)(b) (the **_review decision_**) to vary a decision or to set aside a decision and substitute a new decision comes into force on the day that would give full effect to the review decision.
+
+             (2)  However, a decision comes into force immediately on the giving of the decision if it is a decision under subsection 203(4) or paragraph 205(1)(b) to:
+
+                     (a)  vary an employer determination decision or an employer funding amount decision; or
+
+                     (b)  set aside an employer determination decision or an employer funding amount decision and substitute a new decision.
+
+##### <a id="211"></a>211  Internal review—notice of decision on review of claimant decision
+
+Scope
+
+             (1)  This section applies if a person (the **_decision‑maker_**) makes a decision under subsection 203(4) or paragraph 205(1)(b) in relation to a claimant decision.
+
+Notice
+
+             (2)  The decision‑maker must give written notice of the decision to:
+
+                     (a)  any natural person (other than an employer) if the decision‑maker is satisfied that his or her interests are affected by the decision; and
+
+                     (b)  for a decision under paragraph 205(1)(b) in response to an application—the applicant.
+
+             (3)  If the decision relates to a child, the decision‑maker must also give written notice of the decision to:
+
+                     (a)  any natural person who has made a claim in relation to the child; and
+
+                     (b)  any natural person who has notified the Secretary that he or she intends to make a claim in relation to the child, if the decision‑maker is satisfied that the claim has or would have a reasonable prospect of success.
+
+             (4)  A notice under subsection (2) or (3) given to a person in relation to a decision must include:
+
+                     (a)  a statement to the effect that the person may, subject to this Act, apply to the SSAT for review of the decision; and
+
+                     (b)  a statement to the effect that, if the person is dissatisfied with the decision of the SSAT, application may, subject to the AAT Act, be made to the AAT for review of the decision of the SSAT.
+
+             (5)  Subsection (4) does not apply in relation to a decision referred to in subsection 215(2).
+
+Note:          Subsection 215(2) excludes certain claimant decisions from SSAT review.
+
+             (6)  A notice under subsection (2) or (3) given to a particular person in relation to a decision may also, if the decision‑maker considers it appropriate, include a statement that does one or more of the following, in whole or in part:
+
+                     (a)  sets out the reasons for the decision;
+
+                     (b)  sets out the findings by the decision‑maker on material questions of fact;
+
+                     (c)  refers to the evidence or other material on which those findings were based.
+
+##### <a id="212"></a>212  Internal review—notice of decision relating to employer
+
+Scope
+
+             (1)  This section applies if a person (the **_decision‑maker_**) makes a decision under subsection 203(4) or paragraph 205(1)(b) in relation to:
+
+                     (a)  an employer funding amount decision; or
+
+                     (b)  any other decision under Part 3‑2 (which deals with payment of instalments by employers); or
+
+                     (c)  an employer determination decision; or
+
+                     (d)  any other decision under Part 3‑5 (which deals with employer determinations); or
+
+                     (e)  a decision under Part 4‑2 (which deals with compliance); or
+
+                      (f)  any other decision under this Act that directly affects the interests of an employer.
+
+             (2)  To avoid doubt, paragraph (1)(f) does not apply to a decision if the only effect of the decision on the interests of an employer is that the decision could result in an employer determination for the employer being made, varied, set aside or revoked.
+
+Notice
+
+             (3)  The decision‑maker must give written notice of the decision to the employer concerned.
+
+             (4)  The notice must include a statement that:
+
+                     (a)  sets out the reasons for the decision; and
+
+                     (b)  sets out the findings by the decision‑maker on material questions of fact; and
+
+                     (c)  refers to the evidence or other material on which those findings were based.
+
+             (5)  A notice in relation to a decision referred to in paragraph (1)(a) or (1)(c) must include a statement to the effect that the employer may, subject to this Act, apply to the SSAT for review of the decision.
+
+## Part 5‑2—Review by the Social Security Appeals Tribunal
+
+### Division 1—Guide to this Part
+
+##### <a id="213"></a>213  Guide to this Part
+
+* * *
+
+This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency representatives (which are not subject to internal review).
+
+Division 2 allows people whose interests are affected by claimant decisions to apply for SSAT review.
+
+Division 3 allows employers to apply for SSAT review of employer determination decisions and employer funding amount decisions.
+
+* * *
+
+##### <a id="214"></a>214  SSAT objective under this Act
+
+                   In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
+
+### Division 2—Review by SSAT of claimant decisions
+
+##### <a id="215"></a>215  Application of this Division
+
+             (1)  This Division applies to the following decisions:
+
+                     (a)  if a claimant decision has been affirmed under paragraph 203(4)(a) or subparagraph 205(1)(b)(i)—the claimant decision as affirmed;
+
+                     (b)  if a claimant decision has been varied under paragraph 203(4)(b) or subparagraph 205(1)(b)(ii)—the claimant decision as varied;
+
+                     (c)  if a claimant decision has been set aside under paragraph 203(4)(c) or subparagraph 205(1)(b)(iii) and substituted with a new decision—the new decision;
+
+                     (d)  a claimant decision made personally by a PPL agency representative.
+
+             (2)  However, this Division does not apply to any of the following decisions:
+
+                     (a)  a decision under one of the following provisions (which deal with the making of claims, the form and manner of claims, the form and manner of notices etc.):
+
+                              (i)  subsection 18(4);
+
+                             (ii)  subparagraph 25(1)(c)(ii);
+
+                            (iii)  subsections 53(2), (3) and (4);
+
+                            (iv)  section 56;
+
+                             (v)  subsection 61(2);
+
+                           (va)  subsection 82(2A);
+
+                            (vi)  paragraph 109(2)(a);
+
+                           (vii)  subsection 110(1);
+
+                         (viia)  subparagraph 115BK(1)(c)(ii);
+
+                         (viib)  section 115DC;
+
+                         (viic)  section 115DF;
+
+                         (viid)  subsection 115DL(2);
+
+                          (viii)  paragraph 120(2)(a);
+
+                            (ix)  subsection 125(4);
+
+                             (x)  paragraph 286(2)(b);
+
+                            (xi)  paragraph 288(2)(b);
+
+                           (xii)  paragraph 289(2)(b);
+
+                          (xiii)  subsection 289(5);
+
+                     (b)  a decision under subsection 69(2) (which deals with deductions relating to child support);
+
+                     (c)  a decision under section 117, 118 or 119 (which deal with gathering information from any person);
+
+                     (d)  a decision relating to the Secretary’s power under section 263 to settle proceedings before the AAT;
+
+                     (e)  a decision under the PPL rules, if the PPL rules state that this Division does not apply to the decision;
+
+                      (f)  a decision under the regulations, if the regulations state that this Division does not apply to the decision.
+
+             (3)  A decision to which this Division applies is an **_SSAT reviewable_** **_claimant decision_**.
+
+##### <a id="216"></a>216  SSAT review of claimant decision—application for review
+
+             (1)  A person whose interests are affected by an SSAT reviewable claimant decision may apply to the SSAT for review of the decision.
+
+Note:          See section 217 (which deals with making an application).
+
+             (2)  An application under subsection (1) may only be made:
+
+                     (a)  within 28 days after the day the SSAT reviewable claimant decision was made; or
+
+                     (b)  if the SSAT is satisfied that a longer period should apply—within the longer period.
+
+             (3)  A person cannot make an application under subsection (1) in the person’s capacity as an employer.
+
+##### <a id="217"></a>217  SSAT review of claimant decision—making of application
+
+             (1)  A person may apply to the SSAT for review of an SSAT reviewable claimant decision by:
+
+                     (a)  sending or delivering a written application to:
+
+                              (i)  an office of the SSAT; or
+
+                             (ii)  an office of the Department; or
+
+                            (iii)  if the decision was made by the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department—an office of the Human Services Department; or
+
+                     (b)  going to an office of the SSAT and making an oral application; or
+
+                     (c)  contacting an office of the SSAT by telephone and making an oral application.
+
+             (2)  If a person makes an oral application in accordance with paragraph (1)(b) or (c), the person receiving the oral application must make a written record of the details of the oral application and note on the record the day on which the application is made.
+
+             (3)  If a written record of an oral application is made in accordance with subsection (2), Part 5‑3 has effect as if the written record were a written application.
+
+             (4)  An application may include a statement of the reasons for seeking a review of the decision.
+
+##### <a id="218"></a>218  SSAT review of claimant decision—review following application
+
+                   If a person applies to the SSAT for review of an SSAT reviewable claimant decision, the SSAT must:
+
+                     (a)  affirm the decision; or
+
+                     (b)  vary the decision; or
+
+                     (c)  set the decision aside and:
+
+                              (i)  substitute a new decision; or
+
+                             (ii)  send the matter back to a PPL agency representative for reconsideration in accordance with any directions or recommendations of the SSAT.
+
+##### <a id="219"></a>219  SSAT review of claimant decision—powers of the SSAT
+
+                   The SSAT may, for the purposes of reviewing a decision under this Division, exercise all the powers and discretions that are conferred by this Act on the Secretary.
+
+##### <a id="220"></a>220  SSAT review of claimant decision—when SSAT decision comes into force
+
+                   A decision of the SSAT under this Division to vary a decision or to set aside a decision and substitute a new decision comes into force on the day that would give full effect to the decision of the SSAT.
+
+##### <a id="221"></a>221  SSAT review of claimant decision—variation of decision before review completed
+
+             (1)  If an officer varies an SSAT reviewable claimant decision after an application has been made to the SSAT for review of the decision but before the determination of the review, the application for review is taken to be an application for review of the decision as varied.
+
+             (2)  If an officer sets aside an SSAT reviewable claimant decision and substitutes a new decision after an application has been made to the SSAT for review of the original decision but before the determination of the review, the application for review is taken to be an application for review of the new decision.
+
+             (3)  Subsection (4) applies if:
+
+                     (a)  a person applies to the SSAT for review of an SSAT reviewable claimant decision; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets it aside and substitutes a new decision.
+
+             (4)  The person may either:
+
+                     (a)  proceed with the application for review of the decision as varied or the new decision; or
+
+                     (b)  withdraw the application under section 251.
+
+##### <a id="222"></a>222  SSAT review of claimant decision—parties to review
+
+             (1)  The parties to a review by the SSAT under this Division are:
+
+                     (a)  the applicant; and
+
+                     (b)  the Secretary; and
+
+                     (c)  if the claimant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+
+                     (d)  if the claimant decision was made by the Chief Executive Medicare—the Chief Executive Medicare; and
+
+                     (e)  any other person who has been made a party to the review under subsection (3).
+
+             (2)  If a person has applied under section 216 for review of an SSAT reviewable claimant decision, any other person whose interests (other than interests the person has in the person’s capacity as an employer) are affected by the decision may apply, in writing, to the Principal Member to be made a party to the review.
+
+             (3)  The Principal Member may direct that a person who has applied under subsection (2) be made a party to the review.
+
+Principal Member may remove parties
+
+             (4)  The Principal Member may direct that a party to a review no longer be a party to the review if:
+
+                     (a)  the party consents; or
+
+                     (b)  the Principal Member is satisfied that the party does not intend to participate in or proceed with the review:
+
+                              (i)  after having communicated with the party; or
+
+                             (ii)  after having made reasonable attempts to communicate with the party and having failed to do so; or
+
+                     (c)  the party contravenes a direction or order of the SSAT or of the Principal Member given in relation to the review; or
+
+                     (d)  the party fails to attend the hearing.
+
+### Division 3—Review by SSAT of employer decisions
+
+##### <a id="223"></a>223  Application of this Division
+
+             (1)  This Division applies to the following decisions:
+
+                     (a)  if an employer determination decision or an employer funding amount decision has been affirmed under Part 5‑1—the decision as affirmed;
+
+                     (b)  if an employer determination decision or an employer funding amount decision has been varied under Part 5‑1—the decision as varied;
+
+                     (c)  if an employer determination decision or an employer funding amount decision has been set aside and substituted with a new decision under Part 5‑1—the new decision;
+
+                     (d)  an employer determination decision or an employer funding amount decision made personally by a PPL agency representative.
+
+Note:          Part 5‑1 deals with internal review.
+
+             (2)  A decision to which this Division applies is an **_SSAT reviewable_** **_employer decision_**.
+
+##### <a id="224"></a>224  SSAT review of employer decision—application for review
+
+             (1)  An employer may apply to the SSAT for review of an SSAT reviewable employer decision that relates to the employer and a person if the decision is an employer determination decision and the employer believes that:
+
+                     (a)  both:
+
+                              (i)  a condition in paragraph 101(1)(b) or (c) is not satisfied in relation to the employer determination; and
+
+                             (ii)  the employer has not made an election under section 109 that applies to the person; or
+
+                     (b)  a condition in paragraph 101(1)(d) or (e) is not satisfied in relation to the employer determination.
+
+Note 1:       See section 225 (which deals with making an application).
+
+Note 2:       The conditions in paragraphs 101(1)(b) to (e) relate to the employment by an employer of someone to whom parental leave pay is payable.
+
+Note 3:       Section 109 allows an employer to elect to pay instalments to an employee, a class of employees or all employees of the employer. Subsection 101(2) deals with the application of paragraphs 101(1)(b) and (c) if the employer has made an election under section 109 that applies to the person.
+
+             (2)  An employer may apply to the SSAT for review of an SSAT reviewable employer decision that relates to the employer if the decision is an employer funding amount decision.
+
+Note:          See section 225 (which deals with making an application).
+
+             (3)  An application under subsection (1) or (2) may only be made within 14 days after the day on which the SSAT reviewable employer decision was made.
+
+##### <a id="225"></a>225  SSAT review of employer decision—making of application
+
+             (1)  An employer may apply to the SSAT for review of an SSAT reviewable employer decision by sending or delivering a written application to an office of the SSAT.
+
+             (2)  The application must:
+
+                     (a)  be in the form approved by the Principal Member; and
+
+                     (b)  if the application is for review of an employer determination decision:
+
+                              (i)  specify the condition or conditions that the employer believes are not satisfied; and
+
+                             (ii)  if paragraph 224(1)(a) applies to the application—state whether the employer believes that an election under section 109 applies to the person; and
+
+                     (c)  be accompanied by a statutory declaration verifying the application; and
+
+                     (d)  be accompanied by any other documents required or allowed by the form.
+
+             (3)  An application may include a statement of the reasons for seeking a review of the decision.
+
+##### <a id="226"></a>226  SSAT review of employer decision—review following application
+
+                   If an employer applies to the SSAT for review of an SSAT reviewable employer decision, the SSAT must:
+
+                     (a)  affirm the decision; or
+
+                     (b)  vary the decision; or
+
+                     (c)  set the decision aside and:
+
+                              (i)  substitute a new decision; or
+
+                             (ii)  send the matter back to a PPL agency representative for reconsideration in accordance with any directions or recommendations of the SSAT.
+
+##### <a id="227"></a>227  SSAT review of employer decision—powers of the SSAT
+
+                   The SSAT may, for the purposes of reviewing a decision under this Division, exercise all the powers and discretions that are conferred by this Act on the Secretary.
+
+##### <a id="228"></a>228  SSAT review of employer decision—when SSAT decision comes into force
+
+                   A decision of the SSAT under this Division comes into force immediately on the giving of the decision.
+
+##### <a id="229"></a>229  SSAT review of employer decision—variation of decision before review completed
+
+             (1)  If an officer varies an SSAT reviewable employer decision after an application has been made to the SSAT for review of the decision but before determination of the review, the application for review is taken to be an application for review of the decision as varied.
+
+             (2)  If an officer sets aside an SSAT reviewable employer decision and substitutes a new decision after an application has been made to the SSAT for review of the original decision but before the determination of the review, the application for review is taken to be an application for review of the new decision.
+
+             (3)  Subsection (4) applies if:
+
+                     (a)  an employer applies to the SSAT for review of an SSAT reviewable employer decision; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets it aside and substitutes a new decision.
+
+             (4)  The employer may either:
+
+                     (a)  proceed with the application for review of the decision as varied or the new decision; or
+
+                     (b)  withdraw the application under section 251.
+
+##### <a id="230"></a>230  SSAT review of employer decision—parties to review
+
+                   The parties to a review by the SSAT under this Division are:
+
+                     (a)  the employer; and
+
+                     (b)  the Secretary; and
+
+                     (c)  if the relevant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+
+                     (d)  if the relevant decision was made by the Chief Executive Medicare—the Chief Executive Medicare.
+
+## Part 5‑3—Procedures for review by the Social Security Appeals Tribunal
+
+### Division 1—Guide to this Part
+
+##### <a id="231"></a>231  Guide to this Part
+
+* * *
+
+This Part is about the procedures to be followed when the Social Security Appeals Tribunal (SSAT) is reviewing a decision.
+
+Division 2 requires the Secretary and the Principal Member to prepare for the review, arrange for a hearing and notify parties and potential parties.
+
+Division 3 sets out how people other than PPL agency representatives may make submissions to the SSAT.
+
+Division 4 sets out how PPL agency representatives may make submissions to the SSAT.
+
+Division 5 contains other evidentiary provisions, including the Principal Member’s power to obtain information.
+
+Division 6 provides for pre‑hearing conferences to be held. A pre‑hearing conference may result in the SSAT not needing to conduct the review.
+
+Division 7 provides for the hearing of the review.
+
+Division 8 deals with miscellaneous procedural matters.
+
+Division 9 requires the SSAT to give notice of its decision on review.
+
+Division 10 allows obvious errors in decisions and statements of reasons to be corrected.
+
+Division 11 allows a party to an SSAT review of an employer decision to appeal to the Federal Court, on a question of law, in the same way that a party to an AAT review may do so. It also allows the SSAT to refer questions of law to the Federal Court.
+
+* * *
+
+### Division 2—Preliminary procedures
+
+##### <a id="232"></a>232  Procedure on receipt of application for review by SSAT
+
+             (1)  If an application for review by the SSAT of a decision is sent or delivered to an office of the Department or of the Human Services Department, the Secretary must send the application to the Principal Member as soon as practicable and, in any case, not later than 7 days after the application is received at the office.
+
+             (2)  If:
+
+                     (a)  an application for review of a decision is sent or delivered to an office of the SSAT; or
+
+                     (b)  the Secretary sends an application for review of a decision to the Principal Member in accordance with subsection (1);
+
+the Principal Member must give the applicant and the Secretary written notice that the application has been received.
+
+             (3)  Within 28 days after receiving notice of the making of an application from the Principal Member, the Secretary must send to the Principal Member:
+
+                     (a)  a statement about the decision under review that:
+
+                              (i)  sets out the findings of fact made by the person who made the decision; and
+
+                             (ii)  refers to the evidence on which those findings were based; and
+
+                            (iii)  gives the reasons for the decision; and
+
+                     (b)  the original or a copy of every document or part of a document that:
+
+                              (i)  is in the possession, or under the control, of the Secretary; and
+
+                             (ii)  relates to the applicant; and
+
+                            (iii)  is relevant to the review of the decision.
+
+             (4)  If the Principal Member asks the Secretary to send the statement and documents referred to in subsection (3) by a day earlier than the day fixed by that subsection, the Secretary must take all reasonable steps to comply with the Principal Member’s request.
+
+             (5)  If:
+
+                     (a)  after the end of the period referred to in subsection (3) but before the determination of the review, the Secretary obtains possession of a document; and
+
+                     (b)  the Secretary considers that the document or a part of the document is relevant to the review; and
+
+                     (c)  a copy of the document or the part of the document has not been sent to the Principal Member in accordance with subsection (3);
+
+the Secretary must send a copy of the document or the part of the document to an office of the SSAT as soon as practicable after obtaining possession of the document.
+
+             (6)  If the Secretary must provide the Principal Member with a document under this section, the Secretary must provide the Principal Member with:
+
+                     (a)  if the Principal Member requests the Secretary to provide a specified number of copies of the document—that number of copies of the document; or
+
+                     (b)  otherwise—2 copies of the document.
+
+##### <a id="233"></a>233  Parties to be given statements about the decision under review
+
+             (1)  Within 28 days after receiving the notice under subsection 232(2), the Secretary must give each party to the review a copy of the statement and documents referred to in subsection 232(3).
+
+             (2)  As soon as practicable after the Secretary sends a document to an office of the SSAT under subsection 232(5), the Secretary must give each party to the review a copy of the document.
+
+             (3)  The Principal Member may direct, in writing, a person who is required to be given a copy of a statement or a document in accordance with subsection (1) or (2):
+
+                     (a)  not to disclose information in the statement or document; or
+
+                     (b)  not to disclose information in the statement or document except in the circumstances, or for the purposes, specified in the direction.
+
+Offence
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes a direction under subsection (3).
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+##### <a id="234"></a>234  Arrangements for hearing of application
+
+             (1)  If an application is made to the SSAT for review of a decision, the Principal Member must fix a day, time and place for the hearing of the application.
+
+             (2)  The Principal Member must give the applicant and any other parties to the review written notice of the day, time and place fixed for the hearing of the application.
+
+             (3)  The notice under subsection (2) must be given a reasonable time before the day fixed for the hearing.
+
+##### <a id="235"></a>235  Notice of application to person affected by SSAT reviewable claimant decision
+
+             (1)  If:
+
+                     (a)  an application has been made to the SSAT for review of an SSAT reviewable claimant decision; and
+
+                     (b)  the Principal Member is satisfied that the interests of a person (other than interests the person has in the person’s capacity as an employer) who is not a party to the review are affected by the decision;
+
+the Principal Member must take all reasonable steps to give the person written notice that an application has been made to the SSAT for review of the decision.
+
+             (2)  The notice:
+
+                     (a)  must be in writing; and
+
+                     (b)  must include notice of the person’s right under section 222 to apply to the Principal Member to be added as a party to the review; and
+
+                     (c)  may be given at any time before the determination of the review.
+
+             (3)  The Principal Member must give each party to the review a copy of the notice.
+
+### Division 3—Submissions from parties other than PPL agency representatives
+
+##### <a id="236"></a>236  Division does not apply in relation to PPL agency representatives
+
+                   This Division does not apply in relation to a party to a review of a decision who is a PPL agency representative.
+
+##### <a id="237"></a>237  Submissions to SSAT
+
+             (1)  A party to a review of a decision may make oral or written submissions to the SSAT, or both oral and written submissions.
+
+Note 1:       The Principal Member may direct that a hearing be conducted without oral submissions (see section 238).
+
+Note 2:       Also, a hearing may proceed without oral submissions from a party in the circumstances set out in section 239.
+
+             (2)  The party may have another person make submissions to the SSAT on behalf of the party.
+
+             (3)  The Principal Member may determine that submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment.
+
+             (4)  Without limiting subsection (3), the Principal Member may make a determination under subsection (3) in relation to an application if
+
+                     (a)  the application is urgent; or
+
+                     (b)  the party lives in a remote area and unreasonable expense would be incurred if the party or the party’s representative had to travel to the place at which the hearing is to be held; or
+
+                     (c)  the party has failed to attend the hearing and has not indicated that he or she intends to attend the hearing; or
+
+                     (d)  the party is unable to attend the hearing because of illness or infirmity.
+
+             (5)  If the party is not proficient in English, the Principal Member may give directions in relation to the use of an interpreter in relation to the hearing of the review.
+
+##### <a id="238"></a>238  SSAT hearings on written submissions only
+
+             (1)  The Principal Member may direct that a hearing be conducted without oral submissions from the parties if:
+
+                     (a)  the Principal Member considers that the review could be determined fairly on the basis of written submissions by all the parties to the review; and
+
+                     (b)  all parties to the review consent to the hearing being conducted without oral submissions.
+
+             (2)  If the Principal Member gives a direction under subsection (1), the Principal Member must give each of the parties to the review written notice:
+
+                     (a)  informing the party of the direction; and
+
+                     (b)  inviting the party to submit written submissions; and
+
+                     (c)  specifying the address to which the written submissions are to be delivered; and
+
+                     (d)  specifying the time within which the written submissions are to be delivered.
+
+             (3)  The time specified under paragraph (2)(d) must be such as to allow a reasonable period for the parties to make written submissions.
+
+             (4)  Despite subsection (1), the SSAT, as constituted for the hearing, may, if it considers necessary after taking into account the written submissions made by the parties, make an order permitting the parties to make oral submissions to the SSAT at the hearing of the application for review.
+
+##### <a id="239"></a>239  SSAT hearings without oral submissions by party
+
+             (1)  If a party to a review of a decision has informed the Principal Member that the party does not intend to make oral submissions to the SSAT, the SSAT may proceed to hear the application for review without oral submissions from the party.
+
+             (2)  If:
+
+                     (a)  the Principal Member has determined that oral submissions to the SSAT by a party or a party’s representative are to be made by telephone or by means of other electronic communications equipment; and
+
+                     (b)  on the day fixed for the hearing the presiding member has been unable to contact the party or the party’s representative (as the case may be) after taking all reasonable steps to do so;
+
+the Principal Member may authorise the SSAT to proceed to hear the application without oral submissions from the party or the party’s representative (as the case may be).
+
+             (3)  If:
+
+                     (a)  the Principal Member has not determined that oral submissions to the SSAT by a party or a party’s representative are to be made by telephone or by means of other electronic communications equipment; and
+
+                     (b)  the party or the party’s representative (as the case may be) does not attend the hearing at the time fixed for the hearing;
+
+the Principal Member may authorise the SSAT to proceed to hear the application without oral submissions from the party or the party’s representative (as the case may be).
+
+             (4)  If the Principal Member gives an authorisation under subsection (2) or (3), the SSAT may proceed to hear the application in accordance with the authorisation.
+
+             (5)  The Principal Member may revoke an authorisation under subsection (2) or (3).
+
+### Division 4—Submissions from PPL agency representatives
+
+##### <a id="240"></a>240  Submissions from PPL agency representatives
+
+             (1)  A PPL agency representative who is a party to a review of a decision may make written submissions to the SSAT.
+
+PPL agency representative may request permission to make oral submissions etc.
+
+             (2)  The PPL agency representative may, by writing, request the Principal Member for permission to make:
+
+                     (a)  oral submissions to the SSAT; or
+
+                     (b)  both oral and written submissions to the SSAT.
+
+The request must explain how such submissions would assist the SSAT.
+
+             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member taking into account the objective laid down by section 214, such submissions would assist the SSAT.
+
+SSAT may order PPL agency representative to make oral submissions etc.
+
+             (4)  The Principal Member may order the PPL agency representative to make:
+
+                     (a)  oral submissions to the SSAT; or
+
+                     (b)  both oral and written submissions to the SSAT;
+
+if, in the opinion of the Principal Member taking into account the objective laid down by section 214, such submissions would assist the SSAT.
+
+Oral submissions by telephone etc.
+
+             (5)  For the purposes of subsections (3) and (4), the Principal Member may determine that oral submissions to the SSAT by the PPL agency representative are to be made by telephone or by means of other electronic communications equipment.
+
+             (6)  Subsection (5) does not limit subsection (3) or (4).
+
+### Division 5—Other evidence provisions
+
+##### <a id="241"></a>241  Evidence on oath or affirmation
+
+                   The SSAT may take evidence on oath or affirmation for the purposes of a review of a decision.
+
+##### <a id="242"></a>242  Provision of further information by Secretary
+
+             (1)  The Principal Member may ask the Secretary to provide the SSAT with information or a document the Secretary has and that is relevant to the review of a decision.
+
+             (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, not later than 14 days after the request is made.
+
+##### <a id="243"></a>243  Exercise by Secretary of information‑gathering powers
+
+             (1)  The Principal Member may ask the Secretary to exercise the Secretary’s powers under section 117 (which deals with the Secretary’s general power to obtain information) if the Principal Member is satisfied that a person has information, or has custody or control of a document, that is relevant to the review of a decision.
+
+             (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, within 7 days after the request is made.
+
+##### <a id="244"></a>244  Power to obtain information
+
+             (1)  If the Principal Member reasonably believes that it is necessary for the purposes of a review, he or she may, by written notice, direct a person:
+
+                     (a)  to give to the SSAT, within the period and in the manner specified in the notice, information that is relevant to the review; or
+
+                     (b)  to produce to the SSAT, within the period and in the manner specified in the notice, documents that are relevant to the review; or
+
+                     (c)  to attend a hearing and answer questions:
+
+                              (i)  at a reasonable time specified in the notice; and
+
+                             (ii)  at a reasonable place specified in the notice.
+
+             (2)  The period specified in a notice given under paragraph (1)(a) or (b) must be at least 14 days after the notice is given.
+
+Offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes a direction under subsection (1).
+
+                    Penalty:  Imprisonment for 6 months.
+
+Notice to set out the effect of offence provisions
+
+             (4)  A notice under subsection (1) must set out the effect of the following provisions:
+
+                     (a)  subsection (3);
+
+                     (b)  section 137.1 of the _Criminal Code_(about giving false or misleading information);
+
+                     (c)  section 137.2 of the _Criminal Code_(about producing false or misleading documents).
+
+Payment of expenses
+
+             (5)  If a person is required under this section to attend a hearing, the SSAT must determine that the Commonwealth must pay the reasonable costs that are:
+
+                     (a)  incurred by the person for travel and accommodation in relation to the hearing; and
+
+                     (b)  specified in the determination.
+
+             (6)  If the SSAT makes a determination under subsection (5), the costs to which the determination relates are payable by the Commonwealth.
+
+### Division 6—Pre‑hearing conferences
+
+##### <a id="245"></a>245  Pre‑hearing conferences
+
+             (1)  Before the hearing of a review commences, the Principal Member may convene one or more conferences with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
+
+             (2)  At a conference, the Principal Member may:
+
+                     (a)  fix a day or days for the hearing; and
+
+                     (b)  give directions about the time within which submissions are to be made to the SSAT; and
+
+                     (c)  give directions about the time within which evidence is to be brought before the SSAT; and
+
+                     (d)  give directions about what evidence is to be brought before the SSAT.
+
+             (3)  Paragraph (2)(d) does not limit the evidence that may be brought before the SSAT.
+
+Restrictions on disclosure of information obtained at a conference
+
+             (4)  The Principal Member may direct, in writing, a person who is present at a conference:
+
+                     (a)  not to disclose information obtained by the person at the conference; or
+
+                     (b)  not to disclose information obtained by the person at the conference except in the circumstances, or for the purposes, specified in the direction.
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes a direction under subsection (4).
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+##### <a id="246"></a>246  Powers of SSAT if parties reach agreement
+
+             (1)  If:
+
+                     (a)  at a pre‑hearing conference under section 245 with the parties to a review, the parties agree to the terms of a decision of the SSAT:
+
+                              (i)  in the review; or
+
+                             (ii)  in relation to a part of the review, or a matter arising out of the review;
+
+                            that would be acceptable to the parties; and
+
+                     (b)  before the hearing of the review commences, the terms of the agreement are:
+
+                              (i)  put in writing; and
+
+                             (ii)  signed by or on behalf of the parties; and
+
+                            (iii)  lodged with the SSAT; and
+
+                     (c)  before the hearing of the review commences, the SSAT is satisfied that a decision in those terms, or consistent with those terms, would be within the powers of the SSAT;
+
+the SSAT may act in accordance with whichever of subsection (2) or (3) is relevant.
+
+             (2)  If the agreement reached is an agreement as to the terms of a decision of the SSAT in the review, the SSAT may make a decision in accordance with those terms without holding a hearing of the review.
+
+             (3)  If the agreement relates to a part of the review, or a matter arising out of the review, the SSAT may in its decision in the review give effect to the terms of the agreement without dealing at the hearing of the review with the part or matter to which the agreement relates.
+
+### Division 7—The hearing
+
+##### <a id="247"></a>247  Hearing procedure
+
+             (1)  The SSAT, in reviewing a decision:
+
+                     (a)  is not bound by legal technicalities, legal forms or rules of evidence; and
+
+                     (b)  must act as speedily as a proper consideration of the review allows; and
+
+                     (c)  in determining what a proper consideration of the review requires, must take into account the objective laid down by section 214.
+
+             (2)  The SSAT may inform itself on any matter relevant to a review of a decision in any manner it considers appropriate.
+
+##### <a id="248"></a>248  Hearing in private
+
+             (1)  The hearing of a review must be in private.
+
+             (2)  The Principal Member may give directions, in writing or otherwise, as to the persons who may be present at any hearing of a review.
+
+             (3)  In giving directions under subsection (2), the Principal Member must take into account the wishes of the parties and the need to protect their privacy.
+
+##### <a id="249"></a>249  Restrictions on disclosure of information obtained at hearing
+
+             (1)  The Principal Member may direct, in writing, a person who is present at the hearing of a review:
+
+                     (a)  not to disclose information obtained by the person in the course of the hearing; or
+
+                     (b)  not to disclose information obtained by the person in the course of the hearing except in the circumstances, or for the purposes, specified in the direction.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes a direction under subsection (1).
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+### Division 8—Other procedural matters
+
+##### <a id="250"></a>250  Adjournment of SSAT hearings
+
+             (1)  The SSAT may adjourn the hearing of a review of a decision from time to time.
+
+             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if:
+
+                     (a)  the hearing has already been adjourned on 2 or more occasions; or
+
+                     (b)  the SSAT is satisfied that to grant an adjournment would be inconsistent with the pursuit of the objective laid down by section 214.
+
+##### <a id="251"></a>251  Withdrawal of application for review
+
+             (1)  An applicant for review of a decision may withdraw the application at any time.
+
+             (2)  An applicant may withdraw an application by:
+
+                     (a)  sending by any means, or delivering, written notice of withdrawal of the application to:
+
+                              (i)  an office of the SSAT; or
+
+                             (ii)  an office of the Department; or
+
+                            (iii)  an office of another Commonwealth agency, where the Secretary has approved the office for the purposes of this subparagraph; or
+
+                     (b)  going to an office of the SSAT and orally withdrawing the application; or
+
+                     (c)  contacting an office of the SSAT by telephone and orally withdrawing the application.
+
+             (3)  If a person withdraws an application in accordance with paragraph (2)(b) or (c), the person who receives the oral withdrawal must make a written record of the day on which the withdrawal was made.
+
+             (4)  If a person withdraws an application by sending or delivering written notice of withdrawal to an office of a Commonwealth agency, the head of the agency must send a notice of the withdrawal to the Principal Member as soon as practicable and, in any event, not later than 7 days after the notice of withdrawal is received at the office of the agency.
+
+##### <a id="252"></a>252  Dismissal of an application
+
+             (1)  If:
+
+                     (a)  a person or an employer makes an application to the SSAT for review of a decision; and
+
+                     (b)  the Principal Member is satisfied:
+
+                              (i)  after having communicated with the applicant; or
+
+                             (ii)  after having made reasonable attempts to communicate with the applicant and having failed to do so;
+
+                            that the applicant does not intend to proceed with the application;
+
+the Principal Member may dismiss the application.
+
+             (2)  If the Principal Member dismisses an application under subsection (1), the application is taken to have been withdrawn when the application was dismissed.
+
+##### <a id="253"></a>253  Presiding member at SSAT hearing
+
+                   If the SSAT is constituted by 2 or more members for the purposes of the review of a decision, the Principal Member must designate one of those members as the member who must preside at the hearing of the review.
+
+##### <a id="254"></a>254  Decision of questions before SSAT
+
+             (1)  This section applies if the SSAT is constituted by 2 or more members for the purposes of the review of a decision.
+
+             (2)  A question arising before the SSAT on a review must be decided according to the opinion of a majority of the members constituting the SSAT for the purposes of the review.
+
+             (3)  However, if, on a question arising on a review, the opinions of the members of the SSAT are equally divided, the question must be decided according to the opinion of the member presiding.
+
+##### <a id="255"></a>255  Directions as to procedure for hearings
+
+Directions by Principal Member
+
+             (1)  The Principal Member:
+
+                     (a)  may give general directions as to the procedure to be followed in relation to the review of decisions under this Act; and
+
+                     (b)  may give directions as to the procedure to be followed in relation to a particular review.
+
+Note:          Directions may be given to the SSAT or to parties to reviews.
+
+             (2)  A direction under subsection (1) must not be inconsistent with any provision of this Act.
+
+             (3)  A direction under paragraph (1)(b) may be given before or after the hearing of the particular review has commenced.
+
+Directions by presiding member
+
+             (4)  The presiding member of the SSAT as constituted for the purposes of a particular review may give directions as to the procedure to be followed in relation to the review.
+
+             (5)  A direction under subsection (4) must not be inconsistent with:
+
+                     (a)  any provision of this Act; or
+
+                     (b)  a direction under subsection (1) of this section.
+
+             (6)  A direction under subsection (4) may be given before or after the hearing of the particular review has commenced.
+
+Directions must take SSAT objective into account
+
+             (7)  Directions under this section must take into account the objective laid down by section 214.
+
+Legislative instrument status of directions
+
+             (8)  A general direction made under paragraph (1)(a) is a legislative instrument.
+
+             (9)  A direction made under paragraph (1)(b) or subsection (4) is not a legislative instrument.
+
+##### <a id="256"></a>256  Costs of review
+
+General rule
+
+             (1)  A party to a review must bear any expenses incurred by the party in relation to the review.
+
+When the Commonwealth must pay
+
+             (2)  The SSAT may determine that the Commonwealth must pay the reasonable costs that are:
+
+                     (a)  incurred by a party for travel and accommodation in relation to the review; and
+
+                     (b)  specified in the determination.
+
+             (3)  If the SSAT arranges for the provision of a medical service in relation to a party to a review, the SSAT may determine that the Commonwealth must pay the costs of the provision of the service.
+
+             (4)  If the SSAT makes a determination under subsection (2) or (3), the costs to which the determination relates are payable by the Commonwealth.
+
+### Division 9—Notice of decisions
+
+##### <a id="257"></a>257  Procedure following SSAT decision
+
+SSAT affirms decision
+
+             (1)  If the SSAT makes a decision on a review to affirm an SSAT reviewable claimant decision or an SSAT reviewable employer decision, the SSAT must:
+
+                     (a)  prepare a written statement (the **_initial statement_**) that sets out the decision of the SSAT on the review; and
+
+                     (b)  give each party to the review a copy of the initial statement within 14 days after making the decision; and
+
+                     (c)  within 14 days after making the decision, either:
+
+                              (i)  give reasons for the decision orally to each party to the review and explain that the party may make a written request for a statement referred to in subparagraph (ii) within 14 days after the copy of the initial statement is given to the party; or
+
+                             (ii)  give each party to the review a written statement (whether or not as part of the initial statement) that sets out the reasons for the decision, sets out the findings on any material questions of fact and refers to evidence or other material on which the findings of fact are based; and
+
+                     (d)  return to the Secretary any document that the Secretary has provided to the SSAT in relation to the review; and
+
+                     (e)  give the Secretary a copy of any other document that contains evidence or material on which the findings of fact are based.
+
+             (2)  If the SSAT does not give a written statement to a party under subparagraph (1)(c)(ii), the party may, within 14 days after the copy of the initial statement is given to the party, make a written request of the SSAT for such a statement.
+
+             (3)  A PPL agency representative may also make a written request of the SSAT for a written statement referred to in subparagraph (1)(c)(ii) if:
+
+                     (a)  the SSAT has not given such a statement to the PPL agency representative; and
+
+                     (b)  a person applies to the AAT under section 261 for review of the decision of the SSAT on the review referred to in subsection (1).
+
+             (4)  The SSAT must comply with a request under subsection (2) or (3) within 14 days after the day on which it receives the request.
+
+SSAT varies decision or sets decision aside
+
+             (5)  If the SSAT makes a decision on a review to vary or set aside an SSAT reviewable claimant decision or an SSAT reviewable employer decision, the SSAT must:
+
+                     (a)  prepare a written statement that:
+
+                              (i)  sets out the decision of the SSAT on the review; and
+
+                             (ii)  sets out the reasons for the decision; and
+
+                            (iii)  sets out the findings on any material questions of fact; and
+
+                            (iv)  refers to evidence or other material on which the findings of fact are based; and
+
+                     (b)  give each party to the review a copy of the statement referred to in paragraph (a) within 14 days after the making of the decision in relation to the review; and
+
+                     (c)  return to the Secretary any document that the Secretary has provided to the SSAT in relation to the review; and
+
+                     (d)  give the Secretary a copy of any document that contains evidence or material on which the findings of fact are based.
+
+Notice of further review right
+
+             (6)  When the SSAT determines a review in relation to an SSAT reviewable claimant decision, the Principal Member must give each party to the review (other than a PPL agency representative) a written notice that includes a statement to the effect that, if the party is dissatisfied with the decision of the SSAT, application may, subject to the AAT Act, be made to the AAT for review of the decision.
+
+             (7)  A failure to comply with subsection (6) in relation to a decision of the SSAT does not affect the validity of the decision.
+
+### Division 10—Correction of errors in decisions or statements of reasons
+
+##### <a id="258"></a>258  Correction of errors in decisions or statements of reasons
+
+Correction of errors
+
+             (1)  If:
+
+                     (a)  the SSAT makes a decision on a review; and
+
+                     (b)  the presiding member of the SSAT as constituted for the purposes of the review, or the Principal Member, is satisfied that there is an obvious error in:
+
+                              (i)  the text of the decision; or
+
+                             (ii)  a written statement of reasons for the decision;
+
+the presiding member or the Principal Member may alter the text of the decision or statement.
+
+             (2)  If the text of a decision or statement is altered under subsection (1), the altered text is taken to be the decision of the SSAT or the statement of reasons for the decision (as the case may be).
+
+Examples of obvious errors
+
+             (3)  Examples of obvious errors in the text of a decision or statement of reasons are:
+
+                     (a)  an obvious clerical or typographical error in the text of the decision or statement; and
+
+                     (b)  an inconsistency between the decision and the statement.
+
+### Division 11—Appeals and references of questions of law from the SSAT to the Federal Court
+
+##### <a id="259"></a>259  Appeals and references of questions of law in relation to SSAT review of employer decisions
+
+Scope
+
+             (1)  This section applies to proceedings before the SSAT for review of an SSAT reviewable employer decision (**_SSAT employer proceedings_**).
+
+Object
+
+             (2)  The object of this section is to allow SSAT employer proceedings to be subject to judicial review as if they were proceedings before the AAT.
+
+             (3)  In order to achieve this object, this section is intended to allow:
+
+                     (a)  a party to SSAT employer proceedings to appeal to the Federal Court, on a question of law, from any decision of the SSAT in those proceedings; and
+
+                     (b)  a question of law arising in SSAT employer proceedings to be referred to the Federal Court for decision.
+
+Modification of AAT Act
+
+             (4)  Without limiting subsection (3), Part IVA of the AAT Act applies in relation to SSAT employer proceedings as if:
+
+                     (a)  references to the Tribunal in that Part were references to the SSAT; and
+
+                     (b)  paragraph 44(2A)(a) of the AAT Act allowed an appeal to be instituted within the time prescribed by rules of court made under the _Federal Court of Australia Act 1976_, or such further time as is allowed under those rules; and
+
+                     (c)  the reference to section 43AA of the AAT Act in paragraph 44(2B)(b) of that Act were a reference to section 258 of this Act (which allows correction of errors in decisions or statements of reasons); and
+
+                     (d)  the reference to the President in paragraph 45(1)(a) of the AAT Act were a reference to the Principal Member; and
+
+                     (e)  any other necessary changes were made.
+
+Note 1:       Paragraph 44(2A)(a) of the AAT Act sets a time limit within which an appeal must be instituted, unless the Federal Court allows further time to appeal.
+
+Note 2:       Paragraph 44(2B)(b) of the AAT Act provides that the Federal Court may allow further time to appeal if the text of a decision or a statement of reasons for a decision has been altered under section 43AA of the AAT Act (which allows errors to be corrected).
+
+Note 3:       Paragraph 45(1)(a) of the AAT Act requires the President of the AAT to concur before the AAT can refer a question of law arising in proceedings before the AAT to the Federal Court.
+
+             (5)  However, the following provisions of Part IVA of the AAT Act do not apply in relation to SSAT employer proceedings:
+
+                     (a)  subsection 44(2) (which allows certain appeals about standing before the AAT to be made);
+
+                     (b)  paragraphs 44(3)(b) and (c) (which require appeals to be heard by the Full Court of the Federal Court in some circumstances);
+
+                     (c)  subsection 44AA(2) (which prevents appeals being transferred to the Federal Magistrates Court in some circumstances).
+
+## Part 5‑4—Review of claimant decisions by the Administrative Appeals Tribunal
+
+### Division 1—Guide to this Part
+
+##### <a id="260"></a>260  Guide to this Part
+
+* * *
+
+This Part is about how the Secretary or people whose interests are affected by a decision of the Social Security Appeals Tribunal (SSAT) may apply to the Administrative Appeals Tribunal (AAT) for review of the SSAT’s decision. Employers may not seek AAT review of SSAT decisions.
+
+Division 2 allows an application to be made for AAT review of a decision. It also sets out what happens if the SSAT’s decision is varied after an application is made to the AAT, and allows the Secretary to settle proceedings relating to the recovery of a debt.
+
+Division 3 modifies the AAT Act for the purposes of reviews of decisions made under this Act.
+
+* * *
+
+### Division 2—Right to review by AAT
+
+##### <a id="261"></a>261  Review of decisions by AAT
+
+             (1)  The Secretary or a person whose interests are affected by a decision of the SSAT to affirm, vary or set aside an SSAT reviewable claimant decision may apply to the AAT for review of the decision of the SSAT.
+
+             (2)  For the purposes of subsection (1), the decision of the SSAT is taken to be:
+
+                     (a)  where the SSAT affirms an SSAT reviewable claimant decision—that decision as affirmed; and
+
+                     (b)  where the SSAT varies an SSAT reviewable claimant decision—that decision as varied; and
+
+                     (c)  where the SSAT sets aside an SSAT reviewable claimant decision and substitutes a new decision—the new decision; and
+
+                     (d)  where the SSAT sets aside an SSAT reviewable claimant decision and sends the matter back to the Secretary for reconsideration in accordance with any directions or recommendations of the SSAT—the directions or recommendations of the SSAT.
+
+             (3)  A person cannot make an application under subsection (1) in the person’s capacity as an employer.
+
+             (4)  Subsection (1) has effect subject to section 29 of the AAT Act.
+
+##### <a id="262"></a>262  Variation of decision under section 261 before AAT review completed
+
+             (1)  If an officer varies a decision after an application has been made under section 261 to the AAT for review of that decision but before the determination of the application, the application must be treated as if:
+
+                     (a)  the decision as varied had been affirmed by the SSAT; and
+
+                     (b)  the application were an application for review of the decision as varied.
+
+             (2)  If an officer sets a decision aside and substitutes a new decision after an application has been made under section 261 to the AAT for review of the original decision but before the determination of the application, the application must be treated as if:
+
+                     (a)  the SSAT had set aside the original decision and substituted the new decision; and
+
+                     (b)  the application were an application for review of the new decision.
+
+             (3)  If:
+
+                     (a)  a person applies to the AAT for review of a decision under section 261; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets the decision aside and substitutes a new decision;
+
+the applicant may, instead of proceeding with the application under subsection (1) or (2), withdraw the application.
+
+##### <a id="263"></a>263  Settlement of proceedings before the AAT
+
+             (1)  The Secretary may agree with other parties to proceedings before the AAT that relate to the recovery of a debt that the proceedings be settled. The agreement must be in writing.
+
+             (2)  If proceedings are settled and the Secretary gives the AAT a copy of the agreement to settle the proceedings, the application for review of the decision the subject of the proceedings is taken to have been dismissed.
+
+### Division 3—Modification of AAT Act in relation to section 261 review applications
+
+##### <a id="264"></a>264  Notice of application for review
+
+                   The AAT Act applies to an application under section 261 for review of a decision as if the reference in subsection 29(11) of the AAT Act to the person who made the decision were a reference to each person who was a party to the review of the decision by the SSAT (other than the party who made the application under section 261).
+
+##### <a id="265"></a>265  Parties to a review by the AAT
+
+                   The AAT Act applies to an application under section 261 for review as if the reference in paragraph 30(1)(b) of the AAT Act to the person who made the decision were a reference to each party to the review of the decision by the SSAT.
+
+##### <a id="266"></a>266  Lodgment of documents with the AAT
+
+             (1)  The AAT Act applies to an application under section 261 for review as if references in section 37 of the AAT Act to the person who made the decision the subject of the application were references to the following person (the **_deemed decision‑maker_**):
+
+                     (a)  if the decision that was reviewed by the SSAT was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink;
+
+                     (b)  if the decision that was reviewed by the SSAT was made by the Chief Executive Medicare—the Chief Executive Medicare;
+
+                     (c)  otherwise—the Secretary.
+
+             (2)  If a person applies to the AAT under section 261 for review of a decision, the deemed decision‑maker is taken to have complied with his or her obligations under paragraph 37(1)(a) of the AAT Act in relation to the decision if he or she gives the AAT the required number of copies of:
+
+                     (a)  if the decision was affirmed by the SSAT—a statement referred to in subparagraph 257(1)(c)(ii); or
+
+                     (b)  otherwise—the statement prepared by the SSAT under paragraph 257(5)(a).
+
+             (3)  Subsection (2) does not limit the powers of the AAT under section 38 of the AAT Act.
+
+##### <a id="267"></a>267  Power of AAT to obtain additional information
+
+                   The AAT Act applies to an application under section 261 for review as if references in section 38 of the AAT Act to the person who lodges a statement referred to in paragraph 37(1)(a) of that Act with the AAT were references to the Principal Member.
+
+##### <a id="268"></a>268  Operation and implementation of the decision under review
+
+             (1)  The AAT Act applies to an application under section 261 for review of a decision as if references in subsection 41(4) of the AAT Act to the person who made the decision were references to each party to the review by the SSAT.
+
+             (2)  The AAT Act applies to an application under section 261 for review of a decision as if references in section 41 of the AAT Act to the decision to which the relevant proceedings relate were references to:
+
+                     (a)  if the SSAT affirmed the original decision—the original decision; or
+
+                     (b)  if the SSAT varied the original decision:
+
+                              (i)  the original decision as varied by the SSAT; and
+
+                             (ii)  the original decision; or
+
+                     (c)  if the SSAT set aside the original decision and substituted a new decision:
+
+                              (i)  the new decision; and
+
+                             (ii)   the original decision; or
+
+                     (d)  if the SSAT set aside the original decision and sent the matter back to the Secretary for reconsideration in accordance with any directions or recommendations of the SSAT:
+
+                              (i)  any decision made because of that reconsideration; and
+
+                             (ii)  the original decision.
+
+             (3)  For the purposes of subsection (2), the original decision is the decision that was reviewed by the SSAT.
+
+##### <a id="269"></a>269  Failure of party to appear
+
+                   The AAT Act applies to the review of a decision on an application under section 261 as if the reference in subsection 42A(2) of the AAT Act to the person who made the decision were a reference to the Secretary.
+
+## Part 5‑5—Other matters relating to review
+
+### Division 1—Guide to this Part
+
+##### <a id="270"></a>270  Guide to this Part
+
+* * *
+
+This Part contains miscellaneous provisions relating to reviews.
+
+* * *
+
+### Division 2—Other matters relating to review
+
+##### <a id="271"></a>271  Authorised review officers
+
+                   The Secretary may, in writing, authorise an officer to be an authorised review officer for the purposes of this Act.
+
+##### <a id="272"></a>272  Review body may determine events to have happened, or not to have happened
+
+             (1)  This section applies if the Secretary, the SSAT or the AAT (the **_review body_**) is reviewing a decision under this Chapter.
+
+             (2)  If the review body is satisfied that an event did not happen that would have happened if the decision had not been made, the review body may, if satisfied that it is reasonable to do so, determine that this Act is to apply as if the event had happened.
+
+             (3)  If the review body is satisfied that an event happened that would not have happened if the decision had not been made, the review body may, if satisfied that it is reasonable to do so, determine that this Act is to apply as if the event had not happened.
+
+##### <a id="273"></a>273  Certain income test determinations not to be changed on review
+
+             (1)  This section applies to a review being done for the purposes of this Chapter by an officer, the SSAT or the AAT (the **_review body_**) if:
+
+                     (a)  the review involves (wholly or partly) a review of a decision (the **_decision being reviewed_**) that:
+
+                              (i)  a person is or is not eligible for parental leave pay or dad and partner pay; or
+
+                             (ii)  parental leave pay, or dad and partner pay, is or is not payable to a person; and
+
+                     (b)  the review has involved (wholly or partly) the consideration of a determination (the **_income determination_**) that the person satisfies the income test; and
+
+                     (c)  the income determination was taken into account in the making of a decision that parental leave pay or dad and partner pay is payable to the person; and
+
+                     (d)  the person did not knowingly make a false or misleading representation or provide false or misleading information or documents to the Secretary, the SSAT or the AAT in relation to the income determination.
+
+Note:          For the income test, see section 37.
+
+             (2)  Despite any provision of this Chapter or of the AAT Act, the review body must not vary the decision being reviewed, or set aside the decision being reviewed and substitute a new decision, in a way that has the effect of:
+
+                     (a)  varying the income determination so that the person is taken not to have satisfied the income test; or
+
+                     (b)  substituting a new determination that the person did not satisfy the income test.
+
+# Chapter 6—Miscellaneous
+
+## Part 6‑1—How this Act applies in particular circumstances
+
+### Division 1—Guide to this Part
+
+##### <a id="274"></a>274  Guide to this Part
+
+* * *
+
+This Part has rules that modify this Act so that it applies correctly in 3 limited kinds of cases—adoption, claims made in exceptional circumstances etc. and Commonwealth employment.
+
+Division 2 modifies this Act so that it applies correctly for adopted children under 16\. For example, where a provision of this Act refers to the day a child was born, Division 2 modifies that provision so that, when applying that provision to the adopted child, the provision has the effect of referring to the day of placement of the adopted child (instead of the day the adopted child was born).
+
+Division 3 modifies this Act so that it applies correctly for claims that are made in exceptional circumstances and other special cases. For example, where a provision of this Act refers to the day a child was born, Division 3 modifies that provision so that, when applying that provision in relation to a claim that is made in exceptional circumstance, the provision has the effect of referring to the day the claimant became the child’s primary carer (instead of the day the child was born).
+
+Division 4 modifies this Act so that it applies correctly to Commonwealth employment.
+
+* * *
+
+### Division 2—How this Act applies to an adopted child
+
+##### <a id="275"></a>275  How this Act applies to an adopted child
+
+             (1)  This Act applies in relation to an adopted child that satisfies the requirements of subsection (2) as if:
+
+                     (a)  a reference to the birth of a child were a reference to the placement of the child; and
+
+                     (b)  a reference to the day the child was born were a reference to the day of placement of the child; and
+
+                     (c)  a reference to the expected date of birth of the child were a reference to the expected day of placement of the child; and
+
+                     (d)  a reference to a child’s first birthday were a reference to the first anniversary of the day of placement of the child; and
+
+                     (e)  a reference to a completed birth verification form for a child were a reference to information required by the Secretary about the adoption of the child; and
+
+                      (f)  a reference to a child being born during the same multiple birth were a reference to the child being adopted during the same multiple adoption.
+
+When a child satisfies this subsection
+
+             (2)  A child satisfies the requirements of this subsection if:
+
+                     (a)  as part of the process for the adoption of the child by a person, the child is, or is to be, entrusted to the care of the person by an authorised party; and
+
+                     (b)  the child is, or will be, under 16 on the day of placement of the child.
+
+Meaning of **day of placement**
+
+             (3)  The **_day of placement_** of a child with a person is the day on which, as part of the process for the adoption of a child by a person, the child is entrusted to the care of the person by an authorised party.
+
+### Division 3—How this Act applies to claims made in exceptional circumstances and other cases
+
+##### <a id="276"></a>276  How this Act applies to claims made in exceptional circumstances
+
+                   This Act (other than subsection 18(3), which deals with birth registration) applies in relation to a claim that is made in exceptional circumstances as if:
+
+                     (a)  a reference to the birth of a child were a reference to the claimant becoming the child’s primary carer; and
+
+                     (b)  a reference to the day the child was born were a reference to the day the claimant became the child’s primary carer; and
+
+                     (c)  a reference to the expected date of birth of the child were a reference to the day the claimant expects to become the child’s primary carer; and
+
+                     (d)  a reference to a child’s first birthday were a reference to the first anniversary of the day the claimant became the child’s primary carer; and
+
+                     (e)  a reference to a completed birth verification form for a child were a reference to information required by the Secretary about the claimant becoming the child’s primary carer; and
+
+                      (f)  a reference to a child being born during the same multiple birth were a reference to the claimant becoming the primary carer of the child at the same time as becoming the primary carer of another child.
+
+##### <a id="277"></a>277  Primary carers when a child is stillborn or dies
+
+             (1)  If:
+
+                     (a)  a claim is made for parental leave pay for a child; and
+
+                     (b)  before or after the claim is made, the child is stillborn or dies;
+
+then this Act (other than sections 31 and 47) applies as if a reference to the claimant becoming or being the child’s primary carer were a reference to the claimant having become or been the child’s primary carer had the child not been stillborn or died.
+
+Note:          Section 31 deals with eligibility for parental leave pay and section 47 defines who is a primary carer.
+
+          (1A)  If:
+
+                     (a)  a claim is made for dad and partner pay for a child; and
+
+                     (b)  before or after the claim is made, the child is stillborn or dies;
+
+then this Act (other than sections 115CB and 115CL) applies as if a reference to the DAPP claimant caring for the child were a reference to the DAPP claimant caring for the child had the child not been stillborn or died.
+
+Note:          Section 115CB deals with eligibility for dad and partner pay and section 115CL defines when a person is caring for a child for the purposes of dad and partner pay.
+
+             (2)  The PPL rules may modify the operation of subsection (1) or (1A).
+
+### Division 4—How this Act applies to Commonwealth employment
+
+##### <a id="278"></a>278  How this Act applies to Commonwealth employment
+
+             (1)  This Act applies in relation to a person who is engaged by or on behalf of the Commonwealth as an employee, to perform functions in a Commonwealth agency as if:
+
+                     (a)  the employee were employed by the agency (rather than the Commonwealth) for whom the person is to perform functions; and
+
+                     (b)  the agency were a body corporate; and
+
+                     (c)  the head of the agency (however described) has all the rights, duties and powers of an employer in relation to the employee.
+
+             (2)  However, for the purposes of working out for the purposes of paragraph 101(1)(c) (which deals with when the Secretary must make an employer determination) whether the person has, or will have, been employed by the Commonwealth agency for at least 12 months:
+
+                     (a)  treat the reference in that paragraph to the employer as being a reference to the Commonwealth; and
+
+                     (b)  disregard subsection (1) of this section.
+
+## Part 6‑2—Nominees
+
+### Division 1—Guide to this Part
+
+##### <a id="279"></a>279  Guide to this Part
+
+* * *
+
+This Part is about payment nominees (who are people who can receive payments of instalments of parental leave pay, or payments of dad and partner pay, on behalf of other people for the purposes of this Act) and correspondence nominees (who are people who can receive notices on behalf of other people for the purposes of this Act).
+
+Division 2 allows the Secretary to appoint a person to be a payment nominee, or a correspondence nominee, for another person for the purposes of this Act.
+
+Divisions 3, 4 and 5 deal with the consequences of such an appointment.
+
+* * *
+
+### Division 2—Appointment of nominees
+
+##### <a id="280"></a>280  Appointment of payment nominee
+
+             (1)  The Secretary may, in writing:
+
+                     (a)  appoint a person (including a body corporate) to be the payment nominee of another person for the purposes of parental leave pay or dad and partner pay, or both; and
+
+                     (b)  if the appointment is for parental leave pay—direct that the whole or a specified part of an instalment payable by the Secretary to the nominee’s principal under Part 3‑3 be paid to the nominee; and
+
+                     (c)  if the appointment is for dad and partner pay—direct that the whole or a specified part of a payment of dad and partner pay payable to the nominee’s principal be paid to the nominee.
+
+Note:          The Secretary must make the appointment in accordance with section 282.
+
+             (2)  An appointment or a direction made under subsection (1) is not a legislative instrument.
+
+##### <a id="281"></a>281  Appointment of correspondence nominee
+
+             (1)  The Secretary may, in writing, appoint a person (including a body corporate) to be the correspondence nominee of another person for the purposes of parental leave pay or dad and partner pay, or both.
+
+Note:          The Secretary must make the appointment in accordance with section 282.
+
+             (2)  An appointment made under subsection (1) is not a legislative instrument.
+
+##### <a id="282"></a>282  Provisions relating to appointments
+
+             (1)  A person may be appointed as the payment nominee and the correspondence nominee of the same person.
+
+             (2)  The Secretary must not appoint a nominee for a person (the **_proposed principal_**) under section 280 or 281 except:
+
+                     (a)  with the written consent of the person to be appointed; and
+
+                     (b)  after taking into consideration the wishes (if any) of the proposed principal regarding the making of such an appointment.
+
+             (3)  The Secretary must cause a copy of an appointment under section 280 or 281 to be given to:
+
+                     (a)  the nominee; and
+
+                     (b)  the principal.
+
+##### <a id="283"></a>283  Suspension and cancellation of nominee appointments
+
+             (1)  If a person who is appointed as a nominee under section 280 or 281 informs the Secretary in writing that the person no longer wishes to be a nominee under that appointment, the Secretary must, as soon as practicable, cancel the appointment.
+
+             (2)  If:
+
+                     (a)  the Secretary gives a nominee a notice under section 288; and
+
+                     (b)  the nominee informs the Department that:
+
+                              (i)  an event or change of circumstances has happened or is likely to happen; and
+
+                             (ii)  the event or change of circumstances is likely to have an effect referred to in paragraph 288(1)(b);
+
+the Secretary may suspend or cancel the nominee’s appointment.
+
+             (3)  If:
+
+                     (a)  the Secretary gives a nominee a notice under section 288 or 289; and
+
+                     (b)  the nominee does not comply with the requirement of the notice;
+
+the Secretary may suspend or cancel the nominee’s appointment, or each of the nominee’s appointments.
+
+             (4)  While an appointment is suspended, the appointment has no effect for the purposes of this Act.
+
+             (5)  The Secretary may, at any time, cancel the suspension of an appointment under subsection (2) or (3).
+
+             (6)  The suspension or cancellation of an appointment, and the cancellation of such a suspension, must be in writing.
+
+             (7)  The cancellation of an appointment has effect on and from such day, being later than the day of the cancellation, as is specified in the cancellation.
+
+             (8)  The Secretary must give the principal and the nominee a copy of:
+
+                     (a)  a suspension of the nominee’s appointment; or
+
+                     (b)  a cancellation of the nominee’s appointment; or
+
+                     (c)  a cancellation of a suspension of the nominee’s appointment.
+
+             (9)  A suspension or cancellation of an appointment, or a cancellation of such a suspension, under this section is not a legislative instrument.
+
+### Division 3—Payment to payment nominee
+
+##### <a id="284"></a>284  Payment of instalments to payment nominee
+
+             (1)  If:
+
+                     (a)  a person has a payment nominee; and
+
+                     (b)  the whole or a part of an instalment is payable to the person; and
+
+                     (c)  the Secretary has given a direction in relation to the instalment under section 280;
+
+the instalment must be paid in accordance with the direction.
+
+             (2)  An instalment paid to the payment nominee of a person:
+
+                     (a)  is paid to the payment nominee on behalf of the person; and
+
+                     (b)  is taken, for the purposes of this Act (other than this Part), to have been paid to the person and to have been so paid when it was paid to the nominee.
+
+             (3)  An instalment that is to be paid to the payment nominee of a person must be paid to the credit of a bank account nominated and maintained by the nominee.
+
+             (4)  The Secretary may direct that the whole or a part of an instalment that is to be paid to a payment nominee be paid to the payment nominee in a different way from that provided for by subsection (3). If the Secretary gives such a direction, an instalment to which the direction relates must be paid in accordance with the direction.
+
+             (5)  A direction given under subsection (4) is not a legislative instrument.
+
+##### <a id="284A"></a>284A  Payment of dad and partner pay to payment nominee
+
+             (1)  If:
+
+                     (a)  a person has a payment nominee; and
+
+                     (b)  the whole or a part of a payment of dad and partner pay is payable to the person; and
+
+                     (c)  the Secretary has given a direction in relation to the payment under section 280;
+
+the payment must be paid in accordance with the direction.
+
+             (2)  A payment of dad and partner pay paid to the payment nominee of a person:
+
+                     (a)  is paid to the payment nominee on behalf of the person; and
+
+                     (b)  is taken, for the purposes of this Act (other than this Part), to have been paid to the person and to have been so paid when it was paid to the nominee.
+
+             (3)  A payment of dad and partner pay that is to be paid to the payment nominee of a person must be paid to the credit of a bank account nominated and maintained by the nominee.
+
+             (4)  The Secretary may direct that the whole or a part of a payment of dad and partner pay that is to be paid to a payment nominee be paid to the payment nominee in a different way from that provided for by subsection (3). If the Secretary gives such a direction, a payment to which the direction relates must be paid in accordance with the direction.
+
+             (5)  A direction given under subsection (4) is not a legislative instrument.
+
+### Division 4—Functions and responsibilities of nominees
+
+##### <a id="285"></a>285  Actions of correspondence nominee on behalf of principal
+
+Correspondence nominee for parental leave pay
+
+             (1)  If a person has a correspondence nominee for parental leave pay, any act that may be done by the person under, or for the purposes of, this Act (other than Division 2 or 3) in relation to parental leave pay may be done by that correspondence nominee.
+
+Note:          This subsection is subject to section 296 (which deals with the right of the nominee to attend with a principal) and subsection (3) of this section.
+
+             (2)  Without limiting subsection (1), if a person has a correspondence nominee for parental leave pay, an application or claim that may be made by a person under this Act in relation to parental leave pay may be made by that correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
+
+             (3)  If, under a provision of this Act, the Secretary gives a notice in relation to parental leave pay to a person who has a correspondence nominee for parental leave pay, subsection (1) does not extend to an act that is required by the notice to be done by the person.
+
+Correspondence nominee for dad and partner pay
+
+             (4)  If a person has a correspondence nominee for dad and partner pay, any act that may be done by the person under, or for the purposes of, this Act (other than Division 2 or 3) in relation to dad and partner pay may be done by that correspondence nominee.
+
+Note:          This subsection is subject to section 296 (which deals with the right of the nominee to attend with a principal) and subsection (6) of this section.
+
+             (5)  Without limiting subsection (4), if a person has a correspondence nominee for dad and partner pay, an application or claim that may be made by a person under this Act in relation to dad and partner pay may be made by that correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
+
+             (6)  If, under a provision of this Act, the Secretary gives a notice in relation to dad and partner pay to a person who has a correspondence nominee for dad and partner pay, subsection (1) does not extend to an act that is required by the notice to be done by the person.
+
+Effect of acts done by correspondence nominee
+
+             (7)  An act done by a person’s correspondence nominee under this section has effect, for the purposes of this Act (other than this Part), as if it had been done by the person.
+
+##### <a id="286"></a>286  Giving of notices to correspondence nominee
+
+             (1)  If a person has a correspondence nominee for parental leave pay, any notice that the Secretary is required or authorised by this Act to give to the person in relation to parental leave pay may be given by the Secretary to that correspondence nominee.
+
+          (1A)  If a person has a correspondence nominee for dad and partner pay, any notice that the Secretary is required or authorised by this Act to give to the person in relation to dad and partner pay may be given by the Secretary to that correspondence nominee.
+
+             (2)  A notice given under subsection (1) or (1A):
+
+                     (a)  must, in every respect, be in the same form, and in the same terms, as if it were being given to the person; and
+
+                     (b)  may be given to the correspondence nominee personally or by post or by any other means approved by the Secretary.
+
+             (3)  If:
+
+                     (a)  under subsection (1) or (1A), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary afterwards gives the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of this Act as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 287 ceases to have effect in relation to the nominee notice.
+
+             (4)  If:
+
+                     (a)  under subsection (1) or (1A), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary has already given to the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of this Act as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 287 does not have effect in relation to the nominee notice.
+
+##### <a id="287"></a>287  Compliance by correspondence nominee
+
+             (1)  If, under section 286, a notice making a PPL requirement of a person is given to the person’s correspondence nominee, the following paragraphs have effect:
+
+                     (a)  for the purposes of this Act, other than this Part, the notice is taken:
+
+                              (i)  to have been given to the person; and
+
+                             (ii)  to have been so given on the day on which the notice was given to the correspondence nominee;
+
+                     (b)  any PPL requirement made of the person may be satisfied by the correspondence nominee;
+
+                     (c)  any act done by the correspondence nominee for the purposes of satisfying a PPL requirement of the notice has effect, for the purposes of this Act, as if it had been done by the person;
+
+                     (d)  if the correspondence nominee fails to satisfy a PPL requirement of the notice, the person is taken, for the purposes of this Act, to have failed to comply with the PPL requirement.
+
+             (2)  To avoid doubt, for the purposes of this Act, the person is taken to have complied with a PPL requirement if:
+
+                     (a)  the PPL requirement imposes an obligation on the person to inform the Secretary of a matter, or give the Secretary a statement, within a specified period; and
+
+                     (b)  the correspondence nominee informs the Secretary of the matter, or gives the Secretary the statement (as the case may be) within that period.
+
+             (3)  To avoid doubt, for the purposes of this Act, the person is taken to have complied with a PPL requirement if:
+
+                     (a)  the PPL requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period; and
+
+                     (b)  the correspondence nominee gives the information, or produces the document (as the case may be) to the officer within that period.
+
+             (4)  To avoid doubt, for the purposes of this Act, the person is taken not to have complied with a PPL requirement if:
+
+                     (a)  the PPL requirement imposes an obligation on the person to inform the Secretary of a matter, or give the Secretary a statement, within a specified period; and
+
+                     (b)  the correspondence nominee does not inform the Secretary of the matter, or give the Secretary the statement (as the case may be) within that period.
+
+             (5)  To avoid doubt, for the purposes of this Act, the person is taken not to have complied with a PPL requirement if:
+
+                     (a)  the PPL requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period; and
+
+                     (b)  the correspondence nominee does not give the information, or produce the document (as the case may be) to the officer within that period.
+
+             (6)  A **_PPL requirement_** is a requirement, made by the Secretary under this Act, to:
+
+                     (a)  inform the Secretary of a matter; or
+
+                     (b)  give information, or produce a document, to an officer; or
+
+                     (c)  give a statement to the Secretary.
+
+##### <a id="288"></a>288  Nominee to inform Department of matters affecting ability to act as nominee
+
+             (1)  The Secretary may give a nominee of a person a notice that requires the nominee to inform the Department if:
+
+                     (a)  either:
+
+                              (i)  an event or change of circumstances happens; or
+
+                             (ii)  the nominee becomes aware that an event or change of circumstances is likely to happen; and
+
+                     (b)  the event or change of circumstances is likely to affect:
+
+                              (i)  the ability of the nominee to act as the payment nominee or correspondence nominee of the person (as the case may be); or
+
+                             (ii)  the ability of the Secretary to give notices to the nominee under this Act; or
+
+                            (iii)  the ability of the nominee to comply with notices given to the nominee by the Secretary under this Act.
+
+             (2)  A notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the information to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the information to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective just because it does not comply with paragraph (2)(c).
+
+             (4)  The period specified under paragraph (2)(d) must not end earlier than 14 days after:
+
+                     (a)  the day on which the event or change of circumstances happens; or
+
+                     (b)  the day on which the nominee becomes aware that the event or change of circumstances is likely to happen.
+
+             (5)  Subsection (4) does not apply to a requirement in a notice for a nominee to inform the Department of any proposal by the nominee to leave Australia.
+
+             (6)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+##### <a id="289"></a>289  Statement by payment nominee regarding disposal of money
+
+             (1)  The Secretary may give the paymentnominee of a person a notice that requires the nominee to give the Department a statement about a matter relating to the disposal by the nominee of an instalment, or a payment of dad and partner pay, paid to the nominee on behalf of the person.
+
+             (2)  A notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the statement to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the statement to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective just because it does not comply with paragraph (2)(c).
+
+             (4)  The period specified under paragraph (2)(d) must not end earlier than 14 days after the day the notice is given.
+
+             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
+
+             (6)  A person commits an offence if:
+
+                     (a)  the person is a nominee; and
+
+                     (b)  the person refuses or fails to comply with a notice under subsection (1).
+
+                    Penalty:  30 penalty units.
+
+             (7)  Subsection (6) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (8)  An offence against subsection (6) is an offence of strict liability.
+
+             (9)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+### Division 5—Other matters relating to nominees
+
+##### <a id="290"></a>290  Protection of principal against liability for actions of nominee
+
+                   Nothing in this Part has the effect of rendering a principal guilty of an offence against this Act in relation to any act or omission of the principal’s correspondence nominee.
+
+##### <a id="291"></a>291  Protection of nominee against criminal liability
+
+             (1)  A nominee of a principal is not subject to any criminal liability under this Act in relation to:
+
+                     (a)  any act or omission of the principal; or
+
+                     (b)  anything done, in good faith, by the nominee in his or her capacity as nominee.
+
+             (2)  This section has effect subject to section 289 (which deals with a statement by a payment nominee regarding the disposal of money).
+
+##### <a id="292"></a>292  Duty of nominee to principal
+
+             (1)  It is the duty of a person who is the payment or correspondence nominee of a principal at all times to act in the best interests of the principal.
+
+             (2)  A nominee does not commit a breach of the duty imposed by subsection (1) by doing an act if, when the act is done, the nominee reasonably believes that it is in the best interests of the principal that the act be done.
+
+             (3)  A nominee does not commit a breach of the duty imposed by subsection (1) by refraining from doing an act if, at the relevant time, the nominee reasonably believes that it is in the best interests of the principal that the act be not done.
+
+##### <a id="293"></a>293  Saving of Secretary’s powers of revocation
+
+                   Nothing in this Part is to be taken to be an expression of a contrary intention for the purposes of subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+##### <a id="294"></a>294  Saving of Secretary’s powers to give notices to principal
+
+                   Nothing in this Part is intended in any way to limit or affect the Secretary’s powers under other provisions of this Act to give notices to, or make requirements of, a person who has a nominee.
+
+##### <a id="295"></a>295  Notification of nominee where notice given to principal
+
+                   If, under a provision of this Act (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee, the Secretary may inform the correspondence nominee of the giving of the notice and of the terms of the notice.
+
+##### <a id="296"></a>296  Right of nominee to attend with principal
+
+             (1)  If:
+
+                     (a)  under a provision of this Act (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee; and
+
+                     (b)  the notice requires the person:
+
+                              (i)  to attend the Department; or
+
+                             (ii)  to attend a particular place; and
+
+                     (c)  the Secretary informs the person’s correspondence nominee of the giving of the notice;
+
+the correspondence nominee may attend the Department or place (as the case may be) with the person if the person so wishes.
+
+             (2)  If a person’s correspondence nominee is a body corporate, the last reference in subsection (1) to the correspondence nominee is to be read as a reference to an officer or employee of the correspondence nominee.
+
+## Part 6‑3—Other matters
+
+### Division 1—Guide to this Part
+
+##### <a id="297"></a>297  Guide to this Part
+
+* * *
+
+This Part deals with miscellaneous matters.
+
+Division 2 provides for the Paid Parental Leave Rules. The PPL rules are made by the Minister by legislative instrument. They are subordinate legislation and provide rules that operate in addition to those in this Act.
+
+Division 3 confers jurisdiction on the Federal Court and the Federal Magistrates Court.
+
+Division 4 deals with other miscellaneous matters (such as delegations and regulations).
+
+* * *
+
+### Division 2—The Paid Parental Leave Rules
+
+##### <a id="298"></a>298  The PPL rules
+
+                   The Minister may, by legislative instrument, make rules providing for matters:
+
+                     (a)  required or permitted by this Act to be provided; or
+
+                     (b)  necessary or convenient to be provided in order to carry out or give effect to this Act.
+
+##### <a id="299"></a>299  Extension of Act to persons who are not employees and employers
+
+             (1)  The PPL rules or the regulations may provide that the Secretary may make an employer determination under Part 3‑5 for persons who are in a relationship that is similar to the relationship between an employer and an employee.
+
+             (2)  For the purposes of subsection (1), the PPL rules or the regulations  may modify (including by adding, omitting or substituting) any provision of this Act in relation to persons provided for in accordance with subsection (1) by the PPL rules or the regulations.
+
+### Division 3—Jurisdiction of courts
+
+##### <a id="300"></a>300  Jurisdiction of Federal Court
+
+                   Jurisdiction is conferred on the Federal Court in relation to civil matters arising under this Act.
+
+##### <a id="301"></a>301  Jurisdiction of Federal Magistrates Court
+
+                   Jurisdiction is conferred on the Federal Magistrates Court in relation to civil matters arising under this Act.
+
+### Division 4—Other matters
+
+##### <a id="302"></a>302  General administration
+
+                   The Secretary has, subject to any direction of the Minister, the general administration of this Act.
+
+##### <a id="303"></a>303  Delegation
+
+General powers
+
+             (1)  The Secretary may, in writing, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to:
+
+                     (a)  an officer; or
+
+                     (b)  without limiting paragraph (a), a person engaged (whether as an employee or otherwise) by:
+
+                              (i)  an Agency (within the meaning of the _Public Service Act 1999_); or
+
+                             (ii)  another authority of the Commonwealth; or
+
+                            (iii)  an organisation that performs services for the Commonwealth.
+
+          (1A)  Paragraphs (1)(a) and (b) do not apply to the Chief Executive Centrelink, Chief Executive Medicare or an APS employee in the Human Services Department.
+
+             (2)  The Secretary may, in writing, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department.
+
+Powers under Division 3 or 5 of Part 4‑2
+
+             (3)  The Secretary may, in writing, delegate the Secretary’s powers under Division 3 or 5 of Part 4‑2 (which deal with civil penalty orders and infringement notices) to:
+
+                     (a)  the Chief Executive Centrelink; or
+
+                    (aa)  the Chief Executive Medicare; or
+
+                     (b)  an SES employee or an acting SES employee.
+
+          (3A)  If the Secretary delegates any of his or her powers under Division 3 or 5 of Part 4‑2 to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any provision in the _Human Services (Centrelink) Act 1997_, delegate the power to a Departmental employee (within the meaning of that Act) who is neither:
+
+                     (a)  an SES employee; nor
+
+                     (b)  an acting SES employee.
+
+          (3B)  If the Secretary delegates any of his or her powers under Division 3 or 5 of Part 4‑2 to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any provision in the _Human Services (Medicare) Act 1973_, delegate the power to a Departmental employee (within the meaning of that Act) who is neither:
+
+                     (a)  an SES employee; nor
+
+                     (b)  an acting SES employee.
+
+Power under paragraph 128(1)(b)
+
+             (4)  The Secretary cannot delegate to anyone except the Chief Executive Centrelink or the Chief Executive Medicare the Secretary’s power under paragraph 128(1)(b) to disclose information to an Agency Head (within the meaning of the _Public Service Act 1999_).
+
+             (5)  If the Secretary delegates his or her power under paragraph 128(1)(b) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of that Act).
+
+             (6)  If the Secretary delegates his or her power under paragraph 128(1)(b) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of that Act).
+
+##### <a id="304"></a>304  Decisions to be in writing
+
+                   A decision of an officer under this Act must be in writing.
+
+##### <a id="305"></a>305  Secretary may arrange for use of computer programs to make decisions
+
+             (1)  The Secretary may arrange for the use, under the Secretary’s control, of computer programs for any purposes for which the Secretary may make decisions under this Act.
+
+             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Secretary.
+
+##### <a id="306"></a>306  Notice of decisions
+
+             (1)  Notice of a decision under this Act is taken, for the purposes of this Act, to have been given to a person if written notice of the decision is:
+
+                     (a)  delivered to the person personally; or
+
+                     (b)  left at the address of the place of residence or business of the person last known to the Secretary; or
+
+                     (c)  sent by prepaid post to the postal address of the person last known to the Secretary.
+
+Note:          Notice of decisions can also be given electronically in accordance with the _Electronic Transactions Act 1999_.
+
+             (2)  Notice of a decision under this Act may be given to a person by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  Notice of a decision that is given in accordance with subsection (2) is taken to have been given to the person when the notice would be delivered in the ordinary course of the post unless the contrary is proved.
+
+             (4)  If a provision of this Act requires a notice of a decision to be given to a person, the decision is not ineffective just because the notice:
+
+                     (a)  was not given or was given late; or
+
+                     (b)  did not comply with the requirements of the provision.
+
+             (5)  This section only applies to notices of decisions. Nothing in this section affects the operation of sections 28A and 29 of the _Acts Interpretation Act 1901_ in relation to other notices under this Act (for example, a notice that requires a person to inform the Secretary about some matter).
+
+##### <a id="307"></a>307  Appropriation
+
+                   Payments under this Act (other than payments of instalments by employers under Division 2 of Part 3‑2) are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="307A"></a>307A  Review of the operation of this Act
+
+             (1)  The Minister must cause a comprehensive review of the general operation of this Act to be begun by 31 January 2013.
+
+             (2)  The review must consider the following matters:
+
+                     (a)  the amount of time off work that primary carers are taking to care for newborn or newly adopted children;
+
+                     (b)  the availability and amount of leave and payments provided by employers in relation to the birth or adoption of a child, and the interaction of those entitlements with parental leave pay provided under this Act;
+
+                     (c)  the operation of the work test;
+
+                     (d)  whether primary claimants’ partners should be paid parental leave pay separately from, or in addition to, primary claimants;
+
+                     (e)  whether employers should make superannuation contributions in relation to parental leave pay;
+
+                      (f)  the results of any evaluations conducted in relation to the operation of this Act;
+
+                     (g)  the administration of this Act;
+
+                     (h)  any other matter relevant to the general operation of this Act.
+
+             (3)  The Minister must ensure that public submissions are sought in relation to the review.
+
+             (4)  The Minister must cause a copy of a written report of the review to be tabled in each House of the Parliament within 15 sitting days of the day on which the Minister receives the report.
+
+##### <a id="308"></a>308  Regulations
+
+                   The Governor‑General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+# Notes to the _Paid Parental Leave Act 2010_
+
+### Note 1
+
+The _Paid Parental Leave Act 2010_ as shown in this compilation comprises Act No. 104, 2010 amended as indicated in the Tables below.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="29%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="17%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Paid Parental Leave Act 2010</div>
+  </td>
+  <td>
+    <div>104, 2010</div>
+  </td>
+  <td>
+    <div>14 July 2010</div>
+  </td>
+  <td>
+    <div>1 Oct 2010</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 6 (item 131): 19 Apr 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 468–505): 1 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Acts Interpretation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>46, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 10, 11)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>52, 2011</div>
+  </td>
+  <td>
+    <div>28 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 3–5): 30 June 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>98, 2012</div>
+  </td>
+  <td>
+    <div>29 June 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 16, 17, 88(1), (3)): \[ <i>see</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 88(1), (3))</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>109, 2012</div>
+  </td>
+  <td>
+    <div>22 July 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–105): 1 Oct 2012 
+Schedule 2 (items 1–8): 1 Oct 2010 ( <i>see</i>s. 2(1)) 
+Schedule 2 (items 22–48): 23 July 2012</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 27)</div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1‑1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1A of 
+Part 1‑1</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 3A</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1‑2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>am. Nos. 5, 32 and 46, 2011; No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2‑2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 21</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of 
+Part 2‑2</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2‑3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>am. No. 52, 2011; No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 32</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered Note 1.......</div>
+  </td>
+  <td>
+    <div>No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 32</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 33(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36A</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36B</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 39</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 40</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 52, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 52, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 1 to s. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 3 to s. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 4 to s. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2‑4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3-2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3-5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Chapt. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3A-1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115AA</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115AB</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115AC</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115AD</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115AE</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3A-2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BA</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BB</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BC</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BD</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BE</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BF</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BG</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BH</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BJ</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BK</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BL</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BM</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BN</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115BP</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3A-3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CA</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CB</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CC</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CD</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CE</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CF</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CG</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CH</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CJ</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CK</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CL</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115CM</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3A-4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DA</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DB</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DC</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DD</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DE</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DF</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DG</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DH</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DJ</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DK</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115DL</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3A-5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EA</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EB</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EC</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115ED</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EE</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EF</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EG</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EH</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EJ</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EK</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EL</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115EM</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4‑1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 127</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 133</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 138</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4-3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 164</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 165</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 168A</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 169</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 171</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 192</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 201A</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5‑1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 206</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 207</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5‑2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 213</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011; No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 217</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 218</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 222</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 230</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5‑3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 232</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 5-3</div>
+  </td>
+  <td>
+    <div>rs. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 236</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 of 
+Part 5-3</div>
+  </td>
+  <td>
+    <div>rs. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 240</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 240(2)</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 240(4)</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 240</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 257</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011; No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5‑4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5‑5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 273</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6-1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 278</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6-2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 279</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 280</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 281</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 6-2</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 284A</div>
+  </td>
+  <td>
+    <div>ad. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285</div>
+  </td>
+  <td>
+    <div>rs. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 286</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 289</div>
+  </td>
+  <td>
+    <div>am. No. 109, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6‑3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 303</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011; No. 109, 2012</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
+
+The following amendments commence on 1 January 2013:
+
+## Schedule 2
+
+## 16  Subsection 45(2)
+
+Repeal the subsection, substitute:
+
+When a person satisfies this subsection
+
+             (2)  A person satisfies this subsection if:
+
+                     (a)  the person is the holder of a visa determined by the Minister for the purposes of subparagraph 729(2)(f)(v) of the Social Security Act; and
+
+                     (b)  either:
+
+                              (i)  the person is in Australia; or
+
+                             (ii)  the person is temporarily absent from Australia for not more than 6 weeks and the absence is an allowable absence in relation to special benefit within the meaning of Part 4.2 of that Act.
+
+## 17  Paragraphs 46(2)(a) and (b) and (3)(d)
+
+Omit “13 weeks”, substitute “6 weeks”.
+
+As at 1 October 2012 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+## Schedule 3
+
+## 10  Saving—appointments
+
+The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
+
+## 11  Transitional regulations
+
+The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+
+* * *
+
+_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
+
+The following provision commences on 1 January 2013:
+
+## Schedule 2
+
+## 88  Application provisions
+
+(1)       Subject to subitems (2) to (6), the amendments made by this Schedule apply in relation to periods of absence from Australia starting on or after 1 January 2013.
+
+(3)       The amendments made by items 3, 7, 17, 25, 48 and 61 apply in relation to individuals returning to Australia on or after 1 January 2013, whether the absence from Australia started before, on or after that date.
+
+* * *
+
+_Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012 (No. 109, 2012)_
+
+## Schedule 2
+
+## 27  Application and transitional provision
+
+Application provision
+
+(1)       The amendments made by items 25 and 26 of this Schedule apply in relation to notices that must be given to the Secretary under subsection 82(1) of the _Paid Parental Leave Act 2010_ on or after the commencement of this item.
+
+Transitional provision
+
+(2)       The Secretary is taken to give an employer a written notice under subsection 82(2B) of the _Paid Parental Leave Act 2010_ setting out a manner of notification if the Secretary:
+
+                     (a)  publishes on a PPL agency’s website a notice setting out that manner; or
+
+                     (b)  notifies the employer of that manner by another means that the Secretary considers appropriate.
+
+(3)       Subitem (2) does not apply if the Secretary made the relevant employer determination later than 6 months after the commencement of this item.
+
+Delegation
+
+(4)       Subsections 303(1) and (2) of that Act (which deal with delegation) apply in relation to this item in the same way as they apply in relation to section 82 of that Act.
+
+ 
