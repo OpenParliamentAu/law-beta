@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00003/Html/ae4c1195-b761-4371-a3fb-bb43f25f4b4e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00569/Html/c1181c48-b6f2-443e-8478-9a475be53bfc_files/image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 26 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -851,8 +851,6 @@ the Minister may terminate the appointment of all appointed members or particula
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  If the Chairperson is a part‑time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part‑time basis.
 
              (3)  The Minister may appoint a member (other than the Chief Executive Officer or an employee) to act as the Deputy Chairperson:
@@ -861,15 +859,21 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is acting as the Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office of Deputy Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  The Minister may appoint a person to act as a member referred to in paragraph 22(1)(d) (an **_ordinary member_**):
 
                      (a)  during a vacancy in the office of an ordinary member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when an ordinary member is acting as the Chairperson or Deputy Chairperson, is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (5)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ## Part 4—Chief Executive Officer, employees and consultants
 
@@ -917,11 +921,19 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person, other than an employee, who is acting as Chief Executive Officer is to be paid such remuneration and allowances as the Board determines in writing.
 
              (3)  An employee who is acting as Chief Executive Officer must continue to be paid the remuneration and allowances payable to the employee as an employee but must also be paid such additional remuneration and allowances as the Board determines in writing.
+
+             (4)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 2—Employees and consultants
 
@@ -1279,7 +1291,7 @@ an authorised employee may direct the Registrar to make an entry in the Register
 
                      (b)  any late payment penalty relating to any such charge.
 
-##### <a id="62"></a>62  Cessation of statutory lien
+##### <a id="62"></a>62  Cessation of statutory lien
 
              (1)  A statutory lien ceases to have effect in the following cases, and not otherwise:
 
@@ -1567,11 +1579,11 @@ For all other relevant information pertaining to application, saving or transiti
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
   <col width="18%">
-  <col width="21%">
-  <col width="15%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1606,8 +1618,9 @@ of Assent</div>
     <div>30 June 1995</div>
   </td>
   <td>
-    <div>Ss. 13, 14, 16(6), notes to s. 17(3), (4), s. 32(2)(d), 32(5)(b) and 51: 1 Jan 1998 
-Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
+    <div>Ss. 13, 14, 16(6), notes to s. 17(3), (4), s. 32(2)(d), 32(5)(b) and 51: 
+1 Jan 1998 
+Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
   </td>
   <td>
     <div></div>
@@ -1624,7 +1637,8 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>17 Sept 1997</div>
   </td>
   <td>
-    <div>1 Nov 1997 ( <i>see Gazette</i>1997, No. S438)</div>
+    <div>1 Nov 1997 ( <i>see Gazette</i>1997, 
+No. S438)</div>
   </td>
   <td>
     <div>—</div>
@@ -1641,7 +1655,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 153): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a) 
+    <div>Schedule 2 (item 153): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a) 
  </i>Schedule 3 (item 1): 30 June 1995 <i>(a)</i></div>
   </td>
   <td>
@@ -1676,7 +1690,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 85): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    <div>Schedule 1 (item 85): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1693,7 +1707,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 27): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 27): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1727,7 +1741,8 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (item 3): <i>(e)</i></div>
+    <div>Schedule 1 
+(item 3): <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1779,11 +1794,11 @@ Remainder: Royal Assent</div>
     <div>10 Mar 2004</div>
   </td>
   <td>
-    <div>Schedules 1–3: 10 Mar 2005 ( <i>see</i>s. 2) 
+    <div>Schedules 1–3: 10 Mar 2005 ( <i>see</i>s. 2) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (am. by 149, 2004, Sch. 2 \[item 2])</div>
+    <div>Sch. 3 (am. by 149, 2004, Sch.2 \[item 2])</div>
   </td>
 </tr>
 <tr>
@@ -1818,7 +1833,7 @@ Remainder: Royal Assent</div>
 Schedule 2 (item 3): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 3)</div>
+    <div>Sch. 2 (item 3)</div>
   </td>
 </tr>
 <tr>
@@ -1835,8 +1850,7 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>Schedule 2 (item 4) and Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 
-6–11)</div>
+    <div>Sch. 6 (items 1, 6–11)</div>
   </td>
 </tr>
 <tr>
@@ -1868,7 +1882,7 @@ Remainder: Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 68): 1 July 2009</div>
+    <div>Schedule 1 (item 68): 1 July 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1885,7 +1899,8 @@ Remainder: Royal Assent</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (item 2): 23 May 2009</div>
+    <div>Schedule 2 
+(item 2): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1902,10 +1917,10 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 5 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 5 (item 4)</div>
+    <div>Sch. 5 (item 4)</div>
   </td>
 </tr>
 <tr>
@@ -1919,7 +1934,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 18–20): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 18–20): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1936,7 +1951,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 6–9): 19 Apr 2011</div>
+    <div>Schedule 5 (items 6–9): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1953,10 +1968,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 61–64) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 61–64) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -2067,7 +2082,7 @@ _(e)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>
       1 July 2003
       (
-        <i>see Gazette</i>2003, No. S229)
+        <i>see Gazette</i>2003, No. S229)
     </div>
   </td>
 </tr></table>
@@ -2307,62 +2322,6 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 33(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 33(3), (4)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 41(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -2495,7 +2454,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 5
 
@@ -2519,7 +2478,37 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 26 July 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 61  At the end of subsections 33(1), (3) and (4)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 62  Subsection 33(5)
+
+Repeal the subsection.
+
+## 63  At the end of subsection 41(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 64  Subsection 41(4)
+
+Repeal the subsection.
+
+As at 26 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2687,7 +2676,7 @@ _Note:       This item relates to the transfer of airspace managemen
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 5
 
@@ -2700,6 +2689,8 @@ _Note:       Item 1 commences at the registration commencement tim
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
