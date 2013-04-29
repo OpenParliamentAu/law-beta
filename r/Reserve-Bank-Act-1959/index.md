@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00513/Html/ReserveBank1959_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00327/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 3 October 2008
- taking into account amendments up to Act No. 90 of 2008
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2041,23 +2041,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>90, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 63–66, 75): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 75) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3655,32 +3638,6 @@ _(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Finan
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following amendments commence on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 63  Subsection 7A(3)
-
-Omit “27”, substitute “27P”.
-
-## 64  Paragraph 25L(4)(c)
-
-Before “is absent”, insert “the member”.
-
-## 65  Paragraph 25L(4)(d)
-
-Before “fails”, insert “the member”.
-
-## 66  Paragraph 25L(4)(d)
-
-Omit “21”, substitute “27F or 27J”.
-
-As at 3 October 2008 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4045,17 +4002,5 @@ An approval in force, immediately before the commencement of the amendments, und
 (1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
-
-* * *
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following provision commences on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 75  Transitional regulations
-
-The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Schedule.
 
  
