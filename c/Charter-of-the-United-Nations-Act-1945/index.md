@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02666/Html/CharterUN45_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02665/Html/ChartUN45_image001.gif)
 
 # Charter of the United Nations Act 1945
 
 **Act No. 32 of 1945 as amended**
 
-This compilation was prepared on 26 July 2001
- taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 18 October 2000
+ taking into account amendments up to Act No. 30 of 1993
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -49,11 +49,13 @@ Prepared by the Office of Legislative Drafting,
 
 [12](#12).          Offences                                                                                               5
 
-[13](#13).          Injunctions                                                                                           5
+[13](#13).          Injunctions                                                                                           5
 
 **The Schedule—Charter of the United Nations** 
 
 **Notes** 
+
+ 
 
 ## An Act to approve the Charter of the United Nations, and to enable Australia to apply sanctions giving effect to certain decisions of the Security Council
 
@@ -127,7 +129,7 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
                      (d)  an instrument made under such a law; or
 
-                     (e)  any provision of the _Corporations Act 2001_ or the _Australian Securities and Investments Commission Act 2001_, or of regulations made under those Acts; or
+                     (e)  any provision of the _Corporations Act 1989_ or of the Corporations Law, Corporations Regulations, ASC Law, or ASC Regulations, of the Australian Capital Territory; or
 
                       (f)  an instrument made under such a provision.
 
@@ -1672,9 +1674,7 @@ The Court shall have power to propose such amendments to the present Statute as 
 
 ### Note 1
 
-The _Charter of the United Nations Act 1945_ as shown in this compilation comprises Act No. 32, 1945 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+The _Charter of the United Nations Act 1945_ comprises Act No. 32, 1945 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1682,8 +1682,8 @@ For application, saving or transitional provisions made by the _Corporations (Re
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="23%">
+  <col width="18%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -1739,28 +1739,7 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4-14 and Schedule 3 (item 96): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
-  </td>
 </tr></table>
-
-_(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (item 96) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
 ## Table of Amendments
 
@@ -1850,31 +1829,7 @@ _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (it
 </tr>
 <tr>
   <td>
-    <div>Ss. 6-8</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10-13</div>
+    <div>Ss. 6-13</div>
   </td>
   <td>
     <div>ad. No. 30, 1993</div>
