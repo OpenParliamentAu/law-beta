@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 19 of 2011
+This compilation was prepared on 30 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -574,7 +574,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Repeal
 
-                   The _Commonwealth Police Act 1957_ is repealed.
+                   The _Commonwealth Police Act 1957_ is repealed.
 
 ##### <a id="3A"></a>3A  Overview of Act
 
@@ -737,8 +737,6 @@ Other matters
                     <a name="feral-aspect"></a>**_federal aspect_**, in relation to an offence against a law of a State or of the Australian Capital Territory, has the meaning given by subsection 4AA(1).
 
 Note:          This subsection defines **_State_** to include the Northern Territory.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="frisk-search"></a>**_frisk search_** means:
 
@@ -1722,7 +1720,7 @@ the Governor‑General shall terminate his or her appointment.
 
 #### Subdivision A—Engagement of AFP employees etc.
 
-##### <a id="23"></a>23  Employer powers etc. of Commissioner
+##### <a id="23"></a>23  Employer powers etc. of Commissioner
 
              (1)  The Commissioner, on behalf of the Commonwealth, has all the rights, duties and powers of an employer in respect of AFP employees.
 
@@ -2140,11 +2138,11 @@ Definitions
 
                      (e)  anything of a like nature.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
 ##### <a id="38"></a>38  Commissioner’s Orders
 
-                   In the exercise of his or her powers under section 37, the Commissioner may, by writing, issue orders with respect to the general administration of, and the control of the operations of, the Australian Federal Police.
+                   In the exercise of his or her powers under section 37, the Commissioner may, by writing, issue orders with respect to the general administration of, and the control of the operations of, the Australian Federal Police.
 
 ##### <a id="39"></a>39  Compliance with Commissioner’s Orders
 
@@ -4343,7 +4341,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image002.gif)
 
 where:
 
@@ -4531,7 +4529,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image003.gif)
 
                             where:
 
@@ -4593,7 +4591,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image004.gif)
 
 where:
 
@@ -4639,7 +4637,7 @@ the DPP may, as soon as practicable after the order takes effect, apply to the c
 
                      (b)  the superannuation order is to be taken to have been revoked;
 
-there is payable to the person an amount determined by the Finance Minister, being an amount that the Minister considers to be a fair recompense to the person, having regard to:
+there is payable to the person an amount determined by the Minister for Finance, being an amount that the Minister considers to be a fair recompense to the person, having regard to:
 
                      (c)  any amount paid to the person under subsection 47(2) or (3); and
 
@@ -5009,7 +5007,7 @@ then, if the Commissioner believes on reasonable grounds that the offence is a c
 
              (1)  Where an amount is payable under an order made under subsection 46(3) in respect of employer contributions or benefits that are held in a fund (other than the Consolidated Revenue Fund), the amount is payable out of the fund by the person responsible for the administration of the fund.
 
-             (2)  Where an amount is payable under an order made under subsection 46(3) in respect of employer contributions or benefits that have been paid to the Commonwealth, the Finance Minister is to make arrangements:
+             (2)  Where an amount is payable under an order made under subsection 46(3) in respect of employer contributions or benefits that have been paid to the Commonwealth, the Minister for Finance is to make arrangements:
 
                      (a)  for the payment of the amount out of the Consolidated Revenue Fund; or
 
@@ -6885,24 +6883,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 22, 23) and Schedule 7 (item 18): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Security of Defence Premises) Act 2011</div>
-  </td>
-  <td>
-    <div>19, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 5 (items 22, 23) and Schedule 7 (item 18): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -7358,7 +7339,7 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; Nos. 3 and 5, 2011</div>
+    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8801,14 +8782,6 @@ rep. No. 152, 2004</div>
   </td>
   <td>
     <div>rs. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10392,7 +10365,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 20, 1997; No. 5, 2011</div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -10800,7 +10773,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 84, 2006; No. 5, 2011</div>
+    <div>am. No. 8, 2005; No. 84, 2006</div>
   </td>
 </tr>
 <tr>
@@ -11334,20 +11307,29 @@ rep. No. 152, 2004</div>
 
 ### Note 2
 
-_Defence Legislation Amendment (Security of Defence Premises) Act 2011
- (No. 19, 2011)_
+_Statute Law Revision Act 2011 (No. 5, 2011)_
 
-The following amendment commences on 12 October 2011 unless proclaimed earlier:
+The following amendments commence on 19 April 2011:
 
-## Schedule 1
+## Schedule 5
 
-## 4  Subsection 4(1) (after subparagraph (a)(iii) of the definition of _protective service offence_)
+## 22  Subsection 4(1)
 
 Insert:
 
-                          (iiia)  an offence against section 71V, 71W or 72P of the _Defence Act 1903_; or
+                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
-As at 19 April 2011 the amendment is not incorporated in this compilation.
+## 23  Subsections 47B(3) and 54(2)
+
+Omit “Minister for Finance”, substitute “Finance Minister”.
+
+## Schedule 7
+
+## 18  Subsection 37(7) (definition of _Secretary_)
+
+Omit “Secretary to”, substitute “Secretary of”.
+
+As at 30 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -11646,7 +11628,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 _Australian Federal Police and Other Legislation Amendment Act 2004 
  (No. 64, 2004)_
 
-##### <a id="4"></a>4  Transitional and application
+##### <a id="4"></a>4  Transitional and application
 
              (1)  Each APS transferee is taken to have been engaged, at the transfer time, under section 24 of the _Australian Federal Police Act 1979_.
 
