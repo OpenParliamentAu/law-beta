@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00617/Html/f7520e2b-a58e-4de1-8d08-c2b87791b94d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00407/Html/360ee59c-8078-4b30-a385-81d49667d863_files/image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 3 August 2011
- taking into account amendments up to Act No. 68 of 2011
+This compilation was prepared on 3 June 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -819,7 +819,7 @@ you must notify the Commissioner in writing of the fact, within 90 days, or such
 
 Note:          Failure to notify the Commissioner is an offence under paragraph 8C(1)(d) of the _Taxation Administration Act 1953_.
 
-##### <a id="27B"></a>27B  Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
+##### <a id="27B"></a>27B  Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
 
                    If:
 
@@ -1676,23 +1676,6 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Taxation of Alternative Fuels Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>68, 2011</div>
-  </td>
-  <td>
-    <div>29 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 35): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2362,22 +2345,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 3 August 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Taxation of Alternative Fuels Legislation Amendment Act 2011 
- (No. 68, 2011)_
-
-The following amendment commences on 1 December 2011:
-
-## Schedule 1
-
-## 35  Part 10 (heading)
-
-Repeal the heading.
-
-As at 3 August 2011 the amendment is not incorporated in this compilation.
+As at 3 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
