@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00620/Html/FutureFundAct2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00580/Html/FutureFundAct2006_image001.gif)
 
 # Future Fund Act 2006
 
 **Act No. 12 of 2006 as amended**
 
-This compilation was prepared on 4 October 2007
- taking into account amendments up to Act No. 161 of 2007
+This compilation was prepared on 5 October 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -22,7 +22,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement
+[2](#2).            Commencement [_see_ Note 1]
 
 [3](#3).            Object
 
@@ -58,15 +58,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Management of investments of the Fund
 
-[18](#18).          Future Fund Investment Mandate
+[18](#18).          Investment Mandate
 
-[18A](#18A).       Limitation on Future Fund Investment Mandate
+[19](#19).          Board to be consulted on Investment Mandate
 
-[19](#19).          Board to be consulted on Future Fund Investment Mandate
-
-[20](#20).          Compliance with Future Fund Investment Mandate
+[20](#20).          Compliance with Investment Mandate
 
 [21](#21).          Board must not trigger the takeover provisions of the _Corporations Act 2001_
+
+[22](#22).          Board must not have a significant stake in a foreign listed company
 
 [23](#23).          Borrowing
 
@@ -82,7 +82,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29](#29).          Custody of securities
 
-[30](#30).          Refund of franking credits
+[30](#30).          Exemption from taxation
+
+[31](#31).          Franking credits
 
 [32](#32).          Realisation of non-financial assets
 
@@ -220,12 +222,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [84](#84).          Miscellaneous receipts to be credited to the Fund Account
 
-[84A](#84A).       Exemption from taxation
-
-[84B](#84B).       Franking credits
-
-[84C](#84C).       Board must not have a significant stake in a foreign listed company
-
 [85](#85).          Regulations
 
 **Schedule 1—Credits of amounts, and transfers of financial assets, to the Future Fund** 
@@ -274,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act about the Future Fund, and for other purposes
+## An Act about the Future Fund, and for related purposes
 
 ## Part 1—Introduction
 
@@ -282,7 +278,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Future Fund Act 2006_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
              (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -382,13 +378,13 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="3"></a>3  Object
 
-             (1)  The main object of this Act is to strengthen the Commonwealth’s long-term financial position by establishing the Future Fund.
+             (1)  The object of this Act is to strengthen the Commonwealth’s long-term financial position by establishing the Future Fund.
 
              (2)  The Future Fund will make provision for unfunded superannuation liabilities that will become payable during a period when an ageing population is likely to place significant pressure on the Commonwealth’s finances.
 
 ##### <a id="4"></a>4  Simplified outline
 
-                   The following is a simplified outline of this Act:
+                   The following is a simplified outline of this Act:
 
 * * *
 
@@ -404,17 +400,15 @@ Guardians is responsible for deciding how to invest the Future Fund.</li>
 
 Fund will consist of financial assets.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board is bound by a
+<li class="BoxList" style="margin-left:21.25pt">•      The Board is bound by an
 
-Future Fund Investment Mandate given to it by the responsible Ministers.</li>
+Investment Mandate given to it by the responsible Ministers.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Future Fund Management
 
 Agency is responsible for assisting and advising the Board.</li>
 
 * * *
-
-Note:          The Future Fund Board of Guardians has additional functions under the _Higher Education Endowment Fund Act 2007_.
 
 ##### <a id="5"></a>5  Definitions
 
@@ -444,16 +438,6 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="board-member"></a>**_Board member_** means a member of the Board, and includes the Chair.
 
-                    <a name="busi-entiti"></a>**_business entity_** means:
-
-                     (a)  a company; or
-
-                     (b)  a partnership; or
-
-                     (c)  a trust; or
-
-                     (d)  a body politic.
-
                     <a name="busi-judgment"></a>**_business judgment_** means any decision to take or not take action in respect of a matter relevant to the operations of the Board.
 
                     <a name="chair"></a>**_Chair_** means the Chair of the Board.
@@ -474,8 +458,6 @@ Note:          The Future Fund Board of Guardians has addition
 
                      (b)  known by the person to be dishonest according to the standards of ordinary people.
 
-                    <a name="educ-minist"></a>**_Education Minister_** means the Minister responsible for administering the _Higher Education Support Act 2003_.
-
                     <a name="financ-minist"></a>**_Finance Minister_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
                     <a name="financi-asset"></a>**_financial asset_** has the meaning given by section 6.
@@ -492,14 +474,6 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="fund-compon"></a>**_funded component_** of a superannuation benefit means the part (if any) of the superannuation benefit that, for actuarial purposes, is treated as the funded component. For this purpose, disregard Schedule 2.
 
-                    <a name="futur-fund-invest-function"></a>**_Future Fund investment function_** of the Board means:
-
-                     (a)  a function or power conferred on the Board by section 16, 17, 23, 25, 27 or 28; or
-
-                     (b)  a right or power conferred on the Board in its capacity as the holder of an investment of the Fund.
-
-                    <a name="futur-fund-invest-mandat"></a>**_Future Fund Investment Mandate_** has the meaning given by subsection 18(3).
-
                     <a name="gf-australia"></a>**_GFS Australia_** means the publication of the Australian Bureau of Statistics known as Australian System of Government Finance Statistics: Concepts, Sources and Methods, as updated from time to time. This updating takes 2 forms:
 
                      (a)  from time to time, a new version of the publication is produced;
@@ -508,15 +482,13 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="gf-system"></a>**_GFS system_** has the same meaning as in GFS Australia.
 
-                    <a name="higher-educ-endow-fund"></a>**_Higher Education Endowment Fund_** means the Higher Education Endowment Fund established by section 11 of the _Higher Education Endowment Fund Act 2007_.
-
-                    <a name="higher-educ-endow-fund-invest-function"></a>**_Higher Education Endowment Fund investment function_** has the same meaning as in the _Higher Education Endowment Fund Act 2007_.
-
-                    <a name="higher-educ-endow-fund-matter"></a>**_Higher Education Endowment Fund matter_** means a matter that relates to the Board’s functions under the _Higher Education Endowment Fund Act 2007_.
-
-                    <a name="higher-educ-endow-fund-special-account"></a>**_Higher Education Endowment Fund Special Account_** means the Higher Education Endowment Fund Special Account established by section 12 of the _Higher Education Endowment Fund Act 2007_.
-
                     <a name="invest"></a>**_investment_** means any mode of application of money or financial assets for the purpose of gaining a return (whether by way of income, capital gain or any other form of return).
+
+                    <a name="invest-function"></a>**_investment function_** of the Board means:
+
+                     (a)  a function or power conferred on the Board by section 16, 17, 23, 25, 27 or 28; or
+
+                     (b)  a right or power conferred on the Board in its capacity as the holder of an investment of the Fund.
 
                     <a name="invest-manag"></a>**_investment manager_** means a person or body (other than the Agency) who undertakes to do any or all of the following:
 
@@ -533,6 +505,8 @@ Note:          The Future Fund Board of Guardians has addition
                       (f)  realise financial assets on behalf of the Board;
 
                      (g)  perform custodial functions in relation to the financial assets of the Board.
+
+                    <a name="invest-mandat"></a>**_Investment Mandate_** has the meaning given by subsection 18(3).
 
                     <a name="invest-fund"></a>**_investment of the Fund_** means a financial asset that, under a provision of this Act, is taken to be an investment of the Fund.
 
@@ -686,15 +660,15 @@ Fund will consist of financial assets.</li>
 
 Fund will be held in the name of the Board.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board is bound by a
+<li class="BoxList" style="margin-left:21.25pt">•      The Board is bound by an
 
-Future Fund Investment Mandate given to it by the responsible Ministers.</li>
+Investment Mandate given to it by the responsible Ministers.</li>
 
 * * *
 
 ##### <a id="15"></a>15  Objects of investment of the Fund
 
-             (1)  The main object of the acquisition by the Board of a financial asset as an investment of the Fund is to enhance the ability of the Commonwealth to discharge unfunded superannuation liabilities as mentioned in paragraphs 2(1)(a) and (b) of Schedule 2.
+             (1)  The main object of the acquisition by the Board of a financial asset as an investment of the Fund is to enhance the ability of the Commonwealth to discharge unfunded superannuation liabilities as mentioned in paragraphs 2(a) and (b) of Schedule 2.
 
              (2)  The ancillary objects of the acquisition by the Board of a financial asset as an investment of the Fund are to enhance the ability of the Commonwealth and the Board to:
 
@@ -702,7 +676,7 @@ Future Fund Investment Mandate given to it by the responsible Ministers.</li>
 
                      (b)  make payments;
 
-as mentioned in paragraphs 2(1)(c) to (i), and paragraphs 2(2)(a) to (g), of Schedule 2.
+as mentioned in paragraphs 2(c) to (m) of Schedule 2.
 
 ##### <a id="16"></a>16  Investment of the Fund
 
@@ -730,13 +704,11 @@ Note:          For acquisition of derivatives, see section 2
 
              (6)  Section 39 of the _Financial Management and Accountability Act 1997_ does not apply to an investment of the Fund.
 
-##### <a id="18"></a>18  Future Fund Investment Mandate
+##### <a id="18"></a>18  Investment Mandate
 
-             (1)  The responsible Ministers may give the Board written directions about the performance of its Future Fund investment functions, and must give at least one such direction.
+             (1)  The responsible Ministers may give the Board written directions about the performance of its investment functions, and must give at least one such direction.
 
 Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-          (1A)  Subsection (1) has effect subject to section 18A.
 
              (2)  In giving a direction under subsection (1), the responsible Ministers must have regard to:
 
@@ -744,7 +716,7 @@ Note:          For variation and revocation, see subsection 33
 
                      (b)  such other matters as the responsible Ministers consider relevant.
 
-             (3)  Directions under subsection (1) are to be known collectively as the Future Fund Investment Mandate.
+             (3)  Directions under subsection (1) are to be known collectively as the Investment Mandate.
 
              (4)  A direction under subsection (1) may set out the policies to be pursued by the Board in relation to:
 
@@ -756,9 +728,7 @@ A policy relating to the allocation of financial assets must not be inconsistent
 
              (5)  Subsection (4) does not limit subsection (1).
 
-          (5A)  Subsection (4) has effect subject to section 18A.
-
-             (6)  The Future Fund Investment Mandate prevails over subsection (10) to the extent of any inconsistency.
+             (6)  The Investment Mandate prevails over subsection (10) to the extent of any inconsistency.
 
              (7)  The responsible Ministers must not give a direction under subsection (1) that is inconsistent with this Act (other than subsection (10)).
 
@@ -768,9 +738,9 @@ A policy relating to the allocation of financial assets must not be inconsistent
 
 Note:          Section 42 of the _Legislative Instruments Act 2003_ does not apply to the direction—see section 44 of that Act.
 
-           (10)  In the performance of its Future Fund investment functions, the Board must seek to maximise the return earned on the Fund over the long term, consistent with international best practice for institutional investment.
+           (10)  In the performance of its investment functions, the Board must seek to maximise the return earned on the Fund over the long term, consistent with international best practice for institutional investment.
 
-Note:          **_Future Fund investment function_** is defined in section 5.
+Note:          **_Investment function_** is defined in section 5.
 
            (11)  Subsection (10) has effect subject to:
 
@@ -780,29 +750,11 @@ Note:          **_Future Fund investment function_** is define
 
                      (c)  a direction under subclause 8(1) of Schedule 1.
 
-           (12)  Before the first occasion on which an amount is debited from the Fund Account for the purpose of discharging, in whole or in part, an unfunded superannuation liability, the responsible Ministers must review the Future Fund Investment Mandate in consultation with the Board.
+           (12)  Before the first occasion on which an amount is debited from the Fund Account for the purpose of discharging, in whole or in part, an unfunded superannuation liability, the responsible Ministers must review the Investment Mandate in consultation with the Board.
 
-Note:          If there is to be a change in the Future Fund Investment Mandate, the responsible Ministers must consult the Board under section 19.
+Note:          If there is to be a change in the Investment Mandate, the responsible Ministers must consult the Board under section 19.
 
-##### <a id="18A"></a>18A  Limitation on Future Fund Investment Mandate
-
-             (1)  The responsible Ministers must not give a direction under subsection 18(1) that has the purpose, or has or is likely to have the effect, of directly or indirectly requiring the Board to:
-
-                     (a)  invest an amount standing to the credit of the Fund Account in a particular financial asset; or
-
-                     (b)  acquire a particular derivative; or
-
-                     (c)  allocate financial assets to:
-
-                              (i)  a particular business entity; or
-
-                             (ii)  a particular activity; or
-
-                            (iii)  a particular business.
-
-             (2)  Paragraphs (1)(a) and (b) do not limit paragraph (1)(c).
-
-##### <a id="19"></a>19  Board to be consulted on Future Fund Investment Mandate
+##### <a id="19"></a>19  Board to be consulted on Investment Mandate
 
              (1)  Before giving the Board a direction under subsection 18(1), the responsible Ministers must:
 
@@ -824,27 +776,27 @@ Note:          For tabling of the direction, see section 38 
 
              (3)  A time limit specified under this section must be reasonable.
 
-##### <a id="20"></a>20  Compliance with Future Fund Investment Mandate
+##### <a id="20"></a>20  Compliance with Investment Mandate
 
-             (1)  The Board must take all reasonable steps to comply with the Future Fund Investment Mandate.
+             (1)  The Board must take all reasonable steps to comply with the Investment Mandate.
 
-             (2)  As soon as practicable after the Board becomes aware that it has failed to comply with the Future Fund Investment Mandate, the Board must give the responsible Ministers a written statement:
+             (2)  As soon as practicable after the Board becomes aware that it has failed to comply with the Investment Mandate, the Board must give the responsible Ministers a written statement:
 
-                     (a)  informing the responsible Ministers of the failure to comply with the Future Fund Investment Mandate; and
+                     (a)  informing the responsible Ministers of the failure to comply with the Investment Mandate; and
 
-                     (b)  setting out the action that the Board proposes to take in order to comply with the Future Fund Investment Mandate.
+                     (b)  setting out the action that the Board proposes to take in order to comply with the Investment Mandate.
 
-             (3)  If the responsible Ministers are satisfied that the Board has failed to comply with the Future Fund Investment Mandate, the responsible Ministers may, by written notice given to the Board, direct the Board:
+             (3)  If the responsible Ministers are satisfied that the Board has failed to comply with the Investment Mandate, the responsible Ministers may, by written notice given to the Board, direct the Board:
 
-                     (a)  to give the responsible Ministers, within a period specified in the notice, a written explanation for the failure to comply with the Future Fund Investment Mandate; and
+                     (a)  to give the responsible Ministers, within a period specified in the notice, a written explanation for the failure to comply with the Investment Mandate; and
 
-                     (b)  to take action specified in the notice, within a period specified in the notice, in order to comply with the Future Fund Investment Mandate.
+                     (b)  to take action specified in the notice, within a period specified in the notice, in order to comply with the Investment Mandate.
 
              (4)  The Board must comply with a direction under subsection (3).
 
              (5)  A failure to comply with:
 
-                     (a)  the Future Fund Investment Mandate; or
+                     (a)  the Investment Mandate; or
 
                      (b)  a direction under subsection (3);
 
@@ -856,17 +808,53 @@ does not affect the validity of any transaction.
 
              (1)  Section 606 of the _Corporations Act 2001_ does not apply to an acquisition by the Board if the acquisition is the result of a transfer under clause 6 or 7 of Schedule 1 to this Act.
 
-             (2)  Subsections 606(1A) and (2A) and section 611 of the _Corporations Act 2001_ do not apply to an acquisition by the Board if the acquisition is the result of the performance by the Board of its Future Fund investment functions.
+             (2)  Subsections 606(1A) and (2A) and section 611 of the _Corporations Act 2001_ do not apply to an acquisition by the Board.
 
              (3)  A failure by the Board to comply with section 606 of the _Corporations Act 2001_ (as modified by this section) does not affect the validity of any transaction.
 
 Note:          See also section 39 (application of the _Corporations Act 2001_).
 
+##### <a id="22"></a>22  Board must not have a significant stake in a foreign listed company
+
+             (1)  The Board must take all reasonable steps to ensure that it does not hold a stake in a foreign listed company of more than 20%.
+
+Stake
+
+             (2)  The _Financial Sector (Shareholdings) Act 1998_ applies for the purposes of determining the Board’s stake in a foreign listed company, with the following modifications:
+
+                     (a)  assume that the Board does not have any associates;
+
+                     (b)  assume that any financial assets held by the Board were held by the Board in its own right;
+
+                     (c)  disregard paragraph 8(1)(c) of Schedule 1 to that Act;
+
+                     (d)  the modification set out in subsection (3).
+
+             (3)  For the purposes of determining the Board’s stake in a foreign listed company, if, under a securities lending arrangement:
+
+                     (a)  at a particular time (the **_disposal time_**), the Board disposed of a financial asset (the **_borrowed financial asset_**) to another person (the **_borrower_**); and
+
+                     (b)  the Board may come under an obligation to:
+
+                              (i)  re-acquire the borrowed financial asset from the borrower at a later time; or
+
+                             (ii)  acquire an identical financial asset from the borrower at a later time;
+
+the borrowed financial asset is taken to be held by the Board during the period:
+
+                     (c)  beginning at the disposal time; and
+
+                     (d)  ending when the obligation mentioned in paragraph (b) is discharged or can no longer arise.
+
+Validity of transactions
+
+             (4)  A failure to comply with subsection (1) does not affect the validity of any transaction.
+
 ##### <a id="23"></a>23  Borrowing
 
-             (1)  The Board must not borrow money for a purpose in connection with the Fund unless the borrowing is authorised by subsection (2) or (3).
+             (1)  The Board must not borrow money unless the borrowing is authorised by subsection (2) or (3).
 
-             (2)  The Board is authorised to borrow money for a purpose in connection with the Fund if:
+             (2)  The Board is authorised to borrow money if:
 
                      (a)  the purpose of the borrowing is to enable the Board to cover settlement of a transaction for the acquisition of one or more financial assets; and
 
@@ -876,11 +864,11 @@ Note:          See also section 39 (application of the _Corp
 
                      (d)  if the borrowing were to take place, the total amount borrowed by the Board would not exceed 10% of the balance of the Fund.
 
-             (3)  The Board is authorised to borrow money for a purpose in connection with the Fund if the borrowing takes place in such circumstances (if any) as are specified in the regulations.
+             (3)  The Board is authorised to borrow money in such circumstances (if any) as are specified in the regulations.
 
 ##### <a id="24"></a>24  Investment policies
 
-             (1)  The Board must formulate written policies to be complied with by it in relation to the following matters in connection with the Fund:
+             (1)  The Board must formulate written policies to be complied with by it in relation to the following matters:
 
                      (a)  the investment strategy for the Fund;
 
@@ -894,7 +882,7 @@ Note:          See also section 39 (application of the _Corp
 
 Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
 
-             (2)  The Board must ensure that policies formulated under subsection (1) are consistent with the Future Fund Investment Mandate.
+             (2)  The Board must ensure that policies formulated under subsection (1) are consistent with the Investment Mandate.
 
 Publication of policies
 
@@ -906,7 +894,7 @@ Review of policies
 
              (5)  The Board must conduct periodic reviews of policies formulated under subsection (1).
 
-             (6)  If there is a change in the Future Fund Investment Mandate, the Board must review any relevant policies formulated under subsection (1).
+             (6)  If there is a change in the Investment Mandate, the Board must review any relevant policies formulated under subsection (1).
 
 Compliance with policies
 
@@ -926,9 +914,9 @@ Policies
 
                      (b)  protecting the return on an investment of the Fund (other than a derivative); or
 
-                     (c)  achieving indirect exposure to financial assets (other than derivatives) for a purpose in connection with the Fund; or
+                     (c)  achieving indirect exposure to financial assets (other than derivatives); or
 
-                     (d)  achieving transactional efficiency for a purpose in connection with the Fund;
+                     (d)  achieving transactional efficiency;
 
 but must not acquire a derivative for the purpose of:
 
@@ -954,17 +942,17 @@ the Board becomes the holder of a financial asset, that financial asset is taken
 
 ##### <a id="27"></a>27  Securities lending arrangements
 
-             (1)  The Board may enter into securities lending arrangements for a purpose in connection with the Fund.
+             (1)  The Board may enter into securities lending arrangements.
 
-             (2)  Any money received by the Board under a securities lending arrangement entered into under subsection (1) is to be credited to the Fund Account.
+             (2)  Any money received by the Board under a securities lending arrangement is to be credited to the Fund Account.
 
-             (3)  To avoid doubt, a securities lending arrangement entered into under subsection (1) may provide for the Board to realise an investment of the Fund.
+             (3)  To avoid doubt, a securities lending arrangement may provide for the Board to realise an investment of the Fund.
 
-             (4)  If, as the result of the operation of a securities lending arrangement entered into under subsection (1), the Board becomes the holder of a financial asset, that financial asset is taken to be an investment of the Fund.
+             (4)  If, as the result of the operation of a securities lending arrangement, the Board becomes the holder of a financial asset, that financial asset is taken to be an investment of the Fund.
 
 ##### <a id="28"></a>28  Investment managers
 
-             (1)  The Board may engage one or more investment managers for purposes in connection with the Fund.
+             (1)  The Board may engage one or more investment managers.
 
              (2)  The Board must not:
 
@@ -972,43 +960,49 @@ the Board becomes the holder of a financial asset, that financial asset is taken
 
                      (b)  acquire derivatives under subsection 25(1); or
 
-                     (c)  enter into a securities lending arrangement under subsection 27(1); or
+                     (c)  enter into a securities lending arrangement; or
 
-                     (d)  realise financial assets that are investments of the Fund;
+                     (d)  realise financial assets;
 
 unless the Board does so:
 
-                     (e)  through an investment manager engaged by the Board under subsection (1) of this section; or
+                     (e)  through an investment manager engaged by the Board; or
 
                       (f)  in a manner approved, in writing, by the responsible Ministers.
 
-             (3)  The Board must ensure that any investment manager engaged by the Board under subsection (1) operates within this Act.
+             (3)  The Board must ensure that any investment manager engaged by the Board operates within this Act.
 
-             (4)  The Board must ensure that any investment manager engaged by the Board under subsection (1) reports to the Board and the Agency on the state of the investments of the Fund at such times and in such manner as the Board determines.
-
-             (5)  Neither this Act nor the _Higher Education Endowment Fund Act 2007_ prevents the same person from being engaged as an investment manager under both of the following provisions:
-
-                     (a)  subsection (1) of this section;
-
-                     (b)  subsection 34(1) of the _Higher Education Endowment Fund Act 2007_.
+             (4)  The Board must ensure that any investment manager engaged by the Board reports to the Board and the Agency on the state of the investments of the Fund at such times and in such manner as the Board determines.
 
 ##### <a id="29"></a>29  Custody of securities
 
                    Section 40 of the _Financial Management and Accountability Act 1997_ does not apply to an investment of the Fund.
 
-##### <a id="30"></a>30  Refund of franking credits
+##### <a id="30"></a>30  Exemption from taxation
 
-                   If:
+Income tax
 
-                     (a)  the Board receives a refund of a tax offset under the _Income Tax Assessment Act 1997_; and
+             (1)  To avoid doubt, for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_, the Board is taken to be a public authority constituted under an Australian law.
 
-                     (b)  the tax offset is attributable to an investment of the Fund;
+Note:          This means that the Board is exempt from income tax.
 
-the refund is to be credited to the Fund Account.
+State/Territory taxes
 
-Note 1:       See also section 84B.
+             (2)  To avoid doubt, the Board is not subject to taxation under a law of a State or Territory, if the Commonwealth is not subject to the taxation.
 
-Note 2:       For refunds of tax offsets, see Division 63 of the _Income Tax Assessment Act 1997_.
+##### <a id="31"></a>31  Franking credits
+
+             (1)  For the purposes of the _Income Tax Assessment Act 1997_, the Board is taken to be an exempt institution that is eligible for a refund.
+
+Note:          See Division 207 of the _Income Tax Assessment Act 1997_ (franked distributions).
+
+             (2)  Subsection (1) has effect despite subsection 207-115(1) of the _Income Tax Assessment Act 1997._
+
+             (3)  For the purposes of the _Income Tax Assessment Act 1997_, the Board’s entitlement to a tax offset is to be determined as if any financial assets held by the Board were held by the Board in its own right.
+
+             (4)  If the Board receives a refund of a tax offset under the _Income Tax Assessment Act 1997,_ the refund is to be credited to the Fund Account.
+
+Note:          For refunds of tax offsets, see Division 63 of the _Income Tax Assessment Act 1997_.
 
 ##### <a id="32"></a>32  Realisation of non-financial assets
 
@@ -1056,8 +1050,6 @@ good faith.</li>
 
 * * *
 
-Note:          The Future Fund Board of Guardians has additional functions under the _Higher Education Endowment Fund Act 2007_.
-
 ### Division 2—Establishment and functions of the Future Fund Board of Guardians
 
 ##### <a id="34"></a>34  Establishment of the Future Fund Board of Guardians
@@ -1070,7 +1062,7 @@ Note:          The Future Fund Board of Guardians has addition
 
                      (a)  to invest amounts in accordance with this Act;
 
-                     (b)  such other functions as are conferred on the Board by this Act or the _Higher Education Endowment Fund Act 2007_;
+                     (b)  such other functions as are conferred on the Board by this Act;
 
                      (c)  to do anything incidental to or conducive to the performance of any of the above functions.
 
@@ -1336,9 +1328,9 @@ those other Board members constitute a quorum for the purpose of any deliberatio
 
 Reports
 
-             (1)  The nominated Minister may, by written notice given to the Board, require the Board to:
+             (1)  The nominated Minister may, by written notice given to the Board, require the Board:
 
-                     (a)  prepare a report about one or more specified matters relating to the performance of the Board’s functions under this Act; and
+                     (a)  to prepare a report about one or more specified matters relating to the performance of the Board’s functions; and
 
                      (b)  give copies of the report to the nominated Minister within the period specified in the notice.
 
@@ -1346,7 +1338,7 @@ Information
 
              (2)  The nominated Minister may, by written notice given to the Board, require the Board to:
 
-                     (a)  prepare a document setting out specified information relating to the performance of the Board’s functions under this Act; and
+                     (a)  prepare a document setting out specified information relating to the performance of the Board’s functions; and
 
                      (b)  give copies of the document to the nominated Minister within the period specified in the notice.
 
@@ -1373,8 +1365,6 @@ Reports and documents
              (1)  The Board must keep the responsible Ministers informed of the operations of the Board.
 
              (2)  The Board must give the nominated Minister such reports, documents and information in relation to those operations as are appropriate.
-
-             (3)  Subsections (1) and (2) do not apply to the operations of the Board under the _Higher Education Endowment Fund Act 2007_.
 
 ### Division 7—Duties of Board members etc.
 
@@ -1512,19 +1502,11 @@ and fails to exercise his or her powers and discharge his or her duties:
 
 ##### <a id="63"></a>63  Compliance with statutory duties
 
-             (1)  A Board member does not contravene section 57, 58 or 59, or commit an offence against section 60, 61 or 62, by doing an act that:
-
-                     (a)  another provision of this Act; or
-
-                     (b)  the _Higher Education Endowment Fund Act 2007_;
-
-requires the Board member to do.
+             (1)  A Board member does not contravene section 57, 58 or 59, or commit an offence against section 60, 61 or 62, by doing an act that another provision of this Act requires the Board member to do.
 
              (2)  The Chair does not contravene section 57, 58 or 59, or commit an offence against section 60, 61 or 62, by doing an act that:
 
                      (a)  another provision of this Act; or
-
-                    (aa)  the _Higher Education Endowment Fund Act 2007_; or
 
                      (b)  the _Financial Management and Accountability Act 1997_; or
 
@@ -1908,37 +1890,23 @@ Note:          This means that there will be:
 
                      (c)  the performance of the investments of the Fund; and
 
-                     (e)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(1)(f) of Schedule 2; and
+                     (d)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(c) of Schedule 2; and
 
-                    (ea)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(d) of Schedule 2; and
+                     (e)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(g) of Schedule 2; and
 
-                      (f)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(e) of Schedule 2; and
+                      (f)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(k) of Schedule 2; and
 
-                     (g)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(f) of Schedule 2; and
+                     (g)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(l) of Schedule 2; and
 
-                     (h)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(g) of Schedule 2; and
-
-                      (i)  the performance of the investments of the Higher Education Endowment Fund; and
-
-                      (j)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(1)(f) of the _Higher Education Endowment Fund Act 2007_; and
-
-                     (k)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(d) of the _Higher Education Endowment Fund Act 2007_; and
-
-                      (l)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(e) of the _Higher Education Endowment Fund Act 2007_; and
-
-                    (m)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(f) of the _Higher Education Endowment Fund Act 2007_; and
-
-                     (n)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(g) of the _Higher Education Endowment Fund Act 2007_;
+                     (h)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(m) of Schedule 2;
 
 during the financial year.
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_.
 
-             (2)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1)(e) to (h) and (j) to (n).
+             (2)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1)(d) to (h).
 
              (3)  The nominated Minister must cause a copy of each report under this section to be tabled in each House of the Parliament within 15 sitting days of that House after receiving the report.
-
-             (4)  As soon as practicable after receiving a report under this section, the nominated Minister must give a copy of the report to the Education Minister.
 
 ##### <a id="82"></a>82  Consultants and advisers to the Board
 
@@ -1978,91 +1946,13 @@ Note:          For variation and revocation, see subsection 33
 
 ##### <a id="84"></a>84  Miscellaneous receipts to be credited to the Fund Account
 
-             (1)  If:
+                   If:
 
                      (a)  the Board receives an amount of money; and
 
-                     (b)  neither:
-
-                              (i)  another provision of this Act; nor
-
-                             (ii)  a provision of the _Higher Education Endowment Fund Act 2007_;
-
-                            requires the amount to be credited to the Fund Account or the Higher Education Endowment Fund Special Account;
+                     (b)  another provision of this Act does not require the amount to be credited to the Fund Account;
 
 the amount is to be credited to the Fund Account.
-
-Transfer of amounts to the Higher Education Endowment Fund Special Account
-
-             (2)  If an amount is credited to the Fund Account under subsection (1), the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Higher Education Endowment Fund Special Account;
-
-on a specified day.
-
-             (3)  The specified amount must not exceed the amount credited to the Fund Account under subsection (1).
-
-             (4)  A direction under subsection (2) is not a legislative instrument.
-
-##### <a id="84A"></a>84A  Exemption from taxation
-
-Income tax
-
-             (1)  To avoid doubt, for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_, the Board is taken to be a public authority constituted under an Australian law.
-
-Note:          This means that the Board is exempt from income tax.
-
-State/Territory taxes
-
-             (2)  To avoid doubt, the Board is not subject to taxation under a law of a State or Territory, if the Commonwealth is not subject to the taxation.
-
-##### <a id="84B"></a>84B  Franking credits
-
-             (1)  For the purposes of the _Income Tax Assessment Act 1997_, the Board is taken to be an exempt institution that is eligible for a refund.
-
-Note:          See Division 207 of the _Income Tax Assessment Act 1997_ (franked distributions).
-
-             (2)  Subsection (1) has effect despite subsection 207-115(1) of the _Income Tax Assessment Act 1997._
-
-             (3)  For the purposes of the _Income Tax Assessment Act 1997_, the Board’s entitlement to a tax offset is to be determined as if any financial assets held by the Board were held by the Board in its own right.
-
-##### <a id="84C"></a>84C  Board must not have a significant stake in a foreign listed company
-
-             (1)  The Board must take all reasonable steps to ensure that it does not hold a stake in a foreign listed company of more than 20%.
-
-Stake
-
-             (2)  The _Financial Sector (Shareholdings) Act 1998_ applies for the purposes of determining the Board’s stake in a foreign listed company, with the following modifications:
-
-                     (a)  assume that the Board does not have any associates;
-
-                     (b)  assume that any financial assets held by the Board were held by the Board in its own right;
-
-                     (c)  disregard paragraph 8(1)(c) of Schedule 1 to that Act;
-
-                     (d)  the modification set out in subsection (3).
-
-             (3)  For the purposes of determining the Board’s stake in a foreign listed company, if, under a securities lending arrangement:
-
-                     (a)  at a particular time (the **_disposal time_**), the Board disposed of a financial asset (the **_borrowed financial asset_**) to another person (the **_borrower_**); and
-
-                     (b)  the Board may come under an obligation to:
-
-                              (i)  re-acquire the borrowed financial asset from the borrower at a later time; or
-
-                             (ii)  acquire an identical financial asset from the borrower at a later time;
-
-the borrowed financial asset is taken to be held by the Board during the period:
-
-                     (c)  beginning at the disposal time; and
-
-                     (d)  ending when the obligation mentioned in paragraph (b) is discharged or can no longer arise.
-
-Validity of transactions
-
-             (4)  A failure to comply with subsection (1) does not affect the validity of any transaction.
 
 ##### <a id="85"></a>85  Regulations
 
@@ -2280,16 +2170,6 @@ Declaration
 
 Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
 
-          (1A)  A direction under subclause (1) in relation to financial assets must not direct the Board in relation to the investment of an amount credited to the Fund Account in respect of:
-
-                     (a)  income derived from the financial assets; or
-
-                     (b)  a return of capital, or any other financial distribution, relating to the financial assets; or
-
-                     (c)  the proceeds of the realisation of the financial assets.
-
-Note:          For directions about the investment of amounts standing to the credit of the Fund Account, see section 18 (Future Fund Investment Mandate).
-
              (2)  A direction under subclause (1) may:
 
                      (a)  require the Board not to realise the financial assets before the end of a specified period; or
@@ -2358,9 +2238,7 @@ Note:          The target asset level is specified in a declar
 
 ##### <a id="2"></a>2  Purposes of the Fund Account
 
-Superannuation purposes and purposes related exclusively to the Fund
-
-             (1)  Each of the following is a purpose of the Fund Account:
+                   The purposes of the Fund Account are as follows:
 
                      (a)  discharging, in whole or in part, an unfunded superannuation liability that becomes payable in a financial year, where:
 
@@ -2372,59 +2250,35 @@ Superannuation purposes and purposes related exclusively to the Fund
 
                      (b)  discharging, in whole or in part, an unfunded superannuation liability that becomes payable in a financial year beginning on or after 1 July 2020;
 
-                     (c)  paying the costs of, or incidental to, the acquisition of financial assets under section 16;
+                     (c)  paying remuneration and allowances of Board members;
 
-                     (d)  paying expenses of an investment of the Fund;
+                     (d)  paying the costs of, or incidental to, the acquisition of financial assets under section 16;
 
-                     (e)  paying the costs of, or incidental to, the acquisition of derivatives under section 25;
+                     (e)  paying expenses of an investment of the Fund;
 
-                      (f)  paying or discharging the costs, expenses and other obligations incurred by the Board under a contract between the Board and an investment manager engaged under subsection 28(1);
+                      (f)  paying the costs of, or incidental to, the acquisition of derivatives under section 25;
 
-                     (g)  paying or discharging the costs, expenses and other obligations incurred in connection with the establishment, maintenance or operation of a bank account of the Board, where the bank account relates exclusively to the Fund;
+                     (g)  paying or discharging the costs, expenses and other obligations incurred by the Board under a contract between the Board and an investment manager;
 
-                     (h)  paying a premium in respect of a contract of insurance entered into by the Board exclusively in connection with the Fund;
+                     (h)  paying or discharging the costs, expenses and other obligations incurred in connection with the establishment, maintenance or operation of a bank account of the Board;
 
-                      (i)  paying or discharging any other costs, expenses, obligations or liabilities incurred by the Board exclusively in connection with the Fund.
+                      (i)  paying a premium in respect of a contract of insurance entered into by the Board;
+
+                      (j)  paying or discharging any other costs, expenses, obligations or liabilities incurred by the Board;
+
+                     (k)  paying remuneration, and other employment-related costs and expenses, in respect of members of the staff of the Agency;
+
+                      (l)  paying or discharging the costs, expenses and other obligations incurred by the Commonwealth under a contract entered into under section 78 or 82;
+
+                    (m)  paying or discharging the costs, expenses and other obligations incurred by the Commonwealth in connection with the establishment or operation of the Agency.
 
 Note 1:       See section 21 of the _Financial Management and Accountability Act 1997_ (debits from Special Accounts).
 
 Note 2:       A target asset level declaration is given by the designated actuary under Schedule 3.
 
-Purposes not related exclusively to the Fund
-
-             (2)  Each of the following is a purpose of the Fund Account:
-
-                     (a)  paying or discharging the costs, expenses and other obligations incurred in connection with the establishment, maintenance or operation of a bank account of the Board, where those costs, expenses or obligations are not covered by:
-
-                              (i)  paragraph (1)(g); or
-
-                             (ii)  paragraph 16(1)(g) of the _Higher Education Endowment Fund Act 2007_;
-
-                     (b)  paying a premium in respect of a contract of insurance entered into by the Board, where the premium is not covered by:
-
-                              (i)  paragraph (1)(h); or
-
-                             (ii)  paragraph 16(1)(h) of the _Higher Education Endowment Fund Act 2007_;
-
-                     (c)  paying or discharging any other costs, expenses, obligations or liabilities incurred by the Board, where the costs, expenses, obligations or liabilities are not covered by:
-
-                              (i)  a paragraph of subclause (1); or
-
-                             (ii)  a paragraph of subsection 16(1) of the _Higher Education Endowment Fund Act 2007_;
-
-                     (d)  paying remuneration and allowances of Board members;
-
-                     (e)  paying remuneration, and other employment-related costs and expenses, in respect of members of the staff of the Agency;
-
-                      (f)  paying or discharging the costs, expenses and other obligations incurred by the Commonwealth under a contract entered into under section 78 or 82;
-
-                     (g)  paying or discharging the costs, expenses and other obligations incurred by the Commonwealth in connection with the establishment or operation of the Agency.
-
-Note:          See section 21 of the _Financial Management and Accountability Act 1997_ (debits from Special Accounts).
-
 ##### <a id="3"></a>3  Board must ensure that there is sufficient money to cover the main purposes of the Fund Account
 
-                   The Board must take all reasonable steps to ensure that, during a financial year to which paragraph 2(1)(a) or (b) of this Schedule applies, the amount of money standing to the credit of the Fund Account is sufficient to cover the purpose mentioned in that paragraph.
+                   The Board must take all reasonable steps to ensure that, during a financial year to which paragraph 2(a) or (b) of this Schedule applies, the amount of money standing to the credit of the Fund Account is sufficient to cover the purpose mentioned in that paragraph.
 
 Note:          This may require the Board to realise an investment of the Fund in accordance with section 17.
 
@@ -2597,10 +2451,10 @@ of Assent</div>
       <div>12, 2006</div>
     </td>
     <td>
-      <div>23 Mar 2006</div>
+      <div>23 March 2006</div>
     </td>
     <td>
-      <div>3 Apr 2006</div>
+      <div>3 April 2006</div>
     </td>
     <td>
       <div></div>
@@ -2624,25 +2478,6 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
       <div>Sch. 6 (items 1, 6–11)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Higher Education Endowment Fund (Consequential Amendments) Act 2007</div>
-    </td>
-    <td>
-      <div>161, 2007</div>
-    </td>
-    <td>
-      <div>24 Sept 2007</div>
-    </td>
-    <td>
-      <div>Schedule 1: 25 Sept 2007 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 
-78–85)</div>
-    </td>
-  </tr>
 </thead></table>
 
 ## Table of Amendments
@@ -2653,171 +2488,17 @@ Remainder: Royal Assent</div>
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14, 15</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(10)</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 20</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23–25</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27, 28</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rs. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 161, 2007</div>
+    <div>How affected</div>
   </td>
 </tr>
 <tr>
@@ -2826,190 +2507,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 33</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 54, 55</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 84A– 84C</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 8</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to c. 2(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007</div>
   </td>
 </tr></table>
 
@@ -3092,80 +2589,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Higher Education Endowment Fund (Consequential Amendments) Act 2007
-  (No. 161, 2007)_
-
-## Schedule 1
-
-## 78  Transitional—Investment Mandate
-
-(1)        This item applies to a direction that:
-
-                     (a)  was given under subsection 18(1) of the _Future Fund Act 2006_; and
-
-                     (b)  was in force immediately before the commencement of this item.
-
-(2)        The amendments of subsections 18(1), (3), (6), (10) and (12) of the _Future Fund Act 2006_ made by this Schedule do not affect the continuity of the direction.
-
-## 79  Transitional—borrowings
-
-(1)        This item applies to a borrowing that:
-
-                     (a)  was authorised under subsection 23(2) or (3) of the _Future Fund Act 2006_; and
-
-                     (b)  was in existence immediately before the commencement of this item.
-
-(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the borrowing had been authorised under subsection 23(2) or (3), as the case requires, of that Act as amended by this Schedule.
-
-## 80  Transitional—investment policies
-
-(1)        This item applies to policies that:
-
-                     (a)  were formulated under subsection 24(1) of the _Future Fund Act 2006_; and
-
-                     (b)  were in force immediately before the commencement of this item.
-
-(2)        The policies have effect, after the commencement of this item, as if they had been formulated under subsection 24(1) of the _Future Fund Act 2006_ as amended by this Schedule.
-
-## 81  Transitional—derivatives
-
-(1)        This item applies to a derivative that:
-
-                     (a)  was acquired under subsection 25(1) of the _Future Fund Act 2006_; and
-
-                     (b)  was held by the Board immediately before the commencement of this item.
-
-(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the derivative had been acquired under subsection 25(1) of that Act as amended by this Schedule.
-
-## 82  Transitional—securities lending arrangements
-
-(1)        This item applies to a securities lending arrangement that:
-
-                     (a)  was entered into under subsection 27(1) of the _Future Fund Act 2006_; and
-
-                     (b)  was in force immediately before the commencement of this item.
-
-(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the securities lending arrangement had been entered into under subsection 27(1) of that Act as amended by this Schedule.
-
-## 83  Transitional—investment managers
-
-(1)        This item applies to an engagement of an investment manager if the engagement:
-
-                     (a)  was made under subsection 28(1) of the _Future Fund Act 2006_; and
-
-                     (b)  was in force immediately before the commencement of this item.
-
-(2)        The engagement has effect, after the commencement of this item, as if it had been made under subsection 28(1) of the _Future Fund Act 2006_ as amended by this Schedule.
-
-## 84  Application of amendments—directions under subsection 18(1) of the _Future Fund Act 2006_
-
-The amendments made by items 19, 21 and 26 apply in relation to a direction under subsection 18(1) of the _Future Fund Act 2006_ that is given after the commencement of this item.
-
-## 85  Application of amendment—directions under subclause 8(1) of Schedule 1 to the _Future Fund Act 2006_
-
-The amendment made by item 69 applies in relation to a direction under subclause 8(1) of Schedule 1 to the _Future Fund Act 2006_ that is given after the commencement of this item.
 
  
