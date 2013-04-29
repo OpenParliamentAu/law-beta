@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00886/Html/641d5ae4-2b0b-4fc3-93cd-0c8c36e88fec_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00840/Html/e5606aae-a1d1-4237-bd32-10cce31758fa_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 4 December 2012
- taking into account amendments up to Act No. 167 of 2012
+This compilation was prepared on 21 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -191,8 +191,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [63](#63).          Integrity Commissioner may request individual progress report
 
-[64](#64).          Integrity Commissioner may request periodic progress 
- reports
+[64](#64).          Integrity Commissioner may request periodic progress reports
 
 [65](#65).          Head of law enforcement agency to keep person who referred corruption issue informed of progress of investigation
 
@@ -382,8 +381,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [123](#123).        Use of electronic equipment at premises without expert assistance
 
-[124](#124).        Use of electronic equipment at premises with expert 
- assistance
+[124](#124).        Use of electronic equipment at premises with expert assistance
 
 [125](#125).        Person with knowledge of a computer or a computer system to assist access etc 
 
@@ -633,7 +631,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Law Enforcement Integrity Commissioner Act 2006_.
 
@@ -1442,8 +1440,6 @@ Note:          For provisions in relation to the Integrity Com
 
                    The Integrity Commissioner has the following functions:
 
-                    (aa)  to detect corrupt conduct in law enforcement agencies;
-
                      (a)  to investigate and report on corruption issues;
 
                      (b)  to refer corruption issues, in appropriate circumstances, to a law enforcement agency for investigation;
@@ -1455,8 +1451,6 @@ Note:          For provisions in relation to the Integrity Com
                               (i)  corruption issues; or
 
                              (ii)  corruption generally in, or the integrity of staff members of, law enforcement agencies;
-
-                   (da)  to prevent corrupt conduct in law enforcement agencies;
 
                      (e)  to collect, correlate, analyse and disseminate information and intelligence in relation to corruption generally in, or the integrity of staff members of, both:
 
@@ -3714,7 +3708,7 @@ Determination of who may be present not a legislative instrument
 
 #### Subdivision C—Taking evidence at hearing
 
-##### <a id="87"></a>87  Evidence on oath or by affirmation
+##### <a id="87"></a>87  Evidence on oath or by affirmation
 
              (1)  At a hearing, the Integrity Commissioner may:
 
@@ -4636,7 +4630,7 @@ authorise the Commonwealth to provide the person with legal or financial assista
 
              (4)  To avoid doubt, this section does not limit the powers of the Ombudsman under the _Ombudsman Act 1976_ to investigate issues of administrative practice in relation to a hearing that has been held under this Division.
 
-             (5)  A reference in this section to the Integrity Commissioner includes a reference to an Assistant Integrity Commissioner who exercises the power to hold a hearing under a delegation under section 219.
+             (5)  A reference in this section to the Integrity Commissioner includes a reference to an Assistant Integrity Commissioner who exercises the power to hold a hearing under an authorisation under section 219.
 
 ##### <a id="104A"></a>104A  Protection of witnesses etc.
 
@@ -5894,7 +5888,7 @@ the head of the first agency must not give the information or document to the he
 
 ##### <a id="152"></a>152  Integrity Commissioner giving section 149 certified information to agency head or special investigator
 
-                   If:
+                   If:
 
                      (a)  either:
 
@@ -5978,11 +5972,7 @@ How Minister may deal with ACLEI corruption issue
 
                      (c)  decide to take no further action in relation to the ACLEI corruption issue.
 
-             (3)  The Minister must not refer the ACLEI corruption issue to the Integrity Commissioner for investigation under Division 3 if the ACLEI corruption issue relates to the conduct of:
-
-                     (a)  the Integrity Commissioner; or
-
-                     (b)  an Assistant Integrity Commissioner.
+             (3)  The Minister must not refer the ACLEI corruption issue to the Integrity Commissioner for investigation under Division 3 if the ACLEI corruption issue relates to the conduct of a person who is a member of the staff referred to in section 197 (persons appointed or employed under the _Public Service Act 1999_).
 
              (4)  The Minister may, at any time, reconsider how the ACLEI corruption issue should be dealt with.
 
@@ -7519,6 +7509,8 @@ Delegation to an Assistant Integrity Commissioner
 
              (1)  The Integrity Commissioner may delegate all or any of his or her functions or powers to an Assistant Integrity Commissioner.
 
+             (2)  Subsection (1) does not apply to the power to hold a hearing for the purpose of conducting a public inquiry.
+
 Delegation to certain staff members of ACLEI
 
              (3)  The Integrity Commissioner may delegate all or any of his or her functions or powers to a staff member of ACLEI who is an SES employee or acting SES employee.
@@ -7851,23 +7843,6 @@ Schedule 9: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>167, 2012</div>
-  </td>
-  <td>
-    <div>28 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–6): 29 Nov 2012</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 6)</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
@@ -8069,22 +8044,6 @@ _(b)_ Subsection 2(1) (item 12) of the _Statute Law Revision Act 2012_ provide
   </td>
   <td>
     <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 167, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8375,7 +8334,7 @@ Part 9</div>
     <div>S. 104</div>
   </td>
   <td>
-    <div>am. Nos. 24 and 167, 2012</div>
+    <div>am. No. 24, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8495,7 +8454,7 @@ Part 9</div>
     <div>S. 156</div>
   </td>
   <td>
-    <div>am. Nos. 24 and 167, 2012</div>
+    <div>am. No. 24, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8625,22 +8584,6 @@ Part 9</div>
   <td>
     <div>rs. No. 136, 2012</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 219</div>
-  </td>
-  <td>
-    <div>am. No. 167, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -8715,15 +8658,5 @@ Section 117 of the _Law Enforcement Integrity Commissioner Act 2006_, as amend
 ## 2  Application
 
 The amendment made by item 1 of this Schedule applies in relation to a person appointed or re‑appointed as the Law Enforcement Integrity Commissioner before, on or after the commencement of this item.
-
-* * *
-
-_Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012 (No. 167, 2012)_
-
-## Schedule 3
-
-## 6  Application of amendment
-
-Subsection 156(3) of the _Law Enforcement Integrity Commissioner Act 2006_, as in force after the commencement of this item, applies in relation to corrupt conduct engaged in before, on or after that commencement.
 
  
