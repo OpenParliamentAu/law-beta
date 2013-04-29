@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00172/Html/TransTasMutRecAct1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00130/Html/TransTasMutRecAct1997_WD02_image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 18 April 2009
- taking into account amendments up to Act No. 8 of 2007 
- and SLI 2009 No. 65
+This compilation was prepared on 27 March 2007
+ taking into account amendments up to Act No. 8 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -311,7 +310,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="sell"></a>**_sell_** includes sell by wholesale or retail, and includes distribute for sale, expose or offer for sale or have in possession for sale or agree to sell, and includes barter, and includes supply by way of exchange, lease, hire or hire-purchase.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory or the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory or the Northern Territory.
 
                     <a name="substant-registr"></a>**_substantive registration_** means registration under a law of a participating jurisdiction, but does not include deemed registration.
 
@@ -447,7 +446,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="16"></a>16  Entitlement to carry on occupation 
 
-             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New   Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
+             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
 
                      (a)  to be registered in the jurisdiction for the equivalent occupation; and 
 
@@ -879,7 +878,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                     <a name="ministeri-agreem"></a>**_ministerial agreement_** means an agreement of Ministers of participating jurisdictions made in relation to goods or laws that are the subject of an exemption under section 46.
 
-##### <a id="48"></a>48  Special exemptions
+##### <a id="48"></a>48  Special exemptions
 
              (1)  This Act does not affect the operation of laws of an Australian jurisdiction that relate to goods and that are specified or described in Schedule 3, to the extent that Schedule 3 indicates that they are exempt from the operation of this Act.
 
@@ -1350,16 +1349,6 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Supply Act 1996</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Indecent material</b></div>
   </td>
 </tr>
@@ -1446,16 +1435,6 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Safety Act 1997</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Indecent material</b></div>
   </td>
 </tr>
@@ -1518,18 +1497,6 @@ Prohibited Weapons Act 1989
     <div><i>Gaming Machine Act 1991 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Petroleum and Gas (Production and Safety) Act 2004</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
-
-</div>
   </td>
 </tr>
 <tr>
@@ -1601,18 +1568,6 @@ Prohibited Weapons Act 1989
     <div><i>Gaming Commission Act 1987 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Standards Act 1972</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
-
-</div>
   </td>
 </tr>
 <tr>
@@ -1718,18 +1673,6 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Act 1997</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Indecent material</b></div>
   </td>
 </tr>
@@ -1807,18 +1750,6 @@ Prohibited Weapons Act 1989
 <tr>
   <td>
     <div><i>Gaming Control Act 1993</i>(to the extent that it deals with gaming machines) 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Act 2000</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
 
 </div>
   </td>
@@ -1903,24 +1834,12 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Safety Act 2000</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
-
-</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Indecent material</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Business Franchise (“X” Videos) Act 1990</i></div>
+    <div><i>Business Franchise “X” Videos) Act 1990</i></div>
   </td>
 </tr>
 <tr>
@@ -1982,18 +1901,6 @@ Prohibited Weapons Act 1989
     <div><i>Gaming Control Act 1993 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gas Appliances</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act</i>, to the extent that it relates to regulation of liquefied petroleum gas (LPG) appliances (other than those that have been tested and certified for safe use on universal LPG) and portable, unflued cabinet heaters that are designed for indoor use and that operate on LPG using LPG gas cylinders that are self-contained within the heater 
-
-</div>
   </td>
 </tr>
 <tr>
@@ -2387,42 +2294,57 @@ _Note:       See section 48._
 
 <tr>
   <td>
-    <div><i>Gas Supply Act 1996</i>of New South Wales (to the extent that it relates to regulation of gas appliances that are not covered by clause 4 in Schedule 2)</div>
+    <div><i>Gas Act 1986</i>of New South Wales</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Safety Act 1997</i>of Victoria (to the extent that it relates to regulation of gas appliances that are not covered by clause 5 in Schedule 2)</div>
+    <div><i>Gas Supply Act 1996</i>of New South Wales</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Petroleum and Gas (Production and Safety) Act 2004</i>of Queensland (to the extent that it relates to regulation of gas appliances that are not covered by clause 6 in Schedule 2)</div>
+    <div><i>Gas and Fuel Corporation Act 1958</i>of Victoria</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Standards Act 1972</i>of Western Australia (to the extent that it relates to regulation of gas appliances that are not covered by clause 7 in Schedule 2)</div>
+    <div><i>Gas Industry Act 1994</i>of Victoria</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Act 1997</i>of South Australia (to the extent that it relates to regulation of gas appliances that are not covered by clause 8 in Schedule 2)</div>
+    <div><i>Gas Act 1965</i>of Queensland</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Act 2000</i>of Tasmania (to the extent that it relates to regulation of gas appliances that are not covered by clause 9 in Schedule 2)</div>
+    <div><i>Gas Standards Act 1972</i>of Western Australia, to the extent that it relates to regulation of gas appliances</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Gas Safety Act 2000</i>of the Australian Capital Territory (to the extent that it relates to regulation of gas appliances that are not covered by clause 10 in Schedule 2)</div>
+    <div><i>Gas Act 1988</i>of South Australia</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Dangerous Goods Act</i>of the Northern Territory (to the extent that it relates to regulation of gas appliances that are not covered by clause 11 in Schedule 2)</div>
+    <div><i>Dangerous Goods Act 1976</i>of Tasmania, to the extent that it relates to regulation of gas appliances</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1980</i>of the Northern Territory, to the extent that it relates to regulation of gas appliances</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Gas Act 1992</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Dangerous Goods Act 1984</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
   </td>
 </tr></table>
 
@@ -2584,7 +2506,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
 The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
-The _Trans-Tasman Mutual Recognition Act 1997_ was amended by the _Trans-Tasman Mutual Recognition Regulation__s 1__999_ (SR 1999 No. 60), the _Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)_ (SR 2000 No. 51), the _Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 75), the _Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)_ (SR 2001 No. 221), the _Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)_ (SR 2002 No. 78), the _Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)_ (SR 2003 No. 72) and the _Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)_ (SLI 2009 No. 65). The amendments are incorporated in this compilation.
+The _Trans-Tasman Mutual Recognition Act 1997 __was amended by the Trans-Tasman Mutual Recognition Regulation__s 1__999 __(SR 1999 No. 60), the Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1) __(SR __2000 No. 51), the Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1) __(SR __2001 No. 75), the __Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)__(SR __2001 No. 221), the __Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)__(SR __2002 No. 78) and the __Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)__ (SR __2003 No. 72). __The amendments are incorporated in this compilation._
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2622,7 +2544,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Trans-Tasman Mutual Recognition Act 1997</div>
+    <div>Trans-Tasman Mutual Recognition Act  <span style="font-style: normal"></span>1997</div>
   </td>
   <td>
     <div>190, 1997</div>
@@ -2769,7 +2691,7 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65</div>
+    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2777,7 +2699,7 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     <div>Schedule 3</div>
   </td>
   <td>
-    <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72; SLI 2009 No. 65</div>
+    <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72</div>
   </td>
 </tr></table>
 
