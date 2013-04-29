@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 8 October 2009
- taking into account amendments up to Act No. 94 of 2009
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -381,7 +381,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 Customs Act 1901                                                                                                    110
 
 **Notes** 
-
 ## An Act to promote competitiveness, and encourage investment, in the automotive industry, and for related purposes
 
 ## Part 1—Preliminary
@@ -1810,7 +1809,7 @@ Note:          Unmodulated type J investment credit is worked 
 
              (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image002.gif)
 
 where:
 
@@ -1822,7 +1821,7 @@ Note:          The definition of **_production value_** refers
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image003.gif)
 
 where:
 
@@ -1838,7 +1837,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image004.gif)
 
 where:
 
@@ -1854,7 +1853,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image005.gif)
 
 where:
 
@@ -1870,7 +1869,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image006.gif)
 
 where:
 
@@ -1888,7 +1887,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image007.gif)
 
 where:
 
@@ -1904,7 +1903,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image008.gif)
 
 where:
 
@@ -1922,7 +1921,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image009.gif)
 
 where:
 
@@ -1938,7 +1937,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image010.gif)
 
 where:
 
@@ -1956,7 +1955,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image011.gif)
 
 where:
 
@@ -1972,7 +1971,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image012.gif)
 
 where:
 
@@ -3449,42 +3448,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 
-89, 90) 
-Sch. 1 (items 88, 91) (am. by 94, 2009, Sch. 1 \[items 20, 21])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ACIS Administration Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>94, 2009</div>
-  </td>
-  <td>
-    <div>29 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 20, 21): \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div>—</div>
+88–91)</div>
   </td>
 </tr>
 <tr>
@@ -3552,23 +3516,6 @@ Sch. 1 (items 88, 91) (am. by 94, 2009, Sch. 1 \[items 20, 21])</div>
     <div>Schedule 2 
 (item 1): 23 May 
 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ACIS Administration Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>94, 2009</div>
-  </td>
-  <td>
-    <div>29 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–19): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4477,104 +4424,6 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
   </td>
 </tr></table>
 
-### Note 2
-
-_ACIS Administration Amendment Act 2009 (No. 94, 2009)_
-
-The following amendments commence on 1 July 2010:
-
-## Schedule 1
-
-## 1  Subsection 4(1A)
-
-Omit “3 stages”, substitute “2 stages”.
-
-## 2  Paragraph 4(1A)(b)
-
-Omit “2010; and”, substitute “2010.”.
-
-## 3  Paragraph 4(1A)(c)
-
-Repeal the paragraph.
-
-## 4  Paragraph 4(2)(b)
-
-Omit “$2,000,000,000;”, substitute “$2,000,000,000.”.
-
-## 5  Paragraph 4(2)(c)
-
-Repeal the paragraph.
-
-## 6  Subsection 4(2A)
-
-Omit “ACIS Stages 2 and 3”, substitute “ACIS Stage 2”.
-
-## 7  Subsection 6(1) (definition of _ACIS Stage_)
-
-Omit “ACIS Stage 1, ACIS Stage 2 or ACIS Stage 3”, substitute “ACIS Stage 1 or ACIS Stage 2”.
-
-## 8  Subsection 6(1) (definition of _ACIS Stage 3_)
-
-Repeal the definition.
-
-## 9  Subsection 6(1) (definition of _ACIS year_)
-
-Omit “1 January 2016”, substitute “1 January 2011”.
-
-## 10  Subsection 6(1) (paragraph (b) of the definition of _final quarter_)
-
-Omit “2010; and”, substitute “2010.”.
-
-## 11  Subsection 6(1) (paragraph (c) of the definition of _final quarter_)
-
-Repeal the paragraph.
-
-## 12  Subsection 42(1) (formula)
-
-Repeal the formula, substitute:
-
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image013.gif)
-
-## 13  Subsection 42(1) (definition of _B_)
-
-Repeal the definition, substitute:
-
-                    <a name=""></a>**_B_** is 7.5%.
-
-## 14  Subsection 42(1)
-
-Insert:
-
-                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load-carrying vehicles, that are sold in the Australian or New Zealand markets).
-
-## 15  Subsection 42(2) (formula)
-
-Repeal the formula, substitute:
-
-![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image014.gif)
-
-## 16  Subsection 42(2) (definition of _C_)
-
-Repeal the definition, substitute:
-
-                    <a name=""></a>**_C_** has the meaning provided in subsection (1).
-
-## 17  Subsection 53(1) (table item 3)
-
-Repeal the item.
-
-## 18  Subsection 53(2)
-
-Omit “ACIS Stages 2 and 3”, substitute “ACIS Stage 2”.
-
-_Note:       The heading to subsection 53(2) is altered by omitting “and 3 caps” and substituting “cap”._
-
-## 19  Subsection 62(3)
-
-Omit “3 parts”, substitute “2 parts”.
-
-As at 8 October 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4601,7 +4450,7 @@ _ACIS Administration Amendment Act 2003 (No. 96, 2003)_
 
 ## Schedule 1
 
-## \[NOTE]  88  Participants in ACIS
+## 88  Participants in ACIS
 
 A person who was a participant in ACIS immediately before the commencement of this item continues to be a participant during ACIS Stage 2 and ACIS Stage 3 unless:
 
@@ -4617,29 +4466,13 @@ A modulation of unmodulated capped production credit in relation to an MVP made 
 
 Items 79 to 86 apply to an application for review of an original decision under section 112 or 113 of the _ACIS Administration Act 1999_ that is  made on or after the commencement of this item.
 
-## \[NOTE]  91  Application
+## 91  Application
 
 The amendment made by item 87 applies as follows:
 
                      (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2 or ACIS Stage 3;
 
                      (b)  in relation to a person who becomes a participant on or after the commencement of item 87, the Minister may publish the information referred to in that item from the day that the person becomes a participant in ACIS.
-
-_\[NOTE]:  ACIS Administration Amendment Act 2009 (No. 94, 2009)_
-
-The following amendments commence on 1 July 2010 and amend the _ACIS Administration Amendment Act 2003_ (No. 96, 2003) as follows:
-
-## Schedule 1
-
-## 20  Item 88 of Schedule 1
-
-Omit “and ACIS Stage 3”.
-
-## 21  Paragraph 91(a) of Schedule 1
-
-Omit “or ACIS Stage 3”.
-
-As at 8 October 2009 the amendments are not incorporated in this compilation.
 
 * * *
 
