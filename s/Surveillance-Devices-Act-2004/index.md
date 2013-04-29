@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00296/Html/SurveillDevices2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00111/Html/SurveillDevices2004_image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 42 of 2010
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -790,7 +790,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                      (b)  give the warrant to the applicant while retaining a copy of the warrant for the person’s own record.
 
-##### <a id="18"></a>18  What a surveillance device warrant authorises
+##### <a id="18"></a>18  What a surveillance device warrant authorises
 
              (1)  A surveillance device warrant (subject to any conditions specified in it) may authorise one or more of the following:
 
@@ -1072,11 +1072,13 @@ the application may be made before an affidavit is prepared or sworn.
 
                              (ii)  an offence against section 233BAA of the _Customs Act 1901_ (with respect to goods listed in Schedule 4 to the _Customs (Prohibited Imports) Regulations 1956_ or in Schedule 8 or 9 to the _Customs (Prohibited Exports) Regulations 1958_); or
 
+                            (iii)  an offence against Part IIIA of the _Crimes Act 1914_; or
+
                             (iv)  an offence under the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_ or an offence against Part 9.1 of the _Criminal Code_ (other than section 308.1 or 308.2); or
 
                             (vi)  an offence against section 73.2 or 91.1 of the _Criminal Code_; or
 
-                           (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103, 270, 272 or 273 of the _Criminal Code_;
+                           (viii)  an offence under Subdivision A of Division 72 or Division, 80, 101, 102, 103 or 270 of the _Criminal Code_;
 
                             or more than one offence; and
 
@@ -2531,23 +2533,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 7 (item 29)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010</div>
-  </td>
-  <td>
-    <div>42, 2010</div>
-  </td>
-  <td>
-    <div>14 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 72–74): 15 Apr 2010</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 74)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 19) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
@@ -2859,7 +2844,7 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. Nos. 129 and 144, 2005; No. 3, 2007; No. 42, 2010</div>
+    <div>am. Nos. 129 and 144, 2005; No. 3, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3037,15 +3022,5 @@ _Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010 (
 ## 29  Application of amendments made by items 24 and 25
 
 The amendments made by items 24 and 25 of this Schedule apply to information obtained before, on or after the commencement of this item.
-
-* * *
-
-_Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010 (No. 42, 2010)_
-
-## Schedule 1
-
-## 74  Application
-
-Despite the amendment made by item 72, subparagraph 30(1)(a)(iii) of the _Surveillance Devices Act 2004_, as in force immediately before the commencement of this item, continues to apply in relation to an offence against Part IIIA of the _Crimes Act 1914_, as in force at any time before that commencement.
 
  
