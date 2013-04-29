@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00439/Html/fe3a310a-e65b-4bac-b37d-87bd2c047562_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00056/Html/7708eeaf-1aed-43bb-be1d-8515bf74b438_files/image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 4 May 2012
- taking into account amendments up to Act No. 25 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -130,7 +130,7 @@ The Annual Appropriation Acts appropriate money out of the Consolidated Revenue 
 
 [26](#26).          Good faith, use of position and use of information—criminal offences
 
-[27A](#27A).       Compliance with statutory and other duties
+[27A](#27A).       Compliance with statutory and other duties [_see_ Note 2]
 
 [27B](#27B).       Interaction of sections 22 to 26 with other laws etc 
 
@@ -600,13 +600,13 @@ Note:          This subsection is a civil penalty provision (s
 
 ##### <a id="14"></a>14  Estimates
 
-             (1)  The directors of a Commonwealth authority (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the Finance Minister.
+             (1)  The directors of a Commonwealth authority (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the responsible Minister.
 
              (2)  The estimates:
 
-                     (a)  must be in the form required by the Finance Minister; and
+                     (a)  must be in the form required by the responsible Minister; and
 
-                     (b)  must be given to the Finance Minister within the time required by the Finance Minister.
+                     (b)  must be given to the responsible Minister within the time required by the responsible Minister.
 
 ##### <a id="15"></a>15  Responsible Minister to be notified of significant events
 
@@ -878,15 +878,15 @@ Use of information—officers and employees
 
                     Penalty for a contravention of this subsection: 2,000 penalty units or imprisonment for 5 years, or both.
 
-##### <a id="27A"></a>27A  Compliance with statutory and other duties
+##### <a id="27A"></a>27A  Compliance with statutory and other duties [_see_ Note 2]
 
-             (1)  An officer of a Commonwealth authority does not contravene section 23, 24 or 25, or their equivalent duties under the general law, by doing an act:
+             (1)  An officer of a Commonwealth authority does not contravene section 23, 24 or 25, or their equivalent duties at common law and in equity, by doing an act:
 
                      (a)  that another provision of this Act requires the officer to do; or
 
                      (b)  in the course of the performance of his or her duties as an APS employee or Agency Head.
 
-Note:          Subsection (1) provides a defence for a defendant in proceedings for a contravention of section 23, 24 or 25, or their equivalent duties under the general law.
+Note:          Subsection (1) provides a defence for a defendant in proceedings for a contravention of section 23, 24 or 25, or their equivalent duties at common law or in equity.
 
              (2)  However, paragraph (1)(b) does not apply if the enabling legislation for the Commonwealth authority establishes a Statutory Agency in relation to the Commonwealth authority and the officer is:
 
@@ -1102,7 +1102,7 @@ Effect of contravention by director
 
                             involving duties or interests that conflict with their duties or interests as a director.
 
-##### <a id="27J"></a>27J  Restrictions on voting
+##### <a id="27J"></a>27J  Restrictions on voting
 
 Restrictions on voting and being present
 
@@ -1556,13 +1556,13 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="39"></a>39  Estimates
 
-             (1)  The directors of a wholly‑owned Commonwealth company (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the Finance Minister.
+             (1)  The directors of a wholly‑owned Commonwealth company (other than a GBE) must prepare budget estimates for each financial year, and for any other periods directed by the responsible Minister.
 
              (2)  The estimates:
 
-                     (a)  must be in the form required by the Finance Minister; and
+                     (a)  must be in the form required by the responsible Minister; and
 
-                     (b)  must be given to the Finance Minister within the time required by the Finance Minister.
+                     (b)  must be given to the responsible Minister within the time required by the responsible Minister.
 
 ##### <a id="40"></a>40  Responsible Minister to be notified of significant events
 
@@ -1940,7 +1940,7 @@ No one else may apply
 
              (5)  Subclause (4) does not exclude the operation of the _Director of Public Prosecutions Act 1983_. 
 
-##### <a id="7"></a>7  Time limit for application for a declaration or order
+##### <a id="7"></a>7  Time limit for application for a declaration or order
 
                    Proceedings for a declaration of contravention, a pecuniary penalty order, or a compensation order, may be started no later than 6 years after the contravention.
 
@@ -2550,40 +2550,6 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2012</div>
-  </td>
-  <td>
-    <div>25, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3: <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Acts Interpretation Amendment Act 2011</div>
   </td>
   <td>
@@ -2614,24 +2580,6 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2012</div>
-  </td>
-  <td>
-    <div>25, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–7): 5 Apr 2012 
-Schedule 2 (items 8–14): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 7, 11–14)</div>
   </td>
 </tr></table>
 
@@ -2876,81 +2824,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-_(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework Legislation Amendment Act (No. 1) 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 3, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Financial Framework Legislation Amendment Act 2010</i>for the commencement
-        of item 7 of Schedule 5 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 3, item 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Financial Framework Legislation Amendment Act 2010</i>for the commencement
-        of item 8 of Schedule 5 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -3100,14 +2973,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3348,22 +3213,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
   <td>
     <div>rs. No. 20, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010 (as am. by No. 25, 2012)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27A(1)</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010 (as am. by No. 25, 2012)</div>
   </td>
 </tr>
 <tr>
@@ -3700,14 +3549,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4095,64 +3936,21 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
 </tr></table>
 
-### Note 2
+### Note 2
 
-_Financial Framework Legislation Amendment Act (No. 1) 2012
- (No. 25, 2012)_
+Subsection 27A(1) and 27A(1) (note)—Schedule 5 (items 7 and 8) of the _Financial Framework Legislation Amendment Act 2010_ (No. 148, 2010) provide as follows:
 
-The following amendments commence on 4 October 2012 unless proclaimed earlier:
+## Schedule 5
 
-## Schedule 2
+## 7  Subsection 27A(1)
 
-## 8  Section 15
+Omit “at common law or in equity”, substitute “under the general law”.
 
-Repeal the section, substitute:
+## 8  Subsection 27A(1) (note)
 
-##### <a id="15"></a>15  Responsible Minister to be notified of significant events
+Omit “at common law and in equity”, substitute “under the general law”.
 
-             (1)  If a Commonwealth authority, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth authority must immediately give the responsible Minister written particulars of the decision:
-
-                     (a)  form a company or participate in the formation of a company;
-
-                     (b)  participate in a significant partnership, trust, unincorporated joint venture or similar arrangement;
-
-                     (c)  acquire or dispose of a significant shareholding in a company;
-
-                     (d)  acquire or dispose of a significant business;
-
-                     (e)  commence or cease a significant business activity;
-
-                      (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
-
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
-
-## 9  Paragraph 33A(2)(b)
-
-Omit “of a proposal mentioned in subsection 15(1)”, substitute “under subsection 15(1)”.
-
-## 10  Section 40
-
-Repeal the section, substitute:
-
-##### <a id="40"></a>40  Responsible Minister to be notified of significant events
-
-             (1)  If a wholly‑owned Commonwealth company, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the decision:
-
-                     (a)  form a company or participate in the formation of a company;
-
-                     (b)  participate in a significant partnership, trust, unincorporated joint venture or similar arrangement;
-
-                     (c)  acquire or dispose of a significant shareholding in a company;
-
-                     (d)  acquire or dispose of a significant business;
-
-                     (e)  commence or cease a significant business activity;
-
-                      (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
-
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
-
-As at 4 May 2012 the amendments are not incorporated in this compilation.
+The proposed amendments were misdescribed and are not incorporated in this compilation.
 
 ## Table A
 
@@ -4277,66 +4075,12 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2011 
- (No. 89, 2011)_
+_Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)_
 
 ## Schedule 1
 
 ## 7  Application of amendments made by this Schedule
 
 The amendments made by this Schedule apply in respect of a corporate plan prepared on or after the commencement of this item.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2012 
- (No. 25, 2012)_
-
-## Schedule 2
-
-## 7  Application
-
-The amendments made by this Part apply in relation to the following:
-
-                     (a)  budget estimates for a financial year starting on or after 1 July 2012;
-
-                     (b)  budget estimates for any other period starting after 1 July 2012 in respect of which a direction is given on or after the commencement of this Part.
-
-The following provisions commence on 4 October 2012 unless proclaimed earlier:
-
-## Schedule 2
-
-## 11  Application
-
-The amendments made by this Part apply in respect of decisions made on or after 1 July 2012.
-
-## 12  Transitional—guidelines under section 15
-
-(1)       This item applies to guidelines if:
-
-                     (a)  the guidelines were made under section 15 of the _Commonwealth Authorities and Companies Act 1997_; and
-
-                     (b)  the guidelines were in force immediately before the commencement of this Part.
-
-(2)       The guidelines have effect, after the commencement of this Part, as if they had been made under section 15 of the _Commonwealth Authorities and Companies Act 1997_ as amended by this Part.
-
-## 13  Transitional—regulations under section 33A
-
-(1)       This item applies to regulations if:
-
-                     (a)  the regulations were made under section 33A of the _Commonwealth Authorities and Companies Act 1997_; and
-
-                     (b)  the regulations were in force immediately before the commencement of this Part.
-
-(2)       The regulations continue in force, after the commencement of this Part, as if they had been made under section 33A of the _Commonwealth Authorities and Companies Act 1997_ as amended by this Part.
-
-## 14  Transitional—guidelines under section 40
-
-(1)       This item applies to guidelines if:
-
-                     (a)  the guidelines were made under section 40 of the _Commonwealth Authorities and Companies Act 1997_; and
-
-                     (b)  the guidelines were in force immediately before the commencement of this Part.
-
-(2)       The guidelines have effect, after the commencement of this Part, as if they had been made under section 40 of the _Commonwealth Authorities and Companies Act 1997_ as amended by this Part.
 
  
