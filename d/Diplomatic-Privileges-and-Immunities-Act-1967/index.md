@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00211/Html/ab47ffe5-db0e-4caf-938b-1415ba264da0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00402/Html/DipPriImmAct1967_image001.gif)
 
 # Diplomatic Privileges and Immunities Act 1967
 
 **Act No. 16 of 1967 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -72,25 +72,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195-1 of the GST Act.
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995‑1 of the _Income Tax Assessment Act 1997_.
+                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995-1 of the _Income Tax Assessment Act 1997_.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
                     <a name="convent"></a>**_Convention_** means the Vienna Convention on Diplomatic Relations, a copy of the English text of which is set out in the Schedule.
 
-                    <a name="custom-minist"></a>**_Customs Minister_** means the Minister administering the _Customs Act 1901._
-
                     <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="indirect-tax"></a>**_indirect tax_** means:
 
-                     (a)  GST within the meaning of section 195‑1 of the GST Act; or
+                     (a)  GST within the meaning of section 195-1 of the GST Act; or
 
-                     (b)  luxury car tax within the meaning of section 27‑1 of the Luxury Car Tax Act; or
+                     (b)  luxury car tax within the meaning of section 27-1 of the Luxury Car Tax Act; or
 
-                     (c)  wine equalisation tax within the meaning of section 33‑1 of the Wine Equalisation Tax Act.
+                     (c)  wine equalisation tax within the meaning of section 33-1 of the Wine Equalisation Tax Act.
 
                     <a name="luxuri-car-tax-act"></a>**_Luxury Car Tax Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
 
@@ -168,7 +166,7 @@ that deals with a matter dealt with by this Act.
 
                      (g)  the references in paragraph 4 of Article 37 and paragraph 2 of Article 38 to the extent to which privileges and immunities are admitted by the receiving State shall be read as references to the extent to which privileges and immunities are granted by section 11; and
 
-                     (h)  the reference in paragraph 1 of Article 39 to the Ministry for Foreign Affairs or such other ministry as may be agreed shall be read as a reference to the Department administered by the Minister administering this Act.
+                     (h)  the reference in paragraph 1 of Article 39 to the Ministry for Foreign Affairs or such other ministry as may be agreed shall be read as a reference to the Department of Foreign Affairs and Trade.
 
              (3)  Nothing in subsection (1) affects the application of any law of the Commonwealth or of a Territory relating to quarantine, or prohibiting or restricting the importation into, or the exportation from, Australia or that Territory, as the case may be, of any animals, plants or goods, but this subsection does not prejudice the immunity from suit or from civil or criminal process that a person has by virtue of subsection (1).
 
@@ -182,21 +180,21 @@ that deals with a matter dealt with by this Act.
 
           (1A)  Despite:
 
-                     (a)  section 177‑5 of the GST Act; and
+                     (a)  section 177-5 of the GST Act; and
 
-                     (b)  section 21‑5 of the Luxury Car Tax Act; and
+                     (b)  section 21-5 of the Luxury Car Tax Act; and
 
-                     (c)  section 27‑25 of the Wine Equalisation Tax Act;
+                     (c)  section 27-25 of the Wine Equalisation Tax Act;
 
 indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention and section 7 of this Act.
 
-             (2)  The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the mission or person and the Customs Minister, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
+             (2)  The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
 
              (3)  The exemption does not apply unless:
 
-                     (a)  the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Customs Minister determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
+                     (a)  the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last‑mentioned agreement—the person complies with such conditions, if any, as the Customs Minister, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first‑mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
 
              (4)  In subsection (3), **_motor vehicle_** means a vehicle with a motor engine, being a vehicle ordinarily for use on land.
 
@@ -216,13 +214,13 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (c)  the personal use of a member of the family of a person referred to in paragraph (b), being a member of the family who forms part of the household of the person and is not an Australian citizen.
 
-             (2)  Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Customs Minister, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
+             (2)  Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
 
              (3)  Subsection (1) does not apply in respect of any goods unless:
 
-                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Customs Minister otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
+                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last‑mentioned agreement—the person complies with such conditions, if any, as the Customs Minister, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first‑mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
 
 ##### <a id="10B"></a>10B  Indirect tax concession scheme
 
@@ -284,15 +282,15 @@ are entitled to the immunity from jurisdiction, and inviolability, to which pers
 
 ##### <a id="14A"></a>14A  Delegation
 
-             (1)  The Customs Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by that Minister, delegate to a person all or any of that Minister’s powers under this Act, other than this power of delegation.
+             (1)  The Minister for Industry, Technology and Commerce may, either generally or as otherwise provided by the instrument of delegation, by writing signed by that Minister, delegate to a person all or any of that Minister’s powers under this Act, other than this power of delegation.
 
-             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Customs Minister.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister for Industry, Technology and Commerce.
 
-             (3)  A delegation under this section does not prevent the exercise of a power by the Customs Minister.
+             (3)  A delegation under this section does not prevent the exercise of a power by the Minister for Industry, Technology and Commerce.
 
 ##### <a id="15"></a>15  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Schedule—Vienna Convention on Diplomatic Relations
 
@@ -326,7 +324,7 @@ For the purpose of the present Convention, the following expressions shall have 
 
    _(e)_   a “diplomatic agent” is the head of the mission or a member of the diplomatic staff of the mission;
 
-   _(f)_    the “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;
+   _(f)_   the “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;
 
    _(g)_   the “members of the service staff” are the members of the staff of the mission in the domestic service of the mission;
 
@@ -398,7 +396,7 @@ _Article_ 10
 
    _(b)_   the arrival and final departure of a person belonging to the family of a member of the mission and, where appropriate, the fact that a person becomes or ceases to be a member of the family of a member of the mission;
 
-   _(c)_   the arrival and final departure of private servants in the employ of persons referred to in sub‑paragraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
+   _(c)_   the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
 
    _(d)_   the engagement and discharge of persons resident in the receiving State as members of the mission or private servants entitled to privileges and immunities. 
 
@@ -408,7 +406,7 @@ _Article_ 11
 
 1.  In the absence of specific agreement as to the size of the mission, the receiving State may require that the size of a mission be kept within limits considered by it to be reasonable and normal, having regard to circumstances and conditions in the receiving State and to the needs of the particular mission. 
 
-2.  The receiving State may equally, within similar bounds and on a non‑discriminatory basis, refuse to accept officials of a particular category. 
+2.  The receiving State may equally, within similar bounds and on a non-discriminatory basis, refuse to accept officials of a particular category. 
 
 _Article_ 12 
 
@@ -536,7 +534,7 @@ _Article_ 31
 
 2.  A diplomatic agent is not obliged to give evidence as a witness. 
 
-3.  No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under sub‑paragraphs (a), (b) and (c) of paragraph 1 of this Article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence. 
+3.  No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under sub-paragraphs (a), (b) and (c) of paragraph 1 of this Article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence. 
 
 4.  The immunity of a diplomatic agent from the jurisdiction of the receiving State does not exempt him from the jurisdiction of the sending State. 
 
@@ -546,7 +544,7 @@ _Article_ 32
 
 2.  Waiver must always be express. 
 
-3.  The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under Article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counter‑claim directly connected with the principal claim. 
+3.  The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under Article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counter-claim directly connected with the principal claim. 
 
 4.  Waiver of immunity from jurisdiction in respect of civil or administrative proceedings shall not be held to imply waiver of immunity in respect of the execution of the judgment, for which a separate waiver shall be necessary.
 
@@ -580,7 +578,7 @@ A diplomatic agent shall be exempt from all dues and taxes, personal or real, na
 
    _(e)_   charges levied for specific services rendered;
 
-   _(f)_    registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of Article 23\. 
+   _(f)_   registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of Article 23\. 
 
 _Article_ 35 
 
@@ -686,21 +684,21 @@ The present Convention shall be open for signature by all State Members of the U
 
 _Article_ 49 
 
-The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
 _Article_ 50 
 
-The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 48\. The instruments of accession shall be deposited with the Secretary‑General of the United Nations.
+The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 48\. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
 _Article_ 51 
 
-1.  The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty‑second instrument of ratification or accession with the Secretary‑General of the United Nations. 
+1.  The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations. 
 
-2.  For each State ratifying or acceding to the Convention after the deposit of the twenty‑second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
+2.  For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 
 _Article_ 52 
 
-The Secretary‑General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
+The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
 
    _(a)_   of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 48, 49 and 50;
 
@@ -708,11 +706,11 @@ The Secretary‑General of the United Nations shall inform all States belonging 
 
 _Article_ 53 
 
-The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48\. 
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48\. 
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention. 
 
-DONE AT VIENNA, this eighteenth day of April one thousand nine hundred and sixty‑one. 
+DONE AT VIENNA, this eighteenth day of April one thousand nine hundred and sixty-one. 
 
 (_Here follow the signatures of the Plenipotentiaries of the States on behalf of which the Convention was signed._) 
 
@@ -990,7 +988,7 @@ of Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 7 (items 10‑18): 1 July 1999 <i>(e)</i></div>
+    <div>Schedule 7 (items 10-18): 1 July 1999 <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1081,32 +1079,15 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 106–112) and Schedule 6 (item 37): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by Part XX (sections 148 and 149) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+_(b)_    The _Diplomatic Privileges and Immunities Act 1967_ was amended by Part XX (sections 148 and 149) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
 
@@ -1114,9 +1095,9 @@ _(c)_     The _Diplomatic Privileges and Immunities Act 1967_ was amende
 
 _(d)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(e)_ The _Diplomatic Privileges and Immunities Act 1967_ was amended by Schedule 7 (items 10‑18) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(9) of which provides as follows:
+_(e)_ The _Diplomatic Privileges and Immunities Act 1967_ was amended by Schedule 7 (items 10-18) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(9) of which provides as follows:
 
                  (9)   Schedules 7 and 8 (other than items 1 to 6 of Schedule 8) commence immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
@@ -1152,7 +1133,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007; No. 5, 2011</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1184,7 +1165,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 155, 1979; Nos. 41 and 70, 1980; No. 65, 1985; No. 15, 1988; No. 39, 1997; No. 5, 2011</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 155, 1979; Nos. 41 and 70, 1980; No. 65, 1985; No. 15, 1988; No. 39, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1192,7 +1173,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988; No. 177, 1999; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988; No. 177, 1999; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1200,7 +1181,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; No. 80, 1982; No. 65, 1985; No. 15, 1988; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; No. 80, 1982; No. 65, 1985; No. 15, 1988; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1285,14 +1266,6 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to the Schedule</div>
   </td>
   <td>
@@ -1335,17 +1308,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
