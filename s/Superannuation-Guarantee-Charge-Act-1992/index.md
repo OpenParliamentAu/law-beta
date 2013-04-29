@@ -1,7 +1,7 @@
 
 Superannuation Guarantee Charge Act 1992
 Act No. 93 of 1992 as amended
-This compilation was prepared on 1 August 2002 taking into account amendments up to Act No. 52 of 2002
+This compilation was prepared on 30 August 2001 taking into account amendments up to Act No. 62 of 1997
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -36,7 +36,6 @@ An Act to impose a charge on any shortfall in the amount contributed by employer
 Notes to the Superannuation Guarantee Charge Act 1992
 Note 1
 The Superannuation Guarantee Charge Act 1992 as shown in this compilation comprises Act No. 93, 1992 amended as indicated in the Tables below. 
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -53,11 +52,6 @@ Retirement Savings Accounts (Consequential Amendments) Act 1997
 28 May 1997
 2 June 1997 (see s. 2 and Gazette 1997, No. S202)
 —
-Superannuation Guarantee Charge Amendment Act 2002
-52, 2002
-29 June 2002
-Schedule 1: [see Note 2 and Table A] Remainder: Royal Assent
-Sch. 1 (item 3) 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -66,19 +60,4 @@ Title
 am. No. 62, 1997
 
 
-Note 2
-Superannuation Guarantee Charge Amendment Act 2002 (No. 52, 2002)
-The following amendments commence on 1 July 2003:
-Schedule 1
-1  Section 5
-Omit “in a year”, substitute “for a quarter”.
-2  Section 6
-Omit “in a year”, substitute “for a quarter”.
-As at 1 August 2002 the amendments are not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-Superannuation Guarantee Charge Amendment Act 2002 (No. 52, 2002)
-The following provision commences on 1 July 2003:
-3  Application of amendments
-The amendments made by this Schedule apply in relation to superannuation guarantee shortfalls under the Superannuation Guarantee (Administration) Act 1992 for quarters that commence on or after 1 July 2003.
 
