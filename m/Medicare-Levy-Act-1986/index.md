@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 22 May 2012
- taking into account amendments up to Act No. 27 of 2012
+This compilation was prepared on 20 December 2011
+ taking into account amendments up to Act No. 159 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -160,7 +160,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -236,7 +236,7 @@ and the family income in relation to the person does not exceed the family incom
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image005.gif)
 
 where:
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -366,7 +366,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image008.gif)
 
 if:
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -436,7 +436,7 @@ if:
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00459/Html/3dfe20fe-381c-41b1-bc6e-aa80f3533ddd_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image010.gif)
 
 if:
 
@@ -1567,27 +1567,6 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>Sch. 2 (item 11) and Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Act 2012</div>
-  </td>
-  <td>
-    <div>27, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 3 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2141,151 +2120,7 @@ Repeal the paragraph.
 
 Repeal the paragraph.
 
-As at 22 May 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Act 2012 (No. 27, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 1
-
-## 1  Subsection 3(1)
-
-Insert:
-
-                    <a name="famili-tier-threshold"></a>**_family tier 1 threshold_**, of a person for a year of income, means the family tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
-
-## 2  Subsection 3(1) (definition of _singles surcharge threshold_)
-
-Repeal the definition.
-
-## 3  Subsection 3(1)
-
-Insert:
-
-                    <a name="singl-tier-threshold"></a>**_singles tier 1 threshold_**, of a person for a year of income, means the singles tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="tier-earner"></a>**_tier 2 earner_** has the meaning given by section 3A.
-
-## 5  Subsection 3(1)
-
-Insert:
-
-                    <a name="tier-earner"></a>**_tier 3 earner_** has the meaning given by section 3A.
-
-## 6  Sections 3AA and 3A
-
-Repeal the sections, substitute:
-
-##### <a id="3A"></a>3A  Meaning of _tier 2 earner_ and _tier 3 earner_
-
-(1)  Subject to this section, for the purposes of this Act:
-
-(a)  **_tier 2 earner_**, for a year of income, means a tier 2 earner (within the meaning of the _Private Health Insurance Act 2007_) for the financial year corresponding to the year of income; and
-
-(b)  **_tier 3 earner_**, for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.
-
-             (2)  In determining whether a person is a **_tier 2 earner_** or **_tier 3 earner_** for a year of income for the purposes of this Act, section 22‑30 of the _Private Health Insurance Act 2007_ operates with the modification set out in subsection (3).
-
-             (3)  Replace paragraph 22‑30(1)(b) of the _Private Health Insurance Act 2007_ with the following paragraph:
-
-                     (b)  on any day in the year, the person has one or more dependants (within the meaning of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_), other than a dependant to whom the person is married (within the meaning of that Act):
-
-## 7  Subsection 8B(2)
-
-Omit “the singles surcharge threshold”, substitute “the person’s singles tier 1 threshold”.
-
-## 8  At the end of section 8B
-
-Add:
-
-             (3)  Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (4)  Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 9  Subsection 8C(3)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 10  At the end of section 8C
-
-Add:
-
-             (4)  Increase the amount of each percentage mentioned in subsection (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (5)  Increase the amount of each percentage mentioned in subsection (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 11  Paragraph 8D(3)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 12  Subparagraph 8D(4)(a)(i)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 13  Paragraph 8D(4)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 14  After subsection 8D(4)
-
-Insert:
-
-          (4A)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-          (4B)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 15  Subsection 8E(2)
-
-Omit “the singles surcharge threshold”, substitute “the beneficiary’s singles tier 1 threshold”.
-
-## 16  At the end of section 8E
-
-Add:
-
-             (3)  Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
-
-             (4)  Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
-
-## 17  Subsection 8F(2)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 18  At the end of section 8F
-
-Add:
-
-             (3)  Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
-
-             (4)  Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
-
-## 19  Paragraph 8G(2)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 20  Subparagraph 8G(3)(a)(i)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 21  Paragraph 8G(3)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 22  After subsection 8G(3)
-
-Insert:
-
-          (3A)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
-
-          (3B)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
-
-As at 22 May 2012 the amendments are not incorporated in this compilation.
+As at 20 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2804,18 +2639,6 @@ The amendments made by this Schedule apply to the 2012‑13 year of income and l
 ## Schedule 3
 
 ## 24  Application provision
-
-The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
-
-* * *
-
-_Fairer Private Health Insurance Incentives (Medicare Levy Surcharge) Act 2012 (No. 27, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 23  Application
 
 The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
 
