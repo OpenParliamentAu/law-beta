@@ -1,160 +1,163 @@
-![](http://www.comlaw.gov.au/Details/C2006C00526/Html/CommSerumlabor1961_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00108/Html/09350B6CB159E386CA2571470018845B/$FILE/image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 25 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 123 of 2001 and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[5](#5).            Subsidiaries
+[5](#5).            Subsidiaries                                                                                          2
 
-[6](#6).            Operation of Act
+[6](#6).            Operation of Act                                                                                 2
 
-[7](#7).            Extension to external Territories
+[7](#7).            Extension to external Territories                                                          2
 
 **Part 2—Creation of capital structure and other steps prior to conversion of CSL into a public company**
 
-[8](#8).            Share capital of CSL
+[8](#8).            Share capital of CSL                                                                            3
 
-[9](#9).            Issue of shares in CSL
+[9](#9).            Issue of shares in CSL                                                                         3
 
-[10](#10).          CSL to apply to be registered as company etc 
+[10](#10).          CSL to apply to be registered as company etc                                    4
 
-[11](#11).          New name of CSL
+[11](#11).          New name of CSL                                                                                5
 
 **Part 3—Conversion of CSL into a public company**
 
-[12](#12).          Effect of Part—summary
+[12](#12).          Effect of Part—summary                                                                    6
 
-[13](#13).          CSL taken to be registered under Companies Act
+[13](#13).          CSL taken to be registered under Companies Act                               6
 
-[14](#14).          Memorandum and Articles of CSL
+[14](#14).          Memorandum and Articles of CSL                                                      7
 
-[15](#15).          Membership of CSL
+[15](#15).          Membership of CSL                                                                            7
 
-[16](#16).          Past members
+[16](#16).          Past members                                                                                       7
 
-[19](#19).          Operation of section 25B of Acts Interpretation Act
+[19](#19).          Operation of section 25B of Acts Interpretation Act                         8
 
 **Part 3A—National interest restrictions on CSL Limited** 
 
     **Division 1—Purpose and interpretation**
 
-[19A](#19A).       Purpose
+[19A](#19A).       Purpose                                                                                                9
 
-[19B](#19B).       Interpretation
+[19B](#19B).       Interpretation                                                                                       9
 
     **Division 2—Requirements regarding CSL’s articles of association**
 
-[19C](#19C).       CSL’s articles of association to include certain provisions
+[19C](#19C).       CSL’s articles of association to include certain provisions               14
 
-[19D](#19D).       Inconsistent alteration to CSL’s articles of association to have no effect
+[19D](#19D).       Inconsistent alteration to CSL’s articles of association to have no effect               15
 
-[19E](#19E).        CSL to maintain a register of foreign-held voting shares
+[19E](#19E).        CSL to maintain a register of foreign-held voting shares                   15
 
-[19F](#19F).        Injunctions in relation to contraventions of a mandatory article or section 19E
+[19F](#19F).        Injunctions in relation to contraventions of a mandatory article or section 19E     16
 
-[19G](#19G).       Consent injunctions
+[19G](#19G).       Consent injunctions                                                                           17
 
-[19H](#19H).       Interim injunctions
+[19H](#19H).       Interim injunctions                                                                             17
 
-[19J](#19J).        Factors relevant to the grant of a restraining injunction
+[19J](#19J).        Factors relevant to the grant of a restraining injunction                    17
 
-[19K](#19K).       Factors relevant to the grant of a mandatory injunction
+[19K](#19K).       Factors relevant to the grant of a mandatory injunction                    17
 
-[19L](#19L).        Undertaking as to damages not required
+[19L](#19L).        Undertaking as to damages not required                                            18
 
-[19M](#19M).      Other orders
+[19M](#19M).      Other orders                                                                                       18
 
     **Division 3—Prohibition on disposal etc. of the Broadmeadows facility**
 
-[19N](#19N).       Declaration of Broadmeadows land
+[19N](#19N).       Declaration of Broadmeadows land                                                   19
 
-[19P](#19P).        Prohibition on disposal etc  of Broadmeadows facility
+[19P](#19P).        Prohibition on disposal etc  of Broadmeadows facility                     19
 
     **Division 4—Injunctions to ensure performance of plasma products contracts**
 
-[19Q](#19Q).       Injunction to ensure performance of plasma products contracts
+[19Q](#19Q).       Injunction to ensure performance of plasma products contracts      21
 
-[19R](#19R).       Consent injunctions
+[19R](#19R).       Consent injunctions                                                                           22
 
-[19S](#19S).        Interim injunctions
+[19S](#19S).        Interim injunctions                                                                             22
 
-[19T](#19T).       Factors relevant to the grant of a restraining injunction
+[19T](#19T).       Factors relevant to the grant of a restraining injunction                    22
 
-[19U](#19U).       Factors relevant to the grant of a mandatory injunction
+[19U](#19U).       Factors relevant to the grant of a mandatory injunction                    23
 
-[19V](#19V).       Undertakings not required
+[19V](#19V).       Undertakings not required                                                                 24
 
-[19W](#19W).      Other orders
+[19W](#19W).      Other orders                                                                                       24
 
     **Division 5—Miscellaneous**
 
-[19X](#19X).       Delegation by Minister
+[19X](#19X).       Delegation by Minister                                                                      25
 
-[19Y](#19Y).       Jurisdiction of courts
+[19Y](#19Y).       Jurisdiction of courts                                                                         25
 
-[19Z](#19Z).       This Part to have effect despite the Corporations Act
+[19Z](#19Z).       This Part to have effect despite the Corporations Act                     25
 
-[19ZA](#19ZA).    Remedies under this Part to be additional remedies
+[19ZA](#19ZA).    Remedies under this Part to be additional remedies                          25
 
 **Part 5—Staff matters**
 
-[26](#26).          Employment of staff members continues after transition
+[26](#26).          Employment of staff members continues after transition                 26
 
-[27](#27).          Act not to affect certain matters relating to staff members
+[27](#27).          Act not to affect certain matters relating to staff members               26
 
-[28](#28).          Effect of sections 26 and 27
+[28](#28).          Effect of sections 26 and 27                                                              27
 
-[29](#29).          Variation of terms and conditions of employment
+[29](#29).          Variation of terms and conditions of employment                            27
 
 **Part 6—Taxation matters**
 
-[31](#31).          Interpretation
+[31](#31).          Interpretation                                                                                     29
 
-[32](#32).          Exemptions relating to exempt matters
+[32](#32).          Exemptions relating to exempt matters                                             29
 
-[33](#33).          Minister may certify in relation to exemptions
+[33](#33).          Minister may certify in relation to exemptions                                 30
 
-[34](#34).          CSL taken to have had share capital for purposes of Income Tax Assessment Act
+[34](#34).          CSL taken to have had share capital for purposes of Income Tax Assessment Act               30
 
-[35](#35).          Treatment of acquisitions of transferring assets for purposes of Income Tax Assessment Act
+[35](#35).          Treatment of acquisitions of transferring assets for purposes of Income Tax Assessment Act             30
 
 **Part 7—Miscellaneous**
 
-[36](#36).          CSL not public authority etc 
+[36](#36).          CSL not public authority etc                                                             32
 
-[37](#37).          Judicial notice of CSL’s seal
+[37](#37).          Judicial notice of CSL’s seal                                                              32
 
-[38](#38).          Compensation for acquisition of property
+[38](#38).          Compensation for acquisition of property                                        32
 
-[41](#41).          Delegations
+[41](#41).          Delegations                                                                                        33
 
-[42](#42).          Regulations
+[42](#42).          Regulations                                                                                        33
 
 **Notes** 
 
  
+
 
  
 
@@ -224,7 +227,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Operation of Act
 
-                   This Act applies both within and outside   Australia.
+                   This Act applies both within and outside Australia.
 
 ##### <a id="7"></a>7  Extension to external Territories
 
@@ -618,7 +621,7 @@ has no effect.
 
                    On an application for an injunction under subsection 19F(2) or (4), the Court may, if the Court thinks it appropriate, grant an injunction by consent of all parties to the proceeding, whether or not the Court is satisfied that that subsection applies.
 
-##### <a id="19H"></a>19H  Interim injunctions
+##### <a id="19H"></a>19H  Interim injunctions
 
                    If the Court thinks it appropriate to do so, the Court may grant an interim injunction pending determination of an application under subsection 19F(2) or (4).
 
@@ -902,9 +905,13 @@ CSL shall treat the whole of the first-mentioned period as a period during which
 
                       (f)  the operation of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_; or
 
-                     (g)   giving effect to a matter referred to in another paragraph of this definition or giving effect to the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_.
+                     (g)  giving effect to a matter referred to in another paragraph of this definition or giving effect to the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_.
 
                     <a name="tax"></a>**_tax_** includes:
+
+                     (a)  sales tax; and
+
+                     (b)  tax imposed by the _Debits Tax Act 1982_; and
 
                      (d)  stamp duty; and
 
@@ -986,6 +993,7 @@ except so far as express provision is made by a law of the Commonwealth, State o
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Commonwealth Serum Laboratories Act 1961_
 
 ### Note 1
@@ -1018,11 +1026,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1032,416 +1042,412 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Commonwealth Serum Laboratories Act 1961</div>
-  </td>
-  <td>
-    <div>38, 1961</div>
-  </td>
-  <td>
-    <div>2 June 1961</div>
-  </td>
-  <td>
-    <div>2 Nov 1961 ( <i>see Gazette</i>1961, 
-p. 3729)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Serum Laboratories Act 1970</div>
-  </td>
-  <td>
-    <div>42, 1970</div>
-  </td>
-  <td>
-    <div>24 June 1970</div>
-  </td>
-  <td>
-    <div>24 June 1970</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1974</div>
-  </td>
-  <td>
-    <div>20, 1974</div>
-  </td>
-  <td>
-    <div>25 July 1974</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Serum Laboratories Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>7, 1980</div>
-  </td>
-  <td>
-    <div>24 Mar 1980</div>
-  </td>
-  <td>
-    <div>1 July 1980</div>
-  </td>
-  <td>
-    <div>S. 30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>167, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td>
-    <div>Part I (ss. 1, 2), Part II (ss. 3–24), ss. 25, 26(2), 27, 37, 38, 42, 43, 55, 57, 65–70 and 72–74: Royal Assent 
+<tbody>
+  <tr>
+    <td>
+      <div>Commonwealth Serum Laboratories Act 1961</div>
+    </td>
+    <td>
+      <div>38, 1961</div>
+    </td>
+    <td>
+      <div>2 June 1961</div>
+    </td>
+    <td>
+      <div>2 Nov 1961 ( <i>see Gazette</i>1961, 
+p. 3729) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Serum Laboratories Act 1970</div>
+    </td>
+    <td>
+      <div>42, 1970</div>
+    </td>
+    <td>
+      <div>24 June 1970</div>
+    </td>
+    <td>
+      <div>24 June 1970</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1974</div>
+    </td>
+    <td>
+      <div>20, 1974</div>
+    </td>
+    <td>
+      <div>25 July 1974</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Serum Laboratories Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>7, 1980</div>
+    </td>
+    <td>
+      <div>24 Mar 1980</div>
+    </td>
+    <td>
+      <div>1 July 1980</div>
+    </td>
+    <td>
+      <div>S. 30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 2) 1985</div>
+    </td>
+    <td>
+      <div>167, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td>
+      <div>Part I (ss. 1, 2), Part II (ss. 3–24), ss. 25, 26(2), 27, 37, 38, 42, 43, 55, 57, 65–70 and 72–74: Royal Assent 
 S. 28: 1 Feb 1984 
 S. 30: 5 Sept 1985 
 Ss. 58–64: 1 May 1985 
-Remainder: 22 Feb 1986 ( <i>see Gazette</i>1986, No. S64)</div>
-  </td>
-  <td>
-    <div>S. 24</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>94, 1986</div>
-  </td>
-  <td>
-    <div>13 Oct 1986</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 6–8, 10, 12, 14(2) and 36: 1 Oct 1986; 
+Remainder: 22 Feb 1986 ( <i>see Gazette</i>1986, No. S64) 
+
+</div>
+    </td>
+    <td>
+      <div>S. 24</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>94, 1986</div>
+    </td>
+    <td>
+      <div>13 Oct 1986</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 6–8, 10, 12, 14(2) and 36: 1 Oct 1986; 
 Ss. 5, 14(3), 17(1), 18, 19, 21, 23–28, 30, 32 and 35: 1 Nov 1986 
 Ss. 16, 31, 33, 38(2), (3) and (4): 
 1 Jan 1987 
 Ss. 4(2), 17(2), 20, 22 and 29: 
 1 Apr 1987 ( <i>see Gazette</i>1987, No. S57) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Community Services and Health Legislation Amendment Act (No. 2) 1988</div>
-  </td>
-  <td>
-    <div>155, 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 41(1): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1990</div>
-  </td>
-  <td>
-    <div>17 Jan 1990</div>
-  </td>
-  <td>
-    <div>15 Feb 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990</div>
-  </td>
-  <td>
-    <div>77, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>Ss. 6, 10, 13 and 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Community Services and Health Legislation Amendment Act (No. 2) 1988</div>
+    </td>
+    <td>
+      <div>155, 1988</div>
+    </td>
+    <td>
+      <div>26 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 41(1): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Therapeutic Goods Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1990</div>
+    </td>
+    <td>
+      <div>17 Jan 1990</div>
+    </td>
+    <td>
+      <div>15 Feb 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990</div>
+    </td>
+    <td>
+      <div>77, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td>
+      <div>Ss. 6, 10, 13 and 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) 
 S. 9(2): <i>(c)</i> 
 S. 11: 1 Apr 1991 
 S. 12: 22 Feb 1991 
 S. 16: 1 Apr 1991 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 15, 16(5) and (6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CSL Sale Act 1993</div>
-  </td>
-  <td>
-    <div>88, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–4), ss. 7 and 47: Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 15, 16(5) and (6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CSL Sale Act 1993</div>
+    </td>
+    <td>
+      <div>88, 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–4), ss. 7 and 47: Royal Assent 
 Ss. 5 and 6: 22 Feb 1991 
-Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>39, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td>
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Law Improvement Act (No. 1) 1998</div>
-  </td>
-  <td>
-    <div>46, 1998</div>
-  </td>
-  <td>
-    <div>22 June 1998</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent <i>(d)</i> 
-Schedule 2 (items 530, 531): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act 1999</div>
-  </td>
-  <td>
-    <div>118, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 323, 324): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 13): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 131–145): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>123, 2001</div>
-  </td>
-  <td>
-    <div>27 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 217, 218): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 43) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209) 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Income Tax (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>39, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td>
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Law Improvement Act (No. 1) 1998</div>
+    </td>
+    <td>
+      <div>46, 1998</div>
+    </td>
+    <td>
+      <div>22 June 1998</div>
+    </td>
+    <td>
+      <div>S. 4: Royal Assent <i>(d)</i> 
+Schedule 2 (items 530, 531): <i>(d)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Stocktake Act 1999</div>
+    </td>
+    <td>
+      <div>118, 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 323, 324): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 5 (item 13): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 131–145): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>123, 2001</div>
+    </td>
+    <td>
+      <div>27 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 217, 218): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
@@ -1461,7 +1467,7 @@ _(d)_     Subsections 2(1) and (2) of the _Tax Law Improvement Act (No.�
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.
+                 (2)   Schedule 2 (except item 3 of it) commeces immediately after the commencement of Schedule 1.
 
          Schedule 1 commenced on Royal Assent.
 
@@ -1478,7 +1484,7 @@ _(f)_      The _Commonwealth Serum Laboratories Act 1961_ was amended 
                               (b)   the items in Schedules 1 to 7 (other than item 18 of Schedule 7); 
 
 _(g)_ The _Commonwealth Serum Laboratories Act 1961_ was amended by Schedule 3 (items
- 131–145) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+131–145) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
@@ -1489,6 +1495,7 @@ _(h)_ The _Commonwealth Serum Laboratories Act 1961_ was amended by Schedule 1
 **_FSR commencement_** means the commencement of item 1 of Schedule 1 to the _Financial Services Reform Act 2001_.
 
                  (6)   Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
+
 
 The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after renumbering by the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_ (No. 77, 1990) appears in the Table below. For repealed provisions up to and including Act No. 77, 1990 see the Repeal Table.
 
@@ -1515,622 +1522,625 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 88, 1993; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9–11</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12–15</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17–18</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 156, 1999; Nos. 55 and 123, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19D</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19E–19H, 19J–19M</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19N, 19P</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19Q–19W</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19X</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Y</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19Z</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Z</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20–25</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1999; No. 101,2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32–34</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 7</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36–38</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39, 40</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 88, 1993</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>rs. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6, 7</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 88, 1993; No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9–11</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12–15</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 17–18</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 156, 1999; Nos. 55 and 123, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19C</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19D</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 19E–19H, 19J–19M</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 19N, 19P</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 19Q–19W</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19X</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19Y</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 19Z</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19Z</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19ZA</div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 20–25</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 5</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 6</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 32–34</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 46, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 7</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36–38</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 39, 40</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 88, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 88, 1993</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended, were repealed either prior to renumbering by the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_(No. 77, 1990) or by that Act. The amendment history of the repealed provisions appears in the Table below. 
 
@@ -2157,818 +2167,824 @@ Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985; No. 94, 1986; No. 21, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980; No. 167, 1985; No. 21, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part II 
+<tbody>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985; No. 94, 1986; No. 21, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980; No. 167, 1985; No. 21, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part II 
 (ss. 7, 8, 10, 11, 11A, 
 12–21, 23, 23A–23C, 
-24–27, 31, 31A, 32–34, 34A, 34B, 35–44)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rep. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 (ss. 19–21)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 42, 1970; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part II</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 (ss. 23, 23A–23C)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23C</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 (ss. 24–27)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 7, 1980; Nos. 65 and 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td>
-    <div>rep. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973 (as am. by No. 20, 1974)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 
-(ss. 31, 31A, 32–34, 34A, 34B, 35–39, 42)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31A</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 7, 1980; No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34A, 34B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1980; No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40, 41</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 36, 1978; No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 6 (ss. 43, 44)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III (ss. 44A, 45)</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1990</div>
-  </td>
-</tr></table>
+24–27, 31, 31A, 32–34, 34A, 34B, 35–44) 
+
+</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rep. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13, 14</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15, 16</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 (ss. 19–21)</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 42, 1970; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rep. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part II</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 (ss. 23, 23A–23C)</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23B</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23C</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 4 (ss. 24–27)</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 216, 1973; No. 7, 1980; Nos. 65 and 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28, 29</div>
+    </td>
+    <td>
+      <div>rep. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973 (as am. by No. 20, 1974)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 5 
+(ss. 31, 31A, 32–34, 34A, 34B, 35–39, 42) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31A</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 7, 1980; No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 39, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 34A, 34B</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1980; No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 40, 41</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 36, 1978; No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 6 (ss. 43, 44)</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 167, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III (ss. 44A, 45)</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44A</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 155, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 1990</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2980,86 +2996,13 @@ _Tax Law Improvement Act (No. 1) 1998 (No. 46, 1998)_
 
 An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ### Renumbering Table
 
 Table showing Parts, Divisions and sections of the _Commonwealth Serum Laboratories Act 1961_ after renumbering by the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_(No. 77, 1990).
 
 NOTE—This Table does not form part of the _Commonwealth Serum Laboratories Act 1961_, and is provided for convenience of reference only.
+
 
 <table>
 <colgroup>
@@ -3077,461 +3020,464 @@ NOTE—This Table does not form part of the _Commonwealth Serum Laboratories Act
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Part I</div>
-  </td>
-  <td>
-    <div>Part 1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3A</div>
-  </td>
-  <td>
-    <div>4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3B</div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3C</div>
-  </td>
-  <td>
-    <div>6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3D</div>
-  </td>
-  <td>
-    <div>7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIA</div>
-  </td>
-  <td>
-    <div>Part 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44A</div>
-  </td>
-  <td>
-    <div>8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44B</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44C</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44D</div>
-  </td>
-  <td>
-    <div>11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIB</div>
-  </td>
-  <td>
-    <div>Part 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44E</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44F</div>
-  </td>
-  <td>
-    <div>13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44G</div>
-  </td>
-  <td>
-    <div>14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44H</div>
-  </td>
-  <td>
-    <div>15</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44J</div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44K</div>
-  </td>
-  <td>
-    <div>17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44L</div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44M</div>
-  </td>
-  <td>
-    <div>19</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>Part 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45</div>
-  </td>
-  <td>
-    <div>20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>46</div>
-  </td>
-  <td>
-    <div>21</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>47</div>
-  </td>
-  <td>
-    <div>22</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>48</div>
-  </td>
-  <td>
-    <div>23</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>49</div>
-  </td>
-  <td>
-    <div>24</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>50</div>
-  </td>
-  <td>
-    <div>25</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>Part 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>51</div>
-  </td>
-  <td>
-    <div>26</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>52</div>
-  </td>
-  <td>
-    <div>27</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>53</div>
-  </td>
-  <td>
-    <div>28</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>54</div>
-  </td>
-  <td>
-    <div>29</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>55</div>
-  </td>
-  <td>
-    <div>30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>Part 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>56</div>
-  </td>
-  <td>
-    <div>31</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>57</div>
-  </td>
-  <td>
-    <div>32</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>58</div>
-  </td>
-  <td>
-    <div>33</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>59</div>
-  </td>
-  <td>
-    <div>34</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>60</div>
-  </td>
-  <td>
-    <div>35</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>Part 7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Section</div>
-  </td>
-  <td>
-    <div>Section</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>61</div>
-  </td>
-  <td>
-    <div>36</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>62</div>
-  </td>
-  <td>
-    <div>37</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>63</div>
-  </td>
-  <td>
-    <div>38</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>64</div>
-  </td>
-  <td>
-    <div>39</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>65</div>
-  </td>
-  <td>
-    <div>40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>66</div>
-  </td>
-  <td>
-    <div>41</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>67</div>
-  </td>
-  <td>
-    <div>42</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Part I</div>
+    </td>
+    <td>
+      <div>Part 1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3A</div>
+    </td>
+    <td>
+      <div>4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3B</div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3C</div>
+    </td>
+    <td>
+      <div>6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3D</div>
+    </td>
+    <td>
+      <div>7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IIA</div>
+    </td>
+    <td>
+      <div>Part 2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44A</div>
+    </td>
+    <td>
+      <div>8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44B</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44C</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44D</div>
+    </td>
+    <td>
+      <div>11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IIB</div>
+    </td>
+    <td>
+      <div>Part 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44E</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44F</div>
+    </td>
+    <td>
+      <div>13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44G</div>
+    </td>
+    <td>
+      <div>14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44H</div>
+    </td>
+    <td>
+      <div>15</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44J</div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44K</div>
+    </td>
+    <td>
+      <div>17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44L</div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44M</div>
+    </td>
+    <td>
+      <div>19</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III</div>
+    </td>
+    <td>
+      <div>Part 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>45</div>
+    </td>
+    <td>
+      <div>20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>46</div>
+    </td>
+    <td>
+      <div>21</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>47</div>
+    </td>
+    <td>
+      <div>22</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>48</div>
+    </td>
+    <td>
+      <div>23</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>49</div>
+    </td>
+    <td>
+      <div>24</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>50</div>
+    </td>
+    <td>
+      <div>25</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV</div>
+    </td>
+    <td>
+      <div>Part 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>51</div>
+    </td>
+    <td>
+      <div>26</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>52</div>
+    </td>
+    <td>
+      <div>27</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>53</div>
+    </td>
+    <td>
+      <div>28</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>54</div>
+    </td>
+    <td>
+      <div>29</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>55</div>
+    </td>
+    <td>
+      <div>30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V</div>
+    </td>
+    <td>
+      <div>Part 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>56</div>
+    </td>
+    <td>
+      <div>31</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>57</div>
+    </td>
+    <td>
+      <div>32</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>58</div>
+    </td>
+    <td>
+      <div>33</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>59</div>
+    </td>
+    <td>
+      <div>34</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>60</div>
+    </td>
+    <td>
+      <div>35</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI</div>
+    </td>
+    <td>
+      <div>Part 7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Section</div>
+    </td>
+    <td>
+      <div>Section</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>61</div>
+    </td>
+    <td>
+      <div>36</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>62</div>
+    </td>
+    <td>
+      <div>37</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>63</div>
+    </td>
+    <td>
+      <div>38</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>64</div>
+    </td>
+    <td>
+      <div>39</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>65</div>
+    </td>
+    <td>
+      <div>40</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>66</div>
+    </td>
+    <td>
+      <div>41</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>67</div>
+    </td>
+    <td>
+      <div>42</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
  
