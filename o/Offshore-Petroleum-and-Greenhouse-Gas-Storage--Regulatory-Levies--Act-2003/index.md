@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00075/Html/8741f8e7-21ac-4ed0-ad7e-28d1c3cf6d83_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00891/Html/185a6641-6577-4a11-a5f9-b91098ce8809_files/image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 6 January 2012
+This compilation was prepared on 7 November 2011
  taking into account amendments up to Act No. 114 of 2011
 
 The text of any of those amendments not in force
@@ -57,16 +57,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [10C](#10C).       Imposition of well activity levy—Commonwealth petroleum titles
 
 [10D](#10D).       Imposition of well activity levy—State/Territory petroleum titles
-
-**Part 4C—Annual titles administration levy**
-
-[10E](#10E).        Imposition of annual titles administration levy
-
-**Part 4D—Environment plan levy**
-
-[10F](#10F).        Imposition of environment plan levy—activities authorised by Commonwealth titles
-
-[10G](#10G).       Imposition of environment plan levy—activities authorised by State/Territory titles
 
 **Part 5—Regulations**
 
@@ -168,8 +158,6 @@ Note:          This table relates only to the provisions of th
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="annual-titl-administr-levi"></a>**_annual titles administration levy_** means levy imposed by section 10E.
-
                     <a name="annual-levi"></a>**_annual well levy_** means levy imposed by section 10A or 10B.
 
                     <a name="applic-state-territori-safeti-law"></a>**_applicable State or Territory safety law_** means:
@@ -192,17 +180,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="design-coastal-water"></a>**_designated coastal waters_**,in relation to a State or the Northern Territory, has the same meaning as in Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="environ-plan-levi"></a>**_environment plan levy_** means levy imposed by section 10F or 10G.
-
                     <a name="expens"></a>**_expense_** includes part of an expense.
-
-                    <a name="greenhous-ga-hold-leas"></a>**_greenhouse gas holding lease_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="greenhous-ga-inject-licenc"></a>**_greenhouse gas injection licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="infrastructur-licenc"></a>**_infrastructure licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="nopsema"></a>**_NOPSEMA_** means the National Offshore Petroleum Safety and Environmental Management Authority.
 
                     <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -214,9 +192,9 @@ Note:          This table relates only to the provisions of th
 
                     <a name="petroleum-retent-leas"></a>**_petroleum retention lease_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
                     <a name="prepar"></a>**_prepare_**, in relation to a well, includes construct.
+
+                    <a name="safeti-author"></a>**_Safety Authority_** means the National Offshore Petroleum Safety Authority continued in existence by Part 6.9 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006._
 
                     <a name="safeti-case-levi"></a>**_safety case levy_** means levy imposed by section 7 or 8.
 
@@ -292,7 +270,7 @@ Definitions
 
                      (a)  at or near the facility; and
 
-                     (b)  that is required to be notified to NOPSEMA by the operator under clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                     (b)  that is required to be notified to the Safety Authority by the operator under clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
                     <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -340,7 +318,7 @@ Definitions
 
                      (a)  at or near the facility; and
 
-                     (b)  that is required to be notified to NOPSEMA by the operator under the provision of the applicable State or Territory safety law that substantially corresponds to clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                     (b)  that is required to be notified to the Safety Authority by the operator under the provision of the applicable State or Territory safety law that substantially corresponds to clause 82 of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
                     <a name="oper"></a>**_operator_**, in relation to a facility, has the same meaning as in the applicable State or Territory safety law.
 
@@ -502,9 +480,9 @@ Definitions
 
                      (c)  the contravention or possible contravention relates to the well; and
 
-                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by NOPSEMA in relation to the conduct of the inspection exceeds $30,000; and
+                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection exceeds $30,000; and
 
-                     (e)  NOPSEMA has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by NOPSEMA in relation to the conduct of the inspection has exceeded $30,000;
+                     (e)  the Safety Authority has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection has exceeded $30,000;
 
 levy is imposed on the inspection in respect of:
 
@@ -554,9 +532,9 @@ Definitions
 
                      (c)  the contravention or possible contravention relates to the well; and
 
-                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by NOPSEMA in relation to the conduct of the inspection exceeds $30,000; and
+                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection exceeds $30,000; and
 
-                     (e)  NOPSEMA has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by NOPSEMA in relation to the conduct of the inspection has exceeded $30,000;
+                     (e)  the Safety Authority has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection has exceeded $30,000;
 
 levy is imposed on the inspection in respect of:
 
@@ -642,9 +620,9 @@ the well is an **_eligible well_** in relation to the current title for the subs
 
 Abandoned wells
 
-             (7)  For the purposes of this section, if the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ requires the commencement of the abandonment of a well to be approved by NOPSEMA under those regulations, disregard the abandonment unless:
+             (7)  For the purposes of this section, if the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ requires the commencement of the abandonment of a well to be approved by the Safety Authority under those regulations, disregard the abandonment unless:
 
-                     (a)  the commencement of the abandonment was approved by NOPSEMA under those regulations; and
+                     (a)  the commencement of the abandonment was approved by the Safety Authority under those regulations; and
 
                      (b)  if the approval was subject to conditions—the abandonment was in accordance with those conditions.
 
@@ -680,7 +658,7 @@ is taken to be a year.
 
                      (b)  the State/Territory petroleum title was granted under a law of a particular State or Territory; and
 
-                     (c)  at the start of the year, NOPSEMA has functions or powers under regulations of the State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_;
+                     (c)  at the start of the year, the Safety Authority has functions or powers under regulations of the State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_;
 
 levy is imposed on those wells.
 
@@ -726,9 +704,9 @@ the well is an **_eligible well_** in relation to the current title for the subs
 
 Abandoned wells
 
-             (7)  For the purposes of this section, if regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ require the commencement of the abandonment of a well to be approved by NOPSEMA under those regulations of the State or Territory, disregard the abandonment unless:
+             (7)  For the purposes of this section, if regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ require the commencement of the abandonment of a well to be approved by the Safety Authority under those regulations of the State or Territory, disregard the abandonment unless:
 
-                     (a)  the commencement of the abandonment was approved by NOPSEMA under those regulations of the State or Territory; and
+                     (a)  the commencement of the abandonment was approved by the Safety Authority under those regulations of the State or Territory; and
 
                      (b)  if the approval was subject to conditions—the abandonment was in accordance with those conditions.
 
@@ -766,9 +744,9 @@ is taken to be a year.
 
                      (a)  either:
 
-                              (i)  a person makes an application to NOPSEMA, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
+                              (i)  a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
 
-                             (ii)  a person makes an application to NOPSEMA, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
+                             (ii)  a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
 
                      (b)  the person is the registered holder of a petroleum title;
 
@@ -786,7 +764,7 @@ Exemption
 
              (5)  If:
 
-                     (a)  at a particular time, a person makes an application to NOPSEMA, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
+                     (a)  at a particular time, a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
 
                      (b)  well activity levy is imposed by subsection (1) on the application; and
 
@@ -818,9 +796,9 @@ Definitions
 
                      (a)  either:
 
-                              (i)  a person makes an application to NOPSEMA, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
+                              (i)  a person makes an application to the Safety Authority, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
 
-                             (ii)  a person makes an application to NOPSEMA, under regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
+                             (ii)  a person makes an application to the Safety Authority, under regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
 
                      (b)  the person is the registered holder of a State/Territory petroleum title;
 
@@ -838,7 +816,7 @@ Exemption
 
              (5)  If:
 
-                     (a)  at a particular time, a person makes an application to NOPSEMA, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
+                     (a)  at a particular time, a person makes an application to the Safety Authority, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
 
                      (b)  well activity levy is imposed by subsection (1) on the application; and
 
@@ -865,6 +843,726 @@ Definitions
                     <a name="regist-holder"></a>**_registered holder_**, in relation to a State/Territory petroleum title, means the person whose name is shown in the Register kept under the relevant State PSLA or Territory PSLA as the holder of the title.
 
                     <a name="state-territori-petroleum-titl"></a>**_State/Territory petroleum title_** means an instrument under a State PSLA or Territory PSLA that confers, in relation to the coastal waters of a State or Territory, some or all of the rights that a Commonwealth petroleum title confers in relation to the offshore area of the State or Territory.
+
+## Part 5—Regulations
+
+##### <a id="11"></a>11  Regulations
+
+                   The Governor‑General may make regulations for the purposes of sections 5, 6, 7, 8, 9, 10, 10A, 10B, 10C and 10D.
+
+# Notes to the _Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003_
+
+### Note 1
+
+The _Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003_ as shown in this compilation comprises Act No. 117, 2003 amended as indicated in the Tables below.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Offshore Petroleum (Safety Levies) Act 2003</div>
+  </td>
+  <td>
+    <div>117, 2003</div>
+  </td>
+  <td>
+    <div>4 Dec 2003</div>
+  </td>
+  <td>
+    <div>Ss. 3–11: 1 Jan 2005 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum (Safety Levies) Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>19, 2006</div>
+  </td>
+  <td>
+    <div>29 Mar 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+33–36)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008</div>
+  </td>
+  <td>
+    <div>120, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1: <i>(a)</i> 
+Schedule 2: <i>(a)</i> 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009</div>
+  </td>
+  <td>
+    <div>103, 2009</div>
+  </td>
+  <td>
+    <div>8 Oct 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–12): 1 Jan 2010 
+Schedule 1 (item 13): 9 Oct 2009 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 7, 12, 13)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2010</div>
+  </td>
+  <td>
+    <div>119, 2010</div>
+  </td>
+  <td>
+    <div>16 Nov 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1: 1 Jan 2010 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 5, 6)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011</div>
+  </td>
+  <td>
+    <div>27, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1: 17 June 2011 ( <i>see</i>F2011L01059) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 2) Act 2011</div>
+  </td>
+  <td>
+    <div>114, 2011</div>
+  </td>
+  <td>
+    <div>14 Oct 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2] 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to the
+        <i>Offshore Petroleum (Safety Levies) Amendment Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2008
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 1 of Schedule 4 to the
+        <i>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      22 November 2008
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2008; No. 103, 2009; No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2008; No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009; No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 4</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 5(4)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 6(4)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009; No. 119, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 7(3)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 103, 2009; No. 119, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 8(3)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4</div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 9(3)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 10(3)</div>
+  </td>
+  <td>
+    <div>am. No. 19, 2006; No. 120, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 10A, 10B</div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4B</div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 10C, 10D</div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2009; No. 27, 2011</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 2) Act 2011 
+ (No. 114, 2011)_
+
+The following amendments commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
+
+## Schedule 1
+
+## 1  Section 3
+
+Insert:
+
+                    <a name="annual-titl-administr-levi"></a>**_annual titles administration levy_** means levy imposed by section 10E.
+
+## 2  Section 3
+
+Insert:
+
+                    <a name="environ-plan-levi"></a>**_environment plan levy_** means levy imposed by section 10F or 10G.
+
+## 3  Section 3
+
+Insert:
+
+                    <a name="greenhous-ga-hold-leas"></a>**_greenhouse gas holding lease_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 4  Section 3
+
+Insert:
+
+                    <a name="greenhous-ga-inject-licenc"></a>**_greenhouse gas injection licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 5  Section 3
+
+Insert:
+
+                    <a name="infrastructur-licenc"></a>**_infrastructure licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 6  Section 3
+
+Insert:
+
+                    <a name="nopsema"></a>**_NOPSEMA_** means the National Offshore Petroleum Safety and Environmental Management Authority.
+
+## 7  Section 3
+
+Insert:
+
+                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+## 8  Section 3 (definition of _Safety Authority_)
+
+Repeal the definition.
+
+## 9  Subsection 5(8) (paragraph (b) of the definition of _notifiable accident or occurrence_)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 10  Subsection 6(8) (paragraph (b) of the definition of _notifiable accident or occurrence_)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 11  Subsection 9(1)
+
+Omit “the Safety Authority” (wherever occurring), substitute “NOPSEMA”.
+
+## 12  Subsection 10(1)
+
+Omit “the Safety Authority” (wherever occurring), substitute “NOPSEMA”.
+
+## 13  Subsection 10A(7)
+
+Omit “the Safety Authority” (wherever occurring), substitute “NOPSEMA”.
+
+## 14  Paragraph 10B(1)(c)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 15  Subsection 10B(7)
+
+Omit “the Safety Authority” (wherever occurring), substitute “NOPSEMA”.
+
+## 16  Subparagraphs 10C(1)(a)(i) and (ii)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 17  Paragraph 10C(5)(a)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 18  Subparagraphs 10D(1)(a)(i) and (ii)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 19  Paragraph 10D(5)(a)
+
+Omit “the Safety Authority”, substitute “NOPSEMA”.
+
+## 20  After Part 4B
+
+Insert:
 
 ## Part 4C—Annual titles administration levy
 
@@ -1054,7 +1752,7 @@ levy is imposed on the submission.
 
                              (ii)  the activities to which the plan relates are authorised by a single State/Territory title;
 
-                            by the registered holder of the State/Territory title; or
+                            by the registered holder of the State/Territory title; or
 
                      (b)  if:
 
@@ -1096,702 +1794,11 @@ Definitions
 
                     <a name="state-territori-titl"></a>**_State/Territory title_** means an instrument under a State PSLA or Territory PSLA that confers, in relation to the coastal waters of a State or Territory, some or all of the rights that a Commonwealth title (within the meaning of section 10F) confers in relation to the offshore area of the State or Territory.
 
-## Part 5—Regulations
+## 21  Section 11
 
-##### <a id="11"></a>11  Regulations
+Omit “10C and 10D”, substitute “10C, 10D, 10E, 10F and 10G”.
 
-                   The Governor‑General may make regulations for the purposes of sections 5, 6, 7, 8, 9, 10, 10A, 10B, 10C, 10D, 10E, 10F and 10G.
-
-# Notes to the _Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003_
-
-### Note 1
-
-The _Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003_ as shown in this compilation comprises Act No. 117, 2003 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Safety Levies) Act 2003</div>
-  </td>
-  <td>
-    <div>117, 2003</div>
-  </td>
-  <td>
-    <div>4 Dec 2003</div>
-  </td>
-  <td>
-    <div>Ss. 3–11: 1 Jan 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Safety Levies) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>19, 2006</div>
-  </td>
-  <td>
-    <div>29 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-33–36)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>120, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1: <i>(a)</i> 
-Schedule 2: <i>(a)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>103, 2009</div>
-  </td>
-  <td>
-    <div>8 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–12): 1 Jan 2010 
-Schedule 1 (item 13): 9 Oct 2009 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 12, 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>119, 2010</div>
-  </td>
-  <td>
-    <div>16 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2010 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 5, 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011</div>
-  </td>
-  <td>
-    <div>27, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 17 June 2011 ( <i>see</i>F2011L01059) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 2) Act 2011</div>
-  </td>
-  <td>
-    <div>114, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2012 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Offshore Petroleum (Safety Levies) Amendment Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 1 of Schedule 4 to the
-        <i>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      22 November 2008
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2008; No. 103, 2009; No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2008; No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009; Nos. 27 and 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(4)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(4)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009; No. 119, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(3)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 103, 2009; No. 119, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 8(3)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9(3)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(3)</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2006; No. 120, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10A, 10B</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10C, 10D</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10E</div>
-  </td>
-  <td>
-    <div>ad. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10F, 10G</div>
-  </td>
-  <td>
-    <div>ad. No. 114, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2009; Nos. 27 and 114, 2011</div>
-  </td>
-</tr></table>
+As at 7 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
