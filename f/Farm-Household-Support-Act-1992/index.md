@@ -1,46 +1,28 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image001.gif)
 
 # Farm Household Support Act 1992
 
-No. 241, 1992 as amended
+**Act No. 241 of 1992 as amended**
 
-**Compilation start date:**1 January 2013
+This compilation was prepared on 22 May 2012
+ taking into account amendments up to Act No. 141 of 2011
 
-**Includes amendments up to:**Act No. 98, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Farm Household Support Act 1992_ as amended and in force on 1 January 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 1 March 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
 [3](#3).            Interpretation                                                                                        1
 
@@ -78,7 +60,7 @@ Contents
 
 [8C](#8C).         Persons not qualified if Secretary determines that they do not effectively control farm enterprises          19
 
-[8D](#8D).         Persons not qualified if they have received farm help income support for 1 year     20
+[8D](#8D).         Persons not qualified if they have received farm help income support for 1 year     19
 
 [8E](#8E).          Persons not qualified in relation to later claims for farm help income support in certain circumstances   20
 
@@ -90,7 +72,7 @@ Contents
 
 [8H](#8H).         Person of youth allowance age                                                           22
 
-[8J](#8J).          Limits on qualifying for multiple advances                                        24
+[8J](#8J).          Limits on qualifying for multiple advances                                        23
 
     **Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable**
 
@@ -100,13 +82,13 @@ Contents
 
 [9B](#9B).         Farm help income support not payable if farm household support or exceptional circumstances relief payment is payable                                                                                                           26
 
-[10](#10).          Assets test                                                                                          27
+[10](#10).          Assets test                                                                                          26
 
 [11](#11).          Full‑time students                                                                               28
 
-[12](#12).          Multiple entitlement exclusion                                                            29
+[12](#12).          Multiple entitlement exclusion                                                            28
 
-[13](#13).          Commonwealth funded employment program exclusion                   31
+[13](#13).          Commonwealth funded employment program exclusion                   30
 
 [13A](#13A).       Obligation to obtain advice                                                                 31
 
@@ -132,207 +114,165 @@ Contents
 
         **Subdivision A—Maximum fortnightly rate**
 
-[21](#21).          Maximum fortnightly rate of farm household support—to be determined by Secretary           37
+[21](#21).          Maximum fortnightly rate of farm household support—to be determined by Secretary           36
 
         **Subdivision B—Applicable rate**
 
-[23](#23).          Declaration by applicant or recipient                                                  38
+[23](#23).          Declaration by applicant or recipient                                                  37
 
-[24](#24).          Applicable rate                                                                                   38
+[24](#24).          Applicable rate                                                                                   37
 
     **Division 2—Rate of exceptional circumstances relief payment**
 
-[24A](#24A).       Rate of exceptional circumstances relief payment—how worked out for farmers    39
+[24A](#24A).       Rate of exceptional circumstances relief payment—how worked out for farmers    38
 
-[24AA](#24AA).    Rate of exceptional circumstances relief payment—how worked out for small business operators          42
+[24AA](#24AA).    Rate of exceptional circumstances relief payment—how worked out for small business operators          41
 
     **Division 3—Rate of farm help income support**
 
-[24B](#24B).       Rate of farm help income support—how worked out                        47
+[24B](#24B).       Rate of farm help income support—how worked out                        46
 
 **Part 4A—Amount of a clean energy advance**
 
-[24C](#24C).       Amount of a clean energy advance                                                     49
+[24C](#24C).       Amount of a clean energy advance                                                     48
 
-[24D](#24D).       _Clean energy advance daily rate_                                                        49
+[24D](#24D).       _Clean energy advance daily rate_                                                        48
 
-[24E](#24E).        _Number of advance days_                                                                    51
+[24E](#24E).        _Number of advance days_                                                                    50
 
-[24F](#24F).        Top‑up payments of clean energy advance                                         51
+[24F](#24F).        Top‑up payments of clean energy advance                                         50
 
 **Part 5—Payment of certain support and payments**
 
-[25](#25).          Commencement of payment                                                               54
+[25](#25).          Commencement of payment                                                               53
 
-[26](#26).          Support to be by way of grant                                                            54
+[26](#26).          Support to be by way of grant                                                            53
 
-[26A](#26A).       Exceptional circumstances relief payment to be by way of grant        54
+[26A](#26A).       Exceptional circumstances relief payment to be by way of grant        53
 
-[26B](#26B).       Farm help income support to be by way of grant                               54
+[26B](#26B).       Farm help income support to be by way of grant                               53
 
-[26C](#26C).       Clean energy advance to be by way of a single lump sum                 55
+[26C](#26C).       Clean energy advance to be by way of a single lump sum                 54
 
-[27](#27).          Rate at which farm household support payable                                  55
+[27](#27).          Rate at which farm household support payable                                  54
 
-[28](#28).          Instalments                                                                                         55
+[28](#28).          Instalments                                                                                         54
 
-[29](#29).          Amount of instalments of farm household support                            55
+[29](#29).          Amount of instalments of farm household support                            54
 
-[29A](#29A).       Amount of instalments of exceptional circumstances relief payment  55
+[29A](#29A).       Amount of instalments of exceptional circumstances relief payment  54
 
-[29B](#29B).       Amount of instalments of farm help income support                         56
+[29B](#29B).       Amount of instalments of farm help income support                         55
 
-[30](#30).          Rounding off instalment                                                                     56
+[30](#30).          Rounding off instalment                                                                     55
 
-[31](#31).          Instalment to be paid to person or nominee                                        56
+[31](#31).          Instalment to be paid to person or nominee                                        55
 
-[32](#32).          Method of payment                                                                            57
+[32](#32).          Method of payment                                                                            55
 
-[33](#33).          Where instalment payable on public holiday etc                                 57
+[33](#33).          Where instalment payable on public holiday etc                                 56
 
-**Part 6—Former RAS (Part C) beneficiary** 
+**Part 6—Former RAS (Part C) beneficiary** 
 
     **Division 1—General**
 
-[34](#34).          Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so    58
+[34](#34).          Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so    57
 
     **Division 2—Entitlement to farm household support when no claim made under Part 3**
 
-[35](#35).          Application                                                                                         59
+[35](#35).          Application                                                                                         58
 
-[36](#36).          Qualification for farm household support                                          59
+[36](#36).          Qualification for farm household support                                          58
 
-[37](#37).          Certain provisions of Act not applicable                                            59
+[37](#37).          Certain provisions of Act not applicable                                            58
 
-[38](#38).          Commencement of farm household support                                       59
+[38](#38).          Commencement of farm household support                                       58
 
-[39](#39).          Amount of instalment of farm household support                              59
+[39](#39).          Amount of instalment of farm household support                              58
 
 **Part 7—Recipient’s obligations**
 
-[41](#41).          Secretary may require notice of the happening of an event or a change in circumstances         61
+[41](#41).          Secretary may require notice of the happening of an event or a change in circumstances         60
 
-[42](#42).          Secretary may require recipient to give particular information relevant to payment of farm household support, exceptional circumstances relief payment or farm help income support                62
+[42](#42).          Secretary may require recipient to give particular information relevant to payment of farm household support, exceptional circumstances relief payment or farm help income support                61
 
 **Part 8—Termination of farm household support, exceptional circumstances relief payment or farm help income support**
 
-[43](#43).          Automatic termination—social security benefit etc  payable               65
+[43](#43).          Automatic termination—social security benefit etc  payable               63
 
-[44](#44).          Automatic termination—recipient complying with section 41 notification obligations             66
+[44](#44).          Automatic termination—recipient complying with section 41 notification obligations             64
 
-[45](#45).          Automatic termination—recipient not complying with section 41 notification obligations       66
+[45](#45).          Automatic termination—recipient not complying with section 41 notification obligations       64
 
-[46](#46).          Automatic termination—failure to provide section 42 statement        67
+[46](#46).          Automatic termination—failure to provide section 42 statement        65
 
-[47](#47).          Termination—determination by Secretary that recipient no longer in need               68
+[47](#47).          Termination—determination by Secretary that recipient no longer in need               66
 
-[48](#48).          Termination—at request of recipient or if recipient ceases to be qualified                68
+[48](#48).          Termination—at request of recipient or if recipient ceases to be qualified                66
 
-[49](#49).          Termination—death of recipient                                                         69
+[49](#49).          Termination—death of recipient                                                         67
 
-[49A](#49A).       Automatic termination—overseas absence                                         69
+[49A](#49A).       Automatic termination—overseas absence                                         67
 
-[50](#50).          Automatic termination—exceptional circumstances relief payment received            70
+[50](#50).          Automatic termination—exceptional circumstances relief payment received            68
 
-[51](#51).          Automatic termination—failure to obtain advice on financial outlook or develop activity plan 70
+[51](#51).          Automatic termination—failure to obtain advice on financial outlook or develop activity plan 68
 
-[52](#52).          Termination by the Secretary—failure to comply with an activity plan 70
+[52](#52).          Termination by the Secretary—failure to comply with an activity plan 68
 
 **Part 9A—Farm help re‑establishment grant scheme**
 
-[52A](#52A).       Farm help re‑establishment grant scheme                                           71
+[52A](#52A).       Farm help re‑establishment grant scheme                                           69
 
-[52AA](#52AA).    Where there is a return to farming                                                      72
+[52AA](#52AA).    Where there is a return to farming                                                      70
 
-[52AB](#52AB).    Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur                                                 73
+[52AB](#52AB).    Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur                                                 70
 
-[52AC](#52AC).    Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming        74
+[52AC](#52AC).    Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming        71
 
 **Part 9B—Farm help advice and training scheme**
 
-[52B](#52B).       Farm help advice and training scheme                                                75
+[52B](#52B).       Farm help advice and training scheme                                                73
 
 **Part 9C—Dairy exit payments**
 
-[52C](#52C).       DEP scheme                                                                                       77
+[52C](#52C).       DEP scheme                                                                                       75
 
 **Part 9D—Farm Family Support Scheme**
 
-[52D](#52D).       Treatment of payments under Farm Family Support Scheme             79
+[52D](#52D).       Treatment of payments under Farm Family Support Scheme             77
 
 **Part 10—Miscellaneous**
 
-[53](#53).          Delegation of powers                                                                         81
+[53](#53).          Delegation of powers                                                                         79
 
-[53A](#53A).       Delegation by Secretary: references to the Secretary and the Department 81
+[53A](#53A).       Delegation by Secretary: references to the Secretary and the Department 79
 
-[54](#54).          General power to obtain information                                                  82
+[54](#54).          General power to obtain information                                                  80
 
-[54A](#54A).       Conversion of farm household support payments into grants            85
+[54A](#54A).       Conversion of farm household support payments into grants            83
 
-[55](#55).          Certain support and payments to be inalienable                                  85
+[55](#55).          Certain support and payments to be inalienable                                  83
 
-[55A](#55A).       Effect of garnishee or attachment order                                              85
+[55A](#55A).       Effect of garnishee or attachment order                                              83
 
-[56](#56).          Recovery of overpayments                                                                 86
+[56](#56).          Recovery of overpayments                                                                 84
 
-[57](#57).          Source of funds for payments                                                            88
+[57](#57).          Source of funds for payments                                                            86
 
-[57A](#57A).       Payments to RAS authorities—reimbursement of costs of issuing drought exceptional circumstances certificates  88
+[57A](#57A).       Payments to RAS authorities—reimbursement of costs of issuing drought exceptional circumstances certificates  86
 
-[58](#58).          Regulations                                                                                        89
+[58](#58).          Regulations                                                                                        87
 
 **Part 11—Amendments of the Social Security Act 1991**
 
-[60](#60).          Amendments of the _Social Security Act 1991_                                     90
+[60](#60).          Amendments of the _Social Security Act 1991_                                     88
 
-Schedule—Amendments of the Social Security Act 1991
+**Schedule—Amendments of the Social Security Act 1991** 
 
-Endnotes    
+**Notes** 
 
-Endnote 1—Legislation history                                                                             94
-
-Endnote 2—Amendment history                                                                        104
-
-Endnote 3—Application, saving and transitional provisions                114
-
-Primary Industries and Energy Legislation Amendment Act (No. 2) 1996 (No. 59, 1996)                114
-
-Farm Household Support Amendment (Restart and Exceptional Circumstances) Act 1997 (No. 179, 1997)              114
-
-Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 (No. 45, 1998)                                                                                                   115
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)          115
-
-Farm Household Support Amendment Act 2000 (No. 144, 2000)                116
-
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)                                                                                                             118
-
-Farm Household Support Amendment Act 2003 (No. 115, 2003)                118
-
-Farm Household Support Amendment Act 2004 (No. 70, 2004)                   121
-
-Farm Household Support Amendment Act 2005 (No. 30, 2005)                   124
-
-Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005 (No. 69, 2005)         125
-
-Farm Household Support Amendment Act 2007 (No. 60, 2007)                   126
-
-Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008 (No. 39, 2008)              128
-
-Household Stimulus Package Act (No. 2) 2009 (No. 4, 2009)                        135
-
-Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)    137
-
-Tax Laws Amendment (Transfer of Provisions) Act 2010 (No. 79, 2010)   137
-
-Farm Household Support Amendment (Ancillary Benefits) Act 2010 (No. 92, 2010)       137
-
-Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)      137
-
-Endnote 4—Uncommenced amendments                                                      138
-
-Endnote 5—Misdescribed amendments                                                          139
+ 
 
 ## An Act relating to:
 
@@ -344,17 +284,17 @@ Endnote 5—Misdescribed amendments               
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Farm Household Support Act 1992_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
              (1)  Subject to this section, this Act commences on 20 March 1993.
 
              (2)  If this Act receives the Royal Assent after 20 March 1993, it commences on the day on which it receives the Royal Assent.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation 
 
              (1)  In this Act, unless the contrary intention appears, the following definitions have the same meaning as in the _Social Security Act 1991_:
 
@@ -416,17 +356,17 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="abn"></a>**_ABN_** (short for Australian Business Number) has the meaning given by section 41 of the _A New Tax System (Australian Business Number) Act 1999_.
 
-                    <a name="activ-plan"></a>**_activity plan_** has the meaning given by subsection 8B(3).
+                    <a name="activ-plan"></a>**_activity plan_** has the meaning given by subsection 8B(3).
 
                     <a name="advanc-qualif-dai"></a>**_advance qualification day_** means:
 
-                     (a)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(1) or 8H(1)—the day that determination is made; or
+                     (a)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(1) or 8H(1)—the day that determination is made; or
 
-                     (b)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(2)—the day specified in that determination because of subsection 8G(3); or
+                     (b)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(2)—the day specified in that determination because of subsection 8G(3); or
 
-                     (c)  for a person qualifying for a clean energy advance because of a determination made under subsection 8H(2) or (3)—the day specified in that determination because of subsection 8H(4).
+                     (c)  for a person qualifying for a clean energy advance because of a determination made under subsection 8H(2) or (3)—the day specified in that determination because of subsection 8H(4).
 
-                    <a name="advic-financi-outlook"></a>**_advice on financial outlook_** has the meaning given by subsection 8B(2).
+                    <a name="advic-financi-outlook"></a>**_advice on financial outlook_** has the meaning given by subsection 8B(2).
 
                     <a name="applic-rate"></a>**_applicable rate_** has the meaning given by section 24.
 
@@ -442,9 +382,9 @@ Endnote 5—Misdescribed amendments               
 
                      (a)  for a person qualifying under section 8G for a clean energy advance—the period starting on 1 July 2012 and ending on 19 March 2013; or
 
-                     (b)  for a person qualifying under subsection 8H(1) or (2) for a clean energy advance—the period starting on 1 July 2012 and ending on 30 June 2013; or
+                     (b)  for a person qualifying under subsection 8H(1) or (2) for a clean energy advance—the period starting on 1 July 2012 and ending on 30 June 2013; or
 
-                     (c)  for a person qualifying under subsection 8H(3) for a clean energy advance—the period starting on 1 July 2013 and ending on 31 December 2013.
+                     (c)  for a person qualifying under subsection 8H(3) for a clean energy advance—the period starting on 1 July 2013 and ending on 31 December 2013.
 
                     <a name="dairi-exit-payment"></a>**_dairy exit payment_** means a payment under the DEP scheme.
 
@@ -506,9 +446,9 @@ Endnote 5—Misdescribed amendments               
 
                      (b)  any other prescribed institution, being an institution that makes finance available to farmers.
 
-                    <a name="former-ra-part-beneficiari"></a>**_former RAS (Part C) beneficiary_** means a person who:
+                    <a name="former-ra-part-beneficiari"></a>**_former RAS (Part C) beneficiary_** means a person who:
 
-                     (a)  immediately before the commencement of this Act was receiving Part C assistance by way of loans under a RAS scheme; and
+                     (a)  immediately before the commencement of this Act was receiving Part C assistance by way of loans under a RAS scheme; and
 
                      (b)  is, and has continuously been from the commencement of this Act, receiving farm household support.
 
@@ -526,7 +466,7 @@ Note:          The expression is defined for the purposes of t
 
                     <a name="number-advanc-dai"></a>**_number of advance days_** has the meaning given by section 24E.
 
-                    <a name="off-farm-salari-wage"></a>**_off‑farm salary and wages_** has the meaning given by subsection 24A(7).
+                    <a name="off-farm-salari-wage"></a>**_off‑farm salary and wages_** has the meaning given by subsection 24A(7).
 
                     <a name="pension-ag"></a>**_pension age_** has the same meaning as in the _Social Security Act 1991_ (otherwise than when used in Part 3.14A or 3.14B of that Act in relation to a person who is a veteran (within the meaning of the _Veterans’ Entitlements Act 1986_)).
 
@@ -664,9 +604,9 @@ Example 2: Farm household support was payable to a person for a continuous perio
 
 ##### <a id="6C"></a>6C  Ending exceptional circumstances relief payments for small businesses
 
-             (1)  Exceptional circumstances relief payment is not payable to a person who qualifies for the payment under subsection 8A(5) in respect of any period that is after 30 June 2008, or such later day as is prescribed.
+             (1)  Exceptional circumstances relief payment is not payable to a person who qualifies for the payment under subsection 8A(5) in respect of any period that is after 30 June 2008, or such later day as is prescribed.
 
-             (2)  Exceptional circumstances relief payment is not payable to a person who qualifies for the payment under subsection 8A(7) in respect of any period that is after 30 June 2009, or such later day as is prescribed.
+             (2)  Exceptional circumstances relief payment is not payable to a person who qualifies for the payment under subsection 8A(7) in respect of any period that is after 30 June 2009, or such later day as is prescribed.
 
 ## Part 2—Qualification for and payability of certain support and payments
 
@@ -698,7 +638,7 @@ Example 2: Farm household support was payable to a person for a continuous perio
 
 that period is taken, for the purposes of subsection (1), to be a period during which the person received farm household support.
 
-             (3)  If farm household support becomes payable, or is payable, to a person who has been, at any time, in receipt of Part C assistance by way of loans under a RAS scheme, any period during which the person received Part C assistance by way of loans under the RAS scheme is taken, for the purposes of subsection (1), to be a period during which the person received farm household support.
+             (3)  If farm household support becomes payable, or is payable, to a person who has been, at any time, in receipt of Part C assistance by way of loans under a RAS scheme, any period during which the person received Part C assistance by way of loans under the RAS scheme is taken, for the purposes of subsection (1), to be a period during which the person received farm household support.
 
 ### Division 1A—Qualification for exceptional circumstances relief payment
 
@@ -760,7 +700,7 @@ Qualification—small business operators supplying farm enterprises
 
                      (c)  during an earlier period of normal turnover, 70% or more of the gross income of the business was derived from the supply of goods or services to farmers for use in relation to farm enterprises; and
 
-                     (d)  the farm enterprises were situated wholly or partly within an area that, throughout the relevant period, is covered by a declaration of exceptional circumstances (as referred to in paragraph 8(c) of the _Rural Adjustment Act 1992_); and
+                     (d)  the farm enterprises were situated wholly or partly within an area that, throughout the relevant period, is covered by a declaration of exceptional circumstances (as referred to in paragraph 8(c) of the _Rural Adjustment Act 1992_); and
 
                      (e)  the gross income of the business has been significantly reduced because of the effect of the exceptional circumstances in relation to which the declaration was made on farm enterprises in that area.
 
@@ -792,7 +732,7 @@ Qualification—small business operators supplying farmers, farm enterprise work
 
                      (c)  the business is situated wholly or partly within a town or locality that, throughout the relevant period, is covered by a determination made by the Minister under this paragraph; and
 
-                     (d)  the town or locality is situated wholly or partly within an area that, throughout the relevant period, is covered by a declaration of exceptional circumstances (as referred to in paragraph 8(c) of the _Rural Adjustment Act 1992_); and
+                     (d)  the town or locality is situated wholly or partly within an area that, throughout the relevant period, is covered by a declaration of exceptional circumstances (as referred to in paragraph 8(c) of the _Rural Adjustment Act 1992_); and
 
                      (e)  the gross income of the business has been significantly reduced because of the effect of the exceptional circumstances in relation to which the declaration was made on farmers, farm enterprise workers, or their families.
 
@@ -938,7 +878,7 @@ Qualification for days 1 July 2012 to 19 March 2013
 
                      (a)  satisfies paragraphs (2)(a), (b) and (c); and
 
-                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 6 weeks.
+                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
 
 ##### <a id="8H"></a>8H  Person of youth allowance age
 
@@ -984,7 +924,7 @@ First day of qualification under subsection (2) or (3)
 
                      (a)  satisfies paragraphs (a), (b) and (c) of that subsection; and
 
-                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 6 weeks.
+                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
 
 ##### <a id="8J"></a>8J  Limits on qualifying for multiple advances
 
@@ -992,17 +932,17 @@ First day of qualification under subsection (2) or (3)
 
              (2)  A person can qualify for at most 2 clean energy advances under section 8H:
 
-                     (a)  one under either subsection 8H(1) or (2); and
+                     (a)  one under either subsection 8H(1) or (2); and
 
-                     (b)  one under subsection 8H(3).
+                     (b)  one under subsection 8H(3).
 
-             (3)  A person who has qualified for a clean energy advance under subsection 8H(1) cannot qualify for a clean energy advance under subsection 8G(1).
+             (3)  A person who has qualified for a clean energy advance under subsection 8H(1) cannot qualify for a clean energy advance under subsection 8G(1).
 
 Note 1:       Top‑up payments of clean energy advance may be payable under section 24F if the person’s circumstances change during the person’s clean energy advance period.
 
-Note 2:       A person who has qualified for a clean energy advance under subsection 8H(1) or (2) can qualify for a clean energy advance under subsection 8G(2).
+Note 2:       A person who has qualified for a clean energy advance under subsection 8H(1) or (2) can qualify for a clean energy advance under subsection 8G(2).
 
-Note 3:       However, a second qualification mentioned in note 2 will only result in a further payment if it satisfies the criteria for a top‑up payment (see subsection 24C(3) and section 24D).
+Note 3:       However, a second qualification mentioned in note 2 will only result in a further payment if it satisfies the criteria for a top‑up payment (see subsection 24C(3) and section 24D).
 
 ### Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable
 
@@ -1068,17 +1008,17 @@ Note:          See section 50 for automatic termination of f
 
                      (a)  working out the person’s assets at that time that are not exempt assets for the purposes of this Act:
 
-                              (i)  in a case where a person qualifies for exceptional circumstances relief payment under subsection 8A(1) and makes a claim for payment on the basis that the person qualifies under that subsection—because the person is a farmer; and
+                              (i)  in a case where a person qualifies for exceptional circumstances relief payment under subsection 8A(1) and makes a claim for payment on the basis that the person qualifies under that subsection—because the person is a farmer; and
 
-                             (ii)  in a case where a person qualifies for exceptional circumstances relief payment only under subsection 8A(5) or (7) and makes a claim for payment on the basis that the person qualifies under that subsection—because the person carries on a small business; and
+                             (ii)  in a case where a person qualifies for exceptional circumstances relief payment only under subsection 8A(5) or (7) and makes a claim for payment on the basis that the person qualifies under that subsection—because the person carries on a small business; and
 
-                            (iii)  in a case where a person qualifies for exceptional circumstances relief payment under subsection 8A(5) or (7) and, but for subsubparagraph 8A(1)(b)(i)(C), would also qualify under subsection 8A(1) for the payment—because the person carries on a small business and because the person is a farmer; and
+                            (iii)  in a case where a person qualifies for exceptional circumstances relief payment under subsection 8A(5) or (7) and, but for subsubparagraph 8A(1)(b)(i)(C), would also qualify under subsection 8A(1) for the payment—because the person carries on a small business and because the person is a farmer; and
 
                             (iv)  in any other case—because the person is a farmer; and
 
                      (b)  working out the value of those assets in accordance with Parts 3.12 and 3.18 of the _Social Security Act 1991_.
 
-             (4)  A person’s assets value limit at a particular time for the purposes of this Act is equal to the amount that would be the person’s assets value limit at that time for the purposes of Part 2.12 of the _Social Security Act 1991_ if at that time the person had made a claim for, or was in receipt of, newstart allowance under that Act (see subsection 611(2) and section 612 of the _Social Security Act 1991_).
+             (4)  A person’s assets value limit at a particular time for the purposes of this Act is equal to the amount that would be the person’s assets value limit at that time for the purposes of Part 2.12 of the _Social Security Act 1991_ if at that time the person had made a claim for, or was in receipt of, newstart allowance under that Act (see subsection 611(2) and section 612 of the _Social Security Act 1991_).
 
              (5)  A favourable determination:
 
@@ -1130,7 +1070,7 @@ Note:          See section 50 for automatic termination of f
 
                      (a)  the woman is an armed services widow; and
 
-                     (b)  the woman is receiving a pension under Part II or IV of the _Veterans’ Entitlements Act 1986_ at a rate determined under or by reference to subsection 30(1) of that Act;
+                     (b)  the woman is receiving a pension under Part II or IV of the _Veterans’ Entitlements Act 1986_ at a rate determined under or by reference to subsection 30(1) of that Act;
 
 unless:
 
@@ -1142,9 +1082,9 @@ unless:
 
                      (a)  the man is an armed services widower; and
 
-                     (b)  the man is receiving a pension under Part II or IV of the _Veterans’ Entitlements Act 1986_ at a rate determined under or by reference to subsection 30(1) of that Act.
+                     (b)  the man is receiving a pension under Part II or IV of the _Veterans’ Entitlements Act 1986_ at a rate determined under or by reference to subsection 30(1) of that Act.
 
-          (4A)  Farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person if the person is receiving a weekly amount mentioned in paragraph 234(1)(b) of the _Military Rehabilitation and Compensation Act 2004_, or has received a lump sum mentioned in that paragraph.
+          (4A)  Farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person if the person is receiving a weekly amount mentioned in paragraph 234(1)(b) of the _Military Rehabilitation and Compensation Act 2004_, or has received a lump sum mentioned in that paragraph.
 
              (5)  Farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person for a period if a payment has been or may be made in respect of the person for that period under:
 
@@ -1160,11 +1100,11 @@ unless:
 
 the Secretary may decide that, in spite of subsection (5), farm household support, exceptional circumstances relief payment or farm help income support, as the case requires, is payable to the person for a period before the person starts the course.
 
-             (7)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(1) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(5) or (7).
+             (7)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(1) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(5) or (7).
 
-             (8)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(5) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(1) or (7).
+             (8)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(5) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(1) or (7).
 
-             (9)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(7) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(1) or (5).
+             (9)  Exceptional circumstances relief payment is not payable to a person on the basis that the person qualifies for the payment under subsection 8A(7) if the person is receiving, or has received, the payment on the basis that the person qualifies or qualified for the payment under subsection 8A(1) or (5).
 
 ##### <a id="13"></a>13  Commonwealth funded employment program exclusion
 
@@ -1172,11 +1112,11 @@ the Secretary may decide that, in spite of subsection (5), farm household supp
 
 ##### <a id="13A"></a>13A  Obligation to obtain advice
 
-             (1)  The Secretary may direct a person to whom farm help income support is payable to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
+             (1)  The Secretary may direct a person to whom farm help income support is payable to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
 
-             (2)  The Secretary must arrange for the provision of assistance to the person under the farm help advice and training scheme (see paragraph 52B(3)(b)) for the purpose of complying with the direction.
+             (2)  The Secretary must arrange for the provision of assistance to the person under the farm help advice and training scheme (see paragraph 52B(3)(b)) for the purpose of complying with the direction.
 
-             (3)  If the person does not comply with the direction, the consequences for the continued payability of farm help income support to the person are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
+             (3)  If the person does not comply with the direction, the consequences for the continued payability of farm help income support to the person are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
 
 ## Part 3—Claim for farm household support, exceptional circumstances relief payment or farm help income support
 
@@ -1376,7 +1316,7 @@ may, at any time, declare in writing the fortnightly rate at which the person wi
 
 ##### <a id="24A"></a>24A  Rate of exceptional circumstances relief payment—how worked out for farmers
 
-             (1)  The fortnightly rate at which exceptional circumstances relief payment is payable to a person who qualifies for the payment under subsection 8A(1) is the sum of the following rates:
+             (1)  The fortnightly rate at which exceptional circumstances relief payment is payable to a person who qualifies for the payment under subsection 8A(1) is the sum of the following rates:
 
                      (a)  the fortnightly rate at which:
 
@@ -1422,7 +1362,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image002.gif)
 
                             where:
 
@@ -1436,7 +1376,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image003.gif)
 
                             where:
 
@@ -1456,7 +1396,7 @@ Certain superannuation contributions disregarded
 
                      (a)  an attributable stakeholder of the company or trust; or
 
-                     (b)  an associate under paragraph 1207C(1)(e), (h), (i) or (j) of the _Social Security Act 1991_ of a person who is an attributable stakeholder of the company or trust.
+                     (b)  an associate under paragraph 1207C(1)(e), (h), (i) or (j) of the _Social Security Act 1991_ of a person who is an attributable stakeholder of the company or trust.
 
 Note:          Those paragraphs of the _Social Security Act 1991_ cover a relative, a business partner, a spouse or child of a business partner and a trustee of a trust (where the person concerned can benefit from the trust).
 
@@ -1472,7 +1412,7 @@ Note:          Those paragraphs of the _Social Security Act 19
 
 ##### <a id="24AA"></a>24AA  Rate of exceptional circumstances relief payment—how worked out for small business operators
 
-             (1)  The fortnightly rate at which exceptional circumstances relief payment is payable to a person who qualifies for the payment under subsection 8A(5) or (7) is the sum of the following rates:
+             (1)  The fortnightly rate at which exceptional circumstances relief payment is payable to a person who qualifies for the payment under subsection 8A(5) or (7) is the sum of the following rates:
 
                      (a)  the fortnightly rate at which:
 
@@ -1500,7 +1440,7 @@ Note:          Those paragraphs of the _Social Security Act 19
 
              (3)  For the purposes of calculating a rate referred to in this section, the value of assets that are exempt assets for the purposes of this Act because the person carries on a small business is to be disregarded.
 
-             (4)  If, but for subsubparagraph 8A(1)(b)(i)(C), the person would also qualify for exceptional circumstances relief payment under subsection 8A(1), then, for the purposes of calculating a rate referred to in this section, the value of assets that are exempt assets for the purposes of this Act because the person is a farmer is also to be disregarded.
+             (4)  If, but for subsubparagraph 8A(1)(b)(i)(C), the person would also qualify for exceptional circumstances relief payment under subsection 8A(1), then, for the purposes of calculating a rate referred to in this section, the value of assets that are exempt assets for the purposes of this Act because the person is a farmer is also to be disregarded.
 
 $20,000 in salary and wages from other sources disregarded—whole financial years
 
@@ -1520,7 +1460,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image002.gif)
 
                             where:
 
@@ -1544,7 +1484,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image003.gif)
 
                             where:
 
@@ -1560,7 +1500,7 @@ Farmers hardship bonus disregarded
 
 Certain superannuation contributions disregarded
 
-           (11)  For the purposes of calculating a rate referred to in subsection (1) for a person who has not reached pension age (within the meaning of section 23 of the _Social Security Act 1991_), disregard contributions that are disregarded under subsection 24A(9).
+           (11)  For the purposes of calculating a rate referred to in subsection (1) for a person who has not reached pension age (within the meaning of section 23 of the _Social Security Act 1991_), disregard contributions that are disregarded under subsection 24A(9).
 
 ### Division 3—Rate of farm help income support
 
@@ -1604,11 +1544,11 @@ Certain superannuation contributions disregarded
 
              (1)  On the day (the **_decision day_**) that the Secretary determines that a person (the **_recipient_**) is qualified for a clean energy advance, the Secretary must work out the amount of the advance.
 
-Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
+Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image004.gif)
 
              (3)  However, no amount is payable under this section for the qualification if:
 
@@ -1805,31 +1745,31 @@ When a top‑up is payable
 
 falls short of the amount worked out under subsection (3) or (4) (as applicable), the recipient is qualified for a further payment of clean energy advance equal to the amount of the shortfall.
 
-Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
+Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
 
 Adjusted amount for the earliest change day
 
              (3)  For the purposes of subsection (1), round up to the nearest multiple of $10 the result of the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image005.gif)
 
 where:
 
-                    <a name="first-pro-rata-amount"></a>**_first pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if:
+                    <a name="first-pro-rata-amount"></a>**_first pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if:
 
                      (a)  the advance qualification day were the change day; and
 
-                     (b)  if the change day is specified in a determination, for the recipient, under subsection 8G(2) because of subsection 8G(3):
+                     (b)  if the change day is specified in a determination, for the recipient, under subsection 8G(2) because of subsection 8G(3):
 
                               (i)  the recipient’s clean energy advance period were worked out by reference to the qualification resulting from that determination; and
 
-                             (ii)  the reference in subsection 24D(1) to the decision day were a reference to the change day.
+                             (ii)  the reference in subsection 24D(1) to the decision day were a reference to the change day.
 
 Note:          Paragraph (b) only applies if the recipient qualifies a second time for a clean energy advance, this time under section 8G (whereas the recipient qualified for the original payment under section 8H).
 
-                    <a name="origin-pro-rata-amount"></a>**_original pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if the recipient’s number of advance days did not include days on or after the change day.
+                    <a name="origin-pro-rata-amount"></a>**_original pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if the recipient’s number of advance days did not include days on or after the change day.
 
-Note:          The formula set out in subsection 24C(2) does not include the rounding mentioned in that subsection.
+Note:          The formula set out in subsection 24C(2) does not include the rounding mentioned in that subsection.
 
 Adjusted amount for later change days
 
@@ -1887,7 +1827,7 @@ Note:          An amount of clean energy advance may be reduce
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image006.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1895,7 +1835,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image007.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1905,7 +1845,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image008.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1951,27 +1891,27 @@ the amount is to be increased by 0.5 cent.
 
                    If the Secretary is satisfied that an instalment of farm household support, exceptional circumstances relief payment or farm help income support that would normally be paid on a particular day cannot reasonably be paid on that day (because, for example, it is a public holiday or a bank holiday), the Secretary may direct that the amount be paid on an earlier day.
 
-## Part 6—Former RAS (Part C) beneficiary
+## Part 6—Former RAS (Part C) beneficiary
 
 ### Division 1—General
 
-##### <a id="34"></a>34  Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so
+##### <a id="34"></a>34  Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so
 
-             (1)  A person who, immediately before the commencement of this Act, was receiving Part C assistance by way of loans under a RAS scheme is, on the commencement of this Act, entitled to receive farm household support without making a claim under Part 3.
+             (1)  A person who, immediately before the commencement of this Act, was receiving Part C assistance by way of loans under a RAS scheme is, on the commencement of this Act, entitled to receive farm household support without making a claim under Part 3.
 
              (2)  Farm household support is then payable to the person at the rate, and for the period set out, in Division 2 of this Part.
 
-             (3)  If a former RAS (Part C) beneficiary so wishes, he or she may, at any time before farm household support ceases to be payable to him or her, make a claim for farm household support under Part 3.
+             (3)  If a former RAS (Part C) beneficiary so wishes, he or she may, at any time before farm household support ceases to be payable to him or her, make a claim for farm household support under Part 3.
 
-             (4)  If a former RAS (Part C) beneficiary makes such a claim, he or she is subject to all the provisions of this Act regarding qualification for, and payability of, farm household support (Part 2).
+             (4)  If a former RAS (Part C) beneficiary makes such a claim, he or she is subject to all the provisions of this Act regarding qualification for, and payability of, farm household support (Part 2).
 
-             (5)  If the Secretary determines that the claim is to be granted, farm household support is payable to the former RAS (Part C) beneficiary under Part 5.
+             (5)  If the Secretary determines that the claim is to be granted, farm household support is payable to the former RAS (Part C) beneficiary under Part 5.
 
 ### Division 2—Entitlement to farm household support when no claim made under Part 3
 
 ##### <a id="35"></a>35  Application
 
-                   This Division applies to a former RAS (Part C) beneficiary unless:
+                   This Division applies to a former RAS (Part C) beneficiary unless:
 
                      (a)  he or she has made a claim for farm household support under Part 3; and
 
@@ -1979,23 +1919,23 @@ the amount is to be increased by 0.5 cent.
 
 ##### <a id="36"></a>36  Qualification for farm household support
 
-                   A former RAS (Part C) beneficiary is qualified for farm household support in respect of a period equal to 2 years less the period during which he or she received Part C assistance by way of loans under the RAS scheme applicable to him or her immediately before the commencement of this Act.
+                   A former RAS (Part C) beneficiary is qualified for farm household support in respect of a period equal to 2 years less the period during which he or she received Part C assistance by way of loans under the RAS scheme applicable to him or her immediately before the commencement of this Act.
 
 ##### <a id="37"></a>37  Certain provisions of Act not applicable
 
-                   Parts 2, 3 and 4 and sections 25 and 29, to the extent to which those Parts and sections deal with qualification for, or payments of, farm household support, do not apply to a RAS (Part C) beneficiary.
+                   Parts 2, 3 and 4 and sections 25 and 29, to the extent to which those Parts and sections deal with qualification for, or payments of, farm household support, do not apply to a RAS (Part C) beneficiary.
 
 ##### <a id="38"></a>38  Commencement of farm household support
 
-                   Farm household support becomes payable to a former RAS (Part C) beneficiary on the day on which this Act commences.
+                   Farm household support becomes payable to a former RAS (Part C) beneficiary on the day on which this Act commences.
 
 ##### <a id="39"></a>39  Amount of instalment of farm household support
 
-             (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
+             (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00109/Html/df7fc84a-65aa-4776-9e1a-7033969d1ec4_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image009.gif)
 
-             (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
+             (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
 ## Part 7—Recipient’s obligations
 
@@ -2029,15 +1969,15 @@ the amount is to be increased by 0.5 cent.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
           (5A)  Subsection (5) does not apply to the extent that the person is not capable of complying with the notice.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the _Criminal Code_.
 
           (5B)  Subsection (5) does not apply to the extent that the person has a reasonable excuse.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (5B). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (5B). See subsection 13.3(3) of the _Criminal Code_.
 
           (5C)  An offence under subsection (5) is an offence of strict liability.
 
@@ -2071,15 +2011,15 @@ Note:          For strict liability, see section 6.1 of the 
 
                     Penalty:  Imprisonment for 6 months.
 
-Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
           (5A)  Subsection (5) does not apply to the extent that the person is not capable of complying with the notice.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the _Criminal Code_.
 
           (5B)  Subsection (5) does not apply to the extent that the person has a reasonable excuse.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (5B). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (5B). See subsection 13.3(3) of the _Criminal Code_.
 
           (5C)  An offence under subsection (5) is an offence of strict liability.
 
@@ -2223,7 +2163,7 @@ the support or the exceptional circumstances relief payment, as the case require
 
              (4)  For the purposes of this section, the Secretary may exercise any powers in relation to exceptional circumstances relief payment that the Secretary referred to in Part 4.2 of the _Social Security Act 1991_ may exercise in relation to that Part in relation to newstart allowance.
 
-             (5)  If regulations made under this section specify a purpose for the purposes of paragraph 1212B(c) of the _Social Security Act 1991_, the Secretary is to exercise the powers referred to in subsection (4) as if the purpose specified were a purpose specified in regulations made under that paragraph.
+             (5)  If regulations made under this section specify a purpose for the purposes of paragraph 1212B(c) of the _Social Security Act 1991_, the Secretary is to exercise the powers referred to in subsection (4) as if the purpose specified were a purpose specified in regulations made under that paragraph.
 
 ##### <a id="50"></a>50  Automatic termination—exceptional circumstances relief payment received
 
@@ -2233,7 +2173,7 @@ the support or the exceptional circumstances relief payment, as the case require
 
                    If:
 
-                     (a)  the Secretary has granted a claim for farm help income support by a person in reliance on subsection 19(4) (severe financial hardship); and
+                     (a)  the Secretary has granted a claim for farm help income support by a person in reliance on subsection 19(4) (severe financial hardship); and
 
                      (b)  the person fails to obtain advice on financial outlook or develop an activity plan within a period of 3 months beginning on the day on which the claim is granted;
 
@@ -2273,11 +2213,11 @@ On and after the farm help scheme payment commencement day, the scheme is to be 
 
                      (e)  the method for paying a grant.
 
-             (3)  The scheme may provide for the Secretary to direct a person who has applied for a re‑establishment grant to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
+             (3)  The scheme may provide for the Secretary to direct a person who has applied for a re‑establishment grant to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
 
-             (4)  If the Secretary gives a direction referred to in subsection (3), the Secretary must arrange for the provision of assistance to the person under the farm help advice and training scheme (see paragraph 52B(3)(b)) for the purpose of complying with the direction.
+             (4)  If the Secretary gives a direction referred to in subsection (3), the Secretary must arrange for the provision of assistance to the person under the farm help advice and training scheme (see paragraph 52B(3)(b)) for the purpose of complying with the direction.
 
-             (5)  The consequences for the payability of a re‑establishment grant to a person who does not comply with a direction referred to in subsection (3) are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
+             (5)  The consequences for the payability of a re‑establishment grant to a person who does not comply with a direction referred to in subsection (3) are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
 
           (5A)  The scheme may provide for the disclosure of dairy‑type grant information:
 
@@ -2399,7 +2339,7 @@ The scheme is to be known as the **_farm help advice and training scheme_** and 
 
              (3)  The scheme must:
 
-                     (a)  set out guidelines for the giving of directions under subsection 13A(1), or under the farm help re‑establishment grants scheme, requiring people to obtain advice; and
+                     (a)  set out guidelines for the giving of directions under subsection 13A(1), or under the farm help re‑establishment grants scheme, requiring people to obtain advice; and
 
                      (b)  provide for assistance to people for the purpose of complying with such directions; and
 
@@ -2501,11 +2441,11 @@ Example:    Paragraph (g)—sections 84, 84A, 92 and 92A of the _A New
 
              (3)  The following provisions apply in relation to the doing of anything in relation to the Farm Family Support Scheme in the same way as they apply in relation to the doing of anything under or in relation to this Act:
 
-                     (a)  the definition of **_officer_** in subsection 23(1) of the _Social Security Act 1991_;
+                     (a)  the definition of **_officer_** in subsection 23(1) of the _Social Security Act 1991_;
 
                      (b)  Parts 4 and 5 of the _Social Security (Administration) Act 1999_.
 
-             (4)  Subsection 41(2AA) of the _Age Discrimination Act 2004_ applies in relation to anything done under the Farm Family Support Scheme in the same way as it applies to anything done in direct compliance with section 24A of this Act.
+             (4)  Subsection 41(2AA) of the _Age Discrimination Act 2004_ applies in relation to anything done under the Farm Family Support Scheme in the same way as it applies to anything done in direct compliance with section 24A of this Act.
 
 ## Part 10—Miscellaneous
 
@@ -2605,13 +2545,13 @@ as the case requires.
 
                     Penalty:  Imprisonment for 6 months.
 
-Note 1:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
+Note 1:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
-Note 2:       If a body corporate is convicted of the offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a maximum fine of an amount that is 5 times the maximum fine that could be imposed on an individual convicted of the same offence.
+Note 2:       If a body corporate is convicted of the offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a maximum fine of an amount that is 5 times the maximum fine that could be imposed on an individual convicted of the same offence.
 
           (7A)  Subsection (7) does not apply if the person has a reasonable excuse.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (7A). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (7A). See subsection 13.3(3) of the _Criminal Code_.
 
           (7B)  An offence under subsection (7) is an offence of strict liability.
 
@@ -2769,21 +2709,21 @@ Note:          A debt due to the Commonwealth under this secti
 
 _Section 60_
 
-## Subsection 23(1)—definition of _officer_
+## Subsection 23(1)—definition of _officer_
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act” (wherever occurring).
 
 ## Paragraph 26(4)(c)
 
-Omit “30 November 1993”, substitute “the commencement of the _Farm Household Support Act 1992_”.
+Omit “30 November 1993”, substitute “the commencement of the _Farm Household Support Act 1992_”.
 
-## After subsection 26(5)
+## After subsection 26(5)
 
 Insert:
 
-          (5A)  A RAS authority must not certify that a person is a financial hardship farmer unless, at all times on and after the day on which the _Farm Household Support Act 1992_ commenced, a certificate under subsection (1) has been in force in respect of the person.
+          (5A)  A RAS authority must not certify that a person is a financial hardship farmer unless, at all times on and after the day on which the _Farm Household Support Act 1992_ commenced, a certificate under subsection (1) has been in force in respect of the person.
 
-## Subsection 1131(2)
+## Subsection 1131(2)
 
 Insert “(other than payments under the _Farm Household Support Act 1992_)” after “payments”.
 
@@ -2791,47 +2731,47 @@ Insert “(other than payments under the _Farm Household Support Act 1992_)” a
 
 Omit “or the 1947 Act”, substitute “, the 1947 Act or the _Farm Household Support Act 1992_”.
 
-## After paragraph 1239(1)(b)
+## After paragraph 1239(1)(b)
 
 Insert:
 
                  or (c)  a decision of an officer under the _Farm Household Support Act 1992_;
 
-## After subsection 1239(2)
+## After subsection 1239(2)
 
 Insert:
 
-          (2A)  Subsection (1) does not apply to a decision made by the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_.
+          (2A)  Subsection (1) does not apply to a decision made by the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_.
 
-## After paragraph 1240(1)(b)
+## After paragraph 1240(1)(b)
 
 Insert:
 
                  or (c)  a decision of an officer under the _Farm Household Support Act 1992_;
 
-## Subsection 1240(2)
+## Subsection 1240(2)
 
 Add at the end:
 
                ; or (c)  the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_.
 
-## Subsection 1245(1)
+## Subsection 1245(1)
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-## After paragraph 1247(1)(b)
+## After paragraph 1247(1)(b)
 
 Insert:
 
                    (ba)  a decision of an officer under the _Farm Household Support Act 1992_; or
 
-## After paragraph 1250(1)(ac)
+## After paragraph 1250(1)(ac)
 
 Insert:
 
                    (ad)  of the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_; or
 
-## Subsection 1263(1)
+## Subsection 1263(1)
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
@@ -2839,17 +2779,17 @@ Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-## After paragraph 1279(5)(a)
+## After paragraph 1279(5)(a)
 
 Insert:
 
                    (ab)  the provisions of the _Farm Household Support Act 1992_ or the regulations made under that Act; or
 
-## Subsection 1282(1)
+## Subsection 1282(1)
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-## Subsection 1305(1)
+## Subsection 1305(1)
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
@@ -2857,13 +2797,13 @@ Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-## Subsection 1312(1)
+## Subsection 1312(1)
 
                      (a)  Insert “or the _Farm Household Support Act 1992_” after “this Act” (first occurring).
 
                      (b)  Omit “or the 1947 Act”, substitute “, the 1947 Act or the _Farm Household Support Act 1992_”.
 
-## Section 1313
+## Section 1313
 
                      (a)  Insert “or the _Farm Household Support Act 1992_” after “of this Act”.
 
@@ -2873,1726 +2813,1061 @@ Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-## Subsection 1314(4)
+## Subsection 1314(4)
 
 Insert “or the _Farm Household Support Act 1992_” after “this Act”.
 
-Endnotes
+# Notes to the _Farm Household Support Act 1992_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Farm Household Support Act 1992._
+The _Farm Household Support Act 1992_ as shown in this compilation comprises Act No. 241, 1992 amended as indicated in the Tables below.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 20 November 1996 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="1%">
+  <col width="21%">
+  <col width="16%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
+    </td>
+    <td colspan="2">
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Farm Household Support Act 1992
-    </div>
+    <div>Farm Household Support Act 1992</div>
   </td>
   <td>
-    <div>
-      241, 1992
-    </div>
+    <div>241, 1992</div>
   </td>
   <td>
-    <div>
-      24 Dec 1992
-    </div>
+    <div>24 Dec 1992</div>
+  </td>
+  <td colspan="2">
+    <div>20 Mar 1993</div>
   </td>
   <td>
-    <div>
-      20 Mar 1993
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment Act (No. 2) 1994
-    </div>
+    <div>Social Security Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
-    <div>
-      109, 1994
-    </div>
+    <div>109, 1994</div>
   </td>
   <td>
-    <div>
-      12 July 1994
-    </div>
+    <div>12 July 1994</div>
+  </td>
+  <td colspan="2">
+    <div>Part 5 (ss. 
+58–63): 20 Sept 1994 <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      Part 5 (ss. 58–63): 20 Sept 1994
-        <i>(a)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Drought Relief Payment Act 1994
-    </div>
+    <div>Drought Relief Payment Act 1994</div>
   </td>
   <td>
-    <div>
-      125, 1994
-    </div>
+    <div>125, 1994</div>
   </td>
   <td>
-    <div>
-      18 Oct 1994
-    </div>
+    <div>18 Oct 1994</div>
+  </td>
+  <td colspan="2">
+    <div>18 Oct 1994</div>
   </td>
   <td>
-    <div>
-      18 Oct 1994
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3 (items 79–83)
-    </div>
+    <div>S. 3 (items 79–83)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 2) 1994
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
-    <div>
-      129, 1994
-    </div>
+    <div>129, 1994</div>
   </td>
   <td>
-    <div>
-      21 Oct 1994
-    </div>
+    <div>21 Oct 1994</div>
+  </td>
+  <td colspan="2">
+    <div>S. 3: <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      s. 3:
-        <i>(b)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act
-        (No. 2) 1994
-    </div>
+    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
-    <div>
-      164, 1994
-    </div>
+    <div>164, 1994</div>
   </td>
   <td>
-    <div>
-      16 Dec 1994
-    </div>
+    <div>16 Dec 1994</div>
+  </td>
+  <td colspan="2">
+    <div>Part 4 (s. 60): Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      Part 4 (s. 60): Royal Assent
-        <i>(c)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Student Assistance (Youth Training Allowance—Transitional Provisions and
-        Consequential Amendments) Act 1994
-    </div>
+    <div>Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994</div>
   </td>
   <td>
-    <div>
-      184, 1994
-    </div>
+    <div>184, 1994</div>
   </td>
   <td>
-    <div>
-      23 Dec 1994
-    </div>
+    <div>23 Dec 1994</div>
+  </td>
+  <td colspan="2">
+    <div>1 Jan 1995 <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      1 Jan 1995
-        <i>(d)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 3–8
-    </div>
+    <div>Ss. 3–8</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 1) 1995
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1995</div>
   </td>
   <td>
-    <div>
-      36, 1995
-    </div>
+    <div>36, 1995</div>
   </td>
   <td>
-    <div>
-      12 Apr 1995
-    </div>
+    <div>12 Apr 1995</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule (items 20–23): Royal Assent <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      Schedule (items 20–23): Royal Assent
-        <i>(e)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. (item 23)
-    </div>
+    <div>Sch. (item 23)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment (Carer Pension and Other Measures)
-        Act 1995
-    </div>
+    <div>Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995</div>
   </td>
   <td>
-    <div>
-      143, 1995
-    </div>
+    <div>143, 1995</div>
   </td>
   <td>
-    <div>
-      12 Dec 1995
-    </div>
+    <div>12 Dec 1995</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 25: Royal Assent <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 25: Royal Assent
-        <i>(f)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Veterans’ Affairs Legislation Amendment Act 1995
-    </div>
+    <div>Social Security and Veterans’ Affairs Legislation Amendment Act 1995</div>
   </td>
   <td>
-    <div>
-      1, 1996
-    </div>
+    <div>1, 1996</div>
   </td>
   <td>
-    <div>
-      9 Jan 1996
-    </div>
+    <div>9 Jan 1996</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 14: 20 Sept 1996 <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 14: 20 Sept 1996
-        <i>(g)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 2) 1996
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1996</div>
   </td>
   <td>
-    <div>
-      59, 1996
-    </div>
+    <div>59, 1996</div>
   </td>
   <td>
-    <div>
-      20 Nov 1996
-    </div>
+    <div>20 Nov 1996</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 5: Royal Assent <i>(h)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 5: Royal Assent
-        <i>(h)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 5 (item 5) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 5 (item 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 1997
-    </div>
+    <div>Farm Household Support Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      21, 1997
-    </div>
+    <div>21, 1997</div>
   </td>
   <td>
-    <div>
-      7 Apr 1997
-    </div>
+    <div>7 Apr 1997</div>
+  </td>
+  <td colspan="2">
+    <div>5 May 1997</div>
   </td>
   <td>
-    <div>
-      5 May 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 1) 1997
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1997</div>
   </td>
   <td>
-    <div>
-      22, 1997
-    </div>
+    <div>22, 1997</div>
   </td>
   <td>
-    <div>
-      7 Apr 1997
-    </div>
+    <div>7 Apr 1997</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2: Royal Assent <i>(i)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2: Royal Assent
-        <i>(i)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997
-    </div>
+    <div>Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997</div>
   </td>
   <td>
-    <div>
-      29, 1997
-    </div>
+    <div>29, 1997</div>
   </td>
   <td>
-    <div>
-      17 Apr 1997
-    </div>
+    <div>17 Apr 1997</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 1997 ( <i>see</i>s. 2)</div>
   </td>
   <td>
-    <div>
-      1 July 1997 (
-        <i>see</i>s. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 2) 1997
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1997</div>
   </td>
   <td>
-    <div>
-      94, 1997
-    </div>
+    <div>94, 1997</div>
   </td>
   <td>
-    <div>
-      30 June 1997
-    </div>
+    <div>30 June 1997</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3: 1 Oct 1997 <i>(j)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 3: 1 Oct 1997
-        <i>(j)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment (Restart and Exceptional Circumstances)
-        Act 1997
-    </div>
+    <div>Farm Household Support Amendment (Restart and Exceptional Circumstances) Act 1997</div>
   </td>
   <td>
-    <div>
-      179, 1997
-    </div>
+    <div>179, 1997</div>
   </td>
   <td>
-    <div>
-      25 Nov 1997
-    </div>
+    <div>25 Nov 1997</div>
+  </td>
+  <td colspan="2">
+    <div>25 Nov 1997</div>
   </td>
   <td>
-    <div>
-      25 Nov 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment (Parenting and Other Measures) Act
-        1997
-    </div>
+    <div>Social Security Legislation Amendment (Parenting and Other Measures) Act 1997</div>
   </td>
   <td>
-    <div>
-      197, 1997
-    </div>
+    <div>197, 1997</div>
   </td>
   <td>
-    <div>
-      11 Dec 1997
-    </div>
+    <div>11 Dec 1997</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 298–300): 20 Mar 1998 <i>(k)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 298–300): 20 Mar 1998
-        <i>(k)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security Legislation Amendment (Youth Allowance Consequential and
-        Related Measures) Act 1998
-    </div>
+    <div>Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998</div>
   </td>
   <td>
-    <div>
-      45, 1998
-    </div>
+    <div>45, 1998</div>
   </td>
   <td>
-    <div>
-      17 June 1998
-    </div>
+    <div>17 June 1998</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 13 (items 12–26): 1 July 1998 <i>(l)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 13 (items 12–26): 1 July 1998
-        <i>(l)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 13 (item 26) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 13 (item 26) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Consequential Amendments) Act 1998
-    </div>
+    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
   </td>
   <td>
-    <div>
-      48, 1998
-    </div>
+    <div>48, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (item 47): 1 July 1998 ( <i>see Gazette</i>1998,No. S316) <i>(m)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 47): 1 July 1998 (
-        <i>see Gazette</i>1998, No. S316)
-        <i>(m)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Taxation Laws Amendment (Farm Management Deposits) Act 1998
-    </div>
+    <div>Taxation Laws Amendment (Farm Management Deposits) Act 1998</div>
   </td>
   <td>
-    <div>
-      85, 1998
-    </div>
+    <div>85, 1998</div>
   </td>
   <td>
-    <div>
-      2 July 1998
-    </div>
+    <div>2 July 1998</div>
+  </td>
+  <td colspan="2">
+    <div>2 Jan 1999 
+( <i>see</i>s. 2)</div>
   </td>
   <td>
-    <div>
-      2 Jan 1999 (
-        <i>see</i>s. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Veterans’ Affairs Legislation Amendment (Budget and
-        Other Measures) Act 1998
-    </div>
+    <div>Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998</div>
   </td>
   <td>
-    <div>
-      93, 1998
-    </div>
+    <div>93, 1998</div>
   </td>
   <td>
-    <div>
-      15 July 1998
-    </div>
+    <div>15 July 1998</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 7 
+(items 12–17): 1 Apr 1998 <i>(n)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 7 (items 12–17): 1 Apr 1998
-        <i>(n)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 1) 1998
-    </div>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
   </td>
   <td>
-    <div>
-      102, 1998
-    </div>
+    <div>102, 1998</div>
   </td>
   <td>
-    <div>
-      30 July 1998
-    </div>
+    <div>30 July 1998</div>
+  </td>
+  <td colspan="2">
+    <div>30 July 1998</div>
   </td>
   <td>
-    <div>
-      30 July 1998
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1)
-        1999
-    </div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
   </td>
   <td>
-    <div>
-      44, 1999
-    </div>
+    <div>44, 1999</div>
   </td>
   <td>
-    <div>
-      17 June 1999
-    </div>
+    <div>17 June 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 7 (items 32–34): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(o)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 7 (items 32–34): 1 July 1999 (
-        <i>see Gazette</i>1999, No. S283)
-        <i>(o)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])
-    </div>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Legislation Amendment Act (No. 1) 2000
-    </div>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
   </td>
   <td>
-    <div>
-      160, 2000
-    </div>
+    <div>160, 2000</div>
   </td>
   <td>
-    <div>
-      21 Dec 2000
-    </div>
+    <div>21 Dec 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 21): Royal Assent
-    </div>
-    <div>
-      Remainder: 18 Jan 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      A New Tax System (Family Assistance) (Consequential and Related Measures)
-        Act (No. 2) 1999
-    </div>
+    <div>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</div>
   </td>
   <td>
-    <div>
-      83, 1999
-    </div>
+    <div>83, 1999</div>
   </td>
   <td>
-    <div>
-      8 July 1999
-    </div>
+    <div>8 July 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 6: 1 July 2000 <i>(p)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 6: 1 July 2000
-        <i>(p)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2)
-        1999
-    </div>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
   </td>
   <td>
-    <div>
-      170, 1999
-    </div>
+    <div>170, 1999</div>
   </td>
   <td>
-    <div>
-      10 Dec 1999
-    </div>
+    <div>10 Dec 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (item 1): Royal Assent <i>(q)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 1): Royal Assent
-        <i>(q)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 1999
-    </div>
+    <div>Farm Household Support Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      184, 1999
-    </div>
+    <div>184, 1999</div>
   </td>
   <td>
-    <div>
-      22 Dec 1999
-    </div>
+    <div>22 Dec 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 1 Dec 1999 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 1 Dec 1999
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Industry Adjustment Act 2000
-    </div>
+    <div>Dairy Industry Adjustment Act 2000</div>
   </td>
   <td>
-    <div>
-      22, 2000
-    </div>
+    <div>22, 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
+    <div>3 Apr 2000</div>
+  </td>
+  <td colspan="2">
+    <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Youth Allowance Consolidation Act 2000
-    </div>
+    <div>Youth Allowance Consolidation Act 2000</div>
   </td>
   <td>
-    <div>
-      106, 2000
-    </div>
+    <div>106, 2000</div>
   </td>
   <td>
-    <div>
-      6 July 2000
-    </div>
+    <div>6 July 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 5 (items 6–9): 1 July 1998 <i>(r)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 5 (items 6–9): 1 July 1998
-        <i>(r)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Social Security and Veterans’ Entitlements Legislation Amendment (Private
-        Trusts and Private Companies—Integrity of Means Testing) Act 2000
-    </div>
+    <div>Social Security and Veterans’ Entitlements Legislation Amendment (Private Trusts and Private Companies—Integrity of Means Testing) Act 2000</div>
   </td>
   <td>
-    <div>
-      132, 2000
-    </div>
+    <div>132, 2000</div>
   </td>
   <td>
-    <div>
-      13 Nov 2000
-    </div>
+    <div>13 Nov 2000</div>
+  </td>
+  <td colspan="2">
+    <div>13 Nov 2000</div>
   </td>
   <td>
-    <div>
-      13 Nov 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act
-        2000
-    </div>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
   </td>
   <td>
-    <div>
-      137, 2000
-    </div>
+    <div>137, 2000</div>
   </td>
   <td>
-    <div>
-      24 Nov 2000
-    </div>
+    <div>24 Nov 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>
-      ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent
-    </div>
-    <div>
-      Remainder: 24 May 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (items 418, 419) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2000
-    </div>
+    <div>Farm Household Support Amendment Act 2000</div>
   </td>
   <td>
-    <div>
-      144, 2000
-    </div>
+    <div>144, 2000</div>
   </td>
   <td>
-    <div>
-      7 Dec 2000
-    </div>
+    <div>7 Dec 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
   </td>
   <td>
-    <div>
-      ss. 1 and 2: Royal Assent
-    </div>
-    <div>
-      Remainder: 18 Dec 2000 (
-        <i>see Gazette</i>2000, No. S634)
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 1–6, 6A) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 (items 1–6, 6A) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2003
-    </div>
+    <div>Farm Household Support Amendment Act 2003</div>
   </td>
   <td>
-    <div>
-      115, 2003
-    </div>
+    <div>115, 2003</div>
   </td>
   <td>
-    <div>
-      27 Nov 2003
-    </div>
+    <div>27 Nov 2003</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 1): ( <i>see</i>115, 2003 below)</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 1): (
-        <i>see</i>115, 2003 below)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Produce Legislation Amendment (Supplementary Assistance) Act 2001
-    </div>
+    <div>Dairy Produce Legislation Amendment (Supplementary Assistance) Act 2001</div>
   </td>
   <td>
-    <div>
-      94, 2001
-    </div>
+    <div>94, 2001</div>
   </td>
   <td>
-    <div>
-      20 July 2001
-    </div>
+    <div>20 July 2001</div>
+  </td>
+  <td colspan="2">
+    <div>20 July 2001</div>
   </td>
   <td>
-    <div>
-      20 July 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment (Application
-        of Criminal Code) Act 2001
-    </div>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
   <td>
-    <div>
-      115, 2001
-    </div>
+    <div>115, 2001</div>
   </td>
   <td>
-    <div>
-      18 Sept 2001
-    </div>
+    <div>18 Sept 2001</div>
+  </td>
+  <td colspan="2">
+    <div>16 Oct 2001</div>
   </td>
   <td>
-    <div>
-      16 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Industry Legislation Amendment Act 2002
-    </div>
+    <div>Dairy Industry Legislation Amendment Act 2002</div>
   </td>
   <td>
-    <div>
-      84, 2002
-    </div>
+    <div>84, 2002</div>
   </td>
   <td>
-    <div>
-      10 Oct 2002
-    </div>
+    <div>10 Oct 2002</div>
+  </td>
+  <td colspan="2">
+    <div>10 Oct 2002</div>
   </td>
   <td>
-    <div>
-      10 Oct 2002
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Industry Service Reform Act 2003
-    </div>
+    <div>Dairy Industry Service Reform Act 2003</div>
   </td>
   <td>
-    <div>
-      32, 2003
-    </div>
+    <div>32, 2003</div>
   </td>
   <td>
-    <div>
-      15 Apr 2003
-    </div>
+    <div>15 Apr 2003</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 1 July 2003 ( <i>see Gazette</i>2003, No. S228) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 1 July 2003 (
-        <i>see Gazette</i>2003, No. S228)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2003
-    </div>
+    <div>Farm Household Support Amendment Act 2003</div>
   </td>
   <td>
-    <div>
-      115, 2003
-    </div>
+    <div>115, 2003</div>
   </td>
   <td>
-    <div>
-      27 Nov 2003
-    </div>
+    <div>27 Nov 2003</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (item 25): 18 Dec 2000 ( <i>see</i>s. 2(1))Schedule 2 (item 1): <i>(s)</i> 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 25): 18 Dec 2000 (
-        <i>see</i>s. 2(1))
-    </div>
-    <div>
-      Schedule 2 (item 1):
-        <i>(s)</i>
-
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items 30–36) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 
+30–36) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Military Rehabilitation and Compensation (Consequential and Transitional
-        Provisions) Act 2004
-    </div>
+    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
   </td>
   <td>
-    <div>
-      52, 2004
-    </div>
+    <div>52, 2004</div>
   </td>
   <td>
-    <div>
-      27 Apr 2004
-    </div>
+    <div>27 Apr 2004</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (item 21): 1 July 2004 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 21): 1 July 2004 (
-        <i>see</i>s. 2(1))
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2004
-    </div>
+    <div>Farm Household Support Amendment Act 2004</div>
   </td>
   <td>
-    <div>
-      70, 2004
-    </div>
+    <div>70, 2004</div>
   </td>
   <td>
-    <div>
-      23 June 2004
-    </div>
+    <div>23 June 2004</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 1 July 2004 
+Schedule 2: 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. S229) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 1 July 2004
-    </div>
-    <div>
-      Schedule 2: 1 July 2004 (
-        <i>see Gazette</i>2004, No. S229)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (items 23–29) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (items 
+23–29) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2005
-    </div>
+    <div>Farm Household Support Amendment Act 2005</div>
   </td>
   <td>
-    <div>
-      30, 2005
-    </div>
+    <div>30, 2005</div>
   </td>
   <td>
-    <div>
-      21 Mar 2005
-    </div>
+    <div>21 Mar 2005</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 22 Mar 2005 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 22 Mar 2005
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items 7–10) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 
+7–10) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment (Exceptional Circumstances Relief Payment)
-        Act 2005
-    </div>
+    <div>Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005</div>
   </td>
   <td>
-    <div>
-      69, 2005
-    </div>
+    <div>69, 2005</div>
   </td>
   <td>
-    <div>
-      26 June 2005
-    </div>
+    <div>26 June 2005</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 2, 3, 5): 1 Oct 2005 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 2, 3, 5): 1 Oct 2005
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 5) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment Act 2007
-    </div>
+    <div>Farm Household Support Amendment Act 2007</div>
   </td>
   <td>
-    <div>
-      60, 2007
-    </div>
+    <div>60, 2007</div>
   </td>
   <td>
-    <div>
-      15 Apr 2007
-    </div>
+    <div>15 Apr 2007</div>
+  </td>
+  <td colspan="2">
+    <div>15 Apr 2007</div>
   </td>
   <td>
-    <div>
-      15 Apr 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items 20–22) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 
+20–22) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment (Additional Drought Assistance Measures)
-        Act 2008
-    </div>
+    <div>Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008</div>
   </td>
   <td>
-    <div>
-      39, 2008
-    </div>
+    <div>39, 2008</div>
   </td>
   <td>
-    <div>
-      24 June 2008
-    </div>
+    <div>24 June 2008</div>
+  </td>
+  <td colspan="2">
+    <div>24 June 2008</div>
   </td>
   <td>
-    <div>
-      24 June 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items 20–29) and Sch. 2 (item 4) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 
+20–29) and Sch. 2 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law
-        Reform) Act 2008
-    </div>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
-    <div>
-      144, 2008
-    </div>
+    <div>144, 2008</div>
   </td>
   <td>
-    <div>
-      9 Dec 2008
-    </div>
+    <div>9 Dec 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 2, 3): 10 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 2, 3): 10 Dec 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Household Stimulus Package Act (No. 2) 2009
-    </div>
+    <div>Household Stimulus Package Act (No. 2) 2009</div>
   </td>
   <td>
-    <div>
-      4, 2009
-    </div>
+    <div>4, 2009</div>
   </td>
   <td>
-    <div>
-      18 Feb 2009
-    </div>
+    <div>18 Feb 2009</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 and Schedule 5 (items 1–3): Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 4 and Schedule 5 (items 1–3): Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 4 (item 1) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 4 (item 1) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (2009 Measures No. 1) Act 2009
-    </div>
+    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
   </td>
   <td>
-    <div>
-      27, 2009
-    </div>
+    <div>27, 2009</div>
   </td>
   <td>
-    <div>
-      26 Mar 2009
-    </div>
+    <div>26 Mar 2009</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (items 92, 93, 102(1)): 27 Mar 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 92, 93, 102(1)): 27 Mar 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (item 102(1)) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (Transfer of Provisions) Act 2010
-    </div>
+    <div>Tax Laws Amendment (Transfer of Provisions) Act 2010</div>
   </td>
   <td>
-    <div>
-      79, 2010
-    </div>
+    <div>79, 2010</div>
   </td>
   <td>
-    <div>
-      29 June 2010
-    </div>
+    <div>29 June 2010</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 8, 51): 1 July 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 8, 51): 1 July 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 4 (item 51) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 4 (item 51) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Farm Household Support Amendment (Ancillary Benefits) Act 2010
-    </div>
+    <div>Farm Household Support Amendment (Ancillary Benefits) Act 2010</div>
   </td>
   <td>
-    <div>
-      92, 2010
-    </div>
+    <div>92, 2010</div>
   </td>
   <td>
-    <div>
-      29 June 2010
-    </div>
+    <div>29 June 2010</div>
+  </td>
+  <td colspan="2">
+    <div>29 June 2010</div>
   </td>
   <td>
-    <div>
-      29 June 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 2) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2011
-    </div>
+    <div>Statute Law Revision Act 2011</div>
   </td>
   <td>
-    <div>
-      5, 2011
-    </div>
+    <div>5, 2011</div>
   </td>
   <td>
-    <div>
-      22 Mar 2011
-    </div>
+    <div>22 Mar 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 7 (items 59, 60): 19 Apr 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 7 (items 59, 60): 19 Apr 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Human Services Legislation Amendment Act 2011
-    </div>
+    <div>Human Services Legislation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      32, 2011
-    </div>
+    <div>32, 2011</div>
   </td>
   <td>
-    <div>
-      25 May 2011
-    </div>
+    <div>25 May 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 4 (items 95–107): 1 July 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 95–107): 1 July 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Clean Energy (Household Assistance Amendments) Act 2011
-    </div>
+    <div>Clean Energy (Household Assistance Amendments) Act 2011</div>
   </td>
   <td>
-    <div>
-      141, 2011
-    </div>
+    <div>141, 2011</div>
   </td>
   <td>
-    <div>
-      29 Nov 2011
-    </div>
+    <div>29 Nov 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 5 (items 1–29): 14 May 2012</div>
   </td>
   <td>
-    <div>
-      Schedule 5 (items 1–29): 14 May 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Social Security and Other Legislation Amendment (2012 Budget and Other
-        Measures) Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      98, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      29 June 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (items 14, 88(1)): 1 Jan 2013
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (item 88(1)) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
-_(a)_             The _Farm Household Support Act 1992_ was amended by Part 5 (sections 58–63) only of the _Social Security Legislation Amendment Act (No. 2) 1994_, subsection 2(6) of which provides as follows:
+_(a)_     The _Farm Household Support Act 1992_ was amended by Part 5 (sections 58–63) only of the _Social Security Legislation Amendment Act (No. 2) 1994_, subsection 2(6) of which provides as follows:
 
-                   (6)  Subsections 40(2) and 46(1), paragraph 57(a) and Part 5 commence on 20 September 1994, immediately after the commencement of Part 3 of the _Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994_.
+                 (6)   Subsections 40(2) and 46(1), paragraph 57(a) and Part 5 commence on 20 September 1994, immediately after the commencement of Part 3 of the _Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994_.
 
-_(b)_             The _Farm Household Support Act 1992_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsections 2(1) and (4) of which provide as follows:
+_(b)_     The _Farm Household Support Act 1992_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsections 2(1) and (4) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                   (4)  The amendment made by this Act to section 52 of the _Farm Household Support Act 1992_ commences on 20 September 1994.
+                 (4)   The amendment made by this Act to section 52 of the _Farm Household Support Act 1992_ commences on 20 September 1994.
 
-_(c)_              The _Farm Household Support Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(c)_     The _Farm Household Support Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
-                   (1)  Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
+                 (1)   Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
-_(d)_             Subsection 2(2) of the _Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994_ provides as follows:
+_(d)_     Subsection 2(2) of the _Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994_ provides as follows:
 
-                   (2)  This Act commences on 1 January 1995 immediately after the commencement of the _Student Assistance (Youth Training Allowance) Amendment Act 1994_.
+                 (2)   This Act commences on 1 January 1995 immediately after the commencement of the _Student Assistance (Youth Training Allowance) Amendment Act 1994_.
 
-_(e)_              The _Farm Household Support Act 1992_ was amended by the Schedule (items 20–23) only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+_(e)_     The _Farm Household Support Act 1992_ was amended by the Schedule (items 20–23) only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_              The _Farm Household Support Act 1992_ was amended by Schedule 25 only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsection 2(1) of which provides as follows:
+_(f)_      The _Farm Household Support Act 1992_ was amended by Schedule 25 only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_             The _Farm Household Support Act 1992_ was amended by Schedule 14 only of the _Social Security and Veterans’ Affairs Legislation Amendment Act 1995_, subsection 2(5)(e) of which provides as follows:
+_(g)_     The _Farm Household Support Act 1992_ was amended by Schedule 14 only of the _Social Security and Veterans’ Affairs Legislation Amendment Act 1995_, subsection 2(5)(e) of which provides as follows:
 
-                   (5)  The following provisions commence, or are taken to have commenced, on 20 September 1996:
+                 (5)   The following provisions commence, or are taken to have commenced, on 20 September 1996:
 
-                           (e)   Schedules 12, 13, 14 and 15\. 
+                              (e)   Schedules 12, 13, 14 and 15\. 
 
-_(h)_             The _Farm Household Support Act 1992_ was amended by Schedule 5 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
+_(h)_     The _Farm Household Support Act 1992_ was amended by Schedule 5 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(i)_              The _Farm Household Support Act 1992_ was amended by Schedule 2 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(i)_      The _Farm Household Support Act 1992_ was amended by Schedule 2 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(j)_              Subsection 2(3) of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_ provides as follows:
+_(j)_      Subsection 2(3) of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_ provides as follows:
 
-                   (3)  Schedules 3 and 9 commence, or are taken to have commenced, on 1 October 1997, immediately after the commencement of Schedule 18 to the _Social Security Legislation Amendment (Budget and other Measures) Act 1996._ 
+                 (3)   Schedules 3 and 9 commence, or are taken to have commenced, on 1 October 1997, immediately after the commencement of Schedule 18 to the _Social Security Legislation Amendment (Budget and other Measures) Act 1996._ 
 
-_(k)_              The _Farm Household Support Act 1992_ was amended by Schedule 1 (items 298–300) only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
+_(k)_     The _Farm Household Support Act 1992_ was amended by Schedule 1 (items 298–300) only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
 
-                   (2)  Part 3 of Schedule 1 commences on 1 July 1998\. The remaining items of Schedule 1 commence on 20 March 1998.
+                 (2)   Part 3 of Schedule 1 commences on 1 July 1998\. The remaining items of Schedule 1 commence on 20 March 1998.
 
-_(l)_              The _Farm Household Support Act 1992_ was amended by Schedule 13 (sections 12–25) only of the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, subsection 2(1) of which provides as follows:
+_(l)_ The _Farm Household Support Act 1992_ was amended by Schedule 13 (sections 12–25) only of the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsections (2) to (10), this Act commences on 1 July 1998.
+                 (1)   Subject to subsections (2) to (10), this Act commences on 1 July 1998.
 
-_(m)_             The _Farm Household Support Act 1992_ was amended by Schedule 1 (item 47) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(m)_    The _Farm Household Support Act 1992_ was amended by Schedule 1 (item 47) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
-                   (2)  Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+                 (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
-_(n)_             The _Farm Household Support Act 1992_ was amended by Schedule 7 (items 12–17) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
+_(n)_     The _Farm Household Support Act 1992_ was amended by Schedule 7 (items 12–17) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
 
-                   (9)  Schedule 7 commences, or is taken to have commenced, on 1 April 1998.
+                 (9)   Schedule 7 commences, or is taken to have commenced, on 1 April 1998.
 
-_(o)_             The _Farm Household Support Act 1992_ was amended by Schedule 7 (items 32–34) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provide as follows:
+_(o)_ The _Farm Household Support Act 1992_ was amended by Schedule 7 (items 32–34) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provide as follows:
 
-                   (2)  The following provisions commence on the transfer date:
+                 (2)   The following provisions commence on the transfer date:
 
-                           (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
+                      (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-                 (16)  The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
+               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
 
-_(p)_             The _Farm Household Support Act 1992_ was amended by Schedule 6 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
+_(p)_ The _Farm Household Support Act 1992_ was amended by Schedule 6 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
-                   (2)  Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than item 63) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_. 
+                 (2)   Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than item 63) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_. 
 
-_(q)_             The _Farm Household Support Act 1992_ was amended by Schedule 3 (item 1) only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
+_(q)_ The _Farm Household Support Act 1992_ was amended by Schedule 3 (item 1) only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(r)_              The _Farm Household Support Act 1992_ was amended by Schedule 5 (items 6–9) only of the _Youth Allowance Consolidation Act 2000_, subsection 2(3) of which provides as follows:
+_(r)_ The _Farm Household Support Act 1992_ was amended by Schedule 5 (items 6–9) only of the _Youth Allowance Consolidation Act 2000_, subsection 2(3) of which provides as follows:
 
-                   (3)  Items 30 to 35, 45, 46, 47, 49, 50, 59 to 73 and 75 to 79 of Schedule 4 and Part 2 of Schedule 5 are taken to have commenced on 1 July 1998.
+                 (3)   Items 30 to 35, 45, 46, 47, 49, 50, 59 to 73 and 75 to 79 of Schedule 4 and Part 2 of Schedule 5 are taken to have commenced on 1 July 1998.
 
-_(s)_              Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 2003_ provides as follows:
+_(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 2003_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -4678,3402 +3953,2197 @@ _(s)_              Subsection 2(1) (item 5) of the
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Farm Household Support Act 1992__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>
-        ad. = added or inserted am. = amended rep. = repealed rs. = repealed and
-          substituted exp. = expired or ceased to have effect
-      </div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Title....................................
-    </div>
+    <div>Title</div>
   </td>
   <td>
-    <div>
-      rs. No. 125, 1994
-    </div>
+    <div>rs. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 60, 2007
-    </div>
+    <div>am. No. 179, 1997; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 1
-      </b>
-    </div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3......................................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22,
-        29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83,
-        1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70,
-        2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010;
-        Nos. 32 and 141, 2011
-    </div>
+    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010; Nos. 32 and 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 129, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 115, 2003
-    </div>
+    <div>am. No. 129, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4A...................................
-    </div>
+    <div>S. 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 144, 2000
-    </div>
+    <div>rep. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      am. Nos. 109, 129 and 184, 1994; No. 45, 1998
-    </div>
+    <div>am. Nos. 109, 129 and 184, 1994; No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5A...................................
-    </div>
+    <div>S. 5A</div>
   </td>
   <td>
-    <div>
-      ad. No. 129, 1994
-    </div>
+    <div>ad. No. 129, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 22, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 22, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 70, 2004
-    </div>
+    <div>rs. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 60, 2007; No. 39, 2008
-    </div>
+    <div>am. No. 60, 2007; No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6AA................................
-    </div>
+    <div>S. 6AA</div>
   </td>
   <td>
-    <div>
-      ad. No. 115, 2001
-    </div>
+    <div>ad. No. 115, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 1A
-      </b>
-    </div>
+    <div><b>Part 1A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 1A..............
-    </div>
+    <div>Heading to Part 1A</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 184, 1999; No. 144, 2000; No. 60, 2007
-    </div>
+    <div>rs. No. 179, 1997; No. 184, 1999; No. 144, 2000; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 1A................................
-    </div>
+    <div>Part 1A</div>
   </td>
   <td>
-    <div>
-      ad. No. 21, 1997
-    </div>
+    <div>ad. No. 21, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 6A.................
-    </div>
+    <div>Heading to s. 6A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6A...................................
-    </div>
+    <div>S. 6A</div>
   </td>
   <td>
-    <div>
-      ad. No. 21, 1997
-    </div>
+    <div>ad. No. 21, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 6B..................
-    </div>
+    <div>Heading to s. 6B</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6B...................................
-    </div>
+    <div>S. 6B</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000; No. 115, 2003; No. 70, 2004
-    </div>
+    <div>am. No. 144, 2000; No. 115, 2003; No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6C...................................
-    </div>
+    <div>S. 6C</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 184, 1999
-    </div>
+    <div>rep. No. 184, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 60, 2007
-    </div>
+    <div>ad. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008
-    </div>
+    <div>am. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 2
-      </b>
-    </div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 2.................
-    </div>
+    <div>Heading to Part 2</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000; No. 141, 2011
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part 2..
-    </div>
+    <div>Heading to Div. 1 of Part 2</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7......................................
-    </div>
+    <div>S. 7</div>
   </td>
   <td>
-    <div>
-      am. No. 36, 1995; No. 60, 2007
-    </div>
+    <div>am. No. 36, 1995; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8......................................
-    </div>
+    <div>S. 8</div>
   </td>
   <td>
-    <div>
-      am. Nos. 109 and 184, 1994; No. 45, 1998
-    </div>
+    <div>am. Nos. 109 and 184, 1994; No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1A
-      </b>
-    </div>
+    <div><b>Division 1A</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1A of Part 2...........................................
-    </div>
+    <div>Heading to Div. 1A of Part 2</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1A of Part 2.................
-    </div>
+    <div>Div. 1A of Part 2</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8A.................
-    </div>
+    <div>Heading to s. 8A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 8A(1)...........
-    </div>
+    <div>Subhead. to s. 8A(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 60, 2007
-    </div>
+    <div>am. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 8A(5)...........
-    </div>
+    <div>Subhead. to s. 8A(5)</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008
-    </div>
+    <div>am. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8A...................................
-    </div>
+    <div>S. 8A</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 59, 1996; No. 179, 1997; Nos. 30 and 69, 2005; No. 60, 2007; No. 39,
-        2008
-    </div>
+    <div>am. No. 59, 1996; No. 179, 1997; Nos. 30 and 69, 2005; No. 60, 2007; No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1B
-      </b>
-    </div>
+    <div><b>Division 1B</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1B of Part 2...........................................
-    </div>
+    <div>Heading to Div. 1B of Part 2</div>
   </td>
   <td>
-    <div>
-      rs. No. 144, 2000
-    </div>
+    <div>rs. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1B of Part 2.................
-    </div>
+    <div>Div. 1B of Part 2</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8B..................
-    </div>
+    <div>Heading to s. 8B</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 70, 2004
-    </div>
+    <div>rs. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8B...................................
-    </div>
+    <div>S. 8B</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 70, 2004
-    </div>
+    <div>rs. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 30, 2005
-    </div>
+    <div>am. No. 30, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 8B.......................
-    </div>
+    <div>Note to s. 8B</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8C...................................
-    </div>
+    <div>S. 8C</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8D.................
-    </div>
+    <div>Heading to s. 8D</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8D...................................
-    </div>
+    <div>S. 8D</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 8E..................
-    </div>
+    <div>Heading to s. 8E</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8E...................................
-    </div>
+    <div>S. 8E</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000; No. 70, 2004
-    </div>
+    <div>am. No. 144, 2000; No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8F....................................
-    </div>
+    <div>S. 8F</div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1C
-      </b>
-    </div>
+    <div><b>Division 1C</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 1C of Part 2.................
-    </div>
+    <div>Div. 1C of Part 2</div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8G...................................
-    </div>
+    <div>Ss. 8G, 8H</div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 8J</div>
   </td>
   <td>
-    <div>
-      am. No. 98, 2012
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8H...................................
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to Div. 2 of Part 2</div>
   </td>
   <td>
-    <div>
-      am. No. 98, 2012
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8J....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div>Heading to s. 9</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 2 of Part 2..
-    </div>
+    <div>S. 9</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 9A</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 9....................
-    </div>
+    <div>S. 9A</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9......................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 115, 2003
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 9A.................
-    </div>
+    <div>Note to s. 9A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9A...................................
-    </div>
+    <div>Heading to s. 9B</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 9B</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 9A.......................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 9B..................
-    </div>
+    <div>Note to s. 9B</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9B...................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>rs. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 10</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 9B.......................
-    </div>
+    <div>S. 10</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 1, 1996; No. 179, 1997; Nos. 132 and 144, 2000; No. 60, 2007; No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      rs. No. 70, 2004
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 10..................
-    </div>
+    <div>S. 12</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>am. Nos. 125, 164 and 184, 1994; No. 1, 1996; Nos. 22 and 179, 1997; No. 45, 1998; No. 144, 2000; No. 52, 2004; No. 60, 2007; No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10....................................
-    </div>
+    <div>S. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 1, 1996; No. 179, 1997; Nos. 132 and 144, 2000;
-        No. 60, 2007; No. 39, 2008
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 13A</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. Nos. 125, 164 and 184, 1994; No. 1, 1996; Nos. 22 and 179, 1997; No. 45,
-        1998; No. 144, 2000; No. 52, 2004; No. 60, 2007; No. 39, 2008
-    </div>
+    <div>am. No. 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13....................................
-    </div>
+    <div>S. 13B</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>ad. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000; No. 115, 2003
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13B.................................
-    </div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 144, 2000
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to Part 3</div>
   </td>
   <td>
-    <div>
-      am. No. 115, 2003
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 3
-      </b>
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 3.................
-    </div>
+    <div>Note to s. 14(1)</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 15</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 19</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 14(1)...................
-    </div>
+    <div>S. 20</div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 15....................................
-    </div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 5, 2011
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 19....................................
-    </div>
+    <div>Heading to Part 4</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 70, 2004
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 20....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 4
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 4.................
-    </div>
+    <div>Heading to Div. 1 of Part 4</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>rs. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Subdivision A</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div>Heading to Subdiv. A of 
+Div. 1 of Part 4</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part 4..
-    </div>
+    <div>S. 21</div>
   </td>
   <td>
-    <div>
-      rs. No. 125, 1994
-    </div>
+    <div>am. No. 22, 1997; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
+    <div>Heading to s. 21A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. A of......
-    </div>
-    <div>
-      Div. 1 of Part 4
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>rep. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21....................................
-    </div>
+    <div>S. 21A</div>
   </td>
   <td>
-    <div>
-      am. No. 22, 1997; No. 60, 2007
-    </div>
+    <div>ad. No. 184, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 21A...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 45, 1998
-    </div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 60, 2007
-    </div>
+    <div>rep. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21A.................................
-    </div>
+    <div>Heading to s. 22</div>
   </td>
   <td>
-    <div>
-      ad. No. 184, 1994
-    </div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 45, 1998
-    </div>
+    <div>rep. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 22</div>
   </td>
   <td>
-    <div>
-      rep. No. 60, 2007
-    </div>
+    <div>rs. No. 109, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 22..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 45, 1998
-    </div>
+    <div>am. Nos. 125 and 184, 1994; No. 1, 1996; No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 60, 2007
-    </div>
+    <div>rep. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 22....................................
-    </div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 109, 1994
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to Subdiv. B of 
+Div. 1 of Part 4</div>
   </td>
   <td>
-    <div>
-      am. Nos. 125 and 184, 1994; No. 1, 1996; No. 45, 1998
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 60, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
+    <div>Heading to Div. 2 of Part 4</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 125, 1994; No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Subdiv. B of......
-    </div>
-    <div>
-      Div. 1 of Part 4
-    </div>
+    <div>Div. 2 of Part 4</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div>Heading to s. 24A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 179, 1997; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 2 of Part 4..
-    </div>
+    <div>Subhead. to s. 24A(4)</div>
   </td>
   <td>
-    <div>
-      rs. No. 125, 1994; No. 179, 1997
-    </div>
+    <div>am. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 2 of Part 4...................
-    </div>
+    <div>S. 24A</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 24A...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 60, 2007
-    </div>
+    <div>am. Nos. 1 and 59, 1996; Nos. 22, 179 and 197, 1997; No. 93, 1998; No. 83, 1999; No. 106, 2000; No. 69, 2005; No. 60, 2007; No. 39, 2008; Nos. 4 and 27, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 24A(4).........
-    </div>
+    <div>Subhead. to s. 24AA(5)</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008
-    </div>
+    <div>am. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24A.................................
-    </div>
+    <div>Subhead. to s. 24AA(7)</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>am. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 24AA</div>
   </td>
   <td>
-    <div>
-      am. Nos. 1 and 59, 1996; Nos. 22, 179 and 197, 1997; No. 93, 1998; No. 83,
-        1999; No. 106, 2000; No. 69, 2005; No. 60, 2007; No. 39, 2008; Nos. 4 and
-        27, 2009
-    </div>
+    <div>ad. No. 60, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 24AA(5)......
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008
-    </div>
+    <div>am. No. 39, 2008; Nos. 4 and 27, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 24AA(7)......
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24AA..............................
-    </div>
+    <div>Heading to Div. 3 of Part 4</div>
   </td>
   <td>
-    <div>
-      ad. No. 60, 2007
-    </div>
+    <div>rs. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Div. 3 of Part 4</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 2008; Nos. 4 and 27, 2009
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div>Heading to s. 24B</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 3 of Part 4..
-    </div>
+    <div>S. 24B</div>
   </td>
   <td>
-    <div>
-      rs. No. 144, 2000
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 3 of Part 4...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 197, 1997; No. 83, 1999; Nos. 106 and 144, 2000; No. 60, 2007; No. 4, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 24B................
-    </div>
+    <div><b>Part 4A</b></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24B.................................
-    </div>
+    <div>Part 4A................................</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 24C–24F.......................</div>
   </td>
   <td>
-    <div>
-      am. No. 197, 1997; No. 83, 1999; Nos. 106 and 144, 2000; No. 60, 2007;
-        No. 4, 2009
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 4A
-      </b>
-    </div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 4A................................
-    </div>
+    <div>Heading to Part 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 24C–24F........................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 5
-      </b>
-    </div>
+    <div>Heading to s. 25</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 5.................
-    </div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 26</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000; No. 141, 2011
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 25..................
-    </div>
+    <div>S. 26</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>rs. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25....................................
-    </div>
+    <div>Heading to s. 26A</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 141, 2011
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 26..................
-    </div>
+    <div>S. 26A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 102, 1998
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 26A...............
-    </div>
+    <div>Heading to s. 26B</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26A.................................
-    </div>
+    <div>S. 26B</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 26B................
-    </div>
+    <div>S. 26C.................................</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26B.................................
-    </div>
+    <div>S. 28</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26C.................................
-    </div>
+    <div>Heading to s. 29A</div>
   </td>
   <td>
-    <div>
-      ad. No. 141, 2011
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 28....................................
-    </div>
+    <div>S. 29A</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 29A...............
-    </div>
+    <div>Note to s. 29A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>rep. No. 170, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29A.................................
-    </div>
+    <div>Note 1 to s. 29A</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 170, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Note 2 to s. 29A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>ad. No. 94, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 29A.....................
-    </div>
+    <div>Heading to s. 29B</div>
   </td>
   <td>
-    <div>
-      rep. No. 170, 1999
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 1 to s. 29A..................
-    </div>
+    <div>S. 29B</div>
   </td>
   <td>
-    <div>
-      ad. No. 170, 1999
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 29A..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 94, 1997
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 29B................
-    </div>
+    <div>Note 2 to s. 29B</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29B.................................
-    </div>
+    <div>S. 31</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 32</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 29B..................
-    </div>
+    <div>S. 33</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 31....................................
-    </div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 32....................................
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      am. No. 44, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 33....................................
-    </div>
+    <div>S. 37</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 6
-      </b>
-    </div>
+    <div>Div. 3 of Part 6</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div>S. 40</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 37....................................
-    </div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 3 of Part 6...................
-    </div>
+    <div>S. 41</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 137 and 144, 2000; No. 115, 2001; No. 30, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40....................................
-    </div>
+    <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>am. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 7
-      </b>
-    </div>
+    <div>S. 42</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 137 and 144, 2000; No. 115, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 41....................................
-    </div>
+    <div><b>Part 8</b></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 137 and 144, 2000;
-        No. 115, 2001; No. 30, 2005
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 42..................
-    </div>
+    <div>Heading to Part 8</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 42....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 137 and 144, 2000;
-        No. 115, 2001
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 8
-      </b>
-    </div>
+    <div>S. 43</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. Nos. 125 and 184, 1994; Nos. 1 and 59, 1996; No. 179, 1997; No. 45, 1998; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 8.................
-    </div>
+    <div>Ss. 44–46</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 47</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 43....................................
-    </div>
+    <div>S. 47</div>
   </td>
   <td>
-    <div>
-      am. Nos. 125 and 184, 1994; Nos. 1 and 59, 1996; No. 179, 1997; No. 45,
-        1998; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 44–46............................
-    </div>
+    <div>Ss. 48, 49</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 47..................
-    </div>
+    <div>Heading to Part 8A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 47....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 48, 49............................
-    </div>
+    <div>Part 8A</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; No. 144, 2000
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 8A..............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 49A</div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 8A................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 49A...............
-    </div>
+    <div>S. 49A</div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>ad. No. 39, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 49B</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 144, 2000
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 49B</div>
   </td>
   <td>
-    <div>
-      ad. No. 39, 2008
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 49B................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 179, 1997; No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49B.................................
-    </div>
+    <div>Heading to s. 49C</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>am. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 102, 1998
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 49C</div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>ad. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 49C................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997
-    </div>
+    <div>am. No. 179, 1997; No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49C.................................
-    </div>
+    <div>Heading to s. 49D</div>
   </td>
   <td>
-    <div>
-      ad. No. 125, 1994
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 102, 1998
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Subhead. to s. 49D(2)</div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 49D...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 49D</div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subhead. to s. 49D(2).........
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49D.................................
-    </div>
+    <div>Heading to Part 9</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 125, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Part 9</div>
   </td>
   <td>
-    <div>
-      rep. No. 70, 2004
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 9.................
-    </div>
+    <div>S. 50</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9..................................
-    </div>
+    <div>S. 50A</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>ad. No. 129, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 50....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>am. No. 143, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 50A.................................
-    </div>
+    <div>S. 51</div>
   </td>
   <td>
-    <div>
-      ad. No. 129, 1994
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 143, 1995
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 52</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>am. Nos. 109, 129 and 184, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 51....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>rs. No. 1, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. Nos. 109, 129 and 184, 1994
-    </div>
+    <div>rep. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 1, 1996
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Part 9A</b></div>
   </td>
   <td>
-    <div>
-      am. No. 45, 1998
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to Part 9A</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1998
-    </div>
+    <div>rs. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Part 9A</div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 9A
-      </b>
-    </div>
+    <div>Heading to s. 52A</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 9A..............
-    </div>
+    <div>S. 52A</div>
   </td>
   <td>
-    <div>
-      rs. No. 144, 2000
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9A................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>am. No. 144, 2000 (as am. by No. 115, 2003); No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 52A...............
-    </div>
+    <div>Note to s. 52A(2)</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>rep. No. 184, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52A.................................
-    </div>
+    <div>S. 52AA</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 52AB, 52AC</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000 (as am. by No. 115, 2003); No. 84, 2002; Nos. 32 and
-        115, 2003; No. 70, 2004
-    </div>
+    <div>ad. No. 30, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 52A(2)................
-    </div>
+    <div><b>Part 9B</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 184, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52AA..............................
-    </div>
+    <div>Heading to Part 9B</div>
   </td>
   <td>
-    <div>
-      ad. No. 70, 2004
-    </div>
+    <div>rs. No. 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 52AB, 52AC..................
-    </div>
+    <div>Part 9B</div>
   </td>
   <td>
-    <div>
-      ad. No. 30, 2005
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 9B
-      </b>
-    </div>
+    <div>Heading to s. 52B</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 9B..............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 144, 2000; No. 115, 2003
-    </div>
+    <div>rs. No. 115, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9B................................
-    </div>
+    <div>S. 52B</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 52B................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000
-    </div>
+    <div>am. No. 144, 2000; No. 115, 2003; No. 70, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Part 9C</b></div>
   </td>
   <td>
-    <div>
-      rs. No. 115, 2003
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52B.................................
-    </div>
+    <div>Part 9C</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 22, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 52C</div>
   </td>
   <td>
-    <div>
-      am. No. 144, 2000; No. 115, 2003; No. 70, 2004
-    </div>
+    <div>ad. No. 22, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 9C
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 94, 2001; No. 32, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9C................................
-    </div>
+    <div><b>Part 9D</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 22, 2000
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52C.................................
-    </div>
+    <div>Part 9D</div>
   </td>
   <td>
-    <div>
-      ad. No. 22, 2000
-    </div>
+    <div>ad. No. 92, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 52D</div>
   </td>
   <td>
-    <div>
-      am. No. 94, 2001; No. 32, 2003
-    </div>
+    <div>ad. No. 92, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 9D
-      </b>
-    </div>
+    <div><b>Part 10</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9D................................
-    </div>
+    <div>S. 53</div>
   </td>
   <td>
-    <div>
-      ad. No. 92, 2010
-    </div>
+    <div>am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003; Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52D.................................
-    </div>
+    <div>S. 53A</div>
   </td>
   <td>
-    <div>
-      ad. No. 92, 2010
-    </div>
+    <div>ad. No. 29, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 10
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. Nos. 22 and 144, 2000; No. 115, 2003; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 53....................................
-    </div>
+    <div>S. 54</div>
   </td>
   <td>
-    <div>
-      am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003;
-        Nos. 5 and 32, 2011
-    </div>
+    <div>am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 22, 137 and 144, 2000; No. 115, 2001; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 53A.................................
-    </div>
+    <div>S. 54A</div>
   </td>
   <td>
-    <div>
-      ad. No. 29, 1997
-    </div>
+    <div>ad. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 55</div>
   </td>
   <td>
-    <div>
-      am. Nos. 22 and 144, 2000; No. 115, 2003; No. 32, 2011
-    </div>
+    <div>am. No. 179, 1997; Nos. 22 and 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 22, 137 and 144,
-        2000; No. 115, 2001; No. 141, 2011
-    </div>
+    <div>rs. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54A.................................
-    </div>
+    <div>S. 55</div>
   </td>
   <td>
-    <div>
-      ad. No. 102, 1998
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 55..................
-    </div>
+    <div>S. 55A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; Nos. 22 and 144, 2000
-    </div>
+    <div>ad. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 141, 2011
-    </div>
+    <div>am. No. 44, 1999; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55....................................
-    </div>
+    <div>S. 56</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 141, 2011
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002; No. 32, 2003; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55A.................................
-    </div>
+    <div>Note to s. 56</div>
   </td>
   <td>
-    <div>
-      ad. No. 179, 1997
-    </div>
+    <div>ad. No. 94, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 44, 1999; No. 144, 2000
-    </div>
+    <div>am. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 56....................................
-    </div>
+    <div>Heading to s. 57</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002;
-        No. 32, 2003; No. 141, 2011
-    </div>
+    <div>rs. No. 179, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 56.......................
-    </div>
+    <div>S. 57</div>
   </td>
   <td>
-    <div>
-      ad. No. 94, 1997
-    </div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002; No. 141, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 57A</div>
   </td>
   <td>
-    <div>
-      am. No. 179, 1997; No. 144, 2000; No. 141, 2011
-    </div>
+    <div>ad. No. 36, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 57..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 179, 1997
-    </div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 57....................................
-    </div>
+    <div>S. 59</div>
   </td>
   <td>
-    <div>
-      am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002;
-        No. 141, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 57A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 36, 1995
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 5, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 59....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 179, 1997
-    </div>
+    <div>rep. No. 179, 1997</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+## Table A
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Farm Household Support Act 1992__._
+### Application, saving or transitional provisions
 
-Application, saving and transitional provisions prior to 20 November 1996 are not included in this endnote.
-
-Primary Industries and Energy Legislation Amendment Act (No. 2) 1996 (No. 59, 1996)
+_Primary Industries and Energy Legislation Amendment Act (No. 2) 1996 (No. 59, 1996)_
 
 ## Schedule 5
 
@@ -8081,7 +6151,10 @@ Primary Industries and Energy Legislation Amendment Act (No. 2) 1996 (No. 59
 
 The amendment made by item 4 applies to the proceeds of disposals that occur after the commencement of this Schedule.
 
-Farm Household Support Amendment (Restart and Exceptional Circumstances) Act 1997 (No. 179, 1997)
+* * *
+
+_Farm Household Support Amendment (Restart and Exceptional 
+ Circumstances) Act 1997 (No. 179, 1997)_
 
 ## Schedule 3
 
@@ -8107,7 +6180,9 @@ A claim for drought relief payment made, but not determined, before the commence
 
 A reference in the amended FHS Act, or in another Act that is amended by this Act, to exceptional circumstances relief payment paid to a person has effect, after the commencement of this Act, as if it included a reference to drought relief payment paid to a person under the _Farm Household Support Act 1992_.
 
-Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 (No. 45, 1998)
+* * *
+
+_Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 (No. 45, 1998) _
 
 ## Schedule 13
 
@@ -8115,7 +6190,9 @@ Social Security Legislation Amendment (Youth Allowance Consequential and Related
 
 The amendments made by items 24 and 25 apply in relation to the sale of farms on or after the commencement of this item.
 
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+* * *
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -8145,7 +6222,9 @@ If:
 
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Farm Household Support Amendment Act 2000 (No. 144, 2000)
+* * *
+
+_Farm Household Support Amendment Act 2000 (No. 144, 2000)_
 
 ## Schedule 3
 
@@ -8185,7 +6264,7 @@ Part 10 of the amended FHS Act has effect after the farm help scheme payment c
 
 ## 6A  Effect of sections 53 and 53A
 
-Subsections 53(4) and 53A(8) of the _Farm Household Support Act 1992_ are taken, for all purposes, to have effect as if the definition of **_this Act_** in each of those subsections had, throughout the period:
+Subsections 53(4) and 53A(8) of the _Farm Household Support Act 1992_ are taken, for all purposes, to have effect as if the definition of **_this Act_** in each of those subsections had, throughout the period:
 
                      (a)  beginning on 1 December 1997; and
 
@@ -8193,7 +6272,9 @@ Subsections 53(4) and 53A(8) of the _Farm Household Support Act 1992_ are take
 
 included a reference to the restart advice scheme and the restart re‑establishment grant scheme (within the meaning of the _Farm Household Support Act 1992_ as in force immediately before the farm help scheme payment commencement day).
 
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -8201,7 +6282,9 @@ Agriculture, Fisheries and Forestry Legislation Amendment (Application of Crimin
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Farm Household Support Amendment Act 2003 (No. 115, 2003)
+* * *
+
+_Farm Household Support Amendment Act 2003 (No. 115, 2003)_
 
 ## Schedule 1
 
@@ -8253,9 +6336,9 @@ continues in force after commencement, as if the amendments had not been made.
 
 (1)       The amendments made by items 17, 18, 20 and 26 apply in relation to claims for re‑establishment grant made after commencement.
 
-(2)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, those subsections, as in force immediately before commencement, continue in force after commencement in relation to claims for re‑establishment grant made before commencement, as if the repeal had not been made.
+(2)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, those subsections, as in force immediately before commencement, continue in force after commencement in relation to claims for re‑establishment grant made before commencement, as if the repeal had not been made.
 
-(3)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, the provisions of the farm help re‑establishment grant scheme that:
+(3)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, the provisions of the farm help re‑establishment grant scheme that:
 
                      (a)  were made under those subsections; and
 
@@ -8263,7 +6346,7 @@ continues in force after commencement, as if the amendments had not been made.
 
 continue in force after commencement in relation to claims for re‑establishment grant made before commencement, as if the repeal had not been made.
 
-(4)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, an activity plan direction that:
+(4)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, an activity plan direction that:
 
                      (a)  was given, before commencement, under a provision of the farm help re‑establishment grant scheme that was made under those subsections; and
 
@@ -8273,7 +6356,7 @@ continues in force after commencement, as if the repeal had not been made.
 
 ## 35  Farm help advice and training scheme
 
-(1)       Despite the repeal of subsection 52B(1) of the Principal Act made by item 23, the farm help advice scheme (the **_old scheme_**):
+(1)       Despite the repeal of subsection 52B(1) of the Principal Act made by item 23, the farm help advice scheme (the **_old scheme_**):
 
                      (a)  made under that subsection; and
 
@@ -8289,13 +6372,15 @@ continues in force after commencement as if it were made under that subsection�
 
 (5)       If a payment under the new scheme is to be made to a person covered by subitem (3) or (4), the Secretary may direct the person to develop, and act in accordance with, an individual activity plan as specified in the direction.
 
-(6)       The Principal Act, and instruments made under the Principal Act, apply to a direction given under subitem (5) as if it were an activity plan direction given under subsection 13B(1) of the Principal Act.
+(6)       The Principal Act, and instruments made under the Principal Act, apply to a direction given under subitem (5) as if it were an activity plan direction given under subsection 13B(1) of the Principal Act.
 
 ## 36  Application of item 27
 
 The amendment made by item 27 applies in relation to breaches, made after commencement, of directions given before or after commencement.
 
-Farm Household Support Amendment Act 2004 (No. 70, 2004)
+* * *
+
+_Farm Household Support Amendment Act 2004 (No. 70, 2004)_
 
 ## Schedule 2
 
@@ -8347,7 +6432,7 @@ continue to be determined by the method provided under the farm help advice and 
 
 (2)       Despite:
 
-                     (a)  the amendments of subsection 3(2) of the Principal Act made by items 4 and 5 of this Schedule; and
+                     (a)  the amendments of subsection 3(2) of the Principal Act made by items 4 and 5 of this Schedule; and
 
                      (b)  the amendment of section 52A of the Principal Act made by item 16 of this Schedule; and
 
@@ -8361,7 +6446,9 @@ section 52A of the Principal Act and instruments made under that section, as i
 
 (2)       Despite the amendments of section 52B of the Principal Act made by items 18 and 19 of this Schedule, that section and instruments made under that section, as in force immediately before the commencement of those items, continue in force on and after that commencement, in relation to farm help advice and training grants where the claim for the grant was made before that commencement, as if the amendments had not been made.
 
-Farm Household Support Amendment Act 2005 (No. 30, 2005)
+* * *
+
+_Farm Household Support Amendment Act 2005 (No. 30, 2005)_
 
 ## Schedule 1
 
@@ -8395,7 +6482,9 @@ The amendments made by items 1 and 2 of this Schedule apply in relation to exc
 
 (2)       Despite the insertion of sections 52AB and 52AC of the Principal Act made by item 6 of this Schedule, section 52A of the Principal Act and instruments made under that section, as in force immediately before the commencement of that item, continue in force on and after that commencement, in relation to a farm help re‑establishment grant where the claim for the grant was made before that commencement, as if the amendment and insertion had not been made.
 
-Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005 (No. 69, 2005)
+* * *
+
+_Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005 (No. 69, 2005)_
 
 ## Schedule 1
 
@@ -8403,13 +6492,15 @@ Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 
 
 If:
 
-                     (a)  an exceptional circumstances certificate was issued under subsection 8A(2) of the _Farm Household Support Act 1992_, as in force immediately before 1 October 2005; and
+                     (a)  an exceptional circumstances certificate was issued under subsection 8A(2) of the _Farm Household Support Act 1992_, as in force immediately before 1 October 2005; and
 
                      (b)  the certificate would, but for the amendment made by item 2 of this Schedule, be in effect on and after 1 October 2005;
 
-the certificate continues to have effect on and after that day as if it were made under subsection 8A(2) of that Act, as amended by that item.
+the certificate continues to have effect on and after that day as if it were made under subsection 8A(2) of that Act, as amended by that item.
 
-Farm Household Support Amendment Act 2007 (No. 60, 2007)
+* * *
+
+_Farm Household Support Amendment Act 2007 (No. 60, 2007)_
 
 ## Schedule 1
 
@@ -8427,7 +6518,7 @@ In this Part:
 
 (1)       This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
 
-                     (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
+                     (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
 
                      (b)  payability criteria similar to those in Division 2 of Part 2 of the Principal Act.
 
@@ -8435,9 +6526,9 @@ In this Part:
 
                      (a)  the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act;
 
-                     (b)  the Secretary is taken to have made a determination under subsection 19(2) of the Principal Act, with effect from the start of the commencing day, that the claim is granted at the rate at which payment was received immediately before the commencing day;
+                     (b)  the Secretary is taken to have made a determination under subsection 19(2) of the Principal Act, with effect from the start of the commencing day, that the claim is granted at the rate at which payment was received immediately before the commencing day;
 
-                     (c)  the Secretary is taken to have made a determination in writing under subsection 10(1) of the Principal Act (the **_assets determination_**), with effect from the start of the commencing day, that the value of the person’s assets does not exceed the person’s asset value limit;
+                     (c)  the Secretary is taken to have made a determination in writing under subsection 10(1) of the Principal Act (the **_assets determination_**), with effect from the start of the commencing day, that the value of the person’s assets does not exceed the person’s asset value limit;
 
                      (d)  unless sooner revoked, the assets determination continues to have effect:
 
@@ -8447,13 +6538,13 @@ In this Part:
 
 (3)       The Secretary may, by determination in writing, revoke or vary a determination that:
 
-                     (a)  because of paragraph (2)(b), the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
+                     (a)  because of paragraph (2)(b), the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
 
-                     (b)  because of paragraph (2)(c), the Secretary is taken to have made under subsection 10(1) of the Principal Act;
+                     (b)  because of paragraph (2)(c), the Secretary is taken to have made under subsection 10(1) of the Principal Act;
 
 in circumstances in which the Secretary could have revoked or varied a determination actually made under those subsections.
 
-(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
+(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
 
 (5)       A determination made under subitem (3) is not a legislative instrument.
 
@@ -8461,7 +6552,7 @@ in circumstances in which the Secretary could have revoked or varied a determina
 
 (1)       This item applies if, before the commencing day, a person applies for a payment on the basis that the following are satisfied:
 
-                     (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
+                     (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
 
                      (b)  payability criteria similar to those in Division 2 of Part 2 of the Principal Act;
 
@@ -8469,7 +6560,9 @@ but is not receiving payment on that basis immediately before the commencing day
 
 (2)       The person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act, and to have made the claim on the commencing day.
 
-Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008 (No. 39, 2008)
+* * *
+
+_Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008 (No. 39, 2008)_
 
 ## Schedule 1
 
@@ -8489,13 +6582,13 @@ The amendments made by items 10 to 17 of this Schedule apply in relation to ex
 
 ## 22  Transitional—amounts disregarded before commencing day
 
-Amounts that were disregarded for the 2007‑08 financial year under subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act before the commencing day are to be treated, after the commencing day, as if the amounts had been disregarded for that financial year under that subsection (as amended by this Schedule).
+Amounts that were disregarded for the 2007‑08 financial year under subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act before the commencing day are to be treated, after the commencing day, as if the amounts had been disregarded for that financial year under that subsection (as amended by this Schedule).
 
 ## 23  Transitional—person already receiving payment in the nature of exceptional circumstances relief payment
 
 (1)       This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
 
-                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
+                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
                      (b)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule).
 
@@ -8503,9 +6596,9 @@ Amounts that were disregarded for the 2007‑08 financial year under subsection�
 
                      (a)  the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act;
 
-                     (b)  the Secretary is taken to have made a determination under subsection 19(2) of the Principal Act, with effect from the start of the commencing day, that the claim is granted at the rate at which payment was received immediately before the commencing day;
+                     (b)  the Secretary is taken to have made a determination under subsection 19(2) of the Principal Act, with effect from the start of the commencing day, that the claim is granted at the rate at which payment was received immediately before the commencing day;
 
-                     (c)  the Secretary is taken to have made a determination in writing under subsection 10(1) of the Principal Act (the **_assets determination_**), with effect from the start of the commencing day, that the value of the person’s assets does not exceed the person’s asset value limit;
+                     (c)  the Secretary is taken to have made a determination in writing under subsection 10(1) of the Principal Act (the **_assets determination_**), with effect from the start of the commencing day, that the value of the person’s assets does not exceed the person’s asset value limit;
 
                      (d)  unless sooner revoked, the assets determination continues to have effect:
 
@@ -8515,13 +6608,13 @@ Amounts that were disregarded for the 2007‑08 financial year under subsection�
 
 (3)       The Secretary may, by determination in writing, revoke or vary a determination that:
 
-                     (a)  because of paragraph (2)(b) of this item, the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
+                     (a)  because of paragraph (2)(b) of this item, the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
 
-                     (b)  because of paragraph (2)(c) of this item, the Secretary is taken to have made under subsection 10(1) of the Principal Act;
+                     (b)  because of paragraph (2)(c) of this item, the Secretary is taken to have made under subsection 10(1) of the Principal Act;
 
 in circumstances in which the Secretary could have revoked or varied a determination actually made under those subsections.
 
-(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) of this item in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
+(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) of this item in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
 
 (5)       A determination made under subitem (3) of this item is not a legislative instrument.
 
@@ -8529,7 +6622,7 @@ in circumstances in which the Secretary could have revoked or varied a determina
 
 (1)       This item applies if, on or after 25 September 2007 and before the commencing day, a person applies for a payment on the basis that the following are satisfied:
 
-                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
+                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
                      (b)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule);
 
@@ -8543,9 +6636,9 @@ In this Part:
 
 **_commencing day_** means the day on which this Act commences.
 
-**_excess amount_** has the meaning given by subitem 27(1).
+**_excess amount_** has the meaning given by subitem 27(1).
 
-**_pre‑commencement payment_** has the meaning given by subitem 26(1).
+**_pre‑commencement payment_** has the meaning given by subitem 26(1).
 
 **_Principal Act_** means the _Farm Household Support Act 1992_.
 
@@ -8553,7 +6646,7 @@ In this Part:
 
 (1)       This item applies if, before the commencing day, a person received a payment (a **_pre‑commencement payment_**) on the basis that the following were satisfied in respect of a period starting on or after 25 September 2007 and ending before the commencing day:
 
-                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
+                     (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
                      (b)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule).
 
@@ -8571,7 +6664,7 @@ In this Part:
 
                      (b)  the person did not satisfy, in respect of that period:
 
-                              (i)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule); and
+                              (i)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule); and
 
                              (ii)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule);
 
@@ -8581,7 +6674,7 @@ the pre‑commencement payment may be recovered by the Commonwealth from the per
 
                      (a)  a pre‑commencement payment has been paid to a person in respect of a period; and
 
-                     (b)  the amount of the pre‑commencement payment (the **_paid amount_**) is greater than the amount (the **_payable amount_**) that would have been payable to the person in respect of that period had the payment been calculated by applying section 24AA of the Principal Act (as amended by this Schedule) to the person as if the person were qualified for exceptional circumstances relief payment under subsection 8A(7) of that Act (as inserted by this Schedule);
+                     (b)  the amount of the pre‑commencement payment (the **_paid amount_**) is greater than the amount (the **_payable amount_**) that would have been payable to the person in respect of that period had the payment been calculated by applying section 24AA of the Principal Act (as amended by this Schedule) to the person as if the person were qualified for exceptional circumstances relief payment under subsection 8A(7) of that Act (as inserted by this Schedule);
 
 an amount equal to the difference between the paid amount and the payable amount may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
@@ -8595,11 +6688,11 @@ an amount equal to the difference between the paid amount and the payable amount
 
                      (a)  a person received a payment on the basis that, in respect of a period starting on or after 25 September 2007 and ending before the commencing day, the person satisfied:
 
-                              (i)  the qualification criteria in subsection 8A(1) or (5) of the Principal Act; and
+                              (i)  the qualification criteria in subsection 8A(1) or (5) of the Principal Act; and
 
                              (ii)  the payability criteria in Division 2 of Part 2 of the Principal Act; and
 
-                     (b)  the payment was calculated using a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule; and
+                     (b)  the payment was calculated using a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule; and
 
                      (c)  had the payment been calculated using the formula in that subsection as in force before the commencing day, all or some of the payment (the **_excess amount_**) would not have been payable to the person.
 
@@ -8617,7 +6710,7 @@ an amount equal to the difference between the paid amount and the payable amount
 
                      (b)  the person did not satisfy, in respect of that period:
 
-                              (i)  the qualification criteria in subsection 8A(1) or (5) of the Principal Act; and
+                              (i)  the qualification criteria in subsection 8A(1) or (5) of the Principal Act; and
 
                              (ii)  the payability criteria in Division 2 of Part 2 of the Principal Act;
 
@@ -8627,7 +6720,7 @@ the excess amount may be recovered by the Commonwealth from the person as a debt
 
                      (a)  an excess amount has been paid to a person as, or as part of, a payment mentioned in subitem (1) in respect of a period; and
 
-                     (b)  an error was made when calculating the payment in respect of that period using a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule; and
+                     (b)  an error was made when calculating the payment in respect of that period using a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule; and
 
                      (c)  the excess amount (the **_paid amount_**) is greater than the excess amount (the **_payable amount_**) that would have been paid as, or as part of, the payment in respect of that period had the error not been made;
 
@@ -8637,7 +6730,7 @@ an amount equal to the difference between the paid amount and the payable amount
 
 (9)       Subitems (6) and (7) do not, by implication, affect the recovery or set‑off of overpayments of exceptional circumstances relief payment under the Principal Act.
 
-(10)     Despite subitems (2) and (3), if, before the commencing day, an amount was disregarded for the 2007‑08 financial year in a calculation that used a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule, then the amount is to be treated, after the commencing day, as if it had been disregarded for that financial year under that subsection.
+(10)     Despite subitems (2) and (3), if, before the commencing day, an amount was disregarded for the 2007‑08 financial year in a calculation that used a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule, then the amount is to be treated, after the commencing day, as if it had been disregarded for that financial year under that subsection.
 
 ## 28  Ancillary benefits relating to the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_
 
@@ -8659,7 +6752,7 @@ then the thing is, for all purposes, taken to be as valid, and always to have be
 
 ## 29  Appropriation
 
-The Consolidated Revenue Fund is appropriated for the purpose of payments under subitems 26(3), 27(3) and 28(3).
+The Consolidated Revenue Fund is appropriated for the purpose of payments under subitems 26(3), 27(3) and 28(3).
 
 ## Schedule 2
 
@@ -8667,7 +6760,9 @@ The Consolidated Revenue Fund is appropriated for the purpose of payments under 
 
 The amendments made by items 1 to 3 of this Schedule apply in relation to absences from Australia that start on or after the commencement of this item.
 
-Household Stimulus Package Act (No. 2) 2009 (No. 4, 2009)
+* * *
+
+_Household Stimulus Package Act (No. 2) 2009 (No. 4, 2009)_
 
 ## Schedule 4
 
@@ -8715,17 +6810,21 @@ may, by legislative instrument, determine a scheme under which household stimulu
 
 (5)       Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)
+* * *
 
-## Schedule 3
+_Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
+
+## Schedule 3
 
 ## 102  Application
 
 (1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
-Tax Laws Amendment (Transfer of Provisions) Act 2010 (No. 79, 2010)
+* * *
 
-## Schedule 4
+_Tax Laws Amendment (Transfer of Provisions) Act 2010 (No. 79, 2010)_
+
+## Schedule 4
 
 ## 51  Application of other amendments
 
@@ -8735,32 +6834,15 @@ The amendments made by Parts 1 and 2 of this Schedule (other than item 2) ap
 
                      (b)  later income years.
 
-Farm Household Support Amendment (Ancillary Benefits) Act 2010 (No. 92, 2010)
+* * *
 
-## Schedule 1
+_Farm Household Support Amendment (Ancillary Benefits) Act 2010 
+ (No. 92, 2010)_
+
+## Schedule 1
 
 ## 2  Application
 
 Section 52D of the _Farm Household Support Act 1992_ applies to the doing of things (including the making of payments) in connection with the Farm Family Support Scheme before, on or after the commencement of that section.
-
-Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)
-
-## Schedule 2
-
-## 88  Application provisions
-
-(1)       Subject to subitems (2) to (6), the amendments made by this Schedule apply in relation to periods of absence from Australia starting on or after 1 January 2013.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Farm Household Support Act 1992_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Farm Household Support Act 1992_ that have been misdescribed.
-
-There are no misdescribed amendments.
 
  
