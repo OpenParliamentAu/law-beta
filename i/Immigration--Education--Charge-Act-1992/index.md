@@ -1,4 +1,4 @@
-![](http://www.comlaw.gov.au/Details/C2011C00323/Html/f1dc001d-b496-4f36-9775-3f9a55380554_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00446/Html/d68bd11a-f0f4-454e-99dd-fbdc5db8a9e5_files/image001.gif)
 
 # Immigration (Education) Charge Act 1992
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The **_applicable charge limit_** in relation to an application made during a financial year starting on or after 1 July 1995 is, subject to subsection (3), the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00323/Html/f1dc001d-b496-4f36-9775-3f9a55380554_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00446/Html/d68bd11a-f0f4-454e-99dd-fbdc5db8a9e5_files/image002.gif)
 
 where:
 
@@ -383,7 +383,7 @@ _(b)_ The _Immigration (Education) Charge Act 1992_ was amended by Schedule 1 
 
 _Immigration (Education) Charge Amendment Act 1995 (No. 113, 1995)_
 
-##### 3  Amount of English Eduction Charge
+##### 3  Amount of English Education Charge
 
              (2)  The amendments made by subsection (1) apply to applications made on or after the day on which this section commences.
 
