@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00080/Html/AustPrudRegAuth1998_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00413/Html/AustPrudRegAuth1998_WD02_image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -298,7 +298,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  Lloyd’s, or a Lloyd’s underwriter, as defined in section 3 of the _Insurance Act 1973_;
 
-                     (e)  a life company that is registered under section 21 of the _Life Insurance Act 1995_ or a registered NOHC within the meaning of that Act;
+                     (e)  a life company that is registered under the _Life Insurance Act 1995_;
 
                       (f)  the trustee of a superannuation entity, within the meaning of the _Superannuation Industry (Supervision) Act 1993_;
 
@@ -1961,7 +1961,7 @@ Remainder: Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 188, 189): 27 Feb 2010</div>
+    <div>Schedule 1 (items 188, 189): \[ <i>see</i>Note 2]</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -2296,7 +2296,7 @@ _(k)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amend
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 44, 1999; No. 160, 2000; Nos. 55 and 119, 2001; No. 42, 2003; No. 147, 2006; Nos. 74 and 117, 2007; Nos. 45 and 105, 2008; No. 75, 2009</div>
+    <div>am. No. 44, 1999; No. 160, 2000; Nos. 55 and 119, 2001; No. 42, 2003; No. 147, 2006; Nos. 74 and 117, 2007; Nos. 45 and 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3192,6 +3192,24 @@ No. 42, 2003</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendments commence on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 188  Paragraph 3(2)(e)
+
+After “under”, insert “section 21 of”.
+
+## 189  At the end of paragraph 3(2)(e)
+
+Add “or a registered NOHC within the meaning of that Act”.
+
+As at 4 September 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3320,7 +3338,7 @@ Nothing in this Part or the Validation Acts is taken to make a person criminally
 
 * * *
 
-_Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)_
+_Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 200)_
 
 ##### <a id="4"></a>4  Actuarial services provided by APRA
 
