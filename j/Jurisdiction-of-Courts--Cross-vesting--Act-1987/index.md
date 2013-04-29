@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2006C00640/Html/JurisCourtCrosVest1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00577/Html/image001.gif)
 
 # Jurisdiction of Courts (Cross-vesting) Act 1987
 
 **Act No. 24 of 1987 as amended**
 
-This compilation was prepared on 27 October 2006
- taking into account amendments up to Act No. 113 of 2006
+This compilation was prepared on 13 September 2005
+taking into account amendments up to Act No. 112 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -28,35 +30,36 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Transfer of proceedings                                                                       4
 
-[6](#6).            Special federal matters: general rules                                                   9
+[6](#6).            Special federal matters: general rules                                                   6
 
-[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States             11
+[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States             6
 
-[7](#7).            Institution and hearing of appeals                                                     13
+[7](#7).            Institution and hearing of appeals                                                       6
 
-[8](#8).            Orders by Supreme Court of a Territory                                          15
+[8](#8).            Orders by Supreme Court of a Territory                                            6
 
-[9](#9).            Exercise of jurisdiction pursuant to cross-vesting laws                     15
+[9](#9).            Exercise of jurisdiction pursuant to cross-vesting laws                       6
 
-[10](#10).          Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act      16
+[10](#10).          Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act      6
 
-[11](#11).          Conduct of proceedings                                                                     16
+[11](#11).          Conduct of proceedings                                                                       6
 
-[12](#12).          Orders as to costs                                                                              17
+[12](#12).          Orders as to costs                                                                                6
 
-[13](#13).          Limitation on appeals                                                                        17
+[13](#13).          Limitation on appeals                                                                          6
 
-[14](#14).          Enforcement and effect of judgments                                                18
+[14](#14).          Enforcement and effect of judgments                                                  6
 
-[15](#15).          Construction of Act to be subject to Constitution                            18
+[15](#15).          Construction of Act to be subject to Constitution                              6
 
-[16](#16).          Suspension or cessation of operation of Act                                     18
+[16](#16).          Suspension or cessation of operation of Act                                       6
 
 **Schedule** 
 
 **Notes** 
 
  
+
 
 ## An Act relating to the cross-vesting of certain jurisdiction
 
@@ -110,11 +113,11 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
 being a matter in respect of which the Supreme Court of a State or Territory would not, apart from this Act, have jurisdiction.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
                     <a name="state-famili-court"></a>**_State Family Court_**, in relation to a State, means a court of that State to which section 41 of the _Family Law Act 1975_ applies by virtue of a Proclamation made under subsection 41(2) of that Act.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
 
              (2)  A reference in this Act, other than a reference in subsection 4(1), 5(3) or 7(4), to the Supreme Court of a State includes, if there is a State Family Court of that State, a reference to that State Family Court.
 
@@ -134,7 +137,7 @@ then:
 
                      (c)  in the case of the Supreme Court of a State (other than the Supreme Court of the Australian Capital Territory and the Supreme Court of the Northern Territory)—that court is invested with federal jurisdiction with respect to that matter; or
 
-                     (d)  in the case of the Supreme Court of a Territory (including the Australian Capital Territory and the Northern   Territory)—jurisdiction is conferred on that court with respect to that matter.
+                     (d)  in the case of the Supreme Court of a Territory (including the Australian Capital Territory and the Northern Territory)—jurisdiction is conferred on that court with respect to that matter.
 
              (2)  Where:
 
@@ -524,7 +527,7 @@ the reference in that provision to the Federal Court, the Family Court or the Su
 
                    This Act shall be read and construed subject to the Constitution, and so as not to exceed the legislative power of the Commonwealth, to the intent that if this Act would, but for this section, have been construed as being in excess of that power, it shall nevertheless be valid to the extent to which it is not in excess of that power.
 
-##### <a id="16"></a>16  Suspension or cessation of operation of Act
+##### <a id="16"></a>16  Suspension or cessation of operation of Act
 
              (1)  Subject to subsection (2), the Governor-General may, if a Proclamation has not been made under subsection (4), by Proclamation, declare that the operation of this Act is suspended from a day (being a day not earlier than 3 years after the commencement of this Act) specified in the Proclamation and, where such a Proclamation is made, this Act ceases to be in force from that day until a Proclamation is made under subsection (3) revoking the first-mentioned Proclamation.
 
@@ -543,6 +546,7 @@ the reference in that provision to the Federal Court, the Family Court or the Su
                      (b)  the Governor-General is satisfied that there is in force an Act of that State relating to cross-vesting of jurisdiction, being an Act in terms substantially corresponding to the terms of this Act;
 
 the Governor-General may, by Proclamation, declare that this Act again applies in relation to that State from a day specified in the Proclamation and, where such a Proclamation is made, this Act applies in relation to that State on and after that day.
+
 
 # Schedule  
 
@@ -574,13 +578,12 @@ _Shipping Registration Act 1981_
 
 _Trade Marks Act 1955_
 
+
 # Notes to the _Jurisdiction of Courts (Cross-vesting) Act 1987_
 
 ### Note 1
 
 The _Jurisdiction of Courts (Cross-vesting) Act 1987_ as shown in this compilation comprises Act No. 24, 1987 amended as indicated in the Tables below. 
-
-All relevant information pertaining to application, saving or transitional provisions prior to 23 October 2006 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -600,11 +603,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -614,333 +619,323 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts (Cross-vesting) Act 1987</div>
-  </td>
-  <td>
-    <div>24, 1987</div>
-  </td>
-  <td>
-    <div>26 May 1987</div>
-  </td>
-  <td>
-    <div>1 July 1988 ( <i>see Gazette</i>1988, No. S191)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>S. 95</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990</div>
-  </td>
-  <td>
-    <div>70, 1990</div>
-  </td>
-  <td>
-    <div>16 June 1990</div>
-  </td>
-  <td>
-    <div>1 July 1990 ( <i>see Gazette</i>1990, No.S172)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Patents Act 1990</div>
-  </td>
-  <td>
-    <div>83, 1990</div>
-  </td>
-  <td>
-    <div>30 Oct 1990</div>
-  </td>
-  <td>
-    <div>30 Apr 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act (No. 3) 1992</div>
-  </td>
-  <td>
-    <div>165, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>S. 4 (Schedule \[in part]): 11 Dec 1993 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 3(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>222, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>21 Jan 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Reform Act 1993</div>
-  </td>
-  <td>
-    <div>98, 1993</div>
-  </td>
-  <td>
-    <div>22 Dec 1993</div>
-  </td>
-  <td>
-    <div>Ss. 49–51: 30 Mar 1994 ( <i>see Gazette</i>1994, No. S104) <i>(b</i>)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Native Title Act 1993</div>
-  </td>
-  <td>
-    <div>110, 1993</div>
-  </td>
-  <td>
-    <div>24 Dec 1993</div>
-  </td>
-  <td>
-    <div>S. 220: 1 Jan 1994 ( <i>see Gazette</i>1993, No. S402) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Competition Policy Reform Act 1995</div>
-  </td>
-  <td>
-    <div>88, 1995</div>
-  </td>
-  <td>
-    <div>20 July 1995</div>
-  </td>
-  <td>
-    <div>S. 32: 17 Aug 1995 <i>(d</i>)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Reform (Consequential Amendments) Act 1995</div>
-  </td>
-  <td>
-    <div>140, 1995</div>
-  </td>
-  <td>
-    <div>12 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (Part 6): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 17 (items 12, 13): 17 Jan 1997 ( <i>see Gazette</i>1997, No. S18) <i>(f</i>)Schedule 19 (item 24): Royal Assent <i>(f</i>)</div>
-  </td>
-  <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>34, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 12: Royal Assent <i>(h</i>)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>57, 2000</div>
-  </td>
-  <td>
-    <div>30 May 2000</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 57–69): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Crime Authority Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>135, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
-Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Designs (Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>148, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: <i>(j)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Building and Construction Industry Improvement (Consequential and Transitional) Act 2005</div>
-  </td>
-  <td>
-    <div>112, 2005</div>
-  </td>
-  <td>
-    <div>12 Sept 2005</div>
-  </td>
-  <td>
-    <div>Ss. 4, 5(1), (3), (4) and Schedule 1 (items 8, 9, 11): 9 Mar 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Retail Legislation Repeal Act 2006</div>
-  </td>
-  <td>
-    <div>113, 2006</div>
-  </td>
-  <td>
-    <div>23 Oct 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts (Cross-vesting) Act 1987</div>
+    </td>
+    <td>
+      <div>24, 1987</div>
+    </td>
+    <td>
+      <div>26 May 1987</div>
+    </td>
+    <td>
+      <div>1 July 1988 ( <i>see Gazette</i>1988, No. S191)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>S. 95</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990</div>
+    </td>
+    <td>
+      <div>70, 1990</div>
+    </td>
+    <td>
+      <div>16 June 1990</div>
+    </td>
+    <td>
+      <div>1 July 1990 ( <i>see Gazette</i>1990, No.S172)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Patents Act 1990</div>
+    </td>
+    <td>
+      <div>83, 1990</div>
+    </td>
+    <td>
+      <div>30 Oct 1990</div>
+    </td>
+    <td>
+      <div>30 Apr 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act (No. 3) 1992</div>
+    </td>
+    <td>
+      <div>165, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>S. 4 (Schedule \[in part]): 11 Dec 1993 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 3(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Trade Practices Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>222, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>21 Jan 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Reform Act 1993</div>
+    </td>
+    <td>
+      <div>98, 1993</div>
+    </td>
+    <td>
+      <div>22 Dec 1993</div>
+    </td>
+    <td>
+      <div>Ss. 49–51: 30 Mar 1994 ( <i>see Gazette</i>1994, No. S104) <i>(b</i>)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Native Title Act 1993</div>
+    </td>
+    <td>
+      <div>110, 1993</div>
+    </td>
+    <td>
+      <div>24 Dec 1993</div>
+    </td>
+    <td>
+      <div>S. 220: 1 Jan 1994 ( <i>see Gazette</i>1993, No. S402) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Competition Policy Reform Act 1995</div>
+    </td>
+    <td>
+      <div>88, 1995</div>
+    </td>
+    <td>
+      <div>20 July 1995</div>
+    </td>
+    <td>
+      <div>S. 32: 17 Aug 1995 <i>(d</i>)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Reform (Consequential Amendments) Act 1995</div>
+    </td>
+    <td>
+      <div>140, 1995</div>
+    </td>
+    <td>
+      <div>12 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 1 (Part 6): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 17 (items 12, 13): 17 Jan 1997 ( <i>see Gazette</i>1997, No. S18) <i>(f</i>)Schedule 19 (item 24): Royal Assent <i>(f</i>)</div>
+    </td>
+    <td>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>34, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td>
+      <div>Schedule 12: Royal Assent <i>(h</i>)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>57, 2000</div>
+    </td>
+    <td>
+      <div>30 May 2000</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 57–69): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Crime Authority Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>135, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Designs (Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>148, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: <i>(j)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Building and Construction Industry Improvement (Consequential and Transitional) Act 2005</div>
+    </td>
+    <td>
+      <div>112, 2005</div>
+    </td>
+    <td>
+      <div>12 Sept 2005</div>
+    </td>
+    <td>
+      <div>Ss. 4, 5(1), (3), (4) and Schedule 1 (items 8, 9, 11): 9 Mar 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by section 4 (Schedule \[in part]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(5) of which provides as follows:
 
@@ -1022,17 +1017,20 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>2\. Schedules 1 and 2</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of section 4 of the <i>Designs Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>17 June 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>2\. Schedules 1 and 2</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of section 4 of the <i>Designs Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>17 June 2004</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1057,129 +1055,106 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1992; No. 98, 1993; Nos. 88 and 140, 1995; No. 60, 1996; No. 34, 1997; No. 57, 2000; No. 135, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 165, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000; No. 135, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 222, 1922</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>am. No. 83, 1990; No. 148, 2003</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>am. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1992; No. 98, 1993; Nos. 88 and 140, 1995; No. 60, 1996; No. 34, 1997; No. 57, 2000; No. 135, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6</div>
+    </td>
+    <td>
+      <div>am. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 165, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 57, 2000; No. 135, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 6(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 57, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 222, 1922</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>am. No. 83, 1990; No. 148, 2003</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
 
-_Petroleum Retail Legislation Repeal Act 2006 (No. 113, 2006)_
-
-The following amendment commences on 1 March 2007:
-
-## Schedule 2
-
-## 1  Schedule
-
-Omit “_Petroleum Retail Marketing Franchise Act 1980_”.
-
-As at 27 October 2006 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Petroleum Retail Legislation Repeal Act 2006 (No. 113, 2006)_
-
-The following provision commences on 1 March 2007:
-
-## Schedule 2
-
-## 2  Transitional—pre-commencement matters arising under the _Petroleum Retail Market Franchise Act 1980_
-
-Despite the amendment of the _Jurisdiction of Courts (Cross-vesting) Act 1987_ made by this Schedule, that Act continues to apply, in relation to a matter arising under the _Petroleum Retail Marketing Franchise Act 1980_ before the commencement of this item, as if that amendment had not been made.
+ 
 
  
