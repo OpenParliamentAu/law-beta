@@ -1,2768 +1,4674 @@
-![](http://www.comlaw.gov.au/Details/C2006C00595/Html/MotorVehiclesStandards1989_image001.gif)
+**
 
-# Motor Vehicle Standards Act 1989
+###  MOTOR VEHICLE STANDARDS ACT 1989 
+**
 
-**Act No. 65 of 1989 as amended**
 
-This compilation was prepared on 10 October 2006
- taking into account amendments up to Act No. 109 of 2006
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects of Act
+**
 
-[4](#4).            Operation of Act
+###  Long Title 
+**
+**
 
-[4A](#4A).         Application of the _Criminal Code_
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;1&#151;Preliminary </part>
+**
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Motor Vehicle Standards Act 1989_.
 
-[5](#5).            Interpretation
+ 
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Sections&#160;1 and 2 commence on the day on which this Act receives the
 
-[5A](#5A).         Meaning of vehicle
+Royal Assent.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.</dd> <dt>(3)</dt><dd>If a provision referred to in subsection&#160;(2) does not commence under that subsection before 1&#160;September 1989, it commences on that day. </dd> 
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 3  Objects of Act 
+The main objects of this Act are:
 
-[5B](#5B).         Determinations with respect to road vehicles
+ 
+<dl compact=""><dl compact="">
 
-[6](#6).            Act to bind Crown
+<dt>(a)</dt><dd>to achieve uniform vehicle standards to apply to new vehicles when they
 
-[6A](#6A).         Application of the _Criminal Code_
+begin to be used in transport in Australia; and</dd>
 
-**Part 2—National standards**
+<dt>(b)</dt><dd>to regulate the first supply to the market of used imported vehicles.
 
-[7](#7).            Minister may determine vehicle standards
+</dd>
 
-[7A](#7A).         Incorporation of documents setting out standards
+</dl></dl>
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 4  Operation of Act 
+<dt>(1)</dt><dd>Without prejudice to its effect apart from this section, this Act also
 
-[8](#8).            Consultations before determinations
+has, by force of this section, the effect it would have if the references in
 
-[9](#9).            Procedures for testing vehicles
+sections&#160;12, 13G, 14 and 16 to a person were, by express provision,
 
-**Part 3—Certification and approval** 
+confined to a corporation.</dd> <dt>(2)</dt><dd>Parts&#160;2 and 3 are enacted solely for the purposes of Part&#160;4\. </dd> 
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 4A  Application of the _Criminal Code_ 
+Chapter&#160;2 (except Part&#160;2.5) of the _Criminal Code_ applies to
 
-    **Division 1—Identification plates**
+all offences created by this Act.
 
-[10](#10).          Type identification plates
+ 
+<dl compact="">
 
-[10A](#10A).       Approval for the placement of identification plates
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-[10B](#10B).       Notification that approval has been given
+general principles of criminal responsibility.
 
-[11](#11).          Withdrawal of identification plate approval
+ </dl>
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 5  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[12](#12).          Offences in relation to identification plates
+</dd> 
+<dl compact=""><dl compact="">
 
-[13](#13).          Vehicles taken to have identification plates
+_Associate Administrator_ means an Associate Administrator of
 
-    **Division 2—Standard vehicles not to be made nonstandard**
+Vehicle Standards referred to in section&#160;22\. _Administrator_ means the Administrator of Vehicle Standards referred to in section&#160;22\. _Australia_ does not include:  </dl></dl>
 
-[13A](#13A).       Vehicles not to be made nonstandard
+<center>Back to Top</center>
 
-    **Division 3—Used import plates**
+<dl compact=""><dl compact=""><dl compact="">
 
-[13B](#13B).       Placement of used import plates
+<dt>(a)</dt><dd>the Territory of Christmas Island; or</dd>
 
-[13C](#13C).       Application for approval to place a used import plate
+<dt>(b)</dt><dd>the Territory of Cocos (Keeling) Islands.
 
-[13D](#13D).       Grant of approval
+</dd>
 
-[13E](#13E).        Number limits on placement of used import plates
+</dl></dl></dl>
 
-[13F](#13F).        Variation, cancellation or suspension of approval
+<def><dl compact=""><dl compact="">
 
-[13G](#13G).       Offence in relation to the placement of used import plates
+_component_ includes an assembly. _corporation_ means:  </dl></dl>
 
-**Part 4—Supply and importation of vehicles** 
+<dl compact=""><dl compact=""><dl compact="">
 
-    **Division 1—Supply of new vehicles etc.**
+<dt>(a)</dt><dd>a foreign corporation within the meaning of paragraph 51(xx) of the
 
-[14](#14).          Nonstandard vehicles not to be supplied to market
+Constitution; or</dd>
 
-[14A](#14A).       Supply of nonstandard vehicles
+<dt>(b)</dt><dd>a trading or financial corporation formed within the limits of the
 
-[14B](#14B).       No requirement to comply with certain standards
+Commonwealth, within the meaning of that paragraph; or</dd>
 
-[15](#15).          Nonstandard vehicles not to be used by manufacturers
+<dt>(c)</dt><dd>a corporation that is controlled by a corporation referred to in
 
-    **Division 2—Supply of used imported vehicles**
+paragraph&#160;(a) or (b);
 
-[16](#16).          Supply of used imported vehicles
+</dd>
 
-[16A](#16A).       Variation, cancellation or suspension of approval
-
-    **Division 3—Import of new and used vehicles**
-
-[17](#17).          Importation of road vehicles subject to conditions
-
-[17A](#17A).       Authority to take delivery of imported vehicles
-
-[18](#18).          Prohibition of importation of nonstandard vehicles etc 
-
-[19](#19).          Importation of vehicles requiring modification
-
-[20](#20).          Approval to import certain nonstandard vehicles
-
-    **Division 4—Register of Specialist and Enthusiast Vehicles**
-
-[21](#21).          Register of Specialist and Enthusiast Vehicles
-
-**Part 4A—Registered automotive workshops**
-
-[21A](#21A).       Application for approval
-
-[21B](#21B).       Grant of approval
-
-[21C](#21C).       Period approval in force
-
-[21D](#21D).       Conditions of approval
-
-[21E](#21E).        Variation, cancellation or suspension of approval
-
-**Part 5—Administration**
-
-[22](#22).          Administrator
-
-[23](#23).          Delegation by Minister
-
-[24](#24).          Fees
-
-[25](#25).          Appointment of inspectors
-
-[26](#26).          Identity cards
-
-[27](#27).          Powers of inspectors
-
-[28](#28).          Monitoring warrants
-
-[29](#29).          Power to require information
-
-[30](#30).          Offence-related searches and seizures
-
-[32](#32).          Failure to answer questions etc 
-
-[33](#33).          Agents
-
-**Part 6—Court proceedings**
-
-[34](#34).          Evidence
-
-[35](#35).          Injunctions
-
-[36](#36).          Conduct by directors, servants and agents
-
-[37](#37).          Legal proceedings not to lie
-
-**Part 7—Miscellaneous**
-
-[38](#38).          Law to apply in certain circumstances
-
-[39](#39).          Application for review
-
-[40](#40).          Statement to accompany notice of decisions
-
-[41](#41).          Application of Trade Practices Act
-
-[42](#42).          Regulations
-
-**Notes** 
-
-## An Act to provide for national motor vehicle standards, and for related purposes
-
-## Part 1—Preliminary
-
-##### <a id="1"></a>1  Short title [_see_ Note 1]
-
-                   This Act may be cited as the _Motor Vehicle Standards Act 1989_.
-
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
-
-             (1)  Sections 1 and 2 commence on the day on which this Act receives the Royal Assent.
-
-             (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
-
-             (3)  If a provision referred to in subsection (2) does not commence under that subsection before 1 September 1989, it commences on that day.
-
-##### <a id="3"></a>3  Objects of Act
-
-                   The main objects of this Act are:
-
-                     (a)  to achieve uniform vehicle standards to apply to new vehicles when they begin to be used in transport in Australia; and
-
-                     (b)  to regulate the first supply to the market of used imported vehicles.
-
-##### <a id="4"></a>4  Operation of Act
-
-             (1)  Without prejudice to its effect apart from this section, this Act also has, by force of this section, the effect it would have if the references in sections 12, 13G, 14 and 16 to a person were, by express provision, confined to a corporation.
-
-             (2)  Parts 2 and 3 are enacted solely for the purposes of Part 4.
-
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
-
-                   Chapter 2 (except Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-##### <a id="5"></a>5  Interpretation
-
-             (1)  In this Act, unless the contrary intention appears:
-
-                    <a name="associ-administr"></a>**_Associate Administrator_** means an Associate Administrator of Vehicle Standards referred to in section 22.
-
-                    <a name="administr"></a>**_Administrator_** means the Administrator of Vehicle Standards referred to in section 22.
-
-                    <a name="australia"></a>**_Australia_** does not include:
-
-                     (a)  the Territory of Christmas Island; or
-
-                     (b)  the Territory of Cocos (Keeling) Islands.
-
-                    <a name="compon"></a>**_component_** includes an assembly.
-
-                    <a name="corpor"></a>**_corporation_** means:
-
-                     (a)  a foreign corporation within the meaning of paragraph 51(xx) of the Constitution; or
-
-                     (b)  a trading or financial corporation formed within the limits of the Commonwealth, within the meaning of that paragraph; or
-
-                     (c)  a corporation that is controlled by a corporation referred to in paragraph (a) or (b);
+</dl></dl></dl>
 
 and includes a partnership at least one of the partners in which is a corporation.
 
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  do an act; or
+_engage in conduct_ means:
 
-                     (b)  omit to perform an act.
+ </dl></dl>
 
-                    <a name="export-vehicl"></a>**_export vehicle_** means a locally made vehicle that is to be exported from Australia without having been used in transport in Australia.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="identif-plate"></a>**_identification plate_** means a plate declaring the status of a road vehicle in relation to the national standards and approved to be placed on vehicles of that type or description under procedures and arrangements provided for in subsection 10(1).
+<dt>(a)</dt><dd>do an act; or</dd>
 
-                    <a name="import"></a>**_import_**, in relation to a road vehicle or vehicle component, means do an act which constitutes importation of the vehicle or component for the purposes of the _Customs Act 1901_.
+<dt>(b)</dt><dd>omit to perform an act.
 
-                    <a name="imported-vehicl"></a>**_imported vehicle_** means a road vehicle imported on or after 1 July 1989.
+</dd>
 
-                    <a name="local-made-vehicl"></a>**_locally made vehicle_** means a road vehicle in whose manufacture at least the last step was carried out in Australia, but does not include a road vehicle (if any) in whose manufacture none of the steps was carried out in Australia by a corporation.
+</dl></dl></dl>
 
-                    <a name="manufactur"></a>**_manufacture_**, in relation to a road vehicle, includes modify the vehicle and assemble the vehicle.
+<def><dl compact=""><dl compact="">
 
-                    <a name="motor-vehicl"></a>**_motor vehicle_** means a vehicle that uses, or is designed to use, volatile spirit, gas, oil, electricity or any other power (not being human or animal power) as the principal means of propulsion, but does not include a vehicle used on a railway or tramway.
+_export vehicle_ means a locally made vehicle that is to be
 
-                    <a name="nation-standard"></a>**_national standard_** means a vehicle standard determined under section 7.
+exported from Australia without having been used in transport in Australia. _identification plate_ means a plate declaring the status of a road vehicle in relation to the national standards and approved to be placed on vehicles of that type or description under procedures and arrangements provided for in subsection 10(1). _import_, in relation to a road vehicle or vehicle component, means do an act which constitutes importation of the vehicle or component for the purposes of the _Customs Act 1901_. _imported vehicle_ means a road vehicle imported on or after 1&#160;July 1989\. _locally made vehicle_ means a road vehicle in whose manufacture at least the last step was carried out in Australia, but does not include a road vehicle (if any) in whose manufacture none of the steps was carried out in Australia by a corporation. _manufacture_, in relation to a road vehicle, includes modify the vehicle and assemble the vehicle. _motor vehicle_ means a vehicle that uses, or is designed to use, volatile spirit, gas, oil, electricity or any other power (not being human or animal power) as the principal means of propulsion, but does not include a vehicle used on a railway or tramway. _national standard_ means a vehicle standard determined under section&#160;7\. _new imported vehicle_ means an imported vehicle that has not been used in transport outside Australia. _new vehicle_ means a locally made vehicle, or a new imported vehicle, that has been neither:  </dl></dl>
 
-                    <a name="new-imported-vehicl"></a>**_new imported vehicle_** means an imported vehicle that has not been used in transport outside Australia.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="new-vehicl"></a>**_new vehicle_** means a locally made vehicle, or a new imported vehicle, that has been neither:
+<dt>(a)</dt><dd>supplied to the market; nor</dd>
 
-                     (a)  supplied to the market; nor
+<dt>(b)</dt><dd>used in transport in Australia by its manufacturer or importer;
 
-                     (b)  used in transport in Australia by its manufacturer or importer;
+</dd>
+
+</dl></dl></dl>
 
 and includes a locally made vehicle, or a new imported vehicle, that has been supplied to the market but not yet used in transport in Australia.
 
-                    <a name="nonstandard"></a>**_nonstandard_**, in relation to a road vehicle or a vehicle component, means not complying with the national standards and not taken to comply with the national standards by virtue of an approval given under subsection 10A(2).
+<def><dl compact=""><dl compact="">
 
-                    <a name="placem"></a>**_placement_**, in relation to an identification plate, includes the engraving, or other like process, of information that would otherwise be contained on the plate.
+_nonstandard_, in relation to a road vehicle or a vehicle
 
-                    <a name="plate"></a>**_plate_** includes mark.
+component, means not complying with the national standards and not taken to
 
-                    <a name="premis"></a>**_premises_** includes:
+comply with the national standards by virtue of an approval given under
 
-                     (a)  a structure, building, aircraft, vehicle or vessel; and
+subsection 10A(2). _placement_, in relation to an identification plate, includes the engraving, or other like process, of information that would otherwise be contained on the plate. _plate_ includes mark. _premises_ includes:  </dl></dl>
 
-                     (b)  land or a place (whether enclosed or built upon or not); and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  a part of premises (including premises of a kind referred to in paragraph (a) or (b)).
+<dt>(a)</dt><dd>a structure, building, aircraft, vehicle or vessel; and</dd>
 
-                    <a name="regist-automot-workshop"></a>**_registered automotive workshop_** means a corporation in respect of which an approval is in force under section 21B.
+<dt>(b)</dt><dd>land or a place (whether enclosed or built upon or not); and</dd>
 
-                    <a name="road-motor-vehicl"></a>**_road motor vehicle_** means:
+<dt>(c)</dt><dd>a part of premises (including premises of a kind referred to in
 
-                     (a)  a motor vehicle designed solely or principally for the transport on public roads of people, animals or goods; or
+paragraph&#160;(a) or (b)).
 
-                     (b)  a motor vehicle that is permitted to be used on public roads.
+</dd>
 
-                    <a name="road-trailer"></a>**_road trailer_** means:
+</dl></dl></dl>
 
-                     (a)  a vehicle without motive power designed for attachment to a road motor vehicle; or
+<center>Back to Top</center>
 
-                     (b)  a piece of machinery or equipment that is equipped with wheels and designed to be towed behind a road motor vehicle.
+<def><dl compact=""><dl compact="">
 
-                    <a name="road-vehicl"></a>**_road vehicle_** means:
+_registered automotive workshop_ means a corporation in respect of
 
-                     (a)  a road motor vehicle; or
+which an approval is in force under section&#160;21B. _road motor vehicle_ means:  </dl></dl>
 
-                     (b)  a road trailer; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  a partly completed road motor vehicle;
+<dt>(a)</dt><dd>a motor vehicle designed solely or principally for the transport on public
 
-but does not include vehicles which the Minister has determined, under section 5B, are not road vehicles.
+roads of people, animals or goods; or</dd>
 
-                    <a name="standard-vehicl"></a>**_standard vehicle_** means a new vehicle that complies with the national standards, or which is taken to comply with the national standards by virtue of an approval given under subsection 10A(2), but does not include an export vehicle.
+<dt>(b)</dt><dd>a motor vehicle that is permitted to be used on public roads.
 
-                    <a name="suppli-market"></a>**_supply to the market_**, in relation to a road vehicle, means deliver the vehicle to a person for use in transport in Australia.
+</dd>
 
-                    <a name="us"></a>**_use_** means:
+</dl></dl></dl>
 
-                     (a)  in relation to a road motor vehicle—drive; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  in relation to a road trailer—have attached to, or towed by, a road motor vehicle that is being driven.
+_road trailer_ means:
 
-                    <a name="used-import-plate"></a>**_used import plate_**, in relation to a used imported vehicle, means a plate approved to be placed on the vehicle by an approval in force under section 13D.
+ </dl></dl>
 
-                    <a name="used-imported-vehicl"></a>**_used imported vehicle_** means an imported vehicle that has been used in transport outside Australia.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="us-transport"></a>**_use in transport_**, in relation to a road vehicle, means use the vehicle on a public road otherwise than:
+<dt>(a)</dt><dd>a vehicle without motive power designed for attachment to a road motor
 
-                     (a)  to move it in order to:
+vehicle; or</dd>
 
-                              (i)  have work done on it; or
+<dt>(b)</dt><dd>a piece of machinery or equipment that is equipped with wheels and
 
-                             (ii)  have it registered under a law; or
+designed to be towed behind a road motor vehicle.
 
-                            (iii)  protect it; or
+</dd>
 
-                     (b)  for a prescribed purpose.
+</dl></dl></dl>
 
-                    <a name="vehicl-compon"></a>**_vehicle component_** means a component to be used in the manufacture of a road vehicle, and includes a component of such a component.
+<def><dl compact=""><dl compact="">
 
-                    <a name="vehicl-standard"></a>**_vehicle standard_** means a standard for road vehicles or vehicle components that is designed to:
+_road vehicle_ means:
 
-                     (a)  make road vehicles safe to use; or
+ </dl></dl>
 
-                     (b)  control the emission of gas, particles or noise from road vehicles; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  secure road vehicles against theft; or
+<dt>(a)</dt><dd>a road motor vehicle; or</dd>
 
-                     (d)  promote the saving of energy.
+<dt>(b)</dt><dd>a road trailer; or</dd>
 
-##### <a id="5A"></a>5A  Meaning of vehicle
+<dt>(c)</dt><dd>a partly completed road motor vehicle;
 
-                   A reference in this Act to a **_vehicle_** is to be taken as including a type or class of vehicles, unless otherwise specified.
+</dd>
 
-##### <a id="5B"></a>5B  Determinations with respect to road vehicles
+</dl></dl></dl>
 
-             (1)  The Minister may, by legislative instrument, determine that vehicles of a particular class or description are not road vehicles for the purposes of this Act or of a specified provision of this Act.
+but does not include vehicles which the Minister has determined, under section&#160;5B, are not road vehicles.
 
-             (2)  The Minister may declare, in writing, that a vehicle is not a road vehicle for the purposes of this Act or of a specified provision of this Act.
+<def><dl compact=""><dl compact="">
 
-             (4)  Declarations under subsection (2):
+_standard vehicle_ means a new vehicle that complies with the
 
-                     (a)  are not legislative instruments; and
+national standards, or which is taken to comply with the national standards by
 
-                     (b)  are notifiable by publication in the _Gazette_.
+virtue of an approval given under subsection 10A(2), but does not include an
 
-##### <a id="6"></a>6  Act to bind Crown
+export vehicle. _supply to the market_, in relation to a road vehicle, means deliver the vehicle to a person for use in transport in Australia. _use_ means:  </dl></dl>
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="6A"></a>6A  Application of the _Criminal Code_
+<dt>(a)</dt><dd>in relation to a road motor vehicle&#151;drive; or</dd>
 
-                   Chapter 2 of the _Criminal Code_ applies to offences against the following provisions of this Act:
+<dt>(b)</dt><dd>in relation to a road trailer&#151;have attached to, or towed by, a road motor
 
-                     (a)  subsection 10A(6);
+vehicle that is being driven.
 
-                     (b)  subsection 13D(6);
+</dd>
 
-                     (c)  section 13G;
+</dl></dl></dl>
 
-                     (d)  subsections 16(1) and (7);
+<def><dl compact=""><dl compact="">
 
-                     (e)  subsection 21D(2).
+_used import plate_, in relation to a used imported vehicle, means
 
-## Part 2—National standards
+a plate approved to be placed on the vehicle by an approval in force under
 
-##### <a id="7"></a>7  Minister may determine vehicle standards
+section&#160;13D. _used imported vehicle_ means an imported vehicle that has been used in transport outside Australia. _use in transport_, in relation to a road vehicle, means use the vehicle on a public road otherwise than:  </dl></dl>
 
-                   The Minister may, by legislative instrument, determine vehicle standards for road vehicles or vehicle components.
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          Part 6 of the _Legislative Instruments Act 2003_, which deals with sunsetting of legislative instruments, does not apply to a determination under this section (see item 24 of the table in subsection 54(2) of that Act).
+<dt>(a)</dt><dd>to move it in order to:
 
-##### <a id="7A"></a>7A  Incorporation of documents setting out standards
+</dd>
 
-                   In determining vehicle standards, the Minister may incorporate documents that set out standards:
+</dl></dl></dl>
 
-                     (a)  produced by the Economic Commission for Europe, the International Electrotechnical Commission, the International Organization for Standardization or Standards Australia International Limited or by any other organisation that is determined, by legislative instrument, by the Minister; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in force from time to time.
+<dt>(i)</dt><dd>have work done on it; or</dd>
 
-##### <a id="8"></a>8  Consultations before determinations
+<dt>(ii)</dt><dd>have it registered under a law; or</dd>
 
-                   Before determining national standards, the Minister may consult with:
+<dt>(iii)</dt><dd>protect it; or
 
-                     (a)  relevant State or Territory authorities; or
+</dd>
 
-                     (b)  persons or organisations involved in the road vehicle industry; or
+</dl></dl></dl></dl>
 
-                     (c)  organisations representing road vehicle users.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="9"></a>9  Procedures for testing vehicles
+<dt>(b)</dt><dd>for a prescribed purpose.
 
-                   The Minister may, by legislative instrument, determine procedures and arrangements for determining whether road vehicles or vehicle components comply with this Act, being procedures relating to:
+</dd>
 
-                     (a)  the testing and inspection of road vehicles or vehicle components; or
+</dl></dl></dl>
 
-                     (b)  the inspection of steps in the manufacture of road vehicles or vehicle components; or
+<def><dl compact=""><dl compact="">
 
-                    (ba)  the testing and inspection of materials, machinery, appliances, articles or facilities used in the manufacture of road vehicles or vehicle components; or
+_vehicle component_ means a component to be used in the manufacture
 
-                     (c)  the operation of facilities used in the carrying out of any testing and inspection referred to in paragraph (a), (b) or (ba) and the assessment of those facilities by inspectors appointed under section 25; or
+of a road vehicle, and includes a component of such a component. _vehicle standard_ means a standard for road vehicles or vehicle components that is designed to:  </dl></dl>
 
-                     (d)  the keeping of records relating to the manufacture, testing or inspection of road vehicles or vehicle components and the examination of those records by inspectors appointed under section 25.
+<center>Back to Top</center>
 
-Note:          Part 6 of the _Legislative Instruments Act 2003_, which deals with sunsetting of legislative instruments, does not apply to a determination under this section (see item 24 of the table in subsection 54(2) of that Act).
+<dl compact=""><dl compact=""><dl compact="">
 
-## Part 3—Certification and approval
+<dt>(a)</dt><dd>make road vehicles safe to use; or</dd>
 
-### Division 1—Identification plates
+<dt>(b)</dt><dd>control the emission of gas, particles or noise from road vehicles; or</dd>
 
-##### <a id="10"></a>10  Type identification plates
+<dt>(c)</dt><dd>secure road vehicles against theft; or</dd>
 
-             (1)  The Minister may determine, from time to time, procedures and arrangements for the placement of plates on road vehicles or vehicle components if approval has been given under subsection 10A(1), (2) or (3) for plates to be placed on the vehicles or vehicle components.
+<dt>(d)</dt><dd>promote the saving of energy.
 
-             (2)  Without limiting the generality of subsection (1), the Minister may determine procedures and arrangements in relation to identification plates, including procedures and arrangements with respect to:
+</dd>
 
-                     (a)  the categories of identification plates to be utilised; and
+</dl></dl></dl>
 
-                     (b)  the content, form and function of identification plates; and
+**
 
-                     (c)  the nature, content, sources and format of evidence to be presented to establish whether, and to what extent, a road vehicle or vehicle component complies with the national standards; and
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 5A  Meaning of vehicle 
+**
 
-                     (d)  the analysis, verification and supplementation of such evidence; and
+ <dl compact="">
 
-                     (e)  the manner in which partly completed road vehicles are to be provided for; and
+		A reference in this Act to a _vehicle_ is to be taken as
 
-                      (f)   the manufacture and supply of identification plates; and
+including a type or class of vehicles, unless otherwise specified.
 
-                     (g)  the placement of identification plates; and
+ </dl>
 
-                     (h)  the retention of records and information relevant to applications for, and the giving of, approvals under section 10A.
+**
 
-             (3)  A determination under this section is a legislative instrument.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 5B  Determinations with respect to road vehicles 
+**
 
-##### <a id="10A"></a>10A  Approval for the placement of identification plates
+ <dl compact="">
 
-             (1)  If new vehicles of a particular type, or vehicle components of a particular type, comply with the national standards, the Minister must give written approval for identification plates to be placed on vehicles or components of that type.
+<dt>(1)</dt><dd>The Minister may determine, in writing, that vehicles of a particular
 
-             (2)  If:
+class or description are not road vehicles for the purposes of this Act or of a
 
-                     (a)  new vehicles of a particular type, or vehicle components of a particular type, do not comply with the national standards; but
+specified provision of this Act.</dd> <dt>(2)</dt><dd>The Minister may declare, in writing, that a vehicle is not a road vehicle for the purposes of this Act or of a specified provision of this Act.</dd> <dt>(3)</dt><dd>Determinations under subsection&#160;(1) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.</dd> <dt>(4)</dt><dd>Declarations under subsection&#160;(2) are notifiable by publication in the _Gazette_. </dd> </dl>
 
-                     (b)  the Minister is satisfied that such noncompliance is only in minor and inconsequential respects;
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 6  Act to bind Crown 
+**
+
+ <dl compact="">
+
+		This Act binds the Crown in right of the Commonwealth, of each of the States,
+
+of the Australian Capital Territory and of the Northern Territory, but nothing
+
+in this Act renders the Crown liable to be prosecuted for an offence.
+
+ </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 6A  Application of the _Criminal Code_ 
+**
+
+ <dl compact="">
+
+		Chapter&#160;2 of the _Criminal Code_ applies to offences against the
+
+following provisions of this Act:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subsection 10A(6);</dd>
+
+<dt>(b)</dt><dd>subsection 13D(6);</dd>
+
+<dt>(c)</dt><dd>section&#160;13G;</dd>
+
+<dt>(d)</dt><dd>subsections 16(1) and (7);</dd>
+
+<dt>(e)</dt><dd>subsection 21D(2).
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;2&#151;National standards </part>
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 7  Minister may determine vehicle standards 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may determine, in writing, vehicle standards for road
+
+vehicles or vehicle components.</dd> <dt>(2)</dt><dd>Determinations under subsection&#160;(1) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 7A  Incorporation of documents setting out standards 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>In determining vehicle standards, the Minister may incorporate documents
+
+that set out standards:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>produced by the Economic Commission for Europe, the International
+
+Electrotechnical Commission, the International Organization for Standardization
+
+or the Standards Association of Australia or by any other organisation that is
+
+determined by the Minister; and</dd>
+
+<dt>(b)</dt><dd>in force from time to time.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Determinations under paragraph&#160;(1)(a) are disallowable instruments
+
+for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 8  Consultations before determinations 
+**
+
+ <dl compact="">
+
+		Before determining national standards, the Minister may consult with:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>relevant State or Territory authorities; or</dd>
+
+<dt>(b)</dt><dd>persons or organisations involved in the road vehicle industry; or</dd>
+
+<dt>(c)</dt><dd>organisations representing road vehicle users.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 9  Procedures for testing vehicles 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may determine, in writing, procedures and arrangements for
+
+determining whether road vehicles or vehicle components comply with this Act,
+
+being procedures relating to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the testing and inspection of road vehicles or vehicle components; or</dd>
+
+<dt>(b)</dt><dd>the inspection of steps in the manufacture of road vehicles or vehicle
+
+components; or</dd>
+
+<dt>(ba)</dt><dd>the testing and inspection of materials, machinery, appliances, articles
+
+or facilities used in the manufacture of road vehicles or vehicle components;
+
+or</dd>
+
+<dt>(c)</dt><dd>the operation of facilities used in the carrying out of any testing and
+
+inspection referred to in paragraph&#160;(a), (b) or (ba) and the assessment of
+
+those facilities by inspectors appointed under section&#160;25; or</dd>
+
+<dt>(d)</dt><dd>the keeping of records relating to the manufacture, testing or inspection
+
+of road vehicles or vehicle components and the examination of those records by
+
+inspectors appointed under section&#160;25.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Determinations under subsection&#160;(1) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;3&#151;Certification and approval </part>
+**</center>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;1&#151;Identification plates </division> 
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 10  Type identification plates 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may determine, in writing, from time to time, procedures and
+
+arrangements for the placement of plates on road vehicles or vehicle components
+
+if approval has been given under subsection 10A(1), (2) or (3) for plates to be
+
+placed on the vehicles or vehicle components.</dd> <dt>(2)</dt><dd>Without limiting the generality of subsection&#160;(1), the Minister may determine, in writing, procedures and arrangements in relation to identification plates, including procedures and arrangements with respect to: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the categories of identification plates to be utilised; and</dd>
+
+<dt>(b)</dt><dd>the content, form and function of identification plates; and</dd>
+
+<dt>(c)</dt><dd>the nature, content, sources and format of evidence to be presented to
+
+establish whether, and to what extent, a road vehicle or vehicle component
+
+complies with the national standards; and</dd>
+
+<dt>(d)</dt><dd>the analysis, verification and supplementation of such evidence; and</dd>
+
+<dt>(e)</dt><dd>the manner in which partly completed road vehicles are to be provided for;
+
+and</dd>
+
+<dt>(f)</dt><dd>the manufacture and supply of identification plates; and</dd>
+
+<dt>(g)</dt><dd>the placement of identification plates; and</dd>
+
+<dt>(h)</dt><dd>the retention of records and information relevant to applications for, and
+
+the giving of, approvals under section&#160;10A.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Determinations under subsection&#160;(1) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 10A  Approval for the placement of identification plates 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If new vehicles of a particular type, or vehicle components of a
+
+particular type, comply with the national standards, the Minister must give
+
+written approval for identification plates to be placed on vehicles or
+
+components of that type.</dd> <dt>(2)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>new vehicles of a particular type, or vehicle components of a particular
+
+type, do not comply with the national standards; but</dd>
+
+<dt>(b)</dt><dd>the Minister is satisfied that such noncompliance is only in minor and
+
+inconsequential respects;
+
+</dd>
+
+</dl></dl></dl>
 
 the Minister may give written approval for identification plates to be placed on vehicles or components of that type.
 
-             (3)  If:
+<dl compact="">
 
-                     (a)  new vehicles of a particular type:
+<dt>(3)</dt><dd>If:
 
-                              (i)  are covered by an entry in the Register referred to in section 21; or
+</dd> </dl>
 
-                             (ii)  are prescribed by the regulations for the purposes of this subparagraph; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the vehicles of that type do not comply with the national standards; and
+<dt>(a)</dt><dd>new vehicles of a particular type:
 
-                     (c)  the Minister is satisfied that the non-compliance is not only in minor and inconsequential respects; and
+</dd>
 
-                     (d)  the Minister is satisfied that the vehicles of that type comply with the national standards to an extent that makes them suitable for supply to the market;
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>are covered by an entry in the Register referred to in section&#160;21;
+
+or</dd>
+
+<dt>(ii)</dt><dd>are prescribed by the regulations for the purposes of this subparagraph;
+
+and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the vehicles of that type do not comply with the national standards; and</dd>
+
+<dt>(c)</dt><dd>the Minister is satisfied that the non-compliance is not only in minor and
+
+inconsequential respects; and</dd>
+
+<dt>(d)</dt><dd>the Minister is satisfied that the vehicles of that type comply with the
+
+national standards to an extent that makes them suitable for supply to the
+
+market;
+
+</dd>
+
+</dl></dl></dl>
 
 the Minister may give written approval for identification plates to be placed on vehicles of that type.
 
-             (4)  An approval under subsection (1), (2) or (3) may be subject to written conditions determined by the Minister.
+<dl compact="">
 
-             (5)  In relation to an approval under subsection (3), those conditions may include a condition that the holder not place more than a specified number of identification plates on a specified class of vehicles during a specified period.
+<dt>(4)</dt><dd>An approval under subsection&#160;(1), (2) or (3) may be subject to
 
-             (6)  If:
+written conditions determined by the Minister.</dd> <dt>(5)</dt><dd>In relation to an approval under subsection&#160;(3), those conditions may include a condition that the holder not place more than a specified number of identification plates on a specified class of vehicles during a specified period.</dd> <dt>(6)</dt><dd>If: </dd> </dl>
 
-                     (a)  the holder of an approval under subsection (1), (2) or (3) intentionally takes an action or omits to take an action; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the action or omission contravenes a condition of the approval; and
+<dt>(a)</dt><dd>the holder of an approval under subsection&#160;(1), (2) or (3)
 
-                     (c)  the holder knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition;
+intentionally takes an action or omits to take an action; and</dd>
 
-the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units.
+<dt>(b)</dt><dd>the action or omission contravenes a condition of the approval; and</dd>
 
-##### <a id="10B"></a>10B  Notification that approval has been given
+<dt>(c)</dt><dd>the holder knows that the action or omission contravenes the condition or
 
-             (1)  If the Minister:
+is reckless as to whether or not the action or omission contravenes the
 
-                     (a)  gives approval for the placement of identification plates on new vehicles, or on vehicle components, under subsection 10A(1); and
+condition;
 
-                     (b)  that approval is given subject to conditions determined under subsection 10A(4);
+</dd>
+
+</dl></dl></dl>
+
+the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units. 
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 10B  Notification that approval has been given 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If the Minister:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>gives approval for the placement of identification plates on new vehicles,
+
+or on vehicle components, under subsection 10A(1); and</dd>
+
+<dt>(b)</dt><dd>that approval is given subject to conditions determined under subsection
+
+10A(4);
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 the Minister must provide, to the person to whom the approval is given, a statement specifying the conditions to be met.
 
-             (2)  If the Minister:
+<dl compact="">
 
-                     (a)  gives approval for the placement of identification plates on new vehicles under subsection 10A(2) or (3) or on vehicle components under subsection 10A(2); and
+<dt>(2)</dt><dd>If the Minister:
 
-                     (b)  that approval is given subject to conditions determined under subsection 10A(4);
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>gives approval for the placement of identification plates on new vehicles
+
+under subsection 10A(2) or (3) or on vehicle components under subsection
+
+10A(2); and</dd>
+
+<dt>(b)</dt><dd>that approval is given subject to conditions determined under subsection
+
+10A(4);
+
+</dd>
+
+</dl></dl></dl>
 
 the Minister must provide, to the person to whom the approval is given, a statement specifying:
 
-                     (c)  the national standard or standards with which the vehicle or the component does not comply; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the conditions to be met; and
+<dt>(c)</dt><dd>the national standard or standards with which the vehicle or the component
 
-                     (e)  the reasons for the imposition of those conditions.
+does not comply; and</dd>
 
-             (3)  An approval given under subsection 10A(1), (2) or (3) must specify the subsection under which the approval was given and that the approval is a matter of public record.
+<dt>(d)</dt><dd>the conditions to be met; and</dd>
 
-             (4)  An identification plate placed on a new vehicle by virtue of an approval given under subsection 10A(3) must specify that:
+<dt>(e)</dt><dd>the reasons for the imposition of those conditions.
 
-                     (a)  the vehicle is the nonstandard vehicle; and
+</dd>
 
-                     (b)  use of the vehicle may be subject to conditions, including conditions stated on the plate.
+</dl></dl></dl>
 
-##### <a id="11"></a>11  Withdrawal of identification plate approval
+<dl compact="">
 
-             (1)  Where:
+<dt>(3)</dt><dd>An approval given under subsection 10A(1), (2) or (3) must specify the
 
-                     (a)  a person is approved under this Act to place identification plates on road vehicles of a type specified in the approval; and
+subsection under which the approval was given and that the approval is a matter
 
-                     (b)  the Minister is satisfied:
+of public record.</dd> <dt>(4)</dt><dd>An identification plate placed on a new vehicle by virtue of an approval given under subsection 10A(3) must specify that: </dd> </dl>
 
-                              (i)  that the person has placed an identification plate on a road vehicle or any other vehicle otherwise than in accordance with arrangements of the kind referred to in section 10; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  that the person has made a false statement for the purpose of avoiding liability for fees payable under this Act or the regulations in relation to the placing of identification plates; or
+<dt>(a)</dt><dd>the vehicle is the nonstandard vehicle; and</dd>
 
-                            (iii)  that the person has failed, without reasonable excuse, to pay fees payable under this Act or the regulations in relation to the placing of identification plates; or
+<dt>(b)</dt><dd>use of the vehicle may be subject to conditions, including conditions
 
-                            (iv)  that the person has failed to observe procedures determined under section 9; or
+stated on the plate.
 
-                             (v)  that the person has failed to comply with a condition to which his or her approval is subject under subsection 10A(4);
+</dd>
 
-the Minister may, having regard to all the relevant circumstances, cancel, suspend or vary the person’s approval to place identification plates on road vehicles of that type.
+</dl></dl></dl>
 
-             (2)  Before making a decision under subsection (1), the Minister is to:
+**
 
-                     (a)  give written notice to the person of the facts and circumstances that, in the opinion of the Minister, warrant consideration being given to the cancellation, suspension or variation of the approval; and
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 11  Withdrawal of identification plate approval 
+**
 
-                     (b)  allow the person to show cause, within such reasonable time as is specified in the notice, why the approval should not be cancelled, suspended or varied.
+ <dl compact="">
 
-             (3)  The Minister is to give written notice of a decision under subsection (1) and the grounds for the decision to the person, and the decision takes effect from the date the notice is given.
+<dt>(1)</dt><dd>Where:
 
-##### <a id="12"></a>12  Offences in relation to identification plates
+</dd> </dl>
 
-                   It is an offence for a person:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  to manufacture or supply a device purporting to be an identification plate; or
+<dt>(a)</dt><dd>a person is approved under this Act to place identification plates on road
 
-                     (c)  to place a device purporting to be an identification plate on a road vehicle or a vehicle component knowing the device is not such a plate or reckless as to whether it is such a plate or not; or
+vehicles of a type specified in the approval; and</dd>
 
-                     (d)  to place an identification plate on a road vehicle or a vehicle component.
+<dt>(b)</dt><dd>the Minister is satisfied:
 
-                    Penalty:  120 penalty units.
+</dd>
 
-##### <a id="13"></a>13  Vehicles taken to have identification plates
+</dl></dl></dl>
 
-                   For the purposes of sections 17, 18, 19 and 20, a road vehicle is to be taken to have an identification plate if approval to place the plate on the vehicle has been given in accordance with procedures and arrangements determined under section 10.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-### Division 2—Standard vehicles not to be made nonstandard
+<dt>(i)</dt><dd>that the person has placed an identification plate on a road vehicle or
 
-##### <a id="13A"></a>13A  Vehicles not to be made nonstandard
+any other vehicle otherwise than in accordance with arrangements of the kind
 
-             (1)  Subject to subsection (3), a person must not do an act that results in the modification of a standard vehicle in a way that makes it nonstandard.
+referred to in section&#160;10; or</dd>
 
-                    Penalty:  120 penalty units.
+<dt>(ii)</dt><dd>that the person has made a false statement for the purpose of avoiding
 
-             (2)  Subject to subsection (3), a person must not hand over a standard vehicle to a person for modification, whether by that person or otherwise, in a way that makes it nonstandard.
+liability for fees payable under this Act or the regulations in relation to the
 
-                    Penalty:  120 penalty units.
+placing of identification plates; or</dd>
 
-             (3)  A person may modify a standard vehicle in a way that makes it nonstandard, or hand over a new vehicle for such modification:
+<dt>(iii)</dt><dd>that the person has failed, without reasonable excuse, to pay fees
 
-                     (a)  in prescribed circumstances; or
+payable under this Act or the regulations in relation to the placing of
 
-                     (b)  with the written approval of the Minister.
+identification plates; or</dd>
 
-             (4)  An approval given under subsection (3) may be subject to written conditions determined by the Minister.
+<dt>(iv)</dt><dd>that the person has failed to observe procedures determined under
 
-### Division 3—Used import plates
+section&#160;9; or</dd>
 
-##### <a id="13B"></a>13B  Placement of used import plates
+<dt>(v)</dt><dd>that the person has failed to comply with a condition to which his or her
 
-             (1)  The Minister may, by legislative instrument, determine procedures and arrangements relating to the placement of used import plates on used imported vehicles.
+approval is subject under subsection 10A(4);
 
-             (2)  The procedures and arrangements may relate to one or more of the following:
+</dd>
 
-                     (a)  the categories of used import plates to be used;
+</dl></dl></dl></dl>
 
-                     (b)  the content, form and function of used import plates;
+the Minister may, having regard to all the relevant circumstances, cancel, suspend or vary the person's approval to place identification plates on road vehicles of that type.
 
-                     (c)  the nature, content and sources and form of evidence to be presented to establish to what extent a road vehicle complies with the national standards;
+<dl compact="">
 
-                     (d)  the analysis, verification and supplementation of that evidence;
+<dt>(2)</dt><dd>Before making a decision under subsection&#160;(1), the Minister is to:
 
-                     (e)  the manufacture and supply of used import plates;
+</dd> </dl>
 
-                      (f)  the placement of used import plates;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (g)  the retention of records and information relevant to applications for, and the giving of, approvals under section 13D.
+<dt>(a)</dt><dd>give written notice to the person of the facts and circumstances that, in
 
-             (3)  Subsection (2) does not limit subsection (1).
+the opinion of the Minister, warrant consideration being given to the
 
-##### <a id="13C"></a>13C  Application for approval to place a used import plate
+cancellation, suspension or variation of the approval; and</dd>
 
-             (1)  A registered automotive workshop may apply to the Minister for an approval to place a plate on a used imported vehicle.
+<dt>(b)</dt><dd>allow the person to show cause, within such reasonable time as is
 
-             (2)  The application must be made in accordance with the regulations and can only be made in respect of a single used imported vehicle.
+specified in the notice, why the approval should not be cancelled, suspended or
 
-Further information
+varied.
 
-             (3)  The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.
+</dd>
 
-             (4)  The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.
+</dl></dl></dl>
 
-##### <a id="13D"></a>13D  Grant of approval
+<center>Back to Top</center>
 
-Grant
+<dl compact="">
 
-             (1)  The Minister may, by writing, grant a registered automotive workshop an approval to place a plate on a used imported vehicle if, having regard to a report in relation to the vehicle that is given to the Minister by the workshop, the Minister is satisfied that it is appropriate to grant the approval.
+<dt>(3)</dt><dd>The Minister is to give written notice of a decision under
 
-Determinations
+subsection&#160;(1) and the grounds for the decision to the person, and the
 
-             (2)  A report referred to in subsection (1) must be in such form, and contain such information, as is determined, by legislative instrument, by the Minister.
+decision takes effect from the date the notice is given.
 
-             (3)  The Minister must, by legislative instrument, determine guidelines that apply to the making of decisions under subsection (1). The Minister must comply with these guidelines in making such decisions.
+</dd> </dl>
 
-Approval a matter of public record
+**
 
-             (4)  An approval under subsection (1) must specify that it is a matter of public record.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 12  Offences in relation to identification plates 
+**
 
-Conditions of approval
+ <dl compact="">
 
-             (5)  An approval under subsection (1) is subject to any conditions specified in the approval.
+		It is an offence for a person:
 
-Breach of conditions
+ </dl>
 
-             (6)  The holder of an approval under subsection (1) is guilty of an offence if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the holder intentionally takes an action or omits to take an action; and
+<dt>(b)</dt><dd>to manufacture or supply a device purporting to be an identification
 
-                     (b)  the action or omission contravenes a condition of the approval; and
+plate; or</dd>
 
-                     (c)  the holder knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition.
+<dt>(c)</dt><dd>to place a device purporting to be an identification plate on a road
 
-                    Penalty:  60 penalty units.
+vehicle or a vehicle component knowing the device is not such a plate or
 
-Refusal
+reckless as to whether it is such a plate or not; or</dd>
 
-             (7)  If the Minister refuses to grant the approval, the Minister must give written notice of the refusal to the workshop. The notice must include a statement of the reasons why the approval was refused.
+<dt>(d)</dt><dd>to place an identification plate on a road vehicle or a vehicle component.
 
-##### <a id="13E"></a>13E  Number limits on placement of used import plates
+</dd>
 
-                   The regulations may provide that the number of used import plates that a registered automotive workshop may be approved, under subsection 13D(1), to place on used imported vehicles of a specified class during a specified period must not exceed a specified number.
+</dl></dl></dl>
 
-##### <a id="13F"></a>13F  Variation, cancellation or suspension of approval
+Penalty:	120 penalty units. 
 
-             (1)  The Minister may vary, cancel or suspend an approval that a registered automotive workshop holds under subsection 13D(1) if the Minister is satisfied that:
+**
 
-                     (a)  the workshop has placed the used import plate on the used imported vehicle otherwise than in accordance with the procedures and arrangements referred to in section 13B; or
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13  Vehicles taken to have identification plates 
+**
 
-                     (b)  the workshop has made a false or misleading statement in the application for the approval; or
+ <dl compact="">
 
-                     (c)  the workshop has failed to observe procedures and arrangements determined under section 9; or
+		For the purposes of sections&#160;17, 18, 19 and 20, a road vehicle is to be
 
-                     (d)  the workshop has contravened a condition of the approval.
+taken to have an identification plate if approval to place the plate on the
 
-Procedure
+vehicle has been given in accordance with procedures and arrangements
 
-             (2)  If the Minister considers that there may be grounds to vary, cancel or suspend the approval, the Minister must:
+determined under section&#160;10.
 
-                     (a)  give the workshop written notice of the Minister’s opinion specifying the reasons for that opinion; and
+ </dl>
 
-                     (b)  invite the workshop to make a written submission to the Minister about the matter within a reasonable period specified in the notice.
+<center>**
 
-             (3)  In deciding whether to vary, cancel or suspend the approval, the Minister must consider the matters raised in any submission received within the period specified in the notice.
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;2&#151;Standard vehicles not to be made nonstandard </division> 
+**</center>
 
-Effect of suspension
+**
 
-             (4)  If the approval is suspended, it ceases to be in force while suspended. It may be cancelled or varied even while it is suspended.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13A  Vehicles not to be made nonstandard 
+**
 
-Notice
+ <dl compact="">
 
-             (5)  The Minister must give the workshop written notice of a decision under subsection (1) specifying the reasons for the decision. The decision takes effect:
+<dt>(1)</dt><dd>Subject to subsection&#160;(3), a person must not do an act that results
 
-                     (a)  on the day on which it is made; or
+in the modification of a standard vehicle in a way that makes it nonstandard.
 
-                     (b)  if the notice specifies a later day as the day on which the decision takes effect—on that later day.
+</dd> </dl>
 
-##### <a id="13G"></a>13G  Offence in relation to the placement of used import plates
+Penalty:	120 penalty units.
 
-                   A person is guilty of an offence if the person:
+<dl compact="">
 
-                     (a)  manufactures or supplies a device purporting to be a used import plate and the person has not been authorised under an agreement between the Commonwealth and the person to manufacture and supply used import plates; or
+<dt>(2)</dt><dd>Subject to subsection&#160;(3), a person must not hand over a standard
 
-                     (b)  places a device purporting to be a used import plate on a road vehicle; or
+vehicle to a person for modification, whether by that person or otherwise, in a
 
-                     (c)  places a used import plate on a road vehicle in relation to which no approval for the placement of that plate on that vehicle is in force.
+way that makes it nonstandard.
 
-                    Penalty:  120 penalty units.
+</dd> </dl>
 
-## Part 4—Supply and importation of vehicles
+Penalty:	120 penalty units.
 
-### Division 1—Supply of new vehicles etc.
+<dl compact="">
 
-##### <a id="14"></a>14  Nonstandard vehicles not to be supplied to market
+<dt>(3)</dt><dd>A person may modify a standard vehicle in a way that makes it nonstandard,
 
-             (1)  Subject to section 14A, a person must not supply to the market a new vehicle that:
+or hand over a new vehicle for such modification:
 
-                     (a)  is nonstandard; or
+</dd> </dl>
 
-                     (b)  does not have an identification plate.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    Penalty:  120 penalty units.
+<dt>(a)</dt><dd>in prescribed circumstances; or</dd>
 
-##### <a id="14A"></a>14A  Supply of nonstandard vehicles
+<dt>(b)</dt><dd>with the written approval of the Minister.
 
-             (1)  A person may supply to the market a vehicle to which section 14 applies:
+</dd>
 
-                     (a)  in prescribed circumstances; or
+</dl></dl></dl>
 
-                     (b)  with the written approval of the Minister.
+<dl compact="">
 
-             (2)  An approval given under subsection (1) may be subject to written conditions determined by the Minister.
+<dt>(4)</dt><dd>An approval given under subsection&#160;(3) may be subject to written
 
-##### <a id="14B"></a>14B  No requirement to comply with certain standards
+conditions determined by the Minister.
 
-             (1)  A person may supply a new vehicle to the market even though it does not comply with a local standard.
+</dd> </dl>
 
-             (2)  In this section:
+<center>**
 
-                    <a name="local-standard"></a>**_local standard_** means a vehicle standard for new vehicles, other than a national standard, purported to be required by a law of a State or Territory.
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;3&#151;Used import plates </division> 
+**</center>
 
-##### <a id="15"></a>15  Nonstandard vehicles not to be used by manufacturers
+**
 
-             (1)  Subject to subsection (2), a corporation that manufactured a new vehicle that:
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13B  Placement of used import plates 
+**
 
-                     (a)  is nonstandard; or
+ <dl compact="">
 
-                     (b)  does not have an identification plate;
+<dt>(1)</dt><dd>The Minister may, by writing, determine procedures and arrangements
+
+relating to the placement of used import plates on used imported vehicles.</dd> <dt>(2)</dt><dd>The procedures and arrangements may relate to one or more of the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the categories of used import plates to be used;</dd>
+
+<dt>(b)</dt><dd>the content, form and function of used import plates;</dd>
+
+<dt>(c)</dt><dd>the nature, content and sources and form of evidence to be presented to
+
+establish to what extent a road vehicle complies with the national standards;</dd>
+
+<dt>(d)</dt><dd>the analysis, verification and supplementation of that evidence;</dd>
+
+<dt>(e)</dt><dd>the manufacture and supply of used import plates;</dd>
+
+<dt>(f)</dt><dd>the placement of used import plates;</dd>
+
+<dt>(g)</dt><dd>the retention of records and information relevant to applications for, and
+
+the giving of, approvals under section&#160;13D.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Subsection&#160;(2) does not limit subsection&#160;(1).</dd> <dt>(4)</dt><dd>Determinations under subsection&#160;(1) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13C  Application for approval to place a used import plate 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A registered automotive workshop may apply to the Minister for an approval
+
+to place a plate on a used imported vehicle.</dd> <dt>(2)</dt><dd>The application must be made in accordance with the regulations and can only be made in respect of a single used imported vehicle. </dd> </dl>
+
+_Further information_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The Minister may, by writing, request the applicant to give the Minister,
+
+within the period specified in the request, further information about the
+
+application.</dd> <dt>(4)</dt><dd>The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13D  Grant of approval 
+**
+
+ _Grant_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, by writing, grant a registered automotive workshop an
+
+approval to place a plate on a used imported vehicle if, having regard to a
+
+report in relation to the vehicle that is given to the Minister by the
+
+workshop, the Minister is satisfied that it is appropriate to grant the
+
+approval.
+
+</dd> </dl>
+
+_Determinations_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A report referred to in subsection&#160;(1) must be in such form, and
+
+contain such information, as is determined in writing by the Minister.</dd> <dt>(3)</dt><dd>The Minister must, by writing, determine guidelines that apply to the making of decisions under subsection&#160;(1). The Minister must comply with these guidelines in making such decisions. </dd> </dl>
+
+_Approval a matter of public record_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>An approval under subsection&#160;(1) must specify that it is a matter of
+
+public record.
+
+</dd> </dl>
+
+_Conditions of approval_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>An approval under subsection&#160;(1) is subject to any conditions
+
+specified in the approval.
+
+</dd> </dl>
+
+_Breach of conditions_
+
+<dl compact="">
+
+<dt>(6)</dt><dd>The holder of an approval under subsection&#160;(1) is guilty of an
+
+offence if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the holder intentionally takes an action or omits to take an action; and</dd>
+
+<dt>(b)</dt><dd>the action or omission contravenes a condition of the approval; and</dd>
+
+<dt>(c)</dt><dd>the holder knows that the action or omission contravenes the condition or
+
+is reckless as to whether or not the action or omission contravenes the
+
+condition.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	60 penalty units.
+
+_Refusal_
+
+<dl compact="">
+
+<dt>(7)</dt><dd>If the Minister refuses to grant the approval, the Minister must give
+
+written notice of the refusal to the workshop. The notice must include a
+
+statement of the reasons why the approval was refused.
+
+</dd> </dl>
+
+_Disallowable instruments_
+
+<dl compact="">
+
+<dt>(8)</dt><dd>A determination under subsection&#160;(2) or (3) is a disallowable
+
+instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13E  Number limits on placement of used import plates 
+**
+
+ <dl compact="">
+
+		The regulations may provide that the number of used import plates that a
+
+registered automotive workshop may be approved, under subsection 13D(1), to
+
+place on used imported vehicles of a specified class during a specified period
+
+must not exceed a specified number.
+
+ </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13F  Variation, cancellation or suspension of approval 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may vary, cancel or suspend an approval that a registered
+
+automotive workshop holds under subsection 13D(1) if the Minister is satisfied
+
+that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the workshop has placed the used import plate on the used imported vehicle
+
+otherwise than in accordance with the procedures and arrangements referred to
+
+in section&#160;13B; or</dd>
+
+<dt>(b)</dt><dd>the workshop has made a false or misleading statement in the application
+
+for the approval; or</dd>
+
+<dt>(c)</dt><dd>the workshop has failed to observe procedures and arrangements determined
+
+under section&#160;9; or</dd>
+
+<dt>(d)</dt><dd>the workshop has contravened a condition of the approval.
+
+</dd>
+
+</dl></dl></dl>
+
+_Procedure_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If the Minister considers that there may be grounds to vary, cancel or
+
+suspend the approval, the Minister must:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>give the workshop written notice of the Minister's opinion specifying the
+
+reasons for that opinion; and</dd>
+
+<dt>(b)</dt><dd>invite the workshop to make a written submission to the Minister about the
+
+matter within a reasonable period specified in the notice.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>In deciding whether to vary, cancel or suspend the approval, the Minister
+
+must consider the matters raised in any submission received within the period
+
+specified in the notice.
+
+</dd> </dl>
+
+_Effect of suspension_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>If the approval is suspended, it ceases to be in force while suspended. It
+
+may be cancelled or varied even while it is suspended.
+
+</dd> </dl>
+
+_Notice_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>The Minister must give the workshop written notice of a decision under
+
+subsection&#160;(1) specifying the reasons for the decision. The decision takes
+
+effect:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on the day on which it is made; or</dd>
+
+<dt>(b)</dt><dd>if the notice specifies a later day as the day on which the decision takes
+
+effect&#151;on that later day.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 13G  Offence in relation to the placement of used import plates 
+**
+
+<dl compact="">
+
+		A person is guilty of an offence if the person:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>manufactures or supplies a device purporting to be a used import plate and
+
+the person has not been authorised under an agreement between the Commonwealth
+
+and the person to manufacture and supply used import plates; or</dd>
+
+<dt>(b)</dt><dd>places a device purporting to be a used import plate on a road vehicle;
+
+or</dd>
+
+<dt>(c)</dt><dd>places a used import plate on a road vehicle in relation to which no
+
+approval for the placement of that plate on that vehicle is in force.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+Penalty:	120 penalty units.
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;4&#151;Supply and importation of vehicles </part>
+**</center>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;1&#151;Supply of new vehicles etc. </division> 
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 14  Nonstandard vehicles not to be supplied to market 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to section&#160;14A, a person must not supply to the market a new
+
+vehicle that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is nonstandard; or</dd>
+
+<dt>(b)</dt><dd>does not have an identification plate.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	120 penalty units. 
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 14A  Supply of nonstandard vehicles 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person may supply to the market a vehicle to which section&#160;14
+
+applies:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in prescribed circumstances; or</dd>
+
+<dt>(b)</dt><dd>with the written approval of the Minister.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An approval given under subsection&#160;(1) may be subject to written
+
+conditions determined by the Minister.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 14B  No requirement to comply with certain standards 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person may supply a new vehicle to the market even though it does not
+
+comply with a local standard.</dd> <dt>(2)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_local standard_ means a vehicle standard for new vehicles, other
+
+than a national standard, purported to be required by a law of a State or
+
+Territory.
+
+ </dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 15  Nonstandard vehicles not to be used by manufacturers 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), a corporation that manufactured a new
+
+vehicle that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is nonstandard; or</dd>
+
+<dt>(b)</dt><dd>does not have an identification plate;
+
+</dd>
+
+</dl></dl></dl>
 
 must not use the vehicle in transport in Australia.
 
-                    Penalty:  120 penalty units.
+Penalty:	120 penalty units.
 
-             (2)  A corporation that manufactured a vehicle to which subsection (1) applies may use the vehicle in transport in Australia:
+<dl compact="">
 
-                     (a)  in prescribed circumstances; or
+<dt>(2)</dt><dd>A corporation that manufactured a vehicle to which subsection&#160;(1)
 
-                     (b)  with the written approval of the Minister, which may be approval subject to written conditions determined by the Minister.
+applies may use the vehicle in transport in Australia:
 
-### Division 2—Supply of used imported vehicles
+</dd> </dl>
 
-##### <a id="16"></a>16  Supply of used imported vehicles
+<dl compact=""><dl compact=""><dl compact="">
 
-Supply offence
+<dt>(a)</dt><dd>in prescribed circumstances; or</dd>
 
-             (1)  A person is guilty of an offence if:
+<dt>(b)</dt><dd>with the written approval of the Minister, which may be approval subject
 
-                     (a)  the person supplies to the market a used imported vehicle; and
+to written conditions determined by the Minister.
 
-                     (b)  the vehicle does not have a used import plate; and
+</dd>
 
-                     (c)  the vehicle has not previously been supplied to the market; and
+</dl></dl></dl>
 
-                     (d)  the supply is not made in circumstances prescribed by the regulations; and
+<center>Back to Top</center>
 
-                     (e)  the supply is not made with the approval of the Minister under subsection (2).
+<center>**
 
-                    Penalty:  120 penalty units.
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;2&#151;Supply of used imported vehicles </division> 
+**</center>
 
-Application for approval
+**
 
-             (2)  The Minister may, by writing, grant a person an approval to supply to the market a used imported vehicle that does not have a used import plate.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 16  Supply of used imported vehicles 
+**
 
-             (3)  An application for such an approval must be made in accordance with the regulations. The application can only be made in respect of a single used imported vehicle.
+ _Supply offence_
 
-             (4)  The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.
+<dl compact="">
 
-             (5)  The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-Approval subject to conditions
+</dd> </dl>
 
-             (6)  An approval under subsection (2) is subject to any conditions specified in the approval.
+<dl compact=""><dl compact=""><dl compact="">
 
-Breach of conditions
+<dt>(a)</dt><dd>the person supplies to the market a used imported vehicle; and</dd>
 
-             (7)  If:
+<dt>(b)</dt><dd>the vehicle does not have a used import plate; and</dd>
 
-                     (a)  the holder of an approval under subsection (2) intentionally takes an action or omits to take an action; and
+<dt>(c)</dt><dd>the vehicle has not previously been supplied to the market; and</dd>
 
-                     (b)  the action or omission contravenes a condition of the approval; and
+<dt>(d)</dt><dd>the supply is not made in circumstances prescribed by the regulations;
 
-                     (c)  the holder knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition;
+and</dd>
 
-the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units.
+<dt>(e)</dt><dd>the supply is not made with the approval of the Minister under
 
-##### <a id="16A"></a>16A  Variation, cancellation or suspension of approval
+subsection&#160;(2).
 
-             (1)  The Minister may vary, cancel or suspend an approval that a person holds under subsection 16(2):
+</dd>
 
-                     (a)  if the Minister is satisfied that the person has contravened a condition of the approval; or
+</dl></dl></dl>
 
-                     (b)  if the Minister is satisfied that the person has made a false or misleading statement in the application for the approval; or
+Penalty:	120 penalty units.
 
-                     (c)  in any other circumstances that the Minister considers appropriate.
+_Application for approval_
 
-Procedure
+<dl compact="">
 
-             (2)  If the Minister considers that there may be grounds to vary, cancel or suspend the approval, the Minister must:
+<dt>(2)</dt><dd>The Minister may, by writing, grant a person an approval to supply to the
 
-                     (a)  give the person written notice of the Minister’s opinion specifying the reasons for that opinion; and
+market a used imported vehicle that does not have a used import plate.</dd> <dt>(3)</dt><dd>An application for such an approval must be made in accordance with the regulations. The application can only be made in respect of a single used imported vehicle.</dd> <dt>(4)</dt><dd>The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.</dd> <dt>(5)</dt><dd>The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request. </dd> </dl>
 
-                     (b)  invite the person to make a written submission to the Minister about the matter within a reasonable period specified in the notice.
+_Approval subject to conditions_
 
-             (3)  In deciding whether to vary, cancel or suspend the approval, the Minister must consider the matters raised in any submission received within the period specified in the notice.
+<dl compact="">
 
-Effect of suspension
+<dt>(6)</dt><dd>An approval under subsection&#160;(2) is subject to any conditions
 
-             (4)  If the approval is suspended, it ceases to be in force while suspended. It may be cancelled or varied even while it is suspended.
+specified in the approval.
 
-Notice
+</dd> </dl>
 
-             (5)  The Minister must give the person written notice of a decision under subsection (1) specifying the reasons for the decision. The decision takes effect:
+_Breach of conditions_
 
-                     (a)  on the day on which it is made; or
+<dl compact="">
 
-                     (b)  if the notice specifies a later day as the day on which the decision takes effect—on that later day.
+<dt>(7)</dt><dd>If:
 
-### Division 3—Import of new and used vehicles
+</dd> </dl>
 
-##### <a id="17"></a>17  Importation of road vehicles subject to conditions
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The importation of a road vehicle that:
+<dt>(a)</dt><dd>the holder of an approval under subsection&#160;(2) intentionally takes an
 
-                     (a)  complies with the national standards; and
+action or omits to take an action; and</dd>
 
-                     (b)  has an identification plate;
+<dt>(b)</dt><dd>the action or omission contravenes a condition of the approval; and</dd>
+
+<dt>(c)</dt><dd>the holder knows that the action or omission contravenes the condition or
+
+is reckless as to whether or not the action or omission contravenes the
+
+condition;
+
+</dd>
+
+</dl></dl></dl>
+
+the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units. 
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 16A  Variation, cancellation or suspension of approval 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may vary, cancel or suspend an approval that a person holds
+
+under subsection 16(2):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the Minister is satisfied that the person has contravened a condition
+
+of the approval; or</dd>
+
+<dt>(b)</dt><dd>if the Minister is satisfied that the person has made a false or
+
+misleading statement in the application for the approval; or</dd>
+
+<dt>(c)</dt><dd>in any other circumstances that the Minister considers appropriate.
+
+</dd>
+
+</dl></dl></dl>
+
+_Procedure_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If the Minister considers that there may be grounds to vary, cancel or
+
+suspend the approval, the Minister must:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>give the person written notice of the Minister's opinion specifying the
+
+reasons for that opinion; and</dd>
+
+<dt>(b)</dt><dd>invite the person to make a written submission to the Minister about the
+
+matter within a reasonable period specified in the notice.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>In deciding whether to vary, cancel or suspend the approval, the Minister
+
+must consider the matters raised in any submission received within the period
+
+specified in the notice.
+
+</dd> </dl>
+
+_Effect of suspension_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>If the approval is suspended, it ceases to be in force while suspended. It
+
+may be cancelled or varied even while it is suspended.
+
+</dd> </dl>
+
+_Notice_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>The Minister must give the person written notice of a decision under
+
+subsection&#160;(1) specifying the reasons for the decision. The decision takes
+
+effect:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on the day on which it is made; or</dd>
+
+<dt>(b)</dt><dd>if the notice specifies a later day as the day on which the decision takes
+
+effect&#151;on that later day.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;3&#151;Import of new and used vehicles </division> 
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 17  Importation of road vehicles subject to conditions 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The importation of a road vehicle that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>complies with the national standards; and</dd>
+
+<dt>(b)</dt><dd>has an identification plate;
+
+</dd>
+
+</dl></dl></dl>
 
 is subject to the following conditions:
 
-                     (c)  the importer will do all things reasonable and necessary to ensure that, when the vehicle is supplied to the market, it:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  still complies with the national standards; and
+<dt>(c)</dt><dd>the importer will do all things reasonable and necessary to ensure that,
 
-                             (ii)  still has an identification plate;
+when the vehicle is supplied to the market, it:
 
-                     (d)  the importer will not modify the vehicle in a way that makes it nonstandard;
+</dd>
 
-                     (e)  the importer will not hand over the vehicle to another person for modification, whether by that other person or otherwise, in a way that makes it nonstandard.
+</dl></dl></dl>
 
-             (2)  A person commits an offence if:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the person is subject to a condition under subsection (1); and
+<dt>(i)</dt><dd>still complies with the national standards; and</dd>
 
-                     (b)  the person engages in conduct; and
+<dt>(ii)</dt><dd>still has an identification plate;
 
-                     (c)  the person’s conduct contravenes the condition.
+</dd>
 
-                    Penalty:  120 penalty units.
+</dl></dl></dl></dl>
 
-          (2A)  Strict liability applies to paragraph (2)(a).
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+<dt>(d)</dt><dd>the importer will not modify the vehicle in a way that makes it
 
-##### <a id="17A"></a>17A  Authority to take delivery of imported vehicles
+nonstandard;</dd>
 
-             (1)  An authority to deal with an imported road vehicle under the _Customs Act 1901_ is subject to the condition that an approval under this section for the importer to take delivery of the vehicle is given by the Minister or an officer of the Department authorised in writing by the Minister to give approvals under this section.
+<dt>(e)</dt><dd>the importer will not hand over the vehicle to another person for
 
-             (2)  An approval under this section must be granted if the importer produces to the Minister or to such an officer:
+modification, whether by that other person or otherwise, in a way that makes it
 
-                     (a)  if the vehicle has an identification plate—details of the plate; or
+nonstandard.
 
-                     (b)  in any other case—a copy of the approval under section 19, or under regulations referred to in subsection 20(3), in respect of the vehicle.
+</dd>
 
-##### <a id="18"></a>18  Prohibition of importation of nonstandard vehicles etc.
+</dl></dl></dl>
 
-             (1)  Subject to sections 19 and 20, a person must not import a road vehicle that:
+<dl compact="">
 
-                     (a)  is nonstandard; or
+<dt>(2)</dt><dd>A person commits an offence if:
 
-                     (b)  does not have an identification plate.
+</dd> </dl>
 
-                    Penalty:  120 penalty units.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Subject to sections 19 and 20, a person must not import a nonstandard prescribed vehicle component.
+<dt>(a)</dt><dd>the person is subject to a condition under subsection&#160;(1); and</dd>
 
-                    Penalty:  60 penalty units.
+<dt>(b)</dt><dd>the person engages in conduct; and</dd>
 
-##### <a id="19"></a>19  Importation of vehicles requiring modification
+<dt>(c)</dt><dd>the person's conduct contravenes the condition.
 
-             (1)  A person may import a nonstandard road vehicle, a road vehicle that does not have an identification plate or a nonstandard prescribed vehicle component with the written approval of the Minister, which may be approval subject to written conditions determined by the Minister.
+</dd>
 
-             (2)  A person commits an offence if:
+</dl></dl></dl>
 
-                     (a)  the Minister grants an approval to the person under subsection (1) subject to conditions; and
+Penalty:	120 penalty units.
 
-                     (b)  the person engages in conduct; and
+<dl compact="">
 
-                     (c)  the person’s conduct results in the contravention of a condition of that approval.
+<dt>(2A)</dt><dd>Strict liability applies to paragraph&#160;(2)(a).
 
-                    Penalty:  60 penalty units.
+</dd> </dl>
 
-##### <a id="20"></a>20  Approval to import certain nonstandard vehicles
+<dl compact=""><dl compact="">
 
-             (1)  A person may import a nonstandard road vehicle or a road vehicle that does not have an identification plate:
+Note:	For _strict liability_, see section&#160;6.1 of
 
-                     (a)  where the vehicle is to be exported from Australia (with or without further work being done on it) without having been used in transport in Australia; or
+the _Criminal Code_.
 
-                     (b)  in prescribed circumstances.
+ </dl></dl>
 
-             (2)  A person may import a nonstandard prescribed vehicle component:
+<center>Back to Top</center>
 
-                     (a)  where it is to be used in the manufacture of an export vehicle; or
+**
 
-                     (b)  in prescribed circumstances.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 17A  Authority to take delivery of imported vehicles 
+**
 
-             (3)  Regulations for the purposes of paragraph (1)(b) or (2)(b) may provide for the importation, whether generally or in specified circumstances, of a road vehicle, or a vehicle component, as the case may be:
+ <dl compact="">
 
-                     (a)  with the written approval of the Minister; or
+<dt>(1)</dt><dd>An authority to deal with an imported road vehicle under the _Customs Act 1901_ is subject to the condition that an approval under this section
 
-                     (b)  with such approval subject to written conditions determined by the Minister.
+for the importer to take delivery of the vehicle is given by the Minister or an
 
-          (3A)  The regulations may provide that the number of used vehicles of a specified class that a specified person may be approved to import during a specified period must not exceed a specified number.
+officer of the Department authorised in writing by the Minister to give
 
-          (3B)  For the purposes of subsection (3A), **_used vehicle_** means a road vehicle that has been used in transport outside Australia.
+approvals under this section.</dd> <dt>(2)</dt><dd>An approval under this section must be granted if the importer produces to the Minister or to such an officer: </dd> </dl>
 
-             (4)  A person commits an offence if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  an approval granted to the person under regulations for the purposes of paragraph (1)(b) or (2)(b) is subject to conditions as mentioned in paragraph (3)(b); and
+<dt>(a)</dt><dd>if the vehicle has an identification plate&#151;details of the plate; or</dd>
 
-                     (b)  the person engages in conduct; and
+<dt>(b)</dt><dd>in any other case&#151;a copy of the approval under section&#160;19, or under
 
-                     (c)  the person’s conduct results in the contravention of a condition of that approval.
+regulations referred to in subsection 20(3), in respect of the vehicle.
 
-                    Penalty:  60 penalty units.
+</dd>
 
-### Division 4—Register of Specialist and Enthusiast Vehicles
+</dl></dl></dl>
 
-##### <a id="21"></a>21  Register of Specialist and Enthusiast Vehicles
+**
 
-             (1)  The regulations may make provision for and in relation to the Minister keeping a Register of Specialist and Enthusiast Vehicles.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 18  Prohibition of importation of nonstandard vehicles etc. 
+**
 
-             (2)  The regulations may provide for any one or more of the following:
+ <dl compact="">
 
-                     (a)  the form in which the Register is to be kept;
+<dt>(1)</dt><dd>Subject to sections&#160;19 and 20, a person must not import a road
 
-                     (b)  the procedures to be followed before road vehicles may be entered on the Register (which may require the making of applications);
+vehicle that:
 
-                     (c)  the criteria to be satisfied before road vehicles may be entered on the Register;
+</dd> </dl>
 
-                     (d)  the inspection of the Register;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  the procedures to be followed for removing road vehicles from the Register;
+<dt>(a)</dt><dd>is nonstandard; or</dd>
 
-                      (f)  the transitional arrangements that are to apply if road vehicles are removed from the Register;
+<dt>(b)</dt><dd>does not have an identification plate.
 
-                     (g)  the notification of decisions made under the regulations;
+</dd>
 
-                     (h)  the review of decisions made under the regulations.
+</dl></dl></dl>
 
-             (3)  Subsection (2) does not limit subsection (1).
+Penalty:	120 penalty units.
 
-## Part 4A—Registered automotive workshops
+<dl compact="">
 
-##### <a id="21A"></a>21A  Application for approval
+<dt>(2)</dt><dd>Subject to sections&#160;19 and 20, a person must not import a nonstandard
 
-             (1)  A corporation may apply to the Minister for an approval as a registered automotive workshop.
+prescribed vehicle component.
 
-             (2)  The application must be made in accordance with the regulations.
+</dd> </dl>
 
-Further information
+Penalty:	60 penalty units. 
 
-             (3)  The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.
+**
 
-             (4)  The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 19  Importation of vehicles requiring modification 
+**
 
-##### <a id="21B"></a>21B  Grant of approval
+ <dl compact="">
 
-             (1)  The Minister may, by writing, approve a corporation (the **_applicant_**) as a registered automotive workshop if the Minister is satisfied that:
+<dt>(1)</dt><dd>A person may import a nonstandard road vehicle, a road vehicle that does
 
-                     (a)  the applicant is a fit and proper person; and
+not have an identification plate or a nonstandard prescribed vehicle component
 
-                     (b)  each of the directors, and each officer or shareholder who is in a position to influence the management of the applicant, is a fit and proper person; and
+with the written approval of the Minister, which may be approval subject to
 
-                     (c)  any other criteria prescribed by the regulations are met.
+written conditions determined by the Minister.</dd> <dt>(2)</dt><dd>A person commits an offence if: </dd> </dl>
 
-             (2)  The Minister may, by legislative instrument, determine guidelines that the Minister may have regard to when deciding whether the criteria in paragraphs (1)(a) and (b) are satisfied.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  The criteria prescribed by the regulations for the purposes of paragraph (1)(c) may relate to:
+<dt>(a)</dt><dd>the Minister grants an approval to the person under subsection&#160;(1)
 
-                     (a)  the relationship between the applicant and one or more other corporations; or
+subject to conditions; and</dd>
 
-                     (b)  the relationship one or more persons have with the applicant and one or more other corporations.
+<dt>(b)</dt><dd>the person engages in conduct; and</dd>
 
-             (4)  Subsection (3) does not limit paragraph (1)(c).
+<dt>(c)</dt><dd>the person's conduct results in the contravention of a condition of that
 
-Refusal
+approval.
 
-             (6)  If the Minister refuses to grant the approval, the Minister must give written notice of the refusal to the applicant. The notice must include a statement of the reasons why the approval was refused.
+</dd>
 
-##### <a id="21C"></a>21C  Period approval in force
+</dl></dl></dl>
 
-             (1)  An approval under section 21B comes into force on the day it is granted and remains in force for a period of 2 years.
+Penalty:	60 penalty units. 
 
-Renewal
+**
 
-             (2)  The holder of such an approval may, not earlier than 1 month before the day (the **_expiry day_**) the approval is due to expire, apply to the Minister to renew the approval.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 20  Approval to import certain nonstandard vehicles 
+**
 
-             (3)  The application must be made in accordance with the regulations.
+ <dl compact="">
 
-             (4)  The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.
+<dt>(1)</dt><dd>A person may import a nonstandard road vehicle or a road vehicle that does
 
-             (5)  The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.
+not have an identification plate:
 
-             (6)  If the Minister has not decided the application before the end of the expiry day, the approval is taken to continue in force until the Minister decides the application.
+</dd> </dl>
 
-             (7)  If the Minister decides to renew the approval, it is renewed for a period of 2 years starting on the day after the expiry day.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (8)  The approval may be renewed more than once under this section.
+<dt>(a)</dt><dd>where the vehicle is to be exported from Australia (with or without
 
-Refusal
+further work being done on it) without having been used in transport in
 
-             (9)  If the Minister refuses to renew the approval, the Minister must give written notice of the refusal to the holder. The notice must include a statement of the reasons why the renewal was refused.
+Australia; or</dd>
 
-##### <a id="21D"></a>21D  Conditions of approval
+<dt>(b)</dt><dd>in prescribed circumstances.
 
-             (1)  An approval under section 21B is granted:
+</dd>
 
-                     (a)  subject to any conditions prescribed by the regulations; and
+</dl></dl></dl>
 
-                     (b)  subject to any conditions specified in the approval.
+<dl compact="">
 
-Note:          An approval may be varied under section 21E. The Minister could impose further conditions or vary or revoke existing conditions.
+<dt>(2)</dt><dd>A person may import a nonstandard prescribed vehicle component:
 
-             (2)  If:
+</dd> </dl>
 
-                     (a)  the holder of an approval under section 21B intentionally takes an action or omits to take an action; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the action or omission contravenes a condition of the approval; and
+<dt>(a)</dt><dd>where it is to be used in the manufacture of an export vehicle; or</dd>
 
-                     (c)  the holder knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition;
+<dt>(b)</dt><dd>in prescribed circumstances.
 
-the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units.
+</dd>
 
-##### <a id="21E"></a>21E  Variation, cancellation or suspension of approval
+</dl></dl></dl>
 
-Variation
+<center>Back to Top</center>
 
-             (1)  The Minister may, on his or her own initiative or on application by the holder of an approval under section 21B, vary such an approval.
+<dl compact="">
 
-             (2)  Such an application must be made in accordance with the regulations.
+<dt>(3)</dt><dd>Regulations for the purposes of paragraph&#160;(1)(b) or (2)(b) may
 
-             (3)  The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.
+provide for the importation, whether generally or in specified circumstances,
 
-             (4)  The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.
+of a road vehicle, or a vehicle component, as the case may be:
 
-Cancellation or suspension
+</dd> </dl>
 
-             (5)  The Minister may cancel or suspend an approval under section 21B:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  if the Minister is satisfied that its holder has contravened a condition of the approval; or
+<dt>(a)</dt><dd>with the written approval of the Minister; or</dd>
 
-                     (b)  if the Minister is satisfied that its holder no longer complies with the criteria referred to in subsection 21B(1); or
+<dt>(b)</dt><dd>with such approval subject to written conditions determined by the
 
-                     (c)  in any other circumstances that the Minister considers appropriate.
+Minister.
 
-Procedure
+</dd>
 
-             (6)  If the Minister considers that there may be grounds to:
+</dl></dl></dl>
 
-                     (a)  make a decision under subsection (1) (other than at the holder’s request); or
+<dl compact="">
 
-                     (b)  make a decision under subsection (5);
+<dt>(3A)</dt><dd>The regulations may provide that the number of used vehicles of a
+
+specified class that a specified person may be approved to import during a
+
+specified period must not exceed a specified number.</dd> <dt>(3B)</dt><dd>For the purposes of subsection&#160;(3A), _used vehicle_ means a road vehicle that has been used in transport outside Australia.</dd> <dt>(4)</dt><dd>A person commits an offence if: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an approval granted to the person under regulations for the purposes of
+
+paragraph&#160;(1)(b) or (2)(b) is subject to conditions as mentioned in
+
+paragraph&#160;(3)(b); and</dd>
+
+<dt>(b)</dt><dd>the person engages in conduct; and</dd>
+
+<dt>(c)</dt><dd>the person's conduct results in the contravention of a condition of that
+
+approval.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	60 penalty units.
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<division>Division&#160;4&#151;Register of Specialist and Enthusiast Vehicles </division> 
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21  Register of Specialist and Enthusiast Vehicles 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision for and in relation to the Minister
+
+keeping a Register of Specialist and Enthusiast Vehicles.</dd> <dt>(2)</dt><dd>The regulations may provide for any one or more of the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the form in which the Register is to be kept;</dd>
+
+<dt>(b)</dt><dd>the procedures to be followed before road vehicles may be entered on the
+
+Register (which may require the making of applications);</dd>
+
+<dt>(c)</dt><dd>the criteria to be satisfied before road vehicles may be entered on the
+
+Register;</dd>
+
+<dt>(d)</dt><dd>the inspection of the Register;</dd>
+
+<dt>(e)</dt><dd>the procedures to be followed for removing road vehicles from the
+
+Register;</dd>
+
+<dt>(f)</dt><dd>the transitional arrangements that are to apply if road vehicles are
+
+removed from the Register;</dd>
+
+<dt>(g)</dt><dd>the notification of decisions made under the regulations;</dd>
+
+<dt>(h)</dt><dd>the review of decisions made under the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Subsection&#160;(2) does not limit subsection&#160;(1).
+
+</dd> </dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;4A&#151;Registered automotive workshops </part>
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21A  Application for approval 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A corporation may apply to the Minister for an approval as a registered
+
+automotive workshop.</dd> <dt>(2)</dt><dd>The application must be made in accordance with the regulations. </dd> </dl>
+
+_Further information_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The Minister may, by writing, request the applicant to give the Minister,
+
+within the period specified in the request, further information about the
+
+application.</dd> <dt>(4)</dt><dd>The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21B  Grant of approval 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, by writing, approve a corporation (the
+
+_applicant_) as a registered automotive workshop if the Minister is
+
+satisfied that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the applicant is a fit and proper person; and</dd>
+
+<dt>(b)</dt><dd>each of the directors, and each officer or shareholder who is in a
+
+position to influence the management of the applicant, is a fit and proper
+
+person; and</dd>
+
+<dt>(c)</dt><dd>any other criteria prescribed by the regulations are met.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Minister may, by writing, determine guidelines that the Minister may
+
+have regard to when deciding whether the criteria in paragraphs&#160;(1)(a) and
+
+<dt>(b)</dt><dd>are satisfied.</dd> <dt>(3)</dt><dd>The criteria prescribed by the regulations for the purposes of paragraph&#160;(1)(c) may relate to: </dd> </dd></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the relationship between the applicant and one or more other corporations;
+
+or</dd>
+
+<dt>(b)</dt><dd>the relationship one or more persons have with the applicant and one or
+
+more other corporations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Subsection&#160;(3) does not limit paragraph&#160;(1)(c).</dd> <dt>(5)</dt><dd>A determination under subsection&#160;(2) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+
+_Refusal_
+
+<dl compact="">
+
+<dt>(6)</dt><dd>If the Minister refuses to grant the approval, the Minister must give
+
+written notice of the refusal to the applicant. The notice must include a
+
+statement of the reasons why the approval was refused.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21C  Period approval in force 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An approval under section&#160;21B comes into force on the day it is
+
+granted and remains in force for a period of 2 years.
+
+</dd> </dl>
+
+_Renewal_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The holder of such an approval may, not earlier than 1 month before the
+
+day (the _expiry day_) the approval is due to expire, apply to the
+
+Minister to renew the approval.</dd> <dt>(3)</dt><dd>The application must be made in accordance with the regulations.</dd> <dt>(4)</dt><dd>The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.</dd> <dt>(5)</dt><dd>The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request.</dd> <dt>(6)</dt><dd>If the Minister has not decided the application before the end of the expiry day, the approval is taken to continue in force until the Minister decides the application.</dd> <dt>(7)</dt><dd>If the Minister decides to renew the approval, it is renewed for a period of 2 years starting on the day after the expiry day.</dd> <dt>(8)</dt><dd>The approval may be renewed more than once under this section. </dd> </dl>
+
+_Refusal_
+
+<dl compact="">
+
+<dt>(9)</dt><dd>If the Minister refuses to renew the approval, the Minister must give
+
+written notice of the refusal to the holder. The notice must include a
+
+statement of the reasons why the renewal was refused.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21D  Conditions of approval 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An approval under section&#160;21B is granted:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subject to any conditions prescribed by the regulations; and</dd>
+
+<dt>(b)</dt><dd>subject to any conditions specified in the approval.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	An approval may be varied under section&#160;21E. The
+
+Minister could impose further conditions or vary or revoke existing conditions.
+
+ </dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the holder of an approval under section&#160;21B intentionally takes an
+
+action or omits to take an action; and</dd>
+
+<dt>(b)</dt><dd>the action or omission contravenes a condition of the approval; and</dd>
+
+<dt>(c)</dt><dd>the holder knows that the action or omission contravenes the condition or
+
+is reckless as to whether or not the action or omission contravenes the
+
+condition;
+
+</dd>
+
+</dl></dl></dl>
+
+the holder is guilty of an offence punishable, on conviction, by a fine not exceeding 60 penalty units. 
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 21E  Variation, cancellation or suspension of approval 
+**
+
+ _Variation_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, on his or her own initiative or on application by the
+
+holder of an approval under section&#160;21B, vary such an approval.</dd> <dt>(2)</dt><dd>Such an application must be made in accordance with the regulations.</dd> <dt>(3)</dt><dd>The Minister may, by writing, request the applicant to give the Minister, within the period specified in the request, further information about the application.</dd> <dt>(4)</dt><dd>The Minister may refuse to consider the application until the applicant gives the Minister the information in accordance with the request. </dd> </dl>
+
+_Cancellation or suspension_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>The Minister may cancel or suspend an approval under section&#160;21B:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the Minister is satisfied that its holder has contravened a condition
+
+of the approval; or</dd>
+
+<dt>(b)</dt><dd>if the Minister is satisfied that its holder no longer complies with the
+
+criteria referred to in subsection 21B(1); or</dd>
+
+<dt>(c)</dt><dd>in any other circumstances that the Minister considers appropriate.
+
+</dd>
+
+</dl></dl></dl>
+
+_Procedure_
+
+<dl compact="">
+
+<dt>(6)</dt><dd>If the Minister considers that there may be grounds to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>make a decision under subsection&#160;(1) (other than at the holder's
+
+request); or</dd>
+
+<dt>(b)</dt><dd>make a decision under subsection&#160;(5);
+
+</dd>
+
+</dl></dl></dl>
 
 the Minister must:
 
-                     (c)  give the holder written notice of the Minister’s opinion specifying the reasons for that opinion; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  invite the holder to make a written submission to the Minister about the matter within a reasonable period specified in the notice.
+<dt>(c)</dt><dd>give the holder written notice of the Minister's opinion specifying the
 
-             (7)  In deciding whether to make a decision under subsection (1) or (5), the Minister must consider the matters raised in any submission received within the period specified in the notice.
+reasons for that opinion; and</dd>
 
-Effect of suspension
+<dt>(d)</dt><dd>invite the holder to make a written submission to the Minister about the
 
-             (8)  If the approval is suspended, it ceases to be in force while suspended. It may be cancelled or varied even while it is suspended.
+matter within a reasonable period specified in the notice.
 
-Notice
+</dd>
 
-             (9)  The Minister must give the holder written notice of a decision under subsection (1) or (5). The decision takes effect:
+</dl></dl></dl>
 
-                     (a)  on the day on which it is made; or
+<dl compact="">
 
-                     (b)  if the notice specifies a later day as the day on which the decision takes effect—on that later day.
+<dt>(7)</dt><dd>In deciding whether to make a decision under subsection&#160;(1) or (5),
 
-## Part 5—Administration
+the Minister must consider the matters raised in any submission received within
 
-##### <a id="22"></a>22  Administrator
+the period specified in the notice.
 
-             (1)  There are to be an Administrator of Vehicle Standards and such Associate Administrators of Vehicle Standards as are required.
+</dd> </dl>
 
-             (2)  The Administrator:
+_Effect of suspension_
 
-                     (a)  is to be appointed by the Secretary to the Department; and
+<dl compact="">
 
-                     (b)  is to be an SES employee, or acting SES employee, in the Department.
+<dt>(8)</dt><dd>If the approval is suspended, it ceases to be in force while suspended. It
 
-             (3)  An Associate Administrator:
+may be cancelled or varied even while it is suspended.
 
-                     (a)  is to be appointed by the Secretary to the Department; and
+</dd> </dl>
 
-                     (b)  is to be a person holding an office in the Department.
+<center>Back to Top</center>
 
-##### <a id="23"></a>23  Delegation by Minister
+_Notice_
 
-                   The Minister may by signed instrument delegate to the Administrator or to an Associate Administrator all or any of the Minister’s functions or powers under this Act, other than:
+<dl compact="">
 
-                     (a)  the power to determine that vehicles of a particular class or description are not road motor vehicles under subsection 5B(1); and
+<dt>(9)</dt><dd>The Minister must give the holder written notice of a decision under
 
-                     (b)  the power to determine national standards under section 7; and
+subsection&#160;(1) or (5). The decision takes effect:
 
-                     (c)  the power to determine the organisations whose documents may be incorporated under section 7A; and
+</dd> </dl>
 
-                     (d)  procedures and arrangements for determining whether road vehicles or vehicle components comply with this Act under section 9; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  the power to determine procedures and arrangements for the placement of identification plates on road vehicles under section 10; and
+<dt>(a)</dt><dd>on the day on which it is made; or</dd>
 
-                      (f)  the power to determine procedures and arrangements for the placement of used import plates on used imported vehicles under section 13B; and
+<dt>(b)</dt><dd>if the notice specifies a later day as the day on which the decision takes
 
-                     (g)  the requirement to determine guidelines under subsection 13D(3); and
+effect&#151;on that later day.
 
-                     (h)  the power to determine guidelines under subsection 21B(2).
+</dd>
 
-##### <a id="24"></a>24  Fees 
+</dl></dl></dl>
 
-             (1)  The regulations may prescribe fees, or a method of calculating fees, to be paid to the Commonwealth in respect of:
+<center>**
 
-                     (a)  the placing, or approval of the placing, of identification plates, including the carrying out of tests to find out whether a road vehicle should have an identification plate or whether a road vehicle or road vehicles of a particular type should continue to have identification plates; or
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;5&#151;Administration </part>
+**</center>
 
-                     (b)  applications under section 13A, 13C, 14A, 15 or 16 for an approval; or
+**
 
-                     (c)  applications for approval to import a road vehicle or a vehicle component under section 19; or
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 22  Administrator 
+**
 
-                     (d)  applications for approval to import a road vehicle or a vehicle component under regulations referred to in subsection 20(3); or
+ <dl compact="">
 
-                    (da)  applications under section 21A for an approval, applications under section 21C to renew an approval or applications under section 21E to vary an approval; or
+<dt>(1)</dt><dd>There are to be an Administrator of Vehicle Standards and such Associate
 
-                     (e)  the supply of copies of the national standards in force from time to time; or
+Administrators of Vehicle Standards as are required.</dd> <dt>(2)</dt><dd>The Administrator: </dd> </dl>
 
-                      (f)  the provision of other services, or the supply of other documents or goods, by the Commonwealth under this Act or the regulations.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Prescribed fees are due and payable in such manner and at such time or times as are prescribed.
+<dt>(a)</dt><dd>is to be appointed by the Secretary to the Department; and</dd>
 
-             (3)  Where a fee that is required to be paid at the time of making an application or request is not so paid, the application or request is not to be taken to have been duly made.
+<dt>(b)</dt><dd>is to be an SES employee, or acting SES employee, in the Department.
 
-             (4)  A prescribed fee is not to be such as to amount to taxation.
+</dd>
 
-             (5)  The regulations may make provision for and in relation to the refund of any fees paid under this section in respect of an application under section 21A.
+</dl></dl></dl>
 
-##### <a id="25"></a>25  Appointment of inspectors
+<dl compact="">
 
-             (1)  The Minister may, in writing, appoint a person engaged under the _Public Service Act 1999_ to be an inspector.
+<dt>(3)</dt><dd>An Associate Administrator:
 
-             (2)  Arrangements may be made under section 71 of the _Public Service Act 1999_ for officers of the Public Service of a State or Territory or of an authority of a State or Territory to perform the functions or exercise the powers of inspectors.
+</dd> </dl>
 
-             (3)  The Minister may, by notice published in the _Gazette_, give directions specifying the manner in which, and any conditions and qualifications subject to which, functions or powers given to inspectors are to be performed or exercised.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  An inspector must comply with directions given under subsection (3).
+<dt>(a)</dt><dd>is to be appointed by the Secretary to the Department; and</dd>
 
-##### <a id="26"></a>26  Identity cards
+<dt>(b)</dt><dd>is to be a person holding an office in the Department.
 
-             (1)  The Minister may cause to be issued to an inspector an identity card in a form approved by the Minister and bearing a photograph of the inspector.
+</dd>
 
-             (2)  A person who ceases to be an inspector must, as soon as practicable, return his or her identity card to the Minister.
+</dl></dl></dl>
 
-                    Penalty:  1 penalty unit.
+**
 
-             (3)  An offence under subsection (2) is an offence of strict liability.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 23  Delegation by Minister 
+**
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+ <dl compact="">
 
-##### <a id="27"></a>27  Powers of inspectors
+		The Minister may by signed instrument delegate to the Administrator or to an
 
-             (1)  Subject to subsection (4), an inspector may, for the purpose of finding out whether the requirements of this Act, the regulations, procedures determined under section 9, or determinations under section 7, 10 or 13B, are being, or have been, met, enter any premises at any time during ordinary working hours or at any other time at which it is necessary to do so for that purpose, and exercise the powers of an inspector under this section.
+Associate Administrator all or any of the Minister's functions or powers under
 
-             (2)  The powers of an inspector under this section in relation to premises are:
+this Act, other than:
 
-                     (a)  to inspect any step in the manufacture of a road vehicle or a vehicle component; and
+ </dl>
 
-                     (b)  to inspect any work, material, machinery, appliance, article or facility that relates to the manufacture or testing of a road vehicle or a vehicle component; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  to take and retain samples of any goods or substance used in the manufacture or testing of a road vehicle or a vehicle component; and
+<dt>(a)</dt><dd>the power to determine that vehicles of a particular class or description
 
-                     (d)  to inspect documents relating to the manufacture or testing of a road vehicle or a vehicle component; and
+are not road motor vehicles under subsection 5B(1); and</dd>
 
-                     (e)  to make copies of, or take extracts from, such a document.
+<dt>(b)</dt><dd>the power to determine national standards under section&#160;7; and</dd>
 
-             (3)  An inspector has no powers under this section in relation to export vehicles or vehicle components to be used in the manufacture of export vehicles.
+<dt>(c)</dt><dd>the power to determine the organisations whose documents may be
 
-             (4)  An inspector must not enter premises under subsection (1) unless:
+incorporated under section&#160;7A; and</dd>
 
-                     (a)  the occupier has consented; or
+<dt>(d)</dt><dd>procedures and arrangements for determining whether road vehicles or
 
-                     (b)  the inspector is authorised to enter under a warrant issued under section 28.
+vehicle components comply with this Act under section&#160;9; and</dd>
 
-             (5)  Immediately upon entering premises under subsection (1) an inspector must take all reasonable steps to notify the occupier of the purpose of the entry and must produce the inspector’s identity card for inspection by the occupier.
+<dt>(e)</dt><dd>the power to determine procedures and arrangements for the placement of
 
-             (6)  In this section:
+identification plates on road vehicles under section&#160;10; and</dd>
 
-                    <a name="manufactur"></a>**_manufacture_** includes importation.
+<dt>(f)</dt><dd>the power to determine procedures and arrangements for the placement of
 
-##### <a id="28"></a>28  Monitoring warrants
+used import plates on used imported vehicles under section&#160;13B; and</dd>
 
-             (1)  If, on an application made by an inspector, a Magistrate is satisfied, by information on oath, that it is reasonably necessary that the inspector should, for the purposes of finding out whether the requirements of this Act, the regulations, procedures determined under section 9, or determinations under section 7, 10 or 13B, are being, or have been, met, have access to premises, the Magistrate may issue a warrant naming the inspector and authorising him or her, with such assistance, and by such force, as is necessary and reasonable:
+<dt>(g)</dt><dd>the requirement to determine guidelines under subsection 13D(3); and</dd>
 
-                     (a)  to enter the premises; and
+<dt>(h)</dt><dd>the power to determine guidelines under subsection 21B(2).
 
-                     (b)  to exercise those powers in relation to the premises.
+</dd>
 
-             (2)  The warrant must state:
+</dl></dl></dl>
 
-                     (a)  whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night; and
+**
 
-                     (b)  a day, not being later than 6 months after the day of issue of the warrant, upon which the warrant ceases to have effect.
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 24  Fees  
+**
 
-##### <a id="29"></a>29  Power to require information
+ <dl compact="">
 
-             (1)  Subject to subsection (2), an inspector who has entered premises under section 27 may, to the extent that it is reasonably necessary for the purpose of finding out whether this Act, the regulations, procedures determined under section 9, or determinations under section 7, 10 or 13B have, been complied with, require a person to answer any question put by the inspector and to produce any books, records or documents requested by the inspector.
+<dt>(1)</dt><dd>The regulations may prescribe fees, or a method of calculating fees, to be
 
-             (2)  An inspector is not entitled to make a requirement of a person under subsection (1) unless the inspector produces his or her identity card for inspection by the person.
+paid to the Commonwealth in respect of:
 
-##### <a id="30"></a>30  Offence-related searches and seizures
+</dd> </dl>
 
-             (1)  Where an inspector has reasonable grounds for suspecting that there is, or may be within the next 72 hours, on any premises a particular thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  with the consent of the occupier of the land or premises; or
+<dt>(a)</dt><dd>the placing, or approval of the placing, of identification plates,
 
-                     (b)  under a warrant issued under subsection (2);
+including the carrying out of tests to find out whether a road vehicle should
+
+have an identification plate or whether a road vehicle or road vehicles of a
+
+particular type should continue to have identification plates; or</dd>
+
+<dt>(b)</dt><dd>applications under section&#160;13A, 13C, 14A, 15 or 16 for an approval;
+
+or</dd>
+
+<dt>(c)</dt><dd>applications for approval to import a road vehicle or a vehicle component
+
+under section&#160;19; or</dd>
+
+<dt>(d)</dt><dd>applications for approval to import a road vehicle or a vehicle component
+
+under regulations referred to in subsection 20(3); or</dd>
+
+<dt>(da)</dt><dd>applications under section&#160;21A for an approval, applications under
+
+section&#160;21C to renew an approval or applications under section&#160;21E to
+
+vary an approval; or</dd>
+
+<dt>(e)</dt><dd>the supply of copies of the national standards in force from time to time;
+
+or</dd>
+
+<dt>(f)</dt><dd>the provision of other services, or the supply of other documents or
+
+goods, by the Commonwealth under this Act or the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Prescribed fees are due and payable in such manner and at such time or
+
+times as are prescribed.</dd> <dt>(3)</dt><dd>Where a fee that is required to be paid at the time of making an application or request is not so paid, the application or request is not to be taken to have been duly made.</dd> <dt>(4)</dt><dd>A prescribed fee is not to be such as to amount to taxation.</dd> <dt>(5)</dt><dd>The regulations may make provision for and in relation to the refund of any fees paid under this section in respect of an application under section&#160;21A. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 25  Appointment of inspectors 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, in writing, appoint a person engaged under the _Public Service Act 1999_ to be an inspector.</dd> <dt>(2)</dt><dd>Arrangements may be made under section&#160;71 of the _Public Service Act 1999_ for officers of the Public Service of a State or Territory or of an authority of a State or Territory to perform the functions or exercise the powers of inspectors.</dd> <dt>(3)</dt><dd>The Minister may, by notice published in the _Gazette_, give directions specifying the manner in which, and any conditions and qualifications subject to which, functions or powers given to inspectors are to be performed or exercised.</dd> <dt>(4)</dt><dd>An inspector must comply with directions given under subsection&#160;(3). </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 26  Identity cards 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may cause to be issued to an inspector an identity card in a
+
+form approved by the Minister and bearing a photograph of the inspector.</dd> <dt>(2)</dt><dd>A person who ceases to be an inspector must, as soon as practicable, return his or her identity card to the Minister. </dd> </dl>
+
+Penalty:	1 penalty unit.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>An offence under subsection&#160;(2) is an offence of strict liability.
+
+</dd> </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For _strict liability_, see section&#160;6.1 of
+
+the _Criminal Code_.
+
+ </dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 27  Powers of inspectors 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(4), an inspector may, for the purpose of
+
+finding out whether the requirements of this Act, the regulations, procedures
+
+determined under section&#160;9, or determinations under section&#160;7, 10 or
+
+13B, are being, or have been, met, enter any premises at any time during
+
+ordinary working hours or at any other time at which it is necessary to do so
+
+for that purpose, and exercise the powers of an inspector under this section.</dd> <dt>(2)</dt><dd>The powers of an inspector under this section in relation to premises are: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to inspect any step in the manufacture of a road vehicle or a vehicle
+
+component; and</dd>
+
+<dt>(b)</dt><dd>to inspect any work, material, machinery, appliance, article or facility
+
+that relates to the manufacture or testing of a road vehicle or a vehicle
+
+component; and</dd>
+
+<dt>(c)</dt><dd>to take and retain samples of any goods or substance used in the
+
+manufacture or testing of a road vehicle or a vehicle component; and</dd>
+
+<dt>(d)</dt><dd>to inspect documents relating to the manufacture or testing of a road
+
+vehicle or a vehicle component; and</dd>
+
+<dt>(e)</dt><dd>to make copies of, or take extracts from, such a document.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>An inspector has no powers under this section in relation to export
+
+vehicles or vehicle components to be used in the manufacture of export
+
+vehicles.</dd> <dt>(4)</dt><dd>An inspector must not enter premises under subsection&#160;(1) unless: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the occupier has consented; or</dd>
+
+<dt>(b)</dt><dd>the inspector is authorised to enter under a warrant issued under
+
+section&#160;28.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Immediately upon entering premises under subsection&#160;(1) an inspector
+
+must take all reasonable steps to notify the occupier of the purpose of the
+
+entry and must produce the inspector's identity card for inspection by the
+
+occupier.</dd> <dt>(6)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_manufacture_ includes importation.
+
+ </dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 28  Monitoring warrants 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If, on an application made by an inspector, a Magistrate is satisfied, by
+
+information on oath, that it is reasonably necessary that the inspector should,
+
+for the purposes of finding out whether the requirements of this Act, the
+
+regulations, procedures determined under section&#160;9, or determinations
+
+under section&#160;7, 10 or 13B, are being, or have been, met, have access to
+
+premises, the Magistrate may issue a warrant naming the inspector and
+
+authorising him or her, with such assistance, and by such force, as is
+
+necessary and reasonable:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to enter the premises; and</dd>
+
+<dt>(b)</dt><dd>to exercise those powers in relation to the premises.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The warrant must state:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>whether entry is authorised to be made at any time of the day or night or
+
+during specified hours of the day or night; and</dd>
+
+<dt>(b)</dt><dd>a day, not being later than 6 months after the day of issue of the
+
+warrant, upon which the warrant ceases to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 29  Power to require information 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), an inspector who has entered premises
+
+under section&#160;27&#160;may, to the extent that it is reasonably necessary
+
+for the purpose of finding out whether this Act, the regulations, procedures
+
+determined under section&#160;9, or determinations under section&#160;7, 10 or
+
+13B have, been complied with, require a person to answer any question put by
+
+the inspector and to produce any books, records or documents requested by the
+
+inspector.</dd> <dt>(2)</dt><dd>An inspector is not entitled to make a requirement of a person under subsection&#160;(1) unless the inspector produces his or her identity card for inspection by the person. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 30  Offence-related searches and seizures 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where an inspector has reasonable grounds for suspecting that there is, or
+
+may be within the next 72 hours, on any premises a particular thing that may
+
+afford evidence as to the commission of an offence against this Act, the
+
+inspector may:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>with the consent of the occupier of the land or premises; or</dd>
+
+<dt>(b)</dt><dd>under a warrant issued under subsection&#160;(2);
+
+</dd>
+
+</dl></dl></dl>
 
 enter the premises, and:
 
-                     (c)  search the premises for the thing; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  if the inspector finds the thing on the premises—seize the thing.
+<dt>(c)</dt><dd>search the premises for the thing; and</dd>
 
-             (2)  Where an information on oath is laid before a Magistrate alleging that there are reasonable grounds for suspecting that there may be on any premises a particular thing that may afford evidence as to the commission of an offence against this Act and the information sets out those grounds, the Magistrate may issue a search warrant in accordance with the form prescribed for the purposes of this subsection authorising an inspector named in the warrant, with such assistance, and by such force, as is necessary and reasonable, to enter the premises and exercise the powers referred to in paragraphs (1)(c) and (d) in respect of the thing.
+<dt>(d)</dt><dd>if the inspector finds the thing on the premises&#151;seize the thing.
 
-             (3)  A Magistrate must not issue a warrant under subsection (2) unless:
+</dd>
 
-                     (a)  the informant or some other person has given to the Magistrate, either orally or by affidavit, such further information (if any) as the Magistrate requires concerning the grounds on which the issue of the warrant is being sought; and
+</dl></dl></dl>
 
-                     (b)  the Magistrate is satisfied that there are reasonable grounds for issuing the warrant.
+<dl compact="">
 
-             (4)  A warrant issued under subsection (2) must state:
+<dt>(2)</dt><dd>Where an information on oath is laid before a Magistrate alleging that
 
-                     (a)  the purpose for which the warrant is issued, and the nature of the offence in relation to which the entry and search are authorised; and
+there are reasonable grounds for suspecting that there may be on any premises a
 
-                     (b)  whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night; and
+particular thing that may afford evidence as to the commission of an offence
 
-                     (c)  a description of the kind of documents, substances, equipment or things to be seized; and
+against this Act and the information sets out those grounds, the Magistrate may
 
-                     (d)  a day, not being later than one month after the day of issue of the warrant, upon which the warrant ceases to have effect.
+issue a search warrant in accordance with the form prescribed for the purposes
 
-             (5)  If, in the course of searching, under a warrant issued under this section, for a particular thing in relation to a particular offence, an inspector finds a thing that the inspector believes, on reasonable grounds, to be:
+of this subsection authorising an inspector named in the warrant, with such
 
-                     (a)  a thing that will afford evidence as to the commission of the offence, although not the thing specified in the warrant; or
+assistance, and by such force, as is necessary and reasonable, to enter the
 
-                     (b)  a thing that will afford evidence as to the commission of another offence under this Act or the regulations;
+premises and exercise the powers referred to in paragraphs&#160;(1)(c) and (d)
+
+in respect of the thing.</dd> <dt>(3)</dt><dd>A Magistrate must not issue a warrant under subsection&#160;(2) unless: </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the informant or some other person has given to the Magistrate, either
+
+orally or by affidavit, such further information (if any) as the Magistrate
+
+requires concerning the grounds on which the issue of the warrant is being
+
+sought; and</dd>
+
+<dt>(b)</dt><dd>the Magistrate is satisfied that there are reasonable grounds for issuing
+
+the warrant.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A warrant issued under subsection&#160;(2) must state:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the purpose for which the warrant is issued, and the nature of the offence
+
+in relation to which the entry and search are authorised; and</dd>
+
+<dt>(b)</dt><dd>whether entry is authorised to be made at any time of the day or night or
+
+during specified hours of the day or night; and</dd>
+
+<dt>(c)</dt><dd>a description of the kind of documents, substances, equipment or things to
+
+be seized; and</dd>
+
+<dt>(d)</dt><dd>a day, not being later than one month after the day of issue of the
+
+warrant, upon which the warrant ceases to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>If, in the course of searching, under a warrant issued under this section,
+
+for a particular thing in relation to a particular offence, an inspector finds
+
+a thing that the inspector believes, on reasonable grounds, to be:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a thing that will afford evidence as to the commission of the offence,
+
+although not the thing specified in the warrant; or</dd>
+
+<dt>(b)</dt><dd>a thing that will afford evidence as to the commission of another offence
+
+under this Act or the regulations;
+
+</dd>
+
+</dl></dl></dl>
 
 and the inspector believes, on reasonable grounds, that it is necessary to seize that thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the warrant is to be taken to authorise the inspector to seize that thing.
 
-             (6)  Where an inspector seizes any thing under subsection (1) or (5), the inspector may retain the thing until the expiration of a period of 60 days after the seizure or, if proceedings for an offence against this Act in respect of which the thing may afford evidence are instituted within that period, until the proceedings (including any appeal to a court in relation to those proceedings) are completed.
+<dl compact="">
 
-             (7)  The Minister may authorise any thing seized under subsection (1) or (5) to be released to the owner, or to the person from whom the thing was seized, either unconditionally or on such conditions as the Minister thinks fit.
+<dt>(6)</dt><dd>Where an inspector seizes any thing under subsection&#160;(1) or (5), the
 
-##### <a id="32"></a>32  Failure to answer questions etc.
+inspector may retain the thing until the expiration of a period of 60 days
 
-             (1)  A person must not fail to answer a question or produce a document when so required by an inspector under this Act.
+after the seizure or, if proceedings for an offence against this Act in respect
 
-                    Penalty:  30 penalty units.
+of which the thing may afford evidence are instituted within that period, until
 
-             (2)  Subsection (1) does not apply if the person has a reasonable excuse.
+the proceedings (including any appeal to a court in relation to those
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+proceedings) are completed.</dd> <dt>(7)</dt><dd>The Minister may authorise any thing seized under subsection&#160;(1) or <dt>(5)</dt><dd>to be released to the owner, or to the person from whom the thing was seized, either unconditionally or on such conditions as the Minister thinks fit. </dd>
 
-             (3)  An offence under subsection (1) is an offence of strict liability.
+</dd></dl>
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+**
 
-##### <a id="33"></a>33  Agents
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 32  Failure to answer questions etc. 
+**
 
-                   The Minister may appoint such agents as he or she thinks necessary to perform functions, whether inside or outside Australia, for the purposes of this Act.
+ <dl compact="">
 
-## Part 6—Court proceedings
+<dt>(1)</dt><dd>A person must not fail to answer a question or produce a document when so
 
-##### <a id="34"></a>34  Evidence
+required by an inspector under this Act.
 
-             (1)  The Minister or a person authorised in writing by the Minister to give certificates under this section may, for the purposes of proceedings for an offence against section 14, 15, 16 or 19, give a certificate stating that conditions specified in the certificate were the conditions to which the Minister’s written approval under section 14, 15, 16 or 19, as the case may be, was subject.
+</dd> </dl>
 
-             (2)  A certificate given under subsection (1) is _prima facie_ evidence of the matter stated in the certificate.
+Penalty:	30 penalty units.
 
-             (3)  In proceedings for an offence against section 14, 15, 16 or 19, a document purporting to be a certificate given under this section, unless the contrary intention is proved, is to be taken to be such a certificate and to have been duly given.
+<dl compact="">
 
-##### <a id="35"></a>35  Injunctions
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
 
-             (1)  Where a person has engaged, is engaging or is proposing to engage, in any conduct that constituted or would constitute a contravention of this Act or the regulations, the Federal Court may, on the application of the Minister or any other person, grant an injunction restraining the person from engaging in the conduct and, if in the court’s opinion it is desirable to do so, requiring the person to do any act or thing.
+</dd> </dl>
 
-             (2)  Where:
+<dl compact=""><dl compact="">
 
-                     (a)  a person has refused or failed, or is refusing or failing, or is proposing to refuse or fail, to do an act or thing; and
+Note:	A defendant bears an evidential burden in relation to the
 
-                     (b)  the refusal or failure was, is, or would be a contravention of this Act or the regulations;
+matter in subsection&#160;(2) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>An offence under subsection&#160;(1) is an offence of strict liability.
+
+</dd> </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For _strict liability_, see section&#160;6.1 of
+
+the _Criminal Code_.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 33  Agents 
+**
+
+ <dl compact="">
+
+		The Minister may appoint such agents as he or she thinks necessary to perform
+
+functions, whether inside or outside Australia, for the purposes of this Act.
+
+ </dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;6&#151;Court proceedings </part>
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 34  Evidence 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister or a person authorised in writing by the Minister to give
+
+certificates under this section may, for the purposes of proceedings for an
+
+offence against section&#160;14, 15, 16 or 19, give a certificate stating that
+
+conditions specified in the certificate were the conditions to which the
+
+Minister's written approval under section&#160;14, 15, 16 or 19, as the case
+
+may be, was subject.</dd> <dt>(2)</dt><dd>A certificate given under subsection&#160;(1) is _prima facie_ evidence of the matter stated in the certificate.</dd> <dt>(3)</dt><dd>In proceedings for an offence against section&#160;14, 15, 16 or 19, a document purporting to be a certificate given under this section, unless the contrary intention is proved, is to be taken to be such a certificate and to have been duly given. </dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 35  Injunctions 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a person has engaged, is engaging or is proposing to engage, in any
+
+conduct that constituted or would constitute a contravention of this Act or the
+
+regulations, the Federal Court may, on the application of the Minister or any
+
+other person, grant an injunction restraining the person from engaging in the
+
+conduct and, if in the court's opinion it is desirable to do so, requiring the
+
+person to do any act or thing.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person has refused or failed, or is refusing or failing, or is proposing
+
+to refuse or fail, to do an act or thing; and</dd>
+
+<dt>(b)</dt><dd>the refusal or failure was, is, or would be a contravention of this Act or
+
+the regulations;
+
+</dd>
+
+</dl></dl></dl>
 
 the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first-mentioned person to do that act or thing.
 
-             (3)  Where an application is made to the court for an injunction under this section, the court may, if in the court’s opinion it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
+<dl compact="">
 
-             (4)  The court may discharge or vary an injunction granted under this section.
+<dt>(3)</dt><dd>Where an application is made to the court for an injunction under this
 
-             (5)  The power of the court to grant an injunction restraining a person from engaging in conduct of a particular kind may be exercised:
+section, the court may, if in the court's opinion it is desirable to do so,
 
-                     (a)  if the court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
+before considering the application, grant an interim injunction restraining a
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
+person from engaging in conduct of the kind referred to in that subsection
 
-             (6)  The power of the court to grant an injunction requiring a person to do a particular act or thing may be exercised:
+pending the determination of the application.</dd> <dt>(4)</dt><dd>The court may discharge or vary an injunction granted under this section.</dd> <dt>(5)</dt><dd>The power of the court to grant an injunction restraining a person from engaging in conduct of a particular kind may be exercised: </dd> </dl>
 
-                     (a)  if the court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
+<dt>(a)</dt><dd>if the court is satisfied that the person has engaged in conduct of that
 
-             (7)  Where the Minister makes an application to the court for the grant of an injunction under this section, the court is not to require the Minister or any other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
+kind&#151;whether or not it appears to the court that the person intends to engage
 
-             (8)  The powers conferred on the court under this section are in addition to, and not in derogation of, any powers of the court, whether conferred by this Act or otherwise.
+again, or to continue to engage, in conduct of that kind; or</dd>
 
-##### <a id="36"></a>36  Conduct by directors, servants and agents
+<dt>(b)</dt><dd>if it appears to the court that, in the event that an injunction is not
 
-             (1)  Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
+granted, it is likely that the person will engage in conduct of that
 
-                     (a)  that the conduct was engaged in by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; and
+kind&#151;whether or not the person has previously engaged in conduct of that kind
 
-                     (b)  that the director, servant or agent had the state of mind.
+and whether or not there is an imminent danger of substantial damage to any
 
-             (2)  Any conduct engaged in on behalf of a body corporate by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
+person if the first-mentioned person engages in conduct of that kind.
 
-             (3)  Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
+</dd>
 
-                     (a)  that the conduct was engaged in by a servant or agent of the person within the scope of his or her actual or apparent authority; and
+</dl></dl></dl>
 
-                     (b)  that the servant or agent had the state of mind.
+<dl compact="">
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+<dt>(6)</dt><dd>The power of the court to grant an injunction requiring a person to do a
 
-             (5)  A reference in subsection (1) or (3) to the state of mind of a person includes a reference to:
+particular act or thing may be exercised:
 
-                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
+</dd> </dl>
 
-                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (6)  A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
+<dt>(a)</dt><dd>if the court is satisfied that the person has refused or failed to do that
 
-             (7)  A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
+act or thing&#151;whether or not it appears to the court that the person intends to
 
-             (8)  A reference in this section to an offence against this Act includes a reference to:
+refuse or fail again, or to continue to refuse or fail, to do that act or
 
-                     (a)  an offence created by the regulations; and
+thing; or</dd>
 
-                     (b)  an offence created by section 6 of the _Crimes Act 1914_, being an offence that relates to the regulations; and
+<dt>(b)</dt><dd>if it appears to the court that, in the event that an injunction is not
 
-                     (c)  an offence created by Part 2.4 of the _Criminal Code_, being an offence that relates to the regulations.
+granted, it is likely that the person will refuse or fail to do that act or
 
-##### <a id="37"></a>37  Legal proceedings not to lie
+thing&#151;whether or not the person has previously refused or failed to do that
 
-                   No action or other proceeding lies against the Commonwealth in respect of any loss incurred, or any damage suffered, because of reliance on:
+act or thing and whether or not there is an imminent danger of substantial
 
-                     (a)  an identification plate or a used import plate; or
+damage to any person if the first-mentioned person refuses or fails to do that
 
-                     (b)  any test carried out under this Act or the regulations or a determination under this Act; or
+act or thing.
 
-                     (c)  any express statement, or any statement or action implying, that a road vehicle or a vehicle component complied with a national standard.
+</dd>
 
-## Part 7—Miscellaneous
+</dl></dl></dl>
 
-##### <a id="38"></a>38  Law to apply in certain circumstances
+<center>Back to Top</center>
 
-             (1)  Where a law of a State purports to require new vehicles to comply with vehicle standards other than the national standards, the regulations may provide that that law is not to apply to:
+<dl compact="">
 
-                     (a)  road vehicles to be used exclusively in trade, commerce and intercourse among the States or between a State and a Territory; or
+<dt>(7)</dt><dd>Where the Minister makes an application to the court for the grant of an
 
-                     (b)  road vehicles owned or to be used by corporations.
+injunction under this section, the court is not to require the Minister or any
 
-             (2)  Where a law of a Territory purports to require new vehicles to comply with vehicle standards other than the national standards, the regulations may provide that that law is not to apply to road vehicles.
+other person, as a condition of the granting of an interim injunction, to give
 
-##### <a id="39"></a>39  Application for review
+any undertakings as to damages.</dd> <dt>(8)</dt><dd>The powers conferred on the court under this section are in addition to, and not in derogation of, any powers of the court, whether conferred by this Act or otherwise. </dd> </dl>
 
-             (1)  Subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for review of:
+**
 
-                    (aa)  a decision of the Minister under section 10; and
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 36  Conduct by directors, servants and agents 
+**
 
-                  (aaa)  a decision of the Minister under section 10A; and
+ <dl compact="">
 
-                     (a)  a decision of the Minister under section 11; and
+<dt>(1)</dt><dd>Where, in proceedings for an offence against this Act, it is necessary to
 
-                    (ab)  a decision of the Minister under section 13D to refuse an application for an approval; and
+establish the state of mind of a body corporate in relation to particular
 
-                    (ac)  a decision of the Minister under section 13D to specify a condition in an approval; and
+conduct, it is sufficient to show:
 
-                    (ad)  a decision of the Minister under section 13F to vary, cancel or suspend an approval; and
+</dd> </dl>
 
-                     (b)  a decision of the Minister for the purposes of section 14A; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  a decision of the Minister for the purposes of subsection 15(2); and
+<dt>(a)</dt><dd>that the conduct was engaged in by a director, servant or agent of the
 
-                     (d)  a decision of the Minister under section 16 to refuse an application for an approval; and
+body corporate within the scope of his or her actual or apparent authority;
 
-                    (da)  a decision of the Minister under section 16 to specify a condition in an approval; and
+and</dd>
 
-                    (db)  a decision of the Minister under section 16A to vary, cancel or suspend an approval; and
+<dt>(b)</dt><dd>that the director, servant or agent had the state of mind.
 
-                     (e)  a decision of the Minister for the purposes of section 19; and
+</dd>
 
-                      (f)  a decision of the Minister under the regulations for the purposes of section 20; and
+</dl></dl></dl>
 
-                    (fa)  a decision of the Minister under section 21B to refuse an application for an approval; and
+<dl compact="">
 
-                    (fb)  a decision of the Minister under section 21C to refuse to renew an approval; and
+<dt>(2)</dt><dd>Any conduct engaged in on behalf of a body corporate by a director,
 
-                    (fc)  a decision of the Minister under section 21D to specify a condition in an approval; and
+servant or agent of the body corporate within the scope of his or her actual or
 
-                    (fd)  a decision of the Minister under section 21E to vary, cancel or suspend an approval; and
+apparent authority is to be taken, for the purposes of a prosecution for an
 
-                     (g)  a decision under the regulations or a determination to give or refuse an identification plate or an identification plate authority.
+offence against this Act, to have been engaged in also by the body corporate
 
-             (2)  In subsection (1):
+unless the body corporate establishes that the body corporate took reasonable
 
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+precautions and exercised due diligence to avoid the conduct.</dd> <dt>(3)</dt><dd>Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show: </dd> </dl>
 
-##### <a id="40"></a>40  Statement to accompany notice of decisions
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Where the Minister makes a decision of a kind referred to in subsection 39(1) and gives to a person whose interests are affected by the decision notice in writing of the decision, that notice is to include a statement to the effect that:
+<dt>(a)</dt><dd>that the conduct was engaged in by a servant or agent of the person within
 
-                     (a)  subject to the _Administrative Appeals Tribunal Act 1975_, application may be made by or on behalf of that person to the Administrative Appeals Tribunal for review of that decision; and
+the scope of his or her actual or apparent authority; and</dd>
 
-                     (b)  except where subsection 28(4) of that Act applies, application may be made in accordance with section 28 of that Act by or on behalf of that person for a statement in writing setting out the reasons for the decision.
+<dt>(b)</dt><dd>that the servant or agent had the state of mind.
 
-             (2)  Any contravention of subsection (1) in relation to a decision does not affect the validity of the decision.
+</dd>
 
-##### <a id="41"></a>41  Application of Trade Practices Act
+</dl></dl></dl>
 
-                   For the purpose of sections 65C (other than subsection 65C(8)) and 65F of the _Trade Practices Act 1974_, a national standard (including a standard designed for a purpose referred to in paragraph (b) or (c) of the definition of **_vehicle standard_** in section 5 of this Act) is to be taken to be a prescribed consumer product safety standard.
+<dl compact="">
 
-##### <a id="42"></a>42  Regulations
+<dt>(4)</dt><dd>Any conduct engaged in on behalf of a person other than a body corporate
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+by a servant or agent of the person within the scope of his or her actual or
 
-                     (a)  required or permitted by this Act to be prescribed; or
+apparent authority is to be taken, for the purposes of a prosecution for an
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
+offence against this Act, to have been engaged in also by the first-mentioned
+
+person unless the first-mentioned person establishes that the first-mentioned
+
+person took reasonable precautions and exercised due diligence to avoid the
+
+conduct.</dd> <dt>(5)</dt><dd>A reference in subsection&#160;(1) or (3) to the state of mind of a person includes a reference to: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the knowledge, intention, opinion, belief or purpose of the person; and</dd>
+
+<dt>(b)</dt><dd>the person's reasons for the intention, opinion, belief or purpose.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>A reference in this section to a director of a body corporate includes a
+
+reference to a constituent member of a body corporate incorporated for a public
+
+purpose by a law of the Commonwealth, of a State or of a Territory.</dd> <dt>(7)</dt><dd>A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.</dd> <dt>(8)</dt><dd>A reference in this section to an offence against this Act includes a reference to: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an offence created by the regulations; and</dd>
+
+<dt>(b)</dt><dd>an offence created by section&#160;6 of the _Crimes Act 1914_, being
+
+an offence that relates to the regulations; and</dd>
+
+<dt>(c)</dt><dd>an offence created by Part&#160;2.4 of the _Criminal Code_, being an
+
+offence that relates to the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 37  Legal proceedings not to lie <center>[Back to Top](#top)</center> 
+**
+
+ <dl compact="">
+
+		No action or other proceeding lies against the Commonwealth in respect of any
+
+loss incurred, or any damage suffered, because of reliance on:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an identification plate or a used import plate; or</dd>
+
+<dt>(b)</dt><dd>any test carried out under this Act or the regulations or a determination
+
+under this Act; or</dd>
+
+<dt>(c)</dt><dd>any express statement, or any statement or action implying, that a road
+
+vehicle or a vehicle component complied with a national standard.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<part>Part&#160;7&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 38  Law to apply in certain circumstances 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a law of a State purports to require new vehicles to comply with
+
+vehicle standards other than the national standards, the regulations may
+
+provide that that law is not to apply to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>road vehicles to be used exclusively in trade, commerce and intercourse
+
+among the States or between a State and a Territory; or</dd>
+
+<dt>(b)</dt><dd>road vehicles owned or to be used by corporations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a law of a Territory purports to require new vehicles to comply with
+
+vehicle standards other than the national standards, the regulations may
+
+provide that that law is not to apply to road vehicles.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 39  Application for review 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to the _Administrative Appeals Tribunal Act 1975_, an
+
+application may be made to the Administrative Appeals Tribunal for review of:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(aa)</dt><dd>a decision of the Minister under section&#160;10; and</dd>
+
+<dt>(aaa)</dt><dd>a decision of the Minister under section&#160;10A; and</dd>
+
+<dt>(a)</dt><dd>a decision of the Minister under section&#160;11; and</dd>
+
+<dt>(ab)</dt><dd>a decision of the Minister under section&#160;13D to refuse an
+
+application for an approval; and</dd>
+
+<dt>(ac)</dt><dd>a decision of the Minister under section&#160;13D to specify a condition
+
+in an approval; and</dd>
+
+<dt>(ad)</dt><dd>a decision of the Minister under section&#160;13F to vary, cancel or
+
+suspend an approval; and</dd>
+
+<dt>(b)</dt><dd>a decision of the Minister for the purposes of section&#160;14A; and</dd>
+
+<dt>(c)</dt><dd>a decision of the Minister for the purposes of subsection 15(2); and</dd>
+
+<dt>(d)</dt><dd>a decision of the Minister under section&#160;16 to refuse an application
+
+for an approval; and</dd>
+
+<dt>(da)</dt><dd>a decision of the Minister under section&#160;16 to specify a condition
+
+in an approval; and</dd>
+
+<dt>(db)</dt><dd>a decision of the Minister under section&#160;16A to vary, cancel or
+
+suspend an approval; and</dd>
+
+<dt>(e)</dt><dd>a decision of the Minister for the purposes of section&#160;19; and</dd>
+
+<dt>(f)</dt><dd>a decision of the Minister under the regulations for the purposes of
+
+section&#160;20; and</dd>
+
+<dt>(fa)</dt><dd>a decision of the Minister under section&#160;21B to refuse an
+
+application for an approval; and</dd>
+
+<dt>(fb)</dt><dd>a decision of the Minister under section&#160;21C to refuse to renew an
+
+approval; and</dd>
+
+<dt>(fc)</dt><dd>a decision of the Minister under section&#160;21D to specify a condition
+
+in an approval; and</dd>
+
+<dt>(fd)</dt><dd>a decision of the Minister under section&#160;21E to vary, cancel or
+
+suspend an approval; and</dd>
+
+<dt>(g)</dt><dd>a decision under the regulations or a determination to give or refuse an
+
+identification plate or an identification plate authority.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>In subsection&#160;(1):
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_decision_ has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+
+ </dl></dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 40  Statement to accompany notice of decisions 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where the Minister makes a decision of a kind referred to in subsection
+
+39(1) and gives to a person whose interests are affected by the decision notice
+
+in writing of the decision, that notice is to include a statement to the effect
+
+that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subject to the _Administrative Appeals Tribunal Act 1975_,
+
+application may be made by or on behalf of that person to the Administrative
+
+Appeals Tribunal for review of that decision; and</dd>
+
+<dt>(b)</dt><dd>except where subsection 28(4) of that Act applies, application may be made
+
+in accordance with section&#160;28 of that Act by or on behalf of that person
+
+for a statement in writing setting out the reasons for the decision.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Any contravention of subsection&#160;(1) in relation to a decision does
+
+not affect the validity of the decision.
+
+</dd> </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 41  Application of Trade Practices Act 
+**
+
+ <dl compact="">
+
+		For the purpose of sections&#160;65C (other than subsection 65C(8)) and 65F
+
+of the _Trade Practices Act 1974_, a national standard (including a
+
+standard designed for a purpose referred to in paragraph&#160;(b) or (c) of the
+
+definition of _vehicle standard_ in section&#160;5 of this Act) is
+
+to be taken to be a prescribed consumer product safety standard.
+
+ </dl>
+
+**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989- SECT 42  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act;
+
+</dd>
+
+</dl></dl></dl>
 
 and, in particular:
 
-                     (c)  prescribing fines, not exceeding 10 penalty units, for offences against the regulations; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  providing that approvals given before the commencement of section 10 to place compliance plates on vehicles may be taken to have been given in accordance with the arrangements under section 10\. 
+<dt>(c)</dt><dd>prescribing fines, not exceeding 10 penalty units, for offences against
 
-# Notes to the _Motor Vehicle Standards Act 1989_
+the regulations; and</dd>
 
-### Note 1
+<dt>(d)</dt><dd>providing that approvals given before the commencement of section&#160;10
 
-The _Motor Vehicle Standards Act 1989_ as shown in this compilation comprises Act No. 65, 1989 amended as indicated in the Tables below.
+to place compliance plates on vehicles may be taken to have been given in
 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+accordance with the arrangements under section&#160;10.
 
-### Table of Acts
+</dd>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+</dl></dl></dl>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<center>**
+
+###  MOTOR VEHICLE STANDARDS ACT 1989<centreit>Notes to the _Motor Vehicle Standards Act 1989_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Motor Vehicle Standards Act 1989_ as shown in this compilation comprises Act No.&#160;65, 1989 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 24&#160;November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Motor Vehicle Standards Act 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Motor Vehicle Standards Act 1989</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>65, 1989</div>
+
   </td>
-  <td>
-    <div>19 June 1989</div>
+  <td colspan="1" align="left">
+    <div>19&#160;June 1989</div>
+
   </td>
-  <td>
-    <div>Ss. 3–42: 1 Aug 1989 ( <i>see Gazette</i>1989, No. S259) 
+  <td colspan="1" align="left">
+    <div>Ss. 3-42: 1 Aug 1989 ( <i>see Gazette</i>1989, No. S259) 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1989</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport and Communications Legislation Amendment Act (No.&#160;2) 1989</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>23, 1990</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Jan 1990</div>
+
   </td>
-  <td>
-    <div>Part 10 (ss. 27–37): Royal Assent <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part&#160;10 (ss. 27-37): Royal Assent <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1990</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport and Communications Legislation Amendment Act 1990</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Jan 1991</div>
+
   </td>
-  <td>
-    <div>Part 7 (ss. 25–30): Royal Assent <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Part&#160;7 (ss. 25-30): Royal Assent <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport and Communications Legislation Amendment Act (No.&#160;2) 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>71, 1992</div>
+
   </td>
-  <td>
-    <div>26 June 1992</div>
+  <td colspan="1" align="left">
+    <div>26&#160;June 1992</div>
+
   </td>
-  <td>
-    <div>Part 11 (ss. 54, 55): <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Part&#160;11 (ss. 54, 55): <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Territories Law Reform Act 1992</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>104, 1992</div>
+
   </td>
-  <td>
-    <div>30 June 1992</div>
+  <td colspan="1" align="left">
+    <div>30&#160;June 1992</div>
+
   </td>
-  <td>
-    <div>S. 24: 1 July 1992 <i>(d)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 24: 1&#160;July 1992 <i>(d)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1993</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport and Communications Legislation Amendment Act 1993</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>18 Jan 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>18 Jan 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 2(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport Legislation Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport Legislation Amendment Act 1995</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>95, 1995</div>
+
   </td>
-  <td>
-    <div>27 July 1995</div>
+  <td colspan="1" align="left">
+    <div>27&#160;July 1995</div>
+
   </td>
-  <td>
-    <div>S. 3 (Part G \[items 2, 3, 6–13, 16–41]): Royal Assent <i>(e)</i> 
-S. 3 (Part G \[items 1, 4, 5, 14, 15]): 27 Jan 1996 <i>(e)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3 (Part G \[items&#160;2, 3, 6-13, 16-41]): Royal Assent <i>(e)</i> 
+S. 3 (Part G \[items&#160;1, 4, 5, 14, 15]): 27 Jan 1996 <i>(e)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>as amended by</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 3 (item 125): 27 July 1995 <i>(f)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3 (item&#160;125): 27&#160;July 1995 <i>(f)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (item 74): <i>(g)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (item&#160;74): <i>(g)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Motor Vehicle Standards Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Motor Vehicle Standards Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>8, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31 Mar 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31 Mar 1999</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>146, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 1 (items 617–619): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (items&#160;617-619): 5&#160;Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>137, 2000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Nov 2000</div>
+
   </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3 and Schedule&#160;1 (items&#160;1, 4, 6, 7, 9-11, 32): Royal Assent 
+Remainder: 24&#160;May 2001</div>
+
   </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Motor Vehicle Standards Amendment Act 2001</div>
-    </td>
-    <td>
-      <div>155, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>1 Apr 2002</div>
-    </td>
-    <td>
-      <div>Ss. 4-6 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
-    </td>
-    <td>
-      <div>109, 2006</div>
-    </td>
-    <td>
-      <div>27 Sept 2006</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 38–59): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (items&#160;418, 419) \[ <i>see</i>Table A]</div>
 
-_(a)_     The _Motor Vehicle Standards Act 1989_ was amended by Part 10 (sections 27–37) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(b)_ The _Motor Vehicle Standards Act 1989_ was amended by Part 7 (sections 25–30) only of the _Transport and Communications Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows: 
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(c)_     The _Transport and Communications Legislation Amendment Act 1990_ was amended by Part 11 (sections 54 and 55) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(9) of which provides as follows:
-
-                 (9)   Part 11 is taken to have commenced immediately after the commencement of section 26 of the _Transport and Communications Legislation Amendment Act 1990_.
-
-         Section 26 of the _Transport and Communications Legislation Amendment Act 1990_ commenced on 21 January 1991.
-
-_(d)_ The _Motor Vehicle Standards Act 1989_ was amended by section 24 only of the _Territories Law Reform Act 1992_, subsection 2(3) of which provides as follows:
-
-                 (3)   The remaining provisions of this Act commence on 1 July 1992.
-
-_(e)     T_ he _Motor Vehicle Standards Act 1989_ was amended by the _Transport Legislation Amendment Act 1995_, subsections 2(1), (5) and (9) of which provide as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-                 (5)   Subject to subsection (9), items 1, 4, 5, 14 and 15 of Part G of Schedule 1 commence on a day or days to be fixed by Proclamation.
-
-                 (9)   If items 1, 4, 5, 14 and 15 of Part G of Schedule 1, or any of them, do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
-
-_(f)_ The _Transport Legislation Amendment Act 1995_ was amended by Schedule 3 (item 125) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
-
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
-
-_(g)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule 2 (item 74) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
-
-                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
-
-         Item 74 is taken to have commenced immediately after the commencement of item 21 of Part G of Schedule 1 to the _Transport Legislation Amendment Act 1995_.
-
-         Item 21 of Part G of Schedule 1 to the _Transport Legislation Amendment Act 1995_ commenced on 27 July 1995.
-
-_(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule 1 (items 617–619) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Motor Vehicle Standards Amendment Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>155, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Apr 2002</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Ss. 4-6 \[ <i>see</i>Table A]</div>
+
+  </th>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Motor Vehicle Standards Act 1989_ was amended by Part&#160;10 (sections&#160;27-37) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(b)_ The _Motor Vehicle Standards Act 1989_ was amended by Part&#160;7 (sections&#160;25-30) only of the _Transport and Communications Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows: 
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_	The _Transport and Communications Legislation Amendment Act 1990_ was amended by Part&#160;11 (sections&#160;54 and 55) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(9) of which provides as follows:
+
+	(9)	Part&#160;11 is taken to have commenced immediately after the commencement of section&#160;26 of the _Transport and Communications Legislation Amendment Act 1990_.
+
+	Section&#160;26 of the _Transport and Communications Legislation Amendment Act 1990_ commenced on 21&#160;January 1991.
+ _(d)_ The _Motor Vehicle Standards Act 1989_ was amended by section&#160;24 only of the _Territories Law Reform Act 1992_, subsection 2(3) of which provides as follows:
+
+	(3)	The remaining provisions of this Act commence on 1&#160;July 1992.
+
+_(e)	T_ he _Motor Vehicle Standards Act 1989_ was amended by the _Transport Legislation Amendment Act 1995_, subsections 2(1), (5) and (9) of which provide as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+ 	(5)	Subject to subsection&#160;(9), items&#160;1, 4, 5, 14 and 15 of Part G of Schedule&#160;1 commence on a day or days to be fixed by Proclamation.
+ 	(9)	If items&#160;1, 4, 5, 14 and 15 of Part G of Schedule&#160;1, or any of them, do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
+
+_(f)_ The _Transport Legislation Amendment Act 1995_ was amended by Schedule&#160;3 (item&#160;125) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+
+	(3)	Each item in Schedule&#160;3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+
+_(g)_	The _Motor Vehicle Standards Act 1989_ was amended by Schedule&#160;2 (item&#160;74) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+
+	(2)	Each item in Schedule&#160;2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+
+	Item&#160;74 is taken to have commenced immediately after the commencement of item&#160;21 of Part G of Schedule&#160;1 to the _Transport Legislation Amendment Act 1995_.
+ 	Item&#160;21 of Part G of Schedule&#160;1 to the _Transport Legislation Amendment Act 1995_ commenced on 27&#160;July 1995.
+ _(h)_	The _Motor Vehicle Standards Act 1989_ was amended by Schedule&#160;1 (items&#160;617-619) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>rs. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4A</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 11, 1991 (as am. by No. 71, 1992); No. 104, 1992; No. 95, 1995; No. 8, 1999; Nos. 143 and 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;11, 1991 (as am. by No.&#160;71, 1992); No.&#160;104, 1992; No.&#160;95, 1995; No.&#160;8, 1999; Nos. 143 and 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 5B</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 5A, 5B</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6A</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Note to s. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7A</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>rs. No. 23, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 11, 1991; No. 95, 1995; No. 155, 2001; No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;23, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Note to s. 9</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>ad. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;11, 1991; No.&#160;95, 1995; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Part&#160;3</div>
+
   </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 3 .</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 1 of Part&#160;3</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
-    <div>rs. No. 23, 1990; No. 11, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 4, 1994</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;23, 1990; No.&#160;11, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2001; No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 155, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 10A, 10B</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 155, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 11</div>
+
   </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 155, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 4, 1994; No. 95, 1995; No. 8, 1999; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;4, 1994; No.&#160;95, 1995; No.&#160;8, 1999; No.&#160;155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 8, 1999; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;8, 1999; No. 143, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 13</div>
+
   </td>
-  <td>
-    <div>rs. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995; No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 3 .</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 2 of Part&#160;3</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13A</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 13B</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 3 of Part&#160;3 
+(ss. 13B-13G)</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 13C</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 13B-13G</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13D</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 1 of Part&#160;4</div>
+
   </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13E–13G</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 4 .</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 14A, 14B</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 4</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 2 of Part&#160;4 
+(ss. 16, 16A)</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16A</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 4 .</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 3 of Part&#160;4</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17A</div>
+
   </td>
-  <td>
-    <div>ad. No. 23, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 95, 1995; No. 8, 1999; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;23, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995; No.&#160;8, 1999; No. 155, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 18</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 19</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 4, 1994; No. 95, 1995; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;4, 1994; No.&#160;95, 1995; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995; Nos. 143 and 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995; Nos. 143 and 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 4</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 4 of Part&#160;4 
+(s. 21)</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 21</div>
+
   </td>
-  <td>
-    <div>rep. No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 4A</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part 4A 
+(ss. 21A-21E)</div>
+
   </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21B</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 21A-21E</div>
+
   </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21C–21E</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. Nos. 8 and 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 23</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 95, 1995; No. 8, 1999; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;95, 1995; No.&#160;8, 1999; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 24</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995; No. 43, 1996; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995; No.&#160;43, 1996; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 25</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 26</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990; No. 11, 1991; No. 95, 1995; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990; No.&#160;11, 1991; No.&#160;95, 1995; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 28, 29</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 31</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 95, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No.&#160;95, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 32</div>
+
   </td>
-  <td>
-    <div>am. No. 4, 1994; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;4, 1994; No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 34</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995 (as am. by No. 43, 1996)</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995 (as am. by No.&#160;43, 1996)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 36</div>
+
   </td>
-  <td>
-    <div>am. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 37</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995; No. 155, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 39</div>
+
   </td>
-  <td>
-    <div>am. No. 11, 1991; No. 95, 1995; No. 8, 1999; No. 155, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;11, 1991; No.&#160;95, 1995; No.&#160;8, 1999; No. 155, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 41</div>
+
   </td>
-  <td>
-    <div>am. No. 23, 1990</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 42</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1995</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1995</div>
+
   </td>
-</tr></table>
+</tr></table>**Table <center>Back to Top</center> A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ (No.&#160;137, 2000)
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+**Schedule&#160;2** **418  Transitional&#151;pre-commencement offences** (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
-## Schedule 2
+<dl compact=""><dl compact=""><dl compact="">
 
-## 418  Transitional—pre-commencement offences
+<dt>(a)</dt><dd>an offence committed before the commencement of this item; or</dd>
 
-(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+<dt>(b)</dt><dd>proceedings for an offence alleged to have been committed before the
 
-                     (a)  an offence committed before the commencement of this item; or
+commencement of this item; or</dd>
 
-                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
+<dt>(c)</dt><dd>any matter connected with, or arising out of, such proceedings;
 
-                     (c)  any matter connected with, or arising out of, such proceedings;
+</dd>
+
+</dl></dl></dl>
 
 as if the amendment or repeal had not been made.
 
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)	Subitem&#160;(1) does not limit the operation of section&#160;8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre-commencement notices
+**419  Transitional&#151;pre-commencement notices**
 
 If:
 
-                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  any or all of those other provisions are repealed by this Schedule; and
+<dt>(a)</dt><dd>a provision in force immediately before the commencement of this item
 
-                     (c)  the first-mentioned provision is amended by this Schedule;
+required that a notice set out the effect of one or more other provisions;
+
+and</dd>
+
+<dt>(b)</dt><dd>any or all of those other provisions are repealed by this Schedule; and</dd>
+
+<dt>(c)</dt><dd>the first-mentioned provision is amended by this Schedule;
+
+</dd>
+
+</dl></dl></dl>
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No. 143, 2001) 
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+**4  Application of Amendments**
 
-##### <a id="4"></a>4  Application of Amendments
+<dl compact="">
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
 
-* * *
+_Motor Vehicle Standards Amendment Act 2001_ (No. 155, 2001) 
 
-_Motor Vehicle Standards Amendment Act 2001 (No. 155, 2001)_
+**4  Transitional&#151;old approvals**
 
-##### <a id="4"></a>4  Transitional—old approvals
+_Section 10A approvals that cease to be in force_
 
-Section 10A approvals that cease to be in force
+<dl compact="">
 
-             (1)  If, immediately before the commencement of this Act, an approval (the **_old approval_**) was in force under section 10A of the _Motor Vehicle Standards Act 1989_ in respect of used imported vehicles of a particular type, then, immediately after the commencement of this Act:
+<dt>(1)</dt><dd>If, immediately before the commencement of this Act, an approval (the
 
-                     (a)  the old approval ceases to be in force; and
+**_old approval_**) was in force under section&#160;10A of the _Motor Vehicle Standards Act 1989_ in respect of used imported vehicles of a
 
-                     (b)  the Minister is taken to have granted an approval (the **_transitional approval_**) under subsection 16(2) of that Act in respect of used imported vehicles of that type.
+particular type, then, immediately after the commencement of this Act:
 
-Section 10A approvals that remain in force
+</dd> </dl>
 
-             (2)  The amendments made by Schedule 1 do not affect the validity of:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  any other approval given under section 10A of the _Motor Vehicle Standards Act 1989_ before the commencement of this Act; and
+<dt>(a)</dt><dd>the old approval ceases to be in force; and</dd>
 
-                     (b)  any condition determined under that section, before the commencement of this Act, in respect of such an approval.
+<dt>(b)</dt><dd>the Minister is taken to have granted an approval (the **_transitional approval_**) under subsection 16(2) of that Act in respect of used
 
-Section 14A approvals
+imported vehicles of that type.
 
-             (3)  If, immediately before the commencement of this Act, an approval (the **_old approval_**) was in force under section 14A of the _Motor Vehicle Standards Act 1989_ in respect of a used imported vehicle, then, immediately after the commencement of this Act:
+</dd>
 
-                     (a)  the old approval ceases to be in force; and
+</dl></dl></dl>
 
-                     (b)  the Minister is taken to have granted an approval (the **_transitional approval_**) under subsection 16(2) of that Act in respect of the vehicle.
+_Section 10A approvals that remain in force_
 
-Period transitional approvals in force
+<dl compact="">
 
-             (4)  A transitional approval is taken to be in force for a period worked out in accordance with the regulations. The regulations may provide for transitional approvals to be in force for different periods (having regard to the old approvals that ceased to be in force).
+<dt>(2)</dt><dd>The amendments made by Schedule&#160;1 do not affect the validity of:
 
-Conditions
+</dd> </dl>
 
-             (5)  All transitional approvals are subject to the conditions prescribed by the regulations.
+<dl compact=""><dl compact=""><dl compact="">
 
-Variation, cancellation or suspension of transitional approvals
+<dt>(a)</dt><dd>any other approval given under section&#160;10A of the _Motor Vehicle Standards Act 1989_ before the commencement of this Act; and</dd>
 
-             (6)  Section 16A of the _Motor Vehicle Standards Act 1989_ applies to a transitional approval in the same way as it does to any other approval granted under section 16 of that Act.
+<dt>(b)</dt><dd>any condition determined under that section, before the commencement of
 
-Making regulations
+this Act, in respect of such an approval.
 
-             (7)  The Governor-General may make regulations prescribing matters:
+</dd>
 
-                     (a)  required or permitted by this section to be prescribed; or
+</dl></dl></dl>
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this section.
+_Section 14A approvals_
 
-Definition
+<dl compact="">
 
-             (8)  In this section:
+<dt>(3)</dt><dd>If, immediately before the commencement of this Act, an approval (the
 
-                    <a name="used-imported-vehicl"></a>**_used imported vehicle_** means an imported vehicle that has been used in transport outside Australia.
+**_old approval_**) was in force under section&#160;14A of the _Motor Vehicle Standards Act 1989_ in respect of a used imported vehicle, then,
 
-##### <a id="5"></a>5  Application—breach of conditions on identification plate approvals
+immediately after the commencement of this Act:
 
-                   Subsection 10A(6) of the _Motor Vehicle Standards Act 1989_ applies to conditions determined under section 10A of that Act before or after the commencement of this Act.
+</dd> </dl>
 
-##### <a id="6"></a>6  Application—supply of used imported vehicles
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Section 16 of the _Motor Vehicle Standards Act 1989_ applies to used imported vehicles supplied to the market after the commencement of this Act (regardless of whether the vehicles were imported before or after the commencement of this Act).
+<dt>(a)</dt><dd>the old approval ceases to be in force; and</dd>
 
- 
+<dt>(b)</dt><dd>the Minister is taken to have granted an approval (the **_transitional approval_**) under subsection 16(2) of that Act in respect of the vehicle.
 
- 
+</dd>
+
+</dl></dl></dl>
+
+_Period transitional approvals in force_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A transitional approval is taken to be in force for a period worked out in
+
+accordance with the regulations. The regulations may provide for transitional
+
+approvals to be in force for different periods (having regard to the old
+
+approvals that ceased to be in force).
+
+</dd> </dl>
+
+_Conditions_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>All transitional approvals are subject to the conditions prescribed by the
+
+regulations.
+
+</dd> </dl>
+
+_Variation, cancellation or suspension of transitional approvals_
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Section&#160;16A of the _Motor Vehicle Standards Act 1989_ applies to
+
+a transitional approval in the same way as it does to any other approval
+
+granted under section&#160;16 of that Act.
+
+</dd> </dl>
+
+_Making regulations_
+
+<dl compact="">
+
+<dt>(7)</dt><dd>The Governor-General may make regulations prescribing matters:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this section to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this section.
+
+</dd>
+
+</dl></dl></dl>
+
+_Definition_
+
+<dl compact="">
+
+<dt>(8)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+**_used imported vehicle_** means an imported vehicle that has been
+
+used in transport outside Australia.
+
+ </dl></dl>
+
+**5  Application&#151;breach of conditions on identification plate approvals**
+
+<dl compact="">
+
+		Subsection 10A(6) of the _Motor Vehicle Standards Act 1989_ applies to
+
+conditions determined under section&#160;10A of that Act before or after the
+
+commencement of this Act.
+
+ </dl>
+
+**6  Application&#151;supply of used imported vehicles**
+
+<dl compact="">
+
+		Section&#160;16 of the _Motor Vehicle Standards Act 1989_ applies to
+
+used imported vehicles supplied to the market after the commencement of this
+
+Act (regardless of whether the vehicles were imported before or after the
+
+commencement of this Act).
+
+ </dl>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def></def></def></def></def></def>
+
+</def></def></def></def>
+
+
