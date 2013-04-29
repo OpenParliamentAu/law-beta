@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00299/Html/6ec27d89-39f1-4217-bc77-e8ef1c48939c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00840/Html/ca528a8a-0e70-4aef-8760-58eed16bba70_files/image001.gif)
 
 # Interactive Gambling Act 2001
 
 **Act No. 84 of 2001 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -393,6 +393,8 @@ advertising of interactive gambling services.</li>
                     <a name="broadcast-servic"></a>**_broadcasting service_** means a broadcasting service (as defined by the _Broadcasting Services Act 1992_) provided in Australia.
 
                     <a name="busi"></a>**_business_** includes a venture or concern in trade or commerce, whether or not conducted on a regular, repetitive or continuous basis. To avoid doubt, the fact that a club or association provides services to its members does not prevent those services from being services provided in the course of carrying on a business.
+
+                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
 
                     <a name="civil-proceing"></a>**_civil proceeding_** includes a civil action.
 
@@ -1020,7 +1022,7 @@ Recognised alternative access‑prevention arrangements
 
              (5)  The ACMA may, by written instrument, declare that a specified arrangement is a **_recognised alternative access‑prevention arrangement_** for the purposes of the application of this Division to one or more specified end‑users if the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (6)  The following are examples of arrangements that could be declared to be recognised alternative access‑prevention arrangements under subsection (5):
 
@@ -1118,7 +1120,7 @@ Note:          For enforcement, see Part 5.
 
                    A notification under this Division applies to particular internet content only to the extent to which the content is accessed, or available for access, from a website, or a distinct part of a website, specified in the notification.
 
-Note:          For specification by class, see subsection 33(3AB) of the _Acts Interpretation Act 1901_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="31"></a>31  ACMA may be taken to have issued access‑prevention notices
 
@@ -1238,11 +1240,11 @@ Designated alternative access‑prevention arrangements
 
              (4)  An industry code developed by a body or association must not declare that a specified arrangement is a designated alternative access‑prevention arrangement for the purposes of the application of this section to one or more specified end‑users unless the body or association is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
 
-Note:          For specification by class, see subsection 33(3AB) of the _Acts Interpretation Act 1901_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (5)  An industry standard determined by the ACMA must not declare that a specified arrangement is a designated alternative access‑prevention arrangement for the purposes of the application of this section to one or more specified end‑users unless the ACMA is satisfied that the arrangement is likely to provide a reasonably effective means of preventing access by those end‑users to prohibited internet gambling content.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (6)  The following are examples of arrangements that could be declared to be designated alternative access‑prevention arrangements:
 
@@ -2608,7 +2610,7 @@ Schedule 5 (items 137, 138): <i>(d)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 735–739) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 735–739) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2869,7 +2871,7 @@ _(d)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 55 and 123, 2001; No. 45, 2005; No. 8, 2010; No. 46, 2011</div>
+    <div>am. Nos. 55 and 123, 2001; No. 45, 2005; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3093,14 +3095,6 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 24(5)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 25</div>
   </td>
   <td>
@@ -3153,14 +3147,6 @@ Part 3</div>
   </td>
   <td>
     <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3257,14 +3243,6 @@ Part 3</div>
   </td>
   <td>
     <div>am. No. 45, 2005; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 37(4), (5)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3644,6 +3622,36 @@ Part 3</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 735  Section 4 (definition of _business day_)
+
+Repeal the definition.
+
+## 736  Subsection 24(5) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+## 737  Section 30 (note)
+
+Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
+
+## 738  Subsection 37(4) (note)
+
+Omit “subsection 46(2)”, substitute “subsection 33(3AB)”.
+
+## 739  Subsection 37(5) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+As at 19 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3675,6 +3683,8 @@ _Note:       Headings to the following provisions are not altered by
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
