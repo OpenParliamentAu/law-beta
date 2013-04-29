@@ -1,968 +1,1124 @@
-![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image001.gif)
+**
 
-# Radio Licence Fees Act 1964
+###  RADIO LICENCE FEES ACT 1964 
+**
 
-**Act No. 119 of 1964 as amended**
 
-This compilation was prepared on 8 April 2005
-taking into account amendments up to Act No. 53 of 2005
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Making Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
 
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Incorporation of Broadcasting Act
 
-[4](#4).            Interpretation
+**
 
-[5](#5).            Licence fees
+###  Long Title 
+**
 
-[6](#6).            Amount of fees
+###  RADIO LICENCE FEES ACT 1964- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Radio Licence Fees Act 1964_.
 
-[6A](#6A).         Change of accounting period—effect on fees payable
+ 
+###  RADIO LICENCE FEES ACT 1964- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-[7](#7).            Earnings of subsidiary companies etc 
+Assent.
 
-[8](#8).            Regulations
+ 
+###  RADIO LICENCE FEES ACT 1964- SECT 3  Incorporation of Broadcasting Act 
+The _Broadcasting Services Act 1992_ is incorporated and shall be read
 
-**Notes** 
+as one with this Act.
 
- 
+ 
+###  RADIO LICENCE FEES ACT 1964- SECT 4  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
+</dd> 
+<dl compact=""><dl compact="">
 
-## An Act to provide for the payment of fees in respect of certain radio licences
+_ABA_ means the Australian Broadcasting Authority established by
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+the _Broadcasting Services Act 1992_. _gross earnings_, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, by the service provided under the licence, of advertisements or other material. _licence_ means:  </dl></dl>
 
-                   This Act may be cited as the _Radio Licence Fees Act 1964_.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dt>(a)</dt><dd>a commercial radio broadcasting licence referred to in paragraph 5(1)(a),
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+<dt>(d)</dt><dd>or (f) of the Transitional Provisions Act; or</dd></dd>
 
-##### <a id="3"></a>3  Incorporation of Broadcasting Act
+<dt>(b)</dt><dd>a commercial radio broadcasting licence allocated or renewed, whether
 
-                   The _Broadcasting Services Act 1992_ is incorporated and shall be read as one with this Act.
+before, on or after the commencement of this definition, under the
 
-##### <a id="4"></a>4  Interpretation
+_Broadcasting Services Act 1992_.
 
-             (1)  In this Act, unless the contrary intention appears:
+</dd>
 
-                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established by the _Broadcasting Services Act 1992_.
+</dl></dl></dl>
 
-                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, by the service provided under the licence, of advertisements or other material.
+<def><dl compact=""><dl compact="">
 
-                    <a name="licenc"></a>**_licence_** means:
+_Transitional Provisions Act_ means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
 
-                     (a)  a commercial radio broadcasting licence referred to in paragraph 5(1)(a), (d) or (f) of the Transitional Provisions Act; or
+ </dl></dl>
 
-                     (b)  a commercial radio broadcasting licence allocated or renewed, whether before, on or after the commencement of this definition, under the _Broadcasting Services Act 1992_.
+<dl compact="">
 
-                    <a name="transition-provision-act"></a>**_Transitional Provisions Act_** means the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_.
+<dt>(2)</dt><dd>Where, in connexion with any transaction, any consideration is paid or
 
-             (2)  Where, in connexion with any transaction, any consideration is paid or given otherwise than in cash, the money value of that consideration shall, for the purposes of this Act, be deemed to have been paid or given.
+given otherwise than in cash, the money value of that consideration shall, for
 
-##### <a id="5"></a>5  Licence fees
+the purposes of this Act, be deemed to have been paid or given.
 
-                   There is payable to the Commonwealth by a licensee, by way of tax in respect of the licence, fees in accordance with sections 6 and 6A.
+</dd> </dl>
 
-##### <a id="6"></a>6  Amount of fees
+**
 
-             (2)  Subject to section 6A, there is payable by a licensee:
+###  RADIO LICENCE FEES ACT 1964- SECT 5  Licence fees 
+**
 
-                     (a)  on each 31 December that occurs during the period of the licence; and
+ <dl compact="">
 
-                     (b)  on:
+		There is payable to the Commonwealth by a licensee, by way of tax in respect
 
-                              (i)  if the licence’s period ends on a 31 December or a day within the first 6 months of a calendar year—the first 31 December after the licence’s period; or
+of the licence, fees in accordance with sections&#160;6 and 6A.
 
-                             (ii)  if the licence’s period ends on any other day in a calendar year—each 31 December that occurs during the 18 months immediately following the licence’s period;
+ </dl>
 
-a fee of an amount equal to the relevant percentage of the gross earnings in respect of the licence during the period of one year ending on the 30 June last preceding the 31 December.
+<center>Back to Top</center>
 
-          (2A)  In subsection (2), **_relevant percentage_**, in relation to the gross earnings in respect of a licence during a period, means:
+**
 
-                     (a)  where those gross earnings are less than $5,000,000—the percentage ascertained in accordance with the formula: 
+###  RADIO LICENCE FEES ACT 1964- SECT 6  Amount of fees 
+**
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image002.gif)</sub>;
+ <dl compact="">
 
-                     (b)  where those gross earnings are not less than $5,000,000 but are less than $6,000,000—the percentage ascertained in accordance with the formula: 
+<dt>(2)</dt><dd>Subject to section&#160;6A, there is payable by a licensee:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image003.gif)</sub>;
+</dd> </dl>
 
-                     (c)  where those gross earnings are not less than $6,000,000 but are less than $7,000,000—the percentage ascertained in accordance with the formula: 
+<dl compact=""><dl compact=""><dl compact="">
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image004.gif)</sub>;
+<dt>(a)</dt><dd>on each 31&#160;December that occurs during the period of the licence;
 
-                     (d)  where those gross earnings are not less than $7,000,000 but are less than $10,000,000—the percentage ascertained in accordance with the formula: 
+and</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image005.gif)</sub>;
+<dt>(b)</dt><dd>on:
 
-                     (e)  where those gross earnings are not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
+</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image006.gif)</sub>;
+</dl></dl></dl>
 
-                            where **_A_** is the number of dollars in those gross earnings.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  If a licensee:
+<dt>(i)</dt><dd>if the licence's period ends on a 31&#160;December or a day within the
 
-                     (a)  had, before the commencement of the Transitional Provisions Act, in accordance with the _Broadcasting Act 1942_; or
+first 6 months of a calendar year&#151;the first 31&#160;December after the
 
-                     (b)  had, before the day on which the _Radio Licence Fees Amendment Act 1997_ received the Royal Assent, in accordance with subsection 123(2) of the _Broadcasting Act 1942_ as applied by section 22 of the Transitional Provisions Act; or
+licence's period; or</dd>
 
-                     (c)  has, on or after the day on which the _Radio Licence Fees Amendment Act 1997_ received the Royal Assent, in accordance with subsection 205B(2) of the _Broadcasting Services Act 1992_;
+<dt>(ii)</dt><dd>if the licence's period ends on any other day in a calendar year&#151;each
 
-adopted an accounting period ending on a day other than 30 June, the reference in subsection (2) of this section to 30 June shall, in relation to the licence, be read as a reference to that other day.
+31&#160;December that occurs during the 18 months immediately following the
 
-             (4)  Where the amount of the gross earnings in respect of a licence during a period consists of a number of dollars and a number of cents, then, for the purposes of this section, the cents shall be disregarded.
+licence's period;
 
-             (5)  For the purposes of subsection (2), the period of a licence shall be taken to include any period of renewal or further renewal of the licence.
+</dd>
 
-##### <a id="6A"></a>6A  Change of accounting period—effect on fees payable
+</dl></dl></dl></dl>
 
-                   Where:
+a fee of an amount equal to the relevant percentage of the gross earnings in respect of the licence during the period of one year ending on the 30&#160;June last preceding the 31&#160;December.
 
-                     (a)  a fee is payable under subsection 6(2) on a 31 December in respect of earnings during a period (in this section referred to as the **_first fee period_**);
+<dl compact="">
 
-                     (b)  a fee would, but for this section, be payable under that subsection on the next 31 December in respect of earnings during a period (in this section referred to as the **_second fee period_**); and
+<dt>(2A)</dt><dd>In subsection&#160;(2), _relevant percentage_, in relation to
 
-                     (c)  by reason of a change in the accounting period used by the licensee, the second fee period commences before or does not commence immediately after the end of the first fee period;
+the gross earnings in respect of a licence during a period, means:
 
-section 6 applies in relation to the fee payable on the anniversary referred to in paragraph (b) as if:
+</dd> </dl>
 
-                     (d)  references in that section to a period of one year ending on a day were references to the period commencing immediately after the end of the first fee period and ending on the day on which the second fee period ends; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  subsection 6(2A) were omitted and the following subsection were substituted:
+<dt>(a)</dt><dd>where those gross earnings are less than $5,000,000&#151;the percentage
 
-                         “(2A)  In subsection (2), **_relevant percentage_**, in relation to gross earnings in respect of a licence during a period, means:
+ascertained in accordance with the formula:
 
-                                         (a)  where **_A_**is less than $5,000,000—the percentage ascertained in accordance with the formula:
+</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image007.gif)</sub>;
+</dl></dl></dl>
 
-                                         (b)  where **_A_** is not less than $5,000,000 but is less than $6,000,000—the percentage ascertained in accordance with the formula: 
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1202.gif)</sub>;
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image008.gif)</sub>;
+<dl compact=""><dl compact=""><dl compact="">
 
-                                         (c)  where **_A_** is not less than $6,000,000 but is less than $7,000,000—the percentage ascertained in accordance with the formula:
+<dt>(b)</dt><dd>where those gross earnings are not less than $5,000,000 but are less than
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image009.gif)</sub>;
+$6,000,000&#151;the percentage ascertained in accordance with the formula:
 
-                                         (d)  where **_A_**is not less than $7,000,000 but is less than $10,000,000—the percentage ascertained in accordance with the formula: 
+</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image010.gif)</sub>; or
+</dl></dl></dl>
 
-                                         (e)  where **_A_** is not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1203.gif)</sub>;
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image011.gif)</sub>
+<dl compact=""><dl compact=""><dl compact="">
 
-                                               where:
+<dt>(c)</dt><dd>where those gross earnings are not less than $6,000,000 but are less than
 
-                    <a name=""></a>**_A_** is the amount ascertained in accordance with the formula: 
+$7,000,000&#151;the percentage ascertained in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image012.gif)</sub>
+</dd>
 
-                    <a name=""></a>**_B_** is the number of dollars in the gross earnings in respect of the licence during the period; and
+</dl></dl></dl>
 
-                    <a name=""></a>**_C_** is the number of days in the period.” 
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1204.gif)</sub>;
 
-##### <a id="7"></a>7  Earnings of subsidiary companies etc.
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Where the ABA is of the opinion that:
+<dt>(d)</dt><dd>where those gross earnings are not less than $7,000,000 but are less than
 
-                     (a)  an amount, or part of an amount, earned during any period by a person other than a licensee would, if the licensee and that person were the same person, form part of the gross earnings in respect of the licence in respect of that period for the purposes of this Act; and
+$10,000,000&#151;the percentage ascertained in accordance with the formula:
 
-                     (b)  a relationship exists between the licensee and the other person (whether by reason of any shareholding or of any agreement or arrangement, or for any other reason) of such a kind that the amount or the part of the amount, as the case may be, should, for the purposes of this Act, be treated as part of the gross earnings in respect of the licence in respect of that period;
+</dd>
 
-the ABA may direct that the amount or the part of the amount, as the case may be, shall be so treated.
+</dl></dl></dl>
 
-##### <a id="8"></a>8  Regulations
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1205.gif)</sub>;
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  required or permitted by this Act to be prescribed; or
+<dt>(e)</dt><dd>where those gross earnings are not less than $10,000,000&#151;whichever is the
 
-                     (b)  necessary or convenient to be prescribed in carrying out or giving effect to this Act. 
+lesser of 3.25% or the percentage ascertained in accordance with the formula:
 
+</dd>
 
-# Notes to the _Radio Licence Fees Act 1964_
+</dl></dl></dl>
 
-### Note 1
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1206.gif)</sub>;
 
-The _Radio Licence Fees Act 1964_ as shown in this compilation comprises Act No.  119, 1964 amended as indicated in the Tables below.
+<dl compact=""><dl compact=""><dl compact="">
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 April 2005 is not included in this compilation. For subsequent information _see_ Table A.
+		where _A_ is the number of dollars in those gross earnings.
 
-### Table of Acts
+</dl></dl></dl>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dl compact="">
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Act 1964</div>
-    </td>
-    <td>
-      <div>119, 1964</div>
-    </td>
-    <td>
-      <div>24 Nov 1964</div>
-    </td>
-    <td>
-      <div>24 Nov 1964</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-    </td>
-    <td>
-      <div>93, 1966</div>
-    </td>
-    <td>
-      <div>29 Oct 1966</div>
-    </td>
-    <td>
-      <div>1 Dec 1966</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Act 1973</div>
-    </td>
-    <td>
-      <div>148, 1973</div>
-    </td>
-    <td>
-      <div>22 Nov 1973</div>
-    </td>
-    <td>
-      <div>22 Aug 1973</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1976</div>
-    </td>
-    <td>
-      <div>188, 1976</div>
-    </td>
-    <td>
-      <div>15 Dec 1976</div>
-    </td>
-    <td>
-      <div>1 Jan 1977</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1977</div>
-    </td>
-    <td>
-      <div>94, 1977</div>
-    </td>
-    <td>
-      <div>22 Sept 1977</div>
-    </td>
-    <td>
-      <div>1 Sept 1977</div>
-    </td>
-    <td>
-      <div>S. 3(2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1978</div>
-    </td>
-    <td>
-      <div>50, 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1981</div>
-    </td>
-    <td>
-      <div>114, 1981</div>
-    </td>
-    <td>
-      <div>24 June 1981</div>
-    </td>
-    <td>
-      <div>24 June 1981 ( <i>see</i>s. 2)</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Act 1981</div>
-    </td>
-    <td>
-      <div>168, 1981</div>
-    </td>
-    <td>
-      <div>2 Dec 1981</div>
-    </td>
-    <td>
-      <div>1 Sept 1981</div>
-    </td>
-    <td>
-      <div>S. 3(2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1982</div>
-    </td>
-    <td>
-      <div>155, 1982</div>
-    </td>
-    <td>
-      <div>31 Dec 1982</div>
-    </td>
-    <td>
-      <div>31 Dec 1982 ( <i>see</i>s. 2)</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1983</div>
-    </td>
-    <td>
-      <div>58, 1983</div>
-    </td>
-    <td>
-      <div>12 Oct 1983</div>
-    </td>
-    <td>
-      <div>1 Sept 1983</div>
-    </td>
-    <td>
-      <div>S. 3(2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Stations Licence Fees Amendment Act 1985</div>
-    </td>
-    <td>
-      <div>68, 1985</div>
-    </td>
-    <td>
-      <div>5 June 1985</div>
-    </td>
-    <td>
-      <div>1 Jan 1986</div>
-    </td>
-    <td>
-      <div>S. 11</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees Amendment Act 1987</div>
-    </td>
-    <td>
-      <div>66, 1987</div>
-    </td>
-    <td>
-      <div>5 June 1987</div>
-    </td>
-    <td>
-      <div>14 Sept 1987 ( <i>see Gazette</i>1987, No. S231)</div>
-    </td>
-    <td>
-      <div>Ss. 7 and 8</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees Amendment Act (No. 2) 1987</div>
-    </td>
-    <td>
-      <div>116, 1987</div>
-    </td>
-    <td>
-      <div>16 Dec 1987</div>
-    </td>
-    <td>
-      <div>16 Dec 1987</div>
-    </td>
-    <td>
-      <div>Ss. 8 and 9</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees (National Metropolitan Radio Plan) Act 1988</div>
-    </td>
-    <td>
-      <div>144, 1988</div>
-    </td>
-    <td>
-      <div>26 Dec 1988</div>
-    </td>
-    <td>
-      <div>26 Dec 1988</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Legislation Amendment Act 1988</div>
-    </td>
-    <td>
-      <div>146, 1988</div>
-    </td>
-    <td>
-      <div>26 Dec 1988</div>
-    </td>
-    <td>
-      <div>Part IV (ss. 51, 52): <i>(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees Amendment Act 1991</div>
-    </td>
-    <td>
-      <div>184, 1991</div>
-    </td>
-    <td>
-      <div>6 Dec 1991</div>
-    </td>
-    <td>
-      <div>Ss. 3, 6 and 8: 1 Jan 1992 
-Ss. 7 and 9: 31 Dec 1992 
-Remainder: 3 Jan 1992 
-
-</div>
-    </td>
-    <td>
-      <div>Ss. 3 and 11</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Transport and Communications Legislation Amendment Act 1992</div>
-    </td>
-    <td>
-      <div>82, 1992</div>
-    </td>
-    <td>
-      <div>30 June 1992</div>
-    </td>
-    <td>
-      <div>Ss. 5(2), 6 and 7: 30 Dec 1992 
+<dt>(3)</dt><dd>If a licensee:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>had, before the commencement of the Transitional Provisions Act, in
+
+accordance with the _Broadcasting Act 1942_; or</dd>
+
+<dt>(b)</dt><dd>had, before the day on which the _Radio Licence Fees Amendment Act 1997_ received the Royal Assent, in accordance with subsection 123(2) of the
+
+_Broadcasting Act 1942_ as applied by section&#160;22 of the Transitional
+
+Provisions Act; or</dd>
+
+<dt>(c)</dt><dd>has, on or after the day on which the _Radio Licence Fees Amendment Act 1997_ received the Royal Assent, in accordance with subsection 205B(2) of
+
+the _Broadcasting Services Act 1992_;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+adopted an accounting period ending on a day other than 30&#160;June, the reference in subsection&#160;(2) of this section to 30&#160;June shall, in relation to the licence, be read as a reference to that other day.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where the amount of the gross earnings in respect of a licence during a
+
+period consists of a number of dollars and a number of cents, then, for the
+
+purposes of this section, the cents shall be disregarded.</dd> <dt>(5)</dt><dd>For the purposes of subsection&#160;(2), the period of a licence shall be taken to include any period of renewal or further renewal of the licence. </dd> </dl>
+
+**
+
+###  RADIO LICENCE FEES ACT 1964- SECT 6A  Change of accounting period&#151;effect on fees payable 
+**
+
+ <dl compact="">
+
+		Where:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a fee is payable under subsection 6(2) on a 31&#160;December in respect of
+
+earnings during a period (in this section referred to as the _first fee period_);</dd>
+
+<dt>(b)</dt><dd>a fee would, but for this section, be payable under that subsection on the
+
+next 31&#160;December in respect of earnings during a period (in this section
+
+referred to as the _second fee period_); and</dd>
+
+<dt>(c)</dt><dd>by reason of a change in the accounting period used by the licensee, the
+
+second fee period commences before or does not commence immediately after the
+
+end of the first fee period;
+
+</dd>
+
+</dl></dl></dl>
+
+section&#160;6 applies in relation to the fee payable on the anniversary referred to in paragraph&#160;(b) as if:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>references in that section to a period of one year ending on a day were
+
+references to the period commencing immediately after the end of the first fee
+
+period and ending on the day on which the second fee period ends; and</dd>
+
+<dt>(e)</dt><dd>subsection 6(2A) were omitted and the following subsection were
+
+substituted:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+	"(2A)	In subsection&#160;(2), _relevant percentage_, in relation
+
+to gross earnings in respect of a licence during a period, means:
+
+</dl></dl></dl></dl>
+
+	(a)	where _A_ is less than $5,000,000&#151;the percentage ascertained in accordance with the formula:
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1207.gif)</sub>;
+
+	(b)	where _A_ is not less than $5,000,000 but is less than $6,000,000&#151;the percentage ascertained in accordance with the formula: 
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1208.gif)</sub>;
+
+	(c)	where _A_ is not less than $6,000,000 but is less than $7,000,000&#151;the percentage ascertained in accordance with the formula:
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1209.gif)</sub>;
+
+	(d)	where _A_ is not less than $7,000,000 but is less than $10,000,000&#151;the percentage ascertained in accordance with the formula: 
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1210.gif)</sub>; or
+
+	(e)	where _A_ is not less than $10,000,000&#151;whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1211.gif)</sub>
+
+		where:
+
+<def><dl compact=""><dl compact="">
+
+_A_ is the amount ascertained in accordance with the formula:
+
+ </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00137/Html/7B0C8FD270CF318FCA256F71004D48F0/$FILE/1212.gif)</sub>
+
+<def><dl compact=""><dl compact="">
+
+_B_ is the number of dollars in the gross earnings in respect of
+
+the licence during the period; and _C_ is the number of days in the period."  </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  RADIO LICENCE FEES ACT 1964- SECT 7  Earnings of subsidiary companies etc. 
+**
+
+ <dl compact="">
+
+		Where the ABA is of the opinion that:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an amount, or part of an amount, earned during any period by a person
+
+other than a licensee would, if the licensee and that person were the same
+
+person, form part of the gross earnings in respect of the licence in respect of
+
+that period for the purposes of this Act; and</dd>
+
+<dt>(b)</dt><dd>a relationship exists between the licensee and the other person (whether
+
+by reason of any shareholding or of any agreement or arrangement, or for any
+
+other reason) of such a kind that the amount or the part of the amount, as the
+
+case may be, should, for the purposes of this Act, be treated as part of the
+
+gross earnings in respect of the licence in respect of that period;
+
+</dd>
+
+</dl></dl></dl>
+
+the ABA may direct that the amount or the part of the amount, as the case may be, shall be so treated. 
+
+**
+
+###  RADIO LICENCE FEES ACT 1964- SECT 8  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed in carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  RADIO LICENCE FEES ACT 1964<centreit>Notes to the _Radio Licence Fees Act 1964_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Radio Licence Fees Act 1964_ as shown in this compilation comprises Act No. &#160;119, 1964 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Act 1964</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>119, 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Nov 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Nov 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>93, 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29 Oct 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Dec 1966</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Act 1973</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>148, 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Nov 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Aug 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1976</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>188, 1976</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>15 Dec 1976</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Jan 1977</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1977</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>94, 1977</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Sept 1977</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Sept 1977</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3(2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1978</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>50, 1978</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1981</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>114, 1981</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24&#160;June 1981</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24&#160;June 1981 ( <i>see</i>s. 2)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Act 1981</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>168, 1981</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2 Dec 1981</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Sept 1981</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3(2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1982</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>155, 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>31 Dec 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>31 Dec 1982 ( <i>see</i>s. 2)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1983</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>58, 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>12 Oct 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Sept 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3(2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Stations Licence Fees Amendment Act 1985</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>68, 1985</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1985</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Jan 1986</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 11</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radio Licence Fees Amendment Act 1987</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>66, 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>14 Sept 1987 ( <i>see Gazette</i>1987, No. S231)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 7 and 8</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radio Licence Fees Amendment Act (No.&#160;2) 1987</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>116, 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>16 Dec 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>16 Dec 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 8 and 9</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radio Licence Fees (National Metropolitan Radio Plan) Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>144, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>26 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>26 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Legislation Amendment Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>26 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;IV (ss. 51, 52): <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radio Licence Fees Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>184, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>6 Dec 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 3, 6 and 8: 1&#160;Jan 1992 
+Ss. 7 and 9: 31&#160;Dec 1992 
+Remainder: 3 Jan 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 3 and 11</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Transport and Communications Legislation Amendment Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>82, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>30&#160;June 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 5(2), 6 and 7: 30&#160;Dec 1992 
 Ss. 16, 18, 19, 20(1) and 21: <i>(b)</i> 
-Ss. 22–25: 1 Jan 1992 
-Remainder: Royal Assent 
+Ss. 22-25: 1 Jan 1992 
+Remainder: Royal Assent</div>
 
-</div>
-    </td>
-    <td>
-      <div>Ss. 25 and 26</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
-    </td>
-    <td>
-      <div>105, 1992</div>
-    </td>
-    <td>
-      <div>9 July 1992</div>
-    </td>
-    <td>
-      <div>5 Oct 1992 ( <i>see</i> 
-s. 2 and <i>Gazette</i>1992, No. GN38) 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees Amendment Act 1997</div>
-    </td>
-    <td>
-      <div>142, 1997</div>
-    </td>
-    <td>
-      <div>8 Oct 1997</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1–3, 5–10): 8 Oct 1997 
-Schedule 1 (item 4): 5 Oct 1992 <i>(c)</i> 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Radio Licence Fees Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>53, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedules 1 and 2: \[ <i>see</i> <i>(d)</i>, Note 2 and Table A] 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 2 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 25 and 26</div>
 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</i></div>
 
-_(a)_     The _Radio Licence Fees Act 1964_ was amended by Part IV (sections 51 and 52) only of the _Broadcasting Legislation Amendment Act 1988_, subsection 2(4) of which provides as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>105, 1992</div>
 
-                 (4)   Sections 51 and 52 are to have commenced on 16 December 1987.
+  </td>
+  <td colspan="1" align="left">
+    <div>9&#160;July 1992</div>
 
-_(b)_    The _Radio Licence Fees Act 1964_ was amended by Part 4 (sections 22–26) only of the _Transport and Communications Legislation Amendment Act 1992_, subsections 2(1) and (5) of which provide as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>5 Oct 1992 ( <i>see</i> 
+s. 2 and <i>Gazette</i>1992, No. GN38)</div>
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-                 (5)   Sections 22, 23, 24 and 25 are taken to have commenced on 1 January 1992.
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radio Licence Fees Amendment Act 1997</i></div>
 
-_(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 only of the _Radio Licence Fees Amendment Act 1997_, subsections 2(1) and (2) of which provide as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>142, 1997</div>
 
-                 (1)   Subject to subsection (2), sections 1, 2 and 3, and the items of Schedule 1 other than item 4, commence on the day on which this Act receives the Royal Assent.
+  </td>
+  <td colspan="1" align="left">
+    <div>8 Oct 1997</div>
 
-                 (2)   Item 4 of Schedule 1 is taken to have commenced on 5 October 1992.
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (items&#160;1-3, 5-10): 8&#160;Oct 1997 
+Schedule&#160;1 (item&#160;4): 5 Oct 1992 <i>(c)</i></div>
 
-_(d)_ Subsection 2(1) (item 2) of the _Radio Licence Fees Amendment Act 2005_ provides as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Radio Licence Fees Act 1964_ was amended by Part&#160;IV (sections&#160;51 and 52) only of the _Broadcasting Legislation Amendment Act 1988_, subsection 2(4) of which provides as follows:
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+	(4)	Sections&#160;51 and 52 are to have commenced on 16&#160;December 1987.
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2\. Schedules 1 and 2
-      </div>
-    </td>
-    <td>
-      <div>
-        At the same time as section 6 of the
-          <i>Australian Communications and Media Authority Act 2005</i>commences.
-      </div>
-    </td>
-    <td>
-      <div>
-        \[
-          <i>see</i>Note 2 and Table A]
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+_(b)_	The _Radio Licence Fees Act 1964_ was amended by Part&#160;4 (sections&#160;22-26) only of the _Transport and Communications Legislation Amendment Act 1992_, subsections 2(1) and (5) of which provide as follows:
 
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+ 	(5)	Sections&#160;22, 23, 24 and 25 are taken to have commenced on 1&#160;January 1992.
 
-## Table of Amendments
+_(c)_	The _Radio Licence Fees Act 1964_ was amended by Schedule&#160;1 only of the _Radio Licence Fees Amendment Act 1997_, subsections 2(1) and (2) of which provide as follows:
 
-<table>
-<colgroup>
-  <col width="33%">
-  <col width="67%">
-</colgroup>
+	(1)	Subject to subsection&#160;(2), sections&#160;1, 2 and 3, and the items of Schedule&#160;1 other than item&#160;4, commence on the day on which this Act receives the Royal Assent.
+ 	(2)	Item&#160;4 of Schedule&#160;1 is taken to have commenced on 5&#160;October 1992.
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 114, 1981</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 68, 1985</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 1</div>
-    </td>
-    <td>
-      <div>am. No. 68, 1985</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 114, 1981; No. 68, 1985; No. 105, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 68, 1985; No. 66, 1987; No. 146, 1988; No. 184,1991; No. 105, 1992; No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 114, 1981; No. 68, 1985; No. 66, 1987; No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 93, 1966</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 148, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 188, 1976; No. 94, 1977; No. 50, 1978; Nos. 114 and 168, 1981; No. 58, 1983; No. 68, 1985; Nos. 66 and 116, 1987; No. 184, 1991; Nos. 82 and 105, 1992; No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6A</div>
-    </td>
-    <td>
-      <div>ad. No. 66, 1987</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 116, 1987; No. 184, 1991; No. 82, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6B</div>
-    </td>
-    <td>
-      <div>ad. No. 116, 1987</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 184, 1991</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6BA</div>
-    </td>
-    <td>
-      <div>ad. No. 184, 1991</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6C</div>
-    </td>
-    <td>
-      <div>ad. No. 144, 1988</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 68, 1985; No. 142, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>ad. No. 114, 1981</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 155, 1982</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 68, 1985</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>ad. No. 116, 1987</div>
-    </td>
-  </tr>
-</tbody></table>
+**Table of Amendments**
+
+ad. = added or inserted	am. = amended	rep. = repealed	rs. = repealed and substituted 
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Title</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;114, 1981</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;68, 1985</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;68, 1985</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;114, 1981; No.&#160;68, 1985; No.&#160;105, 1992</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;68, 1985; No.&#160;66, 1987; No.&#160;146, 1988; No.&#160;184,1991; No.&#160;105, 1992; No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;114, 1981; No.&#160;68, 1985; No.&#160;66, 1987; No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;148, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;188, 1976; No.&#160;94, 1977; No.&#160;50, 1978; Nos. 114 and 168, 1981; No.&#160;58, 1983; No.&#160;68, 1985; Nos. 66 and 116, 1987; No.&#160;184, 1991; Nos. 82 and 105, 1992; No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;66, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;116, 1987; No.&#160;184, 1991; No.&#160;82, 1992</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6B</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;116, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;184, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6BA</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;184, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6C</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;144, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;68, 1985; No.&#160;142, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 8</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;114, 1981</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;155, 1982</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;68, 1985</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;116, 1987</div>
+
+  </td>
+</tr></table>
+
+</def></def>
+
+</def>
 
 
-### Note 2
-
-_Radio Licence Fees Amendment Act 2005 (No. 53, 2005)_
-
-The following amendments commence on 1 July 2005 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Subsection 4(1) (definition of _ABA_)
-
-Repeal the definition.
-
-## 2  Subsection 4(1)
-
-Insert:
-
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
-
-## 3  Section 7
-
-Omit “ABA” (wherever occurring), substitute “ACMA”.
-
-As at 8 April 2005 the amendments are not incorporated in this compilation.
-
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Radio Licence Fees Amendment Act 2005 (No. 53, 2005)_
-
-The following provisions commence on 1 July 2005 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  Definitions
-
-In this Schedule:
-
-**_Imposition Act_** means the _Radio Licence Fees Act 1964_.
-
-**_transition time_** means the commencement of this Schedule.
-
-## 2  Continued effect of directions about gross earnings
-
-A direction made by the ABA under section 7 of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that section as amended by Schedule 1 to this Act.
-
-
- 
