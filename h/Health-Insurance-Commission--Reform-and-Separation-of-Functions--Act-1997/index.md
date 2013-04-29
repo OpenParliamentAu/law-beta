@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00058/Html/HealthInsurCommReformSeparFunct97_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00099/Html/70E43BB286292177CA2571410004C46C/$FILE/image001.gif)
 
 # Health Insurance Commission (Reform and Separation of Functions) Act 1997
 
 **Act No. 159 of 1997 as amended**
 
-This compilation was prepared on 16 January 2007
- taking into account amendments up to Act No. 160 of 2006
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 55 of 2001 
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -106,6 +108,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34](#34).          Acquisition by the Commonwealth of shares in the nominated company              22
 
+[35](#35).          Commonwealth to retain ownership of the nominated company     23
+
     **Division 6—Exemption from stamp duty**
 
 [36](#36).          Exemption from stamp duty                                                             24
@@ -162,6 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to amend the _Health Insurance Commission Act 1973_, to enact transitional provisions relating to the transfer of Medibank Private from the Health Insurance Commission to a separate organisation, and for other purposes
 
 ## Part 1—Preliminary
@@ -198,31 +203,15 @@ made by this Act commence immediately after the commencement of Schedule 2 to 
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•    This
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    This Part provides for the transfer of Medibank Private from the Health Insurance Commission to a new company (in this Part called the **_nominated company_**). Medibank Private was a part of the Commission as at the commencement of this Part.</li>
 
-Part provides for the transfer of Medibank Private from the Health Insurance
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    At the time of the transfer, the nominated company will be owned by the Commission.</li>
 
-Commission to a new company (in this Part called the **_nominated company_**).
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    Some time after the transfer, the nominated company will be separated from the Commission. The separation will be achieved by transferring ownership of the nominated company to the Commonwealth.</li>
 
-Medibank Private was a part of the Commission as at the commencement of this Part.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•    At
-
-the time of the transfer, the nominated company will be owned by the
-
-Commission.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•    Some
-
-time after the transfer, the nominated company will be separated from the
-
-Commission. The separation will be achieved by transferring ownership of the
-
-nominated company to the Commonwealth.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    Following separation, the Commonwealth is to retain ownership of the nominated company.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -314,7 +303,7 @@ nominated company to the Commonwealth.</li>
 
                    This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
-##### <a id="9"></a>9  External  Territories 
+##### <a id="9"></a>9  External Territories 
 
                    This Part extends to all the external Territories.
 
@@ -714,7 +703,7 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
 The service of a re-transferred employee as an employee of the Commission is taken, for all purposes, to have been continuous with the service of the employee, immediately before the employee’s re-transfer time, as an employee of the nominated company.
 
-##### <a id="32"></a>32  Termination payments—re-transferred employees
+##### <a id="32"></a>32  Termination payments—re-transferred employees
 
 A re-transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the nominated company as a result of this Part.
 
@@ -770,11 +759,27 @@ A re-transferred employee is not entitled to receive any payment or other benefi
 
              (6)  Subsection (5) has effect despite anything in the _Corporations Act 2001_.
 
-             (7)  To avoid doubt, this section does not prevent or limit the formulation, entering into, or carrying out, of a Medibank Private sale scheme.
+##### <a id="35"></a>35  Commonwealth to retain ownership of the nominated company
 
-             (8)  In this section:
+             (1)  This section applies to the nominated company if the legal and beneficial interests in all of the shares in the company have vested in the Commonwealth under section 34.
 
-                    <a name="mibank-privat-sale-scheme"></a>**_Medibank Private sale scheme_** has the same meaning as in the _Medibank Private Sale Act 2006_.
+             (2)  The Commonwealth must not transfer any of its shares in the nominated company.
+
+             (3)  Neither the Commonwealth nor the nominated company is allowed to do anything to cause or contribute to either of the following results:
+
+                     (a)  that the Commonwealth no longer holds all the shares in the nominated company;
+
+                     (b)  that the Commonwealth no longer controls the exercise of the total voting rights attached to the voting shares in the nominated company.
+
+             (4)  The following are examples of things that could give rise to a breach of subsection (3):
+
+                     (a)  the issue by the nominated company of shares in the nominated company to a person other than the Commonwealth;
+
+                     (b)  the Commonwealth agreeing to:
+
+                              (i)  hold shares in the nominated company on trust for another person; or
+
+                             (ii)  exercise voting rights attached to voting shares in the nominated company in accordance with the directions, instructions or wishes of another person.
 
 ### Division 6—Exemption from stamp duty
 
@@ -1100,27 +1105,26 @@ the AAT Act has effect on and after the fund-transfer day, in relation to the ri
 
                    Subject to section 2, each Act, and each set of regulations, that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
+
 # Schedule 1—Amendments of Acts
 
 ## Part 1—Amendments commencing on Royal Assent
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendments made by this Part are incorporated in the compilations on ComLaw.
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
+_Health Insurance Commission Act 1973_<span style="FONT-SIZE: 9pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="FONT-SIZE: 9pt">]</span>
 
 _Hearing Services Administration Act 1997_
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.
-
-* * *
+For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.</div>
 
 ## Part 2—Amendments commencing on the fund-transfer day
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -1128,39 +1132,35 @@ The amendments made by this Part are incorporated in the compilations on ComLaw.
 
 _Commonwealth Borrowing Levy Act 1987_
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
+_Health Insurance Commission Act 1973_<span style="FONT-SIZE: 9pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="FONT-SIZE: 9pt">]</span>
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.
-
-* * *
+For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.</div>
 
 ## Part 3—Amendment commencing 5 years after Royal Assent
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendment made by this Part is incorporated in the compilation on ComLaw.
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
+_Health Insurance Commission Act 1973_<span style="FONT-SIZE: 9pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="FONT-SIZE: 9pt">]</span>
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.
+For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.</div>
 
-* * *
 
 # Schedule 2—Amendment of regulations
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-Health Insurance Commission Regulations <span style="font-size:9.0pt;font-style:normal">\[now cited as</span><span style="font-size:9.0pt"> Medicare </span><span style="font-size:   9.0pt">Australia</span><span style="font-size:9.0pt"> Regulations 1975</span><span style="font-size:9.0pt;font-style:normal">]</span>
+Health Insurance Commission Regulations <span style="FONT-SIZE: 9pt; FONT-STYLE: normal">\[now cited as</span><span style="FONT-SIZE: 9pt"> Medicare </span><span style="FONT-SIZE: 9pt">Australia</span><span style="FONT-SIZE: 9pt"> Regulations 1975</span><span style="FONT-SIZE: 9pt; FONT-STYLE: normal">]</span>
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 159 of 1997.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 159 of 1997.</div>
 
-* * *
 
 # Notes to the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_
 
@@ -1190,11 +1190,13 @@ For application, saving or transitional provisions made by the _Corporations (Re
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1204,62 +1206,48 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
-  </td>
-  <td>
-    <div>159, 1997</div>
-  </td>
-  <td>
-    <div>11 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 38–42, 
-45–50, 52–69, 71–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) 
+<tbody>
+  <tr>
+    <td>
+      <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
+    </td>
+    <td>
+      <div>159, 1997</div>
+    </td>
+    <td>
+      <div>11 Nov 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 38–42, 45–50, 52–69, 71–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) 
 Schedule 1 (items 43, 44, 51, 70): <i>(a)</i> 
 Schedule 1 (item 81): <i>see</i>s. 2(4) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 210–215): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Medibank Private Sale Act 2006</div>
-  </td>
-  <td>
-    <div>160, 2006</div>
-  </td>
-  <td>
-    <div>11 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3): 12 Dec 2006 
-Schedule 3 (item 3): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 210–215): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ Subsection 2(3) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
 
@@ -1276,6 +1264,7 @@ _(a)_ Subsection 2(3) of the _Health Insurance Commission (Reform and Separation
 _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ was amended by Schedule 3 (items 210–215) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -1300,171 +1289,144 @@ _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 160, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4, 5</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001; No. 160, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 160, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4, 5</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Medibank Private Sale Act 2006 (No. 160, 2006)_
-
-The following amendment commences on the designated sale day declared under section 3:
-
-## Schedule 3
-
-## 3  Section 45
-
-Repeal the section.
-
-As at 16 January 2007 the amendment is not incorporated in this compilation.
 
  
