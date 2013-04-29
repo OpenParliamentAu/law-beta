@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00720/Html/23818885-443b-40ec-a5fa-88c05cf2a2ec_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00677/Html/e336eb3f-8d32-4a63-b434-8a56edec74e2_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 22 September 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 September 2012
+ taking into account amendments up to Act No. 101 of 2012
 
 **Volume 1**includes:  Table of Contents
 
@@ -34,7 +34,8 @@ Notes 2–5
 
 Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -74,8 +75,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3J](#3J).          Specific powers available to constables executing warrant
 
-[3JA](#3JA).       Extension of time to re‑enter premises in emergency 
- situations
+[3JA](#3JA).       Extension of time to re‑enter premises in emergency situations
 
 [3K](#3K).         Use of equipment to examine or process things
 
@@ -179,8 +179,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3ZO](#3ZO).       Identification by means of photographs
 
-[3ZP](#3ZP).       Identification procedures where there is more than one 
- suspect
+[3ZP](#3ZP).       Identification procedures where there is more than one suspect
 
 [3ZQ](#3ZQ).       Descriptions
 
@@ -514,8 +513,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15KM](#15KM).    Return of evidence of assumed identity
 
-[15KN](#15KN).    Protection from criminal liability—officers of issuing 
- agencies
+[15KN](#15KN).    Protection from criminal liability—officers of issuing agencies
 
 [15KO](#15KO).    Indemnity for issuing agencies and officers
 
@@ -911,8 +909,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23C](#23C).       Period of investigation if arrested for a non‑terrorism offence
 
-[23D](#23D).       Application may be made for extension of investigation 
- period
+[23D](#23D).       Application may be made for extension of investigation period
 
 [23DA](#23DA).    Magistrate may extend investigation period
 
@@ -924,8 +921,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23DD](#23DD).    Time during which suspension or delay of questioning may be disregarded—time specified by magistrate
 
-[23DE](#23DE).     Application may be made for extension of investigation 
- period
+[23DE](#23DE).     Application may be made for extension of investigation period
 
 [23DF](#23DF).     Magistrate may extend investigation period
 
@@ -935,8 +931,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3—Obligations of investigating officials**
 
-[23F](#23F).        Cautioning persons who are under arrest or protected 
- suspects
+[23F](#23F).        Cautioning persons who are under arrest or protected suspects
 
 [23G](#23G).       Right to communicate with friend, relative and legal practitioner
 
@@ -1526,7 +1521,7 @@ in relation to offences against a law of that Territory.
 
              (5)  This Part does not apply to the exercise by a constable of powers under the _Defence Force Discipline Act 1982_.
 
-             (6)  The application of this Part in relation to State offences that have a federal aspect is not intended to limit or exclude the concurrent operation of any law of a State or of the Australian Capital Territory.
+             (6)  The application of this Part in relation to State offences that have a federal aspect is not intended to limit or exclude the concurrent operation of any law of a State or of the Australian Capital   Territory.
 
 Note 1:       Subsection 3(1) defines **_State_** to include the Northern Territory.
 
@@ -4112,7 +4107,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00720/Html/23818885-443b-40ec-a5fa-88c05cf2a2ec_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00677/Html/e336eb3f-8d32-4a63-b434-8a56edec74e2_files/image002.gif)
 
 where:
 
@@ -4270,7 +4265,7 @@ However, the court may not impose a pecuniary penalty greater than the penalty t
 
                    A child under 10 years old cannot be liable for an offence against a law of the Commonwealth.
 
-##### <a id="4N"></a>4N  Children over 10 but under 14
+##### <a id="4N"></a>4N  Children over 10 but under 14
 
              (1)  A child aged 10 years or more but under 14 years old can only be liable for an offence against a law of the Commonwealth if the child knows that his or her conduct is wrong.
 
