@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00702/Html/629122c7-0e0e-48b2-afa5-0df6844a0b06_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00487/Html/d73aaf8f-6002-419b-9ccf-7ff1dc8e0246_files/image001.gif)
 
 # Family Law Act 1975
 
 **Act No. 53 of 1975 as amended**
 
-This compilation was prepared on 22 September 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 7 June 2012
+ taking into account amendments up to Act No. 32 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -185,7 +186,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [24](#24).          Absence or illness of Chief Judge
 
-[25](#25).          Salary and allowances
+[25](#25).          Salary and Allowances
 
 [26](#26).          Oath or affirmation of allegiance and office
 
@@ -4786,7 +4787,7 @@ Note:          For rules that apply to acting appointments, se
 
              (3)  The Attorney‑General must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
 
-##### <a id="38W"></a>38W  Delegation of administrative powers of Chief Judge
+##### <a id="38W"></a>38W  Delegation of administrative powers of Chief Judge
 
                    The Chief Judge may, in writing, delegate all or any of his or her powers under section 38A to any one or more of the Judges.
 
@@ -7130,7 +7131,7 @@ Substantial and significant time
 
                      (a)  a parenting order provides (or is to provide) that a child’s parents are to have equal shared parental responsibility for the child; and
 
-                     (b)  the court does not make an order (or include a provision in the order) for the child to spend equal time with each of the parents;
+                     (b)  the court does not make an order (or include a provision in the order) for the child to spend equal time with each of the parents; and
 
 the court must:
 
@@ -7308,7 +7309,7 @@ Note:          This will mean that the person with whom the ch
 
                      (b)  the court is satisfied that there are circumstances that make it appropriate to make the proposed order even though the conditions in paragraph (a) are not satisfied.
 
-##### <a id="65H"></a>65H  Children who are 18 or over or who have married or entered de facto relationships
+##### <a id="65H"></a>65H  Children who are 18 or over or who have married or entered de facto relationships
 
              (1)  A parenting order must not be made in relation to a child who:
 
@@ -7448,7 +7449,7 @@ administered by or on behalf of the Commonwealth Government under which money ap
 
                      (b)  interfere with the communication that a person and the child are supposed to have with each other under the order.
 
-##### <a id="65P"></a>65P  General obligations created by parenting order that allocates parental responsibility
+##### <a id="65P"></a>65P  General obligations created by parenting order that allocates parental responsibility
 
              (1)  This section applies to a parenting order that is in force in relation to a child to the extent to which the order allocates parental responsibility for the child to a person (the **_carer_**).
 
@@ -8440,7 +8441,7 @@ Note:          Sections 60CB to 60CG deal with how a court d
 
            (10)  The person to whom a Commonwealth information order applies must comply with the order in spite of anything in any other law.
 
-##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
+##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
 
              (1)  Information provided to the Registry Manager of a court under a location order (including a Commonwealth information order) must not be disclosed by the Registry Manager, or by any other person who obtains the information (whether directly or indirectly and whether under this section or otherwise) because of the provision of the information to the Registry Manager, except to:
 
@@ -9154,7 +9155,7 @@ Note:       Even though the best interests of the child are not para
 
 ##### <a id="69A"></a>69A  What this Division does
 
-                   This Division deals with:
+                   This Division deals with:
 
                      (a)  the institution of proceedings and procedure (Subdivision B); and
 
@@ -9176,7 +9177,7 @@ Note:       Even though the best interests of the child are not para
 
 ##### <a id="69C"></a>69C  Who may institute proceedings
 
-             (1)  Sections 65C, 66F, 67F, 67K and 67T are express provisions dealing with who may institute particular kinds of proceedings in relation to children.
+             (1)  Sections 65C, 66F, 67F, 67K and 67T and subsection 68T(4) are express provisions dealing with who may institute particular kinds of proceedings in relation to children.
 
              (2)  Any other kind of proceedings under this Act in relation to a child may, unless a contrary intention appears, be instituted by:
 
@@ -12908,7 +12909,7 @@ Note:          For **_child of a de facto relationship_**, s
 
                              (ii)  any superannuation fund or scheme, whether the fund or scheme was established, or operates, within or outside Australia;
 
-                            and the rate of any such pension, allowance or benefit being paid to either party; and
+                            and the rate of any such pension, allowance or benefit being paid to either party; and
 
                      (g)  a standard of living that in all the circumstances is reasonable; and
 
@@ -13182,7 +13183,7 @@ Note 3:       For **_child of a de facto relationship_**, see sect
 
                              (ii)  otherwise in relation to any of that last‑mentioned property;
 
-                            whether or not that last‑mentioned property has, since the making of the contribution, ceased to be the property of the parties to the de facto relationship or either of them; and
+                            whether or not that last‑mentioned property has, since the making of the contribution, ceased to be the property of the parties to the de facto relationship or either of them; and
 
                      (b)  the contribution (other than a financial contribution) made directly or indirectly by or on behalf of a party to the de facto relationship, or a child of the de facto relationship:
 
@@ -16902,7 +16903,7 @@ have the same meaning as they have in the Child Protection Convention.
 
 ##### <a id="111CJ"></a>111CJ  Application of this Subdivision
 
-                   This Subdivision applies only if an issue under this Act is whether a court, as opposed to any of the following authorities, has jurisdiction to appoint, or determine the powers of, a guardian of a child’s property:
+                   This Subdivision applies only if an issue under this Act is whether a court, as opposed to any of the following authorities, has jurisdiction to appoint, or determine the powers of, a guardian of a child’s property:
 
                      (a)  a central authority or competent authority of a Convention country;
 
@@ -18016,7 +18017,7 @@ Note:          For another case where the court can also make 
 
                      (a)  is not reasonable given the terms of the Act or regulations; or
 
-                     (b)  is not convenient to give effect to Australia’s obligations under the Convention concerned, or to obtain for Australia the benefits of that Convention.
+                     (b)  is not convenient to give effect to   Australia’s obligations under the Convention concerned, or to obtain for Australia the benefits of that Convention.
 
              (3)  In proceedings under regulations made for the purposes of section 111B, the court can also make an order as to costs that is:
 
@@ -18054,7 +18055,7 @@ a court having jurisdiction under this Act may, subject to subsection (2):
 
              (2)  Nothing in subsection (1) empowers a court to order a person to make reparation to the Commonwealth, to a Commonwealth instrumentality or to another person in respect of any loss suffered, or any expense incurred, where a court has, under section 21B of the _Crimes Act 1914_, ordered the first‑mentioned person to make reparation to the Commonwealth, to the Commonwealth instrumentality or to that other person, as the case may be, in respect of the same loss suffered or expense incurred.
 
-##### <a id="117B"></a>117B  Interest on moneys ordered to be paid
+##### <a id="117B"></a>117B  Interest on moneys ordered to be paid
 
              (1)  Subject to any order made by the court under subsection (2), where, in proceedings under this Act, a court makes an order for the payment of money (other than an order for the payment by way of maintenance of a periodic sum), interest is payable, at the rate prescribed by the applicable Rules of Court, from:
 
@@ -18214,7 +18215,7 @@ Note:          Powers to make Rules of Court are also containe
 
                    A person who is authorised or directed by a provision of this Act, or by a warrant issued under a provision of this Act, to arrest another person may use such reasonable force as is necessary to make the arrest or to prevent the escape of that person after the arrest.
 
-##### <a id="122A"></a>122A  Powers of entry and search for purposes of arresting persons
+##### <a id="122A"></a>122A  Powers of entry and search for purposes of arresting persons
 
              (1)  Where:
 
@@ -20885,40 +20886,6 @@ Schedule 2 (item 30): 4 Jan 2012</div>
   </td>
   <td>
     <div>Sch. 2 (item 4) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Counsel and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>107, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 8): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 53, 54): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -29005,7 +28972,7 @@ rs. No. 167, 1995</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 147, 2010; No. 136, 2012</div>
+    <div>am. No. 147, 2010</div>
   </td>
   <td>
     <div></div>
@@ -32356,17 +32323,6 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 69D</div>
   </td>
   <td>
@@ -35661,4 +35617,59 @@ rep. No. 46, 2006</div>
     <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AF</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AG</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AH</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AI</div>
+  </td>
+  <td>
+    <
