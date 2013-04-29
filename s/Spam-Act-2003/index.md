@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00021/Html/d73746ad-87b6-439b-8e66-f808b57b1ebb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00030/Html/a6eeee06-bbd9-4bbc-bae4-343b58d381a1_files/image001.gif)
 
 # Spam Act 2003
 
 **Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -131,7 +132,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [2](#2).            Factual information
 
-[3](#3).            Government bodies, political parties and charities
+[3](#3).            Government bodies, political parties, religious organisations and charities
 
 [4](#4).            Educational institutions
 
@@ -575,8 +576,6 @@ Note:          For treatment of partnerships, see section 58
                      (a)  publish on the internet; and
 
                      (b)  publish to the public or a section of the public.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="regist-polit-parti"></a>**_registered political party_** means a political party, or a branch or division of a political party, that is registered under:
 
@@ -1318,7 +1317,7 @@ Maximum penalty payable by a person other than a body corporate—prior record
 
                              (ii)  in any other case—1,000 penalty units.
 
-##### <a id="26"></a>26  Civil action for recovery of pecuniary penalties
+##### <a id="26"></a>26  Civil action for recovery of pecuniary penalties
 
              (1)  The ACMA may institute a proceeding in the Federal Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in section 24.
 
@@ -1622,7 +1621,7 @@ Note 2:       Designated commercial electronic messages are exempt f
 
                      (c)  the message complies with such other condition or conditions (if any) as are specified in the regulations.
 
-##### <a id="3"></a>3  Government bodies, political parties and charities
+##### <a id="3"></a>3  Government bodies, political parties, religious organisations and charities
 
                    For the purposes of this Act, an electronic message is a **_designated commercial electronic message_** if:
 
@@ -1632,7 +1631,9 @@ Note 2:       Designated commercial electronic messages are exempt f
 
                              (ii)  a registered political party;
 
-                            (iii)  a registered charity; and
+                            (iii)  a religious organisation;
+
+                            (iv)  a charity or charitable institution; and
 
                      (b)  the message relates to goods or services; and
 
@@ -2261,23 +2262,6 @@ Schedule 2: <i>(a)</i></div>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 208–210): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
@@ -2521,7 +2505,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 4</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005; Nos. 8 and 103, 2010; No. 46, 2011; No. 169, 2012</div>
+    <div>am. No. 45, 2005; Nos. 8 and 103, 2010; No. 46, 2011</div>
   </td>
   <td>
     <div></div>
@@ -2654,39 +2638,6 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
   </td>
   <td colspan="2">
     <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to c. 3</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 169, 2012</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 169, 2012</div>
   </td>
   <td>
     <div></div>
