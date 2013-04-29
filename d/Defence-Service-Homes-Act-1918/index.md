@@ -1,240 +1,238 @@
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Defence Service Homes Act 1918
 
-**Act No. 43 of 1918 as amended**
+**Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 2 July 2008
- taking into account amendments up to Act No. 28 of 2008
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary<span style="mso-tab-count: 1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[4AAA](#4AAA).   Regular Serviceman
+[4AAA](#4AAA).   Regular Serviceman<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[4AAB](#4AAB).   National Serviceman
+[4AAB](#4AAB).   National Serviceman<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[4AA](#4AA).      Extension of Act to Norfolk Island
+[4AA](#4AA).      Extension of Act to Norfolk Island<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[4AB](#4AB).      Joint ownership
+[4AB](#4AB).      Joint ownership<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[4A](#4A).         Eligible person and spouse may be treated together as eligible person
+[4A](#4A).         Eligible person and spouse may be treated together as eligible person<span style="mso-tab-count: 1 dotted"> </span>
 
-[4BA](#4BA).      Election to surrender eligible status
+[4BA](#4BA).      Election to surrender eligible status<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[4BB](#4BB).       Revocation of election to surrender eligible status
+[4BB](#4BB).       Revocation of election to surrender eligible status<span style="mso-tab-count: 1 dotted">                            </span>
 
-[4B](#4B).         Approval of Bank agreement
+[4B](#4B).         Approval of Bank agreement<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[4C](#4C).         Compensation for acquisition of property
+[4C](#4C).         Compensation for acquisition of property<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[4D](#4D).         Exclusion of Consumer Credit Codes in relation to subsidised advances
+[4D](#4D).         Exclusion of Consumer Credit Codes in relation to subsidised advances<span style="mso-tab-count: 1">                </span>
 
-[4E](#4E).          Application of the _Criminal Code_
+[4E](#4E).          Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-**Part II—Administration**
+**Part II—Administration<span style="mso-tab-count: 1">                                                                                                     </span>**
 
-[6](#6).            Delegation by Minister
+[6](#6).            Delegation by Minister<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[6A](#6A).         Delegation by Secretary
+[6A](#6A).         Delegation by Secretary<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[6B](#6B).         Transfer of portfolio assets to the Bank
+[6B](#6B).         Transfer of portfolio assets to the Bank<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[6C](#6C).         Dealings relating to vested portfolio assets
+[6C](#6C).         Dealings relating to vested portfolio assets<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[6D](#6D).         Transfer of certain other assets to Commonwealth
+[6D](#6D).         Transfer of certain other assets to Commonwealth<span style="mso-tab-count: 1 dotted">                           </span>
 
-**Part III—Notices of eligibility, certificates of entitlement and certificates of assignment**
+**Part III—Notices of eligibility, certificates of entitlement and certificates of assignment<span style="mso-tab-count: 1">               </span>**
 
-[15](#15).          Applications for notices and certificates
+[15](#15).          Applications for notices and certificates<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[16](#16).          Notice of eligibility
+[16](#16).          Notice of eligibility<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[17](#17).          Certificate of entitlement: advances
+[17](#17).          Certificate of entitlement: advances<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[17A](#17A).       Criteria for issue of certificate of entitlement: joint ownership
+[17A](#17A).       Criteria for issue of certificate of entitlement: joint ownership<span style="mso-tab-count: 1 dotted">         </span>
 
-[18](#18).          Criteria for issue of certificate of entitlement: advances other than widow or widower advances, advances for essential repairs and home support advances
+[18](#18).          Criteria for issue of certificate of entitlement: advances other than widow or widower advances, advances for essential repairs and home support advances<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[19](#19).          Criteria for issue of certificate of entitlement: further advance
+[19](#19).          Criteria for issue of certificate of entitlement: further advance<span style="mso-tab-count: 1 dotted">         </span>
 
-[20](#20).          Criteria for issue of certificate of entitlement: widow or widower advances
+[20](#20).          Criteria for issue of certificate of entitlement: widow or widower advances<span style="mso-tab-count: 1">           </span>
 
-[21](#21).          Criteria for issue of certificate of entitlement: advances made for essential repairs
+[21](#21).          Criteria for issue of certificate of entitlement: advances made for essential repairs<span style="mso-tab-count: 1">                </span>
 
-[21A](#21A).       Criteria for issue of certificate of entitlement: home support advances
+[21A](#21A).       Criteria for issue of certificate of entitlement: home support advances<span style="mso-tab-count: 1">  </span>
 
-[22](#22).          Certificate of entitlement: transfer of property subject to specified portfolio asset or advance
+[22](#22).          Certificate of entitlement: transfer of property subject to specified portfolio asset or advance<span style="mso-tab-count: 1">             </span>
 
-[23](#23).          Certificate of entitlement: instalment relief
+[23](#23).          Certificate of entitlement: instalment relief<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[23A](#23A).       Certificates of assignment
+[23A](#23A).       Certificates of assignment<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Part IIIA—Unjust transactions**
+**Part IIIA—Unjust transactions<span style="mso-tab-count: 1">                                                                                     </span>**
 
-[23AA](#23AA).    Power to reopen unjust transactions
+[23AA](#23AA).    Power to reopen unjust transactions<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[23B](#23B).       Matters to be considered by court
+[23B](#23B).       Matters to be considered by court<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[23C](#23C).       Unforeseen circumstances
+[23C](#23C).       Unforeseen circumstances<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[23D](#23D).       Conduct
+[23D](#23D).       Conduct<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[23E](#23E).        Orders on reopening of transactions
+[23E](#23E).        Orders on reopening of transactions<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[23F](#23F).        A court may review unconscionable fees and charges
+[23F](#23F).        A court may review unconscionable fees and charges<span style="mso-tab-count: 1 dotted">                       </span>
 
-[23G](#23G).       Time limit
+[23G](#23G).       Time limit<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[23H](#23H).       Exceptions
+[23H](#23H).       Exceptions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[23J](#23J).        Legal and financial assistance
+[23J](#23J).        Legal and financial assistance<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[23K](#23K).       Jurisdiction of courts
+[23K](#23K).       Jurisdiction of courts<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[23L](#23L).        Definition
+[23L](#23L).        Definition<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-**Part IV—Subsidy on advances etc.**
+**Part IV—Subsidy on advances etc.<span style="mso-tab-count: 1">                                                                             </span>**
 
-[24](#24).          Subsidy payable by Commonwealth
+[24](#24).          Subsidy payable by Commonwealth<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[24A](#24A).       Condition of payment of subsidy—subsidy under one scheme only
+[25](#25).          Maximum amounts for which subsidy is payable<span style="mso-tab-count: 1 dotted">                             </span>
 
-[25](#25).          Maximum amounts for which subsidy is payable
+[26](#26).          Cancellation of subsidy<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[26](#26).          Cancellation of subsidy
+[27](#27).          Cancellation of subsidy where subclause 11 16 of the Bank agreement applies<span style="mso-tab-count: 1">     </span>
 
-[27](#27).          Cancellation of subsidy where subclause 11 16 of the Bank agreement applies
+[27A](#27A).       Cancellation of subsidy if the eligible person dies<span style="mso-tab-count: 1 dotted">                             </span>
 
-[27A](#27A).       Cancellation of subsidy if the eligible person dies
+[28](#28).          Deferral of subsidy by Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[28](#28).          Deferral of subsidy by Minister
+[29](#29).          Recovery of subsidy<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[29](#29).          Recovery of subsidy
+[30](#30).          Waiver etc <span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[30](#30).          Waiver etc 
+**Part V—Rates of interest, maximum terms, and conversions<span style="mso-tab-count: 1">                    </span>**
 
-**Part V—Rates of interest, maximum terms, and conversions**
+[31](#31).          Rate of interest on initial advances<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[31](#31).          Rate of interest on initial advances
+[32](#32).          Rate of interest on widow or widower advances<span style="mso-tab-count: 1 dotted">                               </span>
 
-[32](#32).          Rate of interest on widow or widower advances
+[33](#33).          Rate of interest on additional advances<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[33](#33).          Rate of interest on additional advances
+[34](#34).          Rate of interest on further advances<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[34](#34).          Rate of interest on further advances
+[35](#35).          Rate of interest on advances for essential repairs<span style="mso-tab-count: 1 dotted">                              </span>
 
-[35](#35).          Rate of interest on advances for essential repairs
+[35AAA](#35AAA). Rate of interest on home support advance<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[35AAA](#35AAA). Rate of interest on home support advance
+[35AA](#35AA).    Interest rates reduced according to reduced Benchmark rate<span style="mso-tab-count: 1 dotted">             </span>
 
-[35AA](#35AA).    Interest rates reduced according to reduced Benchmark rate
+[35AB](#35AB).    Reduction of certain single-tiered rates of interest<span style="mso-tab-count: 1 dotted">                            </span>
 
-[35AB](#35AB).    Reduction of certain single-tiered rates of interest
+[35AC](#35AC).    Replacement of multi-tiered rates of interest with single rate<span style="mso-tab-count: 1 dotted">           </span>
 
-[35AC](#35AC).    Replacement of multi-tiered rates of interest with single rate
+[35AD](#35AD).    Rates not altered for certain portfolio contracts of sale<span style="mso-tab-count: 1 dotted">                    </span>
 
-[35AD](#35AD).    Rates not altered for certain portfolio contracts of sale
+[35A](#35A).       Modifications of Bank agreement and other instruments<span style="mso-tab-count: 1 dotted">                  </span>
 
-[35A](#35A).       Modifications of Bank agreement and other instruments
+[36](#36).          Maximum terms of advances<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[36](#36).          Maximum terms of advances
+[37](#37).          Conversion of contract of sale into mortgage<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[37](#37).          Conversion of contract of sale into mortgage
+**Part VI—Defence Service Homes Insurance Scheme<span style="mso-tab-count: 1">                                    </span>**
 
-**Part VI—Defence Service Homes Insurance Scheme**
+[38](#38).          Defence Service Homes Insurance Scheme<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[38](#38).          Defence Service Homes Insurance Scheme
+[38A](#38A).       Powers of Commonwealth to be exercised by the Secretary<span style="mso-tab-count: 1 dotted">             </span>
 
-[38A](#38A).       Powers of Commonwealth to be exercised by the Secretary
+[38B](#38B).       Transfer of assets and liabilities<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[38B](#38B).       Transfer of assets and liabilities
+[38C](#38C).       Insurance of dwelling-houses etc <span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[38C](#38C).       Insurance of dwelling-houses etc 
+[38CA](#38CA).    Insurance of certain other houses etc <span style="mso-tab-count: 1 dotted">                                                </span>
 
-[38CA](#38CA).    Insurance of certain other houses etc 
+[38CB](#38CB).     Powers of Commonwealth under this Part<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[38CB](#38CB).     Powers of Commonwealth under this Part
+[38D](#38D).       Insurance of dwelling-house etc  In which Corporation has an interest<span style="mso-tab-count: 1">  </span>
 
-[38D](#38D).       Insurance of dwelling-house etc  In which Corporation has an interest
+[38E](#38E).        Termination of insurance<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[38E](#38E).        Termination of insurance
+[38EA](#38EA).     Termination of insurance undertaken under section 38CA<span style="mso-tab-count: 1 dotted">               </span>
 
-[38EA](#38EA).     Termination of insurance undertaken under section 38CA
+[38FA](#38FA).     Application of section 38E in relation to retirement village accommodation<span style="mso-tab-count: 1">          </span>
 
-[38FA](#38FA).     Application of section 38E in relation to retirement village accommodation
+[38F](#38F).        Reinsurance<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[38F](#38F).        Reinsurance
+[38G](#38G).       Payments for fire brigade services<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[38G](#38G).       Payments for fire brigade services
+[38H](#38H).       Limitation of liability of Commonwealth<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[38H](#38H).       Limitation of liability of Commonwealth
+**Part VII—Finance<span style="mso-tab-count: 1">                                                                                                                 </span>**
 
-**Part VII—Finance**
+[40](#40).          Defence Service Homes Insurance Account<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[40](#40).          Defence Service Homes Insurance Account
+[40A](#40A).       Interest on amounts invested<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[40A](#40A).       Interest on amounts invested
+[41](#41).          Appropriation<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[41](#41).          Appropriation
+**Part VIII—Miscellaneous<span style="mso-tab-count: 1">                                                                                                </span>**
 
-**Part VIII—Miscellaneous**
+[43](#43).          Internal review of reviewable decisions<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[43](#43).          Internal review of reviewable decisions
+[44](#44).          Review of decisions by Administrative Appeals Tribunal<span style="mso-tab-count: 1 dotted">               </span>
 
-[44](#44).          Review of decisions by Administrative Appeals Tribunal
+[45](#45).          Certain provisions of Bank agreement not to be revoked or amended<span style="mso-tab-count: 1 dotted"> </span>
 
-[45](#45).          Certain provisions of Bank agreement not to be revoked or amended
+[45A](#45A).       Bankruptcy of purchaser or borrower<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[45A](#45A).       Bankruptcy of purchaser or borrower
+[45B](#45B).       Exchange of information<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[45B](#45B).       Exchange of information
+[46](#46).          Reports from inspectors and valuers<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[45C](#45C).       Use and disclosure of personal information
+[47](#47).          Dwelling-houses for incapacitated soldiers<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[46](#46).          Reports from inspectors and valuers
+[50A](#50A).       Improper use of certain words<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[47](#47).          Dwelling-houses for incapacitated soldiers
+[50B](#50B).       Annual Report<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[50A](#50A).       Improper use of certain words
+[51](#51).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[50B](#50B).       Annual Report
+**Schedule 1—Agreement between the Commonwealth of Australia and Westpac Banking Corporation<span style="mso-tab-count: 1"> </span>** 
 
-[51](#51).          Regulations
+**Schedule 1A—Agreement between the Commonwealth of Australia and Westpac Banking Corporation<span style="mso-tab-count: 1">                                                                                                                                    </span>** 
 
-**Schedule 1—Agreement between the Commonwealth of Australia and Westpac Banking Corporation** 
+**Schedule 2—Provisions of Defence Service Homes Act and regulations applying as terms and conditions of vested portfolio assets<span style="mso-tab-count: 1">                                                                                  </span>** 
 
-**Schedule 1A—Agreement between the Commonwealth of Australia and Westpac Banking Corporation** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                          </span>** 
 
-**Schedule 2—Provisions of Defence Service Homes Act and regulations applying as terms and conditions of vested portfolio assets** 
-
-**Notes** 
 
 ## An Act relating to the provision of assistance to members of the Defence Force and certain other persons to acquire homes, or for other purposes
 
-## Part I—Preliminary
+## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span class="superscriptstyle"><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-family: Arial">[_see_ Note 1]</span></span>
 
                    This Act may be cited as the _Defence Service Homes Act 1918_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span class="superscriptstyle"><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-family: Arial">[_see_ Note 1]</span></span>
 
                    This Act shall commence on a date to be fixed by Proclamation.
 
@@ -244,9 +242,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="addition-advanc"></a>**_additional advance_** means a subsidised advance to a purchaser or borrower for a purpose referred to in subsection 18(3).
 
-                    <a name="advanc-essenti-repair"></a>**_advance for essential repairs_** means a subsidised advance to a person referred to in section 21 for the purpose referred to in that section.
+                    <a name="advanc-essenti-repair"></a>**_advance for essential repairs_** means a subsidised advance to a person referred to in section 21 for the purpose referred to in that section.
 
-                    <a name="amending-act"></a>**_amending Act_** means the _Defence Service Homes Amendment Act 1988_.
+                    <a name="amending-act"></a>**_amending Act_** means the _Defence Service Homes Amendment Act 1988_.
 
                     <a name="approved"></a>**_approved_** means approved by the Minister in writing for the purposes of this Act.
 
@@ -254,11 +252,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="assigned-advanc"></a>**_assigned advance_** means a subsidised advance to an assignee, in accordance with a certificate of assignment issued under section 23A.
 
-                    <a name="assigne"></a>**_assignee_** means an assignee referred to in section 23A.
+                    <a name="assigne"></a>**_assignee_** means an assignee referred to in section 23A.
 
-                    <a name="assignor"></a>**_assignor_** means an assignor referred to in section 23A.
+                    <a name="assignor"></a>**_assignor_** means an assignor referred to in section 23A.
 
-                    <a name="australian-soldier"></a>**_Australian Soldier_** means a person who, during the First World War or the Second World War or during the warlike operations in or in connection with Korea after 26 June 1950 or the warlike operations in or in connection with Malaya after 28 June 1950:
+                    <a name="australian-soldier"></a>**_Australian Soldier_** means a person who, during the First World War or the Second World War or during the warlike operations in or in connection with <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Korea</st1:place></st1:country-region> after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="26" month="6">26 June 1950</st1:date> or the warlike operations in or in connection with <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Malaya</st1:place> after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="28" month="6">28 June 1950</st1:date>:
 
                      (a)  is or was a member of the Naval, Military or Air Forces of Australia enlisted or appointed for or employed on active service outside Australia or on a ship of war; or
 
@@ -268,37 +266,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  was a member of any nursing service maintained by the Government of any part of the King’s Dominions other than the Commonwealth, in connexion with the Naval, Military or Air Forces of that part, and who proves to the satisfaction of the Secretary that she had, before her appointment to that service, resided in Australia or a Territory;
 
-and who, in the case of a person included in paragraph (a) or (b) in relation to service in connection with the Second World War:
+and who, in the case of a person included in paragraph (a) or (b) in relation to service in connection with the Second World War:
 
-                     (e)  was so enlisted, accepted, appointed or employed before 3rd September, 1945; or
+                     (e)  was so enlisted, accepted, appointed or employed before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1945" day="3" month="9">3rd September, 1945</st1:date>; or
 
-                      (f)  was so enlisted, accepted, appointed or employed on or after that date and before 1 July 1951, and who has been discharged or who has ceased to be engaged on war service as defined in section 4 of the _Defence Act 1903-1945_;
+                      (f)  was so enlisted, accepted, appointed or employed on or after that date and before 1 July 1951, and who has been discharged or who has ceased to be engaged on war service as defined in section 4 of the _Defence Act 1903-1945_;
 
 and includes:
 
-                     (g)  a person who, as a member of the Defence Force, rendered continuous full-time service outside Australia:
+                     (g)  a person who, as a member of the Defence Force, rendered continuous full-time service outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>:
 
                               (i)  as a member of a unit of the Defence Force that was allotted for duty, within the meaning of the _Veterans’ Entitlements Act 1986_ as provided in subsection 5B(2) of that Act; or
 
                              (ii)  as a person who was allotted for duty, within the meaning of the _Veterans’ Entitlements Act 1986_ as provided in subsection 5B(2) of that Act;
 
-in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to the _Veterans’ Entitlements Act 1986_ during the period specified in that item:
+in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to the _Veterans’ Entitlements Act 1986_ during the period specified in that item:
 
-                    (ga)  a person who, as a member of the Defence Force or as a member of a unit of the Defence Force, was allotted for duty within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in the operational area described in item 9 of Schedule 2 to that Act during the period specified in that item;
+                    (ga)  a person who, as a member of the Defence Force or as a member of a unit of the Defence Force, was allotted for duty within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in the operational area described in item 9 of Schedule 2 to that Act during the period specified in that item;
 
-                    (gb)  a person who, as a member of the Defence Force or as a member of a unit of the Defence Force, was allotted for duty within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in an operational area described in item 10, 11, 12, 13 or 14 of Schedule 2 to that Act during the period specified in that item and whose first service in the Defence Force began on or before 14 May 1985;
+                    (gb)  a person who, as a member of the Defence Force or as a member of a unit of the Defence Force, was allotted for duty within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in an operational area described in item 10, 11, 12, 13 or 14 of Schedule 2 to that Act during the period specified in that item and whose first service in the Defence Force began on or before 14 May 1985;
 
-                    (gc)  a member of the Defence Force who is taken, because of section 6D of the _Veterans’ Entitlements Act 1986_, to have rendered operational service (within the meaning of that Act);
+                    (gc)  a member of the Defence Force who is taken, because of section 6D of the _Veterans’ Entitlements Act 1986_, to have rendered operational service (within the meaning of that Act);
 
                     (gd)  a member of the Defence Force:
 
-                              (i)  whose first service in the Defence Force began on or before 14 May 1985; and
+                              (i)  whose first service in the Defence Force began on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>; and
 
-                             (ii)  who is taken, because of section 6E of the _Veterans’ Entitlements Act 1986_, to have rendered operational service (within the meaning of that Act);
+                             (ii)  who is taken, because of section 6E of the _Veterans’ Entitlements Act 1986_, to have rendered operational service (within the meaning of that Act);
 
                     (ge)  a member of the Defence Force:
 
-                              (i)  whose first service in the Defence Force began on or before 14 May 1985; and
+                              (i)  whose first service in the Defence Force began on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>; and
 
                              (ii)  who has rendered warlike service;
 
@@ -308,11 +306,11 @@ in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to t
 
                       (j)  a person who:
 
-                              (i)  was appointed for service outside Australia as a representative of an approved welfare organization with a body, contingent or detachment of the Defence Force;
+                              (i)  was appointed for service outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> as a representative of an approved welfare organization with a body, contingent or detachment of the Defence Force;
 
-                             (ii)  as such, served outside Australia on or after the third day of September, 1939, with that body, contingent or detachment; and
+                             (ii)  as such, served outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> on or after the third day of September, 1939, with that body, contingent or detachment; and
 
-                            (iii)  would, if during that service he had been a member of the Defence Force allotted for duty with that body, contingent or detachment, be, by reason of that service, an Australian soldier as defined by a provision of this definition other than paragraph (h) or (i) or this paragraph.
+                            (iii)  would, if during that service he had been a member of the Defence Force allotted for duty with that body, contingent or detachment, be, by reason of that service, an Australian soldier as defined by a provision of this definition other than paragraph (h) or (i) or this paragraph.
 
                     <a name="balanc"></a>**_balance_** has the same meaning as in the agreement.
 
@@ -320,25 +318,25 @@ in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to t
 
                      (a)  of a subsidised advance in respect of which subsidy is payable; or
 
-                     (b)  secured by a specified portfolio asset (other than a contract of sale) which vests in the Bank under section 6B and in respect of which subsidy is payable and includes an assignee in relation to a subsidised advance.
+                     (b)  secured by a specified portfolio asset (other than a contract of sale) which vests in the Bank under section 6B and in respect of which subsidy is payable and includes an assignee in relation to a subsidised advance.
 
-                    <a name="certif-assign"></a>**_certificate of assignment_** means a certificate of assignment issued under section 23A.
+                    <a name="certif-assign"></a>**_certificate of assignment_** means a certificate of assignment issued under section 23A.
 
                     <a name="certif-entitl"></a>**_certificate of entitlement_** means a certificate of entitlement issued under this Act.
 
-                    <a name="commenc-dai"></a>**_commencing day_** means the day on which section 10 of the amending Act commences.
+                    <a name="commenc-dai"></a>**_commencing day_** means the day on which section 10 of the amending Act commences.
 
                     <a name="compani-titl"></a>**_company title_**, in relation to land, means a right of occupancy of the land, or of a dwelling-house or part of a dwelling-house erected on the land, arising from the holding of shares in a corporation that has an interest in the land or dwelling-house.
 
-                    <a name="consum-crite-code-commenc-dai"></a>**_Consumer Credit Codes commencing day_** means the earliest day on which any of the Consumer Credit Codes of the States or Territories comes into force.
+                    <a name="consum-crite-code-commenc-dai"></a>**_Consumer Credit Codes commencing day_** means the earliest day on which any of the Consumer Credit Codes of the States or Territories comes into force.<o:p></o:p>
 
-                    <a name="contract-sale"></a>**_contract of sale_** means a contract for the sale of a dwelling-house and land under Part IV of this Act as in force before the commencing day.
+                    <a name="contract-sale"></a>**_contract of sale_** means a contract for the sale of a dwelling-house and land under Part IV of this Act as in force before the commencing day.
 
                     <a name="corpor"></a>**_Corporation_** means the Defence Service Homes Corporation.
 
                     <a name="corpor-advanc"></a>**_Corporation advance_** has the same meaning as in the Bank agreement.
 
-                    <a name="court"></a>**_court_** means a court of summary jurisdiction.
+                    <a name="court"></a>**_court_** means a court of summary jurisdiction.<o:p></o:p>
 
                     <a name="crite-provid"></a>**_credit provider_** means:
 
@@ -346,7 +344,7 @@ in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to t
 
                      (b)  any other credit provider (within the meaning of the _Privacy Act 1988_) that is the party to an agreement (within the meaning of this Act).
 
-                    <a name="elig-person"></a><a name="depend-parent"></a>**_dependent parent_** means a parent of a person mentioned in paragraphs (a) to (g) of the definition of **_Eligible person_** if:
+                    <a name="elig-person"></a><a name="depend-parent"></a>**_dependent parent_** means a parent of a person mentioned in paragraphs (a) to (g) of the definition of **_Eligible person_** if:
 
                      (a)  the person so mentioned:
 
@@ -362,7 +360,7 @@ in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to t
 
                     <a name="dwell-hous"></a>**_Dwelling-house_** includes:
 
-                     (a)  a house or building used or to be used by a person, who is included in paragraph (b) or (d) of the definition of **_Australian Soldier_**, as a hospital, sanatorium or nursing home; and
+                     (a)  a house or building used or to be used by a person, who is included in paragraph (b) or (d) of the definition of **_Australian Soldier_**, as a hospital, sanatorium or nursing home; and
 
                      (b)  the appurtenances, outbuildings, fences, and permanent provision for lighting, water supply, drainage and sewerage provided in connexion with a dwelling-house;
 
@@ -378,29 +376,29 @@ but does not include any land.
 
                      (d)  is a member of the Young Men’s Christian Association who, during the First World War, was accepted for service with and served abroad with the Naval or Military Forces of Australia as a representative of that Association;
 
-                     (e)  has been awarded, in respect of his employment during the First World War, the Australian Mercantile Marine War Zone Badge, or the British Mercantile Marine Medal; and was during such employment domiciled in Australia or a Territory;
+                     (e)  has been awarded, in respect of his employment during the First World War, the Australian Mercantile Marine War Zone Badge, or the British Mercantile Marine Medal; and was during such employment domiciled in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or a Territory;
 
-                      (f)  after the commencement of the Second World War, and before the commencement of the _War Service Homes Act 1946_, was employed under agreement as master, officer or seaman, or under indenture as apprentice, in sea-going service:
+                      (f)  after the commencement of the Second World War, and before the commencement of the _War Service Homes Act 1946_, was employed under agreement as master, officer or seaman, or under indenture as apprentice, in sea-going service:
 
                               (i)  on a ship engaged in trading between a port of a State or Territory and any other port, whether a port of a State or Territory or not; or
 
                              (ii)  on a ship being a troop transport or hospital ship;
 
-                            and was, during that employment, domiciled in Australia or a Territory; or
+                            and was, during that employment, domiciled in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or a Territory; or
 
                      (g)  not being a person to whom the last preceding paragraph applies, was, after the commencement of the Second World War, and before the commencement of the _War Service Homes Act 1946_, employed, otherwise than as a member of the Defence Force, in sea-going service on a ship being a ship of war, troop transport or hospital ship, and was, during that employment, domiciled in Australia or a Territory; 
 
-and includes a widow, widower or dependent parent of a person specified in any of the paragraphs (a) to (g) of this definition.
+and includes a widow, widower or dependent parent of a person specified in any of the paragraphs (a) to (g) of this definition.
 
                     <a name="elig-veteran"></a>**_eligible veteran_** means:
 
-                     (a)  a person covered by paragraph (a) of the definition of **_veteran_** in subsection 5C(1) of the _Veterans’ Entitlements Act 1986_; or
+                     (a)  a person covered by paragraph (a) of the definition of **_veteran_** in subsection 5C(1) of the _Veterans’ Entitlements Act 1986_; or
 
                      (b)  a member of the Forces (within the meaning of subsection 68(1) of that Act); or
 
                      (c)  a member of a Peacekeeping Force (within the meaning of subsection 68(1) of that Act); or
 
-                     (d)  a widow or widower (within the meaning of subsection 5E(1) of that Act) of a person covered by paragraph (a), (b) or (c) of this definition.
+                     (d)  a widow or widower (within the meaning of subsection 5E(1) of that Act) of a person covered by paragraph (a), (b) or (c) of this definition.
 
                     <a name="further-advanc"></a>**_further advance_** means a subsidised advance (other than a widow or widower advance, an advance for essential repairs or a home support advance) to a person who:
 
@@ -424,9 +422,9 @@ and includes a widow, widower or dependent parent of a person specified in any o
 
                      (d)  in respect of which the eligible person has a right of accommodation for an indefinite period.
 
-                    <a name="guarante"></a>**_guarantee_** includes indemnity (other than one arising under a contract of insurance).
+                    <a name="guarante"></a>**_guarantee_** includes indemnity (other than one arising under a contract of insurance).<o:p></o:p>
 
-                    <a name="guarantor"></a>**_guarantor_** means a person who has given or gives a guarantee to a credit provider in relation to a subsidised advance.
+                    <a name="guarantor"></a>**_guarantor_** means a person who has given or gives a guarantee to a credit provider in relation to a subsidised advance.<o:p></o:p>
 
                     <a name="hold"></a>**_Holding_**, in relation to an applicant or borrower, means:
 
@@ -436,13 +434,13 @@ and includes a widow, widower or dependent parent of a person specified in any o
 
                      (c)  land of which he or she is the lessee under a lease granted for a term of not less than 99 years from a State or from a local governing body; or
 
-                     (d)  land in a Territory of which he or she is the lessee under a lease from Australia or from the Administration of the Territory, being:
+                     (d)  land in a Territory of which he or she is the lessee under a lease from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or from the Administration of the Territory, being:
 
                               (i)  a lease in perpetuity;
 
                              (ii)  a lease granted for a term of not less than 99 years; or
 
-                            (iii)  in the case of Norfolk  Island—a lease granted for a term of not less than 28 years; or
+                            (iii)  in the case of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>—a lease granted for a term of not less than 28 years; or
 
                      (e)  a suburban holding held by him or her under the Crown Lands Consolidation Act, 1913 of New South Wales or under that Act as amended at any time or under an Act enacted in substitution for that Act, being a suburban holding an application for which has been confirmed in accordance with the law of that State; or
 
@@ -452,11 +450,11 @@ and includes a widow, widower or dependent parent of a person specified in any o
 
                      (h)  land of which he or she is the lessee under a lease that a credit provider considers is adequate security for a subsidised advance to be made to him or her.
 
-Note:          An interest in a holding may be a joint interest in accordance with section 4AB.
+Note:          An interest in a holding may be a joint interest in accordance with section 4AB.
 
                     <a name="home-loan-assist-act"></a>**_Home Loans Assistance Act_** means the _Defence Force (Home Loans Assistance) Act 1990_.
 
-                    <a name="home-support-advanc"></a>**_home support advance_** means a subsidised advance to a person referred to in section 21A for a purpose referred to in that section.
+                    <a name="home-support-advanc"></a>**_home support advance_** means a subsidised advance to a person referred to in section 21A for a purpose referred to in that section.
 
                     <a name="initi-advanc"></a>**_initial advance_** means a subsidised advance for a purpose referred to in subsection 18(2) to a person referred to in subsection 18(1) who is not, and has not previously been, a purchaser or borrower as defined in this section (as in force before, on or after the commencing day), otherwise than:
 
@@ -472,17 +470,17 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="mortgag"></a>**_mortgage_** includes a security over an interest in shares that are shares giving rise to a company title.
 
-                    <a name="mortgag"></a>**_mortgage_** includes:
+                    <a name="mortgag"></a>**_mortgage_** includes:<o:p></o:p>
 
-                     (a)  any interest in, or power over, property securing obligations of a borrower or guarantor; and
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>any interest in, or power over, property securing obligations of a borrower or guarantor; and<o:p></o:p>
 
-                     (b)  a credit provider’s title to land or goods that are subject to a sale by instalments.
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>a credit provider’s title to land or goods that are subject to a sale by instalments.<o:p></o:p>
 
-                    <a name="mortgagor"></a>**_mortgagor_** means a person who has given or gives a mortgage to a credit provider in relation to a subsidised advance.
+                    <a name="mortgagor"></a>**_mortgagor_** means a person who has given or gives a mortgage to a credit provider in relation to a subsidised advance.<o:p></o:p>
 
                     <a name="munition-worker"></a>**_Munition worker_** means a person who, during the First World War:
 
-                     (a)  entered into an agreement with the Commonwealth or the Minister of State for Defence to proceed to Great Britain for the purpose of:
+                     (a)  entered into an agreement with the Commonwealth or the Minister of State for Defence to proceed to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Great Britain</st1:place></st1:country-region> for the purpose of:
 
                               (i)  engaging in the work of producing munitions for the Imperial Government or otherwise; or
 
@@ -490,7 +488,7 @@ Note:          An interest in a holding may be a joint interes
 
                      (b)  engaged in the work of producing munitions for the Imperial Government or otherwise or served under the Imperial Government in the Ministry of Munitions, and whose agreement with the Commonwealth or the Minister of State for Defence was not determined by reason of his failure to observe and perform any term or condition contained in the agreement, or by reason of his dismissal from any work in Great Britain during the continuance of the agreement because of any conduct of the worker which, in the opinion of the Minister, was such as to justify the determination of the agreement.
 
-                    <a name="nation-serviceman"></a>**_National serviceman_** means a person who is a national serviceman in accordance with section 4AAB.
+                    <a name="nation-serviceman"></a>**_National serviceman_** means a person who is a national serviceman in accordance with section 4AAB.
 
                     <a name="notic-elig"></a>**_notice of eligibility_** means a notice of eligibility issued under this Act.
 
@@ -508,7 +506,7 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="purchas"></a>**_purchaser_** means a person who is liable to pay the outstanding balance of the purchase money in respect of the purchase of land and a dwelling-house under a contract of sale in respect of which subsidy is payable.
 
-                    <a name="regular-serviceman"></a>**_Regular serviceman_** means a person who is a regular serviceman in accordance with section 4AAA.
+                    <a name="regular-serviceman"></a>**_Regular serviceman_** means a person who is a regular serviceman in accordance with section 4AAA.
 
                     <a name="retir-villag"></a>**_retirement village_** means:
 
@@ -524,21 +522,21 @@ Note:          An interest in a holding may be a joint interes
 
                      (a)  refusing to issue a notice of eligibility, a certificate of entitlement or a certificate of assignment;
 
-                     (b)  determining an amount under section 25;
+                     (b)  determining an amount under section 25;
 
-                     (c)  cancelling subsidy under section 26;
+                     (c)  cancelling subsidy under section 26;
 
-                     (d)  giving the Bank a notice of the intended cancellation of subsidy under section 27;
+                     (d)  giving the Bank a notice of the intended cancellation of subsidy under section 27;
 
-                    (da)  cancelling a subsidy under section 27A;
+                    (da)  cancelling a subsidy under section 27A;
 
-                     (e)  requiring a person to pay an amount under section 29;
+                     (e)  requiring a person to pay an amount under section 29;
 
-                      (f)  determining a maximum term under section 36;
+                      (f)  determining a maximum term under section 36;
 
-                     (g)  refusing to extend the period for making an application for review under section 43; or
+                     (g)  refusing to extend the period for making an application for review under section 43; or
 
-                     (h)  giving, or refusing to give, an approval under section 45A.
+                     (h)  giving, or refusing to give, an approval under section 45A.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
@@ -550,7 +548,7 @@ Note:          An interest in a holding may be a joint interes
 
                      (b)  an initial advance that the Bank is taken to have made under section 37.
 
-                    <a name="subsidis-advanc-contract"></a>**_subsidised advance contract_** means an agreement for the provision of a subsidised advance whether or not the Commonwealth has terminated the subsidy in respect of the advance.
+                    <a name="subsidis-advanc-contract"></a>**_subsidised advance contract_** means an agreement for the provision of a subsidised advance whether or not the Commonwealth has terminated the subsidy in respect of the advance.<o:p></o:p>
 
                     <a name="subsidis-advanc-loan-account"></a>**_subsidised advance loan account_** means:
 
@@ -560,7 +558,7 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="subsidi"></a>**_subsidy_** means a subsidy payable under Part IV by the Commonwealth to a credit provider, being an amount calculated and payable in the manner provided in the agreement.
 
-                    <a name="supplementari-agreem"></a>**_supplementary agreement_** means an agreement between the  Commonwealth and the Bank, whether or not set out in a Schedule to this Act, that: 
+                    <a name="supplementari-agreem"></a>**_supplementary agreement_**means an agreement between the<span style="mso-spacerun: yes">  </span>Commonwealth and the Bank, whether or not set out in a Schedule to this Act, that: <o:p></o:p>
 
                      (a)  amends the Bank agreement; and
 
@@ -580,7 +578,7 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="bank-agreem"></a>**_the Bank agreement_** means the agreement made between the Commonwealth and the Bank on 9 November 1988, a copy of which is set out in Schedule 1, as varied or affected by a supplementary agreement or otherwise, and as in force from time to time.
 
-                    <a name="transfere"></a>**_transferee_** means a person to whom a certificate of entitlement has been issued under section 22.
+                    <a name="transfere"></a>**_transferee_** means a person to whom a certificate of entitlement has been issued under section 22.
 
                     <a name="vest-date"></a>**_vesting date_**, in relation to the portfolio assets in a State or Territory, means the date determined by the Minister under section 6B in relation to those assets.
 
@@ -588,21 +586,21 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="war-worker"></a>**_War worker_** means a person, who, during the First World War, entered into an agreement with the Commonwealth to proceed to Great Britain for the purpose of engaging in work as a labourer, fettler or navvy for the Imperial Government or otherwise and engaged in such work, and whose agreement with the Commonwealth or the Minister of State for Defence was not determined by reason of his failure to observe and perform any term or condition contained in the agreement, or by reason of his dismissal from any work in Great Britain during the continuance of the agreement because of any conduct of the worker which, in the opinion of the Minister, was such as to justify the determination of the agreement.
 
-                    <a name="widow"></a>**_Widow_**, in relation to an eligible person who died after the commencement of section 3 of the _Defence Service Homes Amendment Act 1978_, includes a woman who lived with the eligible person as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him.
+                    <a name="widow"></a>**_Widow_**, in relation to an eligible person who died after the commencement of section 3 of the _Defence Service Homes Amendment Act 1978_, includes a woman who lived with the eligible person as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him.
 
                     <a name="widow"></a>**_widower_**, in relation to an eligible person who died after the commencement of paragraph 4(d) of the amending Act, includes a man who lived with the eligible person as her husband on a permanent and _bona fide_ domestic basis, although not legally married to her.
 
-                    <a name="widow-widow-advanc"></a>**_widow or widower advance_** means a subsidised advance to a person referred to in section 20 for a purpose referred to in that section.
+                    <a name="widow-widow-advanc"></a>**_widow or widower advance_** means a subsidised advance to a person referred to in section 20 for a purpose referred to in that section.
 
-                    <a name="wind-dai"></a>**_winding-up day_** means the day on which section 15 of the amending Act commences. 
+                    <a name="wind-dai"></a>**_winding-up day_** means the day on which section 15 of the amending Act commences. 
 
-             (2)  For the purposes of the definition of _Australian Soldier_ in subsection (1), a person shall not be taken to be an Australian soldier in relation to the warlike operations in or in connection with Korea after 26 June 1950, or the warlike operations in or in connection with Malaya after 28 June 1950, unless:
+             (2)  For the purposes of the definition of _Australian Soldier_ in subsection (1), a person shall not be taken to be an Australian soldier in relation to the warlike operations in or in connection with <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Korea</st1:place></st1:country-region> after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="26" month="6">26 June 1950</st1:date>, or the warlike operations in or in connection with <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Malaya</st1:place> after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1950" day="28" month="6">28 June 1950</st1:date>, unless:
 
-                     (a)  that person was allotted for duty in an operational area within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in connection with those operations before 1 September 1957 and, if he was so allotted while in Australia, or in the part of the Queen’s dominions other than the Commonwealth, as the case may be, he left the last port of call in Australia or in that other part of the Queen’s dominions before that date for the purpose of serving in connection with those operations; or
+                     (a)  that person was allotted for duty in an operational area within the meaning of subsection 5B(2) of the _Veterans’ Entitlements Act 1986_ in connection with those operations before 1 September 1957 and, if he was so allotted while in Australia, or in the part of the Queen’s dominions other than the Commonwealth, as the case may be, he left the last port of call in Australia or in that other part of the Queen’s dominions before that date for the purpose of serving in connection with those operations; or
 
-                     (b)  that person, not being a person to whom paragraph (a) applies, served, on or after 1 September 1957 and before 28 May 1963, in an area prescribed to be, or to have been, an operational area for the purposes of this paragraph.
+                     (b)  that person, not being a person to whom paragraph (a) applies, served, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1957" day="1" month="9">1 September 1957</st1:date> and before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1963" day="28" month="5">28 May 1963</st1:date>, in an area prescribed to be, or to have been, an operational area for the purposes of this paragraph.
 
-          (2A)  Subject to subsection (2AA), for the purposes of paragraph (a) of the definition of **_Australian Soldier_** in subsection (1), a person who is or was:
+          (2A)  Subject to subsection (2AA), for the purposes of paragraph (a) of the definition of **_Australian Soldier_** in subsection (1), a person who is or was:
 
                      (a)  a member of the Citizen Military Forces;
 
@@ -614,7 +612,7 @@ Note:          An interest in a holding may be a joint interes
 
 shall not, by reason only of being or having been such a member, be taken to have been enlisted or appointed for active service outside Australia or on a ship of war.
 
-       (2AA)  Subsection (2A) does not apply in relation to a person who, during the Second World War, was:
+       (2AA)  Subsection (2A) does not apply in relation to a person who, during the Second World War, was:
 
                      (a)  a member of the Women’s Royal Australian Naval Service, the Australian Women’s Army Service or the Women’s Auxiliary Australian Air Force; or
 
@@ -622,7 +620,7 @@ shall not, by reason only of being or having been such a member, be taken to hav
 
                      (c)  a full-time paid member of the Voluntary Aid Detachment.
 
-        (2AB)  For the purposes of the definitions of **_further advance_** and **_initial advance_** in subsection 4(1), a person of a kind referred to in subsection (2AA) is not taken to have been a purchaser or borrower, merely because the person previously became a purchaser or borrower on the basis that:
+        (2AB)  For the purposes of the definitions of **_further advance_** and **_initial advance_** in subsection 4(1), a person of a kind referred to in subsection (2AA) is not taken to have been a purchaser or borrower, merely because the person previously became a purchaser or borrower on the basis that:
 
                      (a)  the person’s husband is or was an eligible person, and as a result they were, under subsection 4A(1), treated together as an eligible person for the purposes of this Act; or
 
@@ -646,13 +644,13 @@ is not taken to have been a purchaser or borrower, merely because he previously 
 
                       (f)  he was an eligible person because he was a dependent parent.
 
-          (2B)  For the purposes of paragraph (c) of the definition of **_Australian Soldier_** in subsection (1), a person shall not be taken to have served in the Naval, Military or Air Forces of any part of the King’s Dominions, other than the Commonwealth, unless he served in such Forces:
+          (2B)  For the purposes of paragraph (c) of the definition of **_Australian Soldier_** in subsection (1), a person shall not be taken to have served in the Naval, Military or Air Forces of any part of the King’s Dominions, other than the Commonwealth, unless he served in such Forces:
 
                      (a)  in an operational area outside the country or place of his enlistment or appointment for service; or
 
                      (b)  as a combatant in an active combat unit.
 
-          (2C)  Subject to subsection (2D), an Australian soldier who, by reason of his misconduct or misbehaviour:
+          (2C)  Subject to subsection (2D), an Australian soldier who, by reason of his misconduct or misbehaviour:
 
                      (a)  was discharged from, or otherwise ceased to be a member of, the Naval, Military or Air Forces of Australia; and
 
@@ -660,15 +658,15 @@ is not taken to have been a purchaser or borrower, merely because he previously 
 
 shall not be treated as an eligible person for the purposes of this Act, but this subsection shall not prevent a widow, widower or dependent parent of such an Australian soldier being an eligible person.
 
-          (2D)  Where the relevant misconduct or misbehaviour of an Australian soldier referred to in subsection (2C) consisted only of his absence without leave, the Secretary may treat him as an eligible person for the purposes of this Act if the Secretary, having regard to the quality of his service outside Australia, considers it appropriate to do so.
+          (2D)  Where the relevant misconduct or misbehaviour of an Australian soldier referred to in subsection (2C) consisted only of his absence without leave, the Secretary may treat him as an eligible person for the purposes of this Act if the Secretary, having regard to the quality of his service outside Australia, considers it appropriate to do so.
 
              (3)  Where, in the case of a person, being a female, who is:
 
-                     (a)  a person described in paragraph (g) of the definition of **_Australian soldier_** in subsection 4(1); or
+                     (a)  a person described in paragraph (g) of the definition of **_Australian soldier_** in subsection 4(1); or
 
                      (b)  a regular serviceman;
 
-the whole or any part of the service by reason of which she is such a member or such a regular serviceman, as the case may be, was service as a member of a nursing service, she shall, for the purposes of paragraph 18(1)(f), be deemed to be a person included in paragraph (b) of the definition of **_Australian Soldier_** in subsection (1) of section 4.
+the whole or any part of the service by reason of which she is such a member or such a regular serviceman, as the case may be, was service as a member of a nursing service, she shall, for the purposes of paragraph 18(1)(f), be deemed to be a person included in paragraph (b) of the definition of **_Australian Soldier_** in subsection (1) of section 4.
 
           (3A)  A reference in this Act to the wife of a man shall, in relation to any time when a woman is living with him as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him, be read as including a reference to that woman.
 
@@ -692,7 +690,7 @@ the land shall be deemed to be a holding for the purposes of this Act in relatio
 
 the land shall be deemed to be a holding for the purposes of this Act in relation to the applicant.
 
-             (6)  For the purposes of this Act a person is taken, subject to subsection (7), to have a **_right of residence in a retirement village_** if the person has a right of permanent residence in the retirement village, subject to any contractual conditions governing the person’s residence.
+             (6)  For the purposes of this Act a person is taken, subject to subsection (7), to have a **_right of residence in a retirement village_** if the person has a right of permanent residence in the retirement village, subject to any contractual conditions governing the person’s residence.
 
              (7)  For the purposes of this Act a person is not taken to have a right of residence in a retirement village if the person’s right of residence is derived from the person’s interest in a holding of the person.
 
@@ -708,7 +706,7 @@ the land shall be deemed to be a holding for the purposes of this Act in relatio
 
                      (b)  the assignee is not taken to have previously been a purchaser or borrower merely because the assignee previously became a purchaser or borrower, either as an eligible person in his or her own right or as an assignee in relation to another assignor.
 
-           (12)  For the purposes of paragraph (b) of the definition of **_further advance_** in subsection 4(1), a person is not taken to have been a purchaser or borrower immediately before an assigned advance is made, merely because the person is a purchaser or borrower, as an assignee, in relation to an assignor other than the one in question.
+           (12)  For the purposes of paragraph (b) of the definition of **_further advance_** in subsection 4(1), a person is not taken to have been a purchaser or borrower immediately before an assigned advance is made, merely because the person is a purchaser or borrower, as an assignee, in relation to an assignor other than the one in question.
 
            (13)  For the purposes of the definitions of **_further advance_** and **_initial advance_** in subsection 4(1), a person who has been an assignor is taken to have been a borrower unless the person:
 
@@ -720,25 +718,25 @@ the land shall be deemed to be a holding for the purposes of this Act in relatio
 
              (1)  Subject to this section, a person is a regular serviceman for the purposes of this Act if:
 
-                     (a)  he has served on continuous full-time service as a member of the Defence Force, not being service that ended before 7 December 1972, and, during that service, has:
+                     (a)  he has served on continuous full-time service as a member of the Defence Force, not being service that ended before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1972" day="7" month="12">7 December 1972</st1:date>, and, during that service, has:
 
-                              (i)  in the case of service that commenced before 17 August 1977—completed, whether before or after 7 December 1972, 3 years’ effective full-time service as such a member; or
+                              (i)  in the case of service that commenced before 17 August 1977—completed, whether before or after 7 December 1972, 3 years’ effective full-time service as such a member; or
 
                              (ii)  in the case of service that commenced on or after 17 August 1977—completed a period of 6 years’ effective full-time service as such a member, being a period at the expiration of which he continued to render full-time service as such a member otherwise than by reason only of a delay in discharging him or otherwise terminating that service, including a delay for the purpose of the treatment or observation of an illness or injury;
 
                      (b)  he was engaged to serve as a member of the Defence Force for a period of continuous full-time service of:
 
-                              (i)  in the case of a person so engaged before 17 August 1977—not less than 3 years; or
+                              (i)  in the case of a person so engaged before 17 August 1977—not less than 3 years; or
 
-                             (ii)  in the case of a person so engaged on or after 17 August 1977—not less than 6 years;
+                             (ii)  in the case of a person so engaged on or after 17 August 1977—not less than 6 years;
 
-                            but that service ended, on or after 7 December 1972, by reason of his death or his discharge on the ground of invalidity or physical or mental incapacity to perform duties; or
+                            but that service ended, on or after 7 December 1972, by reason of his death or his discharge on the ground of invalidity or physical or mental incapacity to perform duties; or
 
-                     (c)  he was an officer appointed for continuous full-time service in the Defence Force (other than an officer appointed before 17 August 1977 whose appointment was for a period of continuous full-time service of less than 3 years or an officer appointed on or after 17 August 1977 whose appointment was for a period of continuous full-time service of less than 6 years), but that service ended, on or after 7 December 1972, by reason of his death or the termination of his appointment on the ground of invalidity or physical or mental incapacity to perform duties; 
+                     (c)  he was an officer appointed for continuous full-time service in the Defence Force (other than an officer appointed before 17 August 1977 whose appointment was for a period of continuous full-time service of less than 3 years or an officer appointed on or after 17 August 1977 whose appointment was for a period of continuous full-time service of less than 6 years), but that service ended, on or after 7 December 1972, by reason of his death or the termination of his appointment on the ground of invalidity or physical or mental incapacity to perform duties; 
 
-but, subject to subsection (5A), not if the person’s first service in the Defence Force began after 14 May 1985.
+but, subject to subsection (5A), not if the person’s first service in the Defence Force began after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>.
 
-             (2)  For the purposes of paragraph (a) of subsection (1):
+             (2)  For the purposes of paragraph (a) of subsection (1):
 
                      (a)  the service of a person as an officer of the Naval Forces undergoing the course of training at the Royal Australian Naval College, and his service after completion of that course, shall be disregarded unless the officer is subsequently promoted to the rank of sub-lieutenant or a higher rank;
 
@@ -746,11 +744,11 @@ but, subject to subsection (5A), not if the person’s first service in the De
 
                      (c)  the service of a person as an Air Cadet of the Air Force shall be disregarded unless the person is subsequently appointed as an officer of that Force.
 
-          (2A)  For the purposes of paragraph (b) of subsection (1), where a person re-engages to serve as a member of the Defence Force, other than as an officer, for a period of continuous full-time service, he shall be taken to have been engaged on his enlistment to serve until the expiration of the period for which he re-engages.
+          (2A)  For the purposes of paragraph (b) of subsection (1), where a person re-engages to serve as a member of the Defence Force, other than as an officer, for a period of continuous full-time service, he shall be taken to have been engaged on his enlistment to serve until the expiration of the period for which he re-engages.
 
-          (2B)  For the purposes of paragraph (c) of subsection (1), where an officer commences a period of continuous full-time service immediately after the expiration of a previous period of such service by him, whether as an officer or otherwise, he shall be taken to have been appointed on the commencement of that previous period to serve until the expiration of the later period.
+          (2B)  For the purposes of paragraph (c) of subsection (1), where an officer commences a period of continuous full-time service immediately after the expiration of a previous period of such service by him, whether as an officer or otherwise, he shall be taken to have been appointed on the commencement of that previous period to serve until the expiration of the later period.
 
-             (3)  Paragraphs (b) and (c) of subsection (1) do not apply in relation to a discharge or termination of appointment:
+             (3)  Paragraphs (b) and (c) of subsection (1) do not apply in relation to a discharge or termination of appointment:
 
                      (a)  that occurred before the person concerned had completed twelve months’ effective full-time service; and
 
@@ -760,31 +758,31 @@ but, subject to subsection (5A), not if the person’s first service in the De
 
                              (ii)  was not aggravated, or was not materially aggravated, by that service.
 
-             (4)  Paragraph (c) of subsection (1) does not apply in relation to a period of service referred to in paragraph (b) of subsection (6) that was brought to an end by the death, or the termination of the appointment, of the officer concerned.
+             (4)  Paragraph (c) of subsection (1) does not apply in relation to a period of service referred to in paragraph (b) of subsection (6) that was brought to an end by the death, or the termination of the appointment, of the officer concerned.
 
              (5)  A member of the Defence Force not on continuous full-time service who has, whether before or after the commencement of this section, commenced continuous full-time service in pursuance of a voluntary undertaking given by him and accepted by the appropriate authority of the Defence Force shall:
 
-                     (a)  if he was an officer on the day on which he so commenced—be deemed, for the purposes of paragraph (c) of subsection (1), to have been appointed as an officer of the Defence Force on that day for service for the period for which he was bound to serve on continuous full-time service; or
+                     (a)  if he was an officer on the day on which he so commenced—be deemed, for the purposes of paragraph (c) of subsection (1), to have been appointed as an officer of the Defence Force on that day for service for the period for which he was bound to serve on continuous full-time service; or
 
-                     (b)  if he was a member other than an officer on the day on which he so commenced—be deemed, for the purposes of paragraph (b) of subsection (1), to have been engaged to serve as a member of the Defence Force on that day for service for the period for which he was bound to serve on continuous full-time service.
+                     (b)  if he was a member other than an officer on the day on which he so commenced—be deemed, for the purposes of paragraph (b) of subsection (1), to have been engaged to serve as a member of the Defence Force on that day for service for the period for which he was bound to serve on continuous full-time service.
 
-First service after 14 May 1985
+First service after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>
 
           (5A)  A person is a regular serviceman for the purposes of this Act if:
 
-                     (a)  the person is covered by paragraph (1)(b) or (c); and
+                     (a)  the person is covered by paragraph (1)(b) or (c); and
 
-                     (b)  the person’s first service in the Defence Force began after 14 May 1985; and
+                     (b)  the person’s first service in the Defence Force began after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>; and
 
-                     (c)  the person’s death or discharge from the Defence Force occurred before 19 December 1988; and
+                     (c)  the person’s death or discharge from the Defence Force occurred before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="19" month="12">19 December 1988</st1:date>; and
 
                      (d)  a notice of eligibility or a certificate of entitlement has been issued to the person under this Act or regulations made under this Act.
 
-          (5B)  If a person to whom subsection (5A) applies is dead, the person is taken to have been a regular serviceman immediately before the person’s death.
+          (5B)  If a person to whom subsection (5A) applies is dead, the person is taken to have been a regular serviceman immediately before the person’s death.
 
 Note:          this subsection has the effect of making a widow, widower or dependent parent of the person an **_eligible person_** (see definition of **_eligible person_** in subsection 4(1)).
 
-          (5C)  Subsections (5A) and (5B) do not apply to a person who is or has been a subsidised borrower under the Home Loans Assistance Act.
+          (5C)  Subsections (5A) and (5B) do not apply to a person who is or has been a subsidised borrower under the Home Loans Assistance Act.
 
              (6)  In this section, **_effective full-time service_**, in relation to a member of the Defence Force, means any period of continuous full-time service of the member other than:
 
@@ -804,7 +802,7 @@ Note:          this subsection has the effect of making a wido
 
                    Subject to this section, a person is a national serviceman for the purposes of this Act if:
 
-                     (a)  he was, immediately before 7 December, 1972, a national serviceman, or a national service officer, for the purposes of the _National Service Act 1951-1971_ serving in the Regular Army Supplement; and
+                     (a)  he was, immediately before 7 December, 1972, a national serviceman, or a national service officer, for the purposes of the _National Service Act 1951-1971_ serving in the Regular Army Supplement; and
 
                      (b)  on or after that date:
 
@@ -812,9 +810,9 @@ Note:          this subsection has the effect of making a wido
 
                              (ii)  that service ended by reason of his death or his discharge, or the termination of his appointment, on the ground of invalidity or physical or mental incapacity to perform duties.
 
-##### <a id="4AA"></a>4AA  Extension of Act to Norfolk Island
+##### <a id="4AA"></a>4AA  Extension of Act to <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>
 
-                   This Act extends to Norfolk Island.
+                   This Act extends to <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
 ##### <a id="4AB"></a>4AB  Joint ownership
 
@@ -824,7 +822,7 @@ Note:          this subsection has the effect of making a wido
 
                      (b)  a suburban holding under the Crown Lands Consolidation Act, 1913 of New South Wales, or under that Act as amended at any time, or under an Act enacted in substitution for that Act;
 
-                     (c)  a unit defined in a units plan registered in accordance with a law of the Australian Capital Territory relating to unit titles;
+                     (c)  a unit defined in a units plan registered in accordance with a law of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> relating to unit titles;
 
                      (d)  a right of residence in a retirement village;
 
@@ -834,7 +832,7 @@ includes a reference to such property held by a person as a joint tenant or tena
 
              (3)  A reference in this Act to a purchaser or borrower includes a reference to a person who is a purchaser or borrower as a joint tenant or tenant in common.
 
-Note:          Section 17A deals with the issue of certificates of entitlement in relation to joint tenancies and tenancies in common.
+Note:          Section 17A deals with the issue of certificates of entitlement in relation to joint tenancies and tenancies in common.
 
 ##### <a id="4A"></a>4A  Eligible person and spouse may be treated together as eligible person
 
@@ -850,9 +848,9 @@ Note:          Section 17A deals with the issue of certifica
 
                      (a)  is a member of the Defence Force:
 
-                              (i)  whose first service in the Defence Force began on or before 14 May 1985; or
+                              (i)  whose first service in the Defence Force began on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>; or
 
-                             (ii)  whose first service in the Defence Force began after that day but who is covered by paragraph (ga) of the definition of **_Australian Soldier_** in subsection 4(1); and
+                             (ii)  whose first service in the Defence Force began after that day but who is covered by paragraph (ga) of the definition of **_Australian Soldier_** in subsection 4(1); and
 
                      (b)  is not, and has not at any time been, a borrower; and
 
@@ -866,7 +864,7 @@ may elect to surrender his or her status as an eligible person under this Act.
 
                      (b)  given to the Secretary within the prescribed period.
 
-             (3)  Subject to section 4BB, an election is irrevocable and takes effect on the day on which it is given to the Secretary.
+             (3)  Subject to section 4BB, an election is irrevocable and takes effect on the day on which it is given to the Secretary.
 
              (4)  When an election takes effect, the person making it stops being an eligible person for the purposes of this Act.
 
@@ -878,41 +876,41 @@ may elect to surrender his or her status as an eligible person under this Act.
 
 ##### <a id="4BB"></a>4BB  Revocation of election to surrender eligible status
 
-Revocation of election before 1 July 1992
+Revocation of election before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="7">1 July 1992</st1:date>
 
-             (1)  A person who has elected to surrender his or her status as an eligible person under section 4BA may revoke that election (the **_surrender election_**) if:
-
-                     (a)  the person is not and has not been a subsidised borrower under the Home Loans Assistance Act; and
-
-                     (b)  the person gives the Secretary a written notice stating that the person wishes to revoke his or her surrender election; and
-
-                     (c)  the notice is given to the Secretary before 1 July 1992.
-
-Revocation of election before 1 January 1993
-
-             (2)  A person who has elected to surrender his or her status as an eligible person under section 4BA may revoke that election (the **_surrender election_**) if:
+             (1)  A person who has elected to surrender his or her status as an eligible person under section 4BA may revoke that election (the **_surrender election_**) if:
 
                      (a)  the person is not and has not been a subsidised borrower under the Home Loans Assistance Act; and
 
                      (b)  the person gives the Secretary a written notice stating that the person wishes to revoke his or her surrender election; and
 
-                     (c)  the notice is given to the Secretary on or after 1 July 1992 and before 1 January 1993; and
+                     (c)  the notice is given to the Secretary before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="7">1 July 1992</st1:date>.
+
+Revocation of election before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="1">1 January 1993</st1:date>
+
+             (2)  A person who has elected to surrender his or her status as an eligible person under section 4BA may revoke that election (the **_surrender election_**) if:
+
+                     (a)  the person is not and has not been a subsidised borrower under the Home Loans Assistance Act; and
+
+                     (b)  the person gives the Secretary a written notice stating that the person wishes to revoke his or her surrender election; and
+
+                     (c)  the notice is given to the Secretary on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="7">1 July 1992</st1:date> and before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="1">1 January 1993</st1:date>; and
 
                      (d)  the person satisfies the Secretary that:
 
-                              (i)  the person was not aware before 1 July 1992 that the person’s surrender election was revocable; and
+                              (i)  the person was not aware before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="1" month="7">1 July 1992</st1:date> that the person’s surrender election was revocable; and
 
-                             (ii)  the person would not have made the surrender election if the person had been aware of the matters announced in the statement made by the Minister on 22 August 1991 relating to pooling of entitlements under this Act.
+                             (ii)  the person would not have made the surrender election if the person had been aware of the matters announced in the statement made by the Minister on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="22" month="8">22 August 1991</st1:date> relating to pooling of entitlements under this Act.
 
 Date of effect of revocation
 
-             (3)  If a person’s surrender election is revoked by a notice under subsection (1) or (2), the revocation takes effect on the day on which the notice is given to the Secretary.
+             (3)  If a person’s surrender election is revoked by a notice under subsection (1) or (2), the revocation takes effect on the day on which the notice is given to the Secretary.
 
              (4)  If a person revokes his or her surrender election the Secretary must cause a copy of the notice that revoked the election to be given to the Secretary to the Department of Defence.
 
 ##### <a id="4B"></a>4B  Approval of Bank agreement
 
-                   The Bank agreement, as executed on 9 November 1988, and its execution on behalf of the Commonwealth, are approved.
+                   The Bank agreement, as executed on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="9" month="11">9 November 1988</st1:date>, and its execution on behalf of the Commonwealth, are approved.
 
 ##### <a id="4C"></a>4C  Compensation for acquisition of property
 
@@ -920,11 +918,11 @@ Date of effect of revocation
 
              (2)  In this section, **_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 
-##### <a id="4D"></a>4D  Exclusion of Consumer Credit Codes in relation to subsidised advances
+##### <a id="4D"></a>4D<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Exclusion of Consumer Credit Codes in relation to subsidised advances</span><o:p></o:p>
 
-             (1)  Except as provided by Part IIIA and section 35A, this Act does not exclude or limit the concurrent operation of the Consumer Credit Codes of the States and Territories.
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>Except as provided by Part IIIA and section 35A, this Act does not exclude or limit the concurrent operation of the Consumer Credit Codes of the States and Territories.<o:p></o:p>
 
-             (2)  Nothing in subsection 23AA(2) or section 23H is intended to make matters referred to in that subsection or section subject to the Consumer Credit Codes of the States and Territories.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>Nothing in subsection 23AA(2) or section 23H is intended to make matters referred to in that subsection or section subject to the Consumer Credit Codes of the States and Territories.
 
 ##### <a id="4E"></a>4E  Application of the _Criminal Code_
 
@@ -932,7 +930,9 @@ Date of effect of revocation
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part II—Administration
+<o:p> </o:p>
+
+## Part II—Administration
 
 ##### <a id="6"></a>6  Delegation by Minister
 
@@ -944,7 +944,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6A"></a>6A  Delegation by Secretary
 
-             (1)  The Secretary may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to a person any of his powers under this Act (except this power of delegation) and any powers that the Secretary exercises on behalf of the Commonwealth under Part VI.
+             (1)  The Secretary may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to a person any of his powers under this Act (except this power of delegation) and any powers that the Secretary exercises on behalf of the Commonwealth under Part VI.
 
              (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Secretary.
 
@@ -976,17 +976,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  the Commonwealth is, by force of this section, substituted for the Corporation as a party to any proceedings pending in any court immediately before that date (being proceedings to which the Corporation was a party and that relate to a portfolio asset in that State or Territory) and has the same rights in the proceedings as the Corporation had.
 
-             (7)  The Bank is not liable to pay or discharge any liability or obligation arising out of proceedings to which the Commonwealth is substituted as a party under paragraph (6)(d).
+             (7)  The Bank is not liable to pay or discharge any liability or obligation arising out of proceedings to which the Commonwealth is substituted as a party under paragraph (6)(d).
 
              (8)  Where a portfolio asset vests in the Bank under this section, the bank is bound by the terms and conditions of that asset and shall abide by and duly perform those terms and conditions and any obligations of the Corporation under that asset.
 
-             (9)  The provisions of this Act and the Defence Service Homes Regulations specified in Schedule 2, as those provisions were in force immediately before the commencing day, shall be taken to be terms and conditions of portfolio assets which vest in the Bank under this section and, for that purpose, those provisions shall be read as if:
+             (9)  The provisions of this Act and the Defence Service Homes Regulations specified in Schedule 2, as those provisions were in force immediately before the commencing day, shall be taken to be terms and conditions of portfolio assets which vest in the Bank under this section and, for that purpose, those provisions shall be read as if:
 
-                     (a)  references to the Corporation (other than in section 30 and subsections 35(2A) and 36A(1) of this Act as then in force) were references to the Bank;
+                     (a)  references to the Corporation (other than in section 30 and subsections 35(2A) and 36A(1) of this Act as then in force) were references to the Bank;
 
                      (b)  expressions used in those provisions that are defined in this Act as then in force had the same respective meanings as provided in those definitions; and
 
-                     (c)  they were further modified as specified in Schedule 2.
+                     (c)  they were further modified as specified in Schedule 2.
 
            (10)  A provision of a portfolio asset requiring or permitting a person to make payments under the asset at any office or to any person, other than the Corporation, shall cease to have effect when the portfolio asset vests in the Bank.
 
@@ -994,11 +994,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6C"></a>6C  Dealings relating to vested portfolio assets
 
-             (1)  Where the Corporation, or any of its predecessors, is registered in a State or Territory as the owner of an interest in a portfolio asset which vests in the Bank under section 6B, the Bank may, subject to the Bank agreement, execute any receipt, discharge or other instrument in relation to that interest in its own name, or in the name of the Corporation or the Corporation’s predecessor, as the case may be, and the Registrar-General, Registrar of Titles, or other appropriate officer, of that State or Territory may make such entries in his or her registers, and do such other things, as are necessary to give effect to that receipt, discharge or other instrument.
+             (1)  Where the Corporation, or any of its predecessors, is registered in a State or Territory as the owner of an interest in a portfolio asset which vests in the Bank under section 6B, the Bank may, subject to the Bank agreement, execute any receipt, discharge or other instrument in relation to that interest in its own name, or in the name of the Corporation or the Corporation’s predecessor, as the case may be, and the Registrar-General, Registrar of Titles, or other appropriate officer, of that State or Territory may make such entries in his or her registers, and do such other things, as are necessary to give effect to that receipt, discharge or other instrument.
 
-             (2)  The Bank may execute a transfer of land and a dwelling-house to the purchaser of that land and dwelling-house under a contract of sale which vests in the Bank under section 6B and any transfer so executed shall be taken to have been made pursuant to and in conformity with the contract of sale.
+             (2)  The Bank may execute a transfer of land and a dwelling-house to the purchaser of that land and dwelling-house under a contract of sale which vests in the Bank under section 6B and any transfer so executed shall be taken to have been made pursuant to and in conformity with the contract of sale.
 
-             (3)  A transfer referred to in subsection (2) is not liable to any _ad valorem_ tax under a State or Territory law if that _ad valorem_ tax has been paid on the relevant contract of sale.
+             (3)  A transfer referred to in subsection (2) is not liable to any _ad valorem_ tax under a State or Territory law if that _ad valorem_ tax has been paid on the relevant contract of sale.
 
 ##### <a id="6D"></a>6D  Transfer of certain other assets to Commonwealth
 
@@ -1020,15 +1020,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (5)  In this section:
 
-                    <a name="prescrib-contract"></a>**_prescribed contract_** means a contract other than a contract referred to in section 6B or an insurance contract within the meaning of section 38B.
+                    <a name="prescrib-contract"></a>**_prescribed contract_** means a contract other than a contract referred to in section 6B or an insurance contract within the meaning of section 38B.
 
-                    <a name="prescrib-debt"></a>**_prescribed debt_** means any debt, liability or obligation other than a debt, liability or obligation referred to in section 6B or an insurance debt within the meaning of section 38B.
+                    <a name="prescrib-debt"></a>**_prescribed debt_** means any debt, liability or obligation other than a debt, liability or obligation referred to in section 6B or an insurance debt within the meaning of section 38B.
 
-                    <a name="prescrib-proceing"></a>**_prescribed proceedings_** means proceedings other than proceedings referred to in section 6B or insurance proceedings within the meaning of section 38B.
+                    <a name="prescrib-proceing"></a>**_prescribed proceedings_** means proceedings other than proceedings referred to in section 6B or insurance proceedings within the meaning of section 38B.
 
-                    <a name="prescrib-right"></a>**_prescribed right_** means any right, property or assets other than a right, title or interest referred to in section 6B or an insurance right within the meaning of section 38B.
+                    <a name="prescrib-right"></a>**_prescribed right_** means any right, property or assets other than a right, title or interest referred to in section 6B or an insurance right within the meaning of section 38B.
 
-## Part III—Notices of eligibility, certificates of entitlement and certificates of assignment
+<o:p> </o:p>
+
+## Part III—Notices of eligibility, certificates of entitlement and certificates of assignment
 
 ##### <a id="15"></a>15  Applications for notices and certificates
 
@@ -1066,7 +1068,7 @@ whichever happens first.
 
              (3)  A certificate of entitlement issued under this section shall:
 
-                     (a)  specify the maximum amount in respect of which subsidy is payable, being an amount determined under section 25;
+                     (a)  specify the maximum amount in respect of which subsidy is payable, being an amount determined under section 25;
 
                      (b)  specify the maximum term of the advance;
 
@@ -1074,7 +1076,7 @@ whichever happens first.
 
                      (d)  in any other case—specify the rate of interest payable on the advance; and
 
-                    (da)  contain a statement setting out the effect of section 35AA (which, in some situations, reduces the rate of interest payable on a subsidised advance); and
+                    (da)  contain a statement setting out the effect of section 35AA (which, in some situations, reduces the rate of interest payable on a subsidised advance); and
 
                      (e)  contain particulars of such other matters as are specified in the agreement.
 
@@ -1126,7 +1128,7 @@ whichever happens first.
 
                      (c)  the person is not liable to repay any amount received by way of assistance under an agreement of the kind known as a War Service Land Settlement Agreement; and
 
-                     (d)  the person has not received money from the Commonwealth after 9 December 1987 by way of:
+                     (d)  the person has not received money from the Commonwealth after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="9" month="12">9 December 1987</st1:date> by way of:
 
                               (i)  a payment of a cash grant instead of an advance under this Act as in force on or before that day; or
 
@@ -1142,7 +1144,7 @@ whichever happens first.
 
                             other than the dwelling-house, right of residence or company title in respect of which the advance is payable; and
 
-                      (f)  except in the case of an advance to a person included in paragraph (b) or (d) of the definition of **_Australian Soldier_** in section 4 in relation to a house or building used or to be used as a hospital, sanatorium or nursing-home—the dwelling-house or retirement village accommodation in respect of which the advance is payable is intended to be used by the person as a home for the person and any dependants of the person; and
+                      (f)  except in the case of an advance to a person included in paragraph (b) or (d) of the definition of **_Australian Soldier_** in section 4 in relation to a house or building used or to be used as a hospital, sanatorium or nursing-home—the dwelling-house or retirement village accommodation in respect of which the advance is payable is intended to be used by the person as a home for the person and any dependants of the person; and
 
                      (g)  such advance will be secured by:
 
@@ -1196,7 +1198,7 @@ whichever happens first.
 
 ##### <a id="19"></a>19  Criteria for issue of certificate of entitlement: further advance
 
-                   The Secretary must not issue a certificate of entitlement in relation to subsidy on a further advance to a person unless the person is or was a purchaser or borrower in relation to a Corporation advance, a subsidised advance (other than a home support advance) or a contract of sale on or after 9 December 1987.
+                   The Secretary must not issue a certificate of entitlement in relation to subsidy on a further advance to a person unless the person is or was a purchaser or borrower in relation to a Corporation advance, a subsidised advance (other than a home support advance) or a contract of sale on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="9" month="12">9 December 1987</st1:date>.
 
 ##### <a id="20"></a>20  Criteria for issue of certificate of entitlement: widow or widower advances
 
@@ -1218,7 +1220,7 @@ whichever happens first.
 
                      (c)  the widow or widower advance relates to that land, land and dwelling-house or right of residence.
 
-          (1A)  For the purposes of paragraph (1)(b), the person is taken to be a borrower in relation to a right of residence in a retirement village if the person is, or will be, an assignor in relation to the advance.
+          (1A)  For the purposes of paragraph (1)(b), the person is taken to be a borrower in relation to a right of residence in a retirement village if the person is, or will be, an assignor in relation to the advance.
 
              (2)  The Secretary shall not issue a certificate of entitlement in relation to a subsidy on a widow or widower advance that a person may seek from a credit provider unless satisfied that:
 
@@ -1226,7 +1228,7 @@ whichever happens first.
 
                      (b)  the advance is for the purpose of paying rates, taxes, charges or other outgoings in relation to the relevant land, land and dwelling-house or right of residence in a retirement village and it would cause financial hardship to the person if he or she were to pay those rates, taxes, charges or other outgoings.
 
-             (3)  In deciding whether a person is suffering financial hardship for the purposes of paragraph (2)(a) or (b), the Secretary is to have regard to any guidelines approved by the Minister under subsection (4).
+             (3)  In deciding whether a person is suffering financial hardship for the purposes of paragraph (2)(a) or (b), the Secretary is to have regard to any guidelines approved by the Minister under subsection (4).
 
              (4)  The Minister may approve guidelines setting out matters to be taken into account in deciding whether a person is suffering financial hardship for the purposes of this Act.
 
@@ -1250,9 +1252,9 @@ whichever happens first.
 
                      (d)  it would cause serious financial hardship to the person if he or she were to bear the cost of keeping them in good order and repair.
 
-          (1A)  For the purposes of paragraph (1)(a), the person is taken to be a borrower in relation to a right of residence in a retirement village if the person is, or will be, an assignor in relation to the advance.
+          (1A)  For the purposes of paragraph (1)(a), the person is taken to be a borrower in relation to a right of residence in a retirement village if the person is, or will be, an assignor in relation to the advance.
 
-             (2)  In deciding whether a person is suffering serious financial hardship for the purposes of paragraph (1)(d), the Secretary is to have regard to any guidelines approved by the Minister under subsection (3).
+             (2)  In deciding whether a person is suffering serious financial hardship for the purposes of paragraph (1)(d), the Secretary is to have regard to any guidelines approved by the Minister under subsection (3).
 
              (3)  The Minister may approve guidelines setting out matters to be taken into account in deciding whether a person is suffering serious financial hardship for the purposes of this Act.
 
@@ -1288,15 +1290,15 @@ whichever happens first.
 
 ##### <a id="22"></a>22  Certificate of entitlement: transfer of property subject to specified portfolio asset or advance
 
-             (1)  Subject to subsection (1AA), if any land, land and dwelling-house or right of residence in a retirement village is subject to:
+             (1)  Subject to subsection (1AA), if any land, land and dwelling-house or right of residence in a retirement village is subject to:
 
-                     (a)  a specified portfolio asset which vests in the Bank under section 6B; or
+                     (a)  a specified portfolio asset which vests in the Bank under section 6B; or
 
                      (b)  a mortgage or other security securing a subsidised advance;
 
 a transfer of the estate, interest or right of the purchaser or borrower in that land or land and dwelling-house, or in relation to that right of residence, being a transfer subject to that specified portfolio asset, mortgage or other security, has no effect unless the Secretary has issued a certificate of entitlement to the proposed transferee in relation to the transfer.
 
-       (1AA)  Subsection (1) does not apply if the subsidised advance referred to in paragraph (1)(b) is an assigned advance.
+       (1AA)  Subsection (1) does not apply if the subsidised advance referred to in paragraph (1)(b) is an assigned advance.
 
           (1A)  If:
 
@@ -1306,7 +1308,7 @@ a transfer of the estate, interest or right of the purchaser or borrower in that
 
                      (c)  the relevant credit provider has no security for the subsidised advance;
 
-a transfer of the person’s right of residence, while the person’s liability under paragraph (b) remains, has no effect unless the Secretary has issued a certificate of entitlement to the proposed transferee in relation to the transfer.
+a transfer of the person’s right of residence, while the person’s liability under paragraph (b) remains, has no effect unless the Secretary has issued a certificate of entitlement to the proposed transferee in relation to the transfer.
 
              (2)  The Secretary:
 
@@ -1356,7 +1358,7 @@ a transfer of the person’s right of residence, while the person’s liability 
 
                             (iii)  the wife or husband of an eligible person who is temporarily or permanently insane; or
 
-                     (b)  the applicant is not a person referred to in paragraph (a) but is a purchaser or a borrower who is an eligible person or is an eligible veteran and the amounts of the instalments payable under the relevant contract of sale, mortgage or other security include an amount of interest calculated at a rate of more than 3.75% per year;
+                     (b)  the applicant is not a person referred to in paragraph (a) but is a purchaser or a borrower who is an eligible person or is an eligible veteran and the amounts of the instalments payable under the relevant contract of sale, mortgage or other security include an amount of interest calculated at a rate of more than 3.75% per year;
 
 and that it would cause financial hardship to the applicant if the applicant were to pay in full the amounts of the instalments, the Secretary shall determine the amount by which the amounts of the instalments should be reduced and the period during which that reduction should apply.
 
@@ -1370,7 +1372,7 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
              (4)  On the issue of a certificate of entitlement under this section, the amounts of instalments payable under the contract of sale, mortgage or other security to which the certificate relates are, if the Bank grants instalment relief to the applicant, reduced by the amount specified in the certificate during the period specified in the certificate.
 
-             (5)  In deciding whether a person is suffering financial hardship for the purposes of subsection (1), the Secretary is to have regard to any guidelines approved by the Minister under subsection (6).
+             (5)  In deciding whether a person is suffering financial hardship for the purposes of subsection (1), the Secretary is to have regard to any guidelines approved by the Minister under subsection (6).
 
              (6)  The Minister may approve guidelines setting out matters to be taken into account in deciding whether a person is suffering financial hardship for the purposes of this Act.
 
@@ -1394,11 +1396,11 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
                               (i)  specifies, under subsection 17(4), a purpose of a kind referred to in paragraph 18(2)(l) or (3)(g) or 21A(c); and
 
-                             (ii)  was not issued under section 22; and
+                             (ii)  was not issued under section 22; and
 
                      (d)  a subsidised advance has not been made to the assignor in relation to that certificate of entitlement; and
 
-                     (e)  the assignor and the assignee have agreed to conditions of a kind specified in a determination made by the Secretary under subsection (3).
+                     (e)  the assignor and the assignee have agreed to conditions of a kind specified in a determination made by the Secretary under subsection (3).
 
              (3)  The Secretary may make written determinations specifying the kinds of conditions to which an assignor and assignee must agree before a certificate of assignment can be issued to the assignor.
 
@@ -1406,7 +1408,7 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
              (5)  A certificate of assignment issued under this section must:
 
-                     (a)  specify the maximum amount in respect of which subsidy is payable, being the amount specified under paragraph 17(3)(a) in the certificate of entitlement mentioned in paragraph (2)(c) of this section.
+                     (a)  specify the maximum amount in respect of which subsidy is payable, being the amount specified under paragraph 17(3)(a) in the certificate of entitlement mentioned in paragraph (2)(c) of this section.
 
                      (b)  specify the maximum term of the advance; and
 
@@ -1414,189 +1416,187 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
                      (d)  specify the rate of interest payable on the advance; and
 
-                     (e)  contain particulars of such other matters as are specified in a determination made by the Secretary under subsection (6).
+                     (e)  contain particulars of such other matters as are specified in a determination made by the Secretary under subsection (6).
 
-             (6)  The Secretary may make written determinations as to the kind of matters to be included in a certificate of assignment pursuant to paragraph (5)(e).
+             (6)  The Secretary may make written determinations as to the kind of matters to be included in a certificate of assignment pursuant to paragraph (5)(e).
 
-             (7)  Determinations made under subsections (3) and (6) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (7)  Determinations made under subsections (3) and (6) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-## Part IIIA—Unjust transactions
+<o:p> </o:p>
 
-##### <a id="23AA"></a>23AA  Power to reopen unjust transactions
+## Part IIIA<span lang="EN-GB" style="mso-ansi-language: EN-GB">—</span><span class="CharPartText">Unjust transactions</span><o:p></o:p>
 
-             (1)  Subject to this Part, if a court is satisfied, on the application of a borrower, mortgagor or guarantor, that, in the circumstances relating to the relevant contract, mortgage or guarantee, at the time it was entered into or changed (whether or not by agreement), the contract, mortgage or guarantee or the change was unjust, the court may re-open the transaction that gave rise to the contract, mortgage, guarantee or change.
+##### <a id="23AA"></a>23AA<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Power to reopen unjust transactions</span><o:p></o:p>
 
-             (2)  This section does not apply to, or to a change in:
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>Subject to this Part, if a court is satisfied, on the application of a borrower, mortgagor or guarantor, that, in the circumstances relating to the relevant contract, mortgage or guarantee, at the time it was entered into or changed (whether or not by agreement), the contract, mortgage or guarantee or the change was unjust, the court may re-open the transaction that gave rise to the contract, mortgage, guarantee or change.<o:p></o:p>
 
-                     (a)  the annual percentage rate or rates of interest under a contract or mortgage or the method of calculating any such rate or rates of interest or of calculating any amount of interest under the contract or mortgage; or 
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>This section does not apply to, or to a change in:<o:p></o:p>
 
-                     (b)  an establishment fee or charge, or other fee or charge, in respect of which an application may be made under section 23F.
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>the annual percentage rate or rates of interest under a contract or mortgage or the method of calculating any such rate or rates of interest or of calculating any amount of interest under the contract or mortgage; or <o:p></o:p>
 
-##### <a id="23B"></a>23B  Matters to be considered by court
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>an establishment fee or charge, or other fee or charge, in respect of which an application may be made under section 23F.<o:p></o:p>
 
-             (1)  In determining whether a term of a particular contract, mortgage or guarantee in relation to a subsidised advance is unjust in the circumstances relating to it at the time it was entered into or changed, a court is, subject to subsection (2), to have regard to the public interest (including the public interest in the continued provision of assistance to eligible persons by means of subsidised advances by a credit provider) and to all the circumstances of the case and may have regard to the following:
+##### <a id="23B"></a>23B<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Matters to be considered by court</span><o:p></o:p>
 
-                     (a)  the consequences of compliance, or non-compliance, with all or any of the provisions of the contract, mortgage or guarantee;
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>In determining whether a term of a particular contract, mortgage or guarantee in relation to a subsidised advance is unjust in the circumstances relating to it at the time it was entered into or changed, a court is, subject to subsection (2), to have regard to the public interest (including the public interest in the continued provision of assistance to eligible persons by means of subsidised advances by a credit provider) and to all the circumstances of the case and may have regard to the following:<o:p></o:p>
 
-                     (b)  the relative bargaining power of the parties;
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>the consequences of compliance, or non-compliance, with all or any of the provisions of the contract, mortgage or guarantee;<o:p></o:p>
 
-                     (c)  whether or not, at the time the contract, mortgage or guarantee was entered into or changed, its provisions were the subject of negotiation;
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the relative bargaining power of the parties;<o:p></o:p>
 
-                     (d)  whether or not it was reasonably practicable for the applicant to negotiate for the alteration of, or to reject, any of the provisions of the contract, mortgage or guarantee or the change;
+<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>whether or not, at the time the contract, mortgage or guarantee was entered into or changed, its provisions were the subject of negotiation;<o:p></o:p>
 
-                     (e)  whether or not any of the provisions of the contract, mortgage or guarantee impose conditions that are unreasonably difficult to comply with, or not reasonably necessary for the protection of the legitimate interests of a party to the contract, mortgage or guarantee;
+<span style="mso-tab-count: 1">                     </span>(d)<span style="mso-tab-count: 1">  </span>whether or not it was reasonably practicable for the applicant to negotiate for the alteration of, or to reject, any of the provisions of the contract, mortgage or guarantee or the change;<o:p></o:p>
 
-                      (f)  whether or not any mortgagor (other than the borrower) or guarantor, or a person who represented that mortgagor or guarantor, was reasonably able to protect the interests of that mortgagor or guarantor because of his or her age or physical or mental condition;
+<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>whether or not any of the provisions of the contract, mortgage or guarantee impose conditions that are unreasonably difficult to comply with, or not reasonably necessary for the protection of the legitimate interests of a party to the contract, mortgage or guarantee;<o:p></o:p>
 
-                     (g)  whether or not the mortgagor who was the borrower, or a person who represented that mortgagor, was reasonably able to protect the interests of that mortgagor because of his or her physical or mental condition;
+<span style="mso-tab-count: 1">                      </span>(f)<span style="mso-tab-count: 1">  </span>whether or not any mortgagor (other than the borrower) or guarantor, or a person who represented that mortgagor or guarantor, was reasonably able to protect the interests of that mortgagor or guarantor because of his or her age or physical or mental condition;<o:p></o:p>
 
-                     (h)  the form of the contract, mortgage or guarantee and the intelligibility of the language in which it is expressed;
+<span style="mso-tab-count: 1">                     </span>(g)<span style="mso-tab-count: 1">  </span>whether or not the mortgagor who was the borrower, or a person who represented that mortgagor, was reasonably able to protect the interests of that mortgagor because of his or her physical or mental condition;<o:p></o:p>
 
-                      (i)  whether or not, and if so when, independent legal or other expert advice was obtained by the borrower, mortgagor or guarantor;
+<span style="mso-tab-count: 1">                     </span>(h)<span style="mso-tab-count: 1">  </span>the form of the contract, mortgage or guarantee and the intelligibility of the language in which it is expressed;<o:p></o:p>
 
-                      (j)  the extent to which the provisions of the contract, mortgage or guarantee or change and their legal and practical effect were accurately explained to the borrower, mortgagor or guarantor and whether or not the borrower, mortgagor or guarantor understood those provisions and their effect;
+<span style="mso-tab-count: 1">                      </span>(i)<span style="mso-tab-count: 1">  </span>whether or not, and if so when, independent legal or other expert advice was obtained by the borrower, mortgagor or guarantor;<o:p></o:p>
 
-                     (k)  whether the credit provider or any other person exerted or used unfair pressure, undue influence or unfair tactics on the borrower, mortgagor or guarantor and, if so, the nature and extent of that unfair pressure, undue influence or unfair tactics;
+<span style="mso-tab-count: 1">                      </span>(j)<span style="mso-tab-count: 1">  </span>the extent to which the provisions of the contract, mortgage or guarantee or change and their legal and practical effect were accurately explained to the borrower, mortgagor or guarantor and whether or not the borrower, mortgagor or guarantor understood those provisions and their effect;<o:p></o:p>
 
-                      (l)  whether the credit provider took measures to ensure that the borrower, mortgagor or guarantor understood the nature and implications of the transaction and, if so, the adequacy of those measures;
+<span style="mso-tab-count: 1">                     </span>(k)<span style="mso-tab-count: 1">  </span>whether the credit provider or any other person exerted or used unfair pressure, undue influence or unfair tactics on the borrower, mortgagor or guarantor and, if so, the nature and extent of that unfair pressure, undue influence or unfair tactics;<o:p></o:p>
 
-                    (m)  whether the terms of the transaction or the conduct of the credit provider is justified in the light of the risks undertaken by the credit provider;
+<span style="mso-tab-count: 1">                      </span>(l)<span style="mso-tab-count: 1">  </span>whether the credit provider took measures to ensure that the borrower, mortgagor or guarantor understood the nature and implications of the transaction and, if so, the adequacy of those measures;<o:p></o:p>
 
-                     (n)  the terms of other comparable transactions involving persons other than the credit provider who provide credit;
+<span style="mso-tab-count: 1">                    </span>(m)<span style="mso-tab-count: 1">  </span>whether the terms of the transaction or the conduct of the credit provider is justified in the light of the risks undertaken by the credit provider;<o:p></o:p>
 
-                     (o)  any other relevant matter.
+<span style="mso-tab-count: 1">                     </span>(n)<span style="mso-tab-count: 1">  </span>the terms of other comparable transactions involving persons other than the credit provider who provide credit;<o:p></o:p>
 
-             (2)  In determining whether a term of a particular contract, mortgage or guarantee is unjust in the circumstances relating to it at the time it was entered into or changed, a court:
+<span style="mso-tab-count: 1">                     </span>(o)<span style="mso-tab-count: 1">  </span>any other relevant matter.<o:p></o:p>
 
-                     (a)  is to have regard to:
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>In determining whether a term of a particular contract, mortgage or guarantee is unjust in the circumstances relating to it at the time it was entered into or changed, a court:<o:p></o:p>
+
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>is to have regard to:<o:p></o:p>
 
                               (i)  the fact that the relevant credit provider and the Commonwealth have entered into an agreement or arrangement for the provision by the credit provider of subsidised advances or other benefits under this Act; and
 
-                             (ii)  the fact that the credit provider is required to provide a subsidised advance if the requirements of this Act and the agreement are satisfied; and
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>the fact that the credit provider is required to provide a subsidised advance if the requirements of this Act and the agreement are satisfied; and<o:p></o:p>
 
-                            (iii)  the fact that the interest rates applicable to subsidised advances and loans secured by specified portfolio assets are determined under this Act; and
+<span style="mso-tab-count: 1">                            </span>(iii)<span style="mso-tab-count: 1">  </span>the fact that the interest rates applicable to subsidised advances and loans secured by specified portfolio assets are determined under this Act; and<o:p></o:p>
 
-                            (iv)  the fact that, in some circumstances, the credit provider would not provide advances to an eligible person if the making of the advance were assessed on ordinary commercial lending criteria instead of the criteria set out in this Act or the agreement; but
+<span style="mso-tab-count: 1">                            </span>(iv)<span style="mso-tab-count: 1">  </span>the fact that, in some circumstances, the credit provider would not provide advances to an eligible person if the making of the advance were assessed on ordinary commercial lending criteria instead of the criteria set out in this Act or the agreement; but<o:p></o:p>
 
-                     (b)  is not to have regard to:
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>is not to have regard to:<o:p></o:p>
 
-                              (i)  any inequality in bargaining power between the Corporation or the credit provider, and the borrower, that arose because the borrower was able to obtain a subsidised advance from the Corporation or credit provider and not from another financial institution; or
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>any inequality in bargaining power between the Corporation or the credit provider, and the borrower, that arose because the borrower was able to obtain a subsidised advance from the Corporation or credit provider and not from another financial institution; or<o:p></o:p>
 
-                             (ii)  the borrower’s age.
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>the borrower’s age.<o:p></o:p>
 
-             (3)  For the purposes of paragraph (1)(f) or (g), a person is taken to have represented a mortgagor or guarantor if the person represented the mortgagor or guarantor, or assisted the mortgagor or guarantor to a significant degree, in the negotiations process before, or at, the time the mortgage or guarantee was entered into or changed.
+<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>For the purposes of paragraph (1)(f) or (g), a person is taken to have represented a mortgagor or guarantor if the person represented the mortgagor or guarantor, or assisted the mortgagor or guarantor to a significant degree, in the negotiations process before, or at, the time the mortgage or guarantee was entered into or changed.<o:p></o:p>
 
-##### <a id="23C"></a>23C  Unforeseen circumstances
+##### <a id="23C"></a>23C<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Unforeseen circumstances</span><o:p></o:p>
 
-                   In determining whether a contract, mortgage or guarantee in relation to a subsidised advance is unjust, a court is not to have regard to any injustice arising from circumstances that were not reasonably foreseeable when the contract, mortgage or guarantee was entered into or changed.
+<span style="mso-tab-count: 2">                   </span>In determining whether a contract, mortgage or guarantee in relation to a subsidised advance is unjust, a court is not to have regard to any injustice arising from circumstances that were not reasonably foreseeable when the contract, mortgage or guarantee was entered into or changed.<o:p></o:p>
 
-##### <a id="23D"></a>23D  Conduct
+##### <a id="23D"></a>23D<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Conduct</span><o:p></o:p>
 
-                   In determining whether to grant relief in respect of a contract, mortgage or guarantee that it finds to be unjust, a court may have regard to the conduct of the parties to the proceedings in relation to the contract, mortgage or guarantee since it was entered into or changed.
+<span style="mso-tab-count: 2">                   </span>In determining whether to grant relief in respect of a contract, mortgage or guarantee that it finds to be unjust, a court may have regard to the conduct of the parties to the proceedings in relation to the contract, mortgage or guarantee since it was entered into or changed.<o:p></o:p>
 
-##### <a id="23E"></a>23E  Orders on reopening of transactions
+##### <a id="23E"></a>23E<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Orders on reopening of transactions</span><o:p></o:p>
 
-                   If a court reopens a transaction under section 23AA, it may do any one or more of the following, despite any settlement of accounts or any agreement purporting to close previous dealings and create a new obligation:
+<span style="mso-tab-count: 2">                   </span>If a court reopens a transaction under section 23AA, it may do any one or more of the following, despite any settlement of accounts or any agreement purporting to close previous dealings and create a new obligation:<o:p></o:p>
 
-                     (a)  reopen an account already taken between the parties;
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>reopen an account already taken between the parties;<o:p></o:p>
 
-                     (b)  relieve the borrower and any guarantor from payment of any amount in excess of the amount that the court, having regard to the risk involved and all other circumstances, considers to be reasonably payable;
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>relieve the borrower and any guarantor from payment of any amount in excess of the amount that the court, having regard to the risk involved and all other circumstances, considers to be reasonably payable;<o:p></o:p>
 
-                     (c)  set aside either wholly or in part, or revise or alter, an agreement made or mortgage or guarantee given in connection with the transaction;
+<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>set aside either wholly or in part, or revise or alter, an agreement made or mortgage or guarantee given in connection with the transaction;<o:p></o:p>
 
-                     (d)  order that the credit provider take any steps that are necessary to discharge the mortgage;
+<span style="mso-tab-count: 1">                     </span>(d)<span style="mso-tab-count: 1">  </span>order that the credit provider take any steps that are necessary to discharge the mortgage;<o:p></o:p>
 
-                     (e)  give judgment for, or make an order in favour of, a party of any amount that, having regard to the relief (if any) that the court thinks fit to grant, is justly due to that party under the contract, mortgage or guarantee;
+<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>give judgment for, or make an order in favour of, a party of any amount that, having regard to the relief (if any) that the court thinks fit to grant, is justly due to that party under the contract, mortgage or guarantee;<o:p></o:p>
 
-                      (f)  give judgment or make an order against a person for delivery of goods to which the contract, mortgage or guarantee relates and which are in the person’s possession;
+<span style="mso-tab-count: 1">                      </span>(f)<span style="mso-tab-count: 1">  </span>give judgment or make an order against a person for delivery of goods to which the contract, mortgage or guarantee relates and which are in the person’s possession;<o:p></o:p>
 
-                     (g)  make ancillary or consequential orders.
+<span style="mso-tab-count: 1">                     </span>(g)<span style="mso-tab-count: 1">  </span>make ancillary or consequential orders.<o:p></o:p>
 
-##### <a id="23F"></a>23F  A court may review unconscionable fees and charges
+##### <a id="23F"></a>23F<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>A court may review unconscionable fees and charges</span><o:p></o:p>
 
-             (1)  Subject to this Part, if a court is satisfied on the application of a borrower, mortgagor or guarantor that:
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>Subject to this Part, if a court is satisfied on the application of a borrower, mortgagor or guarantor that:<o:p></o:p>
 
-                     (a)  an establishment fee or charge in respect of the relevant contract, mortgage or guarantee; or
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>an establishment fee or charge in respect of the relevant contract, mortgage or guarantee; or<o:p></o:p>
 
-                     (b)  a fee or charge payable on early termination of the relevant contract, mortgage or guarantee; or
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>a fee or charge payable on early termination of the relevant contract, mortgage or guarantee; or<o:p></o:p>
 
-                     (c)  a fee or charge for a prepayment of an amount under the relevant contract, mortgage or guarantee;
+<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>a fee or charge for a prepayment of an amount under the relevant contract, mortgage or guarantee;<o:p></o:p>
 
-is unconscionable, the court may annul or reduce the fee or charge and may make ancillary or consequential orders.
+is unconscionable, the court may annul or reduce the fee or charge and may make ancillary or consequential orders.<o:p></o:p>
 
-             (2)  In determining whether an establishment fee or charge is unconscionable, the court is to have regard to whether the amount of the fee or charge is equal to the credit provider’s reasonable costs of determining an application for credit and the initial administrative costs of providing the credit or is equal to the credit provider’s average reasonable costs of those things in respect of that class of contract.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>In determining whether an establishment fee or charge is unconscionable, the court is to have regard to whether the amount of the fee or charge is equal to the credit provider’s reasonable costs of determining an application for credit and the initial administrative costs of providing the credit or is equal to the credit provider’s average reasonable costs of those things in respect of that class of contract.<o:p></o:p>
 
-             (3)  For the purposes of this section, a fee or charge payable on early termination of, or a prepayment of an amount under, the relevant contract, mortgage or guarantee is unconscionable if, and only if, it appears to the court that it exceeds a reasonable estimate of the credit provider’s loss arising from the early termination or prepayment, including the credit provider’s average reasonable administrative costs in respect of such a termination or prepayment.
+<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>For the purposes of this section, a fee or charge payable on early termination of, or a prepayment of an amount under, the relevant contract, mortgage or guarantee is unconscionable if, and only if, it appears to the court that it exceeds a reasonable estimate of the credit provider’s loss arising from the early termination or prepayment, including the credit provider’s average reasonable administrative costs in respect of such a termination or prepayment.<o:p></o:p>
 
-##### <a id="23G"></a>23G  Time limit
+##### <a id="23G"></a>23G<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Time limit</span><o:p></o:p>
 
-             (1)  An application under section 23AA may not be brought more than 2 years after the relevant contract, mortgage or guarantee is rescinded or discharged or the credit provider writes off the relevant debt, whichever occurs first.
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>An application under section 23AA may not be brought more than 2 years after the relevant contract, mortgage or guarantee is rescinded or discharged or the credit provider writes off the relevant debt, whichever occurs first.<o:p></o:p>
 
-             (2)  An application under section 23F may not be brought more than 2 years after the relevant fee or charge is charged under the contract, mortgage or guarantee or the credit provider writes off the relevant debt, whichever occurs first.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>An application under section 23F may not be brought more than 2 years after the relevant fee or charge is charged under the contract, mortgage or guarantee or the credit provider writes off the relevant debt, whichever occurs first.<o:p></o:p>
 
-##### <a id="23H"></a>23H  Exceptions
+##### <a id="23H"></a>23H<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Exceptions</span><o:p></o:p>
 
-             (1)  This Part does not apply to:
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>This Part does not apply to:<o:p></o:p>
 
-                     (a)  a change to a contract, mortgage or guarantee if the change was made by, or as a result of, the enactment of this Part, section 35A, any other Act or an amendment of the agreement; or
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>a change to a contract, mortgage or guarantee if the change was made by, or as a result of, the enactment of this Part, section 35A, any other Act or an amendment of the agreement; or<o:p></o:p>
 
-                     (b)  a contract, mortgage or guarantee under which the borrower, mortgagor or guarantor is not an individual; or
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>a contract, mortgage or guarantee under which the borrower, mortgagor or guarantor is not an individual; or<o:p></o:p>
 
-                     (c)  a contract under which the borrower is borrowing for a purpose that is not wholly or predominantly a personal, domestic or household purpose; or
+<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>a contract under which the borrower is borrowing for a purpose that is not wholly or predominantly a personal, domestic or household purpose; or<o:p></o:p>
 
-                     (d)  a mortgage or guarantee that secures or guarantees obligations under a contract:
+<span style="mso-tab-count: 1">                     </span>(d)<span style="mso-tab-count: 1">  </span>a mortgage or guarantee that secures or guarantees obligations under a contract:<o:p></o:p>
 
-                              (i)  under which the borrower is not an individual; or
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>under which the borrower is not an individual; or<o:p></o:p>
 
-                             (ii)  under which the borrower is borrowing for a purpose that is not wholly or predominantly a personal, domestic or household purpose; or
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>under which the borrower is borrowing for a purpose that is not wholly or predominantly a personal, domestic or household purpose; or<o:p></o:p>
 
-                     (e)  a contract, mortgage or guarantee that was entered into before the commencement of this paragraph.
+<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>a contract, mortgage or guarantee that was entered into before the commencement of this paragraph.<o:p></o:p>
 
-             (2)  For the purposes of this section:
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>For the purposes of this section:<o:p></o:p>
 
-                     (a)  investment by a borrower is not a personal, domestic or household purpose; and
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>investment by a borrower is not a personal, domestic or household purpose; and<o:p></o:p>
 
-                     (b)  the predominant purpose for which an individual is borrowing is:
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the predominant purpose for which an individual is borrowing is:<o:p></o:p>
 
-                              (i)  the purpose for which more than one-half of the amount borrowed is intended to be used; or
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>the purpose for which more than one-half of the amount borrowed is intended to be used; or<o:p></o:p>
 
-                             (ii)  if the amount borrowed is intended to be used to obtain goods, services or rights in relation to, or interests in, real property for use for different purposes—the purpose for which the goods, services, rights or interests are intended to be most used.
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>if the amount borrowed is intended to be used to obtain goods, services or rights in relation to, or interests in, real property for use for different purposes—the purpose for which the goods, services, rights or interests are intended to be most used.<o:p></o:p>
 
-##### <a id="23J"></a>23J  Legal and financial assistance
+##### <a id="23J"></a>23J<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Legal and financial assistance</span><o:p></o:p>
 
-             (1)  A person who has made, or proposes to make, an application under section 23AA or 23F may apply to the Attorney-General for a grant of assistance under this section in respect of the application.
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>A person who has made, or proposes to make, an application under section 23AA or 23F may apply to the Attorney-General for a grant of assistance under this section in respect of the application.<o:p></o:p>
 
-             (2)  If such an application for assistance is made, the Attorney-General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorised in writing by the Attorney-General, may, if he or she is satisfied that it would involve hardship to the applicant to refuse the application for assistance and that, in all the circumstances, it is reasonable that the application for assistance should be granted, authorise the grant by the Commonwealth to the person, either unconditionally or subject to any conditions that the Attorney-General or public servant determines, of such legal or financial assistance in relation to the application under section 23AA or 23F, as the case may be, as the Attorney-General or public servant determines.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>If such an application for assistance is made, the Attorney-General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorised in writing by the Attorney-General, may, if he or she is satisfied that it would involve hardship to the applicant to refuse the application for assistance and that, in all the circumstances, it is reasonable that the application for assistance should be granted, authorise the grant by the Commonwealth to the person, either unconditionally or subject to any conditions that the Attorney-General or public servant determines, of such legal or financial assistance in relation to the application under section 23AA or 23F, as the case may be, as the Attorney-General or public servant determines.
 
-##### <a id="23K"></a>23K  Jurisdiction of courts
+##### <a id="23K"></a>23K<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Jurisdiction of courts</span><o:p></o:p>
 
-                   The courts of summary jurisdiction of the States are invested with federal jurisdiction, and (subject to the Constitution) jurisdiction is conferred on the courts of summary jurisdiction of the Territories, with respect to matters arising under this Part.
+<span style="mso-tab-count: 2">                   </span>The courts of summary jurisdiction of the States are invested with federal jurisdiction, and (subject to the Constitution) jurisdiction is conferred on the courts of summary jurisdiction of the Territories, with respect to matters arising under this Part.
 
-##### <a id="23L"></a>23L  Definition
+##### <a id="23L"></a>23L<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Definition</span><o:p></o:p>
 
-                   In this Part:
+<span style="mso-tab-count: 2">                   </span>In this Part:<o:p></o:p>
 
                     <a name="unjust"></a>**_unjust_** includes unconscionable, harsh or oppressive.
 
-## Part IV—Subsidy on advances etc.
+<o:p> </o:p>
+
+## Part IV—Subsidy on advances etc.
 
 ##### <a id="24"></a>24  Subsidy payable by Commonwealth
 
              (1)  Subject to this Part, subsidy is payable by the Commonwealth to a credit provider on a subsidised advance to a person or the assignee of a person.
 
-             (2)  Subject to this Part, subsidy is payable by the Commonwealth to the Bank in relation to a specified portfolio asset which vests in the Bank under section 6B, or to any credit provider in relation to a subsidised advance, where the land, land and dwelling-house or right of residence in a retirement village, to which the specified portfolio asset or advance relates has been transferred to a person to whom a certificate under section 22 has been issued in relation to that transfer.
+             (2)  Subject to this Part, subsidy is payable by the Commonwealth to the Bank in relation to a specified portfolio asset which vests in the Bank under section 6B, or to any credit provider in relation to a subsidised advance, where the land, land and dwelling-house or right of residence in a retirement village, to which the specified portfolio asset or advance relates has been transferred to a person to whom a certificate under section 22 has been issued in relation to that transfer.
 
              (3)  Subject to this Part, subsidy is payable by the Commonwealth to the Bank on:
 
-                     (a)  all specified portfolio assets which vest in the Bank under section 6B; and
+                     (a)  all specified portfolio assets which vest in the Bank under section 6B; and
 
-                     (b)  all advances that the Bank is taken to have made under section 37.
-
-##### <a id="24A"></a>24A  Condition of payment of subsidy—subsidy under one scheme only
-
-             (1)  This section applies if subsidy (**_2008 Act subsidy_**) is, or has ever been, payable to a person under the _Defence Home Ownership Assistance Scheme Act 2008_.
-
-             (2)  Subsidy is not payable by the Commonwealth to a credit provider on a subsidised advance to the person or the assignee of the person on or after the earliest day the 2008 Act subsidy became payable.
+                     (b)  all advances that the Bank is taken to have made under section 37.
 
 ##### <a id="25"></a>25  Maximum amounts for which subsidy is payable
 
@@ -1626,13 +1626,13 @@ is unconscionable, the court may annul or reduce the fee or charge and may make 
 
                              (ii)  if any previous home support advances have been made to the person—$10,000 reduced by the sum of those previous advances.
 
-          (1A)  In working out the limit of a person’s last Corporation advance, subsidised advance or contract of sale under paragraph (1)(d), the amount of the person’s last Corporation advance, subsidised advance or contract of sale is taken to include the amount of any additional advance that has subsequently been made to the person or the assignee of the person (as the case requires).
+          (1A)  In working out the limit of a person’s last Corporation advance, subsidised advance or contract of sale under paragraph (1)(d), the amount of the person’s last Corporation advance, subsidised advance or contract of sale is taken to include the amount of any additional advance that has subsequently been made to the person or the assignee of the person (as the case requires).
 
-             (2)  Where an initial advance is made to 2 or more persons jointly (being persons included in paragraph (b) or (d) of the definition of **_Australian Soldier_** in section 4) in relation to a house or building used or to be used as a hospital, sanatorium or nursing-home, the Secretary may determine a maximum amount under paragraph (1)(a) that is more than $25,000 but shall not determine a maximum amount that is more than the sum of the maximum amounts that could have been determined if the advance had been made to each of those persons separately.
+             (2)  Where an initial advance is made to 2 or more persons jointly (being persons included in paragraph (b) or (d) of the definition of **_Australian Soldier_** in section 4) in relation to a house or building used or to be used as a hospital, sanatorium or nursing-home, the Secretary may determine a maximum amount under paragraph (1)(a) that is more than $25,000 but shall not determine a maximum amount that is more than the sum of the maximum amounts that could have been determined if the advance had been made to each of those persons separately.
 
-             (3)  Where subsidy is payable for a specified portfolio asset which vests in the Bank under section 6B, the maximum amount in respect of which subsidy is payable is an amount equal to the amount of the outstanding balance under the specified portfolio asset as at the relevant vesting date.
+             (3)  Where subsidy is payable for a specified portfolio asset which vests in the Bank under section 6B, the maximum amount in respect of which subsidy is payable is an amount equal to the amount of the outstanding balance under the specified portfolio asset as at the relevant vesting date.
 
-             (4)  Where the outstanding balance of a specified portfolio asset which vests in the Bank under section 6B, or of a subsidised advance, increases as a result of a grant of instalment relief to the purchaser or borrower, the maximum amount in respect of which subsidy is payable for that specified portfolio asset or subsidised advance shall be taken to have been increased by an amount equal to the amount of the increase of that outstanding balance.
+             (4)  Where the outstanding balance of a specified portfolio asset which vests in the Bank under section 6B, or of a subsidised advance, increases as a result of a grant of instalment relief to the purchaser or borrower, the maximum amount in respect of which subsidy is payable for that specified portfolio asset or subsidised advance shall be taken to have been increased by an amount equal to the amount of the increase of that outstanding balance.
 
 ##### <a id="26"></a>26  Cancellation of subsidy
 
@@ -1654,7 +1654,7 @@ the Secretary may, by notice of cancellation given to the person, cancel the sub
 
              (2)  Where:
 
-                     (a)  the Commonwealth is paying subsidy on a specified portfolio asset which vests in the Bank under section 6B or a subsidised advance; and
+                     (a)  the Commonwealth is paying subsidy on a specified portfolio asset which vests in the Bank under section 6B or a subsidised advance; and
 
                      (b)  the Secretary is satisfied that the person in respect of whom the subsidy is being paid has agreed or arranged to transfer the relevant land, land and dwelling-house or right of residence in a retirement village, by a transfer that is subject to:
 
@@ -1676,7 +1676,7 @@ the Secretary may, by notice of cancellation given to the first-mentioned person
 
                      (c)  the credit provider has no security for the subsidised advance; and
 
-                     (d)  the Secretary is satisfied that the person has agreed or arranged to transfer the right of residence, while the person’s liability under paragraph (b) remains, to a person who is not a transferee;
+                     (d)  the Secretary is satisfied that the person has agreed or arranged to transfer the right of residence, while the person’s liability under paragraph (b) remains, to a person who is not a transferee;
 
 the Secretary may, by notice of cancellation given to the first-mentioned person, cancel the subsidy on the date specified in the notice, being a date not earlier than the date of the notice.
 
@@ -1692,7 +1692,7 @@ the Secretary may, by notice of cancellation given to the first-mentioned person
 
 the Secretary may, by notice of cancellation given to the assignor, cancel the subsidy on the date specified in the notice, being a date not earlier than the date of the notice.
 
-          (2C)  If the Secretary cancels a subsidy under subsection (2B), the credit provider may, from the date when the cancellation of subsidy takes effect, charge an interest rate in relation to the advance that is an interest rate applicable to similar loans provided by the credit provider to mortgagors generally.
+          (2C)  If the Secretary cancels a subsidy under subsection (2B), the credit provider may, from the date when the cancellation of subsidy takes effect, charge an interest rate in relation to the advance that is an interest rate applicable to similar loans provided by the credit provider to mortgagors generally.
 
              (3)  Where the Commonwealth is paying subsidy on a specified portfolio asset or a subsidised advance and the credit provider takes action to enforce:
 
@@ -1704,7 +1704,7 @@ the Secretary may, by notice of cancellation given to the assignor, cancel the s
 
 but does not, within 3 months after starting that action, recover the outstanding balance secured under the asset, or the outstanding balance of the advance, as the case may be, the Secretary may, by notice of cancellation given to the relevant borrower, purchaser or transferee, cancel the subsidy on the date specified in the notice, being a date not earlier than the date of the notice.
 
-             (4)  Where the Commonwealth is paying subsidy in respect of 2 persons and one of those persons becomes the husband or wife of the other person, the Secretary may, by notice of cancellation given to one of those persons, cancel the subsidy in respect of that person on the date specified in the notice, being a date not earlier than the date of the notice.
+             (4)  Where the Commonwealth is paying subsidy in respect of 2 persons and one of those persons becomes the husband or wife of the other person, the Secretary may, by notice of cancellation given to one of those persons, cancel the subsidy in respect of that person on the date specified in the notice, being a date not earlier than the date of the notice.
 
              (5)  The Secretary shall cause a copy of a notice of cancellation to be given:
 
@@ -1730,7 +1730,7 @@ the Secretary may cancel the subsidy by written notice given to the person.
 
                      (b)  the person has a right of review of, or appeal against, the decision to terminate;
 
-the termination is taken, for the purposes of subsection (7), not to occur until:
+the termination is taken, for the purposes of subsection (7), not to occur until:
 
                      (c)  the review or appeal has been finally determined and the person has ceased to reside in the retirement village accommodation; or
 
@@ -1750,41 +1750,41 @@ the termination is taken, for the purposes of subsection (7), not to occur unt
 
 and the Secretary decides that the subsidy should be cancelled, the Secretary shall, under subclause 11.16 of the Bank agreement, give the Bank one month’s notice of the intended cancellation of the subsidy.
 
-             (2)  Where the Secretary gives the Bank a notice under subsection (1), the subsidy to which the notice relates shall be taken to have been cancelled, and ceases to be payable, at the end of any period during which the Commonwealth is required to continue paying subsidy under subclause 11.16 of the Bank agreement.
+             (2)  Where the Secretary gives the Bank a notice under subsection (1), the subsidy to which the notice relates shall be taken to have been cancelled, and ceases to be payable, at the end of any period during which the Commonwealth is required to continue paying subsidy under subclause 11.16 of the Bank agreement.
 
-             (3)  The Secretary shall cause a copy of a notice under subsection (1) to be given to the relevant purchaser, borrower or transferee.
+             (3)  The Secretary shall cause a copy of a notice under subsection (1) to be given to the relevant purchaser, borrower or transferee.
 
              (4)  Where subsidy ceases to become payable under this section the Secretary shall notify the relevant purchaser, borrower or transferee accordingly.
 
 ##### <a id="27A"></a>27A  Cancellation of subsidy if the eligible person dies
 
-             (1)  Subject to subsection (3), the Secretary may cancel subsidy on a subsidised advance in respect of a person, or the assignee of a person, if:
+             (1)  Subject to subsection (3), the Secretary may cancel subsidy on a subsidised advance in respect of a person, or the assignee of a person, if:
 
                      (a)  the person has died; and
 
                      (b)  3 months has elapsed from the date on which the person died; and
 
-                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
+                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
 
                      (d)  the Secretary considers it appropriate to cancel the subsidy.
 
-             (2)  Subject to subsection (3), the Secretary may cancel subsidy in relation to a portfolio asset entered into by a person if:
+             (2)  Subject to subsection (3), the Secretary may cancel subsidy in relation to a portfolio asset entered into by a person if:
 
                      (a)  the person has died; and
 
                      (b)  3 months has elapsed from the date on which the person died; and
 
-                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
+                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
 
                      (d)  the Secretary considers it appropriate to cancel the subsidy.
 
-             (3)  If subsidy is being paid in respect of a wife and husband who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act, the Secretary may only cancel subsidy under subsection (1) or (2) if:
+             (3)  If subsidy is being paid in respect of a wife and husband who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act, the Secretary may only cancel subsidy under subsection (1) or (2) if:
 
                      (a)  both the wife and husband have died; and
 
                      (b)  3 months has elapsed from the death of the wife or the death of the husband, whichever is the later.
 
-             (4)  If the Secretary cancels subsidy under subsection (1) or (2), the Secretary must:
+             (4)  If the Secretary cancels subsidy under subsection (1) or (2), the Secretary must:
 
                      (a)  give a notice of cancellation to the executor or personal representative of the person who has died; and
 
@@ -1794,7 +1794,7 @@ and the Secretary decides that the subsidy should be cancelled, the Secretary sh
 
              (5)  The cancellation takes effect, and the subsidy concerned ceases to be payable, on the date specified in the notice, being a date not earlier than the date of the notice.
 
-             (6)  If the Secretary cancels subsidy under subsection (1) or (2), the credit provider may, from the date when the cancellation of subsidy takes effect, charge an interest rate in relation to the advance that is an interest rate applicable to similar loans provided by the credit provider to mortgagors generally.
+             (6)  If the Secretary cancels subsidy under subsection (1) or (2), the credit provider may, from the date when the cancellation of subsidy takes effect, charge an interest rate in relation to the advance that is an interest rate applicable to similar loans provided by the credit provider to mortgagors generally.
 
 ##### <a id="28"></a>28  Deferral of subsidy by Minister
 
@@ -1802,7 +1802,7 @@ and the Secretary decides that the subsidy should be cancelled, the Secretary sh
 
 ##### <a id="29"></a>29  Recovery of subsidy
 
-             (1)  Where subsidy in relation to an advance to a person ceases to be payable under section 26, 27 or 27A, for a reason referred to in:
+             (1)  Where subsidy in relation to an advance to a person ceases to be payable under section 26, 27 or 27A, for a reason referred to in:
 
                      (a)  paragraph 26(1)(a), (b) or (c); or
 
@@ -1866,19 +1866,21 @@ whichever is less.
 
              (1)  The Secretary may, on behalf of the Commonwealth, by instrument in writing:
 
-                     (a)  write off an amount that a person has been required to pay to the Commonwealth under section 29;
+                     (a)  write off an amount that a person has been required to pay to the Commonwealth under section 29;
 
                      (b)  waive the right of the Commonwealth to recover from a person the whole or part of an amount that the person has been required to pay to the Commonwealth under that section; or
 
-                     (c)  allow a person who has been required to pay an amount to the Commonwealth under section 29 to pay that amount by such instalments as are specified in the instrument.
+                     (c)  allow a person who has been required to pay an amount to the Commonwealth under section 29 to pay that amount by such instalments as are specified in the instrument.
 
-             (2)  A decision under subsection (1) takes effect:
+             (2)  A decision under subsection (1) takes effect:
 
                      (a)  on the day specified in the notice, being the day on which the decision is made or any day before or after that day; or
 
                      (b)  if no day is so specified—on the day on which the decision is made.
 
-## Part V—Rates of interest, maximum terms, and conversions
+<o:p> </o:p>
+
+## Part V—Rates of interest, maximum terms, and conversions
 
 ##### <a id="31"></a>31  Rate of interest on initial advances
 
@@ -1894,15 +1896,15 @@ whichever is less.
 
 ##### <a id="34"></a>34  Rate of interest on further advances
 
-             (1)  Subject to subsection (2), the rate of interest that is to be specified under paragraph 17(3)(d) in a certificate of entitlement in relation to a further advance that a person may seek from a credit provider is the rate of interest per year (disregarding section 35AA) of the last preceding previous advance.
+             (1)  Subject to subsection (2), the rate of interest that is to be specified under paragraph 17(3)(d) in a certificate of entitlement in relation to a further advance that a person may seek from a credit provider is the rate of interest per year (disregarding section 35AA) of the last preceding previous advance.
 
              (2)  If, at the time when subsidy is or was most recently payable in relation to the last preceding previous advance, subsidy is or was payable in respect of the person in relation to one or more other previous advances:
 
-                     (a)  the rates of interest that are to be specified under paragraph 17(3)(c) in a certificate of entitlement in relation to a further advance that a person may seek from the credit provider are the rates of interest per year that applied (disregarding section 35AA) to those previous advances; and
+                     (a)  the rates of interest that are to be specified under paragraph 17(3)(c) in a certificate of entitlement in relation to a further advance that a person may seek from the credit provider are the rates of interest per year that applied (disregarding section 35AA) to those previous advances; and
 
                      (b)  in relation to each such interest rate—the proportion of the further advance to be so specified in relation to that interest rate is the proportion of the sum of amounts outstanding in respect of all the previous advances that are amounts to which that interest rate applies.
 
-          (2A)  For the purposes of this section, in determining the rate of interest that was payable in relation to a previous advance at any time before 5 January 1998, apply sections 35AB and 35AC as if the application of those sections were not limited to the calculation of interest for 5 January 1998 and later days.
+          (2A)  For the purposes of this section, in determining the rate of interest that was payable in relation to a previous advance at any time before 5 January 1998, apply sections 35AB and 35AC as if the application of those sections were not limited to the calculation of interest for 5 January 1998 and later days.
 
              (3)  In this section:
 
@@ -1914,7 +1916,7 @@ whichever is less.
 
 ##### <a id="35AAA"></a>35AAA  Rate of interest on home support advance
 
-                   The rate of interest that must be specified under paragraph 17(3)(d) in a certificate of entitlement in relation to a home support advance that a person may seek from a credit provider is 6.85% per year.
+                   The rate of interest that must be specified under paragraph 17(3)(d) in a certificate of entitlement in relation to a home support advance that a person may seek from a credit provider is 6.85% per year.
 
 ##### <a id="35AA"></a>35AA  Interest rates reduced according to reduced Benchmark rate
 
@@ -1938,7 +1940,7 @@ the rate of interest payable on the balance is reduced to 6.85% per year.
 
              (2)  This section applies despite anything in any certificate of entitlement or in any subsidised advance contract or portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement.
 
-             (3)  This section is subject to section 35AA (which will sometimes reduce the rate of interest payable to less than 6.85% per year).
+             (3)  This section is subject to section 35AA (which will sometimes reduce the rate of interest payable to less than 6.85% per year).
 
 ##### <a id="35AC"></a>35AC  Replacement of multi-tiered rates of interest with single rate
 
@@ -1950,7 +1952,7 @@ the rate of interest payable on the balance is reduced to 6.85% per year.
 
 the following single rate of interest is instead taken to be payable on the balance:
 
-                     (c)  if the blended interest rate (see subsection (2)) for the advance or amount is less than 4.5% per year—3.75% per year;
+                     (c)  if the blended interest rate (see subsection (2)) for the advance or amount is less than 4.5% per year—3.75% per year;
 
                      (d)  if the blended interest rate is less than 6.85% per year but not less than 4.5% per year—4.5% per year;
 
@@ -1958,13 +1960,13 @@ the following single rate of interest is instead taken to be payable on the bala
 
              (2)  This is how to work out the **_blended interest rate_** for the advance or amount:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
 _Method statement_
 
 _Step 1._   For each different rate of interest payable, multiply the rate by that part of the limit of the advance, or of the limit of the amount, on which the rate is payable, and total the results.
 
-                   Note:             However, if that limit is nil, see subsection (4).
+                   Note:             However, if that limit is nil, see subsection (4).
 
 _Step 2._   Divide the total by the limit of the advance or amount.
 
@@ -1986,9 +1988,7 @@ _Step 5._   If:
 
               the **_blended interest rate_** is instead 4.5% per year.
 
-                   Note:             Steps 4 and 5 are needed because the amortisation of the limit of the advance or amount over the term of the loan or contract can cause small temporary deviations from the average of the various rates of interest over the term. Steps 4 and 5 prevent these deviations from affecting the calculation of the blended interest rate.
-
-* * *
+                   Note:             Steps 4 and 5 are needed because the amortisation of the limit of the advance or amount over the term of the loan or contract can cause small temporary deviations from the average of the various rates of interest over the term. Steps 4 and 5 prevent these deviations from affecting the calculation of the blended interest rate.</div>
 
              (3)  This is an example of how to work out the **_blended interest rate_** for an advance or amount:
 
@@ -1996,7 +1996,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image002.gif)
+<span style="POSITION: relative; TOP: 15pt; mso-text-raise: -15.0pt"><v:shape id="_x0000_i1026" style="WIDTH: 369pt; HEIGHT: 35.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image003.wmz"></v:imagedata></v:shape></span><o:p></o:p>
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2004,47 +2004,47 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    Step 4 does not apply, because the blended interest rate is too high. Step 5 does not apply, because the blended interest rate is too high and in any event because the rates of interest in question are not the ones specified in Step 5\. Therefore, the **_blended interest rate_** for the advance is 7.75% per year.
 
-             (4)  For Steps 1 and 2 of the method statement in subsection (2), if the limit of the advance or amount at the time concerned is nil, then, instead of nil, use the amount of the limit from when the advance was first made, or when the amount first became owing to the Bank.
+             (4)  For Steps 1 and 2 of the method statement in subsection (2), if the limit of the advance or amount at the time concerned is nil, then, instead of nil, use the amount of the limit from when the advance was first made, or when the amount first became owing to the Bank.
 
              (5)  This section applies despite anything in any certificate of entitlement or in any subsidised advance contract or portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement.
 
-             (6)  This section is subject to section 35AA (which will sometimes further reduce the rate of interest payable).
+             (6)  This section is subject to section 35AA (which will sometimes further reduce the rate of interest payable).
 
              (7)  If this section would increase the total amount of interest payable on the balance of an advance or amount over the term of the advance or amount, then this section does not apply to that balance.
 
 ##### <a id="35AD"></a>35AD  Rates not altered for certain portfolio contracts of sale
 
-                   Sections 35AA, 35AB and 35AC do not apply in relation to a portfolio contract of sale made as a result of the exercise of a power under section 36 of this Act as in force before the commencing day if, when the contract was made, the purchaser was not an eligible person within the meaning of this Act as then in force.
+                   Sections 35AA, 35AB and 35AC do not apply in relation to a portfolio contract of sale made as a result of the exercise of a power under section 36 of this Act as in force before the commencing day if, when the contract was made, the purchaser was not an eligible person within the meaning of this Act as then in force.
 
-##### <a id="35A"></a>35A  Modifications of Bank agreement and other instruments
+##### <a id="35A"></a>35A<span lang="EN-GB" style="mso-ansi-language: EN-GB"><span style="mso-spacerun: yes">  </span>Modifications of </span>Bank <span lang="EN-GB" style="mso-ansi-language: EN-GB">agreement and other instruments</span><o:p></o:p>
 
-             (1)  Despite clause 8.1 of the Bank agreement and anything contained in any subsidised advance contract or in any portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement:
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>Despite clause 8.1 of the Bank agreement and anything contained in any subsidised advance contract or in any portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement:<o:p></o:p>
 
-                     (a)  a subsidised advance or an amount owed to the Bank under a loan secured by a specified portfolio asset is repayable in equal monthly instalments comprising principal and interest; and
+<span style="mso-tab-count: 1">                     </span>(a)<span style="mso-tab-count: 1">  </span>a subsidised advance or an amount owed to the Bank under a loan secured by a specified portfolio asset is repayable in equal monthly instalments comprising principal and interest; and<o:p></o:p>
 
-                     (b)  interest on each subsidised advance and each amount owed under a loan secured by a specified portfolio asset is to be:
+<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>interest on each subsidised advance and each amount owed under a loan secured by a specified portfolio asset is to be:<o:p></o:p>
 
-                              (i)  charged in arrears; and
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>charged in arrears; and<o:p></o:p>
 
-                             (ii)  calculated by applying the applicable annual percentage rate divided by 365 to the outstanding daily balance of the subsidised advance loan account; and
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>calculated by applying the applicable annual percentage rate divided by 365 to the outstanding daily balance of the subsidised advance loan account; and<o:p></o:p>
 
-                     (c)  if the Commonwealth terminates the interest subsidy in respect of a subsidised advance contract:
+<span style="mso-tab-count: 1">                     </span>(c)<span style="mso-tab-count: 1">  </span>if the Commonwealth terminates the interest subsidy in respect of a subsidised advance contract:<o:p></o:p>
 
-                              (i)  the Bank may terminate the contract and any associated portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement; and
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>the Bank may terminate the contract and any associated portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement; and<o:p></o:p>
 
-                             (ii)  if the Bank does so, it is entitled to demand repayment of, and recover by action in any court or under the mortgage, the principal and interest and any other money owing under the contract, mortgage or agreement.
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>if the Bank does so, it is entitled to demand repayment of, and recover by action in any court or under the mortgage, the principal and interest and any other money owing under the contract, mortgage or agreement.<o:p></o:p>
 
-             (2)  Clause 1.1 of the Bank agreement has effect as if the definition of “Rest Day” were omitted and the following definition were substituted:
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>Clause 1.1 of the Bank agreement has effect as if the definition of “Rest Day” were omitted and the following definition were substituted:<o:p></o:p>
 
-                    Rest Day: means, in respect of a Specified Portfolio Asset or a Subsidised Advance, the fifth day of each month on which principal and accrued interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.
+                    Rest Day: means, in respect of a Specified Portfolio Asset or a Subsidised Advance, the fifth day of each month on which principal and accrued interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.<o:p></o:p>
 
-             (3)  Any reference to a rest day in any mortgage relating to a subsidised advance, or in any portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement, is taken to be a reference to a rest day as defined by subsection (2).
+<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>Any reference to a rest day in any mortgage relating to a subsidised advance, or in any portfolio mortgage, portfolio contract of sale, portfolio supplementary agreement or other portfolio agreement, is taken to be a reference to a rest day as defined by subsection (2).<o:p></o:p>
 
-             (4)  The Bank agreement has effect as if Part B of Schedule D were omitted.
+<span style="mso-tab-count: 1">             </span>(4)<span style="mso-tab-count: 1">  </span>The Bank agreement has effect as if Part B of Schedule D were omitted.<o:p></o:p>
 
 ##### <a id="36"></a>36  Maximum terms of advances
 
-             (1)  Subject to section 37, the maximum term to be specified under paragraph 17(3)(b) in a certificate of entitlement in relation to a subsidised advance that a person may seek from a credit provider is:
+             (1)  Subject to section 37, the maximum term to be specified under paragraph 17(3)(b) in a certificate of entitlement in relation to a subsidised advance that a person may seek from a credit provider is:
 
                      (a)  in the case of an initial advance or of a home support advance—25 years;
 
@@ -2062,9 +2062,9 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                      (e)  in the case of an advance or a specified portfolio asset transferred to a transferee—a term equal to the unexpired part of the advance or asset so transferred.
 
-             (2)  Subject to section 37, the maximum term of a specified portfolio asset which vests in the Bank under section 6B is a term equal to the remainder of the term of that specified portfolio asset as at the relevant vesting date.
+             (2)  Subject to section 37, the maximum term of a specified portfolio asset which vests in the Bank under section 6B is a term equal to the remainder of the term of that specified portfolio asset as at the relevant vesting date.
 
-             (3)  Where the term of a specified portfolio asset which vests in the Bank under section 6B, or of a subsidised advance increases as a result of a grant of instalment relief to the purchaser or borrower, the maximum term of that specified portfolio asset or advance shall be taken to have been increased by a period equal to the period by which the term of that asset or advance was so increased.
+             (3)  Where the term of a specified portfolio asset which vests in the Bank under section 6B, or of a subsidised advance increases as a result of a grant of instalment relief to the purchaser or borrower, the maximum term of that specified portfolio asset or advance shall be taken to have been increased by a period equal to the period by which the term of that asset or advance was so increased.
 
              (4)  In this section:
 
@@ -2074,11 +2074,13 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    Where a purchaser executes a mortgage in favour of the Bank for the balance of the purchase money and interest, and all other money, payable under a contract of sale, the Bank shall be taken to have made, on the date of the mortgage, an initial advance to the purchaser under the agreement of an amount equal to the sum of the balance of the purchase money and all other money (including interest) payable under the contract as at that date, being an advance that is subject to the prescribed conditions and on which subsidy is payable by the Commonwealth.
 
-## Part VI—Defence Service Homes Insurance Scheme
+<o:p> </o:p>
+
+## Part VI—Defence Service Homes Insurance Scheme
 
 ##### <a id="38"></a>38  Defence Service Homes Insurance Scheme
 
-                   For the purposes of this Act, there shall be a Commonwealth insurance scheme, to be known as the **_Defence Service Homes Insurance Scheme_**, for the insurance of dwelling-houses, rights of residence in retirement villages, land, building materials and improvements of the kind referred to in section 38C and of houses, land, building materials and improvements of the kind mentioned in section 38CA.
+                   For the purposes of this Act, there shall be a Commonwealth insurance scheme, to be known as the **_Defence Service Homes Insurance Scheme_**, for the insurance of dwelling-houses, rights of residence in retirement villages, land, building materials and improvements of the kind referred to in section 38C and of houses, land, building materials and improvements of the kind mentioned in section 38CA.
 
 ##### <a id="38A"></a>38A  Powers of Commonwealth to be exercised by the Secretary
 
@@ -2102,7 +2104,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
              (6)  In this section:
 
-                    <a name="statem-condition"></a>**_Statement of Conditions_** means the Statement of Conditions in force immediately before the commencing day under section 38 of this Act as then in force.
+                    <a name="statem-condition"></a>**_Statement of Conditions_** means the Statement of Conditions in force immediately before the commencing day under section 38 of this Act as then in force.
 
 ##### <a id="38B"></a>38B  Transfer of assets and liabilities
 
@@ -2128,7 +2130,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                      (a)  a contract relating to any Corporation insurance;
 
-                     (b)  a concessions agreement of the kind referred to in subsection 38(4C) or 38(4D) of this Act as in force at any time before the commencing day; or
+                     (b)  a concessions agreement of the kind referred to in subsection 38(4C) or 38(4D) of this Act as in force at any time before the commencing day; or
 
                      (c)  a contract or arrangement of the kind referred to in section 38A of this Act as then in force.
 
@@ -2150,7 +2152,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                      (d)  a dwelling-house in respect of which a person has applied for a certificate of entitlement, being a dwelling-house in which that person has an interest;
 
-                     (e)  a dwelling-house that is the subject of a contract of sale, mortgage or other security which vests in the Bank under section 6B, being a dwelling-house owned by:
+                     (e)  a dwelling-house that is the subject of a contract of sale, mortgage or other security which vests in the Bank under section 6B, being a dwelling-house owned by:
 
                               (i)  a person who is a borrower or purchaser in respect of that dwelling-house;
 
@@ -2190,13 +2192,13 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                              (ii)  in respect of which a subsidised advance has been made or a person has applied for a certificate of entitlement; or
 
-                            (iii)  that is referred to in paragraph (ga) or (gb);
+                            (iii)  that is referred to in paragraph (ga) or (gb);
 
                             being materials used in the building of, or otherwise in relation to, the dwelling-house; or
 
-                      (j)  any permanent domestic improvement of a structural kind that has been made to a dwelling-house referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (ga) or (gb), or on the land on which such a dwelling-house is built, and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
+                      (j)  any permanent domestic improvement of a structural kind that has been made to a dwelling-house referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (ga) or (gb), or on the land on which such a dwelling-house is built, and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
 
-             (2)  The Commonwealth may undertake insurance against risks related to the land on which a dwelling-house referred to in paragraph (1)(a), (b), (c), (d), (e), (f), (g), (ga) or (gb) is built or on which a dwelling-house referred to in paragraph (1)(h) is being, or is to be, built.
+             (2)  The Commonwealth may undertake insurance against risks related to the land on which a dwelling-house referred to in paragraph (1)(a), (b), (c), (d), (e), (f), (g), (ga) or (gb) is built or on which a dwelling-house referred to in paragraph (1)(h) is being, or is to be, built.
 
           (2A)  The Commonwealth may undertake insurance of, or in relation to:
 
@@ -2212,11 +2214,11 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                              (ii)  in respect of which a person has applied for a certificate of entitlement;
 
-                            being materials used in the building of, or otherwise in relation to, the retirement village; or
+                            being materials used in the building of, or otherwise in relation to, the retirement village; or
 
-                     (e)  any permanent domestic improvement of a structural kind that has been made to a retirement village referred to in paragraph (a), (b), (c) or (d) and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
+                     (e)  any permanent domestic improvement of a structural kind that has been made to a retirement village referred to in paragraph (a), (b), (c) or (d) and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
 
-          (2B)  The Commonwealth may undertake insurance against risks related to the land on which a retirement village referred to in paragraph (2A)(a) or (b) is built or on which a retirement village referred to in paragraph (2A)(c) is being, or is to be, built.
+          (2B)  The Commonwealth may undertake insurance against risks related to the land on which a retirement village referred to in paragraph (2A)(a) or (b) is built or on which a retirement village referred to in paragraph (2A)(c) is being, or is to be, built.
 
 ##### <a id="38CA"></a>38CA  Insurance of certain other houses etc.
 
@@ -2224,11 +2226,11 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                      (a)  a house in respect of which an entitled person has sought a subsidised loan; or
 
-                     (b)  building materials on the site of a house mentioned in paragraph (a), being materials used in the building of, or otherwise in relation to, the house; or
+                     (b)  building materials on the site of a house mentioned in paragraph (a), being materials used in the building of, or otherwise in relation to, the house; or
 
-                     (c)  any permanent improvement of a structural kind that has been made to a house mentioned in paragraph (a), or that has been constructed on the land on which such a house is built, and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
+                     (c)  any permanent improvement of a structural kind that has been made to a house mentioned in paragraph (a), or that has been constructed on the land on which such a house is built, and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
 
-             (2)  The Commonwealth may undertake insurance against risks related to the land on which a house mentioned in paragraph (1)(a) is built, or on which a house mentioned in paragraph (1)(b) is being, or is to be, built.
+             (2)  The Commonwealth may undertake insurance against risks related to the land on which a house mentioned in paragraph (1)(a) is built, or on which a house mentioned in paragraph (1)(b) is being, or is to be, built.
 
              (3)  In this section:
 
@@ -2274,17 +2276,17 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
              (2)  Where this section applies:
 
-                     (a)  the insurance undertaken in relation to the dwelling-house does not cease to have effect because of the death of the person or the happening of any of the things referred to in subparagraph (1)(b)(i), (ii), (iii) or (iv); and
+                     (a)  the insurance undertaken in relation to the dwelling-house does not cease to have effect because of the death of the person or the happening of any of the things referred to in subparagraph (1)(b)(i), (ii), (iii) or (iv); and
 
                      (b)  unless the insurance has already ceased to have effect for some other reason, the Secretary shall give reasonable notice in writing to each person having an interest in the dwelling-house that the insurance will cease to have effect on a day specified in the notice.
 
-             (3)  Where the Secretary gives a notice under paragraph (2)(b), the insurance ceases to have effect on the day specified in the notice unless it has already ceased to have effect.
+             (3)  Where the Secretary gives a notice under paragraph (2)(b), the insurance ceases to have effect on the day specified in the notice unless it has already ceased to have effect.
 
-             (4)  If this section applies where an eligible person dies, and the person is survived by a widow or widower, the Secretary must not give a notice under paragraph (2)(b) in relation to the dwelling-house unless the Secretary is satisfied that the widow or widower is not an eligible person.
+             (4)  If this section applies where an eligible person dies, and the person is survived by a widow or widower, the Secretary must not give a notice under paragraph (2)(b) in relation to the dwelling-house unless the Secretary is satisfied that the widow or widower is not an eligible person.
 
-             (5)  If this section applies where an eligible veteran dies, and he or she is survived by a widow or widower (within the meaning of subsection 5E(1) of the _Veterans’ Entitlements Act 1986_), the Secretary must not give a notice under paragraph (2)(b) in relation to the dwelling-house.
+             (5)  If this section applies where an eligible veteran dies, and he or she is survived by a widow or widower (within the meaning of subsection 5E(1) of the _Veterans’ Entitlements Act 1986_), the Secretary must not give a notice under paragraph (2)(b) in relation to the dwelling-house.
 
-##### <a id="38EA"></a>38EA  Termination of insurance undertaken under section 38CA
+##### <a id="38EA"></a>38EA  Termination of insurance undertaken under section 38CA
 
              (1)  This section applies where:
 
@@ -2296,27 +2298,27 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                              (ii)  the entitlement certificate issued to the person is cancelled;
 
-                            (iii)  subsidy does not become payable under section 20 of the Home Loans Assistance Act on a loan made in relation to the house;
+                            (iii)  subsidy does not become payable under section 20 of the Home Loans Assistance Act on a loan made in relation to the house;
 
                             (iv)  subsidy stops being payable on such a loan under paragraph 29(d) or (e) of that Act.
 
              (2)  Where this section applies:
 
-                     (a)  the insurance undertaken in relation to the house does not cease to have effect on the death of the entitled person or the happening of anything mentioned in subparagraph (1)(b)(i), (ii), (iii) or (iv); and
+                     (a)  the insurance undertaken in relation to the house does not cease to have effect on the death of the entitled person or the happening of anything mentioned in subparagraph (1)(b)(i), (ii), (iii) or (iv); and
 
                      (b)  unless the insurance has already ceased to have effect for some other reason, the Secretary must give reasonable notice in writing to each person having an interest in the house that the insurance will cease to have effect on a day specified in the notice.
 
-             (3)  Where the Secretary gives a notice under paragraph (2)(b), the insurance ceases to have effect on the day specified in the notice unless it has already ceased to have effect.
+             (3)  Where the Secretary gives a notice under paragraph (2)(b), the insurance ceases to have effect on the day specified in the notice unless it has already ceased to have effect.
 
-             (4)  Where this section applies because of the death of an entitled person and the person is survived by a widow or widower, the Secretary must not give a notice under paragraph (2)(b) in relation to the house unless satisfied that a subsidised loan will not be, or is unlikely to be, made to the widow or widower in respect of that house.
+             (4)  Where this section applies because of the death of an entitled person and the person is survived by a widow or widower, the Secretary must not give a notice under paragraph (2)(b) in relation to the house unless satisfied that a subsidised loan will not be, or is unlikely to be, made to the widow or widower in respect of that house.
 
              (5)  In this section:
 
                     <a name="bank"></a><a name="subsidis-loan"></a><a name="entitled-person"></a><a name="entitl-certif"></a><a name="hous"></a>**_house_**, **_entitlement certificate_**, **_entitled person_**, **_subsidised loan_** and **_the Bank_** have the same respective meanings as in the Home Loans Assistance Act.
 
-##### <a id="38FA"></a>38FA  Application of section 38E in relation to retirement village accommodation
+##### <a id="38FA"></a>38FA  Application of section 38E in relation to retirement village accommodation
 
-                   Section 38E applies in relation to retirement village accommodation as it applies in relation to dwelling-houses.
+                   Section 38E applies in relation to retirement village accommodation as it applies in relation to dwelling-houses.
 
 ##### <a id="38F"></a>38F  Reinsurance
 
@@ -2334,9 +2336,11 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
              (2)  In this section:
 
-                    <a name="insur-asset"></a>**_insurance assets_** means rights, property and assets vested in the Commonwealth under section 38B or acquired by the Commonwealth as a result of the exercise of its powers under this Part.
+                    <a name="insur-asset"></a>**_insurance assets_** means rights, property and assets vested in the Commonwealth under section 38B or acquired by the Commonwealth as a result of the exercise of its powers under this Part.
 
-## Part VII—Finance
+<o:p> </o:p>
+
+## Part VII—Finance
 
 ##### <a id="40"></a>40  Defence Service Homes Insurance Account
 
@@ -2382,7 +2386,9 @@ Note:          The Account was established by subsection 5(3) 
 
                      (b)  payments under subclause 4.7 of the Bank agreement or under the corresponding provision of any other agreement.
 
-## Part VIII—Miscellaneous
+<o:p> </o:p>
+
+## Part VIII—Miscellaneous
 
 ##### <a id="43"></a>43  Internal review of reviewable decisions
 
@@ -2398,7 +2404,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (3)  An application for a review shall be made within 30 days after the day on which the decision first came to the notice of the applicant, or within such further period (if any) as the Secretary, either before or after the end of that period, allows.
 
-             (4)  Subject to subsection (5), the Secretary shall, on receiving an application, review the decision, or cause it to be reviewed by a person to whom the Secretary’s power under this section is delegated, being a person other than the person who made, or was involved in the making of, the decision and occupying a position senior to that occupied by the last-mentioned person.
+             (4)  Subject to subsection (5), the Secretary shall, on receiving an application, review the decision, or cause it to be reviewed by a person to whom the Secretary’s power under this section is delegated, being a person other than the person who made, or was involved in the making of, the decision and occupying a position senior to that occupied by the last-mentioned person.
 
              (5)  Where a reviewable decision is made by the Secretary personally, the Secretary shall refer an application for review of the decision to the Minister and the Minister shall review the decision.
 
@@ -2416,7 +2422,7 @@ Note:          The Account was established by subsection 5(3) 
 
                      (e)  a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision to which the notice relates.
 
-             (2)  Failure to include in a notice under subsection (1) a statement of the kind referred to in paragraph (1)(e) does not affect the validity of the decision to which the notice relates.
+             (2)  Failure to include in a notice under subsection (1) a statement of the kind referred to in paragraph (1)(e) does not affect the validity of the decision to which the notice relates.
 
              (3)  Subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal by a person other than a credit provider for a review of a decision made under subsection 43(6) affirming or varying a reviewable decision.
 
@@ -2426,13 +2432,13 @@ Note:          The Account was established by subsection 5(3) 
 
 ##### <a id="45"></a>45  Certain provisions of Bank agreement not to be revoked or amended
 
-             (1)  An agreement between the Commonwealth and the Bank that revokes, amends or otherwise affects the operation of subclause 8.1, 11.2, 11.3, 11.5, 11.7.6, 11.9, 11.10, 11.11, 11.12 or 11.13 of the Bank agreement has no effect.
+             (1)  An agreement between the Commonwealth and the Bank that revokes, amends or otherwise affects the operation of subclause 8.1, 11.2, 11.3, 11.5, 11.7.6, 11.9, 11.10, 11.11, 11.12 or 11.13 of the Bank agreement has no effect.
 
-             (2)  Subsection (1) does not apply to any agreement made between the Commonwealth and the Bank within 3 months after the day on which the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996_ receives the Royal Assent that amends, or otherwise affects, the operation of clause 8.1 or 11 of the Bank agreement.
+             (2)  Subsection (1) does not apply to any agreement made between the Commonwealth and the Bank within 3 months after the day on which the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996_ receives the Royal Assent that amends, or otherwise affects, the operation of clause 8.1 or 11 of the Bank agreement.
 
-             (3)  Subsection (1) does not apply to any agreement made between the Commonwealth and the Bank within 3 months after the day on which the _Defence Service Homes Amendment Act 1997_ receives the Royal Assent that amends or otherwise affects the operation of clause 11 of the Bank agreement.
+             (3)  Subsection (1) does not apply to any agreement made between the Commonwealth and the Bank within 3 months after the day on which the _Defence Service Homes Amendment Act 1997_ receives the Royal Assent that amends or otherwise affects the operation of clause 11 of the Bank agreement.
 
-             (4)  An agreement made between the Commonwealth and the Bank within 3 months after the day on which that Act receives the Royal Assent that amends or otherwise affects the operation of the Bank agreement may be expressed to apply, or to have applied, from 5 January 1998.
+             (4)  An agreement made between the Commonwealth and the Bank within 3 months after the day on which that Act receives the Royal Assent that amends or otherwise affects the operation of the Bank agreement may be expressed to apply, or to have applied, from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="5" month="1">5 January 1998</st1:date>.
 
 ##### <a id="45A"></a>45A  Bankruptcy of purchaser or borrower
 
@@ -2442,7 +2448,7 @@ Note:          The Account was established by subsection 5(3) 
 
                      (b)  shall not be sold in satisfaction of a judgment debt, otherwise than by a credit provider or another mortgagee in the exercise of powers under a contract of sale, or a mortgage or other security.
 
-             (2)  Where a husband and wife are joint purchasers or borrowers in relation to land, land and a dwelling-house or a right of residence in a retirement village, the Secretary may give an approval under subsection (1) in relation to the estate or interest of both of them if either of them becomes bankrupt or incurs a judgment debt.
+             (2)  Where a husband and wife are joint purchasers or borrowers in relation to land, land and a dwelling-house or a right of residence in a retirement village, the Secretary may give an approval under subsection (1) in relation to the estate or interest of both of them if either of them becomes bankrupt or incurs a judgment debt.
 
 ##### <a id="45B"></a>45B  Exchange of information
 
@@ -2454,71 +2460,13 @@ Note:          The Account was established by subsection 5(3) 
 
              (3)  If an agreement between the Commonwealth and a credit provider other than the Bank requires any information in the possession of the credit provider to be disclosed or provided to the Commonwealth, the credit provider must give the information to the Commonwealth.
 
-##### <a id="45C"></a>45C  Use and disclosure of personal information
-
-             (1)  This section applies to personal information about any of the following people:
-
-                     (a)  an applicant for a certificate of entitlement;
-
-                     (b)  a person who has been issued with a certificate of entitlement (whether or not the certificate is in force);
-
-                     (c)  a person, or the assignee of a person, to whom a subsidised advance has been made;
-
-                     (d)  a widow or widower of a person (other than an assignee) covered by paragraph (a), (b) or (c).
-
-             (2)  A person covered by subsection (3) may, for a purpose prescribed by the regulations:
-
-                     (a)  use the personal information; or
-
-                     (b)  disclose the personal information to another person covered by that subsection.
-
-             (3)  This subsection covers the following people:
-
-                     (a)  the Secretary;
-
-                     (b)  a delegate of the Secretary under section 6A;
-
-                     (c)  a delegate of the Secretary under the _Defence Home Ownership Assistance Scheme Act 2008_(the **_2008 Act_**) or the _Defence Force (Home Loans Assistance) Act 1990_(the **_1990 Act_**);
-
-                     (d)  a credit provider, if the credit provider has:
-
-                              (i)  received an application for a subsidised advance from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised advance to the person mentioned in paragraph (1)(c) of this section;
-
-                     (e)  a loan provider as defined under section 3 of the 2008 Act, if the loan provider has:
-
-                              (i)  received an application for a subsidised loan (as defined under section 3 of the 2008 Act) from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised loan (as defined under section 3 of the 2008 Act) to the person mentioned in paragraph (1)(c) of this section;
-
-                      (f)  the Bank as defined under section 3 of the 1990 Act, if the Bank has:
-
-                              (i)  received an application for a subsidised loan (as defined under section 3 of the 1990 Act) from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised loan (as defined under section 3 of the 1990 Act) to the person mentioned in paragraph (1)(c) of this section.
-
-             (4)  The use and disclosure of personal information under subsection (2) is taken to be authorised by law for the purposes of:
-
-                     (a)  the _Privacy Act 1988_; and
-
-                     (b)  any provision of a law of a State or Territory that provides that personal information may be used or disclosed if the use or disclosure is authorised by law.
-
-Note:          The authorisation under this subsection is only for the use and disclosure of personal information for a prescribed purpose mentioned in subsection (2).
-
-             (5)  The regulations may prescribe circumstances in which a person may, or must not, use or disclose personal information for the purposes of this section.
-
-             (6)  In this section:
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
-
 ##### <a id="46"></a>46  Reports from inspectors and valuers
 
                    The Secretary may, from time to time, obtain a report from an inspector or valuer as to the manner in which any advance has been expended and used by the borrower, and generally as to the state and condition of any land or land and dwelling-house in respect of which a contract of sale has been entered into or an advance has been made.
 
 ##### <a id="47"></a>47  Dwelling-houses for incapacitated soldiers
 
-                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
+                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
 
 ##### <a id="50A"></a>50A  Improper use of certain words
 
@@ -2544,17 +2492,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="50B"></a>50B  Annual Report
 
-             (1)  The Secretary shall as soon as practicable after the last day of June first occurring after the commencing day, prepare and give to the Minister a report on the administration and operation of this Act (including the operations of the Corporation) during the period beginning on 1 July 1988 and ending on that last day of June.
+             (1)  The Secretary shall as soon as practicable after the last day of June first occurring after the commencing day, prepare and give to the Minister a report on the administration and operation of this Act (including the operations of the Corporation) during the period beginning on 1 July 1988 and ending on that last day of June.
 
-             (2)  The report referred to in subsection (1) shall be accompanied by:
+             (2)  The report referred to in subsection (1) shall be accompanied by:
 
-                     (a)  financial statements, in such form as the Minister for Finance approves, in respect of the operations of the Corporation (other than under section 38 of this Act as in force before the commencing day) during the period beginning on 1 July 1988 and ending on the winding-up day; and
+                     (a)  financial statements, in such form as the Minister for Finance approves, in respect of the operations of the Corporation (other than under section 38 of this Act as in force before the commencing day) during the period beginning on 1 July 1988 and ending on the winding-up day; and
 
-                     (b)  financial statements, in such form as the Minister for Finance approves, in respect of the operations of the Corporation under section 38 of this Act, as in force before the commencing day, and the administration of Part VI of this Act, as in force on and after that day, during the period to which the report relates.
+                     (b)  financial statements, in such form as the Minister for Finance approves, in respect of the operations of the Corporation under section 38 of this Act, as in force before the commencing day, and the administration of Part VI of this Act, as in force on and after that day, during the period to which the report relates.
 
-             (3)  The Secretary shall, as soon as practicable after each subsequent 30 June prepare and give to the Minister a report on the administration and operation of this Act during the year that ended on that day.
+             (3)  The Secretary shall, as soon as practicable after each subsequent 30 June prepare and give to the Minister a report on the administration and operation of this Act during the year that ended on that day.
 
-             (4)  A report referred to in subsection (3) shall be accompanied by financial statements, in such form as the Minister for Finance approves, relating to the administration of Part VI of this Act during the year to which the report relates.
+             (4)  A report referred to in subsection (3) shall be accompanied by financial statements, in such form as the Minister for Finance approves, relating to the administration of Part VI of this Act during the year to which the report relates.
 
              (5)  Before giving financial statements to the Minister, the Secretary shall submit them to the Auditor-General, who shall report to the Minister:
 
@@ -2568,15 +2516,16 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="51"></a>51  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters, which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for giving effect to this Act and, in particular, making provision for, and in relation to, the undertaking of insurance by the Commonwealth under Part VI.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters, which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for giving effect to this Act and, in particular, making provision for, and in relation to, the undertaking of insurance by the Commonwealth under Part VI.
 
-# Schedule 1—Agreement between the Commonwealth of Australia and Westpac Banking Corporation
+
+# Schedule 1—Agreement between the Commonwealth of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Australia</span></st1:place></st1:country-region><span class="CharChapText"> and Westpac Banking Corporation</span>
 
 _Subsection 4(1)_
 
 * * *
 
-**TABLE OF CONTENTS**
+**TABLE OF CONTENTS<o:p></o:p>**
 
 Date of Agreement
 
@@ -2680,7 +2629,7 @@ Clause
 
 6.8                 Amending Act Provisions
 
-6.9                 Date of Proclamation after 30 June 1989
+6.9                 Date of Proclamation after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date>
 
 7.       APPLICATION/REVIEW—GENERAL
 
@@ -2752,7 +2701,7 @@ Clause
 
 10.1               Obligations of Bank to notify the Commonwealth
 
-10.2               Variation of Bank’s Obligations under Sub-clause 10.1
+10.2               Variation of Bank’s Obligations under Sub-clause 10.1
 
 10.3               Action taken by Bank to enforce security
 
@@ -2836,7 +2785,7 @@ Clause
 
 13.2               Notification of Bank’s Exclusive Right
 
-14.     PROVISION FOR REFUND OF PART OF ONE HUNDRED MILLION DOLLARS REFERRED TO IN SUB-CLAUSE 3.1.1(a)
+14.     PROVISION FOR REFUND OF PART OF ONE HUNDRED MILLION DOLLARS REFERRED TO IN SUB-CLAUSE 3.1.1(a)
 
 15.     WARRANTIES
 
@@ -2852,7 +2801,7 @@ Clause
 
 16.3               Obligation of Commonwealth
 
-17.     DEALINGS WITH SOUTH AFRICA AND NAMIBIA
+17.     DEALINGS WITH <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">SOUTH AFRICA</st1:place></st1:country-region> AND <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">NAMIBIA</st1:place></st1:country-region>
 
 18.     NON-MERGING ON SETTLEMENT AND SEVERABILITY
 
@@ -2896,9 +2845,9 @@ Clause
 
 30.     PERFORMANCE OF OBLIGATIONS BY CORPORATION SCHEDULES
 
-1.       Schedule A—Documentation to be provided by Commonwealth in respect of Sub-clause 5.1 applications
+1.       Schedule A—Documentation to be provided by Commonwealth in respect of Sub-clause 5.1 applications
 
-2.       Schedule B—Documentation to be provided by Commonwealth in respect of Sub-clause 5.2 applications
+2.       Schedule B—Documentation to be provided by Commonwealth in respect of Sub-clause 5.2 applications
 
 3.       Schedule C—Lending Criteria
 
@@ -2910,7 +2859,7 @@ An AGREEMENT made the 9 day of November 1988
 
 BETWEEN
 
-the COMMONWEALTH OF AUSTRALIA
+the COMMONWEALTH OF <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">AUSTRALIA</st1:place></st1:country-region>
 
 (hereinafter referred to as “the Commonwealth”) of the one part
 
@@ -2918,7 +2867,7 @@ and
 
 WESTPAC BANKING CORPORATION
 
-of 60 Martin Place, Sydney in the State of New South Wales
+of <st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:street>60 Martin Place</st1:street>, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city></st1:address> in the State of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>
 
 (hereinafter referred to as “the Bank”) of the other part
 
@@ -2928,13 +2877,13 @@ A.        The Commonwealth by the Defence Service Homes Act 1918 (
 
 B.        Pursuant to the Act the Corporation currently provides assistance to membersof the Australian Defence Force and certain other persons, to acquire homes.
 
-            Such assistance is provided in the form of, but not limited to, advances secured by mortgages in favour of the Corporation, contracts for the sale of land on terms, as well as assistance in the form of benefits such as those now set out in Sections 18A, 29, 29AA, 29AB, 31, 33 and 35 of the Act.
+            Such assistance is provided in the form of, but not limited to, advances secured by mortgages in favour of the Corporation, contracts for the sale of land on terms, as well as assistance in the form of benefits such as those now set out in Sections 18A, 29, 29AA, 29AB, 31, 33 and 35 of the Act.
 
 C.        In the course of providing such assistance the Corporation has acquired interests as mortgagee in respect of mortgages over land and interests as vendor of land under contracts of sale on terms. The Corporation also is a party to other agreements which are supplementary to its lending activities under the Act.
 
 D.        The Bank wishes to acquire such of the Corporation’s interests as are described herein and for the consideration set out herein the Commonwealth is willing to pass legislation vesting such interests in the Bank.
 
-E.         The Commonwealth is willing to provide the Bank with the exclusive right to provide advances and benefits to all persons who satisfy the tests of eligibility and entitlement under the Act current as at the date of this Agreement, other than those members of the Defence Force who enlisted after 14 May 1985.
+E.         The Commonwealth is willing to provide the Bank with the exclusive right to provide advances and benefits to all persons who satisfy the tests of eligibility and entitlement under the Act current as at the date of this Agreement, other than those members of the Defence Force who enlisted after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1985" day="14" month="5">14 May 1985</st1:date>.
 
 F.         The Commonwealth is willing to pay to the Bank a Subsidy in respect of Specified Portfolio Assets, Subsidised Advances and certain other agreements.
 
@@ -2954,314 +2903,316 @@ In this Agreement except where the context otherwise requires:
   <col width="71%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Act 1918 as amended as at the date of signing of this Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agreement:</div>
-  </td>
-  <td>
-    <div>means this Agreement between the Commonwealth and the Bank signed on the above date.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Amended Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Act 1918 as amended by the Amending Act or any subsequent amendment.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Amending Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Amendment Act 1988.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arrears:</div>
-  </td>
-  <td>
-    <div>means any amount of principal and/or interest due and unpaid by a Borrower under a Specified Portfolio Asset or Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Balance:</div>
-  </td>
-  <td>
-    <div>means the original amount lent to a Borrower, less all actual repayments of principal and all prepayments of principal (including any moneys held pursuant to a loan interest offset arrangement) plus unpaid interest and unpaid fees.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Borrower:</div>
-  </td>
-  <td>
-    <div>means a person who is liable to pay the outstanding amount:</div>
-    <div>(a) of a Subsidised Advance in respect of which a subsidy is payable; or</div>
-    <div>(b) secured by a Specified Portfolio Asset which vests in the Bank under section 6B of the Amended Act in respect of which Subsidy is payable.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Day:</div>
-  </td>
-  <td>
-    <div>means a day upon which banks are open for business in Sydney.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Calendar Year:</div>
-  </td>
-  <td>
-    <div>means a period of twelve (12) months commencing on 1 January.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Certificate of Entitlement:</div>
-  </td>
-  <td>
-    <div>means a Certificate of Entitlement issued by the Commonwealth to an Entitled Applicant.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Consideration:</div>
-  </td>
-  <td>
-    <div>means the moneys payable by the Bank in accordance with Clause 3.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporation:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Corporation.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporation advance:</div>
-  </td>
-  <td>
-    <div>means an advance made under Section 20 of the Act as in force before the Date of Proclamation, being an advance made by the Corporation, whether before or after that day.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Date of Proclamation:</div>
-  </td>
-  <td>
-    <div>means the day on which section 10 of the Amending Act commences.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Entitled Applicant:</div>
-  </td>
-  <td>
-    <div>means a person who is determined by the Commonwealth to be entitled to a Corporation Advance, a Subsidised Advance, Instalment Relief or to a Transfer of Land and Subsidy pursuant to the Act and/or the Amended Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Establishment Fees:</div>
-  </td>
-  <td>
-    <div>means any fee charged by the Bank to a Housing Loan Customer relating to or dealing with the Bank’s services for the processing and determining of applications for owner occupied housing loans secured by first mortgage or applications for increased loan facilities in relation to housing loans, including the preparation and execution of all associated documentation and payment of such loans, including the management, repayment and discharge of the loan security, excluding all State and Commonwealth Government charges relating to stamping and registration of documents and legal costs and the Bank’s standard production and/or settlement fees.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excess Credits:</div>
-  </td>
-  <td>
-    <div>means any amount paid by a Borrower in excess of the required monthly instalment on a Portfolio Asset and/or Subsidised Advance other than amounts which the Borrower elects to be applied as prepayment of principal pursuant to Sub-clause 9.7.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Year:</div>
-  </td>
-  <td>
-    <div>means a period of twelve (12) months commencing on 1 July.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Housing Loan Customer:</div>
-  </td>
-  <td>
-    <div>means a person who has obtained or requested a loan from the Bank to finance the purchase, construction, extension, repair, or refinance of a dwelling in which it is intended that the person reside and who qualifies in terms of the Bank’s lending criteria for owner occupied housing.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Instalment Relief:</div>
-  </td>
-  <td>
-    <div>means that relief provided to a Borrower by the Bank which is described in Sub-clause 8.4.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Limit:</div>
-  </td>
-  <td>
-    <div>means the original amount lent to a Borrower, as that amount is:</div>
-    <div>(a) reduced by any scheduled repayments of principal (whether made or not) and any prepayments of principal (excluding any moneys held pursuant to a loan interest offset arrangement), and</div>
-      <div>(b) increased by the amount of Instalment Relief granted by the Bank pursuant to a Certificate of Entitlement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Month:</div>
-  </td>
-  <td>
-    <div>means a period commencing at the beginning of a day of one of the twelve (12) months of the year and ending immediately before the beginning of the corresponding day of the next month or, if there is no such corresponding day, ending at the expiration of the next month.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Other Portfolio Agreements:</div>
-  </td>
-  <td>
-    <div>means all guarantees for the payment of moneys due to the Corporation as mortgagee under Portfolio Mortgages including all mortgage insurance contracts, deeds of postponement between the Corporation as first mortgagee and subsequent registered interest holders, other agreements and acknowledgements collateral to the Portfolio Assets.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Arrears:</div>
-  </td>
-  <td>
-    <div>means the total amount of principal and interest due and unpaid under all Specified Portfolio Assets and all Subsidised Advances.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, Portfolio Supplementary Agreements, Portfolio Land and Other Portfolio Agreements.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Contracts of Sale:</div>
-  </td>
-  <td>
-    <div>means all existing contracts of sale as at the relevant Vesting Date entered into by the Corporation as vendor of the Portfolio Land.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Land:</div>
-  </td>
-  <td>
-    <div>means land which is subject to a contract of sale pursuant to Part IV, or Sections 36, 48 or 48C of the Act and which is held by the Corporation as registered proprietor, or legal owner, or as a lessee under a Crown lease as at the relevant Vesting Date.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Mortgages:</div>
-  </td>
-  <td>
-    <div>means all mortgages in which the Corporation has an interest as mortgagee as at the relevant Vesting Date, and includes all agreements and acknowledgements for further advances in accordance with the Act, all charges pursuant to Section 31 of the Act, and all mortgages to the Corporation as mortgagee pursuant to Section 36 or Section 48D of the Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Supplementary Agreements:</div>
-  </td>
-  <td>
-    <div>means all rights and obligations of the Corporation pursuant to charges against Borrowers and acknowledgements by Borrowers pursuant to Section 18A (generally, land development costs) of the Act and agreements pursuant to Section 29AA and Section 29AB (generally, assistance to widows and others) of the Act and deeds of covenant between the Corporation as mortgagee and Borrowers or other persons.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Potential Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means those assets which have not vested but which would have been Specified Portfolio Assets had the relevant Vesting Dates fallen on 30 April 1989.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Rest Day:</div>
-  </td>
-  <td>
-    <div>means in respect of a Specified Portfolio Asset, the 1st day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account or, in respect of a Subsidised Advance, the 5th day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Specified Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, and Portfolio Supplementary Agreements.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidised Advance:</div>
-  </td>
-  <td>
-    <div>means any advance made by the Bank in accordance with the Certificate of Entitlement, or an initial advance which the Bank is taken to have made pursuant to Section 37 of the Amended Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidised Advance Loan Account:</div>
-  </td>
-  <td>
-    <div>means an account established by the Bank for the purpose of administering a Specified Portfolio Asset or a Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidy:</div>
-  </td>
-  <td>
-    <div>means the interest subsidy referred to in Clause 11.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidy Scheme:</div>
-  </td>
-  <td>
-    <div>means the scheme for provision of Subsidy.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transfer of Land and Subsidy:</div>
-  </td>
-  <td>
-    <div>means a transfer of land or land and dwelling house subject to a Specified Portfolio Asset or a mortgage securing a Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Vesting Dates:</div>
-  </td>
-  <td>
-    <div>means the dates as determined by the Minister in accordance with the Amended Act.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Act 1918 as amended as at the date of signing of this Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agreement:</div>
+    </td>
+    <td>
+      <div>means this Agreement between the Commonwealth and the Bank signed on the above date.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Amended Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Act 1918 as amended by the Amending Act or any subsequent amendment.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Amending Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Amendment Act 1988.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arrears:</div>
+    </td>
+    <td>
+      <div>means any amount of principal and/or interest due and unpaid by a Borrower under a Specified Portfolio Asset or Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Balance:</div>
+    </td>
+    <td>
+      <div>means the original amount lent to a Borrower, less all actual repayments of principal and all prepayments of principal (including any moneys held pursuant to a loan interest offset arrangement) plus unpaid interest and unpaid fees.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Borrower:</div>
+    </td>
+    <td>
+      <div>means a person who is liable to pay the outstanding amount:</div>
+      <div>(a)  of a Subsidised Advance in respect of which a subsidy is payable; or</div>
+      <div>(b)  secured by a Specified Portfolio Asset which vests in the Bank under section 6B of the Amended Act in respect of which Subsidy is payable.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Business Day:</div>
+    </td>
+    <td>
+      <div>means a day upon which banks are open for business in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:place> </st1:city>.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Calendar Year:</div>
+    </td>
+    <td>
+      <div>means a period of twelve (12) months commencing on 1 January.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Certificate of Entitlement:</div>
+    </td>
+    <td>
+      <div>means a Certificate of Entitlement issued by the Commonwealth to an Entitled Applicant.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Consideration:</div>
+    </td>
+    <td>
+      <div>means the moneys payable by the Bank in accordance with Clause 3.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporation:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Corporation.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporation advance:</div>
+    </td>
+    <td>
+      <div>means an advance made under Section 20 of the Act as in force before the Date of Proclamation, being an advance made by the Corporation, whether before or after that day.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Date of Proclamation:</div>
+    </td>
+    <td>
+      <div>means the day on which section 10 of the Amending Act commences.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Entitled Applicant:</div>
+    </td>
+    <td>
+      <div>means a person who is determined by the Commonwealth to be entitled to a Corporation Advance, a Subsidised Advance, Instalment Relief or to a Transfer of Land and Subsidy pursuant to the Act and/or the Amended Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Establishment Fees:</div>
+    </td>
+    <td>
+      <div>means any fee charged by the Bank to a Housing Loan Customer relating to or dealing with the Bank’s services for the processing and determining of applications for owner occupied housing loans secured by first mortgage or applications for increased loan facilities in relation to housing loans, including the preparation and execution of all associated documentation and payment of such loans, including the management, repayment and discharge of the loan security, excluding all State and Commonwealth Government charges relating to stamping and registration of documents and legal costs and the Bank’s standard production and/or settlement fees.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Excess Credits:</div>
+    </td>
+    <td>
+      <div>means any amount paid by a Borrower in excess of the required monthly instalment on a Portfolio Asset and/or Subsidised Advance other than amounts which the Borrower elects to be applied as prepayment of principal pursuant to Sub-clause 9.7.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Year:</div>
+    </td>
+    <td>
+      <div>means a period of twelve (12) months commencing on 1 July.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Housing Loan Customer:</div>
+    </td>
+    <td>
+      <div>means a person who has obtained or requested a loan from the Bank to finance the purchase, construction, extension, repair, or refinance of a dwelling in which it is intended that the person reside and who qualifies in terms of the Bank’s lending criteria for owner occupied housing.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Instalment Relief:</div>
+    </td>
+    <td>
+      <div>means that relief provided to a Borrower by the Bank which is described in Sub-clause 8.4.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Limit:</div>
+    </td>
+    <td>
+      <div>means the original amount lent to a Borrower, as that amount is:</div>
+      <div>(a)  reduced by any scheduled repayments of principal (whether made or not) and any prepayments of principal (excluding any moneys held pursuant to a loan interest offset arrangement), and</div>
+        <div>(b)  increased by the amount of Instalment Relief granted by the Bank pursuant to a Certificate of Entitlement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Month:</div>
+    </td>
+    <td>
+      <div>means a period commencing at the beginning of a day of one of the twelve (12) months of the year and ending immediately before the beginning of the corresponding day of the next month or, if there is no such corresponding day, ending at the expiration of the next month.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Other Portfolio Agreements:</div>
+    </td>
+    <td>
+      <div>means all guarantees for the payment of moneys due to the Corporation as mortgagee under Portfolio Mortgages including all mortgage insurance contracts, deeds of postponement between the Corporation as first mortgagee and subsequent registered interest holders, other agreements and acknowledgements collateral to the Portfolio Assets.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Arrears:</div>
+    </td>
+    <td>
+      <div>means the total amount of principal and interest due and unpaid under all Specified Portfolio Assets and all Subsidised Advances.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, Portfolio Supplementary Agreements, <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Portfolio</st1:placename> <st1:placetype>Land</st1:placetype> </st1:place>and Other Portfolio Agreements.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Contracts of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place> </st1:city>:</div>
+    </td>
+    <td>
+      <div>means all existing contracts of sale as at the relevant Vesting Date entered into by the Corporation as vendor of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Portfolio</st1:placename> <st1:placetype>Land</st1:placetype> </st1:place>.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Portfolio</st1:placename> <st1:placetype>Land</st1:placetype> </st1:place>:</div>
+    </td>
+    <td>
+      <div>means land which is subject to a contract of sale pursuant to Part IV, or Sections 36, 48 or 48C of the Act and which is held by the Corporation as registered proprietor, or legal owner, or as a lessee under a Crown lease as at the relevant Vesting Date.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Mortgages:</div>
+    </td>
+    <td>
+      <div>means all mortgages in which the Corporation has an interest as mortgagee as at the relevant Vesting Date, and includes all agreements and acknowledgements for further advances in accordance with the Act, all charges pursuant to Section 31 of the Act, and all mortgages to the Corporation as mortgagee pursuant to Section 36 or Section 48D of the Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Supplementary Agreements:</div>
+    </td>
+    <td>
+      <div>means all rights and obligations of the Corporation pursuant to charges against Borrowers and acknowledgements by Borrowers pursuant to Section 18A (generally, land development costs) of the Act and agreements pursuant to Section 29AA and Section 29AB (generally, assistance to widows and others) of the Act and deeds of covenant between the Corporation as mortgagee and Borrowers or other persons.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Potential Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means those assets which have not vested but which would have been Specified Portfolio Assets had the relevant Vesting Dates fallen on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="4">30 April 1989</st1:date>.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Rest Day:</div>
+    </td>
+    <td>
+      <div>means in respect of a Specified Portfolio Asset, the 1st day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account or, in respect of a Subsidised Advance, the 5th day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Specified Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, and Portfolio Supplementary Agreements.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidised Advance:</div>
+    </td>
+    <td>
+      <div>means any advance made by the Bank in accordance with the Certificate of Entitlement, or an initial advance which the Bank is taken to have made pursuant to Section 37 of the Amended Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidised Advance Loan Account:</div>
+    </td>
+    <td>
+      <div>means an account established by the Bank for the purpose of administering a Specified Portfolio Asset or a Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidy:</div>
+    </td>
+    <td>
+      <div>means the interest subsidy referred to in Clause 11.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidy Scheme:</div>
+    </td>
+    <td>
+      <div>means the scheme for provision of Subsidy.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transfer of Land and Subsidy:</div>
+    </td>
+    <td>
+      <div>means a transfer of land or land and dwelling house subject to a Specified Portfolio Asset or a mortgage securing a Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Vesting Dates:</div>
+    </td>
+    <td>
+      <div>means the dates as determined by the Minister in accordance with the Amended Act.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 1.2       _Interpretation_
 
@@ -3291,19 +3242,19 @@ In this Agreement except where the context otherwise requires:
 
 2.1       _Commonwealth to vest Portfolio Assets_
 
-Subject to Clause 4, all of the Corporation’s interests, rights, title and 
+Subject to Clause 4, all of the Corporation’s interests, rights, title and 
 
 obligations in the Portfolio Assets will vest in the Bank pursuant to the
 
-Amending Act for the Consideration referred to in Clause 3.
+Amending Act for the Consideration referred to in Clause 3.
 
 2.2       _Assumption of obligations by Bank_
 
-Subject to Clause 4, the Bank agrees as and from the relevant Vesting Date to assume the burden of the obligations of the Corporation under the Portfolio Assets.
+Subject to Clause 4, the Bank agrees as and from the relevant Vesting Date to assume the burden of the obligations of the Corporation under the Portfolio Assets.
 
 2.3       _Payment of Subsidy_
 
-Pursuant to Clause 11, the Commonwealth further agrees to pay to the Bank a Subsidy with respect to Specified Portfolio Assets and Subsidised Advances.
+Pursuant to Clause 11, the Commonwealth further agrees to pay to the Bank a Subsidy with respect to Specified Portfolio Assets and Subsidised Advances.
 
 2.4       _Bank to act in accordance with Subsidy Scheme_
 
@@ -3311,21 +3262,21 @@ The Bank further agrees to be bound by and act at all times in accordance with t
 
 2.5       _Provision of Subsidised Advances_
 
-The Bank further agrees to provide Subsidised Advances in accordance with Clause 7.
+The Bank further agrees to provide Subsidised Advances in accordance with Clause 7.
 
 2.6       _Provision of Instalment Relief and effecting Transfer of Land and Subsidy_
 
 The Bank further agrees to provide Instalment Relief in accordance with
 
-Clause 8 and to give effect to the Commonwealth’s consent to Transfer of Land and Subsidy in accordance with Clause 8.
+Clause 8 and to give effect to the Commonwealth’s consent to Transfer of Land and Subsidy in accordance with Clause 8.
 
 2.7       _Payment of deposits_
 
-Pursuant to Sub-clause 4.7, the Commonwealth agrees to pay to the Bank certain sums deposited with the Corporation by Borrowers.
+Pursuant to Sub-clause 4.7, the Commonwealth agrees to pay to the Bank certain sums deposited with the Corporation by Borrowers.
 
 2.8       _Exclusive right of Bank to receipt of Subsidy_
 
-Pursuant to Clause 13, the Commonwealth agrees to grant to the Bank the exclusive right to receipt of Subsidy in respect of the advances and other benefits as described herein.
+Pursuant to Clause 13, the Commonwealth agrees to grant to the Bank the exclusive right to receipt of Subsidy in respect of the advances and other benefits as described herein.
 
 3.         CONSIDERATION AND PAYMENT
 
@@ -3333,7 +3284,7 @@ Pursuant to Clause 13, the Commonwealth agrees to grant to the Bank the exclus
 
 The Bank hereby agrees to pay to the Commonwealth the Consideration at the times and in the manner referred to in this Clause.
 
-3.1.1     The Consideration referred to in Sub-clause 3.1 is the sum of:
+3.1.1     The Consideration referred to in Sub-clause 3.1 is the sum of:
 
 (a)   one hundred million dollars ($100,000,000); and
 
@@ -3351,7 +3302,7 @@ The Bank hereby agrees to pay to the Commonwealth the Consideration at the times
 
 (b)   “Final Face Value” shall mean the Principal Sum of the Specified Portfolio Assets as at the relevant Vesting Dates whenever they occur.
 
-(c)   “Interest Commencement Date” means 30 April 1989 or, if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, the date which is one hundred and twenty (120) days after the Date of Proclamation.
+(c)   “Interest Commencement Date” means 30 April 1989 or, if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, the date which is one hundred and twenty (120) days after the Date of Proclamation.
 
 (d)   “Interest Rate” shall be the weighted average yield set at the most recent weekly tender for the thirteen (13) week Treasury Note.
 
@@ -3363,47 +3314,47 @@ The Bank hereby agrees to pay to the Commonwealth the Consideration at the times
 
 3.2       _Payment Schedule_
 
-The Consideration, subject always to Sub-clause 3.4, shall be payable by instalments as follows:
+The Consideration, subject always to Sub-clause 3.4, shall be payable by instalments as follows:
 
-3.2.1     The sum of one hundred million dollars ($100,000,000) referred to in Sub-clause 3.1.1 (a) shall be due and payable by the Bank to the Commonwealth as follows:
+3.2.1     The sum of one hundred million dollars ($100,000,000) referred to in Sub-clause 3.1.1 (a) shall be due and payable by the Bank to the Commonwealth as follows:
 
 (a)   the sum of ten million dollars ($10,000,000) on the Date of Proclamation; and
 
-(b)   the sum of ninety million dollars ($90,000,000) on 1 January 1989.
+(b)   the sum of ninety million dollars ($90,000,000) on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="1" month="1">1 January 1989</st1:date>.
 
-3.2.2     The Face Value referred to in Sub-clause 3.1.1 (b) shall be a debt due by the Bank to the Commonwealth as at the relevant Vesting Date(s) or as at the Interest Commencement Date, whichever is the earlier, and the Total Face Value shall be paid in instalments by the Bank as set out in Sub-clauses 3.2.3, 3.2.4 and 3.2.5.
+3.2.2     The Face Value referred to in Sub-clause 3.1.1 (b) shall be a debt due by the Bank to the Commonwealth as at the relevant Vesting Date(s) or as at the Interest Commencement Date, whichever is the earlier, and the Total Face Value shall be paid in instalments by the Bank as set out in Sub-clauses 3.2.3, 3.2.4 and 3.2.5.
 
-3.2.3     The first instalment of the Total Face Value in the sum of four hundred million dollars ($400,000,000) shall be paid by the Bank on 15 March 1989.
+3.2.3     The first instalment of the Total Face Value in the sum of four hundred million dollars ($400,000,000) shall be paid by the Bank on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="15" month="3">15 March 1989</st1:date>.
 
-3.2.4     Subject to Sub-clause 3.2.6, the second instalment of the Total Face Value in the sum of five hundred million dollars ($500,000,000) and interest thereon shall be paid by the Bank at its election on a date between 1 July 1989 and 7 July 1989, of which date approximately seven (7) days prior notice shall be given to the Commonwealth in writing.
+3.2.4     Subject to Sub-clause 3.2.6, the second instalment of the Total Face Value in the sum of five hundred million dollars ($500,000,000) and interest thereon shall be paid by the Bank at its election on a date between 1 July 1989 and 7 July 1989, of which date approximately seven (7) days prior notice shall be given to the Commonwealth in writing.
 
-3.2.5     Subject to Sub-clause 3.2.6, the balance of the Total Face Value and interest thereon shall be paid by the Bank at its election on a date between 8 July 1989 and 14 July 1989, of which date approximately seven (7) days prior notice shall be given to the Commonwealth in writing.
+3.2.5     Subject to Sub-clause 3.2.6, the balance of the Total Face Value and interest thereon shall be paid by the Bank at its election on a date between <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="8" month="7">8 July 1989</st1:date> and <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="14" month="7">14 July 1989</st1:date>, of which date approximately seven (7) days prior notice shall be given to the Commonwealth in writing.
 
-3.2.6     The Commonwealth may elect to receive the whole or any part of the instalment of five hundred million dollars ($500,000,000) referred to in Sub-clause 3.2.4 and interest thereon prior to 1 July 1989, provided that the Commonwealth notifies the Bank in writing on or prior to 24 May 1989 or such later date as may be agreed between the parties of the Commonwealth’s election to receive the whole or any part of the instalment of five hundred million dollars ($500,000,000) and interest thereon prior to 1 July 1989.
+3.2.6     The Commonwealth may elect to receive the whole or any part of the instalment of five hundred million dollars ($500,000,000) referred to in Sub-clause 3.2.4 and interest thereon prior to 1 July 1989, provided that the Commonwealth notifies the Bank in writing on or prior to 24 May 1989 or such later date as may be agreed between the parties of the Commonwealth’s election to receive the whole or any part of the instalment of five hundred million dollars ($500,000,000) and interest thereon prior to 1 July 1989.
 
-(a)   In the event that the Bank receives notice under this Sub-clause the Bank shall pay the amount specified in the notice on a date of its election prior to 1 July 1989, which date shall be notified by the Bank to the Commonwealth in writing approximately seven (7) days prior to the date on which the Bank elects to pay the amount and interest thereon. 
+(a)   In the event that the Bank receives notice under this Sub-clause the Bank shall pay the amount specified in the notice on a date of its election prior to 1 July 1989, which date shall be notified by the Bank to the Commonwealth in writing approximately seven (7) days prior to the date on which the Bank elects to pay the amount and interest thereon. 
 
-(b)   In the event that the Bank pays the whole or any part of the instalment of five hundred million dollars ($500,000,000) and interest thereon on or prior to 30 June 1989, the balance of the Total Face Value and interest thereon shall be paid by the Bank to the Commonwealth in two equal instalments as follows:
+(b)   In the event that the Bank pays the whole or any part of the instalment of five hundred million dollars ($500,000,000) and interest thereon on or prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date>, the balance of the Total Face Value and interest thereon shall be paid by the Bank to the Commonwealth in two equal instalments as follows:
 
-  (i)  the first instalment shall be paid in the manner set out in Sub-clause 3.2.4; and
+  (i)  the first instalment shall be paid in the manner set out in Sub-clause 3.2.4; and
 
- (ii)  the second instalment shall be paid in the manner set out in Sub-clause 3.2.5.
+(ii)  the second instalment shall be paid in the manner set out in Sub-clause 3.2.5.
 
 3.3       _Manner of Payment_
 
-The instalments of the Consideration referred to in Sub-clause 3.2 shall be paid by 11.00 a.m. on the due dates by depositing the relevant amounts to the credit of the Commonwealth Public Account No. 002 21030-0 with the Reserve Bank of Australia, Sydney, or as may be otherwise decided by the Commonwealth and notified to the Bank.
+The instalments of the Consideration referred to in Sub-clause 3.2 shall be paid by 11.00 a.m. on the due dates by depositing the relevant amounts to the credit of the Commonwealth Public Account No. 002 21030-0 with the Reserve Bank of Australia, Sydney, or as may be otherwise decided by the Commonwealth and notified to the Bank.
 
 3.4       _Delay in Proclamation of Amending Act_
 
-The Commonwealth and the Bank agree that, in the event that the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, then:
+The Commonwealth and the Bank agree that, in the event that the Date of Proclamation is a date between <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="1" month="1">1 January 1989</st1:date> and <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date>, then:
 
-(a)   the Bank shall pay the one hundred million dollars ($100,000,000) referred to in Sub-clause 3.1.1 (a) on the Date of Proclamation; and
+(a)   the Bank shall pay the one hundred million dollars ($100,000,000) referred to in Sub-clause 3.1.1 (a) on the Date of Proclamation; and
 
 (b)   the Bank shall pay the Total Face Value as follows:
 
   (i)  by the payment in the sum of four hundred million ($400,000,000) seventy-five (75) days after the Date of Proclamation; and
 
- (ii)  by the payment of the balance of the Total Face Value one hundred and twenty (120) days after the Date of Proclamation or such other date as may be agreed between the parties, together with interest thereon calculated at the Interest Rate as from the Interest Commencement Date.
+(ii)  by the payment of the balance of the Total Face Value one hundred and twenty (120) days after the Date of Proclamation or such other date as may be agreed between the parties, together with interest thereon calculated at the Interest Rate as from the Interest Commencement Date.
 
 3.5       _Notice of Face Value_
 
@@ -3427,23 +3378,23 @@ The Bank and the Commonwealth agree that the Bank may audit the Face Value. Such
 
 3.7.1     In the event that the Bank disagrees with or disputes that the Face Value notified by the Corporation is the correct Face Value, it shall notify the Commonwealth in writing no later than thirty (30) days after: 
 
-(a)   receipt of the Corporation’s calculation of the Face Value made pursuant to Sub-clause 3.5; and
+(a)   receipt of the Corporation’s calculation of the Face Value made pursuant to Sub-clause 3.5; and
 
-(b)   obtaining access to the documentation and information specified in Sub-clause 3.6.1.
+(b)   obtaining access to the documentation and information specified in Sub-clause 3.6.1.
 
-3.7.2     Within fourteen (14) days of notice being given pursuant to Sub-clause 3.7.1 the parties shall meet with a view to agreeing on the correct sum for the Face Value.
+3.7.2     Within fourteen (14) days of notice being given pursuant to Sub-clause 3.7.1 the parties shall meet with a view to agreeing on the correct sum for the Face Value.
 
-3.7.3     In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute of Chartered   Accountants in Australia. The determination of Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
+3.7.3     In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Chartered Accountants</st1:placename></st1:place> in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>. The determination of Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
 
-3.7.4     If an auditor appointed pursuant to Sub-clause 3.7.3 makes a determination prior to the date for payment fixed pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.6, 3.7.1, 3.7.2 and 3.7.3 are not completed prior to such date then the Bank shall pay to the Commonwealth the Total Face Value notified by the Corporation pursuant to Sub-clause 3.5, together with interest, in the manner set out in Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii). In the event that the auditor’s determination requires an adjustment to the sum paid pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
+3.7.4     If an auditor appointed pursuant to Sub-clause 3.7.3 makes a determination prior to the date for payment fixed pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.6, 3.7.1, 3.7.2 and 3.7.3 are not completed prior to such date then the Bank shall pay to the Commonwealth the Total Face Value notified by the Corporation pursuant to Sub-clause 3.5, together with interest, in the manner set out in Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii). In the event that the auditor’s determination requires an adjustment to the sum paid pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
 
 3.8       _Vesting Date falling after Interest Commencement_ _Date_
 
-            In the event that one or more of the Vesting Dates falls after the Interest Commencement Date the Corporation shall calculate the Final Face Value and shall notify the Bank of such Final Face Value within seven (7) days of the relevant Vesting Date.
+            In the event that one or more of the Vesting Dates falls after the Interest Commencement Date the Corporation shall calculate the Final Face Value and shall notify the Bank of such Final Face Value within seven (7) days of the relevant Vesting Date.
 
-3.8.1     If amounts are notified pursuant to Sub-clause 3.8 prior to payment of the balance of the Total Face Value pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the sum payable by the Bank pursuant to the applicable Sub-clause shall be reduced by the sum of any amount by which the Total Face Value exceeds the Total Final Face Value and interest on such difference calculated at the Interest Rate from the date of notification until payment of the balance.
+3.8.1     If amounts are notified pursuant to Sub-clause 3.8 prior to payment of the balance of the Total Face Value pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the sum payable by the Bank pursuant to the applicable Sub-clause shall be reduced by the sum of any amount by which the Total Face Value exceeds the Total Final Face Value and interest on such difference calculated at the Interest Rate from the date of notification until payment of the balance.
 
-3.8.2     If an amount is notified pursuant to Sub-clause 3.8 after the payment of the balance of the Total Face Value pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the Commonwealth shall pay to the Bank without interest any amount by which the Total Face Value exceeds the Total Final Face Value.
+3.8.2     If an amount is notified pursuant to Sub-clause 3.8 after the payment of the balance of the Total Face Value pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the Commonwealth shall pay to the Bank without interest any amount by which the Total Face Value exceeds the Total Final Face Value.
 
 3.9       _Bank audit of Final Face Value_ 
 
@@ -3463,15 +3414,15 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
 
 3.10.1   In the event that the Bank disagrees with or disputes that the Final Face Value notified by the Corporation is the correct Final Face Value, it shall notify the Commonwealth in writing no later than thirty (30) days after:
 
-(a)   receipt of the Corporation’s calculation of the Final Face Value made pursuant to Sub-clause 3.8; and
+(a)   receipt of the Corporation’s calculation of the Final Face Value made pursuant to Sub-clause 3.8; and
 
-(b)   obtaining access to the documentation and information specified in Sub-clause 3.9.1.
+(b)   obtaining access to the documentation and information specified in Sub-clause 3.9.1.
 
-3.10.2   Within fourteen (14) days of notice being given pursuant to Sub-clause 3.10.1 the parties shall meet with a view to agreeing on the correct sum for the Final Face Value.
+3.10.2   Within fourteen (14) days of notice being given pursuant to Sub-clause 3.10.1 the parties shall meet with a view to agreeing on the correct sum for the Final Face Value.
 
-3.10.3   In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Final Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute  of Chartered Accountants in Australia. The determination of Final Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
+3.10.3   In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Final Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Chartered Accountants</st1:placename></st1:place> in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>. The determination of Final Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
 
-3.10.4   If an auditor appointed pursuant to Sub-clause 3.10.3 makes a determination prior to the date for payment fixed pursuant to Sub-clauses 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.9, 3.10.1, 3.10.2 and 3.10.3 are not completed prior to such date then any adjustment required by Sub-clause 3.8.1 or payment required by Sub-clause 3.8.2 shall be based on the amount notified pursuant to Sub-clause 3.8\. In the event that the auditor’s determination requires a further adjustment, the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
+3.10.4   If an auditor appointed pursuant to Sub-clause 3.10.3 makes a determination prior to the date for payment fixed pursuant to Sub-clauses 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.9, 3.10.1, 3.10.2 and 3.10.3 are not completed prior to such date then any adjustment required by Sub-clause 3.8.1 or payment required by Sub-clause 3.8.2 shall be based on the amount notified pursuant to Sub-clause 3.8\. In the event that the auditor’s determination requires a further adjustment, the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
 
 4.         VESTING OF PORTFOLIO ASSETS AND PAYMENT OF SUMS DEPOSITED BY BORROWERS
 
@@ -3495,29 +3446,29 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
 
 (b)   such date in relation to a particular State or Territory may not be earlier than;
 
-  (i)  the date identified in Sub-clause 4.6 in respect of that State or Territory; or
+  (i)  the date identified in Sub-clause 4.6 in respect of that State or Territory; or
 
- (ii)  if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, then such date referred to in Sub-paragraph (i) shall be extended by the number of days between 1 January 1989 and the Date of Proclamation (both dates being inclusive).
+(ii)  if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, then such date referred to in Sub-paragraph (i) shall be extended by the number of days between 1 January 1989 and the Date of Proclamation (both dates being inclusive).
 
 4.5       _Ministerial Determination of Vesting Dates_
 
-            Subject to Sub-clause 4.5.1 the Minister shall determine the Vesting Date in relation to the Portfolio Assets in each State or Territory. The Vesting Date so determined shall not differ by more than three (3) days from the date for vesting in relation to a State or Territory previously notified by the Bank pursuant to Sub-clause 4.4.
+            Subject to Sub-clause 4.5.1 the Minister shall determine the Vesting Date in relation to the Portfolio Assets in each State or Territory. The Vesting Date so determined shall not differ by more than three (3) days from the date for vesting in relation to a State or Territory previously notified by the Bank pursuant to Sub-clause 4.4.
 
-4.5.1     In the event that the Bank is in default under this Agreement in payment of part or all of the Consideration referred to in Sub-clause 3.1; 
+4.5.1     In the event that the Bank is in default under this Agreement in payment of part or all of the Consideration referred to in Sub-clause 3.1; 
 
-(a)   on the date of its giving a notice to the Minister under Sub-clause 4.4;
+(a)   on the date of its giving a notice to the Minister under Sub-clause 4.4;
 
-(b)   on the date upon which the Minister, pursuant to Sub-clause 4.5, determines a date for vesting; or 
+(b)   on the date upon which the Minister, pursuant to Sub-clause 4.5, determines a date for vesting; or 
 
-(c)   subsequent to a date being fixed by the Minister for vesting under Sub-clause 4.5 but prior to vesting being effected; 
+(c)   subsequent to a date being fixed by the Minister for vesting under Sub-clause 4.5 but prior to vesting being effected; 
 
             the Minister may refuse to determine a Vesting Date or may revoke any determination which has been made, up to the Vesting Date so determined. 
 
-4.5.2     Where the Bank has remedied its default in payment of part or all of the Consideration, it may give a further written notice to the Commonwealth and the Corporation pursuant to Sub-clause 4.4 and the Minister shall thereupon determine the Vesting Date in accordance with Sub-clause 4.5\. 
+4.5.2     Where the Bank has remedied its default in payment of part or all of the Consideration, it may give a further written notice to the Commonwealth and the Corporation pursuant to Sub-clause 4.4 and the Minister shall thereupon determine the Vesting Date in accordance with Sub-clause 4.5\. 
 
 4.6       _Earliest Dates to be specified_ 
 
-            The date to be specified in the Bank’s notice under Sub-clause 4.4 shall not be earlier than the date identified below in respect of each State and Territory.
+            The date to be specified in the Bank’s notice under Sub-clause 4.4 shall not be earlier than the date identified below in respect of each State and Territory.
 
 <table>
 <colgroup>
@@ -3525,85 +3476,90 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
   <col width="45%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>STATE</div>
-  </td>
-  <td>
-    <div>DATES</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>South Australia and the Northern Territory</div>
-  </td>
-  <td>
-    <div>
-15 January 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Western Australia</div>
-  </td>
-  <td>
-    <div>1 February 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Queensland</div>
-  </td>
-  <td>
-    <div>28 February 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Victoria and Tasmania</div>
-  </td>
-  <td>
-    <div>15 March 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>New South Wales and the Australian Capital Territory and Norfolk Island</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>STATE</div>
+    </td>
+    <td>
+      <div>DATES</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place> </st1:state>and the <st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place> </st1:state></div>
+    </td>
+    <td>
+      <div>
+ <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="15" month="1">15 January 1989</st1:date> 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place> </st1:state></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="1" month="2">1 February 1989</st1:date></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Queensland</st1:place> </st1:state></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="28" month="2">28 February 1989</st1:date></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place> </st1:state>and <st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place> </st1:state></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="15" month="3">15 March 1989</st1:date></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place> </st1:state>and the <st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place> </st1:state>and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place></div>
+    </td>
+    <td>
+      <div>
 
-15 April 1989</div>
-  </td>
-</tr></table>
+ <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="15" month="4">15 April 1989</st1:date> 
+
+</div>
+    </td>
+  </tr>
+</tbody></table>
 
 4.7       _Existing Sums Deposited by Borrowers_
 
-The Commonwealth further agrees to pay to the Bank and the Bank further agrees to treat as Excess Credits under Clause 9 the sums deposited with the Corporation by Borrowers to the credit of Borrowers’ accounts pursuant to Section 29 of the Act, by paying all such sums on a State by State basis in the manner provided in this Clause for the vesting of Portfolio Assets so that all such sums deposited by Borrowers in each State shall be paid to the Bank on the relevant Vesting Date.
+The Commonwealth further agrees to pay to the Bank and the Bank further agrees to treat as Excess Credits under Clause 9 the sums deposited with the Corporation by Borrowers to the credit of Borrowers’ accounts pursuant to Section 29 of the Act, by paying all such sums on a State by State basis in the manner provided in this Clause for the vesting of Portfolio Assets so that all such sums deposited by Borrowers in each State shall be paid to the Bank on the relevant Vesting Date.
 
 5.         TRANSITION PROVISIONS
 
 5.1\.      _Incomplete Applications for an Advance under the Act_
 
-            On 1 December 1988 or on the Date of Proclamation whichever is the later, those applications for a Corporation Advance by a person who has not previously received assistance under the Act or by a person who has previously received assistance under the Act and has obtained or sought the Minister’s approval for assistance pursuant to Section 20A of the Act, which are in the possession of the Corporation as at such date but for which a mortgage has not been executed by both the Corporation and the Entitled Applicant (or has not been executed by the Entitled Applicant in such cases where the mortgage is required to be executed only by the Entitled Applicant) and are identified below, shall be dealt with by the parties as follows.
+            On 1 December 1988 or on the Date of Proclamation whichever is the later, those applications for a Corporation Advance by a person who has not previously received assistance under the Act or by a person who has previously received assistance under the Act and has obtained or sought the Minister’s approval for assistance pursuant to Section 20A of the Act, which are in the possession of the Corporation as at such date but for which a mortgage has not been executed by both the Corporation and the Entitled Applicant (or has not been executed by the Entitled Applicant in such cases where the mortgage is required to be executed only by the Entitled Applicant) and are identified below, shall be dealt with by the parties as follows.
 
-5.1.1     The Corporation shall treat any such application as an application for a Certificate of Entitlement in accordance with Clause 7.
+5.1.1     The Corporation shall treat any such application as an application for a Certificate of Entitlement in accordance with Clause 7.
 
-            No later than when the Corporation delivers a Certificate of Entitlement to the Bank, the Corporation shall also deliver to the Bank a copy of any such application and the Bank shall treat that copy of such application in the same way as an application for a Subsidised Advance is to be treated under Clauses 7 and 8.
+            No later than when the Corporation delivers a Certificate of Entitlement to the Bank, the Corporation shall also deliver to the Bank a copy of any such application and the Bank shall treat that copy of such application in the same way as an application for a Subsidised Advance is to be treated under Clauses 7 and 8.
 
 5.1.2     Where the Corporation has approved a Corporation Advance in respect of any such application, on receipt of the Certificate of Entitlement and a copy of the loan approval letter, the Bank shall be bound to make a Subsidised Advance on the same terms and conditions as those approved by the Corporation and shown in Part A of the Certificate of Entitlement.
 
 5.1.3     The Bank shall accept any documentation and results of investigations carried out by the Corporation in respect of any such application and treat them as though the Bank had prepared the documentation or carried out the investigations. These investigations shall include but not be limited to Certificate of Title searches, property surveys, valuations and decisions as to creditworthiness.
 
-5.1.4     The Bank agrees that where any such application would have been due for settlement by the Corporation in the ordinary course of events in the period of four (4) weeks from 1 December 1988 or the Date of Proclamation whichever is the later, and the Bank notifies the Corporation that the Bank is unable to effect settlement and make the Subsidised Advance then the Corporation may proceed to make the Corporation Advance and the mortgage taken by the Corporation to secure the Corporation Advance will be included in the Portfolio Assets to be vested in the Bank in accordance with Clause 4.
+5.1.4     The Bank agrees that where any such application would have been due for settlement by the Corporation in the ordinary course of events in the period of four (4) weeks from 1 December 1988 or the Date of Proclamation whichever is the later, and the Bank notifies the Corporation that the Bank is unable to effect settlement and make the Subsidised Advance then the Corporation may proceed to make the Corporation Advance and the mortgage taken by the Corporation to secure the Corporation Advance will be included in the Portfolio Assets to be vested in the Bank in accordance with Clause 4.
 
 5.2       _Incomplete Applications for Benefits under the Act_
 
-On the relevant Vesting Date for any Portfolio Asset any application or request by a Borrower or other person relating to a Portfolio Asset for an additional advance pursuant to Section 20 of the Act or for relief pursuant to Sections 29AA or 29AB of the Act or for an exercise of the Corporation’s powers under Sections 31, 33 or 35 of the Act which are in the possession of the Corporation at such relevant Vesting Date shall be dealt with by the parties as follows.
+On the relevant Vesting Date for any Portfolio Asset any application or request by a Borrower or other person relating to a Portfolio Asset for an additional advance pursuant to Section 20 of the Act or for relief pursuant to Sections 29AA or 29AB of the Act or for an exercise of the Corporation’s powers under Sections 31, 33 or 35 of the Act which are in the possession of the Corporation at such relevant Vesting Date shall be dealt with by the parties as follows.
 
-5.2.1     The Commonwealth shall treat any such application or request as an application for Certificate of Entitlement in accordance with Clause 7\. 
+5.2.1     The Commonwealth shall treat any such application or request as an application for Certificate of Entitlement in accordance with Clause 7\. 
 
-                 No later than when the Commonwealth delivers a Certificate of Entitlement to the Bank the Commonwealth shall also deliver to the Bank a copy of any such application or request and the Bank shall treat that application or request in the same way as an application for a Subsidised Advance, Instalment Relief or Transfer of Land and Subsidy, whichever is appropriate, is to be treated under Clauses 7 or 8\. 
+                 No later than when the Commonwealth delivers a Certificate of Entitlement to the Bank the Commonwealth shall also deliver to the Bank a copy of any such application or request and the Bank shall treat that application or request in the same way as an application for a Subsidised Advance, Instalment Relief or Transfer of Land and Subsidy, whichever is appropriate, is to be treated under Clauses 7 or 8\. 
 
 5.2.2     Where the Corporation has approved a Corporation Advance in respect of any such application or request, or approved any such application or request, on receipt of the Certificate of Entitlement and a copy of the loan approval letter, the Bank shall be bound to make a Subsidised Advance or provide Instalment Relief or give effect to the Transfer of Land and Subsidy on the terms and conditions as set out in Part A of the Certificate of Entitlement.
 
@@ -3611,23 +3567,23 @@ On the relevant Vesting Date for any Portfolio Asset any application or request 
 
 5.3       _Court Orders_
 
-In respect of any Court order affecting or relating to any Portfolio Asset as at the Vesting Date for such Portfolio Asset and in respect of any Court order affecting or relating to any application for a Corporation Advance pursuant to the Act as detailed in Sub-clause 5.1, the Bank agrees that upon being notified by the Commonwealth of the contents of such Court order it shall observe the requirements of the Court order. The Corporation shall advise the Bank of any such Court order on or prior to the relevant Vesting Date.
+In respect of any Court order affecting or relating to any Portfolio Asset as at the Vesting Date for such Portfolio Asset and in respect of any Court order affecting or relating to any application for a Corporation Advance pursuant to the Act as detailed in Sub-clause 5.1, the Bank agrees that upon being notified by the Commonwealth of the contents of such Court order it shall observe the requirements of the Court order. The Corporation shall advise the Bank of any such Court order on or prior to the relevant Vesting Date.
 
 5.4       _Instalments_
 
-Upon receipt by the Commonwealth of any instalment payment in respect of any Portfolio Asset subsequent to the vesting of the Portfolio Asset in the Bank in accordance with Clause 4, the Commonwealth shall within seven (7) days of such receipt forward the said instalment payment to the Bank. 
+Upon receipt by the Commonwealth of any instalment payment in respect of any Portfolio Asset subsequent to the vesting of the Portfolio Asset in the Bank in accordance with Clause 4, the Commonwealth shall within seven (7) days of such receipt forward the said instalment payment to the Bank. 
 
 5.5       _Fees and Charges_
 
-The Bank hereby agrees that it will not impose on an applicant, an Entitled Applicant or a Borrower any fees or charges whatsoever relating to the Bank’s administration, preparation, lodging, registration or otherwise dealing with any application referred to in Sub-clauses 5.1 and 5.2 or the security or charge in respect of such an application where such a fee or charge has already been paid by the applicant, Entitled Applicant or Borrower to the Corporation. Where such a fee or charge paid to the Corporation has not been fully expended by the Corporation the unexpended amount shall be transferred to the Bank by the Corporation at the time that applications are transferred in accordance with Sub-clauses 5.1.1 and 5.2.1.
+The Bank hereby agrees that it will not impose on an applicant, an Entitled Applicant or a Borrower any fees or charges whatsoever relating to the Bank’s administration, preparation, lodging, registration or otherwise dealing with any application referred to in Sub-clauses 5.1 and 5.2 or the security or charge in respect of such an application where such a fee or charge has already been paid by the applicant, Entitled Applicant or Borrower to the Corporation. Where such a fee or charge paid to the Corporation has not been fully expended by the Corporation the unexpended amount shall be transferred to the Bank by the Corporation at the time that applications are transferred in accordance with Sub-clauses 5.1.1 and 5.2.1.
 
 5.6       _Documentation provided by the Commonwealth_
 
-For the purposes of this Clause the Commonwealth shall provide to the Bank such documents as are necessary for the Bank to continue with an application for a Corporation Advance, Instalment Relief and/or Transfer of Land and Subsidy in accordance with Clauses 7 and 8 and in particular: 
+For the purposes of this Clause the Commonwealth shall provide to the Bank such documents as are necessary for the Bank to continue with an application for a Corporation Advance, Instalment Relief and/or Transfer of Land and Subsidy in accordance with Clauses 7 and 8 and in particular: 
 
-5.6.1     after the Date of Proclamation or 1 December 1988, whichever is the later, the Commonwealth shall promptly provide to the Bank documentation in accordance with Schedule “A” in respect of the applications for Corporation Advances referred to in Sub-clause 5.1; and
+5.6.1     after the Date of Proclamation or 1 December 1988, whichever is the later, the Commonwealth shall promptly provide to the Bank documentation in accordance with Schedule “A” in respect of the applications for Corporation Advances referred to in Sub-clause 5.1; and
 
-5.6.2     after the relevant Vesting Date, the Commonwealth shall provide to the Bank within the period specified in Schedule “B” such documentation in respect of the Portfolio Assets transferred on the relevant Vesting Date or the applications referred to in Clause 5.2 which have been agreed to between the parties and identified in Schedule “B”.
+5.6.2     after the relevant Vesting Date, the Commonwealth shall provide to the Bank within the period specified in Schedule “B” such documentation in respect of the Portfolio Assets transferred on the relevant Vesting Date or the applications referred to in Clause 5.2 which have been agreed to between the parties and identified in Schedule “B”.
 
 5.7       _Discount of Fees_
 
@@ -3641,11 +3597,11 @@ This Agreement is binding on the parties but, except for this Clause, is subject
 
   (i)   are agreed in writing by the parties; or
 
- (ii)   are taken to have been agreed to by the Bank pursuant to Sub-clause 6.4.
+(ii)   are taken to have been agreed to by the Bank pursuant to Sub-clause 6.4.
 
 6.2       _Amendments to draft Bill_
 
-In the event that the Amending Act passed by Parliament should contain any amendments from the draft Bill referred to in Sub-clause 6.1, the Commonwealth shall within two (2) days of the passage of the Amending Act give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
+In the event that the Amending Act passed by Parliament should contain any amendments from the draft Bill referred to in Sub-clause 6.1, the Commonwealth shall within two (2) days of the passage of the Amending Act give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
 
 6.3       _Effect of Amendments_
 
@@ -3661,19 +3617,19 @@ If in the opinion of the Bank, such amendments:
 
 (e)     result in any financial consequences adverse to the Bank, 
 
-and are unacceptable to the Bank, the Bank shall notify the Commonwealth of such opinion within seven (7) days of receipt of the notice under Sub-clause 6.2, or such further period as may be agreed upon by the parties, and upon receipt of such notice the Agreement shall terminate.
+and are unacceptable to the Bank, the Bank shall notify the Commonwealth of such opinion within seven (7) days of receipt of the notice under Sub-clause 6.2, or such further period as may be agreed upon by the parties, and upon receipt of such notice the Agreement shall terminate.
 
 6.4       _No Notice by Bank_
 
-In the event that the Bank does not give notice under Sub-Clause 6.3, it shall be taken to have agreed to such amendments for the purposes of Sub-clause 6.1.
+In the event that the Bank does not give notice under Sub-Clause 6.3, it shall be taken to have agreed to such amendments for the purposes of Sub-clause 6.1.
 
 6.5       _Form of draft Bill_
 
-The Commonwealth agrees that the draft Bill to be submitted to Parliament shall be the draft Bill referred to in Sub-clause 6.1 with only such amendments thereto as may be agreed in writing between the parties. 
+The Commonwealth agrees that the draft Bill to be submitted to Parliament shall be the draft Bill referred to in Sub-clause 6.1 with only such amendments thereto as may be agreed in writing between the parties. 
 
 6.6       _Effect of Termination_
 
-In the event that the Amending Act is not passed in the form of the draft Bill referred to in Sub-clause 6.1 and, as a result, the condition contained in Sub-clause 6.1 is not met and the Agreement is terminated or has no force or effect, neither the Bank nor the Commonwealth will have any right to claim compensation, losses, expenses, costs or damages arising or resulting from this Agreement against the other.
+In the event that the Amending Act is not passed in the form of the draft Bill referred to in Sub-clause 6.1 and, as a result, the condition contained in Sub-clause 6.1 is not met and the Agreement is terminated or has no force or effect, neither the Bank nor the Commonwealth will have any right to claim compensation, losses, expenses, costs or damages arising or resulting from this Agreement against the other.
 
 6.7       _Agreement approved by Amending Act_
 
@@ -3681,11 +3637,11 @@ The parties hereby agree that a copy of this Agreement shall be annexed to and a
 
 6.8       _Amending Act provisions_
 
-The Amending Act shall provide that the Corporation’s interests, rights, title and obligations in the Portfolio Assets shall vest in the Bank progressively on the Vesting Dates determined in accordance with Clause 4\. 
+The Amending Act shall provide that the Corporation’s interests, rights, title and obligations in the Portfolio Assets shall vest in the Bank progressively on the Vesting Dates determined in accordance with Clause 4\. 
 
-6.9       _Date of Proclamation after__30 June 1989_ 
+6.9       _Date of Proclamation after_<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">_30 June 1989_</st1:date> 
 
-            In the event that the Date of Proclamation is a date after 30 June 1989 then this Agreement shall be of no force or effect and neither the Bank nor the Commonwealth will have any right to claim for compensation, losses, expenses, costs or damages arising or resulting from this Agreement against the other.
+            In the event that the Date of Proclamation is a date after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date> then this Agreement shall be of no force or effect and neither the Bank nor the Commonwealth will have any right to claim for compensation, losses, expenses, costs or damages arising or resulting from this Agreement against the other.
 
 7\.         APPLICATION/REVIEW—GENERAL
 
@@ -3727,13 +3683,13 @@ the Bank shall provide the applicant with an application for a Certificate of En
 
 (g)   in the case of a consent to a Transfer of Land and Subsidy, whether the Commonwealth consents to pay Subsidy to the Bank for and on behalf of the proposed transferee in respect of the holding to be transferred. 
 
-7.2.2     Part B of a Certificate of Entitlement may include any terms a breach of which would permit the Commonwealth to terminate or suspend Subsidy under Sub-clause 11.15.
+7.2.2     Part B of a Certificate of Entitlement may include any terms a breach of which would permit the Commonwealth to terminate or suspend Subsidy under Sub-clause 11.15.
 
-7.2.3     The Certificate of Entitlement issued by the Commonwealth pursuant to Sub-clause 7.1.4 shall lapse after the expiration of three (3) months from its date of issuance unless in that period the Bank has approved in accordance with the terms of the Certificate a Subsidised Advance, Instalment Relief or has agreed to give effect to the Commonwealth consent to a Transfer of Land and Subsidy to the person to whom that Certificate was issued.
+7.2.3     The Certificate of Entitlement issued by the Commonwealth pursuant to Sub-clause 7.1.4 shall lapse after the expiration of three (3) months from its date of issuance unless in that period the Bank has approved in accordance with the terms of the Certificate a Subsidised Advance, Instalment Relief or has agreed to give effect to the Commonwealth consent to a Transfer of Land and Subsidy to the person to whom that Certificate was issued.
 
 7.3       _Obligations of Bank upon receipt of Certificate of Entitlement_
 
-As and from 1 December 1988 or the Date of Proclamation whichever is the later, the Bank agrees that it shall, as soon as it receives a Certificate of Entitlement, consider and assess an Entitled Applicant’s application to the Bank, in accordance with the lending criteria set out in Schedule “C”, and advise the Entitled Applicant of the outcome of the same within fifteen (15) Business Days of receipt of such application or Certificate of Entitlement, whichever is the later. Where the application is successful the Bank agrees that it will make the Subsidised Advance, grant the Instalment Relief and/or give effect to the Commonwealth’s consent to the Transfer of Land and Subsidy for or on behalf of the Entitled Applicant, in accordance with Part A of the Certificate of Entitlement issued by the Commonwealth, on the date requested by the Entitled Applicant, subject to the completion by the Entitled Applicant and the Bank of first mortgage requirements and documentation where necessary. 
+As and from 1 December 1988 or the Date of Proclamation whichever is the later, the Bank agrees that it shall, as soon as it receives a Certificate of Entitlement, consider and assess an Entitled Applicant’s application to the Bank, in accordance with the lending criteria set out in Schedule “C”, and advise the Entitled Applicant of the outcome of the same within fifteen (15) Business Days of receipt of such application or Certificate of Entitlement, whichever is the later. Where the application is successful the Bank agrees that it will make the Subsidised Advance, grant the Instalment Relief and/or give effect to the Commonwealth’s consent to the Transfer of Land and Subsidy for or on behalf of the Entitled Applicant, in accordance with Part A of the Certificate of Entitlement issued by the Commonwealth, on the date requested by the Entitled Applicant, subject to the completion by the Entitled Applicant and the Bank of first mortgage requirements and documentation where necessary. 
 
 7.4       _Nominated Payee_
 
@@ -3745,7 +3701,7 @@ The Bank is not obliged to make a Subsidised Advance or grant Instalment Relief 
 
 7.6       _Alteration of Lending Criteria_
 
-The Bank and the Commonwealth agree that the lending criteria set out in Schedule “C” will be subject to alteration from time to time to reflect changes in prevailing market conditions and lending norms as evidenced by the lending criteria then applied by the five (5) largest bank providers of housing finance determined in accordance with Sub-clause 11.10\. Where the Bank considers that circumstances in the market justify such an alteration, it shall advise the Commonwealth at least thirty (30) days prior to the intended date of effect of the proposed alteration in the lending criteria. The Bank will continue to treat Entitled Applicants and Borrowers no less favourably in comparison with its other Housing Loan Customers in future than is the case as at the date of signing this Agreement, including in particular the special factors referred to in Sub-clause 7.8 which the Bank is expressly required by this Agreement not to take into account in applying its lending criteria to Entitled Applicants in future. 
+The Bank and the Commonwealth agree that the lending criteria set out in Schedule “C” will be subject to alteration from time to time to reflect changes in prevailing market conditions and lending norms as evidenced by the lending criteria then applied by the five (5) largest bank providers of housing finance determined in accordance with Sub-clause 11.10\. Where the Bank considers that circumstances in the market justify such an alteration, it shall advise the Commonwealth at least thirty (30) days prior to the intended date of effect of the proposed alteration in the lending criteria. The Bank will continue to treat Entitled Applicants and Borrowers no less favourably in comparison with its other Housing Loan Customers in future than is the case as at the date of signing this Agreement, including in particular the special factors referred to in Sub-clause 7.8 which the Bank is expressly required by this Agreement not to take into account in applying its lending criteria to Entitled Applicants in future. 
 
 7.7       _Failure to meeting Lending Criteria_
 
@@ -3783,7 +3739,7 @@ The Bank agrees that in the treatment of Arrears, it will treat Borrowers no les
 
 7.13      _Review of Commonwealth determination_
 
-7.13.1        An applicant may seek to have the Commonwealth’s determination reviewed in accordance with the review mechanism provided under the Amended Act, and should such review result in the Commonwealth’s determination being amended, the Commonwealth shall advise the Bank and the applicant of the result of the review by issuing a further Certificate of Entitlement and the Bank shall, subject to Sub-clause 7.5, provide a Subsidised Advance and/or Instalment Relief and/or give effect to the Commonwealth’s consent to a transfer of Land and Subsidy in accordance with that Certificate. 
+7.13.1        An applicant may seek to have the Commonwealth’s determination reviewed in accordance with the review mechanism provided under the Amended Act, and should such review result in the Commonwealth’s determination being amended, the Commonwealth shall advise the Bank and the applicant of the result of the review by issuing a further Certificate of Entitlement and the Bank shall, subject to Sub-clause 7.5, provide a Subsidised Advance and/or Instalment Relief and/or give effect to the Commonwealth’s consent to a transfer of Land and Subsidy in accordance with that Certificate. 
 
 8\.         SUBSIDISED ADVANCES/INSTALMENT RELIEF/TRANSFER OF LAND AND SUBSIDY
 
@@ -3813,7 +3769,7 @@ The parties agree that where the Bank provides Instalment Relief, such relief wi
 
   (i)  part or all of the amount of Arrears outstanding in that Subsidised Advance Loan Account at the date of effect of the Instalment Relief; and
 
- (ii)  unpaid interest where agreed instalments are reduced as a result of the grant of Instalment Relief.
+(ii)  unpaid interest where agreed instalments are reduced as a result of the grant of Instalment Relief.
 
 8.5       _Transfer of Land and Subsidy_
 
@@ -3851,7 +3807,7 @@ Where a Borrower pays to the Bank an amount of Excess Credits then the Bank agre
 
 9.2       _Form of Excess Credit Arrangement_
 
-The Excess Credit arrangement to be made available by the Bank to Borrowers pursuant to Sub-clause 9.1 shall take the form of either:
+The Excess Credit arrangement to be made available by the Bank to Borrowers pursuant to Sub-clause 9.1 shall take the form of either:
 
 (a)   a loan interest offset arrangement; or
 
@@ -3859,7 +3815,7 @@ The Excess Credit arrangement to be made available by the Bank to Borrowers purs
 
 9.3       _Election by Borrower_
 
-The Bank agrees to provide to a Borrower a choice between the two types of Excess Credit arrangement referred to in Sub-clause 9.2\. In the event that the Borrower fails to exercise such a choice before the Borrower’s first repayment is due to the Bank under the Portfolio Asset and/or Subsidised Advance, then the Bank shall provide a loan interest offset arrangement. The Bank further agrees that a Borrower may elect at any time to change between the two types of Excess Credit arrangements during the currency of the Portfolio Asset and/or Subsidised Advance. 
+The Bank agrees to provide to a Borrower a choice between the two types of Excess Credit arrangement referred to in Sub-clause 9.2\. In the event that the Borrower fails to exercise such a choice before the Borrower’s first repayment is due to the Bank under the Portfolio Asset and/or Subsidised Advance, then the Bank shall provide a loan interest offset arrangement. The Bank further agrees that a Borrower may elect at any time to change between the two types of Excess Credit arrangements during the currency of the Portfolio Asset and/or Subsidised Advance. 
 
 9.4       _Loan Interest Offset Arrangement_
 
@@ -3887,7 +3843,7 @@ If the Bank provides a banking account then:
 
 9.6       _Obligations of Bank_
 
-The Bank agrees to advise Borrowers of the purposes for which either a loan interest offset arrangement as described in Sub-clause 9.4 or a banking account as described in Sub-clause 9.5 can be used, (such purposes being described in Schedule E to this Agreement) and further agrees not to charge any fees (excluding statutory charges) to Borrowers in respect of withdrawals or debits made from these accounts which are directly attributable to the Portfolio Asset and/or Subsidised Advance instalment repayments.
+The Bank agrees to advise Borrowers of the purposes for which either a loan interest offset arrangement as described in Sub-clause 9.4 or a banking account as described in Sub-clause 9.5 can be used, (such purposes being described in Schedule E to this Agreement) and further agrees not to charge any fees (excluding statutory charges) to Borrowers in respect of withdrawals or debits made from these accounts which are directly attributable to the Portfolio Asset and/or Subsidised Advance instalment repayments.
 
 9.7       _Prepayments_
 
@@ -3895,7 +3851,7 @@ In the event that the Borrower pays to the Bank an amount in excess of that requ
 
 9.8       _Effect of prepayment_
 
-The Bank agrees that where a Borrower has made the election referred to in Sub-clause 9.7 the prepayment will not affect the monthly instalments payable by the Borrower, but shall reduce the term applicable to the Specified Portfolio Asset and/or Subsidised Advance. 
+The Bank agrees that where a Borrower has made the election referred to in Sub-clause 9.7 the prepayment will not affect the monthly instalments payable by the Borrower, but shall reduce the term applicable to the Specified Portfolio Asset and/or Subsidised Advance. 
 
 9.9       _Prepayment on a loan_
 
@@ -3923,9 +3879,9 @@ The Bank shall notify the Comonwealth when the Bank Manager responsible for a Bo
 
 (h)   a failure to use the Subsidised Advance for the purpose set out in Part A of the Certificate of Entitlement.
 
-10.2      _Variation of Bank’s Obligations under Sub-clause 10.1_
+10.2      _Variation of Bank’s Obligations under Sub-clause 10.1_
 
-The parties agree that the circumstances referred to in Sub-clause 10.1 may be added to or varied from time to time by agreement.
+The parties agree that the circumstances referred to in Sub-clause 10.1 may be added to or varied from time to time by agreement.
 
 10.3      _Action taken by Bank to enforce security_
 
@@ -3951,7 +3907,7 @@ All notifications referred to in this Clause shall be made to the Commonwealth i
 
 10.5      _Schedule “D” Information_
 
-The Bank agrees to provide the information referred to in Schedule “D” on a monthly basis, or at such other time as may be agreed upon by the parties. Information supplied monthly is to be submitted to the Commonwealth with the Bank’s Subsidy invoice referred to in Sub-clause 11.4 and to be accompanied by a certification by an appropriate officer of the Bank that the information provided is in accordance with the Bank’s records and is true and correct.
+The Bank agrees to provide the information referred to in Schedule “D” on a monthly basis, or at such other time as may be agreed upon by the parties. Information supplied monthly is to be submitted to the Commonwealth with the Bank’s Subsidy invoice referred to in Sub-clause 11.4 and to be accompanied by a certification by an appropriate officer of the Bank that the information provided is in accordance with the Bank’s records and is true and correct.
 
 10.6 _Provision of report by Bank’s External Auditor_
 
@@ -3963,11 +3919,11 @@ If at any time the Commonwealth considers this to be desirable, the Bank will ar
 
 10.8      _Bank to provide External Auditor’s Report with Subsidy Invoice_
 
-The Bank further agrees to provide a report by its external auditors in the terms of Sub-clause 10.6 prior to or concurrently with its first Subsidy invoice.
+The Bank further agrees to provide a report by its external auditors in the terms of Sub-clause 10.6 prior to or concurrently with its first Subsidy invoice.
 
 10.9      _Bank to supply information to enable verification_
 
-In the event that the Commonwealth is unable to verify the details contained in the Subsidy invoice provided pursuant to Sub-clause 11.4 from information supplied pursuant to this Clause, the Bank shall supply such further information as is necessary to enable the Commonwealth to verify the details.
+In the event that the Commonwealth is unable to verify the details contained in the Subsidy invoice provided pursuant to Sub-clause 11.4 from information supplied pursuant to this Clause, the Bank shall supply such further information as is necessary to enable the Commonwealth to verify the details.
 
 10.10    _Documentation to be provided by the Bank_
 
@@ -3975,7 +3931,7 @@ In respect of any claim, dispute or legal proceeding now existing or at any time
 
 10.11    _Charge to Commonwealth by Bank_
 
-Subject to Sub-clause 10.10, the Bank shall not be entitled to charge the Commonwealth a fee in relation to the provision by it to the Commonwealth of any information pursuant to this Clause. 
+Subject to Sub-clause 10.10, the Bank shall not be entitled to charge the Commonwealth a fee in relation to the provision by it to the Commonwealth of any information pursuant to this Clause. 
 
 11\.       SUBSIDY SCHEME
 
@@ -3989,7 +3945,7 @@ In accordance with the terms of this Agreement, the Commonwealth hereby agrees t
 
 11.2      _Commencement of obligation to pay Subsidy_
 
-The obligation of the Commonwealth to pay Subsidy to the Bank as prescribed in Sub-clause 11.1 is to commence:
+The obligation of the Commonwealth to pay Subsidy to the Bank as prescribed in Sub-clause 11.1 is to commence:
 
 (a)   in so far as that Subsidy relates to a Specified Portfolio Asset, from the actual day upon which the Borrower first becomes liable for payment of interest thereon or from the relevant Vesting Date, whichever is the later; and
 
@@ -4001,11 +3957,11 @@ Subsidy is payable monthly and is calculated by reference to the Balance in the 
 
 11.4      _Subsidy Invoice_
 
-The Bank hereby agrees to provide the Commonwealth with a written invoice detailing its claim for Subsidy together with the information referred to in Sub-clause 10.5 not more than three (3) Business Days after the Rest Day for Subsidised Advances. 
+The Bank hereby agrees to provide the Commonwealth with a written invoice detailing its claim for Subsidy together with the information referred to in Sub-clause 10.5 not more than three (3) Business Days after the Rest Day for Subsidised Advances. 
 
 11.5      _Verification and Payment of Subsidy_
 
-The Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by 11 a.m. on the day which is fifteen (15) days after the relevant Rest Day or the day which is seven (7) Business Days after the receipt of the invoice and the information referred to in Sub-clause 10.5, whichever is the later.
+The Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by 11 a.m. on the day which is fifteen (15) days after the relevant Rest Day or the day which is seven (7) Business Days after the receipt of the invoice and the information referred to in Sub-clause 10.5, whichever is the later.
 
 11.6      _Manner of Payment of Subsidy_
 
@@ -4019,33 +3975,33 @@ In the event of a dispute or disagreement arising between the Commonwealth and t
 
 11.7.2   Such dispute or disagreement is, so far as is possible, to be resolved as soon as practicable directly between the Commonwealth and the Bank.
 
-11.7.3   In the event that any such dispute or disagreement cannot be resolved between the Commonwealth and the Bank within a period of seven (7) days after first occurring, the dispute or disagreement is to be referred to arbitration in accordance with the procedure outlined in Clause 26, except that the Commonwealth and the Bank agree that for the purpose of such dispute/disagreement the arbitrator shall be appointed by the President for the time being of the Australian Institute of Chartered Accountants.
+11.7.3   In the event that any such dispute or disagreement cannot be resolved between the Commonwealth and the Bank within a period of seven (7) days after first occurring, the dispute or disagreement is to be referred to arbitration in accordance with the procedure outlined in Clause 26, except that the Commonwealth and the Bank agree that for the purpose of such dispute/disagreement the arbitrator shall be appointed by the President for the time being of the Australian Institute of Chartered Accountants.
 
 11.7.4   Until the actual resolution of such dispute or disagreement, the Commonwealth shall not be under any obligation to pay to the Bank that part of the Subsidy invoice which is disputed or over which disagreement exists.
 
 11.7.5   Upon resolution of such dispute or disagreement, the amount of Subsidy next payable to the Bank by the Commonwealth after such resolution takes place, or if insufficient time is available, the payment after the next payment, shall be adjusted to take into account the result of that resolution.
 
-11.7.6   The Commonwealth and the Bank agree that the amount of such adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10.
+11.7.6   The Commonwealth and the Bank agree that the amount of such adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10.
 
 11.8      _Adjustment of Subsidy Invoice_
 
-The Commonwealth and the Bank further hereby agree that in the event that an invoice claiming Subsidy from the Commonwealth pursuant to Sub-clause 11.4 is found to be in error, the subject of an omission, or require variation, either by the Bank or the Commonwealth, then, subject to the dispute or disagreement resolution mechanism set out in Sub-clause 11.7, the Subsidy invoice next submitted by the Bank to the Commonwealth after the discovery of such error, omission and/or variation will be adjusted in favour of the Commonwealth or the Bank as is found to be necessary. 
+The Commonwealth and the Bank further hereby agree that in the event that an invoice claiming Subsidy from the Commonwealth pursuant to Sub-clause 11.4 is found to be in error, the subject of an omission, or require variation, either by the Bank or the Commonwealth, then, subject to the dispute or disagreement resolution mechanism set out in Sub-clause 11.7, the Subsidy invoice next submitted by the Bank to the Commonwealth after the discovery of such error, omission and/or variation will be adjusted in favour of the Commonwealth or the Bank as is found to be necessary. 
 
 11.9 _Calculation of Subsidy_
 
-The amount of Subsidy payable by the Commonwealth shall be calculated as set out in paragraph (a) and adjusted as set out in paragraph (b) hereunder:
+The amount of Subsidy payable by the Commonwealth shall be calculated as set out in paragraph (a) and adjusted as set out in paragraph (b) hereunder:
 
-(a)   the amount of Subsidy shall be equal to the difference between the actual amount of interest payable in that month by a Borrower on the Balance outstanding on any Subsidised Advance Loan Account and the notional amount of interest calculated by applying to the same Balance the Benchmark rate of interest determined at the end of the previous month pursuant to Sub-clause 11.10;
+(a)   the amount of Subsidy shall be equal to the difference between the actual amount of interest payable in that month by a Borrower on the Balance outstanding on any Subsidised Advance Loan Account and the notional amount of interest calculated by applying to the same Balance the Benchmark rate of interest determined at the end of the previous month pursuant to Sub-clause 11.10;
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image003.gif)
+<v:shape id="_x0000_i1027" style="WIDTH: 51.75pt; HEIGHT: 15pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image005.wmz"></v:imagedata></v:shape>
 
 where
 
 X = the amount by which the Subsidy is to be reduced;
 
-Y = the total Subsidy calculated in accordance with Sub-clause 11.9(a); 
+Y = the total Subsidy calculated in accordance with Sub-clause 11.9(a); 
 
 a = the amount by which Portfolio Arrears exceed 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts; and
 
@@ -4053,37 +4009,37 @@ b = the aggregate of the Balances of all Subsidised Advance Loan Accounts.
 
 11.10    _Calculation of Benchmark Rate_
 
-The Benchmark rate, being the maximum notional rate of interest to which the Bank is entitled in respect of the outstanding principal under all Specified Portfolio Assets and/or Subsidised Advances for the purpose of calculating payments of Subsidy to the Bank by the Commonwealth, shall be calculated in the manner provided in Sub-clause 11.10.7 or, if applicable, Sub-clause 11.10.8, by reference to the unregulated standard annual rates of interest applied in each State and the Australian Capital Territory and the Northern Territory to the first $25,000 (or such other amount as may be agreed by the Commonwealth and the Bank) of owner-occupied housing loans provided by the five (5) largest banking group providers of housing finance in Australia.
+The Benchmark rate, being the maximum notional rate of interest to which the Bank is entitled in respect of the outstanding principal under all Specified Portfolio Assets and/or Subsidised Advances for the purpose of calculating payments of Subsidy to the Bank by the Commonwealth, shall be calculated in the manner provided in Sub-clause 11.10.7 or, if applicable, Sub-clause 11.10.8, by reference to the unregulated standard annual rates of interest applied in each State and the Australian Capital Territory and the Northern Territory to the first $25,000 (or such other amount as may be agreed by the Commonwealth and the Bank) of owner-occupied housing loans provided by the five (5) largest banking group providers of housing finance in Australia.
 
-11.10.1    For the purposes of Sub-clause 11.10, the unregulated standard annual rates of interest applied to owner-occupied housing loans shall be the rate which is applied to the largest number of owner-occupied housing loans outstanding in each State and the Australian Capital Territory and the Northern Territory to each of the banking groups concerned, as determined by reference to data compiled by the Reserve Bank of Australia or as the parties may otherwise agree.
+11.10.1    For the purposes of Sub-clause 11.10, the unregulated standard annual rates of interest applied to owner-occupied housing loans shall be the rate which is applied to the largest number of owner-occupied housing loans outstanding in each State and the Australian Capital Territory and the Northern Territory to each of the banking groups concerned, as determined by reference to data compiled by the Reserve Bank of Australia or as the parties may otherwise agree.
 
-11.10.2    The five (5) largest banking group providers of housing finance in Australia for the purposes of this Sub-clause shall be determined as at 1 July in each Financial Year that Subsidy is payable on the basis of data published by the Australian Bureau of Statistics or, if such information is not available, as may otherwise be agreed between the parties.
+11.10.2    The five (5) largest banking group providers of housing finance in Australia for the purposes of this Sub-clause shall be determined as at 1 July in each Financial Year that Subsidy is payable on the basis of data published by the Australian Bureau of Statistics or, if such information is not available, as may otherwise be agreed between the parties.
 
 11.10.3    In the event that the parties are unable to agree on:
 
-(a)   the unregulated standard annual rates of interest applied to owner-occupied housing loans in each State and the Australian Capital Territory and the Northern Territory under Sub-clause 11.10.1; or
+(a)   the unregulated standard annual rates of interest applied to owner-occupied housing loans in each State and the Australian Capital Territory and the Northern Territory under Sub-clause 11.10.1; or
 
-(b)   the five (5) largest banking group providers of housing finance in Australia under Sub-clause 11.10.2;
+(b)   the five (5) largest banking group providers of housing finance in Australia under Sub-clause 11.10.2;
 
 within fourteen (14) days of first notification by either party to the other of that disagreement, the matter in dispute shall be determined by an independent nominee of the President of the Institute of Chartered Accountants of Australia. Such determination shall be conclusive and binding on both parties. The fees and expenses of the nominee shall be borne equally by the parties.
 
-11.10.4    Pending the resolution of any dispute or disagreement referred to in Sub-clause 11.10.3 in the manner provided for in that Sub-clause, the Benchmark rate used to calculate the Subsidy payable to the Bank by the Commonwealth in the immediately preceding month shall continue to apply. 
+11.10.4    Pending the resolution of any dispute or disagreement referred to in Sub-clause 11.10.3 in the manner provided for in that Sub-clause, the Benchmark rate used to calculate the Subsidy payable to the Bank by the Commonwealth in the immediately preceding month shall continue to apply. 
 
 11.10.5    Upon resolution of such dispute or disagreement, the amount of Subsidy next payable to the Bank by the Commonwealth after such resolution takes place, or if insufficient time is available, the payment after the next payment, shall be adjusted to take into account the result of that resolution.
 
-11.10.6    The Commonwealth and the Bank agree that the amount of such adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10.
+11.10.6    The Commonwealth and the Bank agree that the amount of such adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10.
 
-11.10.7    Subject to Sub-clause 11.10.8, the Benchmark rate to be used for Subsidy payment purposes in any month shall be calculated monthly in two stages as follows:
+11.10.7    Subject to Sub-clause 11.10.8, the Benchmark rate to be used for Subsidy payment purposes in any month shall be calculated monthly in two stages as follows:
 
-(a)   for each banking group concerned, a simple arithmetic average of the unregulated standard annual rates of interest for owner-occupied housing loans as defined in Sub-clause 11.10.1 which that banking group applied on the last day of the immediately preceding month in each State and the Australian Capital Territory and the Northern Territory in which the banking group concerned conducted housing loan business shall be calculated; and
+(a)   for each banking group concerned, a simple arithmetic average of the unregulated standard annual rates of interest for owner-occupied housing loans as defined in Sub-clause 11.10.1 which that banking group applied on the last day of the immediately preceding month in each State and the Australian Capital Territory and the Northern Territory in which the banking group concerned conducted housing loan business shall be calculated; and
 
-(b)   the figures calculated for each banking group under Sub-clause 11.10.7 (a) shall then be subject to a simple arithmetic average to determine the Benchmark rate for that month.
+(b)   the figures calculated for each banking group under Sub-clause 11.10.7 (a) shall then be subject to a simple arithmetic average to determine the Benchmark rate for that month.
 
-11.10.8    In the event that the Bank should, in future, for any reason, offer publicly to make loans for the purchase or construction of owner-occupied houses in any State or Territory on terms including that the first interest rate to be applied is lower than the Benchmark rate determined in accordance with Sub-clause 11.10.7, then the Subsidy payable to the Bank by the Commonwealth in respect of each Subsidised Advance provided by the Bank to an Entitled Applicant in the relevant State or Territory during the period in which such publicly announced loans are available, shall be determined by reference to that lower rate for a period equal to the period during which that lower rate applies to such publicly announced loans. Thereafter the normal Benchmark rate shall apply.
+11.10.8    In the event that the Bank should, in future, for any reason, offer publicly to make loans for the purchase or construction of owner-occupied houses in any State or Territory on terms including that the first interest rate to be applied is lower than the Benchmark rate determined in accordance with Sub-clause 11.10.7, then the Subsidy payable to the Bank by the Commonwealth in respect of each Subsidised Advance provided by the Bank to an Entitled Applicant in the relevant State or Territory during the period in which such publicly announced loans are available, shall be determined by reference to that lower rate for a period equal to the period during which that lower rate applies to such publicly announced loans. Thereafter the normal Benchmark rate shall apply.
 
 11.11    _Bank Providers of Housing Finance_
 
-The Bank and the Commonwealth hereby agree that for the purposes of this Agreement until 1 July 1989 the five (5) largest banking group providers of housing finance in Australia shall be:
+The Bank and the Commonwealth hereby agree that for the purposes of this Agreement until 1 July 1989 the five (5) largest banking group providers of housing finance in Australia shall be:
 
 (a)   The Commonwealth Bank of Australia;
 
@@ -4097,17 +4053,17 @@ The Bank and the Commonwealth hereby agree that for the purposes of this Agreeme
 
 11.12    _Fall in Benchmark Rate_
 
-In the event that the Benchmark rate of interest prescribed in Sub-clause 11.10 falls below the actual rate of interest payable by a Borrower in respect of a Specified Portfolio Asset and/or Subsidised Advance, the Bank agrees to pay to the Commonwealth, on a monthly basis, an amount to be calculated as follows:
+In the event that the Benchmark rate of interest prescribed in Sub-clause 11.10 falls below the actual rate of interest payable by a Borrower in respect of a Specified Portfolio Asset and/or Subsidised Advance, the Bank agrees to pay to the Commonwealth, on a monthly basis, an amount to be calculated as follows:
 
 Such amount shall be equal to the difference between the notional amount of interest payable in that month by a Borrower on the Balance outstanding on any Subsidised Advance Loan Account at the end of the preceding month, calculated by applying the Benchmark rate of interest to that Balance and the amount of interest payable in that same month by the Borrower calculated by applying to the same Balance the actual rate(s) of interest prescribed under the terms and conditions governing that Subsidised Advance Loan Account.
 
 11.13    _Deduction from Subsidy Payments_
 
-Any amount payable by the Bank pursuant to Sub-clause 11.12 shall be deducted from the Bank’s claim for Subsidy provided pursuant to Sub-clause 11.4\. In the event that such deductions exceed the total sum of Subsidy calculated in accordance with Sub-clause 11.9 then any net sum payable by the Bank to the Commonwealth shall be paid fifteen (15) days after the relevant Rest Day.
+Any amount payable by the Bank pursuant to Sub-clause 11.12 shall be deducted from the Bank’s claim for Subsidy provided pursuant to Sub-clause 11.4\. In the event that such deductions exceed the total sum of Subsidy calculated in accordance with Sub-clause 11.9 then any net sum payable by the Bank to the Commonwealth shall be paid fifteen (15) days after the relevant Rest Day.
 
 11.14    _Where Benchmark Rate falls below 6.85 per cent_
 
-In the event that the Benchmark rate of interest prescribed in Sub-clause 11.10 falls below 6.85 per cent or such other rate as may be specified in the Amended Act for inclusion in Certificates of Entitlement for initial advances and is likely in the opinion of either the Bank or the Commonwealth to continue below such rate in the future then the parties shall meet forthwith for the purpose of reviewing the situation.
+In the event that the Benchmark rate of interest prescribed in Sub-clause 11.10 falls below 6.85 per cent or such other rate as may be specified in the Amended Act for inclusion in Certificates of Entitlement for initial advances and is likely in the opinion of either the Bank or the Commonwealth to continue below such rate in the future then the parties shall meet forthwith for the purpose of reviewing the situation.
 
 11.15    _Termination/Suspension of Subsidy Payments and Recovery of Subsidy from Borrower_ 
 
@@ -4123,7 +4079,7 @@ In the event that the Benchmark rate of interest prescribed in Sub-clause 11.1
 
   (iv)  is discovered to have used the Subsidised Advance or Corporation Advance for a purpose other than that for which it was made;
 
-   (v)  is a transferee of a holding in respect of which the Commonwealth has issued a Certificate of Entitlement consenting to a Transfer of Land and Subsidy and has without reasonable excuse failed to comply with an undertaking given by that transferee under Sub-section 22(2) of the Amended Act; or
+   (v)  is a transferee of a holding in respect of which the Commonwealth has issued a Certificate of Entitlement consenting to a Transfer of Land and Subsidy and has without reasonable excuse failed to comply with an undertaking given by that transferee under Sub-section 22(2) of the Amended Act; or
 
   (vi)  becomes the husband or wife of another Borrower,
 
@@ -4133,7 +4089,7 @@ In the event that the Benchmark rate of interest prescribed in Sub-clause 11.1
 
 11.16    _Notice of termination of Subsidy payments to Bank_ 
 
-Where the Commonwealth elects to terminate future Subsidy payments to the Bank in respect of a Specified Portfolio Asset pursuant to Sub-clause 11.15 (a) then it shall give the Bank one month’s notice of its intention to do so. If prior to the completion of that one month period the Bank gives the Commonwealth notice that it intends to take action to enforce its security with respect to that Specified Portfolio Asset then the Commonwealth shall continue to pay Subsidy until the Bank has discharged its loan, or for three (3) months, whichever is the earlier. Any Subsidy paid to the Bank which is recoverable from the Borrower pursuant to the Amending Act shall be paid to the Commonwealth by the Bank as required by the Amending Act from any moneys due to the Borrower from the proceeds of any sale by the Bank of his land or land and dwelling house.
+Where the Commonwealth elects to terminate future Subsidy payments to the Bank in respect of a Specified Portfolio Asset pursuant to Sub-clause 11.15 (a) then it shall give the Bank one month’s notice of its intention to do so. If prior to the completion of that one month period the Bank gives the Commonwealth notice that it intends to take action to enforce its security with respect to that Specified Portfolio Asset then the Commonwealth shall continue to pay Subsidy until the Bank has discharged its loan, or for three (3) months, whichever is the earlier. Any Subsidy paid to the Bank which is recoverable from the Borrower pursuant to the Amending Act shall be paid to the Commonwealth by the Bank as required by the Amending Act from any moneys due to the Borrower from the proceeds of any sale by the Bank of his land or land and dwelling house.
 
 11.17    _Entitlement of Bank to charge applicable interest rate_ 
 
@@ -4143,7 +4099,7 @@ The Commonwealth acknowledges that it shall be a term of any Subsidised Advance 
 
 12.1      _Persistent Failure by Bank to provide Subsidised Advances_ 
 
-            Where it appears to the Commonwealth that there has been a persistent failure by the Bank to provide Subsidised Advances in accordance with this Agreement or to treat applicants for further loans in the manner required by Sub-clause 8.8, the Commonwealth may, by notice in writing served on the Bank, require the Bank within twenty-eight (28) days after service of that notice to rectify that failure.
+            Where it appears to the Commonwealth that there has been a persistent failure by the Bank to provide Subsidised Advances in accordance with this Agreement or to treat applicants for further loans in the manner required by Sub-clause 8.8, the Commonwealth may, by notice in writing served on the Bank, require the Bank within twenty-eight (28) days after service of that notice to rectify that failure.
 
 12.1.1   Where following such notice the Bank fails to rectify such persistent failure then without prejudice to any other rights the Commonwealth may have:
 
@@ -4159,7 +4115,7 @@ The Commonwealth acknowledges that it shall be a term of any Subsidised Advance 
 
 12.3      _Commonwealth Remedies_ 
 
-            Should the Commonwealth exercise its right pursuant to Sub-clauses 12.1.1 or 12.2.1 then the deferred Subsidy will be paid to the Bank at the completion of the period of the deferral but the Bank shall have no right to compensation or interest on the Subsidy deferred against the Commonwealth in respect thereto, and further the Bank agrees that it shall continue without reservation or modification to charge interest to Borrowers at the applicable rates of interest prescribed pursuant to those Borrowers’ respective Portfolio Assets and/or Subsidised Advances, and/or at the rates specified in the Amended Act for inclusion in Certificates of Entitlement in respect of such Advances, as at the date upon which the Commonwealth exercises such right.
+            Should the Commonwealth exercise its right pursuant to Sub-clauses 12.1.1 or 12.2.1 then the deferred Subsidy will be paid to the Bank at the completion of the period of the deferral but the Bank shall have no right to compensation or interest on the Subsidy deferred against the Commonwealth in respect thereto, and further the Bank agrees that it shall continue without reservation or modification to charge interest to Borrowers at the applicable rates of interest prescribed pursuant to those Borrowers’ respective Portfolio Assets and/or Subsidised Advances, and/or at the rates specified in the Amended Act for inclusion in Certificates of Entitlement in respect of such Advances, as at the date upon which the Commonwealth exercises such right.
 
 12.4      _Employee actions resulting in Subsidy over-payment_
 
@@ -4173,7 +4129,7 @@ and such action results in an over-payment of Subsidy then the Commonwealth shal
 
 12.5      _Recovery of Subsidy_ 
 
-            Where the Bank fails to notify the Commonwealth of the circumstances referred to in Sub-clauses 10.1 or 12.4 and such failure to notify results in payments of Subsidy which would not otherwise have occurred then the Commonwealth shall be entitled to recover from the Bank, the Borrower or the Entitled Applicant as it deems appropriate immediately as a debt all Subsidy payments that the Commonwealth has incurred and/or paid as a result of the Bank’s failure to so notify.
+            Where the Bank fails to notify the Commonwealth of the circumstances referred to in Sub-clauses 10.1 or 12.4 and such failure to notify results in payments of Subsidy which would not otherwise have occurred then the Commonwealth shall be entitled to recover from the Bank, the Borrower or the Entitled Applicant as it deems appropriate immediately as a debt all Subsidy payments that the Commonwealth has incurred and/or paid as a result of the Bank’s failure to so notify.
 
 12.5.1        The Commonwealth shall be entitled to recover as from the last date that notification should have been given by the Bank.
 
@@ -4187,7 +4143,7 @@ If the Commonwealth or the Bank commits a breach of this Agreement, including de
 
 12.8      _Exercise of Remedies_
 
-Time shall be of the essence of this Agreement. However, without prejudice to the other provisions of this Clause, if either party defaults under this Agreement the other party shall not be entitled to exercise any of its rights arising out of the default, including its right to sue for moneys then owing until it has served the party in default with a written notice specifying the default and its intention to exercise its rights unless the default is remedied and the reasonable legal costs occasioned by the default and any moneys payable under Sub-clause 12.7 are all paid within fourteen (14) days of service of the notice and the party in default fails to comply with the notice.
+Time shall be of the essence of this Agreement. However, without prejudice to the other provisions of this Clause, if either party defaults under this Agreement the other party shall not be entitled to exercise any of its rights arising out of the default, including its right to sue for moneys then owing until it has served the party in default with a written notice specifying the default and its intention to exercise its rights unless the default is remedied and the reasonable legal costs occasioned by the default and any moneys payable under Sub-clause 12.7 are all paid within fourteen (14) days of service of the notice and the party in default fails to comply with the notice.
 
 12.9      _Termination_
 
@@ -4213,13 +4169,13 @@ Where the Bank has a Receiver or Receiver and Manager appointed to all or substa
 
 13.1      _Exclusive Right_
 
-The Commonwealth hereby grants to the Bank on the terms set out in this Agreement the exclusive right to provide the first twenty five thousand dollars ($25,000), or such other amount as may be agreed upon by the parties, of any Subsidised Advance and other benefits upon which Subsidy is payable to all persons who satisfy the test of eligibility and entitlement under the Act, other than those members of the Defence Force who enlisted after 14 May 1985.
+The Commonwealth hereby grants to the Bank on the terms set out in this Agreement the exclusive right to provide the first twenty five thousand dollars ($25,000), or such other amount as may be agreed upon by the parties, of any Subsidised Advance and other benefits upon which Subsidy is payable to all persons who satisfy the test of eligibility and entitlement under the Act, other than those members of the Defence Force who enlisted after 14 May 1985.
 
 13.2      _Notification of Bank’s Exclusive Right_
 
 The Commonwealth agrees that all persons who seek Subsidised Advances or other benefits under the Amended Act shall be notified that the Bank has the exclusive right to make such Subsidised Advances and to provide such benefits.
 
-14\.       PROVISION FOR REFUND OF PART OF $100 MILLION REFERRED TO IN SUB-CLAUSE 3.1.1 (a)
+14\.       PROVISION FOR REFUND OF PART OF $100 MILLION REFERRED TO IN SUB-CLAUSE 3.1.1 (a)
 
 14.1      The Commonwealth agrees that the Bank may be entitled to a refund of part of the Consideration pursuant to this Clause if, during the period of five (5) years commencing from the date of this Agreement, the Commonwealth should: 
 
@@ -4227,7 +4183,7 @@ The Commonwealth agrees that all persons who seek Subsidised Advances or other b
 
 (b)   introduce a different scheme of benefits for eligible persons who otherwise would be entitled to Subsidised Advances and Instalment Relief which the Bank has agreed to provide under this Agreement, 
 
-and such action causes the number of Entitled Applicants applying to the Bank for Subsidised Advances and Instalment Relief in any of the five (5) years following the date of this Agreement to fall below four thousand (4,000). If the Bank is of the opinion that the above facts have occurred or will occur it may give notice of that situation to the Commonwealth. On receipt of such notice, the Commonwealth and the Bank shall meet with a view to verifying the facts and then determining the extent, if any, to which part of the Consideration referred to in Sub-clause 3.1.1 (a) paid by the Bank to the Commonwealth under this Agreement, and attributed by the Bank to its purchase of the exclusive right under this Agreement to provide Subsidised Advances and Instalment Relief to Entitled Applicants in future, namely $50 million, might be refunded to the Bank to take account of the effects of such action by the Commonwealth, such refund not to exceed the following sums: 
+and such action causes the number of Entitled Applicants applying to the Bank for Subsidised Advances and Instalment Relief in any of the five (5) years following the date of this Agreement to fall below four thousand (4,000). If the Bank is of the opinion that the above facts have occurred or will occur it may give notice of that situation to the Commonwealth. On receipt of such notice, the Commonwealth and the Bank shall meet with a view to verifying the facts and then determining the extent, if any, to which part of the Consideration referred to in Sub-clause 3.1.1 (a) paid by the Bank to the Commonwealth under this Agreement, and attributed by the Bank to its purchase of the exclusive right under this Agreement to provide Subsidised Advances and Instalment Relief to Entitled Applicants in future, namely $50 million, might be refunded to the Bank to take account of the effects of such action by the Commonwealth, such refund not to exceed the following sums: 
 
 <table>
 <colgroup>
@@ -4235,66 +4191,70 @@ and such action causes the number of Entitled Applicants applying to the Bank fo
   <col width="43%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Year in which number of applications received first falls below 4,000</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>Year in which number of applications received first falls below 4,000</div>
+    </td>
+    <td>
+      <div>
 
-$m</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 1</div>
-  </td>
-  <td>
-    <div>50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 2</div>
-  </td>
-  <td>
-    <div>40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 3</div>
-  </td>
-  <td>
-    <div>30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 4</div>
-  </td>
-  <td>
-    <div>20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 5</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 6</div>
-  </td>
-  <td>
-    <div>Nil</div>
-  </td>
-</tr></table>
+$m 
 
-If, within a period of three (3) months after first verifying the facts, agreement has not been reached with the Commonwealth on the amount, if any, to be refunded to the Bank, then the parties shall refer the matter to arbitration in accordance with Clause 26 and any amount payable as a result of the arbitration shall be paid within seven (7) days of the determination of the arbitrator.
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 1</div>
+    </td>
+    <td>
+      <div>50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 2</div>
+    </td>
+    <td>
+      <div>40</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 3</div>
+    </td>
+    <td>
+      <div>30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 4</div>
+    </td>
+    <td>
+      <div>20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 5</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 6</div>
+    </td>
+    <td>
+      <div>Nil</div>
+    </td>
+  </tr>
+</tbody></table>
+
+If, within a period of three (3) months after first verifying the facts, agreement has not been reached with the Commonwealth on the amount, if any, to be refunded to the Bank, then the parties shall refer the matter to arbitration in accordance with Clause 26 and any amount payable as a result of the arbitration shall be paid within seven (7) days of the determination of the arbitrator.
 
 15.5      WARRANTIES
 
@@ -4334,31 +4294,31 @@ The Bank shall indemnify and keep indemnified the Commonwealth, its officers, em
 
 (a)     the acts or omissions of the Commonwealth, the Corporation, or their servants or agents, arising prior to the relevant Vesting Dates; or 
 
-(b)     any breach by the Commonwealth of any of the warranties set out in Sub-clause 15.2.
+(b)     any breach by the Commonwealth of any of the warranties set out in Sub-clause 15.2.
 
 16.3      _Obligation of Commonwealth_
 
 The Commonwealth shall indemnify and keep indemnified the Bank from and against all and any reasonable losses and costs (including legal costs) incurred by the Bank in the event of it being not entitled to take action under any Portfolio Agreement or Portfolio Supplementary Agreement by reason of its not being a party to those Agreements.
 
-17\.       DEALINGS WITH SOUTH AFRICA AND NAMIBIA 
+17\.       DEALINGS WITH <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">SOUTH AFRICA</st1:place></st1:country-region> AND <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">NAMIBIA</st1:place></st1:country-region> 
 
 The Bank hereby agrees that: 
 
   (i)     to the best of its knowledge and understanding, as at the date of signing of this Agreement no South African or Namibian persons in aggregate have a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank; and 
 
- (ii)     the Commonwealth shall be notified in writing forthwith if, during the period of operation of this Agreement, the Bank becomes aware of any actual or proposed change which will lead or is likely to lead to South African or Namibian persons in aggregate having a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank. 
+(ii)     the Commonwealth shall be notified in writing forthwith if, during the period of operation of this Agreement, the Bank becomes aware of any actual or proposed change which will lead or is likely to lead to South African or Namibian persons in aggregate having a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank. 
 
-For the purposes of this Clause, a South African or Namibian person is defined as a “natural person who is a citizen of or resides in South Africa or Namibia or alternatively is a company or body corporate or any body not being a body corporate which is incorporated or formed in South Africa or Namibia”.
+For the purposes of this Clause, a South African or Namibian person is defined as a “natural person who is a citizen of or resides in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Africa</st1:place></st1:country-region> or <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Namibia</st1:place></st1:country-region> or alternatively is a company or body corporate or any body not being a body corporate which is incorporated or formed in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Africa</st1:place></st1:country-region> or <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Namibia</st1:place></st1:country-region>”.
 
 18\.       NON-MERGING ON SETTLEMENT AND SEVERABILITY
 
-18.1      Any provision in this Agreement which is to take effect after 1 December 1988 or the date of commencement of the Amending Act, whichever is the later, shall not merge on settlement but rather shall continue in full force and effect.
+18.1      Any provision in this Agreement which is to take effect after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="1" month="12">1 December 1988</st1:date> or the date of commencement of the Amending Act, whichever is the later, shall not merge on settlement but rather shall continue in full force and effect.
 
 19\.       STAMP DUTY, ADMINISTRATIVE ARRANGEMENTS AND STATE/TERRITORY GOVERNMENT FEES
 
 19.1      _Stamp Duty_ 
 
-            Subject to Sub-clause 19.2, any stamp duty arising out of this Agreement or its implementation shall be borne by the Bank.
+            Subject to Sub-clause 19.2, any stamp duty arising out of this Agreement or its implementation shall be borne by the Bank.
 
 19.2      _Assessment_
 
@@ -4366,7 +4326,7 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 19.2.2   Until the earlier of twenty one (21) days after delivering a copy of such assessment to the Commonwealth or the last day for payment of any stamp duty assessed prior to the Bank becoming liable to pay any fine or penalty, the Bank shall not make payment.
 
-19.2.3   During the period referred to in Sub-clause 19.2.2 the Bank and the Commonwealth shall, if the Commonwealth requests, discuss what action, if any, should be taken in relation to the assessment. If the Commonwealth request and indemnifies the Bank against any costs or expenses which the Bank may incur in so doing, the Bank shall:
+19.2.3   During the period referred to in Sub-clause 19.2.2 the Bank and the Commonwealth shall, if the Commonwealth requests, discuss what action, if any, should be taken in relation to the assessment. If the Commonwealth request and indemnifies the Bank against any costs or expenses which the Bank may incur in so doing, the Bank shall:
 
 (a)   provide the Commonwealth with sufficient information to enable it  to prepare any objection or appeal;  
 
@@ -4374,21 +4334,21 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 (c)   prosecute such objection or appeal as may be appropriate;  
 
-(d)   if any appeal or objection under Sub-clause 19.2.3 (b) is unsuccessful, commence and prosecute such legal proceedings as may be appropriate to determine the liability of the Bank for stamp duty; 
+(d)   if any appeal or objection under Sub-clause 19.2.3 (b) is unsuccessful, commence and prosecute such legal proceedings as may be appropriate to determine the liability of the Bank for stamp duty; 
 
 (e)   promptly inform the Commonwealth of the outcome of any such appeal, objection or legal proceedings.
 
-19.2.4   In the event that it is a condition of making any objection or appeal pursuant to Sub-clause 19.2.3 (b) or commencing legal proceedings pursuant to Sub-clause 19.2.3 (d) that all or any part of the stamp duty assessed be paid then, subject to Sub-clause 19.2.8, the Commonwealth shall pay the Bank the amount of such stamp duty:  
+19.2.4   In the event that it is a condition of making any objection or appeal pursuant to Sub-clause 19.2.3 (b) or commencing legal proceedings pursuant to Sub-clause 19.2.3 (d) that all or any part of the stamp duty assessed be paid then, subject to Sub-clause 19.2.8, the Commonwealth shall pay the Bank the amount of such stamp duty:  
 
 (a)   where an objection or appeal is to be made by the Bank, prior to the Bank lodging such objection or appeal; and  
 
 (b)   where legal proceedings are to be commenced by the Bank, prior to the commencement of such legal proceedings.
 
-19.2.5   Where stamp duty has been paid pursuant to Sub-clause 19.2.4 and an objection, appeal or legal proceedings establishes that all or part of such stamp duty is not chargeable and the Bank receives a refund of stamp duty paid then the Bank shall forthwith reimburse the Commonwealth the amount of stamp duty not chargeable which has been paid by the Commonwealth, and pay to the Commonwealth any interest or like compensation received by the Bank in connection with that part of the refunded stamp duty paid by the Commonwealth.
+19.2.5   Where stamp duty has been paid pursuant to Sub-clause 19.2.4 and an objection, appeal or legal proceedings establishes that all or part of such stamp duty is not chargeable and the Bank receives a refund of stamp duty paid then the Bank shall forthwith reimburse the Commonwealth the amount of stamp duty not chargeable which has been paid by the Commonwealth, and pay to the Commonwealth any interest or like compensation received by the Bank in connection with that part of the refunded stamp duty paid by the Commonwealth.
 
-19.2.6   If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub-clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal  before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty  assessed and, subject to Sub-clause 19.2.8, the Commonwealth shall  reimburse the Bank within fourteen (14) days of a request for payment.
+19.2.6   If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub-clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal  before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty  assessed and, subject to Sub-clause 19.2.8, the Commonwealth shall  reimburse the Bank within fourteen (14) days of a request for payment.
 
-19.2.7   At the time of informing the Commonwealth of the outcome of any legal proceedings under Sub-clause 19.2.3 (e), the Bank shall, where it is  determined that stamp duty is payable, notify the Commonwealth of the  remaining amount payable under the indemnity given by the Commonwealth pursuant to Sub-clause 19.2.3\. Upon receipt of such notification, the Commonwealth shall pay the Bank the amount payable under the indemnity and, subject to Sub-clause 19.2.8, such stamp duty.
+19.2.7   At the time of informing the Commonwealth of the outcome of any legal proceedings under Sub-clause 19.2.3 (e), the Bank shall, where it is  determined that stamp duty is payable, notify the Commonwealth of the  remaining amount payable under the indemnity given by the Commonwealth pursuant to Sub-clause 19.2.3\. Upon receipt of such notification, the Commonwealth shall pay the Bank the amount payable under the indemnity and, subject to Sub-clause 19.2.8, such stamp duty.
 
 19.2.8   The Commonwealth shall only be obliged to pay or reimburse the Bank in respect of stamp duty to the extent that the sum of such stamp duty and any other stamp duty paid by the Bank on this Agreement and the transfer of Portfolio Assets to the Bank exceeds $500,000.
 
@@ -4406,7 +4366,7 @@ The parties hereto shall bear their own legal and accounting costs of and incide
 
 21.       APPLICABLE LAW 
 
-This agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian   Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian Capital Territory.
+This agreement shall be governed by and construed in accordance with the law for the time being in force in the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>.
 
 22\.       NOTICES 
 
@@ -4418,9 +4378,9 @@ Address:    Secretary
 
 Department of Veterans’ Affairs
 
-MLC Tower
+<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>MLC</st1:placename> <st1:placetype>Tower</st1:placetype></st1:place>
 
-Keltie Street
+<st1:street><st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Keltie Street</st1:address></st1:street>
 
 Woden ACT 2606
 
@@ -4434,9 +4394,9 @@ In the case of the Corporation:
 
 Address:    Defence Service Homes Corporation
 
-MLC Tower
+<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>MLC</st1:placename> <st1:placetype>Tower</st1:placetype></st1:place>
 
-Keltie Street
+<st1:street><st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Keltie Street</st1:address></st1:street>
 
 Woden A C T 2606
 
@@ -4450,7 +4410,7 @@ In the case of the Bank to:
 
 Westpac Banking Corporation
 
-Address:    66   Pitt Street Sydney
+Address:    <st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:street>66 Pitt Street</st1:street> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city></st1:address>
 
 Fax: (02) 226 4905
 
@@ -4466,7 +4426,7 @@ Any notice, approval, request, consent or other communication given or made purs
 
 (i)    in the case of delivery in person when delivered to the recipient at such number or address; or 
 
-(ii)    in the case of telex, on receipt by the sender of the answerback code of the recipient at the end of transmission, 
+(ii)   in the case of telex, on receipt by the sender of the answerback code of the recipient at the end of transmission, 
 
 but if such delivery or receipt is later than 5 p.m. (local time) on a day on which business is generally carried on in the place to which such communication is delivered or sent, it shall be deemed to have been duly given at the commencement of business on the next such day in that place.
 
@@ -4526,17 +4486,21 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image004.gif)
+<o:p> </o:p>
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image005.gif)
+<v:shape id="_x0000_i1028" style="WIDTH: 327pt; HEIGHT: 93pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image007.wmz"></v:imagedata></v:shape>
+
+<o:p> </o:p>
+
+<v:shape id="_x0000_i1029" style="WIDTH: 360.75pt; HEIGHT: 246.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image009.wmz"></v:imagedata></v:shape>
 
 * * *
 
-**SCHEDULE “A”**
+**SCHEDULE “A”<o:p></o:p>**
 
 DOCUMENTS TO BE PROVIDED BY THE COMMONWEALTH
 
-In relation to all applications for Corporation or Subsidised Advances referred to in Sub-clause 5.1, each or any of the following documents described below that are in the possession of the Corporation:
+In relation to all applications for Corporation or Subsidised Advances referred to in Sub-clause 5.1, each or any of the following documents described below that are in the possession of the Corporation:
 
 _Description_
 
@@ -4550,16 +4514,18 @@ _Description_
 
 –   Any other documents in the possession of the Corporation that are necessary for the Bank to process applications for Subsidised Advances
 
-–   Any other documents that come into the possession of the Corporation after the date of commencement of the Amending Act or 1 December 1988, whichever is the later, and which are necessary for the Bank to process the applications for Corporation or Subsidised Advances referred to in Sub-clause 5.1.
+–   Any other documents that come into the possession of the Corporation after the date of commencement of the Amending Act or <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="1" month="12">1 December 1988</st1:date>, whichever is the later, and which are necessary for the Bank to process the applications for Corporation or Subsidised Advances referred to in Sub-clause 5.1.
 
 * * *
 
-**SCHEDULE “B”**
+<o:p> </o:p>
+
+**SCHEDULE “B”<o:p></o:p>**
 
 DOCUMENTS TO BE PROVIDED BY THE COMMONWEALTH 
- AFTER EACH RELEVANT VESTING DATE
+AFTER EACH RELEVANT VESTING DATE
 
-A.   In relation to applications or requests referred to in Sub-Clause 5.2, each or any of the documents described below that are in the possession of the Corporation:
+A.   In relation to applications or requests referred to in Sub-Clause 5.2, each or any of the documents described below that are in the possession of the Corporation:
 
 –   Application Forms/Written Requests
 
@@ -4569,7 +4535,7 @@ A.   In relation to applications or requests referred to in Sub-Clause 5.2
 
 –   Loan Approval/other approval letters
 
-–   Any other documents in the possession of the Corporation that are necessary for the Bank to process the applications or requests referred to in Sub-clause 5.2.
+–   Any other documents in the possession of the Corporation that are necessary for the Bank to process the applications or requests referred to in Sub-clause 5.2.
 
 _Time of Supply_
 
@@ -4579,19 +4545,19 @@ B.    In relation to Portfolio Assets, the documents that are in the posse
 
 –   A computer tape containing the following information:
 
-·<span style="font:7.0pt " new="">           </span>Corporation’s 7 digit account number
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Corporation’s 7 digit account number
 
-·<span style="font:7.0pt " new="">           </span>Client name (including title)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Client name (including title)
 
-·<span style="font:7.0pt " new="">           </span>Client address
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Client address
 
-·<span style="font:7.0pt " new="">           </span>Client special address
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Client special address
 
-·<span style="font:7.0pt " new="">           </span>Overseas mail indicator
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Overseas mail indicator
 
-·<span style="font:7.0pt " new="">           </span>Second notice indicator
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Second notice indicator
 
-·<span style="font:7.0pt " new="">           </span>Telephone number
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Telephone number
 
 _Time of Supply_
 
@@ -4599,25 +4565,25 @@ _Time of Supply_
 
 –   All documents relating to Portfolio Assets held by the Corporation in its security packets, including as appropriate:
 
-·<span style="font:7.0pt " new="">           </span>Title Deeds
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Title Deeds
 
-·<span style="font:7.0pt " new="">           </span>Contracts of Sale
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Contracts of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city>
 
-·<span style="font:7.0pt " new="">           </span>Mortgage documents
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Mortgage documents
 
-·<span style="font:7.0pt " new="">           </span>Deeds of Covenant
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Deeds of Covenant
 
-·<span style="font:7.0pt " new="">           </span>Postponements of Mortgage (if not registered)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Postponements of Mortgage (if not registered)
 
-·<span style="font:7.0pt " new="">           </span>Deeds of Priority (if not registered)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Deeds of Priority (if not registered)
 
-·<span style="font:7.0pt " new="">           </span>Old System Searches
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Old System Searches
 
-·<span style="font:7.0pt " new="">           </span>Guarantees
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Guarantees
 
-·<span style="font:7.0pt " new="">           </span>Copy of any Mortgage Insurance Policy
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Copy of any Mortgage Insurance Policy
 
-·<span style="font:7.0pt " new="">           </span>Copy of any building Insurance Policy where the insurer is not the Corporation.
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Copy of any building Insurance Policy where the insurer is not the Corporation.
 
 _Time of Supply_
 
@@ -4631,21 +4597,21 @@ _Time of Supply_
 
 –   Computer tapes containing as at the relevant Vesting Date the following information
 
-·<span style="font:7.0pt " new="">           </span>Corporation’s 7 digit account number
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Corporation’s 7 digit account number
 
-·<span style="font:7.0pt " new="">           </span>Client name (including title)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Client name (including title)
 
-·<span style="font:7.0pt " new="">           </span>Account balance (x tiers)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Account balance (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Arrears/excess credits (x tiers)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Arrears/excess credits (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Instalment Payment (x tiers)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Instalment Payment (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Date of commencement of Advance (where available)
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Date of commencement of Advance (where available)
 
-·<span style="font:7.0pt " new="">           </span>Last payment date
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Last payment date
 
-·<span style="font:7.0pt " new="">           </span>Interest rate or rates
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">           </span></span>Interest rate or rates
 
 –   A hard copy of the information contained on the computer tapes referred to immediately above.
 
@@ -4655,7 +4621,7 @@ The computer tapes are to be supplied on the morning of the first business day i
 
 * * *
 
-**SCHEDULE “C”**
+**SCHEDULE “C”<o:p></o:p>**
 
 The Bank’s lending criteria are:
 
@@ -4675,7 +4641,7 @@ Known commitments of an applicant or Entitled Applicant will be taken into consi
 
 * * *
 
-**SCHEDULE “D”**
+**SCHEDULE “D”<o:p></o:p>**
 
 INFORMATION TO BE PROVIDED BY THE BANK ON A MONTHLY BASIS 
 
@@ -4689,7 +4655,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image006.gif)
+<v:shape id="_x0000_i1030" style="WIDTH: 189pt; HEIGHT: 93pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image011.wmz"></v:imagedata></v:shape>
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4701,7 +4667,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image007.gif)
+<v:shape id="_x0000_i1031" style="WIDTH: 180.75pt; HEIGHT: 90.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image013.wmz"></v:imagedata></v:shape>
 
 Open/Closed dates
 
@@ -4731,16 +4697,16 @@ Subsidy sub-total
 
 Loan variations since previous month
 
-·<span style="font:7.0pt " new="">     </span>Plus new loans
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">     </span></span>Plus new loans
 
-·<span style="font:7.0pt " new="">     </span>Less repaid loans
+<span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">     </span></span>Less repaid loans
 
 Subsidy adjustments from previous month (plus/minus)
 
 Next subsidy due
 
 D.   REPORT ON RETURN COPY OF CERTIFICATE OF 
- ENTITLEMENT
+ENTITLEMENT
 
 _Particulars—Subsidised Advances and Instalment Relief_
 
@@ -4830,11 +4796,11 @@ Title particulars of property acquired.
 
 * * *
 
-**SCHEDULE E**
+**SCHEDULE E <o:p></o:p>**
 
 WITHDRAWAL OF AMOUNTS UNDER EXCESS CREDIT ARRANGEMENTS
 
-Amounts may be withdrawn by a borrower under an excess credit arrangement referred to in Clause 9 of this Agreement, and used, for any of the following purposes:
+Amounts may be withdrawn by a borrower under an excess credit arrangement referred to in Clause 9 of this Agreement, and used, for any of the following purposes:
 
 (a)   for paying instalments, or arrears of instalments, due to the Bank by the Borrower;
 
@@ -4844,17 +4810,17 @@ Amounts may be withdrawn by a borrower under an excess credit arrangement referr
 
   (i)  rates, taxes or charges in respect of the secured property;
 
- (ii)  insurance under a contract of insurance entered into between the Borrower and another insurer;
+(ii)  insurance under a contract of insurance entered into between the Borrower and another insurer;
 
- (iii)  building any building or other structure on the secured property;
+(iii) building any building or other structure on the secured property;
 
- (iv)  carrying out improvements on or to the secured property, dwelling-house or any other building or structure on the secured property;
+(iv)  carrying out improvements on or to the secured property, dwelling-house or any other building or structure on the secured property;
 
- (v)  repairing, maintaining or extending the dwelling-house or any other building or structure on the secured property;
+(v)  repairing, maintaining or extending the dwelling-house or any other building or structure on the secured property;
 
- (vi)  installing fixtures on or in the, the dwelling-house or any other building or structure on the secured property; or
+(vi)  installing fixtures on or in the, the dwelling-house or any other building or structure on the secured property; or
 
- (vii) in the case of a dwelling-house shown as a unit or lot on a plan registered or deposited under a law of a State or Territory relating to strata titles, stratum titles, unit titles or building units titles—the provisions of that law relating to payments by the borrower to the body corporate incorporated under that law in consequence of the registration or deposit of that plan;
+(vii) in the case of a dwelling-house shown as a unit or lot on a plan registered or deposited under a law of a State or Territory relating to strata titles, stratum titles, unit titles or building units titles—the provisions of that law relating to payments by the borrower to the body corporate incorporated under that law in consequence of the registration or deposit of that plan;
 
 (d)   for discharging, wholly or partly, the outstanding liability of the Borrower under the relevant Corporation Advance, Subsidised Advance or Portfolio Contract of Sale;
 
@@ -4862,15 +4828,16 @@ Amounts may be withdrawn by a borrower under an excess credit arrangement referr
 
 (f)    for transferring money from one form of Excess Credit arrangement to another.
 
-# Schedule 1A—Agreement between the Commonwealth of Australia and Westpac Banking Corporation 
 
-**TABLE OF CONTENTS**
+# Schedule 1A—Agreement between the Commonwealth of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharChapText">Australia</span></st1:place></st1:country-region><span class="CharChapText"> and Westpac Banking Corporation</span> 
+
+**TABLE OF CONTENTS<o:p></o:p>**
 
 Date of Agreement
 
 Recitals
 
-**<u>Clause</u>**
+**<u>Clause</u><o:p></o:p>**
 
   1.     Definitions and Interpretations
 
@@ -4890,11 +4857,11 @@ Recitals
 
   9.     Applicable Law
 
- 10.     Waiver
+10.     Waiver
 
- 11.     Amendments or Variation
+11.     Amendments or Variation
 
- 12.     Assignment
+12.     Assignment
 
 Schedule of Amendments to Principal Agreement
 
@@ -4902,23 +4869,23 @@ Schedule of Amendments to Principal Agreement
 
 **BETWEEN**
 
-the **COMMONWEALTH OF****AUSTRALIA**
+the **COMMONWEALTH OF**<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**AUSTRALIA**</st1:place></st1:country-region>
 
 (hereinafter referred to as “the Commonwealth”) of the one part 
 
 and
 
-**WESTPAC BANKING CORPORATION**
+**WESTPAC BANKING CORPORATION<o:p></o:p>**
 
-of 60 Martin Place, Sydney
+of <st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:street>60 Martin Place</st1:street>, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city></st1:address>
 
-in the State of New South Wales
+in the State of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>
 
 (hereinafter referred to as “the Bank”) of the other part.
 
-**WHEREAS:**
+**WHEREAS:<o:p></o:p>**
 
-A.        Under the Agreement between the Commonwealth and the Bank dated 9 November 1988 pursuant to the Amending Act the Bank acquired from the Commonwealth the interests of the Defence Service Homes Corporation (“the Corporation”) in the Portfolio Assets and the exclusive right to provide Subsidised Advances and other benefits upon which subsidy is payable to all persons satisfying the tests of eligibility and entitlement under the Amended Act.
+A.        Under the Agreement between the Commonwealth and the Bank dated 9 November 1988 pursuant to the Amending Act the Bank acquired from the Commonwealth the interests of the Defence Service Homes Corporation (“the Corporation”) in the Portfolio Assets and the exclusive right to provide Subsidised Advances and other benefits upon which subsidy is payable to all persons satisfying the tests of eligibility and entitlement under the Amended Act.
 
 B.        The Commonwealth proposes to introduce legislation to vary the categories of Subsidised Advances provided pursuant to the Amended Act by varying the Subsidy Scheme so as to introduce the Variation Advances.
 
@@ -4934,13 +4901,13 @@ G.        In order to give effect to this Supplementary Agreement 
 
 H.        The Commonwealth and the Bank acknowledge that this Supplementary Agreement is dependent upon the passage of legislation governing same, by the Parliament of the Commonwealth of Australia.
 
-**NOW THEREFORE IT IS AGREED AS FOLLOWS:**
+**NOW THEREFORE IT IS AGREED AS FOLLOWS:<o:p></o:p>**
 
-**1\. DEFINITIONS AND INTERPRETATIONS**
+**1\. DEFINITIONS AND INTERPRETATIONS<o:p></o:p>**
 
 In this Agreement except where the context otherwise requires:
 
-**1.1 Definitions**
+**1.1 Definitions<o:p></o:p>**
 
 <table>
 <colgroup>
@@ -4948,85 +4915,87 @@ In this Agreement except where the context otherwise requires:
   <col width="55%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Amended Agreement</b>—</div>
-  </td>
-  <td>
-    <div>means the Agreement as amended by the Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Further Amending Act</b>—</div>
-  </td>
-  <td>
-    <div>means Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>Accommodation</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Right of residence in a retirement village</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Supplementary Agreement</b>—</div>
-  </td>
-  <td>
-    <div>means this Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Unit Fee</b>—</div>
-  </td>
-  <td>
-    <div>means the fee payable by the Bank to the Commonwealth for each Variation Advance granted pursuant to this Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Unit Fee Claim Period</b>—</div>
-  </td>
-  <td>
-    <div>means the twelve month period immediately preceding the date of the invoice referred to in Sub-clause 3.3\. of this Supplementary Agreement and, for the period preceding 1 May 1991, the period between the date of execution of this Supplementary Agreement and 1 May 1991.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Variation Advance</b>—</div>
-  </td>
-  <td>
-    <div>means—</div>
-    <div>(a) (i) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18 (2) (g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;</div>
-    <div>(ii) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement relating to a person’s retirement village accommodation or right of residence in a retirement village issued under Subsection 18 (3) (a) (ii), (d) (ii) and (f), Subsection 20 (2) (a) and (b) and Subsection 21 (c) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990; and</div>
-    <div>(b) a Further Advance made by the Bank in accordance with a Certificate of Entitlement issued under Section 19 of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 to a person who is or was a purchaser or borrower in relation to a Corporation advance, a Subsidised Advance or a Contract of Sale on 9 December 1987.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Amended Agreement</b>—</div>
+    </td>
+    <td>
+      <div>means the Agreement as amended by the Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Further Amending Act</b>—</div>
+    </td>
+    <td>
+      <div>means Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename> <b style="mso-bidi-font-weight: normal">Retirement</b> </st1:placename> <st1:placetype> <b style="mso-bidi-font-weight: normal">Village</b> </st1:placetype> </st1:place>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename> <b style="mso-bidi-font-weight: normal">Retirement</b> </st1:placename> <st1:placetype> <b style="mso-bidi-font-weight: normal">Village</b> </st1:placetype> </st1:place> <b style="mso-bidi-font-weight: normal">Accommodation</b>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Right of residence in a retirement village</b>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Supplementary Agreement</b>—</div>
+    </td>
+    <td>
+      <div>means this Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Unit Fee</b>—</div>
+    </td>
+    <td>
+      <div>means the fee payable by the Bank to the Commonwealth for each Variation Advance granted pursuant to this Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Unit Fee Claim Period</b>—</div>
+    </td>
+    <td>
+      <div>means the twelve month period immediately preceding the date of the invoice referred to in Sub-clause 3.3\. of this Supplementary Agreement and, for the period preceding <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="5">1 May 1991</st1:date>, the period between the date of execution of this Supplementary Agreement and <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="5">1 May 1991</st1:date>.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Variation Advance</b>—</div>
+    </td>
+    <td>
+      <div>means—</div>
+      <div>(a) (i) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18 (2) (g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;</div>
+      <div> (ii)  a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement relating to a person’s retirement village accommodation or right of residence in a retirement village issued under Subsection 18 (3) (a) (ii), (d) (ii) and (f), Subsection 20 (2) (a) and (b) and Subsection 21 (c) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990; and</div>
+      <div>(b) a Further Advance made by the Bank in accordance with a Certificate of Entitlement issued under Section 19 of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 to a person who is or was a purchaser or borrower in relation to a Corporation advance, a Subsidised Advance or a Contract of Sale on 9 December 1987.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 1.2.1       Where this Supplementary Agreement includes a reference to a term which is defined in the Agreement the definition in the Agreement as amended by this Supplementary Agreement is to be applied except where the contrary intention is expressed.
 
-**1.3         Interpretation**
+**1.3         Interpretation<o:p></o:p>**
 
 1.3.1       Words importing one gender shall include the other gender.
 
@@ -5050,55 +5019,55 @@ In this Agreement except where the context otherwise requires:
 
 1.3.11     All sums of money and all payments made under this Supplementary Agreement shall be in Australian dollars.
 
-**2.           AGREEMENT**
+**2.           AGREEMENT<o:p></o:p>**
 
 2.1          The Bank agrees to provide Variation Advances in the same manner as prescribed with respect to Subsidised Advances under the provisions of the Amended Agreement.
 
-2.2          The Commonwealth agrees to grant the Bank the exclusive right to receipt of Subsidy in respect of each Variation Advance pursuant to Clause 5 hereof.
+2.2          The Commonwealth agrees to grant the Bank the exclusive right to receipt of Subsidy in respect of each Variation Advance pursuant to Clause 5 hereof.
 
-2.3          The Commonwealth further agrees to pay to the Bank a Subsidy with respect to each Variation Advance in accordance with the provisions of Clause 11 of the Amended Agreement.
+2.3          The Commonwealth further agrees to pay to the Bank a Subsidy with respect to each Variation Advance in accordance with the provisions of Clause 11 of the Amended Agreement.
 
 2.4          The Bank further agrees that with respect to each Variation Advance it shall be bound by and act at all times in accordance with this Supplementary Agreement and the Amended Agreement.
 
 2.5          The Commonwealth and the Bank agree that in order to give effect to this Supplementary Agreement the provisions of the Agreement are to be amended in accordance with the provisions of the Schedule to this Supplementary Agreement.
 
-**3.           UNIT FEE**
+**3.           UNIT FEE<o:p></o:p>**
 
 3.1          The Bank agrees to pay to the Commonwealth
 
-(a)   a minimum Unit Fee of four hundred dollars ($400.00) for each advance falling within paragraphs (a) (i) and (b) of the definition of Variation Advance which it grants pursuant to this Supplementary Agreement; and
+(a)   a minimum Unit Fee of four hundred dollars ($400.00) for each advance falling within paragraphs (a) (i) and (b) of the definition of Variation Advance which it grants pursuant to this Supplementary Agreement; and
 
 (b)   in each Unit Fee Claim Period, a further amount equivalent to the product of: 
 
   (i)  the minimum Unit Fee; and 
 
- (ii)  the number of Borrowers the sum total of whose first advance being an advance falling within paragraphs (a) (i) or (b) of the definition of Variation Advance and any other unsubsidised loan funds from the Bank provided to the Borrowers at the same time and for the same purpose as such Variation Advance exceeds sixty thousand dollars ($60,000.00); and
+(ii)  the number of Borrowers the sum total of whose first advance being an advance falling within paragraphs (a) (i) or (b) of the definition of Variation Advance and any other unsubsidised loan funds from the Bank provided to the Borrowers at the same time and for the same purpose as such Variation Advance exceeds sixty thousand dollars ($60,000.00); and
 
- (iii)  the fraction the numerator of which is the average amount by which each of the borrowings referred to in Sub-clause 3.1 (b) (ii) exceeds sixty thousand dollars ($60,000.00) and the denominator of which is sixty thousand dollars ($60,000.00).
+(iii)  the fraction the numerator of which is the average amount by which each of the borrowings referred to in Sub-clause 3.1 (b) (ii) exceeds sixty thousand dollars ($60,000.00) and the denominator of which is sixty thousand dollars ($60,000.00).
 
-(c)   In the event that the Commonwealth or any State or Territory legislature enacts legislation which restricts the Bank’s ability to set its Establishment Fees as the Bank determines and as a result the Bank receives less by way of Establishment Fees than would otherwise have been the case the Bank shall have the right to reduce the amount payable to the Commonwealth pursuant to Sub-clause 3.1 (b) by the difference between what it would have received in Establishment Fees and what it has in fact received and in the event of a dispute or disagreement arising between the Commonwealth and the Bank as to the amount of the reduction, the provisions of Sub-clause 3.6 shall apply.
+(c)   In the event that the Commonwealth or any State or Territory legislature enacts legislation which restricts the Bank’s ability to set its Establishment Fees as the Bank determines and as a result the Bank receives less by way of Establishment Fees than would otherwise have been the case the Bank shall have the right to reduce the amount payable to the Commonwealth pursuant to Sub-clause 3.1 (b) by the difference between what it would have received in Establishment Fees and what it has in fact received and in the event of a dispute or disagreement arising between the Commonwealth and the Bank as to the amount of the reduction, the provisions of Sub-clause 3.6 shall apply.
 
 3.2          For the purposes of this Clause the Bank shall be taken to have granted a Variation Advance to an Entitled Applicant upon the execution by the Entitled Applicant of all necessary mortgage or security documentation, or if mortgage or security documentation does not exist or is not required by the Bank, the date on which the Borrower first draws upon the Variation Advance.
 
-3.3          On or after 1 May of each year commencing on 1 May 1991 the Commonwealth shall provide to the Bank a written invoice detailing its claim for payment of the Unit Fee referred to in Sub-clause 3.1 in respect of the Unit Fee Claim Period.
+3.3          On or after 1 May of each year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="5">1 May 1991</st1:date> the Commonwealth shall provide to the Bank a written invoice detailing its claim for payment of the Unit Fee referred to in Sub-clause 3.1 in respect of the Unit Fee Claim Period.
 
-3.4          The Bank shall pay the Commonwealth the total amount by way of Unit Fee which the Bank has verified by 11:00 am. On the day which is thirty (30) days after receipt of the Commonwealth’s invoice pursuant to Sub-clause 3.3.
+3.4          The Bank shall pay the Commonwealth the total amount by way of Unit Fee which the Bank has verified by <st1:time minute="0" hour="11">11:00 am</st1:time>. On the day which is thirty (30) days after receipt of the Commonwealth’s invoice pursuant to Sub-clause 3.3.
 
-3.5          Payment shall be made by depositing a cheque for the relevant amount with the Receiver of Public Monies, Department of Veterans’ Affairs, Sydney, New South Wales or in such other manner as the Commonwealth may from time to time advise.
+3.5          Payment shall be made by depositing a cheque for the relevant amount with the Receiver of Public Monies, Department of Veterans’ Affairs, <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city>, <st1:state>New South Wales</st1:state></st1:place> or in such other manner as the Commonwealth may from time to time advise.
 
 3.6          In the event of a dispute or disagreement arising between the Commonwealth and the Bank as to the amount payable to the Commonwealth by the Bank in accordance with this Supplementary Agreement the following provisions shall apply:
 
-3.6.1       In the event that any such dispute or disagreement cannot be resolved between the Commonwealth and the Bank within a period of seven (7) days after first occurring, the dispute or disagreement is to be referred to arbitration in accordance with the procedure outlined in Clause 26 of the Agreement, except that the Commonwealth and the Bank agree that for the purpose of such dispute/disagreement the arbitrator shall be appointed by the President for the time being of the Australian Institute of Chartered Accountants.
+3.6.1       In the event that any such dispute or disagreement cannot be resolved between the Commonwealth and the Bank within a period of seven (7) days after first occurring, the dispute or disagreement is to be referred to arbitration in accordance with the procedure outlined in Clause 26 of the Agreement, except that the Commonwealth and the Bank agree that for the purpose of such dispute/disagreement the arbitrator shall be appointed by the President for the time being of the Australian Institute of Chartered Accountants.
 
 3.6.2       Upon resolution of such dispute or disagreement in the event that there has been an overpayment by the Bank to the Commonwealth of the amount of the Unit Fee the Commonwealth shall pay to the Bank within seven (7) days of such resolution by way of adjustment the amount of such overpayment.
 
-3.6.3       The Commonwealth and the Bank agree that the amount of adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10 of the Agreement.
+3.6.3       The Commonwealth and the Bank agree that the amount of adjustment shall bear interest at the Benchmark rate fixed in accordance with Sub-clause 11.10 of the Agreement.
 
-**4.           FURTHER AMENDING ACT**
+**4.           FURTHER AMENDING ACT<o:p></o:p>**
 
-4.1          This Supplementary Agreement is binding on the parties but, except for this Clause, is subject to and conditional upon Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 being passed by Parliament in the form of the draft Bill initialled on behalf of the parties at the time of execution of this Supplementary Agreement with such amendments only as are agreed in writing by the parties.
+4.1          This Supplementary Agreement is binding on the parties but, except for this Clause, is subject to and conditional upon Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 being passed by Parliament in the form of the draft Bill initialled on behalf of the parties at the time of execution of this Supplementary Agreement with such amendments only as are agreed in writing by the parties.
 
-4.2          In the event that Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 passed by Parliament should contain any amendments from the draft Bill referred to in Sub-clause 4.1 the Commonwealth shall within two (2) days of the passage of the Veterans’ Affairs Legislation Amendment Act 1990 give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
+4.2          In the event that Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 passed by Parliament should contain any amendments from the draft Bill referred to in Sub-clause 4.1 the Commonwealth shall within two (2) days of the passage of the Veterans’ Affairs Legislation Amendment Act 1990 give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
 
 4.3          If in the opinion of the Bank, such amendments:
 
@@ -5112,55 +5081,55 @@ In this Agreement except where the context otherwise requires:
 
 (e)   result in any financial consequences which are adverse to the Bank, 
 
-and are unacceptable to the Bank, the Bank shall notify the Commonwealth of such opinion within seven (7) days of receipt of the notice under Sub-clause 4.2, or such further period as may be agreed upon by the parties, and upon receipt of such notice this Supplementary Agreement shall terminate.
+and are unacceptable to the Bank, the Bank shall notify the Commonwealth of such opinion within seven (7) days of receipt of the notice under Sub-clause 4.2, or such further period as may be agreed upon by the parties, and upon receipt of such notice this Supplementary Agreement shall terminate.
 
-4.4          In the event that the Bank does not give notice under Sub-clause 4.3, it shall be taken to have agreed to such amendments for the purposes of Sub-clause 4.1.
+4.4          In the event that the Bank does not give notice under Sub-clause 4.3, it shall be taken to have agreed to such amendments for the purposes of Sub-clause 4.1.
 
-4.5          The Commonwealth agrees that Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 referred to in Sub-clause 4.1 which is submitted to Parliament shall have only such amendments as may be agreed in writing between the parties.
+4.5          The Commonwealth agrees that Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 referred to in Sub-clause 4.1 which is submitted to Parliament shall have only such amendments as may be agreed in writing between the parties.
 
-4.6          In the event that Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 is not passed in the form of the draft Bill referred to in Sub-clause 4.1 and, as a result, the condition contained in Sub-clause 4.1 is not met and this Supplementary Agreement is terminated or has no force or effect, neither the Bank nor the Commonwealth will have any right to claim compensation, losses, expenses, costs or damages arising or resulting from this Supplementary Agreement against the other.
+4.6          In the event that Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 is not passed in the form of the draft Bill referred to in Sub-clause 4.1 and, as a result, the condition contained in Sub-clause 4.1 is not met and this Supplementary Agreement is terminated or has no force or effect, neither the Bank nor the Commonwealth will have any right to claim compensation, losses, expenses, costs or damages arising or resulting from this Supplementary Agreement against the other.
 
-**5.           GRANT OF EXCLUSIVE RIGHT**
+**5.           GRANT OF EXCLUSIVE RIGHT<o:p></o:p>**
 
 5.1          The Commonwealth hereby grants to the Bank on the terms set out in this Supplementary Agreement the exclusive right to provide the first twenty five thousand dollars ($25,000.00), or such other amount as may be agreed upon by the parties, of the Variation Advances upon which Subsidy is payable to all persons who satisfy the tests of eligibility and entitlement under the Defence Service Homes Act 1918 as amended by the Veterans’ Affairs Legislation Amendment Bill 1990.
 
-5.2          The Commonwealth agrees to notify all persons who seek Subsidised Advances in accordance with the Variation Advances under Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 that the Bank has the exclusive right to grant these Variation Advances.
+5.2          The Commonwealth agrees to notify all persons who seek Subsidised Advances in accordance with the Variation Advances under Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990 that the Bank has the exclusive right to grant these Variation Advances.
 
-**6.           ADOPTION AND APPLICATION OF AGREEMENT**
+**6.           ADOPTION AND APPLICATION OF AGREEMENT<o:p></o:p>**
 
 The Commonwealth and the Bank agree that they will adopt, apply, read and construe this Supplementary Agreement in accordance with the provisions of the Agreement as amended by the Schedule to this Supplementary Agreement.
 
-**7.           NON-MERGING ON SETTLEMENT AND SEVERABILITY**
+**7.           NON-MERGING ON SETTLEMENT AND SEVERABILITY<o:p></o:p>**
 
-Any provision in this Supplementary Agreement which is to take effect after the last date of commencement of Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990, shall not merge on settlement but rather shall continue in full force and effect.
+Any provision in this Supplementary Agreement which is to take effect after the last date of commencement of Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990, shall not merge on settlement but rather shall continue in full force and effect.
 
-**8.           STAMP DUTY**
+**8.           STAMP DUTY<o:p></o:p>**
 
 Any stamp duty arising out of this Supplementary Agreement or its implementation shall be borne by the Bank.
 
-**9.           APPLICABLE LAW**
+**9.           APPLICABLE LAW<o:p></o:p>**
 
-This Supplementary Agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian   Capital Territory.
+This Supplementary Agreement shall be governed by and construed in accordance with the law for the time being in force in the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>.
 
-**10.         WAIVER**
+**10.         WAIVER<o:p></o:p>**
 
 Failure by either party at any time to enforce any of the provisions of this Supplementary Agreement or any amendments pursuant thereto by the other party shall not be contrued as a waiver by such party of such provision or in any way affect the validity of this Supplementary Agreement or any part thereof, or the rights of the other party thereafter to enforce each and every such provision. The waiver by either party of any provision of this Supplementary Agreement shall not constitute a waiver of any future obligation to comply with such provision.
 
-**11.         AMENDMENTS OR VARIATION**
+**11.         AMENDMENTS OR VARIATION<o:p></o:p>**
 
 No variation, modification or waiver of any provision of this Supplementary Agreement nor consent to any departure by any party therefrom shall in any event be of any force or effect unless the same shall be confirmed in writing, signed by all the parties hereto, and then such variation, modification, waiver or consent shall be effective only to the extent for which it may be made or given.
 
-**12.         ASSIGNMENT**
+**12.         ASSIGNMENT<o:p></o:p>**
 
 This Supplementary Agreement may not be assigned in whole or in part by either party without the prior written consent of the other party.
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image009.gif)
+<v:shape id="_x0000_i1032" style="WIDTH: 252pt; HEIGHT: 93pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image015.wmz"></v:imagedata></v:shape><v:shape id="_x0000_i1033" style="WIDTH: 297.75pt; HEIGHT: 177pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="B58D52D0BDCE4996CA256FB90035E2EA/$FILE/image017.wmz"></v:imagedata></v:shape>
 
-**SCHEDULE OF AMENDMENTS TO AGREEMENT**
+**SCHEDULE OF AMENDMENTS TO AGREEMENT<o:p></o:p>**
 
-**<u>Clause 1</u>**
+**<u>Clause 1<o:p></o:p></u>**
 
 Amend the following definitions:
 
@@ -5170,30 +5139,32 @@ Amend the following definitions:
   <col width="59%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Establishment Fees:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or applications for retirement village accommodation” after the words “secured by first mortgage”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Housing Loan Customer:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “or refinance of a dwelling”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Portfolio Arrears:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “on the last day of the month immediately preceding the month in which a Subsidy payment is being calculated” after the words “and all Subsidised Advances”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Establishment Fees: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or applications for retirement village accommodation” after the words “secured by first mortgage”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Housing Loan Customer:   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “or refinance of a dwelling”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Portfolio Arrears: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “on the last day of the month immediately preceding the month in which a Subsidy payment is being calculated” after the words “and all Subsidised Advances”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Insert the following new definitions:
 
@@ -5203,82 +5174,68 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Amended Agreement:</b></div>
-  </td>
-  <td>
-    <div>means the Agreement between the Commonwealth and the Bank signed on 
-9 November 1988 as amended by the Supplementary Agreement between the parties signed on fifth day of November 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Further Amending Act:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>Accommodation:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Right of residence in a retirement village:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Supplementary Agreement:</b></div>
-  </td>
-  <td>
-    <div>means the Agreement signed by the Commonwealth and the Bank on the fifth day of November 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Variation Advance:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Supplementary Agreement.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Amended Agreement: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>means the Agreement between the Commonwealth and the Bank signed on 
+ <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="9" month="11">9 November 1988</st1:date>as amended by the Supplementary Agreement between the parties signed on fifth day of November 1990\. 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Further Amending Act: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename> <b style="mso-bidi-font-weight: normal">Retirement</b> </st1:placename> <st1:placetype> <b style="mso-bidi-font-weight: normal">Village</b> </st1:placetype> </st1:place> <b style="mso-bidi-font-weight: normal">: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename> <b style="mso-bidi-font-weight: normal">Retirement</b> </st1:placename> <st1:placetype> <b style="mso-bidi-font-weight: normal">Village</b> </st1:placetype> </st1:place> <b style="mso-bidi-font-weight: normal">Accommodation: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Right of residence in a retirement village: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Supplementary Agreement: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>means the Agreement signed by the Commonwealth and the Bank on the fifth day of November 1990.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Variation Advance: <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Supplementary Agreement.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-**<u>Clause 5</u>**
-
-<table>
-<colgroup>
-  <col width="43%">
-  <col width="57%">
-</colgroup>
-
-<tr>
-  <td>
-    <div><b>5.1.2</b></div>
-  </td>
-  <td>
-    <div>Insert “unless the Commonwealth and the Bank otherwise agree” after the words “any such application”.</div>
-  </td>
-</tr></table>
-
-**<u>Clause 7</u>**
+**<u>Clause 5<o:p></o:p></u>**
 
 <table>
 <colgroup>
@@ -5286,43 +5243,18 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>7.3</b></div>
-  </td>
-  <td>
-    <div>Insert “or such other security” after the words “first mortgage”. Insert “(if any)” after the words “and documentation”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">5.1.2</b></div>
+    </td>
+    <td>
+      <div>Insert “unless the Commonwealth and the Bank otherwise agree” after the words “any such application”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-**<u>Clause 8</u>**
-
-<table>
-<colgroup>
-  <col width="43%">
-  <col width="57%">
-</colgroup>
-
-<tr>
-  <td>
-    <div><b>8.3</b></div>
-  </td>
-  <td>
-    <div>Insert after Sub-clause 8.3 (b) the word “or”.</div>
-    <div>Insert a new Sub-clause 8.3 (c) after Sub-clause 8.3 (b):</div>
-    <div>“(c) where the Borrower has been granted an advance falling within paragraph (a) of the definition of Variation Advance the Bank shall not be required to take any security.”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>8.8</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or any other security, if any, which the Bank deems appropriate.” At the end of the Sub-clause.</div>
-  </td>
-</tr></table>
-
-**<u>Clause 9</u>**
+**<u>Clause 7<o:p></o:p></u>**
 
 <table>
 <colgroup>
@@ -5330,16 +5262,18 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>9.4.3</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or other mortgage or security documentation, if any,” after the words “by the first mortgage”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">7.3</b></div>
+    </td>
+    <td>
+      <div>Insert “or such other security” after the words “first mortgage”. Insert “(if any)” after the words “and documentation”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-**<u>Clause 10</u>**
+**<u>Clause 8</u>**
 
 <table>
 <colgroup>
@@ -5347,54 +5281,104 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>10.1 (b)</b></div>
-  </td>
-  <td>
-    <div>Insert the words: “or retirement village accommodation” after the words “or land and dwelling house”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (e)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the word “land and dwelling house.”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (f)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “any other dwelling house;”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (g)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “occupation of dwelling house.” And delete the word “and” at the end of this paragraph.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1(h)</b></div>
-  </td>
-  <td>
-    <div>Insert the word “; and” at the end of this paragraph.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">8.3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert after Sub-clause 8.3 (b) the word “or”.</div>
+      <div>Insert a new Sub-clause 8.3 (c) after Sub-clause 8.3 (b):</div>
+      <div>“(c) where the Borrower has been granted an advance falling within paragraph (a) of the definition of Variation Advance the Bank shall not be required to take any security.”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">8.8 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or any other security, if any, which the Bank deems appropriate.” At the end of the Sub-clause.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-Insert a new Sub-clause **10.1 (i)** after Sub-clause 10.1 (h) in the following terms: 
+**<u>Clause 9</u>**
+
+<table>
+<colgroup>
+  <col width="43%">
+  <col width="57%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">9.4.3</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or other mortgage or security documentation, if any,” after the words “by the first mortgage”.</div>
+    </td>
+  </tr>
+</tbody></table>
+
+**<u>Clause 10<o:p></o:p></u>**
+
+<table>
+<colgroup>
+  <col width="43%">
+  <col width="57%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">10.1 (b) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words: “or retirement village accommodation” after the words “or land and dwelling house”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">10.1 (e) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the word “land and dwelling house.”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">10.1 (f) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “any other dwelling house;”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">10.1 (g) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “occupation of dwelling house.” And delete the word “and” at the end of this paragraph.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">10.1(h) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Insert the word “; and” at the end of this paragraph.</div>
+    </td>
+  </tr>
+</tbody></table>
+
+Insert a new Sub-clause **10.1 (i)** after Sub-clause 10.1 (h) in the following terms: 
 
 “written notice that the Entitled Applicant’s right of residence in a retirement village has been terminated.”
 
-**<u>Clause 11</u>**
+**<u>Clause 11</u>**
 
-Delete Sub-clause 11.5 and insert the following:
+Delete Sub-clause 11.5 and insert the following:
 
 <table>
 <colgroup>
@@ -5402,24 +5386,26 @@ Delete Sub-clause 11.5 and insert the following:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>11.5.1</b></div>
-  </td>
-  <td>
-    <div>Except where the provisions of Sub-clause 11.5.2 apply upon receipt by the Commonwealth of the invoice and information referred to in Sub-clause 10.5 the Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by 11:00 am. On the eighteenth day of the month to which such invoice and information refers.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>11.5.2</b></div>
-  </td>
-  <td>
-    <div>If the Bank has not complied with the requirements of Clause 11.4 in respect of its claim for Subsidy on certain Specified Portfolio Assets and Subsidised Advances, but subsequently provides the invoice and information referred to in Sub-clause 10.5, the Commonwealth shall pay to the Bank the amount of Subsidy which it has verified by 11 am on the day which is seven (7) business days after the date on which the Bank provides the said invoice and information. The Commonwealth will promptly pay to the Bank claims verified after that date.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">11.5.1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Except where the provisions of Sub-clause 11.5.2 apply upon receipt by the Commonwealth of the invoice and information referred to in Sub-clause 10.5 the Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by <st1:time minute="0" hour="11">11:00 am</st1:time>. On the eighteenth day of the month to which such invoice and information refers.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">11.5.2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>If the Bank has not complied with the requirements of Clause 11.4 in respect of its claim for Subsidy on certain Specified Portfolio Assets and Subsidised Advances, but subsequently provides the invoice and information referred to in Sub-clause 10.5, the Commonwealth shall pay to the Bank the amount of Subsidy which it has verified by 11 am on the day which is seven (7) business days after the date on which the Bank provides the said invoice and information. The Commonwealth will promptly pay to the Bank claims verified after that date.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-**<u>Clause 22</u>**
+**<u>Clause 22<o:p></o:p></u>**
 
 Delete the Commonwealth’s Fax number recorded as: (062) 813 822
 
@@ -5441,25 +5427,26 @@ in the State/Territory in which the Westpac account is held.”
 
 Insert: “Notices issued to the Bank should be addressed to:
 
-Delete the words: “66 Pitt Street, Sydney”.
+Delete the words: “<st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:street>66 Pitt Street</st1:street>, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city></st1:address>”.
 
 Insert the words:
 
 “Australian Marketing Group
 
-P.O. Box H258
+<st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:street>P.O. Box</st1:street> H258</st1:address>
 
-Australia Square
+<st1:street><st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia Square</st1:address></st1:street>
 
-Sydney, N.S.W. 2001”
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:place></st1:city>, N.S.W. 2001”
 
-**<u>Schedule D</u>**
+**<u>Schedule D<o:p></o:p></u>**
 
-**E. REPORT—INDIVIDUAL ADVICE**
+**E. REPORT—INDIVIDUAL ADVICE<o:p></o:p>**
 
 Insert the words “or retirement village accommodation” after “dwelling house” wherever the latter appears.”.
 
-# Schedule 2—Provisions of Defence Service Homes Act and regulations applying as terms and conditions of vested portfolio assets
+
+# Schedule 2—Provisions of Defence Service Homes Act and regulations applying as terms and conditions of vested portfolio assets
 
 _Subsection 6B (9)_
 
@@ -5474,745 +5461,748 @@ _Subsection 6B (9)_
 <thead>
   <tr>
     <td>
-      <div><b>Provision</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Provision <o:p></o:p> </b></div>
     </td>
     <td>
-      <div><b>Modification</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Modification <o:p></o:p> </b></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Subsection 4 A(2)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Any such husband and wife”, substitute “A husband and wife who are joint tenants”.</div>
-    <div>(b) Omit “an eligible person”, substitute “a”.</div>
-    <div>(c) Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “The cost so allotted”, substitute “The cost allotted to a dwelling-house by the Corporation under subsection 18A (1) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>for the making of roads or other facilities affording access to the dwelling-house or for connecting sewerage, drainage, water, gas and electric power and lighting systems to the dwelling-house”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3B)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (4)</b></div>
-  </td>
-  <td>
-    <div>(a) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(b) Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 19</b></div>
-  </td>
-  <td>
-    <div>(a) Omit subsections (1), (1A), (2), (3) and (4).</div>
-    <div>(b) Omit from subsection (6) “to the Corporation”.</div>
-    <div>(c) Insert in subsection (6) “as those provisions apply as terms or conditions of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>” after “regulations”.</div>
-    <div>(d) Omit from subsection (6) “prescribed notice”, substitute “notice prescribed in regulation 10 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(e) Omit from subsection (6) “prescribed form”, substitute “form prescribed in regulation 9 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(f) Insert in subsection (6) “, together with such other documentation setting out terms of repayment as is required by the Bank,” after “contract of sale” (third occurring).</div>
-    <div>(g) Omit subsection (7), substitute the following subsection:</div>
-    <div>“(7) The mortgage and documentation executed by the person under subsection (6) must provide for:</div>
-      <div>(a) interest to be payable on the amount secured under the mortgage, being the balance of the amount payable under the contract of sale immediately before the date of the mortgage, at the same rate that was payable on that balance;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(b) where different rates of interest were payable on different parts of the balance referred to in paragraph (a), the amount secured by the mortgage is to be taken to be divided into equivalent parts with the rate of interest payable on each of those parts to be the same as that payable on the equivalent part of the balance;</div>
-    <div>(c) the repayment period for the amount secured by the mortgage to be the period over which the balance referred to in paragraph (a) would have been payable under the contract of sale;</div>
-    <div>(d) the amount of each monthly instalment required to repay the amount secured by the mortgage to be the same instalment required to repay the balance referred to in paragraph (a) under the contract of sale; and</div>
-    <div>(e) such other terms and conditions as are applicable to a subsidised advance within the meaning of the <i>Defence Service Homes Act 1918</i>.”.</div>
-      <div>(h) Omit from subsection (8) “this section”, substitute “subsection 19 (6) of the Act as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the Defence Service Homes Act 1918”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 27 (1)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act”, substitute “the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 27 (2)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act or the Regulations thereunder”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1C)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “A reduction under the last preceding subsection in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AA (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (6)</b></div>
-  </td>
-  <td>
-    <div>(a) After “work done” insert “by the Corporation to keep in good order and repair the buildings, fences, fixtures and other improvements on the land”.</div>
-    <div>(b) After “payments made” insert “by the Corporation to pay rates, taxes, charges or other outgoings in relation to the land or land and dwelling-house”.</div>
-    <div>(c) Omit “under subsection (4) or subsection (5)”, substitute “by the Minister under subsection 29AA (4) or (5) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-      <div>(d) Omit “, subject to subsection (8),”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (7)</b></div>
-  </td>
-  <td>
-    <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AB (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “The reduction under subsection (2) in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AB (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>, in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 30</b></div>
-  </td>
-  <td>
-    <div>(a) Omit subsection (3).</div>
-    <div>(b) Insert in paragraph (4) (b) “of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>” after “20A”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (2)</b></div>
-  </td>
-  <td>
-    <div>Omit from paragraph (a) “this Act or the regulations, or”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (2A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (4)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (7)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 31</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (2) (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
-    <div>(b) Insert in paragraph (2) (b) “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>” after “section 36”.</div>
-    <div>(c) Omit from paragraph (2) (b) “or advance under this Act”, substitute “mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 32</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 32A</b></div>
-  </td>
-  <td>
-    <div>Omit from subsection (2) “section 4A”, substitute “section 4A of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 34</b></div>
-  </td>
-  <td>
-    <div>Omit “or 33”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (1)</b></div>
-  </td>
-  <td>
-    <div>Omit paragraph (1) (b).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (1A)</b></div>
-  </td>
-  <td>
-    <div>Omit “in pursuance of paragraph (b) of the last preceding subsection, to a person who is not an eligible person,”, substitute “without the consent of the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (2A)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Corporation under paragraph (b) of the last preceding subsection in respect of”, substitute “Commonwealth or Corporation in respect of the transfer of”.</div>
-    <div>(b) Omit “Corporation may”, substitute “Bank may”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (4)</b></div>
-  </td>
-  <td>
-    <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (5)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (6)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “or advance under this Act”, substitute “mortgage or other security”.</div>
-    <div>(b) Omit “although no legal demand has been made for payment”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1B)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1C)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
-    <div>(b) Omit from paragraph (b) “this Part”, substitute “this provision”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (2)</b></div>
-  </td>
-  <td>
-    <div>Omit “to the Commonwealth for payment by the Commonwealth to the persons appearing to the Minister to be entitled to receive it”, substitute “to the person legally entitled to receive it”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (4)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36A (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Corporation” (other than the first two times occurring), substitute “Bank”.</div>
-    <div>(b) Omit “transfer his interest in the dwelling-house or”.</div>
-    <div>(c) Omit “transfer his interest or”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36A (3)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “to transfer his interest to the Corporation or”.</div>
-    <div>(b) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 38 (4D)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by reason of an advance or sale by the Corporation”.</div>
-    <div>(b) Omit from paragraph (a) “Corporation”, substitute “Defence Service Homes Insurance Scheme”.</div>
-      <div>(c) Insert in paragraph (b) “or is approved by the Bank from time to time” after “with the Corporation”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 38 (4E)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “(4D)”, substitute “38 (4D) of the <i>Defence Service Homes Act 1918</i>(as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>) as a term or condition under section 6B of that Act as in force on or after that commencement”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(b) Omit “with the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(c) Omit “to the Corporation” (second time occurring), substitute “to the Commonwealth”.</div>
-    <div>(d) Omit “by the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 43 (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by this Act”, substitute “in relation to a contract of sale, mortgage or other security”.</div>
-    <div>(b) Omit from paragraph (a) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
-    <div>(c) Omit from subparagraph (b) (ii) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 43 (2)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “this Act or the Regulations”, substitute “a contract of sale, mortgage or other security”.</div>
-    <div>(b) Omit “by the holder of an office specified by the Corporation by notice published in the <i>Gazette</i>”, substitute “by an officer of the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 44</b></div>
-  </td>
-  <td>
-    <div>Omit “Notwithstanding any other provision of this Act, where”, substitute “Where”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 45</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 46</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48AB</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from subsection (1) “The Minister may, either generally or with respect to a particular case or a particular class of cases, give directions to the Corporation with respect to the payment by the Corporation of rates,”, substitute “The Bank may pay rates, insurance premiums,”.</div>
-    <div>(b) Omit from subsection (2) “in accordance with a direction under the last preceding subsection”.</div>
-      <div>(c) Omit from paragraph (2) (b) “at 10 per centum per annum”, substitute “at such rate as the Bank determines”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48B</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48C</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 49</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b> <i>Defence Service Homes Regulations</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 9</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the D <i>efence Service Homes Act 1918</i>”.</div>
-    <div>(b) After “is situated” insert “and which is otherwise in a form acceptable to the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 10</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 13</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 14</b></div>
-  </td>
-  <td>
-    <div>Omit “Subject to section 17B of the Act, each”, substitute “Each”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 15</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by the Corporation”, substitute “by a Manager of the Bank”.</div>
-    <div>(b) After “Corporation shall” insert “, as between the Bank and the purchaser, borrower, tenant or applicant,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 17</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (b) “in accordance with an agreement for the erection, completion or enlargement of a dwelling-house by the Corporation under section 17A of the Act,”.</div>
-    <div>(b) Omit “the mortgage or by the Act or these Regulations”, substitute “a term or condition of the mortgage”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 18</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-    <div>(b) Omit from subregulation (1) “with the Act”, substitute “with that subsection”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 20</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 21</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “it is proved to the satisfaction of the Corporation that”.</div>
-    <div>(b) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 24</b></div>
-  </td>
-  <td>
-    <div>Omit “for the purposes of section 46 of the Act”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 32 (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 33</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 35</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 36</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 37</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 38</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 39</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 40</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 42</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (a) “satisfactory to”, substitute “to the reasonable satisfaction of”.</div>
-    <div>(b) Omit from paragraph (b) “approved by the Corporation”.</div>
-    <div>(c) Omit paragraph (c).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 43</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 44</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74A</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74B</b> <b>(1)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74B (2)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74C (1)</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-    <div>(b) Omit “in accordance with Form B”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74C (2)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74E</b></div>
-  </td>
-  <td>
-    <div>Omit “under this Part”, substitute “of determination of tenancy”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74F</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “under this Part”, substitute “of determination of tenancy”.</div>
-    <div>(b) Omit “, in accordance with Form CA,”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 4 A(2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “Any such husband and wife”, substitute “A husband and wife who are joint tenants”.</div>
+      <div>(b)  Omit “an eligible person”, substitute “a”.</div>
+      <div>(c)  Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 18A (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “The cost so allotted”, substitute “The cost allotted to a dwelling-house by the Corporation under subsection 18A (1) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>for the making of roads or other facilities affording access to the dwelling-house or for connecting sewerage, drainage, water, gas and electric power and lighting systems to the dwelling-house”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 18A (3A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 18A (3B) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 18A (4) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+      <div>(b)  Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 19 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit subsections (1), (1A), (2), (3) and (4).</div>
+      <div>(b)  Omit from subsection (6) “to the Corporation”.</div>
+      <div>(c)  Insert in subsection (6) “as those provisions apply as terms or conditions of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>” after “regulations”.</div>
+      <div>(d)  Omit from subsection (6) “prescribed notice”, substitute “notice prescribed in regulation 10 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+      <div>(e)  Omit from subsection (6) “prescribed form”, substitute “form prescribed in regulation 9 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+      <div>(f)  Insert in subsection (6) “, together with such other documentation setting out terms of repayment as is required by the Bank,” after “contract of sale” (third occurring).</div>
+      <div>(g)  Omit subsection (7), substitute the following subsection:</div>
+      <div>“(7)  The mortgage and documentation executed by the person under subsection (6) must provide for:</div>
+        <div>(a)  interest to be payable on the amount secured under the mortgage, being the balance of the amount payable under the contract of sale immediately before the date of the mortgage, at the same rate that was payable on that balance;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(b)  where different rates of interest were payable on different parts of the balance referred to in paragraph (a), the amount secured by the mortgage is to be taken to be divided into equivalent parts with the rate of interest payable on each of those parts to be the same as that payable on the equivalent part of the balance;</div>
+      <div>(c)  the repayment period for the amount secured by the mortgage to be the period over which the balance referred to in paragraph (a) would have been payable under the contract of sale;</div>
+      <div>(d)  the amount of each monthly instalment required to repay the amount secured by the mortgage to be the same instalment required to repay the balance referred to in paragraph (a) under the contract of sale; and</div>
+      <div>(e)  such other terms and conditions as are applicable to a subsidised advance within the meaning of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>.”.</div>
+        <div>(h)  Omit from subsection (8) “this section”, substitute “subsection 19 (6) of the Act as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the Defence Service Homes Act 1918”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 27 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “this Act”, substitute “the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 27 (2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “this Act or the Regulations thereunder”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29 (1A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29 (1C) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29AA (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “A reduction under the last preceding subsection in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AA (2) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29AA (6) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  After “work done” insert “by the Corporation to keep in good order and repair the buildings, fences, fixtures and other improvements on the land”.</div>
+      <div>(b)  After “payments made” insert “by the Corporation to pay rates, taxes, charges or other outgoings in relation to the land or land and dwelling-house”.</div>
+      <div>(c)  Omit “under subsection (4) or subsection (5)”, substitute “by the Minister under subsection 29AA (4) or (5) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>”.</div>
+        <div>(d)  Omit “, subject to subsection (8),”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29AA (7) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 29AB (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “The reduction under subsection (2) in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AB (2) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>, in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 30 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit subsection (3).</div>
+      <div>(b)  Insert in paragraph (4) (b) “of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>” after “20A”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit from paragraph (a) “this Act or the regulations, or”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (2A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (4) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 30A (7) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 31 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit from paragraph (2) (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
+      <div>(b)  Insert in paragraph (2) (b) “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>” after “section 36”.</div>
+      <div>(c)  Omit from paragraph (2) (b) “or advance under this Act”, substitute “mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 32 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 32A <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit from subsection (2) “section 4A”, substitute “section 4A of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 34 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “or 33”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit paragraph (1) (b).</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (1A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “in pursuance of paragraph (b) of the last preceding subsection, to a person who is not an eligible person,”, substitute “without the consent of the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (2A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “Corporation under paragraph (b) of the last preceding subsection in respect of”, substitute “Commonwealth or Corporation in respect of the transfer of”.</div>
+      <div>(b)  Omit “Corporation may”, substitute “Bank may”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (4) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (5) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 35 (6) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “or advance under this Act”, substitute “mortgage or other security”.</div>
+      <div>(b)  Omit “although no legal demand has been made for payment”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (1A) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (1B) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (1C) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit from paragraph (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
+      <div>(b)  Omit from paragraph (b) “this Part”, substitute “this provision”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “to the Commonwealth for payment by the Commonwealth to the persons appearing to the Minister to be entitled to receive it”, substitute “to the person legally entitled to receive it”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36 (4) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36A (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “Corporation” (other than the first two times occurring), substitute “Bank”.</div>
+      <div>(b)  Omit “transfer his interest in the dwelling-house or”.</div>
+      <div>(c)  Omit “transfer his interest or”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 36A (3) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “to transfer his interest to the Corporation or”.</div>
+      <div>(b)  After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 38 (4D) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “by reason of an advance or sale by the Corporation”.</div>
+      <div>(b)  Omit from paragraph (a) “Corporation”, substitute “Defence Service Homes Insurance Scheme”.</div>
+        <div>(c)  Insert in paragraph (b) “or is approved by the Bank from time to time” after “with the Corporation”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 38 (4E) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “(4D)”, substitute “38 (4D) of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>(as in force before the commencement of section 10 of the <i style="mso-bidi-font-style: normal">Defence Service Homes Amendment Act 1988</i>) as a term or condition under section 6B of that Act as in force on or after that commencement”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(b)  Omit “with the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(c)  Omit “to the Corporation” (second time occurring), substitute “to the Commonwealth”.</div>
+      <div>(d)  Omit “by the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 43 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “by this Act”, substitute “in relation to a contract of sale, mortgage or other security”.</div>
+      <div>(b)  Omit from paragraph (a) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
+      <div>(c)  Omit from subparagraph (b) (ii) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subsection 43 (2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “this Act or the Regulations”, substitute “a contract of sale, mortgage or other security”.</div>
+      <div>(b)  Omit “by the holder of an office specified by the Corporation by notice published in the <i style="mso-bidi-font-style: normal">Gazette</i>”, substitute “by an officer of the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 44 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “Notwithstanding any other provision of this Act, where”, substitute “Where”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 45 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 46 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 48AB <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit from subsection (1) “The Minister may, either generally or with respect to a particular case or a particular class of cases, give directions to the Corporation with respect to the payment by the Corporation of rates,”, substitute “The Bank may pay rates, insurance  premiums,”.  </div>
+      <div>(b)  Omit from subsection (2) “in accordance  with a direction under the last preceding  subsection”.  </div>
+      <div>(c)  Omit from paragraph (2) (b) “at 10 per  centum per annum”, substitute “at such rate as the Bank determines”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 48B <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 48C <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Section 49 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">Defence Service Homes Regulations</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  After “of the Act” insert “as that  provision applies as a term or condition of a  portfolio asset which vests in the Bank under section 6B of the D <i style="mso-bidi-font-style: normal">efence Service Homes Act 1918</i>”.  </div>
+      <div>(b)  After “is situated” insert “and which is  otherwise in a form acceptable to the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 10   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “as that provision  applies as a term or condition of a portfolio  asset which vests in the Bank under section 6B  of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 13 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 14   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “Subject to section 17B of the Act,  each”, substitute “Each”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 15   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “by the Corporation”, substitute  “by a Manager of the Bank”.  </div>
+      <div>(b)  After “Corporation shall” insert “, as  between the Bank and the purchaser, borrower, tenant or applicant,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 17   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit from paragraph (b) “in accordance  with an agreement for the erection, completion  or enlargement of a dwelling-house by the Corporation under section 17A of the Act,”.  </div>
+      <div>(b)  Omit “the mortgage or by the Act or these  Regulations”, substitute “a term or condition  of the mortgage”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 18   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  After “of the Act” insert “, as that  provision applies as a term or condition of a  portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act  1918</i>,”.  </div>
+      <div>(b)  Omit from subregulation (1) “with the  Act”, substitute “with that subsection”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 20   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 21   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “it is proved to the satisfaction of  the Corporation that”.  </div>
+      <div>(b)  After “of the Act” insert “, as that  provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 24   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “for the purposes of section 46 of the  Act”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subregulation 32 (1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 33 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 35 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 36 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 37 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 38 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 39 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 40 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 42   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit from paragraph (a) “satisfactory  to”, substitute “to the reasonable  satisfaction of”.  </div>
+      <div>(b)  Omit from paragraph (b) “approved by the  Corporation”.  </div>
+      <div>(c)  Omit paragraph (c).</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 43 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 44 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 74A   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that  provision applies as a term or condition of a  portfolio asset which vests in the Bank under  section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subregulation 74B</b> <b style="mso-bidi-font-weight: normal">(1) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that  provision applies as a term or condition of a  portfolio asset which vests in the Bank under  section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subregulation 74B (2)</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subregulation 74C (1)   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  After “of the Act” insert “, as that provision applies as a term or condition of a  portfolio asset which vests in the Bank under  section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act 1918</i>,”.  </div>
+      <div>(b)  Omit “in accordance with Form B”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subregulation 74C (2) <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that  provision applies as a term or condition of a  portfolio asset which vests in the Bank under  section 6B of the <i style="mso-bidi-font-style: normal">Defence Service Homes Act  1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 74E   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>Omit “under this Part”, substitute “of  determination of tenancy”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Regulation 74F   <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div>(a)  Omit “under this Part”, substitute “of  determination of tenancy”.  </div>
+      <div>(b)  Omit “, in accordance with <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Form</st1:city> <st1:state>CA</st1:state> </st1:place>,”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
-# Notes to the _Defence Service Homes Act 1918_
+
+# Notes to the _<span style="mso-no-proof: yes">Defence Service Homes Act 1918</span>_
 
 ### Note 1
 
-The _Defence Service Homes Act 1918_ as shown in this compilation comprises Act No. 43, 1918 amended as indicated in the Tables below.
+The _Defence Service Homes Act 1918_ as shown in this compilation comprises Act No. 43, 1918 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 8 November 1996 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="8" month="11">8 November 1996</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -6232,11 +6222,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -6246,1406 +6238,1425 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>War Service Homes Act 1918</div>
-  </td>
-  <td>
-    <div>43, 1918</div>
-  </td>
-  <td>
-    <div>25 Dec 1918</div>
-  </td>
-  <td>
-    <div>6 Mar 1919 ( <i>see Gazette</i>1919, p. 377)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1919</div>
-  </td>
-  <td>
-    <div>28, 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1920</div>
-  </td>
-  <td>
-    <div>35, 1920</div>
-  </td>
-  <td>
-    <div>19 Oct 1920</div>
-  </td>
-  <td>
-    <div>19 Oct 1920</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1923</div>
-  </td>
-  <td>
-    <div>18, 1923</div>
-  </td>
-  <td>
-    <div>1 Sept 1923</div>
-  </td>
-  <td>
-    <div>Ss. 7(1)(a), 8, 14, 15 and 22: 
+<tbody>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1918</div>
+    </td>
+    <td>
+      <div>43, 1918</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1918" day="25" month="12">25 Dec 1918</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1919" day="6" month="3">6 Mar 1919</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1919, p. 377)</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1919</div>
+    </td>
+    <td>
+      <div>28, 1919</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1919" day="28" month="10">28 Oct 1919</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1919" day="28" month="10">28 Oct 1919</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1920</div>
+    </td>
+    <td>
+      <div>35, 1920</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1920" day="19" month="10">19 Oct 1920</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1920" day="19" month="10">19 Oct 1920</st1:date></div>
+    </td>
+    <td>
+      <div>—  </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1923</div>
+    </td>
+    <td>
+      <div>18, 1923</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1923" day="1" month="9">1 Sept 1923</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 7(1)(a), 8, 14, 15 and 22: 
 6 Mar 1919 
-S. 23: 1 Jan 1923 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 25</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1925</div>
-  </td>
-  <td>
-    <div>26, 1925</div>
-  </td>
-  <td>
-    <div>26 Sept 1925</div>
-  </td>
-  <td>
-    <div>12 Aug 1925</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1926</div>
-  </td>
-  <td>
-    <div>47, 1926</div>
-  </td>
-  <td>
-    <div>23 Aug 1926</div>
-  </td>
-  <td>
-    <div>23 Aug 1926</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1927</div>
-  </td>
-  <td>
-    <div>17, 1927</div>
-  </td>
-  <td>
-    <div>8 Apr 1927</div>
-  </td>
-  <td>
-    <div>8 Apr 1927</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1929</div>
-  </td>
-  <td>
-    <div>13, 1929</div>
-  </td>
-  <td>
-    <div>22 Mar 1929</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 8: 
+S. 23: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1923" day="1" month="1">1 Jan 1923</st1:date> 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 25</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1925</div>
+    </td>
+    <td>
+      <div>26, 1925</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1925" day="26" month="9">26 Sept 1925</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1925" day="12" month="8">12 Aug 1925</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1926</div>
+    </td>
+    <td>
+      <div>47, 1926</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1926" day="23" month="8">23 Aug 1926</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1926" day="23" month="8">23 Aug 1926</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1927</div>
+    </td>
+    <td>
+      <div>17, 1927</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1927" day="8" month="4">8 Apr 1927</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1927" day="8" month="4">8 Apr 1927</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1929</div>
+    </td>
+    <td>
+      <div>13, 1929</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1929" day="22" month="3">22 Mar 1929</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4 and 8: 
 6 Mar 1919 
-S. 7: 1 July 1928 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1932</div>
-  </td>
-  <td>
-    <div>6, 1932</div>
-  </td>
-  <td>
-    <div>26 Mar 1932</div>
-  </td>
-  <td>
-    <div>26 Mar 1932 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1932</div>
-  </td>
-  <td>
-    <div>68, 1932</div>
-  </td>
-  <td>
-    <div>5 Dec 1932</div>
-  </td>
-  <td>
-    <div>1 Aug 1932</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1934</div>
-  </td>
-  <td>
-    <div>63, 1934</div>
-  </td>
-  <td>
-    <div>17 Dec 1934</div>
-  </td>
-  <td>
-    <div>17 Dec 1934</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1935</div>
-  </td>
-  <td>
-    <div>54, 1935</div>
-  </td>
-  <td>
-    <div>6 Dec 1935</div>
-  </td>
-  <td>
-    <div>S. 4: 1 Feb 1935 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1937</div>
-  </td>
-  <td>
-    <div>25, 1937</div>
-  </td>
-  <td>
-    <div>16 Sept 1937</div>
-  </td>
-  <td>
-    <div>16 Sept 1937</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1941</div>
-  </td>
-  <td>
-    <div>1, 1941</div>
-  </td>
-  <td>
-    <div>4 Apr 1941</div>
-  </td>
-  <td>
-    <div>2 May 1941</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1946</div>
-  </td>
-  <td>
-    <div>8, 1946</div>
-  </td>
-  <td>
-    <div>18 Apr 1946</div>
-  </td>
-  <td>
-    <div>18 Apr 1946</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Public Service Act 1947</div>
-  </td>
-  <td>
-    <div>1, 1947</div>
-  </td>
-  <td>
-    <div>14 Mar 1947</div>
-  </td>
-  <td>
-    <div>14 Mar 1947</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1947</div>
-  </td>
-  <td>
-    <div>38, 1947</div>
-  </td>
-  <td>
-    <div>12 June 1947</div>
-  </td>
-  <td>
-    <div>14 July 1947 ( <i>see Gazette</i>1947, 
-p. 1885)</div>
-  </td>
-  <td>
-    <div>S. 6(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1947</div>
-  </td>
-  <td>
-    <div>71, 1947</div>
-  </td>
-  <td>
-    <div>4 Dec 1947</div>
-  </td>
-  <td>
-    <div>4 Dec 1947</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1948</div>
-  </td>
-  <td>
-    <div>67, 1948</div>
-  </td>
-  <td>
-    <div>9 Dec 1948</div>
-  </td>
-  <td>
-    <div>6 Jan 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1949</div>
-  </td>
-  <td>
-    <div>24, 1949</div>
-  </td>
-  <td>
-    <div>1 July 1949</div>
-  </td>
-  <td>
-    <div>1 July 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1951</div>
-  </td>
-  <td>
-    <div>74, 1951</div>
-  </td>
-  <td>
-    <div>11 Dec 1951</div>
-  </td>
-  <td>
-    <div>11 Dec 1951</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1954</div>
-  </td>
-  <td>
-    <div>69, 1954</div>
-  </td>
-  <td>
-    <div>8 Nov 1954</div>
-  </td>
-  <td>
-    <div>8 Nov 1954</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition Act 1955 (b)</div>
-  </td>
-  <td>
-    <div>69, 1955</div>
-  </td>
-  <td>
-    <div>4 Nov 1955</div>
-  </td>
-  <td>
-    <div>16 Feb 1956 ( <i>see Gazette</i>1956, 
-p. 472)</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1956</div>
-  </td>
-  <td>
-    <div>100, 1956</div>
-  </td>
-  <td>
-    <div>15 Nov 1956</div>
-  </td>
-  <td>
-    <div>S. 3 (d): 1 Sept 1952 ( <i>see</i>s. 2(2) and <i>Gazette</i>1957, p. 2631) 
+S. 7: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1928" day="1" month="7">1 July 1928</st1:date> 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1932</div>
+    </td>
+    <td>
+      <div>6, 1932</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1932" day="26" month="3">26 Mar 1932</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1932" day="26" month="3">26 Mar 1932</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1932</div>
+    </td>
+    <td>
+      <div>68, 1932</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1932" day="5" month="12">5 Dec 1932</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1932" day="1" month="8">1 Aug 1932</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1934</div>
+    </td>
+    <td>
+      <div>63, 1934</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1934" day="17" month="12">17 Dec 1934</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1934" day="17" month="12">17 Dec 1934</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1935</div>
+    </td>
+    <td>
+      <div>54, 1935</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1935" day="6" month="12">6 Dec 1935</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1935" day="1" month="2">1 Feb 1935</st1:date> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1937</div>
+    </td>
+    <td>
+      <div>25, 1937</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1937" day="16" month="9">16 Sept 1937</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1937" day="16" month="9">16 Sept 1937</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1941</div>
+    </td>
+    <td>
+      <div>1, 1941</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1941" day="4" month="4">4 Apr 1941</st1:date></div>
+    </td>
+    <td>
+      <div>2 May 1941</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1946</div>
+    </td>
+    <td>
+      <div>8, 1946</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1946" day="18" month="4">18 Apr 1946</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1946" day="18" month="4">18 Apr 1946</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Public Service Act 1947</div>
+    </td>
+    <td>
+      <div>1, 1947</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="14" month="3">14 Mar 1947</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="14" month="3">14 Mar 1947</st1:date></div>
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1947</div>
+    </td>
+    <td>
+      <div>38, 1947</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="12" month="6">12 June 1947</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="14" month="7">14 July 1947</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1947, 
+p. 1885) 
+</div>
+    </td>
+    <td>
+      <div>S. 6(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1947</div>
+    </td>
+    <td>
+      <div>71, 1947</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="4" month="12">4 Dec 1947</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1947" day="4" month="12">4 Dec 1947</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1948</div>
+    </td>
+    <td>
+      <div>67, 1948</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1948" day="9" month="12">9 Dec 1948</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1949" day="6" month="1">6 Jan 1949</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1949</div>
+    </td>
+    <td>
+      <div>24, 1949</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1949" day="1" month="7">1 July 1949</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1949" day="1" month="7">1 July 1949</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1951</div>
+    </td>
+    <td>
+      <div>74, 1951</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1951" day="11" month="12">11 Dec 1951</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1951" day="11" month="12">11 Dec 1951</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1954</div>
+    </td>
+    <td>
+      <div>69, 1954</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1954" day="8" month="11">8 Nov 1954</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1954" day="8" month="11">8 Nov 1954</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition Act 1955 (b)</div>
+    </td>
+    <td>
+      <div>69, 1955</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1955" day="4" month="11">4 Nov 1955</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1956" day="16" month="2">16 Feb 1956</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1956, 
+p. 472) 
+</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1956</div>
+    </td>
+    <td>
+      <div>100, 1956</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1956" day="15" month="11">15 Nov 1956</st1:date></div>
+    </td>
+    <td>
+      <div>S. 3 (d): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1952" day="1" month="9">1 Sept 1952</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2(2) and <i style="mso-bidi-font-style: normal">Gazette</i>1957, p. 2631) 
 Remainder: 
-15 Nov 1956</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1961</div>
-  </td>
-  <td>
-    <div>73, 1961</div>
-  </td>
-  <td>
-    <div>27 Oct 1961</div>
-  </td>
-  <td>
-    <div>24 Nov 1961</div>
-  </td>
-  <td>
-    <div>S. 4(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1962</div>
-  </td>
-  <td>
-    <div>2, 1962</div>
-  </td>
-  <td>
-    <div>17 Mar 1962</div>
-  </td>
-  <td>
-    <div>17 Mar 1962</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1962</div>
-  </td>
-  <td>
-    <div>93, 1962</div>
-  </td>
-  <td>
-    <div>14 Dec 1962</div>
-  </td>
-  <td>
-    <div>28 May 1963 ( <i>see</i>s. 2 and <i>Gazette</i>1963, p. 1869)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Debt Sinking Fund Act 1966</div>
-  </td>
-  <td>
-    <div>65, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 July 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, 
+ <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1956" day="15" month="11">15 Nov 1956</st1:date> 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1961</div>
+    </td>
+    <td>
+      <div>73, 1961</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1961" day="27" month="10">27 Oct 1961</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1961" day="24" month="11">24 Nov 1961</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1962</div>
+    </td>
+    <td>
+      <div>2, 1962</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1962" day="17" month="3">17 Mar 1962</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1962" day="17" month="3">17 Mar 1962</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1962</div>
+    </td>
+    <td>
+      <div>93, 1962</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1962" day="14" month="12">14 Dec 1962</st1:date></div>
+    </td>
+    <td>
+      <div>28 May 1963 ( <i style="mso-bidi-font-style: normal">see</i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1963, p. 1869)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Debt Sinking Fund Act 1966</div>
+    </td>
+    <td>
+      <div>65, 1966</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="29" month="10">29 Oct 1966</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="1" month="7">1 July 1966</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="29" month="10">29 Oct 1966</st1:date></div>
+    </td>
+    <td>
+      <div>S. <st1:time minute="18" hour="7">7: 18</st1:time>Mar 1971 ( <i style="mso-bidi-font-style: normal">see</i>s. 2(2) and <i style="mso-bidi-font-style: normal">Gazette</i>1971, 
 p. 2003) 
-Remainder: 1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Act 1967</div>
-  </td>
-  <td>
-    <div>3, 1967</div>
-  </td>
-  <td>
-    <div>13 Apr 1967</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1968</div>
-  </td>
-  <td>
-    <div>99, 1968</div>
-  </td>
-  <td>
-    <div>25 Nov 1968</div>
-  </td>
-  <td>
-    <div>Ss. 3, 14, 16 and 19: 1 July 1969 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 14(2) and 18(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1971</div>
-  </td>
-  <td>
-    <div>120, 1971</div>
-  </td>
-  <td>
-    <div>10 Dec 1971</div>
-  </td>
-  <td>
-    <div>10 Dec 1971</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Act 1973</div>
-  </td>
-  <td>
-    <div>31, 1973</div>
-  </td>
-  <td>
-    <div>15 May 1973</div>
-  </td>
-  <td>
-    <div>Ss. 4(c), (g) and 6: 3 Sept 1973 ( <i>see Gazette</i>1973, No. 119) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 14(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1974</div>
-  </td>
-  <td>
-    <div>20, 1974</div>
-  </td>
-  <td>
-    <div>25 July 1974</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Act 1974</div>
-  </td>
-  <td>
-    <div>125, 1974</div>
-  </td>
-  <td>
-    <div>6 Dec 1974</div>
-  </td>
-  <td>
-    <div>6 Dec 1974</div>
-  </td>
-  <td>
-    <div>Ss. 13(2), 14(2), 17(2) and 18(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Housing Corporation Act 1975 (c)</div>
-  </td>
-  <td>
-    <div>25, 1975</div>
-  </td>
-  <td>
-    <div>18 Apr 1975</div>
-  </td>
-  <td>
-    <div>24 June 1975 ( <i>see Gazette</i>1975, No. S117)</div>
-  </td>
-  <td>
-    <div>S. 59(4) and (5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1976 (c)</div>
-  </td>
-  <td>
-    <div>185, 1976</div>
-  </td>
-  <td>
-    <div>13 Dec 1976</div>
-  </td>
-  <td>
-    <div>13 Dec 1976</div>
-  </td>
-  <td>
-    <div>S. 8(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1977</div>
-  </td>
-  <td>
-    <div>79, 1977</div>
-  </td>
-  <td>
-    <div>16 June 1977</div>
-  </td>
-  <td>
-    <div>1 July 1977</div>
-  </td>
-  <td>
-    <div>Ss. 3(2) and 14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>137, 1978</div>
-  </td>
-  <td>
-    <div>11 Nov 1978</div>
-  </td>
-  <td>
-    <div>Ss. 11 and 15: 
-1 Oct 1980 ( <i>see Gazette</i>1980, No. S218) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 3(2), 7(2) and 17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>4, 1980</div>
-  </td>
-  <td>
-    <div>19 Mar 1980</div>
-  </td>
-  <td>
-    <div>S. 9: 1 Oct 1980 ( <i>see</i>s. 2 and <i>Gazette</i>1980, No. S218) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act (No. 2) 1980</div>
-  </td>
-  <td>
-    <div>128, 1980</div>
-  </td>
-  <td>
-    <div>19 Sept 1980</div>
-  </td>
-  <td>
-    <div>15 Oct 1980 ( <i>see Gazette</i>1980, No. S231)</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 8(2), 9(2) and 10(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part XXX (ss. 84–90): 20 Oct 1982 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Repatriation Legislation Amendment Act 1983</div>
-  </td>
-  <td>
-    <div>70, 1983</div>
-  </td>
-  <td>
-    <div>24 Oct 1983</div>
-  </td>
-  <td>
-    <div>S. 4: 23 Dec 1983 ( <i>see Gazette</i>1983, No. S335) 
-Ss. 5 and 14(2): 1 Nov 1983 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 36</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 23 July 1984 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>28, 1986</div>
-  </td>
-  <td>
-    <div>19 May 1986</div>
-  </td>
-  <td>
-    <div>S. 61: Royal Assent 
-Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986</div>
-  </td>
-  <td>
-    <div>29, 1986</div>
-  </td>
-  <td>
-    <div>19 May 1986</div>
-  </td>
-  <td>
-    <div><i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>78, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>S. 62: 5 June 1987 <i>(g)</i> 
-S. 63: <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>124, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-S. 15: 30 June 1989 ( <i>see Gazette</i>1989, No. S190) 
-Remainder: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S393)</div>
-  </td>
-  <td>
-    <div>Ss. 17–19</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>86, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div><i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>93, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div>Ss. 3(1), 9, 14 and 17: 22 Dec 1988 
-Ss. 7, 11(a), (b) and 15: 18 Feb 1989 
-S. 11(c): 1 Jan 1990 
-S. 13: 22 May 1986 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>2, 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4–6, 7(a), (e)–(h), (k), 8–21 and 93: Royal Assent <i>(i)</i> 
-S. 7(b) and (j): <i>(i)</i> 
-S. 7(c): 18 Feb 1989 <i>(i)</i> 
-S. 7(d): 2 Aug 1990 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Ss. 5, 6, 19 (2)–(4), 13(2), 21 and 93 (am. by 73, 1991, s. 21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
-  </td>
-  <td>
-    <div>73, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>( <i>see</i> 73, 1991 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 129): 8 Jan 1991 <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Home Loans Assistance) Act 1990</div>
-  </td>
-  <td>
-    <div>14, 1991</div>
-  </td>
-  <td>
-    <div>21 Jan 1991</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–9) and Schedule 1: Royal Assent 
-Schedule 2: 1 Mar 1991 ( <i>see Gazette</i>1991, No. S24) 
-Remainder: 15 May 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
-  </td>
-  <td>
-    <div>73, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>S. 19: <i>(k)</i> 
-Remainder: 1 July 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>74, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>S. 5: Royal Assent <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>208, 1991</div>
-  </td>
-  <td>
-    <div>24 Dec 1991</div>
-  </td>
-  <td>
-    <div>S. 21 (in part): Royal Assent <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>70, 1992</div>
-  </td>
-  <td>
-    <div>26 June 1992</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–11): Royal Assent <i>(n)</i> 
-Schedule (Part 4): 1 July 1991 <i>(n)</i></div>
-  </td>
-  <td>
-    <div>S. 10(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>228, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 4, 5): 
-1 Jan 1993 <i>(o)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>78, 1994</div>
-  </td>
-  <td>
-    <div>21 June 1994</div>
-  </td>
-  <td>
-    <div>S. 37: Royal Assent <i>(p)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>128, 1995</div>
-  </td>
-  <td>
-    <div>14 Nov 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i> 
-Schedule 1 (items 9, 48, 49, 51, 60): 1 July 1995 <i>(q)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 66)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1996</div>
-  </td>
-  <td>
-    <div>55, 1996</div>
-  </td>
-  <td>
-    <div>8 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–4, 6, 7): Royal Assent <i>(r)</i> 
-Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997</div>
-  </td>
-  <td>
-    <div>7, 1997</div>
-  </td>
-  <td>
-    <div>5 Mar 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–4): Royal Assent <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 709–715): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(t)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997</div>
-  </td>
-  <td>
-    <div>157, 1997</div>
-  </td>
-  <td>
-    <div>3 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(u)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>183, 1997</div>
-  </td>
-  <td>
-    <div>27 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1: Royal Assent <i>(v)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 381, 382): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(w)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>171, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 5 and Schedule 6 (items 1–5): Royal Assent <i>(x)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>141, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(y)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>16, 2001</div>
-  </td>
-  <td>
-    <div>30 Mar 2001</div>
-  </td>
-  <td>
-    <div>24 May 2001 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 135, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>28, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 7): 1 July 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="1" month="12">1 Dec 1966</st1:date> 
 
-_(a)_     By virtue of subsection 3(2) of the _War Service Homes Act 1932_, the amendment made by subsection 3(1) of that Act is deemed to have commenced on the date of commencement of the _War Service Homes Act 1918_, viz.—6 March 1919\. 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by  </div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Act 1967</div>
+    </td>
+    <td>
+      <div>3, 1967</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1967" day="13" month="4">13 Apr 1967</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1966" day="1" month="12">1 Dec 1966</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1968</div>
+    </td>
+    <td>
+      <div>99, 1968</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1968" day="25" month="11">25 Nov 1968</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 3, 14, 16 and 19: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1969" day="1" month="7">1 July 1969</st1:date> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 14(2) and 18(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1971</div>
+    </td>
+    <td>
+      <div>120, 1971</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="10" month="12">10 Dec 1971</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1971" day="10" month="12">10 Dec 1971</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Act 1973</div>
+    </td>
+    <td>
+      <div>31, 1973</div>
+    </td>
+    <td>
+      <div>15 May 1973</div>
+    </td>
+    <td>
+      <div>Ss. 4(c), (g) and 6: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="3" month="9">3 Sept 1973</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1973, No. 119) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 14(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="19" month="12">19 Dec 1973</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="31" month="12">31 Dec 1973</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1974</div>
+    </td>
+    <td>
+      <div>20, 1974</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="25" month="7">25 July 1974</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1973" day="31" month="12">31 Dec 1973</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Act 1974</div>
+    </td>
+    <td>
+      <div>125, 1974</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="6" month="12">6 Dec 1974</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1974" day="6" month="12">6 Dec 1974</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 13(2), 14(2), 17(2) and 18(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Housing Corporation Act 1975 (c)</div>
+    </td>
+    <td>
+      <div>25, 1975</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1975" day="18" month="4">18 Apr 1975</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1975" day="24" month="6">24 June 1975</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1975, No. S117)</div>
+    </td>
+    <td>
+      <div>S. 59(4) and (5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1976 (c)</div>
+    </td>
+    <td>
+      <div>185, 1976</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1976" day="13" month="12">13 Dec 1976</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1976" day="13" month="12">13 Dec 1976</st1:date></div>
+    </td>
+    <td>
+      <div>S. 8(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1977</div>
+    </td>
+    <td>
+      <div>79, 1977</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1977" day="16" month="6">16 June 1977</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1977" day="1" month="7">1 July 1977</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 3(2) and 14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1978" day="12" month="6">12 June 1978</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1978" day="12" month="6">12 June 1978</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>137, 1978</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1978" day="11" month="11">11 Nov 1978</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 11 and 15: 
+1 Oct 1980 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1980, No. S218) 
+Remainder: Royal Assent 
 
-_(b)_    The _Lands Acquisition Act 1955_ was repealed by section 3 of the _Lands Acquisition (Repeal and Consequential Provisions) Act 1989_. 
+</div>
+    </td>
+    <td>
+      <div>Ss. 3(2), 7(2) and 17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>4, 1980</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="19" month="3">19 Mar 1980</st1:date></div>
+    </td>
+    <td>
+      <div>S. 9: 1 Oct 1980 ( <i style="mso-bidi-font-style: normal">see</i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1980, No. S218) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act (No. 2) 1980</div>
+    </td>
+    <td>
+      <div>128, 1980</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="19" month="9">19 Sept 1980</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1980" day="15" month="10">15 Oct 1980</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1980, No. S231)</div>
+    </td>
+    <td>
+      <div>Ss. 7(2), 8(2), 9(2) and 10(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1982" day="22" month="9">22 Sept 1982</st1:date></div>
+    </td>
+    <td>
+      <div>Part XXX (ss. 84–90): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1982" day="20" month="10">20 Oct 1982</st1:date> <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Repatriation Legislation Amendment Act 1983</div>
+    </td>
+    <td>
+      <div>70, 1983</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1983" day="24" month="10">24 Oct 1983</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1983" day="23" month="12">23 Dec 1983</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1983, No. S335) 
+Ss. 5 and 14(2): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1983" day="1" month="11">1 Nov 1983</st1:date> 
+Remainder: Royal Assent 
 
-_(c)_     The _Australian Housing Corporation Act 1975_ and the _Defence Service Homes Amendment Act 1976_ were repealed by subsection 3(1) of the _Defence Service Homes Amendment Act 1977_. Subsection 3(2) of that Act provides that the repeals do not affect the operation of any amendment of the _Defence Service Homes Act 1918_ made by a repealed Act. The amendments made by the repealed Acts are incorporated in this reprint. 
+</div>
+    </td>
+    <td>
+      <div>S. 36</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="25" month="6">25 June 1984</st1:date></div>
+    </td>
+    <td>
+      <div>S. 3: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1984" day="23" month="7">23 July 1984</st1:date> <i style="mso-bidi-font-style: normal">(e)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
+    </td>
+    <td>
+      <div>28, 1986</div>
+    </td>
+    <td>
+      <div>19 May 1986</div>
+    </td>
+    <td>
+      <div>S. 61: Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="22" month="5">22 May 1986</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1986, No. S225) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986</div>
+    </td>
+    <td>
+      <div>29, 1986</div>
+    </td>
+    <td>
+      <div>19 May 1986</div>
+    </td>
+    <td>
+      <div><i style="mso-bidi-font-style: normal">(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>78, 1987</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="5" month="6">5 June 1987</st1:date></div>
+    </td>
+    <td>
+      <div>S. 62: 5 June 1987 <i style="mso-bidi-font-style: normal">(g)</i> 
+S. 63: <i style="mso-bidi-font-style: normal">(g)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>124, 1988</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="14" month="12">14 Dec 1988</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+S. 15: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1989, No. S190) 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="19" month="12">19 Dec 1988</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1988, No. S393) 
 
-_(d)_     The Defence Service Homes Act 1918 was amended by Part XXX (sections 84–90) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows: 
+</div>
+    </td>
+    <td>
+      <div>Ss. 17–19</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>86, 1989</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="27" month="6">27 June 1989</st1:date></div>
+    </td>
+    <td>
+      <div><i style="mso-bidi-font-style: normal">(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>93, 1989</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="27" month="6">27 June 1989</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 3(1), 9, 14 and <st1:time minute="22" hour="17">17: 22</st1:time>Dec 1988 
+Ss. 7, 11(a), (b) and 15: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="18" month="2">18 Feb 1989</st1:date> 
+S. 11(c): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="1">1 Jan 1990</st1:date> 
+S. 13: 22 May 1986 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> Veterans’ Affairs Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>2, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="8" month="1">8 Jan 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4–6, 7(a), (e)–(h), (k), 8–21 and 93: Royal Assent <i style="mso-bidi-font-style: normal">(i)</i> 
+S. 7(b) and (j): <i style="mso-bidi-font-style: normal">(i)</i> 
+S. 7(c): 18 Feb 1989 <i style="mso-bidi-font-style: normal">(i)</i> 
+S. 7(d): 2 Aug 1990 <i style="mso-bidi-font-style: normal">(i)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 5, 6, 19 (2)–(4), 13(2), 21 and 93 (am. by 73, 1991, s. 21)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
+    </td>
+    <td>
+      <div>73, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="6">25 June 1991</st1:date></div>
+    </td>
+    <td>
+      <div>( <i style="mso-bidi-font-style: normal">see</i>  73, 1991 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 129): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="8" month="1">8 Jan 1991</st1:date> <i style="mso-bidi-font-style: normal">(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Home Loans Assistance) Act 1990</div>
+    </td>
+    <td>
+      <div>14, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="21" month="1">21 Jan 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–9) and Schedule 1: Royal Assent 
+Schedule 2: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="3">1 Mar 1991</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1991, No. S24) 
+Remainder: 15 May 1991 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
+    </td>
+    <td>
+      <div>73, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="6">25 June 1991</st1:date></div>
+    </td>
+    <td>
+      <div>S. 19: <i style="mso-bidi-font-style: normal">(k)</i> 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>74, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="6">25 June 1991</st1:date></div>
+    </td>
+    <td>
+      <div>S. 5: Royal Assent <i style="mso-bidi-font-style: normal">(l)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>208, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="24" month="12">24 Dec 1991</st1:date></div>
+    </td>
+    <td>
+      <div>S. 21 (in part): Royal Assent <i style="mso-bidi-font-style: normal">(m)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>70, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="26" month="6">26 June 1992</st1:date></div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–11): Royal Assent <i style="mso-bidi-font-style: normal">(n)</i> 
+Schedule (Part 4): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date> <i style="mso-bidi-font-style: normal">(n)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 10(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>228, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="24" month="12">24 Dec 1992</st1:date></div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 4, 5): 
+ <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="1">1 Jan 1993</st1:date> <i style="mso-bidi-font-style: normal">(o)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>78, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="21" month="6">21 June 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 37: Royal Assent <i style="mso-bidi-font-style: normal">(p)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>128, 1995</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="14" month="11">14 Nov 1995</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i style="mso-bidi-font-style: normal">(q)</i> 
+Schedule 1 (items 9, 48, 49, 51, 60): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="1" month="7">1 July 1995</st1:date> <i style="mso-bidi-font-style: normal">(q)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 66)  </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1996</div>
+    </td>
+    <td>
+      <div>55, 1996</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="8" month="11">8 Nov 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–4, 6, 7): Royal Assent <i style="mso-bidi-font-style: normal">(r)</i> 
+Schedule 1 (item 5): 1 Nov 1996 <i style="mso-bidi-font-style: normal">(r)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 7) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997</div>
+    </td>
+    <td>
+      <div>7, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="5" month="3">5 Mar 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1–4): Royal Assent <i style="mso-bidi-font-style: normal">(s)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 709–715): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(t)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997</div>
+    </td>
+    <td>
+      <div>157, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="3" month="11">3 Nov 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i style="mso-bidi-font-style: normal">(u)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>183, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="27" month="11">27 Nov 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1: Royal Assent <i style="mso-bidi-font-style: normal">(v)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 10) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 381, 382): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(w)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>171, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="10" month="12">10 Dec 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 5 and Schedule 6 (items 1–5): Royal Assent <i style="mso-bidi-font-style: normal">(x)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>141, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 Nov 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i style="mso-bidi-font-style: normal">(y)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>16, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="30" month="3">30 Mar 2001</st1:date></div>
+    </td>
+    <td>
+      <div>24 May 2001 ( <i style="mso-bidi-font-style: normal">see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 135, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     By virtue of subsection 3(2) of the _War Service Homes Act 1932_, the amendment made by subsection 3(1) of that Act is deemed to have commenced on the date of commencement of the _War Service Homes Act 1918_, viz.—<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1919" day="6" month="3">6 March 1919</st1:date>. 
+
+_(b)_    The _Lands Acquisition Act 1955_ was repealed by section 3 of the _Lands Acquisition (Repeal and Consequential Provisions) Act 1989_. 
+
+_(c)_     The _Australian Housing Corporation Act 1975_ and the _Defence Service Homes Amendment Act 1976_ were repealed by subsection 3(1) of the _Defence Service Homes Amendment Act 1977_. Subsection 3(2) of that Act provides that the repeals do not affect the operation of any amendment of the _Defence Service Homes Act 1918_ made by a repealed Act. The amendments made by the repealed Acts are incorporated in this reprint. 
+
+_(d)_     The Defence Service Homes Act 1918 was amended by Part XXX (sections 84–90) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows: 
 
                (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(e)_     The _Defence Service Homes Act 1918_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows: 
+_(e)_     The _Defence Service Homes Act 1918_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(f)_      Section 2 only of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_, section 2 of which provides as follows:
+_(f)_      Section 2 only of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_, section 2 of which provides as follows:
 
-                   2.   This Act shall come into operation immediately after the provisions of the Principal Act (other than section 61) come into operation.
+                   2.   This Act shall come into operation immediately after the provisions of the Principal Act (other than section 61) come into operation.
 
-         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_ (other than section 61) came into operation on 22 May 1986 (_see_ _Gazette_ 1986, No. S225). 
+         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_ (other than section 61) came into operation on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="22" month="5">22 May 1986</st1:date> (_see_ _Gazette_ 1986, No. S225). 
 
-_(g)_     The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_ was amended by sections 62 and 63 only of the _Veterans’ Affairs Legislation Amendment Act 1987_, subsections 2(1) and (3) of which provides as follows:
+_(g)_     The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_ was amended by sections 62 and 63 only of the _Veterans’ Affairs Legislation Amendment Act 1987_, subsections 2(1) and (3) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
 
-                 (3)   Sections 61 and 63 shall be deemed to have come into operation immediately before the provisions of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_(other than section 61 of that Act) came into operation.
+                 (3)   Sections 61 and 63 shall be deemed to have come into operation immediately before the provisions of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_(other than section 61 of that Act) came into operation.
 
-         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_(other than section 61) came into operation on 22 May 1986 (_see Gazette_ 1986, No. S225). 
+         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_(other than section 61) came into operation on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="22" month="5">22 May 1986</st1:date> (_see Gazette_ 1986, No. S225). 
 
-_(h)_     Section 2 of the _Defence Service Homes Amendment Act 1989_, section 2 of which provides as follows:
+_(h)_     Section 2 of the _Defence Service Homes Amendment Act 1989_, section 2 of which provides as follows:
 
-                   2.   This Act shall be taken to have commenced immediately after the commencement of section 10 of the _Defence Service Homes Amendment Act 1988_.
+                   2.   This Act shall be taken to have commenced immediately after the commencement of section 10 of the _Defence Service Homes Amendment Act 1988_.
 
-         Section 10 commenced on 19 December 1988 (_see Gazette_ 1988, No. S393). 
+         Section 10 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="19" month="12">19 December 1988</st1:date> (_see Gazette_ 1988, No. S393). 
 
-_(i)_      The _Defence Service Homes Act 1918_ was amended by sections 4–21 only of the _Veterans’ Affairs Legislation Amendment Act 1990_, sections 2 and 7(b), (j) of which provide as follows: 
+_(i)_      The _Defence Service Homes Act 1918_ was amended by sections 4–21 only of the _Veterans’ Affairs Legislation Amendment Act 1990_, sections 2 and 7(b), (j) of which provide as follows: 
 
                    2.   Each provision of this Act commences, or is taken to have commenced, as the case requires, on the day, or at the time, shown by the note in italics at the foot of the provision.
 
@@ -7653,96 +7664,97 @@ _(i)_      The _Defence Service Homes Act 1918_ was amended by section
 
          Immediately after the commencement of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_. 
 
-         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_(other than section 61) came into operation on 22 May 1986 (_see Gazette_ 1986, No. S225). 
+         The _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986_(other than section 61) came into operation on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1986" day="22" month="5">22 May 1986</st1:date> (_see Gazette_ 1986, No. S225). 
 
-_(j)_      The _Veterans’ Affairs Legislation Amendment Act 1990_ was amended by Schedule 3 (item 129) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(j)_      The _Veterans’ Affairs Legislation Amendment Act 1990_ was amended by Schedule 3 (item 129) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(k)_     The _Defence Service Homes Act 1918_ was amended by schedule 4 only of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_, subsection 2(2) of which provices as follows:
+_(k)_     The _Defence Service Homes Act 1918_ was amended by schedule 4 only of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_, subsection 2(2) of which provices as follows:
 
-                 (2)   Section 19 commences immediately after the commencement of section 22.
+                 (2)   Section 19 commences immediately after the commencement of section 22.
 
-         Section 22 commenced 1 July 1991\. 
+         Section 22 commenced <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date>. 
 
-_(l)_      The _Defence Service Homes Act 1918_ was amended by section 5 only of the _Veterans’ Affairs Legislation Amendment Act 1991_, subsection 2(5) of which provides as follows: 
+_(l)_      The _Defence Service Homes Act 1918_ was amended by section 5 only of the _Veterans’ Affairs Legislation Amendment Act 1991_, subsection 2(5) of which provides as follows: 
 
-                 (5)   Subject to subsections (6), (7) and (8), section 5 commences on the day on which this Act receives the Royal Assent.
+                 (5)   Subject to subsections (6), (7) and (8), section 5 commences on the day on which this Act receives the Royal Assent.
 
-_(m)_    The _Defence Service Homes Act 1918_ was amended by section 21 only of the _Veterans’ Affairs Legislation Amendment Act (No. 2) 1991_, section 2 of which provides as follows: 
+_(m)_    The _Defence Service Homes Act 1918_ was amended by section 21 only of the _Veterans’ Affairs Legislation Amendment Act (No. 2) 1991_, section 2 of which provides as follows: 
 
                    2.   Each provision of this Act commences, or is taken to have commenced, as the case requires, or at the time, shown by the note in italics at the foot of the provision.
 
-_(n)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (sections 3–11) and the Schedule (Part 4) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, subsections 2(1)(b) and (8)(c) of which provide as follows: 
+_(n)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (sections 3–11) and the Schedule (Part 4) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, subsections 2(1)(b) and (8)(c) of which provide as follows: 
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal Assent: 
 
-                              (b)   Part 2; 
+                              (b)   Part 2; 
 
-                 (8)   The following provisions are taken to have commenced on 1 July 1991, immediately after the commencement of section 22 of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_: 
+                 (8)   The following provisions are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date>, immediately after the commencement of section 22 of the _Veterans’ Entitlements (Rewrite) Transition Act 1991_: 
 
-                              (c)   Part 4 of the Schedule.
+                              (c)   Part 4 of the Schedule.
 
-_(o)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (sections 4 and 5) only of the _Veterans’ Affairs Legislation Amendment Act (No. 2) 1992_, subsection 2(4)(a) of which provides as follows: 
+_(o)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (sections 4 and 5) only of the _Veterans’ Affairs Legislation Amendment Act (No. 2) 1992_, subsection 2(4)(a) of which provides as follows: 
 
                  (4)   The following provisions commence, or are taken to have commenced, on 
-  1 January 1993: 
+<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="1">1 January 1993</st1:date>: 
 
-                              (a)   Part 2;
+                              (a)   Part 2;
 
-_(p)_     The _Defence Service Homes Act 1918_ was amended by section 37 only of the _Veterans’ Affairs Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows: 
+_(p)_     The _Defence Service Homes Act 1918_ was amended by section 37 only of the _Veterans’ Affairs Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(q)_     The _Defence Service Homes Act 1918_ was amended by the _Veterans’ Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995_, subsections 2(1) and (2) of which provide as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
 
-                 (2)   Schedule 1 (other than items 9, 48, 49, 51 and 60) and Schedule 7 are taken to have commenced on 1 July 1995.
+                 (2)   Schedule 1 (other than items 9, 48, 49, 51 and 60) and Schedule 7 are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="1" month="7">1 July 1995</st1:date>.
 
-_(r)_     The _Defence Service Homes Act 1918_ was amended by Schedule 1 (items 1–7) only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996_, section 2 of which provides as follows:
+_(r)_     The _Defence Service Homes Act 1918_ was amended by Schedule 1 (items 1–7) only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996_, section 2 of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Item 5 in Schedule 1 commences as set out in item 7 in that Schedule. [_see_ Table A]
+                 (2)   Item 5 in Schedule 1 commences as set out in item 7 in that Schedule. [_see_ Table A]
 
-_(s)_     The _Defence Service Homes Act 1918_ was amended by Schedule 2 (items 1–4) only of the _Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997_, subsection 2(1) of which provides as follows:
+_(s)_     The _Defence Service Homes Act 1918_ was amended by Schedule 2 (items 1–4) only of the _Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal assent.
 
-                              (a)   sections 1, 2 and 3;
+                              (a)   sections 1, 2 and 3;
 
-                              (b)   Part 1, items 5 and 7, and Parts 6 and 9, of Schedule 1;
+                              (b)   Part 1, items 5 and 7, and Parts 6 and 9, of Schedule 1;
 
-                              (c)   Schedule 2.
+                              (c)   Schedule 2.
 
-_(t)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 (items 709–715) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(t)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 (items 709–715) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(u)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 only of the _Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(v)_ The _Defence Service Homes Act 1918_ was amended by Schedule 1 of the _Defence Service Homes Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(u)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 only of the _Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(w)_    The _Defence Service Homes Act 1918_ was amended by Schedule 1 (items 381 and 382) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(v)_ The _Defence Service Homes Act 1918_ was amended by Schedule 1 of the _Defence Service Homes Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(w)_    The _Defence Service Homes Act 1918_ was amended by Schedule 1 (items 381 and 382) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(x)_ The _Defence Service Homes Act 1918_ was amended by Schedule 5 and Schedule 6 (items 1–5) only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1999_, subsection 2(1) of which provides as follows:
+_(x)_ The _Defence Service Homes Act 1918_ was amended by Schedule 5 and Schedule 6 (items 1–5) only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(y)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 2000,_ subsection 2(1) of which provides as follows:
+_(y)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 only of the _Veterans’ Affairs Legislation Amendment Act (No. 1) 2000,_ subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-The amendment history of the _Defence Service Homes Act 1918_ appears in the Table below. For repealed provisions up to and including Act No. 124 of 1988 see the Repeal Table.
+
+The amendment history of the _Defence Service Homes Act 1918_ appears in the Table below. For repealed provisions up to and including Act No. 124 of 1988 see the Repeal Table.
 
 ## Table of Amendments
 
@@ -7755,1540 +7767,1527 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1988; No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978; No. 124, 1988; No. 2, 1991; No. 70, 1992; No. 78, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AAB</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AA</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AB</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4BA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4BB</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4B</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6B, 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6D</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995; No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 86, 1989; No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991 (as am. by No. 43, 1996); No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIA</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Renumbered s. 23AA</div>
-  </td>
-  <td>
-    <div>No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23B</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23C, 23D</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23E</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23F</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23G</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23H</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23J</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 146 and 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23K, 23L</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 70, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 74, 1991; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. Nos. 7 and 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 2, 1991; No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35AA</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35AB–35AD</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 35A</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38CA, 38CB</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38D</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38E</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38EA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38FA</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38F</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38G, 38H</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 67, 1948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 137, 1978; No. 124, 1988; No. 70, 1992; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40A</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 36, 1978; No. 4, 1980; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 1932</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 70, 1992; No. 55, 1996; No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45C</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 38, 1947; No. 25, 1975; No. 4, 1980; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50B</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975; No. 79, 1977; No. 36, 1978; No. 72, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 125, 1974; No. 185, 1976; No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedules</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title </div>
+    </td>
+    <td>
+      <div>rs. No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1988; No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part I <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AAA </div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978; No. 124, 1988; No. 2, 1991; No. 70, 1992; No. 78, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AAB </div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AA </div>
+    </td>
+    <td>
+      <div>ad. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AB </div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A </div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4BA </div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 70, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4BB </div>
+    </td>
+    <td>
+      <div>ad. No. 70, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4B </div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B </div>
+    </td>
+    <td>
+      <div>ad. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4C </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4D </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4E </div>
+    </td>
+    <td>
+      <div>ad. No. 16, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part II <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6 </div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A </div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6B, 6C </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6D </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part III <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III </div>
+    </td>
+    <td>
+      <div>rs. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995; No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A </div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18 </div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 86, 1989; No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991 (as am. by No. 43, 1996); No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A </div>
+    </td>
+    <td>
+      <div>ad. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A </div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part IIIA <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IIIA </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Renumbered s. 23AA </div>
+    </td>
+    <td>
+      <div>No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23B </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23C, 23D </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23E </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23F </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23G </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23H </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23J </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 146 and 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23K, 23L </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part IV <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 70, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 27 </div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27A </div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part V <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 74, 1991; No. 141, 2000  </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. Nos. 7 and 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 2, 1991; No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35AAA </div>
+    </td>
+    <td>
+      <div>ad. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35AA </div>
+    </td>
+    <td>
+      <div>ad. No. 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 35AB–35AD </div>
+    </td>
+    <td>
+      <div>ad. No. 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 35A </div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35A </div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000  </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part VI <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38A </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38B </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38C </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38CA, 38CB </div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38D </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38E </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000  </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38EA </div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38FA </div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38F </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38G, 38H </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part VII <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VII </div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 67, 1948</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 137, 1978; No. 124, 1988; No. 70, 1992; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40A </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40A </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 36, 1978; No. 4, 1980; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part VIII <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43 </div>
+    </td>
+    <td>
+      <div>rs. No. 6, 1932</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44 </div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45 </div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 70, 1992; No. 55, 1996; No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> S. 45A </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45B </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 38, 1947; No. 25, 1975; No. 4, 1980; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50A </div>
+    </td>
+    <td>
+      <div>ad. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50B </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975; No. 79, 1977; No. 36, 1978; No. 72, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 86, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51 </div>
+    </td>
+    <td>
+      <div>am. No. 125, 1974; No. 185, 1976; No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedules <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1A </div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2 </div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
 
-The amendment history of the repealed provisions of the _Defence Service Homes Act 1918_ up to and including Act No. 124 of 1988 appears in the Table below.
+
+The amendment history of the repealed provisions of the _Defence Service Homes Act 1918_ up to and including Act No. 124 of 1988 appears in the Table below.
 
 ## Repeal Table
 
@@ -9301,1932 +9300,1939 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 73, 1961</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968; No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5A–5C</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1937; No. 1, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 26, 1925</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 74, 1951; No. 93, 1966 (as am. by No. 3, 1967); No. 25, 1975; No. 185, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 1, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III 
-(ss. 16A, 16B, 17, 17A, 17B, 18A)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 38, 1947; No. 69, 1954; No. 69, 1955; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17B</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 25, 1975; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 74, 1951</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 17, 1927; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV 
-(ss. 19, 19A, 19B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 137, 1978; Nos. 4 and 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 13, 1929; No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V 
-(ss. 20, 20A, 21–23, 25–27, 27A, 27B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 8, 1946; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 25, 1975; No. 28, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 185, 1976; No. 4, 1980; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1920; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 100, 1956; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27A</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27B</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI 
-(ss. 28, 29, 29AA, 29AB, 29A, 30, 30A, 30B, 31, 32, 32A, 33–35, 36, 36A, 37, 38, 38A, 38B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 125, 1974; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 68, 1932; No. 38, 1947; No. 69, 1954; No. 73, 1961; No. 93, 1966 (as am. by No. 3, 1967); No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 137, 1978; No. 4, 1980; No. 70, 1983; No. 73, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29AA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 13, 1929; No. 6, 1932; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923; No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 13, 1929; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 6, 1932; No. 54, 1935; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 137, 1978; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 67, 1948; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 4, 1980; No. 70, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1920; No. 13, 1929; No. 54, 1935; No. 38, 1947; No. 74, 1951; No. 65, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 93, 1966 (as am. by No. 3, 1967)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39B</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39C</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 1935; No. 38, 1947; No. 67, 1948; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42B</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42C</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42D</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 8, 1946; No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AA</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AB</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48D</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48E</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 47, 1926; No. 38, 1947; No. 99, 1968; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 1946</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>rs. No. 73, 1961</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968; No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5A–5C </div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6 </div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8 </div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 25, 1937; No. 1, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10, 11 </div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12 </div>
+    </td>
+    <td>
+      <div>am. No. 26, 1925</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13 </div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 74, 1951; No. 93, 1966 (as am. by No. 3, 1967); No. 25, 1975; No. 185, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15 </div>
+    </td>
+    <td>
+      <div>am. No. 25, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 1, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III  
+(ss. 16A, 16B, 17, 17A, 17B, 18A) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 38, 1947; No. 69, 1954; No. 69, 1955; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> S. 16A </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16B </div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17B </div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 25, 1975; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 74, 1951</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 17, 1927; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV  
+(ss. 19, 19A, 19B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 137, 1978; Nos. 4 and 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 13, 1929; No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V  
+(ss. 20, 20A, 21–23, 25–27, 27A, 27B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 8, 1946; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 25, 1975; No. 28, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20A </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 185, 1976; No. 4, 1980; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 </div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
+    </td>
+    <td>
+      <div>am. No. 35, 1920; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 100, 1956; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26 </div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27A </div>
+    </td>
+    <td>
+      <div>ad. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27B </div>
+    </td>
+    <td>
+      <div>ad. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI  
+(ss. 28, 29, 29AA, 29AB, 29A, 30, 30A, 30B, 31, 32, 32A, 33–35, 36, 36A, 37, 38, 38A, 38B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28 </div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 125, 1974; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28B </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 68, 1932; No. 38, 1947; No. 69, 1954; No. 73, 1961; No. 93, 1966 (as am. by No. 3, 1967); No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 137, 1978; No. 4, 1980; No. 70, 1983; No. 73, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29AA </div>
+    </td>
+    <td>
+      <div>ad. No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29AB </div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30 </div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30A </div>
+    </td>
+    <td>
+      <div>ad. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30B </div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 13, 1929; No. 6, 1932; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923; No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32A </div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33 </div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35 </div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 13, 1929; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36 </div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 6, 1932; No. 54, 1935; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 137, 1978; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36A </div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38 </div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 67, 1948; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 4, 1980; No. 70, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38A </div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38B </div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39 </div>
+    </td>
+    <td>
+      <div>am. No. 35, 1920; No. 13, 1929; No. 54, 1935; No. 38, 1947; No. 74, 1951; No. 65, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39A </div>
+    </td>
+    <td>
+      <div>ad. No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 93, 1966 (as am. by No. 3, 1967)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39AB </div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39B </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39C </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41 </div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 54, 1935; No. 38, 1947; No. 67, 1948; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42A </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42B </div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42C </div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rs. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42D </div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 1946; No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48A </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48AA </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48AB </div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48B </div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48C </div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48D </div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48E </div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49 </div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50 </div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 47, 1926; No. 38, 1947; No. 99, 1968; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50C </div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 1946</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule </div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, Saving or Transitional Provisions
 
-_Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)_
+_Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)<o:p></o:p>_
 
-## 7  Commencement, transitional and saving provisions
+## 7  Commencement, transitional and saving provisions
 
-             (1)  Item 5 commences, or is taken to have commenced, on:
+             (1)  Item 5 commences, or is taken to have commenced, on:
 
-                     (a)  1 November 1996; or 
+                     (a)  <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="1" month="11">1 November 1996</st1:date>; or 
 
-                     (b)  if the Consumer Credit Codes commencing day is after 1 November 1996—the Consumer Credit Codes commencing day.
+                     (b)  if the Consumer Credit Codes commencing day is after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="1" month="11">1 November 1996</st1:date>—the Consumer Credit Codes commencing day.
 
-             (2)  Despite subitem (1) and anything in a Consumer Credit Code of a State or Territory, the Bank is taken, at all times before 1 June 1997, to have been entitled to calculate and charge interest in respect of subsidised advances, and amounts owed under loans secured by specified portfolio assets, in the manner prescribed by the agreement as in force immediately before the day on which this Act receives the Royal Assent.
+             (2)  Despite subitem (1) and anything in a Consumer Credit Code of a State or Territory, the Bank is taken, at all times before 1 June 1997, to have been entitled to calculate and charge interest in respect of subsidised advances, and amounts owed under loans secured by specified portfolio assets, in the manner prescribed by the agreement as in force immediately before the day on which this Act receives the Royal Assent.
 
              (3)  If, during a period:
 
-                     (a)  beginning on or after the day on which item 5 commences or is taken to have commenced; and
+                     (a)  beginning on or after the day on which item 5 commences or is taken to have commenced; and
 
-                     (b)  ending before 1 June 1997;     
+                     (b) ending before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="6">1 June 1997</st1:date>;     
 
-                   the Bank calculates and charges interest in respect of subsidised advances and amounts owed under loans secured by specified portfolio agreements as permitted by subitem (2), the agreement applies, in respect of that period in relation to those subsidised advances and loans:
+                   the Bank calculates and charges interest in respect of subsidised advances and amounts owed under loans secured by specified portfolio agreements as permitted by subitem (2), the agreement applies, in respect of that period in relation to those subsidised advances and loans:
 
                      (c)  as in force immediately before the day on which this Act receives the Royal Assent; and
 
-                     (d)  as if section 35A of the _Defence Service Homes Act 1918_ had not been enacted.
+                     (d)  as if section 35A of the _Defence Service Homes Act 1918_ had not been enacted.
 
-             (4)  The Bank and the Commonwealth are to try, so far as possible, to arrange for a notice to be given to each borrower, mortgagor or guarantor explaining the effect, on and after the day on which item 5 commences or is taken to have commenced, of subsections 35A(1) to (3) of the _Defence Service Homes Act 1918_.
+             (4)  The Bank and the Commonwealth are to try, so far as possible, to arrange for a notice to be given to each borrower, mortgagor or guarantor explaining the effect, on and after the day on which item 5 commences or is taken to have commenced, of subsections 35A(1) to (3) of the _Defence Service Homes Act 1918_.
 
              (5)  Expressions used in this section that are defined by subsection 4(1) of the _Defence Service Homes Act 1918_ have the same meanings as in that subsection.
 
 * * *
 
-_Defence Service Homes Amendment Act 1997 (No. 183, 1997)_
+_Defence Service Homes Amendment Act 1997 (No. 183, 1997)<o:p></o:p>_
 
 ## 10  Application of amendments
 
-             (1)  The amendments made by items 1 to 6 apply to certificates of entitlement issued on or after 5 January 1998.
+             (1)  The amendments made by items 1 to 6 apply to certificates of entitlement issued on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="5" month="1">5 January 1998</st1:date>.
 
-             (2)  The amendments made by items 7 and 9 apply to interest payable on subsidised advances, or on amounts owed to the Bank in relation to specified portfolio assets, if the interest is calculated for 5 January 1998 or any later day.
+             (2)  The amendments made by items 7 and 9 apply to interest payable on subsidised advances, or on amounts owed to the Bank in relation to specified portfolio assets, if the interest is calculated for <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="5" month="1">5 January 1998</st1:date> or any later day.
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -11242,12 +11248,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
