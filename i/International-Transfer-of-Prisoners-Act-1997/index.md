@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00130/Html/8af645be-5c7d-4811-90e2-a3df555c4901_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00811/Html/IntTransPris97_WD02_image001.gif)
 
 # International Transfer of Prisoners Act 1997
 
 **Act No. 75 of 1997 as amended**
 
-This compilation was prepared on 7 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 14 December 2010
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,8 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -120,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44](#44).          Directions concerning enforcement of sentence
 
-[45](#45).          Appeal and review of sentences of imprisonment imposed by transfer country or Tribunal and sentence enforcement decisions of Attorney‑General
+[45](#45).          Appeal and review of sentences of imprisonment imposed by transfer country or Tribunal and sentence enforcement decisions of Attorney-General
 
 [46](#46).          Prisoner transferred to Australia taken to be federal prisoner
 
@@ -145,8 +145,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [55](#55).          Transit of prisoners
 
 [56](#56).          Arrest of persons escaping from custody
-
-[56A](#56A).       Aiding persons to escape etc 
 
 [57](#57).          Consent of the Immigration Minister
 
@@ -186,7 +184,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="appropri-ministeri-consent"></a>**_appropriate Ministerial consent_** means Ministerial consent given as required by section 5.
 
-                    <a name="attornei-gener"></a>**_Attorney‑General_** means the Attorney‑General of the Commonwealth.
+                    <a name="attornei-gener"></a>**_Attorney-General_** means the Attorney-General of the Commonwealth.
 
                     <a name="australian-court"></a>**_Australian court_** means a court or tribunal of the Commonwealth, a State or a Territory.
 
@@ -210,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="foreign-law"></a>**_foreign law_** means a law of a foreign country or of a part of, or in force in a part of, a foreign country.
 
-                    <a name="former-yugoslavia-tribun"></a>**_Former Yugoslavia Tribunal_**:
+                    <a name="tribun"></a><a name="yugoslavia"></a><a name="former"></a>**_Former_****_Yugoslavia_****_Tribunal_**:
 
                      (a)  means the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991, established by Resolution 827 (1993) of the Security Council of the United Nations, a copy of the English text of which is set out in Schedule 1 to the _International War Crimes Tribunals Act 1995_; and
 
@@ -238,7 +236,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="nation"></a>**_national_** of a country means a person who is a citizen of the country under the law of the country.
 
-                    <a name="non-parol-period"></a>**_non‑parole period_**, in relation to a sentence of imprisonment, means that part of the period of imprisonment for that sentence during which the person is not to be released on parole, whether that part of the period is fixed or recommended by a court or tribunal or fixed by operation of law.
+                    <a name="non-parol-period"></a>**_non-parole period_**, in relation to a sentence of imprisonment, means that part of the period of imprisonment for that sentence during which the person is not to be released on parole, whether that part of the period is fixed or recommended by a court or tribunal or fixed by operation of law.
 
                     <a name="polic-offic"></a>**_police officer_** means:
 
@@ -270,7 +268,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="sentenc-imprison"></a>**_sentence of imprisonment_** means any punishment or measure involving deprivation of liberty ordered by a court or tribunal for a determinate or indeterminate period in the exercise of its criminal jurisdiction and includes any direction or order given or made by the court or tribunal with respect to the commencement of the punishment or measure.
 
-                    <a name="state"></a>**_State_** includes the ACT and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the ACT and the Northern   Territory.
 
                     <a name="state-minist"></a>**_State Minister_** means:
 
@@ -278,7 +276,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  in relation to the ACT—the ACT Minister; and
 
-                     (c)  in relation to the Northern Territory—the Minister for the Northern Territory administering the law of the Northern Territory relating to the transfer of prisoners;
+                     (c)  in relation to the Northern   Territory—the Minister for the Northern Territory administering the law of the Northern Territory relating to the transfer of prisoners;
 
 and includes any Minister acting for the time being for or on behalf of that Minister and any person to whom the Minister has delegated any of the Minister’s functions under this Act.
 
@@ -292,7 +290,7 @@ and includes any Minister acting for the time being for or on behalf of that Min
 
                     <a name="superintend"></a>**_superintendent_** of a prison means the person for the time being in charge of the prison.
 
-                    <a name="territori"></a>**_Territory_** means the Jervis Bay Territory, Norfolk Island, the Territory of Christmas Island and the Territory of Cocos (Keeling)  Islands, but does not include the ACT and the Northern Territory.
+                    <a name="territori"></a>**_Territory_** means the Jervis Bay Territory, Norfolk  Island, the Territory of Christmas Island and the Territory of Cocos (Keeling)  Islands, but does not include the ACT and the Northern Territory.
 
                     <a name="territori-minist"></a>**_Territory Minister_** means:
 
@@ -354,7 +352,7 @@ and includes any Minister acting for the time being for or on behalf of that Min
 
                      (d)  the prisoner has a close continuing relationship (involving frequent personal contact and a personal interest in the other person’s welfare) with anyone whose principal place of residence is in that State or Territory.
 
-##### <a id="4A"></a>4A  Sentences of imprisonment imposed by military commissions of the United States of America
+##### <a id="4A"></a>4A  Sentences of imprisonment imposed by military commissions of the United   States of America
 
                    For the purposes of this Act:
 
@@ -368,17 +366,17 @@ and includes any Minister acting for the time being for or on behalf of that Min
 
              (1)  Ministerial consent to the transfer of a prisoner from Australia to a transfer country is required to be given:
 
-                     (a)  if the prisoner is a federal prisoner—by the Attorney‑General; or
+                     (a)  if the prisoner is a federal prisoner—by the Attorney-General; or
 
-                     (b)  if the prisoner is a State prisoner—by both the Attorney‑General and the State Minister concerned; or
+                     (b)  if the prisoner is a State prisoner—by both the Attorney-General and the State Minister concerned; or
 
-                     (c)  if the prisoner is a Territory prisoner—by both the Attorney‑General and the Territory Minister concerned; or
+                     (c)  if the prisoner is a Territory prisoner—by both the Attorney-General and the Territory Minister concerned; or
 
-                     (d)  if the prisoner is a joint prisoner—by the Attorney‑General and all State Ministers or Territory Ministers concerned.
+                     (d)  if the prisoner is a joint prisoner—by the Attorney-General and all State Ministers or Territory Ministers concerned.
 
              (2)  Ministerial consent to the transfer of a prisoner from a transfer country to Australia is required to be given:
 
-                     (a)  by both the Attorney‑General and the State or Territory Minister of the State or Territory in which the prisoner is to begin to complete serving a sentence of imprisonment imposed by the transfer country in accordance with this Act; and
+                     (a)  by both the Attorney-General and the State or Territory Minister of the State or Territory in which the prisoner is to begin to complete serving a sentence of imprisonment imposed by the transfer country in accordance with this Act; and
 
                      (b)  if applicable:
 
@@ -388,7 +386,7 @@ and includes any Minister acting for the time being for or on behalf of that Min
 
 Note:       Community ties with a State or Territory is defined in subsection 4(5).
 
-             (3)  Ministerial consent to the transfer of a Tribunal prisoner from a Tribunal country to Australia is required to be given by the Attorney‑General and the State Minister or Territory Minister of the State or Territory in which the Tribunal prisoner is to begin to complete serving the sentence of imprisonment imposed by the Tribunal in accordance with this Act.
+             (3)  Ministerial consent to the transfer of a Tribunal prisoner from a Tribunal country to Australia is required to be given by the Attorney-General and the State Minister or Territory Minister of the State or Territory in which the Tribunal prisoner is to begin to complete serving the sentence of imprisonment imposed by the Tribunal in accordance with this Act.
 
 Note:          A prisoner may be transferred from the prison, hospital or other place in which the prisoner begins to complete serving a sentence of imprisonment to another prison, hospital or other place in the State or Territory or to a prison, hospital or other place in another State or Territory. See paragraphs 46(5)(d), (e) and (i).
 
@@ -494,7 +492,7 @@ are taken to be part of the country.
 
                      (e)  the relevant conditions for transfer of the prisoner are satisfied; and
 
-                      (f)  the transfer of the prisoner is not likely to prevent the surrender of the prisoner to any extradition country known by the Attorney‑General to have requested the extradition of the prisoner or to have expressed interest in extraditing the prisoner or that, in the opinion of the Attorney‑General, is reasonably likely to request extradition.
+                      (f)  the transfer of the prisoner is not likely to prevent the surrender of the prisoner to any extradition country known by the Attorney-General to have requested the extradition of the prisoner or to have expressed interest in extraditing the prisoner or that, in the opinion of the Attorney-General, is reasonably likely to request extradition.
 
 ##### <a id="11"></a>11  When may a Tribunal prisoner be transferred?
 
@@ -502,7 +500,7 @@ are taken to be part of the country.
 
                      (a)  Australia and the Tribunal have agreed to the transfer of the prisoner on terms agreed under this Act; and
 
-                     (b)  unless the Attorney‑General determines that it is not necessary in the prisoner’s case—the prisoner or prisoner’s representative has consented to transfer on those terms; and
+                     (b)  unless the Attorney-General determines that it is not necessary in the prisoner’s case—the prisoner or prisoner’s representative has consented to transfer on those terms; and
 
                      (c)  appropriate Ministerial consent in writing has been given to transfer on those terms; and
 
@@ -528,11 +526,11 @@ Note:          Community ties with a transfer country is defin
 
 Note:          Community ties with a State or Territory is defined in subsection 4(5).
 
-             (2)  If a request is made for the transfer of a prisoner (other than a Tribunal prisoner) to Australia, the Attorney‑General must consult with the Immigration Minister about whether the prisoner:
+             (2)  If a request is made for the transfer of a prisoner (other than a Tribunal prisoner) to Australia, the Attorney-General must consult with the Immigration Minister about whether the prisoner:
 
                      (a)  is eligible under subsection (1) for a transfer to Australia; or
 
-                     (b)  is likely to be eligible under subsection (1) for a transfer to Australia at a future time specified by the Attorney‑General for the purposes of the consultation.
+                     (b)  is likely to be eligible under subsection (1) for a transfer to Australia at a future time specified by the Attorney-General for the purposes of the consultation.
 
 ##### <a id="14"></a>14  Transfer conditions—transfer from Australia
 
@@ -542,7 +540,7 @@ Note:          Community ties with a State or Territory is def
 
                      (b)  subject to subsection (3), the acts or omissions constituting the offence on account of which the prisoner is serving the sentence in Australia would, if the acts or omissions had occurred in the transfer country, have constituted an offence in the transfer country; and
 
-                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney‑General has determined that, in the circumstances, transfer for a shorter period is acceptable.
+                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney-General has determined that, in the circumstances, transfer for a shorter period is acceptable.
 
              (2)  The conditions for transfer from Australia of a mentally impaired prisoner are satisfied if:
 
@@ -556,9 +554,9 @@ Note:          Community ties with a State or Territory is def
 
                             would, if the acts or omissions had occurred in the transfer country, have constituted an offence in the transfer country; and
 
-                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not any review affecting the duration of the sentence is pending), or a shorter period remains to be served and the Attorney‑General has determined that, in the circumstances of the case, transfer for a shorter period is acceptable.
+                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not any review affecting the duration of the sentence is pending), or a shorter period remains to be served and the Attorney-General has determined that, in the circumstances of the case, transfer for a shorter period is acceptable.
 
-             (3)  The Attorney‑General may determine that the requirements of subsection (1)(b) or (2)(b) need not be satisfied in a particular prisoner’s case.
+             (3)  The Attorney-General may determine that the requirements of subsection (1)(b) or (2)(b) need not be satisfied in a particular prisoner’s case.
 
 ##### <a id="15"></a>15  Transfer conditions—transfer to Australia
 
@@ -568,7 +566,7 @@ Note:          Community ties with a State or Territory is def
 
                      (b)  subject to subsection (3), the acts or omissions constituting the offence on account of which the prisoner is serving the sentence in the transfer country would, if the acts or omissions had occurred in Australia, have constituted an offence in Australia; and
 
-                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney‑General has determined that, in the circumstances, transfer for a shorter period is acceptable.
+                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney-General has determined that, in the circumstances, transfer for a shorter period is acceptable.
 
              (2)  The conditions for transfer to Australia of a mentally impaired prisoner are satisfied if:
 
@@ -582,49 +580,49 @@ Note:          Community ties with a State or Territory is def
 
                             would, if the acts or omissions had occurred in Australia, have constituted an offence in Australia; and
 
-                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not any review affecting the duration of the sentence is pending), or a shorter period remains to be served and the Attorney‑General has determined that, in the circumstances, transfer for a shorter period is acceptable.
+                     (c)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not any review affecting the duration of the sentence is pending), or a shorter period remains to be served and the Attorney-General has determined that, in the circumstances, transfer for a shorter period is acceptable.
 
-             (3)  The Attorney‑General may determine that the requirements of subsection (1)(b) or (2)(b) need not be satisfied in a particular prisoner’s case.
+             (3)  The Attorney-General may determine that the requirements of subsection (1)(b) or (2)(b) need not be satisfied in a particular prisoner’s case.
 
              (4)  The conditions for transfer to Australia of a Tribunal prisoner are satisfied if:
 
                      (a)  neither the sentence of imprisonment imposed by the Tribunal nor the conviction on which it is based is subject to appeal under the Statute of the Tribunal; and
 
-                     (b)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney‑General has determined that, in the circumstances, transfer for a shorter period is acceptable.
+                     (b)  if the sentence of imprisonment is determinate—on the day of receipt of the request for transfer at least 6 months of the prisoner’s sentence remains to be served (whether or not the prisoner has been released on parole), or a shorter period remains to be served and the Attorney-General has determined that, in the circumstances, transfer for a shorter period is acceptable.
 
 ## Part 3—Transfers from Australia
 
 ##### <a id="16"></a>16  Applications for transfer from Australia
 
-                   A prisoner serving a sentence of imprisonment in Australia, or the prisoner’s representative, may apply to the Attorney‑General, in the manner prescribed by the regulations, for transfer of the prisoner to a transfer country to complete serving the sentence on terms agreed in accordance with this Act.
+                   A prisoner serving a sentence of imprisonment in Australia, or the prisoner’s representative, may apply to the Attorney-General, in the manner prescribed by the regulations, for transfer of the prisoner to a transfer country to complete serving the sentence on terms agreed in accordance with this Act.
 
 ##### <a id="17"></a>17  Preliminary consideration of application for transfer
 
-             (1)  The Attorney‑General is to forward a copy of the application:
+             (1)  The Attorney-General is to forward a copy of the application:
 
                      (a)  to the State Minister of the State, or Territory Minister of the Territory, in which the prisoner is serving the sentence of imprisonment; and
 
                      (b)  to any other State or Territory Minister or Ministers whose consent to the transfer is required under this Act.
 
-             (2)  A Minister to whom an application is forwarded may advise the Attorney‑General of any matter the Minister considers relevant to the processing of the application.
+             (2)  A Minister to whom an application is forwarded may advise the Attorney-General of any matter the Minister considers relevant to the processing of the application.
 
-             (3)  A Minister to whom an application is forwarded may request the Attorney‑General to obtain information from the transfer country that is relevant to the Minister’s assessment of the application.
+             (3)  A Minister to whom an application is forwarded may request the Attorney-General to obtain information from the transfer country that is relevant to the Minister’s assessment of the application.
 
-             (4)  The Attorney‑General is to notify a transfer country of any application for transfer to that country and may request the transfer country to indicate its provisional views on the application, including the method by which it is likely that the sentence of imprisonment would be enforced by the transfer country if, following a formal request for transfer, it consents to the transfer.
+             (4)  The Attorney-General is to notify a transfer country of any application for transfer to that country and may request the transfer country to indicate its provisional views on the application, including the method by which it is likely that the sentence of imprisonment would be enforced by the transfer country if, following a formal request for transfer, it consents to the transfer.
 
-             (5)  The Attorney‑General may provide the transfer country with:
+             (5)  The Attorney-General may provide the transfer country with:
 
-                     (a)  details of any request for extradition of the prisoner that has been made under the _Extradition Act 1988_ or of any expression of interest in extradition made by another country or of any country that, in the opinion of the Attorney‑General, may wish to extradite the prisoner; and
+                     (a)  details of any request for extradition of the prisoner that has been made under the _Extradition Act 1988_ or of any expression of interest in extradition made by another country or of any country that, in the opinion of the Attorney-General, may wish to extradite the prisoner; and
 
-                     (b)  any other information the Attorney‑General considers may assist the transfer country in giving its provisional views on the proposed transfer.
+                     (b)  any other information the Attorney-General considers may assist the transfer country in giving its provisional views on the proposed transfer.
 
 ##### <a id="18"></a>18  Formal request for transfer
 
-             (1)  The Attorney‑General may make a formal request in writing for transfer of a prisoner from Australia to a transfer country.
+             (1)  The Attorney-General may make a formal request in writing for transfer of a prisoner from Australia to a transfer country.
 
-             (2)  In deciding whether to make a formal request, the Attorney‑General may take into account any matter the Attorney‑General considers relevant, including any matter advised by a State or Territory Minister.
+             (2)  In deciding whether to make a formal request, the Attorney-General may take into account any matter the Attorney-General considers relevant, including any matter advised by a State or Territory Minister.
 
-             (3)  The Attorney‑General is not to make a formal request for transfer of a prisoner to a transfer country unless the Attorney‑General is satisfied that the transfer will (if the consents referred to in subsection 20(2) are given) be able to be made in compliance with section 10.
+             (3)  The Attorney-General is not to make a formal request for transfer of a prisoner to a transfer country unless the Attorney-General is satisfied that the transfer will (if the consents referred to in subsection 20(2) are given) be able to be made in compliance with section 10.
 
 ##### <a id="19"></a>19  Information to accompany a formal request
 
@@ -632,23 +630,23 @@ Note:          Community ties with a State or Territory is def
 
                      (a)  any information required to be provided in accordance with arrangements made with the transfer country; and
 
-                     (b)  any other available information the Attorney‑General considers relevant to the request and that may appropriately be provided.
+                     (b)  any other available information the Attorney-General considers relevant to the request and that may appropriately be provided.
 
 ##### <a id="20"></a>20  Governmental consent to transfer from Australia
 
-             (1)  The Attorney‑General is to notify the prisoner (or the prisoner’s representative) and any State or Territory Minister or Ministers whose consent to the transfer is required under this Act:
+             (1)  The Attorney-General is to notify the prisoner (or the prisoner’s representative) and any State or Territory Minister or Ministers whose consent to the transfer is required under this Act:
 
                      (a)  of the transfer country’s decision; and
 
                      (b)  if consent is given, of the proposed method by which the sentence of imprisonment will be enforced by the transfer country and any other proposed terms of transfer.
 
-             (2)  The prisoner or prisoner’s representative and Minister concerned are to advise the Attorney‑General as to whether they consent to the transfer on the terms proposed by the transfer country.
+             (2)  The prisoner or prisoner’s representative and Minister concerned are to advise the Attorney-General as to whether they consent to the transfer on the terms proposed by the transfer country.
 
-             (3)  The Attorney‑General is to determine whether or not consent should be given to the transfer of a prisoner on the terms proposed by the transfer country and is to notify the transfer country as to whether consent has been given to transfer of the prisoner on those terms or, if consent will be given if the transfer country agrees to variation of the terms, of the variation proposed.
+             (3)  The Attorney-General is to determine whether or not consent should be given to the transfer of a prisoner on the terms proposed by the transfer country and is to notify the transfer country as to whether consent has been given to transfer of the prisoner on those terms or, if consent will be given if the transfer country agrees to variation of the terms, of the variation proposed.
 
 ##### <a id="21"></a>21  Issue of warrant for transfer from Australia
 
-                   The Attorney‑General may, subject to Part 2, issue a warrant, in the form prescribed by the regulations, for the transfer of the prisoner from Australia to a transfer country if the prisoner’s or the prisoner’s representative’s consent and appropriate Ministerial consent in writing to the transfer on the terms proposed by the transfer country (or, if the transfer country has agreed to variation of the terms, the terms as varied) have been given.
+                   The Attorney-General may, subject to Part 2, issue a warrant, in the form prescribed by the regulations, for the transfer of the prisoner from Australia to a transfer country if the prisoner’s or the prisoner’s representative’s consent and appropriate Ministerial consent in writing to the transfer on the terms proposed by the transfer country (or, if the transfer country has agreed to variation of the terms, the terms as varied) have been given.
 
 ##### <a id="22"></a>22  Warrants for transfer from Australia
 
@@ -682,45 +680,45 @@ Note:          Community ties with a State or Territory is def
 
                      (b)  to specify any procedures for the transfer of the prisoner to the transfer country that have been agreed upon with the transfer country and to give any necessary authorisations and directions.
 
-             (5)  The Attorney‑General may give any direction or approval that is necessary to ensure that the warrant is executed in accordance with its tenor.
+             (5)  The Attorney-General may give any direction or approval that is necessary to ensure that the warrant is executed in accordance with its tenor.
 
 ##### <a id="23"></a>23  Cancellation of warrant for transfer from Australia
 
-             (1)  The Attorney‑General may cancel a warrant for transfer from Australia at any time before the prisoner it concerns leaves Australia.
+             (1)  The Attorney-General may cancel a warrant for transfer from Australia at any time before the prisoner it concerns leaves Australia.
 
-             (2)  Without limiting the grounds on which the Attorney‑General may cancel a warrant for transfer, it must be cancelled if the Attorney‑General, a State or Territory Minister, the prisoner or prisoner’s representative or the transfer country concerned, withdraws consent to the transfer.
+             (2)  Without limiting the grounds on which the Attorney-General may cancel a warrant for transfer, it must be cancelled if the Attorney-General, a State or Territory Minister, the prisoner or prisoner’s representative or the transfer country concerned, withdraws consent to the transfer.
 
 ## Part 4—Transfers to Australia of prisoners from transfer countries
 
 ##### <a id="24"></a>24  Transfer request from outside Australia
 
-                   The Attorney‑General may consent to a request from a transfer country for the transfer of a prisoner (other than a Tribunal prisoner) serving a sentence of imprisonment in that country to Australia to complete serving the sentence on terms agreed under this Act if the Attorney‑General is satisfied that, were the Attorney‑General to give that consent, the transfer could be made in compliance with section 10.
+                   The Attorney-General may consent to a request from a transfer country for the transfer of a prisoner (other than a Tribunal prisoner) serving a sentence of imprisonment in that country to Australia to complete serving the sentence on terms agreed under this Act if the Attorney-General is satisfied that, were the Attorney-General to give that consent, the transfer could be made in compliance with section 10.
 
 ##### <a id="25"></a>25  Information to accompany request
 
-                   Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney‑General may request the transfer country to provide:
+                   Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney-General may request the transfer country to provide:
 
                      (a)  details of any request for extradition of the prisoner that has been made to the transfer country or of any country that has expressed interest in extraditing the prisoner or that is likely, in the opinion of the transfer country, to request extradition; and
 
-                     (b)  any other information the Attorney‑General considers relevant to the assessment of whether consent should be given for the transfer of the prisoner to Australia.
+                     (b)  any other information the Attorney-General considers relevant to the assessment of whether consent should be given for the transfer of the prisoner to Australia.
 
 ##### <a id="26"></a>26  Enforcement of foreign sentence
 
-                   Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney‑General is to determine, in accordance with Part 6, the method by which the sentence of imprisonment imposed by the transfer country will be enforced in Australia if the prisoner is transferred and is to advise the transfer country of this and of any other proposed terms on which consent will be given to the transfer.
+                   Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney-General is to determine, in accordance with Part 6, the method by which the sentence of imprisonment imposed by the transfer country will be enforced in Australia if the prisoner is transferred and is to advise the transfer country of this and of any other proposed terms on which consent will be given to the transfer.
 
 ##### <a id="27"></a>27  Governmental consent to transfer to Australia
 
-             (1)  Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney‑General is to notify the State or Territory Minister of the place in which the prisoner wishes to begin to complete serving the sentence of imprisonment imposed by the transfer country in Australia, in writing, in the form prescribed by the regulations, of receipt of the request.
+             (1)  Before consenting to the transfer of a prisoner to Australia under this Part, the Attorney-General is to notify the State or Territory Minister of the place in which the prisoner wishes to begin to complete serving the sentence of imprisonment imposed by the transfer country in Australia, in writing, in the form prescribed by the regulations, of receipt of the request.
 
-             (2)  If the prisoner wishes to begin to complete serving the sentence of imprisonment in New South Wales or Western Australia but has community ties with the ACT or a Territory, the Attorney‑General is also to notify the ACT Minister or Territory Minister concerned of the matters referred to in subsection (1).
+             (2)  If the prisoner wishes to begin to complete serving the sentence of imprisonment in New South Wales or Western   Australia but has community ties with the ACT or a Territory, the Attorney-General is also to notify the ACT Minister or Territory Minister concerned of the matters referred to in subsection (1).
 
 Note:          Community ties with a State or Territory is defined in subsection 4(5).
 
-             (3)  The Attorney‑General is to provide each Minister concerned with any information that the transfer country has given the Attorney‑General and particulars of the method by which the Attorney‑General considers the sentence of imprisonment imposed by the transfer country could be enforced by Australia and any other proposed terms of the transfer.
+             (3)  The Attorney-General is to provide each Minister concerned with any information that the transfer country has given the Attorney-General and particulars of the method by which the Attorney-General considers the sentence of imprisonment imposed by the transfer country could be enforced by Australia and any other proposed terms of the transfer.
 
-             (4)  Each Minister concerned is to advise the Attorney‑General in writing as to whether the Minister consents to the transfer on the terms proposed as soon as possible after receiving the notification.
+             (4)  Each Minister concerned is to advise the Attorney-General in writing as to whether the Minister consents to the transfer on the terms proposed as soon as possible after receiving the notification.
 
-             (5)  If the Minister of the State or Territory in which the prisoner is to begin to complete serving the sentence of imprisonment imposed by the transfer country consents to the transfer, the Minister is to advise the Attorney‑General of:
+             (5)  If the Minister of the State or Territory in which the prisoner is to begin to complete serving the sentence of imprisonment imposed by the transfer country consents to the transfer, the Minister is to advise the Attorney-General of:
 
                      (a)  the prison, or hospital or other place, in which the prisoner will begin to complete serving the sentence in the State or Territory; and
 
@@ -732,11 +730,11 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="28"></a>28  Formal consent to transfer
 
-                   The Attorney‑General is to notify the transfer country as soon as possible after all appropriate Ministerial consents to the transfer have been given and is to ask the transfer country to formally consent to the transfer on the terms proposed by Australia and to advise of the prisoner’s formal consent to transfer on those terms.
+                   The Attorney-General is to notify the transfer country as soon as possible after all appropriate Ministerial consents to the transfer have been given and is to ask the transfer country to formally consent to the transfer on the terms proposed by Australia and to advise of the prisoner’s formal consent to transfer on those terms.
 
 ##### <a id="29"></a>29  Issue of warrant for transfer to Australia
 
-                   The Attorney‑General may issue a warrant, in the form prescribed by the regulations, for the transfer of the prisoner from a transfer country to Australia if the written consent of the prisoner or prisoner’s representative and the transfer country and appropriate Ministerial consent in writing to transfer on the terms proposed by Australia have been given.
+                   The Attorney-General may issue a warrant, in the form prescribed by the regulations, for the transfer of the prisoner from a transfer country to Australia if the written consent of the prisoner or prisoner’s representative and the transfer country and appropriate Ministerial consent in writing to transfer on the terms proposed by Australia have been given.
 
 ##### <a id="30"></a>30  Warrants for transfer to Australia
 
@@ -760,7 +758,7 @@ Note:          A prisoner may be transferred from the prison, 
 
                      (a)  to authorise an escort officer to collect the prisoner from a place (whether in Australia or the transfer country) specified in the warrant; and
 
-                     (b)  if the place is in the transfer country, to authorise the escort officer to transport the prisoner in custody to Australia for surrender to a person appointed by the Attorney‑General to receive the prisoner and, if appropriate, to authorise the appointed person to escort the prisoner to the prison, or hospital or other place, in Australia where the prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
+                     (b)  if the place is in the transfer country, to authorise the escort officer to transport the prisoner in custody to Australia for surrender to a person appointed by the Attorney-General to receive the prisoner and, if appropriate, to authorise the appointed person to escort the prisoner to the prison, or hospital or other place, in Australia where the prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
 
                      (c)  if the place is in Australia, to authorise the escort officer to escort the prisoner to the prison, or hospital or other place, in Australia where the prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
 
@@ -772,13 +770,13 @@ Note:          A prisoner may be transferred from the prison, 
 
              (4)  If the prisoner has been released on parole, the warrant is to specify any procedures for the transfer of the prisoner to Australia that have been agreed upon with the transfer country and to give any necessary authorisations and directions.
 
-             (5)  The Attorney‑General may give any direction or approval that is necessary to ensure the warrant is executed in accordance with its tenor.
+             (5)  The Attorney-General may give any direction or approval that is necessary to ensure the warrant is executed in accordance with its tenor.
 
 ##### <a id="31"></a>31  Cancellation of warrant
 
-             (1)  The Attorney‑General may cancel a warrant for transfer to Australia at any time before the prisoner it concerns leaves the transfer country.
+             (1)  The Attorney-General may cancel a warrant for transfer to Australia at any time before the prisoner it concerns leaves the transfer country.
 
-             (2)  Without limiting the grounds on which the Attorney‑General may cancel a transfer warrant, it must be cancelled if the Attorney‑General, a State or Territory Minister, a prisoner or prisoner’s representative, or the transfer country concerned, withdraws consent to the transfer.
+             (2)  Without limiting the grounds on which the Attorney-General may cancel a transfer warrant, it must be cancelled if the Attorney-General, a State or Territory Minister, a prisoner or prisoner’s representative, or the transfer country concerned, withdraws consent to the transfer.
 
 ##### <a id="32"></a>32  Effect of warrant on prisoner’s sentence
 
@@ -788,27 +786,27 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="33"></a>33  Transfer request from a Tribunal
 
-                   The Attorney‑General may consent to a request from a Tribunal for the transfer of a Tribunal prisoner serving a sentence of imprisonment imposed by the Tribunal in a Tribunal country to Australia to complete serving the sentence of imprisonment on terms agreed under this Act if the Attorney‑General is satisfied that the transfer can be made in compliance with section 11.
+                   The Attorney-General may consent to a request from a Tribunal for the transfer of a Tribunal prisoner serving a sentence of imprisonment imposed by the Tribunal in a Tribunal country to Australia to complete serving the sentence of imprisonment on terms agreed under this Act if the Attorney-General is satisfied that the transfer can be made in compliance with section 11.
 
 ##### <a id="34"></a>34  Information to accompany request
 
-                   Before consenting to the transfer of a Tribunal prisoner to Australia, the Attorney‑General may request the Tribunal requesting the transfer to provide the Attorney‑General with any relevant information that will enable the Attorney‑General to assess whether consent should be given for the transfer of the prisoner to Australia.
+                   Before consenting to the transfer of a Tribunal prisoner to Australia, the Attorney-General may request the Tribunal requesting the transfer to provide the Attorney-General with any relevant information that will enable the Attorney-General to assess whether consent should be given for the transfer of the prisoner to Australia.
 
 ##### <a id="35"></a>35  Enforcement of Tribunal sentence of imprisonment
 
-                   Before consenting to the transfer of a Tribunal prisoner to Australia under this Part, the Attorney‑General is to determine, in accordance with Part 6, the method by which the sentence of imprisonment imposed by the Tribunal will be enforced in Australia if the prisoner is transferred and is to advise the Tribunal of this and of any other proposed terms on which consent will be given to the transfer.
+                   Before consenting to the transfer of a Tribunal prisoner to Australia under this Part, the Attorney-General is to determine, in accordance with Part 6, the method by which the sentence of imprisonment imposed by the Tribunal will be enforced in Australia if the prisoner is transferred and is to advise the Tribunal of this and of any other proposed terms on which consent will be given to the transfer.
 
 ##### <a id="36"></a>36  Governmental consent to transfer to Australia
 
-             (1)  Before consenting to the transfer of a Tribunal prisoner to Australia, the Attorney‑General is to determine the State or Territory in which it would be most appropriate for the prisoner to begin to complete serving the sentence of imprisonment imposed on the prisoner by the Tribunal in Australia and to seek the consent of the State or Territory Minister concerned.
+             (1)  Before consenting to the transfer of a Tribunal prisoner to Australia, the Attorney-General is to determine the State or Territory in which it would be most appropriate for the prisoner to begin to complete serving the sentence of imprisonment imposed on the prisoner by the Tribunal in Australia and to seek the consent of the State or Territory Minister concerned.
 
-             (2)  The Attorney‑General is to provide the Minister with details of any information that the Tribunal has given the Attorney‑General and particulars of the method by which the Attorney‑General considers the sentence of imprisonment could be enforced by Australia and any other proposed terms of the transfer.
+             (2)  The Attorney-General is to provide the Minister with details of any information that the Tribunal has given the Attorney-General and particulars of the method by which the Attorney-General considers the sentence of imprisonment could be enforced by Australia and any other proposed terms of the transfer.
 
-             (3)  The Minister is to advise the Attorney‑General in writing as to whether the Minister consents to the transfer on the terms proposed as soon as possible after receiving the notification.
+             (3)  The Minister is to advise the Attorney-General in writing as to whether the Minister consents to the transfer on the terms proposed as soon as possible after receiving the notification.
 
-             (4)  If the Minister refuses to consent to the transfer, the Attorney‑General may request consent to transfer of the prisoner to another State or Territory from the appropriate State or Territory Minister.
+             (4)  If the Minister refuses to consent to the transfer, the Attorney-General may request consent to transfer of the prisoner to another State or Territory from the appropriate State or Territory Minister.
 
-             (5)  If a State Minister or Territory Minister consents to the transfer, the Minister is to advise the Attorney‑General of:
+             (5)  If a State Minister or Territory Minister consents to the transfer, the Minister is to advise the Attorney-General of:
 
                      (a)  the prison, or hospital or other place, in which the prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act in the State or Territory; and
 
@@ -820,7 +818,7 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="37"></a>37  Formal consent to transfer
 
-                   The Attorney‑General is to notify the Tribunal as soon as possible after appropriate Ministerial consent to the transfer has been given and is to ask the Tribunal:
+                   The Attorney-General is to notify the Tribunal as soon as possible after appropriate Ministerial consent to the transfer has been given and is to ask the Tribunal:
 
                      (a)  to formally consent to the transfer on the terms proposed by Australia; and
 
@@ -828,7 +826,7 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="38"></a>38  Issue of warrant for transfer to Australia
 
-                   The Attorney‑General may issue a warrant, in the form prescribed by the regulations, for the transfer of a Tribunal prisoner from a Tribunal country to Australia if the written consent of the prisoner or prisoner’s representative (if the Attorney‑General considers such consent is necessary), and the Tribunal and appropriate Ministerial consent in writing to transfer on the terms proposed by Australia, have been given.
+                   The Attorney-General may issue a warrant, in the form prescribed by the regulations, for the transfer of a Tribunal prisoner from a Tribunal country to Australia if the written consent of the prisoner or prisoner’s representative (if the Attorney-General considers such consent is necessary), and the Tribunal and appropriate Ministerial consent in writing to transfer on the terms proposed by Australia, have been given.
 
 ##### <a id="39"></a>39  Warrants for transfer to Australia
 
@@ -842,7 +840,7 @@ Note:          A prisoner may be transferred from the prison, 
 
                      (c)  state that the following written consents to the transfer have been given:
 
-                              (i)  the prisoner’s or prisoner’s representative’s consent (if the Attorney‑General considers such consent is necessary);
+                              (i)  the prisoner’s or prisoner’s representative’s consent (if the Attorney-General considers such consent is necessary);
 
                              (ii)  the Tribunal’s consent;
 
@@ -852,7 +850,7 @@ Note:          A prisoner may be transferred from the prison, 
 
                      (a)  to authorise an escort officer to collect the Tribunal prisoner from a place (whether in Australia or the Tribunal country) specified in the warrant; and
 
-                     (b)  if the place is in a Tribunal country, to authorise the escort officer to transport the Tribunal prisoner in custody to Australia for surrender to a person appointed by the Attorney‑General to receive the prisoner and, if appropriate, to authorise the appointed person to escort the prisoner to the prison, or hospital or other place, in Australia where the Tribunal prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
+                     (b)  if the place is in a Tribunal country, to authorise the escort officer to transport the Tribunal prisoner in custody to Australia for surrender to a person appointed by the Attorney-General to receive the prisoner and, if appropriate, to authorise the appointed person to escort the prisoner to the prison, or hospital or other place, in Australia where the Tribunal prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
 
                      (c)  if the place is in Australia, to authorise the escort officer to escort the Tribunal prisoner to the prison, or hospital or other place, in Australia where the prisoner is to begin to complete serving the sentence of imprisonment in accordance with this Act; and
 
@@ -864,13 +862,13 @@ Note:          A prisoner may be transferred from the prison, 
 
              (4)  If the Tribunal prisoner has been released on parole, the warrant is to specify any procedures for the transfer of the prisoner to Australia that have been agreed upon with the Tribunal and to give any necessary authorisations and directions.
 
-             (5)  The Attorney‑General may give any direction or approval that is necessary to ensure the warrant is executed in accordance with its tenor.
+             (5)  The Attorney-General may give any direction or approval that is necessary to ensure the warrant is executed in accordance with its tenor.
 
 ##### <a id="40"></a>40  Cancellation of warrant
 
-             (1)  The Attorney‑General may cancel a warrant for transfer to Australia at any time before the Tribunal prisoner it concerns leaves the Tribunal country.
+             (1)  The Attorney-General may cancel a warrant for transfer to Australia at any time before the Tribunal prisoner it concerns leaves the Tribunal country.
 
-             (2)  Without limiting the grounds on which the Attorney‑General may cancel a transfer warrant, it must be cancelled if the Attorney‑General, a State or Territory Minister or the Tribunal concerned (or, in those cases where a Tribunal prisoner or prisoner’s representative’s consent to transfer was required by the Attorney‑General, the Tribunal prisoner or prisoner’s representative) withdraws consent to the transfer.
+             (2)  Without limiting the grounds on which the Attorney-General may cancel a transfer warrant, it must be cancelled if the Attorney-General, a State or Territory Minister or the Tribunal concerned (or, in those cases where a Tribunal prisoner or prisoner’s representative’s consent to transfer was required by the Attorney-General, the Tribunal prisoner or prisoner’s representative) withdraws consent to the transfer.
 
 ##### <a id="41"></a>41  Effect of warrant on Tribunal prisoner’s sentence
 
@@ -880,9 +878,9 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="42"></a>42  Sentence enforcement in Australia
 
-                   The Attorney‑General may direct that a sentence of imprisonment imposed on a prisoner by a court or tribunal of a transfer country, or on a Tribunal prisoner by a Tribunal, be enforced on transfer of the prisoner to Australia under this Act:
+                   The Attorney-General may direct that a sentence of imprisonment imposed on a prisoner by a court or tribunal of a transfer country, or on a Tribunal prisoner by a Tribunal, be enforced on transfer of the prisoner to Australia under this Act:
 
-                     (a)  without any adaptation of the duration of the sentence of imprisonment or its legal nature, or with only such adaptations to the duration of the sentence or its legal nature as the Attorney‑General considers are necessary to ensure that enforcement of the sentence is consistent with Australian law (in this Act called the **_continued enforcement method_**); or
+                     (a)  without any adaptation of the duration of the sentence of imprisonment or its legal nature, or with only such adaptations to the duration of the sentence or its legal nature as the Attorney-General considers are necessary to ensure that enforcement of the sentence is consistent with Australian law (in this Act called the **_continued enforcement method_**); or
 
                      (b)  by substituting a different sentence of imprisonment for that imposed by the transfer country or Tribunal (in this Act called the **_converted enforcement method_**).
 
@@ -900,15 +898,15 @@ Note:          A prisoner may be transferred from the prison, 
 
 ##### <a id="44"></a>44  Directions concerning enforcement of sentence
 
-             (1)  In ordering that a sentence of imprisonment be enforced by the continued enforcement method or the converted enforcement method, the Attorney‑General may, subject to section 43, give such directions as the Attorney‑General considers appropriate as to the duration and legal nature of the sentence of imprisonment as it is to be enforced under this Act.
+             (1)  In ordering that a sentence of imprisonment be enforced by the continued enforcement method or the converted enforcement method, the Attorney-General may, subject to section 43, give such directions as the Attorney-General considers appropriate as to the duration and legal nature of the sentence of imprisonment as it is to be enforced under this Act.
 
              (2)  Without limiting subsection (1), directions may be made:
 
-                     (a)  as to entitlements to release on parole (including any non‑parole period) of the prisoner or Tribunal prisoner following transfer; and
+                     (a)  as to entitlements to release on parole (including any non-parole period) of the prisoner or Tribunal prisoner following transfer; and
 
                      (b)  if the prisoner is a mentally impaired prisoner—as to any review to be undertaken of the mental condition of the prisoner and treatment to be provided to the prisoner following transfer.
 
-             (3)  For the purpose of forming an opinion or exercising a discretion under this section, the Attorney‑General may inform himself or herself as the Attorney‑General thinks fit and, in particular, may have regard to the following:
+             (3)  For the purpose of forming an opinion or exercising a discretion under this section, the Attorney-General may inform himself or herself as the Attorney-General thinks fit and, in particular, may have regard to the following:
 
                      (a)  any submissions made by the transfer country or Tribunal;
 
@@ -920,11 +918,11 @@ Note:          A prisoner may be transferred from the prison, 
 
                      (e)  any limitations or requirements in relation to the way in which a sentence of imprisonment imposed by a transfer country or Tribunal may be enforced in Australia arising from any agreement to which Australia and the transfer country or Tribunal are parties.
 
-##### <a id="45"></a>45  Appeal and review of sentences of imprisonment imposed by transfer country or Tribunal and sentence enforcement decisions of Attorney‑General
+##### <a id="45"></a>45  Appeal and review of sentences of imprisonment imposed by transfer country or Tribunal and sentence enforcement decisions of Attorney-General
 
              (1)  On transfer of a prisoner to Australia under this Act, no appeal or review lies in Australia against the sentence of imprisonment imposed by the court or tribunal of the transfer country or by the Tribunal.
 
-             (2)  No appeal lies against a decision of the Attorney‑General concerning the enforcement in Australia under this Act of a sentence of imprisonment imposed by a court or tribunal of a transfer country or the Tribunal.
+             (2)  No appeal lies against a decision of the Attorney-General concerning the enforcement in Australia under this Act of a sentence of imprisonment imposed by a court or tribunal of a transfer country or the Tribunal.
 
 ##### <a id="46"></a>46  Prisoner transferred to Australia taken to be federal prisoner
 
@@ -950,7 +948,7 @@ Note:          A prisoner may be transferred from the prison, 
 
                       (f)  treatment of mentally impaired prisoners;
 
-                     (g)  eligibility for participation in prison programs, including release under a pre‑release permit scheme (however called);
+                     (g)  eligibility for participation in prison programs, including release under a pre-release permit scheme (however called);
 
 Note:       See, for example, subsection 19AZD (3) of the _Crimes Act 1914_.
 
@@ -972,47 +970,47 @@ Note:       See, for example, subsection 19AZD (3) of the _Crimes Ac
 
              (1)  During the period in which a sentence of imprisonment is served in a transfer country by a prisoner transferred from Australia under this Act, the prisoner’s conviction may be quashed or otherwise nullified and the prisoner may be pardoned or granted any amnesty or commutation of sentence of imprisonment that could be granted under Australian law if the prisoner were serving the sentence of imprisonment in Australia.
 
-             (2)  If, during the period in which the sentence of imprisonment is served by a prisoner transferred from Australia under this Act in a transfer country, the prisoner’s conviction is quashed or otherwise nullified or the prisoner is pardoned or granted amnesty or commutation of sentence of imprisonment under Australian law, the Attorney‑General is to immediately notify the transfer country that the prisoner should no longer be detained in custody or otherwise subjected to detention or supervision only because of the sentence of imprisonment.
+             (2)  If, during the period in which the sentence of imprisonment is served by a prisoner transferred from Australia under this Act in a transfer country, the prisoner’s conviction is quashed or otherwise nullified or the prisoner is pardoned or granted amnesty or commutation of sentence of imprisonment under Australian law, the Attorney-General is to immediately notify the transfer country that the prisoner should no longer be detained in custody or otherwise subjected to detention or supervision only because of the sentence of imprisonment.
 
 ##### <a id="49"></a>49  Pardon, amnesty or commutation of sentences of imprisonment—prisoners transferred to Australia
 
              (1)  During the period in which a sentence of imprisonment is served in Australia by a prisoner transferred to Australia under this Act, the prisoner may be pardoned or granted any amnesty or commutation of sentence of imprisonment that could be granted under Australian law if the sentence of imprisonment had been imposed for an offence against an Australian law.
 
-             (2)  The Attorney‑General is to direct, in a form prescribed by the regulations, that a prisoner must not be detained in custody or otherwise be subjected to detention or supervision in Australia under a sentence of imprisonment imposed by a transfer country enforced under this Act only because of that sentence of imprisonment if, during the period in which the sentence of imprisonment is served in Australia:
+             (2)  The Attorney-General is to direct, in a form prescribed by the regulations, that a prisoner must not be detained in custody or otherwise be subjected to detention or supervision in Australia under a sentence of imprisonment imposed by a transfer country enforced under this Act only because of that sentence of imprisonment if, during the period in which the sentence of imprisonment is served in Australia:
 
                      (a)  the prisoner is pardoned or granted amnesty or commutation of sentence of imprisonment under an Australian law; or
 
-                     (b)  the transfer country notifies the Attorney‑General that the prisoner’s conviction has been quashed or otherwise nullified or that the prisoner has been pardoned or granted amnesty or commutation of sentence of imprisonment under the law of the transfer country.
+                     (b)  the transfer country notifies the Attorney-General that the prisoner’s conviction has been quashed or otherwise nullified or that the prisoner has been pardoned or granted amnesty or commutation of sentence of imprisonment under the law of the transfer country.
 
-             (3)  The Attorney‑General is to direct, in a form prescribed by the regulations, that a prisoner must not be detained in custody or otherwise be subjected to detention or supervision in Australia under a sentence of imprisonment imposed by a Tribunal enforced under this Act only because of that sentence of imprisonment if, during the period in which the sentence is served in Australia:
+             (3)  The Attorney-General is to direct, in a form prescribed by the regulations, that a prisoner must not be detained in custody or otherwise be subjected to detention or supervision in Australia under a sentence of imprisonment imposed by a Tribunal enforced under this Act only because of that sentence of imprisonment if, during the period in which the sentence is served in Australia:
 
-                     (a)  the Tribunal notifies the Attorney‑General that the prisoner may be pardoned or granted amnesty or commutation of sentence of imprisonment under an Australian law and the prisoner is granted such amnesty or commutation of sentence of imprisonment; or
+                     (a)  the Tribunal notifies the Attorney-General that the prisoner may be pardoned or granted amnesty or commutation of sentence of imprisonment under an Australian law and the prisoner is granted such amnesty or commutation of sentence of imprisonment; or
 
-                     (b)  the Tribunal notifies the Attorney‑General that the prisoner’s conviction has been quashed or otherwise nullified or that the prisoner has been pardoned or granted amnesty or commutation of sentence of imprisonment by the Tribunal.
+                     (b)  the Tribunal notifies the Attorney-General that the prisoner’s conviction has been quashed or otherwise nullified or that the prisoner has been pardoned or granted amnesty or commutation of sentence of imprisonment by the Tribunal.
 
 ## Part 7—Miscellaneous
 
 ##### <a id="50"></a>50  Arrangements with States and Territories
 
-             (1)  The Governor‑General may make arrangements with the Governor of a State, the Chief Minister of the ACT or the Administrator of a Territory with respect to the administration of this Act, including arrangements relating to the exercise by officers of the State or Territory of functions under this Act.
+             (1)  The Governor-General may make arrangements with the Governor of a State, the Chief Minister of the ACT or the Administrator of a Territory with respect to the administration of this Act, including arrangements relating to the exercise by officers of the State or Territory of functions under this Act.
 
              (2)  An arrangement may be varied or terminated at any time.
 
-             (3)  The Attorney‑General is to cause notice of the making, variation or termination of an arrangement to be published in the _Gazette_.
+             (3)  The Attorney-General is to cause notice of the making, variation or termination of an arrangement to be published in the _Gazette_.
 
 ##### <a id="51"></a>51  Recovery of costs and expenses of transfer
 
-             (1)  The terms agreed under this Act for transfer of a prisoner or Tribunal prisoner may, if the Attorney‑General considers it appropriate, include terms relating to the recovery of the costs and expenses reasonably incurred in transferring the prisoner or Tribunal prisoner.
+             (1)  The terms agreed under this Act for transfer of a prisoner or Tribunal prisoner may, if the Attorney-General considers it appropriate, include terms relating to the recovery of the costs and expenses reasonably incurred in transferring the prisoner or Tribunal prisoner.
 
              (2)  If any costs or expenses in respect of money recovered in accordance with such terms were incurred by a State or Territory, the Commonwealth is to reimburse the State or Territory concerned.
 
 ##### <a id="52"></a>52  Prisoner and prisoner’s representative to be kept informed
 
-                   The Attorney‑General is to arrange for any prisoner or prisoner’s representative who makes a request for transfer under this Act to be kept informed as to progress of the request.
+                   The Attorney-General is to arrange for any prisoner or prisoner’s representative who makes a request for transfer under this Act to be kept informed as to progress of the request.
 
 ##### <a id="53"></a>53  Delegation
 
-                   The Attorney‑General may delegate in writing all or any of the Attorney‑General’s powers under this Act or the regulations to:
+                   The Attorney-General may delegate in writing all or any of the Attorney-General’s powers under this Act or the regulations to:
 
                      (a)  the Secretary to the Department; or
 
@@ -1020,7 +1018,7 @@ Note:       See, for example, subsection 19AZD (3) of the _Crimes Ac
 
 ##### <a id="54"></a>54  Notification of countries as transfer countries
 
-                   The Attorney‑General is to inform each State and Territory Minister whenever a country is declared by the regulations to be a transfer country and request the State and Territory Ministers to use their best endeavours to notify any prisoner who may be eligible for transfer under this Act of the application of this Act to a country of which the prisoner is a national and of the operation of this Act.
+                   The Attorney-General is to inform each State and Territory Minister whenever a country is declared by the regulations to be a transfer country and request the State and Territory Ministers to use their best endeavours to notify any prisoner who may be eligible for transfer under this Act of the application of this Act to a country of which the prisoner is a national and of the operation of this Act.
 
 ##### <a id="55"></a>55  Transit of prisoners
 
@@ -1036,9 +1034,9 @@ Note:       See, for example, subsection 19AZD (3) of the _Crimes Ac
 
                             (iii)  any magistrate to whom application is made, in the form prescribed by the regulations, by or on behalf of the transfer country or Tribunal concerned must issue a warrant ordering a person specified in the warrant to hold the prisoner in custody for such period or periods as the magistrate considers necessary to facilitate the transporting of the prisoner;
 
-                            (iv)  the Attorney‑General may, on application by the transfer country or Tribunal concerned, authorise in writing a magistrate to issue a warrant ordering a person specified in the warrant to hold the prisoner in custody for a further specified period in order to facilitate the transporting of the prisoner;
+                            (iv)  the Attorney-General may, on application by the transfer country or Tribunal concerned, authorise in writing a magistrate to issue a warrant ordering a person specified in the warrant to hold the prisoner in custody for a further specified period in order to facilitate the transporting of the prisoner;
 
-                             (v)  the Attorney‑General may at any time direct a person having custody of the prisoner under this paragraph to release the prisoner from custody.
+                             (v)  the Attorney-General may at any time direct a person having custody of the prisoner under this paragraph to release the prisoner from custody.
 
              (2)  The total period or periods of any custody in accordance with subparagraphs (1)(b)(i) and (ii) must not exceed 96 hours.
 
@@ -1050,21 +1048,13 @@ Note:       See, for example, subsection 19AZD (3) of the _Crimes Ac
 
              (3)  If the magistrate is satisfied that the person has escaped from custody authorised by this Act, the magistrate may issue a warrant authorising any police officer to return the person to the custody from which the person escaped.
 
-##### <a id="56A"></a>56A  Aiding persons to escape etc.
-
-                   Division 5 of Part III of the _Crimes Act 1914_ has effect as if:
-
-                     (a)  custody or detention in Australia under this Act were custody in respect of an offence against a law of the Commonwealth; and
-
-                     (b)  arrest under section 56 of this Act were arrest in respect of an offence against a law of the Commonwealth.
-
 ##### <a id="57"></a>57  Consent of the Immigration Minister
 
-                   If the Attorney‑General proposes to consent to the transfer to Australia of a Tribunal prisoner, the Attorney‑General must first obtain the consent of the Immigration Minister.
+                   If the Attorney-General proposes to consent to the transfer to Australia of a Tribunal prisoner, the Attorney-General must first obtain the consent of the Immigration Minister.
 
 ##### <a id="58"></a>58  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1199,23 +1189,6 @@ Remainder: 5 June 2002 ( <i>see Gazette</i>2002, No. GN22)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 24): 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _International Transfer of Prisoners Act 1997_ was amended by Schedule 1 (item 551) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ subsection 2(4) of which provides as follows:
@@ -1226,9 +1199,9 @@ _(a)_ The _International Transfer of Prisoners Act 1997_ was amended by Schedule
 
                               (b)   at the time when the _Public Service Act 1999_ commences, the amended section:
 
-                                     (i)   has not yet been enacted; or
+                                      (i)   has not yet been enacted; or
 
-                                    (ii)   has been enacted but has not yet commenced;
+                                     (ii)   has been enacted but has not yet commenced;
 
                          then the amending item commences immediately after the commencement of the amended section.
 
@@ -1315,14 +1288,6 @@ _(a)_ The _International Transfer of Prisoners Act 1997_ was amended by Schedule
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56A</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
