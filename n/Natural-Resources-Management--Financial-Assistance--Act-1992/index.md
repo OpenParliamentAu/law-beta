@@ -1,934 +1,1422 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 111.75pt; HEIGHT: 87pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="E8994B978BFBB4D5CA256FC1001DAC49/$FILE/image001.wmz"></v:imagedata></v:shape>
+**
 
-# Natural Resources Management (Financial Assistance) Act 1992<o:p></o:p>
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992 
+**
 
-**Act No. 242 of 1992 as amended<o:p></o:p>**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="4" month="3">4 March 2005</st1:date>
-taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents
+**
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
+###  Long Title 
+**
+**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<part>Part 1&#151;Preliminary </part>
+**
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Natural Resources Management (Financial Assistance) Act 1992_.
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
+ 
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 2  Commencement 
+This Act commences on the day on which it receives the Royal Assent.
 
-[3](#3).            Objects<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
+ 
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 3  Objects 
+<dt>(1)</dt><dd>This Act makes provision for the funding and administrative arrangements
 
-[4](#4).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+relating to natural resources management in Australia with the following
 
-**Part 2—Financial assistance<span style="mso-tab-count: 1">                                                                                             </span>**
+objects.</dd> <dt>(2)</dt><dd>This Act's primary object is to facilitate the development and implementation of integrated approaches to natural resources management in Australia that are: </dd> 
+<dl compact=""><dl compact="">
 
-[5](#5).            Agreements with States<span style="mso-tab-count: 1 dotted">                                                                       </span>
+<dt>(a)</dt><dd>for the purpose of achieving efficient, sustainable and equitable
 
-[6](#6).            Agreements with other persons<span style="mso-tab-count: 1 dotted">                                                           </span>
+management of natural resources in Australia; and</dd>
 
-[7](#7).            Matters to be provided for in an agreement<span style="mso-tab-count: 1 dotted">                                        </span>
+<dt>(b)</dt><dd>consistent with the principles of ecologically sustainable development.
 
-[8](#8).            Payments to be subject to conditions<span style="mso-tab-count: 1 dotted">                                                  </span>
+</dd>
 
-[9](#9).            Conditions relating to audit requirements<span style="mso-tab-count: 1 dotted">                                            </span>
+</dl></dl>
+<dt>(3)</dt><dd>This Act also has the following objects:
 
-[10](#10).          Other conditions<span style="mso-tab-count: 1 dotted">                                                                                  </span>
+</dd> 
+<dl compact=""><dl compact="">
 
-**Part 3—Natural Resources Management Account<span style="mso-tab-count: 1">                                             </span>**
+<dt>(a)</dt><dd>to promote community, industry and governmental partnership in the
 
-[11](#11).          Natural Resources Management Account<span style="mso-tab-count: 1 dotted">                                           </span>
+management of natural resources in Australia;</dd>
 
-[12](#12).          Application of gifts or bequests<span style="mso-tab-count: 1 dotted">                                                        </span>
+<dt>(b)</dt><dd>to assist in establishing institutional arrangements to develop and
 
-**Part 4—Australian Landcare Council<span style="mso-tab-count: 1">                                                                        </span>** 
+implement policies, programs and practices that will encourage sustainable use
 
-    **Division 1—The Council<span style="mso-tab-count: 1">                                                                                           </span>**
+of natural resources in Australia;</dd>
 
-[13](#13).          Australian Landcare Council<span style="mso-tab-count: 1 dotted">                                                              </span>
+<dt>(c)</dt><dd>to assist in enhancing the long term productivity of natural resources in
 
-[14](#14).          Constitution of Council<span style="mso-tab-count: 1 dotted">                                                                     </span>
+Australia;</dd>
 
-    **Division 2—Meetings of the Council<span style="mso-tab-count: 1">                                                                 </span>**
+<dt>(d)</dt><dd>to assist in developing approaches to help resolve conflicts over access
 
-[15](#15).          Convening of meetings<span style="mso-tab-count: 1 dotted">                                                                       </span>
+to natural resources in Australia.
 
-[16](#16).          Presiding at meetings<span style="mso-tab-count: 1 dotted">                                                                         </span>
+</dd>
 
-[17](#17).          Quorum<span style="mso-tab-count: 1 dotted">                                                                                              </span>
+</dl></dl>
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 4  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[18](#18).          Voting at meetings<span style="mso-tab-count: 1 dotted">                                                                             </span>
+</dd> 
+<dl compact=""><dl compact="">
 
-    **Division 3—Provisions relating to members<span style="mso-tab-count: 1">                                                 </span>**
+_agreement_ means an agreement under section 5 or 6\. _Chairperson_ means the Chairperson of the Council. _Council_ means the Australian Landcare Council established by section 13\. _member_ means a member of the Council, and includes the Chairperson. _natural resources management_ means:  </dl></dl>
 
-[19](#19).          Chairperson<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+<center>Back to Top</center>
 
-[20](#20).          Deputy member<span style="mso-tab-count: 1 dotted">                                                                                 </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[21](#21).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
+<dt>(a)</dt><dd>any activity relating to the management of the use, development or
 
-[22](#22).          Termination of appointment and resignation<span style="mso-tab-count: 1 dotted">                                    </span>
+conservation of one or more of the following natural resources:
 
-[23](#23).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
+</dd>
 
-**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
+</dl></dl></dl>
 
-[24](#24).          Repeal of Acts<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-[25](#25).          Transitional arrangements<span style="mso-tab-count: 1 dotted">                                                                  </span>
+<dt>(i)</dt><dd>soil;</dd>
 
-[26](#26).          Annual report in relation to operation of the Act etc <span style="mso-tab-count: 1 dotted">                       </span>
+<dt>(ii)</dt><dd>water;</dd>
 
-[27](#27).          Annual report of the Council<span style="mso-tab-count: 1 dotted">                                                             </span>
+<dt>(iii)</dt><dd>vegetation; or
 
-[28](#28).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+</dd>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+</dl></dl></dl></dl>
 
+<dl compact=""><dl compact=""><dl compact="">
 
-## An Act to grant financial assistance in connection with projects relating to natural resources management, to establish a Natural Resources Management Account, to establish an Australian Landcare Council, and for related purposes
+<dt>(b)</dt><dd>any activity relating to the management of the use, development or
 
-## Part 1—Preliminary
+conservation of any other natural resources for the purposes of an activity
 
-##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
+mentioned in paragraph (a).
 
-                   This Act may be cited as the _Natural Resources Management (Financial Assistance) Act 1992_.
+</dd>
 
-##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
+</dl></dl></dl>
 
-                   This Act commences on the day on which it receives the Royal Assent.
+<def><dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Objects
+_officer_ means a person appointed or engaged under the _Public Service Act 1999_. _project_ means a project relating to natural resources management. _Reserve_ means the Natural Resources Management Reserve established by section 11\. _State_ includes the Australian Capital Territory and the Northern Territory.  </dl></dl>
 
-             (1)  This Act makes provision for the funding and administrative arrangements relating to natural resources management in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> with the following objects.
+<dl compact="">
 
-             (2)  This Act’s primary object is to facilitate the development and implementation of integrated approaches to natural resources management in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that are:
+<dt>(2)</dt><dd>A reference in a provision of this Act to an authorised officer is a
 
-                     (a)  for the purpose of achieving efficient, sustainable and equitable management of natural resources in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
+reference to an officer authorised in writing by the Minister for the purposes
 
-                     (b)  consistent with the principles of ecologically sustainable development.
+of the provision.
 
-             (3)  This Act also has the following objects:
+</dd> </dl>
 
-                     (a)  to promote community, industry and governmental partnership in the management of natural resources in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+<center>**
 
-                     (b)  to assist in establishing institutional arrangements to develop and implement policies, programs and practices that will encourage sustainable use of natural resources in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<part>Part 2&#151;Financial assistance </part>
+**</center>
 
-                     (c)  to assist in enhancing the long term productivity of natural resources in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+**
 
-                     (d)  to assist in developing approaches to help resolve conflicts over access to natural resources in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 5  Agreements with States 
+**
 
-##### <a id="4"></a>4  Interpretation
+ <dl compact="">
 
-             (1)  In this Act, unless the contrary intention appears:
+<dt>(1)</dt><dd>The Commonwealth may, from time to time, enter into an agreement with a
 
-                    <a name="account"></a>**_Account_** means the Natural Resources Management Account continued in existence by section 11.
+State on financial assistance (whether by way of grant or otherwise) to be
 
-                    <a name="agreem"></a>**_agreement_** means an agreement under section 5 or 6.
+provided by the Commonwealth to the State, for amounts spent by the State in
 
-                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
+respect of:
 
-                    <a name="council"></a>**_Council_** means the Australian Landcare Council established by section 13.
+</dd> </dl>
 
-                    <a name="member"></a>**_member_** means a member of the Council, and includes the Chairperson.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="natur-resourc-manag"></a>**_natural resources management_** means:
+<dt>(a)</dt><dd>projects approved, or to be approved, by the Minister and the appropriate
 
-                     (a)  any activity relating to the management of the use, development or conservation of one or more of the following natural resources:
+Minister of the State, acting jointly; or</dd>
 
-                              (i)  soil;
+<dt>(b)</dt><dd>projects specified in the agreement.
 
-                             (ii)  water;
+</dd>
 
-                            (iii)  vegetation; or
+</dl></dl></dl>
 
-                     (b)  any activity relating to the management of the use, development or conservation of any other natural resources for the purposes of an activity mentioned in paragraph (a).
+<dl compact="">
 
-                    <a name="offic"></a>**_officer_** means a person appointed or engaged under the _Public Service Act 1999_.
+<dt>(2)</dt><dd>An agreement must be in writing.</dd> <dt>(3)</dt><dd>Subject to sections 8, 9 and 10, financial assistance is payable to a State in accordance with an agreement.</dd> <dt>(4)</dt><dd>The Minister must cause a copy of each agreement under subsection (1) and any agreement amending that agreement to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the agreement is made.</dd> <dt>(5)</dt><dd>The Minister may make advances to a State of amounts on account of an amount that may become payable to the State under subsection (3).</dd> <dt>(6)</dt><dd>Payments under this section must be paid out of money appropriated by the Parliament for the purpose. </dd> </dl>
 
-                    <a name="project"></a>**_project_** means a project relating to natural resources management.
+**
 
-                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 6  Agreements with other persons 
+**
 
-             (2)  A reference in a provision of this Act to an authorised officer is a reference to an officer authorised in writing by the Minister for the purposes of the provision.
+ <dl compact="">
 
-<o:p> </o:p>
+<dt>(1)</dt><dd>In this section:
 
-## Part 2—Financial assistance
+</dd> </dl>
 
-##### <a id="5"></a>5  Agreements with States
+<def><dl compact=""><dl compact="">
 
-             (1)  The Commonwealth may, from time to time, enter into an agreement with a State on financial assistance (whether by way of grant or otherwise) to be provided by the Commonwealth to the State, for amounts spent by the State in respect of:
+_person_ includes an association, authority, body, institution or
 
-                     (a)  projects approved, or to be approved, by the Minister and the appropriate Minister of the State, acting jointly; or
+other organisation, whether incorporated or unincorporated.
 
-                     (b)  projects specified in the agreement.
+ </dl></dl>
 
-             (2)  An agreement must be in writing.
+<dl compact="">
 
-             (3)  Subject to sections 8, 9 and 10, financial assistance is payable to a State in accordance with an agreement.
+<dt>(2)</dt><dd>An authorised officer may, on behalf of the Commonwealth, enter into an
 
-             (4)  The Minister must cause a copy of each agreement under subsection (1) and any agreement amending that agreement to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the agreement is made.
+agreement with a person for the person to carry out a project.</dd> <dt>(3)</dt><dd>An agreement must be in writing.</dd> <dt>(4)</dt><dd>If an agreement provides for the payment of advances, the Minister may make advances of amounts on account of an amount that may become payable under the agreement.</dd> <dt>(5)</dt><dd>Payments under an agreement must be made out of money standing to the credit of the Reserve. </dd> </dl>
 
-             (5)  The Minister may make advances to a State of amounts on account of an amount that may become payable to the State under subsection (3).
+<center>Back to Top</center>
 
-             (6)  Payments under this section must be paid out of money appropriated by the Parliament for the purpose.
+**
 
-##### <a id="6"></a>6  Agreements with other persons
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 7  Matters to be provided for in an agreement 
+**
 
-             (1)  In this section:
+ <dl compact="">
 
-                    <a name="person"></a>**_person_** includes an association, authority, body, institution or other organisation, whether incorporated or unincorporated.
+		An agreement must include provisions relating to the following matters:
 
-             (2)  An authorised officer may, on behalf of the Commonwealth, enter into an agreement with a person for the person to carry out a project.
+ </dl>
 
-             (3)  An agreement must be in writing.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  If an agreement provides for the payment of advances, the Minister may make advances of amounts on account of an amount that may become payable under the agreement.
+<dt>(a)</dt><dd>the object of the project or projects to which the agreement relates;</dd>
 
-             (5)  Payments under an agreement must be made out of money standing to the credit of the Account.
+<dt>(b)</dt><dd>the conditions subject to which payments under the agreement are to be
 
-##### <a id="7"></a>7  Matters to be provided for in an agreement
+made;</dd>
 
-                   An agreement must include provisions relating to the following matters:
+<dt>(c)</dt><dd>the monitoring and evaluation of the project or projects;</dd>
 
-                     (a)  the object of the project or projects to which the agreement relates;
+<dt>(d)</dt><dd>the review of the operation of the agreement;</dd>
 
-                     (b)  the conditions subject to which payments under the agreement are to be made;
+<dt>(e)</dt><dd>the amendment of the agreement by a further agreement as a result of such
 
-                     (c)  the monitoring and evaluation of the project or projects;
+a review.
 
-                     (d)  the review of the operation of the agreement;
+</dd>
 
-                     (e)  the amendment of the agreement by a further agreement as a result of such a review.
+</dl></dl></dl>
 
-##### <a id="8"></a>8  Payments to be subject to conditions
+**
 
-             (1)  In this section and sections 9 and 10:
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 8  Payments to be subject to conditions 
+**
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+ <dl compact="">
 
-                     (a)  in relation to an agreement under section 5—the Minister or an authorised officer; and
+<dt>(1)</dt><dd>In this section and sections 9 and 10:
 
-                     (b)  in relation to an agreement under section 6—an authorised officer.
+</dd> </dl>
 
-                    <a name="paye"></a>**_payee_**, in relation to an agreement, means the party to which amounts are payable by the Commonwealth under the agreement.
+<def><dl compact=""><dl compact="">
 
-                    <a name="payment"></a>**_payment_** includes an advance.
+_authorised person_ means:
 
-             (2)  In addition to any conditions provided for in an agreement, a payment by the Commonwealth under the agreement is subject to the following conditions.
+ </dl></dl>
 
-             (3)  If an authorised person informs the payee that the authorised person is satisfied that:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the payee has not fulfilled a condition to which the agreement is subject; or
+<dt>(a)</dt><dd>in relation to an agreement under section 5&#151;the Minister or an authorised
 
-                     (b)  a project or any part of a project has not been undertaken in accordance with the agreement;
+officer; and</dd>
+
+<dt>(b)</dt><dd>in relation to an agreement under section 6&#151;an authorised officer.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_payee_, in relation to an agreement, means the party to which
+
+amounts are payable by the Commonwealth under the agreement. _payment_ includes an advance.  </dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>In addition to any conditions provided for in an agreement, a payment by
+
+the Commonwealth under the agreement is subject to the following conditions.</dd> <dt>(3)</dt><dd>If an authorised person informs the payee that the authorised person is satisfied that: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the payee has not fulfilled a condition to which the agreement is subject;
+
+or</dd>
+
+<dt>(b)</dt><dd>a project or any part of a project has not been undertaken in accordance
+
+with the agreement;
+
+</dd>
+
+</dl></dl></dl>
 
 the payee must repay to the Commonwealth the whole, or such part as the Minister specifies, of the payment.
 
-             (4)  On demand by an authorised person, the payee must repay to the Commonwealth the amount by which, at the time of the demand, the total of the payments made to the payee under this Act exceeds the total of the amounts that have become payable to the payee under this Act.
+<dl compact="">
 
-             (5)  The authorised person may deduct any amount repayable by the payee from any amount payable by the Commonwealth to the payee under this Act.
+<dt>(4)</dt><dd>On demand by an authorised person, the payee must repay to the
 
-##### <a id="9"></a>9  Conditions relating to audit requirements
+Commonwealth the amount by which, at the time of the demand, the total of the
 
-             (1)  An agreement is, except so far as otherwise provided for in the agreement, subject to the following conditions.
+payments made to the payee under this Act exceeds the total of the amounts that
 
-             (2)  The payee is not entitled to a payment for amounts spent by the payee for the purposes of carrying out a project unless the payee has given to an authorised person:
+have become payable to the payee under this Act.</dd> <dt>(5)</dt><dd>The authorised person may deduct any amount repayable by the payee from any amount payable by the Commonwealth to the payee under this Act. </dd> </dl>
 
-                     (a)  a statement (**_the statement_**) of the amounts spent in a form approved by an authorised officer; and
+**
 
-                     (b)  a certificate mentioned in subsection (3) or (4).
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 9  Conditions relating to audit requirements 
+**
 
-             (3)  For the purposes of subsection (2), if the agreement is made under section 5, the certificate:
+ <dl compact="">
 
-                     (a)  must be given by a person (**_the responsible person_**) who is the Auditor-General of the State, or the head of the Department or authority of the State responsible for the spending; and
+<dt>(1)</dt><dd>An agreement is, except so far as otherwise provided for in the agreement,
 
-                     (b)  is to certify, in relation to each amount shown in the statement as having been spent:
+subject to the following conditions.</dd> <dt>(2)</dt><dd>The payee is not entitled to a payment for amounts spent by the payee for the purposes of carrying out a project unless the payee has given to an authorised person: </dd> </dl>
 
-                              (i)  that the responsible person is of the opinion that the amount was spent in accordance with the agreement; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  that the responsible person has received a certificate from a qualified accountant stating that the qualified accountant is of the opinion that the amount was spent in accordance with the agreement.
+<dt>(a)</dt><dd>a statement (_the statement_) of the amounts spent in a form
 
-             (4)  For the purposes of subsection (2), if the agreement is made under section 6, the certificate:
+approved by an authorised officer; and</dd>
 
-                     (a)  must be given by a person (**_the responsible person_**) who is:
+<dt>(b)</dt><dd>a certificate mentioned in subsection (3) or (4).
 
-                              (i)  if the payee is an association, authority, body, institution or other organisation whose accounts are required by law to be audited by the Auditor-General of the Commonwealth or of the State—the head of the association, authority, body, institution or other organisation; or
+</dd>
 
-                             (ii)  if subparagraph (i) does not apply—a qualified accountant; and
+</dl></dl></dl>
 
-                     (b)  is to certify, in relation to each amount shown in the statement as having been spent, that, in the responsible person’s opinion, the amount was spent in accordance with the agreement.
+<dl compact="">
 
-             (5)  In subsections (3) and (4):
+<dt>(3)</dt><dd>For the purposes of subsection (2), if the agreement is made under section
 
-                    <a name="qualifi-account"></a>**_qualified accountant_** means:
+5, the certificate:
 
-                     (a)  a person who is registered as a company auditor or a public accountant under a law in force in a State or Territory; or
+</dd> </dl>
 
-                     (b)  a member of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Chartered Accountants</st1:placename></st1:place> in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or of the Australian Society of Certified Practising Accountants.
+<center>Back to Top</center>
 
-             (6)  The payee must, at all reasonable times, permit a person authorised in writing by an authorised person to:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  inspect; or
+<dt>(a)</dt><dd>must be given by a person (_the responsible person_) who is
 
-                     (b)  take copies of, or extracts from;
+the Auditor-General of the State, or the head of the Department or authority of
+
+the State responsible for the spending; and</dd>
+
+<dt>(b)</dt><dd>is to certify, in relation to each amount shown in the statement as having
+
+been spent:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>that the responsible person is of the opinion that the amount was spent in
+
+accordance with the agreement; or</dd>
+
+<dt>(ii)</dt><dd>that the responsible person has received a certificate from a qualified
+
+accountant stating that the qualified accountant is of the opinion that the
+
+amount was spent in accordance with the agreement.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>For the purposes of subsection (2), if the agreement is made under section
+
+6, the certificate:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>must be given by a person (_the responsible person_) who is:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>if the payee is an association, authority, body, institution or other
+
+organisation whose accounts are required by law to be audited by the
+
+Auditor-General of the Commonwealth or of the State&#151;the head of the
+
+association, authority, body, institution or other organisation; or</dd>
+
+<dt>(ii)</dt><dd>if subparagraph (i) does not apply&#151;a qualified accountant; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>is to certify, in relation to each amount shown in the statement as having
+
+been spent, that, in the responsible person's opinion, the amount was spent in
+
+accordance with the agreement.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>In subsections (3) and (4):
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_qualified accountant_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person who is registered as a company auditor or a public accountant
+
+under a law in force in a State or Territory; or</dd>
+
+<dt>(b)</dt><dd>a member of the Institute of Chartered Accountants in Australia or of the
+
+Australian Society of Certified Practising Accountants.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>The payee must, at all reasonable times, permit a person authorised in
+
+writing by an authorised person to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inspect; or</dd>
+
+<dt>(b)</dt><dd>take copies of, or extracts from;
+
+</dd>
+
+</dl></dl></dl>
 
 any plans, designs, tenders, records or other documents relating to a project.
 
-             (7)  The payee must, on written request by an authorised officer, give to the authorised officer, as soon as practicable after the date specified by the authorised officer in the request, a report:
+<dl compact="">
 
-                     (a)  on the payee’s activities in connection with a project; or
+<dt>(7)</dt><dd>The payee must, on written request by an authorised officer, give to the
 
-                     (b)  containing particulars on matters that are specified by the authorised officer in the request.
+authorised officer, as soon as practicable after the date specified by the
 
-             (8)  The payee must, as soon as practicable after the completion of a project, give to an authorised officer a final report on the project.
+authorised officer in the request, a report:
 
-##### <a id="10"></a>10  Other conditions
+</dd> </dl>
 
-             (1)  Without precluding or limiting the matters that may be provided for in an agreement, an agreement may provide for the matters mentioned in subsections (2), (3) and (4).
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  An agreement may provide for the payment by the payee to the Commonwealth of an amount equal to the whole, or such part as an authorised person determines, of any net income derived by the payee from:
+<dt>(a)</dt><dd>on the payee's activities in connection with a project; or</dd>
 
-                     (a)  property acquired or produced in the course of carrying out a project; or
+<dt>(b)</dt><dd>containing particulars on matters that are specified by the authorised
 
-                     (b)  patents for inventions made in the course of carrying out a project.
+officer in the request.
 
-             (3)  An agreement may provide for the assignment by the payee to the Commonwealth of:
+</dd>
 
-                     (a)  any property mentioned in paragraph (2)(a); or
+</dl></dl></dl>
 
-                     (b)  any patents for inventions mentioned in paragraph (2)(b); or
+<dl compact="">
 
-                     (c)  any interest that the payee may have in any such invention.
+<dt>(8)</dt><dd>The payee must, as soon as practicable after the completion of a project,
 
-             (4)  An agreement may provide for the payment by the payee to the Commonwealth if any property or interest of a kind mentioned in subsection (3) is disposed of to a person other than the Commonwealth, of an amount equal to the whole, or such part as an authorised person determines:
+give to an authorised officer a final report on the project.
 
-                     (a)  in the case of a disposal by way of sale or assignment for value—of the net proceeds of the sale or assignment; and
+</dd> </dl>
 
-                     (b)  in any other case—of the value of the property or interest as determined by the authorised person.
+<center>Back to Top</center>
 
-<o:p> </o:p>
+**
 
-## Part 3—Natural Resources Management Account
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 10  Other conditions 
+**
 
-##### <a id="11"></a>11  Natural Resources Management Account
+ <dl compact="">
 
-             (1)  There is continued in existence the Natural Resources Management Account.
+<dt>(1)</dt><dd>Without precluding or limiting the matters that may be provided for in an
 
-Note:          The Account was established by subsection 5(3) of the _Financial Management Legislation Amendment Act 1999_.
+agreement, an agreement may provide for the matters mentioned in subsections
 
-             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
+(2), (3) and (4).</dd> <dt>(2)</dt><dd>An agreement may provide for the payment by the payee to the Commonwealth of an amount equal to the whole, or such part as an authorised person determines, of any net income derived by the payee from: </dd> </dl>
 
-             (3)  If interest is received by the Commonwealth from the investment of an amount standing to the credit of the Account, an amount equal to the interest must be credited to the Account.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  There must be credited to the Account amounts equal to the following:
+<dt>(a)</dt><dd>property acquired or produced in the course of carrying out a project;
 
-                     (a)  amounts, being gifts or bequests, given or made for the purposes of the Account;
+or</dd>
 
-                     (b)  amounts paid or repaid to the Commonwealth in accordance with:
+<dt>(b)</dt><dd>patents for inventions made in the course of carrying out a project.
 
-                              (i)  an agreement under section 6 of the _Soil Conservation (Financial Assistance) Act 1985_ that has effect under section 25; or
+</dd>
 
-                             (ii)  an agreement under section 6;
+</dl></dl></dl>
 
-                     (c)  amounts received by the Commonwealth from the disposal of property or interests acquired by the Commonwealth in accordance with an agreement under section 6.
+<dl compact="">
 
-Note:          An Appropriation Act provides for amounts to be credited to a Special Account if any of the purposes of the Account is a purpose that is covered by an item in the Appropriation Act.
+<dt>(3)</dt><dd>An agreement may provide for the assignment by the payee to the
 
-             (5)  Amounts are to be debited from the Account for the following purposes:
+Commonwealth of:
 
-                     (a)  making payments (including advances) in accordance with:
+</dd> </dl>
 
-                              (i)  an agreement under section 6 of the _Soil Conservation (Financial Assistance) Act 1985_ that has effect under section 25; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  an agreement under section 6;
+<dt>(a)</dt><dd>any property mentioned in paragraph (2)(a); or</dd>
 
-                     (b)  making payments in respect of the expenses incurred by the Council in the performance of its functions;
+<dt>(b)</dt><dd>any patents for inventions mentioned in paragraph (2)(b); or</dd>
 
-                     (c)  making payments in respect of other costs of administration of this Act that the Minister considers appropriate to be debited from the Account.
+<dt>(c)</dt><dd>any interest that the payee may have in any such invention.
 
-##### <a id="12"></a>12  Application of gifts or bequests
+</dd>
 
-             (1)  In spite of anything in this Act (other than subsection (2) of this section) or in the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act):
+</dl></dl></dl>
 
-                     (a)  any money held by the Minister for Finance on trust for the purposes of the Account must be dealt with in accordance with the obligations of that Minister as a trustee of the trust; and
+<dl compact="">
 
-                     (b)  any money accepted by the Minister for Finance for the purposes of the Account subject to a condition must be dealt with in accordance with the obligations imposed on that Minister by the condition.
+<dt>(4)</dt><dd>An agreement may provide for the payment by the payee to the Commonwealth
 
-             (2)  Separate accounts must be kept of money standing to the credit of the Account representing amounts of money to which subsection (1) applies.
+if any property or interest of a kind mentioned in subsection (3) is disposed
 
-<o:p> </o:p>
+of to a person other than the Commonwealth, of an amount equal to the whole, or
 
-## Part 4—Australian Landcare Council
+such part as an authorised person determines:
 
-### Division 1—The Council
+</dd> </dl>
 
-##### <a id="13"></a>13  Australian Landcare Council
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  There is to be an Australian Landcare Council.
+<dt>(a)</dt><dd>in the case of a disposal by way of sale or assignment for value&#151;of the
 
-             (2)  The functions of the Council are:
+net proceeds of the sale or assignment; and</dd>
 
-                     (a)  to make recommendations to the Minister and the Minister for the Arts, Sport, the Environment and Territories on:
+<dt>(b)</dt><dd>in any other case&#151;of the value of the property or interest as determined
 
-                              (i)  matters concerning natural resources management; and
+by the authorised person.
 
-                             (ii)  priorities and strategies for natural resources management; and
+</dd>
 
-                     (b)  to investigate and report to the Commonwealth Government on matters concerning natural resources management referred to it by either of the Ministers.
+</dl></dl></dl>
 
-##### <a id="14"></a>14  Constitution of Council
+<center>**
 
-             (1)  The Council is to consist of at least 12 members.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<part>Part 3&#151;Natural Resources Management Reserve </part>
+**</center>
 
-             (2)  The members are to be appointed by the Minister.
+**
 
-             (3)  The members are to hold office on a part-time basis.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 11  Natural Resources Management Reserve 
+**
 
-             (4)  A member (other than a member mentioned in subsection (6)) is to be a person with experience in, or special knowledge of, any aspects of natural resources management.
+ <dl compact="">
 
-             (5)  A member (other than the Chairperson or a member mentioned in subsection (6)) holds office for a term, not exceeding 3 years, specified in the instrument of appointment.
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Natural Resources
 
-             (6)  A member who is an officer holds office as a member during the pleasure of the Minister.
+Management Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.</dd> <dt>(4)</dt><dd>There must be transferred to the Reserve from the Consolidated Revenue Fund: </dd> </dl>
 
-             (7)  The Minister must, when appointing members to the Council, ensure that the majority of the members are not persons employed by the Commonwealth or a State.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>amounts appropriated from time to time by the Parliament;</dd>
 
-### Division 2—Meetings of the Council
+<dt>(b)</dt><dd>amounts equal to amounts, being gifts or bequests, given or made for the
 
-##### <a id="15"></a>15  Convening of meetings
+purposes of the Reserve;</dd>
 
-             (1)  Meetings must be held at such times and places as the Council from time to time determines.
+<dt>(c)</dt><dd>amounts equal to amounts paid or repaid to the Commonwealth in accordance
 
-             (2)  The Chairperson may at any time convene a meeting.
+with:
 
-##### <a id="16"></a>16  Presiding at meetings
+</dd>
 
-             (1)  Subject to subsection (2), the Chairperson must preside at all meetings.
+</dl></dl></dl>
 
-             (2)  If the Chairperson is absent from a meeting, the members present must elect one of their number to preside at the meeting.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="17"></a>17  Quorum
+<dt>(i)</dt><dd>an agreement under section 6 of the _Soil Conservation (Financial Assistance) Act 1985_ that has effect under section 25; or</dd>
 
-                   At a meeting, the number of members equal to two-thirds of the current membership constitutes a quorum.
+<dt>(ii)</dt><dd>an agreement under section 6;
 
-##### <a id="18"></a>18  Voting at meetings
+</dd>
 
-             (1)  All questions arising at a meeting must be determined by a majority of the votes of the members present and voting.
+</dl></dl></dl></dl>
 
-             (2)  The member presiding at a meeting has a deliberative vote and, if necessary, also has a casting vote.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(d)</dt><dd>amounts equal to amounts received by the Commonwealth from the disposal of
 
-### Division 3—Provisions relating to members
+property or interests acquired by the Commonwealth in accordance with an
 
-##### <a id="19"></a>19  Chairperson
+agreement under section 6.
 
-             (1)  There is to be a Chairperson of the Council.
+</dd>
 
-             (2)  The Chairperson is to be appointed by the Minister.
+</dl></dl></dl>
 
-             (3)  The Minister must not appoint an officer as the Chairperson.
+<center>Back to Top</center>
 
-             (4)  The Chairperson holds office as Chairperson during the pleasure of the Minister.
+<dl compact="">
 
-             (5)  The Minister may terminate a person’s appointment as Chairperson at any time.
+<dt>(5)</dt><dd>The following are to be paid out of the Reserve:
 
-             (6)  If a person’s appointment as Chairperson is terminated, the person ceases to be a member.
+</dd> </dl>
 
-##### <a id="20"></a>20  Deputy member
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A member may, with the Minister’s approval, appoint a person to be the deputy of the member.
+<dt>(a)</dt><dd>payments (including advances) made in accordance with:
 
-             (2)  A member may revoke the appointment of a person as the member’s deputy but the revocation is not effective until the member has given notice of the revocation in writing to the Minister.
+</dd>
 
-             (3)  The deputy of a member is entitled:
+</dl></dl></dl>
 
-                     (a)  in the event of the absence of the member from a meeting of the Council, to attend that meeting; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  when so attending a meeting, to be taken to be a member.
+<dt>(i)</dt><dd>an agreement under section 6 of the _Soil Conservation (Financial Assistance) Act 1985_ that has effect under section 25; or</dd>
 
-             (4)  A deputy member is not entitled to preside at a meeting of the Council.
+<dt>(ii)</dt><dd>an agreement under section 6; and
 
-##### <a id="21"></a>21  Remuneration and allowances
+</dd>
 
-             (1)  Each member is to be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, is to be paid such remuneration as is prescribed.
+</dl></dl></dl></dl>
 
-             (2)  Each member is to be paid such allowances as are prescribed.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Subsections (1) and (2) do not apply to a member who is an officer or a person employed by a State.
+<dt>(b)</dt><dd>the expenses incurred by the Council in the performance of its functions;
 
-             (4)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
+and</dd>
 
-##### <a id="22"></a>22  Termination of appointment and resignation
+<dt>(c)</dt><dd>other costs of administration of this Act that the Minister considers
 
-             (1)  The Minister may terminate the appointment of a member or deputy member for misbehaviour or physical or mental incapacity.
+appropriate to be paid out of the Reserve.
 
-             (2)  The Minister must terminate the appointment of a member or deputy member if the member or deputy member, without reasonable excuse, fails to comply with section 23.
+</dd>
 
-             (3)  A member may resign the office of member by giving a signed notice of resignation to the Minister.
+</dl></dl></dl>
 
-             (4)  The deputy of a member may resign the office of deputy member by giving a signed notice of resignation to the member.
+**
 
-             (5)  A member whose deputy resigns must, as soon as practicable after being given the signed notice of resignation, give that notice to the Minister.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 12  Application of gifts or bequests 
+**
 
-##### <a id="23"></a>23  Disclosure of interests
+ <dl compact="">
 
-             (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Council must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Council.
+<dt>(1)</dt><dd>In spite of anything in this Act (other than subsection (2) of this
 
-             (2)  The disclosure must be recorded in the minutes of the meeting and, unless the Minister or the Council otherwise determines, the member must not:
+section) or in the _Financial Management and Accountability Act 1997_
 
-                     (a)  be present during any deliberation of the Council with respect to that matter; or
+(other than section 39 of that Act):
 
-                     (b)  take part in any decision of the Council in relation to that matter.
+</dd> </dl>
 
-             (3)  For the purposes of the making of a determination by the Council under subsection (2) in relation to a member who has made a disclosure under subsection (1), the member must not:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  be present during any deliberation of the Council for the purpose of making the determination; or
+<dt>(a)</dt><dd>any money held by the Minister for Finance on trust for the purposes of
 
-                     (b)  take part in the making of the determination.
+the Reserve must be dealt with in accordance with the obligations of that
 
-<o:p> </o:p>
+Minister as a trustee of the trust; and</dd>
 
-## Part 5—Miscellaneous
+<dt>(b)</dt><dd>any money accepted by the Minister for Finance for the purposes of the
 
-##### <a id="24"></a>24  Repeal of Acts
+Reserve subject to a condition must be dealt with in accordance with the
 
-The following Acts are repealed:
+obligations imposed on that Minister by the condition.
 
-                     (a)  _National Water Resources (Financial Assistance) Act 1978_;
+</dd>
 
-                     (b)  _Soil Conservation (Financial Assistance) Act 1985_.
+</dl></dl></dl>
 
-##### <a id="25"></a>25  Transitional arrangements
+<dl compact="">
 
-             (1)  Subject to the provisions of any agreement under this Act, on and after this Act’s commencement, every agreement under section 4 of the _National Water Resources (Financial Assistance) Act 1978_ has effect as if that Act had not been repealed.
+<dt>(2)</dt><dd>Separate accounts must be kept of money standing to the credit of the
 
-             (2)  Subject to the provisions of any agreement under this Act, on and after this Act’s commencement, every agreement under section 4 or 6 of the _Soil Conservation (Financial Assistance) Act 1985_ has effect as if that Act had not been repealed.
+Reserve representing amounts of money to which subsection&#160;(1) applies.
 
-             (3)  If, at the time immediately before this Act commences, no report had been prepared under section 19 of the _Soil Conservation (Financial Assistance) Act 1985_ for a period ending at that time (whether the period is a period of 12 months or not), then:
+</dd> </dl>
 
-                     (a)  the Soil Conservation Advisory Committee constituted under section 10 of that Act at that time must, in spite of anything in this or that Act, as soon as practicable, prepare and give to the Minister a report on the operation of that Act and agreements and arrangements made under that Act during that period; and
+<center>**
 
-                     (b)  the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<part>Part 4&#151;Australian Landcare Council </part>
+**</center>
 
-##### <a id="26"></a>26  Annual report in relation to operation of the Act etc.
+<center>**
 
-             (1)  The Minister must, for each financial year, cause a report to be prepared and included in the annual report of the Department for that financial year on:
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<division>Division 1&#151;The Council</division> 
+**</center>
 
-                     (a)  the operation of this Act; and
+**
 
-                     (b)  agreements made under this Act;
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 13  Australian Landcare Council 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>There is to be an Australian Landcare Council.</dd> <dt>(2)</dt><dd>The functions of the Council are: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to make recommendations to the Minister and the Minister for the Arts,
+
+Sport, the Environment and Territories on:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>matters concerning natural resources management; and</dd>
+
+<dt>(ii)</dt><dd>priorities and strategies for natural resources management; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>to investigate and report to the Commonwealth Government on matters
+
+concerning natural resources management referred to it by either of the
+
+Ministers.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 14  Constitution of Council 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Council is to consist of at least 12 members.</dd> <dt>(2)</dt><dd>The members are to be appointed by the Minister.</dd> <dt>(3)</dt><dd>The members are to hold office on a part-time basis.</dd> <dt>(4)</dt><dd>A member (other than a member mentioned in subsection (6)) is to be a person with experience in, or special knowledge of, any aspects of natural resources management.</dd> <dt>(5)</dt><dd>A member (other than the Chairperson or a member mentioned in subsection (6)) holds office for a term, not exceeding 3 years, specified in the instrument of appointment.</dd> <dt>(6)</dt><dd>A member who is an officer holds office as a member during the pleasure of the Minister.</dd> <dt>(7)</dt><dd>The Minister must, when appointing members to the Council, ensure that the majority of the members are not persons employed by the Commonwealth or a State. </dd> </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<division>Division 2&#151;Meetings of the Council </division> 
+**</center>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 15  Convening of meetings 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Meetings must be held at such times and places as the Council from time to
+
+time determines.</dd> <dt>(2)</dt><dd>The Chairperson may at any time convene a meeting. </dd> </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 16  Presiding at meetings 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection (2), the Chairperson must preside at all meetings.</dd> <dt>(2)</dt><dd>If the Chairperson is absent from a meeting, the members present must elect one of their number to preside at the meeting. </dd> </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 17  Quorum 
+**
+
+ <dl compact="">
+
+		At a meeting, the number of members equal to two-thirds of the current
+
+membership constitutes a quorum.
+
+ </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 18  Voting at meetings 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>All questions arising at a meeting must be determined by a majority of the
+
+votes of the members present and voting.</dd> <dt>(2)</dt><dd>The member presiding at a meeting has a deliberative vote and, if necessary, also has a casting vote. </dd> </dl>
+
+<center>**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<division>Division 3&#151;Provisions relating to members </division> 
+**</center>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 19  Chairperson 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>There is to be a Chairperson of the Council.</dd> <dt>(2)</dt><dd>The Chairperson is to be appointed by the Minister.</dd> <dt>(3)</dt><dd>The Minister must not appoint an officer as the Chairperson.</dd> <dt>(4)</dt><dd>The Chairperson holds office as Chairperson during the pleasure of the Minister.</dd> <dt>(5)</dt><dd>The Minister may terminate a person's appointment as Chairperson at any time.</dd> <dt>(6)</dt><dd>If a person's appointment as Chairperson is terminated, the person ceases to be a member. </dd> </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 20  Deputy member 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A member may, with the Minister's approval, appoint a person to be the
+
+deputy of the member.</dd> <dt>(2)</dt><dd>A member may revoke the appointment of a person as the member's deputy but the revocation is not effective until the member has given notice of the revocation in writing to the Minister.</dd> <dt>(3)</dt><dd>The deputy of a member is entitled: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in the event of the absence of the member from a meeting of the Council,
+
+to attend that meeting; and</dd>
+
+<dt>(b)</dt><dd>when so attending a meeting, to be taken to be a member.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A deputy member is not entitled to preside at a meeting of the Council.
+
+</dd> </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 21  Remuneration and allowances 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Each member is to be paid such remuneration as is determined by the
+
+Remuneration Tribunal, but, if no determination of that remuneration by the
+
+Tribunal is in operation, is to be paid such remuneration as is prescribed.</dd> <dt>(2)</dt><dd>Each member is to be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>Subsections (1) and (2) do not apply to a member who is an officer or a person employed by a State.</dd> <dt>(4)</dt><dd>Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 22  Termination of appointment and resignation 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may terminate the appointment of a member or deputy member
+
+for misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>The Minister must terminate the appointment of a member or deputy member if the member or deputy member, without reasonable excuse, fails to comply with section 23.</dd> <dt>(3)</dt><dd>A member may resign the office of member by giving a signed notice of resignation to the Minister.</dd> <dt>(4)</dt><dd>The deputy of a member may resign the office of deputy member by giving a signed notice of resignation to the member.</dd> <dt>(5)</dt><dd>A member whose deputy resigns must, as soon as practicable after being given the signed notice of resignation, give that notice to the Minister. </dd> </dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 23  Disclosure of interests 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A member who has a direct or indirect pecuniary interest in a matter being
+
+considered or about to be considered by the Council must, as soon as possible
+
+after the relevant facts have come to the member's knowledge, disclose the
+
+nature of the interest at a meeting of the Council.</dd> <dt>(2)</dt><dd>The disclosure must be recorded in the minutes of the meeting and, unless the Minister or the Council otherwise determines, the member must not: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>be present during any deliberation of the Council with respect to that
+
+matter; or</dd>
+
+<dt>(b)</dt><dd>take part in any decision of the Council in relation to that matter.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of the making of a determination by the Council under
+
+subsection (2) in relation to a member who has made a disclosure under
+
+subsection (1), the member must not:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>be present during any deliberation of the Council for the purpose of
+
+making the determination; or</dd>
+
+<dt>(b)</dt><dd>take part in the making of the determination.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<part>Part 5&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 24  Repeal of Acts 
+**
+
+ The following Acts are repealed:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>_National Water Resources (Financial Assistance) Act 1978_;</dd>
+
+<dt>(b)</dt><dd>_Soil Conservation (Financial Assistance) Act 1985_.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 25  Transitional arrangements 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to the provisions of any agreement under this Act, on and after
+
+this Act's commencement, every agreement under section 4 of the _National Water Resources (Financial Assistance) Act 1978_ has effect as if that Act
+
+had not been repealed.</dd> <dt>(2)</dt><dd>Subject to the provisions of any agreement under this Act, on and after this Act's commencement, every agreement under section 4 or 6 of the _Soil Conservation (Financial Assistance) Act 1985_ has effect as if that Act had not been repealed.</dd> <dt>(3)</dt><dd>If, at the time immediately before this Act commences, no report had been prepared under section 19 of the _Soil Conservation (Financial Assistance) Act 1985_ for a period ending at that time (whether the period is a period of 12 months or not), then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Soil Conservation Advisory Committee constituted under section 10 of
+
+that Act at that time must, in spite of anything in this or that Act, as soon
+
+as practicable, prepare and give to the Minister a report on the operation of
+
+that Act and agreements and arrangements made under that Act during that
+
+period; and</dd>
+
+<dt>(b)</dt><dd>the Minister must cause a copy of the report to be laid before each House
+
+of the Parliament within 15 sitting days of that House after the Minister
+
+receives the report.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 26  Annual report in relation to operation of the Act etc. 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister must, for each financial year, cause a report to be prepared
+
+and included in the annual report of the Department for that financial year on:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the operation of this Act; and</dd>
+
+<dt>(b)</dt><dd>agreements made under this Act;
+
+</dd>
+
+</dl></dl></dl>
 
 during that financial year.
 
-             (2)  The first report must relate to the period beginning on the day on which this Act commences and ending on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="30" month="6">30 June 1993</st1:date>.
+<dl compact="">
 
-##### <a id="27"></a>27  Annual report of the Council
+<dt>(2)</dt><dd>The first report must relate to the period beginning on the day on which
 
-             (1)  The Council must, as soon as practicable after each 30 June, prepare and give to the Minister a report on the activities of the Council during the year ending on that date.
+this Act commences and ending on 30 June 1993.
 
-             (2)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+</dd> </dl>
 
-##### <a id="28"></a>28  Regulations
+**
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 27  Annual report of the Council 
+**
 
-                     (a)  required or permitted by this Act to be prescribed; or
+ <dl compact="">
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+<dt>(1)</dt><dd>The Council must, as soon as practicable after each 30 June, prepare and
 
-<o:p> </o:p>
+give to the Minister a report on the activities of the Council during the year
 
+ending on that date.</dd> <dt>(2)</dt><dd>The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report. </dd> </dl>
 
-# Notes to the _<span style="mso-no-proof: yes">Natural Resources Management (Financial Assistance) Act 1992</span>_
+**
 
-### Note 1
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992- SECT 28  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  NATURAL RESOURCES MANAGEMENT (FINANCIAL ASSISTANCE) ACT 1992<centreit>Notes to the _Natural Resources Management (Financial Assistance) Act 1992_ </centreit>
+**</center>
+
+**Note 1**
 
 The _Natural Resources Management (Financial Assistance) Act 1997_ as shown in this consolidation comprises No. 242, 1992 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="28%">
-  <col width="17%">
-  <col width="18%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and Year</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and Year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Natural Resources Management (Financial Assistance) Act 1992</div>
-    </td>
-    <td>
-      <div>242, 1992</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="24" month="12">24 Dec 1992</st1:date>  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="24" month="12">24 Dec 1992</st1:date>  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div> <o:p> </o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-    </td>
-    <td>
-      <div>152, 1997</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 1056–1068): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 686): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
-    </td>
-    <td>
-      <div>170, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="10" month="12">10 Dec 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 4: Royal Assent <i style="mso-bidi-font-style: normal">(c)</i></div>
-    </td>
-    <td>
-      <div>Sch. 4 (item 24)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>8, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div>S. 4 and Schedule 1 (items 256–263, 496): Royal Assent</div>
-    </td>
-    <td>
-      <div>S. 4 and Sch. 1 (item 496)</div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-_(a)_     The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 2 (items 1056–1068) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Natural Resources Management (Financial Assistance) Act 1992</i></div>
 
-_(b)_    The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 1 (item 686) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>242, 1992</div>
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Dec 1992</div>
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Dec 1992</div>
 
-_(c)_     The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 4 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
+  </td>
+  <td colspan="1" align="left">
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
 
-<o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>152, 1997</div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Oct 1997</div>
 
-## Table of Amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items 1056-1068): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Title </div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 170, 1999; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4 </div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; Nos. 146 and 170, 1999; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6 </div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 3 </div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11 </div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12 </div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 4 </div>
-    </td>
-    <td>
-      <div>rs. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 1 of Part 4 </div>
-    </td>
-    <td>
-      <div>rs. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 13 </div>
-    </td>
-    <td>
-      <div>rs. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 14 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 2 of Part 4 </div>
-    </td>
-    <td>
-      <div>rs. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 19, 20 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 27 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 27 </div>
-    </td>
-    <td>
-      <div>am. No. 170, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-</thead>
-<tbody></tbody></table>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
 
-<o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
 
-## Table A
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (item 686): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
 
-### Application, saving or transitional provisions
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No. 170, 1999)_
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</i></div>
 
-## Schedule 4<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>170, 1999</div>
 
-## Part 3—Transitional
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Dec 1999</div>
 
-##### <a id="24"></a>24  Transitional—continuity of membership etc. not affected by amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 4: Royal Assent <i>(c)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 4 (item 24)</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 2 (items 1056-1068) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+	(2)	Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(b)_	The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 1 (item 686) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+_(c)_	The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 4 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Title</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>am. No. 152, 1997; No. 170, 1999</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997; Nos. 146 and 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Part 3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997; No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 12</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Part 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 1 of Part 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 13</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 13</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 14</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 14</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 2 of Part 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 15</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 19, 20</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 23</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 27</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 27</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 170, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+
+  </th>
+</tr></table>
+
+**Table A**
+
+**Application, saving or transitional provisions**
+
+_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_ (No. 170, 1999)
+
+**Schedule 4**
+
+<part>**Part 3&#151;Transitional**</part>
+
+**24  Transitional&#151;continuity of membership etc. not affected by amendments**
 
 The amendments made by this Schedule do not affect:
 
-                     (a)  the continuity, after this Schedule commences, of the existence of body that is renamed by those amendments as the Australian Landcare Council; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the continuing validity of the appointment of the members, the Chairperson, and any deputy members, of the Council.
+<dt>(a)</dt><dd>the continuity, after this Schedule commences, of the existence of body
 
-* * *
+that is renamed by those amendments as the Australian Landcare Council; or</dd>
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
+<dt>(b)</dt><dd>the continuing validity of the appointment of the members, the
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+Chairperson, and any deputy members, of the Council.
 
-             (1)  If:
+</dd>
 
-                     (a)  a decision or action is taken or another thing is made, given or done; and
+</dl></dl></dl>
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+</def>
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+</def></def>
 
-             (2)  In this section:
-
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
-
-## Schedule 1<o:p></o:p>
-
-## 496  Saving provision—Finance Minister’s determinations
-
-If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+</def></def>
 
 
-<o:p> </o:p>
