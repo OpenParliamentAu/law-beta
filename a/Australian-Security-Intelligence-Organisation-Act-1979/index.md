@@ -1,14 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00144/Html/9d461b55-5110-4ad8-8f9a-5720b5df8a59_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00369/Html/ASIO1979_WD02_image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 June 2010
+ taking into account amendments up to Act No. 50 of 2010
 
-[**Note**: Division 3 of Part III ceases to be in force on 22 July 2016, 
- _see_ section 34ZZ]
+**\[Note: Division 3 of Part III ceases to be in force on****22 July  2016****,  _see_ section 34ZZ]**
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -16,7 +15,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,21 +33,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Extension of Act to external Territories
 
-[5A](#5A).         Copies of certain notices to be given to Inspector‑General
+[5A](#5A).         Copies of certain notices to be given to Inspector-General
 
-**Part II—The Organisation and the Director‑General**
+**Part II—The Organisation and the Director-General**
 
 [6](#6).            Continuance of Organisation
 
-[7](#7).            Director‑General
+[7](#7).            Director-General
 
 [8](#8).            Control of Organisation
 
 [8A](#8A).         Guidelines
 
-[9](#9).            Term of office of Director‑General
+[9](#9).            Term of office of Director-General
 
-[10](#10).          Remuneration and allowances of Director‑General
+[10](#10).          Remuneration and allowances of Director-General
 
 [11](#11).          Leave of absence
 
@@ -56,9 +55,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Termination of appointment
 
-[14](#14).          Acting Director‑General
+[14](#14).          Acting Director-General
 
-[15](#15).          Appointment of a Judge as Director‑General
+[15](#15).          Appointment of a Judge as Director-General
 
 [16](#16).          Delegation
 
@@ -74,11 +73,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Communication of intelligence etc 
 
-[19](#19).          Co‑operation with other authorities in connection with performance of Organisation’s functions
+[19](#19).          Co-operation with other authorities
 
-[19A](#19A).       Co‑operation with intelligence and law enforcement agencies etc  in connection with performance of their functions
-
-[20](#20).          Special responsibility of Director‑General in relation to functions of Organisation
+[20](#20).          Special responsibility of Director-General in relation to functions of Organisation
 
 [21](#21).          Leader of Opposition to be kept informed on security matters
 
@@ -114,7 +111,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          Request for warrant to specify grounds
 
-[29](#29).          Issue of certain warrants by Director‑General in emergency
+[29](#29).          Issue of certain warrants by Director-General in emergency
 
 [30](#30).          Discontinuance of action before expiration of warrant
 
@@ -122,7 +119,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Certain action in relation to requests and warrants
 
-[34](#34).          Director‑General to report to Minister
+[34](#34).          Director-General to report to Minister
 
     **Division 3—Special powers relating to terrorism offences** 
 
@@ -162,9 +159,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34N](#34N).       Interpreter provided at request of person being questioned
 
-[34P](#34P).        Inspector‑General of Intelligence and Security may be present at questioning or taking into custody
+[34P](#34P).        Inspector-General of Intelligence and Security may be present at questioning or taking into custody
 
-[34Q](#34Q).       Suspension of questioning etc  in response to concern of Inspector‑General of Intelligence and Security
+[34Q](#34Q).       Suspension of questioning etc  in response to concern of Inspector-General of Intelligence and Security
 
 [34R](#34R).       End of questioning under warrant
 
@@ -172,7 +169,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision E—Other provisions**
 
-[34T](#34T).        Humane treatment of person specified in warrant
+[34T](#34T).       Humane treatment of person specified in warrant
 
 [34U](#34U).       Entering premises to take person into custody
 
@@ -184,41 +181,41 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34Y](#34Y).       Surrender of passport by person specified in warrant
 
-[34Z](#34Z).        Person specified in warrant must not leave Australia without permission
+[34Z](#34Z).       Person specified in warrant must not leave Australia without permission
 
-[34ZA](#34ZA).     Video recording of procedures
+[34ZA](#34ZA).    Video recording of procedures
 
 [34ZB](#34ZB).     Power to conduct an ordinary search or a strip search
 
 [34ZC](#34ZC).     Rules for conduct of strip search
 
-[34ZD](#34ZD).     Power to remove, retain and copy materials etc 
+[34ZD](#34ZD).    Power to remove, retain and copy materials etc 
 
 [34ZE](#34ZE).     Special rules for young people
 
 [34ZF](#34ZF).     Offences of contravening safeguards
 
-[34ZG](#34ZG).     Complaints and information about contravention of procedural statement
+[34ZG](#34ZG).    Complaints and information about contravention of procedural statement
 
-[34ZH](#34ZH).     Providing reports to the Minister
+[34ZH](#34ZH).    Providing reports to the Minister
 
-[34ZI](#34ZI).      Providing information to the Inspector‑General
+[34ZI](#34ZI).      Providing information to the Inspector-General
 
-[34ZJ](#34ZJ).      Reporting by Inspector‑General on multiple warrants
+[34ZJ](#34ZJ).      Reporting by Inspector-General on multiple warrants
 
-[34ZK](#34ZK).     Discontinuing action before warrants expire
+[34ZK](#34ZK).    Discontinuing action before warrants expire
 
 [34ZL](#34ZL).     Certain records obtained under warrant to be destroyed
 
-[34ZM](#34ZM).    Status of issuing authorities and prescribed authorities
+[34ZM](#34ZM).   Status of issuing authorities and prescribed authorities
 
-[34ZN](#34ZN).     Certain functions and powers not affected
+[34ZN](#34ZN).    Certain functions and powers not affected
 
-[34ZO](#34ZO).     Limit on contact of lawyer of choice
+[34ZO](#34ZO).    Limit on contact of lawyer of choice
 
 [34ZP](#34ZP).     Questioning person in absence of lawyer of person’s choice
 
-[34ZQ](#34ZQ).     Involvement of lawyers
+[34ZQ](#34ZQ).    Involvement of lawyers
 
 [34ZR](#34ZR).     Conduct of parents etc 
 
@@ -226,13 +223,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34ZT](#34ZT).     Lawyers’ access to information for proceedings relating to warrant
 
-[34ZU](#34ZU).     Rules of Court about proceedings connected with warrants
+[34ZU](#34ZU).    Rules of Court about proceedings connected with warrants
 
 [34ZV](#34ZV).     Law relating to legal professional privilege not affected
 
 [34ZW](#34ZW).    Jurisdiction of State and Territory courts excluded
 
-[34ZX](#34ZX).     Financial assistance
+[34ZX](#34ZX).    Financial assistance
 
 [34ZY](#34ZY).     Instruments are not legislative instruments
 
@@ -332,29 +329,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  involve a threat to any person.
 
-                    <a name="asi"></a>**_ASIS_** has the meaning given by the _Intelligence Services Act 2001_.
-
-                    <a name="attack-australia-defenc-system"></a>**_attacks on Australia’s defence system_** means activities that are intended to, and are likely to, obstruct, hinder or interfere with the performance by the Defence Force of its functions or with the carrying out of other activities by or for the Commonwealth for the purposes of the defence or safety of the Commonwealth.
+                    <a name="defenc-system"></a><a name="australia"></a><a name="attack"></a>**_attacks on_****_Australia_****_’s defence system_** means activities that are intended to, and are likely to, obstruct, hinder or interfere with the performance by the Defence Force of its functions or with the carrying out of other activities by or for the Commonwealth for the purposes of the defence or safety of the Commonwealth.
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
-
-                    <a name="state"></a><a name="author"></a>**_authority_** **_of a State_**:
-
-                     (a)  in Part IV—has the meaning given by subsection 35(1); and
-
-                     (b)  otherwise—includes:
-
-                              (i)  a Department of State of a State, or a Department of the Public Service of a State; and
-
-                             (ii)  a body, whether incorporated or not, established for public purposes by or under a law of a State; and
-
-                            (iii)  a body corporate in which a State or a body referred to in subparagraph (ii) has a controlling interest.
 
                     <a name="author-commonwealth"></a>**_authority of the Commonwealth_** includes:
 
                      (a)  a Department of State or an Agency within the meaning of the _Public Service Act 1999_;
-
-                    (aa)  a Department within the meaning of the _Parliamentary Service Act 1999_;
 
                      (b)  the Defence Force;
 
@@ -364,25 +345,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  a prescribed body established in relation to public purposes that are of concern to the Commonwealth and any State or States; and
 
-                      (f)  a body corporate in which the Commonwealth or a body referred to in paragraph (c) has a controlling interest.
+                      (f)  a company the whole of the share capital of which is held by the Commonwealth.
 
                     <a name="carriag-servic-provid"></a>**_carriage service provider_** has the same meaning as in the _Telecommunications Act 1997_.
 
                     <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
 
-                    <a name="certifi-copi"></a>**_certified copy_**, in relation to a warrant or an instrument revoking a warrant, means a copy of the warrant or instrument that has been certified in writing by the Director‑General or a Deputy Director‑General to be a true copy of the warrant or instrument.
+                    <a name="certifi-copi"></a>**_certified copy_**, in relation to a warrant or an instrument revoking a warrant, means a copy of the warrant or instrument that has been certified in writing by the Director-General or a Deputy Director-General to be a true copy of the warrant or instrument.
 
                     <a name="committe-intellig-secur"></a>**_Committee on Intelligence and Security_** means the Parliamentary Joint Committee on Intelligence and Security established under the _Intelligence Services Act 2001_.
 
                     <a name="data-storag-devic"></a>**_data storage device_** means a thing (for example, a disk or file server) containing (whether temporarily or permanently), or designed to contain (whether temporarily or permanently), data for use by a computer.
 
-                    <a name="deputi-director-gener"></a>**_Deputy Director‑General_** means an officer of the Organisation who holds office as Deputy Director‑General of Security.
+                    <a name="deputi-director-gener"></a>**_Deputy Director-General_** means an officer of the Organisation who holds office as Deputy Director-General of Security.
 
-                    <a name="digo"></a>**_DIGO_**has the meaning given by the _Intelligence Services Act 2001_.
-
-                    <a name="director-gener"></a>**_Director‑General_** means the Director‑General of Security holding office under this Act.
-
-                    <a name="dsd"></a>**_DSD_**has the meaning given by the _Intelligence Services Act 2001_.
+                    <a name="director-gener"></a>**_Director-General_** means the Director-General of Security holding office under this Act.
 
                     <a name="foreign-intellig"></a>**_foreign intelligence_** means intelligence relating to the capabilities, intentions or activities of a foreign power.
 
@@ -414,8 +391,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="judg"></a>**_Judge_** means a Judge of a court created by the Parliament.
 
-                    <a name="law-enforc-agenc"></a>**_law enforcement agency_** means an authority of the Commonwealth, or an authority of a State, that has functions relating to law enforcement.
-
                     <a name="ordinari-search"></a>**_ordinary search_** means a search of a person or of articles on his or her person that may include:
 
                      (a)  requiring the person to remove his or her overcoat, coat or jacket and any gloves, shoes and hat; and
@@ -434,7 +409,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  whose presence in Australia is not subject to any limitation as to time imposed by law; and
 
-                            (iv)  who is not an unlawful non‑citizen within the meaning of the _Migration Act 1958_; or
+                            (iv)  who is not an unlawful non-citizen within the meaning of the _Migration Act 1958_; or
 
                      (b)  in the case of a body corporate:
 
@@ -452,7 +427,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  are directed to overthrowing or destroying, or assisting in the overthrow or destruction of, the government or the constitutional system of government of the Commonwealth or of a State or Territory; or
 
-                   (ba)  acts that are terrorism offences; or
+                    (ba)  acts that are terrorism offences; or
 
                      (c)  acts that are offences punishable under the _Crimes (Foreign Incursions and Recruitment) Act 1978_, the _Crimes (Hostages) Act 1989_ or Division 1 of Part 2, or Part 3, of the _Crimes (Ships and Fixed Platforms) Act 1992_ or under Division 1 or 4 of Part 2 of the _Crimes (Aviation) Act 1991_; or
 
@@ -460,7 +435,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  are offences punishable under the _Crimes (Internationally Protected Persons) Act 1976_; or
 
-                             (ii)  threaten or endanger any person or class of persons specified by the Minister for the purposes of this subparagraph by notice in writing given to the Director‑General.
+                             (ii)  threaten or endanger any person or class of persons specified by the Minister for the purposes of this subparagraph by notice in writing given to the Director-General.
 
                     <a name="promotion-commun-violenc"></a>**_promotion of communal violence_** means activities that are directed to promoting violence between different groups of persons in the Australian community so as to endanger the peace, order or good government of the Commonwealth.
 
@@ -480,21 +455,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (vi)  acts of foreign interference;
 
-                            whether directed from, or committed within, Australia or not; and
+                            whether directed from, or committed within, Australia or not; and
 
                     (aa)  the protection of Australia’s territorial and border integrity from serious threats; and
 
                      (b)  the carrying out of Australia’s responsibilities to any foreign country in relation to a matter mentioned in any of the subparagraphs of paragraph (a) or the matter mentioned in paragraph (aa).
 
                     <a name="seizabl-item"></a>**_seizable item_** means anything that could present a danger to a person or that could be used to assist a person to escape from lawful custody.
-
-                    <a name="seriou-crime"></a>**_serious crime_** means conduct that, if engaged in within, or in connection with, Australia, would constitute an offence against the law of the Commonwealth, a State or a Territory punishable by imprisonment for a period exceeding 12 months.
-
-                    <a name="staff-member"></a>**_staff member_** of a body (however described) includes:
-
-                     (a)  the head (however described) of the body, or another person who holds an office or appointment in relation to the body; and
-
-                     (b)  a person who is otherwise a member of the staff of the body (whether an employee of the body, a consultant or contractor to the body, or a person who is made available by an authority of the Commonwealth, an authority of a State, or other person, to perform services for the body).
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -526,53 +493,53 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    This Act extends to every external Territory.
 
-##### <a id="5A"></a>5A  Copies of certain notices to be given to Inspector‑General
+##### <a id="5A"></a>5A  Copies of certain notices to be given to Inspector-General
 
-                   Where the Minister gives a notice in writing to the Director‑General for the purposes of subparagraph (d)(ii) of the definition of **_politically motivated violence_** in section 4, the Minister shall give a copy of the notice to the Inspector‑General of Intelligence and Security.
+                   Where the Minister gives a notice in writing to the Director-General for the purposes of subparagraph (d)(ii) of the definition of **_politically motivated violence_** in section 4, the Minister shall give a copy of the notice to the Inspector-General of Intelligence and Security.
 
-## Part II—The Organisation and the Director‑General
+## Part II—The Organisation and the Director-General
 
 ##### <a id="6"></a>6  Continuance of Organisation
 
                    The Australian Security Intelligence Organisation, being the Organisation that was continued in existence by the Acts repealed by this Act, is continued in existence.
 
-##### <a id="7"></a>7  Director‑General
+##### <a id="7"></a>7  Director-General
 
-             (1)  There shall be a Director‑General of Security, who shall be appointed by the Governor‑General and shall hold office, subject to this Act, on such terms and conditions as the Governor‑General determines.
+             (1)  There shall be a Director-General of Security, who shall be appointed by the Governor-General and shall hold office, subject to this Act, on such terms and conditions as the Governor-General determines.
 
-             (2)  Before a recommendation is made to the Governor‑General for the appointment of a person as Director‑General, the Prime Minister shall consult with the Leader of the Opposition in the House of Representatives.
+             (2)  Before a recommendation is made to the Governor-General for the appointment of a person as Director-General, the Prime Minister shall consult with the Leader of the Opposition in the House of Representatives.
 
 ##### <a id="8"></a>8  Control of Organisation
 
-             (1)  The Organisation shall be under the control of the Director‑General.
+             (1)  The Organisation shall be under the control of the Director-General.
 
-             (2)  Subject to subsections (4) and (5), in the performance of the Director‑General’s functions under this Act, the Director‑General is subject to the directions of the Minister.
+             (2)  Subject to subsections (4) and (5), in the performance of the Director-General’s functions under this Act, the Director-General is subject to the directions of the Minister.
 
-             (3)  If the Director‑General requests that a direction of the Minister be put in writing, the Minister shall comply with the request.
+             (3)  If the Director-General requests that a direction of the Minister be put in writing, the Minister shall comply with the request.
 
-             (4)  The Minister is not empowered to override the opinion of the Director‑General concerning the nature of the advice that should be given by the Organisation.
+             (4)  The Minister is not empowered to override the opinion of the Director-General concerning the nature of the advice that should be given by the Organisation.
 
-             (5)  The Minister is not empowered to override the opinion of the Director‑General:
+             (5)  The Minister is not empowered to override the opinion of the Director-General:
 
                      (a)  on the question whether the collection of intelligence by the Organisation concerning a particular individual would, or would not, be justified by reason of its relevance to security; or
 
                      (b)  on the question whether a communication of intelligence concerning a particular individual would be for a purpose relevant to security;
 
-except by a direction contained in an instrument in writing that sets out the Minister’s reasons for overriding the opinion of the Director‑General.
+except by a direction contained in an instrument in writing that sets out the Minister’s reasons for overriding the opinion of the Director-General.
 
-             (6)  The Minister shall, as soon as practicable after giving a direction in writing to the Director‑General, cause a copy of the direction to be given to the Inspector‑General of Intelligence and Security and, if the direction relates to a question referred to in subsection (5), to the Prime Minister.
+             (6)  The Minister shall, as soon as practicable after giving a direction in writing to the Director-General, cause a copy of the direction to be given to the Inspector-General of Intelligence and Security and, if the direction relates to a question referred to in subsection (5), to the Prime Minister.
 
-             (7)  Where intelligence is collected or communicated pursuant to a direction referred to in subsection (5), the Director‑General shall cause a record in writing to be kept of the intelligence so collected or communicated.
+             (7)  Where intelligence is collected or communicated pursuant to a direction referred to in subsection (5), the Director-General shall cause a record in writing to be kept of the intelligence so collected or communicated.
 
 ##### <a id="8A"></a>8A  Guidelines
 
-             (1)  The Minister may, from time to time, by written notice given to the Director‑General, give to the Director‑General guidelines to be observed:
+             (1)  The Minister may, from time to time, by written notice given to the Director-General, give to the Director-General guidelines to be observed:
 
                      (a)  in the performance by the Organisation of its functions or the exercise of its powers; or
 
-                     (b)  in the exercise by the Director‑General of his or her powers under sections 85 and 86.
+                     (b)  in the exercise by the Director-General of his or her powers under sections 85 and 86.
 
-             (2)  The Minister shall, as soon as practicable after the commencement of this section, by notice in writing given to the Director‑General, give to the Director‑General guidelines to be observed in relation to the performance of that part of the Organisation’s functions that relates to politically motivated violence, and may, from time to time, vary or replace guidelines so given.
+             (2)  The Minister shall, as soon as practicable after the commencement of this section, by notice in writing given to the Director-General, give to the Director-General guidelines to be observed in relation to the performance of that part of the Organisation’s functions that relates to politically motivated violence, and may, from time to time, vary or replace guidelines so given.
 
              (3)  Subject to subsection (4), the Minister shall cause a copy of any guidelines given under subsection (1) or (2) to be laid before each House of the Parliament within 15 sitting days of that House after the guidelines were given.
 
@@ -580,83 +547,83 @@ except by a direction contained in an instrument in writing that sets out the Mi
 
              (5)  The Minister shall, in accordance with arrangements made between the Minister and the Leader of the Opposition in the House of Representatives, make available to the Leader of the Opposition a copy of any guidelines given under subsection (1) or (2), but it is the duty of the Leader of the Opposition to treat as secret any part of those guidelines that has not been laid before a House of the Parliament.
 
-             (6)  The Minister shall, as soon as practicable after guidelines under subsection (1) or (2) are given to the Director‑General, give a copy of the guidelines to the Inspector‑General of Intelligence and Security and, unless the Minister considers it inappropriate to do so, to the Committee on Intelligence and Security.
+             (6)  The Minister shall, as soon as practicable after guidelines under subsection (1) or (2) are given to the Director-General, give a copy of the guidelines to the Inspector-General of Intelligence and Security and, unless the Minister considers it inappropriate to do so, to the Committee on Intelligence and Security.
 
-##### <a id="9"></a>9  Term of office of Director‑General
+##### <a id="9"></a>9  Term of office of Director-General
 
-             (1)  Subject to sections 12 and 13, the Director‑General holds office for such period, not exceeding 7 years, as is specified in his or her instrument of appointment, but is eligible for re‑appointment.
+             (1)  Subject to sections 12 and 13, the Director-General holds office for such period, not exceeding 7 years, as is specified in his or her instrument of appointment, but is eligible for re-appointment.
 
-##### <a id="10"></a>10  Remuneration and allowances of Director‑General
+##### <a id="10"></a>10  Remuneration and allowances of Director-General
 
-             (1)  The Director‑General shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
+             (1)  The Director-General shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 
-             (2)  The Director‑General shall be paid such allowances as are prescribed.
+             (2)  The Director-General shall be paid such allowances as are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_ and to section 15.
 
 ##### <a id="11"></a>11  Leave of absence
 
-             (1)  The Director‑General has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  The Director-General has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant the Director‑General leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+             (2)  The Minister may grant the Director-General leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="12"></a>12  Resignation
 
-                   The Director‑General may resign from office by writing signed by the Director‑General and delivered to the Governor‑General.
+                   The Director-General may resign from office by writing signed by the Director-General and delivered to the Governor-General.
 
 ##### <a id="13"></a>13  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director‑General by reason of physical or mental incapacity, misbehaviour or failure to comply with a provision of this Act.
+             (1)  The Governor-General may terminate the appointment of the Director-General by reason of physical or mental incapacity, misbehaviour or failure to comply with a provision of this Act.
 
-             (2)  If the Director‑General:
+             (2)  If the Director-General:
 
                      (a)  is absent from duty, except with leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
                      (b)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
-the Governor‑General shall terminate his or her appointment.
+the Governor-General shall terminate his or her appointment.
 
-##### <a id="14"></a>14  Acting Director‑General
+##### <a id="14"></a>14  Acting Director-General
 
-             (1)  The Minister may appoint a person to act as Director‑General:
+             (1)  The Minister may appoint a person to act as Director-General:
 
-                     (a)  during a vacancy in the office of Director‑General; or
+                     (a)  during a vacancy in the office of Director-General; or
 
-                     (b)  during any period, or during all periods, when the Director‑General is absent from duty or from Australia or is, for any reason, unable to perform the functions of his or her office;
+                     (b)  during any period, or during all periods, when the Director-General is absent from duty or from Australia or is, for any reason, unable to perform the functions of his or her office;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  Before a recommendation is made to the Minister for the appointment of a person, under subsection (1), to act as Director‑General, the Prime Minister shall consult with the Leader of the Opposition in the House of Representatives, unless it is impracticable to do so.
+             (2)  Before a recommendation is made to the Minister for the appointment of a person, under subsection (1), to act as Director-General, the Prime Minister shall consult with the Leader of the Opposition in the House of Representatives, unless it is impracticable to do so.
 
              (3)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
              (4)  The Minister may:
 
-                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director‑General; and
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director-General; and
 
                      (b)  at any time terminate such an appointment.
 
-             (5)  Where a person is acting as Director‑General in accordance with paragraph (1)(b) and the office of Director‑General becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (5)  Where a person is acting as Director-General in accordance with paragraph (1)(b) and the office of Director-General becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-             (6)  The appointment of a person to act as Director‑General ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+             (6)  The appointment of a person to act as Director-General ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
-             (7)  While a person is acting as Director‑General, he or she has, and may exercise, all the powers and shall perform all the functions of the Director‑General.
+             (7)  While a person is acting as Director-General, he or she has, and may exercise, all the powers and shall perform all the functions of the Director-General.
 
-##### <a id="15"></a>15  Appointment of a Judge as Director‑General
+##### <a id="15"></a>15  Appointment of a Judge as Director-General
 
-             (1)  The appointment of a Judge as Director‑General, or service of a Judge as Director‑General, does not affect the tenure of his or her office as a Judge or his or her rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as the holder of his or her office as a Judge and, for all purposes, his or her service as Director‑General shall be taken to be service as the holder of his or her office as a Judge.
+             (1)  The appointment of a Judge as Director-General, or service of a Judge as Director-General, does not affect the tenure of his or her office as a Judge or his or her rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as the holder of his or her office as a Judge and, for all purposes, his or her service as Director-General shall be taken to be service as the holder of his or her office as a Judge.
 
-             (2)  Subject to subsection (3), if the Director‑General is a Judge, he or she shall be paid salary at such rate (if any), and an annual allowance at such rate (if any), as are fixed from time to time by the Parliament.
+             (2)  Subject to subsection (3), if the Director-General is a Judge, he or she shall be paid salary at such rate (if any), and an annual allowance at such rate (if any), as are fixed from time to time by the Parliament.
 
-             (3)  If the Director‑General is a Judge, he or she is not, while he or she receives salary or annual allowance as a Judge, entitled to salary or annual allowance, as the case may be, under this Act, except to the extent (if any) that the salary or annual allowance that would be payable to him or her under this Act apart from this subsection exceeds the salary or annual allowance payable to him or her as a Judge.
+             (3)  If the Director-General is a Judge, he or she is not, while he or she receives salary or annual allowance as a Judge, entitled to salary or annual allowance, as the case may be, under this Act, except to the extent (if any) that the salary or annual allowance that would be payable to him or her under this Act apart from this subsection exceeds the salary or annual allowance payable to him or her as a Judge.
 
 ##### <a id="16"></a>16  Delegation
 
-             (1)  The Director‑General may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Director‑General, delegate to an officer of the Organisation all or any of the powers of the Director‑General that relate to the management of the staff of the Organisation or the financial management of the Organisation.
+             (1)  The Director-General may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Director-General, delegate to an officer of the Organisation all or any of the powers of the Director-General that relate to the management of the staff of the Organisation or the financial management of the Organisation.
 
-             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act and the regulations, be deemed to have been exercised by the Director‑General.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act and the regulations, be deemed to have been exercised by the Director-General.
 
-             (3)  A delegation under this section does not prevent the exercise of a power by the Director‑General.
+             (3)  A delegation under this section does not prevent the exercise of a power by the Director-General.
 
 ## Part III—Functions and powers of Organisation
 
@@ -668,29 +635,27 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (a)  to obtain, correlate and evaluate intelligence relevant to security;
 
-                     (b)  for purposes relevant to security, to communicate any such intelligence to such persons, and in such manner, as are appropriate to those purposes;
+                     (b)  for purposes relevant to security and not otherwise, to communicate any such intelligence to such persons, and in such manner, as are appropriate to those purposes;
 
                      (c)  to advise Ministers and authorities of the Commonwealth in respect of matters relating to security, in so far as those matters are relevant to their functions and responsibilities.
 
                     (ca)  to furnish security assessments to a State or an authority of a State in accordance with paragraph 40(1)(b);
 
-                     (d)  to advise Ministers, authorities of the Commonwealth and such other persons as the Minister, by notice in writing given to the Director‑General, determines on matters relating to protective security; and
+                     (d)  to advise Ministers, authorities of the Commonwealth and such other persons as the Minister, by notice in writing given to the Director-General, determines on matters relating to protective security; and
 
-                     (e)  to obtain within Australia foreign intelligence pursuant to section 27A or 27B of this Act or section 11A, 11B or 11C of the _Telecommunications (Interception and Access) Act 1979_, and to communicate any such intelligence in accordance with this Act or the _Telecommunications (Interception and Access) Act 1979_; and
-
-                      (f)  to co‑operate with and assist bodies referred to in section 19A in accordance with that section.
+                     (e)  to obtain within Australia foreign intelligence pursuant to section 27A or 27B of this Act or section 11A, 11B or 11C of the _Telecommunications (Interception and Access) Act 1979_, and to communicate any such intelligence in accordance with this Act or the _Telecommunications (Interception and Access) Act 1979_.
 
              (2)  It is not a function of the Organisation to carry out or enforce measures for security within an authority of the Commonwealth.
 
 ##### <a id="17AA"></a>17AA  Fees for advice and other services
 
-             (1)  The Director‑General may determine in writing that fees are payable by persons for the giving of advice or the provision of services by the Organisation to the persons at their request.
+             (1)  The Director-General may determine in writing that fees are payable by persons for the giving of advice or the provision of services by the Organisation to the persons at their request.
 
-             (2)  Unless the Director‑General determines otherwise, the Organisation may refuse to give the advice, or provide the service, to a person until the fee is paid in whole or part. If the whole or part of the fee is not paid before the advice is given or the service is provided, the amount concerned is a debt due to the Commonwealth and may be recovered by the Commonwealth in a court of competent jurisdiction.
+             (2)  Unless the Director-General determines otherwise, the Organisation may refuse to give the advice, or provide the service, to a person until the fee is paid in whole or part. If the whole or part of the fee is not paid before the advice is given or the service is provided, the amount concerned is a debt due to the Commonwealth and may be recovered by the Commonwealth in a court of competent jurisdiction.
 
              (3)  The amount of the fee must not exceed the reasonable costs to the Organisation of giving the advice or providing the service.
 
-             (4)  The Director‑General may, on application in writing by a person who is or will be required to pay a fee, if the Director‑General considers it appropriate in the circumstances:
+             (4)  The Director-General may, on application in writing by a person who is or will be required to pay a fee, if the Director-General considers it appropriate in the circumstances:
 
                      (a)  not require the person to pay any of the fee; or
 
@@ -702,75 +667,69 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="18"></a>18  Communication of intelligence etc.
 
-Who may communicate intelligence
-
-             (1)  The communication of intelligence on behalf of the Organisation shall be made only by the Director‑General or by a person acting within the limits of authority conferred on the person by the Director‑General.
-
-Offence for unauthorised communication of information
+             (1)  The communication of intelligence on behalf of the Organisation shall be made only by the Director-General or by a person acting within the limits of authority conferred on the person by the Director-General.
 
              (2)  If a person makes a communication of any information or matter that has come to the knowledge or into the possession of the person by reason of his or her being, or having been, an officer or employee of the Organisation or his or her having entered into any contract, agreement or arrangement with the Organisation, being information or matter that was acquired or prepared by or on behalf of the Organisation in connection with its functions or relates to the performance by the Organisation of its functions, other than a communication made:
 
-                     (a)  to the Director‑General or an officer or employee of the Organisation:
+                     (a)  to the Director-General or an officer or employee of the Organisation:
 
                               (i)  by an officer or employee of the Organisation—in the course of the duties of the officer or employee; or
 
                              (ii)  by a person who has entered into any such contract, agreement or arrangement—in accordance with the contract, agreement or arrangement;
 
-                     (b)  by a person acting within the limits of authority conferred on the person by the Director‑General; or
+                     (b)  by a person acting within the limits of authority conferred on the person by the Director-General; or
 
-                     (c)  with the approval of the Director‑General or of an officer of the Organisation having the authority of the Director‑General to give such an approval;
+                     (c)  with the approval of the Director-General or of an officer of the Organisation having the authority of the Director-General to give such an approval;
 
-the first‑mentioned person is guilty of an offence.
+the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-Communicating information to appropriate authorities of the Commonwealth or a State
+             (3)  Notwithstanding paragraph 17(1)(b), the Director-General or a person authorised for the purpose by the Director-General may, in accordance with the following paragraphs, communicate information that has come into the possession of the Organisation in the course of performing its functions under section 17:
 
-             (3)  A person referred to in subsection (1) may communicate information to a person referred to in subsection (4) if:
+                     (a)  where the information relates, or appears to relate, to the commission, or intended commission, of an indictable offence against the law of the Commonwealth or of a State or Territory—the information may be communicated to:
 
-                     (a)  the information has come into the possession of the Organisation in the course of performing the Organisation’s functions under section 17; and
+                              (i)  an officer of the Police Force of a State or Territory; or
 
-                     (b)  either:
+                             (ii)  a member or special member of the Australian Federal Police; or
 
-                              (i)  the information relates, or appears to relate, to the commission, or intended commission, of a serious crime; or
+                            (iii)  the Integrity Commissioner, a staff member of ACLEI or a special investigator; or
 
-                             (ii)  the Director‑General, or a person authorised for the purpose by the Director‑General, is satisfied that the national interest requires the communication; and
+                            (iv)  the Chief Executive Officer of the Australian Crime Commission or a member of the staff of the ACC; or
 
-                     (c)  the information relates, or appears to relate, to the performance of the functions, responsibilities or duties of the person referred to in subsection (4).
+                     (b)  where the information has come into the possession of the Organisation outside Australia or concerns matters outside Australia and the Director-General or the person so authorised is satisfied that the national interest requires the communication—the information may be communicated to:
 
-Note:          There are additional restrictions, in the _Telecommunications (Interception and Access) Act 1979_, on communicating telecommunications information.
+                              (i)  a Minister; or
 
-             (4)  The persons to whom information may be communicated under subsection (3) are the following:
+                             (ii)  a Department; or
 
-                     (a)  a Minister;
+                            (iii)  an intelligence or security agency; or
 
-                     (b)  a staff member of an authority of the Commonwealth;
+                            (iv)  an officer of a Police Force of a State or Territory; or
 
-                     (c)  a staff member of an authority of a State.
+                             (v)  a member or special member of the Australian Federal Police; or
 
-Communicating information to ASIS, DSD and DIGO
+                          (via)  the Integrity Commissioner, a staff member of ACLEI or a special investigator; or
 
-          (4A)  A person referred to in subsection (1) may communicate information to a staff member of ASIS, DSD or DIGO if:
+                            (vi)  the Chief Executive Officer of the Australian Crime Commission or a member of the staff of the ACC; or
 
-                     (a)  the information has come into the possession of the Organisation in the course of performing the Organisation’s functions under section 17; and
+                     (c)  if an emergency declaration (within the meaning of section 80G of the _Privacy Act 1988_) is in force—the information may be communicated in accordance with Part VIA of that Act.
 
-                     (b)  the information relates, or appears to relate, to the performance of ASIS, DSD or DIGO’s functions (as the case requires).
+             (5)  A prosecution for an offence against subsection (2) shall be instituted only by or with the consent of the Attorney-General.
 
-Communicating information in relation to emergency declarations
+             (6)  In this section:
 
-          (4B)  A person referred to in subsection (1) may communicate information, in accordance with Part VIA of the _Privacy Act 1988_, if:
+                    <a name="integr-commission"></a>**_Integrity Commissioner_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
-                     (a)  the information has come into the possession of the Organisation in the course of performing its functions under section 17; and
+                    <a name="member-staff-acc"></a>**_member of the staff of the ACC_** has the same meaning as in the _Australian Crime Commission Act 2002_.
 
-                     (b)  an emergency declaration (within the meaning of section 80G of that Act) is in force.
+                    <a name="special-investig"></a>**_special investigator_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
-Attorney‑General’s consent required for prosecution of offence
+                    <a name="staff-member-aclei"></a>**_staff member of ACLEI_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
-             (5)  A prosecution for an offence against subsection (2) shall be instituted only by or with the consent of the Attorney‑General.
+##### <a id="19"></a>19  Co-operation with other authorities
 
-##### <a id="19"></a>19  Co‑operation with other authorities in connection with performance of Organisation’s functions
-
-             (1)  So far as necessary for, or conducive to, the performance of the Organisation’s functions, the Organisation may, subject to any arrangements made or directions given by the Minister, co‑operate with:
+             (1)  So far as necessary for, or conducive to, the performance of its functions, the Organisation may, subject to any arrangements made or directions given by the Minister, co-operate with:
 
                      (a)  authorities of the Commonwealth;
 
@@ -778,47 +737,11 @@ Attorney‑General’s consent required for prosecution of offence
 
                      (c)  authorities of other countries approved by the Minister as being capable of assisting the Organisation in the performance of its functions.
 
-             (2)  A person referred to in subsection 18(1) may, where the Organisation is co‑operating with an authority of another country in accordance with paragraph (1)(c), communicate to an officer of that authority information that has come into the possession of the Organisation in the course of performing its functions under section 17, being information that is relevant to the security of that other country and that could not, apart from this subsection, be communicated to that officer.
+             (2)  Notwithstanding paragraph 17(1)(b), the Director-General or an officer authorised by the Director-General may, where the Organisation is co-operating with an authority of another country in accordance with paragraph (1)(c), communicate to an officer of that authority information that has come into the possession of the Organisation in the course of performing its functions under section 17, being information that is relevant to the security of that other country and that could not, apart from this subsection, be communicated to that officer.
 
-Note:          There are additional restrictions, in the _Telecommunications (Interception and Access) Act 1979_, on communicating telecommunications information.
+##### <a id="20"></a>20  Special responsibility of Director-General in relation to functions of Organisation
 
-##### <a id="19A"></a>19A  Co‑operation with intelligence and law enforcement agencies etc. in connection with performance of their functions
-
-             (1)  The Organisation may co‑operate with and assist the following bodies in the performance of their functions:
-
-                     (a)  ASIS;
-
-                     (b)  DSD;
-
-                     (c)  DIGO;
-
-                     (d)  a law enforcement agency;
-
-                     (e)  an authority of the Commonwealth, or an authority of a State, that is prescribed by the regulations for the purposes of this paragraph.
-
-             (2)  However, the Organisation may only do so:
-
-                     (a)  subject to any arrangements made or directions given by the Minister; and
-
-                     (b)  on request by the head (however described) of the body referred to in subsection (1).
-
-             (3)  Without limiting subsection (1), in co‑operating with and assisting a body in accordance with this section, the Organisation may make the services of officers and employees, and other resources, of the Organisation available to the body.
-
-Communicating information
-
-             (4)  A person referred to in subsection 18(1) may communicate information to a staff member of a body referred to in paragraph (1)(d) or (e) if:
-
-                     (a)  the information has come into the possession of the Organisation in the course of performing the Organisation’s functions under section 17; and
-
-                     (b)  the information is communicated for the purposes of co‑operating with or assisting the body under this section.
-
-Note 1:       For communication of information to ASIS, DSD and DIGO, see subsection 18(4A).
-
-Note 2:       There are additional restrictions, in the _Telecommunications (Interception and Access) Act 1979_, on communicating telecommunications information.
-
-##### <a id="20"></a>20  Special responsibility of Director‑General in relation to functions of Organisation
-
-                   The Director‑General shall take all reasonable steps to ensure that:
+                   The Director-General shall take all reasonable steps to ensure that:
 
                      (a)  the work of the Organisation is limited to what is necessary for the purposes of the discharge of its functions; and
 
@@ -826,13 +749,13 @@ Note 2:       There are additional restrictions, in the _Telecommuni
 
 ##### <a id="21"></a>21  Leader of Opposition to be kept informed on security matters
 
-                   The Director‑General shall consult regularly with the Leader of the Opposition in the House of Representatives for the purpose of keeping him or her informed on matters relating to security.
+                   The Director-General shall consult regularly with the Leader of the Opposition in the House of Representatives for the purpose of keeping him or her informed on matters relating to security.
 
 ### Division 2—Special powers
 
 ##### <a id="22"></a>22  Interpretation
 
-                   In this Division, unless the contrary intention appears:
+                   In this Division, unless the contrary intention appears:
 
                     <a name="carrier"></a>**_carrier_** means:
 
@@ -894,7 +817,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  failing to produce the document.
 
-             (6)  The Director‑General, or a senior officer of the Organisation appointed by the Director‑General in writing to be an authorising officer for the purposes of this subsection, may authorise, in writing, an officer or employee of the Organisation, or a class of such officers or employees, for the purposes of this section.
+             (6)  The Director-General, or a senior officer of the Organisation appointed by the Director-General in writing to be an authorising officer for the purposes of this subsection, may authorise, in writing, an officer or employee of the Organisation, or a class of such officers or employees, for the purposes of this section.
 
              (7)  In this section:
 
@@ -906,13 +829,13 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  equivalent to a position occupied by an SES employee; or
 
-                     (b)  designated as an office of Coordinator by the Director‑General under section 85.
+                     (b)  designated as an office of Coordinator by the Director-General under section 85.
 
 ##### <a id="24"></a>24  Exercise of authority under warrants etc.
 
-             (1)  The Director‑General, or a senior officer of the Organisation appointed by the Director‑General in writing to be an authorising officer for the purposes of this subsection, may, by signed writing, approve officers and employees of the Organisation, and other people, as people authorised to exercise, on behalf of the Organisation, the authority conferred by relevant warrants or relevant device recovery provisions.
+             (1)  The Director-General, or a senior officer of the Organisation appointed by the Director-General in writing to be an authorising officer for the purposes of this subsection, may, by signed writing, approve officers and employees of the Organisation, and other people, as people authorised to exercise, on behalf of the Organisation, the authority conferred by relevant warrants or relevant device recovery provisions.
 
-             (2)  The authority conferred by a relevant warrant or relevant device recovery provision may be exercised on behalf of the Organisation only by the Director‑General or an officer, employee or other person approved under subsection (1).
+             (2)  The authority conferred by a relevant warrant or relevant device recovery provision may be exercised on behalf of the Organisation only by the Director-General or an officer, employee or other person approved under subsection (1).
 
              (3)  In this section:
 
@@ -924,13 +847,13 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  equivalent to a position occupied by an SES employee; or
 
-                     (b)  designated as an office of Coordinator by the Director‑General under section 85.
+                     (b)  designated as an office of Coordinator by the Director-General under section 85.
 
 ##### <a id="25"></a>25  Search warrants
 
 Issue of search warrant
 
-             (1)  If the Director‑General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
+             (1)  If the Director-General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
 
 Test for issue of warrant
 
@@ -1044,7 +967,7 @@ Issue of further warrants not prevented
 
 Issue of computer access warrant
 
-             (1)  If the Director‑General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
+             (1)  If the Director-General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
 
 Test for issue of warrant
 
@@ -1078,7 +1001,7 @@ Things that may be authorised in warrant
 
                      (d)  any other thing reasonably incidental to any of the above.
 
-Note:          As a result of the warrant, an ASIO officer who, by means of a telecommunications facility, obtains access to data stored in the target computer etc. will not commit an offence under Part 10‑7 of the _Criminal Code_ or equivalent State or Territory laws (provided that the ASIO officer acts within the authority of the warrant).
+Note:          As a result of the warrant, an ASIO officer who, by means of a telecommunications facility, obtains access to data stored in the target computer etc. will not commit an offence under Part 10-7 of the _Criminal Code_ or equivalent State or Territory laws (provided that the ASIO officer acts within the authority of the warrant).
 
 Certain acts not authorised
 
@@ -1104,31 +1027,31 @@ Issue of further warrants not prevented
 
              (1)  It is unlawful for an officer, employee or agent of the Organisation, for the purposes of the Organisation, to use a listening device for the purpose of listening to or recording words, images, sounds or signals being communicated by another person (in this subsection referred to as the **_communicator_**) unless:
 
-                     (a)  the communicator intends, or should reasonably expect, those words, images, sounds or signals to be communicated to the first‑mentioned person or to a class or group of persons in which the first‑mentioned person is included;
+                     (a)  the communicator intends, or should reasonably expect, those words, images, sounds or signals to be communicated to the first-mentioned person or to a class or group of persons in which the first-mentioned person is included;
 
-                     (b)  the first‑mentioned person does so with the consent of the communicator; or
+                     (b)  the first-mentioned person does so with the consent of the communicator; or
 
-                     (c)  the first‑mentioned person does so in accordance with a warrant issued under this Division;
+                     (c)  the first-mentioned person does so in accordance with a warrant issued under this Division;
 
-and it is the duty of the Director‑General to take all reasonable steps to ensure that this subsection is not contravened.
+and it is the duty of the Director-General to take all reasonable steps to ensure that this subsection is not contravened.
 
              (2)  Notwithstanding any law of a State or Territory, an officer, employee or agent of the Organisation, acting on behalf of the Organisation, does not act unlawfully by reason only of using a listening device as referred to in subsection (1) in circumstances in which paragraph (a), (b) or (c) of that subsection is applicable.
 
-             (3)  Where, upon receipt by the Minister of a request by the Director‑General for the issue of a warrant under this section authorizing the use of a listening device in relation to a particular person, the Minister is satisfied that:
+             (3)  Where, upon receipt by the Minister of a request by the Director-General for the issue of a warrant under this section authorizing the use of a listening device in relation to a particular person, the Minister is satisfied that:
 
-                     (a)  that person is engaged in, or is reasonably suspected by the Director‑General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
+                     (a)  that person is engaged in, or is reasonably suspected by the Director-General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  the use by the Organisation of a listening device to listen to or record words, images, sounds or signals communicated by or to that person will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security;
 
-the Minister may, by warrant signed by the Minister, authorize the Organisation, subject to any conditions or restrictions that are specified in the warrant, to use a listening device for the purpose of listening to or recording words, images, sounds or signals communicated by or to that person and such a warrant may authorize the Organisation to enter any premises in which that person is, or is likely to be, or any other premises specified in the warrant from which words, images, sounds or signals communicated by or to that person while that person is in those first‑mentioned premises can be listened to or recorded with the use of a listening device, for the purpose of installing, maintaining or using a listening device.
+the Minister may, by warrant signed by the Minister, authorize the Organisation, subject to any conditions or restrictions that are specified in the warrant, to use a listening device for the purpose of listening to or recording words, images, sounds or signals communicated by or to that person and such a warrant may authorize the Organisation to enter any premises in which that person is, or is likely to be, or any other premises specified in the warrant from which words, images, sounds or signals communicated by or to that person while that person is in those first-mentioned premises can be listened to or recorded with the use of a listening device, for the purpose of installing, maintaining or using a listening device.
 
-             (4)  Where, upon receipt by the Minister of a request by the Director‑General for the issue of a warrant under this section authorizing the use of a listening device to listen to or record words, images, sounds or signals communicated from or to particular premises, the Minister is satisfied that:
+             (4)  Where, upon receipt by the Minister of a request by the Director-General for the issue of a warrant under this section authorizing the use of a listening device to listen to or record words, images, sounds or signals communicated from or to particular premises, the Minister is satisfied that:
 
-                     (a)  those premises are used, likely to be used or frequented by a person engaged in, or reasonably suspected by the Director‑General of being engaged in or of being likely to engage in, activities prejudicial to security; and
+                     (a)  those premises are used, likely to be used or frequented by a person engaged in, or reasonably suspected by the Director-General of being engaged in or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  the use on behalf of the Organisation of a listening device to listen to or record words, images, sounds or signals communicated by or to persons in those premises will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security;
 
-the Minister may, by warrant signed by the Minister, authorize the Organisation, subject to any conditions or restrictions that are specified in the warrant, to use a listening device for the purpose of listening to or recording words, images, sounds or signals communicated by or to any person while the person is in those premises and such a warrant may authorize the Organisation to enter those premises, or any other premises specified in the warrant from which words, images, sounds or signals communicated by or to any person while the person is in those first‑mentioned premises can be listened to or recorded with the use of a listening device, for the purpose of installing, maintaining or using a listening device.
+the Minister may, by warrant signed by the Minister, authorize the Organisation, subject to any conditions or restrictions that are specified in the warrant, to use a listening device for the purpose of listening to or recording words, images, sounds or signals communicated by or to any person while the person is in those premises and such a warrant may authorize the Organisation to enter those premises, or any other premises specified in the warrant from which words, images, sounds or signals communicated by or to any person while the person is in those first-mentioned premises can be listened to or recorded with the use of a listening device, for the purpose of installing, maintaining or using a listening device.
 
              (5)  The warrant must:
 
@@ -1160,7 +1083,7 @@ at the following time:
 
 Unlawful use of tracking devices
 
-             (1)  Subject to subsection (2), it is unlawful for an officer, employee or agent of the Organisation to use a tracking device for the purpose of tracking a person or an object. It is the duty of the Director‑General to take all reasonable steps to ensure that this subsection is not contravened.
+             (1)  Subject to subsection (2), it is unlawful for an officer, employee or agent of the Organisation to use a tracking device for the purpose of tracking a person or an object. It is the duty of the Director-General to take all reasonable steps to ensure that this subsection is not contravened.
 
 Note:          **_Tracking device_**, **_track_** and _object_ are defined in subsection (3).
 
@@ -1194,13 +1117,13 @@ Definitions
 
 Issue of warrant
 
-             (1)  If the Director‑General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
+             (1)  If the Director-General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
 
 Test for issue of warrant
 
              (2)  The Minister is only to issue the warrant if he or she is satisfied that:
 
-                     (a)  a person (the **_subject_**) is engaged in, or reasonably suspected by the Director‑General of being engaged in or of being likely to engage in, activities prejudicial to security; and
+                     (a)  a person (the **_subject_**) is engaged in, or reasonably suspected by the Director-General of being engaged in or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  the use by the Organisation of a tracking device applied to any object (a **_target object_**) used or worn, or likely to be used or worn, by the subject to enable the Organisation to track the subject will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
@@ -1268,13 +1191,13 @@ Interpretation
 
 Issue of warrant
 
-             (1)  If the Director‑General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
+             (1)  If the Director-General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (2), the Minister may issue a warrant in accordance with this section.
 
 Test for issue of warrant
 
              (2)  The Minister is only to issue the warrant if he or she is satisfied that:
 
-                     (a)  an object (the **_target object_**) is used or worn, or likely to be used or worn by a person (whether or not his or her identity is known) engaged in or reasonably suspected by the Director‑General of being engaged in or of being likely to engage in, activities prejudicial to security; and
+                     (a)  an object (the **_target object_**) is used or worn, or likely to be used or worn by a person (whether or not his or her identity is known) engaged in or reasonably suspected by the Director-General of being engaged in or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  the use by the Organisation of a tracking device applied to the target object to enable the Organisation to track the target object will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
@@ -1346,19 +1269,19 @@ Interpretation
 
                      (b)  for that Corporation or an employee or agent of that Corporation to provide to such a person;
 
-access to a postal article that is in the course of the post or information concerning the contents or cover of any postal article except in pursuance of, or for the purposes of, a warrant under this section or section 27A, and it is the duty of the Director‑General to take all reasonable steps to ensure that this subsection is not contravened.
+access to a postal article that is in the course of the post or information concerning the contents or cover of any postal article except in pursuance of, or for the purposes of, a warrant under this section or section 27A, and it is the duty of the Director-General to take all reasonable steps to ensure that this subsection is not contravened.
 
-             (2)  Where, upon receipt by the Minister of a request by the Director‑General for the issue of a warrant under this section in relation to a person, the Minister is satisfied that:
+             (2)  Where, upon receipt by the Minister of a request by the Director-General for the issue of a warrant under this section in relation to a person, the Minister is satisfied that:
 
-                     (a)  that person is engaged in or is reasonably suspected by the Director‑General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
+                     (a)  that person is engaged in or is reasonably suspected by the Director-General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  access by the Organisation to postal articles posted by or on behalf of, addressed to or intended to be received by, that person, while the articles are in the course of the post, will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security;
 
 the Minister may, by warrant under his or her hand, authorize the Organisation to do such of the following acts and things as the Minister considers appropriate in the circumstances, namely, with respect to postal articles in the course of the post that were posted by or on behalf of, or are addressed to, that person or are reasonably suspected by a person authorized to exercise the authority of the Organisation under the warrant to be intended to be received by that person, to inspect, and make copies of, or of the covers of, the articles, and to open the articles and inspect and make copies of the contents of any such article.
 
-             (3)  Where, upon receipt by the Minister of a request by the Director‑General for the issue of a warrant under this section in relation to an address, the Minister is satisfied that:
+             (3)  Where, upon receipt by the Minister of a request by the Director-General for the issue of a warrant under this section in relation to an address, the Minister is satisfied that:
 
-                     (a)  some or all of the postal articles that are being, or are likely to be, sent by post to that address are or will be intended to be received by a person (whether of known identity or not) engaged in, or reasonably suspected by the Director‑General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
+                     (a)  some or all of the postal articles that are being, or are likely to be, sent by post to that address are or will be intended to be received by a person (whether of known identity or not) engaged in, or reasonably suspected by the Director-General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  access by the Organisation to postal articles posted to that address and intended to be received by the person referred to in paragraph (a) will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security;
 
@@ -1368,23 +1291,23 @@ the Minister may, by warrant under his or her hand, authorize the Organisation t
 
              (5)  Subsection (4) shall not be construed as preventing the issue of any further warrant.
 
-             (6)  Where the Director‑General is informed under section 32 of the issue of a warrant under this section, the Director‑General must:
+             (6)  Where the Director-General is informed under section 32 of the issue of a warrant under this section, the Director-General must:
 
                      (a)  cause the Australian Postal Corporation to be informed of the issue of the warrant without delay; and
 
-                     (b)  where, under section 32, the Director‑General receives the warrant—cause a certified copy of the warrant to be given to the Australian Postal Corporation as soon as practicable.
+                     (b)  where, under section 32, the Director-General receives the warrant—cause a certified copy of the warrant to be given to the Australian Postal Corporation as soon as practicable.
 
           (6A)  Where:
 
-                     (a)  the Director‑General has been informed under section 32 of the issue of a warrant under this section; and
+                     (a)  the Director-General has been informed under section 32 of the issue of a warrant under this section; and
 
-                     (b)  the Director‑General is informed under that section that the warrant has been revoked;
+                     (b)  the Director-General is informed under that section that the warrant has been revoked;
 
-the Director‑General must:
+the Director-General must:
 
                      (c)  cause the Australian Postal Corporation to be informed of the revocation without delay; and
 
-                     (d)  where, under section 32, the Director‑General receives the instrument of revocation—cause a certified copy of the instrument of revocation to be given to the Australian Postal Corporation as soon as practicable.
+                     (d)  where, under section 32, the Director-General receives the instrument of revocation—cause a certified copy of the instrument of revocation to be given to the Australian Postal Corporation as soon as practicable.
 
              (7)  The Australian Postal Corporation shall give to a person acting in pursuance of a warrant under this section all reasonable assistance.
 
@@ -1414,19 +1337,19 @@ access to:
 
                      (d)  information concerning the contents or cover of any such article;
 
-except in accordance with, or for the purposes of, a warrant under this Division. It is the duty of the Director‑General to take all reasonable steps to ensure that this subsection is not contravened.
+except in accordance with, or for the purposes of, a warrant under this Division. It is the duty of the Director-General to take all reasonable steps to ensure that this subsection is not contravened.
 
 Note:          **_Delivery service provider_**, **_agent_** and **_article_** are defined in subsection (12).
 
 Issue of delivery services warrant
 
-             (2)  If the Director‑General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (3) or (6), the Minister may issue a warrant in accordance with this section.
+             (2)  If the Director-General requests the Minister to do so, and the Minister is satisfied as mentioned in subsection (3) or (6), the Minister may issue a warrant in accordance with this section.
 
 Test 1 for issue of warrant
 
              (3)  The Minister may issue a warrant if he or she is satisfied that:
 
-                     (a)  a person (the **_subject_**) is engaged in or is reasonably suspected by the Director‑General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
+                     (a)  a person (the **_subject_**) is engaged in or is reasonably suspected by the Director-General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  access by the Organisation to articles sent by or on behalf of, addressed to or intended to be received by, the subject while the articles are being delivered by a delivery service provider, will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
@@ -1460,7 +1383,7 @@ Test 2 for issue of warrant
 
              (6)  The Minister may issue a warrant if he or she is satisfied that:
 
-                     (a)  some or all of the articles that are being, or are likely to be, sent by a delivery service provider to an address (the **_subject address_**) are, or will be intended to be, received by a person (the **_subject_**)(whether of known identity or not) engaged in, or reasonably suspected by the Director‑General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
+                     (a)  some or all of the articles that are being, or are likely to be, sent by a delivery service provider to an address (the **_subject address_**) are, or will be intended to be, received by a person (the **_subject_**)(whether of known identity or not) engaged in, or reasonably suspected by the Director-General of being engaged in, or of being likely to engage in, activities prejudicial to security; and
 
                      (b)  access by the Organisation to articles sent to, or intended to be received by, the subject while the articles are being delivered by a delivery service provider will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
@@ -1514,7 +1437,7 @@ Definitions
 
              (1)  Where:
 
-                     (a)  the Director‑General gives a notice in writing to the Minister requesting the Minister to issue a warrant under this section in relation to premises, a person, a computer or a thing identified in the notice authorising the Organisation to do acts or things referred to in whichever of subsections 25(4) or (5), 25A(4), 26(3) or (4), 26B(3), 26C(3), 27(2) or (3) or 27AA(5) or (8) is or are specified in the notice for the purpose of obtaining foreign intelligence relating to a matter specified in the notice; and
+                     (a)  the Director-General gives a notice in writing to the Minister requesting the Minister to issue a warrant under this section in relation to premises, a person, a computer or a thing identified in the notice authorising the Organisation to do acts or things referred to in whichever of subsections 25(4) or (5), 25A(4), 26(3) or (4), 26B(3), 26C(3), 27(2) or (3) or 27AA(5) or (8) is or are specified in the notice for the purpose of obtaining foreign intelligence relating to a matter specified in the notice; and
 
                      (b)  the Minister is satisfied, on the basis of advice received from the relevant Minister, that the collection of foreign intelligence relating to that matter is important in relation to the defence of the Commonwealth or to the conduct of the Commonwealth’s international affairs;
 
@@ -1568,29 +1491,29 @@ at the following time:
 
              (5)  Nothing in this section, or in a warrant under this section, applies to or in relation to the use of a listening device for a purpose that would, for the purposes of the _Telecommunications (Interception and Access) Act 1979_, constitute the interception of a communication passing over a telecommunications system operated by a carrier or a carriage service provider.
 
-             (6)  Where the Director‑General is informed under section 32 of the issue of a warrant under this section authorising the doing of acts or things referred to in subsection 27(2) or (3), the Director‑General must:
+             (6)  Where the Director-General is informed under section 32 of the issue of a warrant under this section authorising the doing of acts or things referred to in subsection 27(2) or (3), the Director-General must:
 
                      (a)  cause the Australian Postal Corporation to be informed of the issue of the warrant without delay; and
 
-                     (b)  where, under section 32, the Director‑General receives the warrant—cause a certified copy of the warrant to be given to the Australian Postal Corporation as soon as practicable.
+                     (b)  where, under section 32, the Director-General receives the warrant—cause a certified copy of the warrant to be given to the Australian Postal Corporation as soon as practicable.
 
           (6A)  Where:
 
-                     (a)  the Director‑General has been informed under section 32 of the issue of a warrant under this section authorising the doing of acts or things referred to in subsection 27(2) or (3); and
+                     (a)  the Director-General has been informed under section 32 of the issue of a warrant under this section authorising the doing of acts or things referred to in subsection 27(2) or (3); and
 
-                     (b)  the Director‑General is informed under section 32 that the warrant has been revoked;
+                     (b)  the Director-General is informed under section 32 that the warrant has been revoked;
 
-the Director‑General must:
+the Director-General must:
 
                      (c)  cause the Australian Postal Corporation to be informed of the revocation without delay; and
 
-                     (d)  where, under section 32, the Director‑General receives the instrument of revocation—cause a certified copy of the instrument of revocation to be given to the Australian Postal Corporation as soon as practicable.
+                     (d)  where, under section 32, the Director-General receives the instrument of revocation—cause a certified copy of the instrument of revocation to be given to the Australian Postal Corporation as soon as practicable.
 
              (7)  The Australian Postal Corporation shall give to a person acting pursuant to a warrant under this section authorising the doing of acts or things referred to in subsection 27(2) or (3) all reasonable assistance.
 
              (8)  Nothing in Part VIIA of the _Crimes Act 1914_ or the _Australian Postal Corporation Act 1989_ shall be taken to prohibit the doing of anything pursuant to, or for the purposes of, a warrant under this section.
 
-             (9)  The Director‑General shall not request the issue of a warrant under this section for the purpose of collecting information concerning an Australian citizen or a permanent resident.
+             (9)  The Director-General shall not request the issue of a warrant under this section for the purpose of collecting information concerning an Australian citizen or a permanent resident.
 
            (10)  The reference in subsection (1) to conditions or restrictions includes a reference to conditions or restrictions designed to minimise the obtaining by the Organisation, pursuant to a warrant issued under that subsection, of information that is not publicly available concerning Australian citizens or permanent residents, or to minimise the retention of information of that kind.
 
@@ -1598,7 +1521,7 @@ the Director‑General must:
 
                    If:
 
-                     (a)  the Director‑General gives a notice in writing to the Minister requesting the Minister to authorise the Organisation to obtain foreign intelligence in relation to a matter specified in the notice; and
+                     (a)  the Director-General gives a notice in writing to the Minister requesting the Minister to authorise the Organisation to obtain foreign intelligence in relation to a matter specified in the notice; and
 
                      (b)  the Minister is satisfied, on the basis of advice received from the relevant Minister, that the collection of foreign intelligence relating to that matter is important in relation to the defence of the Commonwealth or to the conduct of the Commonwealth’s international affairs;
 
@@ -1606,39 +1529,39 @@ the Minister may, by writing signed by the Minister, authorise the Organisation 
 
 ##### <a id="28"></a>28  Request for warrant to specify grounds
 
-                   A request by the Director‑General for the issue of a warrant under this Division shall specify the facts and other grounds on which the Director‑General considers it necessary that the warrant should be issued and (where appropriate) the grounds on which the Director‑General suspects a person of being engaged in, or of being likely to engage in, activities prejudicial to security.
+                   A request by the Director-General for the issue of a warrant under this Division shall specify the facts and other grounds on which the Director-General considers it necessary that the warrant should be issued and (where appropriate) the grounds on which the Director-General suspects a person of being engaged in, or of being likely to engage in, activities prejudicial to security.
 
-##### <a id="29"></a>29  Issue of certain warrants by Director‑General in emergency
+##### <a id="29"></a>29  Issue of certain warrants by Director-General in emergency
 
              (1)  Where:
 
-                     (a)  the Director‑General has forwarded or made a request to the Minister for the issue of a warrant under section 25, 25A, 26, 26B, 26C, 27 or 27AA;
+                     (a)  the Director-General has forwarded or made a request to the Minister for the issue of a warrant under section 25, 25A, 26, 26B, 26C, 27 or 27AA;
 
-                     (b)  the Minister has not, to the knowledge of the Director‑General, issued, or refused to issue, a warrant as a result of the request and has not, within the preceding period of 3 months, refused to issue a substantially similar warrant;
+                     (b)  the Minister has not, to the knowledge of the Director-General, issued, or refused to issue, a warrant as a result of the request and has not, within the preceding period of 3 months, refused to issue a substantially similar warrant;
 
-                     (c)  the Director‑General has not, within the preceding period of 3 months, issued a substantially similar warrant; and
+                     (c)  the Director-General has not, within the preceding period of 3 months, issued a substantially similar warrant; and
 
-                     (d)  the Director‑General is satisfied:
+                     (d)  the Director-General is satisfied:
 
                               (i)  that the facts of the case would justify the issue of a warrant by the Minister; and
 
                              (ii)  that, if the action to be authorized by the warrant does not commence before a warrant can be issued and made available by the Minister, security will be, or is likely to be, seriously prejudiced;
 
-the Director‑General may issue a warrant signed by the Director‑General of the kind that could be issued by the Minister in pursuance of the request.
+the Director-General may issue a warrant signed by the Director-General of the kind that could be issued by the Minister in pursuance of the request.
 
              (2)  A warrant under this section shall specify the period for which it is to remain in force, being a period that does not exceed 48 hours, but may be revoked by the Minister at any time before the expiration of the period so specified.
 
-             (3)  Where the Director‑General issues a warrant under this section, the Director‑General shall forthwith furnish to the Minister:
+             (3)  Where the Director-General issues a warrant under this section, the Director-General shall forthwith furnish to the Minister:
 
                      (a)  a copy of the warrant; and
 
-                     (b)  a statement of the grounds on which the Director‑General is satisfied as to the matter referred to in subparagraph (1)(d)(ii).
+                     (b)  a statement of the grounds on which the Director-General is satisfied as to the matter referred to in subparagraph (1)(d)(ii).
 
-             (4)  The Director‑General must, within 3 working days after issuing a warrant under this section, give a copy of the warrant to the Inspector‑General of Intelligence and Security.
+             (4)  The Director-General must, within 3 working days after issuing a warrant under this section, give a copy of the warrant to the Inspector-General of Intelligence and Security.
 
 ##### <a id="30"></a>30  Discontinuance of action before expiration of warrant
 
-                   Where, before a warrant under this Division ceases to be in force, the Director‑General is satisfied that the grounds on which the warrant was issued have ceased to exist, the Director‑General shall forthwith inform the Minister accordingly and take such steps as are necessary to ensure that action in pursuance of the warrant (other than the recovery of a listening device or tracking device) is discontinued.
+                   Where, before a warrant under this Division ceases to be in force, the Director-General is satisfied that the grounds on which the warrant was issued have ceased to exist, the Director-General shall forthwith inform the Minister accordingly and take such steps as are necessary to ensure that action in pursuance of the warrant (other than the recovery of a listening device or tracking device) is discontinued.
 
 ##### <a id="31"></a>31  Certain records obtained under a warrant to be destroyed
 
@@ -1648,27 +1571,27 @@ the Director‑General may issue a warrant signed by the Director‑General of t
 
                      (b)  the record or copy is in the possession or custody, or under the control, of the Organisation; and
 
-                     (c)  the Director‑General is satisfied that the record or copy is not required for the purposes of the performance of functions or exercise of powers under this Act;
+                     (c)  the Director-General is satisfied that the record or copy is not required for the purposes of the performance of functions or exercise of powers under this Act;
 
-the Director‑General shall cause the record or copy to be destroyed.
+the Director-General shall cause the record or copy to be destroyed.
 
 ##### <a id="32"></a>32  Certain action in relation to requests and warrants
 
-             (1)  Where the Director‑General makes a request, otherwise than in writing, for the issue of a warrant under this Division, the Director‑General shall forthwith forward to the Minister a request in writing for the issue of a warrant.
+             (1)  Where the Director-General makes a request, otherwise than in writing, for the issue of a warrant under this Division, the Director-General shall forthwith forward to the Minister a request in writing for the issue of a warrant.
 
              (2)  Where the Minister issues or revokes a warrant under this Division, the Minister shall:
 
-                     (a)  cause the Director‑General to be informed forthwith of the issue of the warrant or of the revocation, as the case may be; and
+                     (a)  cause the Director-General to be informed forthwith of the issue of the warrant or of the revocation, as the case may be; and
 
-                     (b)  cause the warrant or the instrument of revocation, as the case may be, to be forwarded as soon as practicable to the Director‑General.
+                     (b)  cause the warrant or the instrument of revocation, as the case may be, to be forwarded as soon as practicable to the Director-General.
 
-             (3)  The Minister shall record on each request in writing for the issue of a warrant under this Division received by the Minister from the Director‑General the Minister’s decision with respect to the request and shall cause the request to be returned to the Director‑General.
+             (3)  The Minister shall record on each request in writing for the issue of a warrant under this Division received by the Minister from the Director-General the Minister’s decision with respect to the request and shall cause the request to be returned to the Director-General.
 
-             (4)  The Director‑General shall cause to be retained in the records of the Organisation all warrants issued by the Director‑General under this Division and all warrants and instruments of revocation received by the Director‑General from, and all requests and other documents returned to the Director‑General by, the Minister under this Division.
+             (4)  The Director-General shall cause to be retained in the records of the Organisation all warrants issued by the Director-General under this Division and all warrants and instruments of revocation received by the Director-General from, and all requests and other documents returned to the Director-General by, the Minister under this Division.
 
-##### <a id="34"></a>34  Director‑General to report to Minister
+##### <a id="34"></a>34  Director-General to report to Minister
 
-                   The Director‑General shall furnish to the Minister in respect of each warrant issued under this Division a report in writing on the extent to which the action taken under the warrant has assisted the Organisation in carrying out its functions.
+                   The Director-General shall furnish to the Minister in respect of each warrant issued under this Division a report in writing on the extent to which the action taken under the warrant has assisted the Organisation in carrying out its functions.
 
 ### Division 3—Special powers relating to terrorism offences
 
@@ -1748,29 +1671,29 @@ other than an agency or body prescribed by the regulations for the purposes of t
 
 ##### <a id="34C"></a>34C  Written statement of procedures
 
-             (1)  The Director‑General may prepare a written statement of procedures to be followed in the exercise of authority under warrants issued under this Division.
+             (1)  The Director-General may prepare a written statement of procedures to be followed in the exercise of authority under warrants issued under this Division.
 
 Consultation
 
-             (2)  The Director‑General must consult the following persons about the preparation of the statement:
+             (2)  The Director-General must consult the following persons about the preparation of the statement:
 
-                     (a)  the Inspector‑General of Intelligence and Security;
+                     (a)  the Inspector-General of Intelligence and Security;
 
                      (b)  the Commissioner of Police appointed under the _Australian Federal Police Act 1979._
 
 Approval by Minister
 
-             (3)  The Director‑General must give the statement to the Minister for approval.
+             (3)  The Director-General must give the statement to the Minister for approval.
 
              (4)  The Minister must approve or refuse to approve the statement.
 
 Approved statement is a legislative instrument
 
-             (5)  A statement prepared by the Director‑General and approved by the Minister is a legislative instrument made by the Minister on the day on which the statement is approved, but neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to the statement.
+             (5)  A statement prepared by the Director-General and approved by the Minister is a legislative instrument made by the Minister on the day on which the statement is approved, but neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to the statement.
 
 Briefing of Parliamentary Joint Committee on Intelligence and Security
 
-             (6)  The Director‑General must brief the Parliamentary Joint Committee on Intelligence and Security on the statement after it is approved by the Minister. The briefing may be done orally or in writing.
+             (6)  The Director-General must brief the Parliamentary Joint Committee on Intelligence and Security on the statement after it is approved by the Minister. The briefing may be done orally or in writing.
 
 #### Subdivision B—Questioning warrants
 
@@ -1778,15 +1701,15 @@ Briefing of Parliamentary Joint Committee on Intelligence and Security
 
 Seeking of Minister’s consent to request for warrant
 
-             (1)  The Director‑General may seek the Minister’s consent to request the issue of a warrant under section 34E in relation to a person.
+             (1)  The Director-General may seek the Minister’s consent to request the issue of a warrant under section 34E in relation to a person.
 
              (2)  To avoid doubt, this section operates in relation to a request for the issue of a warrant under section 34E in relation to a person, even if a request for the issue of a warrant under this Division has previously been made in relation to the person.
 
-             (3)  In seeking the Minister’s consent, the Director‑General must give the Minister a draft request that includes:
+             (3)  In seeking the Minister’s consent, the Director-General must give the Minister a draft request that includes:
 
                      (a)  a draft of the warrant to be requested; and
 
-                     (b)  a statement of the facts and other grounds on which the Director‑General considers it necessary that the warrant should be issued; and
+                     (b)  a statement of the facts and other grounds on which the Director-General considers it necessary that the warrant should be issued; and
 
                      (c)  a statement of the particulars and outcomes of all previous requests for the issue of a warrant under this Division relating to the person; and
 
@@ -1822,7 +1745,7 @@ Note:       Section 34K allows for detention in connection with a 
 
 Form of request
 
-             (6)  If the Minister has consented under subsection (4), the Director‑General may request the warrant by giving an issuing authority:
+             (6)  If the Minister has consented under subsection (4), the Director-General may request the warrant by giving an issuing authority:
 
                      (a)  a request that is the same as the draft request except for the changes (if any) required by the Minister; and
 
@@ -1834,7 +1757,7 @@ Issue of warrant
 
              (1)  An issuing authority may issue a warrant under this section relating to a person, but only if:
 
-                     (a)  the Director‑General has requested it in accordance with subsection 34D(6); and
+                     (a)  the Director-General has requested it in accordance with subsection 34D(6); and
 
                      (b)  the issuing authority is satisfied that there are reasonable grounds for believing that the warrant will substantially assist the collection of intelligence that is important in relation to a terrorism offence.
 
@@ -1882,15 +1805,15 @@ Warrant to be signed and to specify the period it is in force
 
 Seeking of Minister’s consent to request for warrant
 
-             (1)  The Director‑General may seek the Minister’s consent to request the issue of a warrant under section 34G in relation to a person.
+             (1)  The Director-General may seek the Minister’s consent to request the issue of a warrant under section 34G in relation to a person.
 
              (2)  To avoid doubt, this section operates in relation to a request for the issue of a warrant under section 34G in relation to a person, even if a request for the issue of a warrant under this Division has previously been made in relation to the person.
 
-             (3)  In seeking the Minister’s consent, the Director‑General must give the Minister a draft request that includes:
+             (3)  In seeking the Minister’s consent, the Director-General must give the Minister a draft request that includes:
 
                      (a)  a draft of the warrant to be requested; and
 
-                     (b)  a statement of the facts and other grounds on which the Director‑General considers it necessary that the warrant should be issued; and
+                     (b)  a statement of the facts and other grounds on which the Director-General considers it necessary that the warrant should be issued; and
 
                      (c)  a statement of the particulars and outcomes of all previous requests for the issue of a warrant under this Division relating to the person; and
 
@@ -1932,17 +1855,17 @@ The Minister may make his or her consent subject to changes being made to the dr
 
                             (iii)  a person exercising authority under the warrant has had an opportunity to request the prescribed authority to direct under section 34ZO that the person be prevented from contacting the lawyer.
 
-             (6)  If, before the Director‑General seeks the Minister’s consent to the request (the **_proposed request_**), the person has been detained under this Division in connection with one or more warrants (the **_earlier warrants_**) issued under this Division:
+             (6)  If, before the Director-General seeks the Minister’s consent to the request (the **_proposed request_**), the person has been detained under this Division in connection with one or more warrants (the **_earlier warrants_**) issued under this Division:
 
                      (a)  the Minister must take account of those facts in deciding whether to consent; and
 
-                     (b)  the Minister may consent only if the Minister is satisfied that the issue of the warrant to be requested is justified by information that is additional to or materially different from that known to the Director‑General at the time the Director‑General sought the Minister’s consent to request the issue of the last of the earlier warrants issued before the seeking of the Minister’s consent to the proposed request.
+                     (b)  the Minister may consent only if the Minister is satisfied that the issue of the warrant to be requested is justified by information that is additional to or materially different from that known to the Director-General at the time the Director-General sought the Minister’s consent to request the issue of the last of the earlier warrants issued before the seeking of the Minister’s consent to the proposed request.
 
 This subsection has effect in addition to subsection (4).
 
 Form of request
 
-             (7)  If the Minister has consented under subsection (4), the Director‑General may request the warrant by giving an issuing authority:
+             (7)  If the Minister has consented under subsection (4), the Director-General may request the warrant by giving an issuing authority:
 
                      (a)  a request that is the same as the draft request except for the changes (if any) required by the Minister; and
 
@@ -1954,7 +1877,7 @@ Issue of warrant
 
              (1)  An issuing authority may issue a warrant under this section relating to a person, but only if:
 
-                     (a)  the Director‑General has requested it in accordance with subsection 34F(7); and
+                     (a)  the Director-General has requested it in accordance with subsection 34F(7); and
 
                      (b)  the issuing authority is satisfied that there are reasonable grounds for believing that the warrant will substantially assist the collection of intelligence that is important in relation to a terrorism offence.
 
@@ -1966,7 +1889,7 @@ Previous detention
 
                      (b)  the issuing authority may issue the warrant requested only if the authority is satisfied that:
 
-                              (i)  the issue of that warrant is justified by information additional to or materially different from that known to the Director‑General at the time the Director‑General sought the Minister’s consent to request the issue of the last of the earlier warrants issued before the seeking of the Minister’s consent to the request for the issue of the warrant requested; and
+                              (i)  the issue of that warrant is justified by information additional to or materially different from that known to the Director-General at the time the Director-General sought the Minister’s consent to request the issue of the last of the earlier warrants issued before the seeking of the Minister’s consent to the request for the issue of the warrant requested; and
 
                              (ii)  the person is not being detained under this Division in connection with one of the earlier warrants.
 
@@ -2000,7 +1923,7 @@ Contacting persons
 
 Note 1:       The warrant may identify persons by reference to a class. See subsection 46(3) of the _Acts Interpretation Act 1901_.
 
-Note 2:       Section 34K permits the person to contact the Inspector‑General of Intelligence and Security, the Ombudsman and a person referred to in paragraph 40SB(3)(b) of the _Australian Federal Police Act 1979_ while the person is in custody or detention, so the warrant must identify them.
+Note 2:       Section 34K permits the person to contact the Inspector-General of Intelligence and Security, the Ombudsman and a person referred to in paragraph 40SB(3)(b) of the _Australian Federal Police Act 1979_ while the person is in custody or detention, so the warrant must identify them.
 
 Note 3:       A warrant issued under this section must permit the person to contact a single lawyer of the person’s choice, so the warrant must identify such a lawyer.
 
@@ -2058,7 +1981,7 @@ _Note:       Subdivision E sets out other obligations and protection
 
                      (e)  the person’s right to make a complaint orally or in writing:
 
-                              (i)  to the Inspector‑General of Intelligence and Security under the _Inspector‑General of Intelligence and Security Act 1986_ in relation to the Organisation; or
+                              (i)  to the Inspector-General of Intelligence and Security under the _Inspector-General of Intelligence and Security Act 1986_ in relation to the Organisation; or
 
                              (ii)  to the Ombudsman under the _Ombudsman Act 1976_ in relation to the Australian Federal Police;
 
@@ -2084,7 +2007,7 @@ _Note:       Subdivision E sets out other obligations and protection
 
                      (b)  the obligation to inform the person being questioned about a particular person’s reason for presence need only be complied with once (even if that particular person subsequently returns to the questioning).
 
-             (5)  At least once in every 24‑hour period during which questioning of the person under the warrant occurs, the prescribed authority before whom the person appears for questioning must inform the person of the fact that the person may seek from a federal court a remedy relating to the warrant or the treatment of the person in connection with the warrant.
+             (5)  At least once in every 24-hour period during which questioning of the person under the warrant occurs, the prescribed authority before whom the person appears for questioning must inform the person of the fact that the person may seek from a federal court a remedy relating to the warrant or the treatment of the person in connection with the warrant.
 
 Note:          For example, the person may be able to apply to the Federal Court of Australia under subsection 39B(1) of the _Judiciary Act 1903_, or the High Court of Australia under paragraph 75(v) of the Constitution, for a remedy in relation to the warrant or the treatment of the person in connection with the warrant.
 
@@ -2114,7 +2037,7 @@ Directions relating to detention or further appearance
 
                      (b)  has been approved in writing by the Minister.
 
-However, the prescribed authority may give a direction that is not covered by paragraph (a) or (b) if he or she has been informed under section 34Q of a concern of the Inspector‑General of Intelligence and Security and is satisfied that giving the direction is necessary to address the concern satisfactorily.
+However, the prescribed authority may give a direction that is not covered by paragraph (a) or (b) if he or she has been informed under section 34Q of a concern of the Inspector-General of Intelligence and Security and is satisfied that giving the direction is necessary to address the concern satisfactorily.
 
              (3)  To avoid doubt, the mere fact that the warrant is issued under section 34E does not prevent a direction under subsection (1) of this section from being consistent with the warrant for the purposes of subsection (2) of this section.
 
@@ -2180,9 +2103,9 @@ Communications while in custody or detention
 
                      (a)  the person may contact anyone whom the warrant under which he or she is detained, or a direction described in paragraph (1)(d), permits the person to contact; and
 
-                     (b)  subsection (10) does not affect the operation of sections 10 and 13 of the _Inspector‑General of Intelligence and Security Act 1986_ in relation to contact between the person and the Inspector‑General of Intelligence and Security; and
+                     (b)  subsection (10) does not affect the operation of sections 10 and 13 of the _Inspector-General of Intelligence and Security Act 1986_ in relation to contact between the person and the Inspector-General of Intelligence and Security; and
 
-                     (c)  anyone holding the person in custody or detention under this Division must give the person facilities for contacting the Inspector‑General of Intelligence and Security to make a complaint orally under section 10 of the _Inspector‑General of Intelligence and Security Act 1986_ if the person requests them; and
+                     (c)  anyone holding the person in custody or detention under this Division must give the person facilities for contacting the Inspector-General of Intelligence and Security to make a complaint orally under section 10 of the _Inspector-General of Intelligence and Security Act 1986_ if the person requests them; and
 
                      (d)  subsection (10) does not affect the operation of section 7 of the _Ombudsman Act 1976_ in relation to contact between the person and the Ombudsman in respect of a complaint, or proposed complaint, about the Australian Federal Police; and
 
@@ -2276,19 +2199,19 @@ in accordance with a request made of the person in accordance with the warrant, 
 
                      (b)  when the interpreter is present, the prescribed authority must again inform the person of anything of which he or she was previously informed under section 34J.
 
-##### <a id="34P"></a>34P  Inspector‑General of Intelligence and Security may be present at questioning or taking into custody
+##### <a id="34P"></a>34P  Inspector-General of Intelligence and Security may be present at questioning or taking into custody
 
-                   To avoid doubt, for the purposes of performing functions under the _Inspector‑General of Intelligence and Security Act 1986_, the Inspector‑General of Intelligence and Security, or an APS employee assisting the Inspector‑General, may be present at the questioning or taking into custody of a person under this Division.
+                   To avoid doubt, for the purposes of performing functions under the _Inspector-General of Intelligence and Security Act 1986_, the Inspector-General of Intelligence and Security, or an APS employee assisting the Inspector-General, may be present at the questioning or taking into custody of a person under this Division.
 
-##### <a id="34Q"></a>34Q  Suspension of questioning etc. in response to concern of Inspector‑General of Intelligence and Security
+##### <a id="34Q"></a>34Q  Suspension of questioning etc. in response to concern of Inspector-General of Intelligence and Security
 
-             (1)  This section applies if the Inspector‑General of Intelligence and Security is concerned about impropriety or illegality in connection with the exercise or purported exercise of powers under this Division in relation to a person specified in a warrant issued under this Division.
+             (1)  This section applies if the Inspector-General of Intelligence and Security is concerned about impropriety or illegality in connection with the exercise or purported exercise of powers under this Division in relation to a person specified in a warrant issued under this Division.
 
-Note:          For example, the Inspector‑General may be concerned because he or she has been present at a questioning under section 34P.
+Note:          For example, the Inspector-General may be concerned because he or she has been present at a questioning under section 34P.
 
-             (2)  When the person is appearing before a prescribed authority for questioning under the warrant, the Inspector‑General may inform the prescribed authority of the Inspector‑General’s concern. If the Inspector‑General does so, he or she must also inform the Director‑General of the concern as soon as practicable afterwards.
+             (2)  When the person is appearing before a prescribed authority for questioning under the warrant, the Inspector-General may inform the prescribed authority of the Inspector-General’s concern. If the Inspector-General does so, he or she must also inform the Director-General of the concern as soon as practicable afterwards.
 
-             (3)  The prescribed authority must consider the Inspector‑General’s concern.
+             (3)  The prescribed authority must consider the Inspector-General’s concern.
 
              (4)  The prescribed authority may give a direction suspending:
 
@@ -2296,15 +2219,15 @@ Note:          For example, the Inspector‑General may be con
 
                      (b)  the exercise of another power under this Division that is specified in the direction;
 
-until the prescribed authority is satisfied that the Inspector‑General’s concern has been satisfactorily addressed.
+until the prescribed authority is satisfied that the Inspector-General’s concern has been satisfactorily addressed.
 
 Note:          The prescribed authority may give directions under section 34K instead or as well. These could:
 
-(a)           deal with the Inspector‑General’s concern in a way satisfactory to the prescribed authority; or
+(a)           deal with the Inspector-General’s concern in a way satisfactory to the prescribed authority; or
 
 (b)           deal with treatment of the person while questioning is deferred; or
 
-(c)           provide for release of the person from detention if the prescribed authority is satisfied that the Inspector‑General’s concern cannot be satisfactorily addressed within the remainder of the period for which the person may be detained under the warrant.
+(c)           provide for release of the person from detention if the prescribed authority is satisfied that the Inspector-General’s concern cannot be satisfactorily addressed within the remainder of the period for which the person may be detained under the warrant.
 
 ##### <a id="34R"></a>34R  End of questioning under warrant
 
@@ -2452,7 +2375,7 @@ unless the officer believes on reasonable grounds that it would not be practicab
 
 ##### <a id="34W"></a>34W  Surrender of passport by person in relation to whom warrant is sought
 
-             (1)  If the Director‑General has sought the Minister’s consent to request the issue of a warrant under this Division in relation to a person, then, as soon as practicable after that person is notified of that action and of the effect of this subsection, the person must deliver to an enforcement officer every passport that:
+             (1)  If the Director-General has sought the Minister’s consent to request the issue of a warrant under this Division in relation to a person, then, as soon as practicable after that person is notified of that action and of the effect of this subsection, the person must deliver to an enforcement officer every passport that:
 
                      (a)  is an Australian passport (as defined in the _Australian Passports Act 2005_), or a foreign passport, that has been issued to the person; and
 
@@ -2460,7 +2383,7 @@ unless the officer believes on reasonable grounds that it would not be practicab
 
                     Penalty:  Imprisonment for 5 years.
 
-             (2)  The Director‑General must cause a passport delivered under subsection (1) to be returned to the person to whom it was issued, as soon as practicable after the first of the following events:
+             (2)  The Director-General must cause a passport delivered under subsection (1) to be returned to the person to whom it was issued, as soon as practicable after the first of the following events:
 
                      (a)  the Minister refuses to consent to request the issue of a warrant under this Division in relation to the person;
 
@@ -2468,7 +2391,7 @@ unless the officer believes on reasonable grounds that it would not be practicab
 
                      (c)  if a warrant under this Division is issued in relation to the person—the end of the period specified in the warrant as the period during which the warrant is to be in force;
 
-but the Director‑General may cause the passport to be returned to that person earlier.
+but the Director-General may cause the passport to be returned to that person earlier.
 
              (3)  Subsection (2) does not require:
 
@@ -2476,7 +2399,7 @@ but the Director‑General may cause the passport to be returned to that person 
 
                      (b)  the return of a passport that has been cancelled.
 
-             (4)  If a warrant under this Division is issued in relation to the person, a person approved under subsection 24(1) in relation to the warrant may, after a passport of the first‑mentioned person is delivered under subsection (1) and before it is returned under subsection (2):
+             (4)  If a warrant under this Division is issued in relation to the person, a person approved under subsection 24(1) in relation to the warrant may, after a passport of the first-mentioned person is delivered under subsection (1) and before it is returned under subsection (2):
 
                      (a)  inspect or examine the passport; and
 
@@ -2498,13 +2421,13 @@ but the Director‑General may cause the passport to be returned to that person 
 
                      (a)  the person has been notified:
 
-                              (i)  that the Director‑General has sought the Minister’s consent to request the issue of a warrant under this Division in relation to the person; and
+                              (i)  that the Director-General has sought the Minister’s consent to request the issue of a warrant under this Division in relation to the person; and
 
                              (ii)  of the effect of this subsection in connection with that action; and
 
                      (b)  the person leaves Australia; and
 
-                     (c)  the leaving occurs after the person has been notified that the Director‑General has sought the Minister’s consent and of the effect of this subsection in connection with that action, and before the first of the following events:
+                     (c)  the leaving occurs after the person has been notified that the Director-General has sought the Minister’s consent and of the effect of this subsection in connection with that action, and before the first of the following events:
 
                               (i)  if the Minister refuses to consent to request the issue of a warrant under this Division in relation to the person—that refusal;
 
@@ -2512,13 +2435,13 @@ but the Director‑General may cause the passport to be returned to that person 
 
                             (iii)  if a warrant under this Division is issued in relation to the person—the end of the period specified in the warrant as the period during which the warrant is to be in force; and
 
-                     (d)  the person does not have written permission from the Director‑General to leave Australia at the time the person leaves Australia.
+                     (d)  the person does not have written permission from the Director-General to leave Australia at the time the person leaves Australia.
 
                     Penalty:  Imprisonment for 5 years.
 
-             (2)  The Director‑General may give written permission for a person to leave Australia at a specified time. The permission may be given either unconditionally or subject to specified conditions.
+             (2)  The Director-General may give written permission for a person to leave Australia at a specified time. The permission may be given either unconditionally or subject to specified conditions.
 
-Note 1:       The Director‑General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
+Note 1:       The Director-General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
 
 Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
 
@@ -2532,7 +2455,7 @@ Note 2:       If permission is given subject to a condition and the 
 
                     Penalty:  Imprisonment for 5 years.
 
-             (2)  The Director‑General must cause a passport delivered under subsection (1) to be returned to the person to whom it was issued, as soon as practicable after the end of the period specified in the warrant as the period during which the warrant is to be in force, but may cause the passport to be returned to that person earlier.
+             (2)  The Director-General must cause a passport delivered under subsection (1) to be returned to the person to whom it was issued, as soon as practicable after the end of the period specified in the warrant as the period during which the warrant is to be in force, but may cause the passport to be returned to that person earlier.
 
              (3)  Subsection (2) does not require:
 
@@ -2564,25 +2487,25 @@ Note 2:       If permission is given subject to a condition and the 
 
                              (ii)  before the end of the period specified in the warrant as the period during which the warrant is to be in force; and
 
-                     (d)  the person does not have written permission from the Director‑General to leave Australia at the time the person leaves Australia.
+                     (d)  the person does not have written permission from the Director-General to leave Australia at the time the person leaves Australia.
 
                     Penalty:  Imprisonment for 5 years.
 
-             (2)  The Director‑General may give written permission for a person to leave Australia at a specified time. The permission may be given either unconditionally or subject to specified conditions.
+             (2)  The Director-General may give written permission for a person to leave Australia at a specified time. The permission may be given either unconditionally or subject to specified conditions.
 
-Note 1:       The Director‑General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
+Note 1:       The Director-General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
 
 Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
 
 ##### <a id="34ZA"></a>34ZA  Video recording of procedures
 
-             (1)  The Director‑General must ensure that video recordings are made of the following:
+             (1)  The Director-General must ensure that video recordings are made of the following:
 
                      (a)  a person’s appearance before a prescribed authority for questioning under a warrant issued under this Division;
 
                      (b)  any other matter or thing that the prescribed authority directs is to be video recorded.
 
-             (2)  The Director‑General must ensure that, if practicable, video recordings are made of any complaint by a person specified in a warrant issued under this Division when he or she is not appearing before a prescribed authority for questioning under the warrant.
+             (2)  The Director-General must ensure that, if practicable, video recordings are made of any complaint by a person specified in a warrant issued under this Division when he or she is not appearing before a prescribed authority for questioning under the warrant.
 
 ##### <a id="34ZB"></a>34ZB  Power to conduct an ordinary search or a strip search
 
@@ -2650,7 +2573,7 @@ that is found during a search under this section may be seized.
 
                      (a)  a police officer;
 
-                     (b)  the Director‑General;
+                     (b)  the Director-General;
 
                      (c)  an officer or employee of the Organisation;
 
@@ -2706,7 +2629,7 @@ Rules for persons under 16
 
 Rules for persons who are at least 16 but under 18
 
-             (4)  If the Director‑General seeks the Minister’s consent to request the issue of a warrant under this Division in relation to a person and the Minister is satisfied on reasonable grounds that the person is at least 16 but under 18, the Minister may consent only if he or she is satisfied on reasonable grounds that:
+             (4)  If the Director-General seeks the Minister’s consent to request the issue of a warrant under this Division in relation to a person and the Minister is satisfied on reasonable grounds that the person is at least 16 but under 18, the Minister may consent only if he or she is satisfied on reasonable grounds that:
 
                      (a)  it is likely that the person will commit, is committing or has committed a terrorism offence; and
 
@@ -2742,7 +2665,7 @@ Note:          The prescribed authority may set the breaks bet
 
                               (i)  a police officer;
 
-                             (ii)  the Director‑General;
+                             (ii)  the Director-General;
 
                             (iii)  an officer or employee of the Organisation;
 
@@ -2872,7 +2795,7 @@ Note:          The prescribed authority may set the breaks bet
 
              (1)  Contravention of the written statement of procedures in force under section 34C may be the subject of:
 
-                     (a)  a complaint to the Inspector‑General of Intelligence and Security under the _Inspector‑General of Intelligence and Security Act 1986_; or
+                     (a)  a complaint to the Inspector-General of Intelligence and Security under the _Inspector-General of Intelligence and Security Act 1986_; or
 
                      (b)  a complaint to the Ombudsman under the _Ombudsman Act 1976_; or
 
@@ -2882,7 +2805,7 @@ Note:          The prescribed authority may set the breaks bet
 
                      (a)  the subjects of complaint under:
 
-                              (i)  the _Inspector‑General of Intelligence and Security Act 1986_; or
+                              (i)  the _Inspector-General of Intelligence and Security Act 1986_; or
 
                              (ii)  the _Ombudsman Act 1976_; or
 
@@ -2890,11 +2813,11 @@ Note:          The prescribed authority may set the breaks bet
 
 ##### <a id="34ZH"></a>34ZH  Providing reports to the Minister
 
-                   The Director‑General must give the Minister, for each warrant issued under this Division, a written report on the extent to which the action taken under the warrant has assisted the Organisation in carrying out its functions.
+                   The Director-General must give the Minister, for each warrant issued under this Division, a written report on the extent to which the action taken under the warrant has assisted the Organisation in carrying out its functions.
 
-##### <a id="34ZI"></a>34ZI  Providing information to the Inspector‑General
+##### <a id="34ZI"></a>34ZI  Providing information to the Inspector-General
 
-                   The Director‑General must, as soon as practicable, give the following to the Inspector‑General of Intelligence and Security:
+                   The Director-General must, as soon as practicable, give the following to the Inspector-General of Intelligence and Security:
 
                      (a)  a copy of any draft request given to the Minister under subsection 34D(3) or 34F(3) in seeking the Minister’s consent to request the issue of a warrant under this Division;
 
@@ -2904,29 +2827,29 @@ Note:          The prescribed authority may set the breaks bet
 
                      (d)  a statement containing details of any seizure, taking into custody, or detention under this Division;
 
-                     (e)  a statement describing any action the Director‑General has taken as a result of being informed of the Inspector‑General’s concern under section 34Q.
+                     (e)  a statement describing any action the Director-General has taken as a result of being informed of the Inspector-General’s concern under section 34Q.
 
-##### <a id="34ZJ"></a>34ZJ  Reporting by Inspector‑General on multiple warrants
+##### <a id="34ZJ"></a>34ZJ  Reporting by Inspector-General on multiple warrants
 
-             (1)  This section imposes requirements on the Inspector‑General of Intelligence and Security if:
+             (1)  This section imposes requirements on the Inspector-General of Intelligence and Security if:
 
                      (a)  a person is detained under this Division in connection with a warrant issued under this Division; and
 
                      (b)  one or more other warrants (the **_later warrants_**) are issued later under section 34G in relation to the person.
 
-             (2)  The Inspector‑General must inspect a copy of the draft request given to the Minister under subsection 34D(3) or 34F(3) for each of the warrants, to determine whether the draft request for each of the later warrants included information described in paragraph 34F(6)(b).
+             (2)  The Inspector-General must inspect a copy of the draft request given to the Minister under subsection 34D(3) or 34F(3) for each of the warrants, to determine whether the draft request for each of the later warrants included information described in paragraph 34F(6)(b).
 
-Note:          Paragraph 34F(6)(b) describes information additional to or materially different from that known to the Director‑General at the time the Director‑General sought the Minister’s consent to request the issue of the last warrant that:
+Note:          Paragraph 34F(6)(b) describes information additional to or materially different from that known to the Director-General at the time the Director-General sought the Minister’s consent to request the issue of the last warrant that:
 
 (a)           was issued under this Division before the seeking of the Minister’s consent to the request proposed in the draft request; and
 
 (b)           was a warrant in connection with which the person was detained under this Division.
 
-             (3)  The Inspector‑General must report on the outcome of the inspection in his or her annual report for the year in which he or she carries out the examination. For this purpose, **_annual report_** means a report under section 35 of the _Inspector‑General of Intelligence and Security Act 1986_.
+             (3)  The Inspector-General must report on the outcome of the inspection in his or her annual report for the year in which he or she carries out the examination. For this purpose, **_annual report_** means a report under section 35 of the _Inspector-General of Intelligence and Security Act 1986_.
 
 ##### <a id="34ZK"></a>34ZK  Discontinuing action before warrants expire
 
-                   If, before a warrant issued under this Division ceases to be in force, the Director‑General is satisfied that the grounds on which the warrant was issued have ceased to exist, the Director‑General must:
+                   If, before a warrant issued under this Division ceases to be in force, the Director-General is satisfied that the grounds on which the warrant was issued have ceased to exist, the Director-General must:
 
                      (a)  inform the Minister, and the issuing authority who issued the warrant, accordingly; and
 
@@ -2934,13 +2857,13 @@ Note:          Paragraph 34F(6)(b) describes information addit
 
 ##### <a id="34ZL"></a>34ZL  Certain records obtained under warrant to be destroyed
 
-                   The Director‑General must cause a record or copy to be destroyed if:
+                   The Director-General must cause a record or copy to be destroyed if:
 
                      (a)  the record or copy was made because of a warrant issued under this Division; and
 
                      (b)  the record or copy is in the possession or custody, or under the control, of the Organisation; and
 
-                     (c)  the Director‑General is satisfied that the record or copy is not required for the purposes of the performance of functions or exercise of powers under this Act.
+                     (c)  the Director-General is satisfied that the record or copy is not required for the purposes of the performance of functions or exercise of powers under this Act.
 
 ##### <a id="34ZM"></a>34ZM  Status of issuing authorities and prescribed authorities
 
@@ -2950,7 +2873,7 @@ Note:          Paragraph 34F(6)(b) describes information addit
 
 ##### <a id="34ZN"></a>34ZN  Certain functions and powers not affected
 
-             (1)  This Division does not affect a function or power of the Inspector‑General of Intelligence and Security under the _Inspector‑General of Intelligence and Security Act 1986_.
+             (1)  This Division does not affect a function or power of the Inspector-General of Intelligence and Security under the _Inspector-General of Intelligence and Security Act 1986_.
 
              (2)  This Division does not affect a function or power of the Ombudsman under the _Ombudsman Act 1976_ in relation to the Australian Federal Police.
 
@@ -3158,7 +3081,7 @@ Definitions
 
                             (iii)  doing anything the person is required or permitted to do by a direction under subsection 34K(1);
 
-                            (iv)  exercising a power (including a power to make a complaint or to give information), or performing a function or duty, under the _Inspector‑General of Intelligence and Security Act 1986_, the _Ombudsman Act 1976_ or Part V of the _Australian Federal Police Act 1979_;
+                            (iv)  exercising a power (including a power to make a complaint or to give information), or performing a function or duty, under the _Inspector-General of Intelligence and Security Act 1986_, the _Ombudsman Act 1976_ or Part V of the _Australian Federal Police Act 1979_;
 
                              (v)  exercising a power (including a power to make a complaint), or performing a function or duty, under a law of a State or Territory appointing or establishing a complaints agency;
 
@@ -3190,13 +3113,13 @@ Definitions
 
                              (v)  a person exercising authority under the warrant;
 
-                            (vi)  the Inspector‑General of Intelligence and Security;
+                            (vi)  the Inspector-General of Intelligence and Security;
 
                            (vii)  the Commonwealth Ombudsman;
 
-                          (viii)  a complaints agency;
+                           (viii)  a complaints agency;
 
-                     (g)  a disclosure permitted by the Director‑General;
+                     (g)  a disclosure permitted by the Director-General;
 
                      (h)  a disclosure permitted by the Minister;
 
@@ -3214,21 +3137,21 @@ Note 1:       The prescribed authority may revoke or amend the permi
 
 Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
 
-             (7)  For the purposes of paragraph (g) of the definition of **_permitted disclosure_** in subsection (5), the Director‑General may give written permission for a disclosure. The permission may be given either unconditionally or subject to specified conditions.
+             (7)  For the purposes of paragraph (g) of the definition of **_permitted disclosure_** in subsection (5), the Director-General may give written permission for a disclosure. The permission may be given either unconditionally or subject to specified conditions.
 
-Note 1:       The Director‑General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
-
-             (8)  For the purposes of paragraph (h) of the definition of **_permitted disclosure_** in subsection (5), the Minister may, after obtaining advice from the Director‑General, give written permission for a disclosure. The permission may be given either unconditionally or subject to specified conditions.
-
-Note 1:       The Minister may, after obtaining advice from the Director‑General, revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
+Note 1:       The Director-General may revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
 
 Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
 
-             (9)  In deciding whether to give permission to a person under subsection (6), (7) or (8), the prescribed authority, the Director‑General or the Minister must take into account:
+             (8)  For the purposes of paragraph (h) of the definition of **_permitted disclosure_** in subsection (5), the Minister may, after obtaining advice from the Director-General, give written permission for a disclosure. The permission may be given either unconditionally or subject to specified conditions.
 
-                     (a)  the person’s family and employment interests to the extent that the prescribed authority, the Director‑General or the Minister is aware of those interests; and
+Note 1:       The Minister may, after obtaining advice from the Director-General, revoke or amend the permission. See subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Note 2:       If permission is given subject to a condition and the condition is not met, the permission is not in force.
+
+             (9)  In deciding whether to give permission to a person under subsection (6), (7) or (8), the prescribed authority, the Director-General or the Minister must take into account:
+
+                     (a)  the person’s family and employment interests to the extent that the prescribed authority, the Director-General or the Minister is aware of those interests; and
 
                      (b)  the public interest; and
 
@@ -3344,7 +3267,7 @@ Limit on assistance
 
                     <a name="commonwealth-agenc"></a>**_Commonwealth agency_** means a Minister or an authority of the Commonwealth.
 
-                    <a name="commonwealth-contractor"></a>**_Commonwealth contractor_** means a person performing work or rendering services, otherwise than as an employee, for the purposes of the Commonwealth or an authority of the Commonwealth, including a person performing such work or rendering such services as a sub‑contractor or as an adviser or consultant.
+                    <a name="commonwealth-contractor"></a>**_Commonwealth contractor_** means a person performing work or rendering services, otherwise than as an employee, for the purposes of the Commonwealth or an authority of the Commonwealth, including a person performing such work or rendering such services as a sub-contractor or as an adviser or consultant.
 
                     <a name="prescrib-administr-action"></a>**_prescribed administrative action_** means:
 
@@ -3380,7 +3303,7 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
 ##### <a id="36"></a>36  Part not to apply to certain assessments
 
-                   This Part (other than subsections 37(1), (3) and (4)) does not apply to or in relation to:
+                   This Part (other than subsections 37(1), (3) and (4)) does not apply to or in relation to:
 
                      (a)  a security assessment in relation to the employment, by engagement outside Australia for duties outside Australia, of a person who is not an Australian citizen or is not normally resident in Australia; or
 
@@ -3400,13 +3323,13 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
              (2)  An adverse or qualified security assessment shall be accompanied by a statement of the grounds for the assessment, and that statement:
 
-                     (a)  shall contain all information that has been relied on by the Organisation in making the assessment, other than information the inclusion of which would, in the opinion of the Director‑General, be contrary to the requirements of security; and
+                     (a)  shall contain all information that has been relied on by the Organisation in making the assessment, other than information the inclusion of which would, in the opinion of the Director-General, be contrary to the requirements of security; and
 
                      (b)  shall, for the purposes of this Part, be deemed to be part of the assessment.
 
              (3)  The regulations may prescribe matters that are to be taken into account, the manner in which those matters are to be taken into account, and matters that are not to be taken into account, in the making of assessments, or of assessments of a particular class, and any such regulations are binding on the Organisation and on the Tribunal.
 
-             (4)  Subject to any regulations made in accordance with subsection (3), the Director‑General shall, in consultation with the Minister, determine matters of a kind referred to in subsection (3), but nothing in this subsection affects the powers of the Tribunal.
+             (4)  Subject to any regulations made in accordance with subsection (3), the Director-General shall, in consultation with the Minister, determine matters of a kind referred to in subsection (3), but nothing in this subsection affects the powers of the Tribunal.
 
              (5)  No proceedings, other than an application to the Tribunal under section 54, shall be brought in any court or tribunal in respect of the making of an assessment or anything done in respect of an assessment in accordance with this Act.
 
@@ -3416,13 +3339,13 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
           (1A)  This section does not apply to a security assessment if section 38A applies to the assessment.
 
-             (2)  The Attorney‑General may, by writing signed by the Attorney‑General delivered to the Director‑General, certify that the Attorney‑General is satisfied that:
+             (2)  The Attorney-General may, by writing signed by the Attorney-General delivered to the Director-General, certify that the Attorney-General is satisfied that:
 
                      (a)  the withholding of notice to a person of the making of a security assessment in respect of the person is essential to the security of the nation; or
 
                      (b)  the disclosure to a person of the statement of grounds contained in a security assessment in respect of the person, or of a particular part of that statement, would be prejudicial to the interests of security.
 
-             (3)  Where the Attorney‑General issues a certificate under subsection (2), he or she shall cause a copy of the certificate to be delivered to the Commonwealth agency to which the assessment was furnished.
+             (3)  Where the Attorney-General issues a certificate under subsection (2), he or she shall cause a copy of the certificate to be delivered to the Commonwealth agency to which the assessment was furnished.
 
              (4)  Subsection (1) does not require a notice to be given in relation to a security assessment to which a certificate in accordance with paragraph (2)(a) applies.
 
@@ -3432,11 +3355,11 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
 ##### <a id="38A"></a>38A  Notification where assessment relates to Telecommunications Act
 
-             (1)  This section applies to an adverse or qualified security assessment in respect of a person (the **_assessed person_**) if the assessment is given to the Attorney‑General in connection with section 58A, or subsection 581(3), of the _Telecommunications Act 1997_.
+             (1)  This section applies to an adverse or qualified security assessment in respect of a person (the **_assessed person_**) if the assessment is given to the Attorney-General in connection with section 58A, or subsection 581(3), of the _Telecommunications Act 1997_.
 
-             (2)  Within 14 days after receiving the assessment, the Attorney‑General must give to the assessed person a notice in writing, to which a copy of the assessment is attached, informing the assessed person of the making of the assessment and containing information, in the form prescribed for the purposes of subsection 38(1), concerning his or her right to apply to the Tribunal under this Part.
+             (2)  Within 14 days after receiving the assessment, the Attorney-General must give to the assessed person a notice in writing, to which a copy of the assessment is attached, informing the assessed person of the making of the assessment and containing information, in the form prescribed for the purposes of subsection 38(1), concerning his or her right to apply to the Tribunal under this Part.
 
-             (3)  If the Attorney‑General is satisfied that the assessment contains any matter the disclosure of which would be prejudicial to the interests of security, then the Attorney‑General must exclude that matter from the copy provided under subsection (2).
+             (3)  If the Attorney-General is satisfied that the assessment contains any matter the disclosure of which would be prejudicial to the interests of security, then the Attorney-General must exclude that matter from the copy provided under subsection (2).
 
 ##### <a id="39"></a>39  Effect of preliminary advice by Organisation
 
@@ -3464,7 +3387,7 @@ if, on the basis of a preliminary communication by the Organisation, the Commonw
 
                      (b)  furnish to a Commonwealth agency otherwise than in the form of an assessment any information, recommendation, opinion or advice concerning a person if the Organisation knows that the Commonwealth agency intends to communicate it to a State or an authority of a State for use in considering prescribed administrative action in relation to that person.
 
-             (3)  For the purposes of paragraph 40(1)(b), the Minister must notify the Director‑General in writing of an event designated as a special event.
+             (3)  For the purposes of paragraph 40(1)(b), the Minister must notify the Director-General in writing of an event designated as a special event.
 
 ### Division 4—Review of security assessments
 
@@ -3492,7 +3415,7 @@ if, on the basis of a preliminary communication by the Organisation, the Commonw
 
 the Minister may, if satisfied that it is desirable to do so by reason of special circumstances, require the Tribunal to inquire and report to the Minister upon any question concerning that action or alleged action of the Organisation, and may require the Tribunal to review any such assessment or communication and any information or matter on which any such assessment or communication was based, and the Tribunal shall comply with the requirement and report its findings to the Minister.
 
-          (1A)  For the purposes of determining whether it is desirable to make a requirement of the Tribunal under subsection (1) in relation to a matter, the Minister may request the Inspector‑General of Intelligence and Security to inquire into the matter or into a specified aspect of the matter and to report to the Minister the results of the inquiry, and the Inspector‑General shall comply with any such request.
+          (1A)  For the purposes of determining whether it is desirable to make a requirement of the Tribunal under subsection (1) in relation to a matter, the Minister may request the Inspector-General of Intelligence and Security to inquire into the matter or into a specified aspect of the matter and to report to the Minister the results of the inquiry, and the Inspector-General shall comply with any such request.
 
              (2)  The constitution and procedure of the Tribunal under this section shall be as determined by the President.
 
@@ -3522,13 +3445,13 @@ and a reference in this section to information or a document shall be read as a 
 
 ##### <a id="84"></a>84  Employment of officers and employees
 
-             (1)  Subject to this Act, the Director‑General may, on behalf of the Commonwealth:
+             (1)  Subject to this Act, the Director-General may, on behalf of the Commonwealth:
 
-                     (a)  employ, under agreements in writing, such officers of the Organisation as the Director‑General thinks necessary for the purposes of this Act; and
+                     (a)  employ, under agreements in writing, such officers of the Organisation as the Director-General thinks necessary for the purposes of this Act; and
 
-                     (b)  employ such temporary employees and casual employees of the Organisation as the Director‑General thinks necessary for those purposes.
+                     (b)  employ such temporary employees and casual employees of the Organisation as the Director-General thinks necessary for those purposes.
 
-             (2)  The Director‑General shall not employ a person as an officer except:
+             (2)  The Director-General shall not employ a person as an officer except:
 
                      (a)  in an office the designation and salary or salary range of which have been determined, or are deemed to have been determined, under subsection 85(1); and
 
@@ -3538,13 +3461,13 @@ and a reference in this section to information or a document shall be read as a 
 
 ##### <a id="85"></a>85  Designation of offices etc.
 
-             (1)  The designations of offices in the Organisation, other than the office of Director‑General, and the salaries or salary ranges applicable to those offices, shall be such as are determined from time to time by the Director‑General.
+             (1)  The designations of offices in the Organisation, other than the office of Director-General, and the salaries or salary ranges applicable to those offices, shall be such as are determined from time to time by the Director-General.
 
              (2)  The designations of offices in the Organisation immediately before the date of commencement of this Act, and the salaries or salary ranges applicable to those offices immediately before that date, shall be deemed to have been determined under subsection (1).
 
 ##### <a id="86"></a>86  Conditions of employment
 
-                   Officers and employees of the Organisation are not subject to the _Public Service Act 1999_ but, subject to this Act, the terms and conditions upon which the Director‑General shall employ persons as officers, and the terms and conditions of employment applicable to temporary and casual employees, shall be such as are determined from time to time by the Director‑General.
+                   Officers and employees of the Organisation are not subject to the _Public Service Act 1999_ but, subject to this Act, the terms and conditions upon which the Director-General shall employ persons as officers, and the terms and conditions of employment applicable to temporary and casual employees, shall be such as are determined from time to time by the Director-General.
 
 ##### <a id="87"></a>87  Special provisions relating to existing employees
 
@@ -3566,19 +3489,19 @@ and a reference in this section to information or a document shall be read as a 
 
              (3)  Regulations made in accordance with this section have effect notwithstanding sections 84, 85 and 86.
 
-             (4)  Regulations made in accordance with this section shall not apply to the employment of an officer employed under an agreement made before the commencement of the first regulations so made in relation to officers except to the extent agreed in writing between the officer and the Director‑General.
+             (4)  Regulations made in accordance with this section shall not apply to the employment of an officer employed under an agreement made before the commencement of the first regulations so made in relation to officers except to the extent agreed in writing between the officer and the Director-General.
 
 ##### <a id="91"></a>91  Application of Crimes Act
 
-                   The Director‑General and officers and employees of the Organisation shall be deemed to be Commonwealth officers for the purposes of the _Crimes Act 1914_.
+                   The Director-General and officers and employees of the Organisation shall be deemed to be Commonwealth officers for the purposes of the _Crimes Act 1914_.
 
 ##### <a id="92"></a>92  Publication of identity of officer of Organisation
 
-             (1)  A person (other than a member of the Committee on Intelligence and Security) shall not, except with the consent in writing of the Minister or of the Director‑General, publish or cause to be published in a newspaper or other publication, or by radio broadcast or television, or otherwise make public, any matter stating, or from which it could reasonably be inferred, that a person having a particular name or otherwise identified, or a person residing at a particular address, is an officer (not including the Director‑General), employee or agent of the Organisation or is in any way connected with such an officer, employee or agent or, subject to subsection (1B), is a former officer (not including a former Director‑General), employee or agent of the Organisation or is in any way connected with such a former officer, employee or agent.
+             (1)  A person (other than a member of the Committee on Intelligence and Security) shall not, except with the consent in writing of the Minister or of the Director-General, publish or cause to be published in a newspaper or other publication, or by radio broadcast or television, or otherwise make public, any matter stating, or from which it could reasonably be inferred, that a person having a particular name or otherwise identified, or a person residing at a particular address, is an officer (not including the Director-General), employee or agent of the Organisation or is in any way connected with such an officer, employee or agent or, subject to subsection (1B), is a former officer (not including a former Director-General), employee or agent of the Organisation or is in any way connected with such a former officer, employee or agent.
 
                     Penalty:  Imprisonment for one year.
 
-          (1A)  A member of the Committee referred to in subsection (1) shall not, except with the consent in writing of the Minister or of the Director‑General, make public or authorise the publication of, any information acquired by the person by reason of being such a member, being information from which it could reasonably be inferred that a person having a particular name or otherwise identified, or a person residing at a particular address, is an officer (not including the Director‑General), employee or agent or is in any way connected with such an officer, employee or agent or, subject to subsection (1B), is a former officer (not including a former Director‑General), employee or agent of the Organisation or is in any way connected with such a former officer, employee or agent.
+          (1A)  A member of the Committee referred to in subsection (1) shall not, except with the consent in writing of the Minister or of the Director-General, make public or authorise the publication of, any information acquired by the person by reason of being such a member, being information from which it could reasonably be inferred that a person having a particular name or otherwise identified, or a person residing at a particular address, is an officer (not including the Director-General), employee or agent or is in any way connected with such an officer, employee or agent or, subject to subsection (1B), is a former officer (not including a former Director-General), employee or agent of the Organisation or is in any way connected with such a former officer, employee or agent.
 
                     Penalty:  Imprisonment for one year.
 
@@ -3590,7 +3513,7 @@ and a reference in this section to information or a document shall be read as a 
 
              (2)  Nothing in this section applies to the broadcasting, datacasting or reporting of proceedings in the Parliament (other than proceedings of the Committee referred to in subsection (1)).
 
-             (3)  A prosecution for an offence against this section shall be instituted only by or with the consent of the Attorney‑General.
+             (3)  A prosecution for an offence against this section shall be instituted only by or with the consent of the Attorney-General.
 
 ## Part VI—Miscellaneous
 
@@ -3610,7 +3533,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
 ##### <a id="94"></a>94  Annual report
 
-             (1)  The Director‑General shall, as soon as practicable after each year ending on 30 June, furnish to the Minister a report on the activities of the Organisation during that year.
+             (1)  The Director-General shall, as soon as practicable after each year ending on 30 June, furnish to the Minister a report on the activities of the Organisation during that year.
 
           (1A)  The report must include a statement of:
 
@@ -3642,13 +3565,13 @@ Note:          Subsection (4) lets the Minister delete infor
 
              (3)  Subject to subsection (4), the Minister shall cause a copy of a report furnished under subsection (1) to be laid before each House of the Parliament within 20 sitting days of that House after the report is received by the Minister.
 
-             (4)  For the purposes of subsection (3), the Minister may make such deletions from a report furnished under subsection (1) as the Minister, after obtaining advice from the Director‑General, considers necessary in order to avoid prejudice to security, the defence of the Commonwealth, the conduct of the Commonwealth’s international affairs or the privacy of individuals.
+             (4)  For the purposes of subsection (3), the Minister may make such deletions from a report furnished under subsection (1) as the Minister, after obtaining advice from the Director-General, considers necessary in order to avoid prejudice to security, the defence of the Commonwealth, the conduct of the Commonwealth’s international affairs or the privacy of individuals.
 
              (5)  The Minister may not delete from a report a statement described in subsection (1A).
 
 ##### <a id="95"></a>95  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Australian Security Intelligence Organisation Act 1979_
 
@@ -4514,7 +4437,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑terrorism Act (No. 3) 2004</div>
+    <div>Anti-terrorism Act (No. 3) 2004</div>
   </td>
   <td>
     <div>125, 2004</div>
@@ -4602,7 +4525,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Terrorism Act (No. 2) 2005</div>
+    <div>Anti-Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
     <div>144, 2005</div>
@@ -4745,7 +4668,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑People Smuggling and Other Measures Act 2010</div>
+    <div>Anti-People Smuggling and Other Measures Act 2010</div>
   </td>
   <td>
     <div>50, 2010</div>
@@ -4759,47 +4682,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Interception and Intelligence Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>4, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1–17, 29): 23 Mar 2011</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 29) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 10, 11): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The proposed amendments to sections 85 and 86 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 34 and 35 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Australian Security Intelligence Organization Amendment Act 1988_) were repealed before a date was fixed for their commencement.
+_(b)_    The proposed amendments to sections 85 and 86 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 34 and 35 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Australian Security Intelligence Organization Amendment Act 1988_) were repealed before a date was fixed for their commencement.
 
  The proposed amendments to sections 84, 88 and 90 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 33, 36 and 37 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Law and Justice Legislation Amendment Act 1990_) were repealed before a date was fixed for their commencement.
 
@@ -5130,7 +5019,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>
       30 December 2006
 
-      (paragraph (a) applies)
+(paragraph (a) applies)
     </div>
   </td>
 </tr></table>
@@ -5195,7 +5084,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010; No. 4, 2011</div>
+    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5403,7 +5292,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 161, 1999; No. 63, 2000; No. 40, 2006; No. 4, 2011</div>
+    <div>am. No. 122, 1986; No. 161, 1999; No. 63, 2000; No. 40, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5432,34 +5321,10 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 18(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 182, 1979; No. 122, 1986; No. 141, 1987; No. 161, 1999; No. 125, 2002; No. 77, 2003; Nos. 86 and 148, 2006; No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2011</div>
+    <div>am. No. 182, 1979; No. 122, 1986; No. 141, 1987; No. 161, 1999; No. 125, 2002; No. 77, 2003; Nos. 86 and 148, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5467,23 +5332,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 161, 1999; No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2011</div>
+    <div>am. No. 122, 1986; No. 161, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5848,7 +5697,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subdiv. B of Div. 3 of Part III</div>
+    <div>Subdiv. B of Div. 3 of Part III.</div>
   </td>
   <td>
     <div>rs. No. 54, 2006</div>
@@ -5928,7 +5777,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subdiv. C of Div. 3 of Part III</div>
+    <div>Subdiv. C of Div. 3 of Part III.</div>
   </td>
   <td>
     <div>rs. No. 54, 2006</div>
@@ -6096,7 +5945,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subdiv. D of Div. 3 of Part III</div>
+    <div>Subdiv. D of Div. 3 of Part III.</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -6440,7 +6289,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subdiv. E of Div. 3 of Part III</div>
+    <div>Subdiv. E of Div. 3 of Part III.</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -7855,26 +7704,6 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
   </td>
 </tr></table>
 
-### Note 2
-
-_Statute Law Revision Act 2011 (No. 5, 2011)_
-
-The following amendments commence on 19 April 2011:
-
-## Schedule 6
-
-## 10  Section 4
-
-Insert:
-
-                    <a name="defenc-depart"></a>**_Defence Department_** means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the _Defence Act 1903_.
-
-## 11  Section 4 (paragraphs (c), (d) and (e) of the definition of _intelligence or security agency_)
-
-Omit “Department of Defence”, substitute “Defence Department”.
-
-As at 29 March 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7885,13 +7714,13 @@ _Australian Security Intelligence Organisation Legislation Amendment Act 1999 (N
 
 ## 44  Application of amendments relating to warrants issued after commencement of this item
 
-The amendments relating to warrants made by this Schedule apply to any warrant issued after the commencement of this item where the request by the Director‑General for the issue of the warrant is also made after the commencement of this item.
+The amendments relating to warrants made by this Schedule apply to any warrant issued after the commencement of this item where the request by the Director-General for the issue of the warrant is also made after the commencement of this item.
 
-## 45  Transitional provisions relating to Acting Director‑General appointed before commencement of this item
+## 45  Transitional provisions relating to Acting Director-General appointed before commencement of this item
 
-(1)       If, when this item commences, a person is acting as Director‑General under an instrument of appointment made by the Governor‑General before this item commenced, the person continues to act in accordance with that instrument in spite of amendments made by this Schedule. However, the instrument ceases to have effect when the person ceases to act. 
+(1)        If, when this item commences, a person is acting as Director-General under an instrument of appointment made by the Governor-General before this item commenced, the person continues to act in accordance with that instrument in spite of amendments made by this Schedule. However, the instrument ceases to have effect when the person ceases to act. 
 
-(2)       In no other circumstance does an instrument of appointment made before the commencement of this Schedule have affect after the Schedule commences.
+(2)        In no other circumstance does an instrument of appointment made before the commencement of this Schedule have affect after the Schedule commences.
 
 ## Schedule 2
 
@@ -7905,9 +7734,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -7917,9 +7746,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -7927,9 +7756,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -7961,7 +7790,7 @@ _Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
 ##### <a id="4"></a>4  Regulations
 
-                   The Governor‑General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
+                   The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
 
 ## Schedule 1
 
@@ -8017,9 +7846,9 @@ The amendment of the definition of **_terrorism offence_** in section 4 of the
 
 ## 20  Saving of authority and authorisations
 
-(1)       For the purposes of subsections 18(1) and (2) of the _Australian Security Intelligence Organisation Act 1979_ as amended by this Schedule, the authority conferred on an officer of the Organisation by the Director‑General is not affected by the amendment of those subsections by this Schedule.
+(1)        For the purposes of subsections 18(1) and (2) of the _Australian Security Intelligence Organisation Act 1979_ as amended by this Schedule, the authority conferred on an officer of the Organisation by the Director-General is not affected by the amendment of those subsections by this Schedule.
 
-(2)       An officer of the Organisation who was authorised for the purpose of subsection 18(3) of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item is taken to be, immediately after the commencement of this item, a person authorised for that purpose.
+(2)        An officer of the Organisation who was authorised for the purpose of subsection 18(3) of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item is taken to be, immediately after the commencement of this item, a person authorised for that purpose.
 
 ## 27C  Application of amendments of section 94
 
@@ -8037,9 +7866,9 @@ The amendment made by this Part applies in relation to warrants issued on or aft
 
 ## 4  Application
 
-(1)       Section 34JC of the _Australian Security Intelligence Organisation Act 1979_ applies in relation to a passport issued (before, on or after the commencement of that section) to a person who is notified, on or after that commencement, of the issue of a warrant.
+(1)        Section 34JC of the _Australian Security Intelligence Organisation Act 1979_ applies in relation to a passport issued (before, on or after the commencement of that section) to a person who is notified, on or after that commencement, of the issue of a warrant.
 
-(2)       Section 34JD of the _Australian Security Intelligence Organisation Act 1979_ applies to a person leaving Australia on or after the commencement of that section, whether notice of the issue of the warrant was given to the person before, on or after that commencement.
+(2)        Section 34JD of the _Australian Security Intelligence Organisation Act 1979_ applies to a person leaving Australia on or after the commencement of that section, whether notice of the issue of the warrant was given to the person before, on or after that commencement.
 
 ## 6  Application
 
@@ -8051,13 +7880,13 @@ The amendments made by this Part apply in relation to warrants issued on or afte
 
 * * *
 
-_Anti‑terrorism Act (No. 3) 2004 (No. 125, 2004)_
+_Anti-terrorism Act (No. 3) 2004 (No. 125, 2004)_
 
 ## Schedule 2
 
 ## 2  Application of item 1
 
-The amendments made by item 1 of this Schedule apply to a person in relation to whom the Director‑General has sought the Minister’s consent to request the issue of a warrant under section 34D of the _Australian Security Intelligence Organisation Act 1979_ on or after the commencement of that item.
+The amendments made by item 1 of this Schedule apply to a person in relation to whom the Director-General has sought the Minister’s consent to request the issue of a warrant under section 34D of the _Australian Security Intelligence Organisation Act 1979_ on or after the commencement of that item.
 
 * * *
 
@@ -8081,7 +7910,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -8101,7 +7930,7 @@ Definitions
 
              (7)  In this section:
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid‑security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid-security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
                     <a name="commun-fund"></a>**_Communications Fund_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -8109,21 +7938,21 @@ Definitions
 
                     <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
 * * *
 
-_Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
+_Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 ## Schedule 10
 
 ## 25  Application of items
 
-(1)       The amendments made by items 1, 3 to 20, 23 and 24 apply to warrants issued after this item commences.
+(1)        The amendments made by items 1, 3 to 20, 23 and 24 apply to warrants issued after this item commences.
 
-(2)       The amendments made by items 21 and 22 apply to statements made after this item commences.
+(2)        The amendments made by items 21 and 22 apply to statements made after this item commences.
 
 * * *
 
@@ -8149,33 +7978,33 @@ Despite the amendments made by Part 1 of this Schedule, Division 3 of Part�
 
 ## 17  Transitional—regulations
 
-(1)       This item applies to regulations in force for the purposes of section 34VAA or 34VA of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item.
+(1)        This item applies to regulations in force for the purposes of section 34VAA or 34VA of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item.
 
-(2)       The regulations have effect, after that commencement, as if they had been made for the purposes of section 34ZS or 34ZT of that Act, as the case requires, after that commencement.
+(2)        The regulations have effect, after that commencement, as if they had been made for the purposes of section 34ZS or 34ZT of that Act, as the case requires, after that commencement.
 
 ## 18  Transitional—Rules of Court about proceedings connected with warrants
 
-(1)       This item applies to Rules of Court of the High Court or the Federal Court of Australia in force for the purposes of section 34W of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item.
+(1)        This item applies to Rules of Court of the High Court or the Federal Court of Australia in force for the purposes of section 34W of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item.
 
-(2)       The Rules have effect, after that commencement, as if they had been made for the purposes of section 34ZU of that Act after that commencement.
+(2)        The Rules have effect, after that commencement, as if they had been made for the purposes of section 34ZU of that Act after that commencement.
 
 ## 19  Transitional—exercise of authority under warrants
 
-(1)       This item applies to an approval in force under subsection 24(1) of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item to the extent that it relates to a warrant issued under section 34D of that Act.
+(1)        This item applies to an approval in force under subsection 24(1) of the _Australian Security Intelligence Organisation Act 1979_ immediately before the commencement of this item to the extent that it relates to a warrant issued under section 34D of that Act.
 
-(2)       The approval has effect, after that commencement, as an approval in force under subsection 24(1) of that Act relating to a warrant issued under Division 3 of Part III of that Act.
+(2)        The approval has effect, after that commencement, as an approval in force under subsection 24(1) of that Act relating to a warrant issued under Division 3 of Part III of that Act.
 
 ## 20  Transitional—existing Protocol
 
-(1)       The Protocol is taken to continue in force after the commencement of this item under section 34C of the _Australian Security Intelligence Organisation Act 1979_ as if it had been made under that section. For this purpose, the Protocol is taken to apply:
+(1)        The Protocol is taken to continue in force after the commencement of this item under section 34C of the _Australian Security Intelligence Organisation Act 1979_ as if it had been made under that section. For this purpose, the Protocol is taken to apply:
 
                      (a)  in relation to warrants issued under Division 3 of Part III of that Act; and
 
                      (b)  as if a reference in it to a provision of that Act (as in force immediately before the commencement of this item) were a reference to the corresponding provision of that Act (as in force after that commencement).
 
-(2)       The Protocol ceases to be in force once a legislative instrument made by the Minister under section 34C of the _Australian Security Intelligence Organisation Act 1979_ takes effect.
+(2)        The Protocol ceases to be in force once a legislative instrument made by the Minister under section 34C of the _Australian Security Intelligence Organisation Act 1979_ takes effect.
 
-(3)       In this item:
+(3)        In this item:
 
 **_Protocol_** means the written statement of procedures:
 
@@ -8190,15 +8019,5 @@ In relation to the year ending on 30 June 2006:
                      (a)  paragraphs 94(1A)(c) and (d) of the _Australian Security Intelligence Organisation Act 1979_ also apply in relation to warrants issued under section 34D of that Act (as in force before the commencement of this item) that met the requirement in paragraph 34D(2)(a) of that Act (as so in force); and
 
                      (b)  paragraphs 94(1A)(e) and (f) of that Act  also apply in relation to warrants issued under section 34D of that Act (as in force before the commencement of this item) that met the requirement in paragraph 34D(2)(b) of that Act (as so in force).
-
-* * *
-
-_Telecommunications Interception and Intelligence Services Legislation Amendment Act 2011 (No. 4, 2011)_
-
-## Schedule 6
-
-## 29  Application of amendments relating to communication of information
-
-Section 18 and subsection 19(2) of the _Australian Security Intelligence Organisation Act 1979_, as amended by this Schedule, and subsection 19A(4) of that Act, as inserted by this Schedule, apply in relation to any information, whether the information comes into the possession of the Organisation before or after this Schedule commences.
 
  
