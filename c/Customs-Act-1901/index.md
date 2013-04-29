@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00554/Html/cc9172fe-a050-4d07-a452-a32d96e5dfe7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00469/Html/42234df0-9294-4ef1-943d-69e87db7544d_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 25 June 2012
+This compilation was prepared on 28 May 2012
  taking into account amendments up to Act No. 39 of 2012
 
 **Volume 1** includes:     Table of Contents
@@ -195,11 +195,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64AB](#64AB).    Cargo reports
 
-64ABAAOutturn reports
+64ABAA  Outturn reports
 
-64ABABWhen outturn report is to be communicated to Customs
+64ABAB  When outturn report is to be communicated to Customs
 
-64ABACExplanation of shortlanded or surplus cargo
+64ABAC  Explanation of shortlanded or surplus cargo
 
 [64ACA](#64ACA). Passenger reports
 
@@ -211,7 +211,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64ACE](#64ACE).  Communication of reports
 
-64ADAARequirements for communicating to Customs electronically
+64ADAA  Requirements for communicating to Customs electronically
 
 [64ADA](#64ADA). Disclosure of cargo reports to port authorities
 
@@ -285,54 +285,47 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision AA—Information and grant of authority to deal with Subdivision AA goods**
 
-71AAAAMeaning of _Subdivision AA goods_
+71AAAA  Meaning of _Subdivision AA goods_
 
-71AAABReport and grant of authority to deal with Subdivision AA goods
+71AAAB  Report and grant of authority to deal with Subdivision AA goods
 
-71AAACSuspension of authority to deal with Subdivision AA goods
+71AAAC  Suspension of authority to deal with Subdivision AA goods
 
         **Subdivision AB—Information and grant of authority to deal with specified low value goods**
 
-71AAADMeaning of _specified low value goods_
+71AAAD  Meaning of _specified low value goods_
 
-71AAAERegulations
+71AAAE  Regulations
 
-71AAAFMaking a self‑assessed clearance declaration
+71AAAF  Making a self‑assessed clearance declaration
 
-71AAAGCustoms’ response if a self‑assessed clearance declaration is 
- communicated separately from a cargo report
+71AAAG  Customs’ response if a self‑assessed clearance declaration is communicated separately from a cargo report
 
-71AAAHCustoms’ response if a self‑assessed clearance declaration is 
- communicated together with a cargo report
+71AAAH Customs’ response if a self‑assessed clearance declaration is communicated together with a cargo report
 
 71AAAI Authority to deal with goods covered by a self‑assessed clearance declaration
 
-71AAAJContents of authority to deal with specified low value goods
+71AAAJ  Contents of authority to deal with specified low value goods
 
-71AAAKNo authority to deal with specified low value goods while 
- subject to a direction to hold or further examine
+71AAAK  No authority to deal with specified low value goods while subject to a direction to hold or further examine
 
-[71AAALNo authority to deal with specified low value goods unless  duty etc](#71AAALNo authority to deal with specified low value goods unless  duty etc). paid
+[71AAAL  No authority to deal with specified low value goods unless duty etc](#71AAAL  No authority to deal with specified low value goods unless duty etc). paid
 
-71AAAMSuspension of authority to deal with specified low value goods
+71AAAM  Suspension of authority to deal with specified low value goods
 
-71AAANCancellation of authority to deal with specified low value goods
+71AAAN  Cancellation of authority to deal with specified low value goods
 
-71AAAOOfficer may seek further information in relation to 
- self‑assessed clearance declaration
+71AAAO  Officer may seek further information in relation to self‑assessed clearance declaration
 
-71AAAPWithdrawal of self‑assessed clearance declarations
+71AAAP  Withdrawal of self‑assessed clearance declarations
 
-71AAAQFurther self‑assessed clearance declaration not to be given 
- while there is an existing self‑assessed clearance declaration
+71AAAQ  Further self‑assessed clearance declaration not to be given while there is an existing self‑assessed clearance declaration
 
-71AAAREffect of withdrawal of a self‑assessed clearance declaration
+71AAAR  Effect of withdrawal of a self‑assessed clearance declaration
 
-71AAASAnnotation of self‑assessed clearance declaration by Customs 
- for certain purposes not to constitute withdrawal
+71AAAS  Annotation of self‑assessed clearance declaration by Customs for certain purposes not to constitute withdrawal
 
-71AAATManner and effect of communicating self‑assessed clearance 
- declarations to Customs
+71AAAT  Manner and effect of communicating self‑assessed clearance declarations to Customs
 
         **Subdivision B—Import declarations**
 
@@ -406,7 +399,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77](#77).          Repacking on wharf
 
-[77AA](#77AA).    Disclosure of information to cargo reporter or owner of goods
+[77AA](#77AA).    Disclosure of information to cargo reporter or owner of 
+ goods
 
     **Division 5—Detention of goods in the public interest**
 
@@ -754,13 +748,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4E—Exportation of goods to Chile** 
 
-126AKADefinitions
+126AKA  Definitions
 
 126AKB Record keeping obligations
 
 126AKC Power to require records
 
-126AKDPower to ask questions
+126AKD  Power to ask questions
 
     **Division 5—Miscellaneous**
 
@@ -908,7 +902,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision B—Rules of origin of goods claimed to be the produce or manufacture of Singapore**
 
-[153V](#153V).     Goods claimed to be the produce or manufacture of Singapore
+[153V](#153V).     Goods claimed to be the produce or manufacture of 
+ Singapore
 
 [153VA](#153VA).  Goods wholly manufactured in Singapore
 
@@ -1024,9 +1019,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [153ZIB](#153ZIB).  Interpretation
 
-        **Subdivision B—Goods wholly obtained or produced in New Zealand or New Zealand and Australia**
+        **Subdivision B—Goods wholly obtained in New Zealand or New Zealand and Australia**
 
-[153ZIC](#153ZIC).  Goods wholly obtained or produced in New Zealand or New Zealand and Australia
+[153ZIC](#153ZIC).  Goods wholly obtained in New Zealand or New Zealand and Australia
 
         **Subdivision C—Goods produced in New Zealand or New Zealand and Australia from originating materials**
 
@@ -1045,10 +1040,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
         **Subdivision F—Goods wholly manufactured in New Zealand**
 
 [153ZIH](#153ZIH). Goods wholly manufactured in New Zealand
-
-[153ZII](#153ZII).   [_see_ Note 2]
-
-        **Subdivision GA–section 153ZIIA [_see_ Note 2]** 
 
         **Subdivision H—Consignment**
 
@@ -2530,7 +2521,7 @@ the officer may:
 
 ##### <a id="26"></a>26  Declaration by youths
 
-                   No person shall knowingly receive a declaration under this Act by any person under the age of eighteen years.
+                   No person shall knowingly receive a declaration under this Act by any person under the age of eighteen years.
 
 ##### <a id="27"></a>27  State inspection laws
 
@@ -2858,7 +2849,7 @@ Note:          For absolute liability, see section 6.2 of th
 
                    The Customs shall not be liable for any loss or damage occasioned to any goods subject to the control of the Customs except by the neglect or wilful act of some officer.
 
-##### <a id="35"></a>35  Goods imported by post
+##### <a id="35"></a>35  Goods imported by post
 
                    Goods imported by post shall be subject to the control of the Customs equally with goods otherwise imported.
 
@@ -6476,7 +6467,7 @@ Customs may comply with the request.
 
 ##### <a id="77EE"></a>77EE  Minister may authorise export of detained goods
 
-             (1)  On application by the owner of goods detained under section 77EC, the Minister may authorise the exportation of the goods, or so much of the goods as the Minister specifies in the authority, from   Australia.
+             (1)  On application by the owner of goods detained under section 77EC, the Minister may authorise the exportation of the goods, or so much of the goods as the Minister specifies in the authority, from Australia.
 
              (2)  An authority is subject to any conditions, or other requirements, specified in the authority in relation to the goods.
 
@@ -7034,7 +7025,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00554/Html/cc9172fe-a050-4d07-a452-a32d96e5dfe7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00469/Html/42234df0-9294-4ef1-943d-69e87db7544d_files/image002.gif)
 
 where:
 
@@ -7644,7 +7635,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    For the purpose of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Part on a person who holds or held a warehouse licence, such a notice posted as a letter addressed to the person at the address of the place that is or was the warehouse shall be deemed to be properly addressed.
 
-##### <a id="89"></a>89  Death of licence holder
+##### <a id="89"></a>89  Death of licence holder
 
                    If the holder of a warehouse licence, being a natural person, dies, the licence shall be deemed to be transferred to his or her legal personal representative.
 
@@ -8446,7 +8437,7 @@ makes the exportation of such goods from Australia contrary to the national inte
 
 ### Division 1A—Directions in relation to goods for export etc. that are subject to Customs control
 
-##### <a id="112C"></a>112C  Collector may give directions in relation to goods for export etc. that are subject to Customs control
+##### <a id="112C"></a>112C  Collector may give directions in relation to goods for export etc. that are subject to Customs control
 
              (1)  A Collector may give a written direction to move or not move, or about the storage of, goods that are subject to the control of Customs under paragraph 30(1)(b), (c), (d) or (e) if the direction is:
 
@@ -9592,17 +9583,23 @@ Disclosing answers to Thai customs official
 
 ### Division 4D—Exportation of goods to New   Zealand
 
-##### <a id="126AJA"></a>126AJA  Definitions
+##### <a id="126AJA"></a>126AJA  Definitions
 
                    In this Division:
 
-                    <a name="manufactur"></a>**_manufacture_** means the creation of an article essentially different from the matters or substances that go into that creation.
+                    <a name="manufactur"></a>**_manufacture_** means the creation of an article essentially different from the matters or substances that go into that creation, but does not include the following activities (whether performed alone or in combination with each other):
 
-                    <a name="new-zealand-custom-offici"></a>**_New Zealand customs official_** means a person representing the customs administration of New Zealand.
+                     (a)  restoration or renovation processes such as repairing, reconditioning, overhauling or refurbishing;
 
-                    <a name="princip-manufactur"></a>**_principal manufacturer_** of goods means the person in Australia who performs, or has had performed on the person’s behalf, the last process of manufacture of the goods, where that last process was not a restoration or renovation process such as repairing, reconditioning, overhauling or refurbishing.
+                     (b)  minimal operations of pressing, labelling, ticketing, packaging and preparation for sale, whether conducted alone or in combination with each other;
 
-                    <a name="produc"></a>**_producer_** means a person who grows, farms, raises, breeds, mines, harvests, fishes, traps, hunts, captures, gathers, collects, extracts, manufactures, processes, assembles, restores or renovates goods.
+                     (c)  quality control inspections.
+
+                    <a name="custom-offici"></a><a name="new-zealand"></a>**_New Zealand_****_customs official_** means a person representing the customs administration of New Zealand.
+
+                    <a name="princip-manufactur"></a>**_principal manufacturer_** of goods means the person in Australia who performs, or has had performed on the person’s behalf, the last process of manufacture of the goods.
+
+                    <a name="produc"></a>**_producer_** means a person who grows, farms, raises, breeds, mines, harvests, fishes, traps, hunts, captures, gathers, collects, extracts, manufactures, processes, assembles or disassembles goods.
 
 ##### <a id="126AJB"></a>126AJB  Record keeping obligations
 
@@ -11000,7 +10997,7 @@ Goods claimed to be manufacture of Singapore
 
                      (b)  waste and scrap produced in Singapore or Australia;
 
-                     (c)  materials wholly manufactured within Singapore or Australia;
+                     (c)  materials wholly manufactured within   Singapore or Australia;
 
                      (d)  materials imported into Singapore that the CEO has determined, by _Gazette_ notice, to be manufactured raw materials of Singapore.
 
@@ -12078,7 +12075,7 @@ duty under the _Customs Tariff Act 1995_ apply to New Zealand originating goods 
 
 goods are New Zealand originating goods  if they are wholly
 
-obtained or produced in New Zealand or in New Zealand and Australia.</li>
+obtained in New Zealand or in New Zealand and Australia.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision C provides that
 
@@ -12090,9 +12087,9 @@ materials only.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision D sets out when
 
-goods are New Zealand originating goods because they are produced entirely in New Zealand, or in New Zealand and Australia, from non‑originating materials only or from
+goods are New Zealand originating goods because they are produced entirely in New Zealand, or in New Zealand and Australia, from non‑originating materials only or from non‑originating
 
-non‑originating materials and originating materials.</li>
+materials and originating materials.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision E sets out when
 
@@ -12112,12 +12109,6 @@ goods are New Zealand originating goods because their last process of
 
 manufacture is performed in New Zealand. It is repealed on 1 January 2012.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision GA provides
-
-that goods are not New Zealand originating goods under this Division merely
-
-because of certain operations.</li>
-
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision H deals with
 
 how the consignment of goods affects whether the goods are New Zealand originating goods.</li>
@@ -12133,8 +12124,6 @@ Definitions
                     <a name="agreem"></a>**_Agreement_** means the Australia New Zealand Closer Economic Relations Trade Agreement done at Canberra on 28 March 1983, as amended from time to time.
 
 Note:          The text of the Agreement is set out in Australian Treaty Series 1983 No. 2\. In 2006 the text of an Agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-                    <a name="aquacultur"></a>**_aquaculture_** has the meaning given by Article 3 of the Agreement.
 
                     <a name="australian-originating-good"></a>**_Australian originating goods_** means goods that are Australian originating goods under a law of New Zealand that implements the Agreement.
 
@@ -12166,9 +12155,15 @@ including:
 
                      (h)  catalysts and solvents.
 
-                    <a name="manufactur"></a>**_manufacture_** means the creation of an article essentially different from the matters or substances that go into that creation.
+                    <a name="manufactur"></a>**_manufacture_** means the creation of an article essentially different from the matters or substances that go into that creation, but does not include the following activities (whether performed alone or in combination with each other):
 
-                    <a name="new-zealand-originating-good"></a>**_New Zealand originating goods_** means goods that, under this Division, are New Zealand originating goods.
+                     (a)  restoration or renovation processes such as repairing, reconditioning, overhauling or refurbishing;
+
+                     (b)  minimal operations of pressing, labelling, ticketing, packaging and preparation for sale, whether conducted alone or in combination with each other;
+
+                     (c)  quality control inspections.
+
+                    <a name="originating-good"></a><a name="new-zealand"></a>**_New Zealand_****_originating goods_** means goods that, under this Division, are New Zealand originating goods.
 
                     <a name="non-originating-materi"></a>**_non‑originating materials_** means goods that are not originating materials.
 
@@ -12180,7 +12175,7 @@ including:
 
                      (c)  indirect materials.
 
-                    <a name="produc"></a>**_produce_** means grow, farm, raise, breed, mine, harvest, fish, trap, hunt, capture, gather, collect, extract, manufacture, process, assemble, restore or renovate.
+                    <a name="produc"></a>**_produce_** means grow, farm, raise, breed, mine, harvest, fish, trap, hunt, capture, gather, collect, extract, manufacture, process, assemble or disassemble.
 
                     <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
@@ -12202,13 +12197,13 @@ Incorporation of other instruments
 
              (6)  For the purposes of this Division, the regulations may apply, adopt or incorporate any matter contained in any instrument or other writing as in force or existing from time to time.
 
-#### Subdivision B—Goods wholly obtained or produced in New Zealand or New Zealand and Australia
+#### Subdivision B—Goods wholly obtained in New Zealand or New Zealand and Australia
 
-##### <a id="153ZIC"></a>153ZIC  Goods wholly obtained or produced in New Zealand or New Zealand and Australia
+##### <a id="153ZIC"></a>153ZIC  Goods wholly obtained in New Zealand or New Zealand and Australia
 
-             (1)  Goods are **_New Zealand_****_originating goods_** if they are wholly obtained or produced in New Zealand or in New Zealand and Australia.
+             (1)  Goods are **_New Zealand_****_originating goods_** if they are wholly obtained in New Zealand or in New Zealand and Australia.
 
-             (2)  Goods are **_wholly obtained or produced in New Zealand or in New Zealand and Australia_** if, and only if, the goods are:
+             (2)  Goods are **_wholly obtained in New Zealand or in New Zealand and Australia_** if, and only if, the goods are:
 
                      (a)  minerals extracted in New Zealand; or
 
@@ -12343,10 +12338,6 @@ Note:          The value of the packaging material or containe
                      (c)  materials covered by subsection (2).
 
              (2)  The CEO may, by legislative instrument, determine specified materials imported into New Zealand to be manufactured raw materials of New Zealand.
-
-##### <a id="153ZII"></a>153ZII  [_see_ Note 2]
-
-#### Subdivision GA–section 153ZIIA [_see_ Note 2]
 
 #### Subdivision H—Consignment
 
@@ -13868,7 +13859,7 @@ their customs value is their fall‑back value.
 
                      (b)  divided by the number of units of the comparable identical goods.
 
-##### <a id="161B"></a>161B  Similar goods value
+##### <a id="161B"></a>161B  Similar goods value
 
              (1)  The similar goods value of imported goods is their value calculated as if the value of each of their units were:
 
@@ -15280,7 +15271,7 @@ he or she may, by notice to the customs broker:
 
 ##### <a id="183CU"></a>183CU  Service of notices
 
-                   For the purposes of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Division on a person who holds or held a broker’s licence, such a notice posted as a letter addressed to that person at the last address of that person known to the sender shall be deemed to be properly addressed.
+                   For the purposes of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Division on a person who holds or held a broker’s licence, such a notice posted as a letter addressed to that person at the last address of that person known to the sender shall be deemed to be properly addressed.
 
 ### Division 5—National Customs Brokers Licensing Advisory Committee
 
