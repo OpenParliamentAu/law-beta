@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force 
@@ -392,15 +392,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="adjusted-parent-incom"></a>**_adjusted parental income_**, for the purposes of Part 4A, has the meaning given by the regulations.
 
+                    <a name="agenc"></a>**_Agency_** means the Commonwealth Services Delivery Agency established by the Agency Act.
+
+                    <a name="agenc-act"></a>**_Agency Act_** means the _Commonwealth Services Delivery Agency Act 1997_.
+
                     <a name="amount-notion-repaid"></a>**_amount notionally repaid_**, in relation to financial supplement, has the meaning given by subparagraph 12ZA(10)(b)(ii).
 
                     <a name="amount-outstanding"></a>**_amount outstanding_**, in relation to a financial supplement contract, has the meaning given by section 12X.
 
                     <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
 
-                    <a name="centrelink-program"></a>**_centrelink program_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the Agency.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
@@ -436,9 +438,9 @@ Note:          A person cannot be an eligible student for the 
 
                     <a name="employe"></a>**_employee_** has the same meaning as in the _Public Service Act 1999_.
 
-                    <a name="exempt-foreign-incom"></a>**_exempt foreign income_** has the meaning given by subsection 12ZL(4).
+                    <a name="employe"></a>**_employee_**, in relation to the Agency, has the same meaning as in the Agency Act.
 
-                    <a name="famili-assist-law"></a>**_family assistance law_** has the same meaning as in the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+                    <a name="exempt-foreign-incom"></a>**_exempt foreign income_** has the meaning given by subsection 12ZL(4).
 
                     <a name="financi-corpor"></a>**_financial corporation_** means:
 
@@ -472,10 +474,6 @@ and includes a bank.
 
                     <a name="higher-educ-institut"></a>**_higher education institution_** means an educational institution in Australia that, in accordance with a determination by the Minister, is to be regarded as a higher education institution for the purposes of this Act.
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
                     <a name="incom-tax"></a>**_income tax_** has the meaning given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="incom-tax-law"></a>**_income tax law_** has the meaning given by section 14ZAAA of the _Taxation Administration Act 1953_.
@@ -497,8 +495,6 @@ and includes a bank.
                      (c)  subsection 205(5), or any other prescribed provision, of the _Veterans’ Entitlements Act 1986_.
 
                     <a name="micar-levi"></a>**_Medicare levy_** means the Medicare levy imposed by the _Medicare Levy Act 1986_.
-
-                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="minimum-repay-incom"></a>**_minimum repayment income_** has the meaning given by section 12ZLA.
 
@@ -532,7 +528,7 @@ and includes a bank.
 
                              (ii)  a Department administered by a Minister responsible for the administration of the _Social Security Act 1991_; or
 
-                            (iii)  the Human Services Department.
+                            (iii)  the Agency.
 
                     <a name="repay-debt"></a>**_repayable debt_**, for an income year, has the meaning given by section 12ZLB.
 
@@ -542,7 +538,7 @@ and includes a bank.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
-                    <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the _Social Security Act 1991_.
+                    <a name="servic-arrang"></a>**_service arrangements_** has the same meaning as in the Agency Act.
 
                     <a name="social-secur-veteran-legisl-overpay"></a>**_Social Security or Veterans’ legislation overpayment_** means:
 
@@ -1072,13 +1068,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1098,7 +1094,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1122,7 +1118,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image005.gif)
 
              (2)  In subsection (1):
 
@@ -1136,7 +1132,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1148,7 +1144,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1172,7 +1168,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1200,11 +1196,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1278,7 +1274,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image010.gif)
 
 where:
 
@@ -1290,7 +1286,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image011.gif)
 
 where:
 
@@ -1302,7 +1298,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image012.gif)
 
 where:
 
@@ -1324,7 +1320,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1850,7 +1846,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2170,7 +2166,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image015.gif)
 
 where:
 
@@ -2190,7 +2186,7 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:        The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00391/Html/0a6394f4-b351-4723-b4d3-baec0409e251_files/image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -3064,11 +3060,11 @@ Secretary may delegate powers
 
 Secretary may not delegate power under paragraph 355(1)(b)
 
-             (2)  The Secretary must not delegate the Secretary’s power under paragraph 355(1)(b) to anyone except the Chief Executive Centrelink.
+             (2)  The Secretary must not delegate the Secretary’s power under paragraph 355(1)(b) to anyone except the CEO.
 
 CEO may not subdelegate power under paragraph 355(1)(b)
 
-          (2A)  If the Secretary delegates to the Chief Executive Centrelink the Secretary’s power under paragraph 355(1)(b), the Chief Executive Centrelink cannot, despite section 12 of the _Human Services (Centrelink) Act 1997_, delegate the power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
+          (2A)  If the Secretary delegates to the CEO the Secretary’s power under paragraph 355(1)(b), the CEO cannot, despite section 33 of the Agency Act, delegate the power to an employee of the Agency.
 
 ##### <a id="339"></a>339  Authorised review officers
 
@@ -3080,7 +3076,7 @@ Written authorisation
 
              (3)  The Secretary’s authorisation must be in writing.
 
-##### <a id="340"></a>340  Decisions to be in writing
+##### <a id="340"></a>340  Decisions to be in writing
 
 Written decision
 
@@ -3294,15 +3290,7 @@ if the record, disclosure or use made of the information by the person is made:
 
                    (da)  for the purposes of the _Dental Benefits Act 2008_; or
 
-                   (db)  for the purposes of the family assistance law; or
-
-                   (dc)  for the purposes of the social security law; or
-
-                   (dd)  for the purposes of the _Paid Parental Leave Act 2010_; or
-
-                     (e)  for the purpose for which the information was disclosed to the person under section 354 or 355; or
-
-                      (f)  with the express or implied authorisation of the person to whom the information relates.
+                     (e)  for the purpose for which the information was disclosed to the person under section 354 or 355.
 
 Note:          In certain circumstances it is an offence for a person to use protected information without authority (see section 353).
 
@@ -3400,15 +3388,7 @@ Secretary may disclose information
 
                      (a)  if the Secretary certifies that it is necessary in the public interest to do so in a particular case or class of cases—disclose information acquired by an officer in the performance of his or her functions or duties or in the exercise of his or her powers under this Act to any persons and for any purposes that the Secretary determines; or
 
-                     (b)  disclose any such information:
-
-                              (i)  to the Secretary of a Department of State of the Commonwealth for the purposes of that Department; or
-
-                             (ii)  to the head of an authority of the Commonwealth for the purposes of that authority; or
-
-                            (iii)  to the Chief Executive Centrelink for the purposes of a centrelink program; or
-
-                            (iv)  to the Chief Executive Medicare for the purposes of a medicare program; or
+                     (b)  disclose any such information to the Secretary of a Department of State of the Commonwealth or to the head of an authority of the Commonwealth for the purposes of that Department or authority; or
 
                      (d)  disclose any such information to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it.
 
@@ -4750,7 +4730,7 @@ Schedule 7 (item 130): 19 Apr 2011</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 607–617B, 657): 1 July 2011</div>
+    <div>Schedule 4 (items 607–617B, 657): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4982,7 +4962,7 @@ The amendment history of the _Student Assistance Act 1973_ after renumbering by 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009; No. 148, 2010; Nos. 5 and 32, 2011</div>
+    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009; No. 148, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12136,7 +12116,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 29, 1997; No. 45, 1998; No. 32, 2011</div>
+    <div>am. No. 29, 1997; No. 45, 1998</div>
   </td>
 </tr>
 <tr>
@@ -12392,7 +12372,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 155, 1995; No. 29, 1997; No. 45, 1998; Nos. 42 and 149, 2008; No. 32, 2011</div>
+    <div>am. No. 155, 1995; No. 29, 1997; No. 45, 1998; Nos. 42 and 149, 2008</div>
   </td>
 </tr>
 <tr>
@@ -12464,7 +12444,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 29, 1997; No. 45, 1998; Nos. 5 and 32, 2011</div>
+    <div>am. No. 29, 1997; No. 45, 1998; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12907,6 +12887,130 @@ Certain provisions of the _Student Assistance Act 1973_ as amended were repealed
     <div>rep. No. 171, 1989</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 607  Subsection 3(1) (definition of _Agency_)
+
+Repeal the definition.
+
+## 608  Subsection 3(1) (definition of _Agency Act_)
+
+Repeal the definition.
+
+## 608A  Subsection 3(1)
+
+Insert:
+
+                    <a name="centrelink-program"></a>**_centrelink program_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 609  Subsection 3(1) (definition of _CEO_)
+
+Repeal the definition.
+
+## 610  Subsection 3(1)
+
+Insert:
+
+                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 611  Subsection 3(1) (second definition of _employee_)
+
+Repeal the definition.
+
+## 611A  Subsection 3(1)
+
+Insert:
+
+                    <a name="famili-assist-law"></a>**_family assistance law_** has the same meaning as in the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+## 612  Subsection 3(1)
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 613  Subsection 3(1)
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
+
+## 613A  Subsection 3(1)
+
+Insert:
+
+                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 614  Subsection 3(1) (subpargaraph (b)(iii) of the definition of _protected information_)
+
+Repeal the subparagraph, substitute:
+
+                            (iii)  the Human Services Department.
+
+## 615  Subsection 3(1) (definition of _service arrangements_)
+
+Repeal the definition.
+
+## 615A  Subsection 3(1)
+
+Insert:
+
+                    <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the _Social Security Act 1991_.
+
+## 616  Subsection 338(2)
+
+Omit “CEO”, substitute “Chief Executive Centrelink”.
+
+## 617  Subsection 338(2A)
+
+Repeal the subsection, substitute:
+
+CEO may not subdelegate power under paragraph 355(1)(b)
+
+          (2A)  If the Secretary delegates to the Chief Executive Centrelink the Secretary’s power under paragraph 355(1)(b), the Chief Executive Centrelink cannot, despite section 12 of the _Human Services (Centrelink) Act 1997_, delegate the power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
+
+## 617A  After paragraph 351(2)(da)
+
+Insert:
+
+                   (db)  for the purposes of the family assistance law; or
+
+                   (dc)  for the purposes of the social security law; or
+
+                   (dd)  for the purposes of the _Paid Parental Leave Act 2010_; or
+
+## 617B  Paragraph 355(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  disclose any such information:
+
+                              (i)  to the Secretary of a Department of State of the Commonwealth for the purposes of that Department; or
+
+                             (ii)  to the head of an authority of the Commonwealth for the purposes of that authority; or
+
+                            (iii)  to the Chief Executive Centrelink for the purposes of a centrelink program; or
+
+                            (iv)  to the Chief Executive Medicare for the purposes of a medicare program; or
+
+The following amendment commences on 1 July 2011\. However, the amendment may not commence, _see_ subsection 2(1) (item 7A):
+
+## Schedule 4
+
+## 657  At the end of subsection 351(2) (before the note)
+
+Add:
+
+               ; or (f)  with the express or implied authorisation of the person to whom the information relates.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
