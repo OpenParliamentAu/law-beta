@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00258/Html/b73c3476-fd47-4e69-890a-d7076b78a220_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 15 February 2012
+This compilation was prepared on 23 December 2011
  taking into account amendments up to Act No. 188 of 2011
 
 The text of any of those amendments not in force
@@ -1644,13 +1644,21 @@ Rules are a disallowable instrument
 
              (1)  The Minister may, after consulting the TSRA, appoint a person to act in the office of a member of the TSRA during any period, or during all periods, when the member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister must not appoint a person to act in the office of a member of the TSRA unless, having regard to section 142V, the person is qualified to be elected as a member.
 
              (3)  The appointment of a person to act in the office of a member of the TSRA who is also the Chairperson of the TSRA does not constitute an appointment of the person to act as the Chairperson.
 
              (4)  The appointment of a person to act in the office of a member of the TSRA who is also the Deputy Chairperson of the TSRA does not constitute an appointment of the person to act as the Deputy Chairperson.
+
+             (5)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="143P"></a>143P  Disclosure of interests
 
@@ -1686,7 +1694,7 @@ Members taken to have resigned from TSRA in certain circumstances
 
 the TSRA may, in writing, declare that it is so satisfied.
 
-Member living outside his or her ward in the Torres Strai t area
+Member living outside his or her ward in the Torres Strait area
 
           (1A)  If the TSRA is satisfied that a member of the TSRA for a TSRA ward:
 
@@ -2118,11 +2126,11 @@ Delegation may prohibit sub‑delegation
 
 Application of certain provisions of the Acts Interpretation Act 1901
 
-             (4)  Section 34AA and paragraphs 34AB(1)(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (4)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
 
 Application of certain provisions of the Acts Interpretation Act 1901
 
-             (5)  Section 34A and paragraphs 34AB(1)(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
+             (5)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
 
 ### Division 7—TSRA Chief Executive Officer
 
@@ -2156,7 +2164,7 @@ Application of certain provisions of the Acts Interpretation Act 1901
 
 ##### <a id="144L"></a>144L  Acting TSRA Chief Executive Officer
 
-                   The Minister may, after consulting the TSRA, appoint a person to act as the TSRA Chief Executive Officer:
+             (1)  The Minister may, after consulting the TSRA, appoint a person to act as the TSRA Chief Executive Officer:
 
                      (a)  during a vacancy in the office of TSRA Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
@@ -2164,7 +2172,15 @@ Application of certain provisions of the Acts Interpretation Act 1901
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="144M"></a>144M  Disclosure of interests
 
@@ -2504,7 +2520,7 @@ the Minister must terminate the TSRA Administrator’s appointment.
 
 ##### <a id="144ZP"></a>144ZP  Acting TSRA Administrator
 
-                   The Minister may appoint a person to act as a TSRA Administrator:
+             (1)  The Minister may appoint a person to act as a TSRA Administrator:
 
                      (a)  during a vacancy in an office of TSRA Administrator; or
 
@@ -2512,9 +2528,17 @@ the Minister must terminate the TSRA Administrator’s appointment.
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
-##### <a id="144ZQ"></a>144ZQ  Minister may appoint replacement TSRA Administrator if there is a vacancy in an office of TSRA Administrator
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+##### <a id="144ZQ"></a>144ZQ  Minister may appoint replacement TSRA Administrator if there is a vacancy in an office of TSRA Administrator
 
                    If there is a vacancy in an office of TSRA Administrator caused by the death, resignation or termination of appointment of the TSRA Administrator, the Minister may, by notice in the _Gazette_, appoint a replacement TSRA Administrator to administer the affairs of the TSRA.
 
@@ -2748,8 +2772,6 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  during any period, or during all periods, when the Indigenous Business Australia Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to persons acting as the Indigenous Business Australia Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint an Indigenous Business Australia Director to act as the Deputy Chairperson of the Indigenous Business Australia Board:
 
                      (a)  during a vacancy in the office of Deputy Chairperson of the Board, whether or not an appointment has previously been made to the office; or
@@ -2757,8 +2779,6 @@ Note:          For rules that apply to persons acting as the I
                      (b)  during any period, or during all periods, when the Deputy Chairperson of the Board is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act as an Indigenous Business Australia Director (other than the Chairperson or Deputy Chairperson) of the Indigenous Business Australia Board:
 
@@ -2768,9 +2788,17 @@ Note:          For rules that apply to acting appointments, se
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  The Minister shall not appoint a person to act in an office unless, having regard to section 157, the person could be appointed to that office.
+
+             (5)  Anything done by or in relation to a person purporting to act pursuant to an appointment made under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="164"></a>164  Resignation
 
@@ -2860,7 +2888,7 @@ Indigenous Business Australia Directors remaining at the meeting constitute a qu
 
 ##### <a id="172"></a>172  Acting Indigenous Business Australia Chief Executive Officer
 
-                   The Indigenous Business Australia Board may appoint a person to act as the Indigenous Business Australia Chief Executive Officer:
+             (1)  The Indigenous Business Australia Board may appoint a person to act as the Indigenous Business Australia Chief Executive Officer:
 
                      (a)  during a vacancy in the office of Indigenous Business Australia Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
@@ -2868,7 +2896,15 @@ Indigenous Business Australia Directors remaining at the meeting constitute a qu
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act pursuant to an appointment made under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="172A"></a>172A  Disclosure of interests
 
@@ -3080,9 +3116,9 @@ during the period to which the report relates.
 
              (2)  If Indigenous Business Australia delegates a function or power under subsection (1) to the Indigenous Business Australia Chief Executive Officer, the Indigenous Business Australia Chief Executive Officer may, by writing signed by him or her, sub‑delegate the function or power to a member of the staff of Indigenous Business Australia.
 
-             (3)  Section 34AA and paragraphs 34AB(1)(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (3)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
 
-             (4)  Section 34A and paragraphs 34AB(1)(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
+             (4)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
 
 ##### <a id="191"></a>191  Secrecy
 
@@ -3950,8 +3986,6 @@ Acting Chairperson
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to persons acting as the Indigenous Land Corporation Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
 Acting Deputy Chairperson
 
              (2)  The Minister may appoint an Indigenous Land Corporation Director to act as the Deputy Chairperson of the Indigenous Land Corporation Board:
@@ -3961,8 +3995,6 @@ Acting Deputy Chairperson
                      (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy is not to continue so to act for more than 6 months.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
 Acting Director
 
@@ -3974,11 +4006,21 @@ Acting Director
 
 but a person appointed to act during a vacancy is not to continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
 Eligibility for acting appointment
 
              (4)  The Minister must not appoint a person to act in an office unless, having regard to section 191X, the person could be appointed to that office.
+
+Validation
+
+             (5)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="192F"></a>192F  Disclosure of interests
 
@@ -4118,7 +4160,9 @@ act in accordance with any policies determined, and any directions given, by the
 
 ##### <a id="192P"></a>192P  Acting Indigenous Land Corporation Chief Executive Officer
 
-                   The Indigenous Land Corporation Board may appoint a person to act as the Indigenous Land Corporation Chief Executive Officer:
+Acting appointment
+
+             (1)  The Indigenous Land Corporation Board may appoint a person to act as the Indigenous Land Corporation Chief Executive Officer:
 
                      (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
@@ -4126,7 +4170,17 @@ act in accordance with any policies determined, and any directions given, by the
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="192Q"></a>192Q  Resignation
 
@@ -4198,7 +4252,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00258/Html/b73c3476-fd47-4e69-890a-d7076b78a220_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image002.gif)
 
 where:
 
@@ -4228,7 +4282,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00258/Html/b73c3476-fd47-4e69-890a-d7076b78a220_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image003.gif)
 
 where:
 
@@ -4362,7 +4416,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00258/Html/b73c3476-fd47-4e69-890a-d7076b78a220_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image004.gif)
 
 where:
 
@@ -4412,7 +4466,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00258/Html/b73c3476-fd47-4e69-890a-d7076b78a220_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image005.gif)
 
 where:
 
@@ -4760,7 +4814,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (iii)  section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_;
 
-                            being an offence that relates to this Act, the regulations, the Regional Council election rules or the TSRA election rules.
+                            being an offence that relates to this Act, the regulations, the Regional Council election rules or the TSRA election rules.
 
            (10)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
 
@@ -4886,7 +4940,7 @@ all or any of the powers or functions conferred on the Minister under this Act.
 
              (2)  Subsection (1) does not apply to the power to give directions to Indigenous Business Australia under section 151.
 
-Note 1:       The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note 1:       The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
 Note 2:       See also sections 34AA and 34AB of the _Acts Interpretation Act 1901._
 
@@ -5254,7 +5308,7 @@ _Section 140_
 
              (3)  The jurisdiction of the Court to try election petitions may be exercised by a single judge of the Court.
 
-##### <a id="3"></a>3  Requisites of election petitions
+##### <a id="3"></a>3  Requisites of election petitions
 
                    Subject to clause 5, every election petition shall:
 
@@ -5432,7 +5486,7 @@ is a party to the reference.
 
 ##### <a id="21"></a>21  Powers of Court
 
-                   The powers of the Court in hearing a reference include, but are not limited to, the following powers:
+                   The powers of the Court in hearing a reference include, but are not limited to, the following powers:
 
                      (a)  the powers conferred on the Court under clause 10, so far as they are applicable;
 
@@ -6189,7 +6243,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–25) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1–25) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -9876,22 +9930,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 143M(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 143N</div>
   </td>
   <td>
@@ -10127,7 +10165,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; Nos. 46 and 188, 2011</div>
+    <div>am. No. 32, 2005; No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10239,15 +10277,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; Nos. 46 and 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 144L</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 32, 2005; No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10621,31 +10651,7 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div>S. 144ZP</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 144ZP</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 144ZQ</div>
+    <div>Ss. 144ZP, 144ZQ</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
@@ -11072,15 +11078,7 @@ Part 3A</div>
     <div>S. 162</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; No. 4, 2001; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 162(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 20, 1995; No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11288,15 +11286,7 @@ Part 3A</div>
     <div>S. 172</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; No. 4, 2001; Nos. 46 and 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 172</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 20, 1995; No. 4, 2001; No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11720,7 +11710,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 46 and 188, 2011</div>
+    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12117,22 +12107,6 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 192E(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 192F</div>
   </td>
   <td>
@@ -12302,39 +12276,7 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 192P(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 192P</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 46 and 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 192P</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 192Q, 192R</div>
+    <div>Ss. 192P–192R</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
@@ -13367,14 +13309,6 @@ No. 30, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 200C(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 201</div>
   </td>
   <td>
@@ -13767,6 +13701,136 @@ Schedule 2A</div>
     <div>am. Nos. 1 and 100, 1994; No. 140, 2003; No. 62, 2004; No. 32, 2005; No. 5, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  At the end of subsection 143M(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 2  Subsection 143M(5)
+
+Repeal the subsection.
+
+## 3  Subsection 144F(4)
+
+Omit “paragraphs 34AB(a)”, substitute “paragraphs 34AB(1)(a)”.
+
+## 4  Subsection 144F(5)
+
+Omit “paragraphs 34AB(c)”, substitute “paragraphs 34AB(1)(c)”.
+
+## 5  Subsection 144L(1)
+
+Omit “(1)”.
+
+## 6  At the end of subsection 144L(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 7  Subsection 144L(2)
+
+Repeal the subsection.
+
+## 8  Subsection 144ZP(1)
+
+Omit “(1)”.
+
+## 9  At the end of subsection 144ZP(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 10  Subsection 144ZP(2)
+
+Repeal the subsection.
+
+## 11  At the end of subsection 162(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Indigenous Business Australia Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 12  At the end of subsections 162(2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 13  Subsection 162(5)
+
+Repeal the subsection.
+
+## 14  Subsection 172(1)
+
+Omit “(1)”.
+
+## 15  At the end of subsection 172(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 16  Subsection 172(2)
+
+Repeal the subsection.
+
+## 17  Subsection 190(3)
+
+Omit “paragraphs 34AB(a)”, substitute “paragraphs 34AB(1)(a)”.
+
+## 18  Subsection 190(4)
+
+Omit “paragraphs 34AB(c)”, substitute “paragraphs 34AB(1)(c)”.
+
+## 19  At the end of subsection 192E(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Indigenous Land Corporation Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 20  At the end of subsections 192E(2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 21  Subsection 192E(5)
+
+Repeal the subsection.
+
+## 22  Subsection 192P(1)
+
+Omit “(1)”.
+
+_Note:       The heading to subsection 192P(1) is deleted._
+
+## 23  At the end of subsection 192P(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 24  Subsection 192P(2)
+
+Repeal the subsection.
+
+## 25  Subsection 200C(2) (note 1)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 23 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -15492,7 +15556,7 @@ Indigenous Business Australia must reconsider the refusal and decide whether to 
 
                      (b)  each reference in that section, as so continued in force, to a decision of the Commission were a reference to a like decision made by the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case requires.
 
-## 208  Rights of review of certain repayment decisions made on or after ATSIC abolition day
+## 208  Rights of review of certain repayment decisions made on or after ATSIC abolition day
 
 (1)       An application may be made on or after ATSIC abolition day to the Administrative Appeals Tribunal for a review of:
 
@@ -15776,6 +15840,8 @@ _Social Security and Indigenous Legislation Amendment (Budget and Other Measures
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
