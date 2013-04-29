@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 18 December 2008
- taking into account amendments up to Act No. 149 of 2008
+This compilation was prepared on 4 July 2008
+ taking into account amendments up to Act No. 42 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -360,8 +360,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [356](#356).        Guidelines for exercise of Secretary’s certificate power
 
-[356A](#356A).     Disclosure of information—education expenses tax offset
-
 [357](#357).        Offence—soliciting disclosure of protected information
 
 [358](#358).        Making untrue representations for purpose of soliciting disclosure of protected information
@@ -380,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Student Assistance Act 1973_.
+                   This Act may be cited as the _Student Assistance Act 1973_.
 
 ##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
@@ -524,17 +522,7 @@ and includes a bank.
 
                     <a name="princip-sum"></a>**_principal sum_**, in relation to a financial supplement contract, at a particular time, means the total of the amounts of financial supplement paid under the contract before that time by the relevant participating corporation to the other party to the contract.
 
-                    <a name="protect-inform"></a>**_protected information_** means information about a person that:
-
-                     (a)  has been obtained for the purposes of this Act (including the purposes of the administration of the ABSTUDY scheme); and
-
-                     (b)  is held in the records of:
-
-                              (i)  the Department; or
-
-                             (ii)  a Department administered by a Minister responsible for the administration of the _Social Security Act 1991_; or
-
-                            (iii)  the Agency.
+                    <a name="protect-inform"></a>**_protected information_** means information about a person that has been obtained for the purposes of this Act and is held in the records of the Department of Employment, Education and Training or of the Department of Social Security or of the Agency.
 
                     <a name="rental-properti-loss"></a>**_rental property loss_** has the meaning given by subsection 12ZL(2).
 
@@ -818,7 +806,7 @@ the person is, for the purposes of this section, taken to be undertaking that co
 
                      (b)  a specified greater amount of financial supplement (not being an amount that is greater than the maximum amount of financial supplement that the person is eligible to obtain).
 
-##### <a id="12H"></a>12H  Effect of financial supplement on certain other benefits
+##### <a id="12H"></a>12H  Effect of financial supplement on certain other benefits
 
              (1)  The payment of financial supplement to a person will, as mentioned in subsection 12A(2), reduce the person’s entitlement to certain other benefits under the ABSTUDY scheme in accordance with subsection (2).
 
@@ -1096,13 +1084,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1122,7 +1110,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1146,7 +1134,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image005.gif)
 
              (2)  In subsection (1):
 
@@ -1160,7 +1148,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1172,7 +1160,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1188,7 +1176,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (7)  This section has effect subject to paragraph 12U(2)(c).
 
-##### <a id="12Y"></a>12Y  Indexation amount
+##### <a id="12Y"></a>12Y  Indexation amount
 
                    An indexation amount exists in relation to the contract at a particular time (**_the relevant time_**) if:
 
@@ -1196,7 +1184,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1224,11 +1212,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1302,7 +1290,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image010.gif)
 
 where:
 
@@ -1314,7 +1302,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image011.gif)
 
 where:
 
@@ -1326,7 +1314,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image012.gif)
 
 where:
 
@@ -1348,7 +1336,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1726,7 +1714,7 @@ being a document or information acquired by the officer:
 
 ##### <a id="12ZV"></a>12ZV  Explanation of Division
 
-                   This Division deals with:
+                   This Division deals with:
 
                      (a)  the application of the _Bankruptcy Act 1966_ in relation to rights and liabilities arising under or out of a financial supplement contract; and
 
@@ -1876,7 +1864,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2090,7 +2078,7 @@ When waiver takes effect
 
 Note:          If the Secretary waives the Commonwealth’s right to recover all or part of a debt, the waiver is a permanent bar to recovery of that debt or that part of the debt—that debt or that part of the debt effectively ceases to exist.
 
-##### <a id="43B"></a>43B  Waiver of debt arising from error
+##### <a id="43B"></a>43B  Waiver of debt arising from error
 
 Administrative error
 
@@ -2126,11 +2114,9 @@ Proportion of a debt
 
              (5)  In this section:
 
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this section, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
                     <a name="parent"></a>**_parent_**, in relation to a person, means:
 
-                     (a)  if the person is not an adopted child—a natural parent of the person or someone of whom the person is a child because of the definition of **_child_** in this section; or
+                     (a)  if the person is not an adopted child—a natural parent of the person; or
 
                      (b)  if the person is an adopted child—an adoptive parent of the person.
 
@@ -2196,7 +2182,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image015.gif)
 
 where:
 
@@ -2216,7 +2202,7 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:       The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00659/Html/StudntAssistnceA73_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00280/Html/StudntAssistnceA73_WD02_image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -3192,17 +3178,9 @@ Secretary may require information concerning student assistance benefits
 
                      (c)  whether a student assistance benefit under this Act was payable to a person who has received it; or
 
-                     (d)  the rate of a student assistance benefit that applies or applied to a person; or
-
-                     (e)  for the purposes of the administration of the ABSTUDY scheme—a child’s past or present enrolment, or attendance, at a school.
+                     (d)  the rate of a student assistance benefit that applies or applied to a person.
 
 Note:          A requirement under this section may be sent to a company as well as to a natural person—paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body corporate.
-
-             (2)  In subsection (1), the following terms have the same meaning as in Part 3C (schooling requirements) of the _Social Security (Administration) Act 1999_(see section 124A of that Act):
-
-                     (a)  **_attendance_**(at a school);
-
-                     (b)  **_enrolment_**(at a school).
 
 ##### <a id="344"></a>344  Power to obtain information from a person who owes a debt to the Commonwealth
 
@@ -3296,7 +3274,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (c)  giving evidence;
 
-that the person is required to give or produce to the Department or to an officer for the purposes of this Act (including the purposes of the administration of the ABSTUDY scheme).
+that the person is required to give or produce to the Department or to an officer for the purposes of this Act.
 
 ### Division 3—Confidentiality
 
@@ -3308,7 +3286,7 @@ that the person is required to give or produce to the Department or to an office
 
 Obtaining protected information
 
-             (1)  A person may obtain protected information if the information is obtained for the purposes of this Act or the _Dental Benefits Act 2008_ (including the purposes of the administration of the ABSTUDY scheme).
+             (1)  A person may obtain protected information if the information is obtained for the purposes of this Act or the _Dental Benefits Act 2008_.
 
 Note:          In certain circumstances it is an offence for a person to obtain protected information without authority (see section 352).
 
@@ -3324,7 +3302,7 @@ Disclosure of protected information
 
 if the record, disclosure or use made of the information by the person is made:
 
-                     (d)  for the purposes of this Act (including the purposes of the administration of the ABSTUDY scheme); or
+                     (d)  for the purposes of this Act; or
 
                     (da)  for the purposes of the _Dental Benefits Act 2008_; or
 
@@ -3335,26 +3313,6 @@ Note:          In certain circumstances it is an offence for a
 Child support
 
              (3)  Nothing in this Part prevents a person from disclosing information to another person if the information is disclosed for the purposes of the _Child Support (Assessment) Act 1989_ or the _Child Support (Registration and Collection) Act 1988_.
-
-Protected information about ABSTUDY scheme schooling requirements
-
-             (4)  If protected information relates to the enrolment (or non-enrolment) or the attendance (or non-attendance) of a child at a school, a person may do any of the following:
-
-                     (a)  obtain the information;
-
-                     (b)  make a record of the information;
-
-                     (c)  disclose the information to a person responsible for the operation of the school, or any other school;
-
-                     (d)  otherwise use the information.
-
-             (5)  In subsection (4), the following terms have the same meaning as in Part 3C (schooling requirements) of the _Social Security (Administration) Act 1999_(see section 124A of that Act):
-
-                     (a)  **_attendance_**(at a school);
-
-                     (b)  **_enrolment_**(at a school);
-
-                     (c)  **_person responsible_** (for the operation of a school).
 
 ##### <a id="352"></a>352  Offence—unauthorised access to protected information 
 
@@ -3457,14 +3415,6 @@ Minister may set guidelines
 Disallowable instrument
 
              (2)  A determination made under subsection (1) is a disallowable instrument.
-
-##### <a id="356A"></a>356A  Disclosure of information—education expenses tax offset
-
-             (1)  The Secretary may, for the purposes of the administration of the education expenses tax offset provided by Subdivision 61-M of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation relevant information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under this Act.
-
-             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for purposes relating to the education expenses tax offset provided by Subdivision 61-M of the _Income Tax Assessment Act 1997_.
-
-             (3)  This section does not limit the powers of the Secretary under section 355.
 
 ##### <a id="357"></a>357  Offence—soliciting disclosure of protected information
 
@@ -3619,7 +3569,7 @@ No. 82, p. 4)</div>
     <div>7 May 1982</div>
   </td>
   <td>
-    <div>Part XXXIX (ss. 218–237): 4 June 1982 <i>( a)</i></div>
+    <div>Part XXXIX (ss. 218–237): 4 June 1982 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4640,57 +4590,6 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Education Refund) Act 2008</div>
-  </td>
-  <td>
-    <div>141, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 7, 10): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 40, 41): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Veterans’ Entitlements Legislation Amendment (Schooling Requirements) Act 2008</div>
-  </td>
-  <td>
-    <div>149, 2008</div>
-  </td>
-  <td>
-    <div>11 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 22–28, 34): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 34) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Student Assistance Act 1973_ was amended by Part XXXIX (sections 218–237) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows: 
@@ -4918,7 +4817,7 @@ The amendment history of the _Student Assistance Act 1973_ after renumbering by 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008</div>
+    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6913,31 +6812,7 @@ am. No. 45, 1998</div>
 </tr>
 <tr>
   <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43B</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43C–43F</div>
+    <div>Ss. 43A–43F</div>
   </td>
   <td>
     <div>ad. No. 45, 1998</div>
@@ -7193,12 +7068,18 @@ am. No. 45, 1998</div>
 </tr>
 <tr>
   <td>
-    <div>S. 55A 
-Renumbered s. 55B</div>
+    <div>S. 55A</div>
   </td>
   <td>
-    <div>ad. No. 95, 1991 
-No. 138, 1992 (as am. by No. 43, 1996)</div>
+    <div>ad. No. 95, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered s. 55B ....</div>
+  </td>
+  <td>
+    <div>No. 138, 1992 (as am. by No. 43, 1996)</div>
   </td>
 </tr>
 <tr>
@@ -7222,15 +7103,8 @@ No. 138, 1992 (as am. by No. 43, 1996)</div>
     <div>Part 8</div>
   </td>
   <td>
-    <div>ad. No. 183, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 45, 1998</div>
+    <div>ad. No. 183, 1994 
+rep. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
@@ -12136,7 +12010,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1998; No. 149, 2008</div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
@@ -12248,7 +12122,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1998; No. 149, 2008</div>
+    <div>am. No. 45, 1998</div>
   </td>
 </tr>
 <tr>
@@ -12304,7 +12178,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 155, 1995; No. 29, 1997; No. 45, 1998; Nos. 42 and 149, 2008</div>
+    <div>am. No. 155, 1995; No. 29, 1997; No. 45, 1998; No. 42, 2008</div>
   </td>
 </tr>
 <tr>
@@ -12369,14 +12243,6 @@ rep. No. 45, 1998</div>
   </td>
   <td>
     <div>ad. No. 183, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 356A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2008</div>
   </td>
 </tr>
 <tr>
@@ -13282,28 +13148,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Tax Laws Amendment (Education Refund) Act 2008 (No. 141, 2008)_
-
-## Schedule 1
-
-## 10  Application
-
-The amendments made by this Schedule apply to the 2008-2009 income year and later years.
-
-* * *
-
-_Social Security and Veterans’ Entitlements Legislation Amendment (Schooling Requirements) Act 2008 (No. 149, 2008)_
-
-## Schedule 1
-
-## 34  Payments to which amendments apply
-
-The amendments made by Part 1 of this Schedule apply in relation to a schooling requirement payment (within the meaning of the _Social Security (Administration) Act 1999_ as amended by this Act) whether it is claimed, or granted, before, on or after the day on which the amendments commence.
-
- 
 
 Table showing new Part, Division and section numbers of the _Student Assistance Act 1973_ after renumbering by the _Student Assistance Amendment Act (No. 2) 1989_ (No. 171, 1989).
 
