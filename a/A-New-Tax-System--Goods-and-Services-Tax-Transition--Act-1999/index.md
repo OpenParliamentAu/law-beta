@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00409/Html/AF63BD69F8B9EEF2CA2571A7001C7A99/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image001.gif)
 
 # A New Tax System (Goods and Services Tax Transition) Act 1999
 
 **Act No. 57 of 1999 as amended**
 
-This compilation was prepared on 7 July 2006
-taking into account amendments up to Act No. 73 of 2006
+This compilation was prepared on 30 June 2006
+taking into account amendments up to Act No. 58 of 2006
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -19,125 +19,125 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Schedule(s)                                                                                           1
+[3](#3).            Schedule(s)
 
-[4](#4).            Overview                                                                                             2
+[4](#4).            Overview
 
-[5](#5).            Definitions                                                                                           2
+[5](#5).            Definitions
 
-[6](#6).            Time of supply or acquisition                                                             2
+[6](#6).            Time of supply or acquisition
 
-[6A](#6A).         Trading periods spanning midnight on 30 June 2000                          3
+[6A](#6A).         Trading periods spanning midnight on 30 June 2000
 
 **Part 2—Start of GST**
 
-[7](#7).            Start of GST                                                                                        6
+[7](#7).            Start of GST
 
-[8](#8).            Effect on sales tax                                                                                6
+[8](#8).            Effect on sales tax
 
-[9](#9).            GST registration before 1 July 2000                                                   7
+[9](#9).            GST registration before 1 July 2000
 
-[10](#10).          Invoice or consideration before 1 July 2000                                        7
+[10](#10).          Invoice or consideration before 1 July 2000
 
-[11](#11).          Supply of rights exercisable on or after 1 July 2000                           7
+[11](#11).          Supply of rights exercisable on or after 1 July 2000
 
 **Part 3—Agreements spanning 1 July 2000** 
 
     **Division 1—General**
 
-[12](#12).          Progressive or periodic supplies                                                          9
+[12](#12).          Progressive or periodic supplies
 
-[13](#13).          Existing agreements: no opportunity to review                                 10
+[13](#13).          Existing agreements: no opportunity to review
 
-[14](#14).          Rights granted for life                                                                        12
+[14](#14).          Rights granted for life
 
-[15](#15).          Funeral agreements                                                                            13
+[15](#15).          Funeral agreements
 
     **Division 2—Agreements also spanning 1 July 2005** 
 
         **Subdivision A—Introduction**
 
-[15A](#15A).       Explanation of this Division                                                              14
+[15A](#15A).       Explanation of this Division
 
-[15B](#15B).       Definitions                                                                                         16
+[15B](#15B).       Definitions
 
         **Subdivision B—Payment of GST payable by recipients of supplies**
 
-[15C](#15C).       GST payable by recipients of supplies                                             16
+[15C](#15C).       GST payable by recipients of supplies
 
-[15D](#15D).       Amounts of GST                                                                               18
+[15D](#15D).       Amounts of GST
 
-[15E](#15E).        Rules for recipients who are not registered or required to be registered  18
+[15E](#15E).        Rules for recipients who are not registered or required to be registered
 
-[15F](#15F).        Rule for recipients whose registration is cancelled                            19
+[15F](#15F).        Rule for recipients whose registration is cancelled
 
-[15G](#15G).       Bad debts                                                                                           19
+[15G](#15G).       Bad debts
 
-[15H](#15H).       Tax invoices and adjustment notes                                                    20
+[15H](#15H).       Tax invoices and adjustment notes
 
-[15I](#15I).         Attributing the GST                                                                          20
+[15I](#15I).         Attributing the GST
 
-[15IA](#15IA).      Application of section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_          21
+[15IA](#15IA).      Application of section 36 of the _Taxation Administration Act 1953_
 
         **Subdivision C—Arbitrated offers**
 
-[15J](#15J).        Arbitrated offers                                                                                21
+[15J](#15J).        Arbitrated offers
 
-[15K](#15K).       Initial offer                                                                                         21
+[15K](#15K).       Initial offer
 
-[15L](#15L).        Arbitration                                                                                         22
+[15L](#15L).        Arbitration
 
-[15M](#15M).      Final offer                                                                                          22
+[15M](#15M).      Final offer
 
 **Part 4—Stock on hand on 1 July 2000**
 
-[16](#16).          Special GST credit for sales tax paid on stock                                  24
+[16](#16).          Special GST credit for sales tax paid on stock
 
-[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased    25
+[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased
 
-[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased    26
+[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased
 
-[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid              26
+[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid
 
-[16C](#16C).       Special petroleum credits                                                                   27
+[16C](#16C).       Special petroleum credits
 
-[17](#17).          Stock later applied for private or domestic purpose                         28
+[17](#17).          Stock later applied for private or domestic purpose
 
-[18](#18).          Second-hand goods                                                                            29
+[18](#18).          Second-hand goods
 
 **Part 5—Special transitional rules**
 
-[19](#19).          Construction agreements made before 1 July 2000                           30
+[19](#19).          Construction agreements made before 1 July 2000
 
-[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998           31
+[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998
 
-[19B](#19B).       Sales etc  of cars held on 1 July 2000 for the purpose of rental        31
+[19B](#19B).       Sales etc  of cars held on 1 July 2000 for the purpose of rental
 
-[20](#20).          Phasing in input tax credits for motor vehicles etc                            34
+[20](#20).          Phasing in input tax credits for motor vehicles etc 
 
-[21](#21).          Acupuncture, naturopathy and herbal medicine                                37
+[21](#21).          Acupuncture, naturopathy and herbal medicine
 
-[22](#22).          Event before 1 July 2000 giving rise to claim                                    37
+[22](#22).          Event before 1 July 2000 giving rise to claim
 
-[23](#23).          Input tax credits relating to compulsory third party schemes          38
+[23](#23).          Input tax credits relating to compulsory third party schemes
 
-[24](#24).          Gambling                                                                                            39
+[24](#24).          Gambling
 
-[24A](#24A).       Unredeemed vouchers                                                                        39
+[24A](#24A).       Unredeemed vouchers
 
-[24B](#24B).       Commissioner may make determinations relating to rounding          39
+[24B](#24B).       Commissioner may make determinations relating to rounding
 
-[24C](#24C).       Supplies from certain coin-operated devices may be input taxed     40
+[24C](#24C).       Supplies from certain coin-operated devices may be input taxed
 
 **Part 6—Regulations**
 
-[25](#25).          Regulations                                                                                        41
+[25](#25).          Regulations
 
 **Schedule 1—Amendment of the sales tax law** 
 
@@ -152,7 +152,7 @@ Attorney-General’s Department, Canberra
 
                    This Act may be cited as the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
              (1)  This Act commences, or is taken to have commenced:
 
@@ -386,7 +386,7 @@ Note:          However, section 12 provides a different rule
 
 Note:          However, section 12 provides a different rule for progressive and periodic contracts.
 
-##### <a id="6A"></a>6A  Trading periods spanning midnight on 30 June 2000
+##### 6A  Trading periods spanning midnight on 30 June 2000
 
              (1)  Despite section 6, if:
 
@@ -444,7 +444,7 @@ whichever occurs sooner.
 
 ## Part 2—Start of GST
 
-##### <a id="7"></a>7  Start of GST
+##### <a id="7"></a>7  Start of GST
 
              (1)  GST is only payable on a supply or importation to the extent that it is made on or after 1 July 2000.
 
@@ -668,7 +668,7 @@ subsection (3) has effect as if the reference to 2 December 1998 were a refe
 
              (2)  The following diagram shows how, as a result of this Division and the GST law in general, each of the 3 possible ways to treat the GST on such a taxable supply will apply in particular cases.
 
-![](http://www.comlaw.gov.au/Details/C2006C00409/Html/AF63BD69F8B9EEF2CA2571A7001C7A99/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image002.gif)
 
 ##### <a id="15B"></a>15B  Definitions
 
@@ -718,7 +718,7 @@ subsection (3) has effect as if the reference to 2 December 1998 were a refe
 
                              (ii)  1 July 2005;
 
-                            whichever is later.
+                            whichever is later.
 
              (3)  Subsection (1) does not apply if:
 
@@ -838,9 +838,9 @@ The amount of the increasing adjustment is 10% of the amount paid.
 
              (3)  This section has effect despite section 29-5 of the GST Act (which is about attributing the GST).
 
-##### <a id="15IA"></a>15IA  Application of section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_
+##### <a id="15IA"></a>15IA  Application of section 36 of the _Taxation Administration Act 1953_
 
-                   Section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_ does not apply to a refund under section 35-5 of the GST Act in respect of a tax period to the extent that the refund arises because:
+                   Subsection 36(1) of the _Taxation Administration Act 1953_ does not apply to a refund under section 35-5 of the GST Act in respect of a tax period to the extent that the refund arises because:
 
                      (a)  the GST on a taxable supply was attributable to that tax period and was payable by the supplier; and
 
@@ -900,7 +900,7 @@ whichever happens earlier.
 
              (3)  In this section:
 
-                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** has the same meaning as in Part VB of the _Trade Practices Act 1974_.
+                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** has the same meaning as in Part VB of the _Trade Practices Act 1974_.
 
 ##### <a id="15M"></a>15M  Final offer
 
@@ -1178,7 +1178,7 @@ Amount of the special credit
 
              (8)  However, if the car was covered by an eligible short-term lease, the amount of the special credit is an amount equal to:
 
-![](http://www.comlaw.gov.au/Details/C2006C00409/Html/AF63BD69F8B9EEF2CA2571A7001C7A99/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image003.gif)
 
 where:
 
@@ -1266,7 +1266,7 @@ Note:          Paragraph 48-40(2)(a) of the GST Act prevents s
 
           (4B)  Subsection (2) does not apply if you make the acquisition or importation before 23 May 2001 with the intention of granting an eligible short-term lease. However, the amount of any input tax credit you are entitled to on the acquisition or importation is reduced by an amount equal to:
 
-![](http://www.comlaw.gov.au/Details/C2006C00409/Html/AF63BD69F8B9EEF2CA2571A7001C7A99/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image004.gif)
 
 where:
 
@@ -1294,7 +1294,7 @@ where:
 
            (10)  For the purposes of this section, an importation takes place when it becomes a taxable importation.
 
-##### <a id="21"></a>21  Acupuncture, naturopathy and herbal medicine
+##### 21  Acupuncture, naturopathy and herbal medicine
 
              (1)  Paragraph 38-10(1)(b) of the GST Act does not apply in relation to a supply of a service of:
 
@@ -1338,7 +1338,7 @@ subsection (1) does not apply, and the settlement does not give rise to any ad
 
 subsection (3) does not apply and the settlement does not give rise to any adjustment, and is not a taxable supply, under Division 79 or 80 of the GST Act if the claim was made before 1 July 2000.
 
-##### <a id="23"></a>23  Input tax credits relating to compulsory third party schemes
+##### 23  Input tax credits relating to compulsory third party schemes
 
              (1)  You are not entitled to an input tax credit for:
 
@@ -1398,7 +1398,7 @@ that is specified in the regulations, or that is of a kind specified in the regu
 
              (5)  An entity may apply to the Commissioner in writing for a determination under this section.
 
-Note:          Refusing an application for a determination under this section, and making determinations under this section, are reviewable GST transitional decisions (see Subdivision 110-F in Schedule 1 to the _Taxation Administration Act 1953_).
+Note:          Refusing an application for a determination under this section, and making determinations under this section, are reviewable GST transitional decisions (see Division 7 of Part VI of the _Taxation Administration Act 1953_).
 
              (6)  If one or more taxable supplies, none of which are recorded on an invoice, are recorded on a document that is not an invoice, this section applies as if the document were an invoice.
 
@@ -1730,25 +1730,6 @@ Schedule 1 (item 15): <i>(e)</i>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
-    </td>
-    <td>
-      <div>73, 2006</div>
-    </td>
-    <td>
-      <div>26 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 5 (items 
-138–139): 1 July 2006 ( <i>see</i>s. 2(1)) 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -1892,8 +1873,6 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>How affected</div>
     </td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>
       <div><b>Part 1</b></div>
@@ -1902,6 +1881,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div></div>
     </td>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td>
       <div>S. 5</div>
@@ -2080,26 +2061,10 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 15IA</div>
-    </td>
-    <td>
-      <div>am. No. 73, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 15IA</div>
     </td>
     <td>
       <div>ad. No. 10, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 73, 2006</div>
     </td>
   </tr>
   <tr>
@@ -2300,14 +2265,6 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     </td>
     <td>
       <div>ad. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 24B(5)</div>
-    </td>
-    <td>
-      <div>am. No. 73, 2006</div>
     </td>
   </tr>
   <tr>
