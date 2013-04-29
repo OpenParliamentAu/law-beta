@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00694/Html/a112253a-4319-40d7-8188-b03399015184_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00648/Html/9ee6c9da-36d2-4207-9f9f-099fbdf7a715_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 118 of 2012
+This compilation was prepared on 3 September 2012
+ taking into account amendments up to Act No. 72 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -145,8 +146,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised 
- advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -878,6 +878,70 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [237](#237).        Confidentiality
 
+**Part 13—Financial Reporting Panel** 
+
+    **Division 1—General**
+
+[239AA](#239AA).  Financial Reporting Panel
+
+[239AB](#239AB).  Membership
+
+[239AC](#239AC).  Chairperson
+
+[239AD](#239AD).  Functions and powers of Financial Reporting Panel
+
+[239AE](#239AE).   Term of office as member
+
+[239AF](#239AF).   Term of office as Chairperson
+
+[239AG](#239AG).  Resignation
+
+[239AH](#239AH).  Termination of appointment
+
+[239AI](#239AI).    Remuneration and allowances
+
+[239AJ](#239AJ).   Leave of absence
+
+[239AK](#239AK).  Other terms and conditions
+
+[239AL](#239AL).   Acting Chairperson
+
+[239AM](#239AM). Annual report
+
+    **Division 2—Conduct of Financial Reporting Panel’s business**
+
+[239BA](#239BA).  Constitution of Financial Reporting Panel in relation to particular matters
+
+[239BB](#239BB).   Disclosure of interests by members
+
+[239BC](#239BC).   Application of Division 2 of Part 7
+
+    **Division 3—Financial Reporting Panel proceedings**
+
+[239CA](#239CA).  Interpretation
+
+[239CB](#239CB).   Power to conduct proceedings
+
+[239CC](#239CC).   Financial Reporting Panel proceedings
+
+[239CD](#239CD).  Financial Reporting Panel may restrict publication of certain material
+
+[239CE](#239CE).   Power to summon witnesses and take evidence
+
+[239CF](#239CF).   Quorum
+
+[239CG](#239CG).  No legal representation in proceedings before the Financial Reporting Panel
+
+[239CH](#239CH).  Procedure
+
+[239CI](#239CI).    Protection of members etc 
+
+[239CJ](#239CJ).    Non‑compliance with requirements made under section 239CE
+
+[239CK](#239CK).   Contempt of Financial Reporting Panel
+
+[239CL](#239CL).   Powers of Court where non‑compliance with section 239CE
+
 **Part 14—The Parliamentary Joint Committee on Corporations and Financial Services**
 
 [241](#241).        Membership
@@ -1038,7 +1102,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (c)  to establish a Corporations and Markets Advisory Committee to provide informed and expert advice to the Minister about the content, operation and administration of the corporations legislation (other than the excluded provisions), about corporations and about financial products and financial markets; and
 
-                     (d)  to establish a Takeovers Panel, a Companies Auditors and Liquidators Disciplinary Board, a Financial Reporting Council, an Australian Accounting Standards Board, an Auditing and Assurance Standards Board and a Parliamentary Joint Committee on Corporations and Financial Services.
+                     (d)  to establish a Takeovers Panel, a Companies Auditors and Liquidators Disciplinary Board, a Financial Reporting Council, an Australian Accounting Standards Board, an Auditing and Assurance Standards Board, a Financial Reporting Panel and a Parliamentary Joint Committee on Corporations and Financial Services.
 
              (2)  In performing its functions and exercising its powers, ASIC must strive to:
 
@@ -1206,7 +1270,7 @@ that is conducting, or that has conducted, audits undertaken for the purposes of
 
                              (ii)  is acting, or has acted, in any other capacity on behalf of;
 
-                            the first‑mentioned person.
+                            the first‑mentioned person.
 
                     <a name="engag-conduct"></a>**_engage in conduct_**:
 
@@ -3468,7 +3532,7 @@ the Court may order the person to pay to the Commonwealth such pecuniary penalty
 
                      (b)  a person is not liable to more than one pecuniary penalty under this section in respect of the same conduct.
 
-##### <a id="12GBB"></a>12GBB  Pecuniary penalties and offences
+##### <a id="12GBB"></a>12GBB  Pecuniary penalties and offences
 
              (1)  The Court must not make an order under section 12GBA against a person in relation to either of the following matters (a **_consumer protection breach_**):
 
@@ -3882,7 +3946,7 @@ the Federal Court may, on the application of a party to the proceeding or of its
 
              (5)  An appeal does not lie from a decision of the Federal Court in relation to the transfer of a proceeding under this Division to the Family Court.
 
-##### <a id="12GLA"></a>12GLA  Non‑punitive orders
+##### <a id="12GLA"></a>12GLA  Non‑punitive orders
 
              (1)  The Court may, on application by ASIC, make one or more of the orders mentioned in subsection (2) in relation to a person who has engaged in contravening conduct.
 
@@ -4116,7 +4180,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 State or Territory professional standards law limits liability
 
-             (1)  A professional standards law of a State, the   Australian Capital Territory or the Northern Territory applies to limit occupational liability relating to an action for contravention of section 12DA in the same way as it limits occupational liability arising under a law of the State or Territory.
+             (1)  A professional standards law of a State, the Australian Capital Territory or the Northern Territory applies to limit occupational liability relating to an action for contravention of section 12DA in the same way as it limits occupational liability arising under a law of the State or Territory.
 
 Note:          Section 12DA prohibits misleading or deceptive conduct by a person in relation to financial services.
 
@@ -9437,6 +9501,432 @@ unless the Minister (if the member is the Chair of the AUASB) or the Chair of th
 
                       (f)  is made to a professional accounting body for the purposes of its performance of its functions.
 
+## Part 13—Financial Reporting Panel
+
+### Division 1—General
+
+##### <a id="239AA"></a>239AA  Financial Reporting Panel
+
+                   A Financial Reporting Panel is established.
+
+##### <a id="239AB"></a>239AB  Membership
+
+             (1)  The Financial Reporting Panel consists of such members, not fewer than 5, as hold office in accordance with this Part.
+
+             (2)  The Minister is to appoint the members of the Financial Reporting Panel.
+
+             (3)  Each of the members may be appointed as a full‑time member or as a part‑time member.
+
+             (4)  The Minister must not appoint a person as a member unless the Minister is satisfied that the person is qualified for appointment because of his or her knowledge of, or experience in, one or more of the following fields:
+
+                     (a)  accounting;
+
+                     (b)  auditing;
+
+                     (c)  business;
+
+                     (d)  the administration of companies;
+
+                     (e)  law.
+
+             (5)  The performance of the functions or the exercise of the powers of the Financial Reporting Panel is not affected merely because its membership is not as prescribed by subsection (1), unless a continuous period of 3 months has elapsed since its membership ceased to be as so prescribed.
+
+##### <a id="239AC"></a>239AC  Chairperson
+
+                   The Minister is to appoint as Chairperson of the Financial Reporting Panel a person who is, or is to be, a member.
+
+##### <a id="239AD"></a>239AD  Functions and powers of Financial Reporting Panel
+
+                   The Financial Reporting Panel has the functions and powers conferred on it by or under the Corporations legislation.
+
+##### <a id="239AE"></a>239AE  Term of office as member
+
+             (1)  Subject to this Act, a person appointed as a member holds office for the term specified in the instrument of appointment, but is eligible for re‑appointment.
+
+             (2)  The term specified must not exceed 5 years.
+
+##### <a id="239AF"></a>239AF  Term of office as Chairperson
+
+             (1)  Subject to this Act, a person appointed as Chairperson holds office as such until:
+
+                     (a)  the end of his or her current term as a member; or
+
+                     (b)  he or she otherwise stops being a member;
+
+whichever happens first.
+
+             (2)  A person is not ineligible to be appointed under section 239AC merely because he or she has been so appointed before.
+
+##### <a id="239AG"></a>239AG  Resignation
+
+                   A person may resign as a member or Chairperson by writing signed and delivered to the Minister.
+
+##### <a id="239AH"></a>239AH  Termination of appointment
+
+                   The Minister may terminate a member’s appointment because of misbehaviour, or the physical or mental incapacity, of the member or if the member:
+
+                     (a)  becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or assigns remuneration or property for their benefit; or
+
+                     (b)  is a full‑time member and engages without the Minister’s consent in paid employment outside the duties of the member’s office; or
+
+                     (c)  is a full‑time member and is absent from duty, except on leave granted in accordance with section 239AJ, for 14 consecutive days, or for 28 days in any period of 12 months; or
+
+                     (d)  without reasonable excuse, contravenes section 239BB.
+
+##### <a id="239AI"></a>239AI  Remuneration and allowances
+
+             (1)  A member must be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, a member must be paid such remuneration as the Minister determines in writing.
+
+             (2)  A member must be paid such allowances as the Minister determines in writing.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="239AJ"></a>239AJ  Leave of absence
+
+             (1)  A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+
+             (2)  The Minister may grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+
+##### <a id="239AK"></a>239AK  Other terms and conditions
+
+                   A member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as the Minister determines in writing.
+
+##### <a id="239AL"></a>239AL  Acting Chairperson
+
+             (1)  The Minister may appoint a member to act as Chairperson:
+
+                     (a)  during a vacancy in the office of Chairperson (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during all periods when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+
+             (2)  Anything done by, or in relation to, a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+##### <a id="239AM"></a>239AM  Annual report
+
+             (1)  The Financial Reporting Panel must, as soon as practicable after 30 June, and in any event before 31 October, in each year:
+
+                     (a)  prepare a report describing the operations of the Panel during the year that ended on 30 June in that year; and
+
+                     (b)  give to the Minister a copy of the report.
+
+             (2)  If a copy of a report is given to the Minister under subsection (1), he or she must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after he or she receives the first‑mentioned copy.
+
+### Division 2—Conduct of Financial Reporting Panel’s business
+
+##### <a id="239BA"></a>239BA  Constitution of Financial Reporting Panel in relation to particular matters
+
+             (1)  The Financial Reporting Panel must, for the purposes of the performance or exercise of its functions or powers in relation to a particular matter, be constituted by 3 members in respect of whom a direction is in force under this section in relation to that matter.
+
+             (2)  The Chairperson may give directions about the members (the **_sitting members_**) who are to constitute the Financial Reporting Panel for the purposes of performing or exercising its functions or powers in relation to particular matters.
+
+             (3)  A direction under subsection (2) must:
+
+                     (a)  unless the sitting members include the Chairperson—designate one of them as Chairperson; and
+
+                     (b)  in any case—designate one of the sitting members as Deputy Chairperson;
+
+of the Financial Reporting Panel as constituted in relation to the matter concerned.
+
+             (4)  If the Chairperson gives a direction as to the sitting members, he or she may:
+
+                     (a)  revoke the direction and give a new direction under subsection (2) as to the sitting members; or
+
+                     (b)  vary the direction to replace one or more of the sitting members;
+
+at any time after the giving of the direction and before the commencement of proceedings in relation to the matter.
+
+             (5)  If:
+
+                     (a)  the Chairperson gives a direction as to the sitting members; and
+
+                     (b)  one of those persons:
+
+                              (i)  ceases to be a member; or
+
+                             (ii)  ceases to be available for the purposes of proceedings in relation to a matter;
+
+                            during the proceedings or after the completion of the proceedings but before the report on the matter to which the proceedings relate is finalised;
+
+the Chairperson may vary the direction to replace that person at any time after the person so ceases to be a member or to be available.
+
+##### <a id="239BB"></a>239BB  Disclosure of interests by members
+
+             (1)  If:
+
+                     (a)  a member is, or is to be, a member of the Financial Reporting Panel as constituted for the purposes of the performance or exercise of its functions or powers in relation to a particular matter; and
+
+                     (b)  the member has or acquires any interest, pecuniary or otherwise, that could conflict with the proper performance of the member’s functions in relation to that matter;
+
+the member:
+
+                     (c)  must disclose the interest to the Chairperson and to the parties involved in the matter; and
+
+                     (d)  except with the Chairperson’s consent, must not take part in the performance or exercise of the Financial Reporting Panel’s functions or powers in relation to the matter.
+
+             (2)  The Chairperson must not, under paragraph (1)(d), consent to a member taking part in the performance or exercise of the Financial Reporting Panel’s functions or powers in relation to a matter unless the Chairperson believes, on reasonable grounds, that the member’s interest:
+
+                     (a)  is immaterial or indirect; and
+
+                     (b)  will not prevent the member from acting impartially in relation to the matter.
+
+             (3)  If the Chairperson becomes aware that a member who is, or is to be, a member of the Financial Reporting Panel (as constituted for the purposes of the performance or exercise of its functions or powers in relation to a particular matter) has, in relation to that matter, an interest of the kind referred to in subsection (1):
+
+                     (a)  the Chairperson must revoke the direction given under subsection 239BA(2) in relation to the matter unless the Chairperson believes, on reasonable grounds, that the member’s interest:
+
+                              (i)  is immaterial or indirect; and
+
+                             (ii)  will not prevent the member from acting impartially in relation to the matter; or
+
+                     (b)  if the Chairperson is not required to revoke that direction under paragraph (a), the Chairperson must cause the member’s interest to be disclosed to the parties involved in the matter.
+
+##### <a id="239BC"></a>239BC  Application of Division 2 of Part 7
+
+                   Division 2 of Part 7 applies in relation to the Financial Reporting Panel as if a reference in section 127 to ASIC included a reference to the Financial Reporting Panel.
+
+### Division 3—Financial Reporting Panel proceedings
+
+##### <a id="239CA"></a>239CA  Interpretation
+
+             (1)  For the purposes of the performance or exercise, in relation to a particular matter, of any of the Financial Reporting Panel’s functions and powers, this Division has effect as if:
+
+                     (a)  a reference to the Financial Reporting Panel were a reference to the Financial Reporting Panel as constituted in relation to that matter; and
+
+                     (b)  a reference to a member were a reference to a member of the Financial Reporting Panel as so constituted; and
+
+                     (c)  if the Chairperson is not a member of the Financial Reporting Panel as so constituted—a reference to the Chairperson were a reference to the member designated, in a direction in force under subsection 239BA(2), as the Chairperson of the Financial Reporting Panel as so constituted; and
+
+                     (d)  a reference to the Deputy Chairperson were a reference to the member designated, in a direction in force under subsection 239BA(2), as Deputy Chairperson of the Financial Reporting Panel as so constituted.
+
+             (2)  A reference in this Division to Financial Reporting Panel proceedings includes a reference to a part of the Financial Reporting Panel proceedings.
+
+##### <a id="239CB"></a>239CB  Power to conduct proceedings
+
+             (1)  The Financial Reporting Panel may conduct proceedings for the purposes of the performance or exercise of any of its functions and powers.
+
+             (2)  The Chairperson may convene proceedings to be held at a place and time he or she determines.
+
+##### <a id="239CC"></a>239CC  Financial Reporting Panel proceedings
+
+Proceedings in private
+
+             (1)  Subject to subsection (2), the Financial Reporting Panel’s proceedings must take place in private.
+
+Proceedings in public
+
+             (2)  The proceedings must take place in public if the lodging entity requests the Panel, in writing, that the proceedings take place in public. This subsection has effect subject to any directions under subsection (3).
+
+Part of proceedings in private or publication restrictions
+
+             (3)  The Financial Reporting Panel may give directions under subsection (4) if:
+
+                     (a)  the proceedings are taking place in public at the request of the lodging entity under subsection (2); and
+
+                     (b)  the Financial Reporting Panel is satisfied that it is desirable to do so:
+
+                              (i)  because of the confidential nature of any evidence or matter; or
+
+                             (ii)  in order to protect the interests of any other person.
+
+             (4)  The Financial Reporting Panel may:
+
+                     (a)  direct that a part of the proceedings take place in private; and
+
+                     (b)  give directions as to the persons who may be present at that part of the proceedings if it is to take place in private.
+
+A reference in this section to proceedings that take place in private includes a reference to that part of the proceedings that takes place in private because of a direction under paragraph (a).
+
+Who may be present at proceedings taking place in private
+
+             (5)  The Financial Reporting Panel may give directions as to the persons who may be present at proceedings that take place in private.
+
+             (6)  A person must not be present at proceedings that take place in private unless the person is:
+
+                     (a)  the Chairperson; or
+
+                     (b)  a member of the Financial Reporting Panel; or
+
+                     (c)  a person representing the lodging entity; or
+
+                     (d)  another person who is entitled to be given an opportunity to appear at the proceedings; or
+
+                     (e)  a person representing ASIC; or
+
+                      (f)  a member of the staff of the Financial Reporting Panel approved by the Panel; or
+
+                     (g)  entitled to be present because of a direction under subsection (4).
+
+                    Penalty:  10 penalty units.
+
+             (7)  An offence against subsection (6) is an offence of strict liability.
+
+Note:          For **_strict liability_** see section 6.1 of the _Criminal Code_.
+
+ASIC and person entitled to appear
+
+             (8)  Nothing in a direction given by the Financial Reporting Panel under paragraph (3)(a) or subsection (6) prevents the presence at the proceedings of:
+
+                     (a)  a person representing ASIC; or
+
+                     (b)  a person who is entitled to be given an opportunity to appear at the proceedings.
+
+Note:          Although ASIC is entitled to have a representative at the proceedings, it is not entitled to be legally represented (see section 239CG).
+
+             (9)  The Financial Reporting Panel may revoke or vary a direction given under subsection (4).
+
+##### <a id="239CD"></a>239CD  Financial Reporting Panel may restrict publication of certain material
+
+             (1)  If, during Financial Reporting Panel proceedings, the Panel is satisfied that it is desirable to do so, the Panel may give directions preventing or restricting the publication of:
+
+                     (a)  submissions or evidence made or given to the Panel; or
+
+                     (b)  matters contained in documents lodged with the Panel.
+
+             (2)  In determining whether or not to give a direction under subsection (1), the Financial Reporting Panel must have regard to:
+
+                     (a)  whether:
+
+                              (i)  submissions or evidence made or given, or that may be made or given; or
+
+                             (ii)  a matter that has arisen or may arise;
+
+                            during the proceedings is of a confidential nature or relates to the commission, or to the alleged or suspected commission, of an offence against an Australian law; and
+
+                     (b)  any unfair prejudice to a person’s reputation that would be likely to be caused unless the Panel exercises its powers under this section; and
+
+                     (c)  whether it is in the public interest that the Panel exercises its powers under this section; and
+
+                     (d)  any other relevant matter.
+
+             (3)  A person must not contravene a direction given under subsection (1).
+
+                    Penalty:  50 penalty units or imprisonment for 1 year, or both.
+
+             (4)  An offence constituted by a contravention of subsection (3) is punishable on summary conviction.
+
+             (5)  The Financial Reporting Panel may revoke or vary a direction given under subsection (1).
+
+##### <a id="239CE"></a>239CE  Power to summon witnesses and take evidence
+
+             (1)  A member may, by written summons in the prescribed form given to a person to whom subsection (2) applies:
+
+                     (a)  require the person to appear before the Financial Reporting Panel at Financial Reporting Panel proceedings to give evidence, to produce specified documents, or to do both; and
+
+                     (b)  require the person to attend from day to day unless excused, or released from further attendance, by a member.
+
+Note:          Failure to comply with a requirement made under this subsection is an offence (see section 239CJ).
+
+             (2)  This subsection applies to:
+
+                     (a)  a staff member of ASIC; or
+
+                     (b)  an officer of the lodging entity; or
+
+                     (c)  the auditor, or a professional member of the audit team, for the audit of the relevant financial report; or
+
+                     (d)  any other person involved in preparing, or auditing, the relevant financial report for or on behalf of the lodging entity.
+
+             (3)  In Financial Reporting Panel proceedings, the Financial Reporting Panel may take evidence on oath or affirmation, and for that purpose a member may:
+
+                     (a)  require a witness in the proceedings to either take an oath or make an affirmation; and
+
+                     (b)  administer an oath or affirmation to a witness in the proceedings.
+
+Note:          Failure to comply with a requirement made under this subsection is an offence (see section 239CJ).
+
+             (4)  The oath or affirmation to be taken or made by a person for the purposes of this section is an oath or affirmation that the evidence the person will give will be true.
+
+             (5)  The member presiding at Financial Reporting Panel proceedings:
+
+                     (a)  may require a witness in the proceedings to answer a question put to the witness; and
+
+                     (b)  may require a person appearing in the proceedings pursuant to a summons issued under this section to produce a document specified in the summons.
+
+Note:          Failure to comply with a requirement made under this subsection is an offence (see section 239CJ).
+
+             (6)  The Financial Reporting Panel may pay such amount as it thinks reasonable on account of the costs and expenses (if any) that a person (other than a staff member of ASIC) incurs in complying with a requirement made under this section.
+
+##### <a id="239CF"></a>239CF  Quorum
+
+                   In Financial Reporting Panel proceedings, 2 members form a quorum.
+
+##### <a id="239CG"></a>239CG  No legal representation in proceedings before the Financial Reporting Panel
+
+             (1)  Unless the Financial Reporting Panel otherwise determines, a party to Financial Reporting Panel proceedings is not to be legally represented in the proceedings.
+
+             (2)  For the purposes of this section, ASIC is taken to be a party to the proceedings.
+
+             (3)  The Financial Reporting Panel may revoke or vary a determination made under subsection (1).
+
+##### <a id="239CH"></a>239CH  Procedure
+
+             (1)  Subject to subsections (2) to (4), the Financial Reporting Panel may determine the procedural rules to be followed in Financial Reporting Panel proceedings.
+
+             (2)  Financial Reporting Panel proceedings are to be conducted in accordance with (in order of priority):
+
+                     (a)  the requirements of this Division and the Corporations Act; and
+
+                     (b)  the requirements of the regulations.
+
+             (3)  Without limiting paragraph (2)(b), the regulations may deal with:
+
+                     (a)  the people who are entitled to be given the opportunity to appear in Financial Reporting Panel proceedings; and
+
+                     (b)  making submissions or giving evidence in Financial Reporting Panel proceedings; and
+
+                     (c)  the matters that the Financial Reporting Panel is to take into account when making a decision in the course of Financial Reporting Panel proceedings.
+
+             (4)  The rules of procedural fairness, to the extent that they are not inconsistent with the provisions of this Act or the regulations made under it, apply to Financial Reporting Panel proceedings.
+
+##### <a id="239CI"></a>239CI  Protection of members etc.
+
+             (1)  A member has, in the performance or exercise of any of his or her functions and powers as a member in relation to Financial Reporting Panel proceedings, the same protection and immunity as a Justice of the High Court.
+
+             (2)  Subject to this Act:
+
+                     (a)  a person who is required by a summons under section 239CE to appear in Financial Reporting Panel proceedings; or
+
+                     (b)  a witness in Financial Reporting Panel proceedings;
+
+has the same protection as a witness in a proceeding in the High Court.
+
+##### <a id="239CJ"></a>239CJ  Non‑compliance with requirements made under section 239CE
+
+             (1)  A person must not fail to comply with a requirement made under subsection 239CE(1), (3) or (5).
+
+                    Penalty:  10 penalty units.
+
+             (2)  An offence against subsection (1) is an offence of strict liability.
+
+Note:          For **_strict liability_** see section 6.1 of the _Criminal Code_.
+
+##### <a id="239CK"></a>239CK  Contempt of Financial Reporting Panel
+
+             (1)  A person must not:
+
+                     (a)  engage in conduct that results in the obstruction or hindering of the Financial Reporting Panel or a member in the performance or exercise of any of the Financial Reporting Panel’s functions and powers; or
+
+                     (b)  engage in conduct that results in the disruption of Financial Reporting Panel proceedings.
+
+                    Penalty:  50 penalty units or imprisonment for 1 year, or both.
+
+             (2)  An offence constituted by a contravention of subsection (1) is punishable on summary conviction.
+
+##### <a id="239CL"></a>239CL  Powers of Court where non‑compliance with section 239CE
+
+             (1)  This section applies if the Financial Reporting Panel, as constituted for the purposes of particular Financial Reporting Panel proceedings, is satisfied that a person has failed to comply with a requirement made under section 239CE in, or in relation to, those proceedings.
+
+             (2)  A member of the Financial Reporting Panel as so constituted may by writing certify the failure to the Court.
+
+             (3)  If a member of the Financial Reporting Panel does so, the Court may inquire into the case and may order the person to comply with the requirement as specified in the order.
+
 ## Part 14—The Parliamentary Joint Committee on Corporations and Financial Services
 
 ##### <a id="241"></a>241  Membership
@@ -11499,23 +11989,6 @@ Schedule 1 (item 256A): 1 July 2012</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Legislation Amendment (Financial Reporting Panel) Act 2012</div>
-  </td>
-  <td>
-    <div>118, 2012</div>
-  </td>
-  <td>
-    <div>12 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 1 Oct 2012 ( <i>see</i>F2012L01962)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 34) of the _Statute Law Revision Act 2005_ provides as follows:
@@ -11951,7 +12424,7 @@ _(f)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 1</div>
   </td>
   <td>
-    <div>am. No. 122, 2001; No. 103, 2004; No. 118, 2012</div>
+    <div>am. No. 122, 2001; No. 103, 2004</div>
   </td>
 </tr>
 <tr>
@@ -15281,6 +15754,14 @@ Part 12</div>
 </tr>
 <tr>
   <td>
+    <div><b>Part 13</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Part 13</div>
   </td>
   <td>
@@ -15289,10 +15770,10 @@ Part 12</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>rep. No. 118, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -15305,10 +15786,10 @@ Part 12</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>rep. No. 118, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -15321,10 +15802,10 @@ Part 12</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>rep. No. 118, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -15333,14 +15814,6 @@ Part 12</div>
   </td>
   <td>
     <div>ad. No. 103, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2012</div>
   </td>
 </tr>
 <tr>
