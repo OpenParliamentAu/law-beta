@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00381/Html/DB3EC778A41D356ECA25702600138E59/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00310/Html/8DEAEA8CB7C1B84BCA256FE800018E53/$FILE/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
-**Act No. 71 of 1990 as amended**
+**Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 1 July 2005
-taking into account amendments up to Act No. 45 of 2005
+This compilation was prepared on 15 April 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -22,94 +22,92 @@ Canberra
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title _see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-**Part 2—Remuneration and allowances**
+**Part 2—Remuneration and allowances**
 
-[3](#3).            Operation of Part                                                                                 2
+[3](#3).            Operation of Part
 
-[3A](#3A).         Operation of Remuneration Tribunal Determination                          3
+[3A](#3A).         Operation of Remuneration Tribunal Determination
 
-[4](#4).            Remuneration and allowances of holders of judicial offices etc           3
+[4](#4).            Remuneration and allowances of holders of judicial offices etc 
 
-[5](#5).            Remuneration and allowances of Secretaries of Departments and holders of public offices   3
+[5](#5).            Remuneration and allowances of Secretaries of Departments and holders of public offices
 
-[6](#6).            Remuneration and allowances of Senators and Members of the House of Representatives   3
+[6](#6).            Remuneration and allowances of Senators and Members of the House of Representatives
 
-[7](#7).            Ministers and office holders of the Parliament                                    3
+[7](#7).            Ministers and office holders of the Parliament
 
-[8](#8).            Appropriation                                                                                     3
+[8](#8).            Appropriation
 
-[8A](#8A).         Regulations                                                                                          3
+[8A](#8A).         Regulations
 
-**Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
+**Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
 
-**Schedule 1—Holders of Judicial and other offices** 
+**Schedule 1—Holders of Judicial and other offices** 
 
-**Part 1** 
+**Part 1** 
 
-**Part 2** 
+**Part 2** 
 
-**Part 3** 
+**Part 3** 
 
-**Part 4** 
+**Part 4** 
 
-**Part 5** 
+**Part 5** 
 
-**Schedule 2—Secretaries of Departments and holders of public offices** 
+**Schedule 2—Secretaries of Departments and holders of public offices** 
 
-**Part 1—Secretaries of Departments of State** 
+**Part 1—Secretaries of Departments of State** 
 
-    **Salaries** 
+**Part 2—Secretaries of Parliamentary Departments** 
 
-**Part 2—Secretaries of Parliamentary Departments** 
+**Part 3—Full-time holders of public offices** 
 
-**Part 3—Full-time holders of public offices** 
-
-**Schedule 3—Senators and Members of the House of Representatives** 
+**Schedule 3—Senators and Members of the House of Representatives** 
 
 **Part 1—Annual salary** 
 
     **Division 1—Amount of annual salary**
 
-[1](#1).            Salaries                                                                                               15
+[1](#1).            Salaries
 
     **Division 2—Salary sacrifice**
 
-[1A](#1A).         Definitions                                                                                         16
+[1A](#1A).         Definitions
 
-[1B](#1B).         Meaning of _complying superannuation fund_                                     17
+[1B](#1B).         Meaning of _complying superannuation fund_
 
-[1C](#1C).         When may a person elect to salary sacrifice?                                    17
+[1C](#1C).         When may a person elect to salary sacrifice?
 
-[1D](#1D).         The nature of the salary sacrifice election                                         18
+[1D](#1D).         The nature of the salary sacrifice election
 
-[1E](#1E).          How to make an election                                                                   18
+[1E](#1E).          How to make an election
 
-[1F](#1F).          Duration of an election                                                                      19
+[1F](#1F).          Duration of an election
 
-[1G](#1G).         Effect of an election                                                                           19
+[1G](#1G).         Effect of an election
 
-[1H](#1H).         Variation of an election                                                                      20
+[1H](#1H).         Variation of an election
 
-[1I](#1I).           Revocation of an election                                                                   21
+[1I](#1I).           Revocation of an election
 
 **Part 2—Electorate and other allowances**
 
-[2](#2).            Electorate allowance                                                                          23
+[2](#2).            Electorate allowance
 
-[3](#3).            Other allowances                                                                               23
+[3](#3).            Other allowances
 
-**Schedule 4—Ministers and office holders of the Parliament** 
+**Schedule 4—Ministers and office holders of the Parliament** 
 
 **Notes** 
 
 
 ## An Act relating to certain remuneration and allowances
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
@@ -117,57 +115,57 @@ Canberra
 
 ##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
-             (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+             (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-             (2)  Part 3 commences on 1 July 1990.
+             (2)  Part 3 commences on 1 July 1990.
 
-## Part 2—Remuneration and allowances
+## Part 2—Remuneration and allowances
 
 ##### <a id="3"></a>3  Operation of Part
 
              (1)  This Part has effect in spite of:
 
-                     (a)  anything in any Determination of the Remuneration Tribunal made on or before 1 June 1990; or
+                     (a)  anything in any Determination of the Remuneration Tribunal made on or before 1 June 1990; or
 
-                     (b)  any provision of an Act, being a provision providing for the remuneration or allowances of the holder of an office to be determined by the Remuneration Tribunal (including section 21 of the _Workplace Relations Act 1996_); or
+                     (b)  any provision of an Act, being a provision providing for the remuneration or allowances of the holder of an office to be determined by the Remuneration Tribunal (including section 21 of the _Workplace Relations Act 1996_); or
 
                      (c)  any provision in the _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_ that is inconsistent with this Part.
 
-             (2)  Where, after 1 June 1990, the Remuneration Tribunal has made, or makes, a Determination that is inconsistent with a provision of this Act (other than clause 1 of Schedule 3):
+             (2)  Where, after 1 June 1990, the Remuneration Tribunal has made, or makes, a Determination that is inconsistent with a provision of this Act (other than clause 1 of Schedule 3):
 
-                     (a)  subject to subsection (3), the Determination operates according to its terms in spite of the provision of this Act; and
+                     (a)  subject to subsection (3), the Determination operates according to its terms in spite of the provision of this Act; and
 
                      (b)  the provision of this Act ceases to operate.
 
-             (3)  A Determination referred to in subsection (2) that purports to take effect from a day earlier than 1 June 1990 takes effect on 1 June 1990.
+             (3)  A Determination referred to in subsection (2) that purports to take effect from a day earlier than 1 June 1990 takes effect on 1 June 1990.
 
-             (4)  Where a resolution disapproving of a Determination referred to in subsection (2) is passed as mentioned in subsection 7(8) of the _Remuneration Tribunal Act 1973_, the provision of the Act overriden by the Determination operates with effect from the day on which the resolution is passed.
+             (4)  Where a resolution disapproving of a Determination referred to in subsection (2) is passed as mentioned in subsection 7(8) of the _Remuneration Tribunal Act 1973_, the provision of the Act overriden by the Determination operates with effect from the day on which the resolution is passed.
 
              (5)  Nothing in this Part affects the operation of:
 
                      (a)  the _Parliamentary Entitlements Act 1990_; or
 
-                     (b)  Determinations Nos. 15, 16 and 22 of 1989 of the Remuneration Tribunal dated 16 November 1989.
+                     (b)  Determinations Nos. 15, 16 and 22 of 1989 of the Remuneration Tribunal dated 16 November 1989.
 
 ##### <a id="3A"></a>3A  Operation of Remuneration Tribunal Determination
 
-                   Determination No. 12 of 1994 of the Remuneration Tribunal, dated 30 June 1994, does not operate on or after the date of commencement of this section.
+                   Determination No. 12 of 1994 of the Remuneration Tribunal, dated 30 June 1994, does not operate on or after the date of commencement of this section.
 
 ##### <a id="4"></a>4  Remuneration and allowances of holders of judicial offices etc.
 
-                   The holders of the offices specified in Schedule 1 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 1 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="5"></a>5  Remuneration and allowances of Secretaries of Departments and holders of public offices
 
-                   The holders of the offices specified in Schedule 2 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 2 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="6"></a>6  Remuneration and allowances of Senators and Members of the House of Representatives
 
-                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="7"></a>7  Ministers and office holders of the Parliament
 
-                   The holders of the offices specified in Schedule 4 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 4 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="8"></a>8  Appropriation
 
@@ -182,28 +180,26 @@ Canberra
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 
-## Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)
+## Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on SCALEplus and ComLaw.
+The amendments made by this Part are incorporated in the compilation on SCALEplus and ComLaw of the _Workplace Relations Act 1996._
 
- _Workplace Relations Act 1996._
-
-For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.</div>
+For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.</div>
 
 
-# Schedule 1—Holders of Judicial and other offices
+# Schedule 1—Holders of Judicial and other offices
 
-_Section 4_
+_Section 4_
 
-1.    In respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 11 of the Remuneration Tribunal dated 23 May 1990 had not been made.
+1.    In respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 11 of the Remuneration Tribunal dated 23 May 1990 had not been made.
 
-2.    In respect of periods from or after 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below with effect from the dates specified.
+2.    In respect of periods from or after 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below with effect from the dates specified.
 
-## Part 1
+## Part 1
 
 <table>
 <colgroup>
@@ -215,31 +211,23 @@ _Section 4_
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td colspan="2">
-      <div>
-        <b>Rate per annum of Salary</b>
-      </div>
+      <div><b>Rate per annum of Salary</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div><b>Office</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.90</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.7.90</b></div>
+      <div><b>$</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.1.91</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.1.91</b></div>
+      <div><b>$</b></div>
     </td>
   </tr>
 </thead>
@@ -268,7 +256,7 @@ _Section 4_
   </tr>
 </tbody></table>
 
-## Part 2
+## Part 2
 
 <table>
 <colgroup>
@@ -280,31 +268,23 @@ _Section 4_
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td colspan="2">
-      <div>
-        <b>Rate per annum of Salary</b>
-      </div>
+      <div><b>Rate per annum of Salary</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div><b>Office</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.90</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.7.90</b></div>
+      <div><b>$</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.1.91</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.1.91</b></div>
+      <div><b>$</b></div>
     </td>
   </tr>
 </thead>
@@ -421,7 +401,7 @@ _Section 4_
   </tr>
 </tbody></table>
 
-## Part 3
+## Part 3
 
 <table>
 <colgroup>
@@ -433,31 +413,23 @@ _Section 4_
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td colspan="2">
-      <div>
-        <b>Rate per annum of Salary</b>
-      </div>
+      <div><b>Rate per annum of Salary</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div><b>Office</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.90</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.7.90</b></div>
+      <div><b>$</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.1.91</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.1.91</b></div>
+      <div><b>$</b></div>
     </td>
   </tr>
 </thead>
@@ -505,7 +477,7 @@ _Section 4_
   </tr>
 </tbody></table>
 
-## Part 4
+## Part 4
 
 <table>
 <colgroup>
@@ -518,37 +490,27 @@ _Section 4_
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td colspan="3">
-      <div>
-        <b>Rate per annum of Salary</b>
-      </div>
+      <div><b>Rate per annum of Salary</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div><b>Office</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.90</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.7.90</b></div>
+      <div><b>$</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.1.91</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.1.91</b></div>
+      <div><b>$</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.91</b>
-      </div>
-      <div>$</div>
+      <div><b>from 1.7.91</b></div>
+      <div><b>$</b></div>
     </td>
   </tr>
 </thead>
@@ -583,7 +545,7 @@ _Section 4_
   </tr>
 </tbody></table>
 
-## Part 5
+## Part 5
 
 <table>
 <colgroup>
@@ -594,24 +556,18 @@ _Section 4_
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of Salary</b>
-      </div>
+      <div><b>Rate per annum of Salary</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div><b>Office</b></div>
     </td>
     <td>
-      <div>
-        <b>from 1.7.90 $</b>
-      </div>
+      <div><b>from 1.7.90 $</b></div>
     </td>
   </tr>
 </thead>
@@ -648,38 +604,38 @@ A Judge who is also Aboriginal Land Commissioner, Chairman of the Australian Ele
 
 4.    <u>High Court </u><u>Canberra</u><u> Allowance</u>
 
-An allowance at the rate of $16,524 per annum is payable from 5 December 1989 to the Chief Justice and Justices of the High Court of Australia who do not establish their places of residence in Canberra.
+An allowance at the rate of $16,524 per annum is payable from 5 December 1989 to the Chief Justice and Justices of the High Court of Australia who do not establish their places of residence in Canberra.
 
 5.    <u>Travelling Allowance</u>
 
-The rates and conditions of payment of travelling allowance for holders of offices specified in Parts 1 and 2 of clause 2, President of the Administrative Appeals Tribunal, President of the Australian Competition Tribunal, President of the Law Reform Commission, President of the Australian Industrial Relations Commission and Deputy Presidents of the Australian Industrial Relations Commission are as determined in Determination No. 3 of 1990 of the Remuneration Tribunal. The rates of payment of travelling allowance for Commissioners of the Australian Industrial Relations Commission are as determined in Determination No. 18 of 1989 of the Remuneration Tribunal. Other office holders are to have the same rates and conditions of payment of travelling allowance as are determined in clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+The rates and conditions of payment of travelling allowance for holders of offices specified in Parts 1 and 2 of clause 2, President of the Administrative Appeals Tribunal, President of the Australian Competition Tribunal, President of the Law Reform Commission, President of the Australian Industrial Relations Commission and Deputy Presidents of the Australian Industrial Relations Commission are as determined in Determination No. 3 of 1990 of the Remuneration Tribunal. The rates of payment of travelling allowance for Commissioners of the Australian Industrial Relations Commission are as determined in Determination No. 18 of 1989 of the Remuneration Tribunal. Other office holders are to have the same rates and conditions of payment of travelling allowance as are determined in clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
 6.    <u>National Wage Case Adjustments</u>
 
-The rates of salary specified in clause 2 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
+The rates of salary specified in clause 2 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
 
 7.    <u>Annual Leave Loading</u>
 
 An annual leave loading is payable to:
 
-(a)   the holder of an office specified in Part 4 of clause 2; and
+(a)   the holder of an office specified in Part 4 of clause 2; and
 
 (b)   the holder of an office of Commissioner, Australian Industrial Relations Commission;
 
 on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
 
 
-# Schedule 2—Secretaries of Departments and holders of public offices
+# Schedule 2—Secretaries of Departments and holders of public offices
 
-_Section 5_
+_Section 5_
 
-              1.  Subject to clause 2, in respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 12 of the Remuneration Tribunal dated 23 May 1990 had not been made.
+              1.  Subject to clause 2, in respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 12 of the Remuneration Tribunal dated 23 May 1990 had not been made.
 
               2.   (1)  In respect of the period:
 
                      (a)  starting when a holder of an office specified in this clause was appointed to that office; and
 
-                     (b)  ending on 30 June 1990;
+                     (b)  ending on 30 June 1990;
 
 the holder of that office is taken to have been, and to be, entitled to salary at the rate set out below.
 
@@ -695,11 +651,9 @@ the holder of that office is taken to have been, and to be, entitled to salary a
       <div>Office</div>
     </td>
     <td>
-      <div>Rate per annum of salary
-
-$
-
-      </div>
+      <div>Rate per annum of salary 
+$ 
+</div>
     </td>
   </tr>
 </thead>
@@ -738,13 +692,13 @@ $
   </tr>
 </tbody></table>
 
-             (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+             (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
-             (3)  The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+             (3)  The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
-3.    With effect from 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below.
+3.    With effect from 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below.
 
-## Part 1—Secretaries of Departments of State
+## Part 1—Secretaries of Departments of State
 
 ### Salaries 
 
@@ -760,11 +714,9 @@ $
       <div>Departments of State</div>
     </td>
     <td>
-      <div>Rate per annum of salary
-
-$
-
-      </div>
+      <div>Rate per annum of salary 
+$ 
+</div>
     </td>
   </tr>
 </thead>
@@ -819,8 +771,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>The Secretary to the Department of the Arts, Sport, the Environment, Tourism
-        and Territories</div>
+      <div>The Secretary to the Department of the Arts, Sport, the Environment, Tourism and Territories</div>
     </td>
     <td>
       <div>117,258</div>
@@ -868,8 +819,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>The Secretary to the Department of Immigration, Local Government and Ethnic
-        Affairs</div>
+      <div>The Secretary to the Department of Immigration, Local Government and Ethnic Affairs</div>
     </td>
     <td>
       <div>117,258</div>
@@ -917,7 +867,7 @@ $
   </tr>
 </tbody></table>
 
-## Part 2—Secretaries of Parliamentary Departments
+## Part 2—Secretaries of Parliamentary Departments
 
 <table>
 <colgroup>
@@ -931,11 +881,9 @@ $
       <div>Parliamentary Departments</div>
     </td>
     <td>
-      <div>Rate per annum of Salary
-
-$
-
-      </div>
+      <div>Rate per annum of Salary 
+$ 
+</div>
     </td>
   </tr>
 </thead>
@@ -958,7 +906,7 @@ $
   </tr>
 </tbody></table>
 
-## Part 3—Full-time holders of public offices
+## Part 3—Full-time holders of public offices
 
 <table>
 <colgroup>
@@ -972,11 +920,9 @@ $
       <div>Office</div>
     </td>
     <td>
-      <div>Rate per annum of Salary
-
-$
-
-      </div>
+      <div>Rate per annum of Salary 
+$ 
+</div>
     </td>
   </tr>
 </thead>
@@ -1039,6 +985,22 @@ $
   </tr>
   <tr>
     <td>
+      <div>Chairman, Australian Broadcasting Tribunal</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairperson, Australian Telecommunications Authority</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <div>Chair, Australian Wheat Board</div>
     </td>
     <td>
@@ -1066,7 +1028,7 @@ $
       <div>Chief Executive, Commonwealth Scientific and Industrial Research Organisation</div>
     </td>
     <td>
-      <div>Remuneration as determined in Determination No. 1 of 1990</div>
+      <div>Remuneration as determined in Determination No. 1 of 1990</div>
     </td>
   </tr>
   <tr>
@@ -1375,18 +1337,18 @@ $
   </tr>
 </tbody></table>
 
-4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
+4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
 
 5.    An annual leave loading is payable to Secretaries of Departments and holders of full-time Public Offices on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
 
 6.    Where a Secretary of a Department or a holder of a full-time Public Office holds an office located in a region or district which is classified for the purposes of District Allowance, the holder of the office is to be paid a District Allowance at the rates and on the conditions prescribed for officers of the Australian Public Service.
 
-7.    The rates and conditions of payment of travelling allowance for the holders of offices specified in clause 3 are as determined in Part 4 of Determination No. 2 of 1990 and in Part 1 of Determination No. 18 of 1989 of the Remuneration Tribunal.
+7.    The rates and conditions of payment of travelling allowance for the holders of offices specified in clause 3 are as determined in Part 4 of Determination No. 2 of 1990 and in Part 1 of Determination No. 18 of 1989 of the Remuneration Tribunal.
 
 
-# Schedule 3—Senators and Members of the House of Representatives
+# Schedule 3—Senators and Members of the House of Representatives
 
-_Section 6_
+_Section 6_
 
 ## Part 1—Annual salary
 
@@ -1394,7 +1356,7 @@ _Section 6_
 
 ##### <a id="1"></a>1  Salaries
 
-             (1)  For the purposes of section 48 of the Constitution, the annual allowance payable to Senators and Members of the House of Representatives (in this Schedule called **_salary_**) is as set out in this clause.
+             (1)  For the purposes of section 48 of the Constitution, the annual allowance payable to Senators and Members of the House of Representatives (in this Schedule called **_salary_**) is as set out in this clause.
 
              (2)  The Members of Parliament annual salary is equal to:
 
@@ -1402,7 +1364,7 @@ _Section 6_
 
                      (b)  if the regulations prescribe a percentage (not more than 100%) of a reference salary—that percentage of the reference salary.
 
-             (3)  Before the Governor-General makes a regulation for the purposes of paragraph (2)(b), the Minister must consider advice from the Remuneration Tribunal about the proposed regulation.
+             (3)  Before the Governor-General makes a regulation for the purposes of paragraph (2)(b), the Minister must consider advice from the Remuneration Tribunal about the proposed regulation.
 
              (4)  In this clause:
 
@@ -1631,14 +1593,12 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
 <thead>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
-      <div>Rate per annum of electorate allowance
-
-$
-
-      </div>
+      <div>Rate per annum of electorate allowance 
+$ 
+</div>
     </td>
   </tr>
 </thead>
@@ -1661,8 +1621,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>electorate of 2,000 square kilometres or more but less than 5,000 square
-        kilometres</div>
+      <div>electorate of 2,000 square kilometres or more but less than 5,000 square kilometres</div>
     </td>
     <td>
       <div>26,975</div>
@@ -1680,18 +1639,18 @@ $
 
 ##### <a id="3"></a>3  Other allowances 
 
-  A Senator or Member of the House of Representatives is also entitled to the allowances and entitlements provided for by Determination No. 14 of 1990 of the Remuneration Tribunal dated 23 May 1990 (other than clause 10.2), or by any subsequent Determination of the Remuneration Tribunal providing for equivalent allowances or entitlements or for any allowance in the nature of a Social Dislocation Allowance.
+  A Senator or Member of the House of Representatives is also entitled to the allowances and entitlements provided for by Determination No. 14 of 1990 of the Remuneration Tribunal dated 23 May 1990 (other than clause 10.2), or by any subsequent Determination of the Remuneration Tribunal providing for equivalent allowances or entitlements or for any allowance in the nature of a Social Dislocation Allowance.
 
 
-# Schedule 4—Ministers and office holders of the Parliament
+# Schedule 4—Ministers and office holders of the Parliament
 
-_Section 7_
+_Section 7_
 
-1.    In respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to allowances and additional salary at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 15 of the Remuneration Tribunal dated 23 May 1990 had not been made.
+1.    In respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to allowances and additional salary at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 15 of the Remuneration Tribunal dated 23 May 1990 had not been made.
 
-2.    In respect of periods after 30 June 1990, no expenses of office allowances are payable to Ministers of State or other office holders of the Parliament.
+2.    In respect of periods after 30 June 1990, no expenses of office allowances are payable to Ministers of State or other office holders of the Parliament.
 
-3.    With effect from 1 July 1990, the holders of the offices specified below are entitled to additional salary at the rates set out below.
+3.    With effect from 1 July 1990, the holders of the offices specified below are entitled to additional salary at the rates set out below.
 
 <table>
 <colgroup>
@@ -1705,13 +1664,11 @@ _Section 7_
       <div>Office</div>
     </td>
     <td>
-      <div>Rate per annum of Additional
+      <div>Rate per annum of Additional 
+Salary 
+$ 
 
-Salary
-
-$
-
-      </div>
+</div>
     </td>
   </tr>
 </thead>
@@ -1766,8 +1723,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Leader of a recognised non-Government party of at least 5 members not
-        otherwise specified herein</div>
+      <div>Leader of a recognised non-Government party of at least 5 members not otherwise specified herein</div>
     </td>
     <td>
       <div>23,348</div>
@@ -1855,8 +1811,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Whip in the Senate of a recognised non-Government party of at least 5
-        members not otherwise specified herein</div>
+      <div>Whip in the Senate of a recognised non-Government party of at least 5 members not otherwise specified herein</div>
     </td>
     <td>
       <div>1,279</div>
@@ -1907,7 +1862,7 @@ $
       <div>Chairs of Parliamentary Committees</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
   </tr>
   <tr>
@@ -1960,8 +1915,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Community
-        Affairs</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Community Affairs</div>
     </td>
     <td>
       <div>6,310</div>
@@ -1969,8 +1923,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Employment,
-        Education and Training</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Employment, Education and Training</div>
     </td>
     <td>
       <div>6,310</div>
@@ -1978,8 +1931,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Environment,
-        Recreation and the Arts</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Environment, Recreation and the Arts</div>
     </td>
     <td>
       <div>6,310</div>
@@ -1987,8 +1939,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Finance
-        and Public Administration</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Finance and Public Administration</div>
     </td>
     <td>
       <div>6,310</div>
@@ -1996,8 +1947,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Foreign
-        Affairs, Defence and Trade</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Foreign Affairs, Defence and Trade</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2005,8 +1955,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Industry,
-        Science and Technology</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Industry, Science and Technology</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2022,8 +1971,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, Senate Legislative and General Purpose Standing Committee on Legal
-        and Constitutional Affairs</div>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Legal and Constitutional Affairs</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2047,8 +1995,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Environment, Recreation
-        and the Arts</div>
+      <div>Chair, House of Representatives Standing Committee on Environment, Recreation and the Arts</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2056,8 +2003,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Employment, Education
-        and Training</div>
+      <div>Chair, House of Representatives Standing Committee on Employment, Education and Training</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2065,8 +2011,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Finance and Public
-        Administration</div>
+      <div>Chair, House of Representatives Standing Committee on Finance and Public Administration</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2074,8 +2019,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Industry, Science
-        and Technology</div>
+      <div>Chair, House of Representatives Standing Committee on Industry, Science and Technology</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2083,8 +2027,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Transport, Communications
-        and Infrastructure</div>
+      <div>Chair, House of Representatives Standing Committee on Transport, Communications and Infrastructure</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2092,8 +2035,7 @@ $
   </tr>
   <tr>
     <td>
-      <div>Chair, House of Representatives Standing Committee on Legal and Constitutional
-        Affairs</div>
+      <div>Chair, House of Representatives Standing Committee on Legal and Constitutional Affairs</div>
     </td>
     <td>
       <div>6,310</div>
@@ -2117,9 +2059,9 @@ $
   </tr>
 </tbody></table>
 
-4.    Whenever the annual rate of salary payable to Senators and Members of the House of Representatives is, after the commencement of this section, increased under Schedule 3 because of an increase in the minimum SES Band 2 annual salary as defined in that Schedule, the rate per annum of additional salary payable to the holders of offices specified in clause 3 is increased by the same proportion.
+4.    Whenever the annual rate of salary payable to Senators and Members of the House of Representatives is, after the commencement of this section, increased under Schedule 3 because of an increase in the minimum SES Band 2 annual salary as defined in that Schedule, the rate per annum of additional salary payable to the holders of offices specified in clause 3 is increased by the same proportion.
 
-5.    Whenever clause 4 operates to increase the rate of additional salary payable to the holders of offices specified in clause 3:
+5.    Whenever clause 4 operates to increase the rate of additional salary payable to the holders of offices specified in clause 3:
 
                      (a)  the increase has effect from the date of the increase in the annual rate of salary payable to Senators and Members of the House of Representatives; and
 
@@ -2134,11 +2076,11 @@ $
 
 ### Note 1
 
-The _Remuneration and Allowances Act 1990_ as shown in this compilation comprises Act No. 71, 1990 amended as indicated in the Tables below.
+The _Remuneration and Allowances Act 1990_ as shown in this compilation comprises Act No. 71, 1990 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
-All other relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -2183,10 +2125,10 @@ of Assent
       <div>71, 1990</div>
     </td>
     <td>
-      <div>20 June 1990</div>
+      <div>20 June 1990</div>
     </td>
     <td>
-      <div>Part 3 (ss. 9, 10): 1 July 1990 
+      <div>Part 3 (ss. 9, 10): 1 July 1990 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -2202,10 +2144,10 @@ Remainder: Royal Assent
       <div>72, 1990</div>
     </td>
     <td>
-      <div>20 June 1990</div>
+      <div>20 June 1990</div>
     </td>
     <td>
-      <div>20 June 1990 ( <i>see</i>s. 2)</div>
+      <div>20 June 1990 ( <i>see</i>s. 2)</div>
     </td>
     <td>
       <div>—</div>
@@ -2213,7 +2155,7 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
     </td>
     <td>
       <div>108, 1990</div>
@@ -2244,12 +2186,12 @@ Remainder: Royal Assent
       <div>52, 1992</div>
     </td>
     <td>
-      <div>22 June 1992</div>
+      <div>22 June 1992</div>
     </td>
     <td>
-      <div>Part 3 (ss. 13, 14): 27 June 1991 
-Ss. 16 and 17(1): 20 June 1990 
-S. 17(2): 1 July 1990 
+      <div>Part 3 (ss. 13, 14): 27 June 1991 
+Ss. 16 and 17(1): 20 June 1990 
+S. 17(2): 1 July 1990 
 S. 19(1): 1 Jan 1990 
 Remainder: Royal Assent 
 
@@ -2261,7 +2203,7 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Industrial Relations Legislation Amendment Act (No. 2) 1994</div>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1994</div>
     </td>
     <td>
       <div>158, 1994</div>
@@ -2270,7 +2212,7 @@ Remainder: Royal Assent
       <div>15 Dec 1994</div>
     </td>
     <td>
-      <div>Schedule 2: Royal Assent <i>(a)</i></div>
+      <div>Schedule 2: Royal Assent <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2284,7 +2226,7 @@ Remainder: Royal Assent
       <div>88, 1995</div>
     </td>
     <td>
-      <div>20 July 1995</div>
+      <div>20 July 1995</div>
     </td>
     <td>
       <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
@@ -2304,10 +2246,10 @@ Remainder: Royal Assent
       <div>25 Nov 1996</div>
     </td>
     <td>
-      <div>Schedule 19 (item 42): Royal Assent <i>(c)</i></div>
+      <div>Schedule 19 (item 42): Royal Assent <i>(c)</i></div>
     </td>
     <td>
-      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
     </td>
   </tr>
   <tr>
@@ -2329,7 +2271,7 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
     </td>
     <td>
       <div>77, 1996</div>
@@ -2338,7 +2280,7 @@ Remainder: Royal Assent
       <div>19 Dec 1996</div>
     </td>
     <td>
-      <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
+      <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2346,7 +2288,7 @@ Remainder: Royal Assent
   </tr>
   <tr>
     <td>
-      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
     </td>
     <td>
       <div>1, 1997</div>
@@ -2355,7 +2297,7 @@ Remainder: Royal Assent
       <div>19 Feb 1997</div>
     </td>
     <td>
-      <div>Schedules 1 and 3: 
+      <div>Schedules 1 and 3: 
 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
 Remainder: Royal Assent 
 
@@ -2376,7 +2318,7 @@ Remainder: Royal Assent
       <div>24 Oct 1997</div>
     </td>
     <td>
-      <div>Schedule 2 (items 1144–1148): 1 Jan 1998 <i>(e)</i></div>
+      <div>Schedule 2 (items 1144–1148): 1 Jan 1998 <i>(e)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2393,7 +2335,7 @@ Remainder: Royal Assent
       <div>11 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 1 (items 772–775): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+      <div>Schedule 1 (items 772–775): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2410,7 +2352,7 @@ Remainder: Royal Assent
       <div>10 Dec 1999</div>
     </td>
     <td>
-      <div>Schedule 3 (items 1, 54, 55): <i>(g)</i></div>
+      <div>Schedule 3 (items 1, 54, 55): <i>(g)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2430,7 +2372,7 @@ Remainder: Royal Assent
       <div>29 Oct 2001 ( <i>see</i>s. 2)</div>
     </td>
     <td>
-      <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
+      <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
   <tr>
@@ -2441,10 +2383,10 @@ Remainder: Royal Assent
       <div>87, 2004</div>
     </td>
     <td>
-      <div>25 June 2004</div>
+      <div>25 June 2004</div>
     </td>
     <td>
-      <div>26 June 2004</div>
+      <div>26 June 2004</div>
     </td>
     <td>
       <div>—</div>
@@ -2461,7 +2403,7 @@ Remainder: Royal Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (items 119, 120) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
+      <div>Schedule 1 (items 119, 120) and Schedule 4: \[ <i>see (h)</i>and Note 2]</div>
     </td>
     <td>
       <div>Sch. 4</div>
@@ -2470,41 +2412,150 @@ Remainder: Royal Assent
 </tbody></table>
 
 
-_(a)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 only of the _Industrial Relations Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
+_(a)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 only of the _Industrial Relations Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _Remuneration and Allowances Act 1990_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows: 
+_(b)_    The _Remuneration and Allowances Act 1990_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows: 
 
-                 (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
+                 (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-_(c)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 19 (item 42) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows: 
+_(c)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 19 (item 42) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows: 
+_(d)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows: 
 
-                 (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
+                 (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
-         The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
+         The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
 
-_(e)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 (items 1144–1148) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows: 
+_(e)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 (items 1144–1148) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows: 
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_. 
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_. 
 
-         The _Financial Management and Accountability Act 1997_ commenced on 1 January 1998.
+         The _Financial Management and Accountability Act 1997_ commenced on 1 January 1998.
 
-_(f)_      The _Remuneration and Allowances Act 1990_ was amended by Schedule 1 (items 772–775) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
+_(f)_      The _Remuneration and Allowances Act 1990_ was amended by Schedule 1 (items 772–775) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(g)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 3 (items 1, 54 and 55) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows: 
+_(g)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 3 (items 1, 54 and 55) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows: 
 
-                 (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
+                 (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
-         The other Schedules commenced on 10 December 1999.
+         The other Schedules commenced on 10 December 1999.
+
+_(h)_ Subsection 2(1) (items 2 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 2]
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10\. Schedule 4
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 1]
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 
 ## Table of Amendments
@@ -2536,7 +2587,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996</div>
+      <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996</div>
     </td>
   </tr>
   <tr>
@@ -2544,7 +2595,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>S. 3A</div>
     </td>
     <td>
-      <div>ad. No. 158, 1994</div>
+      <div>ad. No. 158, 1994</div>
     </td>
   </tr>
   <tr>
@@ -2552,7 +2603,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>S. 8</div>
     </td>
     <td>
-      <div>am. No. 87, 2004</div>
+      <div>am. No. 87, 2004</div>
     </td>
   </tr>
   <tr>
@@ -2560,55 +2611,74 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>S. 8A</div>
     </td>
     <td>
-      <div>ad. No. 146, 1999</div>
+      <div>ad. No. 146, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Schedule 1</div>
+      <div>Schedule 1</div>
     </td>
     <td>
-      <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 2</div>
-    </td>
-    <td>
-      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; No. 45, 2005</div>
+      <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Schedule 3</div>
+      <div>Schedule 2</div>
     </td>
     <td>
-      <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004</div>
+      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Schedule 4</div>
+      <div>Schedule 3</div>
     </td>
     <td>
-      <div>am. No. 158, 1994; No. 152, 1997; No. 161, 1999; No. 153, 2001</div>
+      <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 4</div>
+    </td>
+    <td>
+      <div>am. No. 158, 1994; No. 152, 1997; No. 161, 1999; No. 153, 2001</div>
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (No. 45, 2005)_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 119  Clause 3 of Schedule 2 (Part 3 of the table, table row relating to the Chairman of the Australian Broadcasting Tribunal)
+
+Repeal the row.
+
+## 120  Clause 3 of Schedule 2 (Part 3 of the table, table row relating to the Chairperson of the Australian Telecommunications Authority)
+
+Repeal the row.
+
+As at 15 April 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
+_Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
 ##### <a id="4"></a>4  Regulations
 
                    The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
 
-## Schedule 1
+## Schedule 1
 
 ## 7  Definitions
 
