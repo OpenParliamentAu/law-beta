@@ -1,222 +1,78 @@
-**
+**<b>
 
-###  PARLIAMENT ACT 1974 
-**
+### <center><name>PARLIAMENT ACT 1974 - Reprinted as at 30 June 1982 (HISTACT CHAP 563 #DATE 30:06:1982) </name></center>
+</b>** *1* Act No. 165, 1974; assented to and commenced 17 December 1974.<lf> <lf> </lf></lf>
+**<b>
 
+### <name>PARLIAMENT ACT 1974 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-###  Compilation Information 
-**
+<lf> Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Interpretation<lf> <p>  4\.       Site of new Parliament House<lf> <p>  5\.       Parliamentary control of erection of buildings or other work within<lf>            Parliamentary zone<lf> <p><lf>                                     SCHEDULE<lf> <p><lf>                          PLAN  OF  PARLIAMENTARY  ZONE<lf> <p><lf>                                 ----------------<lf> <p><lf> </lf></p></lf></lf></p></lf></lf></p></lf></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
+### <name>PARLIAMENT ACT 1974 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to determine the site of the New and Permanent Parliament House, and for other purposes </sect>
+**<b>
 
+### <name>PARLIAMENT ACT 1974 - SECT. 1\. Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Parliament Act 1974.*1* 
 
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
+### <name>PARLIAMENT ACT 1974 - SECT. 2\. Commencement </name>
+</b>** 
 
-**
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-###  Long Title 
-**
-###  PARLIAMENT ACT 1974- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Parliament Act 1974_.
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
- 
-###  PARLIAMENT ACT 1974- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on the day on which it receives the Royal
+### <name>PARLIAMENT ACT 1974 - SECT. 3\. Interpretation </name>
+</b>** 
 
-Assent.
+## SECT
+<sect>   3\. In this Act "Parliamentary zone" means the area of land bounded by the lines commencing at a point where Commonwealth Avenue intersects State Circle marked A, and thence in a northerly direction along Commonwealth Avenue to Lake Burley Griffin at a point marked B, and thence extending in an easterly direction along the shore of Lake Burley Griffin to a point where Kings Avenue intersects with the said Lake shore marked C, and thence in a south-westerly direction along Kings Avenue to State Circle at a point marked D, and thence in a straight line, being an extension of Kings Avenue, to its intersection with Capital Circle and thence clockwise around Capital Circle to a point where it intersects with a straight line extending Commonwealth Avenue from the point marked A and thence along that line to the point of commencement, being the area delineated by hatching on the plan set out in the Schedule. 
 
- 
-###  PARLIAMENT ACT 1974- SECT 3  Parliamentary zone 
-<dt>(1)</dt><dd>For the purposes of this Act, the Parliamentary zone is the area of land
+<lf> </lf>
+</sect>
+**<b>
 
-bounded by a line commencing at a point where the eastern boundary of
+### <name>PARLIAMENT ACT 1974 - SECT. 4\. Site of new Parliament House </name>
+</b>** 
 
-Commonwealth Avenue intersects the inner boundary of State Circle and
+## SECT
+<sect>   4\. The new and permanent Parliament House proposed to be constructed after the commencement of this Act shall be constructed upon the site on Capital Hill marked "Site of Parliament House" on the plan set out in the Schedule. 
 
-proceeding thence in a northerly direction along the eastern boundary of
+<lf> </lf>
+</sect>
+**<b>
 
-Commonwealth Avenue until it intersects the southern shore of Lake Burley
+### <name>PARLIAMENT ACT 1974 - SECT. 5\. Parliamentary control of erection of buildings or other work within Parliamentary zone </name>
+</b>** 
 
-Griffin, thence in a generally easterly direction along that shore until it
+## SECT
+<sect>   5\. (1) No building or other work is to be erected on land within the Parliamentary zone unless the Minister has caused a proposal for the erection of the building or work to be laid before each House of the Parliament and the proposal has been approved by resolution of each House of Parliament. 
 
-intersects the western boundary of Kings Avenue, thence in a south westerly
+<lf>   (2) Sub-section (1) does not prevent the carrying out of work by way of maintenance or repair of buildings or works situated on land within the Parliamentary zone, or by way of internal alterations to those buildings or works. <p><lf>   (3) Sub-section (1) does not apply to buildings and works which have reached the documentation stage by 1 December 1974\. <p><lf>                                 ----------------<lf> </lf></lf></p></lf></p></lf>
+</sect>
+**<b>
 
-direction along that boundary until it intersects the inner boundary of State
+### <name>PARLIAMENT ACT 1974 - SCHEDULE </name>
+</b>** 
 
-Circle, and thence clockwise around that inner boundary to the point of
-
-commencement.</dd> <dt>(2)</dt><dd>The location of the Parliamentary zone is indicated by shading on the plan set out in the Schedule. </dd> 
-###  PARLIAMENT ACT 1974- SECT 4  Site of new Parliament House 
-The new and permanent Parliament House proposed to be constructed after the
-
-commencement of this Act shall be constructed upon the site on Capital Hill
-
-marked "Site of Parliament House" on the plan set out in the Schedule.
-
- 
-###  PARLIAMENT ACT 1974- SECT 5  Parliamentary control of erection of buildings or other work within Parliamentary zone 
-<dt>(1)</dt><dd>No building or other work is to be erected on land within the
-
-Parliamentary zone unless:
-
-</dd> 
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the land is within the precincts as defined by subsection 3(1) of the
-
-_Parliamentary Precincts Act 1988_&#151;the President of the Senate and the
-
-Speaker of the House of Representatives jointly have; or</dd>
-
-<dt>(b)</dt><dd>in any other case&#151;the Minister has;
-
-</dd>
-
-</dl></dl>
-<dt>(2)</dt><dd>Subsection (1) does not prevent carrying out of work by way of maintenance
-
-or repair of buildings or works situated on land within the Parliamentary zone,
-
-or by way of internal alterations to those buildings or works.</dd> <dt>(3)</dt><dd>Subsection (1) does not apply to buildings and works which have reached the documentation stage by 1 December 1974\. </dd> 
-
-Back to Top
-
-**
-
-###  PARLIAMENT ACT 1974Schedule 
-**
-Map omitted
-
-For map of Parliamentary Zone _see_ Act No. 9, 1988, Schedule 3\. 
-**
-
-###  PARLIAMENT ACT 1974<centreit>Notes to the _Parliament Act 1974_ </centreit>
-**
-Note 1
-Parliament Act 1974
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Parliament Act 1974_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>165, 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>17 Dec 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>17 Dec 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Parliamentary Precincts Act 1988_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>9, 1988</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5 Apr 1988</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 1-4 and 7: Royal Assent 
-S. 11: 6 May 1988 ( _see Gazette_1988, No. S129) 
-Remainder: 1 Aug 1988 ( _see Gazette_1988, No. S229)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-Table of Amendments
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 9, 1988</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 9, 1988</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Schedule</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 9, 1988</div>
-
-  </td>
-</tr>
-
-
-
-
-
-
+## SCH
+<sch>                                     SCHEDULE<lf>                                                                 Sections 3 and 4 Map omitted.<lf> ------------------------------------------------------------------------------ -- </lf></lf></sch>
