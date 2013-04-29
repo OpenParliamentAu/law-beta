@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 23 December 2011
- taking into account amendments up to Act No. 188 of 2011
+This compilation was prepared on 5 November 2011
+ taking into account amendments up to Act No. 97 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -170,11 +170,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144E](#144E).      Meetings of TSRA
 
-[144F](#144F).      Delegation to TSRA Chief Executive Officer or staff member of TSRA
+[144F](#144F).      Delegation to TSRA General Manager or staff member of TSRA
 
-    **Division 7—TSRA Chief Executive Officer**
+    **Division 7—General Manager of TSRA**
 
-[144G](#144G).     TSRA Chief Executive Officer
+[144G](#144G).     TSRA General Manager
 
 [144H](#144H).     Period of appointment
 
@@ -182,7 +182,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144K](#144K).     Leave of absence
 
-[144L](#144L).      Acting TSRA Chief Executive Officer
+[144L](#144L).      Acting TSRA General Manager
 
 [144M](#144M).    Disclosure of interests
 
@@ -302,9 +302,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [167](#167).        Meetings of Indigenous Business Australia Board
 
-    **Division 6—Indigenous Business Australia Chief Executive Officer**
+    **Division 6—Indigenous Business Australia General Manager**
 
-[168](#168).        Indigenous Business Australia Chief Executive Officer
+[168](#168).        Indigenous Business Australia General Manager
 
 [169](#169).        Term of appointment
 
@@ -312,7 +312,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [171](#171).        Remuneration and allowances
 
-[172](#172).        Acting Indigenous Business Australia Chief Executive Officer
+[172](#172).        Acting Indigenous Business Australia General Manager
 
 [172A](#172A).     Disclosure of interests
 
@@ -354,11 +354,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 9—Miscellaneous**
 
-[190](#190).        Delegation to Indigenous Business Australia Chief Executive Officer or member of staff
+[190](#190).        Delegation to Indigenous Business Australia General Manager or member of staff
 
 [191](#191).        Secrecy
-
-[191AA](#191AA).  Guidelines for exercise of Indigenous Business Australia Chief Executive Officer’s powers
 
 **Part 4A—Indigenous Land Corporation and Aboriginal and Torres Strait Islander Land Account** 
 
@@ -450,17 +448,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [192J](#192J).      Meetings of Indigenous Land Corporation Board
 
-    **Division 8—Indigenous Land Corporation Chief Executive Officer**
+    **Division 8—Indigenous Land Corporation General Manager**
 
-[192K](#192K).     Indigenous Land Corporation Chief Executive Officer
+[192K](#192K).     Indigenous Land Corporation General Manager
 
 [192L](#192L).      Term of appointment
 
 [192M](#192M).    Holding of office
 
-[192N](#192N).     Remuneration and allowances of Indigenous Land Corporation Chief Executive Officer
+[192N](#192N).     Remuneration and allowances of Indigenous Land Corporation General Manager
 
-[192P](#192P).      Acting Indigenous Land Corporation Chief Executive Officer
+[192P](#192P).      Acting Indigenous Land Corporation General Manager
 
 [192Q](#192Q).     Resignation
 
@@ -518,7 +516,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 14—Delegation**
 
-[193T](#193T).      Delegation to Indigenous Land Corporation Chief Executive Officer or member of staff
+[193T](#193T).      Delegation to Indigenous Land Corporation General Manager or member of staff
 
     **Division 15—Reviews**
 
@@ -766,9 +764,9 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="indigen-busi-australia-chairperson"></a>**_Indigenous Business Australia Chairperson_** means the Chairperson of the Indigenous Business Australia Board referred to in section 155.
 
-                    <a name="indigen-busi-australia-chief-execut-offic"></a>**_Indigenous Business Australia Chief Executive Officer_** means the Chief Executive Officer of Indigenous Business Australia referred to in section 168.
-
                     <a name="indigen-busi-australia-director"></a>**_Indigenous Business Australia Director_** means a member of the Indigenous Business Australia Board.
+
+                    <a name="indigen-busi-australia-gener-manag"></a>**_Indigenous Business Australia General Manager_** means the General Manager of Indigenous Business Australia referred to in section 168.
 
                     <a name="indigen-held-land"></a>**_indigenous‑held land_** has the meaning given by section 4B.
 
@@ -778,9 +776,9 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="indigen-land-corpor-chairperson"></a>**_Indigenous Land Corporation Chairperson_** means the Chairperson of the Indigenous Land Corporation Board referred to in section 191V.
 
-                    <a name="indigen-land-corpor-chief-execut-offic"></a>**_Indigenous Land Corporation Chief Executive Officer_** means the Chief Executive Officer of the Indigenous Land Corporation referred to in section 192K.
-
                     <a name="indigen-land-corpor-director"></a>**_Indigenous Land Corporation Director_** means a member of the Indigenous Land Corporation Board.
+
+                    <a name="indigen-land-corpor-gener-manag"></a>**_Indigenous Land Corporation General Manager_** means the General Manager of the Indigenous Land Corporation referred to in section 192K.
 
                     <a name="interest"></a>**_interest_**, in relation to land, includes:
 
@@ -820,13 +818,13 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
 to administer the affairs of the TSRA.
 
-                    <a name="tsra-chief-execut-offic"></a>**_TSRA Chief Executive Officer_** means the Chief Executive Officer of the TSRA referred to in section 144G.
-
                     <a name="tsra-elect"></a>**_TSRA election_** means an election for a member or members of the TSRA conducted under Division 5 of Part 3A.
 
                     <a name="tsra-elect-rule"></a>**_TSRA election rules_** means rules made by the Minister under section 143G.
 
                     <a name="tsra-financ-direct"></a>**_TSRA Finance Direction_** means a direction given to the TSRA by the Minister under section 144ZD.
+
+                    <a name="tsra-gener-manag"></a>**_TSRA General Manager_** means the General Manager of the TSRA referred to in section 144G.
 
                     <a name="tsra-hous-fund"></a>**_TSRA Housing Fund_** means the TSRA Housing Fund established by section 144V.
 
@@ -1058,9 +1056,9 @@ Limitations on TSRA’s function to acquire land
 
              (6)  The TSRA must perform its functions under this section in consultation with the Minister.
 
-             (7)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA Chief Executive Officer must ensure that copies of the Plan as in force from time to time are available for inspection and purchase at each office of the TSRA.
+             (7)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA General Manager must ensure that copies of the Plan as in force from time to time are available for inspection and purchase at each office of the TSRA.
 
-             (8)  The TSRA Chief Executive Officer must cause notice of the publication of the Plan to be published in the _Gazette_.
+             (8)  The TSRA General Manager must cause notice of the publication of the Plan to be published in the _Gazette_.
 
 ##### <a id="142E"></a>142E  Directions by Minister
 
@@ -1206,9 +1204,9 @@ is taken to be an interest of the TSRA in the land to which it relates.
 
              (2)  Subject to section 144ZD, the TSRA must perform its functions and exercise its powers under sections 142F, 142G and 142GA in accordance with applicable provisions of the decision‑making principles in force from time to time.
 
-             (3)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA Chief Executive Officer must ensure that copies of the decision‑making principles as in force from time to time are available for inspection and purchase at each of the TSRA’s offices.
+             (3)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA General Manager must ensure that copies of the decision‑making principles as in force from time to time are available for inspection and purchase at each of the TSRA’s offices.
 
-             (4)  The TSRA Chief Executive Officer must cause notice of the making of decision‑making principles to be published in the _Gazette_.
+             (4)  The TSRA General Manager must cause notice of the making of decision‑making principles to be published in the _Gazette_.
 
 ##### <a id="142L"></a>142L  Review of operation of Part etc.
 
@@ -2102,7 +2100,7 @@ Member who participates in telephone meeting taken to be present at the meeting
 
            (14)  A member of the TSRA who participates in a meeting as provided by subsection (12) is taken for the purposes of this section and section 27J of the _Commonwealth Authorities and Companies Act 1997_ to be present at the meeting.
 
-##### <a id="144F"></a>144F  Delegation to TSRA Chief Executive Officer or staff member of TSRA
+##### <a id="144F"></a>144F  Delegation to TSRA General Manager or staff member of TSRA
 
 Delegation of certain functions and powers
 
@@ -2114,15 +2112,15 @@ Delegation of certain functions and powers
 
                      (c)  its power to reconsider matters under section 195A;
 
-to the TSRA Chief Executive Officer or to a member of the staff of the TSRA.
+to the TSRA General Manager or to a member of the staff of the TSRA.
 
-TSRA Chief Executive Officer may sub‑delegate function or power
+TSRA General Manager may sub‑delegate function or power
 
-             (2)  If the TSRA delegates a function or power to the TSRA Chief Executive Officer, he or she may, by writing, sub‑delegate the function or power to a member of the staff of the TSRA.
+             (2)  If the TSRA delegates a function or power to the TSRA General Manager, he or she may, by writing, sub‑delegate the function or power to a member of the staff of the TSRA.
 
 Delegation may prohibit sub‑delegation
 
-             (3)  The TSRA Chief Executive Officer must not sub‑delegate a function or power if the instrument of delegation prohibits the sub‑delegation of that function or power.
+             (3)  The TSRA General Manager must not sub‑delegate a function or power if the instrument of delegation prohibits the sub‑delegation of that function or power.
 
 Application of certain provisions of the Acts Interpretation Act 1901
 
@@ -2132,43 +2130,47 @@ Application of certain provisions of the Acts Interpretation Act 1901
 
              (5)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
 
-### Division 7—TSRA Chief Executive Officer
+### Division 7—General Manager of TSRA
 
-##### <a id="144G"></a>144G  TSRA Chief Executive Officer
+##### <a id="144G"></a>144G  TSRA General Manager
 
-             (1)  There is to be a Chief Executive Officer of the TSRA.
+             (1)  There is to be a General Manager of the TSRA.
 
-             (2)  The TSRA Chief Executive Officer is to be appointed by the Minister.
+             (2)  The TSRA General Manager is to be appointed by the Minister.
 
-             (3)  The Minister must not appoint a person as the TSRA Chief Executive Officer unless the TSRA agrees to the appointment.
+             (3)  The Minister must not appoint a person as the TSRA General Manager unless the TSRA agrees to the appointment. However, this rule does not apply to the first TSRA General Manager.
 
-             (4)  Subject to subsection (5), the TSRA Chief Executive Officer must manage the day‑to‑day administration of the TSRA.
+             (4)  Subject to subsection (5), the TSRA General Manager must manage the day‑to‑day administration of the TSRA.
 
-             (5)  In managing the day‑to‑day administration of the TSRA and in exercising any powers conferred on the TSRA Chief Executive Officer by this Act, the TSRA Chief Executive Officer must act in accordance with any policies determined, and any directions given to him or her, by the TSRA in writing.
+             (5)  In managing the day‑to‑day administration of the TSRA and in exercising any powers conferred on the TSRA General Manager by this Act, the TSRA General Manager must act in accordance with any policies determined, and any directions given to him or her, by the TSRA in writing.
 
 ##### <a id="144H"></a>144H  Period of appointment
 
-             (1)  The TSRA Chief Executive Officer holds office for such period as is specified in the instrument of appointment.
+             (1)  The TSRA General Manager holds office for such period as is specified in the instrument of appointment.
 
-             (2)  The period must not be longer than 5 years.
+             (2)  The period must not be longer than:
+
+                     (a)  in the case of the first TSRA General Manager—2 years; and
+
+                     (b)  in any other case—5 years.
 
 ##### <a id="144J"></a>144J  Remuneration and allowances
 
-                   The TSRA Chief Executive Officer is entitled to remuneration and allowances in accordance with section 194.
+                   The TSRA General Manager is entitled to remuneration and allowances in accordance with section 194.
 
 ##### <a id="144K"></a>144K  Leave of absence
 
-             (1)  The TSRA Chief Executive Officer is to have such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  The TSRA General Manager is to have such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may, with the TSRA’s agreement, grant the TSRA Chief Executive Officer leave of absence (other than recreation leave) on such terms and conditions, as to remuneration or otherwise, as the Minister, with the TSRA’s agreement, determines in writing.
+             (2)  The Minister may, with the TSRA’s agreement, grant the TSRA General Manager leave of absence (other than recreation leave) on such terms and conditions, as to remuneration or otherwise, as the Minister, with the TSRA’s agreement, determines in writing.
 
-##### <a id="144L"></a>144L  Acting TSRA Chief Executive Officer
+##### <a id="144L"></a>144L  Acting TSRA General Manager
 
-             (1)  The Minister may, after consulting the TSRA, appoint a person to act as the TSRA Chief Executive Officer:
+             (1)  The Minister may, after consulting the TSRA, appoint a person to act as the TSRA General Manager:
 
-                     (a)  during a vacancy in the office of TSRA Chief Executive Officer, whether or not an appointment has previously been made to the office; or
+                     (a)  during a vacancy in the office of TSRA General Manager, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the TSRA Chief Executive Officer is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the TSRA General Manager is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
@@ -2184,19 +2186,19 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
 ##### <a id="144M"></a>144M  Disclosure of interests
 
-             (1)  The TSRA Chief Executive Officer must give written notice to the Minister and the TSRA of all direct or indirect pecuniary interests that the TSRA Chief Executive Officer has or acquires in any business or in any body corporate that carries on a business.
+             (1)  The TSRA General Manager must give written notice to the Minister and the TSRA of all direct or indirect pecuniary interests that the TSRA General Manager has or acquires in any business or in any body corporate that carries on a business.
 
-             (2)  If the TSRA Chief Executive Officer has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the TSRA, the TSRA Chief Executive Officer must, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest to the Chairperson of the TSRA in writing.
+             (2)  If the TSRA General Manager has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the TSRA, the TSRA General Manager must, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest to the Chairperson of the TSRA in writing.
 
 ##### <a id="144N"></a>144N  Resignation
 
-                   The TSRA Chief Executive Officer may resign by writing signed by him or her and sent to the Minister and the TSRA.
+                   The TSRA General Manager may resign by writing signed by him or her and sent to the Minister and the TSRA.
 
 ##### <a id="144P"></a>144P  Termination of appointment
 
-             (1)  The Minister may, with the TSRA’s agreement, terminate the appointment of the TSRA Chief Executive Officer because of incompetence, misbehaviour or physical or mental incapacity.
+             (1)  The Minister may, with the TSRA’s agreement, terminate the appointment of the TSRA General Manager because of incompetence, misbehaviour or physical or mental incapacity.
 
-             (2)  If the TSRA Chief Executive Officer:
+             (2)  If the TSRA General Manager:
 
                      (a)  is absent from duty, except on leave granted under section 144K for 14 consecutive days or for 28 days in any period of 12 months; or
 
@@ -2210,13 +2212,13 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                       (f)  fails, without reasonable excuse, to comply with section 144M; or
 
-                     (g)  engages in paid employment outside the duties of the office of TSRA Chief Executive Officer without the written consent of the Minister given after consulting the TSRA;
+                     (g)  engages in paid employment outside the duties of the office of TSRA General Manager without the written consent of the Minister given after consulting the TSRA;
 
-the Minister must terminate the appointment of the TSRA Chief Executive Officer.
+the Minister must terminate the appointment of the TSRA General Manager.
 
 ##### <a id="144Q"></a>144Q  Other terms and conditions
 
-                   The TSRA Chief Executive Officer holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister, with the TSRA’s agreement, by notice in the _Gazette_.
+                   The TSRA General Manager holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister, with the TSRA’s agreement, by notice in the _Gazette_.
 
 ### Division 8—Staff
 
@@ -2226,9 +2228,9 @@ the Minister must terminate the appointment of the TSRA Chief Executive Officer.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the TSRA Chief Executive Officer and the APS employees assisting the TSRA Chief Executive Officer together constitute a Statutory Agency; and
+                     (a)  the TSRA General Manager and the APS employees assisting the TSRA General Manager together constitute a Statutory Agency; and
 
-                     (b)  the TSRA Chief Executive Officer is the Head of that Statutory Agency.
+                     (b)  the TSRA General Manager is the Head of that Statutory Agency.
 
 Note 1:       A member of the staff of the TSRA is not qualified to stand for election, or to be elected, as a member of the TSRA (see paragraph 142V(1)(b)).
 
@@ -2428,7 +2430,7 @@ TSRA must make directions available
 
 Notice of giving of directions to be published in the Gazette
 
-             (5)  The TSRA Chief Executive Officer must cause notice of the giving of TSRA Finance Directions to be published in the _Gazette_.
+             (5)  The TSRA General Manager must cause notice of the giving of TSRA Finance Directions to be published in the _Gazette_.
 
 ### Division 10—Minister may ask TSRA for information
 
@@ -2864,35 +2866,35 @@ Indigenous Business Australia Directors remaining at the meeting constitute a qu
 
            (11)  An Indigenous Business Australia Director who participates in a meeting as provided by subsection (9) shall be taken for the purposes of this section and section 27J of the _Commonwealth Authorities and Companies Act 1997_ to be present at the meeting.
 
-### Division 6—Indigenous Business Australia Chief Executive Officer
+### Division 6—Indigenous Business Australia General Manager
 
-##### <a id="168"></a>168  Indigenous Business Australia Chief Executive Officer
+##### <a id="168"></a>168  Indigenous Business Australia General Manager
 
-             (1)  There is to be a Chief Executive Officer of Indigenous Business Australia, who is to be appointed by the Indigenous Business Australia Board.
+             (1)  There is to be a General Manager of Indigenous Business Australia, who is to be appointed by the Indigenous Business Australia Board.
 
-             (2)  The Indigenous Business Australia Chief Executive Officer is, subject to subsection (3), to manage the day‑to‑day administration of Indigenous Business Australia.
+             (2)  The Indigenous Business Australia General Manager is, subject to subsection (3), to manage the day‑to‑day administration of Indigenous Business Australia.
 
-             (3)  The Indigenous Business Australia Chief Executive Officer must, in managing the administration of Indigenous Business Australia and in exercising any powers conferred on him or her by this Act, act in accordance with policies determined, and any directions given, by the Indigenous Business Australia Board in writing.
+             (3)  The Indigenous Business Australia General Manager must, in managing the administration of Indigenous Business Australia and in exercising any powers conferred on him or her by this Act, act in accordance with policies determined, and any directions given, by the Indigenous Business Australia Board in writing.
 
 ##### <a id="169"></a>169  Term of appointment
 
-                   The Indigenous Business Australia Chief Executive Officer shall be appointed for a term not longer than 5 years from a day specified in the instrument of appointment.
+             (1)  The Indigenous Business Australia General Manager shall be appointed for a term not longer than 5 years from a day specified in the instrument of appointment.
 
 ##### <a id="170"></a>170  Holding of office
 
-                   The Indigenous Business Australia Chief Executive Officer holds office during the Indigenous Business Australia Board’s pleasure.
+                   The Indigenous Business Australia General Manager holds office during the Indigenous Business Australia Board’s pleasure.
 
-##### <a id="171"></a>171  Remuneration and allowances
+##### <a id="171"></a>171  Remuneration and allowances
 
-                   The Indigenous Business Australia Chief Executive Officer shall be paid such remuneration and allowances as are determined by the Indigenous Business Australia Board in writing.
+                   The Indigenous Business Australia General Manager shall be paid such remuneration and allowances as are determined by the Indigenous Business Australia Board in writing.
 
-##### <a id="172"></a>172  Acting Indigenous Business Australia Chief Executive Officer
+##### <a id="172"></a>172  Acting Indigenous Business Australia General Manager
 
-             (1)  The Indigenous Business Australia Board may appoint a person to act as the Indigenous Business Australia Chief Executive Officer:
+             (1)  The Indigenous Business Australia Board may appoint a person to act as the Indigenous Business Australia General Manager:
 
-                     (a)  during a vacancy in the office of Indigenous Business Australia Chief Executive Officer, whether or not an appointment has previously been made to the office; or
+                     (a)  during a vacancy in the office of Indigenous Business Australia General Manager, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Indigenous Business Australia Chief Executive Officer is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the Indigenous Business Australia General Manager is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 6 months.
 
@@ -2908,29 +2910,29 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="172A"></a>172A  Disclosure of interests
 
-             (1)  The Indigenous Business Australia Chief Executive Officer must give written notice to the Minister and the Chairperson of the Indigenous Business Australia Board of all direct or indirect pecuniary interests that the Chief Executive Officer has or acquires in any business or in any body corporate that carries on a business.
+             (1)  The Indigenous Business Australia General Manager must give written notice to the Minister and the Chairperson of the Indigenous Business Australia Board of all direct or indirect pecuniary interests that the General Manager has or acquires in any business or in any body corporate that carries on a business.
 
-             (2)  If the Indigenous Business Australia Chief Executive Officer has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Indigenous Business Australia Board, the Chief Executive Officer must, as soon as possible after becoming aware of the relevant facts, disclose the nature of the interest to the Chairperson of the Board in writing.
+             (2)  If the Indigenous Business Australia General Manager has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Indigenous Business Australia Board, the General Manager must, as soon as possible after becoming aware of the relevant facts, disclose the nature of the interest to the Chairperson of the Board in writing.
 
 ##### <a id="173"></a>173  Resignation
 
-                   The Indigenous Business Australia Chief Executive Officer may resign by writing signed by him or her and sent to the Indigenous Business Australia Board.
+                   The Indigenous Business Australia General Manager may resign by writing signed by him or her and sent to the Indigenous Business Australia Board.
 
 ##### <a id="174"></a>174  Other terms and conditions
 
-                   The Indigenous Business Australia Chief Executive Officer holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Indigenous Business Australia Board in writing.
+                   The Indigenous Business Australia General Manager holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Indigenous Business Australia Board in writing.
 
 ### Division 7—Staff
 
 ##### <a id="175"></a>175  Staff
 
-             (1)  The Indigenous Business Australia Chief Executive Officer may, on behalf of Indigenous Business Australia, engage such employees as are necessary for the performance of Indigenous Business Australia’s functions under this Act.
+             (1)  The Indigenous Business Australia General Manager may, on behalf of Indigenous Business Australia, engage such employees as are necessary for the performance of Indigenous Business Australia’s functions under this Act.
 
              (2)  The terms and conditions of employment of persons engaged under this section are as determined by the Indigenous Business Australia Board in writing.
 
 ##### <a id="177"></a>177  Arrangements relating to staff
 
-                   The Indigenous Business Australia Chief Executive Officer may, on behalf of Indigenous Business Australia, make arrangements for the services of officers or employees of:
+                   The Indigenous Business Australia General Manager may, on behalf of Indigenous Business Australia, make arrangements for the services of officers or employees of:
 
                      (a)  the Commonwealth, a State or a Territory; or
 
@@ -2942,7 +2944,7 @@ to be made available to Indigenous Business Australia.
 
 ##### <a id="178"></a>178  Consultants
 
-             (1)  The Indigenous Business Australia Chief Executive Officer may, on behalf of Indigenous Business Australia, engage as consultants to Indigenous Business Australia persons having suitable qualifications and experience.
+             (1)  The Indigenous Business Australia General Manager may, on behalf of Indigenous Business Australia, engage as consultants to Indigenous Business Australia persons having suitable qualifications and experience.
 
              (2)  The terms and conditions on which consultants are engaged are to be as determined by the Indigenous Business Australia Board in writing.
 
@@ -3034,7 +3036,7 @@ is taken to be first financial year for which Indigenous Business Australia must
 
                      (a)  prepared by a member of the staff of Indigenous Business Australia; and
 
-                     (b)  endorsed by or on behalf of the Indigenous Business Australia Chief Executive Officer.
+                     (b)  endorsed by or on behalf of the Indigenous Business Australia General Manager.
 
 ##### <a id="183"></a>183  Borrowing for temporary purposes
 
@@ -3110,11 +3112,11 @@ during the period to which the report relates.
 
 ### Division 9—Miscellaneous
 
-##### <a id="190"></a>190  Delegation to Indigenous Business Australia Chief Executive Officer or member of staff
+##### <a id="190"></a>190  Delegation to Indigenous Business Australia General Manager or member of staff
 
-             (1)  Indigenous Business Australia may, by writing under its seal, delegate all or any of its functions and powers to the Indigenous Business Australia Chief Executive Officer or to a member of its staff.
+             (1)  Indigenous Business Australia may, by writing under its seal, delegate all or any of its functions and powers to the Indigenous Business Australia General Manager or to a member of its staff.
 
-             (2)  If Indigenous Business Australia delegates a function or power under subsection (1) to the Indigenous Business Australia Chief Executive Officer, the Indigenous Business Australia Chief Executive Officer may, by writing signed by him or her, sub‑delegate the function or power to a member of the staff of Indigenous Business Australia.
+             (2)  If Indigenous Business Australia delegates a function or power under subsection (1) to the Indigenous Business Australia General Manager, the Indigenous Business Australia General Manager may, by writing signed by him or her, sub‑delegate the function or power to a member of the staff of Indigenous Business Australia.
 
              (3)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
 
@@ -3126,7 +3128,7 @@ during the period to which the report relates.
 
                      (a)  who is or has been an Indigenous Business Australia Director or acting Indigenous Business Australia Director;
 
-                     (b)  who is or has been the Indigenous Business Australia Chief Executive Officer or an acting Indigenous Business Australia Chief Executive Officer;
+                     (b)  who is or has been the Indigenous Business Australia General Manager or an acting Indigenous Business Australia General Manager;
 
                      (c)  who is or has been employed or engaged under section 175 or 178;
 
@@ -3141,8 +3143,6 @@ during the period to which the report relates.
                      (b)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act.
 
                     Penalty:  50 penalty units.
-
-Exception—housing or business loans
 
           (2A)  It is a defence to a prosecution for contravening subsection (2), if:
 
@@ -3160,57 +3160,7 @@ Exception—housing or business loans
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).
 
-Exception—Indigenous Business Australia Chief Executive Officer
-
-          (2B)  Despite subsection (2), the Indigenous Business Australia Chief Executive Officer may divulge or communicate information, or produce a document, to the Secretary of the Department for the purposes of the Department.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2B): see subsection 13.3(3) of the _Criminal Code_.
-
-          (2C)  In exercising a power under subsection (2B), the Indigenous Business Australia Chief Executive Officer must act in accordance with any guidelines in force under section 191AA.
-
-Exception—public interest
-
-          (2D)  Despite subsection (2), the Indigenous Business Australia Chief Executive Officer may, if he or she determines in writing that it is necessary in the public interest, divulge or communicate information, or produce a document, to specified persons for specified purposes.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2D): see subsection 13.3(3) of the _Criminal Code_.
-
-          (2E)  In making determinations under subsection (2D), the Indigenous Business Australia Chief Executive Officer must act in accordance with any guidelines in force under section 191AA.
-
-           (2F)  A determination under subsection (2D) is not a legislative instrument.
-
-Exception—consent
-
-          (2G)  Despite subsection (2), a person may:
-
-                     (a)  divulge or communicate information to a person authorised in writing, by the person to whose affairs the information relates, to receive the information; or
-
-                     (b)  produce a document to a person authorised in writing, by the person to whose affairs the document relates, to receive the document.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2G): see subsection 13.3(3) of the _Criminal Code_.
-
-Exception—information already publicly available
-
-          (2H)  Despite subsection (2), a person may:
-
-                     (a)  make a record of information, if the information is already publicly available; or
-
-                     (b)  divulge or communicate information to a person, if the information is already publicly available; or
-
-                     (c)  produce a document to a person, if the information contained in the document is already publicly available.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2H): see subsection 13.3(3) of the _Criminal Code_.
-
-Exception—making records
-
-           (2J)  Despite subsection (2), a person may make a record of information in connection with the exercise of a power under subsection (2B), (2D) or (2G).
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2J): see subsection 13.3(3) of the _Criminal Code_.
-
-Divulging or communicating information to courts
-
              (3)  A person to whom this section applies shall not be required to divulge or communicate to a court any information referred to in subsection (2) or to produce in a court any document referred to in that subsection, except when it is necessary to do so for the purposes of this Act, or of a prosecution for an offence against this Act.
-
-Definitions
 
              (4)  A reference in this section to an **_offence against this Act_** includes a reference to:
 
@@ -3229,14 +3179,6 @@ where the offence relates to this Act.
                     <a name="produc"></a>**_produce_** includes permit access to.
 
                     <a name="act"></a>**_this Act_** includes the regulations.
-
-##### <a id="191AA"></a>191AA  Guidelines for exercise of Indigenous Business Australia Chief Executive Officer’s powers
-
-                   The Minister may, by legislative instrument, make guidelines for the exercise of either or both of the following:
-
-                     (a)  the Indigenous Business Australia Chief Executive Officer’s power under subsection 191(2B);
-
-                     (b)  the Indigenous Business Australia Chief Executive Officer’s power to make determinations under subsection 191(2D).
 
 ## Part 4A—Indigenous Land Corporation and Aboriginal and Torres Strait Islander Land Account
 
@@ -4124,49 +4066,49 @@ Procedure and minutes
 
 Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
 
-### Division 8—Indigenous Land Corporation Chief Executive Officer
+### Division 8—Indigenous Land Corporation General Manager
 
-##### <a id="192K"></a>192K  Indigenous Land Corporation Chief Executive Officer
+##### <a id="192K"></a>192K  Indigenous Land Corporation General Manager
 
 Appointment
 
-             (1)  There is to be a Chief Executive Officer of the Indigenous Land Corporation, who is to be appointed by the Indigenous Land Corporation Board.
+             (1)  There is to be a General Manager of the Indigenous Land Corporation, who is to be appointed by the Indigenous Land Corporation Board.
 
 Day‑to‑day administration
 
-             (2)  Subject to subsection (3), the Indigenous Land Corporation Chief Executive Officer must manage the day‑to‑day administration of the Indigenous Land Corporation.
+             (2)  Subject to subsection (3), the Indigenous Land Corporation General Manager must manage the day‑to‑day administration of the Indigenous Land Corporation.
 
 Board’s policies and directions
 
-             (3)  The Indigenous Land Corporation Chief Executive Officer must, in:
+             (3)  The Indigenous Land Corporation General Manager must, in:
 
                      (a)  managing the administration of the Indigenous Land Corporation; and
 
-                     (b)  exercising any powers conferred on the Chief Executive Officer by this Act;
+                     (b)  exercising any powers conferred on the General Manager by this Act;
 
 act in accordance with any policies determined, and any directions given, by the Indigenous Land Corporation Board in writing.
 
 ##### <a id="192L"></a>192L  Term of appointment
 
-                   The Indigenous Land Corporation Chief Executive Officer holds office for such period as is specified in the instrument of appointment. The period must not exceed 4 years.
+                   The Indigenous Land Corporation General Manager holds office for such period as is specified in the instrument of appointment. The period must not exceed 4 years.
 
 ##### <a id="192M"></a>192M  Holding of office
 
-                   The Indigenous Land Corporation Chief Executive Officer holds office during the pleasure of the Indigenous Land Corporation Board.
+                   The Indigenous Land Corporation General Manager holds office during the pleasure of the Indigenous Land Corporation Board.
 
-##### <a id="192N"></a>192N  Remuneration and allowances of Indigenous Land Corporation Chief Executive Officer
+##### <a id="192N"></a>192N  Remuneration and allowances of Indigenous Land Corporation General Manager
 
-                   The Indigenous Land Corporation Chief Executive Officer is to be paid such remuneration and allowances as are determined by the Indigenous Land Corporation Board in writing.
+                   The Indigenous Land Corporation General Manager is to be paid such remuneration and allowances as are determined by the Indigenous Land Corporation Board in writing.
 
-##### <a id="192P"></a>192P  Acting Indigenous Land Corporation Chief Executive Officer
+##### <a id="192P"></a>192P  Acting Indigenous Land Corporation General Manager
 
 Acting appointment
 
-             (1)  The Indigenous Land Corporation Board may appoint a person to act as the Indigenous Land Corporation Chief Executive Officer:
+             (1)  The Indigenous Land Corporation Board may appoint a person to act as the Indigenous Land Corporation General Manager:
 
-                     (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
+                     (a)  during a vacancy in the office of General Manager, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
+                     (b)  during any period, or during all periods, when the General Manager is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
 but a person appointed to act during a vacancy must not continue so to act for more than 6 months.
 
@@ -4184,11 +4126,11 @@ Validation
 
 ##### <a id="192Q"></a>192Q  Resignation
 
-                   The Indigenous Land Corporation Chief Executive Officer may resign by writing signed by him or her and sent to the Indigenous Land Corporation Board.
+                   The Indigenous Land Corporation General Manager may resign by writing signed by him or her and sent to the Indigenous Land Corporation Board.
 
 ##### <a id="192R"></a>192R  Other terms and conditions
 
-                   The Indigenous Land Corporation Chief Executive Officer holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Indigenous Land Corporation Board in writing.
+                   The Indigenous Land Corporation General Manager holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Indigenous Land Corporation Board in writing.
 
 ### Division 9—Staff
 
@@ -4196,7 +4138,7 @@ Validation
 
 Engagement of staff
 
-             (1)  The Indigenous Land Corporation Chief Executive Officer may, on behalf of the Indigenous Land Corporation, engage such employees as are necessary for the performance of the Corporation’s functions under this Act.
+             (1)  The Indigenous Land Corporation General Manager may, on behalf of the Indigenous Land Corporation, engage such employees as are necessary for the performance of the Corporation’s functions under this Act.
 
 Terms and conditions
 
@@ -4204,11 +4146,13 @@ Terms and conditions
 
 ##### <a id="192T"></a>192T  Arrangements for Indigenous Business Australia staff to perform duties on behalf of Indigenous Land Corporation
 
-                   The Indigenous Land Corporation Chief Executive Officer may make arrangements with the Indigenous Business Australia Chief Executive Officer for the performance of duties by the staff of Indigenous Business Australia on behalf of the Indigenous Land Corporation.
+Indigenous Business Australia staff
+
+             (2)  The Indigenous Land Corporation General Manager may make arrangements with the Indigenous Business Australia General Manager for the performance of duties by the staff of Indigenous Business Australia on behalf of the Indigenous Land Corporation.
 
 ##### <a id="192U"></a>192U  Arrangements relating to staff
 
-                   The Indigenous Land Corporation Chief Executive Officer may, on behalf of the Indigenous Land Corporation, make arrangements for the services of officers or employees of:
+                   The Indigenous Land Corporation General Manager may, on behalf of the Indigenous Land Corporation, make arrangements for the services of officers or employees of:
 
                      (a)  the Public Service of the Commonwealth or of a State or Territory; or
 
@@ -4222,7 +4166,7 @@ to be made available to the Indigenous Land Corporation.
 
 Engagement of consultants
 
-             (1)  The Indigenous Land Corporation Chief Executive Officer may, on behalf of the Indigenous Land Corporation, engage as consultants to the Corporation persons having suitable qualifications and experience.
+             (1)  The Indigenous Land Corporation General Manager may, on behalf of the Indigenous Land Corporation, engage as consultants to the Corporation persons having suitable qualifications and experience.
 
 Terms and conditions
 
@@ -4230,7 +4174,7 @@ Terms and conditions
 
 ### Division 10—Aboriginal and Torres   Strait Islander Land Account
 
-##### <a id="192W"></a>192W  Aboriginal and Torres Strait Islander Land Account
+##### <a id="192W"></a>192W  Aboriginal and Torres Strait Islander Land Account
 
 Land Account
 
@@ -4252,7 +4196,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image002.gif)
 
 where:
 
@@ -4282,7 +4226,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image003.gif)
 
 where:
 
@@ -4416,7 +4360,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image004.gif)
 
 where:
 
@@ -4466,7 +4410,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00119/Html/8abc94ca-0f79-446a-b2ad-1e11e6ab80c6_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image005.gif)
 
 where:
 
@@ -4536,7 +4480,7 @@ Definitions
 
                      (a)  who is or has been an Indigenous Land Corporation Director or an acting Indigenous Land Corporation Director; or
 
-                     (b)  who is or has been the Indigenous Land Corporation Chief Executive Officer or an acting Indigenous Land Corporation Chief Executive Officer; or
+                     (b)  who is or has been the Indigenous Land Corporation General Manager or an acting Indigenous Land Corporation General Manager; or
 
                      (c)  who is or has been employed or engaged under section 192S or 192V; or
 
@@ -4634,9 +4578,9 @@ Exception—prosecutions
 
 ### Division 14—Delegation
 
-##### <a id="193T"></a>193T  Delegation to Indigenous Land Corporation Chief Executive Officer or member of staff
+##### <a id="193T"></a>193T  Delegation to Indigenous Land Corporation General Manager or member of staff
 
-                   The Indigenous Land Corporation may, by writing under its seal, delegate any or all of its functions and powers to the Indigenous Land Corporation Chief Executive Officer or to a member of the staff of the Corporation.
+                   The Indigenous Land Corporation may, by writing under its seal, delegate any or all of its functions and powers to the Indigenous Land Corporation General Manager or to a member of the staff of the Corporation.
 
 ### Division 15—Reviews
 
@@ -4814,7 +4758,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (iii)  section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_;
 
-                            being an offence that relates to this Act, the regulations, the Regional Council election rules or the TSRA election rules.
+                            being an offence that relates to this Act, the regulations, the Regional Council election rules or the TSRA election rules.
 
            (10)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
 
@@ -4826,11 +4770,19 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the Chief Executive Officer of Aboriginal Hostels Limited, and the APS employees assisting Aboriginal Hostels Limited, together constitute a Statutory Agency; and
+                     (a)  the General Manager of Aboriginal Hostels Limited, and the APS employees assisting Aboriginal Hostels Limited, together constitute a Statutory Agency; and
 
-                     (b)  the Chief Executive Officer of Aboriginal Hostels Limited is the Head of that Statutory Agency.
+                     (b)  the General Manager of Aboriginal Hostels Limited is the Head of that Statutory Agency.
 
-             (6)  For the purposes of the _Administrative Decisions (Judicial Review) Act 1977_, if Aboriginal Hostels Limited makes a decision relating to an application by an incorporated body for the provision of accommodation for one or more Aboriginal persons or Torres Strait Islanders, the decision is taken to be a decision of an administrative character made under an enactment.
+             (6)  For the purposes of the _Administrative Decisions (Judicial Review) Act 1977_, if Aboriginal Hostels Limited makes a decision relating to any of the following applications:
+
+                     (a)  an application by an incorporated body for the provision of accommodation for one or more Aboriginal persons or Torres Strait Islanders;
+
+                     (b)  an application for a grant under the scheme known as the Community Support Hostel Grant Scheme, where the grant relates to expenditure associated with the establishment or operation of a hostel, or a residential care service within the meaning of the _Aged Care Act 1997_;
+
+                     (c)  an application for a grant under the scheme known as the Student Rent Subsidy Scheme;
+
+the decision is taken to be a decision of an administrative character made under an enactment.
 
              (7)  The Minister may, on behalf of the Commonwealth, enter into an agreement with Aboriginal Hostels Limited.
 
@@ -4868,7 +4820,7 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
                              (ii)  a member of an advisory committee established under section 142M; or
 
-                            (iii)  the TSRA Chief Executive Officer; or
+                            (iii)  the TSRA General Manager; or
 
                             (iv)  a member of the staff of the TSRA; or
 
@@ -5406,7 +5358,7 @@ _Section 140_
 
 ##### <a id="11"></a>11  Inquiries by Court
 
-                   The Court shall inquire whether or not an election petition is duly signed, and so far as rolls and voting are concerned may inquire into the identity of persons, and whether their votes were improperly admitted or rejected, assuming the Commonwealth Electoral Roll to be correct, but the Court shall not inquire into the correctness of the Commonwealth Electoral Roll.
+                   The Court shall inquire whether or not an election petition is duly signed, and so far as rolls and voting are concerned may inquire into the identity of persons, and whether their votes were improperly admitted or rejected, assuming the Commonwealth Electoral Roll to be correct, but the Court shall not inquire into the correctness of the Commonwealth Electoral Roll.
 
 ##### <a id="12"></a>12  Voiding election for illegal practices
 
@@ -5486,7 +5438,7 @@ is a party to the reference.
 
 ##### <a id="21"></a>21  Powers of Court
 
-                   The powers of the Court in hearing a reference include, but are not limited to, the following powers:
+                   The powers of the Court in hearing a reference include, but are not limited to, the following powers:
 
                      (a)  the powers conferred on the Court under clause 10, so far as they are applicable;
 
@@ -5549,10 +5501,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
-  <col width="17%">
-  <col width="22%">
   <col width="16%">
+  <col width="17%">
+  <col width="23%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -5644,7 +5596,7 @@ Remainder: Royal Assent</div>
     <div>20 Sept 1993</div>
   </td>
   <td>
-    <div>Ss. 6, 20, 32, 38 and Part 10 (ss. 39–42)</div>
+    <div>Ss. 6, 20, 32, 38 and Part 10 (ss. 39–42)</div>
   </td>
 </tr>
 <tr>
@@ -5667,8 +5619,8 @@ Part 31
 Remainder: 1 July 1994</div>
   </td>
   <td>
-    <div>Ss. 4, 16, 21, 22, 24, 28, 31, 35–40, 42, 47–52, 59, 63, 66, 68, 75, 79(2), 
-81–104, 111, 112, 115 and 117</div>
+    <div>Ss. 4, 16, 21, 22, 24, 28, 31, 
+35–40, 42, 47–52, 59, 63, 66, 68, 75, 79(2), 81–104, 111, 112, 115 and 117</div>
   </td>
 </tr>
 <tr>
@@ -6106,7 +6058,7 @@ Remainder: Royal Assent</div>
     <div>6 Apr 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–19) and Schedule 3 (item 1): 7 Apr 2006</div>
+    <div>Schedule 1 (items 1–19) and Schedule 3 (item 1): 7 Apr 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -6123,10 +6075,10 @@ Remainder: Royal Assent</div>
     <div>5 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 206): 1 Oct 2006 ( <i>see</i>F2006L03153)</div>
+    <div>Schedule 1 (items 1, 206): 1 Oct 2006 ( <i>see</i>F2006L03153)</div>
   </td>
   <td>
-    <div>Sch. 1 (item 206) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 206) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6175,7 +6127,7 @@ Remainder: Royal Assent</div>
     <div>13 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–3): Royal Assent</div>
+    <div>Schedule 3 (items 1–3): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -6192,10 +6144,10 @@ Remainder: Royal Assent</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 3: 1 July 2010</div>
+    <div>Schedule 3: 1 July 2010</div>
   </td>
   <td>
-    <div>Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6209,7 +6161,7 @@ Remainder: Royal Assent</div>
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (item 7): 18 Dec 2010</div>
+    <div>Schedule 11 (item 7): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -6226,7 +6178,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
+    <div>Schedule 1 (item 1): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -6246,7 +6198,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 1–25) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6264,24 +6216,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Affairs Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>188, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–72, 
-74–80): 8 Dec 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 72, 80) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6573,7 +6507,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006; No. 89, 2010; Nos. 97 and 188, 2011</div>
+    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006; No. 89, 2010; No. 97, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9490,23 +9424,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>S. 142D</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142E</div>
+    <div>Ss. 142D, 142E</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
@@ -9597,7 +9515,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 100, 1994; No. 188, 2011</div>
+    <div>am. No. 100, 1994</div>
   </td>
 </tr>
 <tr>
@@ -10138,22 +10056,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 144F</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 144F(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 144F</div>
   </td>
   <td>
@@ -10165,7 +10067,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 188, 2011</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -10178,34 +10080,10 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 7 of Part 3A</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 144G</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 144G</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10221,7 +10099,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2001; No. 188, 2011</div>
+    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -10230,14 +10108,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10253,15 +10123,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 144L</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -10277,7 +10139,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 188, 2011</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -10290,26 +10152,10 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 144P, 144Q</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10333,7 +10179,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 188, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -10517,7 +10363,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 188, 2011</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -11206,7 +11052,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 4, 2001; No. 188, 2011</div>
+    <div>rs. No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11222,7 +11068,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 4, 2001; No. 188, 2011</div>
+    <div>rs. No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11243,18 +11089,10 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 169</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; Nos. 4 and 159, 2001; No. 188, 2011</div>
+    <div>am. No. 20, 1995; Nos. 4 and 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11262,7 +11100,7 @@ Part 3A</div>
     <div>Ss. 170, 171</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; No. 4, 2001; No. 188, 2011</div>
+    <div>am. No. 20, 1995; No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11278,7 +11116,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 4, 2001; No. 188, 2011</div>
+    <div>rs. No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11286,7 +11124,7 @@ Part 3A</div>
     <div>S. 172</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; No. 4, 2001; No. 188, 2011</div>
+    <div>am. No. 20, 1995; No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11302,7 +11140,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 4, 2001; No. 188, 2011</div>
+    <div>am. No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11310,7 +11148,7 @@ Part 3A</div>
     <div>Ss. 173, 174</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; No. 4, 2001; No. 188, 2011</div>
+    <div>am. No. 20, 1995; No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11335,14 +11173,6 @@ Part 3A</div>
   </td>
   <td>
     <div>rs. No. 4, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11411,14 +11241,6 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 178</div>
   </td>
   <td>
@@ -11431,14 +11253,6 @@ Part 3A</div>
   </td>
   <td>
     <div>rs. No. 4, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11551,14 +11365,6 @@ Part 3A</div>
   </td>
   <td>
     <div>rs. No. 4, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11686,7 +11492,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 4, 2001; No. 188, 2011</div>
+    <div>rs. No. 4, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11707,42 +11513,10 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 191(2A)</div>
-  </td>
-  <td>
-    <div>ad. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 191(3), (4)</div>
-  </td>
-  <td>
-    <div>ad. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 191</div>
   </td>
   <td>
-    <div>am. No. 20, 1995; Nos. 35 and 43, 1996; No. 137, 2000; Nos. 4 and 112, 2001; No. 32, 2005; No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 191AA</div>
-  </td>
-  <td>
-    <div>ad. No. 188, 2011</div>
+    <div>am. No. 20, 1995; Nos. 35 and 43, 1996; No. 137, 2000; Nos. 4 and 112, 2001; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12211,67 +11985,10 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 8 of 
-Part 4A</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 192K</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 192K–192M</div>
+    <div>Ss. 192K–192N</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 192N</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 192N</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 192P</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12280,14 +11997,6 @@ Part 4A</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12308,26 +12017,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 192T</div>
   </td>
   <td>
     <div>am. No. 4, 2001; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 192T(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12343,7 +12036,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 4, 2001; No. 32, 2005; No. 188, 2011</div>
+    <div>am. No. 4, 2001; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12352,14 +12045,6 @@ Part 4A</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12936,7 +12621,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 112, 2001; No. 188, 2011</div>
+    <div>am. No. 112, 2001</div>
   </td>
 </tr>
 <tr>
@@ -12949,26 +12634,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 193T</div>
-  </td>
-  <td>
-    <div>rs. No. 188, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 193T</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -13260,7 +12929,7 @@ No. 20, 1995</div>
     <div>S. 200</div>
   </td>
   <td>
-    <div>am. No. 1, 1994; Nos. 114 and 152, 1997; No. 146, 1999; No. 188, 2011</div>
+    <div>am. No. 1, 1994; Nos. 114 and 152, 1997; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -13276,7 +12945,7 @@ No. 20, 1995</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 188, 2011</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -13830,7 +13499,7 @@ Repeal the subsection.
 
 Omit “section 17AA”, substitute “section 2B”.
 
-As at 23 December 2011 the amendments are not incorporated in this compilation.
+As at 5 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -15852,32 +15521,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Indigenous Affairs Legislation Amendment Act (No. 2) 2011 
- (No. 188, 2011)_
-
-## Schedule 1
-
-## 72  Transitional—secrecy provisions
-
-(1)       Paragraph 191(1)(b) of the _Aboriginal and Torres Strait Islander Act 2005_ applies on and after the commencement of this item as if:
-
-                     (a)  a reference in that paragraph to the Indigenous Business Australia Chief Executive Officer included a reference to the Indigenous Business Australia General Manager; and
-
-                     (b)  a reference in that paragraph to an acting Indigenous Business Australia Chief Executive Officer included a reference to an acting Indigenous Business Australia General Manager.
-
-(2)       Paragraph (b) of the definition of **_ILC officer_** in subsection 193S(1) of the _Aboriginal and Torres Strait Islander Act 2005_ applies on and after the commencement of this item as if:
-
-                     (a)  a reference in that paragraph to the Indigenous Land Corporation Chief Executive Officer included a reference to the Indigenous Land Corporation General Manager; and
-
-                     (b)  a reference in that paragraph to an acting Indigenous Land Corporation Chief Executive Officer included a reference to an acting Indigenous Land Corporation General Manager.
-
-(3)       Subparagraph 200A(1)(b)(iii) of the _Aboriginal and Torres Strait Islander Act 2005_ applies on and after the commencement of this item as if a reference in that subparagraph to the TSRA Chief Executive Officer included a reference to the TSRA General Manager.
-
-## 80  Application
-
-The amendment made by this Part applies in relation to decisions made on or after the commencement of this Part.
 
  
