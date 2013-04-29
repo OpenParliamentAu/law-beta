@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00809/Html/86b88105-1b75-470b-aee0-080e95b66c68_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00215/Html/0ba689ad-bea0-4a57-847f-fcaa4ad4c690_files/image001.gif)
 
 # Rural Adjustment Act 1992
 
 **Act No. 240 of 1992 as amended**
 
-This compilation was prepared on 30 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of these amendments not in force
  on that date is appended in the Notes section
@@ -566,7 +566,7 @@ This subsection does not, by implication, limit the generality of subsection (1)
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-# Notes to the _Rural Adjustment Act 1992_
+# Notes to the_ Rural Adjustment Act 1992_
 
 ### Note 1
 
@@ -651,7 +651,7 @@ of Assent</div>
     <div>12 Apr 1995</div>
   </td>
   <td>
-    <div>S. 3 (items 29–50): Royal Assent <i>(b)</i></div>
+    <div>S. 3 (items 29‑50): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>S. 3 (item 50)</div>
@@ -775,23 +775,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 995, 996) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1297,26 +1280,6 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 995  At the end of subsections 15(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 996  Subsections 15(3) and (5)
-
-Repeal the subsections.
-
-As at 30 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1342,21 +1305,5 @@ _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No.
 ## 7  Transitional—continuity of Council not affected by amendments
 
 The amendments made by this Schedule do not affect the continuity, after this Schedule commences, of the existence and the membership of the body that is renamed by those amendments as the National Rural Advisory Council.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
