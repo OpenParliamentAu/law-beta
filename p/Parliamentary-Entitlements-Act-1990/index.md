@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
 **Act No. 28 of 1990 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 13 October 2009
+ taking into account amendments up to Act No. 144 of 2008
 
-[**Note**: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (SR 1997 No. 318 as amended) _see_ Table A]
+\[Note: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (SR 1997 No. 318 as amended) _see_ Table A]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -16,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Entitlement to additional benefits
 
-[6](#6).            Amount of benefit reduced if entitlement begins part‑way through financial year
+[6](#6).            Amount of benefit reduced if entitlement begins part-way through financial year
 
 [7](#7).            Calculation of benefits
 
@@ -48,13 +48,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Amendment of Remuneration Tribunal Act
 
-[14](#14).          Transitional: financial year 1989‑90
+[14](#14).          Transitional: financial year 1989-90
 
 **Schedule 1—Scheduled benefits [_see_ also Table A]** 
 
 **Part 1—Members** 
 
-**Part 2—Parliamentary office‑holders and Ministers** 
+**Part 2—Parliamentary office-holders and Ministers** 
 
 **Schedule 2—Amendment of Remuneration Tribunal Act 1973** 
 
@@ -82,8 +82,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="cost-travel"></a>**_cost of travel_** means the cost of fares, accommodation, meals and incidentals.
 
-                    <a name="defenc-minist"></a>**_Defence Minister_** means the Minister administering section 1 of the _Defence Act 1903_.
-
                     <a name="depend-child"></a>**_dependent child_**, in relation to a Senior Officer, means:
 
                      (a)  a person under 16 who:
@@ -96,13 +94,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  at least 16 but under 25;
 
-                             (ii)  receiving full‑time education at a school, college or university; and
+                             (ii)  receiving full-time education at a school, college or university; and
 
                             (iii)  wholly or substantially dependent upon the Officer.
 
                     <a name="incident"></a>**_incidentals_** includes the cost of transport.
 
-                    <a name="deputi-leader-minor-parti"></a><a name="leader-minor-parti"></a>**_leader of a minority party_** means the leader of a recognised non‑Government party of at least 5 members, but does not include an Opposition Office Holder, and **_deputy leader of a minority party_** has a corresponding meaning.
+                    <a name="deputi-leader-minor-parti"></a><a name="leader-minor-parti"></a>**_leader of a minority party_** means the leader of a recognised non-Government party of at least 5 members, but does not include an Opposition Office Holder, and **_deputy leader of a minority party_** has a corresponding meaning.
 
                     <a name="member"></a>**_member_** means a member of either House of the Parliament.
 
@@ -112,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the Leader or Deputy Leader of the Opposition in the Senate.
 
-                    <a name="parliamentari-offic-holder"></a>**_Parliamentary office‑holder_** means a person holding a particular office, or performing particular functions, in or in relation to the Parliament or either House of the Parliament.
+                    <a name="parliamentari-offic-holder"></a>**_Parliamentary office-holder_** means a person holding a particular office, or performing particular functions, in or in relation to the Parliament or either House of the Parliament.
 
                     <a name="presid-offic"></a>**_Presiding Officer_** means the President of the Senate or the Speaker of the House of Representatives.
 
@@ -128,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Members are entitled to benefits as set out in Part 1 of Schedule 1.
 
-             (2)  Parliamentary office‑holders and Ministers are entitled to benefits as set out in Part 2 of Schedule 1.
+             (2)  Parliamentary office-holders and Ministers are entitled to benefits as set out in Part 2 of Schedule 1.
 
              (3)  Benefits under subsection (2) are in addition to benefits under subsection (1).
 
@@ -140,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Entitlement to additional benefits
 
-             (1)  Members, Parliamentary office‑holders and Ministers are entitled to such additional benefits as are:
+             (1)  Members, Parliamentary office-holders and Ministers are entitled to such additional benefits as are:
 
                      (a)  determined by the Remuneration Tribunal under section 7 of the _Remuneration Tribunal Act 1973_; or
 
@@ -148,25 +146,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Subsection (1) does not extend to a benefit in the nature of remuneration.
 
-##### <a id="6"></a>6  Amount of benefit reduced if entitlement begins part‑way through financial year
+##### <a id="6"></a>6  Amount of benefit reduced if entitlement begins part-way through financial year
 
              (1)  If:
 
-                     (a)  a person becomes a member or a Parliamentary office‑holder during a financial year; and
+                     (a)  a person becomes a member or a Parliamentary office-holder during a financial year; and
 
                      (b)  a benefit to which the person is entitled is limited to an annual amount;
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
 ##### <a id="7"></a>7  Calculation of benefits
 
-             (1)  A person is entitled to a benefit (other than a benefit for a Parliamentary office‑holder or a Minister) during the whole time when the person is entitled to an allowance under the _Parliamentary Allowances Act 1952_.
+             (1)  A person is entitled to a benefit (other than a benefit for a Parliamentary office-holder or a Minister) during the whole time when the person is entitled to an allowance under the _Parliamentary Allowances Act 1952_.
 
-             (2)  A person is entitled to a benefit for a Parliamentary office‑holder only so long as the person is a Parliamentary office‑holder.
+             (2)  A person is entitled to a benefit for a Parliamentary office-holder only so long as the person is a Parliamentary office-holder.
 
              (3)  A person is entitled to a benefit for a Minister only so long as the person is a Minister.
 
@@ -196,23 +194,23 @@ then, during that year, the person is entitled only to a proportionate amount of
 
 ##### <a id="12"></a>12  Regulations
 
-                   The Governor‑General may make regulations for the purposes of paragraph 5(1)(b) and section 9.
+                   The Governor-General may make regulations for the purposes of paragraph 5(1)(b) and section 9.
 
-##### <a id="13"></a>13  Amendment of Remuneration Tribunal Act
+##### <a id="13"></a>13  Amendment of Remuneration Tribunal Act
 
              (1)  The _Remuneration Tribunal Act 1973_ is amended as set out in Schedule 2.
 
              (2)  A determination under section 7 of the _Remuneration Tribunal Act 1973_ and in force immediately before the commencement of this Act continues in force as if it had been made under that Act as amended by this Act.
 
-##### <a id="14"></a>14  Transitional: financial year 1989‑90
+##### <a id="14"></a>14  Transitional: financial year 1989-90
 
-             (1)  In its application to the financial year 1989‑90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
+             (1)  In its application to the financial year 1989-90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00224/Html/f780741c-8242-4948-b00a-a98a8e055d6f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
-             (2)  In its application to the financial year 1989‑90, an amount referred to in item 3 of Part 1 of Schedule 1 is to be read as the amount (if any) by which $9,000 exceeds the amount spent by the member on postage in relation to Parliamentary or electorate business (other than party business) during the period beginning on 1 July 1989 and ending at the commencement of this Act.
+             (2)  In its application to the financial year 1989-90, an amount referred to in item 3 of Part 1 of Schedule 1 is to be read as the amount (if any) by which $9,000 exceeds the amount spent by the member on postage in relation to Parliamentary or electorate business (other than party business) during the period beginning on 1 July 1989 and ending at the commencement of this Act.
 
              (3)  An amount worked out under subsection (1) must be rounded to the nearest whole number that is greater than zero.
 
@@ -346,12 +344,13 @@ _Section 4_
   </td>
   <td>
     <div>
-      For travel in Australia for purposes related to Parliamentary or electorate
-        business:
+      For travel in
+      Australia
+      for purposes related to Parliamentary or electorate business:
     </div>
-    <div>(a) the cost of first‑class scheduled commercial services; and</div>
+    <div>(a) the cost of first-class scheduled commercial services; and</div>
     <div>(b) the use of official cars; and</div>
-      <div>(c) the use of special purpose aircraft as approved by the Defence Minister.</div>
+      <div>(c) the use of special purpose aircraft as approved by the Minister for Defence.</div>
   </td>
 </tr>
 <tr>
@@ -365,7 +364,7 @@ _Section 4_
       For travel overseas as a member of a Parliamentary Delegation within a
         program approved for each calendar year by the Prime Minister:
     </div>
-    <div>(a) the cost of travel in accordance with the official itinerary (or, if it is cheaper, a round‑the‑world ticket); and</div>
+    <div>(a) the cost of travel in accordance with the official itinerary (or, if it is cheaper, a round-the-world ticket); and</div>
     <div>(b) equipment and clothing allowances equivalent to the appropriate Australian Public Service standard; and</div>
     <div>(c) the cost of official hospitality extended by the delegation; and</div>
     <div>(d) the cost of medical and hospital services received by the member; and</div>
@@ -402,27 +401,27 @@ _Section 4_
   </td>
 </tr></table>
 
-## Part 2—Parliamentary office‑holders and Ministers
+## Part 2—Parliamentary office-holders and Ministers
 
 1.  (1)   For travel in Australia on official business:
 
-     (a)   for any Parliamentary office‑holder, the cost of first‑class scheduled commercial services; and
+     (a)   for any Parliamentary office-holder, the cost of first-class scheduled commercial services; and
 
      (b)   for an Opposition Office Holder or Presiding Officer, the use of an official car (with a driver and a car telephone) in Canberra and the capital city of the home State or Territory; and
 
      (c)   for the leader of a minority party, the use of an official car (with a driver) in the capital city of the home State or Territory; and
 
-     (d)   for any Parliamentary office‑holder, the use of official cars; and
+     (d)   for any Parliamentary office-holder, the use of official cars; and
 
      (e)   for an Opposition Office Holder or Presiding Officer, the cost of charter transport; and
 
      (f)   for the leader of a minority party, the cost of air charter transport, not exceeding an annual amount of $10,000; and
 
-     (g)   for any Parliamentary office‑holder, with the approval of the Defence Minister, the use of special purpose aircraft.
+     (g)   for any Parliamentary office-holder, with the approval of the Minister for Defence, the use of special purpose aircraft.
 
      (2)   Any member, when representing an Opposition Office Holder or Presiding Officer, is entitled to the same benefits under subitem (1) as the person being represented.
 
-     (3)   For any Parliamentary office‑holder, with the approval of the Defence Minister, the use of special purpose aircraft for travel in Australia, during election campaigns, on campaign business.
+     (3)   For any Parliamentary office-holder, with the approval of the Minister for Defence, the use of special purpose aircraft for travel in Australia, during election campaigns, on campaign business.
 
 2.  (1)   For travel overseas on official business by the Leader or Deputy Leader of the Opposition in the House of Representatives or a Presiding Officer:
 
@@ -432,7 +431,7 @@ _Section 4_
 
      (ii)   in the case of the Deputy Leader—$5,818; and
 
-     (b)   for a Presiding Officer travelling on an itinerary approved by the Prime Minister, the cost of first‑class fares; and
+     (b)   for a Presiding Officer travelling on an itinerary approved by the Prime Minister, the cost of first-class fares; and
 
      (c)   the cost of accommodation, meals and incidentals; and
 
@@ -454,7 +453,7 @@ _Section 4_
 
      (a)   the cost of travel at economy class for 3 return visits between Canberra and the electorate each year; and
 
-     (b)   with the prior approval of the Minister, the cost of travel at economy class (or at first‑class if accompanying the Officer or spouse) for:
+     (b)   with the prior approval of the Minister, the cost of travel at economy class (or at first-class if accompanying the Officer or spouse) for:
 
      (i)    1 return visit to any place within Australia each year; and
 
@@ -555,7 +554,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -565,23 +564,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 7 (item 51): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 178–181): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -624,23 +606,7 @@ of Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr></table>
 
@@ -798,7 +764,7 @@ Parliamentary Delegation
 
 insert
 
-, other than an Inter‑Parliamentary Union or Commonwealth Parliamentary Association delegation,
+, other than an Inter-Parliamentary Union or Commonwealth Parliamentary Association delegation,
 
 \[106]       Paragraph 9 (1) (a)
 
@@ -832,9 +798,9 @@ substitute
 
                          (ii)    the cost of insurance for medical and hospital treatment for the member in the period covered by the official itinerary; 
 
-                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas by the member in the period covered by the official itinerary if the cost is not covered by insurance; and
+                         (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas by the member in the period covered by the official itinerary if the cost is not covered by insurance; and
 
-             (da)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
+              (da)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
 
 \[110]       Paragraph 9 (1) (f)
 
@@ -860,7 +826,7 @@ substitute
 
 insert
 
-_Note_ Travel for Inter‑Parliamentary Union and Commonwealth Parliamentary Association delegations is funded separately by the Parliament.
+_Note_ Travel for Inter-Parliamentary Union and Commonwealth Parliamentary Association delegations is funded separately by the Parliament.
 
 \[113]       Item 10
 
@@ -946,11 +912,11 @@ substitute
 
                          (ii)    the cost of insurance for medical and hospital treatment for the Leader, Deputy Leader or Presiding Officer when travelling overseas; 
 
-                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas by the Leader, Deputy Leader or Presiding Officer if the cost is not covered by insurance; and
+                         (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas by the Leader, Deputy Leader or Presiding Officer if the cost is not covered by insurance; and
 
-               (g)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
+                (g)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
 
-               (h)    equipment and clothing allowances equivalent to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade.
+                (h)    equipment and clothing allowances equivalent to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade.
 
 \[208A]    Subitem 3 (1)
 
@@ -982,7 +948,7 @@ prior
 
 omit
 
-first‑class
+first-class
 
 insert
 
@@ -996,7 +962,7 @@ substitute
 
                 (a)    the full cost of installation, maintenance and rental of the line; and
 
-               (b)    all call and on‑line costs.
+               (b)    all call and on-line costs.
 
          (2)   For the leader of a minority party:
 
@@ -1006,7 +972,7 @@ substitute
 
                           (i)    the full cost of installation, maintenance and rental of the line; and
 
-                         (ii)    all call and on‑line costs.
+                         (ii)    all call and on-line costs.
 
 <a id="\[212]"></a>\[212]       Item 7
 
@@ -1016,6 +982,6 @@ official business
 
 insert
 
-, other than postage for a bulk mail‑out
+, other than postage for a bulk mail-out
 
  
