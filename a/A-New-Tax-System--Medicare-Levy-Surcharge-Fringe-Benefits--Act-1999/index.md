@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 27 December 2011
- taking into account amendments up to Act No. 159 of 2011
+This compilation was prepared on 29 June 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -158,7 +158,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -174,11 +174,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -186,7 +186,7 @@ De facto couples treated as if married
 
              (1)  This Act applies to 2 persons (whether of the same sex or different sexes) as if they were married to each other for a period if:
 
-                     (a)  their relationship is registered for the period under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; or
+                     (a)  their relationship is registered for the period under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; or
 
                      (b)  they lived together in a relationship as a couple on a genuine domestic basis for the period, although not legally married to each other.
 
@@ -264,7 +264,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -316,7 +316,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -406,7 +406,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00038/Html/f04c59d0-6cef-4340-b8b3-a7880d14a7ce_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image007.gif)
 
 where:
 
@@ -662,7 +662,7 @@ S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
     <div>Schedule 1 (items 1, 13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13) 
+    <div>Sch. 1 (item 13) 
 S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
   </td>
 </tr>
@@ -763,7 +763,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–8): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 4–8): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -834,7 +834,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>Schedule 14 (items 1, 2): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 14 (item 2)</div>
+    <div>Sch. 14 (item 2)</div>
   </td>
 </tr>
 <tr>
@@ -848,10 +848,10 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 22–32, 102(1)): 27 Mar 2009</div>
+    <div>Schedule 3 (items 22–32, 102(1)): 27 Mar 2009</div>
   </td>
   <td>
-    <div>Sch. 3 (item 102(1))</div>
+    <div>Sch. 3 (item 102(1))</div>
   </td>
 </tr>
 <tr>
@@ -868,7 +868,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>Schedule 1 (items 1, 13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13)</div>
+    <div>Sch. 1 (item 13)</div>
   </td>
 </tr>
 <tr>
@@ -885,7 +885,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>Schedule 1 (item 1, 13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13)</div>
+    <div>Sch. 1 (item 13)</div>
   </td>
 </tr>
 <tr>
@@ -902,7 +902,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>Schedule 1 (items 1, 13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13)</div>
+    <div>Sch. 1 (item 13)</div>
   </td>
 </tr>
 <tr>
@@ -916,27 +916,10 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 65) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 65) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy (Tax Laws Amendments) Act 2011</div>
-  </td>
-  <td>
-    <div>159, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 11)</div>
   </td>
 </tr></table>
 
@@ -1031,8 +1014,8 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1103,7 +1086,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 46, 2011</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1237,17 +1220,17 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 
 ### Note 2
 
-_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-The following amendment commences on 1 July 2012:
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
-## 1  Paragraphs 15(1)(c) and 16(2)(c)
+## 65  Paragraph 7(1)(a)
 
-Omit “$18,839”, substitute “20,542”.
+Omit “section 22B”, substitute “section 2E”.
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 29 June 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1471,6 +1454,8 @@ The amendments made by this Schedule apply to assessments for the 2010‑11 year
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
 ## Schedule 3
 
 ## 10  Saving—appointments
@@ -1480,17 +1465,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 2
-
-## 11  Application provision
-
-The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
 
  
