@@ -1,7 +1,7 @@
 
 National Environment Protection Council Act 1994
-Act No. 126 of 1994 as amended
-This compilation was prepared on 15 September 2003 taking into account amendments up to Act No. 82 of 2003
+Act No. 126 of 1994 as amended
+This compilation was prepared on 14 January 2003 taking into account amendments up to Act No. 142 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,24 +9,24 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	2
+Part 1—Preliminary	2
 1	Short title [see Note 1]	2
 2	Commencement [see Note 1]	2
 3	Object of Act	2
 4	Act to bind Crown	2
 5	Application of Act	3
 6	Definitions	3
-7	Implementation of national environment protection measures	5
-Part 2—Establishment and membership of the National Environment Protection Council	6
+7	Implementation of national environment protection measures	4
+Part 2—Establishment and membership of the National Environment Protection Council	6
 8	The National Environment Protection Council	6
 9	Membership of the Council	6
 10	Chairperson of the Council	7
 11	Deputies	7
-Part 3—Functions and powers of the Council	8
-Division 1—Functions and powers	8
+Part 3—Functions and powers of the Council	8
+Division 1—Functions and powers	8
 12	Functions of the Council	8
 13	Powers of the Council	8
-Division 2—Making of national environment protection measures	9
+Division 2—Making of national environment protection measures	9
 14	Council may make national environment protection measures	9
 15	General considerations in making national environment protection measures	10
 16	Council to give notice of intention to prepare a draft of proposed measure	10
@@ -35,30 +35,30 @@ Division 2—Making of national environment protection measures	9
 19	Council to have regard to impact statements and submissions	12
 20	Variation or revocation of measures	12
 21	National environment protection measures to be disallowable instruments	13
-22	Failure to comply with procedural requirements	14
-Division 3—Assessment and reporting on implementation and effectiveness of measures	15
+22	Failure to comply with procedural requirements	13
+Division 3—Assessment and reporting on implementation and effectiveness of measures	15
 23	Report by Minister on implementation and effectiveness of measures	15
 24	Annual report of Council	15
-Part 4—Meetings of the Council and establishment and meetings of its Committees	16
-Division 1—Meetings of Council	16
+Part 4—Meetings of the Council and establishment and meetings of its Committees	16
+Division 1—Meetings of Council	16
 25	Convening of meetings	16
 26	Procedure at meetings	16
 27	Quorum	16
 28	Voting at meetings	16
-Division 2—Committees of Council	17
+Division 2—Committees of Council	17
 29	NEPC Committee	17
 30	Chairperson of NEPC Committee	17
 31	Procedures of NEPC Committee	17
 32	Functions of NEPC Committee	17
 33	Other committees	18
 34	Withdrawal from Agreement	18
-Part 5—NEPC Service Corporation, NEPC Executive Officer and staff	19
-Division 1—The NEPC Service Corporation	19
+Part 5—NEPC Service Corporation, NEPC Executive Officer and staff	19
+Division 1—The NEPC Service Corporation	19
 35	NEPC Service Corporation	19
 36	Functions of the Service Corporation	19
-37	Powers of the Service Corporation	20
+37	Powers of the Service Corporation	19
 38	Contracts and leases	20
-Division 2—The NEPC Executive Officer	21
+Division 2—The NEPC Executive Officer	21
 39	NEPC Executive Officer	21
 40	NEPC Executive Officer to control Service Corporation	21
 41	NEPC Executive Officer to act in accordance with Council directions	21
@@ -69,35 +69,36 @@ Division 2—The NEPC Executive Officer	21
 46	Terms and conditions not provided for by Act	23
 47	Acting NEPC Executive Officer	23
 48	Powers and functions of acting NEPC Executive Officer	23
-Division 3—Staff of the Service Corporation and consultants	24
+Division 3—Staff of the Service Corporation and consultants	24
 49	Public Service staff of Service Corporation	24
 50	Non‑Public Service staff of Service Corporation	24
 51	Staff seconded to Service Corporation	24
 52	Consultants	25
-Part 6—Finance	26
+Part 6—Finance	26
 53	Payments to Service Corporation by Commonwealth	26
 54	Payments to Service Corporation by States and Territories	26
 55	Money of Service Corporation	26
 56	Application of money of Service Corporation	26
 57	Estimates	27
 59	Application of the Commonwealth Authorities and Companies Act 1997	27
-Part 7—Miscellaneous	29
+Part 7—Miscellaneous	29
 60	Powers and functions conferred under corresponding legislation	29
 61	Delegation by Council	29
 62	Acts done by Council	29
 63	Regulations	30
 64	Review of operation of Act	30
 Schedule—Intergovernmental Agreement on the Environment	31
-Schedule 1—Data Collection and Handling	47
-Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes	48
-Schedule 3—Environmental Impact Assessment	50
-Schedule 4—National Environment Protection Measures	52
-Schedule 5—Climate Change	57
-Schedule 6—Biological Diversity	59
-Schedule 7—National Estate	61
-Schedule 8—World Heritage	63
-Schedule 9—Nature Conservation	64
-Annexure AReservation by the Northern Territory	68
+Schedule 1—Data Collection and Handling	46
+Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes	47
+Schedule 3—Environmental Impact Assessment	49
+Schedule 4—National Environment Protection Measures	51
+Schedule 5—Climate Change	56
+Schedule 6—Biological Diversity	58
+Schedule 7—National Estate	60
+Schedule 8—World Heritage	62
+Schedule 9—Nature Conservation	63
+Annexure AReservation by the Northern Territory	67
+Annexure A	67
 Notes	69
 An Act to provide for the establishment of a National Environment Protection Council, and for related purposes
   
@@ -108,13 +109,13 @@ That Agreement provides that the Commonwealth, the States, the Australian Capita
 That Agreement further provides that once the form of the joint legislative provision for the establishment of the body has been agreed to, the Commonwealth, the States, the Australian Capital Territory and the Northern Territory will submit to their Parliaments or Legislative Assemblies, and take such steps as are appropriate to secure the passage of, Bills containing that legislation. 
 The Parliament of Australia enacts:
 
-Part 1—Preliminary
+Part 1—Preliminary
   
 1  Short title [see Note 1]
 		This Act may be cited as the National Environment Protection Council Act 1994.
 2  Commencement [see Note 1]
 	(1)	This Act commences on a day to be fixed by Proclamation.
-	(2)	If this Act does not commence under subsection (1) within the period of one year beginning on the day on which this Act receives the Royal Assent, it is repealed on the first day after the end of that period.
+	(2)	If this Act does not commence under subsection (1) within the period of one year beginning on the day on which this Act receives the Royal Assent, it is repealed on the first day after the end of that period.
 3  Object of Act
 		The object of this Act is to ensure that, by means of the establishment and operation of the National Environment Protection Council:
 	(a)	people enjoy the benefit of equivalent protection from air, water or soil pollution and from noise, wherever they live in Australia; and
@@ -125,9 +126,9 @@ Part 1—Preliminary
 		This Act extends to all of the external Territories other than Norfolk Island.
 6  Definitions
 	(1)	In this Act, unless the contrary intention appears:
-Agreement means the agreement made on 1 May 1992 between the Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the Australian Local Government Association, a copy of which is set out in the Schedule.
+Agreement means the agreement made on 1 May 1992 between the Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the Australian Local Government Association, a copy of which is set out in the Schedule.
 Australian Local Government Association means the Australian Local Government Association Limited.
-Council means the National Environment Protection Council established by section 8.
+Council means the National Environment Protection Council established by section 8.
 member means a member of the Council.
 national environment protection goal means a goal:
 	(a)	that relates to desired environmental outcomes; and
@@ -138,9 +139,9 @@ national environment protection protocol means a protocol that relates to the pr
 	(a)	whether a particular standard or goal is being met or achieved; or
 	(b)	the extent of the difference between the measured characteristic of the environment and a particular standard or a particular goal.
 national environment protection standard means a standard that consists of quantifiable characteristics of the environment against which environmental quality can be assessed.
-NEPC Committee means the committee established by section 29.
-NEPC Executive Officer means the person who, from time to time, holds the office of NEPC Executive Officer established by section 39 and includes a person acting in that office.
-NEPC Service Corporation means the Corporation established under section 35.
+NEPC Committee means the committee established by section 29.
+NEPC Executive Officer means the person who, from time to time, holds the office of NEPC Executive Officer established by section 39 and includes a person acting in that office.
+NEPC Service Corporation means the Corporation established under section 35.
 participating jurisdiction means the Commonwealth, a participating State or a participating Territory.
 participating State means a State:
 	(a)	that is a party to the Agreement; and
@@ -153,9 +154,9 @@ Territory means the Australian Capital Territory or the Northern Territory.
 	(2)	A reference in this Act to the implementation of national environment protection measures includes a reference to the enforcement of the laws and other arrangements made for the purpose of implementing those measures.
 7  Implementation of national environment protection measures
 	(1)	It is the intention of the Parliament that the Commonwealth will, in compliance with its obligations under the Agreement, implement, by such laws and other arrangements as are necessary, each national environment protection measure in respect of activities that are subject to Commonwealth law, including activities of the Commonwealth (and its instrumentalities) in a participating jurisdiction.
-	(2)	Without limiting the generality of subsection (1), the Commonwealth will apply, as Commonwealth law, designated laws used to implement each such measure in a participating jurisdiction, to the extent necessary to achieve the effect referred to in subsection (1).
+	(2)	Without limiting the generality of subsection (1), the Commonwealth will apply, as Commonwealth law, designated laws used to implement each such measure in a participating jurisdiction, to the extent necessary to achieve the effect referred to in subsection (1).
 
-Part 2—Establishment and membership of the National Environment Protection Council
+Part 2—Establishment and membership of the National Environment Protection Council
   
 8  The National Environment Protection Council
 		The National Environment Protection Council is established.
@@ -174,32 +175,32 @@ Part 2—Establishment and membership of the National Environment Protection Co
 10  Chairperson of the Council
 		The member referred to in paragraph 9(1)(a) is the Chairperson of the Council.
 11  Deputies
-	(1)	The Prime Minister, the Premier of a participating State or the Chief Minister of a participating Territory may nominate a Minister to be the deputy of the Minister nominated under section 9.
+	(1)	The Prime Minister, the Premier of a participating State or the Chief Minister of a participating Territory may nominate a Minister to be the deputy of the Minister nominated under section 9.
 	(2)	In the event of the absence or unavailability of the Chairperson, or of another member, the Minister nominated as the deputy of the Chairperson or of that other member:
 	(a)	may act in the place of the Chairperson or of that other member; and
 	(b)	while so acting, has all the functions and powers of the Chairperson or of that other member.
 	(3)	Nominations under this section must be in writing.
-	(4)	Anything done by or in relation to a person purporting to act under a nomination under subsection (1) is not invalid merely because:
+	(4)	Anything done by or in relation to a person purporting to act under a nomination under subsection (1) is not invalid merely because:
 	(a)	there was a defect or irregularity in connection with the nomination; or
 	(b)	the occasion to act had not arisen or had ceased.
 
-Part 3—Functions and powers of the Council
-Division 1—Functions and powers
+Part 3—Functions and powers of the Council
+Division 1—Functions and powers
 12  Functions of the Council
 		The Council has the following functions:
-	(a)	to make national environment protection measures in accordance with Division 2;
+	(a)	to make national environment protection measures in accordance with Division 2;
 	(b)	to assess and report on the implementation and effectiveness, in participating jurisdictions, of national environment protection measures.
 13  Powers of the Council
 		The Council has power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions, and, in particular, has power to:
 	(a)	consult with appropriate persons and bodies; and
-	(b)	obtain advice and assistance from the NEPC Committee or from another committee established by the Council under section 33; and
+	(b)	obtain advice and assistance from the NEPC Committee or from another committee established by the Council under section 33; and
 	(c)	undertake or commission research; and
 	(d)	publish reports relating to the functions and powers of the Council; and
 	(e)	provide information to the public (including industry); and
 	(f)	consult with relevant Commonwealth, State and Territory bodies; and
 	(g)	consult with the Australian Local Government Association.
 
-Division 2—Making of national environment protection measures
+Division 2—Making of national environment protection measures
 14  Council may make national environment protection measures
 	(1)	The Council may, by instrument in writing, make a measure, to be known as a national environment protection measure, that relates to any one or more of the following:
 	(a)	ambient air quality;
@@ -208,7 +209,7 @@ Division 2—Making of national environment protection measures
 	(d)	general guidelines for the assessment of site contamination;
 	(e)	environmental impacts associated with hazardous wastes;
 	(f)	the re‑use and recycling of used materials;
-	(g)	except as provided in subsection (2), motor vehicle noise and emissions.
+	(g)	except as provided in subsection (2), motor vehicle noise and emissions.
 	(2)	Noise and emission standards relating to the design, construction and technical characteristics of new and in‑service motor vehicles may only:
 	(a)	be developed and agreed in conjunction with the National Road Transport Commission; and
 	(b)	be determined in accordance with the National Road Transport Commission Act 1991 and, where appropriate, the Motor Vehicle Standards Act 1989.
@@ -219,7 +220,7 @@ Division 2—Making of national environment protection measures
 	(d)	a national environment protection protocol.
 15  General considerations in making national environment protection measures
 		In making any national environment protection measure, the Council must have regard to:
-	(a)	whether the measure is consistent with section 3 of the Agreement; and
+	(a)	whether the measure is consistent with section 3 of the Agreement; and
 	(b)	the environmental, economic and social impact of the measure; and
 	(c)	the simplicity, efficiency and effectiveness of the administration of the measure; and
 	(d)	whether the most effective means of achieving the desired environmental outcomes of the measure is by means of a national environment protection standard, goal or guideline or any particular combination thereof; and
@@ -252,26 +253,26 @@ Division 2—Making of national environment protection measures
 	(2)	A notice must:
 	(a)	be published in the Gazette; and
 	(b)	so far as each participating State or Territory is concerned—also be published, on at least 2 days during the month when the Gazette notice is published, in a newspaper circulating in that State or Territory.
-	(3)	The period specified in each notice under subsection (1) must end not less than 2 months after the day on which paragraph (2)(b) has been fully complied with in all participating jurisdictions.
+	(3)	The period specified in each notice under subsection (1) must end not less than 2 months after the day on which paragraph (2)(b) has been fully complied with in all participating jurisdictions.
 19  Council to have regard to impact statements and submissions
-		In making a national environment protection measure, the Council is to have regard, in addition to the matters referred to in section 15, to:
+		In making a national environment protection measure, the Council is to have regard, in addition to the matters referred to in section 15, to:
 	(a)	the impact statement that relates to the measure; and
 	(b)	any submissions it receives that relate to the measure or to the impact statement; and
-	(c)	any advice from the NEPC Committee or from a committee established under section 33.
+	(c)	any advice from the NEPC Committee or from a committee established under section 33.
 20  Variation or revocation of measures
 	(1)	The Council may vary or revoke any national environment protection measure.
 	(2)	If the Council intends to vary or revoke a national environment protection measure, the Council must publish a notice specifying the measure that the Council intends varying or revoking.
 	(3)	The notice must:
 	(a)	be published in the Gazette; and
 	(b)	so far as each participating State or Territory is concerned—also be published, on at least 2 days during the month when the Gazette notice is published, in a newspaper circulating in that State or Territory.
-	(4)	Sections 15, 17, 18 and 19 apply to a variation or revocation of a national environment protection measure as if:
+	(4)	Sections 15, 17, 18 and 19 apply to a variation or revocation of a national environment protection measure as if:
 	(a)	a reference to making a national environment protection measure were a reference to a variation or revocation of a national environment protection measure, as the case may be; and
 	(b)	a reference to a national environment protection measure were a reference to the variation or revocation of such a measure, as the case may be; and
 	(c)	a reference to a proposed national environment protection measure were a reference to a proposed variation or proposed revocation of such a measure, as the case may be; and
-	(d)	the reference in section 17 to the day on which paragraph 16(2)(b) has been fully complied with in all participating jurisdictions were a reference to the day on which paragraph (3)(b) of this section has been fully complied with in all participating jurisdictions.
+	(d)	the reference in section 17 to the day on which paragraph 16(2)(b) has been fully complied with in all participating jurisdictions were a reference to the day on which paragraph (3)(b) of this section has been fully complied with in all participating jurisdictions.
 21  National environment protection measures to be disallowable instruments
-	(1)	A national environment protection measure is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901 .
-	(2)	A national environment protection measure laid before a House of Parliament in accordance with section 46A of the Acts Interpretation Act 1901 must be accompanied by:
+	(1)	A national environment protection measure is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901 .
+	(2)	A national environment protection measure laid before a House of Parliament in accordance with section 46A of the Acts Interpretation Act 1901 must be accompanied by:
 	(a)	the impact statement that relates to the measure; and
 	(b)	a summary of the submissions received by the Council in relation to the measure and to the impact statement; and
 	(c)	the Council’s responses to those submissions.
@@ -283,21 +284,21 @@ national environment protection measure includes a variation or revocation of su
 	(b)	despite that failure the Council has substantially complied with the procedural requirements of this Act for making that measure;
 the failure does not invalidate the measure so made.
 
-Division 3—Assessment and reporting on implementation and effectiveness of measures
+Division 3—Assessment and reporting on implementation and effectiveness of measures
 23  Report by Minister on implementation and effectiveness of measures
 	(1)	The Minister referred to in paragraph 9(1)(a) is, after each reporting year of the Council, to prepare a report on the implementation of national environment protection measures during that year by the Commonwealth and the effectiveness of those measures.
-	(2)	A report under subsection (1) must be submitted to the Council by the 30 September next following each reporting year.
+	(2)	A report under subsection (1) must be submitted to the Council by the 30 September next following each reporting year.
 	(3)	In this section:
-reporting year means a year ending on 30 June.
+reporting year means a year ending on 30 June.
 24  Annual report of Council
-	(1)	The Council must, as soon as practicable after 30 September in each year, prepare a report of its operations during the year ended on the preceding 30 June.
-	(2)	A report prepared under subsection (1) must include:
-	(a)	a copy of the report the Council receives under section 23 and copies of the reports for the year that it receives from State and Territory Ministers under corresponding legislation; and
-	(b)	the Council’s overall assessment of the implementation and effectiveness of national environment protection measures having regard to all of the reports referred to in paragraph (a).
+	(1)	The Council must, as soon as practicable after 30 September in each year, prepare a report of its operations during the year ended on the preceding 30 June.
+	(2)	A report prepared under subsection (1) must include:
+	(a)	a copy of the report the Council receives under section 23 and copies of the reports for the year that it receives from State and Territory Ministers under corresponding legislation; and
+	(b)	the Council’s overall assessment of the implementation and effectiveness of national environment protection measures having regard to all of the reports referred to in paragraph (a).
 	(3)	A copy of the report is to be laid before each House of the Parliament within 7 sitting days of that House, after the Council has formally adopted the report.
 
-Part 4—Meetings of the Council and establishment and meetings of its Committees
-Division 1—Meetings of Council
+Part 4—Meetings of the Council and establishment and meetings of its Committees
+Division 1—Meetings of Council
 25  Convening of meetings
 		The Chairperson:
 	(a)	may, at any time, convene a meeting of the Council; and
@@ -313,7 +314,7 @@ Division 1—Meetings of Council
 	(1)	At a meeting, a decision of the Council must be supported by the votes of at least two‑thirds of the members, whether present or not.
 	(2)	The member presiding at a meeting of the Council has a deliberative vote only.
 
-Division 2—Committees of Council
+Division 2—Committees of Council
 29  NEPC Committee
 	(1)	There is established by this section a committee known as the National Environment Protection Council Committee.
 	(2)	The NEPC Committee consists of the following members:
@@ -336,8 +337,8 @@ Division 2—Committees of Council
 	(b)	a member of any other committee who represents the State or Territory ceases to be a member of that other committee.
 	(2)	If the Australian Local Government Association ceases to be a party to the Agreement, the person nominated by the Association to attend and be heard at meetings of the NEPC Committee ceases to be entitled so to attend and be heard.
 
-Part 5—NEPC Service Corporation, NEPC Executive Officer and staff
-Division 1—The NEPC Service Corporation
+Part 5—NEPC Service Corporation, NEPC Executive Officer and staff
+Division 1—The NEPC Service Corporation
 35  NEPC Service Corporation
 	(1)	There is established by this section a corporation, with perpetual succession, called the NEPC Service Corporation.
 	(2)	The Service Corporation:
@@ -350,8 +351,8 @@ Division 1—The NEPC Service Corporation
 	(b)	presume the imprint was duly made.
 36  Functions of the Service Corporation
 		The functions of the Service Corporation are:
-	(a)	to provide assistance and support to the Council, the NEPC Committee and any other committee established under section 33; and
-	(b)	to do anything incidental or conducive to the performance of the function referred to in paragraph (a).
+	(a)	to provide assistance and support to the Council, the NEPC Committee and any other committee established under section 33; and
+	(b)	to do anything incidental or conducive to the performance of the function referred to in paragraph (a).
 37  Powers of the Service Corporation
 	(1)	The Service Corporation has power to do all things that are necessary or convenient to be done for or in connection with the performance of the functions of the Corporation and, in particular, has power:
 	(a)	to enter into contracts; and
@@ -367,22 +368,22 @@ Division 1—The NEPC Service Corporation
 	(a)	enter into a contract involving the payment or receipt of an amount exceeding $250,000 or, if a higher amount is prescribed, that higher amount; and
 	(b)	take any land or buildings on lease for a period exceeding 3 years.
 
-Division 2—The NEPC Executive Officer
+Division 2—The NEPC Executive Officer
 39  NEPC Executive Officer
 	(1)	There is to be a NEPC Executive Officer.
 	(2)	The NEPC Executive Officer is to be appointed by the Council.
 	(3)	The NEPC Executive Officer is to be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
 40  NEPC Executive Officer to control Service Corporation
-	(1)	The affairs of the Service Corporation are, subject to section 41, to be conducted by the NEPC Executive Officer.
+	(1)	The affairs of the Service Corporation are, subject to section 41, to be conducted by the NEPC Executive Officer.
 	(2)	All acts and things done in the name of, or on behalf of, the Service Corporation by or with the authority of the NEPC Executive Officer are taken to have been done by the Corporation.
 41  NEPC Executive Officer to act in accordance with Council directions
 	(1)	The Council may, by notice in writing given to the NEPC Executive Officer, give directions to the Executive Officer with respect to the conduct of the affairs of the Service Corporation.
-	(2)	The NEPC Executive Officer must comply with a direction given under subsection (1).
+	(2)	The NEPC Executive Officer must comply with a direction given under subsection (1).
 42  Remuneration and allowances
 	(1)	The NEPC Executive Officer is to be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration is in force, is to be paid such remuneration as is determined in writing by the Council.
 	(2)	The NEPC Executive Officer is to be paid such allowances as are determined by the Council.
-	(3)	Remuneration and allowances payable to the NEPC Executive Officer under this section are to be paid out of the money of the Service Corporation referred to in section 55.
-	(4)	This section, other than subsection (3), has effect subject to the Remuneration Tribunal Act 1973.
+	(3)	Remuneration and allowances payable to the NEPC Executive Officer under this section are to be paid out of the money of the Service Corporation referred to in section 55.
+	(4)	This section, other than subsection (3), has effect subject to the Remuneration Tribunal Act 1973.
 43  Leave of absence
 	(1)	The NEPC Executive Officer has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Council may grant the NEPC Executive Officer leave of absence other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
@@ -408,7 +409,7 @@ the Council must terminate his or her appointment.
 	(b)	may perform any of the functions of the Executive Officer; and
 	(c)	is to be taken to be the Executive Officer for the purpose of any reference to the Executive Officer in any other law.
 
-Division 3—Staff of the Service Corporation and consultants
+Division 3—Staff of the Service Corporation and consultants
 49  Public Service staff of Service Corporation
 	(1)	Subject to this Division, staff of the Service Corporation are to be persons engaged under the Public Service Act 1999.
 	(2)	For the purposes of the Public Service Act 1999:
@@ -416,7 +417,7 @@ Division 3—Staff of the Service Corporation and consultants
 	(b)	the NEPC Executive Officer is the Head of that Statutory Agency.
 50  Non‑Public Service staff of Service Corporation
 	(1)	In addition to the staff referred to in subsection 49(1), the Service Corporation may employ persons, under written agreements, for the performance of any of the functions or the exercise of any of the powers of the Corporation.
-	(2)	The terms and conditions of employment of persons employed under subsection (1) are such as the Corporation determines from time to time.
+	(2)	The terms and conditions of employment of persons employed under subsection (1) are such as the Corporation determines from time to time.
 51  Staff seconded to Service Corporation
 	(1)	The Service Corporation may make arrangements for the services of persons engaged under the Public Service Act 1999, and of authorities of the Commonwealth, to be made available to the Corporation in connection with the performance of any of the functions or the exercise of any of the powers of the Corporation.
 	(2)	The Service Corporation may make arrangements with an officer or authority of a State or Territory under which the State or Territory or the authority makes officers or employees available to the Corporation to perform services in connection with the performance of any of the functions or the exercise of any of the powers of the Corporation.
@@ -424,43 +425,43 @@ Division 3—Staff of the Service Corporation and consultants
 	(1)	The Service Corporation may engage persons with suitable qualifications and experience as consultants.
 	(2)	The terms and conditions of engagement of consultants are such as the Corporation determines from time to time.
 
-Part 6—Finance
+Part 6—Finance
   
 53  Payments to Service Corporation by Commonwealth
 	(1)	There is payable to the Service Corporation such money as is appropriated by the Parliament for the purposes of the Corporation.
-	(2)	The Minister for Finance may give directions about the amounts in which, and the times at which, money payable under subsection (1) is to be paid to the Corporation.
+	(2)	The Minister for Finance may give directions about the amounts in which, and the times at which, money payable under subsection (1) is to be paid to the Corporation.
 54  Payments to Service Corporation by States and Territories
 		The Service Corporation may receive money paid to it by a State or Territory.
 55  Money of Service Corporation
 		The money of the Service Corporation consists of:
-	(a)	money paid to the Corporation under section 53; and
-	(b)	money received by the Corporation under section 54; and
+	(a)	money paid to the Corporation under section 53; and
+	(b)	money received by the Corporation under section 54; and
 	(c)	any other money paid to the Corporation.
 56  Application of money of Service Corporation
 	(1)	The money of the Service Corporation is to be applied:
 	(a)	in payment or discharge of the costs, expenses and other obligations incurred by the Corporation in the performance of its functions and the exercise of its powers (including costs and expenses incurred by the Corporation on behalf of the Council or a committee of the Council); and
 	(b)	in payment of any remuneration or allowances payable under this Act; and
 	(c)	in providing, or paying for, any other benefits that are authorised under this Act.
-	(2)	Subsection (1) does not prevent investment of surplus money of the Service Corporation under section 18 of the Commonwealth Authorities and Companies Act 1997 as it applies to the Service Corporation under section 59 of this Act.
+	(2)	Subsection (1) does not prevent investment of surplus money of the Service Corporation under section 18 of the Commonwealth Authorities and Companies Act 1997 as it applies to the Service Corporation under section 59 of this Act.
 57  Estimates
 	(1)	The NEPC Executive Officer is to prepare estimates, in such form as the Council directs, of the Service Corporation’s receipts and expenditure for each financial year and, if the Council so directs, for any other period specified by the Council.
 	(2)	The Executive Officer must submit estimates so prepared to the Council not later than such date as the Council directs.
 	(3)	Except with the consent of the Council, the money of the Corporation must not be spent otherwise than in accordance with estimates of expenditure approved by the Council.
-	(4)	A direction, consent or approval for the purposes of this section is to be given by resolution of the Council carried in accordance with section 28.
+	(4)	A direction, consent or approval for the purposes of this section is to be given by resolution of the Council carried in accordance with section 28.
 59  Application of the Commonwealth Authorities and Companies Act 1997
 	(1)	The Service Corporation is not a Commonwealth authority for the purposes of the Commonwealth Authorities and Companies Act 1997.
-	(2)	Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Service Corporation as if it were a Commonwealth authority for the purposes of that Act.
-	(3)	Section 9 of the Commonwealth Authorities and Companies Act 1997 applies in relation to the Service Corporation as if the NEPC Executive Officer were a director of the Service Corporation for the purposes of that Act.
-	(4)	Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister’s Orders were references to requirements set out in a resolution of the Ministerial Council carried in accordance with section 28 of this Act.
-	(5)	An annual report prepared under section 9 of that Act must also contain any other information required by the Council to be included in the report.
+	(2)	Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Service Corporation as if it were a Commonwealth authority for the purposes of that Act.
+	(3)	Section 9 of the Commonwealth Authorities and Companies Act 1997 applies in relation to the Service Corporation as if the NEPC Executive Officer were a director of the Service Corporation for the purposes of that Act.
+	(4)	Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister’s Orders were references to requirements set out in a resolution of the Ministerial Council carried in accordance with section 28 of this Act.
+	(5)	An annual report prepared under section 9 of that Act must also contain any other information required by the Council to be included in the report.
 	(6)	A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable.
 
-Part 7—Miscellaneous
+Part 7—Miscellaneous
   
 60  Powers and functions conferred under corresponding legislation
 		The Council, each committee of the Council, the NEPC Service Corporation and the NEPC Executive Officer have, in addition to the powers and functions conferred on them by this Act, such powers and functions as are conferred on them by the Act of each other participating jurisdiction that corresponds to this Act.
 61  Delegation by Council
-	(1)	The Council may, by resolution, delegate all or any of its functions and powers conferred by this Act (other than its powers under sections 14, 20 and 63) to the NEPC Committee, the Service Corporation or the NEPC Executive Officer.
+	(1)	The Council may, by resolution, delegate all or any of its functions and powers conferred by this Act (other than its powers under sections 14, 20 and 63) to the NEPC Committee, the Service Corporation or the NEPC Executive Officer.
 	(2)	A delegation under this section may be varied or revoked by resolution of the Council (whether or not constituted by the persons constituting the Council at the time when the power or function was delegated).
 62  Acts done by Council
 	(1)	A certificate that:
@@ -475,13 +476,13 @@ is, on mere production, receivable as prima facie evidence that the Council has 
 64  Review of operation of Act
 	(1)	The Council must cause a review of:
 	(a)	the operation of this Act and the Act of each other participating jurisdiction that corresponds to this Act; and
-	(b)	the extent to which the object set out in section 3 of each such Act has been achieved;
+	(b)	the extent to which the object set out in section 3 of each such Act has been achieved;
 to be undertaken as soon as possible after the fifth anniversary of the commencement of this Act.
 	(2)	The report of the review is to be tabled in each House of the Parliament within 12 months after the fifth anniversary of the commencement of this Act. 
 Schedule—Intergovernmental Agreement on the Environment
   
   
-Section 6	
+Section 6	
 INTERGOVERNMENTAL AGREEMENT ON THE ENVIRONMENT 
 
 AN AGREEMENT made the 1st day of May one thousand nine hundred and ninety two 
@@ -501,7 +502,7 @@ THE AUSTRALIAN LOCAL GOVERNMENT ASSOCIATION of the tenth part.
 
 WHEREAS 
 
-On 31 October 1990, Heads of Government of the Commonwealth, States and Territories of Australia, and representatives of Local Government in Australia, meeting at a Special Premiers’ Conference held in Brisbane, agreed to develop and conclude an Intergovernmental Agreement on the Environment to provide a mechanism by which to facilitate: 
+On 31 October 1990, Heads of Government of the Commonwealth, States and Territories of Australia, and representatives of Local Government in Australia, meeting at a Special Premiers’ Conference held in Brisbane, agreed to develop and conclude an Intergovernmental Agreement on the Environment to provide a mechanism by which to facilitate: 
 
 a cooperative national approach to the environment; 
 a better definition of the roles of the respective governments; 
@@ -530,7 +531,7 @@ ACKNOWLEDGE that in the development and implementation of environmental policy i
 
 
 THE PARTIES AGREE AS FOLLOWS:
-SECTION 1—APPLICATION AND INTERPRETATION
+SECTION 1—APPLICATION AND INTERPRETATION
 1.1	“Commonwealth” means the Commonwealth of Australia.
 1.2	“States” means a State or Territory named as a party to this Agreement.
 1.3	“Local Government” means a Local Government body established by or under a law of a State other than a body the sole or principal function of which is to provide a particular service (such as the supply of electricity or water).
@@ -540,11 +541,11 @@ SECTION 1—APPLICATION AND INTERPRETATION
 1.7	Commonwealth responsibilities under this Agreement include ensuring adherence as far as practicable within the External Territories and the Jervis Bay Territory.
 1.8	Any matters under this Agreement which are the responsibility of the Norfolk Island Assembly under the Norfolk Island Act 1979 will be referred by the Commonwealth to the Norfolk Island Government for its consideration. 
 1.9	In relation to each of its external Territories and the Territory of Jervis Bay, the Commonwealth has, subject to paragraphs 1.7 and 1.8 the same responsibilities and interests as each State has in relation to that State under paragraph 2.3. 
-1.10	Section 2.2.3 of this Agreement should be read subject to the Australian Capital Territory (Planning and Land Management) Act 1988. 
+1.10	Section 2.2.3 of this Agreement should be read subject to the Australian Capital Territory (Planning and Land Management) Act 1988. 
 1.11	The Commonwealth, the States and the Australian Local Government Association acknowledge that while the Association is a party to this Agreement, it cannot bind local government bodies to observe the terms of this Agreement. However in view of the responsibilities and interests of local government in environmental matters and in recognition of the partnership established between the three levels of government by the Special Premiers Conference process, the Commonwealth and the States have included the Australian Local Government Association as a party to this Agreement and included references in the Agreement to local government and all levels of government. 
 1.12	The States will consult with and involve Local Government in the application of the principles and the discharge of responsibilities contained in this Agreement to the extent that State statutes and administrative arrangements authorise or delegate responsibilities to Local Government, and in a manner which reflects the concept of partnership between the Commonwealth, State and Local Governments. 
 1.13	Questions of interpretation of this Agreement are to be raised in the first instance in the appropriate Ministerial Council(s) after consultation by the Chair of the Ministerial Council with the President of the Australian Local Government Association where appropriate. Where these mechanisms do not resolve the interpretation, the matter will be dealt with by reference from the Ministerial Council(s) to First Ministers.
-SECTION 2—ROLES OF THE PARTIES—RESPONSIBILITIES AND INTERESTS 
+SECTION 2—ROLES OF THE PARTIES—RESPONSIBILITIES AND INTERESTS 
 2.1  RESPONSIBILITIES AND INTERESTS OF ALL PARTIES 
 2.1.1	The following will guide the parties in defining the roles, responsibilities and interests of all levels of Government in relation to the environment and in particular in determining the content of Schedules to this Agreement. 
 2.2  RESPONSIBILITIES AND INTERESTS OF THE COMMONWEALTH 
@@ -574,7 +575,7 @@ SECTION 2—ROLES OF THE PARTIES—RESPONSIBILITIES AND INTERESTS
 2.5.1.3	Where a State considers that its interests can be accommodated by approving or accrediting Commonwealth practices, procedures or processes, or an agreed modified form of those practices, procedures or processes, a State may enter into arrangements with the Commonwealth for that purpose. 
 2.5.1.4	Where a State has approved or accredited practices, procedures or processes under 2.5.1.3 that State will give full faith and credit to the results of such practices, procedures or processes when exercising State responsibilities. 
 2.5.1.5	The Commonwealth and the States note that decisions on major environmental issues taken at one level of government may have significant financial implications for other levels of government and agree that consideration will be given to these implications where they are major or outside the normal discharge of legislative or administrative responsibilities of the level of government concerned. 
-2.5.1.6	Clause 2.5.1.5 applies to each of the Schedules to this Agreement. 
+2.5.1.6	Clause 2.5.1.5 applies to each of the Schedules to this Agreement. 
 2.5.2	International Agreements 
 2.5.2.1	The parties recognise that the Commonwealth has responsibility for negotiating and entering into international agreements concerning the environment. The Commonwealth agrees to exercise that responsibility having regard to this Agreement and the Principles and Procedures for the Commonwealth‑State Consultation on Treaties as agreed from time to time. In particular, the Commonwealth will consult with the States in accordance with the Principles and Procedures, prior to entering into any such international agreements. 
 2.5.2.2	The Commonwealth will, where a State interest has become apparent pursuant to the Principles and Procedures and subject to the following provisions not being allowed to result in unreasonable delays in the negotiation, joining or implementation of international agreements:
@@ -592,7 +593,7 @@ SECTION 2—ROLES OF THE PARTIES—RESPONSIBILITIES AND INTERESTS
 2.5.4	Duplication of Interests 
 2.5.4.1	With a view to eliminating functional duplication, wherever the interests of a level of Government have been accommodated, the relevant levels of Government will review the need and justification for retaining any comparable processes or institutions.
 2.5.4.2	Where some duplication or overlap of interests between levels of government is unavoidable, the relevant levels of Government will seek clear and distinct liaison and consultative procedures, under mechanisms to be agreed at First Minister level, such as Ministerial Councils, to coordinate and harmonise actions and to avoid disputes. 
-2.5.4.3	Any review under clause 2.5.4.1 or liaison and consultation procedures under 2.5.4.2 will be guided by the need to work towards simplicity, certainty and transparency in the mechanisms relevant to the development and implementation of environmental policy, consistent with the maintenance of proper environmental protection. 
+2.5.4.3	Any review under clause 2.5.4.1 or liaison and consultation procedures under 2.5.4.2 will be guided by the need to work towards simplicity, certainty and transparency in the mechanisms relevant to the development and implementation of environmental policy, consistent with the maintenance of proper environmental protection. 
 2.5.5	Between the States 
 2.5.5.1	Where the policies, programs, projects, legislation or regulations of a State may affect the environment of another State or States, the States undertake to provide timely notification to any affected State, and appropriate consultation in relation to those policies, programs, projects, legislation or regulations. 
 2.5.5.2	Wherever significant adverse external effects on another State are expected or identified, the relevant States will use their best endeavours to establish appropriate mechanisms for ensuring cooperative management. 
@@ -600,7 +601,7 @@ SECTION 2—ROLES OF THE PARTIES—RESPONSIBILITIES AND INTERESTS
 2.5.5.4	The States will if necessary determine what mechanism or process should be employed to resolve any disagreement or matter of concern, which mechanism or process may include inviting the Commonwealth to assist in the resolution of the matter. 
 2.5.6	National Interest 
 	Notwithstanding the particular responsibilities of the Commonwealth in safeguarding and accommodating national environmental matters, the parties agree that all levels of Government have a responsibility to ensure that matters of national interest are properly taken into account in their activities.
-SECTION 3—PRINCIPLES OF ENVIRONMENTAL POLICY 
+SECTION 3—PRINCIPLES OF ENVIRONMENTAL POLICY 
 3.1	The parties agree that the development and implementation of environmental policy and programs by all levels of Government should be guided by the following considerations and principles. 
 3.2	The parties consider that the adoption of sound environmental practices and procedures, as a basis for ecologically sustainable development, will benefit both the Australian people and environment, and the international community and environment. This requires the effective integration of economic and environmental considerations in decision‑making processes, in order to improve community well‑being and to benefit future generations. 
 3.3	The parties consider that strong, growing and diversified economies (committed to the principles of ecologically sustainable development) can enhance the capacity for environmental protection. In order to achieve sustainable economic development, there is a need for a country’s international competitiveness to be maintained and enhanced in an environmentally sound manner. 
@@ -622,12 +623,12 @@ environmental factors should be included in the valuation of assets and services
 polluter pays i.e. those who generate pollution and waste should bear the cost of containment, avoidance, or abatement 
 the users of goods and services should pay prices based on the full life cycle costs of providing goods and services, including the use of natural resources and assets and the ultimate disposal of any wastes 
 environmental goals, having been established, should be pursued in the most cost effective way, by establishing incentive structures, including market mechanisms, which enable those best placed to maximise benefits and/or minimise costs to develop their own solutions and responses to environmental problems.
-SECTION 4—IMPLEMENTATION AND APPLICATION OF PRINCIPLES 
-4.1	The Schedules to this Agreement deal with specific areas of environmental policy and management and form part of this Agreement. The schedules have been prepared and are to be interpreted in accordance with Sections 1, 2 and 3 of this Agreement. 
+SECTION 4—IMPLEMENTATION AND APPLICATION OF PRINCIPLES 
+4.1	The Schedules to this Agreement deal with specific areas of environmental policy and management and form part of this Agreement. The schedules have been prepared and are to be interpreted in accordance with Sections 1, 2 and 3 of this Agreement. 
 4.2	Nothing in this Agreement will affect any existing intergovernmental agreement between the Commonwealth and a State or States, or between the States, unless alterations or amendments to those agreements are proposed in accordance with any existing review process and/or any review process arising as a result of this Agreement. 
 4.3	For each particular Schedule included in this Agreement, the Commonwealth and the States undertake to nominate an agency or Ministry to assume primary responsibility within its jurisdiction for the issues covered in the Schedule and to inform the other parties accordingly. 
 4.4	Where not otherwise provided in the Schedules, existing intergovernmental arrangements will be the primary mechanisms for the cooperative application of the provisions of this Agreement.
-SECTION 5—REVIEW 
+SECTION 5—REVIEW 
 5.1	The operation of this Agreement will be reviewed every three years by the presentation of a report from the relevant Ministerial Councils to the First Ministers following consultation by the Chair of the Ministerial Council with the President of the Australian Local Government Association. 
 5.2	The Agreement may be amended and schedules added by agreement of all First Ministers. Prior to making amendments in relation to matters specified in this Agreement, or developing any draft schedules, that involve local government, First Ministers will consult and seek the agreement of the President of the Australian Local Government Association. 
 IN WITNESS WHEREOF this Agreement has been respectively signed for and on behalf of the parties as at the day and year first above written. 
@@ -663,14 +664,14 @@ SIGNED by Councillor GRAEME BLATCHFORD FRECKER, President of the AUSTRALIAN LOCA
 }
  *Signature omitted 
 
-Schedule 1—Data Collection and Handling
+Schedule 1—Data Collection and Handling
 1.	The parties agree that the collection, maintenance and integration of environmental data will assist in efficient and effective environmental management and monitoring. 
 2.	The development of consistent standards for the description and exchange of all land‑related information will be coordinated and fostered by the Australian Land Information Council in conjunction with Standards Australia and specialist groups where needed. 
 3.	In order to avoid overlap and duplication in the collection and maintenance of all land‑related data, the Australian Land Information Council will facilitate the coordination of intergovernmental arrangements (including appropriate financial arrangements) and provide mechanisms to make the data more accessible across all levels of government and the private sector. Any arrangements entered into will detail the circumstances in which the exchange and ongoing sharing of data is appropriate. The intergovernmental arrangements will be submitted to First Ministers for their approval no later than twelve months after the execution of this Agreement. 
 4.	The collection of data on natural resources should, where possible, be integrated from the outset, in order to avoid the difficulties inherent in collating data collected with different methodologies and in different conditions. 
 5.	The Australian Land Information Council, (through the National Resources Information Centre and the Environmental Resources Information Network where appropriate) will consult with the relevant national co‑ordination bodies and, through its members, with Commonwealth and State jurisdictions, to ensure the development and maintenance of comprehensive directories of natural resource and environmental spatial datasets and to develop and maintain national natural resource data standards. 
 
-Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes
+Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes 
 1.	The parties agree that the concept of ecologically sustainable development should be used by all levels of Government in the assessment of natural resources, land use decisions and approval processes. 
 2.	The parties agree that it is the role of government to establish the policy, legislative and administrative framework to determine the permissibility of any land use, resource use or development proposal having regard to the appropriate, efficient and ecologically sustainable use of natural resources (including land, coastal and marine resources). 
 3.	The parties agree that policy, legislative and administrative frameworks to determine the permissibility of land use, resource use or development proposals should provide for—
@@ -688,7 +689,7 @@ Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes
 8.	Where the Commonwealth has accredited a system or process within a State, the Commonwealth will give full faith and credit to the results of that system or process when exercising Commonwealth responsibilities. 
 9.	Within twelve months of the execution of this Agreement, the parties agree to reconsider the matters contained in this Schedule with a view to incorporating any relevant findings of the ecologically sustainable development process. 
 
-Schedule 3—Environmental Impact Assessment
+Schedule 3—Environmental Impact Assessment 
 1.	The parties agree that it is desirable to establish certainty about the application, procedures and function of the environmental impact assessment process, to improve the consistency of the approach applied by all levels of Government, to avoid duplication of process where more than one Government or level of Government is involved and interested in the subject matter of an assessment and to avoid delays in the process. 
 2.	The parties agree that impact assessment in relation to a project, program or policy should include, where appropriate, assessment of environmental, cultural, economic, social and health factors. 
 3.	The parties agree that all levels of Government will ensure that their environmental impact assessment processes are based on the following:
@@ -707,7 +708,7 @@ Schedule 3—Environmental Impact Assessment
 4.	A general framework agreement between the Commonwealth and the States on the administration of the environmental impact assessment process will be negotiated to avoid duplication and to ensure that proposals affecting more than one of them are assessed in accordance with agreed arrangements.
 5.	The Commonwealth and the States may approve or accredit their respective environmental impact assessment processes either generally or for specific purposes. Where such approval or accreditation has been given, the Commonwealth and the States agree that they will give full faith and credit to the results of such processes when exercising their responsibilities. 
 
-Schedule 4—National Environment Protection Measures
+Schedule 4—National Environment Protection Measures 
 General Purpose 
 1.	The Commonwealth and the States acknowledge that there is benefit to the people of Australia in establishing national environment protection standards, guidelines, goals and associated protocols (hereinafter referred to as measures) with the objectives of ensuring:
 	(i)	that people enjoy the benefit of equivalent protection from air, water and soil pollution and from noise, wherever they live;
@@ -742,24 +743,24 @@ National Environment Protection Authority’s Powers and Process
 11.	The Authority will notify the public of the availability of the draft measures and the associated impact statement and invite comment thereon within a specified time. 
 12.	When finalising any measures, the Authority will give consideration to the impact statement and any comment received on the draft measures or the impact statement. 
 13.	The Commonwealth undertakes to table in its Parliament (in accordance with the Commonwealth’s existing practices in relation to delegated legislation) all measures established by the Authority, and to use its best endeavours to ensure their acceptance by the Commonwealth Parliament. 
-14.	The tabling of any measures in the Commonwealth Parliament will be accompanied by an impact statement covering the matters referred to in clause 10 and a summary of public comment received and the response to those comments. 
+14.	The tabling of any measures in the Commonwealth Parliament will be accompanied by an impact statement covering the matters referred to in clause 10 and a summary of public comment received and the response to those comments. 
 15.	Either House of the Commonwealth Parliament can disallow any measure established by the Authority within a specified time. 
-16.	The Commonwealth and the States agree to develop for consideration by First Ministers under clause 23, legislation which will enable the Commonwealth and State Parliaments to authorise the Authority to establish any measures. The legislation will also establish mechanisms for the application of measures in the States. The legislation will ensure that any measures established by the Authority—
+16.	The Commonwealth and the States agree to develop for consideration by First Ministers under clause 23, legislation which will enable the Commonwealth and State Parliaments to authorise the Authority to establish any measures. The legislation will also establish mechanisms for the application of measures in the States. The legislation will ensure that any measures established by the Authority—
 	(a)	will apply, as from the date of the commencement of the measure, throughout Australia, as a valid law of each jurisdiction; and
-	(b)	will, subject to clause 20, replace any existing measures dealing with the same matter. 
+	(b)	will, subject to clause 20, replace any existing measures dealing with the same matter. 
 Implementation, Enforcement, Impact and Reporting in Relation to National Measures 
 17.	The Commonwealth and the States will be responsible for the attainment and maintenance of agreed national standards or goals and compliance with national guidelines within their respective jurisdictions through appropriate mechanisms such as Commonwealth and State environment protection bodies. 
 18.	The Commonwealth and the States agree to establish a uniform hierarchy of offences and related penalty structures to apply to breaches of any requirements applied under any agreed law for the purposes of complying with the standards, guidelines or goals. 
 19.	The measures established and adopted in accordance with the above procedure will not prevent the Commonwealth or a State from introducing more stringent measures to reflect specific circumstances or to protect special environments or environmental values located within its jurisdiction provided there has been consultation with the Authority. 
 20.	Nothing in this Agreement will prevent a State or the Commonwealth maintaining existing more stringent standards which are in effect at the date when the Authority comes into existence. 
-21.	The Commonwealth and the States will prepare an annual report on the measures they adopt to attain and maintain the standards, guidelines, goals or protocols established pursuant to this Agreement and submit that report by 30 September each year to the Authority. 
+21.	The Commonwealth and the States will prepare an annual report on the measures they adopt to attain and maintain the standards, guidelines, goals or protocols established pursuant to this Agreement and submit that report by 30 September each year to the Authority. 
 22.	The Authority will prepare an annual report which includes the reports received from the Commonwealth and the States. The annual report will be tabled in all Parliaments, through the respective Ministers who are members of the Authority. 
 Action to Implement Agreements in the Schedule 
 23.	Within twelve months of the execution of this Agreement the Working Group on Environmental Policy will, for the consideration of First Ministers:
 	(i)	prepare draft legislation to implement the agreements reached in this Schedule; and
 	(ii)	develop arrangements for consultation with relevant Commonwealth and State authorities, the Australian Local Government Association, and Ministerial Councils. 
 24.	The Working Group on Environmental Policy will, when submitting the draft legislation to First Ministers, also submit a report on the financial arrangements necessary to give effect to the agreements set out in this Schedule. 
-25.	Once the legislation referred to in clause 23 has been agreed to by First Ministers, the Commonwealth and the States will submit to their Parliaments, and take such steps as are appropriate to secure the passage of, the Bills containing this legislation. 
+25.	Once the legislation referred to in clause 23 has been agreed to by First Ministers, the Commonwealth and the States will submit to their Parliaments, and take such steps as are appropriate to secure the passage of, the Bills containing this legislation. 
 Definitions 
 26.	For the purposes of this Schedule:
 	(i)	a standard is a quantifiable characteristic of the environment against which environmental quality is assessed. Standards are mandatory.
@@ -767,7 +768,7 @@ Definitions
 	(iii)	a guideline provides guidance on possible means of meeting desired environmental outcomes. Guidelines are not mandatory.
 	(iv)	a protocol is the description of a process to be followed in measuring environmental characteristics to determine whether a standard or goal is being achieved or the extent of the differential between the measured characteristic and a standard or goal. 
 
-Schedule 5—Climate Change
+Schedule 5—Climate Change 
 1.	The parties acknowledge the potentially significant impact of greenhouse enhanced climate change on Australia’s natural, social and working environment, as well as on the global community and global environments. The parties accept and support the need for Australia to participate in the development of an effective international response to meet the challenge of greenhouse enhanced climate change and note Australia’s participation in the development of an international convention on climate change. 
 2.	The parties note their endorsement of the decision to adopt an interim planning target to stabilise greenhouse gas emissions (not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer) based on 1988 levels, by the year 2000 and reducing these emissions by 20% by the year 2005. The parties reiterate their support, as agreed in October 1990, for the interim planning target to form the basis of development of the National Greenhouse Response Strategy, subject to Australia not implementing response measures that would have net adverse economic impacts nationally or on Australia’s trade competitiveness, in the absence of similar action by major greenhouse gas producing countries. The parties agree that assessment of the implementation of the National Greenhouse Response Strategy against this agreed objective will be reviewed at Special Premiers’ Conferences. 
 3.	The parties reiterate that a National Greenhouse Response Strategy based on the interim planning target must include positive measures for: 
@@ -786,17 +787,17 @@ ensuring that the community understands the need for early action on measures to
 	(iv)	to present the Strategy to First Ministers for consideration/adoption;
 	(v)	to recommend to First Ministers requirements for further development of the Strategy as implementation proceeds. 
 
-Schedule 6—Biological Diversity
+Schedule 6—Biological Diversity 
 1.	The parties acknowledge that biological diversity is a major and valuable component of the environment and should be protected. 
 2.	The parties note that the Commonwealth Government is currently preparing a draft national strategy for the conservation of biological diversity which is being pursued through the Biological Diversity Advisory Committee which has wide ranging representation, including the States. 
 3.	The parties note that the Commonwealth is responsible for the negotiation, ratification and ensuring implementation of the proposed Biological Diversity Convention. 
 4.	The parties note that the proposed Biological Diversity Convention, while having importance for nature conservation, is likely to have implications across a wide range of Commonwealth and State responsibilities and that the interests and responsibilities of the States and the Commonwealth which may be affected by the proposed Convention are not confined to any particular portfolios. 
 5.	The Commonwealth will continue to provide the States with the opportunity to be represented on Australian delegations to meetings of the Intergovernmental Negotiating Committee for a Convention on Biological Diversity. The Commonwealth and the States will continue their consultations in relation to formulating Australian policy regarding the Convention through the existing mechanisms involving the Department of Foreign Affairs and Trade and State agencies as nominated from time to time by their First Ministers. 
 6.	Given the wide and significant implications of the proposed Convention, the Commonwealth and the States acknowledge that issues may arise which may cause a State to seek consultation in relation to the negotiations at First Minister level. 
-7.	The Australian and New Zealand Environment and Conservation Council, in consultation with and, where appropriate, joint co‑ operation with, other Ministerial Councils, the agencies referred to in clause 5 and relevant organisations, will forward to First Ministers advice on:
+7.	The Australian and New Zealand Environment and Conservation Council, in consultation with and, where appropriate, joint co‑ operation with, other Ministerial Councils, the agencies referred to in clause 5 and relevant organisations, will forward to First Ministers advice on:
 	(i)	the implications of implementing the proposed Convention; and
 	(ii)	the manner in which implementation of the proposed Convention may be undertaken. 
-8.	For the purposes of clause 7, the other Ministerial Councils will include: 
+8.	For the purposes of clause 7, the other Ministerial Councils will include: 
 	Australian Agricultural Council; 
 	Australian Soil Conservation Council; 
 	Australian Water Resources Council; 
@@ -805,10 +806,10 @@ Schedule 6—Biological Diversity
 	Australian and New Zealand Mineral and Energy Council; and 
 	Australian Industry and Technology Council. 
 
-Schedule 7—National Estate
+Schedule 7—National Estate 
 1.	he parties acknowledge that the primary role of the Australian Heritage Commission is to identify the National Estate and advise the Commonwealth on its conservation. 
 2.	The parties further acknowledge that primary responsibility for land use and resource planning decisions rests with States. 
-3.	The parties agree that the register of the National Estate is one of the factors that the States may consider when making land use and resource planning decisions and that Section 30 of the Australian Heritage Commission Act 1975 applies only to decisions of the Commonwealth Ministers, Departments and Authorities. The parties recognise however that some applications of s.30 of the Act may have significant land and resource use planning implications. 
+3.	The parties agree that the register of the National Estate is one of the factors that the States may consider when making land use and resource planning decisions and that Section 30 of the Australian Heritage Commission Act 1975 applies only to decisions of the Commonwealth Ministers, Departments and Authorities. The parties recognise however that some applications of s.30 of the Act may have significant land and resource use planning implications. 
 4.	The Commonwealth supports the current practice whereby the Australian Heritage Commission provides information on all places nominated to the Register of the National Estate or which are identified by studies, to the designated agencies in the relevant State. The Commonwealth agrees to support the current practice whereby the Commission seeks and considers the views of the relevant State on all nominated places before making a decision on interim listing. 
 5.	Each State agrees to establish and advise the Australian Heritage Commission on appropriate channels of communication, the persons responsible for consultation and the persons responsible for coordination of responses to the Australian Heritage Commission on matters related to National Estate nominations and listings. 
 6.	The Commonwealth supports the current practice whereby the Australian Heritage Commission provides information to the relevant local government body on places to be given interim listing status at least two months prior to any public notification of that interim listing. 
@@ -819,14 +820,14 @@ Schedule 7—National Estate
 11.	Where there is an accredited or joint assessment of national estate values of the Commonwealth and/or the States will give full faith and credit to the results of such assessment when exercising their responsibilities. 
 12.	The Commonwealth and the States note that where there is an accredited or joint assessment of national estate values the Australian Heritage Commission will generally not, and in any event will not without consultation with the States, reconsider that assessment except where new and significant information is produced. 
 
-Schedule 8—World Heritage
+Schedule 8—World Heritage 
 1.	The States recognise that the Commonwealth has an international obligation as a party to the World Heritage Convention to ensure the identification, protection, conservation, presentation and transmission to future generations of Australia’s natural and cultural heritage of ‘outstanding universal value’. 
 2.	The Commonwealth will consult the States and use its best endeavours to obtain their agreement on the compilation of an indicative list of World Heritage properties. The States agree to consult the relevant local government bodies and interested groups (including conservation and industry groups) on properties for inclusion on the indicative list prior to submission to the Commonwealth. Should conservation or any other groups or individuals make suggestions on an indicative list direct to the Commonwealth these will be referred to the relevant State for comment. 
 3.	The Commonwealth will consult with the relevant State or States, and use its best endeavours to obtain their agreement, on nominations to the World Heritage List. 
 4.	Where the relevant State or States have agreed to a nomination, the preparation of that nomination for World Heritage listing will be the primary responsibility of the relevant State or States and will be undertaken in close consultation with the Commonwealth. In the case of properties that transcend State boundaries, the Commonwealth will coordinate preparation of the nomination. The Commonwealth is responsible for ensuring the nomination is in accordance with the World Heritage Convention and Guidelines and submitting the nomination to UNESCO. 
 5.	Arrangements for the management of a property will be determined as far as practicable prior to the nomination. The management arrangements will take into consideration the continuation of the State’s management responsibilities for the property while preserving the Commonwealth’s responsibilities under the World Heritage Convention. 
 
-Schedule 9—Nature Conservation
+Schedule 9—Nature Conservation 
 1.	The parties agree that each level of Government has responsibilities for the protection of flora and fauna and should use their best endeavours to ensure the survival of species and ecological communities, both terrestrial and acquatic, that make up Australia’s biota. The parties recognise that the protection and sound management of natural habitats is of fundamental importance to this aim and that all levels of Government should use their best endeavours to conserve areas critical to the protection of Australia’s flora and fauna and the maintenance of ecological processes that ensure biological productivity and stability. 
 2.	The parties recognise that the States have primary responsibility in the general area of nature conservation. 
 3.	The parties recognise that the Commonwealth has a particular responsibility in the area of nature conservation in relation to: 
@@ -838,7 +839,7 @@ Schedule 9—Nature Conservation
 5.	The parties agree that environmental management and resource use decisions taken by all levels of Government should have regard to the national distribution of species and other agreed national nature conservation considerations. 
 6.	The Commonwealth and the States agree to cooperate in the conservation, protection and management of native species and habitats that occur in more than one jurisdiction. In addition to participating in such cooperative activities, the Commonwealth and the States may take whatever action they deem appropriate within their respective jurisdictions to protect any native species and habitats which they consider requires specific action. 
 7.	Within one year of the execution of this Agreement, the Australian and New Zealand Environment and Conservation Council, in consultation with relevant Ministerial Councils, will develop and report to First Ministers on a strategy for a national approach to the protection of rare, vulnerable and endangered species. The Australian and New Zealand Environment and Conservation Council will provide a progress report to First Ministers within six months. 
-8.	The report referred to in clause 7 will take into account the preparation of an ‘Australian National Strategy for the Conservation of Species and Communities Threatened With Extinction’ by the Endangered Species Advisory Committee which was established to advise the Commonwealth Minister of the Arts, Sport, the Environment, Tourism and the Territories and will include the following:
+8.	The report referred to in clause 7 will take into account the preparation of an ‘Australian National Strategy for the Conservation of Species and Communities Threatened With Extinction’ by the Endangered Species Advisory Committee which was established to advise the Commonwealth Minister of the Arts, Sport, the Environment, Tourism and the Territories and will include the following:
 	(i)	the identification of Australia’s rare, vulnerable and endangered species of flora and fauna;
 	(ii)	the options for off reserve protection of species and habitats to complement the reserve system and the identification of ecologically significant remnant vegetation;
 	(iii)	the manner in which all levels of Government might ensure that land or resource use decision making processes explicitly identify circumstances where there is an impact on identified rare, vulnerable and endangered species and assess the nature of this impact prior to taking a decision;
@@ -854,20 +855,19 @@ Schedule 9—Nature Conservation
 14.	The parties agree that the national approach to the conservation, protection and management of native species and habitats may include the addition of new areas to reserve systems and protected areas, some of which may be under multiple land use regimes, where such multiple land use does not adversely affect the prime nature conservation function of the reserve or protected area.
 15.	The parties further recognise that the establishment and management of a reserve system is not in itself sufficient to ensure the protection of Australia’s flora and fauna. Off‑reserve protection and management, particularly of remnant vegetation, are also required. The parties recognise the need for national co‑operation to ensure that remnants that are ecologically significant on a national scale are identified; management and protection arrangements are consistent across borders; research initiatives are co‑ordinated and not duplicated; and that off‑reserve protection activities complement the reserve system. 
 16.	The Commonwealth and the States agree to co‑operate in the development of actions outlined in this schedule and that the Australian and New Zealand Environment and Conservation Council be the primary forum of all co‑ordination of nationwide nature conservation functions. 
+
 Annexure AReservation by the Northern Territory
 
 Annexure A
 RESERVATION BY THE NORTHERN TERRITORY 
-The Northern Territory in signing this Agreement notifies that it does not consider itself a party to the Intergovernmental Agreement on Road Transport entered into by the Commonwealth, States and the Australian Capital Territory, and accordingly is not bound by sub‑clause 5(vi) and clause 7 of Schedule 4 to this Agreement. 
+The Northern Territory in signing this Agreement notifies that it does not consider itself a party to the Intergovernmental Agreement on Road Transport entered into by the Commonwealth, States and the Australian Capital Territory, and accordingly is not bound by sub‑clause 5(vi) and clause 7 of Schedule 4 to this Agreement. 
 The Northern Territory further notifies its intention to enter into discussions with the other parties with the objective of securing the direct participation of representatives of the Northern Territory Government concerned with transport administration in any joint or collaborative processes among the Commonwealth, States and Territories for the establishment of measures for national motor vehicle emission and noise standards. 
-
 Notes to the National Environment Protection Council Act 1994
 Note 1
-The National Environment Protection Council Act 1994 as shown in this compilation comprises Act No. 126, 1994 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+The National Environment Protection Council Act 1994 as shown in this compilation comprises Act No. 126, 1994 amended as indicated in the Tables below.
 Table of Acts
 Act
-Number and year
+Number and Year
 Date of Assent
 Date of commencement
 Application, saving or transitional provisions
@@ -879,29 +879,24 @@ National Environment Protection Council Act 1994
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 949, 950): 1 Jan 1998 (see Gazette 1997, No. GN49) (a)
+Schedule 2 ( items 949, 950): 1 Jan 1998 (see Gazette 1997, No. GN49) (a)
 —
 Public Employment (Consequential and Transitional) Amendment Act 1999
 146, 1999
 11 Nov 1999
-Schedule 1 (items 623–626): 5 Dec 1999 (see Gazette 1999, No. S584) (b)
+Schedule 1 (items 623‑626) 5 Dec 1999 (see Gazette 1999, No. S584) (b)
 —
 National Environment Protection Council Amendment Act 2002
 142, 2002
 19 Dec 2002
-Schedule 1: [see (c) and Note 2] Remainder: Royal Assent
+Schedule 1: [see (c) and Note 2] Remainder: Royal Assent
 —
-National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003
-82, 2003
-6 Sept 2003
-Schedule 1 (items 1, 2) and Schedule 2: [see (d), Note 3 and Table A]
-Sch. 2
-(a)	The National Environment Protection Council Act 1994 was amended by Schedule 2 (items 949 and 950) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(b)	The National Environment Protection Council Act 1994 was amended by Schedule 1 (items 623–626) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
+(a)	The National Environment Protection Council Act 1994 was amended by Schedule 2 (items 949 and 950) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
+(b)	The National Environment Protection Council Act 1994 was amended by Schedule 1 (items 623‑626) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(c)	Subsection 2(1) (item 2) of the National Environment Protection Council Amendment Act 2002, provide as follows:
+(c)	The National Environment Protection Council Act 1994 was amended by the National Environment Protection Council Amendment Act 2002, subsections 2(1) (item 2) and (3) of which provide as follows:
 	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 Commencement information
@@ -915,38 +910,26 @@ Date/Details
 A single day to be fixed by Proclamation, subject to subsection (3)
 [see Note 2]
 	(3)	If a provision covered by item 2 of the table does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-(d)	Subsection 2(1) (items 2 and 5) of the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Provision(s)
-Commencement
-Date/Details
-2.  Schedule 1, items 1 and 2
-At the same time as section 3 of the National Transport Commission Act 2003 commences
-[see Note 3]
-5.  Schedule 2
-At the same time as section 3 of the National Transport Commission Act 2003 commences
-[see Table A]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 43	
-am. No. 146, 1999
+am. No. 146, 1999
 S. 49	
-am. No. 146, 1999
+am. No. 146, 1999
 S. 51	
-am. No. 146, 1999
+am. No. 146, 1999
 S. 56	
-am. No. 152, 1997
+am. No. 152, 1997
 S. 58	
-rep. No. 152, 1997
+rep. No. 152, 1997
 S. 59	
-rs. No. 152, 1997
+rs. No. 152, 1997
 Note 2
-National Environment Protection Council Amendment Act 2002  (No. 142, 2002)
-The following amendments commence on 19 December 2003 unless proclaimed earlier:
-Schedule 1
+National Environment Protection Council Amendment Act 2002 (No. 142, 2002)
+The following amendments commence on 19 December 2003 unless proclaimed earlier:
+Schedule 1
 1  Subsection 6(1)
 Insert:
 Ministerial Council means a council, comprising one or more Ministers of the Commonwealth and Ministers of one or more of the States or Territories, that includes environmental protection in its functions.
@@ -998,32 +981,5 @@ Subsequent 5 yearly reviews
 	(3)	As soon as possible after the end of every 5 year period following the review under subsection (1), the Council must cause a further review of the kind set out in subsection (1) to be undertaken.
 	(4)	The report of each further review is to be tabled in each House of the Parliament within 12 months after the end of the period to which it relates.
 Note:	The following heading to subsection 64(1) is inserted “Initial review after fifth anniversary of commencement of Act”.
-As at 15 September 2003 the amendments are not incorporated in this compilation.
-Note 3
-National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (No. 82, 2003)
-The following amendments commence on 6 June 2004 unless proclaimed earlier:
-Schedule 1
-1  Paragraph 14(2)(a)
-Omit “Road”.
-2  Paragraph 14(2)(b)
-Omit “National Road Transport Commission Act 1991”, substitute “National Transport Commission Act 2003”.
-As at 15 September 2003 the amendments are not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (No. 82, 2003)
-The following provisions commence on 6 June 2004 unless proclaimed earlier:
-Schedule 2
-1  Transfer of assets and liabilities
-On the commencement of sections 3 to 52 of the National Transport Commission Act 2003, the assets and liabilities of the National Road Transport Commission become the assets and liabilities of the National Transport Commission.
-2  Annual report for the financial year in which this item commenced
-To avoid doubt, the obligations imposed on the members of the Commission by:
-	(a)	section 9 of the Commonwealth Authorities and Companies Act 1997; and
-	(b)	section 38 of the National Transport Commission Act 2003;
-to prepare an annual report on the Commission for the financial year in which this item commenced extend, in relation to the operations of the National Road Transport Commission, to so much of the financial year as occurred before this item commenced.
-3  Road transport reform legislation unaffected
-After the commencement of this item, references in:
-	(a)	the Road Transport Reform (Dangerous Goods) Act 1995; or
-	(b)	the Road Transport Reform (Heavy Vehicles Registration) Act 1997; or
-	(c)	the Road Transport Reform (Vehicles and Traffic) Act 1993;
-to the National Road Transport Commission Act 1991 are taken to be references to that Act as in force immediately before the commencement of this item.
+As at 14 January 2003 the amendments are not incorporated in this compilation.
 
