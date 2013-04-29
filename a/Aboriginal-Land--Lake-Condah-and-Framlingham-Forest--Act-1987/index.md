@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00364/Html/c26c5729-e764-46b0-9994-f9d6589521ee_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image001.gif)
 
-# Aboriginal Land (Lake Condah and Framlingham   Forest) Act 1987
+# Aboriginal Land (Lake Condah and Framlingham  Forest) Act 1987
 
 **Act No. 34 of 1987 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 28 May 2007
  taking into account amendments up to Act No. 152 of 2006
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Rights of access over Condah land
 
-[15](#15).          By‑laws
+[15](#15).          By-laws
 
 [16](#16).          Sacred and significant sites
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Rights of access over Framlingham Forest
 
-[23](#23).          By‑laws
+[23](#23).          By-laws
 
 [24](#24).          Sacred and significant sites
 
@@ -118,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41](#41).          Regulations
 
-**Schedule 1—Land in the Parish of Condah to be vested in the Kerrup‑Jmara Elders Aboriginal Corporation** 
+**Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation** 
 
 **Part A** 
 
@@ -130,7 +130,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## An Act to provide for the vesting in certain Aboriginal communities of certain land at Lake Condah and Framlingham owned by the State of Victoria, and for related purposes
 
-                   WHEREAS Condah land and Framlingham   Forest are situated in the State of Victoria:
+                   WHEREAS Condah land and Framlingham Forest are situated in the State of Victoria:
 
                    AND WHEREAS the Government of Victoria acknowledges:
 
@@ -142,11 +142,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  the traditional Aboriginal rights of ownership, occupation, use and enjoyment concerning that part of Condah land are deemed never to have been extinguished;
 
-                            (iv)  that part of Condah land has been taken by force from the Kerrup‑Jmara Clan without consideration as to compensation under common law or without regard to Kerrup‑Jmara Law;
+                            (iv)  that part of Condah land has been taken by force from the Kerrup-Jmara Clan without consideration as to compensation under common law or without regard to Kerrup-Jmara Law;
 
                              (v)  Aboriginals residing on that part of Condah land and other Aboriginals are considered to be the inheritors in title from Aboriginals who owned, occupied, used and enjoyed the land since time immemorial;
 
-                            (vi)  that part of Condah land is of spiritual, social, historical, cultural and economic importance to the Kerrup‑Jmara Community and to local and other Aboriginals;
+                            (vi)  that part of Condah land is of spiritual, social, historical, cultural and economic importance to the Kerrup-Jmara Community and to local and other Aboriginals;
 
                            (vii)  it is expedient to acknowledge, recognise and assert the traditional rights of Aboriginals to that part of Condah land and the continuous association they have with the land; and
 
@@ -156,15 +156,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  Framlingham Forest was traditionally owned, occupied, used and enjoyed by Aboriginals in accordance with Aboriginal laws, customs, traditions and practices;
 
-                            (iii)  the traditional Aboriginal rights of ownership, occupation, use and enjoyment concerning Framlingham   Forest are deemed never to have been extinguished;
+                            (iii)  the traditional Aboriginal rights of ownership, occupation, use and enjoyment concerning Framlingham  Forest are deemed never to have been extinguished;
 
                             (iv)  Framlingham Forest has been taken by force from the Kirrae Whurrong (Pertobe) Clan without consideration as to compensation under common law or without regard to Kirrae Whurrong Law;
 
-                             (v)  Aboriginals residing at   Framlingham Forest and other Aboriginals are considered to be the inheritors in title from Aboriginals who owned, occupied, used and enjoyed Framlingham   Forest since time immemorial;
+                             (v)  Aboriginals residing at   Framlingham Forest and other Aboriginals are considered to be the inheritors in title from Aboriginals who owned, occupied, used and enjoyed Framlingham Forest since time immemorial;
 
                             (vi)  Framlingham Forest is of spiritual, social, historical, cultural and economic importance to the Kirrae Whurrong community and to local and other Aboriginals;
 
-                           (vii)  it is expedient to acknowledge, recognise and assert the traditional rights of Aboriginals to Framlingham   Forest and the continuous association they have with Framlingham Forest:
+                           (vii)  it is expedient to acknowledge, recognise and assert the traditional rights of Aboriginals to Framlingham  Forest and the continuous association they have with Framlingham Forest:
 
                    AND WHEREAS the Government of Victoria has requested the Parliament of the Commonwealth to enact an Act in the terms of this Act:
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal__Land__(Lake Condah and Framlingham Forest) Act 1987_.
+                   This Act may be cited as the _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Forest__) Act 1987_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -190,21 +190,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aborigin"></a>**_Aboriginal_** means a member of the Aboriginal race of Australia.
 
-                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** means a corporation registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_.
-
-                    <a name="commun-council"></a>**_Community Council_** means the directors of the Kirrae Whurrong Aboriginal Corporation.
+                    <a name="commun-council"></a>**_Community Council_** means the governing committee of the Kirrae Whurrong Aboriginal Corporation.
 
                     <a name="condah-land"></a>**_Condah land_** means the land shown shaded and hatched on the plan in Part A, and shown hatched on the plan in Part B, of Schedule 1.
 
-                    <a name="corpor"></a>**_Corporation_** means the Kerrup‑Jmara Elders Aboriginal Corporation or the Kirrae Whurrong Aboriginal Corporation, as the case requires.
+                    <a name="corpor"></a>**_Corporation_** means the Kerrup-Jmara Elders Aboriginal Corporation or the Kirrae Whurrong Aboriginal Corporation, as the case requires.
 
                     <a name="crown"></a>**_Crown_** means the Crown in right of the Commonwealth or of the State of Victoria, or of both, as the case requires.
 
                     <a name="dai-vest"></a>**_day of vesting_**, in relation to a Corporation, means the day on which the relevant land is vested in the Corporation under section 6 or 7.
 
-                    <a name="forest"></a><a name="framlingham"></a>**_Framlingham_****_Forest_** means the land shown shaded and hatched on the plan in Schedule 2.
+                    <a name="forest"></a><a name=""></a><a name="framlingham"></a>**_Framlingham_****_Forest_** means the land shown shaded and hatched on the plan in Schedule 2.
 
                     <a name="framlingham-reserv"></a>**_Framlingham Reserve_** means the lands shown on the plan in the First Schedule to the _Aboriginal Lands Act_ 1970 of Victoria.
+
+                    <a name="govern-committe"></a>**_Governing Committee_** means the governing committee of the Kerrup-Jmara Elders Aboriginal Corporation.
 
                     <a name="interest"></a>**_interest_**, in relation to land, means:
 
@@ -212,9 +212,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a right, power or privilege over, or in connection with, the land.
 
-                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup‑Jmara Elders Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
+                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup-Jmara Elders Aboriginal Corporation_** means the body that is known as the Kerrup-Jmara Elders Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
 
-                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
+                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the body that is known as the Kirrae Whurrong Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
 
                     <a name="miner"></a>**_mineral_** means any substance (except water) that occurs naturally as part of the earth’s crust, including:
 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="relev-land"></a>**_relevant land_** means:
 
-                     (a)  in relation to the Kerrup‑Jmara Elders Aboriginal Corporation, the Condah land; and
+                     (a)  in relation to the Kerrup-Jmara Elders Aboriginal Corporation, the Condah land; and
 
                      (b)  in relation to the Kirrae Whurrong Aboriginal Corporation, Framlingham Forest.
 
@@ -308,17 +308,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  On the commencement of this section, the Condah land, other than minerals in the Condah land is, by force of this Act:
 
-                     (a)  vested in the Kerrup‑Jmara Elders Aboriginal Corporation; and
+                     (a)  vested in the Kerrup-Jmara Elders Aboriginal Corporation; and
 
                      (b)  freed and discharged from all interests (other than interests in minerals), trusts, restrictions, dedications, reservations, obligations, contracts, licences, charges and rates;
 
-to the intent that the legal estate in the land and all rights and powers incident to that legal estate are vested in the Kerrup‑Jmara Elders Aboriginal Corporation.
+to the intent that the legal estate in the land and all rights and powers incident to that legal estate are vested in the Kerrup-Jmara Elders Aboriginal Corporation.
 
              (2)  On the commencement of this section, the lands delineated and shown hatched on the plan in Part A of Schedule 1 are closed as roads and all rights, easements and privileges existing or claimed either in the public or by any body or person as incident to any past dedication or supposed dedication of them or by user or by any fiction of law cease to exist.
 
 ##### <a id="7"></a>7  Vesting of Framlingham Forest
 
-             (1)  On the commencement of this section, Framlingham   Forest, other than minerals in Framlingham Forest, is, by force of this Act:
+             (1)  On the commencement of this section, Framlingham  Forest, other than minerals in Framlingham Forest, is, by force of this Act:
 
                      (a)  vested in the Kirrae Whurrong Aboriginal Corporation; and
 
@@ -334,7 +334,7 @@ to the intent that the legal estate in the land and all rights and powers incide
 
                      (a)  the property of the State of Victoria in the Condah land or in Framlingham Forest (other than property in minerals); and
 
-                     (b)  each interest of a person (other than the Kerrup‑Jmara Elders Aboriginal Corporation or the Kirrae Whurrong Aboriginal Corporation) in the Condah land or in Framlingham Forest (other than interests in minerals);
+                     (b)  each interest of a person (other than the Kerrup-Jmara Elders Aboriginal Corporation or the Kirrae Whurrong Aboriginal Corporation) in the Condah land or in Framlingham Forest (other than interests in minerals);
 
 is converted into a right to compensation under this Act.
 
@@ -352,7 +352,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
 ##### <a id="10"></a>10  Registration of vesting
 
-             (1)  After the commencement of section 6 or 7, as the case may require, the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission  shall lodge with the Registrar‑General for Victoria or other proper officer of Victoria a copy of the notice of vesting referred to in section 9, certified by writing signed by the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission.
+             (1)  After the commencement of section 6 or 7, as the case may require, the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission  shall lodge with the Registrar-General for Victoria or other proper officer of Victoria a copy of the notice of vesting referred to in section 9, certified by writing signed by the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission.
 
              (2)  The officer with whom the copy of a notice of vesting is lodged in pursuance of subsection (1) may register the acquisition in the manner as nearly as may be in which dealings with land are registered, and may deal with and give effect to the copy of the notice of acquisition as if it were a grant, conveyance, memorandum or instrument of transfer of the land to the Corporation duly executed under the laws in force in Victoria.
 
@@ -368,17 +368,17 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
 ##### <a id="13"></a>13  Management, transfer or lease of land
 
-             (1)  Upon the vesting of the Condah land in the Kerrup‑Jmara Elders Aboriginal Corporation, the Corporation has:
+             (1)  Upon the vesting of the Condah land in the Kerrup-Jmara Elders Aboriginal Corporation, the Corporation has:
 
                      (a)  the full power of management, control and enjoyment of the Condah land, subject to the law of Victoria and the Commonwealth;
 
-                     (b)  the power to transfer its interest in the Condah land to another Aboriginal and Torres Strait Islander corporation, subject to subsection (2); and
+                     (b)  the power to transfer its interest in the Condah land to another Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_, subject to subsection (2); and
 
                      (c)  the power to give a lease of the Condah land or a licence over the Condah land to the Crown, a public authority of the State of Victoria or of the Commonwealth or any other person, subject to subsection (3).
 
-             (2)  The Kerrup‑Jmara Elders Aboriginal Corporation shall not transfer its interest in the Condah land to another Aboriginal and Torres Strait Islander corporation if there is an objection from a member of the Kerrup‑Jmara Committee of Elders or any other adult member of the Corporation.
+             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall not transfer its interest in the Condah land to another Aboriginal group if there is an objection from a member of the Kerrup-Jmara Committee of Elders or any other adult member of the Corporation.
 
-             (3)  The Kerrup‑Jmara Elders Aboriginal Corporation shall not give a lease of the Condah land or a licence over the Condah land that is for a period of more than 3 years to a person who is not the Crown or a public authority of the State of Victoria or the Commonwealth unless the Minister has approved the giving of that lease or licence.
+             (3)  The Kerrup-Jmara Elders Aboriginal Corporation shall not give a lease of the Condah land or a licence over the Condah land that is for a period of more than 3 years to a person who is not the Crown or a public authority of the State of Victoria or the Commonwealth unless the Minister has approved the giving of that lease or licence.
 
 ##### <a id="14"></a>14  Rights of access over Condah land
 
@@ -386,9 +386,9 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (2)  Except as otherwise provided in this Act, a person may, in the performance of functions under this Act or otherwise in accordance with this or any other Act or any law of the State of Victoria, enter and remain on the Condah land.
 
-##### <a id="15"></a>15  By‑laws
+##### <a id="15"></a>15  By-laws
 
-             (1)  The Kerrup‑Jmara Elders Aboriginal Corporation may make by‑laws, not inconsistent with any law of the Commonwealth or the State of Victoria, for or with respect to:
+             (1)  The Kerrup-Jmara Elders Aboriginal Corporation may make by-laws, not inconsistent with any law of the Commonwealth or the State of Victoria, for or with respect to:
 
                      (a)  economic enterprise on the Condah land;
 
@@ -410,57 +410,57 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (k)  the regulation and control of motor traffic and parking on the Condah land; and
 
-                    (m)  the appointment of persons to enforce the by‑laws, and the powers and duties of those persons.
+                    (m)  the appointment of persons to enforce the by-laws, and the powers and duties of those persons.
 
-             (2)  The by‑laws may provide that a contravention of a by‑law is an offence.
+             (2)  The by-laws may provide that a contravention of a by-law is an offence.
 
-             (3)  The regulations may provide, in respect of an offence against the by‑laws, for the imposition of:
+             (3)  The regulations may provide, in respect of an offence against the by-laws, for the imposition of:
 
                      (a)  if the offender is a natural person—a fine not exceeding $500; or
 
                      (b)  if the offender is a corporation—a fine not exceeding $2,500.
 
-             (4)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by‑laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
+             (4)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by-laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
 
                      (a)  in the case of a natural person—$100; or
 
                      (b)  in the case of a corporation—$500.
 
-             (5)  If the Kerrup‑Jmara Elders Aboriginal Corporation makes a by‑law, the directors of the Corporation must, within 7 days after making it, give a copy of the by‑law to the Minister.
+             (5)  If the Kerrup-Jmara Elders Aboriginal Corporation makes a by-law, the Governing Committee shall, within 7 days after making it, give a copy of the by-law to the Minister.
 
-             (6)  Where the Minister receives a copy of any by‑laws, the Minister shall:
+             (6)  Where the Minister receives a copy of any by-laws, the Minister shall:
 
-                     (a)  cause the by‑laws to be notified in the _Gazette_; and
+                     (a)  cause the by-laws to be notified in the _Gazette_; and
 
-                     (b)  cause a copy of the by‑laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
+                     (b)  cause a copy of the by-laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
 
-             (7)  By‑laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by‑laws, from that later date.
+             (7)  By-laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by-laws, from that later date.
 
-             (8)  If a copy of any by‑laws is not laid before each House of the Parliament under subsection (6), the by‑laws shall be void.
+             (8)  If a copy of any by-laws is not laid before each House of the Parliament under subsection (6), the by-laws shall be void.
 
-             (9)  Where a copy of a by‑law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by‑law as if, in those provisions, references to regulations were references to by‑laws and references to repeal were references to revocation.
+             (9)  Where a copy of a by-law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by-law as if, in those provisions, references to regulations were references to by-laws and references to repeal were references to revocation.
 
 ##### <a id="16"></a>16  Sacred and significant sites
 
-             (1)  The Kerrup‑Jmara Elders Aboriginal Corporation shall compile a register of sites on the Condah land that are sacred or significant to Aboriginals or any group of Aboriginals and shall record in the register:
+             (1)  The Kerrup-Jmara Elders Aboriginal Corporation shall compile a register of sites on the Condah land that are sacred or significant to Aboriginals or any group of Aboriginals and shall record in the register:
 
                      (a)  if a site has been specifically identified, the boundaries of the site; or
 
                      (b)  if a site is known to exist but has not been specifically identified, the boundaries of the site as it is known to exist.
 
-             (2)  The Kerrup‑Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents without the permission of the directors of the Corporation.
+             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents without the permission of the Governing Committee.
 
-             (3)  The directors of the Corporation must make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
+             (3)  The Governing Committee shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
 ##### <a id="17"></a>17  Committee of Elders
 
-                   The Kerrup‑Jmara Committee of Elders is that body of persons who are members of the Kerrup‑Jmara Elders Aboriginal Corporation and are considered by Aboriginal tradition and practice and by recognition of the Kerrup‑Jmara Community to be the Committee of Elders.
+                   The Kerrup-Jmara Committee of Elders is that body of persons who are members of the Kerrup-Jmara Elders Aboriginal Corporation and are considered by Aboriginal tradition and practice and by recognition of the Kerrup-Jmara Community to be the Committee of Elders.
 
 ##### <a id="18"></a>18  Powers of Committee of Elders
 
-             (1)  The powers of the Kerrup‑Jmara Committee of Elders are:
+             (1)  The powers of the Kerrup-Jmara Committee of Elders are:
 
-                     (a)  subject to the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_, to declare a specified person to be eligible to be a member of the Kerrup‑Jmara Elders Aboriginal Corporation or any body created by that Corporation;
+                     (a)  subject to the _Aboriginal Councils and Associations Act 1976_, to declare a specified person to be eligible to be a member of the Kerrup-Jmara Elders Aboriginal Corporation or any body created by that Corporation;
 
                      (b)  to determine anything with respect to:
 
@@ -480,35 +480,33 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (4)  Nothing in this section has effect so as to confer judicial power on the Committee of Elders.
 
-             (5)  Subject to the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_, a person is eligible to be a member of the Kerrup‑Jmara Elders Aboriginal Corporation or a body created by the Corporation if, and only if, a declaration in force under paragraph (1)(a) so declares.
+             (5)  Subject to the _Aboriginal Councils and Associations Act 1976_, a person is eligible to be a member of the Kerrup-Jmara Elders Aboriginal Corporation or a body created by the Corporation if, and only if, a declaration in force under paragraph (1)(a) so declares.
 
-             (6)  Where, immediately before the commencement of this section, a person was a member of the Kerrup‑Jmara Elders Aboriginal Corporation or a body created by that Corporation, a declaration under paragraph (1)(a) shall be deemed to be in force in relation to that person.
+             (6)  Where, immediately before the commencement of this section, a person was a member of the Kerrup-Jmara Elders Aboriginal Corporation or a body created by that Corporation, a declaration under paragraph (1)(a) shall be deemed to be in force in relation to that person.
 
 ##### <a id="19"></a>19  Winding up
 
-                   If the Kerrup‑Jmara Elders Aboriginal Corporation is wound up and its interest in the Condah land has not been transferred to another Aboriginal and Torres Strait Islander corporation under this Act:
+                   If the Kerrup-Jmara Elders Aboriginal Corporation is wound up and its interest in the Condah land has not been transferred to another Aboriginal group under this Act:
 
                      (a)  by force of this Act, that interest in the Condah land is, subject to paragraph (b), vested in the Commonwealth on trust for the benefit of the Aboriginal people of Victoria; and
 
-                     (b)  the Governor‑General shall, to the extent of that interest, execute a deed of grant of an estate in the Condah land:
+                     (b)  the Governor-General shall, to the extent of that interest, execute a deed of grant of an estate in the Condah land:
 
-                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kerrup‑Jmara Clan; or
+                              (i)  to another Aboriginal group which is approved by the Minister and is incorporated under the _Aboriginal Councils and Associations Act 1976_ and the members of which are the descendants of the Kerrup-Jmara Clan; or
 
-                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
+                             (ii)  if there is no group as described in subparagraph (i)—to any appropriate Aboriginal group in Victoria which is incorporated under that Act.
 
 ##### <a id="20"></a>20  Change of ownership of land
 
-                   If the Condah land is transferred or granted to another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**) in accordance with this Act:
+                   If the Condah land is transferred or granted to another Aboriginal group in accordance with this Act:
 
-                     (a)  this Act has effect in relation to the transferee corporation and to the Condah land as if:
+                     (a)  this Act has effect in relation to the group and to the Condah land as if:
 
-                              (i)  a reference in this Act to the Kerrup‑Jmara Elders Aboriginal Corporation were a reference to the transferee corporation; and
+                              (i)  a reference in this Act to the Kerrup-Jmara Elders Aboriginal Corporation were a reference to the group; and
 
-                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor‑General by Proclamation for the purposes of this section; and
+                             (ii)  references to the Committee of Elders or the Governing Committee of the Corporation were references to such Committee of Elders or Governing Committee as is declared by the Governor-General by Proclamation for the purposes of this section; and
 
-                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
-
-                     (b)  the transferee corporation is deemed to be the successor in law of the Corporation or Aboriginal and Torres Strait Islander corporation in or to which the Condah land was last vested or granted and has all the powers, duties, rights and liabilities of that Corporation or Aboriginal and Torres Strait Islander corporation.
+                     (b)  the group to which the land is transferred or granted is deemed to be the successor in law of the Corporation or group in or to which the Condah land was last vested or granted and has all the powers, duties, rights and liabilities of that Corporation or group.
 
 ## Part IV—Management of Framlingham Forest
 
@@ -518,11 +516,11 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (a)  the full power of management, control and enjoyment of Framlingham Forest, subject to the law of Victoria and the Commonwealth;
 
-                     (b)  the power to transfer its interest in Framlingham Forest to another Aboriginal and Torres Strait Islander corporation, subject to subsection (2); and
+                     (b)  the power to transfer its interest in Framlingham Forest to another Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_, subject to subsection (2); and
 
                      (c)  the power to give a lease of Framlingham Forest or a licence over Framlingham Forest to the Crown, a public authority of the State of Victoria or of the Commonwealth or any other person, subject to subsection (3).
 
-             (2)  The Kirrae Whurrong Aboriginal Corporation shall not transfer its interest in Framlingham Forest to another Aboriginal and Torres Strait Islander corporation if there is an objection from a member of the Kirrae Whurrong Committee of Elders or an adult member of the Corporation.
+             (2)  The Kirrae Whurrong Aboriginal Corporation shall not transfer its interest in Framlingham Forest to another Aboriginal group if there is an objection from a member of the Kirrae Whurrong Committee of Elders or an adult member of the Corporation.
 
              (3)  The Kirrae Whurrong Aboriginal Corporation shall not give a lease of Framlingham Forest or a licence over Framlingham Forest that is for a period of more than 3 years to a person who is not the Crown or a public authority of the State of Victoria or the Commonwealth unless the Minister has approved the giving of that lease or licence.
 
@@ -532,59 +530,59 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (2)  Except as otherwise provided in this Act, a person may, in the performance of functions under this Act or otherwise in accordance with this or any other Act or any law of the State of Victoria, enter and remain in Framlingham Forest.
 
-##### <a id="23"></a>23  By‑laws
+##### <a id="23"></a>23  By-laws
 
-             (1)  The Kirrae Whurrong Aboriginal Corporation may make by‑laws, not inconsistent with any law of the Commonwealth or the State of Victoria, for or with respect to:
+             (1)  The Kirrae Whurrong Aboriginal Corporation may make by-laws, not inconsistent with any law of the Commonwealth or the State of Victoria, for or with respect to:
 
-                     (a)  economic enterprise in Framlingham   Forest;
+                     (a)  economic enterprise in Framlingham  Forest;
 
-                     (b)  cultural activities in Framlingham   Forest;
+                     (b)  cultural activities in Framlingham  Forest;
 
                      (c)  the management, access, conservation, fire protection, development and use of Framlingham Forest;
 
-                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people in Framlingham   Forest;
+                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people in Framlingham  Forest;
 
-                     (e)  the activities to be permitted in Framlingham   Forest or any part of it;
+                     (e)  the activities to be permitted in Framlingham  Forest or any part of it;
 
                       (f)  protection and conservation of flora and fauna found in Framlingham Forest;
 
                      (g)  in relation to Framlingham Forest, the cutting, removal and sale of timber, the granting of revocable licences and the payment of royalties for timber to the Corporation;
 
-                     (h)  hunting, shooting and fishing in Framlingham   Forest;
+                     (h)  hunting, shooting and fishing in Framlingham  Forest;
 
-                      (j)  control of visitors in, and charging fees (to be paid to the Corporation) for entrance to, Framlingham   Forest;
+                      (j)  control of visitors in, and charging fees (to be paid to the Corporation) for entrance to, Framlingham Forest;
 
                      (k)  the regulation and control of motor traffic and parking in Framlingham Forest; and
 
-                    (m)  the appointment of persons to enforce the by‑laws, and the powers and duties of those persons.
+                    (m)  the appointment of persons to enforce the by-laws, and the powers and duties of those persons.
 
-             (2)  The by‑laws may provide that a contravention of a by‑law is an offence.
+             (2)  The by-laws may provide that a contravention of a by-law is an offence.
 
-             (3)  The regulations may provide, in respect of an offence against the by‑laws, for the imposition of:
+             (3)  The regulations may provide, in respect of an offence against the by-laws, for the imposition of:
 
                      (a)  if the offender is a natural person—a fine not exceeding $500; or
 
                      (b)  if the offender is a corporation—a fine not exceeding $2,500.
 
-             (4)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by‑laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
+             (4)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by-laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
 
                      (a)  in the case of a natural person—$100; or
 
                      (b)  in the case of a corporation—$500.
 
-             (5)  If the Kirrae Whurrong Aboriginal Corporation makes a by‑law, the Community Council shall, within 7 days after making it, give a copy of the by‑law to the Minister.
+             (5)  If the Kirrae Whurrong Aboriginal Corporation makes a by-law, the Community Council shall, within 7 days after making it, give a copy of the by-law to the Minister.
 
-             (6)  Where the Minister receives a copy of any by‑laws, the Minister shall:
+             (6)  Where the Minister receives a copy of any by-laws, the Minister shall:
 
-                     (a)  cause the by‑laws to be notified in the _Gazette_; and
+                     (a)  cause the by-laws to be notified in the _Gazette_; and
 
-                     (b)  cause a copy of the by‑laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
+                     (b)  cause a copy of the by-laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
 
-             (7)  By‑laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by‑laws, from that later date.
+             (7)  By-laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by-laws, from that later date.
 
-             (8)  If a copy of any by‑laws is not laid before each House of the Parliament under subsection (6), the by‑laws shall be void.
+             (8)  If a copy of any by-laws is not laid before each House of the Parliament under subsection (6), the by-laws shall be void.
 
-             (9)  Where a copy of a by‑law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by‑law as if, in those provisions, references to regulations were references to by‑laws and references to repeal were references to revocation.
+             (9)  Where a copy of a by-law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by-law as if, in those provisions, references to regulations were references to by-laws and references to repeal were references to revocation.
 
 ##### <a id="24"></a>24  Sacred and significant sites
 
@@ -598,25 +596,25 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (3)  The Community Council shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
-##### <a id="25"></a>25  Membership
+##### <a id="25"></a>25  Membership
 
              (1)  A person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation if, and only if, the person has resided on Framlingham Reserve for a continuous period of more than 12 months (whether before or after, or before and after, the commencement of this subsection).
 
-             (2)  At least one‑half of the members of the Community Council shall be persons who are residents of the Framlingham Reserve.
+             (2)  At least one-half of the members of the Community Council shall be persons who are residents of the Framlingham Reserve.
 
-             (3)  This section has effect notwithstanding anything to the contrary in the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_.
+             (3)  This section has effect notwithstanding anything to the contrary in the _Aboriginal Councils and Associations Act 1976_.
 
 ##### <a id="26"></a>26  Committee of Elders
 
              (1)  The Kirrae Whurrong Committee of Elders is that body of persons who are members of the Kirrae Whurrong Aboriginal Corporation and are considered by Aboriginal tradition and practice and by recognition of those Aboriginals living in the Framlingham Forest area to be the Committee of Elders.
 
-             (2)  At least one‑half of the members of the Kirrae Whurrong Committee of Elders shall be persons who are residents of Framlingham Reserve.
+             (2)  At least one-half of the members of the Kirrae Whurrong Committee of Elders shall be persons who are residents of Framlingham Reserve.
 
 ##### <a id="27"></a>27  Power of Committee of Elders
 
              (1)  The powers of the Kirrae Whurrong Committee of Elders are:
 
-                     (a)  subject to section 25 and to the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_, to declare a specified person to be eligible to be a member of the Kirrae Whurrong Aboriginal Corporation or any body created by the Corporation;
+                     (a)  subject to section 25 and to the _Aboriginal Councils and Associations Act 1976_, to declare a specified person to be eligible to be a member of the Kirrae Whurrong Aboriginal Corporation or any body created by the Corporation;
 
                      (b)  to determine anything with respect to:
 
@@ -636,33 +634,31 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (4)  Nothing in this section has effect so as to confer judicial power on the Committee of Elders.
 
-             (5)  Subject to the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_, a person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation or a body created by that Corporation if, and only if, a declaration in force under paragraph (1)(a) so declares.
+             (5)  Subject to the _Aboriginal Councils and Associations Act 1976_, a person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation or a body created by that Corporation if, and only if, a declaration in force under paragraph (1)(a) so declares.
 
 ##### <a id="28"></a>28  Winding up
 
-                   If the Kirrae Whurrong Aboriginal Corporation is wound up and its interest in Framlingham Forest has not been transferred to another Aboriginal and Torres Strait Islander corporation under this Act:
+                   If the Kirrae Whurrong Aboriginal Corporation is wound up and its interest in Framlingham Forest has not been transferred to another Aboriginal group under this Act:
 
                      (a)  by force of this Act, that interest in Framlingham Forest is, subject to paragraph (b), vested in the Commonwealth on trust for the benefit of the Aboriginal people of Victoria; and
 
-                     (b)  the Governor‑General shall, to the extent of that interest, execute a deed of grant of an estate in Framlingham   Forest:
+                     (b)  the Governor-General shall, to the extent of that interest, execute a deed of grant of an estate in Framlingham  Forest:
 
-                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kirrae Whurrong (Pertobe) Clan; or
+                              (i)  to another Aboriginal group which is approved by the Minister and is incorporated under the _Aboriginal Councils and Associations Act 1976_ and the members of which are the descendants of the Kirrae Whurrong (Pertobe) Clan; or
 
-                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
+                             (ii)  if there is no group as described in subparagraph (i)—to any appropriate Aboriginal group in Victoria which is incorporated under that Act.
 
 ##### <a id="29"></a>29  Change of ownership of land
 
-                   If Framlingham Forest is transferred or granted to another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**) in accordance with this Act:
+                   If Framlingham Forest is transferred or granted to another Aboriginal group in accordance with this Act:
 
-                     (a)  this Act has effect in relation to the transferee corporation and to Framlingham Forest as if:
+                     (a)  this Act has effect in relation to the group and to Framlingham Forest as if:
 
-                              (i)  a reference in this Act to the Kirrae Whurrong Aboriginal Corporation were a reference to the transferee corporation; and
+                              (i)  a reference in this Act to the Kirrae Whurrong Aboriginal Corporation were a reference to the group; and
 
-                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor‑General by Proclamation for the purposes of this section; and
+                             (ii)  references to the Committee of Elders or the Community Council were references to such Committee of Elders or Governing Committee as is declared by the Governor-General by Proclamation for the purposes of this section; and
 
-                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
-
-                     (b)  the transferee corporation is deemed to be the successor in law of the Corporation or Aboriginal and Torres Strait Islander corporation in or to which Framlingham Forest was last vested or granted and has all the powers, duties, rights and liabilities of that Corporation or Aboriginal and Torres Strait Islander corporation.
+                     (b)  the group to which the land is transferred or granted is deemed to be the successor in law of the Corporation or group in or to which Framlingham Forest was last vested or granted and has all the powers, duties, rights and liabilities of that Corporation or group.
 
 ## Part V—Mining
 
@@ -700,7 +696,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
 ##### <a id="31"></a>31  Permission to carry out mining operation
 
-             (1)  A person who has applied for a mining tenement, or for the renewal variation or extension of a mining tenement, in relation to the relevant land may, with the approval of the Minister, apply to the Corporation for permission to carry out the operations to which the first‑mentioned application relates.
+             (1)  A person who has applied for a mining tenement, or for the renewal variation or extension of a mining tenement, in relation to the relevant land may, with the approval of the Minister, apply to the Corporation for permission to carry out the operations to which the first-mentioned application relates.
 
              (2)  An application:
 
@@ -802,7 +798,7 @@ the Minister shall appoint an arbitrator, being a person whom the Minister consi
 
                      (a)  the Minister shall give the applicant any information about the site and its location that the Minister considers appropriate; and
 
-                     (b)  the Corporation shall be deemed to have advised the Minister under Part IIA of the _Aboriginal and Torres Strait Islanders Heritage Protection Act 1984_ that it considers that a declaration under section 21E of that Act should be made.
+                     (b)  the Corporation shall be deemed to have advised the Minister under Part IIA of the _Aboriginal and__Torres  Strait__Islanders Heritage Protection Act 1984_ that it considers that a declaration under section 21E of that Act should be made.
 
              (3)  Unless the Minister otherwise determines in a particular case, this section does not apply in relation to the renewal or extension of a mining tenement.
 
@@ -876,35 +872,35 @@ shall be deemed, for the purposes of any proceedings for an offence against this
 
 ##### <a id="41"></a>41  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-# Schedule 1—Land in the Parish of Condah to be vested in the Kerrup‑Jmara Elders Aboriginal Corporation
+# Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation
 
 _Section 6_
 
 ## Part A
 
-![](http://www.comlaw.gov.au/Details/C2007C00364/Html/c26c5729-e764-46b0-9994-f9d6589521ee_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image002.gif)
 
 ## Part B 
 
-![](http://www.comlaw.gov.au/Details/C2007C00364/Html/c26c5729-e764-46b0-9994-f9d6589521ee_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image003.gif)
 
 # Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation
 
 _Section 7_
 
-![](http://www.comlaw.gov.au/Details/C2007C00364/Html/c26c5729-e764-46b0-9994-f9d6589521ee_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00331/Html/AbLndLkConFramFo87WD02_image004.gif)
 
 # Notes to the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
 
 ### Note 1
 
-The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Act 1987_ as shown in this compilation comprises Act No. 34, 1987 amended as indicated in the Tables below. 
+The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Forest__) Act 1987_ as shown in this compilation comprises Act No. 34, 1987 amended as indicated in the Tables below. 
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -951,7 +947,7 @@ of Assent</div>
     <div>2 June 1987</div>
   </td>
   <td>
-    <div>Part I (ss. 1–5): Royal Assent 
+    <div>Part 1 (ss. 1–5): Royal Assent 
 Remainder: 1 July 1987 ( <i>see Gazette</i>1987, No. S157)</div>
   </td>
   <td>
@@ -1140,8 +1136,7 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (items 4–34): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1167,7 +1162,7 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-_(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Act 1987_ was amended by Schedule 2 (items 94–112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Forest__) Act 1987_ was amended by Schedule 2 (items 94–112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
@@ -1207,7 +1202,7 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 99, 1994; No. 125, 2006</div>
+    <div>am. No. 99, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1260,18 +1255,10 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 99, 1988; No. 125, 2006</div>
+    <div>am. No. 99, 1988</div>
   </td>
 </tr>
 <tr>
@@ -1279,15 +1266,7 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 125, 2006; No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18–20</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
+    <div>am. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1296,14 +1275,6 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1320,22 +1291,6 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
   </td>
   <td>
     <div>am. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27–29</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1419,6 +1374,162 @@ _(a)_     The _Aboriginal__Land__(Lake Condah and Framlingham Forest) Ac
   </td>
 </tr></table>
 
+### Note 2
+
+_Corporations (Aboriginal and Torres  Strait Islander) Consequential, Transitional and Other Measures Act 2006 (No. 125, 2006)_
+
+The following amendments commence on 1 July 2007 (_see_ s. 2(1)):
+
+## Schedule 2
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** means a corporation registered under the _Corporations (Aboriginal and__Torres  Strait__Islander) Act 2006_.
+
+## 5  Subsection 3(1) (definition of _Community Council_)
+
+Omit “governing committee”, substitute “directors”.
+
+## 6  Subsection 3(1) (definition of _Governing Committee_)
+
+Repeal the definition.
+
+## 7  Subsection 3(1) (definition of _Kerrup-Jmara Elders Aboriginal Corporation_)
+
+Repeal the definition, substitute:
+
+                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup-Jmara Elders Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
+
+## 8  Subsection 3(1) (definition of _Kirrae Whurrong Aboriginal Corporation_)
+
+Repeal the definition, substitute:
+
+                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
+
+## 9  Paragraph 13(1)(b)
+
+Omit “Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_”, substitute “Aboriginal and Torres Strait Islander corporation”.
+
+## 10  Subsection 13(2)
+
+Omit “Aboriginal group”, substitute “Aboriginal and Torres Strait Islander corporation”.
+
+## 11  Subsection 15(5)
+
+Omit “Governing Committee shall”, substitute “directors of the Corporation must”.
+
+## 12  Subsection 16(2)
+
+Omit “Governing Committee”, substitute “directors of the Corporation”.
+
+## 13  Subsection 16(3)
+
+Omit “Governing Committee shall”, substitute “directors of the Corporation must”.
+
+## 14  Paragraph 18(1)(a)
+
+Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
+
+## 15  Subsection 18(5)
+
+Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
+
+## 16  Section 19
+
+Omit “Aboriginal group under this Act”, substitute “Aboriginal and Torres Strait Islander corporation under this Act”.
+
+## 17  Subparagraphs 19(b)(i) and (ii)
+
+Repeal the subparagraphs, substitute:
+
+                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kerrup-Jmara Clan; or
+
+                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
+
+## 18  Section 20
+
+Omit “another Aboriginal group”, substitute “another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**)”.
+
+## 19  Paragraph 20(a)
+
+Omit “the group” (wherever occurring), substitute “the transferee corporation”.
+
+## 20  Subparagraph 20(a)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor-General by Proclamation for the purposes of this section; and
+
+                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
+
+## 21  Paragraph 20(b)
+
+Omit “the group to which the land is transferred or granted”, substitute “the transferee corporation”.
+
+## 22  Paragraph 20(b)
+
+Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
+
+## 23  Paragraph 21(1)(b)
+
+Omit “Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_”, substitute “Aboriginal and Torres Strait Islander corporation”.
+
+## 24  Subsection 21(2)
+
+Omit “Aboriginal group”, substitute “Aboriginal and Torres Strait Islander corporation”.
+
+## 25  Subsection 25(3)
+
+Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
+
+## 26  Paragraph 27(1)(a)
+
+Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
+
+## 27  Subsection 27(5)
+
+Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
+
+## 28  Section 28
+
+Omit “Aboriginal group under this Act”, substitute “Aboriginal and Torres Strait Islander corporation under this Act”.
+
+## 29  Subparagraphs 28(b)(i) and (ii)
+
+Repeal the subparagraphs, substitute:
+
+                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kirrae Whurrong (Pertobe) Clan; or
+
+                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
+
+## 30  Section 29
+
+Omit “another Aboriginal group”, substitute “another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**)”.
+
+## 31  Paragraph 29(a)
+
+Omit “the group” (wherever occurring), substitute “the transferee corporation”.
+
+## 32  Subparagraph 29(a)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor-General by Proclamation for the purposes of this section; and
+
+                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
+
+## 33  Paragraph 29(b)
+
+Omit “the group to which the land is transferred or granted”, substitute “the transferee corporation”.
+
+## 34  Paragraph 29(b)
+
+Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
+
+As at 28 May 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1457,7 +1568,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Aboriginal and Torres Strait Islander Commission Amendment Act 2005 
+_Aboriginal and Torres  Strait Islander Commission Amendment Act 2005 
  (No. 32, 2005)_
 
 ## Schedule 4
