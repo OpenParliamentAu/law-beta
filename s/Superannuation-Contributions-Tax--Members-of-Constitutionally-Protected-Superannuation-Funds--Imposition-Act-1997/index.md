@@ -1,7 +1,7 @@
 
 Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997
 Act No. 184 of 1997 as amended
-This compilation was prepared on 19 November 2003 taking into account amendments up to Act No. 112 of 2003
+This compilation was prepared on 1 July 2003 taking into account amendments up to Act No. 51 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -14,9 +14,11 @@ Contents
 3	Interpretation	1
 4	Imposition of superannuation contributions surcharge	1
 5	Rate of superannuation contributions surcharge	1
-6	Surchargeable contributions threshold	4
-7	Indexation	5
-Notes	9
+6	Surchargeable contributions threshold	3
+7	Indexation	4
+Notes	7
+
+
 An Act to impose a superannuation contributions tax on members of constitutionally protected superannuation funds and to declare the rate of the tax
 1  Short title [see Note 1]
 		This Act may be cited as the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997.
@@ -27,32 +29,18 @@ An Act to impose a superannuation contributions tax on members of constitutional
 4  Imposition of superannuation contributions surcharge
 		The superannuation contributions surcharge that is payable on a member’s surchargeable contributions for a financial year under the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 is imposed by this Act.
 5  Rate of superannuation contributions surcharge
-	(1A)	In this section:
-higher income amount means:
-	(a)	for the 2003‑2004 financial year—$114,981; and
-	(b)	for each later financial year—that amount as indexed under section 7.
-lower income amount means:
-	(a)	for the 2003‑2004 financial year—$94,691; and
-	(b)	for each later financial year—that amount as indexed under section 7.
-maximum surcharge percentage means:
-	(a)	for the 2003‑2004 financial year—14.5%; and
-	(b)	for the 2004‑2005 financial year—13.5%; and
-	(c)	for the 2005‑2006 financial year and later financial years—12.5%.
-	(1)	Unless subsection (4) applies, if the member’s adjusted taxable income for a financial year (relevant adjusted taxable income) is not less than the lower income amount but is less than the higher income amount, the rate of the superannuation contributions surcharge that applies to the member for that year is the percentage (calculated to 5 decimal places) of the member’s surchargeable contributions for that year worked out using the formula:
-
-where:
-A is:
+	(1)	Unless subsection (4) applies, if the member’s adjusted taxable income for a financial year (relevant adjusted taxable income) is not less than $70,000 but is less than $85,000, the rate of the superannuation contributions surcharge that applies to the member for that year is the percentage (calculated to 5 decimal places) of the member’s surchargeable contributions for that year worked out using the formula:
 
 	(2)	If the percentage calculated under subsection (1) for a financial year would, if it were worked out to 6 decimal places, end with a number greater than 4, the number so calculated is increased by 0.00001.
-	(3)	If the member’s adjusted taxable income for a financial year is equal to, or greater than, the higher income amount, the rate of the superannuation contributions surcharge that applies to the member for that year is the maximum surcharge percentage of the member’s surchargeable contributions for that year.
+	(3)	If the member’s adjusted taxable income for a financial year is $85,000 or a higher amount, the rate of the superannuation contributions surcharge that applies to the member for that year is 15% of the member’s surchargeable contributions for that year.
 	(4)	If:
 	(a)	the member has not quoted his or her tax file number to the Commissioner in connection with the operation or the possible future operation of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997; and
 	(b)	the Commissioner has not, after taking all reasonable steps, found out the member’s tax file number; and
-	(c)	the Commissioner has written a letter to the member at the member’s last‑known address telling the member that, if the member does not quote his or her tax file number, the rate of surcharge that will apply to the member for a financial year (the relevant financial year) may be the maximum surcharge percentage of the member’s surchargeable contributions for that year;
+	(c)	the Commissioner has written a letter to the member at the member’s last‑known address telling the member that, if the member does not quote his or her tax file number, the rate of surcharge that will apply to the member for a financial year (the relevant financial year) may be 15% of the member’s surchargeable contributions for that year;
 the following provisions have effect:
-	(d)	if contributed amounts in respect of contributions began to be paid for or by the member to a superannuation provider before 7 May 1997 and the member’s surchargeable contributions for the relevant financial year exceed the surchargeable contributions threshold—the rate of surcharge that applies in respect of the member’s surchargeable contributions for the relevant financial year is the maximum surcharge percentage of those contributions;
+	(d)	if contributed amounts in respect of contributions began to be paid for or by the member to a superannuation provider before 7 May 1997 and the member’s surchargeable contributions for the relevant financial year exceed the surchargeable contributions threshold—the rate of surcharge that applies in respect of the member’s surchargeable contributions for the relevant financial year is 15% of those contributions;
 	(e)	if contributed amounts in respect of contributions began to be paid for or by the member to a superannuation provider before 7 May 1997 and the member’s surchargeable contributions for the relevant financial year do not exceed the surchargeable contributions threshold—the rate of surcharge that applies in respect of the member’s surchargeable contributions for the relevant financial year is nil;
-	(f)	subject to subsection (5), if no contributed amounts in respect of contributions began to be paid for or by the member to a superannuation provider before 7 May 1997—the rate of surcharge that applies in respect of the member’s surchargeable contributions for the relevant financial year is the maximum surcharge percentage of those contributions.
+	(f)	subject to subsection (5), if no contributed amounts in respect of contributions began to be paid for or by the member to a superannuation provider before 7 May 1997—the rate of surcharge that applies in respect of the member’s surchargeable contributions for the relevant financial year is 15% of those contributions.
 	(5)	If:
 	(a)	the Commissioner has written a letter to a member as mentioned in paragraph (4)(c); and
 	(b)	the member has not quoted his or her tax file number as mentioned in paragraph (4)(a) within 3 months after the letter was sent;
@@ -71,7 +59,7 @@ indexation factor means the number worked out under subsections 10(4) and (5) of
 current charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the relevant financial year.
 previous charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the financial year immediately before the relevant financial year.
 7  Indexation
-Indexation of certain amounts for 2004‑05 financial year and later financial years
+Indexation of certain amounts for 1997‑98 financial year and later financial years
 	(1)	Section 5 applies in relation to an indexing financial year as if each indexable amount were replaced by the amount worked out using the formula:
 
 where:
@@ -92,13 +80,13 @@ Rounding up of indexation factor
 Change in index numbers
 	(5)	If, at any time, whether before or after the commencement of this Act, the Australian Statistician has published or publishes an index number for a quarter in substitution for an index number previously published for the quarter, the publication of the later index number is to be disregarded.
 Indexable amounts to be published
-	(6)	The Commissioner must publish before, or as soon as practicable after, the start of the 2004‑05 financial year, and before the start of each later financial year, the indexable amounts as replaced under subsection (1) for that year.
+	(6)	The Commissioner must publish before, or as soon as practicable after, the start of the 1997‑98 financial year, and before the start of each later financial year, the indexable amounts as replaced under subsection (1) for that year.
 Definitions
 	(7)	In this section:
 indexable amount means:
 	(a)	an amount stated in section 5; or
 	(b)	if that amount has previously been altered under this section—the altered amount.
-indexing financial year means the 2004‑05 financial year or a later financial year.
+indexing financial year means the 1997‑98 financial year or a later financial year.
 index number, for a quarter, means the estimate of full‑time adult average weekly ordinary time earnings for the middle month of the quarter published by the Australian Statistician.
 Note:	For the purposes of this section, Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975.
 Notes to the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997
@@ -111,43 +99,28 @@ Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997
 184, 1997
 7 Dec 1997
 7 Dec 1997
 
-Taxation Laws Amendment (Superannuation) Act (No. 2) 2002
+Taxation Laws Amendment (Superannuation) Act (No. 2) 2002
 51, 2002
-29 June 2002 
-Schedule 1 (items 191, 192): 1 July 2003 Schedule 1 (item 202(5), (6)): Royal Assent
-Sch. 1 (item 202(5), (6))
-Superannuation (Surcharge Rate Reduction) Amendment Act 2003
-112, 2003
-12 Nov 2003
-Schedule 1: 1 July 2003 Remainder: Royal Assent
-Sch. 1 (item 32) 
+29 June 2002 
+Schedule 1 (items 191, 192): 1 July 2003 Schedule 1 (item 202(5), (6)): Royal Assent
+Sch. 1 (item 202(5), (6))
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 5	
-am. No. 112, 2003
 S. 6	
-am. No. 51, 2002
-Subhead. to s. 7(1)	
-am. No. 112, 2003
-S. 7	
-am. No. 112, 2003
+am. No. 51, 2002
 Table A
 Application, saving or transitional provisions
-Taxation Laws Amendment (Superannuation) Act (No. 2) 2002 (No. 51, 2002)
+Taxation Laws Amendment (Superannuation) Act (No. 2) 2002 (No. 51, 2002)
 Schedule 1
-202  Application of amendments made by Part 2
+202  Application of amendments made by Part 2
 (5)	Subject to subitem (6), the amendments made by items 189 to 192 apply in relation to surcharge imposed by the Superannuation Contributions Tax Imposition Act 1997 and the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 for the 2003‑2004 financial year and later financial years.
 (6)	However, for the 2003‑2004 year, the amount that is the previous charge percentage (which is a number that relates to the 2002‑2003 year) is to be determined as if the amendments made by items 190 and 192 had not been made.
-
-Superannuation (Surcharge Rate Reduction) Amendment Act 2003  (No. 112, 2003)
-32  Application of amendments made by Part 1
-The amendments made by Part 1 apply in relation to liability to surcharge in respect of the 2003‑04 financial year and later financial years.
-Note:	The Acts amended by Part 1 continue to apply in relation to liability to surcharge in respect of financial years that ended before 1 July 2003 as if the amendments made by Part 1 had not been made.
 
