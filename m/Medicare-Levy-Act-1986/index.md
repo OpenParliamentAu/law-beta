@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 20 December 2011
- taking into account amendments up to Act No. 159 of 2011
+This compilation was prepared on 29 June 2011
+ taking into account amendments up to Act No. 44 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -160,7 +160,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -236,7 +236,7 @@ and the family income in relation to the person does not exceed the family incom
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image005.gif)
 
 where:
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -366,7 +366,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image008.gif)
 
 if:
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -436,7 +436,7 @@ if:
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00969/Html/189bcd93-2b3d-423a-a37d-88a4ca9eeefa_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image010.gif)
 
 if:
 
@@ -486,8 +486,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="30%">
   <col width="15%">
   <col width="17%">
-  <col width="22%">
-  <col width="16%">
+  <col width="23%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1441,10 +1441,10 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 48–61, 102(1)): 27 Mar 2009</div>
+    <div>Schedule 3 (items 48–61, 102(1)): 27 Mar 2009</div>
   </td>
   <td>
-    <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1484,7 +1484,7 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>Schedule 1 (items 2–13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1544,27 +1544,7 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>Schedule 1 (items 2–13): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Clean Energy (Tax Laws Amendments) Act 2011</div>
-  </td>
-  <td>
-    <div>159, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 2–11) and Schedule 3 (items 22–24): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 11) and Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -2066,62 +2046,6 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
   </td>
 </tr></table>
 
-### Note 2
-
-_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 2
-
-## 2  Subsection 3(1) (paragraph (a) of the definition of _phase‑in limit_)
-
-Omit “$36,100”, substitute “$37,975”.
-
-## 3  Subsection 3(1) (paragraph (c) of the definition of _phase‑in limit_)
-
-Omit “$22,163”, substitute “$24,167”.
-
-## 4  Subsection 3(1) (paragraph (a) of the definition of _threshold amount_)
-
-Omit “$30,685”, substitute “$32,279”.
-
-## 5  Subsection 3(1) (paragraph (c) of the definition of _threshold amount_)
-
-Omit “$18,839”, substitute “$20,542”.
-
-## 6  Subsection 8(7)
-
-Omit “$44,500”, substitute “$46,000”.
-
-## 7  Paragraph 8D(3)(c)
-
-Omit “$18,839”, substitute “$20,542”.
-
-## 8  Subparagraph 8D(4)(a)(ii)
-
-Omit “$18,839”, substitute “$20,542”.
-
-## 9  Paragraph 8G(2)(c)
-
-Omit “$18,839”, substitute “$20,542”.
-
-## 10  Subparagraph 8G(3)(a)(ii)
-
-Omit “$18,839”, substitute “$20,542”.
-
-## Schedule 3
-
-## 22  Subsection 3(1) (paragraph (b) of the definition of _phase‑in limit_)
-
-Repeal the paragraph.
-
-## 23  Subsection 3(1) (paragraph (b) of the definition of _threshold amount_)
-
-Repeal the paragraph.
-
-As at 20 December 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2174,8 +2098,7 @@ The amendments made by this Schedule apply for the financial year commencing on 
 
 * * *
 
-_Medicare Levy Consequential Amendment (Trust Loss) Act 1998 
- (No. 30, 1998)_
+_Medicare Levy Consequential Amendment (Trust Loss) Act 1998 (No. 30, 1998)_
 
 ## Schedule 1
 
@@ -2245,8 +2168,7 @@ The amendments made by this Schedule apply for the purposes of working out Medic
 
 * * *
 
-_Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001 
- (No. 12, 2001)_
+_Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001 (No. 12, 2001)_
 
 ## Schedule 1
 
@@ -2312,7 +2234,8 @@ The amendments made by this Schedule apply to assessments for the 2002‑2003 ye
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004 (No. 84, 2004)_
+_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004 
+ (No. 84, 2004)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2320,7 +2243,8 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004 (No. 
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005 (No. 62, 2005)_
+_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005 
+ (No. 62, 2005)_
 
 ## Schedule 1
 
@@ -2399,7 +2323,8 @@ The amendments made by this Part apply to assessments for the 2010‑11 year of 
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008 (No. 50, 2008)_
+_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008
+ (No. 50, 2008)_
 
 ## Schedule 1
 
@@ -2433,7 +2358,8 @@ The amendments made by this Part apply in relation to the 2008‑09 income year 
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008 (No. 110, 2008)_
+_Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008
+ (No. 110, 2008)_
 
 ##### 4  Review of operation of Act
 
@@ -2501,8 +2427,7 @@ The amendments made by this Schedule apply to assessments for the 2009‑10 year
 
 * * *
 
-_Paid Parental Leave (Consequential Amendments) Act 2010 
- (No. 105, 2010)_
+_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
 
 ## Schedule 2
 
@@ -2623,23 +2548,5 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011 (No. 44
 ## 13  Application of amendments
 
 The amendments made by this Schedule apply to assessments for the 2010‑11 year of income and later years of income.
-
-* * *
-
-_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
-
-The following provisions commence on 1 July 2012:
-
-## Schedule 2
-
-## 11  Application provision
-
-The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
-
-## Schedule 3
-
-## 24  Application provision
-
-The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
 
  
