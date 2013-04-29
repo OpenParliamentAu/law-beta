@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00488/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00088/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 16 October 2009
- taking into account amendments up to Act No. 103 of 2009
+This compilation was prepared on 12 February 2009
+ taking into account amendments up to Act No. 120 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,37 +18,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           2
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                          3
 
 **Part 2—Safety investigation levy**
 
-[5](#5).            Imposition of safety investigation levy—Commonwealth waters
+[5](#5).            Imposition of safety investigation levy—Commonwealth waters      4
 
-[6](#6).            Imposition of safety investigation levy—designated coastal waters
+[6](#6).            Imposition of safety investigation levy—designated coastal waters  5
 
 **Part 3—Safety case levy**
 
-[7](#7).            Imposition of safety case levy—Commonwealth waters
+[7](#7).            Imposition of safety case levy—Commonwealth waters                   8
 
-[8](#8).            Imposition of safety case levy—designated coastal waters
+[8](#8).            Imposition of safety case levy—designated coastal waters                9
 
 **Part 4—Pipeline safety management plan levy**
 
-[9](#9).            Imposition of pipeline safety management plan levy—Commonwealth waters
+[9](#9).            Imposition of pipeline safety management plan levy—Commonwealth waters     11
 
-[10](#10).          Imposition of pipeline safety management plan levy—designated coastal waters
+[10](#10).          Imposition of pipeline safety management plan levy—designated coastal waters 12
 
 **Part 5—Regulations**
 
-[11](#11).          Regulations
+[11](#11).          Regulations                                                                                        15
 
 **Notes** 
 
@@ -178,7 +178,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to each external Territory to which the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ extends.
+                   This Act extends to each external Territory to which the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ extends.
 
 Note:          See section 34 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
@@ -330,7 +330,7 @@ Definitions
 
              (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
 
-##### <a id="8"></a>8  Imposition of safety case levy—designated coastal waters
+##### <a id="8"></a>8  Imposition of safety case levy—designated coastal waters
 
              (1)  If:
 
@@ -584,25 +584,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>103, 2009</div>
-  </td>
-  <td>
-    <div>8 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–12): \[ <i>see</i>Note 2 and Table A] 
-Schedule 1 (item 13): 9 Oct 2009 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 12, 13)</div>
   </td>
 </tr></table>
 
@@ -895,88 +876,6 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
   </td>
 </tr></table>
 
-### Note 2
-
-_Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009 (No. 103, 2009)_
-
-The following amendments commence on 1 January 2010:
-
-## Schedule 1
-
-## 1  Subsection 7(3)
-
-Repeal the subsection, substitute:
-
-             (3)  Safety case levy imposed by subsection (1) is payable by:
-
-                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
-
-                     (b)  otherwise—the operator of the facility.
-
-Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 2  Subsection 7(8)
-
-Insert:
-
-                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_, and includes a pipeline that is:
-
-                     (a)  proposed to be constructed or operated; or
-
-                     (b)  being constructed.
-
-## 3  Subsection 7(8)
-
-Insert:
-
-                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 4  Subsection 8(3)
-
-Repeal the subsection, substitute:
-
-             (3)  Safety case levy imposed by subsection (1) is payable by:
-
-                     (a)  if the facility is a pipeline subject to a pipeline licence—the licensee of the pipeline licence; or
-
-                     (b)  otherwise—the operator of the facility.
-
-Note:          For collection of safety case levy, see section 687 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 5  Subsection 8(8)
-
-Insert:
-
-                    <a name="pipelin"></a>**_pipeline_** has the same meaning as in the applicable State or Territory safety law, and includes a pipeline that is:
-
-                     (a)  proposed to be constructed or operated; or
-
-                     (b)  being constructed.
-
-## 6  Subsection 8(8)
-
-Insert:
-
-                    <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the applicable State or Territory safety law.
-
-## 8  Title
-
-Omit “**, safety case levy, and pipeline safety management plan levy**”, substitute “**and safety case levy**”.
-
-## 9  Section 3 (definition of _pipeline safety management plan levy_)
-
-Repeal the definition.
-
-## 10  Part 4
-
-Repeal the Part.
-
-## 11  Section 11
-
-Omit “, 8, 9 and 10”, substitute “and 8”.
-
-As at 16 October 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1034,35 +933,5 @@ apply in relation to a pipeline safety management plan in force during a part of
 ## 36  Transitional—regulations
 
 To avoid doubt, the amendments made by this Schedule do not affect the continuity of regulations made for the purposes of section 5, 6, 7, 8, 9 or 10 of the _Offshore Petroleum (Safety Levies) Act 2003_ before the commencement of this item.
-
-* * *
-
-_Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009 (No. 103, 2009)_
-
-## Schedule 1
-
-## 13  Transitional—references to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
-
-(1)        During the period:
-
-                     (a)  beginning at the start of 1 July 2008; and
-
-                     (b)  ending at the end of 21 November 2008;
-
-the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_ is taken to have had effect as if each reference in that Act to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ were a reference to the _Offshore Petroleum Act 2006_.
-
-(2)        Subitem (1) is enacted for the avoidance of doubt.
-
-The following provisions commence on 1 January 2010:
-
-## Schedule 1
-
-## 7  Application of amendments
-
-The amendments made by this Part apply in relation to a safety case to the extent to which the safety case is in force at or after the commencement of this item.
-
-## 12  Application of amendments
-
-The amendments made by this Part apply in relation to a pipeline safety management plan to the extent to which the plan is in force at or after the commencement of this item.
 
  
