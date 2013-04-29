@@ -1,68 +1,67 @@
 
 
 Imported Food Control Act 1992
-Act No. 221 of 1992 as amended
-Consolidated as in force on 26 May 1999
-(includes amendments up to Act No. 4 of 1999)
+Consolidated as in force on 4 March 1999
+(includes amendments up to Act No. 94, 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 
 Contents
-Part 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-4	Application of Act to certain external Territories	5
-5	Crown to be bound	6
-6	Saving of other laws	6
-7	Food to which Act applies	6
-Part 2—Control	8
-Division 1—Controls on the importation and movement of food	8
-8	Importation offence	8
-9	Dealing offences	8
-10	Certain provisions of the Customs Act may be expressed to be subject to this Act	10
-11	Application for food control certificate	11
-12	Issue of food control certificate	11
-13	Form of food control certificate	12
-14	Imported food inspection advice	13
-15	Holding orders for certain food	15
-Division 2—The Food Inspection Scheme	16
-16	Food Inspection Scheme	16
-17	Making, publication and disallowance of orders	18
-18	Foreign government certificates	18
-19	Quality assurance certificates	19
-Division 3—Treatment, destruction or re-exportation of failing food	20
-20	Treatment, destruction or re-exportation of failing food	20
-Part 3—Enforcement	23
-21	Interpretation	23
-22	Identity cards	24
-23	Searches to monitor compliance with Act etc. with occupier’s consent	25
-24	Monitoring warrants	25
-25	Offence powers—entry and search of premises with occupier’s consent	26
-26	Offence-related warrants	28
-27	Warrants may be granted by telephone etc.	30
-28	Seizures without offence-related warrant in emergency situations	32
-29	Discovery of evidence	32
-30	Power to require persons to answer questions etc.	33
-31	Consent	34
-32	Persons to assist authorised officers	35
-33	Conduct by directors, servants and agents	35
-34	Evidence of analyst	37
-35	Publishing of information	38
-Part 4—Miscellaneous	40
-36	Fees for certain services	40
-37	Certain moneys are a debt due to the Commonwealth	42
-38	Exemption from suit	42
-39	Compensation for destroyed food	43
-40	Authorised officers	44
-41	Delegation by Secretary	44
-42	Review of decisions	45
-43	Regulations	47
-Part 5—Consequential amendments of other Acts	48
-Division 1—Amendments of the Customs Act 1901	48
-44, 45 [published separately]	48
-Division 2—Amendments of the Customs Administration Act 1985	48
-46, 47 [published separately]	48
-Notes 		49
+Part 1—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+4	Application of Act to certain external Territories	
+5	Crown to be bound	
+6	Saving of other laws	
+7	Food to which Act applies	
+Part 2—Control	
+Division 1—Controls on the importation and movement of food	
+8	Importation offence	
+9	Dealing offences	
+10	Certain provisions of the Customs Act may be expressed to be subject to this Act	
+11	Application for food control certificate	
+12	Issue of food control certificate	
+13	Form of food control certificate	
+14	Imported food inspection advice	
+15	Holding orders for certain food	
+Division 2—The Food Inspection Scheme	
+16	Food Inspection Scheme	
+17	Making, publication and disallowance of orders	
+18	Foreign government certificates	
+19	Quality assurance certificates	
+Division 3—Treatment, destruction or re-exportation of failing food	
+20	Treatment, destruction or re-exportation of failing food	
+Part 3—Enforcement	
+21	Interpretation	
+22	Identity cards	
+23	Searches to monitor compliance with Act etc. with occupier’s consent	
+24	Monitoring warrants	
+25	Offence powers—entry and search of premises with occupier’s consent	
+26	Offence-related warrants	
+27	Warrants may be granted by telephone etc.	
+28	Seizures without offence-related warrant in emergency situations	
+29	Discovery of evidence	
+30	Power to require persons to answer questions etc.	
+31	Consent	
+32	Persons to assist authorised officers	
+33	Conduct by directors, servants and agents	
+34	Evidence of analyst	
+35	Publishing of information	
+Part 4—Miscellaneous	
+36	Fees for certain services	
+37	Certain moneys are a debt due to the Commonwealth	
+38	Exemption from suit	
+39	Compensation for destroyed food	
+40	Authorised officers	
+41	Delegation by Secretary	
+42	Review of decisions	
+43	Regulations	
+Part 5—Consequential amendments of other Acts	
+Division 1—Amendments of the Customs Act 1901	
+44,	[published separately]	
+Division 2—Amendments of the Customs Administration Act 1985	
+46,	[published separately]	
+
 An Act to provide for the inspection and control of food imported into Australia, and for related purposes
 Do not delete : Chapter placeholder
 Part 1—Preliminary
@@ -106,11 +105,10 @@ food includes:
 	(b)	any substance or thing of a kind used or capable of being used as an ingredient or additive in, or substance used in the preparation of, a substance or thing referred to in paragraph (a); or
 	(c)	any other substance or thing that is prescribed;
 whether or not it is in a condition fit for human consumption, but does not include a therapeutic good within the meaning of the Therapeutic Goods Act 1989.
-food control certificate means a certificate issued under section 12.
+food control certificate means a certificate issued under section 12.
 Food Inspection Scheme means the inspection scheme established by regulations made under section 16.
 forging, in relation to a certificate of the kind referred to in subsection 18(1) or 19(2), has the same meaning as in section 63 of the Crimes Act 1914.
-holding order means an order made by the Secretary under section 15.
-imported as a trade sample, in relation to food, has the meaning given by subsection 7(3).
+holding order means an order made by the Secretary under section 15.
 imported food inspection advice means an advice issued under section 14.
 inspection includes the taking of samples.
 national standard, in relation to a particular food or a particular matter affecting food, means a standard relating to that food or matter:
@@ -157,18 +155,10 @@ This Act is to be construed as being in addition to, and not in derogation of or
 	(aa)	food that is imported from New Zealand and is of a kind that is specified by the regulations to be food to which this Act does not apply; or
 	(a)	prohibited food; or
 	(b)	food that is imported for private consumption; or
-	(c)	food that is ship’s stores or aircraft’s stores, within the meaning of section 130C of the Customs Act; or
-	(d)	food that is imported as a trade sample.
-	(2)	Food of a particular kind is taken to have been imported for private consumption if it has not been imported as a trade sample and:
+	(c)	food that is ship’s stores or aircraft’s stores, within the meaning of section 130C of the Customs Act.
+	(2)	Food of a particular kind is taken to have been imported for private consumption:
 	(a)	as to food that is in liquid form—if it has a volume of less than 10 litres or such lesser volume (if any) as is prescribed in the regulations in respect of food of that kind; or
 	(b)	as to food that is not in liquid form—if it has a weight of less than 10 kilograms or such lesser weight (if any) as is prescribed in the regulations in respect of food of that kind.
-	(3)	Food of a particular kind is imported as a trade sample if:
-	(a)	the food is imported for the purposes of scientific or commercial evaluation; and
-	(b)	the food is not imported for consumption by any person; and
-	(c)	the food is:
-	(i)	in liquid form and has a volume of less than 20 litres or such lesser volume (if any) as is prescribed by the regulations in respect of food of that kind; or
-	(ii)	not in liquid form and has a weight of 20 kilograms or such lesser weight (if any) as is prescribed by the regulations in respect of food of that kind.
-
 Part 2—Control
 Division 1—Controls on the importation and movement of food
 8  Importation offence
@@ -185,13 +175,7 @@ the person ought reasonably to have known that the food did not meet applicable 
 	(a)	has been imported into Australia; and
 	(b)	is food in respect of which a food control certificate has not been issued;
 unless the person is authorised by an authorised officer to deal with the food in that manner.
-Penalty:	Imprisonment for 10 years.
-	(1A)	A person (other than an officer of Customs, or an authorised officer, acting in the course of his or her duties) must not deal in any manner with examinable food that the person knows:
-	(a)	has been imported into Australia; and
-	(b)	is food in respect of which a food control certificate has been issued; and
-	(c)	is food for which an imported food inspection advice has not been issued;
-unless the owner of the food obtains the approval of an authorised officer to deal with the food in that manner.
-Penalty:	Imprisonment for 10 years.
+Penalty: Imprisonment for 10 years.
 	(2)	A person (other than an officer of Customs, or an authorised officer, acting in the course of his or her duties) must not deal in any manner with examinable food that the person knows:
 	(a)	has been imported into Australia; and
 	(b)	is food in respect of which a food control certificate has been issued; and
@@ -199,11 +183,11 @@ Penalty:	Imprisonment for 10 years.
 unless the owner of the food:
 	(d)	obtains the approval of an authorised officer to deal with the food in that manner; or
 	(e)	is permitted or required, in accordance with the advice, to deal with the food in that manner.
-Penalty:	Imprisonment for 10 years.
-	(3)	For the purposes of establishing a contravention of subsection (1), (1A) or (2), if, having regard to:
+Penalty: Imprisonment for 10 years.
+	(3)	For the purposes of establishing a contravention of subsection (1) or (2), if, having regard to:
 	(a)	a person’s abilities, experience, qualifications and other attributes; and
 	(b)	all the circumstances surrounding the alleged contravention of that subsection;
-the person ought reasonably to have known of the matters referred to in paragraphs (1)(a) and (b), (1A)(a), (b) and (c) or (2)(a), (b) and (c), as the case requires, the person is taken to have known of those matters.
+the person ought reasonably to have known of the matters referred to in paragraphs (1)(a) and (b) or (2)(a), (b) and (c), as the case requires, the person is taken to have known of those matters.
 10  Certain provisions of the Customs Act may be expressed to be subject to this Act
 	(1)	If:
 	(a)	a person applies under section 69 of the Customs Act for permission to deliver like customable goods within the meaning of that section into home consumption without entering them for home consumption; and
@@ -316,14 +300,13 @@ then, without limiting subsection (1), the regulations may:
 	(1)	The Secretary may determine, in writing, that a certificate issued by an instrumentality of a specified foreign government stating that food of a specified kind meets applicable standards and does not pose a risk to human health is a recognised foreign government certificate.
 	(2)	The Secretary may revoke a determination under subsection (1) if the Secretary has reason to doubt the continued reliability of a statement made in any certificate to which the determination relates.
 	(3)	A person must not forge, or utter, knowing it to be forged, a certificate of the kind referred to in subsection (1).
-Penalty: Imprisonment for 10 years.
+ Penalty: Imprisonment for 10 years.
 Note:	forging and uttering are defined in subsection 3(1).
 19  Quality assurance certificates
-	(1)	The Secretary may, on behalf of the Commonwealth, enter into an arrangement with the person conducting an overseas food processing operation providing for the periodic inspection and evaluation of that operation, at the expense of the person, to decide whether the Secretary should exercise his or her powers under subsection (1A).
-	(1A)	The Secretary may:
-	(a)	approve a food processing operation mentioned in subsection (1) for the purposes of this Part; or
+	(1)	The Secretary may, on behalf of the Commonwealth, enter into an arrangement with the person conducting an overseas food processing operation providing for the periodic inspection and evaluation of that operation, at the expense of the person, to decide whether the Secretary should exercise his or her powers to:
+	(a)	approve that food processing operation for the purposes of this Part; or
 	(b)	revoke any such approval.
-	(2)	If an overseas food processing operation is subject to a current approval under subsection (1A), the Secretary may determine, in writing, to the effect that, while the determination remains in force, each certificate issued by the person purportedly in charge of that operation stating that particular food processed in that operation meets applicable standards and does not pose a risk to human health is a recognised quality assurance certificate.
+	(2)	If an overseas food processing operation is subject to a current approval under subsection (1), the Secretary may determine, in writing, to the effect that, while the determination remains in force, each certificate issued by the person purportedly in charge of that operation stating that particular food processed in that operation meets applicable standards and does not pose a risk to human health is a recognised quality assurance certificate.
 	(3)	The Secretary may revoke a determination under subsection (2) if:
 	(a)	the Secretary has reason to doubt the reliability of any statement made in any certificate to which the determination relates; or
 	(b)	the approval of the overseas food processing operation concerned is revoked.
@@ -595,17 +578,13 @@ is admissible as prima facie evidence of the matters in the certificate and of t
 	(a)	the prosecutor has been given at least 4 days notice of the person’s intention to require the analyst to be so called; or
 	(b)	the Court, by order, allows the person to require the analyst to be so called.
 35  Publishing of information
-	(1)	The Secretary may publish in Australia:
+The Secretary may publish in Australia:
 	(a)	the name and address of a person conducting an overseas food processing operation; and
 	(b)	particulars of the food processing operation conducted by that person; and
 	(c)	particulars of any food originating from that food processing operation that:
 	(i)	if imported, may not meet applicable standards or may pose a risk to human health; or
-	(ia)	has been identified in an imported food inspection advice as failing food; or
 	(ii)	was treated, destroyed or re-exported under section 20; and
 	(d)	information relating to health risks associated with that food.
-	(2)	Without limiting subsection (1), the Secretary may publish:
-	(a)	the name of the importer of the food; or
-	(b)	the brand of the food.
 Part 4—Miscellaneous
 Do not delete : Division placeholder
 36  Fees for certain services
@@ -656,18 +635,14 @@ an action does not lie against the Commonwealth or against a person referred to 
 	(1)	If food is destroyed in accordance with section 20, the Secretary may approve the payment of compensation in respect of the food if:
 	(a)	a claim for compensation is made by or on behalf of the owner in an approved form accompanied by such documents as are required by the form to accompany the claim; and
 	(b)	the Secretary is satisfied, on reasonable grounds, that the food was destroyed as a result of a mistake of fact or of law.
-	(1A)	The Secretary may approve the payment of compensation in respect of food if:
-	(a)	the Secretary is satisfied, on reasonable grounds, that the food is no longer suitable for the purpose for which it was imported as a result of an inspection, or inspection and analysis, of the food under the Food Inspection Scheme; and
-	(b)	a claim for compensation is made by or on behalf of the owner in an approved form accompanied by such documents as are required by the form to accompany the claim.
 	(2)	Compensation approved under this section must:
 	(a)	if there is only one owner of the food at the time of its destruction—be paid to that owner; or
 	(b)	if there are two or more owners of the food at that time—be divided among those owners in accordance with their interests.
-	(3)	The compensation payable under subsection (1) in respect of food is the amount agreed between the Secretary and the owner or owners of the food as being the market value of the food immediately before its destruction.
-	(3A)	The compensation payable under subsection (1A) in respect of food is the amount agreed between the Secretary and the owner or owners of the food as being the difference between the market value of the food immediately before it became unsuitable for the purpose for which it was imported and the amount (if any) for which the food is sold by the owner or owners.
-	(4)	If the Secretary and the owner or owners of the food at the time referred to in subsection (3) or (3A), as the case requires, do not agree on the market value of the food at that time, the market value must be determined by a person agreed on by the Secretary and the owner or owners.
+	(3)	The compensation payable under this section in respect of food is the amount agreed between the Secretary and the owner or owners of the food as being the market value of the food immediately before its destruction.
+	(4)	If the Secretary and the owner or owners of the food at the time of its destruction do not agree on the market value of the food at that time, the market value must be determined by a person agreed on by the Secretary and the owner or owners.
 	(5)	If the Secretary approved the payment of compensation under this section in respect of food, the compensation payable in respect of that food is payable by the Commonwealth to the owner or owners and may be recovered by action against the Commonwealth in a court of competent jurisdiction.
 	(6)	In this section:
-owner, in relation to food, means a person having a beneficial interest in the food other than a person who has such an interest only because he or she has been given a mortgage or charge, or has a lien over the goods.
+owner, in relation to food that is permitted to be treated or required to be destroyed or re-exported, means a person having a beneficial interest in the food other than a person who has such an interest only because he or she has been given a mortgage or charge, or has a lien over the goods.
 40  Authorised officers
 	(1)	The Secretary may, by signed instrument, appoint an officer of AQIS to be an authorised officer for the purposes of this Act.
 	(2)	The Secretary may, by signed instrument, appoint a person to be an authorised officer for the purposes of all the provisions of this Act other than sections 24, 25, 26, 27, 28, 29, 30 and 32.
@@ -677,7 +652,7 @@ The Secretary may, by signed instrument, delegate to an officer of AQIS all or a
 	(1)	In this section:
 decision has the same meaning as in the Administrative Appeals Tribunal Act 1975.
 initial decision has the meaning given in subsection (2).
-reviewable decision means a decision of the Secretary under subsection (5).
+reviewable decision means a decision of the Secretary under subsection (4).
 	(2)	Subject to subsection (3), initial decision means:
 	(a)	a decision under section 12 to issue a food control certificate that states that the food to which the certificate relates is required to be inspected, or inspected and analysed; or
 	(b)	a decision under subsection 14(1) to issue an imported food inspection advice identifying food (other than food that is or may be the subject of an application for a further imported food advice) as failing food and specifying the manner of dealing with that food; or
@@ -724,15 +699,17 @@ Division 1—Amendments of the Customs Act 1901
 Division 2—Amendments of the Customs Administration Act 1985 
 46, 47 [published separately]
 
-Notes to the Imported Food Control Act 1992
-Note 1
-The Imported Food Control Act 1992 as shown in this consolidation comprises Act No. 221, 1992 amended as indicated in the Tables below.
+NOTES
+1.	The Imported Food Control Act 1992  as  shown in this reprint comprises Act No. 221, 1992 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Imported Food Control Act 1992 
 221, 1992 
 24 Dec 1992 
@@ -753,38 +730,22 @@ Primary Industries and Energy Legislation Amendment Act (No. 2) 1997
 30 June 1997
 Schedule 4: 22 Oct 1997 (see Gazette 1997, No. S418) (b)
 —
-Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 1999
-4, 1999
-31 Mar 1999
-31 Mar 1999 
-—
 (a)	The Imported Food Control Act 1992 was amended by Schedule 6 (items 1 and 2) only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1996, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
 (b)	The Imported Food Control Act 1992 was amended by Schedule 4 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997, subsection 2(4) of which provides as follows:
-	(4) 	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.
-
+	“(4) 	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.”
 Table of Amendments 
+
 ad. = added or inserted    am. = amended    rep. = repealed    rs. = repealed and substituted
+
 Provision affected
 How affected
 S. 3	
-am. No. 152, 1995; No. 59, 1996; No. 4, 1999
+am. No. 152, 1995; No. 59, 1996
 S. 7	
-am. No. 94, 1997; No. 4, 1999
-S. 9	
-am. No. 4, 1999
+am. No. 94, 1997
 S. 17	
 am. No. 152, 1995
-S. 19	
-am. No. 4, 1999
-S. 35	
-am. No. 4, 1999
-S. 39	
-am. No. 4, 1999
 S. 40	
 rs. No. 59, 1996
-S. 42	
-am. No. 4, 1999
-
-
 
