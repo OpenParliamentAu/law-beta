@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 23 November 2009
- taking into account amendments up to Act No. 111 of 2009
+This compilation was prepared on 8 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -188,9 +188,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8CL](#8CL).       Indictable offences
 
-**Part 2C—Re-affirmation of the universal service obligation and the customer service guarantee**
+**Part 2C—Re-affirmation of the universal service obligation, the digital data service obligation and the customer service guarantee**
 
-[8CM](#8CM).     Re-affirmation of universal service obligation
+[8CM](#8CM).     Re-affirmation of universal service obligation and digital data service obligation
 
 [8CN](#8CN).      Re-affirmation of the customer service guarantee
 
@@ -464,9 +464,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="liabil"></a>**_liabilities_** means all liabilities, duties and obligations, whether actual, contingent or prospective, and wherever arising.
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the LSL changeover day.
-
-                    <a name="lsl-changeov-dai"></a>**_LSL changeover day_** means the day item 4 of Schedule 1A to the _Long Service Leave (Commonwealth Employees) Regulations 1957_ is repealed or otherwise ceases to have effect.
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the third anniversary of the designated day.
 
                     <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_ as in force immediately before the designated day.
 
@@ -1926,15 +1924,21 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                    An offence against Division 4 or 6 of Part 2A is an indictable offence.
 
-## Part 2C—Re-affirmation of the universal service obligation and the customer service guarantee
+## Part 2C—Re-affirmation of the universal service obligation, the digital data service obligation and the customer service guarantee
 
-##### <a id="8CM"></a>8CM  Re-affirmation of universal service obligation
+##### <a id="8CM"></a>8CM  Re-affirmation of universal service obligation and digital data service obligation
 
              (1)  The Parliament re-affirms its intention:
 
-                     (a)  that all people in Australia, wherever they reside or carry on business, will continue to have reasonable access, on an equitable basis, to standard telephone services and payphones; and
+                     (a)  that all people in Australia, wherever they reside or carry on business, will continue to have reasonable access, on an equitable basis, to standard telephone services, payphones and digital data services; and
 
-                     (b)  that the universal service obligation described in section 9 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ should be fulfilled as efficiently and economically as practicable.
+                     (b)  that:
+
+                              (i)  the universal service obligation described in section 9 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_; and
+
+                             (ii)  the digital data service obligation described in section 10 of that Act;
+
+                            should be fulfilled as efficiently and economically as practicable.
 
              (2)  An expression used in this section and in Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ has the same meaning in this section as it has in that Part.
 
@@ -1960,9 +1964,9 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                     <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
 
-                     (a)  the period that is, immediately before the LSL changeover day, the employee’s period of service for the purposes of the Long Service Leave Act; and
+                     (a)  the period that is, immediately before the third anniversary of the designated day, the employee’s period of service for the purposes of the Long Service Leave Act; and
 
-                     (b)  the period starting on the LSL changeover day during which the employee continues to be an employee of a Telstra body.
+                     (b)  the period starting on the third anniversary of the designated day during which the employee continues to be an employee of a Telstra body.
 
                     <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
@@ -1972,17 +1976,17 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                      (b)  regulations or any other instrument (other than a determination, award or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination, award, industrial agreement or law (other than this Act) on or after the LSL changeover day in relation to service on or after that day.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination, award, industrial agreement or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
 
 ##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
 
              (1)  This section provides that, in certain circumstances, a Telstra body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act is less than 10 years.
 
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the LSL changeover day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
 
              (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
 
-             (4)  If the employee continues to be employed by a Telstra body on and after the LSL changeover day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
+             (4)  If the employee continues to be employed by a Telstra body on and after the third anniversary of the designated day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
 
              (5)  If:
 
@@ -2006,7 +2010,7 @@ the Telstra body may grant the employee long service leave on full salary for a 
 
              (1)  This section provides that, in certain circumstances, a Telstra body must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 9B.
 
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the LSL changeover day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
 
              (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
 
@@ -2046,9 +2050,9 @@ the Telstra body must pay him or her an amount equal to full salary in respect o
 
 ##### <a id="9D"></a>9D  Payments on the death of an employee
 
-             (1)  This section applies in relation to a person who is an employee of Telstra immediately before the LSL changeover day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (1)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
 
-             (2)  If, on or after the LSL changeover day, the employee dies and, immediately before his or her death:
+             (2)  If, on or after the third anniversary of the designated day, the employee dies and, immediately before his or her death:
 
                      (a)  the employee was an employee of a Telstra body; and
 
@@ -2076,9 +2080,9 @@ the Telstra body must make a payment to a dependant, or to 2 or more dependants,
 
                      (a)  starting when the employee started his or her period of service; and
 
-                     (b)  ending on the LSL changeover day;
+                     (b)  ending on the third anniversary of the designated day;
 
-if the employee had been retrenched on the LSL changeover day.
+if the employee had been retrenched on the third anniversary of the designated day.
 
              (2)  For the purposes of section 9C, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 9B.
 
@@ -2088,11 +2092,11 @@ if the employee had been retrenched on the LSL changeover day.
 
 ##### <a id="9G"></a>9G  Saving—Long Service Leave Act
 
-                   If, immediately before the LSL changeover day, the period of service under the Long Service Leave Act of an employee of Telstra is at least 10 years, then:
+                   If, immediately before the third anniversary of the designated day, the period of service under the Long Service Leave Act of an employee of Telstra is at least 10 years, then:
 
                      (a)  the employee’s accrued rights under the Long Service Leave Act continue; and
 
-                     (b)  the Long Service Leave Act has effect on and after the LSL changeover day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
+                     (b)  the Long Service Leave Act has effect on and after the third anniversary of the designated day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
 
 ### Division 2—Operation of the Safety, Rehabilitation and Compensation Act 1988
 
@@ -2180,7 +2184,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3100,7 +3104,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3684,46 +3688,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Long Service Leave Legislation Amendment (Telstra) Act 2009</div>
-  </td>
-  <td colspan="2">
-    <div>110, 2009</div>
-  </td>
-  <td>
-    <div>16 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3–7): 23 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
-  </td>
-  <td colspan="2">
-    <div>111, 2009</div>
-  </td>
-  <td>
-    <div>16 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 104–106): 17 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4144,7 +4108,7 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006); No. 155, 2008; No. 110, 2009</div>
+    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006); No. 155, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5373,14 +5337,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 2C</div>
-  </td>
-  <td>
-    <div>rs. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part 2C</div>
   </td>
   <td>
@@ -5405,14 +5361,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 8CM</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8CM</div>
   </td>
   <td>
@@ -5433,14 +5381,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5528,7 +5468,7 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2008; Nos. 54 and 110, 2009</div>
+    <div>am. No. 8, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5537,14 +5477,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>ad. No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5561,14 +5493,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>ad. No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2009</div>
   </td>
 </tr>
 <tr>
