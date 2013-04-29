@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00673/Html/948c7e15-f260-4961-8bf2-f51d9dcb63d1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00319/Html/8abbc363-472b-40eb-aff9-6c88a7909ed6_files/image001.gif)
 
 # Sydney Harbour Federation Trust Act 2001
 
 **Act No. 2 of 2001 as amended**
 
-**\[Note: This Act is to be repealed as soon as practicable after the  end of 19 September 2033, _see_ section 66]**
+**\[Note: This Act is to be repealed as soon as practicable after the end of 19 September 2033, _see_ section 66]**
 
-This compilation was prepared on 24 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1465,9 +1465,9 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="31%">
-  <col width="14%">
-  <col width="17%">
-  <col width="23%">
+  <col width="16%">
+  <col width="18%">
+  <col width="21%">
   <col width="15%">
 </colgroup>
 
@@ -1575,23 +1575,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1102–1106) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1731,40 +1714,6 @@ of Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1102  Subsection 14(1)
-
-Omit “(1)”.
-
-## 1103  At the end of subsection 14(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1104  Subsection 14(2)
-
-Repeal the subsection.
-
-## 1105  At the end of subsections 42(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1106  Subsection 42(3)
-
-Repeal the subsection.
-
-As at 24 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1790,21 +1739,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
