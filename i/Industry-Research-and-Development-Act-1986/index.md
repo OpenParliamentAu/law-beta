@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00168/Html/IndResDevel1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00639/Html/IndResDevel1986_WD02_image001.gif)
 
 # Industry Research and Development Act 1986
 
 **Act No. 89 of 1986 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 4 October 2007
+ taking into account amendments up to Act No. 164 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -154,11 +154,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39L](#39L).        Certificate as to research and development activities
 
-39LAAACertificate as to Australian-centred research and development 
- activities
+39LAAA Certificate as to Australian-centred research and development activities
 
-39LAABCertificate as to activities that would be Australian-centred 
- research and development activities apart from need for plan
+39LAAB Certificate as to activities that would be Australian-centred research and development activities apart from need for plan
 
 [39LAA](#39LAA).  Certificate as to overseas research and development activities
 
@@ -1906,7 +1904,7 @@ request the Board to reconsider the decision.
 
 ##### <a id="47"></a>47  Confidentiality
 
-             (1)  An official to whom this section applies must not, except for the purposes of this Act, of the _Census and Statistics Act 1905_ or of the _Income Tax Assessment Act 1936_ or unless required or permitted by law to do so, supply protected information to a person if the supplying of the protected information would constitute a breach of confidence.
+             (1)  An official to whom this section applies must not, except for the purposes of this Act, of the _Census and Statistics Act 1905_, of the _Income Tax Assessment Act 1936_ or of the _Industrial Research and Development Incentives Act 1976_ or unless required or permitted by law to do so, supply protected information to a person if the supplying of the protected information would constitute a breach of confidence.
 
              (2)  Subsection (1) does not apply to the supply of protected information to:
 
@@ -1968,7 +1966,7 @@ request the Board to reconsider the decision.
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
-_Industrial Research and Development Incentives Act 1976_<span style="font-size:9.0pt">\[repealed by Act No. 8, 2010, Sch. 3]</span>
+_Industrial Research and Development Incentives Act 1976_
 
 For access to the wording of the amendments made by this Part, _see_ Act No. 89, 1986.
 
@@ -2173,7 +2171,7 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>Schedule 1 (items 22–85): 13 Oct 1994 
+    <div>Schedule 1 (items 22–85): 13 Oct 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2257,9 +2255,9 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1996</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 19 Dec 1994 <i>(d)</i> 
-Schedule 1 (items 13, 14): 6 Dec 1995 <i>(d)</i> 
-Schedule 1 (items 21–23): 15 June 1991 <i>(d)</i> 
+    <div>Schedule 1 (items 1–3): 19 Dec 1994 <i>(d)</i> 
+Schedule 1 (items 13, 14): 6 Dec 1995 <i>(d)</i> 
+Schedule 1 (items 21–23): 15 June 1991 <i>(d)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2300,7 +2298,7 @@ Remainder: Royal Assent</div>
     <div>22 June 1998</div>
   </td>
   <td>
-    <div>Schedule 2 (items 548, 549): <i>(f)</i></div>
+    <div>Schedule 2 (items 548, 549): <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 549): \[ <i>see</i>Table A]</div>
@@ -2340,7 +2338,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 544, 545): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
+    <div>Schedule 1 (items 544, 545): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2360,7 +2358,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -2401,9 +2399,9 @@ Remainder: 24 May 2001</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–2B, 7): Royal Assent <i>(i)</i> 
-Schedule 2 (items 45–50): 29 Jan 2001 <i>(i)</i> 
-Schedule 2 (items 85–91): <i>(i)</i></div>
+    <div>Schedule 1 (items 2–2B, 7): Royal Assent <i>(i)</i> 
+Schedule 2 (items 45–50): 29 Jan 2001 <i>(i)</i> 
+Schedule 2 (items 85–91): <i>(i)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 2B) and Sch. 2 (item 51) \[ <i>see</i>Table A] 
@@ -2458,7 +2456,7 @@ S. 2(3) (am. by 57, 2002, Sch. 12 \[item 63])</div>
     <div>11 Mar 2004</div>
   </td>
   <td>
-    <div>Schedule 1: 11 Sept 2004 
+    <div>Schedule 1: 11 Sept 2004 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -2476,31 +2474,14 @@ Remainder: Royal Assent</div>
     <div>25 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 11 (items 49–78): Royal Assent 
-Schedule 12 (items 1–52, 
+    <div>Schedule 11 (items 49–78): Royal Assent 
+Schedule 12 (items 1–52, 
 279–287): 27 Sept 2007 ( <i>see</i>F2007L03842)</div>
   </td>
   <td colspan="2">
     <div>Sch. 11 (item 78) and Sch. 12 (items 
 279–287) 
 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 34): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2512,8 +2493,7 @@ _(b)_    The _Industry Research and Development Act 1986_ was amended by S
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Industry Research and Development Act 1986_ was amended by Schedule 4 (items 
- 58–75) only of the _Taxation Laws Amendment Act (No. 3) 1996_, subsection 2(1) of which provides as follows:
+_(c)_     The _Industry Research and Development Act 1986_ was amended by Schedule 4 (items 58–75) only of the _Taxation Laws Amendment Act (No. 3) 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -3776,7 +3756,7 @@ No. 164, 2007</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007; No. 8, 2010</div>
+    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
