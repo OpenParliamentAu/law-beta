@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00547/Html/AusWineBrandyCorp1980_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00475/Html/AusWineBrandyCorp1980_WD02_image001.gif)
 
 # Australian Wine and Brandy Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 3 August 2010
+This compilation was prepared on 7 July 2010
  taking into account amendments up to Act No. 98 of 2010
 
 The text of any of those amendments not in force
@@ -47,6 +47,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [7](#7).            Functions of Corporation
 
 [8](#8).            Powers of Corporation
+
+[9](#9).            Contracts for carriage of grape products
 
 [10](#10).          Power to enter into arrangements etc 
 
@@ -264,10 +266,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39ZH](#39ZH).    Power to require persons to answer questions and produce documents
 
-[39ZI](#39ZI).      Search warrants by telephone and other electronic means
-
-[39ZIA](#39ZIA).   Offences relating to warrants by telephone and other electronic means
-
     **Division 4—Use of records and results of inspection**
 
 [39ZJ](#39ZJ).      Corporation to assist enforcement of laws on description of wine
@@ -303,6 +301,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [40J](#40J).        Exception for certain wines
 
 [40K](#40K).       Prosecution of offences
+
+[40L](#40L).        Injunctions
 
 [40M](#40M).      Application of national food standards to wines imported from agreement countries
 
@@ -424,13 +424,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41A](#41A).       Remuneration and allowances of members of Corporation etc 
 
+[42](#42).          Corporation may require information
+
 [43](#43).          Delegation
 
 [44](#44).          Offences in relation to export of grape products
 
 [44AA](#44AA).    Time for bringing prosecutions
-
-[44AB](#44AB).    Injunctions
 
 [44A](#44A).       Conduct by directors, servants or agents
 
@@ -516,7 +516,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  to give identifying names to those regions and localities; and
 
-                            (iii)  to determine the varieties of grapes that may be used in the manufacture of wine in   Australia;
+                            (iii)  to determine the varieties of grapes that may be used in the manufacture of wine in Australia;
 
 and this Act shall be construed and administered accordingly.
 
@@ -798,11 +798,43 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  Subject to subsection 31K(4), the Corporation shall endeavour to ensure, to the extent that it is practicable to do so, that the performance at any time of its functions and the exercise at any time of its powers is consistent with, and designed to give effect to, the provisions of any corporate plan and of any annual operational plan in force at that time.
 
+##### <a id="9"></a>9  Contracts for carriage of grape products
+
+             (1)  The Corporation may, by notice published in the _Gazette_, approve a person as a carrier for the purposes of the carriage of a specified grape product to a specified place outside Australia.
+
+             (2)  The Corporation may, by notice published in the _Gazette_, determine that a contract, or a contract included in a class of contracts, for the carriage of a specified grape product to a specified place outside Australia shall not be entered into except with the approval of the Corporation.
+
+             (3)  An approval under subsection (2) may00\. be given subject to such conditions (if any) as the Corporation determines.
+
+             (4)  While an approval under subsection (1) is in force in relation to a place outside Australia, a person shall not enter into a contract with another person for the carriage by that other person of a grape product specified in the notice of approval to that place unless that other person is approved under that subsection in relation to that place.
+
+                    Penalty:  $6,000.
+
+             (5)  A person other than the Corporation shall not enter into a contract with another person for the carriage by that other person of a grape product in relation to which a notice under subsection (2) is in force to a place outside Australia specified in that notice except with the approval of the Corporation and in conformity with the conditions (if any) to which that approval is subject.
+
+                    Penalty:  $6,000.
+
+          (5A)  An offence under subsection (4) or (5) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (6)  Subsection (4) does not apply to the Corporation in relation to any grape product when acting on its own behalf or as the agent of the owner of the grape product or of a person having the authority to export the grape product.
+
+             (7)  A collector or officer for the purposes of the _Customs Act 1901_ may require a person who seeks to export from Australia to a place outside Australia in relation to which a notice under subsection (2) is in force a grape product specified in the notice, on making entry of the grape product under that Act and before the entry has been passed, to satisfy him or her that:
+
+                     (a)  the contract for the carriage of the grape product to that place was entered into with the approval of the Corporation and in conformity with the conditions (if any) to which that approval is subject; and
+
+                     (b)  the carrier undertaking the carriage of the grape product to that place is approved by the Corporation under subsection (1) as a carrier for the purposes of the carriage to that place of a grape product of a kind to which that contract relates;
+
+and the collector or officer may refuse to pass the entry until that person has so satisfied him or her.
+
+             (8)  A contract entered into for the carriage of a grape product to a place outside Australia is not unenforceable, voidable or void by reason only of the contract having been entered into in contravention of subsection (4) or (5).
+
 ##### <a id="10"></a>10  Power to enter into arrangements etc.
 
                    Without limiting the generality of section 8, the Corporation may enter into arrangements or agreements with persons, authorities or organizations in Australia or overseas, or, with the consent of the Minister, with a State, for the purposes of the Corporation.
 
-##### <a id="11"></a>11  Committees
+##### <a id="11"></a>11  Committees
 
              (1)  The Corporation may appoint a committee to assist the Corporation in relation to a matter.
 
@@ -860,7 +892,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (7)  The performance of the functions and the exercise of the powers of the Corporation are not affected by reason only of there being a vacancy or vacancies in the membership of the Corporation.
 
-##### <a id="14"></a>14  Term of office of members
+##### <a id="14"></a>14  Term of office of members
 
              (1)  Subject to this Act, the Chairperson or a member referred to in paragraph 13(1)(c) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but he or she is eligible for re-appointment.
 
@@ -1084,7 +1116,7 @@ but a person appointed to act during a vacancy shall not continue to act for mor
 
              (2)  The Presiding Member may grant leave of absence to another member of the Committee from a meeting of the Committee.
 
-##### <a id="29N"></a>29N  Resignation
+##### <a id="29N"></a>29N  Resignation
 
                    A member of the Committee may resign from office by writing signed by the member and delivered to the Minister.
 
@@ -1553,8 +1585,6 @@ on terms and conditions that are specified in, or consistent with, the approval.
 ##### <a id="39A"></a>39A  Object of Part
 
                    The object of this Part is to advance the objects of this Act by helping to ensure the truth, and the reputation for truthfulness, of statements made on wine labels, or made for commercial purposes in other ways, about the vintage, variety or geographical indication of wine manufactured in Australia.
-
-Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this Part.
 
 ##### <a id="39B"></a>39B  Operation of Part
 
@@ -2080,7 +2110,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (3)  An inspector whose appointment ceases must, as soon as practicable, return his or her identity card to the Corporation.
 
-                    Penalty:  1 penalty unit.
+                    Penalty:  $100.
 
              (4)  An offence under subsection (3) is an offence of strict liability.
 
@@ -2090,15 +2120,9 @@ Note:          For strict liability, see section 6.1 of the 
 
                    For the purpose of finding out whether label laws are being complied with, an inspector may, with the consent of, and after producing the inspector’s identity card for inspection by, the occupier of wine premises, enter, and exercise inspection powers on, the premises.
 
-Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
-
 ##### <a id="39ZD"></a>39ZD  Monitoring warrants
 
              (1)  An inspector may apply to a magistrate for a warrant under this section in relation to particular wine premises.
-
-Note 1:       An inspector may apply for a warrant under this section by telephone or fax under section 39ZI.
-
-Note 2:       An inspector may also apply for a warrant under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
 
              (2)  Subject to subsection (3), the magistrate may issue the warrant if the magistrate is satisfied, by information on oath, that it is reasonably necessary that the inspector should have access to the premises for the purpose of finding out whether label laws are being complied with.
 
@@ -2120,41 +2144,13 @@ Note 2:       An inspector may also apply for a warrant under this s
 
 ##### <a id="39ZE"></a>39ZE  Offence powers of inspectors—exercised with consent
 
-             (1)  An inspector may enter wine premises if:
+             (1)  Where an inspector has reasonable grounds for suspecting that there is on wine premises a particular thing that may afford evidence of the commission of a label offence, the inspector may, with the consent of, and after producing the inspector’s identity card for inspection by, the occupier of the premises, enter, and exercise inspection powers on, the premises.
 
-                     (a)  the inspector has reasonable grounds for suspecting that there is on the premises a particular thing that may afford evidence of the commission of a label offence; and
-
-                     (b)  the inspector has produced his or her identity card for inspection by the occupier of the premises; and
-
-                     (c)  the occupier of the premises has consented to the entry.
-
-Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
-
-Consent
-
-             (2)  Before obtaining the consent of the occupier for the purposes of paragraph (1)(c), an inspector must inform that occupier that he or she may refuse consent.
-
-             (3)  A consent has no effect unless the consent is voluntary.
-
-Inspector’s powers while on premises
-
-             (4)  The inspector may do the following while on the premises:
-
-                     (a)  exercise inspection powers;
-
-                     (b)  secure a thing pending the obtaining of a warrant under section 39ZF to seize it if the inspector has reasonable grounds for suspecting that the thing may afford evidence of the commission of a label offence.
-
-Withdrawal of consent
-
-             (5)  The inspector may exercise powers under paragraph (4)(b) even if the occupier’s consent is withdrawn after being given. Otherwise, the inspector must leave the premises if the occupier’s consent is withdrawn after being given.
+             (2)  An inspector who has entered premises under subsection (1) must leave them if requested to do so by their occupier.
 
 ##### <a id="39ZF"></a>39ZF  Offence related warrants
 
              (1)  An inspector may apply to a magistrate for a warrant under this section in relation to particular wine premises.
-
-Note 1:       An inspector may apply for a warrant under this section by telephone or fax under section 39ZI.
-
-Note 2:       An inspector may also apply for a warrant under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
 
              (2)  Subject to subsection (3), the magistrate may issue the warrant if the magistrate is satisfied, by information on oath, that there are reasonable grounds for suspecting that there is, or there may be within the next 72 hours, on the premises a particular thing that may afford evidence of the commission of a label offence.
 
@@ -2206,143 +2202,31 @@ subsection (1) applies to the thing as if it were the evidence.
 
 ##### <a id="39ZH"></a>39ZH  Power to require persons to answer questions and produce documents
 
-             (1)  An inspector who is on wine premises that the inspector has entered under a warrant issued under section 39ZD or 39ZF may require any person on the premises to:
+                   An inspector who is on wine premises that the inspector has entered under a warrant issued under section 39ZD or 39ZF may require any person on the premises to:
 
                      (a)  answer any questions put by the inspector; and
 
                      (b)  produce any examinable documents requested by the inspector.
 
-Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+             (2)  A person must not refuse or fail to comply with a requirement under subsection (1).
 
-             (2)  A person commits an offence if:
+                    Penalty:  $3,000.
 
-                     (a)  the person is required to answer a question or produce an examinable document under subsection (1); and
+          (2A)  Subsection (2) does not apply if the person has a reasonable excuse.
 
-                     (b)  the person refuses or fails to comply with the requirement.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (2A). See subsection 13.3(3) of the _Criminal Code_.
 
-                    Penalty:  30 penalty units.
+          (2B)  An offence under subsection (2) is an offence of strict liability.
 
-             (3)  Subsection (2) does not apply if the answer to the question, or the producing of the document, would tend to incriminate the person.
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). (See subsection 13.3(3) of the _Criminal Code_.)
-
-##### <a id="39ZI"></a>39ZI  Search warrants by telephone and other electronic means
-
-Application for warrant
-
-             (1)  If, in an urgent case, an inspector considers it necessary to do so, the inspector may apply to a magistrate by telephone, fax or other electronic means for a warrant under section 39ZD or 39ZF in relation to particular wine premises.
-
-Voice communication
-
-             (2)  The magistrate may require communication by voice to the extent that it is practicable in the circumstances.
-
-Information
-
-             (3)  Before applying for the warrant, the inspector must prepare an information of the kind mentioned in subsection 39ZD(2) or 39ZF(2) in relation to the wine premises that sets out the grounds on which the warrant is sought. If it is necessary to do so, the inspector may apply for the warrant before the information is sworn or affirmed.
-
-Issue of warrant
-
-             (4)  If the magistrate is satisfied:
-
-                     (a)  after having considered the terms of the information; and
-
-                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought;
-
-that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same form of warrant that would be issued under section 39ZD or 39ZF (as the case requires).
-
-Notification
-
-             (5)  If the magistrate completes and signs the warrant, the magistrate must inform the applicant, by telephone, fax or other electronic means, of:
-
-                     (a)  the terms of the warrant; and
-
-                     (b)  the day on which and the time at which the warrant was signed; and
-
-                     (c)  the day (not more than one week after the magistrate completes and signs the warrant) on which the warrant ceases to have effect.
-
-Form of warrant
-
-             (6)  The applicant must then complete a form of warrant in the same terms as the warrant completed and signed by the magistrate, stating on the form the name of the magistrate and the day on which and the time at which the warrant was signed.
-
-Completed form of warrant to be given to magistrate
-
-             (7)  The applicant must also, not later than the day after the day the warrant is executed, or expires (if the warrant has not been executed first), send to the magistrate:
-
-                     (a)  the form of warrant completed by the applicant; and
-
-                     (b)  the information referred to in subsection (3), which must have been duly sworn or affirmed.
-
-Attachment
-
-             (8)  The magistrate is to attach to the documents provided under subsection (7) the warrant completed by the magistrate.
-
-Authority of warrant
-
-             (9)  A form of warrant duly completed under subsection (6) is authority for the same powers as are authorised by the warrant signed by the magistrate.
-
-           (10)  If:
-
-                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of a power was authorised by this section; and
-
-                     (b)  the warrant signed by the magistrate authorising the exercise of the power is not produced in evidence;
-
-the court must assume, unless the contrary is proved, that the exercise of the power was not authorised by such a warrant.
-
-##### <a id="39ZIA"></a>39ZIA  Offences relating to warrants by telephone and other electronic means
-
-Offence for stating incorrect names in warrants by telephone and other electronic means
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person states a name of a magistrate in a document; and
-
-                     (b)  the document purports to be a form of warrant under section 39ZI; and
-
-                     (c)  the name is not the name of the magistrate who issued the warrant.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Offence for unauthorised form of warrant
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person states a matter in a form of warrant under section 39ZI; and
-
-                     (b)  the matter departs in a material particular from the form authorised by the magistrate.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Offence for execution etc. of unauthorised form of warrant
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person executes a document or presents a document to a person; and
-
-                     (b)  the document purports to be a form of warrant under section 39ZI; and
-
-                     (c)  the document:
-
-                              (i)  has not been approved by a magistrate under that section; or
-
-                             (ii)  departs in a material particular from the terms authorised by the magistrate under that section.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Offence for giving unexecuted form of warrant
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person gives a magistrate a form of warrant under section 39ZI; and
-
-                     (b)  the document is not the form of warrant that the person executed.
-
-                    Penalty:  Imprisonment for 2 years.
+             (3)  It is a reasonable excuse for a person to refuse or fail to answer a question or produce a document if answering the question, or producing the document would tend to incriminate the person.
 
 ### Division 4—Use of records and results of inspection
 
 ##### <a id="39ZJ"></a>39ZJ  Corporation to assist enforcement of laws on description of wine
 
-             (1)  For the purpose of achieving the object of this Part, the Corporation may give information obtained under this Part, and other assistance, to:
+             (1)  For the purpose of achieving the object of this Part, the Corporation may give information obtained under this Part or section 42, and other assistance, to:
 
                      (a)  the Australian Competition and Consumer Commission; or
 
@@ -2386,7 +2270,7 @@ the calculation and collection of:
 
                      (e)  charge imposed by the repealed _Wine Export Charge Act 1997_.
 
-          (1A)  The Corporation may, with the consent of a wine manufacturer or wine exporter, give to an Agency (within the meaning of the _Public Service Act 1999_), with responsibilities relating to the levy or charge, information kept by, or held on behalf of, the manufacturer that is obtained by the Corporation under this Part.
+          (1A)  The Corporation may, with the consent of a wine manufacturer or wine exporter, give to an Agency (within the meaning of the _Public Service Act 1999_), with responsibilities relating to the levy or charge, information kept by, or held on behalf of, the manufacturer that is obtained by the Corporation under this Part or under section 42.
 
              (2)  A wine manufacturer is to be taken to have consented to the giving of information under subsection (1A) where the occupier of the wine premises where the information is kept or held gave such consent.
 
@@ -2409,8 +2293,6 @@ the calculation and collection of:
                      (b)  for certain other purposes for which the Parliament has power to make laws;
 
 and this Part is to be interpreted and administered accordingly.
-
-Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this Part.
 
 ##### <a id="40B"></a>40B  Additional operation of Part
 
@@ -2639,6 +2521,46 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
                             (iii)  the promotion or protection of the interests of consumers of wine.
 
              (2)  This section does not limit the operation of section 13 of the _Crimes Act 1914_.
+
+##### <a id="40L"></a>40L  Injunctions
+
+             (1)  If a person has engaged, is engaging or proposes to engage in any conduct in contravention of this Division, the Federal Court of Australia may grant an injunction:
+
+                     (a)  restraining the person from engaging in the conduct; and
+
+                     (b)  if the Court thinks it desirable to do so—requiring the person to do a particular act.
+
+             (2)  An application for an injunction may be made by, or on behalf of, an interested person.
+
+             (3)  The following are interested persons for the purposes of subsection (2):
+
+                     (a)  the Corporation;
+
+                     (b)  a declared wine makers organisation;
+
+                     (c)  a declared wine grape growers organisation;
+
+                     (d)  a person who is a manufacturer of wine, or a grower of wine grapes, in Australia or an agreement country;
+
+                     (e)  an organisation established under the law of Australia or of an agreement country whose objects or purposes include any of the following:
+
+                              (i)  the promotion of the manufacture of wine, the growing of wine grapes or the marketing of wine;
+
+                             (ii)  the promotion or protection of the interests of persons engaged in the manufacture of wine, the growing of wine grapes or the marketing of wine;
+
+                            (iii)  the promotion or protection of the interests of consumers of wine.
+
+             (4)  The Court may grant an interim injunction pending a determination of an application for an injunction.
+
+             (5)  The Court may discharge or vary an injunction granted under this section.
+
+             (6)  The power of the Court to grant an injunction restraining a person from engaging in conduct may be exercised:
+
+                     (a)  whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; and
+
+                     (b)  whether or not the person has previously engaged in conduct of that kind.
+
+             (7)  The powers conferred on the Federal Court of Australia by this section are in addition to, and not in derogation of, any other powers of the Court.
 
 ##### <a id="40M"></a>40M  Application of national food standards to wines imported from agreement countries
 
@@ -3360,7 +3282,7 @@ the Corporation may direct the Registrar to omit the entry from the Register, to
 
              (5)  The Registrar must comply with a direction given under subsection (3).
 
-##### <a id="40ZE"></a>40ZE  Inspection of Register
+##### <a id="40ZE"></a>40ZE  Inspection of Register
 
              (1)  The Registrar must ensure that the Register is available for inspection at the office of the Registrar by any person during ordinary hours of business of that office.
 
@@ -3426,6 +3348,30 @@ it is a condition of the person’s holding the office under this Act held by th
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
+##### <a id="42"></a>42  Corporation may require information
+
+             (1)  The Corporation may, by notice in writing given, or sent by post, to a person, require the person to furnish, within such time as is specified in the notice not being less than 14 days, such information, in addition to any other information that the person is required to furnish under this Act or any other Act, in relation to the production of prescribed goods or grape products to matters relating to the description of wine, other than matters about which records are required to be kept under Part VIA, or to prescribed goods or grape products owned by the person or under the person’s control as is specified in the notice.
+
+             (2)  A person shall not fail or neglect duly to furnish information that the person is required to furnish by virtue of a notice given, or sent by post, to the person under subsection (1).
+
+          (2A)  Subsection (2) does not apply if the person has a reasonable excuse.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (2A). See subsection 13.3(3) of the _Criminal Code_.
+
+          (2B)  An offence under subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  A person is not excused from furnishing information that the person is required to furnish by virtue of a notice given, or sent by post, to the person under subsection (1) on the ground that the information might tend to incriminate the person or make the person liable to a penalty, but any information so furnished is not admissible in evidence against the person in proceedings other than proceedings for an offence against subsection (4).
+
+             (4)  A person shall not furnish to the Corporation information that the person knows is false or misleading in a material particular.
+
+                    Penalty:  
+
+                     (a)  in the case of a natural person—imprisonment for 6 months; or
+
+                     (b)  in the case of a body corporate—$5,000.
+
 ##### <a id="43"></a>43  Delegation
 
              (1)  The Corporation may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal, delegate to a person or to a committee established under section 11 any of its powers under this Act, other than its powers under subsection 30(2) or this power of delegation.
@@ -3436,15 +3382,17 @@ it is a condition of the person’s holding the office under this Act held by th
 
 ##### <a id="44"></a>44  Offences in relation to export of grape products
 
-             (1)  A person commits an offence if:
+             (1)  A person shall not export a grape product from Australia in contravention of the regulations.
 
-                     (a)  the person exports a grape product from Australia; and
+                    Penalty:  
 
-                     (b)  the export of the grape product contravenes the regulations.
+                     (a)  in the case of a natural person—$6,000; or
 
-                    Penalty:  Imprisonment for 6 months.
+                     (b)  in the case of a body corporate—$10,000.
 
-Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this section.
+          (1A)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
              (2)  The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this section in the same way as they apply in relation to that Part, with the following modifications:
 
@@ -3455,54 +3403,6 @@ Note:          The Federal Court may grant an injunction under
 ##### <a id="44AA"></a>44AA  Time for bringing prosecutions
 
                    Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence against section 44 of this Act that is committed after the commencement of this section may be brought at any time within 7 years after the commission of the offence.
-
-##### <a id="44AB"></a>44AB  Injunctions
-
-             (1)  The Federal Court may grant an injunction if a person has engaged, is engaging or proposes to engage in any conduct that contravenes the following:
-
-                     (a)  Part VIA (label integrity program);
-
-                     (b)  Part VIB (protection of geographical indications and other terms);
-
-                     (c)  section 44 (offence in relation to export of grape products);
-
-                     (d)  regulations made for the purposes of the provisions mentioned in paragraphs (a) to (c).
-
-             (2)  The injunction may:
-
-                     (a)  restrain the person from engaging in the conduct; and
-
-                     (b)  if the Court thinks it desirable to do so—require the person to do a particular act.
-
-             (3)  An application for an injunction may be made by, or on behalf of, the following persons:
-
-                     (a)  the Corporation;
-
-                     (b)  a declared wine makers organisation;
-
-                     (c)  a declared wine grape growers organisation;
-
-                     (d)  a person who is a manufacturer of wine, or a grower of wine grapes, in Australia or an agreement country;
-
-                     (e)  an organisation established under the law of Australia or of an agreement country whose objects or purposes include any of the following:
-
-                              (i)  the promotion of the manufacture of wine, the growing of wine grapes or the marketing of wine;
-
-                             (ii)  the promotion or protection of the interests of persons engaged in the manufacture of wine, the growing of wine grapes or the marketing of wine;
-
-                            (iii)  the promotion or protection of the interests of consumers of wine.
-
-             (4)  The Court may grant an interim injunction pending a determination of an application for an injunction.
-
-             (5)  The Court may discharge or vary an injunction granted under this section.
-
-             (6)  The power of the Court to grant an injunction restraining a person from engaging in conduct may be exercised:
-
-                     (a)  whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; and
-
-                     (b)  whether or not the person has previously engaged in conduct of that kind.
-
-             (7)  The powers conferred on the Federal Court by this section are in addition to, and not in derogation of, any other powers of the Court.
 
 ##### <a id="44A"></a>44A  Conduct by directors, servants or agents
 
@@ -3600,9 +3500,9 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (h)  providing for a penalty of:
 
-                              (i)  if the person is a natural person, a fine not exceeding 50 penalty units; or
+                              (i)  if the person is a natural person, a fine not exceeding $1,000; or
 
-                             (ii)  if the person is a body corporate, a fine not exceeding 250 penalty units;
+                             (ii)  if the person is a body corporate, a fine not exceeding $5,000;
 
                             for offences against the regulations.
 
@@ -4395,8 +4295,8 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
   </td>
   <td>
     <div>Schedule 1 (items 1–69, 77–80) and Schedule 2: \[ <i>see</i>Note 2 and Table A] 
-Schedule 3 (items 1–17, 19–21): 3 Aug 2010 
-Schedule 3 (item 18): \[ <i>see</i>Note 2]</div>
+Schedule 3 (items 1–17, 19–21): \[ <i>see</i>Note 2 and Table A] 
+Schedule 3 (item 18): \[ <i>see</i> <i>(m)</i>and Note 2]</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -4470,6 +4370,100 @@ _(k)_     The _Australian Wine and Brandy Corporation Act 1980_ was amen
 _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 7 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(m)_    Subsection 2(1) (item 5) of the _Australian Wine and Brandy Corporation Amendment Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 3, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 4; and
+    </div>
+    <div>
+      (b) the commencement of Schedule 1 to this Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 2]
+    </div>
+  </td>
+</tr></table>
 
 ## Table of Amendments
 
@@ -4604,14 +4598,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
   </td>
   <td>
     <div>am. No. 60, 1986; No. 144, 1989; No. 115, 2001; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5216,14 +5202,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Note to s. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39B</div>
   </td>
   <td>
@@ -5491,12 +5469,12 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2001; No. 98, 2010</div>
+    <div>am. No. 115, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 39ZC</div>
+    <div>Ss. 39ZC–39ZE</div>
   </td>
   <td>
     <div>ad. No. 144, 1989</div>
@@ -5504,71 +5482,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Note to s. 39ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to s. 39ZD(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZE</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZF</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to s. 39ZF(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZG</div>
+    <div>Ss. 39ZF, 39ZG</div>
   </td>
   <td>
     <div>ad. No. 144, 1989</div>
@@ -5600,30 +5514,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZI</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39ZIA</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -5643,7 +5533,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1993; No. 88, 1995; No. 98, 2010</div>
+    <div>am. No. 93, 1993; No. 88, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5675,7 +5565,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div></div>
   </td>
   <td>
-    <div>am. No. 86, 1997; Nos. 32 and 146, 1999; No. 98, 2010</div>
+    <div>am. No. 86, 1997; Nos. 32 and 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5728,23 +5618,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40B</div>
+    <div>Ss. 40A, 40B</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
@@ -5848,31 +5722,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Ss. 40J, 40K</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40L</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40M</div>
+    <div>Ss. 40J–40M</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
@@ -6293,14 +6143,6 @@ Div. 4 of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 43</div>
   </td>
   <td>
@@ -6312,7 +6154,7 @@ Div. 4 of Part VIB</div>
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 144, 1989; No. 170, 1999; No. 115, 2001; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 170, 1999; No. 115, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6321,14 +6163,6 @@ Div. 4 of Part VIB</div>
   </td>
   <td>
     <div>ad. No. 38, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44AB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6360,7 +6194,7 @@ Div. 4 of Part VIB</div>
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 144, 1989; No. 121, 2000; No. 38, 2003; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 121, 2000; No. 38, 2003</div>
   </td>
 </tr>
 <tr>
@@ -6417,7 +6251,7 @@ Div. 4 of Part VIB</div>
 _Australian Wine and Brandy Corporation Amendment Act 2010 
  (No. 98, 2010)_
 
-The following amendments commence on 1 September 2010 (_see_ F2010L02117):
+The following amendments commence on 6 January 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
@@ -6561,7 +6395,7 @@ Omit “European Economic Community”, substitute “European Community”.
 
 _Note:       The following heading to subsection 4(3) is inserted “Parties to prescribed wine trading agreements”._
 
-## 25  Section 5C
+## 25  Section 5C
 
 After “addresses)”, insert “, indications”.
 
@@ -6603,7 +6437,7 @@ Repeal the paragraphs, substitute:
 
 Repeal the paragraph.
 
-## 30  After paragraph 8(2)(g)
+## 30  After paragraph 8(2)(g)
 
 Insert:
 
@@ -8019,7 +7853,317 @@ Repeal the subsection, substitute:
 
              (2)  The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this section in the same way as they apply in relation to that Part.
 
-The following amendment commences on 1 September 2010:
+The following amendments commence on 3 August 2010:
+
+## Schedule 3
+
+## 1  Section 9
+
+Repeal the section.
+
+## 2  At the end of section 39A
+
+Add:
+
+Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this Part.
+
+## 3  Subsection 39ZB(3) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  1 penalty unit.
+
+## 4  At the end of section 39ZC
+
+Add:
+
+Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+
+## 5  At the end of subsection 39ZD(1)
+
+Add:
+
+Note 1:       An inspector may apply for a warrant under this section by telephone or fax under section 39ZI.
+
+Note 2:       An inspector may also apply for a warrant under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+
+## 6  Section 39ZE
+
+Repeal the section, substitute:
+
+##### <a id="39ZE"></a>39ZE  Offence powers of inspectors—exercised with consent
+
+             (1)  An inspector may enter wine premises if:
+
+                     (a)  the inspector has reasonable grounds for suspecting that there is on the premises a particular thing that may afford evidence of the commission of a label offence; and
+
+                     (b)  the inspector has produced his or her identity card for inspection by the occupier of the premises; and
+
+                     (c)  the occupier of the premises has consented to the entry.
+
+Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+
+Consent
+
+             (2)  Before obtaining the consent of the occupier for the purposes of paragraph (1)(c), an inspector must inform that occupier that he or she may refuse consent.
+
+             (3)  A consent has no effect unless the consent is voluntary.
+
+Inspector’s powers while on premises
+
+             (4)  The inspector may do the following while on the premises:
+
+                     (a)  exercise inspection powers;
+
+                     (b)  secure a thing pending the obtaining of a warrant under section 39ZF to seize it if the inspector has reasonable grounds for suspecting that the thing may afford evidence of the commission of a label offence.
+
+Withdrawal of consent
+
+             (5)  The inspector may exercise powers under paragraph (4)(b) even if the occupier’s consent is withdrawn after being given. Otherwise, the inspector must leave the premises if the occupier’s consent is withdrawn after being given.
+
+## 7  At the end of subsection 39ZF(1)
+
+Add:
+
+Note 1:       An inspector may apply for a warrant under this section by telephone or fax under section 39ZI.
+
+Note 2:       An inspector may also apply for a warrant under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+
+## 8  Section 39ZH
+
+Repeal the section, substitute:
+
+##### <a id="39ZH"></a>39ZH  Power to require persons to answer questions and produce documents
+
+             (1)  An inspector who is on wine premises that the inspector has entered under a warrant issued under section 39ZD or 39ZF may require any person on the premises to:
+
+                     (a)  answer any questions put by the inspector; and
+
+                     (b)  produce any examinable documents requested by the inspector.
+
+Note:          An inspector may also exercise powers under this section for the purposes of Parts VIB and VII (see sections 40ZF and 44).
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person is required to answer a question or produce an examinable document under subsection (1); and
+
+                     (b)  the person refuses or fails to comply with the requirement.
+
+                    Penalty:  30 penalty units.
+
+             (3)  Subsection (2) does not apply if the answer to the question, or the producing of the document, would tend to incriminate the person.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). (See subsection 13.3(3) of the _Criminal Code_.)
+
+##### <a id="39ZI"></a>39ZI  Search warrants by telephone and other electronic means
+
+Application for warrant
+
+             (1)  If, in an urgent case, an inspector considers it necessary to do so, the inspector may apply to a magistrate by telephone, fax or other electronic means for a warrant under section 39ZD or 39ZF in relation to particular wine premises.
+
+Voice communication
+
+             (2)  The magistrate may require communication by voice to the extent that it is practicable in the circumstances.
+
+Information
+
+             (3)  Before applying for the warrant, the inspector must prepare an information of the kind mentioned in subsection 39ZD(2) or 39ZF(2) in relation to the wine premises that sets out the grounds on which the warrant is sought. If it is necessary to do so, the inspector may apply for the warrant before the information is sworn or affirmed.
+
+Issue of warrant
+
+             (4)  If the magistrate is satisfied:
+
+                     (a)  after having considered the terms of the information; and
+
+                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought;
+
+that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same form of warrant that would be issued under section 39ZD or 39ZF (as the case requires).
+
+Notification
+
+             (5)  If the magistrate completes and signs the warrant, the magistrate must inform the applicant, by telephone, fax or other electronic means, of:
+
+                     (a)  the terms of the warrant; and
+
+                     (b)  the day on which and the time at which the warrant was signed; and
+
+                     (c)  the day (not more than one week after the magistrate completes and signs the warrant) on which the warrant ceases to have effect.
+
+Form of warrant
+
+             (6)  The applicant must then complete a form of warrant in the same terms as the warrant completed and signed by the magistrate, stating on the form the name of the magistrate and the day on which and the time at which the warrant was signed.
+
+Completed form of warrant to be given to magistrate
+
+             (7)  The applicant must also, not later than the day after the day the warrant is executed, or expires (if the warrant has not been executed first), send to the magistrate:
+
+                     (a)  the form of warrant completed by the applicant; and
+
+                     (b)  the information referred to in subsection (3), which must have been duly sworn or affirmed.
+
+Attachment
+
+             (8)  The magistrate is to attach to the documents provided under subsection (7) the warrant completed by the magistrate.
+
+Authority of warrant
+
+             (9)  A form of warrant duly completed under subsection (6) is authority for the same powers as are authorised by the warrant signed by the magistrate.
+
+           (10)  If:
+
+                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of a power was authorised by this section; and
+
+                     (b)  the warrant signed by the magistrate authorising the exercise of the power is not produced in evidence;
+
+the court must assume, unless the contrary is proved, that the exercise of the power was not authorised by such a warrant.
+
+##### <a id="39ZIA"></a>39ZIA  Offences relating to warrants by telephone and other electronic means
+
+Offence for stating incorrect names in warrants by telephone and other electronic means
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person states a name of a magistrate in a document; and
+
+                     (b)  the document purports to be a form of warrant under section 39ZI; and
+
+                     (c)  the name is not the name of the magistrate who issued the warrant.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Offence for unauthorised form of warrant
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person states a matter in a form of warrant under section 39ZI; and
+
+                     (b)  the matter departs in a material particular from the form authorised by the magistrate.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Offence for execution etc. of unauthorised form of warrant
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person executes a document or presents a document to a person; and
+
+                     (b)  the document purports to be a form of warrant under section 39ZI; and
+
+                     (c)  the document:
+
+                              (i)  has not been approved by a magistrate under that section; or
+
+                             (ii)  departs in a material particular from the terms authorised by the magistrate under that section.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Offence for giving unexecuted form of warrant
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person gives a magistrate a form of warrant under section 39ZI; and
+
+                     (b)  the document is not the form of warrant that the person executed.
+
+                    Penalty:  Imprisonment for 2 years.
+
+## 9  Subsection 39ZJ(1)
+
+Omit “or section 42”.
+
+## 10  Subsection 39ZL(1A)
+
+Omit “or under section 42”.
+
+## 11  At the end of section 40A
+
+Add:
+
+Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this Part.
+
+## 12  Section 40L
+
+Repeal the section.
+
+## 13  Section 42
+
+Repeal the section.
+
+## 14  Subsections 44(1) and (1A)
+
+Repeal the subsections, substitute:
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person exports a grape product from Australia; and
+
+                     (b)  the export of the grape product contravenes the regulations.
+
+                    Penalty:  Imprisonment for 6 months.
+
+Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this section.
+
+## 15  After section 44AA
+
+Insert:
+
+##### <a id="44AB"></a>44AB  Injunctions
+
+             (1)  The Federal Court may grant an injunction if a person has engaged, is engaging or proposes to engage in any conduct that contravenes the following:
+
+                     (a)  Part VIA (label integrity program);
+
+                     (b)  Part VIB (protection of geographical indications and other terms);
+
+                     (c)  section 44 (offence in relation to export of grape products);
+
+                     (d)  regulations made for the purposes of the provisions mentioned in paragraphs (a) to (c).
+
+             (2)  The injunction may:
+
+                     (a)  restrain the person from engaging in the conduct; and
+
+                     (b)  if the Court thinks it desirable to do so—require the person to do a particular act.
+
+             (3)  An application for an injunction may be made by, or on behalf of, the following persons:
+
+                     (a)  the Corporation;
+
+                     (b)  a declared wine makers organisation;
+
+                     (c)  a declared wine grape growers organisation;
+
+                     (d)  a person who is a manufacturer of wine, or a grower of wine grapes, in Australia or an agreement country;
+
+                     (e)  an organisation established under the law of Australia or of an agreement country whose objects or purposes include any of the following:
+
+                              (i)  the promotion of the manufacture of wine, the growing of wine grapes or the marketing of wine;
+
+                             (ii)  the promotion or protection of the interests of persons engaged in the manufacture of wine, the growing of wine grapes or the marketing of wine;
+
+                            (iii)  the promotion or protection of the interests of consumers of wine.
+
+             (4)  The Court may grant an interim injunction pending a determination of an application for an injunction.
+
+             (5)  The Court may discharge or vary an injunction granted under this section.
+
+             (6)  The power of the Court to grant an injunction restraining a person from engaging in conduct may be exercised:
+
+                     (a)  whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; and
+
+                     (b)  whether or not the person has previously engaged in conduct of that kind.
+
+             (7)  The powers conferred on the Federal Court by this section are in addition to, and not in derogation of, any other powers of the Court.
+
+## 16  Subparagraph 46(1)(h)(i)
+
+Omit “$1,000”, substitute “50 penalty units”.
+
+## 17  Subparagraph 46(1)(h)(ii)
+
+Omit “$5,000”, substitute “250 penalty units”.
+
+The following amendment commences on the later of immediately after 3 August 2010 and 6 January 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
@@ -8027,7 +8171,7 @@ The following amendment commences on 1 September 2010:
 
 Omit “an agreement”, substitute “a designated foreign”.
 
-As at 3 August 2010 the amendments are not incorporated in this compilation.
+As at 7 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -8099,21 +8243,7 @@ The amendment made by item 7  applies in relation to the operations of the Com
 _Australian Wine and Brandy Corporation Amendment Act 2010 
  (No. 98, 2010)_
 
-## Schedule 3
-
-## 19  Preservation of injunctions
-
-The repeal of section 40L of the _Australian Wine and Brandy Corporation Act 1980_ by item 12 of this Schedule does not affect the continuity of any injunction that is in force under that section immediately before the commencement of this Part.
-
-## 20  Application of item 14
-
-The amendment made by item 14 of this Schedule applies to the export of a grape product from Australia after the commencement of this Part.
-
-## 21  Application of item 15
-
-The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
-
-The following provisions commence on 1 September 2010 (_see_ F2010L02117):
+The following provisions commence on 6 January 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
@@ -8231,6 +8361,22 @@ The amendment made by the item of this Schedule listed in column 1 of the table 
       39ZB(2)(b)</div>
   </td>
 </tr></table>
+
+The following provisions commence on 3 August 2010:
+
+## Schedule 3
+
+## 19  Preservation of injunctions
+
+The repeal of section 40L of the _Australian Wine and Brandy Corporation Act 1980_ by item 12 of this Schedule does not affect the continuity of any injunction that is in force under that section immediately before the commencement of this Part.
+
+## 20  Application of item 14
+
+The amendment made by item 14 of this Schedule applies to the export of a grape product from Australia after the commencement of this Part.
+
+## 21  Application of item 15
+
+The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
 
 ## Table B
 
