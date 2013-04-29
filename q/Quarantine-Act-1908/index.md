@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00101/Html/9df386b5-39bd-4b80-b1e1-633b0540bc54_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00886/Html/7bd3fb5a-8ecc-42e4-b1d7-1fa9c018bfd4_files/image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 13 January 2012
+This compilation was prepared on 3 November 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -766,6 +766,8 @@ in respect of which the authorisation was given.
 
                     <a name="complianc-agreem"></a>**_compliance agreement_** has the meaning given by section 66B.
 
+                    <a name="continent-shelf"></a>**_Continental Shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="contravent"></a>**_contravention_** of this Act has the meaning given by subsection 5(1A).
 
                     <a name="area"></a><a name="coral-sea"></a>**_Coral Sea_****_area_** has the same meaning as in section 7 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
@@ -1334,7 +1336,7 @@ the other person or thing or a person or thing to which the other person or thin
 
              (3)  Any references in provisions of this Act to Christmas Island do not imply that references to Australia or to the Commonwealth in other provisions of this Act do not also include references to Christmas Island.
 
-Note:          Under section 2B of the _Acts Interpretation Act 1901_, in any Act **_Australia_** and **_Commonwealth_** include the Cocos Islands and Christmas Island unless the contrary intention appears.
+Note:          Under paragraph 17(a) of the _Acts Interpretation Act 1901_, in any Act **_Australia_** and **_Commonwealth_** include the Cocos Islands and Christmas Island unless the contrary intention appears.
 
 ##### <a id="6AB"></a>6AB  Extension of Act to Ashmore and Cartier Islands
 
@@ -3498,7 +3500,7 @@ No specified criteria for granting permission
 
              (5)  In this section, **_goods_** does not include an animal within the meaning of section 52 or a plant.
 
-##### <a id="44D"></a>44D  Examination of imported goods
+##### <a id="44D"></a>44D  Examination of imported goods
 
              (1)  A quarantine officer or an authorized person may examine any imported goods that have been released from quarantine.
 
@@ -4754,4 +4756,8596 @@ Infected goods
 
                      (a)  goods infected with a quarantinable disease or quarantinable pest;
 
-                    
+                     (b)  goods that a quarantine officer suspects, on reasonable grounds, are likely to be infected with a quarantinable disease or a quarantinable pest;
+
+                   (ba)  goods that are quarantinable pests or quarantinable diseases;
+
+                   (bb)  goods that a quarantine officer suspects, on reasonable grounds, to be quarantinable pests or quarantinable diseases;
+
+                     (c)  goods that have been exposed to infection with a quarantinable disease or quarantinable pest;
+
+                     (d)  goods that have been:
+
+                              (i)  imported into Australia, the Cocos Islands or Christmas Island; or
+
+                             (ii)  brought into, or landed at, any port or other place in Australia, the Cocos Islands or Christmas Island; or
+
+                            (iii)  removed from a part of   Australia to another part of Australia; or
+
+                            (iv)  removed from a part of the Cocos Islands to another part of the Cocos Islands; or
+
+                             (v)  removed from Australia to the Cocos Islands; or
+
+                            (vi)  removed from the Cocos Islands to Australia;
+
+                           (vii)  removed from the Cocos Islands to Christmas Island; or
+
+                          (viii)  removed from a part of Christmas Island to another part of Christmas Island; or
+
+                            (ix)  removed from Australia to Christmas Island; or
+
+                             (x)  removed from Christmas Island to Australia; or
+
+                            (xi)  removed from Christmas Island to the Cocos Islands;
+
+                            in contravention of this Act;
+
+                     (e)  goods that have been exposed to, or that a quarantine officer suspects, on reasonable grounds, have been exposed to, goods referred to in paragraph (a), (b), (c) or (d).
+
+### Division 2—Monitoring powers
+
+##### <a id="66AB"></a>66AB  The monitoring of premises
+
+             (1)  For the purpose of deciding whether to exercise a power under this Act or finding out whether this Act is being complied with, a quarantine officer, at any time and with any necessary help, may:
+
+                     (a)  enter:
+
+                              (i)  any premises approved for the purposes of a provision of this Act; or
+
+Note:       For premises that have been approved, see for example subsection 44A(5) and section 46A.
+
+                             (ii)  a quarantine station; or
+
+                            (iii)  any premises at which procedures are authorised under a compliance agreement to be carried out; or
+
+                            (iv)  any other premises with the consent of the occupier; and
+
+                     (b)  exercise the powers set out in section 66AA.
+
+             (2)  If the relevant premises are a vessel or a vehicle, a quarantine officer may stop and detain the vessel or vehicle for the purpose of exercising a power conferred by subsection (1).
+
+             (3)  For the purpose of examining domestic animals in the Cocos Islands, or in Christmas Island, a quarantine officer, at any time and with any necessary help, may:
+
+                     (a)  enter any premises on the Cocos Islands or on Christmas Island, as the case may be, with the consent of the occupier; and
+
+                     (b)  search the premises for domestic animals; and
+
+                     (c)  if a domestic animal is found on the premises:
+
+                              (i)  cause an examination of the animal and of the premises to be carried out to ensure that the animal is healthy and the premises are clean and free from infection; and
+
+                             (ii)  take whatever measures are required to improve the health of the animal, including the treatment of the animal; and
+
+                            (iii)  take whatever measures are required to treat the premises; and
+
+                            (iv)  give to any person on the premises any directions that the quarantine officer considers necessary to enable him or her to exercise the powers referred to in subparagraphs (i), (ii) and (iii).
+
+##### <a id="66AC"></a>66AC  Monitoring warrants
+
+             (1)  A quarantine officer may apply to a magistrate for a warrant under this section in relation to particular premises.
+
+             (2)  Subject to subsection (3), the magistrate may issue a warrant if satisfied, by information on oath or affirmation, that it is reasonably necessary that the quarantine officer should have access to the premises for the purpose of:
+
+                     (a)  deciding whether to exercise a power under this Act; or
+
+                     (b)  finding out:
+
+                              (i)  whether this Act has been complied with; and
+
+                             (ii)  if the premises are in the Cocos Islands or in Christmas Island—whether any domestic animals are on the premises.
+
+             (3)  The magistrate must not issue a warrant unless the quarantine officer or another person has given the magistrate, either orally (on oath or affirmation) or by affidavit, such further information as the magistrate requires about the grounds on which the issue of the warrant is being sought.
+
+             (4)  The warrant must:
+
+                     (a)  authorise a quarantine officer named in the warrant, with such assistance and by such force as is necessary and reasonable, from time to time, while the warrant remains in force:
+
+                              (i)  to enter the premises; and
+
+                             (ii)  to exercise powers of the kind set out in section 66AA in relation to the premises; and
+
+                            (iii)  if the premises are in the Cocos Islands or in Christmas Island—to exercise the powers referred to in paragraphs 66AB(3)(b) and (c) in relation to the premises; and
+
+                     (b)  state whether an entry under the warrant is authorised to be made at any time of the day or night or during specified hours of the day or night; and
+
+                     (c)  specify the day (not more than 6 months after the day on which the warrant is issued) on which the warrant ceases to have effect; and
+
+                     (d)  state the purpose for which the warrant is issued.
+
+##### <a id="66AD"></a>66AD  Seizures without offence‑related warrant in emergency situations
+
+             (1)  This section applies when a quarantine officer has entered premises under section 66AB or under a warrant issued under section 66AC.
+
+             (2)  If the quarantine officer suspects, on reasonable grounds, that:
+
+                     (a)  particular evidential material is on the premises; and
+
+                     (b)  it is necessary to seize the evidential material in order to prevent it from being concealed, lost or destroyed; and
+
+                     (c)  it is necessary to do so without the authority of a warrant under section 66AF because the circumstances are serious and urgent;
+
+the quarantine officer may seize the evidential material if he or she finds it there.
+
+### Division 3—Offence‑related searches and seizures
+
+##### <a id="66AE"></a>66AE  Offence‑related searches and seizures
+
+             (1)  Subject to subsection (2), if a quarantine officer has reasonable grounds for suspecting that there may be, on any premises, particular evidential material, the officer, at any time and with any necessary help, may:
+
+                     (a)  enter the premises; and
+
+                     (b)  exercise the powers set out in section 66AA; and
+
+                     (c)  seize that evidential material, if the officer finds it on the premises.
+
+             (2)  A quarantine officer is not authorised to enter premises under subsection (1) unless:
+
+                     (a)  the premises are:
+
+                              (i)  premises approved for the purposes of a provision of this Act; or
+
+Note:       For premises that have been approved, see for example subsection 44A(5) and section 46A.
+
+                             (ii)  a quarantine station; or
+
+                            (iii)  premises at which procedures are authorised under a compliance agreement to be carried out; or
+
+                     (b)  the occupier of the premises has consented to the entry.
+
+             (3)  If the relevant premises are a vessel or vehicle, a quarantine officer may stop and detain the vessel or vehicle for the purpose of exercising a power conferred by subsection (1).
+
+##### <a id="66AF"></a>66AF  Offence‑related warrants
+
+             (1)  A quarantine officer may apply to a magistrate for a warrant under this section in relation to particular premises.
+
+             (2)  Subject to subsection (3), a magistrate may issue the warrant if satisfied, by information on oath or affirmation, that there are reasonable grounds for suspecting that there is, or may be within the next 72 hours, any evidential material at the premises.
+
+             (3)  A magistrate must not issue a warrant unless the quarantine officer or some other person has given the magistrate, either orally (on oath or affirmation) or by affidavit, such further information as the magistrate requires about the grounds on which the issue of the warrant is being sought.
+
+             (4)  The warrant must:
+
+                     (a)  state the offence to which the warrant relates; and
+
+                     (b)  describe the premises to which the warrant relates; and
+
+                     (c)  describe the kinds of evidential material that are to be searched for under the warrant; and
+
+                     (d)  state the name of the quarantine officer who is to be responsible for executing the warrant; and
+
+                     (e)  state the period for which the warrant remains in force, which must not be more than 7 days; and
+
+                      (f)  state whether the warrant may be executed at any time of the day or night or only during specified hours of the day or night.
+
+             (5)  The warrant must also state that the warrant authorises the seizure of a thing (other than evidential material of the kind referred to in paragraph (4)(c)) found at the premises in the course of the search that the executing officer or an officer assisting believes on reasonable grounds to be:
+
+                     (a)  evidential material in relation to an offence to which the warrant relates; or
+
+                     (b)  evidential material in relation to another offence against this Act;
+
+if the executing officer or an officer assisting believes on reasonable grounds that seizure of the thing is necessary to prevent its concealment, loss or destruction or its use in committing an offence against this Act.
+
+             (6)  Paragraph (4)(e) does not prevent the issue of successive warrants in relation to the same premises.
+
+             (7)  If the application for the warrant is made under section 66AH, this section applies as if:
+
+                     (a)  subsection (2) referred to 48 hours rather than 72 hours; and
+
+                     (b)  paragraph (4)(e) referred to 48 hours rather than 7 days.
+
+##### <a id="66AG"></a>66AG  The things that are authorised by a search warrant
+
+             (1)  A warrant under this Division that is in force in relation to premises authorises the executing officer or an officer assisting:
+
+                     (a)  to enter the premises; and
+
+                     (b)  to exercise the powers set out in section 66AA; and
+
+                     (c)  to search the premises and any thing on the premises for the kinds of evidential material specified in the warrant, and to seize things of those kinds found at the premises; and
+
+                     (d)  to seize other things found at the premises in the course of the search that the executing officer or an officer assisting believes on reasonable grounds to be:
+
+                              (i)  evidential material in relation to an offence to which the warrant relates; or
+
+                             (ii)  evidential material in relation to another offence against this Act;
+
+                            if the executing officer or an officer assisting believes on reasonable grounds that seizure of the thing is necessary to prevent its concealment, loss or destruction or its use in committing an offence against this Act.
+
+             (2)  If the warrant states that it may be executed only during particular hours, the warrant must not be executed outside those hours.
+
+             (3)  If things are seized under a warrant, the warrant authorises the executing officer to make the things available to officers of other agencies if it is necessary to do so for the purpose of investigating or prosecuting an offence to which the things relate.
+
+### Division 4—Warrants granted by telephone or other electronic means
+
+##### <a id="66AH"></a>66AH  Warrants may be granted by telephone or other electronic means
+
+             (1)  A quarantine officer may apply to a magistrate for a warrant under section 55G, 66AC or 66AF by telephone, facsimile or other electronic means:
+
+                     (a)  in an urgent case; or
+
+                     (b)  if the delay that would occur if an application were made in person would frustrate the effective execution of the warrant.
+
+             (2)  The magistrate may require voice communication to the extent that it is practicable in the circumstances.
+
+             (3)  An application under this section must include all information required to be provided in an ordinary application for a warrant under section 55G, 66AC or 66AF, as the case requires, but the application may, if necessary, be made before the information is sworn or affirmed.
+
+             (4)  If a magistrate to whom an application is made under this section is satisfied:
+
+                     (a)  after having considered the information mentioned in subsection (3); and
+
+                     (b)  after having received any further information that the magistrate requires about the grounds on which the issue of the warrant is being sought;
+
+that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same form of warrant as would be issued under section 55G, 66AC or 66AF, as the case requires.
+
+             (5)  If a magistrate signs a warrant under subsection (4):
+
+                     (a)  the magistrate must notify the quarantine officer, by telephone, facsimile or other electronic means, of the terms of the warrant and the date on which and the time at which it was signed, and write on it the reasons for granting it; and
+
+                     (b)  the officer must complete a form of warrant in the terms notified to the officer by the magistrate and write on it the name of the magistrate and the date on which and the time at which it was signed.
+
+             (6)  If a quarantine officer completes a form of warrant under subsection (5), the officer must, not later than the day after the day on which the warrant ceased to be in force or was executed, whichever is the earlier, give or send to the magistrate who signed the warrant the form of warrant completed by the officer and, if the information mentioned in subsection (3) was not sworn or affirmed, that information duly sworn or affirmed.
+
+             (7)  The magistrate must attach to the documents provided under subsection (6) the warrant signed by the magistrate.
+
+             (8)  A form of warrant that has been duly completed by a quarantine officer under subsection (5), and is in accordance with the terms of the warrant signed by the magistrate, is authority for any entry, search, seizure, or other exercise of power, that the warrant so signed authorises.
+
+             (9)  If:
+
+                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of power was authorised under this section; and
+
+                     (b)  the warrant signed by the magistrate under this section authorising the exercise of power is not produced in evidence;
+
+the court must assume, unless the contrary is proved, that the exercise of power was not authorised by such a warrant.
+
+### Division 5—Stopping and searching vessels or vehicles
+
+##### <a id="66AI"></a>66AI  Searches without warrant in emergency situations
+
+             (1)  This section applies if a quarantine officer suspects, on reasonable grounds, that:
+
+                     (a)  particular evidential material is in or on a vessel or vehicle; and
+
+                     (b)  it is necessary to exercise a power under subsection (2) in order to prevent the evidential material being concealed, lost or destroyed; and
+
+                     (c)  it is necessary to exercise the power without the authority of a warrant under section 66AF because the circumstances are serious and urgent.
+
+             (2)  The quarantine officer may:
+
+                     (a)  stop and detain the vessel or vehicle; and
+
+                     (b)  search the vessel or vehicle and any thing in or on it for the evidential material; and
+
+                     (c)  seize the evidential material if he or she finds it there.
+
+             (3)  If, in the course of searching for the evidential material, the quarantine officer finds other evidential material, the officer may seize the other evidential material if he or she suspects, on reasonable grounds, that:
+
+                     (a)  it is necessary to seize it in order to prevent its concealment, loss or destruction; and
+
+                     (b)  it is necessary to seize it without the authority of a warrant under section 66AF because the circumstances are serious and urgent.
+
+             (4)  The quarantine officer must exercise his or her powers subject to section 66AJ.
+
+##### <a id="66AJ"></a>66AJ  How a quarantine officer exercises a power under section 66AI
+
+                   When a quarantine officer exercises a power under section 66AI in relation to a vessel or vehicle, he or she:
+
+                     (a)  may use such assistance as is necessary; and
+
+                     (b)  must search the vessel or vehicle in a public place or in some other place to which members of the public have ready access; and
+
+                     (c)  must not detain the vessel or vehicle for longer than is necessary and reasonable to search it and any thing found in or on it; and
+
+                     (d)  may use such force as is necessary and reasonable in the circumstances, but must not damage the vessel or vehicle or any thing found in or on it by forcing open a part of the vessel or vehicle or thing unless:
+
+                              (i)  the person (if any) apparently in charge of the vessel or vehicle has been given a reasonable opportunity to open that part or thing; or
+
+                             (ii)  it is not possible to give that person such an opportunity.
+
+### Division 6—General rules about premises and warrants
+
+##### <a id="66AK"></a>66AK  Availability of assistance, and use of force, in executing a warrant
+
+                   In executing a warrant:
+
+                     (a)  the executing officer may obtain such assistance as is necessary and reasonable in the circumstances; and
+
+                     (b)  the executing officer, or a quarantine officer who is assisting in executing the warrant, may use such force against persons and things as is necessary and reasonable in the circumstances; and
+
+                     (c)  a person who is not a quarantine officer, but has been authorised to assist in executing the warrant, may use such force against things as is necessary and reasonable in the circumstances.
+
+##### <a id="66AL"></a>66AL  Announcement before entry under warrants
+
+             (1)  The executing officer must, before any person enters premises under a warrant:
+
+                     (a)  announce that he or she is authorised by the warrant to enter the premises; and
+
+                     (b)  give any person at the premises an opportunity to allow entry to the premises.
+
+             (2)  The executing officer does not have to comply with subsection (1) if he or she believes on reasonable grounds that immediate entry to the premises is required to ensure:
+
+                     (a)  the safety of a person (including the executing officer); or
+
+                     (b)  that the effective execution of the warrant is not frustrated.
+
+##### <a id="66AM"></a>66AM  Details of warrant to be given to occupier etc.
+
+             (1)  If a warrant in relation to premises is being executed and the occupier of the premises, or another person who apparently represents the occupier, is present at the premises, the executing officer or an officer assisting must make a copy of the warrant available to that person.
+
+             (2)  The executing officer must identify himself or herself to the person at the premises.
+
+             (3)  The copy of the warrant referred to in subsection (1) need not include the signature of the magistrate who issued the warrant.
+
+##### <a id="66AN"></a>66AN  Occupier to be present during search under warrants
+
+             (1)  If a warrant issued in relation to premises is being executed and the occupier of the premises, or another person who apparently represents the occupier, is present at the premises, the person is, subject to Part IC of the _Crimes Act 1914_, entitled to observe the search being conducted.
+
+             (2)  The right to observe the search being conducted ceases if the person impedes the search.
+
+             (3)  This section does not prevent 2 or more areas of the premises being searched at the same time.
+
+##### <a id="66AO"></a>66AO  Use of equipment to examine or process things
+
+             (1)  A person who enters premises under this Part may bring to the premises and use any equipment reasonably necessary for the examination or processing of things found at the premises for the purposes of exercising a power conferred on the person under this Part.
+
+             (2)  If:
+
+                     (a)  it is not practicable to examine or process the things at the premises; or
+
+                     (b)  the occupier of the premises consents in writing;
+
+the things may be moved to another place so that the examination or processing can be carried out.
+
+             (3)  If things containing electronically stored information are moved to another place under subsection (2), the person referred to in subsection (1) must, if it is practicable to do so:
+
+                     (a)  tell the occupier the address of the place and the time at which the examination or processing will be carried out; and
+
+                     (b)  allow the occupier, or a representative of the occupier, to be present during the examination or processing.
+
+             (4)  A person who enters premises under this Part may operate equipment already at the premises to carry out the examination or processing of a thing found at the premises for the purpose of exercising a power conferred on the person under this Part, if the person believes on reasonable grounds that:
+
+                     (a)  the equipment is suitable for the examination or processing; and
+
+                     (b)  the examination or processing can be carried out without damage to the equipment or the thing.
+
+##### <a id="66AP"></a>66AP  Use of electronic equipment at premises
+
+             (1)  A person who enters premises under this Part may operate electronic equipment at the premises for the purpose of exercising a power conferred on the person under this Part if he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
+
+             (2)  If the person, after operating the equipment, finds that evidential material is accessible by doing so, he or she may:
+
+                     (a)  seize the equipment and any disk, tape or other associated device; or
+
+                     (b)  if the material can, by using facilities at the premises, be put in documentary form—operate the facilities to put the material in that form and seize the documents so produced; or
+
+                     (c)  if the material can be transferred to a disk, tape or other storage device:
+
+                              (i)  which is brought to the premises; or
+
+                             (ii)  which is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises;
+
+                            operate the equipment or other facilities to copy the material to the storage device and take the storage device from the premises.
+
+             (3)  A person may seize equipment under paragraph (2)(a) only if:
+
+                     (a)  it is not practicable to put the material in documentary form as mentioned in paragraph (2)(b) or to copy the material as mentioned in paragraph (2)(c); or
+
+                     (b)  possession of the equipment by the occupier could constitute an offence.
+
+             (4)  If the person believes on reasonable grounds that:
+
+                     (a)  evidential material may be accessible by operating electronic equipment at the premises; and
+
+                     (b)  expert assistance is required to operate the equipment; and
+
+                     (c)  if he or she does not take action under this subsection, the material may be destroyed, altered or otherwise interfered with;
+
+he or she may do whatever is necessary to secure the equipment, whether by locking it up, placing a guard or otherwise.
+
+             (5)  The person must give notice to the occupier of the premises of his or her intention to secure equipment and of the fact that the equipment may be secured for up to 24 hours.
+
+             (6)  The equipment may be secured:
+
+                     (a)  for a period not exceeding 24 hours; or
+
+                     (b)  until the equipment has been operated by the expert;
+
+whichever happens first.
+
+             (7)  If the person believes on reasonable grounds that the expert assistance will not be available within 24 hours, he or she may apply to a magistrate for an extension of that period.
+
+             (8)  The person must give notice to the occupier of the premises of his or her intention to apply for an extension, and the occupier is entitled to be heard in relation to the application.
+
+##### <a id="66AQ"></a>66AQ  Compensation for damage to equipment
+
+             (1)  If:
+
+                     (a)  equipment is damaged because of being operated as mentioned in section 66AO or 66AP; and
+
+                     (b)  the damage was caused by:
+
+                              (i)  insufficient care being exercised in selecting the person who was to operate the equipment; or
+
+                             (ii)  insufficient care being exercised by the person (other than the occupier or a person employed by the occupier) operating the equipment;
+
+compensation for the damage is payable to the owner of the equipment.
+
+             (2)  Compensation is payable out of money appropriated by the Parliament for the purpose.
+
+             (3)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises and the employees and agents of the occupier, if they were available at the time, had provided any warning or guidance as to the operation of the equipment that was appropriate in the circumstances.
+
+##### <a id="66AR"></a>66AR  Copies of seized things to be given
+
+             (1)  Subject to subsection (2), if a person who enters premises under this Part seizes:
+
+                     (a)  a document, film, computer file or other thing that can readily be copied; or
+
+                     (b)  a storage device the information in which can readily be copied;
+
+the person must, if asked to do so by the occupier of the premises or another person who apparently represents the occupier and is present when the seizure takes place, give a copy of the thing or the information to that person as soon as practicable after the seizure.
+
+             (2)  Subsection (1) does not apply if:
+
+                     (a)  the thing has been seized under paragraph 66AP(2)(b) or taken under paragraph 66AP(2)(c); or
+
+                     (b)  possession by the occupier of the document, film, computer file, thing or information could constitute an offence.
+
+##### <a id="66AS"></a>66AS  Retention of things that are seized
+
+             (1)  Subject to any contrary order of a court, if a person seizes a thing under this Part, the person must return it if:
+
+                     (a)  the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
+
+                     (b)  the period of 60 days after its seizure ends;
+
+whichever first occurs, unless the thing is forfeited or forfeitable to the Commonwealth or is the subject of a dispute as to ownership.
+
+             (2)  At the end of the 60 days specified in paragraph (1)(b), the person must take reasonable steps to return the thing to the person from whom it was seized (or to the owner if that person is not entitled to possess it) unless:
+
+                     (a)  proceedings in which the thing may be used in evidence were begun before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                     (b)  the person may retain the thing because of an order under section 66AT; or
+
+                     (c)  the person is otherwise authorised or required (by a law, or an order of a court, of the Commonwealth, of a State or of a Territory) to retain, destroy or dispose of the thing.
+
+##### <a id="66AT"></a>66AT  Magistrate may permit a thing to be kept
+
+             (1)  If a person seizes a thing under this Part; and:
+
+                     (a)  before the end of 60 days after the seizure; or
+
+                     (b)  before the end of a period previously stated in an order of a magistrate under this section;
+
+proceedings in which the thing may be used in evidence have not been brought, the person may apply to a magistrate for an order that he or she may keep the thing for a further period.
+
+             (2)  If the magistrate is satisfied that it is necessary for the person to continue to keep the thing:
+
+                     (a)  for the purpose of an investigation as to whether an offence has been committed; or
+
+                     (b)  to enable evidence of an offence to be secured for the purposes of a prosecution;
+
+the magistrate may order that the person may keep the thing for a period stated in the order.
+
+             (3)  Before making the application, the person must:
+
+                     (a)  take reasonable steps to discover who has an interest in the retention of the thing; and
+
+                     (b)  if it is practicable to do so, give notice of the proposed application to everyone who the person believes has such an interest.
+
+             (4)  A function of making an order conferred on a magistrate by this section is conferred on the magistrate in a personal capacity and not as a court or a member of a court.
+
+             (5)  Without limiting the generality of subsection (4), an order made by a magistrate under this section has effect only by this Act and is not taken, by implication, to be made by a court.
+
+             (6)  A magistrate performing a function of, or connected with, making an order under this section has the same protection and immunity as if he or she were performing that function as, or as a member of, a court (being the court of which the magistrate is a member).
+
+             (7)  The Governor‑General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for the performance, by all or any of the people who from time to time hold office as magistrates in that State or Territory, of the function of making orders under this section.
+
+             (8)  The Prime Minister may make arrangements with the Chief Minister for the Australian Capital Territory for the performance, by all or any of the people who from time to time hold office as magistrates of that Territory, of the function of making orders under this section.
+
+##### <a id="66AU"></a>66AU  Release of seized goods
+
+                   The Secretary may authorise any evidential material seized under this Part to be released to the owner, or to the person from whose possession it was seized, either unconditionally or on any conditions that the Secretary thinks fit.
+
+##### <a id="66AV"></a>66AV  Quarantine officer must produce identity card
+
+                   A quarantine officer may not exercise any powers under this Part in relation to premises (other than premises entered under a warrant) if:
+
+                     (a)  the occupier of the premises has required the officer to produce his or her identity card for inspection by the occupier; and
+
+                     (b)  the officer fails to comply with the requirement.
+
+##### <a id="66AW"></a>66AW  Giving of consent
+
+             (1)  Before obtaining the consent of a person for the purposes of entering premises under section 66AB or 66AE, a quarantine officer must tell the person that the person may refuse to give consent.
+
+             (2)  An entry by a quarantine officer in consequence of the consent of a person is not lawful unless the person voluntarily consented to the entry.
+
+##### <a id="66AX"></a>66AX  Receipts for things seized or moved
+
+             (1)  If a thing is seized under this Part, or moved under subsection 66AO(2), a quarantine officer must provide a receipt for it.
+
+             (2)  If 2 or more things are seized or moved, they may be covered in the one receipt.
+
+## Part VIB—Commission of inquiry into equine influenza outbreak
+
+##### <a id="66AY"></a>66AY  Appointment of Commissioner
+
+             (1)  The Minister may, in writing, appoint a person to:
+
+                     (a)  conduct a Commission of inquiry into matters specified in the instrument of appointment relating to all or any of the following:
+
+                              (i)  the outbreak of equine influenza in Australia in 2007;
+
+                             (ii)  quarantine requirements and practices relating to the outbreak;
+
+                            (iii)  any matters incidental to the matters referred to in subparagraphs (i) and (ii); and
+
+                     (b)  report to the Minister on the matters (including any recommendations relating to the matters) on or before a day specified in the instrument of appointment.
+
+             (2)  The appointment takes effect on the day of effect specified in the instrument of appointment. The day of effect must not be earlier than the day on which the instrument is made.
+
+             (3)  A copy of the instrument must be published in the _Gazette_.
+
+             (4)  The Commissioner’s report is not a legislative instrument.
+
+##### <a id="66AZ"></a>66AZ  Hearings
+
+             (1)  The Commissioner may hold hearings for the purposes of the Commission of inquiry.
+
+             (2)  The hearings may be held at such places, whether within or outside Australia, as the Commissioner determines.
+
+             (3)  Subject to this Act, the procedure at a hearing is to be such as the Commissioner determines.
+
+##### <a id="66AZA"></a>66AZA  Commissioner not bound by the rules of evidence
+
+                   The Commissioner is not bound by the rules of evidence and may inform himself or herself on any matter in such manner as he or she thinks fit.
+
+##### <a id="66AZB"></a>66AZB  Quarantine officers
+
+             (1)  The Director of Quarantine may enter into an arrangement with the Commissioner to make quarantine officers available, for a period not exceeding the duration of the Commission of inquiry, to assist with the conduct of the Commission of inquiry.
+
+             (2)  In performing functions and exercising powers to the extent reasonably necessary to assist with the conduct of the Commission of inquiry, a quarantine officer made available under such an arrangement:
+
+                     (a)  is subject to the directions of the Commissioner; and
+
+                     (b)  despite subsection 8A(6) or 8B(6), is not subject to the directions of a Chief Quarantine Officer or Director of Quarantine.
+
+##### <a id="66AZC"></a>66AZC  Conferral of quarantine powers
+
+             (1)  The Director of Quarantine may, in writing, determine that a specified person, or a person included in a specified class of persons, who is engaged by the Commonwealth to assist with the conduct of the Commission of inquiry has all the functions and powers of, or specified functions and/or powers of, a quarantine officer under this Act.
+
+             (2)  The person is taken, for the purposes of this Act, to be a quarantine officer in connection with the performance of those functions and the exercise of those powers.
+
+             (3)  In performing those functions and exercising those powers, the person:
+
+                     (a)  is subject to the directions of the Commissioner; and
+
+                     (b)  is not subject to the directions of a Chief Quarantine Officer or Director of Quarantine.
+
+             (4)  A determination made under subsection (1) is not a legislative instrument.
+
+##### <a id="66AZD"></a>66AZD  Disclosure of personal information
+
+                   The disclosure of personal information (within the meaning of the _Privacy Act 1988_) by:
+
+                     (a)  a quarantine officer; or
+
+                     (b)  a person engaged under the _Public Service Act 1999_;
+
+for the purposes of assisting with the conduct of the Commission of inquiry is taken to be authorised by law.
+
+Note:          The effect of this section includes (but is not limited to) an authorisation for the purposes of paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
+
+##### <a id="66AZE"></a>66AZE  Application of the _Royal Commissions Act 1902_
+
+             (1)  Subject to this section, the _Royal Commissions Act 1902_, other than sections 4 and 5, applies in relation to the Commission of inquiry, and to the Commissioner conducting it, as if:
+
+                     (a)  the Commission of inquiry were a Royal Commission; and
+
+                     (b)  the Commissioner were a member of a Royal Commission; and
+
+                     (c)  that Act bound the Crown in each of its capacities.
+
+             (2)  This section does not make the Crown liable to be prosecuted for an offence.
+
+             (3)  The regulations may, for the purposes of the application of section 9 of the _Royal Commissions Act 1902_ in accordance with subsection (1) of this section, provide for or specify matters of the kind referred to in subsection 9(2) of that Act.
+
+             (4)  Section 9 of the _Royal Commissions Act 1902_, in its application in accordance with subsection (1) of this section, has effect as if those regulations were regulations made for the purposes of subsection 9(2) of that Act.
+
+             (5)  Sections 10 and 15 of the _Royal Commissions Act 1902_, in their application in accordance with subsection (1) of this section, have effect as if references in those sections to offences against that Act included references to such offences as apply in accordance with subsection (1) of this section.
+
+##### <a id="66AZF"></a>66AZF  Application of laws relating to disclosure
+
+                   A law of the Commonwealth that relates to the disclosure of information applies in relation to disclosure of information to the Commission of inquiry in the same way that it would apply to disclosure of the information to a Royal Commission.
+
+## Part VII—Miscellaneous
+
+##### <a id="66B"></a>66B  Compliance agreements
+
+             (1)  A Director of Quarantine may, on behalf of the Commonwealth, enter into an agreement (a **_compliance agreement_**) with a person in connection with:
+
+                     (a)  the application of particular procedures in respect of goods; and
+
+                     (b)  the supervision, monitoring and testing of the person’s compliance with those procedures.
+
+             (2)  The terms of a compliance agreement must be in accordance with this section and the regulations.
+
+             (3)  A compliance agreement may provide that, in circumstances stated in the agreement, a Director of Quarantine may, by written notice given to a party to the agreement other than the Commonwealth, cancel or vary the agreement or suspend its operation for a period, or until the happening of an event, stated in the notice.
+
+             (4)  A quarantine officer may notify a party to a compliance agreement other than the Commonwealth in writing of procedures to which the agreement is to extend in addition to those specifically referred to in the agreement and, if such a notification is given, the agreement has effect as if those procedures were referred to in it.
+
+             (5)  The regulations may require a compliance agreement to include provision for the giving of security for the proper observance of the agreement by a party other than the Commonwealth and, if security is so given under such a provision, the security may be enforced or forfeited regardless of any liability or penalty to which a person may be subject under this Act or the regulations.
+
+             (6)  A quarantine officer may release goods to which a compliance agreement applies from quarantine on the basis of a certificate or assurance, given by a person authorised under the agreement to give such a certificate or assurance, that all the procedures to which the agreement refers have been complied with in respect of the goods.
+
+             (7)  A party to a compliance agreement other than the Commonwealth is guilty of an offence if that party fails to ensure that any requirements imposed on that party under the agreement are complied with.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+             (8)  In this section:
+
+                    <a name="good"></a>**_goods_** has the meaning given by subsection 5(1), and includes a vessel.
+
+                    <a name="procur"></a>**_procedures_** includes:
+
+                     (a)  the doing of anything under this Act; and
+
+                     (b)  the doing of anything in connection with activities carried out in the performance of functions related to quarantine.
+
+             (9)  The definition of **_goods_** in subsection (8) does not affect the meaning of **_goods_** in any other provision of this Act.
+
+##### <a id="67"></a>67  Penalties for certain acts done in contravention of Act
+
+Basic illegal importation offence
+
+             (1)  A person is guilty of an offence against this subsection if:
+
+                     (a)  the person imports, introduces, or brings into any port or other place in Australia, the Cocos Islands or Christmas Island any thing; and
+
+                     (b)  the person knows that the thing is:
+
+                              (i)  a disease or pest; or
+
+                             (ii)  a substance or article containing a disease or pest; or
+
+                            (iii)  an animal, plant or other goods; and
+
+                     (c)  the importation, introduction or bringing in of the thing is in contravention of this Act.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+Strict liability applies to paragraph (1)(c)
+
+             (2)  For the purposes of an offence against subsection (1), strict liability applies to paragraph (1)(c).
+
+Aggravated illegal importation offence
+
+             (3)  A person is guilty of aggravated illegal importation if:
+
+                     (a)  the person imports, introduces, or brings into any port or other place in Australia, the Cocos Islands or Christmas Island any thing; and
+
+                     (b)  the person knows that the thing is:
+
+                              (i)  a disease or pest; or
+
+                             (ii)  a substance or article containing a disease or pest; or
+
+                            (iii)  an animal, plant or other goods; and
+
+                     (c)  the importation, introduction or bringing in of the thing is in contravention of this Act; and
+
+                     (d)  the person obtains, or is likely to obtain, a commercial advantage over the person’s competitors or potential competitors.
+
+                    Maximum penalty:
+
+                     (a)  if the offender is an individual—imprisonment for 10 years or a fine of 2,000 penalty units, or both; and
+
+                     (b)  if the offender is a body corporate—a fine of 10,000 penalty units.
+
+Examples of commercial advantage
+
+             (4)  The following are examples of a commercial advantage as referred to in subsection (3):
+
+                     (a)  the avoidance of business costs associated with obtaining an import permit or meeting quarantine requirements; or
+
+                     (b)  the avoidance of delays necessarily involved in compliance with applicable quarantine measures.
+
+Strict liability applies to paragraph (3)(c)
+
+          (4A)  For the purposes of an offence against subsection (3), strict liability applies to paragraph (3)(c).
+
+Illegal removal offence
+
+          (4B)  A person is guilty of an offence against this subsection if:
+
+                     (a)  the person removes any thing:
+
+                              (i)  from a part of Australia to another part of Australia; or
+
+                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+
+                            (iii)  from Australia to the Cocos Islands; or
+
+                            (iv)  from the Cocos Islands to Australia; or
+
+                             (v)  from a part of Christmas Island to another part of Christmas Island; or
+
+                            (vi)  from Australia to Christmas Island; or
+
+                           (vii)  from Christmas Island to Australia; or
+
+                          (viii)  from Christmas Island to the Cocos Islands; and
+
+                     (b)  the person knows that the thing is an animal, plant or other goods; and
+
+                     (c)  the removal of the thing is in contravention of this Act.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+Strict liability applies to paragraph (4B)(c)
+
+          (4C)  For the purposes of an offence against subsection (4B), strict liability applies to paragraph (4B)(c).
+
+Non‑compliance with condition of permit granted under Proclamation
+
+             (5)  A person is guilty of an offence if:
+
+                     (a)  the person fails to comply with a condition or restriction set out in a permit granted under a Proclamation made in accordance with subsection 13(2A); and
+
+                     (b)  the person is reckless as to whether or not the condition or restriction is complied with.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+Hindering compliance with Act
+
+             (6)  A person is guilty of an offence if the person:
+
+                     (a)  does any act that hinders or prevents another person from complying with this Act; and
+
+                     (b)  is reckless as to whether or not the doing of that act hinders or prevents the other person from complying with this Act.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+##### <a id="67A"></a>67A  Liability of master or owner of vessel for importation of prohibited animals
+
+                   The master or owner of a vessel shall not bring, or permit to be brought, in the vessel, any animal into any port or place in Australia, the Cocos Islands or Christmas Island in contravention of this Act, the regulations or any proclamation under this Act.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+##### <a id="68"></a>68  Effect of unlawful importation etc.
+
+Circumstances in which section applies
+
+             (1)  This section applies if:
+
+                     (a)  any animals, plants or other goods are imported or introduced into, or brought into any port or other place in, Australia, the Cocos Islands or Christmas Island; or
+
+                     (b)  any animals, plants or other goods are removed:
+
+                              (i)  from a part of Australia to another part of Australia; or
+
+                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+
+                            (iii)  from Australia to the Cocos Islands; or
+
+                            (iv)  from the Cocos Islands to Australia; or
+
+                             (v)  from a part of Christmas Island to another part of Christmas Island; or
+
+                            (vi)  from Australia to Christmas Island; or
+
+                           (vii)  from Christmas Island to Australia; or
+
+                          (viii)  from Christmas Island to the Cocos Islands; or
+
+                            (ix)  from the Cocos Islands to Christmas Island; or
+
+                     (c)  any animals, plants or other goods are moved, interfered with or dealt with;
+
+in contravention of this Act.
+
+Seizure of goods
+
+             (2)  A quarantine officer may seize the animals, plants or goods and, if they are seized:
+
+                     (a)  they are forfeited to the Commonwealth; and
+
+                     (b)  the quarantine officer must give a notice to a person referred to in subsection (4) stating that they have been seized and forfeited to the Commonwealth and that they will be sold, destroyed, exported from Australia, the Cocos Islands or Christmas Island or otherwise disposed of in any way that a Director of Quarantine thinks appropriate; and
+
+                     (c)  a Director of Quarantine may cause the animals, plants or goods to be sold, destroyed, exported from Australia, the Cocos Islands or Christmas Island or otherwise disposed of.
+
+Notice by Director of Quarantine where goods not seized
+
+             (3)  If the animals, plants or goods have not been seized under subsection (2), a Director of Quarantine may give a notice to a person referred to in subsection (4) stating that they will be seized, sold, destroyed, exported from Australia, the Cocos Islands or Christmas Island or otherwise disposed of in any way that the Director thinks appropriate unless, within a period set out in the notice:
+
+                     (a)  they are destroyed, exported from Australia, the Cocos Islands or Christmas Island, as the case may be, or otherwise dealt with in a way set out in the notice; and
+
+                     (b)  any other requirements set out in the notice relating to the animals, plants or goods are complied with.
+
+Person to whom notice may be given
+
+             (4)  A notice under subsection (2) or (3) may be given:
+
+                     (a)  in respect of animals, plants or other goods imported or introduced into, or brought into any port or other place in, Australia, the Cocos Islands or Christmas Island—to the importer or consignee of the goods; or
+
+                     (b)  otherwise—to the owner, or the person in possession or control, of the animals, plants or goods.
+
+Notice must not require action involving unacceptably high level of risk
+
+             (5)  A Director of Quarantine must not give a notice under subsection (3) if the Director is not satisfied that:
+
+                     (a)  if the animals, plants or goods are dealt with in the way set out in the notice, there will be no unacceptably high level of quarantine risk; or
+
+                     (b)  the person will either comply with the notice or tell the Director within the period set out in the notice that the person does not wish to deal with the goods as required by the notice.
+
+Authorised action will not contravene Act
+
+             (6)  If, the animals, plants or goods have not been released from quarantine, any movement of, interference with, or dealing with, them that is necessary to comply with the notice is not a contravention of this Act.
+
+Liability for things done before notice not affected
+
+             (7)  Any civil or criminal liability of the person to whom a notice is given because of a contravention of this Act that occurred in relation to the animals, plants or goods before the notice is given is not affected by the giving of the notice.
+
+Further notice may be given
+
+             (8)  At any time before the person to whom a notice under subsection (3) is given complies with the notice, a Director of Quarantine may give a further notice to the person amending or revoking the notice. If the notice is amended, this section applies to the notice as amended in the same way as it applied to the original notice.
+
+If notice is not complied with
+
+             (9)  If a notice is given to a person under subsection (3) within the period prescribed by the regulations for the purposes of this subsection, but the person:
+
+                     (a)  does not comply with the notice within the period specified in it; or
+
+                     (b)  tells a Director of Quarantine within that period that the person does not wish to deal with the goods as required by the notice;
+
+the following provisions have effect:
+
+                     (c)  the animals, plants or goods are forfeited to the Commonwealth; and
+
+                     (d)  an officer or an officer of Customs may seize them; and
+
+                     (e)  a Director of Quarantine may cause them to be sold, destroyed, exported from Australia, the Cocos Islands or Christmas Island or otherwise disposed of.
+
+##### <a id="68A"></a>68A  Destruction of certain animals
+
+                   If:
+
+                     (a)  an animal has been brought into a port or other place in Australia, the Cocos Islands or Christmas Island but the animal was not intended, or is not permitted, to be imported into Australia, the Cocos Islands or Christmas Island, as the case may be; and
+
+                     (b)  the master of a vessel or installation fails to comply with:
+
+                              (i)  a direction given by a Director of Quarantine with respect to the animal; or
+
+                             (ii)  any of the prescribed conditions relating to the giving of reports about the animal, or relating to the control or confinement of, or the giving of access to, the animal;
+
+a quarantine officer may destroy the animal.
+
+##### <a id="69"></a>69  Seizure of animals, plants or other goods
+
+             (1)  If any animals, plants or other goods that are subject to quarantine are found at a place other than a quarantine station:
+
+                     (a)  any officer or police officer may seize them; and
+
+                     (b)  if an officer or police officer does so—he or she must take them to a quarantine station or to such other place as a Director of Quarantine directs.
+
+             (2)  If an animal that is required to be kept under quarantine surveillance at a particular place (the **_place of surveillance_**) is found at another place:
+
+                     (a)  any officer or police officer may seize it; and
+
+                     (b)  if an officer or police officer does so—he or she must take it back to the place of surveillance or to such other place as a Director of Quarantine directs.
+
+             (3)  In this section:
+
+                    <a name="quarantin-station"></a>**_quarantine station_**, in relation to an animal, plant or other goods, includes:
+
+                     (a)  a place approved under section 46A in relation to a class of animals, plants or other goods in which the animal, plant or other goods are included; and
+
+                     (b)  any other place where the animal, plant or other goods may be detained under this Act.
+
+##### <a id="69A"></a>69A  Compensation for destroyed goods
+
+             (1)  Subject to this section, where any goods (including any animal or plant) or any premises comprising buildings or other structures are destroyed under or in accordance with this Act, the Minister may, if he or she considers it appropriate to do so, approve the payment of compensation under this section in respect of those goods or premises.
+
+             (2)  The Minister shall not approve the payment of compensation under this section in respect of:
+
+                     (a)  goods unlawfully imported into Australia, the Cocos Islands or Christmas Island; or
+
+                     (b)  goods lawfully imported into Australia, the Cocos Islands or Christmas Island that were in quarantine at all times between their importation and destruction, other than a prescribed animal destroyed at a quarantine station.
+
+             (3)  The Minister shall not approve the payment of compensation under this section in respect of goods or premises where the Minister is satisfied, on reasonable grounds, that:
+
+                     (a)  the goods or premises were destroyed by reason of an act or omission in contravention of a law of the Commonwealth, a law of a State or a law of a Territory; and
+
+                     (b)  a person who had, or was a member of a partnership that had, an interest in the goods or premises at the time of their destruction:
+
+                              (i)  was a party to, or was in any way directly or indirectly concerned in, the act or omission;
+
+                             (ii)  had an interest in the goods or premises at the time when the act or omission occurred and, at an earlier time, knew, ought to have known, or had reasonable grounds for suspecting, that the act or omission would occur; or
+
+                            (iii)  acquired an interest in the goods or premises after the act or omission occurred and, at the time when he or she acquired that interest, knew, ought to have known, or had reasonable grounds for suspecting, that the act or omission had occurred.
+
+             (4)  Where an animal destroyed at a quarantine station had been lawfully imported into Australia, the Cocos Islands or Christmas Island and had been in quarantine at all times between its importation and destruction, the Minister shall not approve the payment of compensation under this section in respect of the animal if he or she is satisfied, on reasonable grounds, that, before the animal left its place of origin for exportation to Australia, the Cocos Islands or Christmas Island, the animal was infected, or was likely to be infected, with a disease or pest for reasons relating to which the animal was destroyed.
+
+             (5)  Subject to this section, compensation approved under this section in respect of goods or premises shall:
+
+                     (a)  where there is only one owner of the goods or premises—be paid to the owner; or
+
+                     (b)  where there are 2 or more owners of the goods or premises—be divided among those owners in accordance with their interests in the goods or premises at the time of their destruction.
+
+             (6)  If a quarantine officer or other person who causes goods or premises to be destroyed under this Act knows, at the time of the destruction of the goods or premises, the name and address of the owner or any of the owners of the goods or premises, the quarantine officer or other person must give written notice of the destruction of the goods or other premises to that owner or each of those owners, either personally or by post.
+
+             (7)  An owner is not entitled to compensation under this section in respect of goods or premises unless a claim for compensation in respect of the goods or premises is made by or on behalf of the owner within 12 months after:
+
+                     (a)  if under subsection (6) notice of the destruction of the goods or premises is required to be given to him or her—that notice is given; or
+
+                     (b)  in any other case—the goods or premises are destroyed.
+
+             (8)  A claim for compensation under subsection (7) shall be in a form approved by the Minister and shall be accompanied by such documents as are required by that form to accompany the claim.
+
+             (9)  The compensation payable under this section in respect of goods or premises is an amount equal to:
+
+                     (a)  except where paragraph (b) or (c) applies—the market value of the goods or premises immediately before their destruction;
+
+                     (b)  in the case of an animal (other than an animal to which paragraph (c) applies) destroyed by reason of the animal being infected, or suspected of being infected, with a disease or pest—the market value that the animal would have had at the time of its destruction if it had not been infected or suspected of being infected; or
+
+                     (c)  in the case of an animal imported into Australia, the Cocos Islands or Christmas Island that was in quarantine at all times between its importation and destruction—the sum of the market value of the animal in the country of export at the time of export and the charges for freight, maintenance or similar expenses in respect of the animal incurred after the animal left its place of origin for exportation to Australia, the Cocos Islands or Christmas Island and before its destruction.
+
+           (10)  If the Minister and the owner or the owners entitled to compensation under this section in respect of goods or premises do not agree as to the market value or sum that, in accordance with subsection (9), is to be the amount of that compensation, that market value or sum shall be determined by a person agreed upon by the Minister and by the owner or owners entitled to that compensation.
+
+           (11)  Where the Minister approves the payment of compensation under this section in respect of goods or premises and:
+
+                     (a)  the Minister and the owner or owners entitled to be paid that compensation agree on the market value or sum that, in accordance with subsection (9), is to be the amount of that compensation; or
+
+                     (b)  that market value or sum is determined in accordance with subsection (10);
+
+that amount of compensation is payable to the owner or owners so entitled and the amount so payable to the owner or an owner may be recovered by him or her by action against the Commonwealth in a court of competent jurisdiction.
+
+           (12)  A person is guilty of an offence if:
+
+                     (a)  the person makes a statement that is false or misleading in a material particular; and
+
+                     (b)  the statement is made with the intention of obtaining pecuniary benefit for the person or for another person under this section; and
+
+                     (c)  the person knows the statement to be false or misleading in that particular.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+        (12A)  A person is guilty of an offence if:
+
+                     (a)  the person makes a statement that is false or misleading in a material particular; and
+
+                     (b)  the statement is made with the intention of obtaining pecuniary benefit for the person or for another person under this section; and
+
+                     (c)  the person is reckless as to whether or not the statement is false or misleading in that particular.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+        (12B)  A person is guilty of an offence if:
+
+                     (a)  the person does a fraudulent act; and
+
+                     (b)  the act is done with the intention of obtaining pecuniary benefit for the person or for another person under this section.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+           (13)  For the purposes of this section:
+
+                     (a)  goods subject to quarantine or ordered into quarantine shall be taken to be in quarantine;
+
+                     (b)  where goods imported into Australia, the Cocos Islands or Christmas Island on a vessel are ordered into quarantine on, or soon after, the granting of pratique in relation to that vessel, the goods shall be deemed to have continued to be subject to quarantine during the period commencing when pratique was granted in relation to the vessel and ending when the goods were ordered into quarantine; and
+
+                     (c)  where goods subject to quarantine or ordered into quarantine are released from quarantine for the purpose of exportation, the goods shall be deemed to continue to be in quarantine.
+
+           (14)  In this section, **_owner_**, in relation to goods or premises that have been destroyed, means a person who, or a partnership which, had an interest in the goods or premises at the time of their destruction, but does not include a person who had such an interest by reason only that he or she was entitled to the benefit of a mortgage or other charge, or a lien, in respect of the goods or premises unless he or she was in possession of the goods or occupying, or otherwise in control of, the premises, at that time.
+
+           (15)  In this section, **_prescribed animal_** means an animal other than any of the following, that is to say:
+
+                     (a)  a horse, an ass, a mule or a pig;
+
+                     (b)  a ruminant;
+
+                     (c)  an animal imported for the purposes of a zoo or circus; or
+
+                     (d)  an animal imported by an organization engaged in scientific research for the purposes of that research.
+
+##### <a id="70"></a>70  Power to board vessels and examine things found on them
+
+             (1)  A quarantine officer may board any vessel that:
+
+                     (a)  is in a port or place in Australia, the Cocos Islands or Christmas Island; or
+
+                     (b)  is:
+
+                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor‑General, by proclamation, declares, of those outer limits; and
+
+                             (ii)  bound for a port or place in Australia, the Cocos Islands or Christmas Island;
+
+and may, after boarding the vessel:
+
+                     (c)  enter and examine any part of the vessel;
+
+                     (d)  examine any animals, plants or other goods on board the vessel; and
+
+                     (e)  examine the passenger list, log, manifest, journal and any other papers relating to the vessel or to any persons, animals, plants or other goods on board the vessel.
+
+             (2)  The master of a vessel is guilty of an offence if:
+
+                     (a)  he or she is required by a quarantine officer to produce to him or her for examination the papers referred to in paragraph (1)(e); and
+
+                     (b)  he or she fails to comply with the requirement.
+
+                    Maximum penalty: 60 penalty units.
+
+Note:          Subsection (2) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+
+          (2A)  An offence against subsection (2) is an offence of strict liability.
+
+             (3)  A person authorized in writing by a Director of Quarantine to act under this subsection may board any vessel that:
+
+                     (a)  is in a port or place in Australia, the Cocos Islands or Christmas Island; or
+
+                     (b)  is:
+
+                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor‑General, by proclamation, declares, of those outer limits; and
+
+                             (ii)  bound for a port or place in Australia, the Cocos Islands or Christmas Island;
+
+and may, after boarding the vessel, enter and examine any part of the vessel and all animals, plants or other goods on board the vessel.
+
+##### <a id="70AA"></a>70AA  Power to board installations and examine things found on them
+
+             (1)  This section applies in relation to:
+
+                     (a)  any Australian installation or any overseas installation; and
+
+                     (b)  any installation (other than an Australian installation or an overseas installation) on which a quarantine officer has reasonable grounds to believe there are any persons who are, or any animals, plants or other goods that are, subject to quarantine.
+
+             (2)  A quarantine officer may board an installation to which this section applies and:
+
+                     (a)  enter and examine any part of the installation;
+
+                     (b)  examine any animals, plants or other goods on board the installation; and
+
+                     (c)  examine any log, manifest, journal and any other papers related to the installation or to any persons, animals, plants or other goods on board the installation.
+
+             (3)  The master of an installation to which this section applies is guilty of an offence if:
+
+                     (a)  he or she is required by a quarantine officer to produce to him or her for examination the papers referred to in paragraph (2)(c); and
+
+                     (b)  he or she fails to comply with the requirement.
+
+                    Maximum penalty: 60 penalty units.
+
+Note:          Subsection (3) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+
+          (3A)  An offence against subsection (3) is an offence of strict liability.
+
+             (4)  A person authorized in writing by a Director of Quarantine to act under this subsection may board an installation to which this section applies and may enter and examine any part of the installation and any animals, plants or other goods on board the installation.
+
+##### <a id="70A"></a>70A  Power to search goods
+
+             (1)  A quarantine officer may search and examine any goods which, or which a quarantine officer believes on reasonable grounds:
+
+                     (a)  are about to be placed on, are on, or have been taken off or out of, an overseas vessel; or
+
+                     (b)  are on, or are about to be placed on, a vessel or installation in the Protected Zone or a Special Quarantine Zone that is about to travel to a place in Australia; or
+
+                     (c)  are on, or have been taken off or out of, a vessel or installation that has travelled to a place in Australia from or through a place in the Protected Zone or a Special Quarantine Zone.
+
+             (2)  A quarantine officer may ask a person who owns, is carrying or is otherwise associated with, or appears to the quarantine officer to be associated with, goods that the quarantine officer is searching or examining or entitled to search or examine under subsection (1) any question in respect of the goods relating to matters within the functions, duties or powers of the quarantine officer.
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  the person is asked a question under subsection (2); and
+
+                     (b)  the person fails to answer the question.
+
+                    Maximum penalty: 60 penalty units.
+
+             (4)  A person is guilty of an offence if:
+
+                     (a)  the person answers a question asked under subsection (2); and
+
+                     (b)  the answer contains a statement that the person knows to be false or misleading in a material particular.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+             (5)  An offence against subsection (3) is an offence of strict liability.
+
+Note:          This section is subject to the privilege against self incrimination (see subsection 79A(3)).
+
+##### <a id="70B"></a>70B  Powers of officers in relation to goods
+
+             (1)  In this section, **_prescribed goods_** means goods that:
+
+                     (a)  are, or have been, subject to quarantine; or
+
+                     (b)  a quarantine officer believes, on reasonable grounds, are, or have been, subject to quarantine.
+
+             (2)  A quarantine officer may ask a person who the officer believes on reasonable grounds has information in respect of prescribed goods any question in respect of the goods relating to matters within the functions, duties or powers of the officer.
+
+Note 1:       It is an offence to fail to answer a question asked under this subsection (see section 74C).
+
+Note 2:       It is an offence to give false or misleading information in answer to a question asked under this subsection (see section 137.1 of the _Criminal Code_).
+
+             (3)  A quarantine officer may require a person who the officer believes on reasonable grounds has the custody or control of documents in respect of prescribed goods relating to matters within the functions, duties or powers of the officer to produce to the officer such of those documents as are specified by the officer.
+
+Note 1:       It is an offence to fail to produce a document (see section 74C).
+
+Note 2:       It is an offence to produce a document knowing that the document is false or misleading unless the document is accompanied by a written statement acknowledging that the document is false or misleading (see section 137.2 of the _Criminal Code_).
+
+             (4)  A quarantine officer may require a person who the officer believes on reasonable grounds is the owner, or the agent of the owner, of prescribed goods or of goods that have been, or that the quarantine officer suspects, or believes on reasonable grounds, have been, exposed to prescribed goods, to deliver to the officer samples of such of those goods owned by him or her or by his or her principal as are specified by the officer.
+
+Note:          It is an offence to fail to deliver a sample required to be delivered under this subsection (see section 74C).
+
+             (5)  A quarantine officer may make copies of, or take extracts from, any documents produced under subsection (3) and, for the purpose of making a copy of, or taking an extract from, a document, may remove the document from the place at which it was produced.
+
+             (6)  A quarantine officer may carry out tests on any samples delivered under subsection (4).
+
+##### <a id="70BA"></a>70BA  Carrying out tests on samples
+
+                   If a quarantine officer has power under this Act to carry out tests on any samples, the officer has power to carry out tests that result in the destruction, or reduce the value, of the samples or of a package or goods associated with the samples.
+
+##### <a id="70BB"></a>70BB  Officers may be assisted by animals
+
+             (1)  A quarantine officer is entitled to be accompanied by, and make use of, an animal to help the officer in:
+
+                     (a)  exercising the power to enter and search a quarantine station, a quarantine area, a place approved under section 46A or another place at which animals, plants or other goods may be detained under this Act; or
+
+                     (b)  examining or inspecting any vessel, installation, premises, vehicle, animals, plants or other goods.
+
+             (2)  Subsection (1) does not apply unless:
+
+                     (a)  the quarantine officer is authorised by a Director of Quarantine to handle animals in the performance of his or her functions or duties; and
+
+                     (b)  the animal is under the effective control of the quarantine officer.
+
+             (3)  If the quarantine officer is exercising a power under a warrant, subsection (1) does not apply unless the use of the animal is authorised by the warrant.
+
+##### <a id="70C"></a>70C  Offences in relation to goods or vessel
+
+False or misleading statement
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person makes a statement to a quarantine officer in respect of goods; and
+
+                     (b)  the person knows that the statement is false or misleading in a material particular.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+Concealment of condition of vessel or nature of goods
+
+             (2)  A person is guilty of an offence if the person conceals from a quarantine officer the condition of a vessel or the nature of any goods, or any fact or matter relating to the condition of a vessel or the nature of any goods.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+Possession or conveyance of illegally imported goods
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  the person has in his or her possession, or conveys, any goods; and
+
+                     (b)  the goods have been imported, introduced or otherwise brought into Australia, the Cocos Islands or Christmas Island in contravention of this Act.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="70CA"></a>70CA  False or misleading statements about approvals, permits, compliance agreements etc.
+
+Making of statements known to be false or misleading
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person makes an oral or written statement:
+
+                              (i)  that an instrument under this Act has been given to, or on the application of, the person; or
+
+                             (ii)  that an instrument under this Act given to, or on the application of, the person is in force; or
+
+                            (iii)  as to the terms of an instrument under this Act given to, or on the application of, the person; or
+
+                            (iv)  as to any conditions to which an instrument mentioned in subparagraph (iii) is subject; or
+
+                             (v)  that the person is a party to a compliance agreement; or
+
+                            (vi)  as to the terms of a compliance agreement to which the person is a party; or
+
+                           (vii)  as to any conditions to which a compliance agreement mentioned in subparagraph (vi) is subject; and
+
+                     (b)  the statement is false or misleading in a material particular; and
+
+                     (c)  the person knows that the statement is false or misleading in that particular.
+
+                    Maximum penalty: Imprisonment for one year.
+
+Negligently making false or misleading statements
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person makes an oral or written statement:
+
+                              (i)  that an instrument under this Act has been given to, or on the application of, the person; or
+
+                             (ii)  that an instrument under this Act given to, or on the application of, the person is in force; or
+
+                            (iii)  as to the terms of an instrument under this Act given to, or on the application of, the person; or
+
+                            (iv)  as to any conditions to which an instrument mentioned in subparagraph (iii) is subject; or
+
+                             (v)  that the person is a party to a compliance agreement; or
+
+                            (vi)  as to the terms of a compliance agreement to which the person is a party; or
+
+                           (vii)  as to any conditions to which a compliance agreement mentioned in subparagraph (vi) is subject; and
+
+                     (b)  the statement is false or misleading in a material particular; and
+
+                     (c)  the person is negligent as to whether or not the statement is false or misleading in that particular.
+
+                    Maximum penalty: Imprisonment for 6 months.
+
+Definition
+
+             (3)  In this section:
+
+                    <a name="instrum-act"></a>**_instrument under this Act_** means an approval, authorisation, permission or permit under this Act.
+
+##### <a id="70D"></a>70D  Directions relating to the movement of persons and goods subject to quarantine
+
+             (1)  A quarantine officer may give to a person who is subject to quarantine:
+
+                     (a)  a direction to remain at a particular place;
+
+                     (b)  a direction to go to a place specified by the quarantine officer; or
+
+                     (c)  any other directions relating to the movement of the person from a place to another place.
+
+             (2)  A quarantine officer may give to a person who is in control of goods that are subject to quarantine:
+
+                     (a)  a direction to leave the goods at a particular place;
+
+                     (b)  a direction to move the goods to a place specified by the quarantine officer; or
+
+                     (c)  any other directions relating to the movement of the goods.
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under subsection (1) or (2); and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="70E"></a>70E  Directions to people in a quarantine station
+
+             (1)  For the purpose of achieving the object referred to in section 4, a quarantine officer who is in charge of a quarantine station may give directions to a person in the quarantine station.
+
+             (2)  For the purpose of achieving the object referred to in section 4, a quarantine officer may give directions to a person who is in a place approved under section 46A.
+
+             (3)  Without limiting subsections (1) and (2), the directions that may be given under either of those subsections to a person in a quarantine station or a place approved under section 46A may include either or both of the following:
+
+                     (a)  a direction to leave the quarantine station or place;
+
+                     (b)  a direction to subject himself or herself to such treatment as is required by the direction.
+
+             (4)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under this section; and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="71"></a>71  Boarding vessel or installation
+
+             (1)  A quarantine officer who boards a vessel:
+
+                     (a)  may remain on it for such period as the officer thinks necessary or desirable for the purpose of performing his or her duties; and
+
+                     (b)  may direct the master to provide suitable and sufficient food and sleeping accommodation for the officer.
+
+          (1A)  The master of a vessel is guilty of an offence if:
+
+                     (a)  a direction is given to the master under paragraph (1)(b); and
+
+                     (b)  the master fails to comply with the direction.
+
+                    Maximum penalty: 10 penalty units.
+
+          (1B)  An offence against subsection (1A) is an offence of strict liability.
+
+             (2)  If the vessel is a passenger vessel, the quarantine officer shall be entitled to all the privileges and accommodation extended to a first‑class passenger.
+
+             (3)  A reference in this section to a vessel shall be read as including a reference to an installation to which section 70AA applies.
+
+##### <a id="72"></a>72  Medical inspections and examinations
+
+             (1)  A quarantine officer may require the master of a vessel to cause all or any of the persons on the vessel to be informed that, for the purposes of quarantine inspection, a muster of those persons will be held at a time, and at a place on or in the vicinity of the vessel, specified by the quarantine officer.
+
+             (2)  The master of a vessel shall comply with a requirement made by a quarantine officer under subsection (1) and, whether or not such a requirement is made, shall, by all reasonable means, facilitate the inspection by a quarantine officer of persons on the vessel.
+
+                    Maximum penalty: 50 penalty units.
+
+             (3)  A person on a vessel must attend a muster of which he or she is informed in pursuance of a requirement made under subsection (1).
+
+                    Maximum penalty: 20 penalty units.
+
+             (4)  If so required by a quarantine officer, a person on a vessel must attend, for the purpose of quarantine inspection, at a time, and at a place on or in the vicinity of the vessel, specified by the quarantine officer.
+
+                    Maximum penalty: 20 penalty units.
+
+          (4A)  Subsections (3) and (4) do not apply if the person is prevented from attending by illness or some other cause.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4A) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (5)  A person on a vessel, or a person who attends at a place in the vicinity of a vessel in pursuance of subsection (3) or (4), shall answer truly to the best of his or her knowledge all questions asked him or her by a quarantine officer concerning his or her personal health and the likelihood of his or her having been exposed to infection.
+
+                    Maximum penalty: 50 penalty units.
+
+Note:          This subsection is subject to the privilege against self incrimination (see subsection 79A(3)).
+
+             (6)  A person on a vessel, or a person who attends at a place in the vicinity of a vessel in pursuance of subsection (3) or (4), shall, if required by a quarantine officer, submit to a medical examination.
+
+                    Maximum penalty: 50 penalty units.
+
+          (6A)  An offence against subsection (2), (3), (4) or (6) is an offence of strict liability.
+
+             (7)  A reference in this section to a vessel shall be read as including a reference to an installation to which section 70AA applies.
+
+##### <a id="73"></a>73  Quarantine officer may make inquiries at any time
+
+             (1)  A quarantine officer may ask the master or medical officer of any vessel any questions he or she thinks fit to ask concerning any sickness on board the vessel or the sanitary condition of the vessel, and the master or medical officer shall, to the best of his or her knowledge, information, and belief, truly answer the questions asked him or her by the quarantine officer.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+             (2)  A quarantine officer may ask any person subject to quarantine any questions concerning his or her personal health or liability to infection, and the person shall, to the best of his or her knowledge, information, and belief, truly answer the questions asked him or her by the quarantine officer.
+
+                    Maximum penalty: Imprisonment for one year.
+
+             (3)  A quarantine officer may, if he or she thinks fit, require a person, who has been asked questions in pursuance of this section, to verify, by statutory declaration, the answers given to the questions.
+
+          (3A)  A person is guilty of an offence if:
+
+                     (a)  a requirement is made of the person under subsection (3); and
+
+                     (b)  the person fails to comply with the requirement.
+
+                    Maximum penalty: 50 penalty units.
+
+          (3B)  An offence against subsection (3A) is an offence of strict liability.
+
+Note:          This section is subject to the privilege against self incrimination (see subsection 79A(3)).
+
+             (4)  A reference in this section to a vessel shall be read as including a reference to an installation to which section 70AA applies.
+
+##### <a id="74"></a>74  Power to affix notices
+
+             (1)  A quarantine officer may affix any notices relating to quarantine that have been approved by a Director of Quarantine:
+
+                     (a)  on any part of a vessel subject to quarantine; and
+
+                     (b)  on any goods subject to quarantine; and
+
+                     (c)  at or near any quarantine station or any place approved under section 46A; and
+
+                     (d)  in any quarantine area; and
+
+                     (e)  in any other place approved for the purposes of this Act or a provision of this Act.
+
+             (2)  An unauthorised person must not engage in conduct that results in the interference with, removal or defacement of, any notice affixed under this section.
+
+                    Maximum penalty: 50 penalty units.
+
+          (2A)  An offence against subsection (2) is an offence of strict liability.
+
+             (3)  A reference in this section to a vessel shall be read as including a reference to an installation to which section 70AA applies.
+
+##### <a id="74AA"></a>74AA  Quarantine information to be given to travellers to Australia
+
+             (1)  Where a vessel leaves a place outside Australia to travel to a port in Australia or to an Australian installation without stopping at any other place outside Australia, the master of the vessel shall give notice, or cause notice to be given, to all persons travelling on the vessel (including members of the crew) of the quarantine measures required under the laws of the Commonwealth, being notice the content and form of which have been approved by the Director of Human Quarantine and the Director of Animal and Plant Quarantine.
+
+                    Maximum penalty: 50 penalty units.
+
+             (2)  An offence against subsection (1) is an offence of strict liability.
+
+##### <a id="74BB"></a>74BB  Identity cards
+
+             (1)  A Director of Quarantine may cause an identity card to be issued to an officer.
+
+             (2)  An identity card:
+
+                     (a)  is to incorporate a recent photograph of the officer to whom it is issued; and
+
+                     (b)  is to contain:
+
+                              (i)  the officer’s signature; or
+
+                             (ii)  a unique number assigned to the officer by the Director who issued the identity card; and
+
+                     (c)  is to state that the officer is an officer appointed under this Act.
+
+             (3)  A person who ceases to be a quarantine officer must, as soon as practicable after so ceasing, return his or her identity card to a Director of Quarantine.
+
+             (4)  A person is guilty of an offence if:
+
+                     (a)  an identity card was issued to the person; and
+
+                     (b)  the person has ceased to be a quarantine officer; and
+
+                     (c)  the person fails to return the identity card as required by subsection (3).
+
+                    Maximum penalty: One penalty unit.
+
+##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
+
+             (1)  Subject to subsection (2), a quarantine officer who has entered premises under subparagraph 66AB(1)(a)(iv) or paragraph 66AE(2)(b) or under a warrant under section 66AC, 66AF or 66AH may, to the extent that it is reasonably necessary for the purpose of deciding whether to exercise any power under this Act or finding out whether this Act has been complied with:
+
+                     (a)  require a person to answer questions relating to the movement of people, vehicles or goods to or from the premises or otherwise relating to the prevention or control of the introduction, establishment or spread of a disease or pest; or
+
+                     (b)  require a person to produce any documents relating to the movement of people, vehicles or goods to or from the premises or otherwise relating to the prevention or control of the introduction, establishment or spread of a disease or pest, and inspect any documents so produced.
+
+             (2)  A quarantine officer is not entitled to make a requirement of a person under subsection (1) unless the officer produces his or her identity card for inspection by the person.
+
+Note:          This section is subject to the privilege against self incrimination (see subsection 79A(3)).
+
+##### <a id="74C"></a>74C  Non‑compliance with requirements
+
+Failure to answer question or produce document
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person is asked a question or required to produce a document under subsection 70B(2) or (3) or 74BC(1); and
+
+                     (b)  the person fails to answer the question or produce the document.
+
+                    Maximum penalty: Imprisonment for one year.
+
+Failure to deliver sample
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person is required under subsection 70B(4) to deliver a sample; and
+
+                     (b)  the person fails to deliver the sample.
+
+                    Maximum penalty: Imprisonment for one year.
+
+Note:          Subsections (1) and (2) are subject to the privilege against self incrimination (see subsection 79A(3)).
+
+##### <a id="74D"></a>74D  Powers relating to vessels and vehicles
+
+             (1)  If a quarantine officer believes on reasonable grounds that a vessel or vehicle is carrying, or will carry, infected goods or goods subject to quarantine in a manner that could result in the introduction, establishment or spread of a disease or pest, the officer may give the master of the vessel or the person in control of the vehicle directions to take measures in respect of the vessel or vehicle, or the goods, that the officer thinks necessary to prevent the introduction, establishment or spread of the disease or pest.
+
+             (2)  The directions that may be given under subsection (1) include, without limiting the generality of that subsection, any of the following:
+
+                     (a)  directions relating to the movement of the vessel or vehicle (including a direction to cause the vessel or vehicle to stop);
+
+                     (b)  directions for the performance of work on the vessel or vehicle;
+
+                     (c)  directions for the treatment of the vessel, vehicle or goods.
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under subsection (1); and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+             (4)  In this section:
+
+                    <a name="infected-good"></a>**_infected goods_** has the same meaning as in section 66AA.
+
+##### <a id="74DA"></a>74DA  Master or owner of vessel or installation ordered into quarantine may be directed to help officers
+
+             (1)  A quarantine officer may direct the master or owner of a vessel or installation:
+
+                     (a)  that is subject to quarantine; or
+
+                     (b)  on which a person is performing quarantine;
+
+to provide such help as is reasonable, and is stated in the direction, to any officer performing functions or duties or exercising powers under this Act in relation to the vessel or installation or in relation to any person who, or thing that, is on the vessel or installation.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under this section; and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 6 months.
+
+##### <a id="74E"></a>74E  Persons to assist officers
+
+             (1)  A person in control of imported goods shall, if requested by a quarantine officer to do so, provide reasonable assistance to the officer in the performance of the functions, the carrying out of the duties, or the exercise of the powers, of the officer under this Act in relation to those goods.
+
+                    Maximum penalty: Imprisonment for 6 months.
+
+             (2)  A reference in subsection (1) to a person in control of imported goods shall be read as including a reference to:
+
+                     (a)  the owner of the goods;
+
+                     (b)  the person who imported the goods; and
+
+                     (c)  an agent of a person referred to in paragraph (a) or (b).
+
+##### <a id="75"></a>75  Persons may be vaccinated etc.
+
+Quarantine officers may require vaccinations etc.
+
+             (1)  Subject to subsection (2), a quarantine officer may require a person who is subject to quarantine or performing quarantine to submit himself or herself to:
+
+                     (a)  vaccination with any prophylactic or curative vaccine; or
+
+                     (b)  any other prophylaxis.
+
+Offence
+
+          (1A)  A person is guilty of an offence if:
+
+                     (a)  a requirement is made of the person under subsection (1); and
+
+                     (b)  the person fails to comply with the requirement.
+
+                    Maximum penalty: 20 penalty units.
+
+          (1B)  An offence against subsection (1A) is an offence of strict liability.
+
+Circumstances in which vaccinations etc. may be required
+
+             (2)  A quarantine officer may require a person to submit himself or herself to a vaccination or other prophylaxis under subsection (1) only if:
+
+                     (a)  either:
+
+                              (i)  in the quarantine officer’s opinion, the vaccination or other prophylaxis is necessary for the prevention of the spread of a quarantinable disease; or
+
+                             (ii)  the vaccine or other prophylaxis is specified in Annex 7 to the International Health Regulations or recommended under those Regulations; and
+
+                     (b)  the International Health Regulations do not preclude the requirement.
+
+          (2A)  A vaccine or other prophylaxis administered under subsection (1), as provided for in the International Health Regulations (including recommendations, within the meaning of those Regulations, and related certificates), must conform to Annex 6 and, if applicable, Annex 7 to those Regulations.
+
+Minister may ensure manufacture or importation of vaccines etc.
+
+             (3)  The Minister may take such action as he or she thinks fit to ensure the manufacture or importation of any prophylactic vaccine or other product required for the prevention or treatment of disease.
+
+##### <a id="75A"></a>75A  Vessels involved in certain offences
+
+             (1)  In this section, unless the contrary intention appears:
+
+                    <a name="approved-person"></a>**_approved person_** means:
+
+                     (a)  a quarantine officer; or
+
+                     (b)  an officer of Customs; or
+
+                     (c)  a police officer; or
+
+                     (e)  a person (who may be a member of the Defence Force) authorized in writing by the Minister administering the Department that deals with human quarantine or the Minister administering the Department that deals with animal and plant quarantine or a quarantine officer to be an approved person for the purposes of this section.
+
+                    <a name="prescrib-vessel"></a>**_prescribed vessel_** means:
+
+                     (a)  a vessel used in navigation by sea the maximum overall length of the hull proper of which is 45 metres or less; or
+
+                     (b)  an aircraft.
+
+             (2)  This section applies to:
+
+                     (a)  a prescribed vessel in relation to which its master has committed an offence against section 20; and
+
+                     (b)  a prescribed vessel, being an aircraft, in relation to which its master has committed an offence against section 20A; and
+
+                     (c)  a prescribed vessel in relation to which its master has committed an offence against section 29, other than at the first port of entry, the first Cocos Islands port of entry or the first Christmas Island port of entry, of the vessel; and
+
+                     (d)  a prescribed vessel in relation to which its master has committed an offence against section 30, other than at the first port of entry, the first Cocos Islands port of entry or the first Christmas Island port of entry, of the vessel; and
+
+                     (e)  a prescribed vessel from which a person has landed animals or plants in contravention of section 20D, other than at the first port of entry, the first Cocos Islands port of entry or the first Christmas Island port of entry, of the vessel; and
+
+                      (f)  a prescribed vessel in relation to which a person has committed an offence against section 67, other than at the first port of entry, the first Cocos Islands port of entry or the first Christmas Island port of entry of the vessel; and
+
+                     (g)  a prescribed vessel in relation to which its master or owner has committed an offence against section 67A, other than at the first port of entry, the first Cocos Islands port of entry or the first Christmas Island port of entry, of the vessel.
+
+             (3)  Where an approved person has reasonable grounds to believe that this section applies to a vessel, that person may board the vessel.
+
+             (4)  Where an approved person has reasonable grounds to believe that this section applies to a vessel, that person may:
+
+                     (a)  detain the vessel, or cause the vessel to be detained, at the place where a vessel is found; or
+
+                     (b)  bring the vessel, or cause the vessel to be brought, to such other place or such other places as:
+
+                              (i)  where the approved person is a quarantine officer—the approved person; or
+
+                             (ii)  in any other case—a quarantine officer;
+
+                            from time to time deems appropriate and detain the vessel or cause the vessel to be detained at that place or at those places.
+
+             (5)  For the purposes of the detention and other lawful dealings with a vessel, a person authorized under this section to detain the vessel is entitled to take with him or her, and to have the assistance of, any members of the Defence Force or other persons that he or she may think necessary.
+
+             (6)  A person (other than an approved person or a person assisting an approved person under subsection (5)) who moves a vessel from the place at which it is detained under subsection (4) is guilty of an offence.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+          (6A)  Subsection (6) does not apply if the person moves the vessel with the written permission of an approved person.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (6A) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (7)  Where an approved person detains a vessel under subsection (4), that person shall, as soon as practicable, give the Minister particulars of the detention.
+
+             (8)  Where a vessel has been detained under subsection (4), the Minister shall, as soon as practicable after being given particulars of the detention, direct the person detaining the vessel:
+
+                     (a)  if the Minister is not satisfied that this section applies to the vessel—to deliver the vessel to the master or owner of the vessel;
+
+                     (b)  if the Minister is satisfied that this section applies to the vessel but, after considering the offence or offences by reason of the commission of which the section would so apply and any other relevant matters, is satisfied that it would be inappropriate for the vessel to be forfeited under this section—to deliver the vessel to the master or owner of the vessel as soon as all things required to be done in relation to the vessel for the purposes of this Act have been done; or
+
+                     (c)  in any other case—to continue to detain the vessel and to serve on the master or owner of the vessel, either personally or by post, a notice in writing:
+
+                              (i)  stating that the vessel has been detained under this section;
+
+                             (ii)  giving particulars of the offence by reason of which the vessel is alleged to be a vessel to which this section applies; and
+
+                            (iii)  setting out the terms of the provisions of subsections (9) and (10);
+
+and, subject to the _Customs Act 1901_, the person detaining the vessel shall comply with that direction.
+
+             (9)  Where a notice under paragraph (c) of subsection (8) is served in respect of a vessel, the owner of the vessel may, within one month after the service of the notice, bring an action in a court of competent jurisdiction for the delivery of the vessel to him or her on the ground that the vessel is not a vessel to which this section applies, and:
+
+                     (a)  where the owner of the vessel brings such an action within that period:
+
+                              (i)  if the court finds that this section applies to the vessel—the court shall order the vessel to be forfeited to the Crown; or
+
+                             (ii)  if the action is discontinued—the vessel is forfeited to the Crown; or
+
+                     (b)  where the owner of the vessel does not bring such an action within that period—the vessel is forfeited to the Crown.
+
+           (10)  In any action in a court brought under subsection (9) for the delivery of a vessel, the court may find that a person committed an offence if, and only if:
+
+                     (a)  in the case of a person who has been tried for the offence—the person has been convicted of the offence; or
+
+                     (b)  in any other case—the court is satisfied beyond reasonable doubt that the person committed the offence.
+
+           (11)  A vessel ordered to be forfeited to the Crown under subparagraph (9)(a)(i) or forfeited to the Crown under subparagraph (9)(a)(ii) or under paragraph (9)(b) becomes the property of the Commonwealth and shall be dealt with and disposed of in accordance with the directions of the Minister.
+
+           (12)  For the purposes of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post on the master or owner of a vessel of a notice referred to in paragraph (8)(c), such a notice posted as a letter addressed to him or her at:
+
+                     (a)  where he or she has given the person detaining the vessel an address in Australia, the Cocos Islands or Christmas Island for the purposes of this subsection—that address; or
+
+                     (b)  in any other case—his or her last address in Australia, the Cocos Islands or Christmas Island known to the person detaining the vessel;
+
+shall be deemed to be properly addressed.
+
+           (13)  For the purposes of this section, goods on, and the fittings and equipment of, a vessel detained under this section shall be deemed to be part of the vessel.
+
+           (14)  An approved person may destroy:
+
+                     (a)  any animals or plants; or
+
+                     (b)  any goods (other than animals or plants) that he or she considers could be a source of infection;
+
+that are on board, or that he or she believes on reasonable grounds have been on board, a vessel detained in Australia, the Cocos Islands or Christmas Island under this section.
+
+           (15)  An approved person shall be taken to be an authorized person for the purpose of the application of section 31 in relation to a prescribed vessel.
+
+##### <a id="75B"></a>75B  Animals on boats
+
+             (1)  An approved person may destroy any animal on board a prescribed overseas vessel in Australia, the Cocos Islands or Christmas Island, being an animal that he or she believes on reasonable grounds has travelled on that vessel, unless, in his or her opinion, arrangements exist or are to be made to ensure that while the vessel is in Australia, the Cocos Islands or Christmas Island, as the case may be, the animal will not leave the vessel except, in the case of an animal to be lawfully imported, when being landed for the purpose of importation.
+
+             (2)  In this section:
+
+                    <a name="approved-person"></a>**_approved person_** has the same meaning as in section 75A.
+
+                    <a name="prescrib-oversea-vessel"></a>**_prescribed overseas vessel_** means an overseas vessel (other than a vessel detained under section 75A or an overseas aircraft) the maximum overall length of the hull proper of which is 45 metres or less.
+
+##### <a id="76"></a>76  Unauthorised entry on quarantine station etc.
+
+Definition
+
+             (1)  In this section:
+
+                    <a name="relev-act"></a>**_relevant act_** means any of the following:
+
+                     (a)  entering or trespassing on, or leaving, a quarantine station or quarantine area;
+
+                     (b)  taking any animal, plant or other goods into or out of a quarantine station or quarantine area;
+
+                     (c)  interfering with any animals, plants or other goods that are subject to quarantine.
+
+Offence to act without permission
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person does a relevant act; and
+
+                     (b)  the person does not have the written permission of a quarantine officer to do the act.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+Offence to contravene condition of permission
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  the person does a relevant act; and
+
+                     (b)  the person has the written permission of a quarantine officer to do the act; and
+
+                     (c)  the permission is subject to a condition; and
+
+                     (d)  the condition is contravened; and
+
+                     (e)  the person is reckless as to whether or not the condition is contravened.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+Power to give permissions
+
+             (4)  A quarantine officer has power to give to a specified person, or to persons included in a specified class of persons, written permission to do one or more relevant acts or to do one or more relevant acts during a specified period.
+
+Power to detain unauthorised persons
+
+             (5)  If an unauthorised person:
+
+                     (a)  enters a quarantine station while anyone is performing quarantine at the station; or
+
+                     (b)  enters a quarantine area;
+
+a quarantine officer may:
+
+                     (c)  detain the person at the quarantine station for the performance of quarantine, or detain the person in the quarantine area, as the case may be, and use any means reasonably necessary to detain the person; and
+
+                     (d)  give such directions to the person as are necessary to prevent or control the introduction, establishment or spread of a disease or pest.
+
+             (6)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under subsection (5); and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="77"></a>77  Pilot wrongly conducting vessel subject to quarantine
+
+                   A pilot who conducts a vessel that is subject to quarantine into a place that is not the proper place for a vessel subject to quarantine is guilty of an offence.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+Note:          The pilot will not be guilty of an offence if the conducting of the vessel to the place was due to sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
+
+##### <a id="78"></a>78  Master not to allow vessel to enter port other than first port of entry if quarantinable disease or pest on board
+
+                   The master of a vessel is guilty of an offence if:
+
+                     (a)  the master knows that a quarantinable disease or quarantinable pest exists on the vessel; and
+
+                     (b)  the master causes or permits the vessel to enter a port other than a port declared to be a first port of entry.
+
+                    Maximum penalty: Imprisonment for 10 years.
+
+Note:          The master will not be guilty of an offence if the entry of the vessel to the port was due to circumstances of sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
+
+##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
+
+             (1)  In this section:
+
+                    <a name="instal"></a>**_installation_** means:
+
+                     (a)  an Australian installation; or
+
+                     (b)  a resources installation which is in Australian waters for the purpose of becoming attached to the Australian seabed; or
+
+                     (c)  a sea installation which is in Australian waters for the purpose of becoming installed in an adjacent area or in a coastal area.
+
+                    <a name="intern-water"></a>**_internal waters_**, in relation to a State or an internal Territory, means the area comprising the waters of the sea within the limits of the State or the internal Territory and includes the space above or below that area.
+
+                    <a name="vessel"></a>**_vessel_** means:
+
+                     (a)  an Australian vessel; or
+
+                     (b)  a Cocos Islands vessel; or
+
+                   (ba)  a Christmas Island vessel; or
+
+                     (c)  an overseas vessel that is:
+
+                              (i)  in the coastal area or the internal waters of a State or an internal Territory; and
+
+                             (ii)  is travelling to a port or a place in the Commonwealth; or
+
+                     (d)  a vessel in any port or other place in the Commonwealth.
+
+             (2)  If a quarantine officer believes, on reasonable grounds, that a vessel or installation is in an insanitary condition, or is likely to be carrying diseases or pests, the quarantine officer may give a direction to the owner or master of the vessel or installation requiring a specified process to be carried out in respect of the vessel or installation in the manner specified in the direction.
+
+             (3)  Without limiting subsection (2):
+
+                     (a)  the process that may be specified in a direction given under that subsection includes:
+
+                              (i)  subjecting the vessel or installation to specified treatment; and
+
+                             (ii)  storing, discharging, removing, treating or disposing of refuse, organic waste, dunnage, sweepings from the hold or ballast water; and
+
+                            (iii)  keeping food in a hygienic condition; and
+
+                            (iv)  treating any thing on the vessel or installation; and
+
+                             (v)  moving any people on the vessel or installation to a different part of the vessel or installation or causing them to disembark; and
+
+                            (vi)  embarking people on to the vessel or installation; and
+
+                           (vii)  moving or securing any goods on the vessel or installation or causing them to be unloaded; and
+
+                          (viii)  loading goods on to the vessel or installation; and
+
+                            (ix)  producing samples of, or exchanging or treating, ballast water in the vessel; and
+
+                     (b)  the direction may specify where the specified process is to be carried out.
+
+             (4)  A person is guilty of an offence if:
+
+                     (a)  the person is given a direction under subsection (2); and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="78AA"></a>78AA  Treatment of vessel or installation subject to quarantine
+
+             (1)  If:
+
+                     (a)  a vessel or installation is subject to quarantine; or
+
+                     (b)  a person who is subject to quarantine is on board a vessel or installation;
+
+a quarantine officer may give to the master of the vessel or installation a direction requiring a specified process to be carried out in respect of the vessel or installation in the manner specified in the direction.
+
+             (2)  Without limiting subsection (1):
+
+                     (a)  the process that may be specified in a direction under that subsection includes:
+
+                              (i)  subjecting the vessel or installation to specified treatment; and
+
+                             (ii)  storing, discharging, removing, treating or disposing of refuse, organic waste, dunnage, sweepings from the hold or ballast water; and
+
+                            (iii)  keeping food in a hygienic condition; and
+
+                            (iv)  treating any thing on the vessel or installation; and
+
+                             (v)  moving any people on the vessel or installation to a different part of the vessel or installation or causing them to disembark; and
+
+                            (vi)  embarking people on to the vessel or installation; and
+
+                           (vii)  moving or securing any goods on the vessel or installation or causing them to be unloaded; and
+
+                          (viii)  loading goods on to the vessel or installation; and
+
+                            (ix)  producing samples of, or exchanging or treating, ballast water in the vessel; and
+
+                     (b)  the direction may specify where the specified process is to be carried out.
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  a direction is given to the person under subsection (1); and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+##### <a id="78B"></a>78B  Mooring of insanitary vessels
+
+             (1)  If, in the opinion of a quarantine officer, a vessel in a port is in an insanitary condition favourable to the spread of communicable disease, the officer may, instead of exercising his or her powers under subsection 78A(2) or 78AA(1), direct the master of the vessel to moor the vessel at a place in the port specified by the officer.
+
+             (2)  If a direction is given under subsection (1), the master of the vessel:
+
+                     (a)  must cause the vessel to be taken to, and moored at, the place in the port specified by the officer; and
+
+                     (b)  if the vessel is moored in compliance with paragraph (a), must not move the vessel, or allow the vessel to be moved, from that place.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+             (3)  Paragraph (2)(a) does not apply if the vessel immediately leaves the port.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (4)  Paragraph (2)(b) does not apply if the master moves the vessel:
+
+                     (a)  with the intention of taking the vessel out of the port; or
+
+                     (b)  by reason of stress of weather or for other reasonable cause; or
+
+                     (c)  with the permission of a quarantine officer.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+##### <a id="78C"></a>78C  Moving an insanitary vessel
+
+             (1)  If a quarantine officer believes, on reasonable grounds, that:
+
+                     (a)  a vessel that is in a port or other place is in an insanitary condition or is carrying diseases or pests; and
+
+                     (b)  if quarantine measures are not taken there will be an unacceptably high level of quarantine risk;
+
+the officer may do either or both of the following:
+
+                     (c)  cause the vessel to be moved to another place; 
+
+                     (d)  cause cargo or other goods or any other thing on the vessel to be removed from the vessel to another place.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  either of the following happens:
+
+                              (i)  a vessel is moved to a place under paragraph (1)(c);
+
+                             (ii)  cargo or other goods or any other thing on a vessel is removed from the vessel to a place under paragraph (1)(d); and
+
+                     (b)  the person causes the vessel to be moved from the place mentioned in subparagraph (a)(i) or causes the cargo or other goods or other thing on the vessel to be removed from the place mentioned in subparagraph (a)(ii), as the case may be.
+
+                    Maximum penalty: Imprisonment for 2 years.
+
+          (2A)  Subsection (2) does not apply if the person does the things mentioned in paragraph (2)(b) with the permission of a quarantine officer.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the _Criminal Code_).
+
+##### <a id="79A"></a>79A  Exclusion of privilege against self incrimination in certain circumstances
+
+Person not entitled to refuse to give information or documents under certain provisions of the Act
+
+             (1)  A person is not entitled to refuse to answer a question, give information or produce a document that he or she is required to answer, give or produce by or under section 27A, 27B or 28 or subsection 70(2) or 70AA(3) on the ground that the answer, the information or the production of the document, as the case may be, might tend to incriminate him or her.
+
+Use derivative‑use indemnity applies to information or documents
+
+             (2)  However, any answer or information so given or the production of such a document, and any information or thing (including any document) obtained as a direct or indirect result of the giving of the answer or information or the production of the document, is not admissible in evidence against the person in:
+
+                     (a)  any criminal proceedings other than a proceeding for:
+
+                              (i)  an offence against subsection 27A(6) or (7), 27B(5) or (6), 28(8) or (9); or
+
+                             (ii)  an offence against section 137.2 of the _Criminal Code_ that relates to this Act; or
+
+                     (b)  any civil proceedings.
+
+Privilege not otherwise affected
+
+             (3)  Except as provided by subsection (1), nothing in this Act affects the right of a person to refuse to answer a question, give information, or produce a document or thing, on the ground that the answer to the question, the information, or the production of the document or thing, might tend to incriminate him or her or make him or her liable to a penalty.
+
+##### <a id="80"></a>80  Penalty for desertion
+
+                   Any officer who:
+
+                     (a)  deserts from his or her duty; or
+
+                     (b)  unlawfully permits any person, vessel, animal, plant, or goods to depart from or be conveyed out of any quarantine station where they are detained;
+
+shall be guilty of an offence against this Act punishable upon conviction by imprisonment for a period not exceeding 5 years.
+
+##### <a id="82"></a>82  Protection from civil proceedings
+
+             (1)  The Minister, a Director of Quarantine, an officer, an analyst, an authorised person or an approved person referred to in section 75A or 75B is not liable to any action, suit or other civil proceeding for or in relation to anything done or omitted to be done in good faith (whether negligently or not) by the Minister, Director, officer, authorised person or approved person in the performance or purported performance of any function or duty, or the exercise or purported exercise of any power, conferred on the Minister, Director, officer, authorised person or approved person under this Act.
+
+          (1A)  A person authorised under subsection 3(1) or (2) to give such directions, and to take such action, as the person considers necessary to control and eradicate an epidemic or to remove the danger of an epidemic, is not liable to any action, suit or other civil proceedings for or in relation to anything done or omitted to be done in good faith (whether negligently or not) by the person:
+
+                     (a)  in the performance or purported performance of any function or duty; or
+
+                     (b)  in the exercise or purported exercise of any power;
+
+conferred on the person under that authorisation.
+
+             (2)  A quarantine officer is not liable to any action, suit or other civil proceeding in relation to:
+
+                     (a)  anything done by an animal used by the officer; or
+
+                     (b)  anything done or omitted to be done (whether negligently or not) by a person providing or purporting to provide help as a result of a request made by the officer;
+
+in the performance or purported performance of any function or duty, or the exercise or purported exercise of any power, conferred on the officer under this Act.
+
+             (3)  A person who is requested or directed by a quarantine officer to provide help to the officer:
+
+                     (a)  in the performance or purported performance of any function or duty; or
+
+                     (b)  in the exercise or purported exercise of any power;
+
+conferred on the officer under this Act is not liable to any action, suit or other civil proceeding for or in relation to anything done or omitted to be done in good faith (whether negligently or not) by the person in the provision or purported provision of the help.
+
+##### <a id="83"></a>83  Master, medical officer or agent misleading quarantine officer
+
+                   The master, a medical officer or an agent of:
+
+                     (a)  a vessel; or
+
+                     (b)  an Australian installation; or
+
+                     (c)  a resources installation that is in Australian waters for the purpose of becoming attached to the Australian seabed; or
+
+                     (d)  a sea installation that is in Australian waters for the purpose of becoming installed in an adjacent area or in a coastal sea;
+
+is guilty of an offence if the master, medical officer or agent, as the case may be:
+
+                     (e)  makes, in an answer to a question asked of him or her by a quarantine officer under this Act, a statement that he or she knows to be false or misleading in a material particular; or
+
+                      (f)  misleads a quarantine officer who is performing duty as such an officer.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+##### <a id="84"></a>84  Maliciously ordering vessel etc. into quarantine
+
+                   A quarantine officer who maliciously orders any vessel, installation or person, or any animal, plant or other goods, into quarantine is guilty of an offence.
+
+                    Maximum penalty: Imprisonment for 5 years.
+
+##### <a id="86A"></a>86A  Venue in summary prosecution
+
+                   Proceedings in a court of summary jurisdiction may be instituted either in the State or part of the Commonwealth where the offence was committed, or in the State or part of the Commonwealth in which the defendant is found.
+
+##### <a id="86B"></a>86B  Jurisdiction of courts
+
+             (1)  A provision of the _Judiciary Act 1903_ by which a court of a State is invested with federal jurisdiction has effect, in relation to matters arising under this Act, as if that jurisdiction were so invested without limitation as to locality other than the limitation imposed by section 80 of the Constitution.
+
+             (2)  Subject to the Constitution, jurisdiction is conferred on the several courts of the Territories within the limits of their several jurisdictions, other than limits as to locality, with respect to matters arising under this Act.
+
+##### <a id="86C"></a>86C  Power to administer oaths or take declarations
+
+                   All quarantine officers who are authorized in that behalf by the regulations or by the Minister are hereby authorized to administer oaths or affirmations and to take declarations in all cases in which any answers to questions asked in pursuance of this Act are by this Act or the regulations required to be verified by oath, affirmation, or declaration.
+
+##### <a id="86DA"></a>86DA  Evidence of analyst
+
+Appointment of analyst
+
+             (1)  The Secretary may appoint a person to be an analyst for the purposes of this Act.
+
+Analyst’s certificate to be evidence
+
+             (2)  Subject to subsection (4), in any proceedings for an offence against this Act, a certificate of an analyst in a form approved by a Director of Quarantine stating, in respect of any substance or thing in relation to which the offence is alleged to have been committed, all or any of the following matters:
+
+                     (a)  that the analyst signing the certificate is appointed under subsection (1);
+
+                     (b)  when and from whom the substance or thing was received;
+
+                     (c)  what, if any, labels or other means of identifying the substance or thing accompanied it when it was received;
+
+                     (d)  what container or containers the substance or thing was contained in when it was received;
+
+                     (e)  a description, and the weight, of the substance or thing received;
+
+                      (f)  when the substance or thing, or a portion of it, was analysed;
+
+                     (g)  a description of the method of analysis;
+
+                     (h)  the results of the analysis;
+
+                      (i)  how the substance or thing was dealt with after handling by the analyst, including details of:
+
+                              (i)  the quantity retained; and
+
+                             (ii)  the name of the person, if any, to whom any retained quantity was given; and
+
+                            (iii)  measures taken to secure any retained quantity;
+
+is admissible as prima facie evidence of the matters in the certificate and of the correctness of the result of the analysis.
+
+Proof of certificate
+
+             (3)  For the purposes of this section, a document purporting to be a certificate referred to in subsection (2) is, unless the contrary is established, to be taken to be such a certificate and to have been duly given.
+
+Copy of certificate to be given to defendant or defendant’s solicitor
+
+             (4)  A certificate must not be admitted in evidence under subsection (2) in proceedings for an offence unless the person charged with the offence or a solicitor who has appeared for the person in those proceedings has, at least 14 days before the certificate is sought to be so admitted, been given a copy of the certificate together with reasonable notice of the intention to produce the certificate as evidence in the proceedings.
+
+Analyst may be required to attend for cross‑examination
+
+             (5)  Subject to subsection (6), if, under subsection (2), a certificate of an analyst is admitted in evidence in proceedings for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+
+Notice to be given to prosecutor
+
+             (6)  Subsection (5) does not entitle a person to require an analyst to be called as a witness for the prosecution unless:
+
+                     (a)  the prosecutor has been given at least 4 days notice of the person’s intention to require the analyst to be so called; or
+
+                     (b)  the Court, by order, allows the person to require the analyst to be so called.
+
+##### <a id="86E"></a>86E  Fees and deposits
+
+Definitions
+
+          (1A)  In this section:
+
+                    <a name="basic-fee"></a>**_basic fee_** has the meaning given by subsection (2B).
+
+                    <a name="late-payment-fee"></a>**_late payment fee_** has the meaning given by subsection (2B).
+
+                    <a name="payment-dai"></a>**_payment day_**, in relation to a basic fee or a deposit in respect of a quarantine service, means the last day of the period within which the fee or deposit is required to be paid.
+
+                    <a name="quarantin-servic"></a>**_quarantine service_** means anything referred to in paragraph (1)(a), (b), (c) or (d).
+
+Determination of basic fees
+
+          (1B)  The Minister may, by legislative instrument, make determinations for the purposes of this section.
+
+             (1)  Subject to subsection (1AA), a determination may require fees of amounts set out in the determination to be paid for or in relation to the doing of anything in connection with:
+
+                     (a)  specified examinations, services or other quarantine measures carried out or provided under this Act; and
+
+                     (b)  the issue by quarantine officers of specified certificates under this Act; and
+
+                     (c)  the management and maintenance of animals at a quarantine station in Australia, in the Cocos Islands or in Christmas Island or at a place approved under section 46A; and
+
+                     (d)  the giving of approvals by a Director of Quarantine under subsection 44A(5) or 46A(1); and
+
+                     (e)  the giving of permissions and permits under this Act; and
+
+                      (f)  the entering into compliance agreements.
+
+       (1AA)  The Minister’s power to make a determination that relates to the provision of a prescribed health measure in relation to a traveller is subject to Division 3 of Part VI.
+
+             (2)  Subject to Part VI, a determination may specify the persons by whom fees are payable.
+
+          (2A)  A determination may:
+
+                     (a)  except to the extent that the determination relates to a quarantine service to which paragraph (b) applies—state the period within which fees are to be paid; and
+
+                     (b)  to the extent that the determination relates to a quarantine service for which the fees can be worked out before the provision of the service:
+
+                              (i)  make provision for an intended recipient of the service and if there is a person who is known to the agent of the intended recipient, that agent, to be informed of the fees before the service is provided; and
+
+                             (ii)  permit a quarantine officer to withhold the provision of the service until the payment of the fees.
+
+Late payment fees
+
+          (2B)  If a determination states a period within which a fee (the **_basic fee_**) is to be paid, a determination may also require an additional fee (a **_late payment fee_**) to be paid if the basic fee is not paid on or before the payment day.
+
+          (2C)  A late payment fee may be either or both of the following:
+
+                     (a)  a fee of a stated amount;
+
+                     (b)  a fee of a stated amount in respect of each day after the payment day and before the day on which the basic fee is paid.
+
+       (2CA)  Without limiting the generality of paragraph (2C)(b), the reference to a fee as set out in that paragraph includes a reference to a fee that is a percentage per annum of the basic fee, worked out on a daily basis, for each day after the payment day on which the basic fee remains unpaid.
+
+        (2CB)  Subsections (2B), (2C) and (2CA) do not apply in relation to a fee payable for the provision of a prescribed health measure in relation to a traveller.
+
+Booking fees and deposits
+
+          (2E)  A determination may, in respect of the reservation of space at a quarantine station or at a place approved under section 46A for an animal in respect of a period, require the payment of either or both of the following:
+
+                     (a)  a booking fee;
+
+                     (b)  a deposit on account of the basic fee that will be payable for the management and maintenance of the animal at the station or place.
+
+           (2F)  A determination may make provision for or in relation to:
+
+                     (a)  the forfeiture, in circumstances referred to in the determination, of the whole or a part of a deposit paid under a requirement mentioned in subsection (2E); and
+
+                     (b)  the return or other application, in circumstances referred to in the determination, of such a deposit less any costs worked out in accordance with the determination that are associated with the return or other application of the deposit.
+
+Unpaid fees and deposits
+
+          (2G)  If:
+
+                     (a)  the basic fee payable for a quarantine service, or a deposit payable on account of the basic fee for a quarantine service referred to in paragraph (1)(c), is not paid on or before the payment day; or
+
+                     (b)  a late payment fee that is payable in respect of a quarantine service is not paid;
+
+a Director of Quarantine may direct that no quarantine service is to be provided, or a particular quarantine service or kind of quarantine service is not to be provided, for the person who failed to make the payment until the basic fee, the deposit or the late payment fee, as the case may be, is paid.
+
+Minister may remit and refund fees
+
+          (2H)  The Minister may remit or refund the whole or a part of a fee specified in a determination and payable or paid to the Commonwealth if he or she is satisfied that there are exceptional circumstances that justify doing so.
+
+##### <a id="86EA"></a>86EA  Commonwealth etc. not liable to pay fees
+
+             (1)  The Commonwealth is not liable to pay quarantine fees that are payable under this Act. However, it is the Parliament’s intention that the Commonwealth should be notionally liable to pay quarantine fees.
+
+             (2)  The Finance Minister may give such written directions as are necessary or convenient for carrying out or giving effect to subsection (1) and, in particular, may give directions in relation to the transfer of money within an account, or between accounts, operated by the Commonwealth.
+
+             (3)  Directions under subsection (2) have effect, and must be complied with, despite any other Commonwealth law.
+
+             (4)  Directions under subsection (2) are not legislative instruments.
+
+             (5)  In this section:
+
+                    <a name="commonwealth"></a>**_Commonwealth_** includes:
+
+                     (a)  an Agency (within the meaning of the _Financial Management and Accountability Act 1997_); and
+
+                     (b)  a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_);
+
+that cannot be made liable to taxation by a Commonwealth law.
+
+                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+                    <a name="quarantin-fee"></a>**_quarantine fees_** means the fees specified in determinations made under subsection 86E(1B).
+
+##### <a id="86F"></a>86F  Compensation for acquisition of property
+
+             (1)  If:
+
+                     (a)  the operation of this Act results in the acquisition of property from a person; and
+
+                     (b)  the Commonwealth and the person agree on an amount of compensation for the acquisition;
+
+the Commonwealth must pay the person the agreed amount of compensation.
+
+             (2)  If:
+
+                     (a)  the operation of this Act results in the acquisition of property from a person; and
+
+                     (b)  the Commonwealth and the person do not agree on an amount of compensation for the acquisition;
+
+the Commonwealth must pay the person the amount of compensation (if any) that is determined by a court of competent jurisdiction.
+
+             (3)  This section does not affect the operation of section 69A.
+
+             (4)  In this section:
+
+                    <a name="acquisit-properti"></a>**_acquisition of property_** means an acquisition of property within the meaning of paragraph 51(xxxi) of the Constitution.
+
+##### <a id="86G"></a>86G  Application of the _Criminal Code_
+
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+
+##### <a id="87"></a>87  Regulations
+
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, without limiting the generality of the foregoing, may make regulations concerning the following matters:
+
+                     (a)  for regulating the performance of quarantine;
+
+                     (b)  for regulating and protecting quarantine stations, quarantine areas and places approved under section 46A and for prescribing measures of quarantine within any such stations, areas and places;
+
+                     (c)  for regulating or preventing the entry of persons into, or the exit of persons from, quarantine stations, quarantine areas and places approved under section 46A;
+
+                     (d)  for regulating or preventing the taking of animals, plants, goods or things into, or out of, quarantine stations, quarantine areas and places approved under section 46A;
+
+                     (e)  for requiring notification to a quarantine officer of each case of a quarantinable disease which arises, or of a quarantinable pest which occurs, in Australia, the Cocos Islands or Christmas Island or within any specified part of Australia, the Cocos Islands or Christmas Island or within any quarantine area;
+
+                      (f)  for prescribing the precautions to be taken to prevent the ingress to or egress from a vessel of rats, mice, mosquitoes or other vermin or species or kinds of animals or insects liable to convey disease or pests;
+
+                     (g)  for prescribing the measures to be taken by the masters or owners of vessels to destroy rats, mice, mosquitoes or other vermin or species or kinds of animals or insects liable to convey disease or pests, which may exist on the vessels;
+
+                     (h)  for prescribing and for establishing and maintaining on vessels or within any quarantine area of conditions unfavourable to, and to the migration of, rats, mice, mosquitoes or other vermin or species or kinds of animals or insects liable to convey disease or pests, for fixing the time limit for the completion of any work necessary for the purpose of establishing such conditions, and for empowering the Minister, in case of default by the owner or master, to carry out any such work at the expense of the owner or master;
+
+                      (j)  for prescribing the precautions to be taken by masters of vessels in respect of their vessels and the crews, passengers and cargoes of their vessels:
+
+                              (i)  at declared places; and
+
+                             (ii)  on voyages from declared places; and
+
+                            (iii)  on voyages between Australian ports; and
+
+                            (iv)  on voyages between ports in the Cocos Islands; and
+
+                          (iva)  on voyages between ports in Christmas Island; and
+
+                             (v)  on voyages between Australian ports and Australian installations;
+
+                            to prevent the introduction into   Australia, the Cocos Islands or Christmas Island, or the establishment or spread, of quarantinable diseases or quarantinable pests;
+
+                     (k)  for regulating the discharge or removal from a vessel of any thing, for example, ballast water, refuse, and equipment or things used for purposes associated with the transportation of animals, plants or other goods;
+
+                      (l)  for regulating and controlling the sanitary conditions of:
+
+                              (i)  vessels in, or on, ports or landing places;
+
+                             (ii)  wharf areas and landing places which are, or are situated in, places which are declared places by virtue of section 12 (including buildings and stores on any such wharf areas and landing places) and refuse dumps on or adjacent to any such wharf areas and landing places; and
+
+                            (iii)  Australian installations;
+
+                    (la)  for prescribing measures to be taken (including measures relating to the examination of animals, plants, goods or things, or of any equipment or thing used for purposes associated with the transportation of animals, plants, goods or any other thing and to the sampling of ballast water) for the diagnosis and prevention of disease or pests for purposes of, or incidental to, quarantine;
+
+                    (lb)  for requiring, or requiring arrangements to be made for, the treatment of, or the taking of other measures of quarantine in relation to, aircraft before or after they land in Australia, the Cocos Islands or Christmas Island;
+
+                    (m)  for providing for the examination by quarantine officers of animals or plants for export from Australia, from the Cocos Islands or from Christmas Island;
+
+                     (n)  for providing for the granting of certificates by quarantine officers in relation to any vessels, animals, plants, or goods examined or treated by them or under their supervision;
+
+                     (p)  for prescribing the movements of any person subject to quarantine;
+
+                     (q)  for prescribing measures of disinfection, fumigation, and other measures of quarantine which persons or goods subject to quarantine shall carry out or be subjected to;
+
+                   (qa)  for prescribing methods of controlling the storage, use, movement and disposal in Australia, the Cocos Islands or Christmas Island of goods that:
+
+                              (i)  have been imported into Australia, the Cocos Islands or Christmas Island, being goods the importation of which without the approval of the Minister or a Director of Quarantine is prohibited by a proclamation under section 13 or the importation of which without a permit granted pursuant to a proclamation made in accordance with subsection 13(2A) is prohibited; or
+
+                             (ii)  are disease agents or pests produced in Australia from goods of the kind referred to in subparagraph (i);
+
+                      (r)  for prescribing the conditions under which any prophylactic or curative vaccine or serum may be prepared and offered for sale;
+
+                    (ra)  for prescribing matters relating to:
+
+                              (i)  the making of an application for any of the following (however described), a permission, permit, authorisation or approval under this Act, the regulations, a Proclamation under this Act or a compliance agreement; and
+
+                             (ii)  the procedures for consideration of such an application and the grant or refusal of the application; and
+
+                            (iii)  the making of an order, determination or declaration under this Act, the regulations, a Proclamation under this Act or a compliance agreement; and
+
+                            (iv)  the giving of a notice or direction, or the making of any other requirement, under this Act, the regulations, a Proclamation under this Act or a compliance agreement;
+
+                    (rb)  for prescribing the manner in which any permission, permit, authorisation, approval, notice, direction, requirement or other instrument granted or given, or any order, determination, declaration or other instrument made, under this Act, the regulations, a Proclamation under this Act or a compliance agreement may be produced to a person or body;
+
+                      (s)  for prescribing penalties not exceeding 50 penalty units for breaches of the regulations;
+
+                    (sa)  enabling a person who is alleged to have contravened a provision of this Act or of the regulations to pay to the Commonwealth, as an alternative to prosecution, a penalty of not more than 10 penalty units;
+
+                      (t)  for regulating for the purposes of this Act and the Regulations, navigation by air;
+
+                     (u)  for prescribing the circumstances in which reports are to be made in relation to vessels, the matters to be covered in those reports, and the persons by whom, and the manner in which, those reports are to be made;
+
+                     (v)  for regulating inter‑state traffic and prescribing measures of quarantine in relation to inter‑state traffic for the prevention of the occurrence or spread of diseases or pests.
+
+          (1A)  Regulations made under subsection (1) may:
+
+                     (a)  apply in, or relate to, Australia, the Cocos Islands and Christmas Island; or
+
+                     (b)  apply in, or relate to, Australia only; or
+
+                     (c)  apply in, or relate to, the Cocos Islands only; or
+
+                     (d)  apply in, or relate to, Christmas Island only.
+
+          (1B)  Without limiting the generality of subsection (1), regulations may be made under that subsection for the purpose of preventing the spread of diseases or pests to, or from, quarantine stations in the Cocos Islands or for the purpose of preventing, eradicating or controlling diseases or pests in the Cocos Islands, including regulations:
+
+                     (a)  conferring functions and powers, and imposing duties, upon quarantine officers, including:
+
+                              (i)  powers to enter, search and examine premises;
+
+                             (ii)  powers to question persons; and
+
+                            (iii)  powers to examine animals and plants;
+
+                     (b)  prohibiting the entry of animals into areas adjoining quarantine stations in the Cocos Islands;
+
+                     (c)  requiring the registration of live‑stock and other domestic animals in the Cocos Islands;
+
+                     (d)  prohibiting the abandonment of animals in the Cocos Islands;
+
+                     (e)  requiring the notification of diseases or pests in animals and plants in the Cocos Islands;
+
+                      (f)  regulating the disposal of dead animals in the Cocos Islands;
+
+                     (g)  providing for the eradication of vermin in the Cocos Islands;
+
+                     (h)  prohibiting the growing of particular plants in the Cocos Islands or in parts of the Cocos Islands;
+
+                      (j)  providing for the destruction of animals or plants in the Cocos Islands; or
+
+                     (k)  providing for the payment of compensation to the owners of any animals or plants destroyed in pursuance of the regulations.
+
+       (1BA)  Without limiting the generality of subsection (1), regulations may be made under that subsection for the purpose of preventing the spread of disease or pests to, or from, quarantine stations in Christmas Island or for the purpose of preventing, eradicating or controlling diseases or pests in Christmas Island, including regulations:
+
+                     (a)  conferring functions and powers, and imposing duties, on quarantine officers, including:
+
+                              (i)  powers to enter, search and examine premises; and
+
+                             (ii)  powers to question persons; and
+
+                            (iii)  powers to examine animals and plants; and
+
+                     (b)  prohibiting the entry of animals into areas adjoining quarantine stations in Christmas Island; and
+
+                     (c)  requiring the registration of live‑stock and other domestic animals in Christmas Island; and
+
+                     (d)  prohibiting the abandonment of animals in Christmas Island; and
+
+                     (e)  requiring the notification of diseases or pests in animals and plants in Christmas Island; and
+
+                      (f)  regulating the disposal of dead animals in Christmas Island; and
+
+                     (g)  providing for the eradication of vermin in Christmas Island; and
+
+                     (h)  prohibiting the growing of particular plants in Christmas Island or in parts of Christmas Island; and
+
+                      (i)  providing for the destruction of animals or plants in Christmas Island; and
+
+                      (j)  providing for the payment of compensation to the owners of any animals or plants destroyed in pursuance of the regulations.
+
+          (1C)  Notwithstanding the generality of section 12 of the _Cocos (Keeling) Islands Act 1955_, an Ordinance of the Cocos Islands has effect to the extent only that it is capable of operating concurrently with this Act and the regulations.
+
+          (1D)  Despite the generality of section 8 of the _Christmas Island Act 1958_, an ordinance of Christmas Island has effect to the extent only that it is capable of operating concurrently with this Act and the regulations.
+
+             (2)  Regulations made under paragraph (1)(v):
+
+                     (a)  shall be published in the _Gazette_;
+
+                     (b)  shall come into force only in pursuance of an order made by the Minister;
+
+                     (c)  shall be in force in such State, Territory, place, area, or locality within the Commonwealth as the Minister by order directs; and
+
+                     (d)  shall remain in force for such time as is specified in the order, but may from time to time, by a further order, be renewed for a further specified period for the same locality or part thereof.
+
+             (3)  Any order made by the Minister in pursuance of subsection (2) shall set forth the regulations to which the order relates.
+
+             (4)  A reference in this section to a vessel includes a reference to:
+
+                     (a)  an Australian resources installation or a resources installation that is in Australian waters for the purposes of becoming attached to the Australian seabed; and
+
+                     (b)  an Australian sea installation or a sea installation that is in Australian waters for the purpose of becoming installed in an adjacent area or in a coastal area.
+
+# Notes to the _Quarantine Act 1908_
+
+### Note 1
+
+The _Quarantine Act 1908_ as shown in this compilation comprises Act No. 3, 1908 amended as indicated in the Tables below.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="15%">
+  <col width="18%">
+  <col width="21%">
+  <col width="15%">
+  <col width="0%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Quarantine Act 1908</div>
+  </td>
+  <td>
+    <div>3, 1908</div>
+  </td>
+  <td>
+    <div>30 Mar 1908</div>
+  </td>
+  <td>
+    <div>1 July 1909 ( <i>see Gazette</i>1909, 
+p. 1175)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1912</div>
+  </td>
+  <td>
+    <div>15, 1912</div>
+  </td>
+  <td>
+    <div>6 Nov 1912</div>
+  </td>
+  <td>
+    <div>6 Nov 1912</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1915</div>
+  </td>
+  <td>
+    <div>42, 1915</div>
+  </td>
+  <td>
+    <div>15 Nov 1915</div>
+  </td>
+  <td>
+    <div>15 Nov 1915</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1920</div>
+  </td>
+  <td>
+    <div>47, 1920</div>
+  </td>
+  <td>
+    <div>2 Dec 1920</div>
+  </td>
+  <td>
+    <div>2 Dec 1920</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1924</div>
+  </td>
+  <td>
+    <div>30, 1924</div>
+  </td>
+  <td>
+    <div>26 Sept 1924</div>
+  </td>
+  <td>
+    <div>26 Sept 1924</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1947</div>
+  </td>
+  <td>
+    <div>19, 1947</div>
+  </td>
+  <td>
+    <div>4 June 1947</div>
+  </td>
+  <td>
+    <div>4 June 1947</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act (No. 2) 1947</div>
+  </td>
+  <td>
+    <div>92, 1947</div>
+  </td>
+  <td>
+    <div>11 Dec 1947</div>
+  </td>
+  <td>
+    <div>11 Dec 1947</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1950</div>
+  </td>
+  <td>
+    <div>80, 1950</div>
+  </td>
+  <td>
+    <div>16 Dec 1950</div>
+  </td>
+  <td>
+    <div>31 Dec 1950</div>
+  </td>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1961</div>
+  </td>
+  <td>
+    <div>61, 1961</div>
+  </td>
+  <td>
+    <div>24 Oct 1961</div>
+  </td>
+  <td>
+    <div>24 Oct 1961</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1966</div>
+  </td>
+  <td>
+    <div>12, 1966</div>
+  </td>
+  <td>
+    <div>13 May 1966</div>
+  </td>
+  <td>
+    <div>1 Aug 1968 ( <i>see Gazette</i>1968, 
+p. 4213)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Act 1969</div>
+  </td>
+  <td>
+    <div>1, 1969</div>
+  </td>
+  <td>
+    <div>14 Mar 1969</div>
+  </td>
+  <td>
+    <div>14 Mar 1969</div>
+  </td>
+  <td>
+    <div>S. 7(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
+  </td>
+  <td>
+    <div>216, 1973</div>
+  </td>
+  <td>
+    <div>19 Dec 1973</div>
+  </td>
+  <td>
+    <div>31 Dec 1973</div>
+  </td>
+  <td>
+    <div>Ss. 9(1) and 10</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1974</div>
+  </td>
+  <td>
+    <div>20, 1974</div>
+  </td>
+  <td>
+    <div>25 July 1974</div>
+  </td>
+  <td>
+    <div>31 Dec 1973</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1979</div>
+  </td>
+  <td>
+    <div>1, 1979</div>
+  </td>
+  <td>
+    <div>27 Feb 1979</div>
+  </td>
+  <td>
+    <div>27 Feb 1979</div>
+  </td>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act (No. 2) 1979</div>
+  </td>
+  <td>
+    <div>105, 1979</div>
+  </td>
+  <td>
+    <div>25 Oct 1979</div>
+  </td>
+  <td>
+    <div>25 Oct 1979</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+  </td>
+  <td>
+    <div>155, 1979</div>
+  </td>
+  <td>
+    <div>28 Nov 1979</div>
+  </td>
+  <td>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
+  </td>
+  <td>
+    <div>70, 1980</div>
+  </td>
+  <td>
+    <div>28 May 1980</div>
+  </td>
+  <td>
+    <div>28 May 1980</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1981</div>
+  </td>
+  <td>
+    <div>54, 1981</div>
+  </td>
+  <td>
+    <div>25 May 1981</div>
+  </td>
+  <td>
+    <div>22 June 1981</div>
+  </td>
+  <td>
+    <div>Ss. 7(2), 11(2) and 16(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Off‑shore Installations (Miscellaneous Amendments) Act 1982</div>
+  </td>
+  <td>
+    <div>51, 1982</div>
+  </td>
+  <td>
+    <div>16 June 1982</div>
+  </td>
+  <td>
+    <div>Part VII (ss. 
+52–112): 14 July 1982 <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Migration (Miscellaneous Amendments) Act 1983</div>
+  </td>
+  <td>
+    <div>84, 1983</div>
+  </td>
+  <td>
+    <div>14 Nov 1983</div>
+  </td>
+  <td>
+    <div>Part IX (ss. 28, 29): 2 Apr 1984 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1984</div>
+  </td>
+  <td>
+    <div>19, 1984</div>
+  </td>
+  <td>
+    <div>26 Apr 1984</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2 and 27: Royal Assent 
+Ss. 20–21: 1 Aug 1984 ( <i>see Gazette</i>1984, No. 291) 
+Remainder: 24 May 1984</div>
+  </td>
+  <td>
+    <div>Ss. 4(2), 5(2), 6(2) and 26(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+  </td>
+  <td>
+    <div>165, 1984</div>
+  </td>
+  <td>
+    <div>25 Oct 1984</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(c)</i></div>
+  </td>
+  <td>
+    <div>Ss. 2(32) and 6(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Torres Strait Treaty (Miscellaneous Amendments) Act 1984</div>
+  </td>
+  <td>
+    <div>22, 1984</div>
+  </td>
+  <td>
+    <div>26 Apr 1984</div>
+  </td>
+  <td>
+    <div>15 Feb 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S538)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1985</div>
+  </td>
+  <td>
+    <div>2, 1985</div>
+  </td>
+  <td>
+    <div>29 Mar 1985</div>
+  </td>
+  <td>
+    <div>29 Mar 1985</div>
+  </td>
+  <td>
+    <div>Ss. 5(2)–(4), 25 and 26</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Sea Installations (Miscellaneous Amendments) Act 1987</div>
+  </td>
+  <td>
+    <div>104, 1987</div>
+  </td>
+  <td>
+    <div>6 Nov 1987</div>
+  </td>
+  <td>
+    <div>Parts I–V (ss. 
+1–30) and Part VIII (s. 57): 15 Oct 1987 
+Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act (No. 2) 1988</div>
+  </td>
+  <td>
+    <div>155, 1988</div>
+  </td>
+  <td>
+    <div>26 Dec 1988</div>
+  </td>
+  <td>
+    <div>S. 41(3): 6 Nov 1987 <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+  </td>
+  <td>
+    <div>141, 1987</div>
+  </td>
+  <td>
+    <div>18 Dec 1987</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(e)</i></div>
+  </td>
+  <td>
+    <div>S. 5(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+  </td>
+  <td>
+    <div>99, 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Petroleum (Australia‑Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990</div>
+  </td>
+  <td>
+    <div>37, 1990</div>
+  </td>
+  <td>
+    <div>7 June 1990</div>
+  </td>
+  <td>
+    <div>18 Feb 1991 ( <i>see</i>s. 2 and <i>Gazette</i>1991, No. S47)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>134, 1991</div>
+  </td>
+  <td>
+    <div>2 Sept 1991</div>
+  </td>
+  <td>
+    <div>1 Sept 1991</div>
+  </td>
+  <td>
+    <div>Ss. 4 and 6</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Territories Law Reform Act 1992</div>
+  </td>
+  <td>
+    <div>104, 1992</div>
+  </td>
+  <td>
+    <div>30 June 1992</div>
+  </td>
+  <td>
+    <div>S. 24: 1 July 1992 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Maritime Legislation Amendment Act 1994</div>
+  </td>
+  <td>
+    <div>20, 1994</div>
+  </td>
+  <td>
+    <div>15 Feb 1994</div>
+  </td>
+  <td>
+    <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act 1994</div>
+  </td>
+  <td>
+    <div>94, 1994</div>
+  </td>
+  <td>
+    <div>29 June 1994</div>
+  </td>
+  <td>
+    <div>Ss. 3–10: Royal Assent <i>(g)</i></div>
+  </td>
+  <td>
+    <div>Ss. 4, 5(2), 6 and 8</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1994</div>
+  </td>
+  <td>
+    <div>169, 1994</div>
+  </td>
+  <td>
+    <div>16 Dec 1994</div>
+  </td>
+  <td>
+    <div>16 Dec 1994</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 126–132): Royal Assent <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1996</div>
+  </td>
+  <td>
+    <div>59, 1996</div>
+  </td>
+  <td>
+    <div>20 Nov 1996</div>
+  </td>
+  <td>
+    <div>Schedule 7: Royal Assent <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1997</div>
+  </td>
+  <td>
+    <div>94, 1997</div>
+  </td>
+  <td>
+    <div>30 June 1997</div>
+  </td>
+  <td>
+    <div>Schedule 7: 22 Oct 1997 ( <i>see Gazette</i>1997, No. S418) <i>(j)</i></div>
+  </td>
+  <td>
+    <div>Sch. 7 (items 5, 24) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>118, 1997</div>
+  </td>
+  <td>
+    <div>7 July 1997</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 58, 59): Royal Assent <i>(k)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>196, 1999</div>
+  </td>
+  <td>
+    <div>23 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–85, 
+87–327): 23 June 2000 
+Schedule 1 (item 86): 16 July 2000 ( <i>see</i>s. 2(2)) Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 43, 50, 65, 68, 73, 76, 81, 83, 85, 91, 93, 96, 98, 112, 114, 119, 143, 160, 165, 174, 180, 193, 201, 226, 265, 271, 290, 317, 320, 323) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Timor Gap Treaty (Transitional Arrangements) Act 2000</div>
+  </td>
+  <td>
+    <div>25, 2000</div>
+  </td>
+  <td>
+    <div>3 Apr 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 41): <i>(l)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>121, 2000</div>
+  </td>
+  <td>
+    <div>5 Oct 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 8): 11 Nov 1999 
+Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
+  </td>
+  <td>
+    <div>Ss. 4–7 \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+  </td>
+  <td>
+    <div>137, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment Act 2002</div>
+  </td>
+  <td>
+    <div>17, 2002</div>
+  </td>
+  <td>
+    <div>4 Apr 2002</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–17A): 4 Oct 2002 
+Schedule 1 (item 18): 2 May 2002 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 17A) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>10, 2003</div>
+  </td>
+  <td>
+    <div>2 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–52, 
+54–75, 78–82): 20 May 2002 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003</div>
+  </td>
+  <td>
+    <div>38, 2003</div>
+  </td>
+  <td>
+    <div>2 May 2003</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 1, 2, 6–22, 
+24–33) and Schedule 5 (items 4–7): 30 May 2003 
+Schedule 4 (items 3–5, 23): <i>(m)</i></div>
+  </td>
+  <td>
+    <div>S. 2(1) (am. by 139, 2004, Sch. 3 \[items 1–3]) 
+S. 2(3) (am. by 139, 2004, Sch. 3 \[item 4])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
+  </td>
+  <td>
+    <div>139, 2004</div>
+  </td>
+  <td>
+    <div>13 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–6): <i>(ma)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Enhancement Act 2003</div>
+  </td>
+  <td>
+    <div>41, 2003</div>
+  </td>
+  <td>
+    <div>3 June 2003</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 35): <i>(n)</i> 
+Schedule 3 (item 42): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 42) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment (Health) Act 2003</div>
+  </td>
+  <td>
+    <div>91, 2003</div>
+  </td>
+  <td>
+    <div>26 Sept 2003</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–43): 26 Mar 2004 
+Schedule 1 (items 44, 45): <i>(o)</i> 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 7, 11, 13, 33, 38, 40) \[ <i>see</i>Table A] 
+S. 2(1) (am. by 54, 2004, Sch. 4 \[item 1])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004</div>
+  </td>
+  <td>
+    <div>54, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>( <i>see</i>54, 2004 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004</div>
+  </td>
+  <td>
+    <div>54, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–143): 27 Oct 2004 
+Schedule 1 (item 157): <i>(p)</i> 
+Schedule 3: 27 Apr 2004 
+Schedule 4: <i>(p)</i> 
+Remainder: 28 Apr 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 9, 14, 19, 24, 33, 35, 37, 40, 70, 86, 91, 95, 167) \[ <i>see</i>Table A] 
+S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003</div>
+  </td>
+  <td>
+    <div>38, 2003</div>
+  </td>
+  <td>
+    <div>2 May 2003</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 1–3): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
+  </td>
+  <td>
+    <div>139, 2004</div>
+  </td>
+  <td>
+    <div>13 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 7): <i>(r)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
+  </td>
+  <td>
+    <div>17, 2006</div>
+  </td>
+  <td>
+    <div>29 Mar 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 97, 98): 1 July 2008 ( <i>see</i>s <i>.</i>2(1) and F2008L02273)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Export Control and Quarantine) Act 2006</div>
+  </td>
+  <td>
+    <div>94, 2006</div>
+  </td>
+  <td>
+    <div>5 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2: 6 Sept 2006</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment (Commission of Inquiry) Act 2007</div>
+  </td>
+  <td>
+    <div>158, 2007</div>
+  </td>
+  <td>
+    <div>24 Sept 2007</div>
+  </td>
+  <td>
+    <div>24 Sept 2007</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Quarantine Amendment (National Health Security) Act 2008</div>
+  </td>
+  <td>
+    <div>68, 2008</div>
+  </td>
+  <td>
+    <div>1 July 2008</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 29 July 2008 Remainder: Royal Assent</div>
+  </td>
+  <td colspan="2">
+    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
+  </td>
+  <td>
+    <div>117, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 55, 56): 22 Nov 2008</div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
+  </td>
+  <td>
+    <div>131, 2009</div>
+  </td>
+  <td>
+    <div>14 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 31–36): \[ <i>see</i>Note 2]</div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2010</div>
+  </td>
+  <td>
+    <div>8, 2010</div>
+  </td>
+  <td>
+    <div>1 Mar 2010</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 84): Royal Assent</div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 116, 117): 19 Apr 2011</div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Acts Interpretation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>46, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 966, 967) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
+  </td>
+  <td colspan="2">
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
+
+_(a)_     The _Quarantine Act 1908_ was amended by Part VII (sections 52–112) only of the _Off‑shore Installations (Miscellaneous Amendments) Act 1982_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(b)_     The _Quarantine Act 1908_ was amended by Part IX (sections 28 and 29) only of the _Migration (Miscellaneous Amendments) Act 1983_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act shall come into operation on the day on which the _Migration Amendment Act 1983_ comes into operation.
+
+_(c)_     The _Quarantine Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(22) of which provides as follows:
+
+               (22)   The amendment of the _Quarantine Amendment Act 1984_ made by this Act shall be deemed to have come into operation on 26 April 1984.
+
+_(d)_     The _Sea Installations (Miscellaneous Amendments) Act 1987_ was amended by subsection 41(3) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1988_, subsection 2(7) of which provides as follows:
+
+                 (7)   Subsection 41(3) shall be taken to have commenced on 6 November 1987.
+
+_(e)_     The _Quarantine Act 1908_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(f)_      The _Quarantine Act 1908_ was amended by section 24 only of the _Territories Law Reform Act 1992_, subsection 2(3) of which provides as follows:
+
+                 (3)   The remaining provisions of this Act commence on 1 July 1992.
+
+_(g)_     The _Quarantine Act 1908_ was amended by sections 3–10 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(h)_     The _Quarantine Act 1908_ was amended by Schedule 5 (items 126–132) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(i)_      The _Quarantine Act 1908_ was amended by Schedule 7 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(j)_      The _Quarantine Act 1908_ was amended by Schedule 7 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_, subsection 2(4) of which provides as follows:
+
+                 (4)   The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.
+
+_(k)_     The _Quarantine Act 1908_ was amended by Schedule 1 (items 58 and 59) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+
+_(l)_      The _Quarantine Act 1908_ was amended by Schedule 2 (item 41) only of the _Timor__Gap Treaty (Transitional Arrangements) Act 2000_, subsection 2(2) of which provides as follows:
+
+                 (2)   Sections 3 to 7 and Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) are taken to have commenced at the transition time. [_see_ Table A]
+
+_(m)_    Subsection 2(1) (items 4 and 6) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 4, items 3 to 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the 28th day after the day on which this Act receives
+        the Royal Assent; and
+    </div>
+    <div>
+      (b) immediately after the commencement of item 1 of Schedule 1 to the
+        <i>
+          <span style="color:black">Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+            2004</span>
+        </i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      27 October 2004
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, item 23
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the 28th day after the day on which this Act receives
+        the Royal Assent; and
+    </div>
+    <div>
+      (b) immediately after the commencement of item 1 of Schedule 1 to the
+        <i>
+          <span style="color:black">Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+            2004</span>
+        </i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      27 October 2004
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+_(ma)_  Subsection 2(1) (item 3) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 3, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+          2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      2 May 2003
+    </div>
+  </td>
+</tr></table>
+
+_(n)_     Subsection 2(1) (item 24) of the _Crimes Legislation Enhancement Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      24\. Schedule 3, item 35
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 221 of Schedule 1 to the
+        <i>Quarantine Amendment Act 1999</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      23 June 2000
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 3) of the _Quarantine Amendment (Health) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provisions covered by item 2
+        of this table; and
+    </div>
+    <div>
+      (b) the commencement of items 1 to 113 of Part 1 of Schedule 1 to the
+        <i>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+          2004</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      27 October 2004
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+_(p)_     Subsection 2(1) (items 5B and 8) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      5B. Schedule 1, item 157
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the time immediately after the time that the provision(s) covered
+        by table item 5A commence; and
+    </div>
+    <div>
+      (b) the commencement of item 2 of Schedule 2 to the
+        <i>
+          <span style="color:black">Australian Federal Police and Other Legislation Amendment Act 2004</span>
+        </i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Quarantine Amendment (Health) Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 September 2003
+    </div>
+  </td>
+</tr></table>
+
+_(q)_     Subsections 2(1) (item 8) and (3) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 5, items 1 to 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately before the commencement of item 1 of Schedule 1 to the
+        <i>
+          <span style="color:black">Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+            2004</span>
+        </i>, subject to subsection (3)
+    </div>
+  </td>
+  <td>
+    <div>
+      27 October 2004
+    </div>
+  </td>
+</tr></table>
+
+                 (3)   If item 1 of Schedule 1 to the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004_ commences before the commencement of item 1 of Schedule 4 to this Act, Schedule 5 does not commence at all.
+
+_(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
+          2004</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      28 April 2004
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2B</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 17, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 1961</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 17, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 42, 1915; No. 51, 1982; No. 2, 1985; No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008; No. 8, 2010; No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5AA</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 5B, 5C</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5D</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5E</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 6</div>
+  </td>
+  <td>
+    <div>rs. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>rep. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 6</div>
+  </td>
+  <td>
+    <div>rs. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6AA</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6AB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 6A</div>
+  </td>
+  <td>
+    <div>am. No. 10, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6A</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 10, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6B</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6C</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>rep. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 216, 1973; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8B</div>
+  </td>
+  <td>
+    <div>ad. No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>rs. No. 19, 1984; No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9AA</div>
+  </td>
+  <td>
+    <div>ad. No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 121, 2000; No. 54, 2004; No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 51, 1982; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10B</div>
+  </td>
+  <td>
+    <div>ad. No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2002; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 11</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IIA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 11A–11E</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12B</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 42, 1915; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 216, 1973 (as am. by No. 20, 1974); No. 54, 1981; Nos. 19 and 22, 1984; No. 2, 1985; No. 43, 1996; No. 94, 1997; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 51, 1982; No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14A</div>
+  </td>
+  <td>
+    <div>ad. No. 22, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 1, 1969; No. 1, 1979; No. 54, 1981; No.19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AA</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AB</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 16AC, 16AD</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AE</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AF</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AG</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16AH</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1A of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16A</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 54, 1981; No. 51, 1982; No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 104, 1987; No. 43, 1996; No. 196, 1999; No. 121, 2000; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18A</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 19</div>
+  </td>
+  <td>
+    <div>rs. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>rs. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19AA</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19A</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20AA</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 2, 1985; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20D</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 104, 1987; No. 43, 1996; No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 104, 1987; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 1, 1969</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1979; No. 19, 1984; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 2, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27B</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 42, 1915; No. 19, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29A</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29B</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>rs. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 216, 1973; No. 155, 1979; No. 70, 1980; No. 51, 1982; No. 43, 1996; No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32</div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32A</div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32B</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 33</div>
+  </td>
+  <td>
+    <div>rs. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33A</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 2, 1985; No. 104, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. Nos. 19 and 92, 1947; No. 54, 1981; No. 51, 1982; No. 2, 1985; No. 104, 1987; No. 43, 1996; No. 196, 1999; No. 121, 2000; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35AA</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1966</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973; No. 1, 1979; No. 84, 1983; No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 42, 1915; No. 47, 1920; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 2, 1985; No. 104, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 38 and 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35B–35D</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 51, 1982; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 2, 1985; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44A</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 38, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44B</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44C</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44D</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 42, 1915; No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 46A</div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46A</div>
+  </td>
+  <td>
+    <div>ad. No. 1, 1969</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1979; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; Nos. 1 and 105, 1979; No. 54, 1981; No. 19, 1984; No. 2, 1985; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48AA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48AB</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48AC</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48AD</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48A</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 1, 1969; No. 1, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52A</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>rs. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>rep. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 216, 1973 (as am. by No. 20, 1974); No. 54, 1981; No. 51, 1982; No. 104, 1987; No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VAA</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55B–55G</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part</b> <b>VA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VA</div>
+  </td>
+  <td>
+    <div>ad. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 92, 1947; No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58A</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58B</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>rs. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 54, 1981; No. 51, 1982; No. 2, 1985; No. 104, 1987; No. 43, 1996; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59B</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63A</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63AA</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 1, 1979; No. 134, 1991; No. 43, 1996; No. 196, 1999; No. 54, 2004; No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64A–64D</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66A</div>
+  </td>
+  <td>
+    <div>ad. No. 134, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AB, 66AC</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AD</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AE</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AF, 66AG</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AH</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AI, 66AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AK–66AM</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AN</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 41, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AO–66AX</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AY, 66AZ</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 66AZA–66AZF</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66B</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67</div>
+  </td>
+  <td>
+    <div>am. No. 19, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2002; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67A</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 19, 1947; No. 1, 1969; No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2000; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68A</div>
+  </td>
+  <td>
+    <div>ad. No. 19, 1947</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69A</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 17, 2002; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 70</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 61, 1961; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 70AA</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70AA</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 2, 1985; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70A</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984; No. 141, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70B</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 70B(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 70B(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 70B(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 70B(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 70B(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 70BA, 70BB</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70C</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70CA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70D</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70E</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 61, 1961</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 72(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73</div>
+  </td>
+  <td>
+    <div>am. No. 42, 1915; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 196, 1999; No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74AA</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984; No. 2, 1985; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74AB</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74A</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1981; No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74B</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74BA</div>
+  </td>
+  <td>
+    <div>ad. No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74BB</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74BC</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74C</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74D</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 51, 1982; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74DA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74E</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 75</div>
+  </td>
+  <td>
+    <div>am. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 75(1A)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 75(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 19, 1984 (as am. by No. 165, 1984); No. 43, 1996; No. 196, 1999; No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75A</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 2, 1985; No. 43, 1996; No. 196, 1999; No. 38, 2003; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75B</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78</div>
+  </td>
+  <td>
+    <div>am. No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 78A</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 42, 1915; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 104, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 196, 1999; No. 54, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78AA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78B</div>
+  </td>
+  <td>
+    <div>ad. No. 54, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78C</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79A</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 80</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 81</div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 81</div>
+  </td>
+  <td>
+    <div>am. No. 47, 1920; No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996; No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 19, 1984; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982; No. 19, 1984; No. 104, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979; No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 1950</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 1, 1969</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1979; No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 1950</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86A</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86B</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 1, 1969</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86C</div>
+  </td>
+  <td>
+    <div>ad. No. 15, 1912</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86D</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86DA</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 86E(1A)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 86E(1B)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 86E(2B)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 86E(2E)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 86E(2G)</div>
+  </td>
+  <td>
+    <div>ad. No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86E</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 1920</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1969; No. 1, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 19, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 99, 1988; Nos. 94 and 169, 1994; No. 94, 1997; No. 196, 1999; No. 54, 2004; No. 68, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86EA</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86F</div>
+  </td>
+  <td>
+    <div>ad. No. 94, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86G</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 15, 1912; No. 42, 1915; No. 47, 1920; No. 30, 1924; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 2, 1985; No. 104, 1987; No. 94, 1994; No. 59, 1996; No. 94, 1997; No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 5
+
+## 31  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+## 32  Section 65
+
+Before “Any”, insert “(1)”.
+
+## 33  At the end of section 65
+
+Add:
+
+             (2)  While a vessel is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the vessel.
+
+## 34  Subsection 69A(14)
+
+After “In this section”, insert “and subject to subsection (14A)”.
+
+## 35  Subsection 69A(14)
+
+After “in respect of the goods or premises”, insert “(other than a PPSA security interest)”.
+
+## 36  After subsection 69A(14)
+
+Insert:
+
+        (14A)  For the purposes of the definition of **_owner_** in subsection (14), a person who, or a partnership which, had an interest in the goods or premises at the time of their destruction does not include a person or partnership if the person or partnership:
+
+                     (a)  holds a PPSA security interest in the goods or premises; but
+
+                     (b)  is not in possession or control of the goods or premises at that time.
+
+As at 3 November 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 966  Subsection 5(1) (definition of _Continental Shelf_)
+
+Repeal the definition.
+
+## 967  Subsection 6(3) (note)
+
+Omit “paragraph 17(a)”, substitute “section 2B”.
+
+As at 3 November 2011 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Primary Industries and Energy Legislation Amendment Act (No. 2) 1997 (No. 94, 1997)_
+
+## Schedule 7  
+
+## 5  Saving provision
+
+If:
+
+                     (a)  a Proclamation made under subsection 13(1) of the _Quarantine Act 1908_ before the day on which items 3 and 4 of this Schedule commence prohibited the importation into Australia or the Cocos Islands of any thing unless a permit granting permission to import that thing was granted by a Director of Quarantine or a person authorised in writing by a Director of Quarantine; and
+
+                     (b)  that Proclamation was not revoked before that day;
+
+then, on and after that day:
+
+                     (c)  the Proclamation continues to have effect as if it were a Proclamation made in accordance with subsection 13(2A)(a) of that Act as amended by this Act; and
+
+                     (d)  any permit granted under that Proclamation and not revoked before that day has effect as if it were a permit granted under the Proclamation as so continued in force.
+
+## 24  Saving of regulations
+
+Any regulation made, or purportedly made, for the purposes of a paragraph of subsection 87(1) of the _Quarantine Act 1908_, before the day on which items 15 to 23 of this Schedule commence that has not been revoked, or purportedly revoked, immediately before that day continues in force, on and after that day, as if it had been made under that paragraph of that subsection of the _Quarantine Act 1908_ as amended by this Act.
+
+* * *
+
+_Quarantine Amendment Act 1999 (No. 196, 1999)_
+
+## Schedule 1  
+
+## 43  Transitional provision relating to overseas vessels
+
+A reference to an oversea vessel in any Proclamation, order, determination, declaration or other document that was in force under the _Quarantine Act_ 1908 immediately before the commencement of this Schedule is taken to be a reference to an overseas vessel.
+
+## 50  Saving of Proclamations
+
+A Proclamation made by the Governor‑General for the purposes of the definition of **_quarantinable disease_** in subsection 5(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been made for the purposes of that definition as amended by item 49.
+
+## 65  Saving of determinations
+
+A determination made under subsection 8A(2) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under subsection 8A(2) substituted by item 64.
+
+## 68  Saving of determinations
+
+A determination made under subsection 8B(2) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under subsection 8B(2) substituted by item 67.
+
+## 73  Saving of appointments
+
+An appointment of a quarantine officer (human quarantine) made under section 9 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under that section as amended by this Schedule.
+
+## 76  Saving of appointments
+
+An appointment of a quarantine officer (animals) or a quarantine officer (plants) made under section 9AA of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under that section as amended by this Schedule.
+
+## 81  Saving of appointments and authorities
+
+An appointment of a person as, or an authority of a person to act as, a temporary quarantine officer made under section 9A of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under that section as amended by this Schedule.
+
+## 83  Saving of delegations
+
+(1)       A delegation given by the Minister under section 10 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10 substituted by item 82.
+
+(2)       A delegation given by a Director of Quarantine under section 10B of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10B substituted by item 82.
+
+## 85  Saving of arrangements
+
+An arrangement entered into under section 11 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been entered into under subsection 11(1) substituted by item 84.
+
+## 91  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(aa) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under that paragraph as amended by this Schedule and as if references in the Proclamation to vessels engaged in navigation by air were references to aircraft.
+
+## 93  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(b) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under paragraph 13(1)(b) substituted by item 92.
+
+## 96  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(d) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under paragraph 13(1)(d) substituted by item 95.
+
+## 98  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(e) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under paragraph 13(1)(e) substituted by item 97.
+
+## 112  Saving of exemptions
+
+If:
+
+                     (a)  an exemption was in force under section 14 or 14A of the _Quarantine Act 1908_ immediately before the commencement of this Schedule in respect of a provision of that Act as in force at that time; and
+
+                     (b)  the provision is repealed by this Schedule and a corresponding provision is inserted in the _Quarantine Act 1908_ by this Schedule;
+
+the exemption continues in force as if it had been granted under that section on that commencement in respect of the corresponding provision.
+
+## 114  Orders taken to be directions
+
+If an order made by the Minister under subsection 15(1) of the _Quarantine Act 1908_ (the **_repealed subsection_**) was in force immediately before the commencement of this Schedule:
+
+                     (a)  the order continues in force as if it were a direction given by a Director of Quarantine under subsection 15(1) substituted by item 113; and
+
+                     (b)  any prophylactic agents that were prescribed, or disinfecting apparatus or appliances, or disinfectants, that were approved by the Minister, at that time for the purposes of the repealed subsection are taken to be specified in the direction; and
+
+                     (c)  the period that was prescribed at that time for the purposes of the repealed subsection is taken to be specified in the direction.
+
+## 119  Saving of regulations
+
+A regulation purporting to make a provision of a kind mentioned in subsection 16AC(5A) substituted by item 118 that purported to be in force immediately before the commencement of this Schedule is as valid as it would have been if it had been made after that commencement.
+
+## 143  Saving of regulations
+
+Any regulation prescribing a signal for the purposes of paragraph 21(1)(c) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it prescribed that signal for the purposes of subsection 21(1A) inserted by item 142.
+
+## 160  Saving of requirements
+
+Any requirement made by a quarantine officer under section 28 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under section 28 substituted by item 159.
+
+## 165  Existing section 31 to continue to apply to people apprehended before making of amendments
+
+Section 31 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues to apply in relation to any person who was apprehended under that section and brought before a Justice of the Peace before that commencement.
+
+## 174  Matters in existing regulations taken to be included in direction
+
+Any matters relating to the treatment of cargo or passengers’ effects that were prescribed for the purposes of subsection 34(4) of the _Quarantine Act 1908_ immediately before the commencement of this Schedule are taken, in relation to cargo or passengers’ effects landed before that commencement, to be specified in a direction, to the person who is the importer, or has control, of the cargo or passengers’ effects, given by a Director of Quarantine for the purposes of subsection 34(4) substituted by item 173.
+
+## 180  Saving of instruments
+
+Saving of certificates
+
+(1)       Any certificate given under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given under paragraph 35A(1)(b) substituted by item 179.
+
+Saving of orders
+
+(2)       An order into quarantine made under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under subsection 35A(3) substituted by item 179.
+
+Saving of directions
+
+(3)       Any direction relating to measures of quarantine given by a quarantine officer (human quarantine) under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and has effect as if:
+
+                     (a)  it were a direction given by the Chief Quarantine Officer (Human Quarantine) under subsection 35A(2) substituted by item 179; and
+
+                     (b)  the measures of quarantine contained in the direction included any measures of quarantine that were prescribed for the purposes of subsection 35A(1) of the _Quarantine Act 1908_ immediately before that commencement.
+
+Saving of permissions
+
+(4)       Any permission given for the purposes of subsection 35A(3) or (4) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given for the purposes of subsection 35A(9) or (10), as the case may be, substituted by item 179.
+
+## 193  Saving of instruments
+
+Any permission, consent, approval, or specification of conditions, under a provision of section 44B of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it were a permission, consent, approval or specification of conditions, as the case may be, under the corresponding provision of section 44B substituted by item 192.
+
+## 201  Saving of approvals
+
+An approval of a place that a quarantine officer purported to give under subsection 46A(1) of the _Quarantine Act 1908_ and that purported to be in force immediately before the commencement of this Schedule has effect as if:
+
+                     (a)  it were an approval duly given by a Director of Quarantine under paragraph 46A(1)(a) substituted by item 200; and
+
+                     (b)  any conditions to which the approval purported to be subject were validly imposed for the purposes of section 46A substituted by that item.
+
+## 226  Saving of agreements
+
+An agreement purporting to have been entered into under section 66B of the _Quarantine Act 1908_ and to be in force immediately before the commencement of this Schedule has effect as if:
+
+                     (a)  it had been duly entered into by a Director of Quarantine under that section as amended by this Schedule; and
+
+                     (b)  a reference in the agreement to the Secretary to the Department were a reference to a Director of Quarantine.
+
+## 265  Saving of notices
+
+A notice prescribed for the purposes of subsection 74(1) of the _Quarantine Act 1908_ immediately before the commencement of this Schedule is taken to have been approved by a Director of Quarantine for the purposes of subsection 74(1) substituted by item 264.
+
+## 271  Saving of warrants, consents and notices
+
+(1)       A warrant issued under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ that was in force immediately before the repeal of that section continues in force, and may be executed, as if that section had not been repealed.
+
+(2)       A consent given by the occupier of any premises under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ before the repeal of that section that had not been revoked before that repeal is taken to have been given under the corresponding section of Part VIA of that Act inserted by this Schedule.
+
+(3)       A notice prescribed for the purposes of paragraph 74A(4)(d) of the _Quarantine Act 1908_ immediately before the repeal of section 74A of that Act is taken to have been approved by a Director of Quarantine for the purposes of paragraph 66AA(1)(i) of that Act inserted by this Schedule.
+
+## 290  Saving of orders
+
+An order given under section 78A of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it were a direction given under that section as amended by this Schedule.
+
+## 317  Saving of regulations
+
+Any regulations made under paragraph 87(1)(k) of the _Quarantine Act 1908_ that were in force immediately before the commencement of this Schedule continue in force as if they had been made under paragraph 87(1)(k) substituted by item 316.
+
+## 320  Saving of regulations
+
+Any regulations made under paragraph 87(1)(lb) of the _Quarantine Act 1908_ that were in force immediately before the commencement of this Schedule continue in force as if they had been made under paragraph 87(1)(lb) substituted by item 319.
+
+## 323  Saving of regulations
+
+Any regulations made under paragraph 87(1)(ra) or (rb)) of the _Quarantine Act 1908_ that were in force immediately before the commencement of this Schedule continue in force as if they had been made under paragraph 87(1)(ra) or (rb), as the case may be, substituted by item 322.
+
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000 (No. 121, 2000)_
+
+##### <a id="4"></a>4  Application provision—approval of places for treating goods
+
+                   The amendments made by items 7 and 8 of Schedule 1 apply to applications for approvals made after the commencement of this section.
+
+##### <a id="5"></a>5  Application provision—detaining goods
+
+                   The amendment made by item 11 of Schedule 1 applies to goods ordered into quarantine after the commencement of this section.
+
+##### <a id="6"></a>6  Saving and validation of appointments
+
+             (1)  The amendments made by items 2 and 3 of Schedule 1 do not affect the validity of an appointment made under section 9AA of the _Quarantine Act 1908_ before the commencement of this section.
+
+             (2)  An appointment of a person as a quarantine officer (animals) and a quarantine officer (plants) purporting to have been made under section 9AA of the _Quarantine Act 1908_ before the commencement of this section is taken to have been validly made.
+
+##### <a id="7"></a>7  Validation of agreements
+
+                   An agreement purporting to have been entered into under section 66B of the _Quarantine Act 1908_ before the commencement of this section in respect of vessels is taken to have been validly entered into.
+
+* * *
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) 
+ Act 2000 (No. 137, 2000)_
+
+## Schedule 2
+
+## 418  Transitional—pre‑commencement offences
+
+             (1)  Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+
+                     (a)  an offence committed before the commencement of this item; or
+
+                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
+
+                     (c)  any matter connected with, or arising out of, such proceedings;
+
+            as if the amendment or repeal had not been made.
+
+             (2)  Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+## 419  Transitional—pre‑commencement notices
+
+                   If:
+
+                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
+
+                     (b)  any or all of those other provisions are repealed by this Schedule; and
+
+                     (c)  the first‑mentioned provision is amended by this Schedule;
+
+                   the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
+* * *
+
+_Quarantine Amendment Act 2002 (No. 17, 2002)_
+
+## Schedule 1
+
+## 17A  Amendments made by items 1 to 17 cease to have effect in certain circumstances
+
+The amendments made by items 1 to 17 of this Schedule cease to operate at the expiration of 18 months after the commencement of this Part unless the Commonwealth, within that period:
+
+                     (a)  has developed, in consultation with all of the States, the Australian Capital Territory and the Northern Territory, agreed guidelines for a cooperative approach between the Commonwealth, those States and those Territories, for the control and eradication of epidemics, and the removal of the danger of epidemics, including guidelines for the exercise of quarantine measure or measures incidental to quarantine in accordance with the _Quarantine Act 1908_ for that purpose; and
+
+                     (b)  has laid a copy of the guidelines before each House of the Parliament.
+
+* * *
+
+_Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
+
+## Schedule 3
+
+## 42  Saving provision
+
+(1)       The amendments made by this Schedule do not invalidate:
+
+                     (a)  an instrument made under, or referring to, a Part of the _Crimes Act 1914_ whose heading is repealed and substituted by this Schedule; or
+
+                     (b)  anything done under such an instrument or such a Part.
+
+(2)       Subitem (1) has effect whether the instrument was made, or the thing was done, before or after this Act received the Royal Assent.
+
+* * *
+
+_Quarantine Amendment (Health) Act 2003 (No. 91, 2003)_
+
+## Schedule 1
+
+## 7  Saving of determinations
+
+A determination made under subsection 8A(2) of the _Quarantine Act 1908_ that was in force immediately before the commencement of item 6 of this Schedule continues in force, on and after that commencement, as if the determination had been made under subsection 8A(2) as amended by item 6.
+
+## 11  Saving of appointments
+
+An appointment made under section 9 of the _Quarantine Act 1908_ that was in force immediately before the commencement of item 10 of this Schedule continues in force, on and after that commencement, as if the appointment had been made under section 9 as amended by item 10.
+
+## 13  Saving of appointments and authorisations
+
+An appointment or authorisation made under section 9A of the _Quarantine Act 1908_ that was in force immediately before the commencement of item 12 of this Schedule continues in force, on and after that commencement, as if the appointment or authorisation had been made under section 9A as amended by item 12.
+
+## 33  Application of sections 35B and 35C
+
+Sections 35B and 35C, as inserted by item 32, apply whether a person is ordered into quarantine under section 35, 35AA or 35A before or after the commencement of that item.
+
+## 38  Application of item 37
+
+The amendment made by item 37 applies to expenses incurred on and after the day on which this item commences.
+
+## 40  Application of item 39
+
+The amendment made by item 39 does not apply to costs incurred before the day on which this item commences.
+
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004 (No. 54, 2004)_
+
+## Schedule 1
+
+## 9  Transitional provision relating to overseas vessels
+
+A reference to an overseas vessel in any regulation, Proclamation, order, determination, declaration or other document that was in force under the _Quarantine Act 1908_ immediately before the date of commencement of item 8 of this Schedule is taken, on and after that date, to be a reference to an overseas vessel within the meaning of that Act as amended by that item.
+
+## 14  Saving of declarations
+
+A declaration made under section 5A of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 13 of this Schedule continues in force, on and after that date, as if:
+
+                     (a)  the declaration had been made under section 5A of that Act as amended by that item; and
+
+                     (b)  that declaration had provided that the area described was a Special Quarantine Zone in respect of Australia.
+
+## 19  Transitional provision—continuance of old quarantine law
+
+(1)       If a person, vessel, animal, plant or other goods arrive at Christmas Island before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule, then, despite that amendment, the quarantine law in force before that date continues to apply in relation to that person, vessel, animal, plant or other goods for 2 months commencing on that date as if that amendment had not been made.
+
+(2)       If, before the end of the 2 months referred to in subitem (1), the Minister is satisfied that it is necessary that the quarantine law in force before the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule should continue to have effect as provided in that subitem for a specified period after the end of that 2 months:
+
+                     (a)  the Minister may, by notice published in the _Gazette_, make a declaration to that effect; and
+
+                     (b)  subitem (1) has effect as if there were substituted for the reference to 2 months a reference to 2 months as extended of that specified period.
+
+(3)       For the purposes of this item, the reference to the quarantine law in force before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule is a reference to the Quarantine and Prevention of Disease Ordinance of the Colony of Singapore in its application to Christmas Island.
+
+## 24  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(aa) of the _Quarantine Act 1908_ that was in force immediately before the commencement of item 23 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(aa) of that Act as amended by that item.
+
+## 33  Saving of Proclamations
+
+A Proclamation made under paragraph (13)(1)(f) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 31 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(f) of that Act as amended by that item.
+
+## 35  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(fa) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 34 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(fa) of that Act as amended by that item.
+
+## 37  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(g) or (ga) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 36 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(g) or (ga) of that Act as amended by that item.
+
+## 40  Saving of Proclamations
+
+A Proclamation made under paragraph 13(1)(h) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 39 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(h) of that Act as amended by that item.
+
+## 70  Saving of Proclamations
+
+A Proclamation made under subsection of 20B(1) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 69 of this Schedule continues in force on and after that date, as if it had been made under subsection 20B(1) of that Act as substituted by that item.
+
+## 86  Saving of requirements
+
+Any requirement made by a quarantine officer under subsection 28(1) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of items 83, 84 and 85 of this Schedule continues in force, on and after that date, as it if had been made under subsection 28(1) of that Act as amended by those items.
+
+## 91  Saving of directions
+
+A direction given by a Director of Quarantine under section 29B of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of items 89 and 90 of this Schedule continues in force, on and after that date, as if it had been given under section 29B of that Act as amended by those items.
+
+## 95  Transitional provision
+
+A pratique granted by a quarantine officer (human quarantine) under section 33 of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of items 93 and 94 of this Schedule continues to have effect, according to its tenor, on and after that date, as if it had been granted under section 33 of that Act as amended by those items.
+
+## 167  Savings
+
+The amendments made by items 162, 164 and 166 do not affect the appointment of a quarantine officer that was in force immediately before the commencement of this item.
+
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment (Export Control and Quarantine) Act 2006 (No. 94, 2006)_
+
+## Schedule 2
+
+## 2  Application
+
+The amendment made by item 1 of this Schedule applies to quarantine fees that are incurred on or after the commencement of this Schedule.
+
+* * *
+
+_Quarantine Amendment (National Health Security) Act 2008 
+ (No. 68, 2008)_
+
+## Schedule 2
+
+## 21  Application
+
+Main amendments
+
+(1)       The amendments of the _Quarantine Act 1908_ made by this Schedule (other than items 10, 12, 14, 15, 17, 18, 19 and 20) apply in relation to prescribed health measures provided after the commencement of this Schedule.
+
+Amendments relating to the remission of fees
+
+(2)       The amendments of the _Quarantine Act 1908_ made by items 15, 17, 18 and 20 apply in relation to fees that become payable after the commencement of those items.
+
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 3
+
+## 10  Saving—appointments
+
+The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
+
+## 11  Transitional regulations
+
+The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+
+ 
