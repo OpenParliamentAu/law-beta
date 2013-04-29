@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03152/Html/CrimesTaxOff80_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03151/Html/CrimesTaxOff80_image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 25 July 2002 
- taking into account amendments up to Act No. 57 of 2002
+This compilation was prepared on 1 July 2000 
+ taking into account amendments up to Act No. 179 of 1999
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -40,7 +40,7 @@ Prepared by the Office of Legislative Drafting,
 
 [11](#11).          Stay of proceedings                                                                           14
 
-[12](#12).          Additional penalty                                                                             14
+[12](#12).          Additional penalty                                                                             15
 
 **Part IIA—Offences relating to sales tax payable under the Sales Tax Assessment Act 1992**
 
@@ -406,6 +406,18 @@ the person first mentioned in paragraph (b) is guilty of an offence.
 
              (3)  A person is not liable to be convicted of two or more offences against this Act in relation to the same arrangement or transaction.
 
+             (5)  Notwithstanding that a consent in accordance with subsection (4) has not been given in relation to an offence against this Act:
+
+                     (a)  a person may be charged with the offence;
+
+                     (b)  a person may be arrested for the offence, and a warrant for such an arrest may be issued and executed; and
+
+                     (c)  a person so charged may be remanded in custody or on bail;
+
+but no further step in proceedings for the offence shall be taken until such a consent has been given.
+
+             (6)  Nothing in subsection (5) prevents the discharging of the accused if proceedings are not continued within a reasonable time.
+
 ##### <a id="10"></a>10  Evidence
 
              (1)  In proceedings under this Act (including proceedings for the purpose of obtaining an order under section 12), a certificate purporting to be signed by the Commissioner, a Second Commissioner or a Deputy Commissioner and stating that an amount of old sales tax moneys is or was, or became, due and payable by a company, or by a trustee, on a date specified in the certificate is, subject to subsection (2), conclusive evidence of the matters stated in the certificate.
@@ -636,7 +648,7 @@ whichever first occurs.
 
 ## Part IX—Offences Relating to Wine Equalisation Tax
 
-##### <a id="19"></a>19  Application of Parts I and II in relation to wine equalisation tax 
+##### <a id="19"></a>19  Application of Parts I and II in relation to wine equalisation tax 
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
@@ -1311,23 +1323,6 @@ Schedule 16 (item 1): <i>(m)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 2) 2002</div>
-  </td>
-  <td>
-    <div>57, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 12 (item 1): <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -1396,93 +1391,7 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
 
          Section 1 of the _A New Tax System (Pay As You Go) Act 1999_ commenced on 22 December 1999.
 
-_(n)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 12 (item 1) only of the _Taxation Laws Amendment Act (No. 2) 2002_, subsection 2(1) (item 19) of which provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      19\. Schedule 12, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Crimes and Other Legislation Amendment Act 1997</i>for the commencement
-        of item 3 of Schedule 2 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      7 April 1997
-    </div>
-  </td>
-</tr></table>
+ 
 
  
 
@@ -1570,7 +1479,7 @@ _(n)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 12 (item
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; No. 76, 1986; No. 43, 1996; No. 20, 1997; No. 57, 2002</div>
+    <div>am. No. 123, 1984; No. 76, 1986; No. 43, 1996; No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1725,5 +1634,7 @@ _(n)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 12 (item
     <div>ad. No. 176, 1999</div>
   </td>
 </tr></table>
+
+ 
 
  
