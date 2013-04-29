@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00527/Html/69ed2664-2c1c-4da3-a116-3de336679236_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00515/Html/AustPrudRegAuth1998_WD02_image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 13 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 27 July 2010
+ taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Purpose for establishing APRA
 
-[8A](#8A).         Trans‑Tasman cooperation
+[8A](#8A).         Trans-Tasman cooperation
 
 [9](#9).            APRA’s functions
 
@@ -198,7 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="action-like-detriment-effect-financi-system-stabil-new-zealand"></a>**_action that is likely to have a detrimental effect on financial system stability in New Zealand_** includes an action that prevents or interferes with an outsourcing arrangement.
+                    <a name="new-zealand"></a><a name="action-like-detriment-effect-financi-system-stabil"></a>**_action that is likely to have a detrimental effect on financial system stability in_****_New Zealand_** includes an action that prevents or interferes with an outsourcing arrangement.
 
                     <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
 
@@ -224,25 +224,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chair"></a>**_Chair_** means the APRA member appointed as Chair of APRA.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
-
                     <a name="deputi-chair"></a>**_Deputy Chair_** means the APRA member appointed as Deputy Chair of APRA.
 
                     <a name="financi-claim-scheme-special-account"></a>**_Financial Claims Scheme Special Account_** means the Financial Claims Scheme Special Account established by section 54A.
 
                     <a name="financi-sector-supervisori-agenc"></a>**_financial sector supervisory agency_** means a person or body having the function, in Australia or in a foreign country, of supervising or regulating financial institutions.
 
-                    <a name="financi-institut"></a><a name="new-zealand"></a>**_New Zealand_****_financial institution_** means a financial institution, as defined in section 2 of the Reserve Bank of New Zealand Act 1989 of New Zealand, that carries on a business in New Zealand.
+                    <a name="financi-institut"></a><a name="new-zealand"></a>**_New Zealand_****_financial institution_** means a financial institution, as defined in section 2 of the Reserve Bank of New Zealand Act 1989 of New Zealand, that carries on a business in New   Zealand.
 
                     <a name="offic-reserv-bank-servic"></a>**_officer of the Reserve Bank Service_** means a person appointed under Part VII of the _Reserve Bank Act 1959_.
 
                     <a name="outsourcing-arrang"></a>**_outsourcing arrangement_** means an arrangement for the business of a New Zealand financial institution, or functions relating to such business, to be carried on by an entity other than the institution.
 
-                    <a name="prescrib-new-zealand-author"></a>**_prescribed New Zealand authority_** means the following:
+                    <a name="author"></a><a name="new-zealand"></a><a name="prescrib"></a>**_prescribed_****_New Zealand_****_authority_** means the following:
 
                      (a)  the Reserve Bank of New Zealand;
 
-                     (b)  an authority of the government of New Zealand that:
+                     (b)  an authority of the government of New   Zealand that:
 
                               (i)  has statutory responsibilities relating to prudential regulation or financial system stability; and
 
@@ -308,7 +306,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (h)  an FHSA provider, within the meaning of the _First Home Saver Accounts Act 2008_.
 
-Note:          ADI is short for authorised deposit‑taking institution, NOHC is short for non‑operating holding company, RSA is short for retirement savings account and FHSA is short for first home saver account.
+Note:          ADI is short for authorised deposit-taking institution, NOHC is short for non-operating holding company, RSA is short for retirement savings account and FHSA is short for first home saver account.
 
              (3)  The regulations may amend subsection (2) as in force from time to time for the purpose of:
 
@@ -322,7 +320,7 @@ Note:          ADI is short for authorised deposit‑taking in
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="5"></a>5  External Territories
+##### <a id="5"></a>5  External  Territories
 
                    This Act extends to every external Territory.
 
@@ -348,7 +346,7 @@ Note:          ADI is short for authorised deposit‑taking in
 
              (2)  In performing and exercising its functions and powers, APRA is to balance the objectives of financial safety and efficiency, competition, contestability and competitive neutrality and, in balancing these objectives, is to promote financial system stability in Australia.
 
-##### <a id="8A"></a>8A  Trans‑Tasman cooperation
+##### <a id="8A"></a>8A  Trans-Tasman cooperation
 
              (1)  In performing and exercising its functions and powers, APRA must:
 
@@ -528,15 +526,15 @@ Note:          For information about delegations, see sections
 
              (1)  APRA is to consist of not fewer than 3 members nor more than 5 members.
 
-             (2)  The APRA members are to be appointed by the Governor‑General by written instrument.
+             (2)  The APRA members are to be appointed by the Governor-General by written instrument.
 
-             (3)  At least 3 of the APRA members must be appointed as full‑time members, and each of the other APRA members (if any) may be appointed as a full‑time or part‑time member.
+             (3)  At least 3 of the APRA members must be appointed as full-time members, and each of the other APRA members (if any) may be appointed as a full-time or part-time member.
 
              (4)  The performance of APRA’s functions or the exercise of APRA’s powers is not affected by reason only that:
 
                      (a)  there are fewer than 3 APRA members; or
 
-                     (b)  there are fewer than 3 full‑time APRA members.
+                     (b)  there are fewer than 3 full-time APRA members.
 
 ##### <a id="17"></a>17  Restrictions on appointment
 
@@ -548,9 +546,9 @@ Note:          For information about delegations, see sections
 
 ##### <a id="18"></a>18  Appointment of Chair and Deputy Chair
 
-             (1)  The Governor‑General is to appoint a full‑time APRA member as Chair of APRA.
+             (1)  The Governor-General is to appoint a full-time APRA member as Chair of APRA.
 
-             (2)  The Governor‑General may appoint another full‑time APRA member as Deputy Chair of APRA.
+             (2)  The Governor-General may appoint another full-time APRA member as Deputy Chair of APRA.
 
              (3)  The Deputy Chair is to act as Chair during any period when:
 
@@ -566,15 +564,15 @@ Note:          For information about delegations, see sections
 
              (1)  The Minister may:
 
-                     (a)  appoint a person to act as a full‑time APRA member during any period when there are fewer than 5 persons who are APRA members; or
+                     (a)  appoint a person to act as a full-time APRA member during any period when there are fewer than 5 persons who are APRA members; or
 
-                     (b)  appoint a person to act as a part‑time APRA member during any period when:
+                     (b)  appoint a person to act as a part-time APRA member during any period when:
 
                               (i)  there are fewer than 5 persons who are APRA members; and
 
-                             (ii)  there are at least 3 persons who are full‑time APRA members; or
+                             (ii)  there are at least 3 persons who are full-time APRA members; or
 
-                     (c)  appoint a person to act in the place of a full‑time APRA member or part‑time APRA member during any period when the APRA member:
+                     (c)  appoint a person to act in the place of a full-time APRA member or part-time APRA member during any period when the APRA member:
 
                               (i)  is acting as Deputy Chair in accordance with subsection (3); or
 
@@ -642,23 +640,23 @@ Note:          This section has effect subject to section 24
 
 ##### <a id="23"></a>23  Leave of absence
 
-             (1)  A full‑time APRA member has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time APRA member has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
              (2)  The Minister may:
 
-                     (a)  grant a full‑time APRA member leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines; and
+                     (a)  grant a full-time APRA member leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines; and
 
-                     (b)  grant a part‑time APRA member leave of absence on the terms and conditions that the Minister determines.
+                     (b)  grant a part-time APRA member leave of absence on the terms and conditions that the Minister determines.
 
 ##### <a id="24"></a>24  Resignation
 
-                   A person may resign his or her appointment as an APRA member, as Chair, or as Deputy Chair, by giving a written resignation to the Governor‑General.
+                   A person may resign his or her appointment as an APRA member, as Chair, or as Deputy Chair, by giving a written resignation to the Governor-General.
 
 ##### <a id="25"></a>25  Termination of appointment
 
              (1)  The appointment of an APRA member is immediately terminated if the member becomes a director, officer or employee of a body regulated by APRA.
 
-             (2)  The Governor‑General may terminate the appointment of an APRA member:
+             (2)  The Governor-General may terminate the appointment of an APRA member:
 
                      (a)  for misbehaviour or physical or mental incapacity; or
 
@@ -672,17 +670,17 @@ Note:          This section has effect subject to section 24
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
 
-                     (c)  in the case of a full‑time member—if the member is absent from duty, except on leave of absence:
+                     (c)  in the case of a full-time member—if the member is absent from duty, except on leave of absence:
 
                               (i)  for 14 consecutive days; or
 
                              (ii)  for 28 days in any period of 12 months; or
 
-                     (d)  in the case of a part‑time member—if the member is absent, except on leave of absence, from 3 consecutive meetings of APRA; or
+                     (d)  in the case of a part-time member—if the member is absent, except on leave of absence, from 3 consecutive meetings of APRA; or
 
-                     (e)  in the case of a full‑time member—if the member engages, except with the Minister’s approval, in paid employment outside the functions of his or her office; or
+                     (e)  in the case of a full-time member—if the member engages, except with the Minister’s approval, in paid employment outside the functions of his or her office; or
 
-                      (f)  in the case of a part‑time member—if the member engages in paid employment that conflicts or could conflict with the proper performance of the functions of his or her office; or
+                      (f)  in the case of a part-time member—if the member engages in paid employment that conflicts or could conflict with the proper performance of the functions of his or her office; or
 
                      (g)  the member is or becomes a director, officer or employee of a body operating in the financial sector, other than a body regulated by APRA, and the Minister considers that the person is, will be, or could be, prevented from the proper performance of the functions of his or her office because of resulting conflicts of interest; or
 
@@ -696,7 +694,7 @@ Note:          This section has effect subject to section 24
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (4)  In spite of anything contained in this section, if an APRA member:
 
@@ -704,15 +702,15 @@ then he or she is not capable of being retired from office on the ground of inva
 
                      (b)  is under 60 years of age;
 
-then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (5)  In spite of anything contained in this section, if an APRA member:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
-then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+then he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="26"></a>26  Other terms and conditions
 
@@ -1004,7 +1002,7 @@ Note:          An Appropriation Act may contain a provision to
 
 only the increase, and not the whole of the increased amount, is to be credited to the Account as a result of the amendment.
 
-Note:          Crediting the whole of the increased amount to the Account would lead to double‑counting of the amount specified in the declaration before the amendment.
+Note:          Crediting the whole of the increased amount to the Account would lead to double-counting of the amount specified in the declaration before the amendment.
 
 ##### <a id="54"></a>54  Purposes of the APRA Special Account
 
@@ -1052,7 +1050,7 @@ Note:          APRA’s administrative costs associated with i
 
 only the increase, and not the whole of the increased amount, is to be credited to the Account as a result of the amendment.
 
-Note:          Crediting the whole of the increased amount to the Account would lead to double‑counting of the amount specified in the declaration before the amendment.
+Note:          Crediting the whole of the increased amount to the Account would lead to double-counting of the amount specified in the declaration before the amendment.
 
 ##### <a id="54C"></a>54C  Purposes of the Financial Claims Scheme Special Account
 
@@ -1060,7 +1058,7 @@ Note:          Crediting the whole of the increased amount to 
 
                      (a)  APRA:
 
-                              (i)  meeting account‑holders’ entitlements under Subdivision C (Payment of account‑holders with declared ADI) of Division 2AA of Part II of the _Banking Act 1959_; or
+                              (i)  meeting account-holders’ entitlements under Subdivision C (Payment of account-holders with declared ADI) of Division 2AA of Part II of the _Banking Act 1959_; or
 
                              (ii)  paying APRA’s agents or delegates amounts equal to the entitlements the agents or delegates meet on APRA’s behalf or in the performance of APRA’s delegated functions;
 
@@ -1100,7 +1098,7 @@ Note:          See section 21 of the _Financial Management a
 
              (6)  In this section:
 
-                    <a name="borrow"></a>**_borrow_** includes raise money or obtain credit, whether by dealing in securities or otherwise, but does not include obtain credit in a transaction forming part of the day‑to‑day operations of APRA.
+                    <a name="borrow"></a>**_borrow_** includes raise money or obtain credit, whether by dealing in securities or otherwise, but does not include obtain credit in a transaction forming part of the day-to-day operations of APRA.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
@@ -1112,9 +1110,9 @@ Note:          See section 21 of the _Financial Management a
 
              (2)  Subject to subsection (3), the regulations may provide that subsection (1) or subsection (1A) does not apply in relation to a specified law of the Commonwealth or of a State or Territory, or to laws included in a specified class of laws of the Commonwealth or of a State or Territory.
 
-Note:          Despite subsection (1), APRA may be subject to taxation under certain laws (see, for example, section 177‑5 of the _A New Tax System (Goods and Services Tax) Act 1999_).
+Note:          Despite subsection (1), APRA may be subject to taxation under certain laws (see, for example, section 177-5 of the _A New Tax System (Goods and Services Tax) Act 1999_).
 
-             (3)  If regulations made for the purpose of subsection (2) provide that subsection (1) does not apply in relation to the laws of the Commonwealth that impose income tax, APRA is to be taken not to be a public authority for the purposes of section 50‑25 of the _Income Tax Assessment Act 1997_.
+             (3)  If regulations made for the purpose of subsection (2) provide that subsection (1) does not apply in relation to the laws of the Commonwealth that impose income tax, APRA is to be taken not to be a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
 
 ## Part 6—Secrecy
 
@@ -1384,13 +1382,13 @@ Contents of annual report
 
                              (ii)  the activities of persons conducting investigations under section 61 of the _Banking Act 1959_;
 
-                            (iii)  the operation of Division 2AA (Financial claims scheme for account‑holders with insolvent ADIs) of Part II of the _Banking Act 1959_;
+                            (iii)  the operation of Division 2AA (Financial claims scheme for account-holders with insolvent ADIs) of Part II of the _Banking Act 1959_;
 
                     (aa)  information on the operation of Part VC (Financial claims scheme for policyholders with insolvent general insurers) of the _Insurance Act 1973_;
 
                      (b)  information on the exercise during the year of APRA’s powers under Part 15 of the _Retirement Savings Accounts Act 1997_ and under Part 29 of the _Superannuation Industry (Supervision) Act 1993_;
 
-                   (ba)  a statement of the number of times during the year that APRA determined, under subsection 13(1) of the _Financial Sector (Collection of Data) Act 2001_, a reporting standard that is not a legislative instrument;
+                    (ba)  a statement of the number of times during the year that APRA determined, under subsection 13(1) of the _Financial Sector (Collection of Data) Act 2001_, a reporting standard that is not a legislative instrument;
 
                      (c)  information on any other matters required by the regulations;
 
@@ -1412,7 +1410,7 @@ Annual report to be tabled in Parliament
 
 ##### <a id="60"></a>60  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1823,7 +1821,7 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Financial Sector Legislation Amendment (Trans‑Tasman Banking Supervision) Act 2006</div>
+    <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
   </td>
   <td>
     <div>147, 2006</div>
@@ -1975,40 +1973,6 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 234, 235) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 18, 19): <i>(l)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Prudential Regulation Authority Act 1998_ was amended by Schedule 18 (items 41 and 42) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(18) of which provides as follows:
@@ -2021,7 +1985,7 @@ _(a)_     The _Australian Prudential Regulation Authority Act 1998_ was 
 
          The _Public Service Act 1999_ commenced on 5 December 1999 (_see Gazette_ 1999, No. S584).
 
-_(b)_     The _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_ was amended by Schedule 1 (items 486 and 487) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (4) of which provide as follows:
+_(b)_    The _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_ was amended by Schedule 1 (items 486 and 487) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (4) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -2031,9 +1995,9 @@ _(b)_     The _Financial Sector Reform (Amendments and Transitional Prov
 
                               (b)   at the time when the _Public Service Act 1999_ commences, the amended section:
 
-                                        (i)   has not yet been enacted; or
+                                         (i)   has not yet been enacted; or
 
-                                       (ii)   has been enacted but has not yet commenced;
+                                        (ii)   has been enacted but has not yet commenced;
 
                          then the amending item commences immediately after the commencement of the amended section.
 
@@ -2287,7 +2251,8 @@ _(k)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amend
 <tr>
   <td>
     <div>
-      3\. Schedules 2 to 5
+      3\. Schedules 
+      2 to 5
     </div>
   </td>
   <td>
@@ -2298,61 +2263,6 @@ _(k)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amend
   <td>
     <div>
       18 October 2008
-    </div>
-  </td>
-</tr></table>
-
-_(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
     </div>
   </td>
 </tr></table>
@@ -2393,7 +2303,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 44, 1999; No. 160, 2000; Nos. 55 and 119, 2001; No. 42, 2003; No. 147, 2006; Nos. 74 and 117, 2007; Nos. 45 and 105, 2008; No. 75, 2009; No. 58, 2011</div>
+    <div>am. No. 44, 1999; No. 160, 2000; Nos. 55 and 119, 2001; No. 42, 2003; No. 147, 2006; Nos. 74 and 117, 2007; Nos. 45 and 105, 2008; No. 75, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2601,7 +2511,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div></div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3289,26 +3199,6 @@ No. 42, 2003</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 234  At the end of subsections 19(1), (2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 235  Subsection 19(5)
-
-Repeal the subsection.
-
-As at 13 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3319,7 +3209,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -3327,7 +3217,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -3341,9 +3231,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -3351,15 +3241,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -3375,7 +3265,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
@@ -3395,7 +3285,7 @@ In this Part:
 
 **_Imposition Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_; 
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_; 
 
                      (b)  the _General Insurance Supervisory Levy Imposition Act 1998_; 
 
@@ -3409,7 +3299,7 @@ In this Part:
 
 **_Validation Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
 
                      (b)  the _General Insurance Supervisory Levy Determination Validation Act 2000_;
 
@@ -3421,13 +3311,13 @@ In this Part:
 
 ## 2  Deferral of date for paying levy
 
-(1)       This item applies to a levy paying entity if, because of section 4 of a Validation Act:
+(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
 
                      (a)  the entity is liable to pay levy imposed by an Imposition Act; and
 
                      (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
 
-(2)       The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
+(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
@@ -3467,17 +3357,17 @@ On the commencement of this Schedule, the Register of Corporations that, immedia
 
 ## 3  Former list of registered corporations and categories
 
-(1)       On the commencement of this Schedule:
+(1)        On the commencement of this Schedule:
 
                      (a)  the list (the **_former list_**) of registered corporations, divided into categories, that, immediately before that commencement, was prepared by the Reserve Bank under section 10 of the _Financial Corporations Act 1974_ continues in existence as a list (the **_new list_**) of the names of registered entities, divided into categories, kept by APRA under subsection 11(1) of the _Financial Sector (Collection of Data) Act 2001_; and
 
                      (b)  a reference in any instrument having effect under an Act to a corporation included in a particular category in the former list is taken to be a reference to that corporation in its capacity as a registered entity included in the corresponding category in the new list.
 
-(2)       An obligation on the Reserve Bank to publish notice, or to notify a person, of a matter under section 10 of the _Financial Corporations Act 1974_, being an obligation that is undischarged as at the commencement of this Schedule, becomes, on that commencement, an obligation that APRA is to discharge in respect of the corresponding matter under section 11 of the _Financial Sector (Collection of Data) Act 2001_.
+(2)        An obligation on the Reserve Bank to publish notice, or to notify a person, of a matter under section 10 of the _Financial Corporations Act 1974_, being an obligation that is undischarged as at the commencement of this Schedule, becomes, on that commencement, an obligation that APRA is to discharge in respect of the corresponding matter under section 11 of the _Financial Sector (Collection of Data) Act 2001_.
 
-(3)       A determination by the Reserve Bank that was in force under a provision of section 10 of the _Financial Corporations Act 1974_ immediately before the commencement of this Schedule continues to have effect, after that commencement, as if it were a determination by APRA under the corresponding provision of section 11 of the _Financial Sector (Collection of Data) Act 2001_.
+(3)        A determination by the Reserve Bank that was in force under a provision of section 10 of the _Financial Corporations Act 1974_ immediately before the commencement of this Schedule continues to have effect, after that commencement, as if it were a determination by APRA under the corresponding provision of section 11 of the _Financial Sector (Collection of Data) Act 2001_.
 
-(4)       A request to the Reserve Bank under subsection 10(7) of the _Financial Corporations Act 1974_ that has not been dealt with by the commencement of this Schedule is, after that commencement, to be dealt with by APRA as if it were a request under subsection 11(7) of the _Financial Sector (Collection of Data) Act 2001_.
+(4)        A request to the Reserve Bank under subsection 10(7) of the _Financial Corporations Act 1974_ that has not been dealt with by the commencement of this Schedule is, after that commencement, to be dealt with by APRA as if it were a request under subsection 11(7) of the _Financial Sector (Collection of Data) Act 2001_.
 
 ## 4  Definitions
 
@@ -3516,11 +3406,11 @@ In this Schedule:
 
 ## 2  APRA’s corporate existence is continued
 
-(1)       The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
 
 _Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
 
-(2)       However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
 
 _Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
 
@@ -3532,11 +3422,11 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
-(3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
@@ -3550,15 +3440,15 @@ An approval in force, immediately before the commencement of the amendments, und
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
-(2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
 * * *
 
@@ -3568,7 +3458,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -3576,7 +3466,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -3595,7 +3485,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -3621,17 +3511,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -3719,19 +3609,19 @@ In this Schedule:
 
                      (c)  in relation to APRA—an APRA member.
 
-## 11  Pre‑existing property, money and financial liabilities
+## 11  Pre-existing property, money and financial liabilities
 
-(1)       Any real or personal property or money that is held by APRA immediately before the commencement time is taken, immediately after that time, to be held by APRA for and on behalf of the Commonwealth.
+(1)        Any real or personal property or money that is held by APRA immediately before the commencement time is taken, immediately after that time, to be held by APRA for and on behalf of the Commonwealth.
 
-(2)       Any financial liabilities of APRA that exist immediately before the commencement time are taken, immediately after that time, to be liabilities of the Commonwealth.
+(2)        Any financial liabilities of APRA that exist immediately before the commencement time are taken, immediately after that time, to be liabilities of the Commonwealth.
 
-(3)       After the commencement time, there must be credited to the Australian Prudential Regulation Authority Special Account an amount equal to the total of all money held by APRA immediately before the commencement time.
+(3)        After the commencement time, there must be credited to the Australian Prudential Regulation Authority Special Account an amount equal to the total of all money held by APRA immediately before the commencement time.
 
 ## 12  Appointment and engagement of staff and consultants
 
-(1)       A person who is appointed or engaged by APRA under section 45 or 47 of the _Australian Prudential Regulation Authority Act 1998_ immediately before the commencement time, is taken to be appointed or engaged (as the case requires) by the Chair, on behalf of APRA, immediately after the commencement time.
+(1)        A person who is appointed or engaged by APRA under section 45 or 47 of the _Australian Prudential Regulation Authority Act 1998_ immediately before the commencement time, is taken to be appointed or engaged (as the case requires) by the Chair, on behalf of APRA, immediately after the commencement time.
 
-(2)       If:
+(2)        If:
 
                      (a)  an instrument is in force under section 45 or 47 of the _Australian Prudential Regulation Authority Act 1998_ immediately before the commencement time; and
 
@@ -3739,7 +3629,7 @@ In this Schedule:
 
 so far as the context permits, the instrument has effect from the commencement time as if the reference to APRA were a reference to the Chair of APRA.
 
-(3)       To avoid doubt, the amendments made by items 53 to 56 of Schedule 1 do not constitute a transmission of business for the purposes of the _Workplace Relations Act 1996_.
+(3)        To avoid doubt, the amendments made by items 53 to 56 of Schedule 1 do not constitute a transmission of business for the purposes of the _Workplace Relations Act 1996_.
 
 ## 13  Access to records
 
@@ -3749,7 +3639,7 @@ For the purposes of the operation of subsection 27L(4) of the _Commonwealth Auth
 
 Reporting requirements
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before the commencement time, a law required an Agency or a member of the Agency to provide a report (whether financial statements or otherwise) for a period; and
 
@@ -3757,7 +3647,7 @@ Reporting requirements
 
 the Agency head must provide the report, as required, for so much of the period as occurs before the commencement time.
 
-(2)       If:
+(2)        If:
 
                      (a)  under subitem (1), the Agency head is required to provide a report for a part of a period; and
 
@@ -3767,7 +3657,7 @@ the Agency head may meet the requirements in a single report for the period.
 
 Outstanding reporting requirements
 
-(3)       If:
+(3)        If:
 
                      (a)  a law required the Agency or a member of the Agency to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
 
@@ -3777,11 +3667,11 @@ the Agency head must provide the report as required.
 
 Application of law to Agency head
 
-(4)       To avoid doubt, if, under this item, an Agency head is required to provide a report under a law, the law applies to the Agency head in respect of the report in the same way as the law would have applied to the Agency or the member of the Agency in respect of the report.
+(4)        To avoid doubt, if, under this item, an Agency head is required to provide a report under a law, the law applies to the Agency head in respect of the report in the same way as the law would have applied to the Agency or the member of the Agency in respect of the report.
 
-## 15  New annual report requirements to apply from 2007‑2008 and later financial years
+## 15  New annual report requirements to apply from 2007-2008 and later financial years
 
-Sections 136 and 162 of the _Australian Securities and Investments Commission Act 2001_(as inserted by items 12 and 46 of Schedule 1 to this Act), and item 66 of Schedule 1 to this Act, apply to the 2007‑2008 financial year and later financial years.
+Sections 136 and 162 of the _Australian Securities and Investments Commission Act 2001_(as inserted by items 12 and 46 of Schedule 1 to this Act), and item 66 of Schedule 1 to this Act, apply to the 2007-2008 financial year and later financial years.
 
 ## 16  Continuing obligation to keep records
 
@@ -3789,9 +3679,9 @@ If, immediately before this item commences, an Agency has kept accounting record
 
 ## 17  Constitutional safety net—acquisition of property
 
-(1)       If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+(1)        If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
 ## 18  Exemption from stamp duty and other State or Territory taxes
 
@@ -3803,34 +3693,18 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 ## 19  Delegation by Minister
 
-(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule, in relation to an Agency, to the Agency head.
+(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule, in relation to an Agency, to the Agency head.
 
-(2)       In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
+(2)        In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
 
 ## 20  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Schedule to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
 
  
