@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00485/Html/FisheriesLevy84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00452/Html/FisheriesLevy84_WD02_image001.gif)
 
 # Fisheries Levy Act 1984
 
-**Act No. 151 of 1984 as amended**
+**Act No. 151 of 1984 as amended**
 
-This compilation was prepared on 26 July 2007
- taking into account amendments up to Act No. 105 of 2007
+This compilation was prepared on 9 July 2007
+ taking into account amendments up to Act No. 105 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,21 +18,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Application of Act                                                                              1
+[4](#4).            Application of Act
 
-[5](#5).            Imposition of levy                                                                               1
+[5](#5).            Imposition of levy
 
-[6](#6).            Amount of levy                                                                                   3
+[6](#6).            Amount of levy
 
-[7](#7).            Payment of levy                                                                                  3
+[7](#7).            Payment of levy
 
-[8](#8).            Regulations                                                                                          4
+[8](#8).            Regulations
 
 **Notes** 
 
@@ -54,9 +54,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fisheri"></a>**_fishery_** means a class of activities by way of fishing, being a class of such activities that is identified in a plan of management as a fishery to which the plan of management applies.
 
-                    <a name="plan-manag"></a>**_plan of management_** means a plan of management determined under subsection 7B(1) of the _Fisheries Act 1952_ or section 15A of the _Torres Strait__Fisheries Act 1984_.
+                    <a name="plan-manag"></a>**_plan of management_** means a plan of management determined under subsection 7B(1) of the _Fisheries Act 1952_.
 
-             (2)  A reference in this Act to units of fishing capacity is a reference to the units into which, under a plan of management for a fishery, the fishing capacity or a part of the fishing capacity permitted for the fishery is divided.
+             (2)  A reference in this Act to units of fishing capacity is a reference to the units into which, under a plan of management for a fishery, the fishing capacity permitted for the fishery is divided.
 
 ##### <a id="4"></a>4  Application of Act
 
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The amount of the levy imposed by this Act on the grant of a fisheries licence, the renewal of a fisheries licence, the endorsement of a fisheries licence, the variation of a fisheries licence, the allocation of a unit of fishing capacity, the renewal of the allocation of a unit of fishing capacity or the making of an entry in a fisheries licence is such amount as is specified in, or calculated in accordance with, the regulations.
 
-             (2)  Regulations made for the purposes of subsection (1) may specify different amounts of, or prescribe different methods of calculating amounts of, levy in respect of:
+             (2)  Regulations made for the purposes of subsection (1) may specify different amounts of, or prescribe different methods of calculating amounts of, levy in respect of:
 
                      (a)  fisheries licences included in different classes of fisheries licences;
 
@@ -120,9 +120,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Regulations
 
-             (1)  The Governor-General may make regulations for the purposes of sections 5 and 6.
+             (1)  The Governor-General may make regulations for the purposes of sections 5 and 6.
 
-             (2)  Notwithstanding section 49A of the _Acts Interpretation Act 1901_, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a plan of management, being a plan of management as in force at a particular time or as in force from time to time. 
+             (2)  Notwithstanding section 49A of the _Acts Interpretation Act 1901_, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a plan of management, being a plan of management as in force at a particular time or as in force from time to time. 
 
 # Notes to the _Fisheries Levy Act 1984_
 
@@ -173,7 +173,7 @@ of Assent</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>31 Aug 1985 ( <i>see Gazette</i>1985, No. S347)</div>
+    <div>31 Aug 1985 ( <i>see Gazette</i>1985, No. S347)</div>
   </td>
   <td>
     <div></div>
@@ -187,7 +187,7 @@ of Assent</div>
     <div>30, 1985</div>
   </td>
   <td>
-    <div>22 May 1985</div>
+    <div>22 May 1985</div>
   </td>
   <td>
     <div>31 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S347)</div>
@@ -204,11 +204,11 @@ of Assent</div>
     <div>105, 2007</div>
   </td>
   <td>
-    <div>28 June 2007</div>
+    <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 26 July 2007 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 3–8): \[ <i>see</i>s. 2(1) and Note 2] 
+    <div>Schedule 1 (items 1, 2): \[ <i>see</i>s. 2(1) and Note 2] 
+Schedule 1 (items 3–8): \[ <i>see</i>s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -244,7 +244,7 @@ Remainder: Royal Assent</div>
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 30, 1985</div>
+    <div>am. No. 30, 1985</div>
   </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ Remainder: Royal Assent</div>
     <div>S. 1</div>
   </td>
   <td>
-    <div>am. No. 30, 1985</div>
+    <div>am. No. 30, 1985</div>
   </td>
 </tr>
 <tr>
@@ -260,15 +260,7 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>rs. No. 30, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 105, 2007</div>
+    <div>rs. No. 30, 1985</div>
   </td>
 </tr>
 <tr>
@@ -276,7 +268,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 5–8</div>
   </td>
   <td>
-    <div>am. No. 30, 1985</div>
+    <div>am. No. 30, 1985</div>
   </td>
 </tr></table>
 
@@ -284,7 +276,19 @@ Remainder: Royal Assent</div>
 
 _Fisheries Levy Amendment Act 2007 (No. 105, 2007)_
 
-The following amendments commence on 28 June 2008:
+The following amendments commence on 26 July 2007:
+
+## Schedule 1
+
+## 1  Subsection 3(1) (at the end of the definition of _plan of management_)
+
+Add “or section 15A of the _Torres Strait__Fisheries Act 1984_”.
+
+## 2  Subsection 3(2)
+
+After “the fishing capacity”, insert “or a part of the fishing capacity”.
+
+The following amendments commence on 28 June 2008:
 
 ## Schedule 1
 
@@ -292,7 +296,7 @@ The following amendments commence on 28 June 2008:
 
 After “imposed on”, insert “the following”.
 
-## 4  Paragraph 5(d)
+## 4  Paragraph 5(d)
 
 Omit “or (3)”, substitute “, (3) or (4A)”.
 
@@ -314,7 +318,7 @@ Omit “and”.
 
 Omit “or (3)”, substitute “, (3) or (4A)”.
 
-As at 26 July 2007 the amendments are not incorporated in this compilation.
+As at 9 July 2007 the amendments are not incorporated in this compilation.
 
  
 
