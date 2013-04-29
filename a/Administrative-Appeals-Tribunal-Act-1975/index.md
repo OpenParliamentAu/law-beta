@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00572/Html/AdminAppealsTribunal75_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00470/Html/AdminAppealsTribunal75AE_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 15 December 2009
- taking into account amendments up to Act No. 122 of 2009
+This compilation was prepared on 12 October 2009
+ taking into account amendments up to Act No. 99 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -377,7 +377,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> </span>[_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> </span>[_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -1403,7 +1403,11 @@ the following provisions apply:
 
              (3)  The powers given to the President by subsection (2) are in addition to any powers given to the President by any other provision of this Act or by any other Act.
 
-             (4)  Subsection (2) does not authorise the President to enter into a contract under which the Commonwealth is to pay or receive an amount exceeding $250,000 or, if a higher amount is prescribed, that higher amount, except with the approval of the Minister.
+             (4)  Subsection (2) does not authorise the President to:
+
+                     (a)  acquire any interest or right that would constitute an interest in land for the purposes of the _Lands Acquisition Act 1989_; or
+
+                     (b)  enter into a contract under which the Commonwealth is to pay or receive an amount exceeding $250,000 or, if a higher amount is prescribed, that higher amount, except with the approval of the Minister.
 
 ##### <a id="24B"></a>24B  Registrar of the Tribunal
 
@@ -2901,7 +2905,7 @@ the Tribunal may, if it appears to it to be appropriate to do so, act in accorda
 
              (3)  If the agreement relates to a part of the proceeding or a matter arising out of the proceeding, the Tribunal may in its decision in the proceeding give effect to the terms of the agreement without, if it has not already done so, dealing at the hearing of the proceeding with the part of the proceeding or the matter arising out of the proceeding, as the case may be, to which the agreement relates.
 
-##### <a id="42D"></a>42D  Power to remit matters to decision-maker for further consideration
+##### <a id="42D"></a>42D  Power to remit matters to decision-maker for further consideration
 
              (1)  At any stage of a proceeding for review of a decision, the Tribunal may remit the decision to the person who made it for reconsideration of the decision by the person.
 
@@ -5119,24 +5123,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009</div>
-  </td>
-  <td>
-    <div>122, 2009</div>
-  </td>
-  <td>
-    <div>7 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 5): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 5) \[in part] 
-\[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(2) of which provides as follows: 
@@ -6189,23 +6175,7 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 122, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24B</div>
+    <div>Ss. 24A, 24B</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
@@ -8827,93 +8797,6 @@ In this Part:
 ## 15  Transitional—_Administrative Appeals Tribunal Act 1975_
 
 If, on or after the commencement day, there are proceedings of the Administrative Appeals Tribunal to which paragraph 21AA(5)(c) of the _Administrative Appeals Tribunal Act 1975_ applies and which relate to the old Act, the amendment made by item 1 of Schedule 1 is, for the purposes of those proceedings, taken not to have been made.
-
-* * *
-
-_Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009
- (No. 122, 2009)_
-
-## Schedule 3
-
-## 5  Saving of regulations
-
-(1)        Despite the repeal of a provision that is specified in column 2 of the following table, as in force immediately before commencement, regulations that:
-
-                     (a)  were made for the purposes of that provision; and
-
-                     (b)  were in force immediately before commencement;
-
-continue to have effect on and after commencement as if those regulations had been made for the purposes of the corresponding provision, as in force after commencement, that is specified in column 3 of the table in relation to that provision:
-
-<table>
-<colgroup>
-  <col width="17%">
-  <col width="36%">
-  <col width="47%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Saving of regulations</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Provision</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Corresponding provision</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>paragraph 24A(4)(b) of the
-      <i>Administrative Appeals Tribunal Act 1975</i>
-    </div>
-  </td>
-  <td>
-    <div>subsection 24A(4) of the
-      <i>Administrative Appeals Tribunal Act 1975</i>
-    </div>
-  </td>
-</tr></table>
-
-(2)        In this item:
-
-**_commencement_** means the commencement of this item.
 
 ## Table B
 
