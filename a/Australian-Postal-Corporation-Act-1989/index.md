@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00142/Html/ca6cb006-b146-44ef-a175-6f5c9d6de01b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00685/Html/78f29f78-b70c-4bbf-b693-a63f11694068_files/image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 29 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -514,7 +514,7 @@ and includes:
 
 ##### <a id="8"></a>8  Extension of Act to certain external Territories
 
-                   This Act extends to the external Territories (other than Norfolk Island).
+                   This Act extends to the external Territories (other than Norfolk Island).
 
 ##### <a id="9"></a>9  Extension of Act to offshore areas
 
@@ -1028,7 +1028,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (3)  The terms and conditions of a bulk interconnection service are not required to be limited to the matters mentioned in this section.
 
-##### <a id="32B"></a>32B  Regulations may provide for inquiries into certain disputes about bulk services
+##### <a id="32B"></a>32B  Regulations may provide for inquiries into certain disputes about bulk services
 
              (1)  The regulations may provide:
 
@@ -1738,15 +1738,21 @@ the Deputy Chairperson shall act as Chairperson.
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is acting as Chairperson or is unable, for any reason, to attend meetings of the Board.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as a director referred to in paragraph 22(d):
 
                      (a)  during a vacancy in the office of such a director; or
 
                      (b)  during any period, or during all periods, when such a director is acting as Deputy Chairperson or is unable, for any reason, to attend meetings of the Board.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in relation to the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ### Division 3—Provisions relating to the Managing Director
 
@@ -1776,13 +1782,21 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="88"></a>88  Acting Managing Director
 
-                   The Board may appoint a director or another person to act as Managing Director:
+             (1)  The Board may appoint a director or another person to act as Managing Director:
 
                      (a)  during a vacancy in the office of Managing Director; or
 
                      (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act as Managing Director is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in relation to the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ## Part 7—Australia Post’s staff
 
@@ -1792,7 +1806,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  The terms and conditions of employment shall be determined by Australia Post.
 
-##### <a id="90"></a>90  Australia Post as employer
+##### <a id="90"></a>90  Australia Post as employer
 
                    Australia Post shall endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non‑discriminatory employment practices and other matters.
 
@@ -1859,6 +1873,8 @@ only applies to Australia Post on and after that day.
                     <a name="authorised-disclos"></a>**_authorised discloser_** has the meaning given by section 90FA.
 
                     <a name="authorised-examin"></a>**_authorised examiner_** has the meaning given by section 90FB.
+
+                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, Sunday or a public holiday in the place concerned.
 
                     <a name="complianc-agenc"></a>**_compliance agency_** means any of the following:
 
@@ -3086,10 +3102,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="17%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -3662,7 +3678,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 228–233) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 228–233) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3748,6 +3764,44 @@ _(m)_    The _Australian Postal Corporation Act 1989_ was amended by Sched
 _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (item 62) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 228  At the end of subsections 82(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 229  Subsection 82(3)
+
+Repeal the subsection.
+
+## 230  Subsection 88(1)
+
+Omit “(1)”.
+
+## 231  At the end of subsection 88(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 232  Subsection 88(3)
+
+Repeal the subsection.
+
+## 233  Section 90E (definition of _business day_)
+
+Repeal the definition.
+
+As at 29 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table of Amendments
 
@@ -4430,22 +4484,6 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
 </tr>
 <tr>
   <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 82(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -4465,15 +4503,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 88</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 88</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 142, 1994</div>
   </td>
 </tr>
 <tr>
@@ -4502,7 +4532,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
 </tr>
 <tr>
   <td>
-    <div><b>Part 7B</b></div>
+    <div><b>Part 7B</b></div>
   </td>
   <td>
     <div></div>
@@ -4537,7 +4567,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007; No. 33, 2009; No. 103, 2010; No. 46, 2011</div>
+    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007; No. 33, 2009; No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5067,6 +5097,8 @@ The amendments made by this Schedule apply to articles in the course of post on 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
