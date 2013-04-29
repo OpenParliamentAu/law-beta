@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image001.gif)
 
 # Superannuation (Productivity Benefit) Act 1988
 
 **Act No. 70 of 1988 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -154,7 +154,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  an Agency within the meaning of the _Public Service Act 1999_; or
 
-                     (b)  a Department of the Parliament established under the _Parliamentary Service Act 1999_.
+                     (b)  a Department of the Parliament.
 
                     <a name="design-employ"></a>**_designated employer_**, in relation to a qualified employee, means:
 
@@ -174,8 +174,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  in any other case—such person as is determined by the Minister.
 
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="fund"></a>**_Fund_** has the same meaning as in the new Superannuation Act.
 
                     <a name="fund-employe"></a>**_fund employee_** means a remainder employee who is a member of a declared fund.
@@ -188,7 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in the case of the year commencing on 1 January 1988—0.1286; or
 
-                     (b)  in the case of a subsequent year—the rate, expressed as a fraction, that is the assessed secondary market yield last published by the Reserve Bank before 1 January in that year in respect of 10‑year non‑rebate Treasury bonds or, if such a yield had not been published by the Reserve Bank in the period of 3 months ending on that day, the rate fixed by the Minister by notice published in the _Gazette_ in relation to that year.
+                     (b)  in the case of a subsequent year—the rate, expressed as a fraction, that is the assessed secondary market yield last published by the Reserve Bank before 1 January in that year in respect of 10-year non-rebate Treasury bonds or, if such a yield had not been published by the Reserve Bank in the period of 3 months ending on that day, the rate fixed by the Minister by notice published in the _Gazette_ in relation to that year.
 
                     <a name="new-superannu-act"></a>**_new Superannuation Act_** means the _Superannuation Act 1990_.
 
@@ -248,11 +246,11 @@ other than a pay period that has been taken into account in determining the amou
 
                      (a)  if paragraph (b), (c) or (d) does not apply—one;
 
-                     (b)  if the person was paid on a part‑time basis throughout the pay period, including ongoing compensation payments on such a basis—the fraction obtained by dividing the amount of salary that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid or received those compensation payments on a full‑time basis throughout that period;
+                     (b)  if the person was paid on a part-time basis throughout the pay period, including ongoing compensation payments on such a basis—the fraction obtained by dividing the amount of salary that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid or received those compensation payments on a full-time basis throughout that period;
 
                      (c)  if the person received reduced salary throughout the pay period—the fraction obtained by dividing the amount of salary that the person received in respect of the pay period by the amount that the person would have received if the person had not received reduced salary; or
 
-                     (d)  if the person was paid on a part‑time basis throughout the pay period and received reduced salary throughout the pay period—the fraction obtained by dividing the amount of salary that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid on a full‑time basis throughout that period and had not received reduced salary.
+                     (d)  if the person was paid on a part-time basis throughout the pay period and received reduced salary throughout the pay period—the fraction obtained by dividing the amount of salary that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid on a full-time basis throughout that period and had not received reduced salary.
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October.
 
@@ -284,7 +282,7 @@ other than a pay period that has been taken into account in determining the amou
 
                     <a name="yearli-interest-factor"></a>**_yearly interest factor_**, in relation to a qualified employee in respect of whom an interim benefit is payable in relation to the year commencing on 1 January 1988 or a subsequent year, means the number ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image002.gif)
 
 where:
 
@@ -308,7 +306,7 @@ where:
 
                      (b)  the benefit became payable in a pay period that ends in the following year;
 
-the pay period shall, for the purpose only of determining the number of pay periods ending during the person’s period of employment as a qualified employee in the first‑mentioned year in respect of that benefit, be taken to end in the first‑mentioned year.
+the pay period shall, for the purpose only of determining the number of pay periods ending during the person’s period of employment as a qualified employee in the first-mentioned year in respect of that benefit, be taken to end in the first-mentioned year.
 
              (4)  For the purposes of the definitions of **_annual rate of contribution_** and **_average annual rate of contribution_** in subsection (1), if a person’s annual rate of salary on a particular day is later adjusted with retrospective effect to that day, that adjustment shall be taken into account.
 
@@ -340,7 +338,7 @@ and the provision of benefits referred to in paragraph (a), (b) or (c) is not 
 
              (1)  This section applies if:
 
-                     (a)  at a particular time (the **_PSSAP cessation time_**) during the financial year beginning on 1 July 2005, a person ceased to be an ordinary employer‑sponsored member of PSSAP; and
+                     (a)  at a particular time (the **_PSSAP cessation time_**) during the financial year beginning on 1 July 2005, a person ceased to be an ordinary employer-sponsored member of PSSAP; and
 
                      (b)  immediately before the PSSAP cessation time:
 
@@ -392,23 +390,23 @@ and the provision of benefits referred to in paragraph (a), (b) or (c) is not 
 
              (1)  For the purposes of this Act, the rate of salary of a remainder employee for a pay period of the employee is taken to be:
 
-                     (a)  where the employee worked on a full‑time basis for the whole of his or her first pay period after whichever is the later of the commencement of his or her employment by his or her current designated employer or the last anniversary of the employee’s birth—the employee’s rate of salary for that first pay period; or
+                     (a)  where the employee worked on a full-time basis for the whole of his or her first pay period after whichever is the later of the commencement of his or her employment by his or her current designated employer or the last anniversary of the employee’s birth—the employee’s rate of salary for that first pay period; or
 
-                     (b)  in any other case—what would have been the employee’s rate of salary for that first pay period if he or she had worked on a full‑time basis for the whole of it at the same hourly or other rate as that at which he or she was paid.
+                     (b)  in any other case—what would have been the employee’s rate of salary for that first pay period if he or she had worked on a full-time basis for the whole of it at the same hourly or other rate as that at which he or she was paid.
 
           (1A)  In working out under subsection (1) the rate of salary of a remainder employee for a pay period, any ongoing compensation payments received by the employee in respect of his or her employment as such an employee during the first pay period mentioned in that subsection are taken to be salary paid to the employee.
 
-             (2)  Where a remainder employee is re‑employed by a designated employer:
+             (2)  Where a remainder employee is re-employed by a designated employer:
 
                      (a)  later than 12 months after the employee last ceased to be employed by the employer; or
 
                      (b)  for the performance of duties that are not the same as, nor similar to, the duties he or she performed when last employed by the employer;
 
-then, for the purposes of subsection (1) in relation to a pay period after the re‑employment, the employee is taken to have commenced employment with the employer when he or she commenced re‑employment.
+then, for the purposes of subsection (1) in relation to a pay period after the re-employment, the employee is taken to have commenced employment with the employer when he or she commenced re-employment.
 
 ##### <a id="3C"></a>3C  Continuing contributions
 
-             (1)  Subject to this section, where a fund employee is employed on a full‑time basis, the continuing contribution in respect of the employee for a pay period of the employee is:
+             (1)  Subject to this section, where a fund employee is employed on a full-time basis, the continuing contribution in respect of the employee for a pay period of the employee is:
 
                      (a)  where the period is a week—the amount ascertained in accordance with the Table in the Schedule; or
 
@@ -420,39 +418,39 @@ then, for the purposes of subsection (1) in relation to a pay period after the
 
                      (e)  where the period is a month—the amount ascertained in accordance with that Table as if those sums were multiplied by 4 1/3.
 
-             (2)  Subject to this section, where a fund employee is employed on a part‑time basis, the continuing contribution in respect of the employee for a pay period of the employee is the amount calculated using whichever of the following formulas the employee’s designated employer considers to be convenient: 
+             (2)  Subject to this section, where a fund employee is employed on a part-time basis, the continuing contribution in respect of the employee for a pay period of the employee is the amount calculated using whichever of the following formulas the employee’s designated employer considers to be convenient: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image004.gif)
 
 where:
 
                     <a name="actual-salari"></a>**_Actual salary_** means the salary payable to the employee for the pay period.
 
-                    <a name="full-time-salari"></a>**_Full‑time salary_** means the salary that would have been payable to the employee for the period if he or she performed his or her duties on a full‑time basis.
+                    <a name="full-time-salari"></a>**_Full-time salary_** means the salary that would have been payable to the employee for the period if he or she performed his or her duties on a full-time basis.
 
-                    <a name="full-time-continu-contribut"></a>**_Full‑time continuing contribution_** means the amount that would be the continuing contribution in respect of the employee for the pay period if he or she performed his or her duties on a full‑time basis.
+                    <a name="full-time-continu-contribut"></a>**_Full-time continuing contribution_** means the amount that would be the continuing contribution in respect of the employee for the pay period if he or she performed his or her duties on a full-time basis.
 
-                    <a name="part-time-hour"></a>**_Part‑time hours_** means the number of hours in the pay period for which the employee is paid.
+                    <a name="part-time-hour"></a>**_Part-time hours_** means the number of hours in the pay period for which the employee is paid.
 
-                    <a name="full-time-hour"></a>**_Full‑time hours_** means the number of hours that the employee would work in the pay period if he or she performed his or her duties on a full‑time basis.
+                    <a name="full-time-hour"></a>**_Full-time hours_** means the number of hours that the employee would work in the pay period if he or she performed his or her duties on a full-time basis.
 
-          (2A)  Subject to this section, where a fund employee who is employed on a full‑time basis is on leave without pay during the whole or part of a pay period of the employee, the continuing contribution in respect of the employee for the pay period is:
+          (2A)  Subject to this section, where a fund employee who is employed on a full-time basis is on leave without pay during the whole or part of a pay period of the employee, the continuing contribution in respect of the employee for the pay period is:
 
                      (a)  if the employee is on leave without pay during the whole of the pay period—nil; or
 
                      (b)  if the employee is on leave without pay for part only of the pay period—the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
                             where:
 
                             **_Actual salary_** means the salary payable to the employee for the pay period.
 
-                            **_Full‑time salary_** means the salary that would have been payable to the employee for the period if he or she had not been on leave without pay.
+                            **_Full-time salary_** means the salary that would have been payable to the employee for the period if he or she had not been on leave without pay.
 
-                            **_Full‑time continuing contribution_** means the amount that would be the continuing contribution in respect of the employee for the pay period if he or she had not been on leave without pay.
+                            **_Full-time continuing contribution_** means the amount that would be the continuing contribution in respect of the employee for the pay period if he or she had not been on leave without pay.
 
              (3)  Where the Minister makes a declaration under section 3D in relation to a period, the Table set out in the Schedule has effect in relation to that period as if it had been varied in accordance with the declaration.
 
@@ -560,7 +558,7 @@ where:
 
              (3)  A designated employer of a fund employee is not required to make a payment of continuing contributions before the first day on which salary is payable to the employee on or after 1 July 1990.
 
-##### <a id="4G"></a>4G  Interest
+##### <a id="4G"></a>4G  Interest
 
              (1)  For the purposes of sections 4E and 4F, the interest fixed under this section in relation to a fund on a day is the interest calculated in a way determined by the Minister by legislative instrument.
 
@@ -592,7 +590,7 @@ whether or not that service commenced before the commencement of this subsection
 
                      (b)  a break in employment for a period not exceeding 6 months by a person included in a prescribed class shall be ignored for the purposes of determining whether the person has had a continuous period of service with an employer; and
 
-                     (c)  if a person is employed during a period on a part‑time basis, including a period during which the person receives ongoing compensation payments on such a basis in respect of the person’s current employment, the person’s service during that period shall be reduced by multiplying the number of days in that period by the fraction obtained by dividing the amount of salary, or compensation payments, that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid or received compensation payments on a full‑time basis throughout that period.
+                     (c)  if a person is employed during a period on a part-time basis, including a period during which the person receives ongoing compensation payments on such a basis in respect of the person’s current employment, the person’s service during that period shall be reduced by multiplying the number of days in that period by the fraction obtained by dividing the amount of salary, or compensation payments, that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid or received compensation payments on a full-time basis throughout that period.
 
 ##### <a id="6"></a>6  When benefit payable
 
@@ -666,7 +664,7 @@ the benefit is payable to the person.
 
              (1)  The amount of an interim benefit that accumulates in respect of service by a qualified employee in a year commencing on 1 January 1988, 1 January 1989 or 1 January 1990 is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image005.gif)
 
                     <a name="aarc"></a>**_AARC_** is the average annual rate of contribution of the person for that year;
 
@@ -692,7 +690,7 @@ the benefit is payable to the person.
 
              (2)  The amount of interim benefit that accumulates in respect of service by an interim arrangement employee in the year commencing on 1 July 1990 or a subsequent year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image006.gif)
 
 where:
 
@@ -728,7 +726,7 @@ where:
 
 ##### <a id="9C"></a>9C  Delegation by Minister
 
-                   The Minister may, by signed instrument, delegate all or any of his or her powers under section 4C or for the purposes of the definition of **_designated employer_** in section 3 to an officer of the Finance Department.
+                   The Minister may, by signed instrument, delegate all or any of his or her powers under section 4C or for the purposes of the definition of **_designated employer_** in section 3 to an officer of the Department of Finance.
 
 ##### <a id="9D"></a>9D  Minister to comply with the _Superannuation Industry (Supervision) Act 1993_
 
@@ -744,7 +742,7 @@ where:
 
 ##### <a id="10"></a>10  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -827,7 +825,7 @@ The _Superannuation (Productivity Benefit) Act 1988_ as shown in this compilatio
 
 All relevant information pertaining to application, saving or transitional provisions prior to 15 March 2007 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Superannuation (Productivity Benefit) Act 1988_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended), s _ee_ Table B.
+The _Superannuation (Productivity Benefit) Act 1988_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended), s _ee_ Table B.
 
 ### Table of Acts
 
@@ -1089,23 +1087,6 @@ Schedule 4 (items 3–7): 1 July 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 105, 106, 136): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Superannuation (Productivity Benefit) Act 1988_ was amended by sections 94–106 only of the _Superannuation Legislation Amendment Act 1990_, paragraph 2(1)(a) and subsection 2(3) of which provide as follows:
@@ -1118,7 +1099,7 @@ _(a)_     The _Superannuation (Productivity Benefit) Act 1988_ was amend
 
                  (3)   The remaining provisions of this Act commence on 1 July 1990.
 
-_(b)_     The _Superannuation (Productivity Benefit) Act 1988_ was amended by sections 66–70 only of the _Superannuation Legislation Amendment Act 1992_, subsections 2(1) and (3) of which provide as follows:
+_(b)_    The _Superannuation (Productivity Benefit) Act 1988_ was amended by sections 66–70 only of the _Superannuation Legislation Amendment Act 1992_, subsections 2(1) and (3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1279,7 +1260,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005; No. 26, 2008; No. 5, 2011</div>
+    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1532,14 +1513,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9D</div>
   </td>
   <td>
@@ -1582,11 +1555,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -1596,7 +1569,7 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations (as amended)_
+_A.C.T. Self-Government (Consequential Provisions) Regulations (as amended)_
 
 ## Schedule 1
 
