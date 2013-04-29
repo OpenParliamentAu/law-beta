@@ -1,15 +1,15 @@
-![](http://www.comlaw.gov.au/Details/C2012C00370/Html/182bb57e-527d-4fdc-9078-f384a1ea8797_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00064/Html/60e1766e-f639-4571-aee1-d776a1cfd6bd_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 27 March 2012
- taking into account amendments up to Act No. 7 of 2012
+This compilation was prepared on 5 January 2012
+ taking into account amendments up to Act No. 174 of 2011
 
 **Volume 1**includes:  Table of Contents
 
-Sections 1–23W
+Sections 1–23WLA
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,7 +18,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 **Volume 2**includes:   Table of Contents
-                                  Sections 23WA–91
+                                  Sections 23WM–91
 
 Schedule
 
@@ -30,7 +30,7 @@ Act Notes
 
 Table of Amendments
 
-Notes 2–4
+Notes 2 and 3
 
 Table A
 
@@ -337,7 +337,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15B](#15B).       Time for commencement of prosecutions
 
-[15C](#15C).       Form of indictments, information and summonses
+[15C](#15C).       Form of indictments, informations and summonses
 
 [15E](#15E).        Privilege of Parliament not affected
 
@@ -959,6 +959,42 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23W](#23W).      Proof of belief
 
+**Part ID—Forensic procedures** 
+
+    **Division 1—Explanation of expressions used**
+
+[23WA](#23WA).   Definitions
+
+[23WB](#23WB).    Interview friends
+
+    **Division 2—Authority and time limits for forensic procedures on suspects: summary of rules**
+
+[23WC](#23WC).    How forensic procedures may be authorised in different circumstances
+
+[23WCA](#23WCA). Time limits for carrying out forensic procedures
+
+    **Division 3—Forensic procedures on suspect by consent**
+
+[23WD](#23WD).   Forensic procedure may be carried out with informed consent of suspect
+
+[23WE](#23WE).    People who cannot consent to forensic procedures
+
+[23WF](#23WF).    Informed consent to forensic procedures—general
+
+[23WG](#23WG).   Informed consent to forensic procedures—Aboriginal persons and Torres Strait Islanders
+
+[23WH](#23WH).   Constable may request suspect to consent to forensic procedure
+
+[23WI](#23WI).     Matters to be considered by constable before requesting consent to forensic procedure
+
+[23WJ](#23WJ).     Matters that suspect must be informed of before giving consent
+
+[23WK](#23WK).    Withdrawal of consent
+
+[23WL](#23WL).    Recording of giving of information and suspect’s responses
+
+[23WLA](#23WLA). Time for carrying out forensic procedure—suspect not in custody
+
 ## An Act relating to Offences against the Commonwealth
 
 ## Part I—Preliminary
@@ -1347,7 +1383,7 @@ in relation to the carrying out or enforcement under this Act of orders made und
 
                              (ii)  if an arrangement is in force under subsection (1) of this section in relation to the Australian Capital Territory—includes a reference to the Australian Capital Territory; and
 
-                            (iii)  if an arrangement is in force under subsection (1) of this section in relation to the Northern Territory—includes a reference to the Northern Territory; and
+                            (iii)  if an arrangement is in force under subsection (1) of this section in relation to the Northern Territory— includes a reference to the Northern Territory; and
 
                             (iv)  if an arrangement is in force under subsection (1) of this section in relation to Norfolk Island—includes a reference to Norfolk Island.
 
@@ -4101,7 +4137,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00370/Html/182bb57e-527d-4fdc-9078-f384a1ea8797_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00064/Html/60e1766e-f639-4571-aee1-d776a1cfd6bd_files/image002.gif)
 
 where:
 
@@ -4139,7 +4175,7 @@ and the offender has been punished for that offence under the law of the State o
 
              (3)  Where an act or omission constitutes an offence against a law of a Territory, the validity of that law is not affected merely because the act or omission also constitutes an offence against a law of the Commonwealth.
 
-##### <a id="4D"></a>4D  Penalties
+##### <a id="4D"></a>4D  Penalties
 
              (1)  Except so far as the contrary intention appears, a penalty, whether pecuniary or otherwise, set out at the foot of any provision of an Act as described in a paragraph of subsection (1A) indicates:
 
@@ -4533,7 +4569,7 @@ subsection (1) operates to require that law to apply and be applied in the sam
 
              (3)  Where by any law of the Commonwealth any longer time than the time provided by this section is provided for the commencement of a prosecution in respect of an offence against that law, a prosecution in respect of the offence may be commenced at any time within that longer time.
 
-##### <a id="15C"></a>15C  Form of indictments, information and summonses
+##### <a id="15C"></a>15C  Form of indictments, informations and summonses
 
              (1)  At the hearing of any indictment, information or summons, the court may make such amendment in the indictment, information or summons as appears to it to be desirable or to be necessary to enable the real question in dispute to be determined.
 
@@ -5505,7 +5541,7 @@ Note:          An authority is granted under subsection 15GI(1
 
                      (b)  the person was a law enforcement participant at the time of suffering the loss, damage or injury.
 
-##### <a id="15HG"></a>15HG  Notification requirements
+##### <a id="15HG"></a>15HG  Notification requirements
 
              (1)  If:
 
@@ -7077,7 +7113,7 @@ Note 2:       The mere existence of an exception under subsection 
 
 ### Division 7—General
 
-##### <a id="15LH"></a>15LH  Delegation of chief officer’s functions
+##### <a id="15LH"></a>15LH  Delegation of chief officer’s functions
 
              (1)  Except as provided by this section (and despite any other Act or law to the contrary) the functions of a chief officer under this Part may not be delegated to any other person.
 
@@ -9097,13 +9133,13 @@ The non‑parole period is in respect of all federal sentences the person is to 
 
 Note:          The effects of this include preventing a court from:
 
-(a)    making a recognizance release order under paragraph 19AB(1)(e) or (2)(e), 19AE(2)(e) or 19AR(2)(e); or
+(a)           making a recognizance release order under paragraph 19AB(1)(e) or (2)(e), 19AE(2)(e) or 19AR(2)(e); or
 
-(b)    confirming (under paragraph 19AD(2)(d)) a pre‑existing non‑parole period; or
+(b)           confirming (under paragraph 19AD(2)(d)) a pre‑existing non‑parole period; or
 
-(c)    confirming (under paragraph 19AE(2)(d)) a recognizance release order; or
+(c)           confirming (under paragraph 19AE(2)(d)) a recognizance release order; or
 
-(d)    declining (under subsection 19AB(3) or 19AC(1) or (2) or paragraph 19AD(2)(f)) to fix a non‑parole period.
+(d)           declining (under subsection 19AB(3) or 19AC(1) or (2) or paragraph 19AD(2)(f)) to fix a non‑parole period.
 
 ##### <a id="19AH"></a>19AH  Failure to fix non‑parole period or make recognizance release order
 
@@ -11403,7 +11439,7 @@ _Note:       These obligations apply in relation to protected suspec
 
              (3)  Subsections (1) and (2) do not apply so far as another law of the Commonwealth requires the person to answer questions put by, or do things required by, the investigating official.
 
-##### <a id="23G"></a>23G  Right to communicate with friend, relative and legal practitioner
+##### <a id="23G"></a>23G  Right to communicate with friend, relative and legal practitioner
 
              (1)  Subject to section 23L, if a person is under arrest or a protected suspect, an investigating official must, before starting to question the person, inform the person that he or she may:
 
@@ -11631,7 +11667,7 @@ the investigating official must offer the services of another legal practitioner
 
                      (a)  another law of the Commonwealth; or
 
-                     (b)  a provision of a law of the Australian Capital Territory.
+                     (b)  a provision of a law of the Australian C  apital Territory.
 
 ##### <a id="23U"></a>23U  Tape recording of information required to be given to person under arrest
 
@@ -11680,5 +11716,835 @@ the investigating official must offer the services of another legal practitioner
 ##### <a id="23W"></a>23W  Proof of belief
 
                    In any proceedings, the burden lies on the prosecution to prove that an investigating official had a belief on reasonable grounds as to a matter referred to in this Part.
+
+## Part ID—Forensic procedures
+
+* * *
+
+**Simplified outline of operation of Part**
+
+This Part provides for forensic procedures to be carried out on:
+
+<li class="BoxList" style="margin-left:21.25pt">•      suspects in relation to
+
+indictable offences (Divisions 3, 4 and 5); and</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      offenders in relation to
+
+prescribed and serious offences (Division 6A); and</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      volunteers (Division 6B).</li>
+
+If the carrying out of a forensic procedure is authorised under this Part, it must be carried out in accordance with rules and procedures set out in Division 6.
+
+If a forensic procedure covered by this Part is carried out without proper authority under this Part, evidence obtained through the procedure may be inadmissible in proceedings against the suspect (Division 7).
+
+This Part also:
+
+<li class="BoxList" style="margin-left:21.25pt">•      contains offences in
+
+relation to the Commonwealth DNA database system and the National Criminal
+
+Investigation DNA Database (**_NCIDD_**) (Division 8A); and</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      provides for the whole or a
+
+part of the Commonwealth DNA database system to be integrated with the whole or
+
+a part of one or more State/Territory DNA database systems to form part of
+
+NCIDD (Division 8A); and</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      provides for the exchange
+
+of information in the Commonwealth DNA database system or a State/Territory DNA
+
+database system and the protection of the information that is exchanged
+
+(Division 11); and</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      provides for the
+
+destruction of forensic material (Division 8).</li>
+
+* * *
+
+### Division 1—Explanation of expressions used
+
+##### <a id="23WA"></a>23WA  Definitions
+
+             (1)  In this Part:
+
+                    <a name="aborigin-legal-aid-organis"></a>**_Aboriginal legal aid organisation_** has the same meaning as the expression has in Part IC.
+
+                    <a name="adult"></a>**_adult_** means a person of or above 18 years of age.
+
+                    <a name="afp-function"></a>**_AFP function_** means a function of the Australian Federal Police set out in section 8 of the _Australian Federal Police Act 1979_.
+
+                    <a name="appropri-qualifi"></a>**_appropriately qualified_**, in relation to carrying out a forensic procedure, means: 
+
+                     (a)  having suitable professional qualifications or experience to carry out the forensic procedure; or
+
+                     (b)  qualified under the regulations to carry out the forensic procedure.
+
+                    <a name="authorised-applic"></a>**_authorised applicant_** for an order for the carrying out of a forensic procedure means:
+
+                     (a)  if the procedure will be carried out on a suspect—the constable in charge of a police station or the investigating constable in relation to a relevant offence; or
+
+                     (b)  if the procedure will be carried out on an offender—the constable in charge of a police station, the investigating constable in relation to a relevant offence or the Director of Public Prosecutions.
+
+                    <a name="child"></a>**_child_** means a person who is at least 10 years of age but under 18 years of age.
+
+                    <a name="commission"></a>**_Commissioner_** means the Commissioner of the Australian Federal Police and includes a constable or staff member to whom the Commissioner has delegated the functions and powers conferred or imposed on the Commissioner under this Act.
+
+Note:          See section 23YQ for the Commissioner’s power to delegate.
+
+                    <a name="commonwealth-dna-databas-system"></a>**_Commonwealth DNA database system_** is defined in section 23YDAC.
+
+                    <a name="correspond-law"></a>**_corresponding law_** is defined in section 23YUA.
+
+                    <a name="destroi"></a>**_destroy_** is defined in subsection (5).
+
+                    <a name="exercis-function"></a>**_exercise a function_** includes perform a duty.
+
+                    <a name="forens-materi"></a>**_forensic material_** means:
+
+                     (a)  samples; or
+
+                     (b)  hand prints, finger prints, foot prints or toe prints; or
+
+                     (c)  photographs or video recordings; or
+
+                     (d)  casts or impressions;
+
+taken from or of a person’s body by a forensic procedure.
+
+                    <a name="forens-procur"></a>**_forensic procedure_** means:
+
+                     (a)  an intimate forensic procedure; or
+
+                     (b)  a non‑intimate forensic procedure;
+
+but does not include any intrusion into a person’s body cavities except the mouth or the taking of any sample for the sole purpose of establishing the identity of the person from whom the sample is taken.
+
+                    <a name="function"></a>**_function_** includes a power, authority or duty.
+
+                    <a name="incap-person"></a>**_incapable person_** means an adult who:
+
+                     (a)  is incapable of understanding the general nature and effect of, and purposes of carrying out, a forensic procedure; or
+
+                     (b)  is incapable of indicating whether he or she consents or does not consent to a forensic procedure being carried out.
+
+                    <a name="custodi"></a>**_in custody_** is explained in subsection (2).
+
+                    <a name="indict-offenc"></a>**_indictable offence_** means:
+
+                     (a)  an indictable offence against a law of the Commonwealth; or
+
+                     (b)  a State offence that has a federal aspect and that is an indictable offence against the law of that State.
+
+                    <a name="inform"></a>**_inform_** is explained in subsection (4).
+
+                    <a name="informed-consent"></a>**_informed consent_** is explained in section 23WF.
+
+                    <a name="interview-friend"></a>**_interview friend_** is explained in section 23WB.
+
+                    <a name="intim-forens-procur"></a>**_intimate forensic procedure_** means the following forensic procedures:
+
+                     (a)  an external examination of the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts;
+
+                     (b)  the taking of a sample of blood;
+
+                     (c)  the taking of a sample of saliva, or a sample by buccal swab;
+
+                     (d)  the taking of a sample of pubic hair;
+
+                     (e)  the taking of a sample by swab or washing from the external genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts;
+
+                      (f)  the taking of a sample by vacuum suction, by scraping or by lifting by tape from the external genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts;
+
+                     (g)  the taking of a dental impression;
+
+                     (h)  the taking of a photograph or video recording of, or an impression or cast of a wound from, the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts.
+
+                    <a name="investigating-constabl"></a>**_investigating constable_** means the constable in charge of the investigation of the commission of an offence in relation to which a forensic procedure is carried out or proposed to be carried out.
+
+                    <a name="judg"></a>**_judge_** means a State or Territory judge.
+
+                    <a name="legal-repres"></a>**_legal representative_** of a suspect means a legal practitioner acting for the suspect.
+
+                    <a name="member-opposit-sex-person"></a>**_member of the opposite sex of a person_** is defined in subsection (7).
+
+                    <a name="member-sex-person"></a>**_member of the same sex as a person_** is defined in subsection (7).
+
+                    <a name="ncidd"></a><a name="nation-crimin-investig-dna-databas"></a>**_National Criminal Investigation DNA Database_** or **_NCIDD_** is defined in section 23YDAC.
+
+                    <a name="non-intim-forens-procur"></a>**_non‑intimate forensic procedure_** means the following forensic procedures:
+
+                     (a)  an examination of a part of the body other than the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts, that requires touching of the body or removal of clothing;
+
+                     (b)  the taking of a sample of hair other than pubic hair;
+
+                     (c)  the taking of a sample from a nail or under a nail;
+
+                     (d)  the taking of a sample by swab or washing from any external part of the body other than the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts;
+
+                     (e)  the taking of a sample by vacuum suction, by scraping or by lifting by tape from any external part of the body other than the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts;
+
+                      (f)  the taking of a hand print, finger print, foot print or toe print;
+
+                     (g)  the taking of a photograph or video recording of, or an impression or cast of a wound from, a part of the body other than the genital or anal area, the buttocks or, in the case of a female or a transgender person who identifies as a female, the breasts.
+
+                    <a name="offenc"></a>**_offence_** does not include an offence against a law of a Territory other than the Australian Capital Territory.
+
+Note:          Subsection 3(1) provides that **_Territory_** does not include the Northern Territory.
+
+                    <a name="offend"></a>**_offender_** means:
+
+                     (a)  a serious offender; or
+
+                     (b)  a prescribed offender.
+
+                    <a name="order"></a>**_order_** means:
+
+                     (a)  in relation to a suspect—an order of a magistrate under section 23WS or interim order of a magistrate under section 23XA; or
+
+                     (b)  in relation to an offender—an order of a judge or magistrate under section 23XWO; or
+
+                     (c)  in relation to a volunteer—an order of a magistrate under section 23XWU.
+
+                    <a name="particip-jurisdict"></a>**_participating jurisdiction_** is defined in section 23YUA.
+
+                    <a name="polic-station"></a>**_police station_** includes:
+
+                     (a)  a police station of a State or Territory; and
+
+                     (b)  a building occupied by the Australian Federal Police.
+
+                    <a name="prescrib-offenc"></a>**_prescribed offence_** means an offence under a law of the Commonwealth, or a State offence that has a federal aspect, punishable by a maximum penalty of imprisonment for life or 2 or more years.
+
+                    <a name="prescrib-offend"></a>**_prescribed offender_** means a person who is under sentence for a prescribed offence.
+
+Note:          For the meaning of **_under sentence_**, see subsection (8).
+
+                    <a name="prison-mical-offic"></a>**_prison medical officer_** means, in relation to a prison or other place of detention, a person appointed or acting as medical officer for the prison or other place of detention.
+
+                    <a name="recognis-transgend-person"></a>**_recognised transgender person_** means a person the record of whose sex is altered under Part 5A of the _Births, Deaths and Marriages Registration Act 1995_ of New South Wales, or under the corresponding provisions of a law of another Australian jurisdiction.
+
+                    <a name="relev-offenc"></a>**_relevant offence_** means:
+
+                     (a)  in relation to a person who is a suspect:
+
+                              (i)  the indictable offence in relation to which the person is a suspect; or
+
+                             (ii)  any other indictable offence arising out of the same circumstances; or
+
+                            (iii)  any other indictable offence in respect of which the evidence likely to be obtained as a result of a proposed forensic procedure carried out on the suspect is likely to have probative value; or
+
+                     (b)  in relation to an offender—the offence for which the offender was convicted and to which an application for an order authorising a forensic procedure relates.
+
+                    <a name="respons-person"></a>**_responsible person_**, in relation to the Commonwealth DNA database system, means the person responsible for the care, control and management of the system.
+
+                    <a name="sampl"></a>**_sample_** has a meaning affected by subsection (3).
+
+                    <a name="senior-constabl"></a>**_senior constable_** means a constable of the rank of sergeant or higher.
+
+                    <a name="seriou-offenc"></a>**_serious offence_** means an offence under a law of the Commonwealth, or a State offence that has a federal aspect, punishable by a maximum penalty of imprisonment for life or 5 or more years.
+
+                    <a name="seriou-offend"></a>**_serious offender_** means a person who is under sentence for a serious offence.
+
+Note:          For the meaning of **_under sentence_**, see subsection (8).
+
+                    <a name="suspect"></a>**_suspect_**, in relation to an indictable offence, means:
+
+                     (a)  a person whom a constable suspects on reasonable grounds has committed the indictable offence; or
+
+                     (b)  a person charged with the indictable offence; or
+
+                     (c)  a person who has been summonsed to appear before a court in relation to the indictable offence.
+
+                    <a name="tape-record"></a>**_tape recording_** means audio recording, video recording or recording by other electronic means.
+
+                    <a name="transgend-person"></a>**_transgender person_** is defined in subsection (6).
+
+                    <a name="volunt"></a>**_volunteer_** is defined in section 23XWQ.
+
+             (2)  In this Part, a person is **_in custody_** if he or she is in the lawful custody of a constable.
+
+             (3)  In this Part, a **_sample_** taken from a person includes a sample taken from the person that consists of matter from another person’s body.
+
+             (4)  In this Part, a person **_informs_** another person of a matter if the person informs the other person of the matter, through an interpreter if necessary, in a language (including sign language or braille) in which the other person is able to communicate with reasonable fluency.
+
+Destroy forensic material or information
+
+             (5)  For the purposes of this Part, a person **_destroys_** forensic material taken from another person by a forensic procedure, the results of the analysis of the material or other information gained from it if the person destroys any means of identifying the forensic material or information with the person from whom it was taken or to whom it relates.
+
+Transgender persons
+
+             (6)  In this Part, a reference to a person being **_transgender_** or a **_transgender person_** is a reference to a person, whether or not the person is a recognised transgender person:
+
+                     (a)  who identifies as a member of the opposite sex by living, or seeking to live, as a member of the opposite sex; or
+
+                     (b)  who has identified as a member of the opposite sex by living as a member of the opposite sex; or
+
+                     (c)  who, being of indeterminate sex, identifies as a member of a particular sex by living as a member of that sex;
+
+and includes a reference to the person being thought of as a transgender person, whether the person is, or was, in fact a transgender person.
+
+             (7)  In this Part (other than subsection (6)), a reference:
+
+                     (a)  to a **_member of the opposite sex of a person_** means, if the person is a transgender person, a member of the opposite sex to the sex with which the transgender person identifies; and
+
+                     (b)  to a **_member of the same sex as a person_** means, if the person is a transgender person, a member of the same sex as the sex with which the transgender person identifies.
+
+             (8)  For the purposes of the definitions of **_prescribed offender_** and **_serious offender_**, a person is **_under sentence_** in relation to a prescribed offence or a serious offence if the person:
+
+                     (a)  is serving a sentence in a prison (including a gaol, lock‑up or other place of detention); or
+
+                     (b)  is serving a sentence of a kind, or subject to an order of a kind, provided for in subsection 20AB(1) as a sentence or order that may be passed or made by a court, under that section, in respect of a person convicted of an offence against the law of the Commonwealth; or
+
+                     (c)  is released under a parole order made under subsection 19AL(1) or (2); or
+
+                     (d)  is released on a licence granted under section 19AP; or
+
+                     (e)  being a child or young person, is serving a sentence of a kind, or subject to an order of a kind, provided for in subsection 20C(1) as a sentence or order that, under that section, may be imposed on the child or young person who in a State or Territory is convicted of an offence against the law of the Commonwealth; or
+
+                      (f)  is subject to an order made under Division 9 of Part IB; or
+
+                     (g)  is convicted and conditionally released as provided for in subsection 20(1), either:
+
+                              (i)  in the case of paragraph 20(1)(a)—without sentence being passed; or
+
+                             (ii)  in the case of paragraph 20(1)(b)—after sentence has been passed.
+
+##### <a id="23WB"></a>23WB  Interview friends
+
+             (1)  This section lists the people who may act as an **_interview friend_** of a suspect, offender or volunteer for the purposes of a provision of this Part referring to an interview friend. Different people may act as interview friends of a suspect, offender or volunteer for the purposes of different provisions of this Part.
+
+             (2)  Where the suspect, offender or volunteer is a child or an incapable person, the following people may act as **_interview friends_**:
+
+                     (a)  a parent, guardian or other person chosen by, or acceptable to, the suspect, offender or volunteer;
+
+                     (b)  a legal practitioner acting for the suspect, offender or volunteer;
+
+                     (c)  if the suspect, offender or volunteer is an Aboriginal person or a Torres Strait Islander and none of the previously mentioned persons is available—a representative of an Aboriginal legal aid organisation or a person whose name is on the relevant list maintained under subsection 23J(1) who is chosen by, or acceptable to, the suspect, offender or volunteer;
+
+                     (d)  if there is no available person who is covered by paragraph (a), (b) or (c)—an independent person who is not a constable.
+
+             (3)  Where the suspect, offender or volunteer is an Aboriginal person or a Torres Strait Islander not covered by subsection (2), the following people may act as **_interview friends_**:
+
+                     (a)  a relative or other person chosen by the suspect, offender or volunteer;
+
+                     (b)  a legal practitioner acting for the suspect, offender or volunteer;
+
+                     (c)  if there is no available person who is covered by paragraph (a) or (b)—a representative of an Aboriginal legal aid organisation, or a person whose name is included in the relevant list maintained under subsection 23J(1).
+
+             (4)  A suspect, offender or volunteer who has a legal representative may also have an interview friend who is not the suspect’s, offender’s or volunteer’s legal representative.
+
+### Division 2—Authority and time limits for forensic procedures on suspects: summary of rules
+
+##### <a id="23WC"></a>23WC  How forensic procedures may be authorised in different circumstances
+
+                   The following table shows the circumstances in which a forensic procedure may be carried out on a suspect, and shows the provisions that authorise the carrying out of the procedure.
+
+<table>
+<colgroup>
+  <col width="4%">
+  <col width="33%">
+  <col width="30%">
+  <col width="34%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="4">
+      <div>
+        <b>Authority for forensic procedures</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <b>Suspect</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Intimate forensic procedure</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Non‑intimate forensic procedure</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>adult not in custody</div>
+  </td>
+  <td>
+    <div>with informed consent under Division 3</div>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+  <td>
+    <div>with informed consent under Division 3</div>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>adult in custody</div>
+  </td>
+  <td>
+    <div>with informed consent under Division 3</div>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+  <td>
+    <div>with informed consent under Division 3</div>
+    <div>by order of a senior constable under Division 4</div>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>incapable person (whether or not in custody)</div>
+  </td>
+  <td>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+  <td>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>child at least 10 but under 18 (whether or not in custody)</div>
+  </td>
+  <td>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+  <td>
+    <div>by order of a magistrate under Division 5</div>
+  </td>
+</tr></table>
+
+##### <a id="23WCA"></a>23WCA  Time limits for carrying out forensic procedures
+
+                   The following table sets out in general terms the time limits that apply to the carrying out of a forensic procedure depending on the status of the suspect and the source of the authority to carry out the procedure.
+
+<table>
+<colgroup>
+  <col width="4%">
+  <col width="16%">
+  <col width="24%">
+  <col width="25%">
+  <col width="31%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="5">
+      <div>
+        <b>Time limits for forensic procedures</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <b>Suspect’s status</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Procedure with suspect’s consent (Division 3)</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Procedure by order of a constable (Division 4)</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Procedure by order of a magistrate (Division 5)</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Child or incapable person not in custody</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>Procedure must be carried out within 2 hours after suspect presents to
+      investigating constable, disregarding “dead time” described in subsection
+      23XGB(2) (see section 23XGB).</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Aboriginal person or Torres Strait Islander (not a child or incapable
+      person) not in custody</div>
+  </td>
+  <td>
+    <div>Procedure must be carried out within 2 hours after suspect presents to
+      investigating constable, disregarding “dead time” described in subsection
+      23WLA(2) (see section 23WLA).</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>Procedure must be carried out within 2 hours after suspect presents to
+      investigating constable, disregarding “dead time” described in subsection
+      23XGB(2) (see section 23XGB).</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Suspect (not covered by item 1 or 2) not in custody</div>
+  </td>
+  <td>
+    <div>Procedure must be carried out within 4 hours after suspect presents to
+      investigating constable, disregarding “dead time” described in subsection
+      23WLA(2) (see section 23WLA).</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>Procedure must be carried out within 4 hours after suspect presents to
+      investigating constable, disregarding “dead time” described in subsection
+      23XGB(2) (see section 23XGB).</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Child or incapable person in custody</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>Not applicable</div>
+  </td>
+  <td>
+    <div>In addition to the detention period permitted under Part IC, suspect may
+      be detained for up to 2 hours after magistrate’s order or suspect’s arrest,
+      disregarding “dead time” described in subsection 23XGD(2) (see Subdivision
+      D of Division 5).</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Aboriginal person or Torres Strait Islander (not a child or incapable
+      person) in custody</div>
+  </td>
+  <td>
+    <div>Suspect may be detained in accordance with Part IC, but the detention
+      period permitted by Part IC is not extended in connection with carrying
+      out the procedure (see subsections 23WD(3) and (4)).</div>
+  </td>
+  <td>
+    <div>Suspect may be detained in accordance with Part IC, but the detention
+      period permitted by Part IC is not extended in connection with carrying
+      out the procedure (see subsections 23WM(3) and (4)).</div>
+  </td>
+  <td>
+    <div>In addition to the detention period permitted under Part IC, suspect may
+      be detained for up to 2 hours after magistrate’s order or suspect’s arrest,
+      disregarding “dead time” described in subsection 23XGD(2) (see Subdivision
+      D of Division 5).</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Suspect (not covered by item 4 or 5) in custody</div>
+  </td>
+  <td>
+    <div>Suspect may be detained in accordance with Part IC, but the detention
+      period permitted by Part IC is not extended in connection with carrying
+      out the procedure (see subsections 23WD(3) and (4)).</div>
+  </td>
+  <td>
+    <div>Suspect may be detained in accordance with Part IC, but the detention
+      period permitted by Part IC is not extended in connection with carrying
+      out the procedure (see subsections 23WM(3) and (4)).</div>
+  </td>
+  <td>
+    <div>In addition to the detention period permitted under Part IC, suspect may
+      be detained for up to 4 hours after magistrate’s order or suspect’s arrest,
+      disregarding “dead time” described in subsection 23XGD(2) (see Subdivision
+      D of Division 5).</div>
+  </td>
+</tr></table>
+
+### Division 3—Forensic procedures on suspect by consent
+
+##### <a id="23WD"></a>23WD  Forensic procedure may be carried out with informed consent of suspect
+
+             (1)  A person is authorised to carry out a forensic procedure on a suspect with the informed consent of the suspect. The person is authorised to carry out the procedure in accordance with Division 6 and not otherwise.
+
+             (2)  This Division does not authorise the carrying out of a forensic procedure on a suspect who is:
+
+                     (a)  a child; or
+
+                     (b)  an incapable person.
+
+             (3)  This Division does not authorise keeping a suspect in custody, in order to carry out a forensic procedure, after the expiration of the investigation period provided for by Part IC.
+
+Note:          If it is necessary to keep a suspect in custody after the expiration of the Part IC investigation period in order to carry out a forensic procedure, an order of a magistrate under Division 5 will have to be obtained to authorise this.
+
+             (4)  Nothing in this Part or Part IC prevents the carrying out of a forensic procedure, with the informed consent of the suspect, during the investigation period provided for by Part IC. However, neither carrying out the forensic procedure, nor any delay associated with carrying out the forensic procedure, operates to extend the investigation period provided for by Part IC.
+
+Note:          By contrast, the carrying out of a forensic procedure in accordance with a magistrate’s order under Division 5, and associated delays, may delay the expiration of the investigation period provided for by Part IC.
+
+##### <a id="23WE"></a>23WE  People who cannot consent to forensic procedures
+
+             (1)  A child cannot consent to a forensic procedure.
+
+             (2)  An incapable person cannot consent to a forensic procedure.
+
+##### <a id="23WF"></a>23WF  Informed consent to forensic procedures—general
+
+             (1)  This section applies where:
+
+                     (a)  a constable intends to ask a suspect to consent to a forensic procedure; and
+
+                     (b)  the constable does not believe on reasonable grounds that the suspect is an Aboriginal person or a Torres Strait Islander.
+
+             (2)  A suspect not covered by section 23WE gives informed consent to a forensic procedure if the suspect consents after a constable:
+
+                     (a)  asks the suspect to consent to the forensic procedure under section 23WH; and
+
+                     (b)  gives the suspect a written statement setting out:
+
+                              (i)  the information that the suspect must be given under paragraphs 23WJ(1)(a), (e), (f), (g), (h), (i) and (j); and
+
+                             (ii)  the nature of the information that the suspect must be given under paragraphs 23WJ(1)(b), (c) and (d) (but not the specific information that the suspect is to be given under these paragraphs in relation to the particular forensic procedure); and
+
+                     (c)  informs the suspect about the forensic procedure in accordance with section 23WJ; and
+
+                     (d)  gives the suspect a reasonable opportunity to communicate, or attempt to communicate, with a legal practitioner of the suspect’s choice and, subject to subsection (3), to do so in private.
+
+             (3)  If the suspect is in custody, the constable need not allow the suspect to communicate, or attempt to communicate, with the legal practitioner in private if the constable suspects on reasonable grounds that the suspect might attempt to destroy or contaminate any evidence that might be obtained by carrying out the forensic procedure.
+
+##### <a id="23WG"></a>23WG  Informed consent to forensic procedures—Aboriginal persons and Torres Strait Islanders
+
+             (1)  This section applies where:
+
+                     (a)  a constable intends to ask a suspect to consent to a forensic procedure; and
+
+                     (b)  the constable believes on reasonable grounds that the suspect is an Aboriginal person or a Torres Strait Islander.
+
+             (2)  A suspect not covered by section 23WE gives informed consent to a forensic procedure if the suspect consents after a constable:
+
+                     (a)  asks the suspect to consent to the forensic procedure under section 23WH; and
+
+                     (b)  informs the suspect about the forensic procedure in accordance with section 23WJ; and
+
+                     (c)  complies with the rest of this section.
+
+             (3)  The constable must not ask the suspect to consent to the forensic procedure unless:
+
+                     (a)  an interview friend is present; or
+
+                     (b)  the suspect has expressly and voluntarily waived his or her right to have an interview friend present; or
+
+                     (c)  the constable is a senior constable and he or she believes on reasonable grounds that, having regard to the suspect’s level of education and understanding, the suspect is not at a disadvantage in relation to the request to consent by comparison with members of the Australian community generally.
+
+Note:          Section 23YK relates to proving a waiver under paragraph (3)(b) of this section.
+
+             (4)  Before asking the suspect to consent to a forensic procedure, the constable must:
+
+                     (a)  inform the suspect that a representative of an Aboriginal legal aid organisation will be notified that the suspect is to be asked to consent to a forensic procedure; and
+
+                     (b)  notify such a representative accordingly.
+
+             (5)  The constable is not required to comply with subsection (4) if:
+
+                     (a)  he or she is aware that the suspect has arranged for a legal practitioner to be present while the suspect is asked to consent to the forensic procedure; or
+
+                     (b)  paragraph (3)(b) or (c) applies.
+
+             (6)  After asking a suspect covered by paragraph (3)(b) or (c) to consent to a forensic procedure, the constable must give the suspect a reasonable opportunity to communicate, or attempt to communicate, with a legal practitioner of the suspect’s choice and, subject to subsection (8), to do so in private.
+
+             (7)  After asking a suspect not covered by paragraph (3)(b) or (c) to consent to a forensic procedure, the constable must allow the suspect to communicate with the interview friend (if any), and with the suspect’s legal representative (if any), and, subject to subsection (8), to do so in private.
+
+             (8)  If a suspect covered by subsection (6) or (7) is in custody, the constable need not allow the suspect to communicate, or attempt to communicate, with a legal practitioner, or the suspect’s interview friend or legal representative, in private if the constable suspects on reasonable grounds that the suspect might attempt to destroy or contaminate any evidence that might be obtained by carrying out the forensic procedure.
+
+             (9)  An interview friend (other than a legal representative) of the suspect may be excluded from the presence of the constable and the suspect if the interview friend unreasonably interferes with or obstructs the constable in asking the suspect to consent to the forensic procedure, or in informing the suspect as required by section 23WJ.
+
+##### <a id="23WH"></a>23WH  Constable may request suspect to consent to forensic procedure
+
+                   A constable may ask a suspect to undergo a forensic procedure if the constable is satisfied as required by section 23WI.
+
+##### <a id="23WI"></a>23WI  Matters to be considered by constable before requesting consent to forensic procedure
+
+             (1)  The constable must be satisfied on the balance of probabilities that:
+
+                     (a)  the person on whom the procedure is proposed to be carried out is a suspect; and
+
+                     (b)  there are reasonable grounds to believe that the forensic procedure is likely to produce evidence tending to confirm or disprove that the suspect committed a relevant offence; and
+
+                     (c)  the request for consent to the forensic procedure is justified in all the circumstances; and
+
+                     (d)  the person on whom the forensic procedure is proposed to be carried out is not a child or an incapable person.
+
+             (2)  In determining whether a request is justified in all the circumstances, the constable must balance the public interest in obtaining evidence tending to confirm or disprove that the suspect committed the offence concerned against the public interest in upholding the physical integrity of the suspect.
+
+             (3)  In balancing those interests, the constable must have regard to the following matters:
+
+                     (a)  the seriousness of the circumstances surrounding the commission of the relevant offence and the gravity of the relevant offence;
+
+                     (b)  the degree of the suspect’s alleged participation in the commission of the relevant offence;
+
+                     (c)  the age, physical health and mental health of the suspect, to the extent that they are known to the constable or can reasonably be discovered by the constable (by asking the suspect or otherwise);
+
+                     (e)  whether there is a less intrusive but reasonably practicable way of obtaining evidence tending to confirm or disprove that the suspect committed the relevant offence;
+
+                      (f)  any other matter considered relevant to balancing those interests.
+
+             (4)  Without limiting the matters that the constable may take into account in considering, for the purposes of paragraph (3)(e), the intrusiveness of the forensic procedure, the constable must (where appropriate) take into account the religious beliefs of the suspect.
+
+##### <a id="23WJ"></a>23WJ  Matters that suspect must be informed of before giving consent
+
+             (1)  The constable must inform the suspect of the following matters:
+
+                     (a)  that the giving of information under this section, and the giving of consent (if any) by the suspect, is being or will be recorded by audio tape, videotape or other electronic means, or in writing, and that the suspect has a right to a copy of that record in a form provided by section 23YF;
+
+                     (b)  the purpose for which the forensic procedure is required;
+
+                     (c)  the offence in relation to which the constable wants the forensic procedure carried out;
+
+                     (d)  the way in which the forensic procedure is to be carried out;
+
+                     (e)  that the forensic procedure may produce evidence against the suspect that might be used in a court of law;
+
+                      (f)  that the forensic procedure will be carried out by an appropriately qualified person;
+
+                     (g)  if relevant, the matters specified in subsection (2);
+
+                     (h)  if the constable believes on reasonable grounds that the suspect is an Aboriginal person or a Torres Strait Islander—that the suspect’s interview friend may be present while the forensic procedure is carried out;
+
+                      (i)  that the suspect may refuse to consent to the carrying out of the forensic procedure;
+
+                    (ia)  the effect of section 23XZ;
+
+                      (j)  the consequences of not consenting, as specified in subsection (3), (4) or (5) (whichever is applicable);
+
+                     (k)  that information obtained from analysis of forensic material obtained may be placed on the Commonwealth DNA database system and the rules that will apply to its disclosure and use under this Part.
+
+Suspect’s right to have medical practitioner or dentist present during intimate forensic procedures
+
+             (2)  The constable must inform the suspect that the suspect may ask that a medical practitioner or dentist (depending on the kind of forensic procedure) of his or her choice be present while the forensic procedure is carried out (unless the forensic procedure is a non‑intimate forensic procedure).
+
+Failure to consent to non‑intimate forensic procedure—suspect in custody
+
+             (3)  If the suspect is in custody and the forensic procedure is a non‑intimate forensic procedure, the constable must inform the suspect that, if the suspect does not consent:
+
+                     (a)  a constable may order the carrying out of the forensic procedure under Division 4 if he or she is satisfied of the matters referred to in subsection 23WO(1); or
+
+                     (b)  an application may be made to a magistrate for an order authorising the carrying out of the forensic procedure.
+
+Failure to consent to intimate forensic procedure—suspect in custody
+
+             (4)  If the suspect is in custody and the forensic procedure is an intimate forensic procedure, the constable must inform the suspect that, if the suspect does not consent, an application may be made to a magistrate for an order authorising the carrying out of the forensic procedure.
+
+Failure to consent to forensic procedure—suspect not in custody
+
+             (5)  If the suspect is not in custody, the constable must inform the suspect that, if the suspect does not consent, an application may be made to a magistrate for an order authorising the carrying out of the forensic procedure.
+
+##### <a id="23WK"></a>23WK  Withdrawal of consent
+
+                   If a person expressly withdraws consent to the carrying out of a forensic procedure under this Part (or if the withdrawal of such consent can reasonably be inferred from the person’s conduct) before or during the carrying out of the forensic procedure, then:
+
+                     (a)  the forensic procedure is to be treated from the time of the withdrawal as a forensic procedure for which consent has been refused; and
+
+                     (b)  the forensic procedure is not to proceed except by order of a constable under Division 4 or a magistrate under Division 5.
+
+##### <a id="23WL"></a>23WL  Recording of giving of information and suspect’s responses
+
+             (1)  The constable must, if practicable, ensure that the giving of the information about the proposed forensic procedure and the suspect’s responses (if any) are tape recorded.
+
+             (2)  If tape recording the giving of the information and the suspect’s responses (if any) is not practicable, the constable must ensure that a written record of the giving of the information and the suspect’s responses (if any) is made, and that a copy of the record is made available to the suspect.
+
+Note:          Division 9 contains provisions about making copies of material (including copies of tapes) available to the suspect.
+
+##### <a id="23WLA"></a>23WLA  Time for carrying out forensic procedure—suspect not in custody
+
+             (1)  If a suspect who is not in custody:
+
+                     (a)  consents to a forensic procedure; and
+
+                     (b)  presents himself or herself to the investigating constable to undergo the procedure;
+
+the procedure must be carried out as quickly as reasonably possible but in any case within the following period:
+
+                     (c)  if the investigating constable believes on reasonable grounds that the suspect is an Aboriginal person or a Torres Strait Islander—2 hours after the suspect so presents himself or herself;
+
+                     (d)  in any other case—4 hours after the suspect so presents himself or herself.
+
+             (2)  In working out any period of time for the purposes of subsection (1), the following times are to be disregarded:
+
+                     (a)  the time (if any) that is reasonably required to convey the suspect from the place where the suspect presents himself or herself to the investigating constable to the nearest premises where facilities for carrying out the procedure in accordance with this Part are available to the investigating constable;
+
+                     (b)  any time during which carrying out the procedure is suspended or delayed to allow the suspect, or someone else on the suspect’s behalf, to communicate with a legal practitioner, friend, relative, parent, guardian, interpreter, medical practitioner, dentist or other person as provided by this Part;
+
+                     (c)  any time during which carrying out the procedure is suspended or delayed to allow such a legal practitioner, friend, relative, parent, guardian, interpreter, medical practitioner, dentist or other person to arrive at the place where the procedure is to be carried out;
+
+                     (d)  any time during which carrying out the procedure is suspended or delayed to allow the suspect to receive medical attention;
+
+                     (e)  any time during which carrying out the procedure is suspended or delayed because of the suspect’s intoxication;
+
+                      (f)  any reasonable time during which carrying out the procedure is suspended or delayed to allow the suspect to rest or recuperate;
+
+                     (g)  any time during which carrying out the procedure is suspended or delayed at the request of the suspect.
 
  
