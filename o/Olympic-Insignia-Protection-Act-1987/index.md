@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00123/Html/OlymipicInsigProtect198756_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00623/Html/OlymipicInsigProtect198756_image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 27 March 2007
+This compilation was prepared on 9 October 2006
  taking into account amendments up to Act No. 106 of 2006
 
 The text of any of those amendments not in force 
@@ -18,73 +18,71 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Chapter 1—Introduction** 
+**Chapter 1—Introduction** 
 
 **Part 1.1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[1A](#1A).         Simplified outline
+[1A](#1A).         Simplified outline                                                                                 1
 
 **Chapter 2—Copyright and design protection** 
 
 **Part 2.1—Introduction**
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                       2
 
-[2A](#2A).         Artistic work of olympic torch and flame may be prescribed
+[2A](#2A).         Artistic work of olympic torch and flame may be prescribed             4
 
-[3](#3).            Act to bind Crown
+[3](#3).            Act to bind Crown                                                                               4
 
-[4](#4).            Extension of Act to external Territories
+[4](#4).            Extension of Act to external Territories                                              4
 
 **Part 2.2—Copyright protection**
 
-[5](#5).            Ownership etc  of copyright in the olympic symbol
+[5](#5).            Ownership etc  of copyright in the olympic symbol                          5
 
 **Part 2.3—Design protection**
 
-[6](#6).            Ownership of design of olympic symbol
+[6](#6).            Ownership of design of olympic symbol                                            6
 
-[7](#7).            Monopoly of design
+[7](#7).            Monopoly of design                                                                            6
 
-[8](#8).            Infringement of monopoly in protected design
+[8](#8).            Infringement of monopoly in protected design                                   6
 
-[9](#9).            Remedies for infringement of monopoly in protected design
+[9](#9).            Remedies for infringement of monopoly in protected design              8
 
-[9A](#9A).         _Trade Practices Act 1974_ provides further remedies
+[9A](#9A).         _Trade Practices Act 1974_ provides further remedies                           8
 
-[10](#10).          Registration of designs
+[10](#10).          Registration of designs                                                                         9
 
-[11](#11).          Extension or reduction of protection periods in relation to registered olympic designs
+[11](#11).          Extension or reduction of protection periods in relation to registered olympic designs          10
 
-[11A](#11A).       Reduction of protection periods for registered torch and flame designs
+[11A](#11A).       Reduction of protection periods for registered torch and flame designs  12
 
-[12](#12).          Register of Olympic Designs
+[12](#12).          Register of Olympic Designs                                                             12
 
-[13](#13).          Delegation
+[13](#13).          Delegation                                                                                          13
 
-[14](#14).          Approved forms
-
-[14A](#14A).       Doing act when Designs Office reopens after end of period otherwise provided for doing act
+[14](#14).          Approved forms                                                                                13
 
 **Part 2.4—Miscellaneous**
 
-[15](#15).          Certain purported dispositions or charges to be void
+[15](#15).          Certain purported dispositions or charges to be void                       14
 
-[16](#16).          Validation of certain licences
+[16](#16).          Validation of certain licences                                                             14
 
-[17](#17).          Application of the _Copyright Act 1968_
+[17](#17).          Application of the _Copyright Act 1968_                                             15
 
-[18](#18).          Protected designs not to be registered under the _Designs Act 1906_
+[18](#18).          Protected designs not to be registered under the _Designs Act 1906_  16
 
-[18A](#18A).       AOC to maintain Register of licences
+[18A](#18A).       AOC to maintain Register of licences                                                16
 
-[19](#19).          Certain marks not to be registered under the _Trade Marks Act 1995_
+[19](#19).          Certain marks not to be registered under the _Trade Marks Act 1995_ 16
 
-[20](#20).          Preservation of certain existing rights
+[20](#20).          Preservation of certain existing rights                                                17
 
-[21](#21).          Compensation for acquisition of property
+[21](#21).          Compensation for acquisition of property                                        18
 
 **Chapter 3—Protected olympic expressions** 
 
@@ -92,137 +90,137 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—General provisions**
 
-[22](#22).          Object of Chapter
+[22](#22).          Object of Chapter                                                                              19
 
-[23](#23).          Definitions
+[23](#23).          Definitions                                                                                         19
 
-[24](#24).          Protected olympic expressions
+[24](#24).          Protected olympic expressions                                                          21
 
-[25](#25).          Chapter binds the Crown
+[25](#25).          Chapter binds the Crown                                                                  21
 
-[26](#26).          Application of Chapter
+[26](#26).          Application of Chapter                                                                     21
 
-[27](#27).          Additional operation of Chapter
+[27](#27).          Additional operation of Chapter                                                       22
 
     **Division 2—Use for commercial purposes etc.**
 
-[28](#28).          Application of expressions or statements
+[28](#28).          Application of expressions or statements                                         23
 
-[29](#29).          Sponsorship-like support
+[29](#29).          Sponsorship-like support                                                                  23
 
-[30](#30).          Use for commercial purposes
+[30](#30).          Use for commercial purposes                                                            24
 
-[31](#31).          Exemption—statements about past participation of Olympians
+[31](#31).          Exemption—statements about past participation of Olympians     26
 
-[32](#32).          Exemption—statements about preparation or training of Olympians by sporting organisations and institutes
+[32](#32).          Exemption—statements about preparation or training of Olympians by sporting organisations and institutes    27
 
-[33](#33).          Exemption—statements about sports-related personal services
+[33](#33).          Exemption—statements about sports-related personal services       28
 
-[34](#34).          Exemption—statements about supply of goods or services to past teams or Games
+[34](#34).          Exemption—statements about supply of goods or services to past teams or Games            29
 
-[35](#35).          Certain uses not alone sufficient to suggest sponsorship or sponsorship-like support
+[35](#35).          Certain uses not alone sufficient to suggest sponsorship or sponsorship-like support          30
 
 **Part 3.2—Protection of protected olympic expressions**
 
-[36](#36).          Regulation of use of protected olympic expressions
+[36](#36).          Regulation of use of protected olympic expressions                         31
 
-[37](#37).          Persons involved in contraventions of section 36
+[37](#37).          Persons involved in contraventions of section 36                             31
 
 **Part 3.3—Licensing**
 
-[38](#38).          Licensing by the AOC
+[38](#38).          Licensing by the AOC                                                                       32
 
-[39](#39).          Limitation on licence
+[39](#39).          Limitation on licence                                                                          32
 
-[40](#40).          AOC to maintain Register of licences
+[40](#40).          AOC to maintain Register of licences                                                32
 
 **Part 3.4—Enforcement** 
 
     **Division 1—Remedies**
 
-[41](#41).          Injunctions
+[41](#41).          Injunctions                                                                                         33
 
-[42](#42).          Interim injunctions
+[42](#42).          Interim injunctions                                                                             34
 
-[43](#43).          Corrective advertisements
+[43](#43).          Corrective advertisements                                                                 34
 
-[44](#44).          Damages
+[44](#44).          Damages                                                                                             34
 
-[45](#45).          Account of profits
+[45](#45).          Account of profits                                                                             35
 
-[46](#46).          Destruction or delivery of goods
+[46](#46).          Destruction or delivery of goods                                                       35
 
-[47](#47).          Consent of the AOC to institute remedial proceedings
+[47](#47).          Consent of the AOC to institute remedial proceedings                     36
 
-[48](#48).          Other remedies
+[48](#48).          Other remedies                                                                                   36
 
     **Division 2—Importation of goods**
 
-[49](#49).          Definitions
+[49](#49).          Definitions                                                                                         38
 
-[50](#50).          Determinations about owners of goods
+[50](#50).          Determinations about owners of goods                                             38
 
-[51](#51).          Importation of goods by the AOC
+[51](#51).          Importation of goods by the AOC                                                    39
 
-[52](#52).          Notice of objection to importation
+[52](#52).          Notice of objection to importation                                                    39
 
-[53](#53).          Consent of the AOC to giving of notices
+[53](#53).          Consent of the AOC to giving of notices                                          40
 
-[54](#54).          CEO may seize goods
+[54](#54).          CEO may seize goods                                                                        40
 
-[55](#55).          Notice of seizure
+[55](#55).          Notice of seizure                                                                                41
 
-[56](#56).          Forfeiture of goods—by consent
+[56](#56).          Forfeiture of goods—by consent                                                       42
 
-[57](#57).          Release of goods—no application for injunction
+[57](#57).          Release of goods—no application for injunction                               42
 
-[58](#58).          Application for injunction—additional parties, relief etc 
+[58](#58).          Application for injunction—additional parties, relief etc                  42
 
-[59](#59).          Disposal of goods ordered to be forfeited
+[59](#59).          Disposal of goods ordered to be forfeited                                         44
 
-[60](#60).          Power of CEO to retain control of goods
+[60](#60).          Power of CEO to retain control of goods                                          44
 
-[61](#61).          Insufficient security
+[61](#61).          Insufficient security                                                                           44
 
-[62](#62).          Commonwealth not liable for loss etc  suffered because of seizure
+[62](#62).          Commonwealth not liable for loss etc  suffered because of seizure  44
 
-[63](#63).          Modification in relation to Christmas Island etc 
+[63](#63).          Modification in relation to Christmas Island etc                               44
 
     **Division 3—Groundless threats**
 
-[64](#64).          Groundless threats of legal proceedings
+[64](#64).          Groundless threats of legal proceedings                                            46
 
-[65](#65).          Counterclaim in action on groundless threats
+[65](#65).          Counterclaim in action on groundless threats                                    46
 
 **Part 3.5—Jurisdiction of prescribed courts etc**
 
-[66](#66).          Prescribed courts
+[66](#66).          Prescribed courts                                                                               48
 
-[67](#67).          Jurisdiction of Federal Court
+[67](#67).          Jurisdiction of Federal Court                                                             48
 
-[68](#68).          Jurisdiction of other prescribed courts
+[68](#68).          Jurisdiction of other prescribed courts                                              48
 
-[69](#69).          Transfer of proceedings
+[69](#69).          Transfer of proceedings                                                                     48
 
 **Part 3.6—Miscellaneous**
 
-[70](#70).          Concurrent operation of State and Territory laws
+[70](#70).          Concurrent operation of State and Territory laws                            50
 
-[71](#71).          Preservation of existing rights
+[71](#71).          Preservation of existing rights                                                            50
 
-[72](#72).          Acquisition of property
+[72](#72).          Acquisition of property                                                                    51
 
-[73](#73).          Implied freedom of political communication
+[73](#73).          Implied freedom of political communication                                     51
 
-[74](#74).          Chapter has effect in addition to contracts
+[74](#74).          Chapter has effect in addition to contracts                                        52
 
-[75](#75).          Validation of certain licences
+[75](#75).          Validation of certain licences                                                             52
 
 **Chapter 4—Regulations** 
 
 **Part 4.1—Regulations**
 
-[76](#76).          Regulations
+[76](#76).          Regulations                                                                                        53
 
 **Schedule—Outline of the olympic symbol** 
 
@@ -607,38 +605,6 @@ before the day on which the application was lodged.
              (1)  A reference in this Part to an approved form is a reference to a form approved by the Registrar in writing.
 
              (2)  An approved form may require any statement in the form to be verified by a statutory declaration accompanying the form.
-
-##### <a id="14A"></a>14A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
-
-             (1)  If the last day of a period provided by this Chapter (except this section), or regulations made for the purposes of this Chapter, for doing an act is a day when the Designs Office is not open for business, the act may be done in prescribed circumstances on the next day when the office is open for business.
-
-             (2)  For the purposes of this section, the Designs Office is taken not to be open for business on a day:
-
-                     (a)  declared by regulations to be a day on which the office is not open for business; or
-
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office is not open for business.
-
-Declarations
-
-             (3)  A declaration mentioned in paragraph (2)(a) or (b) may identify the day by reference to its being declared a public holiday by or under a law of a State or Territory. This does not limit the way the declaration may identify the day.
-
-             (4)  A declaration mentioned in paragraph (2)(b):
-
-                     (a)  may be made before, on or after the day; and
-
-                     (b)  is not a legislative instrument.
-
-Relationship with other law
-
-             (5)  This section has effect despite the rest of this Chapter.
-
-             (6)  Subsection 36(2) of the _Acts Interpretation Act 1901_ does not apply in relation to the act mentioned in subsection (1) of this section.
-
-Exception for prescribed act
-
-             (7)  This section does not apply to a prescribed act.
-
-Note:          Subsection 36(2) of the _Acts Interpretation Act 1901_ is relevant to a prescribed act.
 
 ## Part 2.4—Miscellaneous
 
@@ -1848,7 +1814,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2007C00123/Html/OlymipicInsigProtect198756_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00623/Html/OlymipicInsigProtect198756_image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1967,7 +1933,7 @@ of Assent</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 12 (item 3): 27 Mar 2007</div>
+    <div>Schedule 12 (item 3): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2255,14 +2221,6 @@ of Chapt. 2</div>
   </td>
   <td>
     <div>am. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2588,6 +2546,60 @@ Renumbered s. 76</div>
     <div>
 No. 156, 2001</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
+
+### Note 2
+
+_Intellectual Property Laws Amendment Act 2006 (No. 106, 2006)_
+
+The following amendment commences on 27 March 2007 unless proclaimed earlier:
+
+## Schedule 12
+
+## 3  At the end of Part 2.3
+
+Add:
+
+##### <a id="14A"></a>14A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
+
+             (1)  If the last day of a period provided by this Chapter (except this section), or regulations made for the purposes of this Chapter, for doing an act is a day when the Designs Office is not open for business, the act may be done in prescribed circumstances on the next day when the office is open for business.
+
+             (2)  For the purposes of this section, the Designs Office is taken not to be open for business on a day:
+
+                     (a)  declared by regulations to be a day on which the office is not open for business; or
+
+                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office is not open for business.
+
+Declarations
+
+             (3)  A declaration mentioned in paragraph (2)(a) or (b) may identify the day by reference to its being declared a public holiday by or under a law of a State or Territory. This does not limit the way the declaration may identify the day.
+
+             (4)  A declaration mentioned in paragraph (2)(b):
+
+                     (a)  may be made before, on or after the day; and
+
+                     (b)  is not a legislative instrument.
+
+Relationship with other law
+
+             (5)  This section has effect despite the rest of this Chapter.
+
+             (6)  Subsection 36(2) of the _Acts Interpretation Act 1901_ does not apply in relation to the act mentioned in subsection (1) of this section.
+
+Exception for prescribed act
+
+             (7)  This section does not apply to a prescribed act.
+
+Note:          Subsection 36(2) of the _Acts Interpretation Act 1901_ is relevant to a prescribed act.
+
+As at 9 October 2006 the amendment is not incorporated in this compilation.
 
  
