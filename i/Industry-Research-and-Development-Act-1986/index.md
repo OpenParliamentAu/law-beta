@@ -1,9 +1,8 @@
 
 Industry Research and Development Act 1986
 Act No. 89 of 1986 as amended
-This compilation was prepared on 12 March 2004 taking into account amendments up to Act No. 15 of 2004
+This compilation was prepared on 31 July 2002 taking into account amendments up to Act No. 57 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -53,77 +52,77 @@ Division 3—National interest agreements	23
 34	Provisions of national interest agreements	23
 Division 3A—National procurement development program agreements	24
 34A	National procurement development program agreements	24
-34B	Designated activities	25
-Division 4—Miscellaneous	26
-35	Applications	26
-36	Results of projects to be exploited	26
-37	Adjustment of subsidies because of financial assistance	26
-38	Repayment of subsidies on breach of agreement	27
-39	Payments to be made to persons incurring cost	27
-Part IIIA—Functions of Board in relation to income tax concessions	28
-39AA	Object of Part	28
-39A	Interpretation	28
-39B	Related companies	30
-39C	Exploitation otherwise than on normal commercial terms	30
-39D	Exploitation otherwise than for the benefit of the Australian economy	31
-39E	Adequate Australian content	31
-39EA	Finance scheme guidelines	32
-39EB	Guidelines concerning overseas research and development activities	33
-39EC	Applications for provisional certificates	34
-39ED	Board’s decision on application for provisional certificate	35
-39EE	Matters to be contained in provisional certificate	36
-39EF	Board’s power to amend or revoke provisional certificate on its own initiative	37
-39F	Registration of Australian research agencies	38
-39FA	Notices about continuing registration of Australian research agencies	40
-39G	Cancellation of registration of research agencies	41
-39H	Board to publicise particulars of registered research agencies	41
-39HA	Register of Commercial Government Bodies	42
-39HB	Commercial government bodies guidelines	42
-39HC	Applications for entry on the Register of Commercial Government Bodies	44
-39HD	Board’s decision on application for entry on Register of Commercial Government Bodies	44
-39HE	Grant of application for entry on Register of Commercial Government Bodies	46
-39HF	Removal from Register of Commercial Government Bodies	46
-39HG	Applications for advance registration of eligible companies	47
-39HH	Advance registration of eligible companies	48
-39HI	Grounds for refusal of advance registration	48
-39J	Registration of eligible companies	48
-39JA	Registration: eligible companies with a registration history	50
-39JB	Registration: eligible companies with a claim history	51
-39JC	Registration: eligible companies with a tax loss history	51
-39JD	Applications under section 39J	52
-39JE	Application for extension of time if application otherwise subject to a 6 month limit	53
-39JF	Registration if application for registration made after expiry of period for making application	54
+34B	Designated activities	24
+Division 4—Miscellaneous	25
+35	Applications	25
+36	Results of projects to be exploited	25
+37	Adjustment of subsidies because of financial assistance	25
+38	Repayment of subsidies on breach of agreement	26
+39	Payments to be made to persons incurring cost	26
+Part IIIA—Functions of Board in relation to income tax concessions	27
+39AA	Object of Part	27
+39A	Interpretation	27
+39B	Related companies	29
+39C	Exploitation otherwise than on normal commercial terms	29
+39D	Exploitation otherwise than for the benefit of the Australian economy	30
+39E	Adequate Australian content	30
+39EA	Finance scheme guidelines	31
+39EB	Guidelines concerning overseas research and development activities	32
+39EC	Applications for provisional certificates	33
+39ED	Board’s decision on application for provisional certificate	34
+39EE	Matters to be contained in provisional certificate	35
+39EF	Board’s power to amend or revoke provisional certificate on its own initiative	36
+39F	Registration of Australian research agencies	37
+39FA	Notices about continuing registration of Australian research agencies	39
+39G	Cancellation of registration of research agencies	40
+39H	Board to publicise particulars of registered research agencies	40
+39HA	Register of Commercial Government Bodies	41
+39HB	Commercial government bodies guidelines	41
+39HC	Applications for entry on the Register of Commercial Government Bodies	43
+39HD	Board’s decision on application for entry on Register of Commercial Government Bodies	43
+39HE	Grant of application for entry on Register of Commercial Government Bodies	45
+39HF	Removal from Register of Commercial Government Bodies	45
+39HG	Applications for advance registration of eligible companies	46
+39HH	Advance registration of eligible companies	47
+39HI	Grounds for refusal of advance registration	47
+39J	Registration of eligible companies	47
+39JA	Registration: eligible companies with a registration history	49
+39JB	Registration: eligible companies with a claim history	50
+39JC	Registration: eligible companies with a tax loss history	50
+39JD	Applications under section 39J	51
+39JE	Application for extension of time if application otherwise subject to a 6 month limit	52
+39JF	Registration if application for registration made after expiry of period for making application	53
 39K	Grounds for refusal to register eligible companies	54
-39KA	Guidelines concerning plans for research and development activities	55
-39L	Certificate as to research and development activities	56
+39KA	Guidelines concerning plans for research and development activities	54
+39L	Certificate as to research and development activities	55
 39LAA	Certificate as to overseas research and development activities	56
-39LA	Certificate as to core technology	57
-39M	Certificate as to exploitation of results, or Australian content, of activities	57
-39MA	Certificate about ineligible finance schemes	58
-39N	Certificate of non‑compliance	59
-39P	Joint registration	60
-39PA	Limitation of Board’s power to register companies jointly	62
-39PB	Extension of joint registration to complete project	64
-39Q	Copies of certificate to be given to persons affected	66
-39R	Service of notices etc.	66
+39LA	Certificate as to core technology	56
+39M	Certificate as to exploitation of results, or Australian content, of activities	56
+39MA	Certificate about ineligible finance schemes	57
+39N	Certificate of non‑compliance	58
+39P	Joint registration	59
+39PA	Limitation of Board’s power to register companies jointly	61
+39PB	Extension of joint registration to complete project	63
+39Q	Copies of certificate to be given to persons affected	65
+39R	Service of notices etc.	65
 39S	Internal review of decisions	66
-39T	Review of decisions by Administrative Appeals Tribunal	68
+39T	Review of decisions by Administrative Appeals Tribunal	67
 39U	Statements to accompany notification of decisions	68
 39V	Tax consequences of variation or revocation of reviewable decisions	69
-Part IV—Finance	71
-40	Money to be appropriated	71
-41	Notice of money available for Board	71
-42	Advances in respect of subsidies	71
-43	Subsidies not to exceed money available	72
-Part V—Miscellaneous	73
-44	Offences	73
-45	Time for prosecutions	73
-46	Annual report	73
-47	Confidentiality	75
-48	Regulations	75
-48A	Fees for making applications etc. under Part IIIA	76
+Part IV—Finance	70
+40	Money to be appropriated	70
+41	Notice of money available for Board	70
+42	Advances in respect of subsidies	70
+43	Subsidies not to exceed money available	71
+Part V—Miscellaneous	72
+44	Offences	72
+45	Time for prosecutions	72
+46	Annual report	72
+47	Confidentiality	74
+48	Regulations	74
+48A	Fees for making applications etc. under Part IIIA	75
 Part VI—Amendments of Industrial Research and Development Incentives Act 1976	77
-Notes	79
+Notes		79
 An Act to encourage certain research and development
 Part I—Preliminary
   
@@ -1088,17 +1087,18 @@ officer of the Department includes a consultant or other person providing servic
 48A  Fees for making applications etc. under Part IIIA
 	(1)	The regulations may prescribe fees for making applications or requests to the Board under Part IIIA.
 	(2)	The amount of a fee must not be such as to amount to taxation.
+
 Part VI—Amendments of Industrial Research and Development Incentives Act 1976
   
-Sections 49–53
+Sections 49-53
 Note:
-The amendments made by this Part are incorporated in the compilation on SCALEplus.
-For access to the wording of the amendments made by this Part, see Act No. 89, 1986.
+The amendments made by this Part are incorporated in the current consolidation on SCALEplus of the Industrial Research and Development Incentives Act 1976.
+For access to the wording of the amendments made by this Part, click here [Industry Research and Development Act 1986 No. 89 of 1986].
 Notes to the Industry Research and Development Act 1986
 Note 1
 The Industry Research and Development Act 1986 as shown in this compilation comprises Act No. 89, 1986 amended as indicated in the Tables below. 
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this compilation. For subsequent information see Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this consolidation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -1118,7 +1118,7 @@ S. 18
 Taxation Laws Amendment Act (No. 4) 1989 
 167, 1989 
 19 Dec 1989 
-S. 31: 19 Jan 1989  Part 4 (ss. 35–37): 25 Jan 1989  Remainder: Royal Assent 
+S. 31: 19 Jan 1989  Part 4 (ss. 35‑37): 25 Jan 1989  Remainder: Royal Assent 
 — 
 Taxation Laws Amendment Act 1990 
  35, 1990 
@@ -1129,21 +1129,21 @@ Industry, Technology and Commerce Legislation Amendment Act 1991
 66, 1991 
 15 June 1991 
 15 June 1991 
-Ss. 2(2)–(4) and 20 
+Ss. 2(2)‑(4) and 20 
 Taxation Laws Amendment Act (No. 5) 1992 
 224, 1992 
 24 Dec 1992 
-Ss. 91–112: Royal Assent (a) 
+Ss. 91‑112: Royal Assent (a) 
 Ss. 106 and 108 
 Industry, Technology and Regional Development Legislation Amendment Act 1994 
 58, 1994 
 9 Apr 1994 
-29 June 1994 (see Gazette 1994, No. S211) 
+29 June 1994 (see Gazette 1994, No. S211) 
 — 
 Taxation Laws Amendment Act (No. 4) 1994 
 181, 1994 
 19 Dec 1994 
-Schedule 1 (items 22–85): 13 Oct 1994  Remainder: Royal Assent 
+Schedule 1 (items 22‑85): 13 Oct 1994  Remainder: Royal Assent 
 Sch. 4 (items 1, 8) 
  Industry Research and Development Amendment Act 1995 
 84, 1995 
@@ -1158,12 +1158,12 @@ Schedule 4 (item 94): Royal Assent (b)
 Taxation Laws Amendment Act (No. 3) 1996
 78, 1996
 19 Dec 1996
-Schedule 4 (items 58–75): Royal Assent (c)
+Schedule 4 (items 58‑75): Royal Assent (c)
 Sch. 4 (item 69) [see Table A]
 Industry Research and Development Amendment Act 1996
 82, 1996
 19 Dec 1996
-Schedule 1 (items 1– 3): 19 Dec 1994 (d) Schedule 1 (items 13, 14): 6 Dec 1995 (d) Schedule 1 (items 21–23): 15 June 1991 (d) Remainder: Royal Assent
+Schedule 1 (items 1‑ 3): 19 Dec 1994 (d) Schedule 1 (items 13, 14): 6 Dec 1995 (d) Schedule 1 (items 21‑23): 15 June 1991 (d) Remainder: Royal Assent
 —
 Taxation Laws (Technical Amendments) Act 1998
 41, 1998
@@ -1188,17 +1188,17 @@ Schedule 1 (items 544, 545): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001
+Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
 Corporations (Repeals, Consequentials and Transitionals) Act 2001
 55, 2001
 28 June 2001
-Ss. 4–14 and Schedule 3 (item 276): 15 July 2001 (see Gazette 2001, No. S285) (h)
-Ss. 4–14
+Ss. 4‑14 and Schedule 3 (item 276): 15 July 2001 (see Gazette 2001, No. S285) (h)
+Ss. 4‑14
 Taxation Laws Amendment (Research and Development) Act 2001
 170, 2001
 1 Oct 2001
-Schedule 1 (items 2–2B, 7): Royal Assent (i) Schedule 2 (items 45–50): 29 Jan 2001 (i) Schedule 2 (items 85–91): (i)
+Schedule 1 (items 2-2B, 7): Royal Assent (i) Schedule 2 (items 45-50): 29 Jan 2001 (i) Schedule 2 (items 85-91): (i)
 Sch. 1 (item 2B) and Sch. 2 (item 51) [see Table A] S. 2(3) (am. by 57, 2002, Sch. 12 (item 63))
 as amended by
 
@@ -1210,19 +1210,14 @@ Taxation Laws Amendment Act (No. 2) 2002
 3 July 2002
 Schedule 12 (item 63): (j)
 —
-Industry Research and Development Amendment Act 2004
-15, 2004
-11 Mar 2004
-Schedule 1: [see (k), Note 2 and Table A] Remainder: Royal Assent
-Sch. 1 (items 25, 28) [see Table A]
 
-(a)	The Industry Research and Development Act 1986 was amended by sections 91–112 only of the Taxation Laws Amendment Act (No. 5) 1992, subsection 2(1) of which provides as follows: 
+(a)	The Industry Research and Development Act 1986 was amended by sections 91‑112 only of the Taxation Laws Amendment Act (No. 5) 1992, subsection 2(1) of which provides as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Industry Research and Development Act 1986 was amended by Schedule 4 (item 94) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows: 
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(c)	The Industry Research and Development Act 1986 was amended by Schedule 4 (items 58–75) only of the Taxation Laws Amendment Act (No. 3) 1996, subsection 2(1) of which provides as follows:
+(c)	The Industry Research and Development Act 1986 was amended by Schedule 4 (items 58‑75) only of the Taxation Laws Amendment Act (No. 3) 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(d)	Subsections 2(2)–(4) of the Industry Research and Development Amendment Act 1996 provide as follows:
+(d)	Subsections 2(2)‑(4) of the Industry Research and Development Amendment Act 1996 provide as follows:
 	(2)	Items 1, 2 and 3 of Schedule 1 are taken to have commenced on 19 December 1994, immediately after the commencement of Schedule 4 to the Taxation Laws Amendment Act (No. 4) 1994.
 	(3)	Items 13 and 14 of Schedule 1 are taken to have commenced at 2.30 pm Australian Eastern Standard Time on 6 December 1995.
 	(4)	Items 21, 22 and 23 of Schedule 1 are taken to have commenced on 15 June 1991, immediately after the commencement of section 17 of the Industry, Technology and Commerce Legislation Amendment Act 1991.
@@ -1237,11 +1232,11 @@ Sch. 1 (items 25, 28) [see Table A]
 	(2)	Subject to this section, this Act commences at the commencing time.
 (h)	The Industry Research and Development Act 1986 was amended by Schedule 3 (item 276) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(i)	The Industry Research and Development Act 1986 was amended by Schedule 1 (item 2, 2A and 7) and Schedule 2 (items 45–50 and 85–91) only of the Taxation Laws Amendment (Research and Development) Act 2001, section 2 of which provides as follows:
+(i)	The Industry Research and Development Act 1986 was amended by Schedule 1 (item 2, 2A and 7) and Schedule 2 (items 45-50 and 85-91) only of the Taxation Laws Amendment (Research and Development) Act 2001, section 2 of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
 	(3)	Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the New Business Tax System (Capital Allowances) Act 2001.
-(j)	Subsection 2(1) (item 61) of the Taxation Laws Amendment Act (No. 2) 2002, provides as follows:
+(j)	The Taxation Laws Amendment (Research and Development) Act 2001 was amended by Schedule 12 (item 63) only of the Taxation Laws Amendment Act (No. 2) 2002, subsection 2(1) (item 61) of which provides as follows:
 	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 Commencement information
@@ -1254,31 +1249,17 @@ Date/Details
 61.  Schedule 12, item 63
 Immediately after section 2 of the Taxation Laws Amendment (Research and Development) Act 2001 commenced
 1 October 2001
-(k)	Subsection 2(1) (item 2) of the Industry Research and Development Amendment Act 2004 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-Provision(s)
-Commencement
-Date/Details
-2.  Schedule 1
-A single day to be fixed by Proclamation.
-However, if any of the provision(s) do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
-[see Note 2]
 
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 Title 	
 am. No. 59, 1988 
-Part I
-
 S. 3 	
 am. No. 59, 1988 
 S. 4 	
 am. No. 66, 1991; No. 224, 1992; No. 78, 1996 
-Part II
-
 S. 7 	
 am. No. 66, 1991; No. 224, 1992 
 S. 9 	
@@ -1307,21 +1288,13 @@ Heading to s. 25
 rs. No. 15, 1999
 S. 25	
 am. Nos. 15 and 146, 1999
-Part III
-
-Division 1
-
 S. 27 	
 am. No. 59, 1988 
 S. 28 	
 am. No. 66, 1991; No. 58, 1994; No. 84, 1995 
-Division 2
-
 S. 31 	
 am. No. 66, 1991; No. 58, 1994; No. 84, 1995 
-Division 3A
-
-Div. 3A of Part III 	
+Div. 3A of Part III 	 (ss. 34A, 34B) 
 ad. No. 66, 1991 
 S. 34A	
 ad. No. 66, 1991 
@@ -1329,13 +1302,9 @@ ad. No. 66, 1991
 am. No. 78, 1996
 S. 34B	
 ad. No. 66, 1991 
-Division 4
-
 S. 38 	
 am. No. 66, 1991 
-Part IIIA
-
-Part IIIA 	
+Part IIIA 	 (ss. 39A‑39R) 
 ad. No. 59, 1988 
 S. 39AA 	
 ad. No. 170, 2001
@@ -1417,7 +1386,7 @@ S. 39J
 ad. No. 59, 1988 
 
 am. No. 82, 1996; No. 15, 1999
-Ss. 39JA–39JC	
+Ss. 39JA‑39JC	
 ad. No. 82, 1996
 S. 39JD	
 ad. No. 82, 1996
@@ -1485,12 +1454,8 @@ ad. No. 66, 1991
 am. No. 224, 1992 
 S. 39V 	
 ad. No. 66, 1991 
-Part IV
-
 S. 42 	
 am. No. 66, 1991; No. 78, 1996 
-Part V
-
 S. 44	
 am. No. 137, 2000 
 S. 46 	
@@ -1499,111 +1464,6 @@ S. 47
 am. No. 59, 1988; No. 15, 1999
 S. 48A	
 ad. No. 82, 1996
-Note 2
-Industry Research and Development Amendment Act 2004 (No. 15, 2004)
-The following amendments commence on 11 September 2004 unless proclaimed earlier:
-Schedule 1  
-1  At the end of section 3
-Add “and innovation activities”.
-2  Subsection 4(1) (definition of agreement under this Act)
-Repeal the definition.
-3  Subsection 4(1) (definition of application)
-Repeal the definition.
-4  Subsection 4(1) (definition of Australian government body)
-Repeal the definition.
-5  Subsection 4(1) (definition of Australian government contractor)
-Repeal the definition.
-6  Subsection 4(1) (definition of corporate researcher)
-Repeal the definition.
-7  Subsection 4(1) (definition of designated activity)
-Repeal the definition.
-8  Subsection 4(1) (definition of discretionary grant)
-Repeal the definition.
-9  Subsection 4(1) (definition of discretionary grant agreement)
-Repeal the definition.
-10  Subsection 4(1) (definition of eligible activity)
-Repeal the definition.
-11  Subsection 4(1) (definition of eligible company)
-Repeal the definition.
-12  Subsection 4(1) (definition of generic technology grant)
-Repeal the definition.
-13  Subsection 4(1) (definition of generic technology grant agreement)
-Repeal the definition.
-14  Subsection 4(1) (definition of national interest agreement)
-Repeal the definition.
-15  Subsection 4(1) (definition of national procurement development program agreement)
-Repeal the definition.
-16  Subsection 4(1) (definition of researcher)
-After “research and development activities”, insert “or innovation activities”.
-17  Subsection 4(1) (definition of subsidy)
-Repeal the definition.
-18  Subsection 4(1)
-Insert:
-technical assessment means:
-	(a)	in relation to a proposal for research and development or a proposal for innovation in respect of which an application has been made for the expenditure of Commonwealth money under a program to which Ministerial directions under section 18A apply—an assessment of, and the provision of advice and recommendations concerning:
-	(i)	the eligibility of the proposal, and of the applicant, to participate in the program; and
-	(ii)	the technical merit of the proposal; and
-	(iii)	any other matter specified in the Ministerial directions; and
-	(b)	in relation to the progress of particular research and development or a particular innovation initiative in respect of which the expenditure of Commonwealth money has been approved under such a program—an assessment of, and the provision of advice and recommendations concerning:
-	(i)	the progress of that research and development or of that innovation initiative; and
-	(ii)	any other matter specified in the Ministerial directions.
-19  Subsections 4(3) and (4)
-Repeal the subsections.
-20  Before paragraph 7(a)
-Insert:
-	(aaa)	in accordance with Ministerial directions under section 18A or 19—to provide technical assessments to the Minister in relation to:
-	(i)	proposals for research and development, or proposals for innovation, under programs to which those directions apply; or
-	(ii)	the progress of particular research and development or particular innovation initiatives in respect of which the expenditure of Commonwealth money has been approved under such programs; and
-21  At the end of paragraphs 7(a) and (aa)
-Add “and”.
-22  Paragraph 7(b)
-Repeal the paragraph.
-23  After section 18
-Insert:
-18A  Minister may give directions concerning the provision of technical assessments
-	(1)	The Minister may, in relation to any program relating to research and development matters or innovation matters that is administered by the Department, by notice in writing delivered to the Chairperson, give directions to the Board concerning the provision to the Minister of technical assessments:
-	(a)	of proposals for research and development, or proposals for innovation, under that program; and
-	(b)	of the progress of research and development, or innovation, in respect of which the expenditure of Commonwealth money has been approved under that program.
-	(2)	Without limiting the generality of subsection (1), Ministerial directions that the Board provide a technical assessment of a research and development proposal, or an innovation proposal, may include a requirement that the Board consider and report to the Minister on whether the proposal is likely to lead to results that can be exploited on normal commercial terms or will otherwise benefit the Australian economy.
-24  Subsection 19(2)
-Repeal the subsection.
-26  After section 19
-Insert:
-19A  General provisions concerning direction powers under sections 18A and 19
-	(1)	For the avoidance of doubt, a direction given to the Board after the commencement of this section under section 18A or 19 must not confer a function on the Board to commit, authorise or recommend the expenditure of Commonwealth money.
-	(2)	The Minister must publish in the Gazette any direction under section 18A or 19 or any revocation of such a direction.
-27  Part III
-Repeal the Part.
-29  Part IV
-Repeal the Part.
-30  Subsection 44(6)
-Omit “claim for subsidy”, substitute:
-application for:
-	(a)	the expenditure of Commonwealth money under a program to which Ministerial directions under section 18A or 19 apply; or
-	(b)	an advance in respect of money that may be paid under such a program.
-31  Subsection 44(11)
-Repeal the subsection.
-32  Paragraph 46(2)(a)
-Repeal the paragraph, substitute:
-	(a)	must contain an analysis of the effectiveness of the operations of the Board under this Act during the year in achieving the object of this Act; and
-33  Paragraph 46(2)(b)
-Omit all the words before subparagraph (i), substitute:
-		if the Board has entered into agreements under this Act, including agreements entered into under transitional arrangements, during the year—must set out, in relation to each such agreement entered into:
-34  Subparagraph 46(2)(b)(ii)
-Omit “subsidy”, substitute “Commonwealth money”.
-35  Subparagraphs 46(2)(b)(iv), (v) and (vi)
-Repeal the subparagraphs, substitute:
-	(iv)	subject to section 47, particulars of the research and development activities to which the agreement relates; and
-36  Paragraph 46(2)(c)
-Repeal the paragraph, substitute:
-	(c)	if the Board has entered into agreements under this Act, including agreements entered into under transitional arrangements, and those agreements are still in force during the year—must set out, in relation to each such agreement entered into:
-	(i)	the name of each researcher to whom Commonwealth money has been paid in respect of a research and development program during the year; and
-	(ii)	the amount of Commonwealth money paid to that researcher in respect of that program in the year; and
-37  At the end of section 46
-Add:
-	(4)	In this section:
-transitional arrangements means arrangements provided for in item 28 of Schedule 1 to the Industry Research and Development Amendment Act 2004.
-As at 12 March 2004 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Taxation Laws Amendment Act (No. 3) 1996 (No. 78, 1996)
@@ -1669,43 +1529,5 @@ Taxation Laws Amendment (Research and Development) Act 2001  (No. 170, 2001)
 Schedule 1
 2B  Application
 The amendment made by this Part applies to reports in relation to the financial year commencing on 1 July 2001 and all later financial years.
-
-Industry Research and Development Amendment Act 2004 (No. 15, 2004)
-The following provisions commence on 11 September 2004 unless proclaimed earlier:
-Schedule 1
-25  Saving provision
-Despite the repeal of subsection 19(2) of the Industry Research and Development Act 1986, that subsection continues to apply in relation to:
-	(a)	any direction given by the Minister under that section before the date of commencement of Schedule 1 to this Act; and
-	(b)	any revocation of such a direction made on or after that date;
-as if the subsection had not been repealed.
-28  Transitional provisions
-(1)	Despite the amendments of the Industry Research and Development Act 1986 made by this Act:
-	(a)	Ministerial directions in force immediately before the commencing day under section 19 of that Act in relation to a program of funding for research and development are taken to continue in force on and after that day for the purpose of facilitating the transitional arrangements set out in subitems (3) to (6); but
-	(b)	a person or body may not make an application after that day in respect of a research and development proposal under such a program.
-(2)	Nothing in subitem (1) implies that:
-	(a)	the Minister may not give directions, on or after the commencing day, under section 18A of the Industry Research and Development Act 1986, in relation to a program of funding for research and development that is substantially similar to the program for which directions had been given under section 19 of that Act; or
-	(b)	a person or body may not make an application after that day in respect of a research and development proposal under such a substantially similar program.
-(3)	If:
-	(a)	before the commencing day, a person or body has made an application under the Industry Research and Development Act 1986 for the expenditure of Commonwealth money in respect of a research and development proposal; and
-	(b)	that proposal is a proposal for research and development to be funded under a program to which Ministerial directions in force immediately before that day under section 19 of that Act apply;
-then:
-	(c)	that application may be considered and dealt with by the Industry Research and Development Board on and after that day, and
-	(d)	any agreement in relation to the provision of Commonwealth money for that proposal may be entered into by or on behalf of the Board on and after that day;
-as if the amendments made by this Schedule had not been made.
-(4)	If:
-	(a)	before the commencing day, the Board had entered into:
-	(i)	an agreement under section 33 of the Industry Research and Development Act 1986 as in force at that time; or
-	(ii)	an agreement under the Industry Research and Development Act 1986 in relation to a research and development program to which Ministerial directions in force immediately before that day under section 19 of the Industry Research and Development Act 1986 apply; and
-	(b)	immediately before the commencing day, any obligation under that agreement is still required to be met;
-that agreement continues in force, according to its terms, on and after that day, as if the amendments made by this Schedule had not been made.
-(5)	The Industry Research and Development Board may from time to time, on or after the commencing day, for the purpose of determining whether obligations required to be met under an agreement referred to in subitem (3) or (4) are in fact being met, exercise any powers that had been conferred on the Board by or under the Industry Research and Development Act 1986 or by the agreement as if the amendments made by this Schedule had not been made.
-(6)	Despite the amendments of the Industry Research and Development Act 1986 made by this Schedule, a prosecution may be instituted, on or after the commencing day, in respect of an offence concerning:
-	(a)	an application made before that day for:
-	(i)	the expenditure of Commonwealth money under a program to which Ministerial directions in force immediately before that day under section 19 of that Act apply; or
-	(ii)	an advance in respect of money that may be paid under such a program; or
-	(b)	if any agreement is entered into before, on or after that day in relation to such an application—any act or omission, or the provision of or failure to provide any information, in relation to the research and development to which the agreement relates;
-as if those amendments had not been made.
-(7)	In this item:
-commencing day means the date of commencement of Schedule 1 to this Act.
 
 
