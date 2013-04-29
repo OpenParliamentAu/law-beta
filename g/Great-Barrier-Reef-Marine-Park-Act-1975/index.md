@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00774/Html/0d97fe07-1b95-44ab-b1c0-0d71a8ee56ae_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00109/Html/4c696d1a-50c2-4cf8-b532-7a26dd7cdbf0_files/image001.gif)
 
-# Great   Barrier Reef Marine Park Act 1975
+# Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 31 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -967,7 +968,7 @@ the vessel under tow is to be treated as if it were navigating with a pilot.
 
 ##### <a id="3AA"></a>3AA  Ecologically sustainable use
 
-                   For the purposes of this Act, **_ecologically sustainable use_** of the Great Barrier Reef Region or its natural resources is use of the Region or resources:
+                   For the purposes of this Act, **_ecologically sustainable use_** of the Great Barrier Reef Region or its natural resources is use of the Region or resources:
 
                      (a)  that is consistent with:
 
@@ -3327,7 +3328,11 @@ is not admissible in evidence against the person in:
 
 (1)For the purposes of the _Financial Management and Accountability Act 1997_, a collected amount does not become public money until it is received by the Authority on behalf of the Commonwealth.
 
-             (2)  The _Financial Management and Accountability Act 1997_ does not apply in relation to interest, or other amounts, derived by holders of chargeable permissions from the custody or banking of collected amounts.
+             (2)  The _Financial Management and Accountability Act 1997_ does not apply in relation to:
+
+                     (a)  interest, or other amounts, derived by holders of chargeable permissions from the custody or banking of collected amounts; and
+
+                     (b)  payments covered by subsection 39PA(3).
 
 Note:          One of the effects of this section is that holders of chargeable permissions will not be subject to the _Financial Management and Accountability Act 1997_.
 
@@ -4047,7 +4052,7 @@ the pilot must give the master of the ship a certificate in the form approved by
 
                      (c)  the Executive Officer of the Authority;
 
-                     (d)  if an arrangement is in force under subsection 48A(2) between the Authority and another authority of the Commonwealth:
+                     (d)  if an arrangement is in force under subsection 42(2) between the Authority and another authority of the Commonwealth:
 
                               (i)  the other authority; or
 
@@ -4191,7 +4196,7 @@ Note:          The defendant bears an evidential burden in rel
 
 #### Subdivision A—Vessel monitoring directions
 
-##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
+##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
 
 Application of this section
 
@@ -5233,7 +5238,7 @@ the officer commits an offence.
 
                      (b)  if no term of imprisonment is specified for the offence committed by the body corporate—a pecuniary penalty not exceeding the pecuniary penalty specified for the offence committed by the body corporate.
 
-##### <a id="61AOB"></a>61AOB  Civil penalties for executive officers of bodies corporate
+##### <a id="61AOB"></a>61AOB  Civil penalties for executive officers of bodies corporate
 
              (1)  If:
 
@@ -5631,7 +5636,7 @@ _Section 3_
 
 ### Note 1
 
-The _Great Barrier Reef__Marine Park__Act 1975_ as shown in this compilation comprises Act No. 85, 1975 amended as indicated in the Tables below.
+The _Great Barrier Reef__Marine Park__Act 1975_ as shown in this compilation comprises Act No. 85, 1975 amended as indicated in the Tables below. 
 
 For application, saving or transitional provisions made by the   _Great Barrier Reef__Marine Park__Amendment Act 2007_, _see_ Act No. 106, 2007, Schedule 2.
 
@@ -6045,7 +6050,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 11–13), Schedule 4 (items 60–63) and Schedule 7 (items 11–15): 16 July 2000 <i>(i)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 13) and Sch. 7 (items 12, 14) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 13) and Sch. 7 (items 12, 14) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6222,7 +6227,7 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>Sch. 3 (items 
 49–52), Sch. 4 (items 
 42–44), Sch. 5 (items 
-147–157) and Sch. 6 (items 
+147–157) and Sch. 6 (items 
 35–42) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -6291,41 +6296,7 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>Schedule 2 (items 661–671) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Navigation (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>129, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 15): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 60, 61): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -8273,14 +8244,6 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 6</b></div>
   </td>
   <td>
@@ -9132,7 +9095,7 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 136, 2012</div>
+    <div>am. No. 25, 1995</div>
   </td>
 </tr>
 <tr>
@@ -9752,33 +9715,19 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
   </td>
 </tr></table>
 
-### Note 2
-
-_Navigation (Consequential Amendments) Act 2012 (No. 129, 2012)_
-
-The following amendment commences at the same time as section 3 of the _Navigation Act 2012:_
-
-## Schedule 2
-
-## 15  Subsection 3(1) (definition of _port_)
-
-Omit “_1912_”, substitute “_2012_”.
-
-As at 31 October 2012 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
-## Schedule 2
+## Schedule 2  
 
 ## 13  Saving
 
 The amendments of the _Great Barrier Reef Marine Park Act 1975_ made by this Schedule do not affect the validity of a plan of management, agreement or arrangement made under Part VB of that Act.
 
-## Schedule 7
+## Schedule 7  
 
 ## 12  Transitional—Proclamations
 
