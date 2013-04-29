@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2006C00661/Html/TelstraTransFullPrivOwner2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00123/Html/3013E11CD6D69727CA25714D00087DBC/$FILE/image001.gif)
 
 # Telstra (Transition to Full Private Ownership) Act 2005
 
 **Act No. 118 of 2005 as amended**
 
-This compilation was prepared on 9 November 2006
+This compilation was prepared on 27 March 2006
 
-**\[This Act was amended by SLI 2006 No. 50; Act No. 192 of 1976 (as am. by Act No. 122 of 2006)]**
+**\[This Act was amended by SLI 2006 No. 50]**
 
 **Amendments from SLI 2006 No. 50**
 
@@ -14,16 +14,9 @@ This compilation was prepared on 9 November 2006
 
 Schedule 21 (items 1 to 3) commenced on 27 March 2006]
 
-**Amendments from Act No. 192 of 1976 (as am. by Act No. 122 of 2006**
-
-\[Schedule 1 (item 1) repealed and substituted subsection 2(1) (table item 3) and inserted (table items 3A and 3B)
- Schedule 1 (item 2) amended item 59 of Schedule 1
- Schedule 1 (items 3–21) amended item 64 of Schedule 1
-
-Schedule 1 commenced on 5 November 2006]
-
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -39,37 +32,38 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Amendments** 
 
-Part 1—Amendments commencing on Royal Assent                                          6
+Part 1—Amendments commencing on Royal Assent                                          1
 
-Telstra Corporation Act 1991                                                                                   6
+Telstra Corporation Act 1991                                                                                   1
 
-Part 2—Amendments commencing on the designated day                             20
+Part 2—Amendments commencing on the designated day                               1
 
-Administrative Decisions (Judicial Review) Act 1977                                       20
+Administrative Decisions (Judicial Review) Act 1977                                         1
 
-Archives Regulations                                                                                                20
+Archives Regulations                                                                                                  1
 
-Australian Security Intelligence Organisation Act 1979                                  20
+Australian Security Intelligence Organisation Act 1979                                    1
 
-Freedom of Information Act 1982                                                                           21
+Freedom of Information Act 1982                                                                             1
 
-Freedom of Information (Miscellaneous Provisions) Regulations 1982        21
+Freedom of Information (Miscellaneous Provisions) Regulations 1982          1
 
-Long Service Leave (Commonwealth Employees) Regulations 1957             22
+Long Service Leave (Commonwealth Employees) Regulations 1957               1
 
-Maternity Leave (Commonwealth Employees) Regulations                             22
+Maternity Leave (Commonwealth Employees) Regulations                               1
 
-Ombudsman Regulations 1977                                                                               22
+Ombudsman Regulations 1977                                                                                 1
 
-Telstra Corporation Act 1991                                                                                 23
+Telstra Corporation Act 1991                                                                                   1
 
-Part 3—Amendments commencing on the 85% sale day                                37
+Part 3—Amendments commencing on the 85% sale day                                  1
 
-Telstra Corporation Act 1991                                                                                 37
+Telstra Corporation Act 1991                                                                                   1
+
 
 ## An Act to amend the _Telstra Corporation Act 1991_, and for other purposes
 
-[_Assented to__23  September 2005_]
+[_Assented to__23 September 2005_]
 
 The Parliament of Australia enacts:
 
@@ -131,73 +125,53 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 5 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>23 September 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>23 September 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedule 1, items 41 to 51</div>
-  </td>
-  <td>
-    <div>The designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3A. Schedule 1, item 52</div>
-  </td>
-  <td>
-    <div>The third anniversary of the designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3B. Schedule 1, items 53 to 65</div>
-  </td>
-  <td>
-    <div>The designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 1, Part 3</div>
-  </td>
-  <td>
-    <div>The 85% sale day declared under section 4.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 5 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>23 September 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>23 September 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedule 1, Part 2</div>
+    </td>
+    <td>
+      <div>The designated day declared under section 3.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 1, Part 3</div>
+    </td>
+    <td>
+      <div>The 85% sale day declared under section 4.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -309,6 +283,7 @@ Definitions
 
              (2)  The amendment of any regulation under subsection (1) does not prevent the regulation, as so amended, from being amended or repealed by the Governor-General.
 
+
 ###### Schedule 1—Amendments
 
 <h7 class="ActHead7">Part 1—Amendments commencing on Royal Assent</h7>
@@ -355,25 +330,15 @@ Insert:
 
 Omit:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Commonwealth may sell 49.9% of its original equity interest in Telstra, but
-
-must retain the remaining 50.1%.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Commonwealth may sell 49.9% of its original equity interest in Telstra, but must retain the remaining 50.1%.</li></div>
 
 substitute:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Commonwealth may sell its remaining equity interest in Telstra.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Commonwealth may sell its remaining equity interest in Telstra.</li></div>
 
 ## 8  Division 2 of Part 2
 
@@ -419,7 +384,7 @@ Insert:
 
                      (b)  a body corporate specified in a written declaration made by the Minister for Finance under this paragraph.
 
-          (6B)  A **_category B hybrid-security issuer company_** is a hybrid-security issuer company (other than a wholly-owned  Commonwealth company) specified in a written declaration made by the Minister for Finance under this subsection.
+          (6B)  A **_category B hybrid-security issuer company_** is a hybrid-security issuer company (other than a wholly-owned Commonwealth company) specified in a written declaration made by the Minister for Finance under this subsection.
 
           (6C)  A declaration under paragraph (6A)(b) or subsection (6B) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -973,7 +938,7 @@ Insert:
 
 Insert:
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the third anniversary of the designated day.
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the designated day.
 
 ## 60  Section 3
 
@@ -1063,9 +1028,9 @@ Insert:
 
                     <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
 
-                     (a)  the period that is, immediately before the third anniversary of the designated day, the employee’s period of service for the purposes of the Long Service Leave Act; and
+                     (a)  the period that was, immediately before the designated day, the employee’s period of service for the purposes of the Long Service Leave Act; and
 
-                     (b)  the period starting on the third anniversary of the designated day during which the employee continues to be an employee of a Telstra body.
+                     (b)  the period starting on the designated day during which the employee continues to be an employee of a Telstra body.
 
                     <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
@@ -1091,17 +1056,17 @@ Insert:
 
                      (b)  regulations or any other instrument (other than a determination or industrial instrument) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination or industrial instrument or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination or industrial instrument or law (other than this Act) on or after the designated day in relation to service on or after that day.
 
 ##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
 
-             (1)  This section provides that, in certain circumstances, a Telstra body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (1)  This section provides that, in certain circumstances, a Telstra body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (2)  This section applies in relation to a person who was an employee of Telstra immediately before the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
              (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
 
-             (4)  If the employee continues to be employed by a Telstra body on and after the third anniversary of the designated day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
+             (4)  If the employee continues to be employed by a Telstra body on and after the designated day until his or her combined service period is at least 10 years, the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
 
              (5)  If:
 
@@ -1125,7 +1090,7 @@ the Telstra body may grant the employee long service leave on full salary for a 
 
              (1)  This section provides that, in certain circumstances, a Telstra body must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 9B.
 
-             (2)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (2)  This section applies in relation to a person who was an employee of Telstra immediately before the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
              (3)  This section does not apply in relation to an employee who dies while in the employment of a Telstra body. Section 9D applies to such employees.
 
@@ -1165,9 +1130,9 @@ the Telstra body must pay him or her an amount equal to full salary in respect o
 
 ##### <a id="9D"></a>9D  Payments on the death of an employee
 
-             (1)  This section applies in relation to a person who is an employee of Telstra immediately before the third anniversary of the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act is less than 10 years.
+             (1)  This section applies in relation to a person who was an employee of Telstra immediately before the designated day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
-             (2)  If, on or after the third anniversary of the designated day, the employee dies and, immediately before his or her death:
+             (2)  If, on or after the designated day, the employee dies and, immediately before his or her death:
 
                      (a)  the employee was an employee of a Telstra body; and
 
@@ -1195,9 +1160,9 @@ the Telstra body must make a payment to a dependant, or to 2 or more dependants,
 
                      (a)  starting when the employee started his or her period of service; and
 
-                     (b)  ending on the third anniversary of the designated day;
+                     (b)  ending on the designated day;
 
-if the employee had been retrenched on the third anniversary of the designated day.
+if the employee had been retrenched on the designated day.
 
              (2)  For the purposes of section 9C, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 9B.
 
@@ -1207,11 +1172,11 @@ if the employee had been retrenched on the third anniversary of the designated d
 
 ##### <a id="9G"></a>9G  Saving—Long Service Leave Act
 
-                   If, immediately before the third anniversary of the designated day, the period of service under the Long Service Leave Act of an employee of Telstra is at least 10 years, then:
+                   If, immediately before the designated day, the period of service under the Long Service Leave Act of an employee of Telstra was at least 10 years, then:
 
                      (a)  the employee’s accrued rights under the Long Service Leave Act continue; and
 
-                     (b)  the Long Service Leave Act has effect on and after the third anniversary of the designated day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
+                     (b)  the Long Service Leave Act has effect on and after the designated day in relation to the employee as if Telstra were an approving authority for the purposes of that Act.
 
 ### Division 2—Operation of the Safety, Rehabilitation and Compensation Act 1988
 
@@ -1299,7 +1264,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00661/Html/TelstraTransFullPrivOwner2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00123/Html/3013E11CD6D69727CA25714D00087DBC/$FILE/image002.gif)
 
 where:
 
@@ -1333,13 +1298,9 @@ Insert:
 
 Omit:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
-
-Part imposes reporting obligations on Telstra.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Part imposes reporting obligations on Telstra.</li></div>
 
 ## 67  Division 3 of Part 2
 
@@ -1364,5 +1325,8 @@ Repeal the section.
 ## 72  Part 3
 
 Repeal the Part.
+
+
+ 
 
  
