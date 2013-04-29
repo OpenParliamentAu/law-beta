@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00555/Html/CarOfGooBySeaAct1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00048/Html/CarOfGooBySeaAct1991_image001.gif)
 
 # Carriage of Goods by Sea Act 1991
 
 **Act No. 160 of 1991 as amended**
 
-This compilation was prepared on 4 December 2009
+This compilation was prepared on 16 January 2009
  taking into account amendments up to Act No. 135 of 2008
 
 \[Note: Section 2A, Part 3 (sections 12 to 16) and Schedule 2 are taken to have been repealed on 31 October 2001, _see_ section 2]
@@ -207,6 +207,10 @@ The modifications do not actually amend the text set out in Schedule 1, howeve
 Note:          For example, regulations extending the range of sea carriage documents to be covered by the text in Schedule 1 may create a need for associated amendments of sections 10 and 11.
 
              (4)  Before regulations are made for the purposes of this section, the Minister must consult with representatives of shippers, ship owners, carriers, cargo owners, marine insurers and maritime law associations about the regulations that are proposed to be made.
+
+             (5)  For the purposes of the _Amendments Incorporation Act 1905_, amendments made by regulations for the purposes of this section are to be treated as if they had been made by an Act.
+
+Note:          This subsection ensures that the amendments can be incorporated in a reprint of the Act.
 
              (6)  In this section:
 
@@ -1436,7 +1440,7 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
     <div>4 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (item 7): 4 Dec 2009</div>
+    <div>Schedule 3 (item 7): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1496,14 +1500,6 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
   </td>
   <td>
     <div>rs. No. 123\. 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1578,5 +1574,19 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
     <div>am. Statutory Rules 1998 No. 324</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Evidence Amendment Act 2008 (No. 135, 2008)_
+
+The following amendment commences on 4 December 2009 unless proclaimed earlier:
+
+## Schedule 3
+
+## 7  Subsection 7(5)
+
+Repeal the subsection.
+
+As at 16 January 2009 the amendment is not incorporated in this compilation.
 
  
