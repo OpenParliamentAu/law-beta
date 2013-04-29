@@ -1,132 +1,134 @@
-![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="E9F533057A53190FCA256FB900305249/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Crimes (Superannuation Benefits) Act 1989
 
 **Act No. 145 of 1989 as amended**
 
-This compilation was prepared on 26 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part 1—Introductory**
+**Part 1—Introductory<span style="mso-tab-count: 1">                                                                                                             </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[3](#3).            Related offences
+[3](#3).            Related offences<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[4](#4).            Abscond
+[4](#4).            Abscond<span style="mso-tab-count: 1 dotted">                                                                                               </span>
 
-[5](#5).            Charge with offence
+[5](#5).            Charge with offence<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[6](#6).            Conviction and quashing of conviction
+[6](#6).            Conviction and quashing of conviction<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[7](#7).            Employee
+[7](#7).            Employee<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[8](#8).            Property of a person
+[8](#8).            Property of a person<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[9](#9).            Dealing with property
+[9](#9).            Dealing with property<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[10](#10).          Effective control of property
+[10](#10).          Effective control of property<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[11](#11).          Sufficient consideration
+[11](#11).          Sufficient consideration<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[12](#12).          Application to convictions and offences
+[12](#12).          Application to convictions and offences<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[12A](#12A).       Application of the _Criminal Code_
+[12A](#12A).       Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[13](#13).          Act binds the Crown
+[13](#13).          Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[14](#14).          Application and extension of Act
+[14](#14).          Application and extension of Act<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-**Part 2—Superannuation orders**
+**Part 2—Superannuation orders<span style="mso-tab-count: 1">                                                                                     </span>**
 
-[15](#15).          Notice of charge etc 
+[15](#15).          Notice of charge etc <span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[16](#16).          Authority to apply for superannuation order
+[16](#16).          Authority to apply for superannuation order<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[17](#17).          Application for superannuation order
+[17](#17).          Application for superannuation order<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[18](#18).          Application for superannuation order: evidence
+[18](#18).          Application for superannuation order: evidence<span style="mso-tab-count: 1 dotted">                               </span>
 
-[19](#19).          Superannuation orders: making
+[19](#19).          Superannuation orders: making<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[20](#20).          When does a superannuation order take effect?
+[20](#20).          When does a superannuation order take effect?<span style="mso-tab-count: 1 dotted">                                </span>
 
-[21](#21).          Effect of superannuation orders
+[21](#21).          Effect of superannuation orders<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[22](#22).          Superannuation orders: variation
+[22](#22).          Superannuation orders: variation<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[23](#23).          Superannuation orders: revocation
+[23](#23).          Superannuation orders: revocation<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-**Part 3—Restraining orders**
+**Part 3—Restraining orders<span style="mso-tab-count: 1">                                                                                             </span>**
 
-[24](#24).          Application for restraining order
+[24](#24).          Application for restraining order<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[25](#25).          Making of restraining orders
+[25](#25).          Making of restraining orders<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[26](#26).          Restraining order may be subject to conditions
+[26](#26).          Restraining order may be subject to conditions<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[27](#27).          Affidavit of police officer needed in certain cases
+[27](#27).          Affidavit of police officer needed in certain cases<span style="mso-tab-count: 1 dotted">                             </span>
 
-[28](#28).          Notice of application for restraining order
+[28](#28).          Notice of application for restraining order<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[28A](#28A).       Extension of certain restraining orders
+[28A](#28A).       Extension of certain restraining orders<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[29](#29).          Persons who may appear and adduce evidence
+[29](#29).          Persons who may appear and adduce evidence<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[30](#30).          Witnesses not required to answer questions etc  in certain cases
+[30](#30).          Witnesses not required to answer questions etc  in certain cases<span style="mso-tab-count: 1 dotted">      </span>
 
-[31](#31).          Notice of restraining orders
+[31](#31).          Notice of restraining orders<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[32](#32).          Ancillary orders
+[32](#32).          Ancillary orders<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[33](#33).          Charge on property subject to restraining order
+[33](#33).          Charge on property subject to restraining order<span style="mso-tab-count: 1 dotted">                                </span>
 
-[34](#34).          Registration of restraining orders
+[34](#34).          Registration of restraining orders<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[35](#35).          Contravention of restraining orders
+[35](#35).          Contravention of restraining orders<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[36](#36).          Restraining orders: revocation
+[36](#36).          Restraining orders: revocation<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[37](#37).          When do restraining orders cease to have effect?
+[37](#37).          When do restraining orders cease to have effect?<span style="mso-tab-count: 1 dotted">                              </span>
 
-[38](#38).          Extension of period of effect of restraining orders
+[38](#38).          Extension of period of effect of restraining orders<span style="mso-tab-count: 1 dotted">                            </span>
 
-[39](#39).          Notice of applications
+[39](#39).          Notice of applications<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[40](#40).          Court may lift corporate veil etc 
+[40](#40).          Court may lift corporate veil etc <span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[41](#41).          Amounts payable under section 19, 21 or 23
+[41](#41).          Amounts payable under section 19, 21 or 23<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[42](#42).          Multiple payments in respect of same employee contributions not allowed
+[42](#42).          Multiple payments in respect of same employee contributions not allowed<span style="mso-tab-count: 1">         </span>
 
-[43](#43).          Possible superannuation order not to be taken into account in sentencing
+[43](#43).          Possible superannuation order not to be taken into account in sentencing<span style="mso-tab-count: 1">              </span>
 
-[44](#44).          Constitution of appropriate courts
+[44](#44).          Constitution of appropriate courts<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[45](#45).          Regulations
+[45](#45).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+
 
 ## An Act relating to certain superannuation benefits paid or payable to or in respect of certain persons convicted of corruption offences, and for related purposes
 
 ## Part 1—Introductory
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Crimes (Superannuation Benefits) Act 1989_.
 
@@ -234,7 +236,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  a member of the police force of a State or Territory.
 
-                    <a name="properti"></a>**_property_** means real or personal property of every description, whether situated in Australia or anywhere else and whether tangible or intangible, and includes an interest in any such real or personal property.
+                    <a name="properti"></a>**_property_** means real or personal property of every description, whether situated in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or anywhere else and whether tangible or intangible, and includes an interest in any such real or personal property.
 
                     <a name="recoveri-order"></a>**_recovery order_** means a superannuation order containing an order of the kind mentioned in subsection 19(4).
 
@@ -256,7 +258,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  a sentence passed, or an order made, under subsection 20AB(1) of the _Crimes Act 1914_.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory, the Northern Territory and Norfolk Island.
+                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>, the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
                     <a name="superannu-act"></a>**_Superannuation Act_** means:
 
@@ -268,11 +270,11 @@ whether present or future and whether vested or contingent.
 
                      (a)  in relation to the superannuation scheme established by the _Superannuation Act 1976_:
 
-                              (i)  for those matters under that Act for which the Board (within the meaning of that Act) is responsible—the Board; and
+                              (i)  for those matters under that Act for which the Commonwealth Superannuation Board of Trustees No. 2 is responsible—that Board; and
 
                              (ii)  for any other matters under that Act—the Commissioner for Superannuation; or
 
-                    (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
+                    (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Commonwealth Superannuation Board of Trustees No. 1; or
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
@@ -280,7 +282,7 @@ whether present or future and whether vested or contingent.
 
                     <a name="superannu-scheme"></a>**_superannuation scheme_**, in relation to a person, means a superannuation scheme (other than a scheme established under a law of a State) under which employer contributions or benefits are paid or payable, or have at any time been paid, by the Commonwealth or a Commonwealth authority to or in respect of the person, and includes any scheme or arrangement under which such contributions are vested in the person.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory, and, except in section 14, does not include Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> or the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>, and, except in section 14, does not include <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
 ##### <a id="3"></a>3  Related offences
 
@@ -300,11 +302,11 @@ whether present or future and whether vested or contingent.
 
                                         (A)  the person cannot be found; or
 
-                                        (B)  the person is, for any other reason, not amenable to justice and, if the person is outside Australia, extradition proceedings are not on foot;
+                                        (B)  the person is, for any other reason, not amenable to justice and, if the person is outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, extradition proceedings are not on foot;
 
                              (ii)  at the end of the period of 6 months starting on the day on which the warrant is issued:
 
-                                        (A)  the person is not amenable to justice because he or she is outside Australia; and
+                                        (A)  the person is not amenable to justice because he or she is outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
                                         (B)  extradition proceedings are on foot;
 
@@ -350,7 +352,7 @@ whether present or future and whether vested or contingent.
 
                      (a)  a member of the Parliament; or
 
-                     (b)  a justice or judge of a federal court (other than the Federal Magistrates Court); or
+                     (b)  a justice or judge of a federal court (other than the Federal <st1:street><st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Magistrates Court</st1:address></st1:street>); or
 
                     (ba)  a Federal Magistrate; or
 
@@ -380,7 +382,7 @@ is to be taken, for the purposes of this Act, to be employed by the Commonwealth
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image002.gif)
+<v:shape id="_x0000_i1026" style="WIDTH: 48.75pt; HEIGHT: 44.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="E9F533057A53190FCA256FB900305249/$FILE/image003.wmz"></v:imagedata></v:shape>
 
 where:
 
@@ -398,7 +400,7 @@ where:
 
                      (a)  if a debt owing by the person is secured by an encumbrance on the property—incurring any further liability or increasing the amount of that debt by any means; or
 
-                     (b)  removing the property from Australia; or
+                     (b)  removing the property from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
                      (c)  receiving or making a gift of the property.
 
@@ -438,15 +440,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="13"></a>13  Act binds the Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
              (2)  Nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="14"></a>14  Application and extension of Act
 
-             (1)  This Act applies throughout the whole of Australia and also applies outside Australia.
+             (1)  This Act applies throughout the whole of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and also applies outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
              (2)  This Act extends to the external Territories.
+
+<o:p> </o:p>
 
 ## Part 2—Superannuation orders
 
@@ -556,7 +560,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image003.gif)
+<v:shape id="_x0000_i1027" style="WIDTH: 45.75pt; HEIGHT: 21pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="E9F533057A53190FCA256FB900305249/$FILE/image005.wmz"></v:imagedata></v:shape>
 
 where:
 
@@ -604,7 +608,7 @@ where:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image004.gif)
+<v:shape id="_x0000_i1028" style="WIDTH: 48pt; HEIGHT: 21pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="E9F533057A53190FCA256FB900305249/$FILE/image007.wmz"></v:imagedata></v:shape>
 
 where:
 
@@ -659,6 +663,8 @@ there is payable to the person an amount determined by the Minister for Finance,
                      (e)  any other financial loss sustained by the person as a result of the superannuation order; and
 
                       (f)  any other matters that the Minister thinks are relevant in the circumstances of the case.
+
+<o:p> </o:p>
 
 ## Part 3—Restraining orders
 
@@ -962,6 +968,8 @@ the court may:
 
              (2)  A person who applies under section 36 for revocation of a restraining order must given written notice of the application to the DPP.
 
+<o:p> </o:p>
+
 ## Part 4—Miscellaneous
 
 ##### <a id="40"></a>40  Court may lift corporate veil etc.
@@ -1036,15 +1044,16 @@ whether or not it is constituted in the same way in which it was constituted whe
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Crimes (Superannuation Benefits) Act 1989__ _
 
 ### Note 1
 
 The _Crimes (Superannuation Benefits) Act 1989_ as shown in this compilation comprises Act No. 145, 1989 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="7" month="3">7 March 2000</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL__Sale__Act 1993._
+The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993._
 
 The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
@@ -1062,394 +1071,389 @@ The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Crimes (Superannuation Benefits) Act 1989</div>
-  </td>
-  <td>
-    <div>145, 1989</div>
-  </td>
-  <td>
-    <div>23 Nov 1989</div>
-  </td>
-  <td>
-    <div>21 Dec 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police Legislation Amendment Act (No. 2) 1989</div>
-  </td>
-  <td>
-    <div>153, 1989</div>
-  </td>
-  <td>
-    <div>17 Dec 1989</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2 and Part 3 (ss. 61, 62): Royal Assent 
-S. 11: 1 July 1991 
+<tbody>
+  <tr>
+    <td>
+      <div>Crimes (Superannuation Benefits) Act 1989</div>
+    </td>
+    <td>
+      <div>145, 1989</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="23" month="11">23 Nov 1989</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="21" month="12">21 Dec 1989</st1:date></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police Legislation Amendment Act (No. 2) 1989</div>
+    </td>
+    <td>
+      <div>153, 1989</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="17" month="12">17 Dec 1989</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1, 2 and Part 3 (ss. 61, 62): Royal Assent 
+S. 11: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date> 
 Ss. 38 and 71: 1 Jan 1992 
-Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>123, 1991</div>
-  </td>
-  <td>
-    <div>23 Aug 1991</div>
-  </td>
-  <td>
-    <div>Ss. 5-10, Parts 3-7 and 9 (ss. 11-34, 38, 39) and ss. 40-50: 20 Sept 1991 
-Part 8 (ss. 35-37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
-S. 51: 23 Feb 1992 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 24(2), 27 and 28(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
-  </td>
-  <td>
-    <div>94, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>S. 3: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>164, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1, 2) and Parts 3-11 (ss. 18-53): 8 Jan 1993 
-Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>182, 1994</div>
-  </td>
-  <td>
-    <div>19 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 31: 8 Jan 1993 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
-  </td>
-  <td>
-    <div>196, 1992</div>
-  </td>
-  <td>
-    <div>21 Dec 1992</div>
-  </td>
-  <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i> 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 2(6) (as am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>60, 1993</div>
-  </td>
-  <td>
-    <div>3 Nov 1993</div>
-  </td>
-  <td>
-    <div>10 Mar 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>168, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 3 (item 17): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>182, 1994</div>
-  </td>
-  <td>
-    <div>19 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 31: 16 Jan 1995 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>20, 1997</div>
-  </td>
-  <td>
-    <div>7 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 10-16): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>48, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 39-41): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>44, 1999</div>
-  </td>
-  <td>
-    <div>17 June 1999</div>
-  </td>
-  <td>
-    <div>Schedule 6 (Item 17): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>194, 1999</div>
-  </td>
-  <td>
-    <div>23 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10: 23 Dec 1999 <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>9, 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1), (2) and Schedule 18: <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1), (2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 124, 125, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 55, 56): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="1">1 Jan 1990</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1989, No. S397) 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>123, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="23" month="8">23 Aug 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 5-10, Parts 3-7 and 9 (ss. 11-34, 38, 39) and ss. 40-50: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="20" month="9">20 Sept 1991</st1:date> 
+Part 8 (ss. 35-37): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="6" month="12">6 Dec 1991</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1991, No. S330) 
+S. 51: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="23" month="2">23 Feb 1992</st1:date> 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 24(2), 27 and 28(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
+    </td>
+    <td>
+      <div>94, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="30" month="6">30 June 1992</st1:date></div>
+    </td>
+    <td>
+      <div>S. 3: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="7">1 July 1990</st1:date> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>164, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="11" month="12">11 Dec 1992</st1:date></div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1, 2) and Parts 3-11 (ss. 18-53): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="8" month="1">8 Jan 1993</st1:date> 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="2">1 Feb 1993</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1993, No. GN1) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>182, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="19" month="12">19 Dec 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 31: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="8" month="1">8 Jan 1993</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Act 1992</div>
+    </td>
+    <td>
+      <div>196, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="21" month="12">21 Dec 1992</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule (Part 1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="10" month="3">10 Mar 1993</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1993, No. GN17) <i style="mso-bidi-font-style: normal">(b)</i> 
+Schedule (Part 5): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="30" month="8">30 Aug 1995</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S324) <i style="mso-bidi-font-style: normal">(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 2(6) (as am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>60, 1993</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="3" month="11">3 Nov 1993</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="10" month="3">10 Mar 1993</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>168, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="16" month="12">16 Dec 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 3 (item 17): Royal Assent <i style="mso-bidi-font-style: normal">(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>182, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="19" month="12">19 Dec 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 31: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="16" month="1">16 Jan 1995</st1:date> <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>20, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="7" month="4">7 Apr 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 10-16): Royal Assent <i style="mso-bidi-font-style: normal">(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>48, 1998</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 39-41): <i style="mso-bidi-font-style: normal">(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>44, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="17" month="6">17 June 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 6 (Item 17): Royal Assent <i style="mso-bidi-font-style: normal">(g) <o:p></o:p> </i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Federal Magistrates (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>194, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="23" month="12">23 Dec 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule <st1:time minute="23" hour="10">10: 23</st1:time> Dec 1999 <i style="mso-bidi-font-style: normal">(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>9, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="7" month="3">7 Mar 2000</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="2" month="7">2 July 2000</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2000, No. S328)</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 20, 34, 35) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>24, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="6" month="4">6 Apr 2001</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4(1), (2) and Schedule 18: <i style="mso-bidi-font-style: normal">(i)</i></div>
+    </td>
+    <td>
+      <div>S. 4(1), (2) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 124, 125, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Crimes Legislation Amendment Act 1992_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
 
-                 (6)   The amendment made by this Act to the _Crimes Legislation Amendment Act 1992_ is taken to have commenced on 8 January 1993 immediately after the commencement of section 34 of that Act.
+                 (6)   The amendment made by this Act to the _Crimes Legislation Amendment Act 1992_ is taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="8" month="1">8 January 1993</st1:date> immediately after the commencement of section 34 of that Act.
 
 _(b)_    The _Crimes (Superannuation Benefits) Act 1989_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
 
@@ -1495,7 +1499,8 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-         Item 15 commenced on 24 May 2001.
+         Item 15 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date>.
+
 
 ## Table of Amendments
 
@@ -1508,145 +1513,149 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 153, 1989; No. 194, 1999; No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 123, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1992 (as am. by No. 182, 1994)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 123, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 123, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 123, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 2 </div>
+    </td>
+    <td>
+      <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>am. No. 153, 1989; No. 194, 1999; No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A </div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17 </div>
+    </td>
+    <td>
+      <div>am. No. 20, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18 </div>
+    </td>
+    <td>
+      <div>am. No. 123, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>am. No. 182, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21 </div>
+    </td>
+    <td>
+      <div>am. No. 164, 1992 (as am. by No. 182, 1994)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
+    </td>
+    <td>
+      <div>am. No. 20, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>am. No. 20, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28 </div>
+    </td>
+    <td>
+      <div>am. No. 123, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A </div>
+    </td>
+    <td>
+      <div>ad. No. 123, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32 </div>
+    </td>
+    <td>
+      <div>am. No. 123, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35 </div>
+    </td>
+    <td>
+      <div>am. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37 </div>
+    </td>
+    <td>
+      <div>am. No. 20, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Australian Federal Police Legislation Amendment Act 2000 
- (No. 9, 2000)_
+(No. 9, 2000)<o:p></o:p>
+_
 
 ## Schedule 3
 
@@ -1680,7 +1689,7 @@ Note:          A person who is a member or staff member of the
 
 * * *
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1690,7 +1699,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1706,12 +1715,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
