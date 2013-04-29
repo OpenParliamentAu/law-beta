@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00795/Html/c586bdcf-79a3-49ef-84cc-7f2daf443018_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00618/Html/0e98d09f-3719-4f2e-8b3a-2cca20909973_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 5 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 9 August 2012
+ taking into account amendments up to Act No. 39 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 183U
@@ -30,7 +30,8 @@ The operation of amendments that have been incorporated may be
                                      Notes 2 and 3
                                      Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -4188,7 +4189,7 @@ Purpose for which information obtained
 
 is taken to be obtained by Customs for the purposes of the administration of this Act, the _Migration Act 1958_, and any other law of the Commonwealth prescribed by regulations for the purposes of this subsection.
 
-##### <a id="64ACB"></a>64ACB  Crew reports
+##### <a id="64ACB"></a>64ACB  Crew reports
 
 Obligation to report on crew
 
@@ -4640,7 +4641,7 @@ decide whether or not to register the applicant in relation to low value cargo o
 
                      (d)  if the special reporter is a partnership—the fact of any change in the membership of the partnership.
 
-             (3)  The special reporter must communicate such cargo reports by using dedicated computer facilities.
+             (3)  The special reporter must, except in the circumstances referred to in subsection 64AB(3C), communicate such cargo reports by using dedicated computer facilities.
 
 ##### <a id="67EF"></a>67EF  Storage and record maintenance conditions
 
@@ -4938,7 +4939,7 @@ Note:          A re‑mail reporter is generally not required 
 
 #### Subdivision A—Preliminary
 
-##### <a id="68"></a>68  Entry of imported goods 
+##### <a id="68"></a>68  Entry of imported goods 
 
              (1)  This section applies to:
 
@@ -5738,7 +5739,7 @@ Note:          Subsection 132AA(1) provides that import duty o
 
              (4)  A person who has received a permission may examine the goods in accordance with the permission in the presence of an officer.
 
-##### <a id="71DA"></a>71DA  An officer may seek additional information
+##### <a id="71DA"></a>71DA  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in an import declaration, if an import declaration has been made in respect of goods, authority to deal with the goods may be refused until an officer doing duty in relation to import declarations:
 
@@ -5830,7 +5831,7 @@ the goods are taken to have been entered for home consumption.
 
 the goods are taken to be entered for home consumption only when they are brought to that port or airport.
 
-##### <a id="71DC"></a>71DC  Liability for an RCR processing charge
+##### <a id="71DC"></a>71DC  Liability for an RCR processing charge
 
              (1)  When an RCR is sent to Customs by or on behalf of an accredited client, the accredited client becomes liable to pay an RCR processing charge in respect of the RCR.
 
@@ -7048,7 +7049,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00795/Html/c586bdcf-79a3-49ef-84cc-7f2daf443018_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00618/Html/0e98d09f-3719-4f2e-8b3a-2cca20909973_files/image002.gif)
 
 where:
 
@@ -7942,7 +7943,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="102"></a>102  Holder of licence to inform Collector of certain matters
+##### <a id="102"></a>102  Holder of licence to inform Collector of certain matters
 
              (1)  Where goods are delivered to a warehouse but documents relating to those goods required to be delivered to the holder of the warehouse licence in accordance with this Act are not so delivered or such documents are so delivered but do not contain sufficient information to enable the holder to make a record relating to the goods that he or she is required to make under this Act, the holder shall, as soon as practicable, inform a Collector of the non‑delivery or inadequacy of those documents, as the case may be.
 
@@ -10196,6 +10197,18 @@ Exceptions to this section
 </tr>
 <tr>
   <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>paragraphs 77D(5)(b) and 77E(5)(b)</div>
+  </td>
+  <td>
+    <div>payment of duty on goods delivered into home consumption under special
+      permission because the COMPILE computer system is not operating properly</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>3</div>
   </td>
   <td>
@@ -11502,7 +11515,7 @@ Regulations
 
 #### Subdivision C—Goods produced entirely in the US or in the US and Australia exclusively from originating materials
 
-##### <a id="153YC"></a>153YC  Goods produced entirely in the US or in the US and Australia exclusively from originating materials
+##### <a id="153YC"></a>153YC  Goods produced entirely in the US or in the US and Australia exclusively from originating materials
 
                    Goods are **_US originating goods_** if they are produced entirely in the US, or entirely in the US and Australia, exclusively from originating materials.
 
@@ -11944,7 +11957,7 @@ are chemicals, plastics or rubber).</li>
 
 * * *
 
-##### <a id="153ZD"></a>153ZD  Goods produced entirely in Thailand or in Thailand and Australia
+##### <a id="153ZD"></a>153ZD  Goods produced entirely in Thailand or in Thailand and Australia
 
              (1)  Subject to subsection (6), goods are **_Thai originating goods_** if:
 
@@ -12672,7 +12685,7 @@ Note:          The value of the packaging material or containe
 
 #### Subdivision F—Non‑qualifying operations
 
-##### <a id="153ZJH"></a>153ZJH  Non‑qualifying operations
+##### <a id="153ZJH"></a>153ZJH  Non‑qualifying operations
 
              (1)  Goods are not Chilean originating goods under this Division merely because of the following operations:
 
