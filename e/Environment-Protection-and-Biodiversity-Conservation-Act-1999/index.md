@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00210/Html/1d044cd4-2732-44a9-b8cd-f8aa53267b14_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00751/Html/a385d258-88d3-4eea-a0a2-b31f7c97e6af_files/image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 15 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 **Volume 1** includes:     Table of Contents
@@ -23,7 +23,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 and 3
+                                     Notes 2 – 4
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -2549,7 +2549,7 @@ Exception—fishing outside Commonwealth marine areas
 
 ##### <a id="24"></a>24  What is a _Commonwealth marine area_?
 
-                   Each of the following is a **_Commonwealth marine area_**:
+                   Each of the following is a **_Commonwealth marine area_**:
 
                      (a)  any waters of the sea inside the seaward boundary of the exclusive economic zone, except:
 
@@ -2775,7 +2775,7 @@ Exceptions to prohibition
 
 Note:          Section 28 regulates actions by the Commonwealth or a Commonwealth agency with a significant impact on the environment.
 
-##### <a id="24C"></a>24C  Offences relating to Great Barrier Reef Marine Park
+##### <a id="24C"></a>24C  Offences relating to Great Barrier Reef Marine Park
 
 Actions in Great Barrier Reef Marine Park affecting the environment
 
@@ -2935,7 +2935,7 @@ Note:          Section 34 provides that the matter protected
 
              (1)  The regulations may provide that a specified action is taken to be an action to which a specified regulatory provision applies.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003._
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901._
 
              (2)  To avoid doubt, if, as a result of a regulation made for the purposes of subsection (1), a regulatory provision applies to an action, the action is taken to be described in the provision.
 
@@ -3359,7 +3359,7 @@ Note 2:       This section does not apply to decisions to authorise 
 
              (1)  The regulations may provide that a specified action is taken to be an action to which a specified regulatory provision applies.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003._
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901._
 
              (2)  To avoid doubt, if, as a result of a regulation made for the purposes of subsection (1), a regulatory provision applies to an action, the action is taken to be described in the provision.
 
@@ -5008,7 +5008,7 @@ Auditing
 
                      (b)  the Minister is satisfied that the management arrangement or authorisation process will promote the survival and/or enhance the conservation status of each species to which the provision relates.
 
-##### <a id="55"></a>55  Agreements relating to nuclear actions
+##### <a id="55"></a>55  Agreements relating to nuclear actions
 
                    The Minister must not enter into a bilateral agreement, or accredit for the purposes of a bilateral agreement a management arrangement or an authorisation process, containing a provision that:
 
@@ -5266,7 +5266,7 @@ Note:          A bilateral agreement may also provide for revi
 
              (3)  The Minister must publish the report on each subsection (2) review in accordance with the regulations.
 
-##### <a id="65A"></a>65A  Expiry of bilateral agreement does not affect certain actions
+##### <a id="65A"></a>65A  Expiry of bilateral agreement does not affect certain actions
 
 Application of subsection (2)
 
@@ -7688,7 +7688,7 @@ Definition
 
                              (ii)  the recommendation report relating to the action given to the Minister under section 105.
 
-##### <a id="134"></a>134  Conditions of approval
+##### <a id="134"></a>134  Conditions of approval
 
 Condition to inform persons taking action of conditions attached to approval
 
@@ -8940,7 +8940,7 @@ Publication of notice
 
 ### Division 3—Exemptions
 
-##### <a id="158"></a>158  Exemptions from Part 3 and this Chapter
+##### <a id="158"></a>158  Exemptions from Part 3 and this Chapter
 
              (1)  A person proposing to take a controlled action, or the designated proponent of an action, may apply in writing to the Minister for an exemption from a specified provision of Part 3 or of this Chapter.
 
@@ -9500,7 +9500,7 @@ may withdraw the referral, by written notice to the Minister.
 
 ##### <a id="170D"></a>170D  References to business days are references to Canberra business days
 
-                   A reference in this Chapter to a business day is a reference to a day that is a business day in Canberra.
+                   A reference in this Chapter to a business day is a reference to a day that is a business day (as defined in section 528) in Canberra.
 
 ## Part 12—Identifying and monitoring biodiversity and making bioregional plans
 
@@ -11422,7 +11422,7 @@ Note 2:       If a plan, regime or policy that is accredited under t
 
 #### Subdivision B—Australian Whale Sanctuary and important cetacean habitat areas
 
-##### <a id="225"></a>225  Australian Whale Sanctuary
+##### <a id="225"></a>225  Australian Whale Sanctuary
 
              (1)  The Australian Whale Sanctuary is established in order to give formal recognition of the high level of protection and management afforded to cetaceans in Commonwealth marine areas and prescribed waters.
 
