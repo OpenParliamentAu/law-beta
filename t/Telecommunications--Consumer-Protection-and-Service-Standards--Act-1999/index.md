@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 1 January 2011
- taking into account amendments up to Act No. 140 of 2010
+This compilation was prepared on 13 August 2010
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12S](#12S).        Public consultation required on draft ATS marketing plan
 
-[12T](#12T).        Approval of draft ATS marketing plan
+[12T](#12T).       Approval of draft ATS marketing plan
 
 [12U](#12U).       Notice of decision
 
@@ -158,7 +158,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12Y](#12Y).       Minister may direct variation or replacement of policy statement or standard marketing plan
 
-[12Z](#12Z).        Minister may revoke approved ATS marketing plan
+[12Z](#12Z).       Minister may revoke approved ATS marketing plan
 
     **Division 6—The standard contestability arrangements: competing universal service providers** 
 
@@ -208,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13S](#13S).        Replacement of approved policy statement, approved standard marketing plan or approved ATS marketing plan
 
-[13T](#13T).        Variation of approved policy statement, approved standard marketing plan or approved ATS marketing plan
+[13T](#13T).       Variation of approved policy statement, approved standard marketing plan or approved ATS marketing plan
 
 [13U](#13U).       Notice of decision
 
@@ -286,7 +286,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20S](#20S).        Levy debit balance
 
-[20T](#20T).        Levy credit balance
+[20T](#20T).       Levy credit balance
 
 [20U](#20U).       ACMA to make written assessment
 
@@ -300,23 +300,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision D—Collection and recovery of levy**
 
-[20Z](#20Z).        When levy payable
+[20Z](#20Z).       When levy payable
 
-[20ZA](#20ZA).     Levy a debt due to the Commonwealth
+[20ZA](#20ZA).    Levy a debt due to the Commonwealth
 
 [20ZB](#20ZB).     Validity of assessment
 
 [20ZC](#20ZC).     Evidence of assessment
 
-[20ZD](#20ZD).     Onus of establishing incorrectness of assessment
+[20ZD](#20ZD).    Onus of establishing incorrectness of assessment
 
 [20ZE](#20ZE).     Refund of overpayment of levy
 
 [20ZF](#20ZF).     Cancellation of certain exemptions from levy
 
-[20ZG](#20ZG).     Commonwealth not liable to levy
+[20ZG](#20ZG).    Commonwealth not liable to levy
 
-[20ZH](#20ZH).     Performance bonds and guarantees
+[20ZH](#20ZH).    Performance bonds and guarantees
 
     **Division 14—The Universal Service Account and distributions of levy**
 
@@ -562,7 +562,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [158S](#158S).      Functions of the RTIRC
 
-[158T](#158T).      Membership of the RTIRC
+[158T](#158T).     Membership of the RTIRC
 
 [158U](#158U).     Appointment of RTIRC members
 
@@ -574,15 +574,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [158Y](#158Y).     Remuneration and allowances
 
-[158Z](#158Z).      Leave of absence
+[158Z](#158Z).     Leave of absence
 
-[158ZA](#158ZA).   Resignation
+[158ZA](#158ZA).  Resignation
 
 [158ZB](#158ZB).   Termination of appointment
 
 [158ZC](#158ZC).   Other terms and conditions
 
-[158ZD](#158ZD).   Assistance to RTIRC
+[158ZD](#158ZD).  Assistance to RTIRC
 
 **Part 10—Miscellaneous**
 
@@ -630,7 +630,7 @@ or carry on business, should have reasonable access, on an equitable basis, to:<
 
                (a)     standard telephone services; and
 
-              (b)     payphones; and
+               (b)     payphones; and
 
                (c)     prescribed carriage services.
 
@@ -878,7 +878,7 @@ The main object of the universal service regime is to ensure that all people in 
 
                (a)     standard telephone services; and
 
-              (b)     payphones; and
+               (b)     payphones; and
 
                (c)     prescribed carriage services.
 
@@ -886,25 +886,25 @@ The key elements of the universal service regime are as follows:
 
                (a)     the specification of the universal service obligation;
 
-              (b)     the determination of universal service areas;
+               (b)     the determination of universal service areas;
 
                (c)     the specification of arrangements for the fulfilment of the universal service obligation;
 
-              (d)     the determination of primary universal service providers;
+               (d)     the determination of primary universal service providers;
 
                (e)     the determination of contestable service obligations for particular universal service areas;
 
                (f)     requirements for the approval of, and compliance with, policy statements and marketing plans of universal service providers;
 
-              (h)     the determination of the universal service subsidy payable for supplying services in fulfilment of the universal service obligation;
+               (h)     the determination of the universal service subsidy payable for supplying services in fulfilment of the universal service obligation;
 
-               (j)     the regulation of universal service charges;
+                (j)     the regulation of universal service charges;
 
-              (k)     the assessment, collection, recovery and distribution of the levy imposed by the _Telecommunications (Universal Service Levy) Act 1997_;
+               (k)     the assessment, collection, recovery and distribution of the levy imposed by the _Telecommunications (Universal Service Levy) Act 1997_;
 
-               (l)     the disclosure of information on which certain decisions under this Part are based;
+                (l)     the disclosure of information on which certain decisions under this Part are based;
 
-             (m)     the maintenance by the ACMA of Registers, and the delegation of the Minister’s powers under this Part to the ACMA.
+              (m)     the maintenance by the ACMA of Registers, and the delegation of the Minister’s powers under this Part to the ACMA.
 
 * * *
 
@@ -944,7 +944,7 @@ The key elements of the universal service regime are as follows:
 
                      (a)  the Territory of Christmas Island; and
 
-                     (b)  the Territory of Cocos (Keeling)  Islands; and
+                     (b)  the Territory of Cocos (Keeling) Islands; and
 
                      (c)  an external Territory specified in the regulations.
 
@@ -2446,7 +2446,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image002.gif)
 
 where:
 
@@ -2552,7 +2552,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image003.gif)
 
 where:
 
@@ -2964,7 +2964,7 @@ Note:          Information, documents or persons may be specif
 
 This is an offence of strict liability.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -3130,7 +3130,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -3954,7 +3954,7 @@ ACMA may formulate schemes aimed at ensuring that if:</li>
 
                (a)     a residential customer of a carriage service provider makes a protected payment to the provider; and
 
-              (b)     the provider fails to supply a standard telephone service to the customer;
+               (b)     the provider fails to supply a standard telephone service to the customer;
 
 <li class="BoxList" style="margin-left:21.25pt">       the customer is protected.</li>
 
@@ -3974,7 +3974,7 @@ the ACMA or a residential customer.</li>
 
              (3)  The ACMA may, by notice in the _Gazette_, declare that a specified provider is exempt from this Part. The declaration has effect accordingly.
 
-Note:          Providers may be specified by name, by inclusion in a particular class or in any other way.
+Note:          Providers may be specified by name, by inclusion in a particular class or in any other way.
 
              (4)  In deciding whether a person should be exempt from this Part, the ACMA must have regard to the following matters:
 
@@ -4198,7 +4198,7 @@ ACMA may impose requirements on any or all of the following:</li>
 
                (a)     carriers;
 
-              (b)     carriage service providers;
+               (b)     carriage service providers;
 
                (c)     emergency call persons;
 
@@ -4642,7 +4642,7 @@ on condition that the person to whom the first person supplies or offers or prop
 
 Note:          Part 31 of the _Telecommunications Act 1997_ provides for pecuniary penalties for breaches of civil penalty provisions. Subsection (1) is a civil penalty provision for the purposes of that Act.
 
-             (3)  An expression used in this section and in section 47 of the _Competition and Consumer Act 2010_ has the same meaning in this section as it has in that section.
+             (3)  An expression used in this section and in section 47 of the _Trade Practices Act 1974_ has the same meaning in this section as it has in that section.
 
 ##### <a id="158E"></a>158E  Aiding, abetting etc.
 
@@ -5339,7 +5339,7 @@ Remainder: Royal Assent</div>
 Schedule 2: <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4</div>
   </td>
 </tr>
 <tr>
@@ -5474,28 +5474,10 @@ Schedule 3: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 139): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 139): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010</div>
-  </td>
-  <td>
-    <div>140, 2010</div>
-  </td>
-  <td>
-    <div>15 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 214–226): \[ <i>see</i>Note 2] 
-Schedule 1 (items 227–240): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 240)</div>
   </td>
 </tr></table>
 
@@ -5505,7 +5487,7 @@ _(a)_     The _Telecommunications (Consumer Protection and Service Stand
 
          Part 2 commenced on 1 July 1999.
 
-_(b)_     The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ was amended by Schedule 1 (items 163–165) only of the _Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(b)_    The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ was amended by Schedule 1 (items 163–165) only of the _Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the latest of the following times:
 
@@ -8651,14 +8633,6 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>S. 158C</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 158D</div>
   </td>
   <td>
@@ -8964,693 +8938,22 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 
 ### Note 2
 
-_Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
 
-The following amendments commence on 15 March 2011:
+The following amendment commences on the start of 1 January 2011:
 
-## Schedule 1
+## Schedule 6
 
-## 214  Subsection 5(2)
+## 1  Amendment of Acts
 
-Insert:
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
 
-                    <a name="payphon-carriag-servic"></a>**_payphone carriage service_** means a carriage service supplied by means of a payphone.
+<h9 class="ActHead9">Telecommunications (Consumer Protection and Service Standards) Act 1999</h9>
 
-## 215  Subsection 5(2)
+## 139  Subsection 158C(3)
 
-Insert:
-
-                    <a name="price-relat-term-condition"></a>**_price-related terms and conditions_** means terms and conditions relating to price or a method of ascertaining price.
-
-## 216  Subsection 5(2)
-
-Insert:
-
-                    <a name="voip-servic"></a>**_VOIP service_** means a carriage service that enables a voice call to originate on customer equipment by means of the internet protocol.
-
-## 216A  Subparagraph 6(1)(b)(i)
-
-Omit “has a hearing impairment”, substitute “is deaf or has a hearing and/or speech impairment”.
-
-## 216B  Subparagraph 6(1)(b)(ii)
-
-Omit “teletypewriter”, substitute “device that enables text-based communication”.
-
-## 217  After section 6
-
-Insert:
-
-##### <a id="6A"></a>6A  When a standard telephone service is supplied in fulfilment of the universal service obligation
-
-Mobile and VOIP services
-
-             (1)  For the purposes of this Act, if:
-
-                     (a)  a standard telephone service is supplied _,_ or proposed to be supplied, to a customer by a primary universal service provider; and
-
-                     (b)  the service is:
-
-                              (i)  a public mobile telecommunications service; or
-
-                             (ii)  a VOIP service;
-
-the service is taken not to be supplied in fulfilment of the universal service obligation unless, before the customer entered into an agreement with the primary universal service provider for the supply of the service:
-
-                     (c)  the provider notified the customer, in writing, that the service is supplied in fulfilment of the universal service obligation; and
-
-                     (d)  the notice complied with such requirements (if any) as are specified in a determination under subsection (2).
-
-             (2)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (1)(d).
-
-Other services
-
-             (3)  For the purposes of this Act, if:
-
-                     (a)  a standard telephone service (the **_relevant service_**) is supplied, or proposed to be supplied, to a customer by a primary universal service provider; and
-
-                     (b)  the relevant service is not:
-
-                              (i)  a public mobile telecommunications service; or
-
-                             (ii)  a VOIP service;
-
-the relevant service is taken not to be supplied in fulfilment of the universal service obligation if, before the customer entered into an agreement with the primary universal service provider for the supply of the relevant service:
-
-                     (c)  the customer was given the option of being supplied with another standard telephone service by the provider on the basis that the other standard telephone service would be supplied in fulfilment of the universal service obligation; and
-
-                     (d)  the customer has, by written notice given to the provider, acknowledged that the relevant service is not supplied in fulfilment of the universal service obligation; and
-
-                     (e)  the notice complied with such requirements (if any) as are specified in a determination under subsection (4).
-
-             (4)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (3)(e).
-
-## 218  After section 8B
-
-Insert:
-
-##### <a id="8BA"></a>8BA  Special meaning of _standard telephone service_
-
-             (1)  A reference in this Part to a **_standard telephone service_** is a reference to a **_standard telephone service_** (within the meaning of section 6) that has the characteristics (if any) specified in a determination under subsection (2).
-
-             (2)  The Minister may, by legislative instrument, determine specified characteristics for the purposes of subsection (1).
-
-## 219  Subsections 9(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  The obligation mentioned in paragraph (1)(a) includes the obligation to supply standard telephone services to people in Australia on request.
-
-          (2A)  The obligation mentioned in paragraph (1)(b) includes the obligation to supply, install and maintain payphones in Australia.
-
-          (2B)  The obligation mentioned in paragraph (1)(c) includes the obligation to supply prescribed carriage services to people in Australia on request.
-
-          (2C)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service to a person on request unless the request complies with the requirements (if any) set out in a determination under subsection (2D).
-
-          (2D)  The Minister may, by legislative instrument, determine requirements for the purposes of subsection (2C).
-
-          (2E)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service in the circumstances (if any) specified in a determination under subsection (3).
-
-             (3)  The Minister may, by legislative instrument, determine circumstances for the purposes of subsection (2E).
-
-## 220  Subsection 9(4)
-
-Omit “(2)(a)”, substitute “(1)(a) or subsection (2)”.
-
-## 221  Subsection 9(5)
-
-Omit “(2)(c)”, substitute “(1)(c) or subsection (2B)”.
-
-## 222  Subsection 9(6)
-
-Omit “(2)(a)”, substitute “(1)(a) or subsection (2)”.
-
-## 223  Section 9A
-
-Repeal the section, substitute:
-
-##### <a id="9A"></a>9A  Reasonable accessibility of prescribed carriage services
-
-             (1)  The Minister may determine in writing, for the purpose of paragraph 9(1)(c), what is, or is not, necessary to ensure that prescribed carriage services are reasonably accessible as mentioned in that paragraph.
-
-             (2)  A determination under subsection (1) is a legislative instrument.
-
-## 224  Subsection 12C(1)
-
-Omit “take all reasonable steps to”.
-
-## 225  After Subdivision B of Division 5 of Part 2
-
-Insert:
-
-#### Subdivision BA—Standard telephone service requirements
-
-##### <a id="12EB"></a>12EB  Performance standards
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price-related terms and conditions;
-
-                     (b)  the reliability of a standard telephone service supplied to a customer;
-
-                     (c)  the supply of a temporary standard telephone service to a customer;
-
-                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
-
-                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
-
-                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Compliance
-
-             (4)  A primary universal service provider must comply with a standard in force under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (5)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Service supplied in fulfilment of the universal service obligation
-
-             (6)  This section does not apply to a standard telephone service unless the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
-
-Note:          See also section 6A (when a standard telephone service is supplied in fulfilment of the universal service obligation).
-
-Determination is a legislative instrument
-
-             (7)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EC"></a>12EC  Performance benchmarks
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price-related terms and conditions;
-
-                     (b)  the reliability of a standard telephone service supplied to a customer;
-
-                     (c)  the supply of a temporary standard telephone service to a customer;
-
-                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
-
-                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
-
-                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-Performance benchmarks
-
-             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
-
-             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
-
-             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Provider must meet or exceed minimum benchmarks
-
-             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
-
-Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
-
-Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
-
-#### Subdivision BB—Payphone requirements
-
-##### <a id="12ED"></a>12ED  Performance standards
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the characteristics of a payphone carriage service;
-
-                     (b)  the supply, installation or maintenance of a payphone;
-
-                     (c)  the supply of a payphone carriage service;
-
-                     (d)  the reliability of a payphone;
-
-                     (e)  the reliability of a payphone carriage service;
-
-                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
-
-                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
-
-                     (h)  the handling of requests for the removal of a payphone;
-
-                      (i)  any other matter concerning:
-
-                              (i)  the supply, installation or maintenance of a payphone; or
-
-                             (ii)  the supply of a payphone carriage service.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Compliance
-
-             (4)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (5)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (6)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EE"></a>12EE  Performance benchmarks
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the characteristics of a payphone carriage service;
-
-                     (b)  the supply, installation or maintenance of a payphone;
-
-                     (c)  the supply of a payphone carriage service;
-
-                     (d)  the reliability of a payphone;
-
-                     (e)  the reliability of a payphone carriage service;
-
-                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
-
-                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
-
-                     (h)  the handling of requests for the removal of a payphone;
-
-                      (i)  any other matter concerning:
-
-                              (i)  the supply, installation or maintenance of a payphone; or
-
-                             (ii)  the supply of a payphone carriage service.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-Performance benchmarks
-
-             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
-
-             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
-
-             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Provider must meet or exceed minimum benchmarks
-
-             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
-
-Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
-
-Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
-
-##### <a id="12EF"></a>12EF  Rules about the location of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the places or areas in which payphones are to be located.
-
-Compliance
-
-             (2)  A primary universal service provider must comply with a determination under subsection (1).
-
-             (3)  If a primary universal service provider complies with a determination under subsection (1), the provider is taken to have complied with an obligation under paragraph 9(1)(b) or subsection 9(2A), to the extent to which the obligation relates to the location of payphones.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EG"></a>12EG  Rules about the process for public consultation on the location or removal of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for public consultation on the location or removal of payphones.
-
-             (2)  The Minister must ensure that a determination under subsection (1) provides that, if:
-
-                     (a)  a primary universal service provider makes a decision to remove a payphone from a particular location; and
-
-                     (b)  that payphone is the only payphone at that location;
-
-then:
-
-                     (c)  the provider must undertake a process for public consultation on the removal of that payphone; and
-
-                     (d)  if, in accordance with that process, a person makes a submission to the provider—the provider must notify the person, in writing, of the outcome of that process.
-
-Compliance
-
-             (3)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EH"></a>12EH  Rules about the process for resolution of complaints about the location or removal of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for resolution of complaints about the location or removal of payphones.
-
-Compliance
-
-             (2)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (3)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (4)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EI"></a>12EI  Directions by the ACMA about the removal of payphones
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  a primary universal service provider has made a decision to remove a payphone from a particular location; and
-
-                     (b)  a person notifies the ACMA, in writing, that the person objects to the removal; and
-
-                     (c)  the ACMA is satisfied that:
-
-                              (i)  the removal would breach, or has breached, a determination under subsection 12EF(1); or
-
-                             (ii)  the provider has breached a determination under subsection 12EG(1) in relation to the removal.
-
-Direction
-
-             (2)  If the payphone has not been removed, the ACMA may, by written notice given to the provider, direct the provider not to remove the payphone from that location.
-
-             (3)  If the payphone has been removed, the ACMA may, by written notice given to the provider, direct the provider:
-
-                     (a)  to supply and install a payphone at that location; and
-
-                     (b)  to do so within the period specified in the notice.
-
-             (4)  A period specified under paragraph (3)(b) must not be shorter than 30 days after the notice is given.
-
-             (5)  A direction under subsection (2) or (3) must not be inconsistent with a determination under subsection 12EF(1).
-
-Compliance
-
-             (6)  A primary universal service provider must comply with a direction under subsection (2) or (3).
-
-Direction is not a legislative instrument
-
-             (7)  A direction under subsection (2) or (3) is not a legislative instrument.
-
-## 226  Subsection 150(3)
-
-Repeal the subsection.
-
-The following amendments commence on 15 June 2011:
-
-## Schedule 1
-
-## 227  Before section 113
-
-Insert:
-
-### Division 1—Introduction
-
-## 228  Section 113
-
-Before:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Telecommunications Industry Ombudsman may issue an evidentiary certificate in
-
-relation to a contravention of a performance standard.</li>
-
-* * *
-
-insert:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may make performance standards to be complied with by carriage service
-
-providers in relation to the supply of wholesale carriage services.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may set minimum benchmarks in relation to compliance by carriage
-
-service providers with performance standards.</li>
-
-* * *
-
-## 229  After section 114
-
-Insert:
-
-##### <a id="114A"></a>114A  Wholesale carriage service and wholesale customer
-
-                   For the purposes of this Part, if:
-
-                     (a)  a carriage service provider (the **_first provider_**) supplies, or proposes to supply, a carriage service to another carriage service provider (the **_second provider_**); and
-
-                     (b)  the carriage service is, or is to be, supplied to the second provider in order that the second provider can provide a carriage service;
-
-then:
-
-                     (c)  the carriage service that is, or is to be, supplied to the second provider is a **_wholesale carriage service_**; and
-
-                     (d)  the second provider is a **_wholesale customer_** of the first provider.
-
-### Division 2—Retail performance standards and benchmarks
-
-## 230  After subsection 115(2)
-
-Insert:
-
-          (2A)  A standard under this section does not apply in relation to matter concerning the supply, or proposed supply, of a wholesale carriage service.
-
-## 231  Subsections 115(5) and (6)
-
-Repeal the subsections, substitute:
-
-             (5)  An instrument under subsection (1) is a legislative instrument.
-
-## 232  After section 117A
-
-Insert:
-
-##### <a id="117B"></a>117B  Performance benchmarks
-
-             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 115.
-
-             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117C"></a>117C  Compliance with performance benchmarks
-
-Scope
-
-             (1)  This section applies if an instrument under section 117B is applicable to a carriage service provider (the **_first provider_**).
-
-Provider must meet or exceed minimum benchmark
-
-             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
-
-Contravention caused by another provider
-
-             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
-
-                     (a)  the first provider has contravened a standard in force under section 115; and
-
-                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
-
-the first provider is taken not to have contravened the standard.
-
-### Division 3—Wholesale performance standards and benchmarks
-
-##### <a id="117D"></a>117D  Performance standards
-
-             (1)  The Minister may, by legislative instrument, make standards to be complied with by carriage service providers in relation to a matter that:
-
-                     (a)  concerns the supply, or proposed supply, of wholesale carriage services to a wholesale customer; and
-
-                     (b)  is capable of affecting the capacity or ability of a wholesale customer to comply with a standard in force under section 115 in relation to a matter concerning the supply, or proposed supply, of a carriage service by the wholesale customer.
-
-             (2)  A standard under this section may be of general application or may be limited as provided in the standard.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117E"></a>117E  Performance benchmarks
-
-             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 117D.
-
-             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117F"></a>117F  Compliance with performance benchmarks
-
-Scope
-
-             (1)  This section applies if an instrument under section 117E is applicable to a carriage service provider (the **_first provider_**).
-
-Provider must meet or exceed minimum benchmark
-
-             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
-
-Contravention caused by another provider
-
-             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
-
-                     (a)  the first provider has contravened a standard in force under section 117D; and
-
-                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
-
-the first provider is taken not to have contravened the standard.
-
-### Division 4—Other provisions
-
-## 233  At the end of subsection 118(1)
-
-Add “or 117D”.
-
-## 234  At the end of paragraph 118(3)(a)
-
-Add “or 117D”.
-
-## 235  Subsection 120(4)
-
-Repeal the subsection, substitute:
-
-             (4)  A waiver must be in the form specified in the instrument.
-
-             (5)  The form must include a statement that summarises the consequences of the waiver.
-
-             (6)  A waiver must not be set out in a standard form of agreement formulated by a carriage service provider for the purposes of section 479 of the _Telecommunications Act 1997_.
-
-             (7)  A customer is not entitled to waive, in whole or in part, the customer’s protection and rights under this Part in relation to a particular standard telephone service supplied, or proposed to be supplied, by the carriage service provider concerned if the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
-
-             (8)  An instrument under subsection (1) is a legislative instrument.
-
-## 236  After section 120
-
-Insert:
-
-##### <a id="120A"></a>120A  Carriage service may be supplied on condition that the customer waives the customer service guarantee
-
-                   This Act does not prevent, and is taken never to have prevented, a carriage service provider from supplying, or proposing to supply, a particular carriage service to a customer on condition that the customer waives, in accordance with section 120, the customer’s protection and rights under this Part in relation to the carriage service.
-
-## 237  Section 122
-
-After “115”, insert “or 117D”.
-
-## 238  After section 122
-
-Insert:
-
-##### <a id="122A"></a>122A  Failure to meet or exceed a minimum benchmark is not an offence
-
-                   A contravention of section 117C or 117F is not an offence.
-
-## 239  At the end of section 123 (before the note)
-
-Add “or 117D”.
-
-As at 1 January 2011 the amendments are not incorporated in this compilation.
+As at 13 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -9662,9 +8965,9 @@ _Telecommunications (Consumer Protection and Service Standards) Amendment Act 20
 
 ## 4  Application
 
-(1)       The amendments of sections 96 and 101 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ apply to each levy quarter that commences after the day on which this Act receives the Royal Assent.
+(1)        The amendments of sections 96 and 101 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ apply to each levy quarter that commences after the day on which this Act receives the Royal Assent.
 
-(2)       The amendments of section 100 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ apply to each levy quarter after the first levy quarter that commences after the day on which this Act receives the Royal Assent.
+(2)        The amendments of section 100 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ apply to each levy quarter after the first levy quarter that commences after the day on which this Act receives the Royal Assent.
 
 ## 5  Transitional
 
@@ -9692,27 +8995,27 @@ Subsection 20(2B) of the amended Act applies in relation to an agreement referre
 
 ## 83  New subsections 20(4) and (5) and old subsections 20(5) to (8)
 
-(1)       Subsection 20(4) of the amended Act applies in relation to declarations referred to in that subsection that are made on or after the commencement.
+(1)        Subsection 20(4) of the amended Act applies in relation to declarations referred to in that subsection that are made on or after the commencement.
 
-(2)       Subsection 20(5) of the amended Act applies in relation to declarations made before, on or after the commencement.
+(2)        Subsection 20(5) of the amended Act applies in relation to declarations made before, on or after the commencement.
 
-(3)       Subsection 20(5) of the old Act continues to apply in relation to a declaration made before the commencement as if the subsection had not been repealed.
+(3)        Subsection 20(5) of the old Act continues to apply in relation to a declaration made before the commencement as if the subsection had not been repealed.
 
-(4)       Subsection 20(6) of the old Act continues to apply to a revocation made before the commencement as if the subsection had not been repealed.
+(4)        Subsection 20(6) of the old Act continues to apply to a revocation made before the commencement as if the subsection had not been repealed.
 
-(5)       If subsection 20(7) or (8) of the old Act applied to 2 declarations (an original declaration and a fresh declaration) made before the commencement, but the fresh declaration had not taken effect, and the original declaration had not ceased to have effect, under that subsection by the commencement, that subsection continues to apply to those declarations as if it had not been repealed.
+(5)        If subsection 20(7) or (8) of the old Act applied to 2 declarations (an original declaration and a fresh declaration) made before the commencement, but the fresh declaration had not taken effect, and the original declaration had not ceased to have effect, under that subsection by the commencement, that subsection continues to apply to those declarations as if it had not been repealed.
 
 ## 84  New subsections 26A(4) and (5) and old subsections 26A(4) to (7)
 
-(1)       Subsection 26A(4) of the amended Act applies in relation to declarations referred to in that subsection that are made on or after the commencement.
+(1)        Subsection 26A(4) of the amended Act applies in relation to declarations referred to in that subsection that are made on or after the commencement.
 
-(2)       Subsection 26A(5) of the amended Act applies in relation to declarations made before, on or after the commencement.
+(2)        Subsection 26A(5) of the amended Act applies in relation to declarations made before, on or after the commencement.
 
-(3)       Subsection 26A(4) of the old Act continues to apply in relation to a declaration made before the commencement as if the subsection had not been repealed.
+(3)        Subsection 26A(4) of the old Act continues to apply in relation to a declaration made before the commencement as if the subsection had not been repealed.
 
-(4)       Subsection 26A(5) of the old Act continues to apply to a revocation made before the commencement as if the subsection had not been repealed.
+(4)        Subsection 26A(5) of the old Act continues to apply to a revocation made before the commencement as if the subsection had not been repealed.
 
-(5)       If subsection 26A(6) or (7) of the old Act applied to 2 declarations (an original declaration and a fresh declaration) made before the commencement, but the fresh declaration had not taken effect, and the original declaration had not ceased to have effect, under that subsection by the commencement, that subsection continues to apply to those declarations as if it had not been repealed.
+(5)        If subsection 26A(6) or (7) of the old Act applied to 2 declarations (an original declaration and a fresh declaration) made before the commencement, but the fresh declaration had not taken effect, and the original declaration had not ceased to have effect, under that subsection by the commencement, that subsection continues to apply to those declarations as if it had not been repealed.
 
 ## 85  New section 61AA
 
@@ -9730,7 +9033,7 @@ Despite the repeal and substitution of Part 2 of the _Telecommunications (Cons
 
 ## 2  Things done under repealed Part 2
 
-(1)       If:
+(1)        If:
 
                      (a)  something was done (other than something covered by item 3), before this Act received the Royal Assent, under or for the purposes of a provision of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_; and
 
@@ -9738,23 +9041,23 @@ Despite the repeal and substitution of Part 2 of the _Telecommunications (Cons
 
 then, after the commencement of Schedule 1, the thing is taken to have been done under or for the purposes of the latter provision.
 
-(2)       If the thing would have been done by another person or body, had it been done after the commencement of Schedule 1, then it is taken to have been done by that other person or body for the purposes of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+(2)        If the thing would have been done by another person or body, had it been done after the commencement of Schedule 1, then it is taken to have been done by that other person or body for the purposes of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
 ## 3  Effect of instruments made under repealed Part 2
 
-(1)       For the purposes of this item, an **_eligible instrument_** means regulations, a declaration, a determination, a direction, a notice or any other instrument that was:
+(1)        For the purposes of this item, an **_eligible instrument_** means regulations, a declaration, a determination, a direction, a notice or any other instrument that was:
 
                      (a)  made or given under a provision (the **_original provision_**) of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ in the table in subitem (3), or made or given for the purposes of such a provision; and
 
                      (b)  in force immediately before this Act received the Royal Assent.
 
-(2)       Despite the repeal and substitution of that Part by Schedule 1 to this Act, an eligible instrument has effect, after that Schedule commences, as if:
+(2)        Despite the repeal and substitution of that Part by Schedule 1 to this Act, an eligible instrument has effect, after that Schedule commences, as if:
 
                      (a)  it had been made or given under, or for the purposes of, the equivalent provision of that Part in the table in subitem (3); and
 
                      (b)  any requirement for the making or giving of the eligible instrument had been satisfied.
 
-(3)       This table sets out the original provisions, and their equivalent provisions, of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+(3)        This table sets out the original provisions, and their equivalent provisions, of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
 <table>
 <colgroup>
@@ -10047,31 +9350,31 @@ then, after the commencement of Schedule 1, the thing is taken to have been do
 
 ## 4  References to certain terms in eligible instruments
 
-(1)       For the purposes of this item, an **_eligible instrument_** means regulations, a declaration, a determination, a direction, a notice or any other instrument that:
+(1)        For the purposes of this item, an **_eligible instrument_** means regulations, a declaration, a determination, a direction, a notice or any other instrument that:
 
                      (a)  was in force immediately before this Act received the Royal Assent; and
 
                      (b)  contains a reference to a term the definition of which is repealed by this Act.
 
-(2)       For the purposes of the amendments made by Schedule 1 to this Act, the Minister or the ACA may determine in writing that a specified eligible instrument has effect, after that Schedule commences, as if a reference in the instrument to a specified term were a reference to another specified term.
+(2)        For the purposes of the amendments made by Schedule 1 to this Act, the Minister or the ACA may determine in writing that a specified eligible instrument has effect, after that Schedule commences, as if a reference in the instrument to a specified term were a reference to another specified term.
 
 _Note:       An instrument may be specified by name, by inclusion in a specified class or in any other way._
 
 ## 5  Treatment of draft universal service plans
 
-(1)       This item applies to a draft universal service plan given to the Minister under Division 4 of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_, that the Minister has neither approved nor refused to approve, before this Act received the Royal Assent.
+(1)        This item applies to a draft universal service plan given to the Minister under Division 4 of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_, that the Minister has neither approved nor refused to approve, before this Act received the Royal Assent.
 
-(2)       To the extent that the draft contains statements of the policy that the universal service provider concerned will apply in supplying equipment, goods or services, the draft is, after Schedule 1 to this Act commences, taken to be a draft policy statement for the purposes of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+(2)        To the extent that the draft contains statements of the policy that the universal service provider concerned will apply in supplying equipment, goods or services, the draft is, after Schedule 1 to this Act commences, taken to be a draft policy statement for the purposes of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
-(3)       The remainder of the draft is, after Schedule 1 commences, taken to be a draft standard marketing plan for the purposes of that Act.
+(3)        The remainder of the draft is, after Schedule 1 commences, taken to be a draft standard marketing plan for the purposes of that Act.
 
 ## 6  Treatment of approved universal service plans
 
-(1)       This item applies to an approved universal service plan under Division 4 of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ that was in force immediately before this Act received the Royal Assent.
+(1)        This item applies to an approved universal service plan under Division 4 of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ that was in force immediately before this Act received the Royal Assent.
 
-(2)       To the extent that the plan contains statements of the policy that the universal service provider concerned will apply in supplying equipment, goods or services, the plan is, after Schedule 1 to this Act commences, taken to be an approved policy statement for the purposes of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+(2)        To the extent that the plan contains statements of the policy that the universal service provider concerned will apply in supplying equipment, goods or services, the plan is, after Schedule 1 to this Act commences, taken to be an approved policy statement for the purposes of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
-(3)       The remainder of the plan is, after Schedule 1 commences, taken to be an approved standard marketing plan for the purposes of that Act.
+(3)        The remainder of the plan is, after Schedule 1 commences, taken to be an approved standard marketing plan for the purposes of that Act.
 
 ## 6A  ACA advice under section 16A
 
@@ -10091,13 +9394,13 @@ _Note:       Section 22A of that Act deals with requests for infor
 
 ## 8  Application of requirement to maintain Register/s
 
-(1)       Section 23 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ (which requires the ACA to maintain a Register or Registers) does not apply to the ACA until:
+(1)        Section 23 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ (which requires the ACA to maintain a Register or Registers) does not apply to the ACA until:
 
                      (a)  3 months after the day on which this Act receives the Royal Assent; or
 
                      (b)  such later day as the Minister determines in writing for the purposes of this paragraph.
 
-(2)       A copy of a determination made for the purposes of paragraph (1)(b) must be published in the _Gazette_.
+(2)        A copy of a determination made for the purposes of paragraph (1)(b) must be published in the _Gazette_.
 
 ## 9  Transitional regulations
 
@@ -10133,17 +9436,17 @@ _Note:       The operation of the former law for the 1999-2000 finan
 
 ## 3  Assessment based on estimate of eligible revenue
 
-(1)       If a participating carrier fails to give the ACA a return under section 62 of the former law for the 1999-2000 financial year, the ACA may:
+(1)        If a participating carrier fails to give the ACA a return under section 62 of the former law for the 1999-2000 financial year, the ACA may:
 
                      (a)  estimate the carrier’s eligible revenue for the year; and
 
                      (b)  make a written assessment under section 64 of the former law of the carrier’s eligible revenue for the year based on the estimate.
 
-(2)       The ACA must give at least 14 days’ notice to the carrier of the ACA’s proposal to make the assessment based on the estimate, and of the amount of eligible return proposed to be assessed. The notice must be in writing.
+(2)        The ACA must give at least 14 days’ notice to the carrier of the ACA’s proposal to make the assessment based on the estimate, and of the amount of eligible return proposed to be assessed. The notice must be in writing.
 
-(3)       The ACA must not make an assessment based on an estimate after receiving a return for the year from the carrier concerned.
+(3)        The ACA must not make an assessment based on an estimate after receiving a return for the year from the carrier concerned.
 
-(4)       However, if the ACA has made an assessment based on the estimate, the ACA is not required to change it if a return is later given to the ACA.
+(4)        However, if the ACA has made an assessment based on the estimate, the ACA is not required to change it if a return is later given to the ACA.
 
 ## 4  Nil assessments
 
@@ -10161,19 +9464,19 @@ Despite paragraph 86(b) of the former law, an amount is payable from the Univers
 
 ## 6  Working out how much levy is payable
 
-(1)       If the total of the amounts payable to carriers out of the Universal Service Account is more than the balance of the Universal Service Account, after paying any refunds that are due under section 79 of the former law, the ACA must:
+(1)        If the total of the amounts payable to carriers out of the Universal Service Account is more than the balance of the Universal Service Account, after paying any refunds that are due under section 79 of the former law, the ACA must:
 
                      (a)  work out the amount payable to each carrier as a proportion of the total amounts payable; and
 
                      (b)  ensure that any payments out of the Universal Service Account are made in accordance with those proportions (rounding amounts to whole dollars as the ACA considers appropriate).
 
-(2)       However, if the Minister determines in writing a different method for making payments out of the Universal Service Account than the method provided in subitem (1), the ACA must act in accordance with that determination.
+(2)        However, if the Minister determines in writing a different method for making payments out of the Universal Service Account than the method provided in subitem (1), the ACA must act in accordance with that determination.
 
-(3)       A determination under subitem (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+(3)        A determination under subitem (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-(4)       A carrier’s levy credit balance for the 1999-2000 financial year is reduced by the amount (worked out under this item) that is paid to the carrier.
+(4)        A carrier’s levy credit balance for the 1999-2000 financial year is reduced by the amount (worked out under this item) that is paid to the carrier.
 
-(5)       This item continues to apply until each carrier’s levy credit balance for the year is reduced to nil.
+(5)        This item continues to apply until each carrier’s levy credit balance for the year is reduced to nil.
 
 * * *
 
@@ -10227,7 +9530,7 @@ _Communications Legislation Amendment (Content Services) Act 2007 (No. 124, 
 
 ## 11  Transitional—section 158G of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_
 
-(1)       This item applies to proceedings if:
+(1)        This item applies to proceedings if:
 
                      (a)  the proceedings are instituted under the _Telecommunications Act 1997_ before or after the commencement of this item; and
 
@@ -10235,7 +9538,7 @@ _Communications Legislation Amendment (Content Services) Act 2007 (No. 124, 
 
                      (c)  the contravention occurred before the commencement of this item.
 
-(2)       Despite the repeal of section 158G of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ by this Schedule, that section continues to apply, in relation to the proceedings, as if that repeal had not happened.
+(2)        Despite the repeal of section 158G of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ by this Schedule, that section continues to apply, in relation to the proceedings, as if that repeal had not happened.
 
 * * *
 
@@ -10255,9 +9558,9 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 
 ## 99  Application—claims for levy credit
 
-(1)       The repeal and substitution of subsections 20J(1), (2) and (3) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 86 of this Part applies, in relation to a digital data service provider, to all claim periods starting on 1 July 2009, and to all later claim periods.
+(1)        The repeal and substitution of subsections 20J(1), (2) and (3) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 86 of this Part applies, in relation to a digital data service provider, to all claim periods starting on 1 July 2009, and to all later claim periods.
 
-(2)       In this item:
+(2)        In this item:
 
 **_claim period_** has the same meaning as in the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
@@ -10265,13 +9568,13 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 
 ## 100  Transitional—claims for levy credit
 
-(1)       Despite the repeal and substitution of subsections 20J(1), (2) and (3) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 86 of this Part:
+(1)        Despite the repeal and substitution of subsections 20J(1), (2) and (3) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 86 of this Part:
 
                      (a)  a determination under subsection 20J(1) of the old law that was in force immediately before the commencement of this item has effect, after that commencement, as if it had been made under subsection 20J(1) of the new law; and
 
                      (b)  a form approved by the Australian Communications and Media Authority under subsection 20J(3) of the old law has effect, under the new law, as if it had been approved under subsection 20J(3) of the new law.
 
-(2)       In this item:
+(2)        In this item:
 
 **_new law_** means the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ as in force immediately after the commencement of this item.
 
@@ -10279,9 +9582,9 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 
 ## 101  Transitional—information obtained from or relating to a digital data service provider
 
-(1)       Despite the amendment of subparagraph 22(3)(a)(i) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 93 of this Part, subsection 22(3) of that Act continues to apply in relation to information (other than information prescribed for the purposes of paragraph 22(3)(a) of that Act) that was obtained from, or relates to, a digital data service provider for a claim period.
+(1)        Despite the amendment of subparagraph 22(3)(a)(i) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 93 of this Part, subsection 22(3) of that Act continues to apply in relation to information (other than information prescribed for the purposes of paragraph 22(3)(a) of that Act) that was obtained from, or relates to, a digital data service provider for a claim period.
 
-(2)       In this item:
+(2)        In this item:
 
 **_claim period_** has the same meaning as in the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
@@ -10289,24 +9592,12 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 
 ## 102  Transitional—digital data service providers may request information
 
-(1)       Despite the repeal of paragraph 22A(1)(b) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 94 of this Part, section 22A of that Act continues to apply in relation to a person who was a digital data service provider for a claim period ending before 1 July 2009 as if that person were an eligible person for the purposes of that section.
+(1)        Despite the repeal of paragraph 22A(1)(b) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 94 of this Part, section 22A of that Act continues to apply in relation to a person who was a digital data service provider for a claim period ending before 1 July 2009 as if that person were an eligible person for the purposes of that section.
 
-(2)       In this item:
+(2)        In this item:
 
 **_claim period_** has the same meaning as in the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
 **_digital data service provider_** has the same meaning as in the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ (as in force immediately before the commencement of this item).
-
-* * *
-
-_Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
-
-The following provision commences on the 15 June 2011:
-
-## Schedule 1
-
-## 240  Application—waiver
-
-The amendments of section 120 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by this Part apply in relation to a waiver given after the commencement of this item.
 
  
