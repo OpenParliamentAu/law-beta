@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00362/Html/DisabilityServices1986WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00301/Html/DisabilityServices1986WD02_image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 20 April 2007
  taking into account amendments up to Act No. 65 of 2007
 
 The text of any of those amendments not in force
@@ -216,19 +216,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="commonwealth-employe"></a>**_Commonwealth employee_** means:
-
-                     (a)  an APS employee; or
-
-                     (b)  an employee of a body (whether incorporated or not) established for a public purpose by, or under, a law of the Commonwealth.
-
                     <a name="offic"></a>**_officer_** means:
 
-                     (a)  a Commonwealth employee; or
+                     (a)  in section 27, and in sections 33 and 34 in so far as they apply to a power under Part III:
 
-                     (b)  a person who performs services on behalf of the Department under a contract made between the person and the Commonwealth; or
+                              (i)  an APS employee in CRS Australia; or
 
-                     (c)  an employee of a person referred to in paragraph (b).
+                             (ii)  an APS employee in the Department; or
+
+                     (b)  otherwise—an APS employee in the Department.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
@@ -1124,27 +1120,37 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                      (a)  further the objects of this Act set out in section 3 and the principles and objectives formulated under section 5; and
 
-                     (b)  comply with the guidelines (if any) formulated under section 5 that are applicable to the exercise of the power.
+                     (b)  comply with the guidelines formulated under section 5 that are applicable to the exercise of the power.
 
-             (2)  The Secretary must not take measures, or enter into arrangements, under subsection 20(1) for the provision of a rehabilitation program for persons in the target group unless:
+             (2)  The Secretary must not, on or after 1 January 2005, give an approval under subsection 20(1) to the provision of rehabilitation programs for a person unless:
 
                      (a)  the person providing the program holds a current certificate of compliance in respect of the provision of rehabilitation programs; or
 
-                     (b)  the Secretary is satisfied that there are exceptional circumstances relating to one or more persons in the target group that justify the taking of measures, or the entry into the arrangements, despite the person providing the program not holding such a certificate.
-
-             (3)  Despite subsection (2), the Secretary may enter into an arrangement with a provider of rehabilitation programs who does not hold a current certificate of compliance in respect of the provision of rehabilitation programs if:
-
-                     (a)  the arrangement is for the provision of rehabilitation programs for a period of less than 12 months; or
-
-                     (b)  the Secretary is satisfied that the provider is likely to hold such a certificate at the end of the period of 12 months after the day on which the arrangement commences.
+                     (b)  the Secretary is satisfied that there are exceptional circumstances relating to the person for whom the program is to be provided that justify approval being given even though the person providing the program does not hold a certificate mentioned in paragraph (a).
 
 ### Division 2—Rehabilitation services
 
 ##### <a id="20"></a>20  Provision of rehabilitation programs
 
-             (1)  Subject to section 21, the Secretary may (on the Commonwealth’s behalf) take measures, or enter into arrangements, to provide to persons in the target group such rehabilitation programs, and any follow-up programs, that the Secretary considers necessary or desirable.
+             (1)  Subject to section 21, if:
 
-             (2)  Without limiting the generality of subsection (1), the Secretary may, for the purposes of a rehabilitation program (including any follow-up program), provide, or arrange for the provision of, the following:
+                     (a)  there are guidelines formulated under section 5 that relate to this section; and
+
+                     (b)  the Secretary is satisfied that the provision of a rehabilitation program for a person in the target group would comply with the guidelines;
+
+the Secretary may, on the Commonwealth’s behalf, approve the provision of the rehabilitation program for the person, together with any follow-up program that the Secretary considers necessary or desirable.
+
+             (2)  The Secretary may, for the purpose of determining whether the provision of a rehabilitation program (including any follow-up program) for a person should be approved under subsection (1), on behalf of the Commonwealth, take such measures, and enter into such arrangements, as the Secretary considers necessary or desirable.
+
+             (3)  Without limiting the generality of subsection (2), the Secretary may, for the purpose referred to in that subsection, provide, or arrange for the provision of:
+
+                     (a)  diagnostic and assessment services; and
+
+                     (b)  accommodation, transportation and personal support services.
+
+             (4)  Where the Secretary approves the provision of a rehabilitation program (including any follow-up program) for a person, the Secretary may, on behalf of the Commonwealth, take such measures, and enter into such arrangements, as the Secretary considers necessary or desirable to ensure that the rehabilitation program is provided for the person.
+
+             (5)  Without limiting the generality of subsection (4), the Secretary may, for the purposes of a rehabilitation program (including any follow-up program), provide, or arrange for the provision of:
 
                      (a)  employment and vocational training, educational courses and programs, and mobility and other independent living training;
 
@@ -1160,17 +1166,11 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                      (e)  the maintenance and repair of prostheses and aids;
 
-                      (f)  books, tools of trade and other equipment and appliances;
+                      (f)  books, tools of trade and other equipment and appliances; and
 
                      (g)  any other goods and services the Secretary considers necessary or desirable.
 
-             (3)  In connection with the provision of rehabilitation programs (including follow-up programs), the Secretary may, on behalf of the Commonwealth:
-
-                     (a)  provide; or
-
-                     (b)  arrange for the provision of;
-
-such buildings, plant, equipment, amenities, facilities and other things as the Secretary considers necessary or desirable, including, but not limited to, accommodation, transportation, and recreational, leisure and social amenities and facilities.
+             (6)  The Secretary may, on behalf of the Commonwealth, in connection with the provision of rehabilitation programs (including follow-up programs), provide, or arrange for the provision of, such buildings, plant, equipment, amenities, facilities and other things as the Secretary considers necessary or desirable, including, without limiting the generality of the foregoing, accommodation, transportation, and recreational, leisure and social amenities and facilities.
 
 ##### <a id="21"></a>21  Restriction of rehabilitation programs to Australian citizens etc.
 
@@ -1202,7 +1202,13 @@ such buildings, plant, equipment, amenities, facilities and other things as the 
 
 ##### <a id="22"></a>22  Cost of rehabilitation programs
 
-             (1)  Subject to subsections (1A) and (1B), the Commonwealth is to bear the cost of, and incidental to, a rehabilitation program provided for a pensioner or beneficiary.
+             (1)  Subject to subsections (1A) and (1B), the cost of and incidental to:
+
+                     (a)  a rehabilitation program provided for a pensioner or beneficiary; and
+
+                     (b)  determining whether the provision of a rehabilitation program for a pensioner or beneficiary should be approved under subsection 20(1);
+
+shall be borne by the Commonwealth.
 
           (1A)  If:
 
@@ -1220,7 +1226,13 @@ the pensioner’s or beneficiary’s HEC semester debts in respect of the course
 
 the pensioner’s or beneficiary’s HELP debts in respect of the course must not be borne by the Commonwealth unless the _Higher Education Support Act 2003_, or another Act, provides otherwise.
 
-             (2)  Subject to subsection (3), the cost, as determined by the Secretary, of and incidental to a rehabilitation program provided for a person who is not a pensioner or beneficiary is to be borne by the person.
+             (2)  Subject to subsection (3), the cost, as determined by the Secretary, of and incidental to:
+
+                     (a)  a rehabilitation program provided for a person who is not a pensioner or beneficiary; and
+
+                     (b)  determining whether the provision of a rehabilitation program for a person who is not a pensioner or beneficiary should be approved under subsection 20(1);
+
+shall be borne by the person.
 
              (3)  The Secretary may direct:
 
@@ -1378,13 +1390,13 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 the Secretary may, by notice served on the person, require the person:
 
-                     (c)  to furnish, within a reasonable period and in a reasonable manner, being a period and manner specified in the notice, any such information to a Commonwealth employee specified in the notice;
+                     (c)  to furnish, within a reasonable period and in a reasonable manner, being a period and manner specified in the notice, any such information to an officer specified in the notice;
 
-                     (d)  to produce, within a reasonable period and in a reasonable manner, being a period and manner specified in the notice, any such documents to a Commonwealth employee specified in the notice; or
+                     (d)  to produce, within a reasonable period and in a reasonable manner, being a period and manner specified in the notice, any such documents to an officer specified in the notice; or
 
-                     (e)  to appear, at a reasonable time and place specified in the notice, before a Commonwealth employee specified in the notice to give any such evidence, either orally or in writing, and to produce any such documents.
+                     (e)  to appear, at a reasonable time and place specified in the notice, before an officer specified in the notice to give any such evidence, either orally or in writing, and to produce any such documents.
 
-             (2)  A Commonwealth employee specified in a notice given pursuant to paragraph (1)(e) may require any evidence that is to be given to the Commonwealth employee in compliance with the notice to be given on oath or affirmation, and for that purpose the Commonwealth employee may administer an oath or affirmation.
+             (2)  An officer specified in a notice given pursuant to paragraph (1)(e) may require any evidence that is to be given to the officer in compliance with the notice to be given on oath or affirmation, and for that purpose the officer may administer an oath or affirmation.
 
              (3)  A person shall not:
 
@@ -1402,7 +1414,7 @@ the Secretary may, by notice served on the person, require the person:
 
              (6)  This section does not require a person to furnish information, produce a document or give evidence to the extent that in doing so the person would contravene a law of the Commonwealth.
 
-             (7)  Nothing contained in any law of a State or Territory shall operate so as to prevent any person from furnishing any information, producing any documents or giving any evidence to a Commonwealth employee pursuant to a notice under subsection (1).
+             (7)  Nothing contained in any law of a State or Territory shall operate so as to prevent any person from furnishing any information, producing any documents or giving any evidence to an officer pursuant to a notice under subsection (1).
 
 ##### <a id="28"></a>28  Secrecy
 
@@ -1466,7 +1478,7 @@ a person may be required:
 
 ##### <a id="33"></a>33  Delegation by Minister
 
-             (1)  The Minister may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Minister, delegate to an APS employee in the Department all or any of the powers of the Minister under this Act, other than:
+             (1)  The Minister may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Minister, delegate to an officer all or any of the powers of the Minister under this Act, other than:
 
                      (a)  the power to formulate principles, objectives and guidelines under section 5; and
 
@@ -1492,13 +1504,11 @@ a person may be required:
 
 ##### <a id="34"></a>34  Delegation by Secretary
 
-             (1)  The Secretary may, by writing signed by the Secretary:
+             (1)  The Secretary may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Secretary, delegate to an officer all or any of the powers of the Secretary under this Act, other than the power to give approvals under subsection 6B(1) and this power of delegation.
 
-                     (a)  delegate to an officer all or any of the powers of the Secretary under Part III; and
+             (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Secretary.
 
-                     (b)  delegate to an APS employee in the Department all or any of the Secretary’s other powers under this Act, other than the power to give approvals under subsection 6B(1).
-
-             (2)  In exercising powers under the delegation, the delegate must comply with any directions of the Secretary.
+             (3)  A delegation of a power by the Secretary under subsection (1) does not prevent the exercise of the power by the Secretary.
 
 ##### <a id="35"></a>35  Payments to be made out of appropriated money
 
@@ -1947,11 +1957,11 @@ Schedule 8 (items 87–93): Royal Assent</div>
     <div>15 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–5, 8–16): 1 July 2007 
+    <div>Schedule 1 (items 1–5, 8–16): \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 7, 10, 17) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 7, 10) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2233,7 +2243,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 28, 2002; No. 65, 2007</div>
+    <div>am. No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2785,7 +2795,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 28, 2002; No. 65, 2007</div>
+    <div>am. No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2802,14 +2812,6 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
   </td>
   <td>
     <div>am. No. 88, 1992; No. 154, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2833,7 +2835,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184,1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003; No. 65, 2007</div>
+    <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184,1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2881,7 +2883,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 137, 2001; No. 65, 2007</div>
+    <div>am. No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2929,7 +2931,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 88, 1992; No. 28, 2002; No. 65, 2007</div>
+    <div>am. No. 88, 1992; No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2939,15 +2941,141 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
   <td>
     <div>am. No. 28, 2002</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 2007</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007 (No. 65, 2007)_
+
+The following amendments commence on 1 July 2007:
+
+## Schedule 1
+
+## 1  Section 4
+
+Insert:
+
+                    <a name="commonwealth-employe"></a>**_Commonwealth employee_** means:
+
+                     (a)  an APS employee; or
+
+                     (b)  an employee of a body (whether incorporated or not) established for a public purpose by, or under, a law of the Commonwealth.
+
+## 2  Section 4 (definition of _officer_)
+
+Repeal the definition, substitute:
+
+                    <a name="offic"></a>**_officer_** means:
+
+                     (a)  a Commonwealth employee; or
+
+                     (b)  a person who performs services on behalf of the Department under a contract made between the person and the Commonwealth; or
+
+                     (c)  an employee of a person referred to in paragraph (b).
+
+## 3  Paragraph 19(1)(b)
+
+After “guidelines”, insert “(if any)”.
+
+## 4  Subsection 19(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Secretary must not take measures, or enter into arrangements, under subsection 20(1) for the provision of a rehabilitation program for persons in the target group unless:
+
+                     (a)  the person providing the program holds a current certificate of compliance in respect of the provision of rehabilitation programs; or
+
+                     (b)  the Secretary is satisfied that there are exceptional circumstances relating to one or more persons in the target group that justify the taking of measures, or the entry into the arrangements, despite the person providing the program not holding such a certificate.
+
+             (3)  Despite subsection (2), the Secretary may enter into an arrangement with a provider of rehabilitation programs who does not hold a current certificate of compliance in respect of the provision of rehabilitation programs if:
+
+                     (a)  the arrangement is for the provision of rehabilitation programs for a period of less than 12 months; or
+
+                     (b)  the Secretary is satisfied that the provider is likely to hold such a certificate at the end of the period of 12 months after the day on which the arrangement commences.
+
+## 5  Section 20
+
+Repeal the section, substitute:
+
+##### <a id="20"></a>20  Provision of rehabilitation programs
+
+             (1)  Subject to section 21, the Secretary may (on the Commonwealth’s behalf) take measures, or enter into arrangements, to provide to persons in the target group such rehabilitation programs, and any follow-up programs, that the Secretary considers necessary or desirable.
+
+             (2)  Without limiting the generality of subsection (1), the Secretary may, for the purposes of a rehabilitation program (including any follow-up program), provide, or arrange for the provision of, the following:
+
+                     (a)  employment and vocational training, educational courses and programs, and mobility and other independent living training;
+
+                     (b)  diagnostic and assessment services, occupational therapy, physiotherapy, speech therapy, and counselling and social work services;
+
+                     (c)  accommodation, transportation and personal support services;
+
+                     (d)  prostheses and aids, including:
+
+                              (i)  home and work-place modifications; and
+
+                             (ii)  modifications to vehicles, appliances and equipment;
+
+                     (e)  the maintenance and repair of prostheses and aids;
+
+                      (f)  books, tools of trade and other equipment and appliances;
+
+                     (g)  any other goods and services the Secretary considers necessary or desirable.
+
+             (3)  In connection with the provision of rehabilitation programs (including follow-up programs), the Secretary may, on behalf of the Commonwealth:
+
+                     (a)  provide; or
+
+                     (b)  arrange for the provision of;
+
+such buildings, plant, equipment, amenities, facilities and other things as the Secretary considers necessary or desirable, including, but not limited to, accommodation, transportation, and recreational, leisure and social amenities and facilities.
+
+## 8  Subsection 22(1)
+
+Repeal the subsection, substitute:
+
+             (1)  Subject to subsections (1A) and (1B), the Commonwealth is to bear the cost of, and incidental to, a rehabilitation program provided for a pensioner or beneficiary.
+
+## 9  Subsection 22(2)
+
+Repeal the subsection, substitute:
+
+             (2)  Subject to subsection (3), the cost, as determined by the Secretary, of and incidental to a rehabilitation program provided for a person who is not a pensioner or beneficiary is to be borne by the person.
+
+## 11  Paragraphs 27(1)(c), (d) and (e)
+
+Omit “an officer”, substitute “a Commonwealth employee”.
+
+## 12  Subsection 27(2)
+
+Omit “An officer”, substitute “A Commonwealth employee”.
+
+## 13  Subsection 27(2)
+
+Omit “the officer” (wherever occurring), substitute “the Commonwealth employee”.
+
+## 14  Subsection 27(7)
+
+Omit “an officer”, substitute “a Commonwealth employee”.
+
+## 15  Subsection 33(1)
+
+Omit “an officer”, substitute “an APS employee in the Department”.
+
+## 16  Section 34
+
+Repeal the section, substitute:
+
+##### <a id="34"></a>34  Delegation by Secretary
+
+             (1)  The Secretary may, by writing signed by the Secretary:
+
+                     (a)  delegate to an officer all or any of the powers of the Secretary under Part III; and
+
+                     (b)  delegate to an APS employee in the Department all or any of the Secretary’s other powers under this Act, other than the power to give approvals under subsection 6B(1).
+
+             (2)  In exercising powers under the delegation, the delegate must comply with any directions of the Secretary.
+
+As at 20 April 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3000,6 +3128,10 @@ The amendment made by item 6 applies to a rehabilitation program that:
 
                      (b)  commences to be provided to a person on or after the commencement of this item.
 
+The following provision commences on 1 July 2007:
+
+## Schedule 1
+
 ## 10  Saving
 
 (1)        Despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a determination that:
@@ -3017,13 +3149,5 @@ continues in force after that commencement as if the repeal had not occurred.
                      (b)  was in force immediately before that commencement;
 
 continues in force after that commencement as if the repeal had not occurred.
-
-## 17  Guidelines formulated for Part III under subsection 5(1)—transitional provision
-
-Subsections 5(2), (3) and (4) of the _Disability Services Act 1986_ do not apply to guidelines:
-
-                     (a)  that relate to Part III of that Act as amended by this Act; and
-
-                     (b)  that are formulated under subsection 5(1) of that Act on or after the day on which this Act receives the Royal Assent and before 1 July 2007.
 
  
