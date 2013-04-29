@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00299/Html/NTSelfGovt1978_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00410/Html/NTSelfGovt1978_image001.gif)
 
 # Northern   Territory (Self-Government) Act 1978
 
 **Act No. 58 of 1978 as amended**
 
-This compilation was prepared on 7 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 14 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -136,7 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51](#51).          Acts that bind States to bind Northern Territory
 
-[53](#53).          Application of _Fair Work Act 2009_
+[53](#53).          Application of _Workplace Relations Act 1996_
 
 [54](#54).          Power to confer jurisdiction on Remuneration Tribunal in relation to members etc 
 
@@ -442,7 +442,7 @@ and includes part of any such law or Ordinance.
 
              (2)  At the request of such number of members of the Legislative Assembly as is prescribed by enactment, the Administrator shall, by notice published in the _Government Gazette_ of the Territory, appoint a time, being not later than 14 days after the day on which he or she receives the request, for holding a session of the Legislative Assembly.
 
-##### <a id="23"></a>23  Quorum
+##### <a id="23"></a>23  Quorum
 
                    The number of members necessary to constitute a meeting of the Legislative Assembly for the exercise and performance of its powers and functions shall be as prescribed by enactment.
 
@@ -686,11 +686,11 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (2)  Nothing in subsection (1) shall be taken to affect the application of any law of the Commonwealth in and in relation to the Territory otherwise than as provided in that subsection.
 
-##### <a id="53"></a>53  Application of _Fair Work Act 2009_
+##### <a id="53"></a>53  Application of _Workplace Relations Act 1996_
 
-             (3)  Until provision to the contrary is made by an Act, the powers of Fair Work Australia do not extend to employment in respect of which a tribunal established by an enactment before 1 July 1978 has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
+             (3)  Until provision to the contrary is made by an Act, the powers of the Australian Industrial Relations Commission do not extend to employment in respect of which a tribunal established by an enactment before 1 July 1978 has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
 
-             (4)  Provision may be made by enactment for a member of Fair Work Australia to constitute, or to be a member of, a tribunal established by an enactment before 1 July 1978, and nothing in this section or the _Fair Work Act 2009_ prevents a member of Fair Work Australia from accepting appointment or performing duties as, or as a member of, such a tribunal.
+             (4)  Provision may be made by enactment for a member of the Australian Industrial Relations Commission to constitute, or to be a member of, a tribunal established by an enactment before 1 July 1978, and nothing in this section or the _Workplace Relations Act_ _1996_ prevents a member of the Commission from accepting appointment or performing duties as, or as a member of, such a tribunal.
 
              (5)  The power of the Legislative Assembly conferred by section 6 in relation to the making of laws does not extend to the making of a law conferring on any court, tribunal, board, body, person or other authority any power in relation to the hearing and determining of disputes, claims or matters relating to terms and conditions of employment.
 
@@ -700,7 +700,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
                      (b)  a law conferring power on the Public Service Commissioner of the Territory, on a body established by enactment, or on the holder of an office established by enactment, to make determinations by way of the fixing of terms and conditions of employment of persons employed in the Public Service of the Territory or employed by that body or by the holder of that office, as the case may be.
 
-Note:          See section 40 of the _Fair Work Act 2009_ and regulations made under subsection (2) of that section for the interaction between determinations made under paragraph (6)(b) of this section and fair work instruments (within the meaning of that Act).
+             (7)  A determination mentioned in paragraph 6(b) is taken to be a law of the Territory within the meaning of section 17 of the _Workplace Relations Act 1996_.
 
 ##### <a id="54"></a>54  Power to confer jurisdiction on Remuneration Tribunal in relation to members etc.
 
@@ -890,7 +890,7 @@ to the intent that the legal estate in the interest, and all rights and powers i
 
              (2)  In subsection (1), **_prescribed contract_** means a contract:
 
-                     (a)  which was subsisting immediately before the commencing date or was entered into on or after that date and before the date of commencement of the _Northern   Territory__(Self-Government) Amendment Act 1982_;
+                     (a)  which was subsisting immediately before the commencing date or was entered into on or after that date and before the date of commencement of the _Northern Territory__(Self-Government) Amendment Act 1982_;
 
                      (b)  to which the Commonwealth is a party; and
 
@@ -1393,23 +1393,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 43–47): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
@@ -1441,95 +1424,6 @@ _(g)_     The _Workplace Relations and Other Legislation Amendment Act 1
                  (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
          The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
-
-_(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act</i>
-        <i>2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1823,7 +1717,7 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>Heading to s. 53</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 54, 2009</div>
+    <div>am. No. 60, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1839,15 +1733,7 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 53(6)</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
+    <div>am. No. 60, 1996; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
