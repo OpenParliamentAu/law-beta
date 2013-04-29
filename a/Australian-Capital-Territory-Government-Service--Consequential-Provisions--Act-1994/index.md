@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00036/Html/ebe2560f-b2bf-4a6f-b117-99318e5dcfd5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00730/Html/9f95b9e3-a3f4-4f4e-9bf0-70df908e77ca_files/image001.gif)
 
 # Australian Capital Territory Government Service (Consequential Provisions) Act 1994
 
 **Act No. 92 of 1994 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 8 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -74,31 +74,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—New items for Schedule 5 to the A.C T  Self‑Government (Consequential Provisions) Act 1988** 
 
-Part 1                                                                                                                                    13
+Part 1                                                                                                                                    12
 
-Part 2                                                                                                                                    14
+Part 2                                                                                                                                    13
 
-Part 3                                                                                                                                    15
+Part 3                                                                                                                                   14
 
-Part 4                                                                                                                                    16
+Part 4                                                                                                                                   15
 
-Occupational Health and Safety (Commonwealth Employment) Act 1991   16
+Occupational Health and Safety (Commonwealth Employment) Act 1991   15
 
-Part 5                                                                                                                                    17
+Part 5                                                                                                                                   16
 
-Remuneration Tribunal Act 1973                                                                           17
+Remuneration Tribunal Act 1973                                                                           16
 
-Safety, Rehabilitation and Compensation Act 1988                                          18
+Safety, Rehabilitation and Compensation Act 1988                                          17
 
 **Schedule 2—Further amendments** 
 
-Australian Capital Territory (Self‑Government) Act 1988                                22
+Australian Capital Territory (Self‑Government) Act 1988                                21
 
-Privacy Act 1988                                                                                                       22
+Privacy Act 1988                                                                                                       21
 
-Public Service Act 1922                                                                                           24
+Public Service Act 1922                                                                                           23
 
-Superannuation Act 1976                                                                                        26
+Superannuation Act 1976                                                                                        25
 
 **Schedule 3—Modifications of the Privacy Act 1988** 
 
@@ -308,7 +308,7 @@ cease to have effect on the transfer day.
 
           (1A)  Until the day fixed for the purposes of subsection (1), the definition of **_enactment_** in subsection 6(1) of the _Privacy Act 1988_ does not imply that a reference in that Act to an enactment does not include a reference to an ACT enactment.
 
-             (2)  On and after the day fixed for the purposes of subsection (1), section 7 of the _Acts Interpretation Act 1901_ has effect as if subsection (1) and Schedule 3 had been repealed on that day by an Act.
+             (2)  On and after the day fixed for the purposes of subsection (1), section 8 of the _Acts Interpretation Act 1901_ has effect as if subsection (1) and Schedule 3 had been repealed on that day by an Act.
 
              (3)  In this section, **_ACT enactment_** has the same meaning as **_enactment_** has in the _Australian   Capital Territory__(Self‑Government) Act 1988_.
 
@@ -1106,7 +1106,7 @@ of Assent</div>
     <div>29 June 1994</div>
   </td>
   <td colspan="2">
-    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
+    <div>1 July 1994 ( <i>see Gazette</i>1994 No. S256)</div>
   </td>
   <td>
     <div></div>
@@ -1160,8 +1160,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 117–140): 5 Dec 1999 ( <i>see 
- </i>s. 2(1), (2) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 117–140): 5 Dec 1999 (s <i>ee Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1195,7 +1194,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (item 119) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 119) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1210,12 +1209,18 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
   <td></td>
 </tr></table>
 
+_(a)_     The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ was amended by Schedule 1 (items 117–140) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="33%">
-  <col width="67%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1310,7 +1315,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 139, 2010; No. 46, 2011</div>
+    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1370,11 +1375,27 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 119  Subsection 23(2)
+
+Omit “section 8”, substitute “section 7”.
+
+As at 8 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
