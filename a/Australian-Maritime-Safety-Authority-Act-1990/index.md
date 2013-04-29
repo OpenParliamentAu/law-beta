@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00572/Html/ff290fa3-8299-4c90-93e7-f89a3bac2569_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00557/Html/755191fd-8107-4c63-934e-d5ced1f64e85_files/image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 26 July 2012
+This compilation was prepared on 24 July 2012
  taking into account amendments up to Act No. 82 of 2012
 
 The text of any of those amendments not in force
@@ -150,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60](#60).          Publication of directions
 
-[61](#61).          Regulations
+[61](#61).           Regulations
 
 **Part 8—Amendments of other Acts**
 
@@ -400,9 +400,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (c)  protection of the marine environment;
 
-                     (d)  efficiency of maritime transportation;
-
-                     (e)  the administration or enforcement of a law of the Commonwealth that relates to coastal trading.
+                     (d)  efficiency of maritime transportation.
 
 ##### <a id="12"></a>12  Consultation
 
@@ -868,9 +866,7 @@ are guaranteed by the Commonwealth, the obligations become so guaranteed.
 
                             (iv)  the _Protection of the Sea (Civil Liability) Act 1981_; or
 
-                             (v)  the _Lighthouses Act 1911_; or
-
-                     (d)  a fee in respect of a matter referred to in section 15, 15C, 15D or 57 of the _Shipping Registration Act 1981_.
+                             (v)  the _Lighthouses Act 1911_.
 
 ##### <a id="47"></a>47  Charges for services and facilities
 
@@ -1064,7 +1060,7 @@ has effect after the transfer as if, to the extent to which the contract or inst
 
                    Where the Minister gives a direction under section 8, the Minister must cause a copy of the direction to be published in the _Gazette_ within 21 days after it is given.
 
-##### <a id="61"></a>61  Regulations
+##### <a id="61"></a>61   Regulations
 
                    The Governor‑General may make regulations, not inconsistent with this Act:
 
@@ -1571,40 +1567,6 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Shipping Registration Amendment (Australian International Shipping Register) Act 2012</div>
-  </td>
-  <td>
-    <div>54, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 1): 1 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>56, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
   </td>
   <td>
@@ -1773,61 +1735,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
   </td>
 </tr></table>
 
-_(m)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments and Transitional Provisions) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="23%">
-  <col width="53%">
-  <col width="24%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Coastal Trading (Revitalising Australian Shipping) Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2012
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -1961,14 +1868,6 @@ _(m)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian 
   </td>
   <td>
     <div>ad. No. 150, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 56, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2193,14 +2092,6 @@ _(m)_ Subsection 2(1) (item 2) of the _Coastal Trading (Revitalising Australian 
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
   </td>
 </tr>
 <tr>
