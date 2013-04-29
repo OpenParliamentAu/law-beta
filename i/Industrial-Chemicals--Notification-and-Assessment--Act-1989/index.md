@@ -1,20 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2011C00204/Html/3f8deafe-de8a-4430-90c9-a1149f6d17b6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00207/Html/IndCheNotAss1989_WD02_image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
+The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13A](#13A).       Director to notify of inclusion or variation of particulars
 
-[13B](#13B).       Inclusion of new industrial chemical in non‑confidential section of Inventory before 5 years
+[13B](#13B).       Inclusion of new industrial chemical in non-confidential section of Inventory before 5 years
 
 [14](#14).          Inclusion of new industrial chemical in Inventory after 5 years
 
@@ -78,9 +78,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Effect of inclusion in confidential section
 
-[18A](#18A).       Transfer of industrial chemical from non‑confidential section to confidential section
+[18A](#18A).       Transfer of industrial chemical from non-confidential section to confidential section
 
-[19](#19).          Transfer of industrial chemical from confidential section to non‑confidential section
+[19](#19).          Transfer of industrial chemical from confidential section to non-confidential section
 
     **Division 3—Amendment of Inventory**
 
@@ -142,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21SA](#21SA).     Director may request further information about application
 
-[21T](#21T).        Applicant may withdraw or amend application
+[21T](#21T).       Applicant may withdraw or amend application
 
 [21U](#21U).       Determination of application
 
@@ -154,9 +154,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21Y](#21Y).       Notice of permit to be published in Chemical Gazette
 
-[21Z](#21Z).        Notice of refusal of application
+[21Z](#21Z).       Notice of refusal of application
 
-[21ZA](#21ZA).     List of low volume chemicals
+[21ZA](#21ZA).    List of low volume chemicals
 
 [21ZB](#21ZB).     Exempt information
 
@@ -196,9 +196,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22P](#22P).        Object and overview of assessment certificates
 
-[23](#23).          Application for a non‑self‑assessed assessment certificate for any chemical
+[23](#23).          Application for a non-self-assessed assessment certificate for any chemical
 
-[23A](#23A).       Application for a self‑assessed assessment certificate for certain chemicals
+[23A](#23A).       Application for a self-assessed assessment certificate for certain chemicals
 
 [24](#24).          Variation of requirements of section 23
 
@@ -216,7 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Permits allowing introduction before assessment
 
-[30A](#30A).       Application for early introduction of non‑hazardous chemicals
+[30A](#30A).       Application for early introduction of non-hazardous chemicals
 
 [30AA](#30AA).    Dual applications for introduction permits
 
@@ -224,23 +224,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30C](#30C).       Revocation of permit
 
-    **Division 3—Assessment, self‑assessment and reports**
+    **Division 3—Assessment, self-assessment and reports**
 
 [31](#31).          Assessment of chemical
 
-[31A](#31A).       Time periods for applications for non‑self‑assessed assessment certificates under section 23
+[31A](#31A).       Time periods for applications for non-self-assessed assessment certificates under section 23
 
-[31B](#31B).       Time periods for applications for self‑assessed assessment certificates under section 23A
+[31B](#31B).       Time periods for applications for self-assessed assessment certificates under section 23A
 
-[32](#32).          Nature of non‑self‑assessed assessment
+[32](#32).          Nature of non-self-assessed assessment
 
-[33](#33).          Contents of non‑self‑assessed assessment report
+[33](#33).          Contents of non-self-assessed assessment report
 
-[33A](#33A).       Nature of self‑assessed assessment
+[33A](#33A).       Nature of self-assessed assessment
 
-[33B](#33B).       Contents of self‑assessed assessment report
+[33B](#33B).       Contents of self-assessed assessment report
 
-[33C](#33C).       Moving from the self‑assessed system to the non‑self‑assessed system
+[33C](#33C).       Moving from the self-assessed system to the non-self-assessed system
 
 [34](#34).          Full public report
 
@@ -276,13 +276,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40J](#40J).        Withdrawal of application
 
-    **Division 3B—Obligations relating to certain permits and self‑assessed assessment certificates**
+    **Division 3B—Obligations relating to certain permits and self-assessed assessment certificates**
 
 [40K](#40K).       Record keeping requirements
 
 [40L](#40L).        Director may obtain information and documents
 
-[40M](#40M).      Self‑incrimination
+[40M](#40M).      Self-incrimination
 
 [40N](#40N).       Annual reports
 
@@ -426,9 +426,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [80KA](#80KA).    Renewal applications made for next year
 
-[80KB](#80KB).     Late renewal applications are subject to a penalty
+[80KB](#80KB).    Late renewal applications are subject to a penalty
 
-[80KC](#80KC).     Director must give notice of renewal decision
+[80KC](#80KC).    Director must give notice of renewal decision
 
 [80L](#80L).        Withdrawal of application
 
@@ -454,7 +454,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [80S](#80S).        Registration charge
 
-[80T](#80T).        Amount of charge
+[80T](#80T).       Amount of charge
 
 [80U](#80U).       Waiver or remission of charge
 
@@ -486,7 +486,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86](#86).          Searches to monitor compliance with Act etc 
 
-[87](#87).          Offence‑related searches and seizures
+[87](#87).          Offence-related searches and seizures
 
 [88](#88).          Power to require information and documents
 
@@ -540,7 +540,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [100G](#100G).     Director may obtain information and documents
 
-[100H](#100H).     Self‑incrimination
+[100H](#100H).     Self-incrimination
 
 [100J](#100J).      Copies of documents
 
@@ -644,7 +644,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="adg-code"></a>**_ADG Code_** means the Australian Code for the Transport of Dangerous Goods by Road and Rail published by the Federal Office of Road Safety of the Transport Department as in force from time to time.
+                    <a name="adg-code"></a>**_ADG Code_** means the Australian Code for the Transport of Dangerous Goods by Road and Rail published by the Federal Office of Road Safety of the Department of Transport and Regional Development as in force from time to time.
 
                     <a name="approved"></a>**_approved_** means approved by the Director.
 
@@ -676,7 +676,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="biopolym"></a>**_biopolymer_** means:
 
-                     (a)  a polymer directly produced by living or once‑living cells or cellular components; or
+                     (a)  a polymer directly produced by living or once-living cells or cellular components; or
 
                      (b)  a synthetic equivalent of a polymer referred to in paragraph (a); or
 
@@ -738,7 +738,7 @@ including, in the case of a biopolymer, a description of the biological source o
 
                            (vii)  perfuming it; or
 
-                          (viii)  protecting it; or
+                           (viii)  protecting it; or
 
                      (b)  a substance or preparation prescribed by regulations made for the purposes of this paragraph;
 
@@ -786,7 +786,7 @@ Note:          An ingredient or component of a cosmetic could 
 
                      (c)  the factory overhead expenses;
 
-                    incurred by the person in respect of the manufacture of the first‑mentioned chemicals.
+                    incurred by the person in respect of the manufacture of the first-mentioned chemicals.
 
                     <a name="full-public-report"></a>**_full public report_** means a report prepared under section 34 with any variations of it made under subsection 37(2) or 40(5).
 
@@ -808,7 +808,7 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="import"></a>**_importer_**, in relation to an industrial chemical, means a person who imports or proposes to import the chemical.
 
-                    <a name="incident-produc-chemic"></a>**_incidentally‑produced chemical_** means a chemical that is produced as a result of:
+                    <a name="incident-produc-chemic"></a>**_incidentally-produced chemical_** means a chemical that is produced as a result of:
 
                      (a)  the exposure of another chemical to light, heat or other environmental conditions in the course of handling or storage; or
 
@@ -862,9 +862,9 @@ being, if there are in force guidelines approved by the Minister by notice in th
 
                     <a name="modif"></a>**_modifications_** includes additions, substitutions and omissions.
 
-                    <a name="monom"></a>**_monomer_** means a chemical the molecules of which are capable of forming covalent bonds with 2 or more like or unlike molecules under the conditions of the relevant polymer‑forming reactions used for a particular process of polymer formation.
+                    <a name="monom"></a>**_monomer_** means a chemical the molecules of which are capable of forming covalent bonds with 2 or more like or unlike molecules under the conditions of the relevant polymer-forming reactions used for a particular process of polymer formation.
 
-                    <a name="natur-occurring-chemic"></a>**_naturally‑occurring chemical_** means:
+                    <a name="natur-occurring-chemic"></a>**_naturally-occurring chemical_** means:
 
                      (a)  an unprocessed chemical occurring in a natural environment; or
 
@@ -894,7 +894,7 @@ but does not include the following:
 
                      (c)  a reaction intermediate;
 
-                     (d)  an incidentally‑produced chemical.
+                     (d)  an incidentally-produced chemical.
 
                     <a name="new-synthetic-polymer"></a>**_new synthetic polymer_** means:
 
@@ -902,9 +902,9 @@ but does not include the following:
 
                      (b)  a synthetic polymer of whose weight at least 2% is attributable to a monomer or other reactive component that is not listed in the Inventory as a component of a synthetic polymer.
 
-                    <a name="non-confidenti-section"></a>**_non‑confidential section_** means the section of the Inventory referred to in subsection 12(3).
+                    <a name="non-confidenti-section"></a>**_non-confidential section_** means the section of the Inventory referred to in subsection 12(3).
 
-                    <a name="non-hazard-chemic"></a>**_non‑hazardous chemical_** has the meaning given by subsection (2).
+                    <a name="non-hazard-chemic"></a>**_non-hazardous chemical_** has the meaning given by subsection (2).
 
                     <a name="notif-law"></a>**_notification law_**, in relation to a State or Territory, means a law of the State or Territory under which a statement of matters about new industrial chemicals manufactured there are given to an authority of the State or Territory.
 
@@ -1004,7 +1004,7 @@ but does not include the following:
 
                     <a name="secretari"></a>**_Secretary_** means an Agency Head within the meaning of the _Public Service Act 1999_.
 
-                    <a name="self-assessed-assess-certif"></a>**_self‑assessed assessment certificate_** means an assessment certificate given under subsection 39(1A).
+                    <a name="self-assessed-assess-certif"></a>**_self-assessed assessment certificate_** means an assessment certificate given under subsection 39(1A).
 
                     <a name="sequenc"></a>**_sequence_**, in relation to a polymer molecule, means a continuous string of monomer units within the molecule that are covalently bound to one another and are uninterrupted by units other than monomer units.
 
@@ -1017,8 +1017,6 @@ but does not include the following:
                     <a name="threshold-valu"></a>**_threshold value_**, in relation to relevant industrial chemicals introduced by a person, means $500,000.
 
                     <a name="trade-name-product"></a>**_trade name product_** means a chemical included in the section of the Inventory known as Section VIII—AICS Trade Names Annex.
-
-                    <a name="transport-depart"></a>**_Transport Department_** means the Department administered by the Minister administering the _National Transport Commission Act 2003_.
 
                     <a name="tribun"></a>**_Tribunal_** means the Administrative Appeals Tribunal.
 
@@ -1036,7 +1034,7 @@ but does not include the following:
 
              (2)  In this Act:
 
-                    <a name="non-hazard-chemic"></a>**_non‑hazardous chemical_** means a chemical in respect of which the following conditions are met:
+                    <a name="non-hazard-chemic"></a>**_non-hazardous chemical_** means a chemical in respect of which the following conditions are met:
 
                      (a)  the chemical is not a hazardous chemical;
 
@@ -1048,7 +1046,7 @@ but does not include the following:
 
                      (e)  the introduction of the chemical is consistent with the reasonable protection of occupational health and safety, public health and the environment.
 
-             (3)  The Director must take account of the following matters in deciding whether he or she is satisfied that the condition referred to in paragraph (e) of the definition of **_non‑hazardous chemical_** is met:
+             (3)  The Director must take account of the following matters in deciding whether he or she is satisfied that the condition referred to in paragraph (e) of the definition of **_non-hazardous chemical_** is met:
 
                      (a)  the proposed nature of the use of the chemical;
 
@@ -1080,7 +1078,7 @@ but does not include the following:
 
                      (c)  a UVCB substance; or
 
-                     (d)  a naturally‑occurring chemical;
+                     (d)  a naturally-occurring chemical;
 
 but does not include:
 
@@ -1150,7 +1148,7 @@ but does not include:
 
                      (e)  use as a food additive in food referred to in paragraph (d).
 
-                    <a name="food-addit"></a>**_food additive_** means a chemical whose inclusion in food as a food additive is permitted under the Australia New Zealand Food Standards Code (as defined for the purposes of the _Food Standards Australia New Zealand Act 1991_).
+                    <a name="food-addit"></a>**_food additive_** means a chemical whose inclusion in food as a food additive is permitted under the Australia New Zealand Food Standards Code (as defined for the purposes of the _Food Standards__Australia__New Zealand__Act 1991_).
 
                     <a name="industri-us"></a>**_industrial use_**, in relation to a chemical, means a use other than an excluded use.
 
@@ -1194,17 +1192,17 @@ but does not include a substance or mixture of substances of a kind that is decl
 
                      (b)  that is not:
 
-                              (i)  a naturally‑occurring chemical; or
+                              (i)  a naturally-occurring chemical; or
 
                              (ii)  biological material; or
 
-                            (iii)  an incidentally‑produced chemical; or
+                            (iii)  an incidentally-produced chemical; or
 
                             (iv)  a reaction intermediate.
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00204/Html/3f8deafe-de8a-4430-90c9-a1149f6d17b6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00207/Html/IndCheNotAss1989_WD02_image002.gif)
 
 where:
 
@@ -1298,9 +1296,9 @@ Note:          Subsections (3) and (4) are not intended to b
 
 ##### <a id="12"></a>12  Content of Inventory<span style="font-size: 9.0pt;font-weight:normal"> </span>
 
-             (2)  The Inventory is to consist of a non‑confidential section and a confidential section.
+             (2)  The Inventory is to consist of a non-confidential section and a confidential section.
 
-             (3)  The non‑confidential section is to contain approved particulars of:
+             (3)  The non-confidential section is to contain approved particulars of:
 
                      (d)  each chemical included under subsection 14(7); and
 
@@ -1324,7 +1322,7 @@ other than chemicals transferred under section 19.
 
                      (b)  any other matter included under section 13 in respect of a chemical referred to in paragraph (4)(a) or (c).
 
-             (5)  The names of naturally occurring chemicals are to be regarded as included in the non‑confidential section.
+             (5)  The names of naturally occurring chemicals are to be regarded as included in the non-confidential section.
 
              (6)  The Inventory is not to contain particulars of a chemical removed from it under section 63 unless those particulars are subsequently required to be included under section 14.
 
@@ -1388,7 +1386,7 @@ Note:          The Director is required to give notice in the 
 
              (7)  A notice under this section may be included with a notice under another section under this Act.
 
-##### <a id="13B"></a>13B  Inclusion of new industrial chemical in non‑confidential section of Inventory before 5 years
+##### <a id="13B"></a>13B  Inclusion of new industrial chemical in non-confidential section of Inventory before 5 years
 
              (1)  This section applies if:
 
@@ -1396,7 +1394,7 @@ Note:          The Director is required to give notice in the 
 
                      (b)  the period of 5 years from the giving of the certificate has not yet ended; and
 
-                     (c)  the holder or each holder of the certificate applies in the approved form to the Director for the inclusion of the chemical in the non‑confidential section of the Inventory; and
+                     (c)  the holder or each holder of the certificate applies in the approved form to the Director for the inclusion of the chemical in the non-confidential section of the Inventory; and
 
                      (d)  if the application is made after 28 days of the giving of the certificate—the fee prescribed under section 110 is paid.
 
@@ -1406,11 +1404,11 @@ Note:          The Director is required to give notice in the 
 
                      (b)  setting out the terms of subsections (3) and (4).
 
-             (3)  The holder or each holder of any of those other assessment certificates may apply to the Director in the approved form, within 28 days of the giving of the notice, for the chemical not to be included in the non‑confidential section of the Inventory.
+             (3)  The holder or each holder of any of those other assessment certificates may apply to the Director in the approved form, within 28 days of the giving of the notice, for the chemical not to be included in the non-confidential section of the Inventory.
 
              (4)  If an application is made under subsection (3) within the 28 days, the Director:
 
-                     (a)  must not include the chemical in the non‑confidential section of the Inventory; and
+                     (a)  must not include the chemical in the non-confidential section of the Inventory; and
 
                      (b)  must give a written notice to the applicant or applicants under subsection (1) stating that the chemical is not going to be included in that section of the Inventory; and
 
@@ -1418,9 +1416,9 @@ Note:          The Director is required to give notice in the 
 
              (5)  If an application is not made under subsection (3) within the 28 days, the Director:
 
-                     (a)  must include the chemical in the non‑confidential section of the Inventory; and
+                     (a)  must include the chemical in the non-confidential section of the Inventory; and
 
-                     (b)  must give notice in the Chemical Gazette that he or she has included the chemical in the non‑confidential section of the Inventory.
+                     (b)  must give notice in the Chemical Gazette that he or she has included the chemical in the non-confidential section of the Inventory.
 
 Note:          Under section 13, the Director can include conditions and other particulars in respect of a chemical that is included in the Inventory under this section.
 
@@ -1456,11 +1454,11 @@ the Director must include the chemical in the confidential section.
 
              (6)  Where the Director decides not to include the chemical in the confidential section, he or she must delay including the chemical in the Inventory for 28 days after giving notice or, where the applicant applies during those days to the Tribunal under section 102 for the review of the decision, until the application to the Tribunal is finalised.
 
-             (7)  Where the chemical is not included in the confidential section, it is to be included in the non‑confidential section.
+             (7)  Where the chemical is not included in the confidential section, it is to be included in the non-confidential section.
 
 ##### <a id="15"></a>15  Inventory to be publicly available
 
-                   The Director must ensure that copies of the non‑confidential section are available for:
+                   The Director must ensure that copies of the non-confidential section are available for:
 
                      (a)  sale to the public; or
 
@@ -1512,7 +1510,7 @@ the Director must include the chemical in the confidential section.
 
              (2)  Where:
 
-                     (a)  a person inquires of the Director in writing whether a particular industrial chemical that is not included in the non‑confidential section is included in the confidential section; and
+                     (a)  a person inquires of the Director in writing whether a particular industrial chemical that is not included in the non-confidential section is included in the confidential section; and
 
                      (b)  the Director is satisfied that the person intends to introduce the chemical;
 
@@ -1526,9 +1524,9 @@ the Director may answer the inquiry.
 
              (4)  If the Director discloses a condition under subsection (3) to a person, then the Director may also disclose to the person any other conditions in the confidential section to which the introduction of the chemical is subject.
 
-##### <a id="18A"></a>18A  Transfer of industrial chemical from non‑confidential section to confidential section
+##### <a id="18A"></a>18A  Transfer of industrial chemical from non-confidential section to confidential section
 
-             (1)  If an industrial chemical was transferred to the non‑confidential section under section 19 as in force before the commencement of this section, a person who was a holder of a confidence about the chemical may, within a prescribed period, apply in the approved form to the Director for the transfer of the chemical to the confidential section.
+             (1)  If an industrial chemical was transferred to the non-confidential section under section 19 as in force before the commencement of this section, a person who was a holder of a confidence about the chemical may, within a prescribed period, apply in the approved form to the Director for the transfer of the chemical to the confidential section.
 
              (2)  If the Director is satisfied that:
 
@@ -1540,7 +1538,7 @@ the Director must transfer the chemical, and any particulars in respect of the c
 
              (3)  The Director must give the applicant written notice of the decision about the application.
 
-##### <a id="19"></a>19  Transfer of industrial chemical from confidential section to non‑confidential section
+##### <a id="19"></a>19  Transfer of industrial chemical from confidential section to non-confidential section
 
 Definitions
 
@@ -1548,11 +1546,11 @@ Definitions
 
                     <a name="decision-not-transfer"></a>**_decision not to transfer_**, in respect of a chemical in the confidential section, means:
 
-                     (a)  a decision by the Director not to transfer that chemical to the non‑confidential section of the Inventory; or
+                     (a)  a decision by the Director not to transfer that chemical to the non-confidential section of the Inventory; or
 
                      (b)  if:
 
-                              (i)  the Director decides to transfer the chemical to the non‑confidential section of the Inventory; and
+                              (i)  the Director decides to transfer the chemical to the non-confidential section of the Inventory; and
 
                              (ii)  the holder of a confidence about the chemical applies to the Tribunal for a review of the Director’s decision within 28 days after the making of the decision; and
 
@@ -1568,13 +1566,13 @@ Definitions
 
 Inclusion in confidential section to be reviewed every 5 years
 
-             (2)  An industrial chemical, and any particulars in respect of the chemical, in the confidential section must be transferred to the non‑confidential section on the fifth anniversary of its inclusion date unless a decision not to transfer the chemical is made before that fifth anniversary.
+             (2)  An industrial chemical, and any particulars in respect of the chemical, in the confidential section must be transferred to the non-confidential section on the fifth anniversary of its inclusion date unless a decision not to transfer the chemical is made before that fifth anniversary.
 
 Notice of possible transfer
 
              (3)  The Director must, for each chemical that is in the confidential section, notify each holder of a confidence about the chemical, in writing:
 
-                     (a)  that the chemical will be transferred to the non‑confidential section unless a decision not to transfer the chemical is made; and
+                     (a)  that the chemical will be transferred to the non-confidential section unless a decision not to transfer the chemical is made; and
 
                      (b)  setting out the terms of this section.
 
@@ -1582,11 +1580,11 @@ The Director must give the notice at least 3 months before the fifth anniversary
 
 Holder may state why chemical should not be transferred
 
-             (4)  A holder of a confidence about a chemical may, within 28 days after being given a notice under subsection (3), give the Director a written statement setting out the reasons why the chemical should not be transferred to the non‑confidential section.
+             (4)  A holder of a confidence about a chemical may, within 28 days after being given a notice under subsection (3), give the Director a written statement setting out the reasons why the chemical should not be transferred to the non-confidential section.
 
 After receipt of statement Director must decide
 
-             (5)  If a statement is given under subsection (4), the Director must, not later than the fifth anniversary of the inclusion date in respect of the chemical, make a decision whether or not to transfer the chemical to the non‑confidential section.
+             (5)  If a statement is given under subsection (4), the Director must, not later than the fifth anniversary of the inclusion date in respect of the chemical, make a decision whether or not to transfer the chemical to the non-confidential section.
 
 Director’s decision not to transfer chemical
 
@@ -1598,7 +1596,7 @@ Director’s decision not to transfer chemical
 
 the Director:
 
-                     (c)  must decide not to transfer the chemical to the non‑confidential section; and
+                     (c)  must decide not to transfer the chemical to the non-confidential section; and
 
                      (d)  must give written notice of the decision to each holder of a confidence who gave such a statement.
 
@@ -1794,7 +1792,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  a new industrial chemical:
 
-                              (i)  that is a non‑hazardous chemical; and
+                              (i)  that is a non-hazardous chemical; and
 
                              (ii)  that is introduced in a cosmetic; and
 
@@ -1872,9 +1870,9 @@ the Director must, in spite of subsection (2), delay the preparation of the su
 
                    The object of the commercial evaluation permit system is to:
 
-                     (a)  provide a simple means of by‑passing the assessment certificate system in cases where the introduction of new industrial chemicals is required for the sole purpose of commercial evaluation; and
+                     (a)  provide a simple means of by-passing the assessment certificate system in cases where the introduction of new industrial chemicals is required for the sole purpose of commercial evaluation; and
 
-                     (b)  ensure that the means of by‑passing the assessment certificate system is subject to adequate safeguards.
+                     (b)  ensure that the means of by-passing the assessment certificate system is subject to adequate safeguards.
 
 ##### <a id="21B"></a>21B  Application for commercial evaluation permit or renewal of permit
 
@@ -2134,9 +2132,9 @@ Note:          A defendant bears an evidential burden in relat
 
                    The object of the permit system for low volume chemicals is to:
 
-                     (a)  provide a simple means of by‑passing the assessment certificate system in respect of a new industrial chemical if the total of the quantities of the chemical that are to be introduced by the person in any 12 month period will not exceed 100 kilograms (or 1,000 kilograms in certain cases); and
+                     (a)  provide a simple means of by-passing the assessment certificate system in respect of a new industrial chemical if the total of the quantities of the chemical that are to be introduced by the person in any 12 month period will not exceed 100 kilograms (or 1,000 kilograms in certain cases); and
 
-                     (b)  ensure that the means of by‑passing the assessment certificate system is subject to adequate safeguards.
+                     (b)  ensure that the means of by-passing the assessment certificate system is subject to adequate safeguards.
 
 ##### <a id="21R"></a>21R  Who may apply for permit or renewal of permit
 
@@ -2254,7 +2252,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the function or use of the chemical has changed, or is likely to change, significantly;
 
-                     (b)  the amount of the chemical being introduced under the permit in the 12 month period referred to in sub‑subparagraph 21S(2)(a)(iv)(A) or in a 12 month period referred to in sub‑subparagraph 21S(2)(a)(iv)(B) has exceeded, or is likely to exceed, the quantity stated in the written statement provided under subsection 21S(2) or the application for the renewal of the permit;
+                     (b)  the amount of the chemical being introduced under the permit in the 12 month period referred to in sub-subparagraph 21S(2)(a)(iv)(A) or in a 12 month period referred to in sub-subparagraph 21S(2)(a)(iv)(B) has exceeded, or is likely to exceed, the quantity stated in the written statement provided under subsection 21S(2) or the application for the renewal of the permit;
 
                      (c)  in the case of a chemical not manufactured, or proposed to be manufactured, in Australia when the permit was last issued—it has begun to be manufactured in Australia;
 
@@ -2578,13 +2576,13 @@ The day must be at least 28 days after the giving of the notice.
 
              (1)  The object of the assessment certificate system under this Division and Division 3 of this Part is to allow a new industrial chemical to be assessed before a manufacturer or importer introduces the chemical.
 
-             (2)  There are 2 main assessment systems set out in this Division and Division 3\. In the self‑assessed system, a manufacturer or importer of certain chemicals of low concern does most of the assessment himself or herself and the application form is adopted as the assessment report. However, the manufacturer or importer is subject to additional obligations under Division 3B of this Part.
+             (2)  There are 2 main assessment systems set out in this Division and Division 3\. In the self-assessed system, a manufacturer or importer of certain chemicals of low concern does most of the assessment himself or herself and the application form is adopted as the assessment report. However, the manufacturer or importer is subject to additional obligations under Division 3B of this Part.
 
              (3)  Otherwise, an officer assesses the chemical and prepares an assessment report.
 
-##### <a id="23"></a>23  Application for a non‑self‑assessed assessment certificate for any chemical
+##### <a id="23"></a>23  Application for a non-self-assessed assessment certificate for any chemical
 
-Who may make an application for a non‑self‑assessed assessment certificate
+Who may make an application for a non-self-assessed assessment certificate
 
              (1)  A manufacturer or importer of a new industrial chemical may apply for an assessment certificate for the chemical.
 
@@ -2624,7 +2622,7 @@ Note:          Section 24A describes the contents of the doc
 
                      (a)  a biopolymer; and
 
-                     (b)  a synthetic polymer having a number‑average molecular weight of less than 1,000.
+                     (b)  a synthetic polymer having a number-average molecular weight of less than 1,000.
 
              (8)  A notification statement about the following polymers does not need to contain the matters specified in Part C of the Schedule:
 
@@ -2654,17 +2652,17 @@ Other requirements for the application
 
 the person ought reasonably to have been aware of the information.
 
-##### <a id="23A"></a>23A  Application for a self‑assessed assessment certificate for certain chemicals
+##### <a id="23A"></a>23A  Application for a self-assessed assessment certificate for certain chemicals
 
-             (1)  A manufacturer or importer of any of the following new industrial chemicals may apply for a self‑assessed assessment certificate for the chemical:
+             (1)  A manufacturer or importer of any of the following new industrial chemicals may apply for a self-assessed assessment certificate for the chemical:
 
                      (a)  a polymer of low concern;
 
-                     (b)  a non‑hazardous chemical;
+                     (b)  a non-hazardous chemical;
 
                      (c)  any other chemical, or class of chemical, the criteria for which are  prescribed by the regulations.
 
-Note:          A manufacturer or importer of any of those new industrial chemicals can still apply under section 23 for a non‑self‑assessed assessment certificate.
+Note:          A manufacturer or importer of any of those new industrial chemicals can still apply under section 23 for a non-self-assessed assessment certificate.
 
              (2)  The application must be in writing in the approved form.
 
@@ -2818,7 +2816,7 @@ then the Minister is to:
 
              (7)  A permit in relation to a chemical ceases to be in force if the application by the holder of the permit for an assessment certificate for the chemical is withdrawn under section 26.
 
-##### <a id="30A"></a>30A  Application for early introduction of non‑hazardous chemicals
+##### <a id="30A"></a>30A  Application for early introduction of non-hazardous chemicals
 
 Application
 
@@ -2828,7 +2826,7 @@ Application
 
                      (a)  a polymer of low concern;
 
-                     (b)  a non‑hazardous chemical;
+                     (b)  a non-hazardous chemical;
 
                      (c)  any other chemical, or class of chemical, the criteria for which are  prescribed by the regulations.
 
@@ -2944,7 +2942,7 @@ the Director must reconsider the decision to grant the permit and either confirm
 
                     Penalty:  300 penalty units.
 
-### Division 3—Assessment, self‑assessment and reports
+### Division 3—Assessment, self-assessment and reports
 
 ##### <a id="31"></a>31  Assessment of chemical
 
@@ -2958,9 +2956,9 @@ the Director must cause the chemical to be assessed in accordance with section�
 
 Note:          The report of the assessment for polymers of low concern and other chemicals referred to in section 23A might be the application form under that section (see sections 33A and 33B).
 
-##### <a id="31A"></a>31A  Time periods for applications for non‑self‑assessed assessment certificates under section 23
+##### <a id="31A"></a>31A  Time periods for applications for non-self-assessed assessment certificates under section 23
 
-Time periods for applications for non‑self‑assessed assessment certificates under section 23
+Time periods for applications for non-self-assessed assessment certificates under section 23
 
              (1)  An assessment of an application under section 23 is to be made and the assessment report, the full public report and the summary report completed within:
 
@@ -2986,9 +2984,9 @@ Minister may extend time period
 
              (4)  The Minister must immediately notify the applicant of any extension under subsection (3).
 
-##### <a id="31B"></a>31B  Time periods for applications for self‑assessed assessment certificates under section 23A
+##### <a id="31B"></a>31B  Time periods for applications for self-assessed assessment certificates under section 23A
 
-Time periods for applications for self‑assessed assessment certificates under section 23A
+Time periods for applications for self-assessed assessment certificates under section 23A
 
              (1)  An assessment of an application under section 23A is to be made and either:
 
@@ -3020,11 +3018,11 @@ Minister may extend time period
 
              (4)  The Minister must immediately notify the applicant of any extension under subsection (3).
 
-Deemed refusal of application for self‑assessed assessment certificate
+Deemed refusal of application for self-assessed assessment certificate
 
-             (5)  An application for a self‑assessed assessment certificate is taken to have been refused if subsection (1) is not complied with within the period required by this section.
+             (5)  An application for a self-assessed assessment certificate is taken to have been refused if subsection (1) is not complied with within the period required by this section.
 
-##### <a id="32"></a>32  Nature of non‑self‑assessed assessment
+##### <a id="32"></a>32  Nature of non-self-assessed assessment
 
              (1)  Where an assessment of an application under section 23 for an industrial chemical is being made the officer preparing the report must determine the risk (if any) of adverse health effects, safety effects or adverse environmental effects that could be caused by:
 
@@ -3042,9 +3040,9 @@ of the chemical.
 
                      (b)  any use to which the chemical is intended to be, or is reasonably likely to be, put;
 
-                   (ba)  any adverse effects on the environment or persons that the chemical has the intrinsic capacity to cause;
+                    (ba)  any adverse effects on the environment or persons that the chemical has the intrinsic capacity to cause;
 
-                   (bb)  the extent to which the environment, persons in a particular occupation or the public will be exposed to the chemical;
+                    (bb)  the extent to which the environment, persons in a particular occupation or the public will be exposed to the chemical;
 
                      (c)  any risk to the health or safety of persons who because of their occupation are engaged, or likely to be engaged, in the manufacture, handling, storage, use or disposal of the chemical;
 
@@ -3062,9 +3060,9 @@ of the chemical.
 
                      (g)  any other relevant information available to the Director.
 
-##### <a id="33"></a>33  Contents of non‑self‑assessed assessment report
+##### <a id="33"></a>33  Contents of non-self-assessed assessment report
 
-                   An assessment report (other than an assessment report referred to in section 33B (self‑assessment)) must include a Material Safety Data Sheet, a summary of health, safety and environmental matters considered in the assessment and such recommendations as may reasonably be made in relation to each of the following matters:
+                   An assessment report (other than an assessment report referred to in section 33B (self-assessment)) must include a Material Safety Data Sheet, a summary of health, safety and environmental matters considered in the assessment and such recommendations as may reasonably be made in relation to each of the following matters:
 
                      (a)  the precautions and restrictions to be observed during the importation, manufacture, handling, storage, use or disposal of the chemical to protect persons exposed to the chemical;
 
@@ -3082,7 +3080,7 @@ of the chemical.
 
                      (h)  any prescribed matter.
 
-##### <a id="33A"></a>33A  Nature of self‑assessed assessment
+##### <a id="33A"></a>33A  Nature of self-assessed assessment
 
                    An officer assessing an application under section 23A for an industrial chemical must:
 
@@ -3090,7 +3088,7 @@ of the chemical.
 
                      (b)  determine the risk (if any) of the adverse effects referred to in section 32.
 
-##### <a id="33B"></a>33B  Contents of self‑assessed assessment report
+##### <a id="33B"></a>33B  Contents of self-assessed assessment report
 
              (1)  If the officer determines:
 
@@ -3104,9 +3102,9 @@ then the officer must adopt the application made under section 23A for the che
 
 Note:          For example, the officer may adopt the application as the assessment report but also recommend in the report the secondary notification of the chemical in particular circumstances.
 
-##### <a id="33C"></a>33C  Moving from the self‑assessed system to the non‑self‑assessed system
+##### <a id="33C"></a>33C  Moving from the self-assessed system to the non-self-assessed system
 
-Persons can be moved from the self‑assessed to the non‑self‑assessed system
+Persons can be moved from the self-assessed to the non-self-assessed system
 
              (1)  If the officer determines:
 
@@ -3114,7 +3112,7 @@ Persons can be moved from the self‑assessed to the non‑self‑assessed syste
 
                      (b)  that there is a possibility of an unreasonable risk of one or more of the adverse effects referred to in section 32 occurring;
 
-then the officer must refuse the application for a self‑assessed assessment certificate.
+then the officer must refuse the application for a self-assessed assessment certificate.
 
 Notification of refusal of application
 
@@ -3128,7 +3126,7 @@ Notification of refusal of application
 
 Person may make a new application under section 23
 
-             (3)  After a person’s application for a self‑assessed assessment certificate has been refused then the person may make a new application in respect of the chemical under section 23.
+             (3)  After a person’s application for a self-assessed assessment certificate has been refused then the person may make a new application in respect of the chemical under section 23.
 
 Person must pay additional application fee
 
@@ -3158,11 +3156,11 @@ Person must pay additional application fee
 
 ##### <a id="36"></a>36  Notice to applicant on completing report
 
-Notice after completing non‑self‑assessed assessment report
+Notice after completing non-self-assessed assessment report
 
              (1)  As soon as is reasonably practicable after completing:
 
-                     (a)  an assessment report (other than an assessment report referred to in section 33B (self‑assessment)) about a chemical; and
+                     (a)  an assessment report (other than an assessment report referred to in section 33B (self-assessment)) about a chemical; and
 
                      (b)  the full public report about the chemical; and
 
@@ -3174,11 +3172,11 @@ the Director must give the applicant for the assessment certificate:
 
                      (e)  a notice setting out the terms of sections 37 and 38.
 
-Notice after completing self‑assessed assessment report
+Notice after completing self-assessed assessment report
 
              (2)  As soon as is reasonably practicable after completing:
 
-                     (a)  an assessment report referred to in section 33B (self‑assessment) about a chemical; and
+                     (a)  an assessment report referred to in section 33B (self-assessment) about a chemical; and
 
                      (b)  the full public report about the chemical; and
 
@@ -3190,7 +3188,7 @@ the Director must give the applicant for the assessment certificate:
 
                      (e)  a notice setting out the terms of section 38.
 
-Note:          The Director must also give the applicant the self‑assessed assessment certificate (see subsection 39(1A)).
+Note:          The Director must also give the applicant the self-assessed assessment certificate (see subsection 39(1A)).
 
 ##### <a id="37"></a>37  Application for variation of assessment report
 
@@ -3244,15 +3242,15 @@ Note:          The Director must also give the applicant the s
 
 ##### <a id="39"></a>39  Giving of assessment certificates
 
-          (1A)  If an applicant is given a notice under subsection 36(2) (self‑assessment), the Director must give the applicant a certificate at the same time containing such information as is prescribed by the regulations.
+          (1A)  If an applicant is given a notice under subsection 36(2) (self-assessment), the Director must give the applicant a certificate at the same time containing such information as is prescribed by the regulations.
 
-Note:          A person who holds a self‑assessed assessment certificate must comply with the obligations in Division 3B of this Part.
+Note:          A person who holds a self-assessed assessment certificate must comply with the obligations in Division 3B of this Part.
 
              (1)  Otherwise, within 7 days after paragraph 38(5)(a) is complied with in relation to an application for an assessment certificate for a chemical, the Director must give the applicant a certificate containing such information as is prescribed by the regulations.
 
              (2)  If the application is a joint application, each applicant must be given a separate certificate.
 
-             (3)  If the Director gives an applicant a certificate in respect of a chemical, the Director must also notify the applicant in writing that the applicant may apply to have the chemical included in the non‑confidential section of the Inventory under section 13B.
+             (3)  If the Director gives an applicant a certificate in respect of a chemical, the Director must also notify the applicant in writing that the applicant may apply to have the chemical included in the non-confidential section of the Inventory under section 13B.
 
 ##### <a id="40"></a>40  Application for variation of full public report
 
@@ -3304,7 +3302,7 @@ Note:          A person who holds a self‑assessed assessment
 
              (1)  If an assessment certificate (the **_original certificate_**) has been given for an industrial chemical, an importer or manufacturer of the chemical who does not hold the original certificate may apply for extension of the original certificate for the chemical to cover that importer or manufacturer.
 
-          (1A)  However, an importer or manufacturer may not apply for extension of a self‑assessed assessment certificate.
+          (1A)  However, an importer or manufacturer may not apply for extension of a self-assessed assessment certificate.
 
              (2)  2 or more persons may make a joint application for extension of an original certificate if each of them is a manufacturer or importer of the chemical.
 
@@ -3434,7 +3432,7 @@ prepare modifications of the original assessment report.
 
                    The applicant for an extension of the original assessment certificate may withdraw the application by written notice given to the Director at any time before the Director gives the certificate.
 
-### Division 3B—Obligations relating to certain permits and self‑assessed assessment certificates
+### Division 3B—Obligations relating to certain permits and self-assessed assessment certificates
 
 ##### <a id="40K"></a>40K  Record keeping requirements
 
@@ -3444,7 +3442,7 @@ prepare modifications of the original assessment report.
 
                      (b)  a controlled use permit; or
 
-                     (c)  a self‑assessed assessment certificate;
+                     (c)  a self-assessed assessment certificate;
 
 must keep records to support any statement made in or in connection with the application for the permit or certificate, or any application for a renewal of the permit.
 
@@ -3468,7 +3466,7 @@ Making of request
 
                      (b)  a controlled use permit; or
 
-                     (c)  a self‑assessed assessment certificate;
+                     (c)  a self-assessed assessment certificate;
 
 has particular information or a particular document that is relevant to any statement made in or in connection with the application for the permit or certificate, or any application for a renewal of the permit, the Director may request the person to give the information, or produce the document, to the Director.
 
@@ -3496,7 +3494,7 @@ Offence
 
                     Penalty:  60 penalty units.
 
-##### <a id="40M"></a>40M  Self‑incrimination
+##### <a id="40M"></a>40M  Self-incrimination
 
              (1)  An individual is not excused from giving information or producing a document under section 40L on the ground that the information or the production of the document might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -3524,7 +3522,7 @@ is not admissible in evidence against the individual in criminal proceedings oth
 
                      (c)  a controlled use permit; or
 
-                     (d)  a self‑assessed assessment certificate;
+                     (d)  a self-assessed assessment certificate;
 
 in respect of an industrial chemical must provide a report to the Director each registration year.
 
@@ -3936,7 +3934,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The giving of information about a chemical with an application for its assessment or in compliance with a notice under section 58 may be accompanied by an application in the approved form that some or all of the information about the chemical be treated as exempt information under section 75.
 
-##### <a id="60A"></a>60A  Nature of assessment
+##### <a id="60A"></a>60A  Nature of assessment
 
              (1)  The officer preparing the report of the preliminary assessment of a priority existing chemical must determine the significance, for the making of a determination described in subsection (2) in relation to that chemical, of each of the matters required to be taken into account by the notice declaring the chemical as a priority existing chemical.
 
@@ -4168,7 +4166,7 @@ the person must, within 28 days of becoming aware, notify the Director in writin
 
           (2A)  To avoid doubt, the reference in subsection (2) to an industrial chemical that has been assessed under this Act includes a reference to:
 
-                     (a)  a chemical that has been assessed under section 33A (self‑assessment); and
+                     (a)  a chemical that has been assessed under section 33A (self-assessment); and
 
                      (b)  a chemical that has been assessed but that is now included in the Inventory.
 
@@ -4972,7 +4970,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  records relating to the importation, manufacturing, handling, storage, use or disposal of an industrial chemical or a cosmetic are kept.
 
-##### <a id="87"></a>87  Offence‑related searches and seizures
+##### <a id="87"></a>87  Offence-related searches and seizures
 
              (1)  Where an inspector has reasonable grounds for suspecting that there may be on any premises a particular thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
 
@@ -5078,9 +5076,9 @@ whichever happens first, the application is to be taken to have been made.
 
 ##### <a id="90"></a>90  Director
 
-             (1)  There is to be a Director, National Industrial Chemicals Notification and Assessment Scheme, who is to be appointed by the Governor‑General.
+             (1)  There is to be a Director, National Industrial Chemicals Notification and Assessment Scheme, who is to be appointed by the Governor-General.
 
-             (2)  The Director is to be appointed on a full‑time basis.
+             (2)  The Director is to be appointed on a full-time basis.
 
 ##### <a id="91"></a>91  Functions of Director
 
@@ -5112,13 +5110,13 @@ whichever happens first, the application is to be taken to have been made.
 
 ##### <a id="95"></a>95  Resignation of Director
 
-                   The Director may resign the office of Director by signed instrument delivered to the Governor‑General.
+                   The Director may resign the office of Director by signed instrument delivered to the Governor-General.
 
 ##### <a id="96"></a>96  Termination of appointment of Director
 
-             (1)  The Governor‑General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General may terminate the appointment of the Director if the Director:
+             (2)  The Governor-General may terminate the appointment of the Director if the Director:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
@@ -5342,7 +5340,7 @@ Offence
 
                     Penalty:  60 penalty units.
 
-##### <a id="100H"></a>100H  Self‑incrimination
+##### <a id="100H"></a>100H  Self-incrimination
 
              (1)  An individual is not excused from giving information or producing a document under section 100G on the ground that the information or the production of the document might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -5420,7 +5418,7 @@ Note:          For example, a person applies for review of a r
 
                      (a)  the holder of an office established by an Act; or
 
-                     (b)  the person holding or performing the duties of the office of Secretary of the Department; or
+                     (b)  the person holding or performing the duties of the office of Secretary to the Department; or
 
                      (c)  an SES employee, or acting SES employee, in the Department;
 
@@ -5510,7 +5508,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her apparent authority is to be taken, for the purposes of this Act and the regulations, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her apparent authority is to be taken, for the purposes of this Act and the regulations, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -5544,11 +5542,11 @@ the person is not liable to be punished by imprisonment for that offence.
 
                     (ca)  an application under section 21B for a commercial evaluation permit;
 
-                   (cb)  an application under section 21B for a renewal of a commercial evaluation permit;
+                    (cb)  an application under section 21B for a renewal of a commercial evaluation permit;
 
                     (cc)  an application under section 21R for a low volume permit;
 
-                   (cd)  an application under section 21R for a renewal of a low volume permit;
+                    (cd)  an application under section 21R for a renewal of a low volume permit;
 
                     (ce)  an application under section 22B for a controlled use permit;
 
@@ -5556,7 +5554,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (e)  an application under section 23 for an assessment certificate, not being an application to which paragraph 41(3)(d) or subsection 44(1) applies;
 
-                    (ea)  an application under section 23A for a self‑assessed assessment certificate;
+                    (ea)  an application under section 23A for a self-assessed assessment certificate;
 
                       (f)  an application under section 24 to vary the requirements of section 23;
 
@@ -5566,13 +5564,13 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (h)  an application under section 30 for an introduction permit;
 
-                   (ha)  an application under section 30A for an early introduction permit;
+                    (ha)  an application under section 30A for an early introduction permit;
 
                       (j)  an application under section 37 for the variation of a recommendation;
 
                      (k)  an application under section 40 for the variation of a recommendation;
 
-                   (ka)  an application under section 40A for extension of an original assessment certificate;
+                    (ka)  an application under section 40A for extension of an original assessment certificate;
 
                     (m)  an application for an assessment certificate, being an application to which paragraph 41(3)(d) applies;
 
@@ -5586,9 +5584,9 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (u)  an inquiry under section 79;
 
-                   (ua)  an application for registration under section 80F;
+                    (ua)  an application for registration under section 80F;
 
-                   (ub)  an application for renewal of registration under subsection 80KA(1) or 80KB(2).
+                    (ub)  an application for renewal of registration under subsection 80KA(1) or 80KB(2).
 
           (1A)  For the purposes of paragraph (1)(ea), the regulations may prescribe different fees or different methods of calculating fees for an application under section 23A in respect of different chemicals or different classes of chemicals.
 
@@ -5622,7 +5620,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="111"></a>111  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -5678,17 +5676,17 @@ _Section 23_
 
                      (e)  the chemical’s molecular formula and structural formula; 
 
-                      (f)  the chemical’s gram‑molecular weight; 
+                      (f)  the chemical’s gram-molecular weight; 
 
                      (g)  copies of spectra which have been measured to confirm the chemical’s structural formula. 
 
               2.  The following matters showing the composition of the chemical: 
 
-                     (a)  the degree of purity of the chemical, that is to say the weight‑percentage of a sample of the chemical that is not an impurity; 
+                     (a)  the degree of purity of the chemical, that is to say the weight-percentage of a sample of the chemical that is not an impurity; 
 
-                     (b)  the weight‑percentage of a sample of the chemical that is a known or reasonably anticipated impurity, including an isomer or a by‑product, of a hazardous or toxic nature and details of the toxic properties and hazardous properties of the impurities; 
+                     (b)  the weight-percentage of a sample of the chemical that is a known or reasonably anticipated impurity, including an isomer or a by-product, of a hazardous or toxic nature and details of the toxic properties and hazardous properties of the impurities; 
 
-                     (c)  the weight‑percentage of a sample of the chemical that is a non‑hazardous impurity of not less than 1% by weight of the sample; 
+                     (c)  the weight-percentage of a sample of the chemical that is a non-hazardous impurity of not less than 1% by weight of the sample; 
 
                      (d)  the weight percentage of a sample of the chemical that is an additive or adjuvant and the identity of the additives or adjuvants. 
 
@@ -5752,15 +5750,15 @@ _Section 23_
 
                      (d)  the chemical’s solubility in grams per litre in water at 20°C; 
 
-                     (e)  in the case of a chemical whose water solubility exceeds 10<sup>‑6</sup> gms/litre—the degrees of hydrolysis at 25°C at pH values of 4‑9 and 1‑2; 
+                     (e)  in the case of a chemical whose water solubility exceeds 10<sup>-6</sup> gms/litre—the degrees of hydrolysis at 25°C at pH values of 4-9 and 1-2; 
 
-                      (f)  in the case of a chemical that dissolves in water without dissociation or association and which is not surface‑active—the partition coefficient (n‑octanol/water) at 20°C expressed as log P<sub>ow</sub>; 
+                      (f)  in the case of a chemical that dissolves in water without dissociation or association and which is not surface-active—the partition coefficient (n-octanol/water) at 20°C expressed as log P<sub>ow</sub>; 
 
                      (g)  information about the adsorption and desorption of the chemical to and from standard soils; 
 
                      (h)  in the case of a chemical that dissociates in water—the dissociation constant expressed as pKa determined by a specified manner; 
 
-                     (j)    (i)    in the case of a chemical that is a solid—the mean particle size and size range including the respirable fraction (1‑10 microns); or 
+                     (j)    (i)    in the case of a chemical that is a solid—the mean particle size and size range including the respirable fraction (1-10 microns); or 
 
                              (ii)  in the case of a chemical that is fibrous—fibre length and length range; 
 
@@ -5792,13 +5790,13 @@ being data obtained from tests:
 
                      (u)  conducted in accordance with the principles of good laboratory practice. 
 
-            10.  Identification of the analytical methods for the detection and determination of the chemical. 
+             10.  Identification of the analytical methods for the detection and determination of the chemical. 
 
-            11.  Particulars of the labels in the presented form to be fixed to products consisting of or containing the chemical. 
+             11.  Particulars of the labels in the presented form to be fixed to products consisting of or containing the chemical. 
 
-            12.  Particulars of the proposed Material Safety Data Sheet in the prescribed form for the chemical and for all commercially available products, or substances used in the workplace, containing the chemical. 
+             12.  Particulars of the proposed Material Safety Data Sheet in the prescribed form for the chemical and for all commercially available products, or substances used in the workplace, containing the chemical. 
 
-            13.  (a) a full description of procedures for making the chemical harmless in an emergency in the workplace; and 
+             13.  (a) a full description of procedures for making the chemical harmless in an emergency in the workplace; and 
 
                    (b)   a full description of procedures for making the chemical harmless in an emergency outside the workplace. 
 
@@ -5846,11 +5844,11 @@ being data obtained:
 
 ## Part D 
 
-              1.  The weight‑percentage of the total ingredients for the polymer that is represented by each ingredient. 
+              1.  The weight-percentage of the total ingredients for the polymer that is represented by each ingredient. 
 
-              2.  The number‑average molecular weight of the polymer or, where polymers of more than one molecular weight composition are to be introduced, the lowest number‑average molecular weight. 
+              2.  The number-average molecular weight of the polymer or, where polymers of more than one molecular weight composition are to be introduced, the lowest number-average molecular weight. 
 
-              3.  The weight‑percentage of low molecular weight species of the polymer on its introduction represented by each residual monomer. 
+              3.  The weight-percentage of low molecular weight species of the polymer on its introduction represented by each residual monomer. 
 
               4.  The maximum weight percentage of low molecular weight species of the polymer below 1,000\. 
 
@@ -6423,23 +6421,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 54, 55) and Schedule 7 (item 74): 19 Apr 2011</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -6458,7 +6439,7 @@ _(a)_     The _Industrial Chemicals (Notification and Assessment) Act 19
 
          Section 24 commenced on 1 March 1993 (_see Gazette_ 1993, No. S67).
 
-_(b)_     The _Industrial Chemicals (Notification and Assessment) Act 1989_ was amended by Schedule 1 (items 535–543) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Industrial Chemicals (Notification and Assessment) Act 1989_ was amended by Schedule 1 (items 535–543) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -6491,18 +6472,25 @@ _(e)_ Subsection 2(1) (item 8) of the _Workplace Relations Legislation Amendme
 <table>
 <colgroup>
   <col width="24%">
-  <col width="54%">
+  <col width="15%">
+  <col width="39%">
   <col width="22%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="3">
+    <td colspan="2">
       <div>
         <b>
           Commencement Information
         </b>
       </div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
   <tr>
@@ -6513,7 +6501,7 @@ _(e)_ Subsection 2(1) (item 8) of the _Workplace Relations Legislation Amendme
         </b>
       </div>
     </td>
-    <td>
+    <td colspan="2">
       <div>
         <b>
           Column 2
@@ -6536,7 +6524,7 @@ _(e)_ Subsection 2(1) (item 8) of the _Workplace Relations Legislation Amendme
         </b>
       </div>
     </td>
-    <td>
+    <td colspan="2">
       <div>
         <b>
           Commencement
@@ -6558,7 +6546,7 @@ _(e)_ Subsection 2(1) (item 8) of the _Workplace Relations Legislation Amendme
       8\. Schedule 3, items 15 to 17
     </div>
   </td>
-  <td>
+  <td colspan="2">
     <div>
       Immediately before the commencement of items 17, 28 and 41 of Schedule 1
         to the
@@ -6572,6 +6560,12 @@ _(e)_ Subsection 2(1) (item 8) of the _Workplace Relations Legislation Amendme
       2 October 2001
     </div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(f)_      The _Industrial Chemicals (Notification and Assessment) Act 1989_ was amended by Schedule 1 only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1), (3) and (7) of which provide as follows:
@@ -6638,7 +6632,7 @@ _(g)_     Subsection 2(1) (item 37) of the _Statute Law Revision Act 2
   </td>
 </tr></table>
 
-_(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and Assessment) Amendment (Rotterdam Convention) Act 2004_ provides as follows:
+_(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and Assessment) Amendment (__Rotterdam__Convention) Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -6691,7 +6685,11 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>
       (b) the day on which the Rotterdam Convention on the Prior Informed Consent
         Procedure for Certain Hazardous Chemicals and Pesticides in International
-        Trade, done at Rotterdam on 10 September 1998, enters into force for Australia.
+        Trade, done at
+      Rotterdam
+      on 10 September 1998, enters into force for
+      Australia
+      .
     </div>
     <div>
       If the provision(s) commence on the day mentioned in paragraph (b), the
@@ -6776,7 +6774,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; No. 5, 2011</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9356,7 +9354,7 @@ Div. 5 of Part 3</div>
     <div>S. 104</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -9532,9 +9530,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -9544,9 +9542,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -9554,13 +9552,13 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
-_Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
+_Australia New   Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
            2(6)  In this section:
 
@@ -9616,7 +9614,7 @@ If a full public report has been published in the _Chemical Gazette_ in respect 
 
 ## 32  Transitional provisions
 
-(1)       If, before the commencement of item 31 of this Schedule:
+(1)        If, before the commencement of item 31 of this Schedule:
 
                      (a)  the Director has, under subsection 65(1) of the _Industrial Chemicals (Notification and Assessment) Act 1989_, required the secondary notification of a chemical by persons to whom the notice applied; and
 
@@ -9624,7 +9622,7 @@ If a full public report has been published in the _Chemical Gazette_ in respect 
 
 then the Director may, by notice published in the _Chemical Gazette_ or published in such other way as the Director considers appropriate, revoke the notice requiring secondary notification.
 
-(2)       If, in accordance with subitem (1), the Director revokes the notice requiring secondary notification:
+(2)        If, in accordance with subitem (1), the Director revokes the notice requiring secondary notification:
 
                      (a)  the _Industrial Chemicals (Notification and Assessment) Act 1989_ has effect as if the notice had never been published; and
 
@@ -9671,19 +9669,19 @@ _Industrial Chemicals (Notification and Assessment) Amendment Act 2003
 
 ## Schedule 1
 
-## 22  Application of registration‑related changes
+## 22  Application of registration-related changes
 
-(1)       The amendments made by Part 2 of this Schedule apply for the purposes of registration years under the _Industrial Chemicals (Notification and Assessment) Act 1989_ that start on or after 1 September 2003.
+(1)        The amendments made by Part 2 of this Schedule apply for the purposes of registration years under the _Industrial Chemicals (Notification and Assessment) Act 1989_ that start on or after 1 September 2003.
 
-(2)       To avoid doubt, any change to an amount prescribed for the purposes of paragraph 80T(2)(a) or (b) of the _Industrial Chemicals (Notification and Assessment) Act 1989_, as amended by Part 2 of this Schedule, before the start of the registration year that begins on 1 September 2003 applies in relation to that registration year, regardless of whether the application for registration, or renewal of registration, in relation to that registration year was made before or after the change came into force.
+(2)        To avoid doubt, any change to an amount prescribed for the purposes of paragraph 80T(2)(a) or (b) of the _Industrial Chemicals (Notification and Assessment) Act 1989_, as amended by Part 2 of this Schedule, before the start of the registration year that begins on 1 September 2003 applies in relation to that registration year, regardless of whether the application for registration, or renewal of registration, in relation to that registration year was made before or after the change came into force.
 
 ## 23  Saving—existing regulations
 
-(1)       Regulations made for the purposes of paragraph 80T(2)(a) or (b) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ and in force immediately before the commencement of items 14 and 15 of this Schedule continue in force as if they had been made for the purposes of those paragraphs as amended by those items.
+(1)        Regulations made for the purposes of paragraph 80T(2)(a) or (b) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ and in force immediately before the commencement of items 14 and 15 of this Schedule continue in force as if they had been made for the purposes of those paragraphs as amended by those items.
 
-(2)       Regulations made for the purposes of paragraph 110(1)(ub) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ and in force immediately before the commencement of item 19 of this Schedule continue in force as if they had been made for the purposes of that paragraph as amended by that item.
+(2)        Regulations made for the purposes of paragraph 110(1)(ub) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ and in force immediately before the commencement of item 19 of this Schedule continue in force as if they had been made for the purposes of that paragraph as amended by that item.
 
-(3)       Subitems (1) and (2) do not prevent amendment or repeal of the regulations referred to in those subitems.
+(3)        Subitems (1) and (2) do not prevent amendment or repeal of the regulations referred to in those subitems.
 
 * * *
 
@@ -9727,15 +9725,15 @@ The amendments made by items 62, 63 and 72 apply to applications for low volum
 
 ## 190  Application of items relating to renewal of permits
 
-(1)       The amendments made by items 45 to 58, 60, 61 and 175 apply to applications for a renewal of a commercial evaluation permit made on or after the commencement date.
+(1)        The amendments made by items 45 to 58, 60, 61 and 175 apply to applications for a renewal of a commercial evaluation permit made on or after the commencement date.
 
-(2)       The amendments made by items 9, 64 to 71, 73 to 79, 81 to 83, 175, 179 and 180 apply to applications for a renewal of a low volume permit made on or after the commencement date.
+(2)        The amendments made by items 9, 64 to 71, 73 to 79, 81 to 83, 175, 179 and 180 apply to applications for a renewal of a low volume permit made on or after the commencement date.
 
-## 191  Application of items relating to self‑assessed assessment certificates etc.
+## 191  Application of items relating to self-assessed assessment certificates etc.
 
 The amendments made by items 12, 14, 17, 19, 25, 85 to 87, 89 to 120, 122, 125, 126, 167, 169, 174, 176, 181 and 183 apply to applications for assessment certificates or permits made on or after the commencement date.
 
-## 192  Application of items relating to obligations relating to permits and self‑assessed assessment certificates
+## 192  Application of items relating to obligations relating to permits and self-assessed assessment certificates
 
 The amendments made by items 59, 80 and 124 apply to permits or assessment certificates issued in respect of applications made on or after the commencement date.
 
@@ -9781,7 +9779,7 @@ _Industrial Chemicals (Notification and Assessment) Amendment (Cosmetics) Act 20
 
 ## 9  Application of items
 
-(1)       The amendments made by items 2 to 4 of this Schedule apply to an application for:
+(1)        The amendments made by items 2 to 4 of this Schedule apply to an application for:
 
                      (a)  a low volume permit; or
 
@@ -9789,9 +9787,9 @@ _Industrial Chemicals (Notification and Assessment) Amendment (Cosmetics) Act 20
 
 made on or after the commencement of those items.
 
-(2)       The amendments made by items 5 and 6 of this Schedule apply to a low volume permit granted as a result of the determination of an application made on or after the commencement of those items.
+(2)        The amendments made by items 5 and 6 of this Schedule apply to a low volume permit granted as a result of the determination of an application made on or after the commencement of those items.
 
-(3)       The amendments made by items 7 and 8 of this Schedule apply to an application for:
+(3)        The amendments made by items 7 and 8 of this Schedule apply to an application for:
 
                      (a)  a controlled use permit; or
 
@@ -9829,11 +9827,11 @@ _Statute Stocktake (Regulatory and Other Laws) Act 2009 (No. 111, 2009)_
 
 ## 22  Transitional—inclusion of chemicals in the Australian Inventory of Chemical Substances
 
-(1)       Despite the repeal of sections 20E and 20F of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, a chemical included in a section of the Inventory under section 20E of the old law continues to be included in that section of the Inventory, after the commencement of this item, as if it had been included in that section of the Inventory immediately after the commencement of section 11 of the old law.
+(1)        Despite the repeal of sections 20E and 20F of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, a chemical included in a section of the Inventory under section 20E of the old law continues to be included in that section of the Inventory, after the commencement of this item, as if it had been included in that section of the Inventory immediately after the commencement of section 11 of the old law.
 
-(2)       Despite the repeal of section 20G of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, that section continues to apply, in relation to an application made under section 20D of the old law, as if that repeal had not happened.
+(2)        Despite the repeal of section 20G of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, that section continues to apply, in relation to an application made under section 20D of the old law, as if that repeal had not happened.
 
-(3)       In this item:
+(3)        In this item:
 
 **_chemical_** has the same meaning as in the _Industrial Chemicals (Notification and Assessment) Act 1989_.
 
