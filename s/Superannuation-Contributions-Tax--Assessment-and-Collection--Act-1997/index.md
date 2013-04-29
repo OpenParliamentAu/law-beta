@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image001.gif)
 
 # Superannuation Contributions Tax (Assessment and Collection) Act 1997
 
 **Act No. 70 of 1997 as amended**
 
-This compilation was prepared on 29 June 2006
-taking into account amendments up to Act No. 58 of 2006
+This compilation was prepared on 15 August 2005
+taking into account amendments up to Act No. 102 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -136,6 +136,8 @@ Attorney-General’s Department, Canberra
 [43](#43).          Definitions
 
 **Notes** 
+
+ 
 
 
 ## An Act relating to the assessment and collection of superannuation contributions tax, and for related purposes
@@ -274,11 +276,11 @@ No surcharge is payable if surcharge is payable under another Act
 
                               (i)  if the post-20 August 1996 period is less than 365 days—the amount (excluding any cents, cent or fraction of a cent included in that amount) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image002.gif)
 
                              (ii)  otherwise—the amount (excluding any cents, cent or fraction of a cent included in that amount) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image003.gif)
 
                             where:
 
@@ -328,7 +330,7 @@ the **_surchargeable contributions_** of the member for the financial year are t
 
           (2A)  If an eligible termination payment within the meaning of subparagraph (2)(c)(iii) has been made or is made to or for a taxpayer after 20 August 1996, surcharge is payable only on the part of the reduced amount of the eligible termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image004.gif)
 
 where:
 
@@ -346,7 +348,7 @@ Value of benefits and expenses—financial year earlier than 1999-2000 financial
 
              (4)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1996-97 financial year or for either of the next 2 financial years is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image005.gif)
 
 where:
 
@@ -460,7 +462,7 @@ Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image006.gif)
 
 where:
 
@@ -480,7 +482,7 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00362/Html/C2517CE33559F5A0CA25719D000BD233/$FILE/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00541/Html/569E65BA24F0C2E3CA25706000026AD6/$FILE/image007.gif)
 
 where:
 
@@ -706,11 +708,15 @@ Note 2:       The amount of a penalty unit is stated in section 4A
 
 Exemption
 
-             (5)  The Commissioner may, by legislative instrument, exempt a superannuation provider from subsection (3). 
+             (5)  The Commissioner may, by writing, exempt a superannuation provider from subsection (3). 
 
 Burden of proof about exemption
 
              (6)  In a prosecution for an offence against subsection (4), the burden of proving that an exemption is not in force under subsection (5) is on the prosecution.
+
+Disallowable instrument
+
+             (7)  An exemption under subsection (5) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="14A"></a>14A  Commissioner may require member to provide information as to the holder of the member’s surchargeable contributions
 
@@ -2276,23 +2282,6 @@ Schedule 11 (items 90–95): <i>(l)</i>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
-    </td>
-    <td>
-      <div>58, 2006</div>
-    </td>
-    <td>
-      <div>22 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 7 (items 264, 265): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -2655,7 +2644,7 @@ _(l)_ Subsection 2(1) (items 13 and 14) of the _Taxation Laws Amendment Act (N
       <div>S. 14</div>
     </td>
     <td>
-      <div>am. No. 191, 1997; No. 58, 2006</div>
+      <div>am. No. 191, 1997</div>
     </td>
   </tr>
   <tr>
@@ -3506,7 +3495,7 @@ The amendment of section 43 of the _Superannuation Contributions Tax (Assessme
 
 If, immediately before 1 July 2000, a person was a member as defined in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ (as in force at that time), the person does not cease to be a member for the purposes of that Act because of the amendment of the definition of **_member_** in that section made by this Division.
 
-## 95  Saving
+## 95  Saving
 
 If, immediately before 1 July 2000, an entity (as defined in the _Income Tax Assessment Act 1997_) was a superannuation provider as defined in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ (as in force at that time), the entity does not cease to be a superannuation provider for the purposes of that Act because of the amendments of the definition of **_superannuation provider_** in that section made by this Division.
 
