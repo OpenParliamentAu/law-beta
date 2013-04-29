@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00690/Html/B746B648FE91022DCA2570C900156D1E/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00641/Html/5C9CCA8AE13A63F8CA2570B4001F8FDB/$FILE/image001.gif)
 
 # Crimes (Overseas) Act 1964
 
 **Act No. 116 of 1964 as amended**
 
-This compilation was prepared on 2 December 2005
+This compilation was prepared on 9 November 2005
 taking into account amendments up to Act No. 128 of 2005
 
 The text of any of those amendments not in force 
@@ -20,29 +20,29 @@ Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         When this Act applies to a person in relation to an act of the person in a foreign country
+[3A](#3A).         When this Act applies to a person in relation to an act of the person in a foreign country    3
 
-[3B](#3B).         Declared agreement or arrangements
+[3B](#3B).         Declared agreement or arrangements                                                    7
 
-[3C](#3C).         Declared foreign countries and declared parts of foreign countries
+[3C](#3C).         Declared foreign countries and declared parts of foreign countries     8
 
-[4](#4).            Application of Australian criminal law to person to whom this Act applies
+[4](#4).            Application of Australian criminal law to person to whom this Act applies         9
 
-[5](#5).            Which offences are indictable
+[5](#5).            Which offences are indictable                                                            10
 
-[6](#6).            Arrest of offenders
+[6](#6).            Arrest of offenders                                                                            10
 
-[7](#7).            Trial of offenders
+[7](#7).            Trial of offenders                                                                               10
 
-[8](#8).            Evidence
+[8](#8).            Evidence                                                                                             11
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                        13
 
 **Notes** 
 
@@ -91,8 +91,6 @@ Canberra
 
                     <a name="declar-part-foreign-countri"></a>**_declared part of a foreign country_** means a part of a foreign country that regulations made for the purposes of section 3C provide is a declared part of a foreign country for the purposes of this Act.
 
-                    <a name="digo"></a>**_DIGO_** has the same meaning as in the _Intelligence Services Act 2001._
-
                     <a name="dsd"></a>**_DSD_** has the same meaning as in the _Intelligence Services Act 2001_.
 
                     <a name="foreign-countri"></a>**_foreign country_**:
@@ -119,7 +117,7 @@ Canberra
 
                      (b)  Australia and another country.
 
-                    <a name="staff-member"></a>**_staff member_** of ASIS, DIGO or DSD has the same meaning as in the _Intelligence Services Act 2001_.
+                    <a name="staff-member"></a>**_staff member_** of ASIS or DSD has the same meaning as in the _Intelligence Services Act 2001_.
 
                     <a name="territori"></a>**_Territory_** means an internal Territory.
 
@@ -231,17 +229,17 @@ Example:    If an Australian is sent to the foreign country to undertake a
 
                              (ii)  ends when the person leaves the foreign country (or that part of the foreign country).
 
-Defence Force members and ASIS, DIGO and DSD staff not covered
+Defence Force members and ASIS and DSD staff not covered
 
            (10)  Despite subsections (1) to (6), this Act does not apply to a person in respect of an act of the person if:
 
                      (a)  the person is a member of the Defence Force at the time the act occurs; or
 
-                     (b)  the person is a staff member of ASIS, DIGO or DSD at the time the act occurs and the act is done in the proper performance of a function of ASIS, DIGO or DSD.
+                     (b)  the person is a staff member of ASIS or DSD at the time the act occurs and the act is done in the proper performance of a function of ASIS or DSD.
 
 Note:          Section 14 of the _Intelligence Services Act 2001_:
 
-(a)           authorises the Inspector-General of Intelligence and Security to give a certificate certifying any fact relevant to the question whether an act was done in the proper performance of a function of ASIS, DIGO or DSD; and
+(a)           authorises the Inspector-General of Intelligence and Security to give a certificate certifying any fact relevant to the question whether an act was done in the proper performance of a function of ASIS or DSD; and
 
 (b)           provides for such a certificate to be prima facie evidence of the facts certified in any proceedings.
 
@@ -574,9 +572,7 @@ Remainder: Royal Assent
       <div>4 Nov 2005</div>
     </td>
     <td>
-      <div>Schedules 1–8: 2 Dec 2005 
-Remainder: Royal Assent 
-</div>
+      <div>Schedule 8 (items 5–8): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -627,44 +623,12 @@ _(c)_     The _Crimes (Overseas) Act 1964_ was amended by section 31 o
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 65, 1985; No. 102, 2003; No. 128, 2005</div>
+      <div>am. No. 216, 1973; No. 65, 1985; No. 102, 2003</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Subhead. to s. 3A(10)</div>
-    </td>
-    <td>
-      <div>am. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3A</div>
-    </td>
-    <td>
-      <div>ad. No. 102, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 3A(10)</div>
-    </td>
-    <td>
-      <div>am. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3B, 3C</div>
+      <div>Ss. 3A–3C</div>
     </td>
     <td>
       <div>ad. No. 102, 2003</div>
@@ -719,6 +683,37 @@ _(c)_     The _Crimes (Overseas) Act 1964_ was amended by section 31 o
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Intelligence Services Legislation Amendment Act 2005 (No. 128, 2005)_
+
+The following amendments commence on 2 December 2005:
+
+## Schedule 8
+
+## 5  Section 3
+
+Insert:
+
+                    <a name="digo"></a>**_DIGO_** has the same meaning as in the _Intelligence Services Act 2001._
+
+## 6  Section 3 (definition of _staff member_)
+
+After “ASIS”, insert “, DIGO”.
+
+## 7  Paragraph 3A(10)(b)
+
+After “ASIS” (wherever occurring), insert “, DIGO”.
+
+_Note:       The heading to subsection 3A(10) is altered by inserting “, DIGO” after “ASIS”._
+
+## 8  Subsection 3A(10) (paragraph (a) of the note)
+
+After “ASIS”, insert “, DIGO”.
+
+As at 9 November 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
