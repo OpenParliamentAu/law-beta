@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00586/Html/67A5EF827BE0C788CA25708900184A8C/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00564/Html/E441961BB4AFE2F5CA25707A00022742/$FILE/image001.gif)
 
 # Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
 
 **Act No. 37 of 2003 as amended**
 
-This compilation was prepared on 1 October 2005
+This compilation was prepared on 9 September 2005
 taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
@@ -19,117 +19,117 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introductory** 
+**Part 1—Introductory** 
 
     **Division 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
     **Division 2—Interpretation**
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Providing medical indemnity cover
+[5](#5).            Providing medical indemnity cover                                                      7
 
-[6](#6).            Claims-made based cover and incident-occurring based cover
+[6](#6).            Claims-made based cover and incident-occurring based cover             8
 
-[7](#7).            When certain DDR arrangements are taken to be entered into
+[7](#7).            When certain DDR arrangements are taken to be entered into            9
 
-[7A](#7A).         Reasonableness of premiums
+[7A](#7A).         Reasonableness of premiums                                                             10
 
     **Division 3—Application of Act**
 
-[8](#8).            Application of Act
+[8](#8).            Application of Act                                                                            11
 
-[9](#9).            Act extends to external Territories
+[9](#9).            Act extends to external Territories                                                    11
 
 **Part 2—Prudential requirements for provision of medical indemnity cover** 
 
     **Division 1—Provision of medical indemnity cover**
 
-[10](#10).          Medical indemnity cover to be provided only by general insurers and only under contracts of insurance
+[10](#10).          Medical indemnity cover to be provided only by general insurers and only under contracts of insurance             12
 
-[11](#11).          Intermediary’s responsibilities
+[11](#11).          Intermediary’s responsibilities                                                          13
 
     **Division 2—Transitional arrangements**
 
-[12](#12).          Effect of determination under subsection 13(3)
+[12](#12).          Effect of determination under subsection 13(3)                                15
 
-[13](#13).          APRA determination that minimum capital requirements do not apply
+[13](#13).          APRA determination that minimum capital requirements do not apply 15
 
-[14](#14).          Administrative review
+[14](#14).          Administrative review                                                                       18
 
-[15](#15).          Application of section 115A of the _Insurance Act 1973_
+[15](#15).          Application of section 115A of the _Insurance Act 1973_                   18
 
 **Part 3—Product standards for medical indemnity insurance contracts** 
 
     **Division 1—Minimum cover**
 
-[16](#16).          Minimum cover amount
+[16](#16).          Minimum cover amount                                                                    19
 
-[17](#17).          Minimum cover for single claim
+[17](#17).          Minimum cover for single claim                                                        19
 
-[18](#18).          Minimum annual cover—incident-occurring based cover
+[18](#18).          Minimum annual cover—incident-occurring based cover                  20
 
-[19](#19).          Minimum annual cover—other cover
+[19](#19).          Minimum annual cover—other cover                                                22
 
-[20](#20).          Amount payable by insurer
+[20](#20).          Amount payable by insurer                                                               25
 
     **Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents** 
 
         **Subdivision A—Regulated insurance contracts**
 
-[21](#21).          Regulated insurance contracts
+[21](#21).          Regulated insurance contracts                                                            26
 
         **Subdivision B—Insurer’s responsibilities**
 
-[22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed
+[22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed                                                                                                           27
 
-[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract
+[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract                                                                                                           31
 
-[24](#24).          Complying offer
+[24](#24).          Complying offer                                                                                35
 
-[26](#26).          Federal Court may order insurer to make offer
+[26](#26).          Federal Court may order insurer to make offer                                 37
 
     **Division 2A—Provision of run-off cover to certain medical practitioners**
 
-[26A](#26A).       Provision of run-off cover to certain medical practitioners
+[26A](#26A).       Provision of run-off cover to certain medical practitioners               38
 
-[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover
+[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover           41
 
-[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs
+[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs 43
 
-[26D](#26D).       Notification and record-keeping
+[26D](#26D).       Notification and record-keeping                                                        44
 
-[26E](#26E).        Run-off cover taken to be provided under contract of insurance
+[26E](#26E).        Run-off cover taken to be provided under contract of insurance      45
 
-[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement
+[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement              45
 
-[26G](#26G).       Pecuniary penalties for offences against this Division
+[26G](#26G).       Pecuniary penalties for offences against this Division                      46
 
     **Division 3—Intermediary’s responsibilities**
 
-[27](#27).          Intermediary’s responsibilities
+[27](#27).          Intermediary’s responsibilities                                                          47
 
 **Part 4—Administration**
 
-[28](#28).          APRA to have general administration of Part 2
+[28](#28).          APRA to have general administration of Part 2                                48
 
-[29](#29).          APRA Act secrecy provisions apply
+[29](#29).          APRA Act secrecy provisions apply                                               48
 
-[30](#30).          ASIC to have general administration of Part 3
+[30](#30).          ASIC to have general administration of Part 3                                  48
 
 **Part 5—Miscellaneous**
 
-[31](#31).          Anti-avoidance measures
+[31](#31).          Anti-avoidance measures                                                                   49
 
-[32](#32).          Act not to affect State and Territory laws
+[32](#32).          Act not to affect State and Territory laws                                        50
 
-[33](#33).          Regulations
+[33](#33).          Regulations                                                                                        50
 
 **Notes** 
 
@@ -142,7 +142,7 @@ Attorney-General’s Department, Canberra
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
 
@@ -392,7 +392,7 @@ References to registered health professional
 
                              (ii)  one under which the health care professional is indemnified indirectly through an entity or entities interposed between the person and the health care professional.
 
-##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
+##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
 
              (1)  This section tells you what is meant by **_claims-made based cover_** and **_incident-occurring based cover_** when those terms are used in this Act. There are some kinds of medical indemnity cover that fall outside both those terms.
 
@@ -1524,7 +1524,7 @@ Offences—giving notice
 
                      (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
 
-                     (b)  the insurer does not, within 28 days after providing the medical indemnity cover, give to the Chief Executive Officer of Medicare Australia a written notice stating:
+                     (b)  the insurer does not, within 28 days after providing the medical indemnity cover, give to the Health Insurance Commission a written notice stating:
 
                               (i)  the name of the practitioner for whom the medical indemnity cover is provided; and
 
@@ -1785,9 +1785,7 @@ Schedule 6 (items 10–13): Royal Assent
       <div>6 Sept 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (item 550): 
-1 Oct 2005 
-</div>
+      <div>Schedule 2 (item 550): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -2120,7 +2118,7 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
       <div></div>
     </td>
     <td>
-      <div>am. Nos. 25 and 111, 2005</div>
+      <div>am. No. 25, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2132,6 +2130,21 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
+
+The following amendment commences on 6 March 2006 unless proclaimed earlier:
+
+## Schedule 2
+
+## 550  Paragraph 26D(2)(b)
+
+Omit “Health Insurance Commission”, substitute “Chief Executive Officer of Medicare Australia”.
+
+As at 9 September 2005 the amendment is not incorporated in this compilation.
 
 
  
