@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00526/Html/IndCheNotAss1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00553/Html/IndCheNotAss1989_WD02_image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 20 November 2009
- taking into account amendments up to Act No. 111 of 2009
+This compilation was prepared on 17 September 2007
+ taking into account amendments up to Act No. 134 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -89,6 +89,22 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [20AA](#20AA).    Chemicals wrongly included in the Inventory
 
 [20AB](#20AB).    Details of trade name products
+
+    **Division 4—Amnesty in respect of Eligible Chemicals**
+
+[20A](#20A).       Object of amnesty
+
+[20B](#20B).       Amnesty period
+
+[20C](#20C).       Who may apply
+
+[20D](#20D).       How application is to be made
+
+[20E](#20E).        Determination of application
+
+[20F](#20F).        Effect of inclusion of chemical in Inventory
+
+[20G](#20G).       Effect of refusal of application
 
 **Part 3—Notification and Assessment of Industrial Chemicals** 
 
@@ -760,6 +776,8 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="dispos"></a>**_disposal_**, in relation to a chemical or cosmetic, includes disposal of waste resulting from the manufacture or use of the chemical or cosmetic.
 
+                    <a name="elig-chemic"></a>**_eligible chemical_** means an industrial chemical that was eligible to be submitted for inclusion in the Inventory at a time during the period that began on 1 December 1977 and ended on 16 July 1990.
+
                     <a name="environ"></a>**_environment_** includes all aspects of the surroundings of humans, whether affecting them as individuals or in social groupings.
 
                     <a name="environ-depart"></a>**_Environment Department_** means the Department of the Arts, Sport, the Environment, Tourism and Territories.
@@ -1202,7 +1220,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00526/Html/IndCheNotAss1989_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00553/Html/IndCheNotAss1989_WD02_image002.gif)
 
 where:
 
@@ -1717,6 +1735,70 @@ Note:          The Director can include conditions and other p
           (4C)  If the Director delays the inclusion of an industrial chemical in the Inventory under subsection (4B), the Director must, during the period of that delay, defer removing the trade name product concerned from the Inventory.
 
              (5)  If the Director does not receive the information about each industrial chemical making up the trade name product by the due date, the Director must remove the trade name product from the Inventory.
+
+### Division 4—Amnesty in respect of Eligible Chemicals
+
+##### <a id="20A"></a>20A  Object of amnesty
+
+                   The object of this Division is to provide an amnesty for persons who:
+
+                     (a)  apart from this Division would be taken to have contravened or to contravene this Act by the introduction of an eligible chemical; and
+
+                     (b)  during the amnesty period apply under this Division for the chemical to be included in the Inventory.
+
+##### <a id="20B"></a>20B  Amnesty period
+
+                   For the purposes of this Division, the amnesty period is the period of 2 years from the commencement of this Division.
+
+##### <a id="20C"></a>20C  Who may apply
+
+             (1)  A manufacturer or importer of a new industrial chemical:
+
+                     (a)  that is an eligible chemical; and
+
+                     (b)  for which an assessment certificate had not been applied for before the commencement of this Division;
+
+may, before the end of the amnesty period, apply under this section for the chemical to be included in the Inventory.
+
+             (2)  2 or more persons, each of whom is a manufacturer or importer of a chemical referred to in subsection (1) may make a joint application under that subsection.
+
+             (3)  An application under subsection (1) may request that the chemical be included in the confidential section of the Inventory.
+
+##### <a id="20D"></a>20D  How application is to be made
+
+             (1)  The application must be in writing in the approved form and must be given to the Director.
+
+             (2)  The application is taken not to be duly made unless the applicant has:
+
+                     (a)  provided in respect of the application a written notification statement about the chemical that sets out the matters referred to in paragraphs 1, 3, 6, 7, 8, 11 and 12 of Part B of the Schedule; and
+
+                     (b)  paid the prescribed fee.
+
+##### <a id="20E"></a>20E  Determination of application
+
+             (1)  If an application is duly made under section 20D, the Director must determine the application as soon as practicable.
+
+             (2)  If the Director is satisfied that:
+
+                     (a)  the chemical is an eligible chemical; and
+
+                     (b)  having regard to the inherent nature of the chemical and any other matters that he or she considers relevant, the use of the chemical does not constitute an unreasonable risk to health or to the environment;
+
+the Director must grant the application and include the chemical:
+
+                     (c)  if the application requested the inclusion of the chemical in the confidential section of the Inventory and the Director is satisfied that the publication of some or all of the chemical’s particulars could reasonably be expected to prejudice substantially the commercial interests of the applicant—in that section; or
+
+                     (d)  otherwise—in the non-confidential section of the Inventory.
+
+             (3)  If the Director is not so satisfied, the Director must refuse the application.
+
+##### <a id="20F"></a>20F  Effect of inclusion of chemical in Inventory
+
+                   If the Director includes a chemical in the Inventory under section 20E, the chemical is taken for the purposes of this Act to have been included in the Inventory at all times since the commencement of section 11.
+
+##### <a id="20G"></a>20G  Effect of refusal of application
+
+                   If an application duly made by a person under section 20D is refused, a prosecution may not be instituted against the person in respect of a contravention of section 21 in respect of the chemical that occurred at any time (including a time before the commencement of this section) that occurred or occurs before the application was determined.
 
 ## Part 3—Notification and Assessment of Industrial Chemicals
 
@@ -5258,7 +5340,7 @@ Director to notify Australia’s designated national authority
 
                               (i)  a State;
 
-                             (ii)  the Australian Capital Territory;
+                             (ii)  the Australian Capital   Territory;
 
                             (iii)  the Northern Territory;
 
@@ -5384,7 +5466,7 @@ is not admissible in evidence against the individual in criminal proceedings oth
 
                      (a)  a decision by the Minister for the purposes of subsection 30(1), (3) or (5), 31A(3), 31B(3), 44(5), 51(1), 57(6), 61(2), 67(1), 68(6) or 68A(5); or
 
-                     (b)  a decision by the Director for the purposes of subsection 14(4), 17(4), 18A(2) or 19(7), 20AA(6) or 21H(1) or (2), section 21L or subsection 21U(3), 21W(3), (4) or (6), 22F(4), 22H(5) or (6), section 22J, subsection 24(1), (3) or (4), 27(1), (2) or (4), 28(2), 30A(3) or 30C(1), section 33C, paragraph 37(2)(b), subsection 40(6), paragraph 40F(3)(b) or 44(1)(d) or (2)(b), subsection 58(3) or 60E(5), 65(1) or (2), 69(1), 73(6) or 75(1), paragraph 79(a) or subsection 80Q(1), 80QA(1) or 80QC(1) or (3); or
+                     (b)  a decision by the Director for the purposes of subsection 14(4), 17(4), 18A(2) or 19(7), 20AA(6), 20E(3) or 21H(1) or (2), section 21L or subsection 21U(3), 21W(3), (4) or (6), 22F(4), 22H(5) or (6), section 22J, subsection 24(1), (3) or (4), 27(1), (2) or (4), 28(2), 30A(3) or 30C(1), section 33C, paragraph 37(2)(b), subsection 40(6), paragraph 40F(3)(b) or 44(1)(d) or (2)(b), subsection 58(3) or 60E(5), 65(1) or (2), 69(1), 73(6) or 75(1), paragraph 79(a) or subsection 80Q(1), 80QA(1) or 80QC(1) or (3); or
 
                      (c)  the condition of use to which a controlled use permit is subject under subsection 22H(1); or
 
@@ -5539,6 +5621,8 @@ the person is not liable to be punished by imprisonment for that offence.
                      (c)  an application under subsection 18A(1);
 
                 (caaa)  a statement under subsection 19(4);
+
+                  (caa)  an application under section 20C;
 
                     (ca)  an application under section 21B for a commercial evaluation permit;
 
@@ -6380,28 +6464,11 @@ Remainder: Royal Assent</div>
     <div>20 Aug 2007</div>
   </td>
   <td colspan="2">
-    <div>Schedules 1 and 2: 17 Sept 2007 
+    <div>Schedules 1 and 2: 17 Sep t 2007 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Sch. 2 (items 9, 16, 19, 26, 34) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
-  </td>
-  <td>
-    <div>111, 2009</div>
-  </td>
-  <td>
-    <div>16 Nov 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 18–22): 17 Nov 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 22) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -6670,7 +6737,9 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
         Procedure for Certain Hazardous Chemicals and Pesticides in International
         Trade, done at
       Rotterdam
-      on 10 September 1998, enters into force for
+      on
+      10 September 1998
+      , enters into force for
       Australia
       .
     </div>
@@ -6757,7 +6826,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7010,6 +7079,14 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Div. 4 of Part 2</div>
   </td>
   <td>
@@ -7018,26 +7095,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 20A–20G</div>
   </td>
   <td>
     <div>ad. No. 214, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9321,7 +9382,7 @@ Div. 5 of Part 3</div>
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 111, 2009</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9401,7 +9462,7 @@ Div. 5 of Part 3</div>
     <div>S. 110</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 134, 2007; No. 111, 2009</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9794,24 +9855,6 @@ The amendments made by items 22 to 25 of this Schedule apply in relation to pe
 
 The amendments made by items 27 to 29 of this Schedule apply in relation to registration years beginning on or after the commencement of those items.
 
-* * *
-
-_Statute Stocktake (Regulatory and Other Laws) Act 2009 (No. 111, 2009)_
-
-## Schedule 1
-
-## 22  Transitional—inclusion of chemicals in the Australian Inventory of Chemical Substances
-
-(1)        Despite the repeal of sections 20E and 20F of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, a chemical included in a section of the Inventory under section 20E of the old law continues to be included in that section of the Inventory, after the commencement of this item, as if it had been included in that section of the Inventory immediately after the commencement of section 11 of the old law.
-
-(2)        Despite the repeal of section 20G of the _Industrial Chemicals (Notification and Assessment) Act 1989_ made by item 19 of this Part, that section continues to apply, in relation to an application made under section 20D of the old law, as if that repeal had not happened.
-
-(3)        In this item:
-
-**_chemical_** has the same meaning as in the _Industrial Chemicals (Notification and Assessment) Act 1989_.
-
-**_Inventory_** has the same meaning as in the _Industrial Chemicals (Notification and Assessment) Act 1989_.
-
-**_old law_** means the _Industrial Chemicals (Notification and Assessment) Act 1989_ as in force immediately before the commencement of this item.
+ 
 
  
