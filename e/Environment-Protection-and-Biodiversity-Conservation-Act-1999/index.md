@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00369/Html/34292436-301a-4556-bc65-d913244509a6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00014/Html/EnvProtBioDivCons99Vol1WD02_image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 10 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 139 of 2010
 
-**Volume 1** includes:     Table of Contents
+**Volume 1** includes:       Table of Contents
                                      Sections 1 – 266
 
 The text of any of those amendments not in force 
@@ -16,7 +16,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-**Volume 2** includes:      Table of Contents
+**Volume 2** includes:       Table of Contents
                                      Sections 266B – 528
                                      Schedule 1
                                      Note 1
@@ -27,7 +27,7 @@ The operation of amendments that have been incorporated may be
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -193,7 +193,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Extended operation in State and Northern Territory waters
 
-[31](#31).          Extended operation in non‑self‑governing Territories
+[31](#31).          Extended operation in non-self-governing Territories
 
     **Division 2—Actions covered by Ministerial declarations and accredited management arrangements or accredited authorisation processes** 
 
@@ -689,7 +689,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [146M](#146M).    No approvals relating to nuclear actions
 
-    **Division 2—Assessment of Commonwealth‑managed fisheries**
+    **Division 2—Assessment of Commonwealth-managed fisheries**
 
 [147](#147).        Simplified outline of this Division
 
@@ -781,7 +781,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [170B](#170B).     Information critical to protecting matters of national environmental significance not to be disclosed
 
-[170BA](#170BA).  Designated proponent may request Minister to permit commercial‑in‑confidence information not to be disclosed
+[170BA](#170BA).  Designated proponent may request Minister to permit commercial-in-confidence information not to be disclosed
 
     **Division 6—Withdrawal of referrals**
 
@@ -885,9 +885,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [194R](#194R).     Scientific Committee may obtain advice
 
-[194S](#194S).      Co‑ordination with Australian Heritage Council—Committee undertaking assessment
+[194S](#194S).      Co-ordination with Australian Heritage Council—Committee undertaking assessment
 
-[194T](#194T).      Co‑ordination with Australian Heritage Council—Committee given assessment to Minister
+[194T](#194T).     Co-ordination with Australian Heritage Council—Committee given assessment to Minister
 
         **Subdivision B—Permit system**
 
@@ -1149,19 +1149,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ca)  to provide for the protection and conservation of heritage; and
 
-                     (d)  to promote a co‑operative approach to the protection and management of the environment involving governments, the community, land‑holders and indigenous peoples; and
+                     (d)  to promote a co-operative approach to the protection and management of the environment involving governments, the community, land-holders and indigenous peoples; and
 
-                     (e)  to assist in the co‑operative implementation of Australia’s international environmental responsibilities; and
+                     (e)  to assist in the co-operative implementation of Australia’s international environmental responsibilities; and
 
                       (f)  to recognise the role of indigenous people in the conservation and ecologically sustainable use of Australia’s biodiversity; and
 
-                     (g)  to promote the use of indigenous peoples’ knowledge of biodiversity with the involvement of, and in co‑operation with, the owners of the knowledge.
+                     (g)  to promote the use of indigenous peoples’ knowledge of biodiversity with the involvement of, and in co-operation with, the owners of the knowledge.
 
              (2)  In order to achieve its objects, the Act:
 
                      (a)  recognises an appropriate role for the Commonwealth in relation to the environment by focussing Commonwealth involvement on matters of national environmental significance and on Commonwealth actions and Commonwealth areas; and
 
-                     (b)  strengthens intergovernmental co‑operation, and minimises duplication, through bilateral agreements; and
+                     (b)  strengthens intergovernmental co-operation, and minimises duplication, through bilateral agreements; and
 
                      (c)  provides for the intergovernmental accreditation of environmental assessment and approval processes; and
 
@@ -1173,7 +1173,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  establish an Australian Whale Sanctuary to ensure the conservation of whales and other cetaceans; and
 
-                            (iii)  protect ecosystems by means that include the establishment and management of reserves, the recognition and protection of ecological communities and the promotion of off‑reserve conservation measures; and
+                            (iii)  protect ecosystems by means that include the establishment and management of reserves, the recognition and protection of ecological communities and the promotion of off-reserve conservation measures; and
 
                             (iv)  identify processes that threaten all levels of biodiversity and implement plans to address these processes; and
 
@@ -1185,7 +1185,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  bilateral agreements with States and Territories; and
 
-                             (ii)  conservation agreements with land‑holders; and
+                             (ii)  conservation agreements with land-holders; and
 
                             (iii)  recognising and promoting indigenous peoples’ role in, and knowledge of, the conservation and ecologically sustainable use of biodiversity; and
 
@@ -1195,13 +1195,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following principles are **_principles of ecologically sustainable development_**:
 
-                     (a)  decision‑making processes should effectively integrate both long‑term and short‑term economic, environmental, social and equitable considerations;
+                     (a)  decision-making processes should effectively integrate both long-term and short-term economic, environmental, social and equitable considerations;
 
                      (b)  if there are threats of serious or irreversible environmental damage, lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
 
-                     (c)  the principle of inter‑generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
+                     (c)  the principle of inter-generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
 
-                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision‑making;
+                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision-making;
 
                      (e)  improved valuation, pricing and incentive mechanisms should be promoted.
 
@@ -1267,7 +1267,7 @@ Definitions
 
                               (i)  the Commonwealth or a Commonwealth agency; or
 
-                             (ii)  a State, a self‑governing Territory or an agency of a State or self‑governing Territory; or
+                             (ii)  a State, a self-governing Territory or an agency of a State or self-governing Territory; or
 
                      (b)  an aircraft that is registered in Australia.
 
@@ -1289,7 +1289,7 @@ Note:          A reference to Australia or to an external Terr
 
                               (i)  the Commonwealth or a Commonwealth agency; or
 
-                             (ii)  a State, a self‑governing Territory or an agency of a State or self‑governing Territory; or
+                             (ii)  a State, a self-governing Territory or an agency of a State or self-governing Territory; or
 
                      (b)  a vessel that is registered in Australia; or
 
@@ -1361,7 +1361,7 @@ Note:          Section 211 of the _Native Title Act 1993_ pr
 
              (2)  This Act does not affect the operation of:
 
-                     (a)  the _Aboriginal__Land__Rights (Northern Territory) Act 1976_; or
+                     (a)  the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_; or
 
                      (b)  the _Native Title Act 1993_.
 
@@ -1369,7 +1369,7 @@ Note:          Section 211 of the _Native Title Act 1993_ pr
 
 Aboriginal Land Rights (Northern Territory) Act 1976
 
-          (1A)  Subsection 70(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ does not prevent a person exercising powers or performing functions or duties under Division 4 or 5 of Part 15, or Division 5 of Part 19, of this Act from entering or remaining on land:
+          (1A)  Subsection 70(1) of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_ does not prevent a person exercising powers or performing functions or duties under Division 4 or 5 of Part 15, or Division 5 of Part 19, of this Act from entering or remaining on land:
 
                      (a)  in the Kakadu region or Uluru region; and
 
@@ -1405,7 +1405,7 @@ Approval is not needed to take an action if any of the following declare that th
 
                (a)     a bilateral agreement between the Commonwealth and the State or Territory in which the action is taken;
 
-              (b)     a declaration by the Minister.
+               (b)     a declaration by the Minister.
 
 Also, an action does not need approval if it is taken in accordance with Regional Forest Agreements or it is for a purpose for which, under a zoning plan for a zone made under the _Great Barrier Reef Marine Park Act 1975_, the zone may be used or entered without permission.
 
@@ -1425,7 +1425,7 @@ Also, an action does not need approval if it is taken in accordance with Regiona
 
                      (b)  is likely to have a significant impact on the world heritage values of a declared World Heritage property.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1479,7 +1479,7 @@ Note 2:       The Minister may make an extra declaration to cover pr
 
 Consulting State or Territory before making declaration
 
-             (2)  Before the Minister makes a declaration relating to property wholly or partly within a State or self‑governing Territory, the Minister must inform the appropriate Minister of the State or Territory of the proposal to make the declaration, and give him or her a reasonable opportunity to comment on the proposal.
+             (2)  Before the Minister makes a declaration relating to property wholly or partly within a State or self-governing Territory, the Minister must inform the appropriate Minister of the State or Territory of the proposal to make the declaration, and give him or her a reasonable opportunity to comment on the proposal.
 
 Consultation not required if threat is imminent
 
@@ -1599,7 +1599,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  A constitutional corporation, the Commonwealth or a Commonwealth agency must not take an action that has, will have or is likely to have a significant impact on the National Heritage values of a National Heritage place.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1617,7 +1617,7 @@ Note:          The defendant bears an evidential burden in rel
 
 take an action that has, will have or is likely to have a significant impact on the National Heritage values of a National Heritage place.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1631,7 +1631,7 @@ take an action that has, will have or is likely to have a significant impact on 
 
 that has, will have or is likely to have a significant impact on the National Heritage values of a National Heritage place.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1639,7 +1639,7 @@ that has, will have or is likely to have a significant impact on the National He
 
              (4)  A person must not take an action that has, will have or is likely to have a significant impact on the National Heritage values, to the extent that they are indigenous heritage values, of a National Heritage place.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1649,7 +1649,7 @@ Note:          For **_indigenous heritage value_**, see sectio
 
              (5)  A person must not take an action that has, will have or is likely to have a significant impact on the National Heritage values of a National Heritage place in an area in respect of which Australia has obligations under Article 8 of the Biodiversity Convention.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1839,9 +1839,9 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the action results or will result in a significant impact on the heritage values of a place; and
 
-                   (ba)  the heritage values are National Heritage values of the place; and
+                    (ba)  the heritage values are National Heritage values of the place; and
 
-                   (bb)  the place is a National Heritage place; and
+                    (bb)  the place is a National Heritage place; and
 
                      (c)  the National Heritage place is in an area in respect of which Australia has obligations under Article 8 of the Biodiversity Convention.
 
@@ -1857,9 +1857,9 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the action is likely to have a significant impact on the heritage values of a place; and
 
-                   (ba)  the heritage values are National Heritage values of the place; and
+                    (ba)  the heritage values are National Heritage values of the place; and
 
-                   (bb)  the place is a National Heritage place; and
+                    (bb)  the place is a National Heritage place; and
 
                      (c)  the National Heritage place is in an area in respect of which Australia has obligations under Article 8 of the Biodiversity Convention.
 
@@ -1901,7 +1901,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  is likely to have a significant impact on the ecological character of a declared Ramsar wetland.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -1949,7 +1949,7 @@ Note:          The Minister may make more than one declaration
 
 Consulting State or Territory before making declaration
 
-             (2)  Before the Minister makes a declaration relating to a wetland wholly or partly within a State or self‑governing Territory, the Minister must inform the appropriate Minister of the State or Territory of the proposal to make the declaration, and give him or her a reasonable opportunity to comment on the proposal.
+             (2)  Before the Minister makes a declaration relating to a wetland wholly or partly within a State or self-governing Territory, the Minister must inform the appropriate Minister of the State or Territory of the proposal to make the declaration, and give him or her a reasonable opportunity to comment on the proposal.
 
 Consultation not required if threat is imminent
 
@@ -2045,7 +2045,7 @@ Species that are extinct in the wild
 
                      (b)  is likely to have a significant impact on a listed threatened species included in the extinct in the wild category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2059,7 +2059,7 @@ Critically endangered species
 
                      (b)  is likely to have a significant impact on a listed threatened species included in the critically endangered category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2073,7 +2073,7 @@ Endangered species
 
                      (b)  is likely to have a significant impact on a listed threatened species included in the endangered category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2087,7 +2087,7 @@ Vulnerable species
 
                      (b)  is likely to have a significant impact on a listed threatened species included in the vulnerable category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2101,7 +2101,7 @@ Critically endangered communities
 
                      (b)  is likely to have a significant impact on a listed threatened ecological community included in the critically endangered category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2115,7 +2115,7 @@ Endangered communities
 
                      (b)  is likely to have a significant impact on a listed threatened ecological community included in the endangered category.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2207,7 +2207,7 @@ Note 2:       Section 19 sets out other defences. The defendant be
 
                      (b)  is likely to have a significant impact on a listed migratory species.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2283,7 +2283,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  A constitutional corporation, the Commonwealth or Commonwealth agency must not take a nuclear action that has, will have or is likely to have a significant impact on the environment.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2301,7 +2301,7 @@ Note:          The defendant bears an evidential burden in rel
 
 take a nuclear action that has, will have or is likely to have a significant impact on the environment.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2309,7 +2309,7 @@ take a nuclear action that has, will have or is likely to have a significant imp
 
              (3)  A person must not take in a Territory a nuclear action that has, will have or is likely to have a significant impact on the environment.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2339,15 +2339,15 @@ take a nuclear action that has, will have or is likely to have a significant imp
 
                      (d)  mining or milling uranium ore;
 
-                     (e)  establishing or significantly modifying a large‑scale disposal facility for radioactive waste;
+                     (e)  establishing or significantly modifying a large-scale disposal facility for radioactive waste;
 
-                      (f)  de‑commissioning or rehabilitating any facility or area in which an activity described in paragraph (a), (b), (c), (d) or (e) has been undertaken;
+                      (f)  de-commissioning or rehabilitating any facility or area in which an activity described in paragraph (a), (b), (c), (d) or (e) has been undertaken;
 
                      (g)  any other action prescribed by the regulations.
 
                     <a name="nuclear-instal"></a>**_nuclear installation_** means any of the following:
 
-                     (a)  a nuclear reactor for research or production of nuclear materials for industrial or medical use (including critical and sub‑critical assemblies);
+                     (a)  a nuclear reactor for research or production of nuclear materials for industrial or medical use (including critical and sub-critical assemblies);
 
                      (b)  a plant for preparing or storing fuel for use in a nuclear reactor as described in paragraph (a);
 
@@ -2365,7 +2365,7 @@ Note:          A nuclear waste storage or disposal facility co
 
              (2)  In this Act:
 
-                    <a name="larg-scale-dispos-facil"></a>**_large‑scale disposal facility_** for radioactive waste means, if regulations are made for the purposes of this definition, a facility prescribed by the regulations.
+                    <a name="larg-scale-dispos-facil"></a>**_large-scale disposal facility_** for radioactive waste means, if regulations are made for the purposes of this definition, a facility prescribed by the regulations.
 
 ##### <a id="22A"></a>22A  Offences relating to nuclear actions
 
@@ -2469,7 +2469,7 @@ Actions in Commonwealth marine areas affecting the environment
 
              (1)  A person must not take in a Commonwealth marine area an action that has, will have or is likely to have a significant impact on the environment.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2483,7 +2483,7 @@ Actions outside Commonwealth marine areas affecting those areas
 
                      (b)  is likely to have a significant impact on the environment in a Commonwealth marine area.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2505,7 +2505,7 @@ Fishing in State or Territory waters managed by Commonwealth
 
                              (ii)  is likely to have a significant impact on the environment in those coastal waters.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2543,7 +2543,7 @@ Exception—fishing outside Commonwealth marine areas
 
                      (a)  is fishing (as defined in the _Fisheries Management Act 1991_); and
 
-                     (b)  is permitted under a law of a State or self‑governing Territory.
+                     (b)  is permitted under a law of a State or self-governing Territory.
 
 ##### <a id="24"></a>24  What is a _Commonwealth marine area_?
 
@@ -2725,7 +2725,7 @@ Defence—fishing outside Commonwealth marine areas
 
                      (a)  is fishing (as defined in the _Fisheries Management Act 1991_); and
 
-                     (b)  is permitted under a law of a State or self‑governing Territory.
+                     (b)  is permitted under a law of a State or self-governing Territory.
 
 Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
 
@@ -2781,7 +2781,7 @@ Actions in Great Barrier Reef Marine Park affecting the environment
 
                      (a)  the person takes an action; and
 
-                     (b)  the action is taken in the Great Barrier Reef Marine Park; and
+                     (b)  the action is taken in the Great   Barrier Reef Marine Park; and
 
                      (c)  the action results or will result in a significant impact on the environment.
 
@@ -2797,7 +2797,7 @@ Actions in Great Barrier Reef Marine Park likely to affect the environment
 
                      (a)  the person takes an action; and
 
-                     (b)  the action is taken in the Great Barrier Reef Marine Park; and
+                     (b)  the action is taken in the Great   Barrier Reef Marine Park; and
 
                      (c)  the action is likely to have a significant impact on the environment.
 
@@ -2813,11 +2813,11 @@ Actions outside Great Barrier Reef Marine Park affecting environment in the Mari
 
                      (a)  the person takes an action; and
 
-                     (b)  the action is taken outside the Great Barrier Reef Marine Park but in the Australian jurisdiction; and
+                     (b)  the action is taken outside the Great   Barrier Reef Marine Park but in the Australian jurisdiction; and
 
                      (c)  the action results in or will result in a significant impact on the environment in an area; and
 
-                     (d)  the area is the Great Barrier Reef Marine Park.
+                     (d)  the area is the Great Barrier Reef  Marine Park.
 
                     Penalty:  Imprisonment for 7 years or 420 penalty units, or both.
 
@@ -2831,11 +2831,11 @@ Actions outside Great Barrier Reef Marine Park likely to affect environment in t
 
                      (a)  the person takes an action; and
 
-                     (b)  the action is taken outside the Great Barrier Reef Marine Park but in the Australian jurisdiction; and
+                     (b)  the action is taken outside the Great   Barrier Reef Marine Park but in the Australian jurisdiction; and
 
                      (c)  the action is likely to have a significant impact on the environment in an area; and
 
-                     (d)  the area is the Great Barrier Reef Marine Park.
+                     (d)  the area is the Great Barrier Reef  Marine Park.
 
                     Penalty:  Imprisonment for 7 years or 420 penalty units, or both.
 
@@ -2865,7 +2865,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  A person must not take an action that is prescribed by the regulations for the purposes of this subsection.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—5,000 penalty units;
 
@@ -2881,19 +2881,19 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  the action is an action described in subsection 160(2) (which describes actions whose authorisation is subject to a special environmental assessment process).
 
-             (3)  Before the Governor‑General makes regulations prescribing an action for the purposes of subsection (1), the Minister (the **_Environment Minister_**) must:
+             (3)  Before the Governor-General makes regulations prescribing an action for the purposes of subsection (1), the Minister (the **_Environment Minister_**) must:
 
-                     (a)  inform the appropriate Minister of each State and self‑governing Territory of the proposal to prescribe:
+                     (a)  inform the appropriate Minister of each State and self-governing Territory of the proposal to prescribe:
 
                               (i)  the action; and
 
                              (ii)  a thing as matter protected by this section in relation to the action; and
 
-                     (b)  invite the appropriate Minister of each State and self‑governing Territory to give the Environment Minister comments on the proposal within a specified period of at least 28 days; and
+                     (b)  invite the appropriate Minister of each State and self-governing Territory to give the Environment Minister comments on the proposal within a specified period of at least 28 days; and
 
                      (c)  consider the comments (if any); and
 
-                     (d)  if comments have been given as described in paragraph (b)—take all reasonable steps to consult the appropriate Minister of each State and self‑governing Territory with a view to agreeing on:
+                     (d)  if comments have been given as described in paragraph (b)—take all reasonable steps to consult the appropriate Minister of each State and self-governing Territory with a view to agreeing on:
 
                               (i)  the action to be prescribed; and
 
@@ -3091,7 +3091,7 @@ Actions on Commonwealth land
 
              (1)  A person must not take on Commonwealth land an action that has, will have or is likely to have a significant impact on the environment.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—1,000 penalty units;
 
@@ -3105,7 +3105,7 @@ Actions outside Commonwealth land affecting that land
 
                      (b)  is likely to have a significant impact on the environment on Commonwealth land.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—1,000 penalty units;
 
@@ -3227,7 +3227,7 @@ Note 3:       Section 28 regulates actions by the Commonwealth or 
 
              (1)  A person must not take outside the Australian jurisdiction an action that has, will have or is likely to have a significant impact on the environment in a Commonwealth Heritage place outside the Australian jurisdiction.
 
-                    Civil Penalty:          
+                    Civil Penalty:           
 
                      (a)  for an individual—1,000 penalty units;
 
@@ -3291,7 +3291,7 @@ Note 2:       An executive officer of a body corporate convicted of 
 
              (4)  Section 14.1 (standard geographical jurisdiction) of the _Criminal Code_ does not apply to an offence created by this section.
 
-Note:          Section 5 affects the extra‑territorial operation of this section.
+Note:          Section 5 affects the extra-territorial operation of this section.
 
              (5)  Subsections (1) and (2) do not apply to an action if:
 
@@ -3311,7 +3311,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  The Commonwealth or a Commonwealth agency must not take inside or outside the Australian jurisdiction an action that has, will have or is likely to have a significant impact on the environment inside or outside the Australian jurisdiction.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for a Commonwealth agency that is an individual—1,000 penalty units;
 
@@ -3411,7 +3411,7 @@ Exception to civil penalties
 
              (1)  A person may take an action described in a provision of Part 3 without an approval under Part 9 for the purposes of the provision if:
 
-                     (a)  the action is taken in a State or self‑governing Territory; and
+                     (a)  the action is taken in a State or self-governing Territory; and
 
                      (b)  the action is one of a class of actions declared by a bilateral agreement between the Commonwealth and the State or Territory not to require approval under Part 9 for the purposes of the provision (because the action is approved in accordance with a management arrangement or authorisation process that is a bilaterally accredited management arrangement or a bilaterally accredited authorisation process for the purposes of the bilateral agreement); and
 
@@ -3429,27 +3429,27 @@ Note 1:       Section 46 deals with bilateral agreements making de
 
 Note 2:       Division 3 of Part 5 explains how the operation of a bilateral agreement may be ended or suspended. Also, under section 49, bilateral agreements do not operate in relation to actions in Commonwealth areas or in the Great Barrier Reef Marine Park, or actions taken by the Commonwealth or a Commonwealth agency, unless they expressly provide that they do.
 
-             (2)  If the action is to be taken in 2 or more States or self‑governing Territories, this section does not operate unless it operates in relation to each of those States or Territories.
+             (2)  If the action is to be taken in 2 or more States or self-governing Territories, this section does not operate unless it operates in relation to each of those States or Territories.
 
 ##### <a id="30"></a>30  Extended operation in State and Northern Territory waters
 
              (1)  Section 29 applies to an action taken on, over or under the seabed vested in a State by section 4 of the _Coastal Waters (State Title) Act 1980_ in the same way that it applies to an action taken in the State.
 
-             (2)  Section 29 applies to an action taken on, over or under the seabed vested in the Northern Territory by section 4 of the _Coastal Waters (Northern Territory Title) Act 1980_ in the same way that it applies to an action taken in the Territory.
+             (2)  Section 29 applies to an action taken on, over or under the seabed vested in the Northern Territory by section 4 of the _Coastal Waters (__Northern Territory__Title) Act 1980_ in the same way that it applies to an action taken in the Territory.
 
-             (3)  Section 29 applies to an action taken in a Commonwealth marine area to which a law of a State or self‑governing Territory is applied by a Commonwealth law or by an agreement or arrangement under a Commonwealth law (other than this Act) in the same way as it applies to an action in the State or Territory, if the provision of the bilateral agreement has effect in relation to the area.
+             (3)  Section 29 applies to an action taken in a Commonwealth marine area to which a law of a State or self-governing Territory is applied by a Commonwealth law or by an agreement or arrangement under a Commonwealth law (other than this Act) in the same way as it applies to an action in the State or Territory, if the provision of the bilateral agreement has effect in relation to the area.
 
 Note:          A provision of a bilateral agreement only has effect in relation to a Commonwealth area or the Great Barrier Reef Marine Park if the agreement expressly provides that it does. See section 49.
 
-##### <a id="31"></a>31  Extended operation in non‑self‑governing Territories
+##### <a id="31"></a>31  Extended operation in non-self-governing Territories
 
                    A person may take an action described in a provision of Part 3 without an approval under Part 9 for the purposes of the provision if:
 
-                     (a)  the action is taken in a Territory (the **_action_****_Territory_**) that is not a self‑governing Territory; and
+                     (a)  the action is taken in a Territory (the **_action_****_Territory_**) that is not a self-governing Territory; and
 
-                     (b)  an Act providing for the government of the action Territory provides that some or all of the law of a State or self‑governing Territory is in force in the action Territory as a law of the Territory; and
+                     (b)  an Act providing for the government of the action Territory provides that some or all of the law of a State or self-governing Territory is in force in the action Territory as a law of the Territory; and
 
-                     (c)  the action is one of a class of actions declared by a bilateral agreement between the Commonwealth and the State or self‑governing Territory not to require approval under Part 9 for the purposes of the provision of Part 3 (because the action is approved or taken in accordance with a bilaterally accredited management arrangement or a bilaterally accredited authorisation process); and
+                     (c)  the action is one of a class of actions declared by a bilateral agreement between the Commonwealth and the State or self-governing Territory not to require approval under Part 9 for the purposes of the provision of Part 3 (because the action is approved or taken in accordance with a bilaterally accredited management arrangement or a bilaterally accredited authorisation process); and
 
                      (d)  the bilateral agreement specifies that the provision of the agreement making the declaration has effect in relation to actions in the action Territory; and
 
@@ -3457,9 +3457,9 @@ Note:          A provision of a bilateral agreement only has e
 
                       (f)  either of the following applies:
 
-                              (i)  in the case of a bilaterally accredited management arrangement—the management arrangement is in force under a law of the State or self‑governing Territory identified in or under the bilateral agreement;
+                              (i)  in the case of a bilaterally accredited management arrangement—the management arrangement is in force under a law of the State or self-governing Territory identified in or under the bilateral agreement;
 
-                             (ii)  in the case of a bilaterally accredited authorisation process—the authorisation process is set out in a law of the State or self‑governing Territory, and the law and the authorisation process are identified in or under the bilateral agreement; and
+                             (ii)  in the case of a bilaterally accredited authorisation process—the authorisation process is set out in a law of the State or self-governing Territory, and the law and the authorisation process are identified in or under the bilateral agreement; and
 
                      (g)  the action is taken in accordance with the bilaterally accredited management arrangement or bilaterally accredited authorisation process.
 
@@ -4488,7 +4488,7 @@ Regulations may amend list of regions
 
 Prerequisites for prescribing RFA regions
 
-             (3)  Before the Governor‑General makes regulations amending subsection (1), the Minister must be satisfied that the proposed regulations, in conjunction with this Subdivision, will not give preference (within the meaning of section 99 of the Constitution) to one State or part of a State over another State or part of a State.
+             (3)  Before the Governor-General makes regulations amending subsection (1), the Minister must be satisfied that the proposed regulations, in conjunction with this Subdivision, will not give preference (within the meaning of section 99 of the Constitution) to one State or part of a State over another State or part of a State.
 
 #### Subdivision C—Limits on application
 
@@ -4536,7 +4536,7 @@ Note:          If a renewal or extension of a specific environ
 
              (2)  In this Act:
 
-                    <a name="environment-authoris"></a>**_environmental authorisation_** means an authorisation under a law of the Commonwealth, a State or a self‑governing Territory that has either or both of the following objects (whether express or implied):
+                    <a name="environment-authoris"></a>**_environmental authorisation_** means an authorisation under a law of the Commonwealth, a State or a self-governing Territory that has either or both of the following objects (whether express or implied):
 
                      (a)  to protect the environment; 
 
@@ -4580,7 +4580,7 @@ Note:          In that case, section 43A applies instead.
 
 ##### <a id="44"></a>44  Object of this Part
 
-                   The object of this Part is to provide for agreements between the Commonwealth and a State or self‑governing Territory that:
+                   The object of this Part is to provide for agreements between the Commonwealth and a State or self-governing Territory that:
 
                      (a)  protect the environment; and
 
@@ -4594,7 +4594,7 @@ Note:          In that case, section 43A applies instead.
 
 #### Subdivision A—Power to make bilateral agreements
 
-##### <a id="45"></a>45  Minister may make agreement
+##### <a id="45"></a>45  Minister may make agreement
 
 Making bilateral agreement
 
@@ -4606,7 +4606,7 @@ Note 2:       Subdivision B sets out some prerequisites for entering
 
 What is a **bilateral agreement**?
 
-             (2)  A **_bilateral agreement_** is a written agreement between the Commonwealth and a State or a self‑governing Territory that:
+             (2)  A **_bilateral agreement_** is a written agreement between the Commonwealth and a State or a self-governing Territory that:
 
                      (a)  provides for one or more of the following:
 
@@ -4622,7 +4622,7 @@ What is a **bilateral agreement**?
 
 Publishing notice of intention to enter into agreement
 
-             (3)  As soon as practicable after starting the process of developing a draft bilateral agreement with a State or self‑governing Territory, the Minister must publish, in accordance with the regulations (if any), notice of his or her intention to develop a draft bilateral agreement with the State or Territory.
+             (3)  As soon as practicable after starting the process of developing a draft bilateral agreement with a State or self-governing Territory, the Minister must publish, in accordance with the regulations (if any), notice of his or her intention to develop a draft bilateral agreement with the State or Territory.
 
 Publishing bilateral agreements and related material
 
@@ -4640,7 +4640,7 @@ Declaration of actions not needing approval
 
              (1)  A bilateral agreement may declare that actions in a class of actions specified in the agreement wholly or partly by reference to the fact that their taking has been approved by:
 
-                     (a)  the State or self‑governing Territory that is party to the agreement; or
+                     (a)  the State or self-governing Territory that is party to the agreement; or
 
                      (b)  an agency of the State or Territory;
 
@@ -4664,7 +4664,7 @@ What is a **bilaterally accredited authorisation process**?
 
 Accrediting management arrangement or authorisation process
 
-             (3)  For the purposes of subsection (2) or (2A), the Minister may accredit in writing a management arrangement or an authorisation process for the purposes of a bilateral agreement with a State or self‑governing Territory. However, the Minister may do so only if the Minister is satisfied that:
+             (3)  For the purposes of subsection (2) or (2A), the Minister may accredit in writing a management arrangement or an authorisation process for the purposes of a bilateral agreement with a State or self-governing Territory. However, the Minister may do so only if the Minister is satisfied that:
 
                      (a)  the management arrangement or authorisation process and the law under which it is in force, or in which it is set out, meet the criteria prescribed by the regulations; and
 
@@ -4752,7 +4752,7 @@ the Minister must not give preference (within the meaning of section 99 of the
 
 Requirements for bilateral agreement making declaration
 
-           (10)  If the declaration is for actions approved in accordance with a bilaterally accredited management arrangement, the declaration does not have effect for the purposes of this Act unless the bilateral agreement requires the State or self‑governing Territory that is party to the agreement and agencies of the State or Territory:
+           (10)  If the declaration is for actions approved in accordance with a bilaterally accredited management arrangement, the declaration does not have effect for the purposes of this Act unless the bilateral agreement requires the State or self-governing Territory that is party to the agreement and agencies of the State or Territory:
 
                      (a)  to act in accordance with the management arrangement; and
 
@@ -4764,7 +4764,7 @@ Declaration of actions that do not need further assessment
 
              (1)  A bilateral agreement may declare that actions in a class of actions identified wholly or partly by reference to the fact that they have been assessed in a specified manner need not be assessed under Part 8.
 
-Note:          A declaration described in subsection (1) can accredit practices, procedures, systems of the State or self‑governing Territory for environmental assessment.
+Note:          A declaration described in subsection (1) can accredit practices, procedures, systems of the State or self-governing Territory for environmental assessment.
 
 Prerequisite to declaration
 
@@ -4832,7 +4832,7 @@ Relationship with sections 46 and 47
 
 Application
 
-             (1)  A bilateral agreement with a State or self‑governing Territory including a declaration that is described in section 46 or 47 and covers actions described in subsection (2) or (3) does not have effect for the purposes of this Act unless the agreement also includes the undertaking required by subsection (2) or (3) (as appropriate).
+             (1)  A bilateral agreement with a State or self-governing Territory including a declaration that is described in section 46 or 47 and covers actions described in subsection (2) or (3) does not have effect for the purposes of this Act unless the agreement also includes the undertaking required by subsection (2) or (3) (as appropriate).
 
 Agreements including declarations about approvals
 
@@ -4860,7 +4860,7 @@ Agreements including declarations about assessment
 
 Auditing
 
-             (4)  A bilateral agreement does not have effect for the purposes of this Act unless it includes a provision recognising that, under the _Auditor‑General Act 1997_, the Auditor‑General may audit the operations of the Commonwealth public sector (as defined in section 18 of that Act) relating to the bilateral agreement.
+             (4)  A bilateral agreement does not have effect for the purposes of this Act unless it includes a provision recognising that, under the _Auditor-General Act 1997_, the Auditor-General may audit the operations of the Commonwealth public sector (as defined in section 18 of that Act) relating to the bilateral agreement.
 
 ##### <a id="49"></a>49  Certain limits on scope of bilateral agreements
 
@@ -4868,9 +4868,9 @@ Auditing
 
           (1A)  A provision of a bilateral agreement does not have any effect in relation to an action in the Great Barrier Reef Marine Park, unless the agreement expressly provides otherwise.
 
-             (2)  A provision of a bilateral agreement does not have any effect in relation to an action in Booderee National Park, Kakadu National Park or Ulu<u>r</u>u‑Kata Tju<u>t</u>a National Park.
+             (2)  A provision of a bilateral agreement does not have any effect in relation to an action in Booderee National Park, Kakadu National   Park or Ulu<u>r</u>u-Kata Tju<u>t</u>a National Park.
 
-             (3)  **_Booderee_****_National Park_** is the Commonwealth reserve (as it exists from time to time) to which the name Booderee National Park was given by Proclamation continued in force by the _Environmental Reform (Consequential Provisions) Act 1999_.
+             (3)  **_Booderee_****_National   Park_** is the Commonwealth reserve (as it exists from time to time) to which the name Booderee National Park was given by Proclamation continued in force by the _Environmental Reform (Consequential Provisions) Act 1999_.
 
 #### Subdivision B—Prerequisites for making bilateral agreements
 
@@ -5158,7 +5158,7 @@ Publishing notice and reasons
 
                      (a)  the State or Territory that is party to a bilateral agreement is not complying with it, or will not comply with it; and
 
-                     (b)  as a result of the non‑compliance, a significant impact is occurring or imminent on any matter protected by a provision of Part 3 that is relevant to an action in a class of actions to which the agreement relates.
+                     (b)  as a result of the non-compliance, a significant impact is occurring or imminent on any matter protected by a provision of Part 3 that is relevant to an action in a class of actions to which the agreement relates.
 
              (2)  The Minister may suspend the effect of the agreement or specified provisions of the agreement for the purposes of this Act or specified provisions of this Act, by notice:
 
@@ -5174,7 +5174,7 @@ Publishing notice and reasons
 
              (4)  Subsection (3) has effect subject to section 62.
 
-             (5)  As soon as practicable after the Minister (the **_Environment Minister_**) gives the appropriate Minister of the State or Territory (the **_State or Territory Minister_**) notice of the suspension, the Environment Minister must consult the State or Territory Minister about the non‑compliance.
+             (5)  As soon as practicable after the Minister (the **_Environment Minister_**) gives the appropriate Minister of the State or Territory (the **_State or Territory Minister_**) notice of the suspension, the Environment Minister must consult the State or Territory Minister about the non-compliance.
 
              (6)  To avoid doubt, this section has effect despite sections 58 and 59.
 
@@ -5214,7 +5214,7 @@ However, the Environment Minister must not revoke the notice of cancellation aft
 
 Minister must give notice of cancellation or suspension
 
-             (1)  The Minister must give the appropriate Minister of a State or self‑governing Territory that is party to a bilateral agreement a notice under subsection (2) or (3) if the appropriate Minister has requested a notice under that subsection in accordance with the agreement.
+             (1)  The Minister must give the appropriate Minister of a State or self-governing Territory that is party to a bilateral agreement a notice under subsection (2) or (3) if the appropriate Minister has requested a notice under that subsection in accordance with the agreement.
 
 Notice of suspension
 
@@ -5290,19 +5290,19 @@ A person proposing to take an action, or a government body aware of the proposal
 
                (a)     whether his or her approval is needed to take the action; and
 
-              (b)     how to assess the impacts of the action to be able to make an informed decision whether or not to approve the action.
+               (b)     how to assess the impacts of the action to be able to make an informed decision whether or not to approve the action.
 
 An assessment may be done using:
 
                (a)     a process laid down under a bilateral agreement; or
 
-              (b)     a process specified in a declaration by the Minister; or
+               (b)     a process specified in a declaration by the Minister; or
 
                (c)     a process accredited by the Minister; or
 
              (ca)     information included in the referral; or
 
-              (d)     preliminary documentation provided by the proponent; or
+               (d)     preliminary documentation provided by the proponent; or
 
                (e)     a public environment report; or
 
@@ -5374,9 +5374,9 @@ Note:          A person proposing to take an action under a su
 
 ##### <a id="69"></a>69  State or Territory may refer proposal to Minister
 
-             (1)  A State, self‑governing Territory or agency of a State or self‑governing Territory that is aware of a proposal by a person to take an action may refer the proposal to the Minister for a decision whether or not the action is a controlled action, if the State, Territory or agency has administrative responsibilities relating to the action.
+             (1)  A State, self-governing Territory or agency of a State or self-governing Territory that is aware of a proposal by a person to take an action may refer the proposal to the Minister for a decision whether or not the action is a controlled action, if the State, Territory or agency has administrative responsibilities relating to the action.
 
-             (2)  This section does not apply in relation to a proposal by a State, self‑governing Territory or agency of a State or self‑governing Territory to take an action.
+             (2)  This section does not apply in relation to a proposal by a State, self-governing Territory or agency of a State or self-governing Territory to take an action.
 
 Note:          Section 68 applies instead.
 
@@ -5386,7 +5386,7 @@ Note:          Section 68 applies instead.
 
                      (a)  the person; or
 
-                     (b)  a State, self‑governing Territory or agency of a State or self‑governing Territory that the Minister believes has administrative responsibilities relating to the action;
+                     (b)  a State, self-governing Territory or agency of a State or self-governing Territory that the Minister believes has administrative responsibilities relating to the action;
 
 to refer the proposal to the Minister within 15 business days or a longer period agreed by the Minister and the requested person, State, Territory or agency (as appropriate).
 
@@ -5482,7 +5482,7 @@ Note:          Sections 23, 24A, 24B, 24C, 26, 27A, 27B, 27C
 
 Inviting comments from appropriate State or Territory Minister
 
-             (2)  As soon as practicable after receiving, from the person proposing to take an action or from a Commonwealth agency, a referral of a proposal to take an action in a State or self‑governing Territory, the Environment Minister must, if he or she thinks the action may have an impact on a matter protected by a provision of Division 1 of Part 3 (about matters of national environmental significance):
+             (2)  As soon as practicable after receiving, from the person proposing to take an action or from a Commonwealth agency, a referral of a proposal to take an action in a State or self-governing Territory, the Environment Minister must, if he or she thinks the action may have an impact on a matter protected by a provision of Division 1 of Part 3 (about matters of national environmental significance):
 
                      (a)  inform the appropriate Minister of the State or Territory; and
 
@@ -5492,7 +5492,7 @@ Inviting comments from appropriate State or Territory Minister
 
                              (ii)  information relevant to deciding which approach would be appropriate to assess the relevant impacts of the action (including if the action could be assessed under a bilateral agreement).
 
-Note:          Subsection (2) also applies in relation to actions to be taken in an area offshore from a State or the Northern Territory. See section 157.
+Note:          Subsection (2) also applies in relation to actions to be taken in an area offshore from a State or the Northern   Territory. See section 157.
 
 Inviting public comment
 
@@ -5504,11 +5504,11 @@ Inviting public comment
 
 Note:          If the action is also the subject of a permit application under section 200, 215, 237 or 257 and the application is made at the same time as the referral, the referral and invitation for comments that must be published under this subsection may be published together with the application and invitation for comments that must be published under section 200, 215, 237 or 257.
 
-Non‑disclosure of commercial‑in‑confidence information
+Non-disclosure of commercial-in-confidence information
 
-          (3A)  The Environment Minister may refuse to cause to be published on the internet, under subsection (3), so much of the information included in a referral as the Minister is satisfied is commercial‑in‑confidence.
+          (3A)  The Environment Minister may refuse to cause to be published on the internet, under subsection (3), so much of the information included in a referral as the Minister is satisfied is commercial-in-confidence.
 
-          (3B)  The Environment Minister must not be satisfied that particular information included in a referral is commercial‑in‑confidence unless a person demonstrates to the Minister that:
+          (3B)  The Environment Minister must not be satisfied that particular information included in a referral is commercial-in-confidence unless a person demonstrates to the Minister that:
 
                      (a)  release of the information would cause competitive detriment to the person; and
 
@@ -5806,7 +5806,7 @@ the Minister may request the person proposing to take the action to provide spec
 
              (3)  If the Minister believes on reasonable grounds that the information given to the Minister in relation to the action is not enough to allow the Minister to make an informed decision on the approach to be used for assessment of the relevant impacts of the action, the Minister may request the person proposing to take the action to provide specified information relevant to making the decision.
 
-             (4)  Without limiting subsection (3), if the action is to be taken in a State or self‑governing Territory, the Minister may request the person proposing to take the action to provide information about:
+             (4)  Without limiting subsection (3), if the action is to be taken in a State or self-governing Territory, the Minister may request the person proposing to take the action to provide information about:
 
                      (a)  whether the relevant impacts of the action have been, or are being, assessed by the State or Territory; and
 
@@ -5826,7 +5826,7 @@ Giving notice
 
                              (ii)  if the Minister has designated as proponent of the action a person who does not propose to take the action—that person; and
 
-                            (iii)  if the Minister decided that the action is a controlled action because of Division 1 of Part 3 (which deals with matters of national environmental significance)—the appropriate Minister of each State or self‑governing Territory in which the action is to be taken; and
+                            (iii)  if the Minister decided that the action is a controlled action because of Division 1 of Part 3 (which deals with matters of national environmental significance)—the appropriate Minister of each State or self-governing Territory in which the action is to be taken; and
 
                      (b)  publish notice of the decision in accordance with the regulations.
 
@@ -5864,7 +5864,7 @@ Note:          The Minister may decide that a provision of Par
 
              (2)  A person must not take an action, that is the subject of a notice that includes a particular manner under subsection (1), in a way that is inconsistent with the manner specified in the notice.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—1,000 penalty units, or such lower amount as is prescribed by the regulations;
 
@@ -5900,11 +5900,11 @@ Limited power to vary or substitute decisions
 
                              (ii)  the Minister is satisfied that the action is not being, or will not be, taken in the manner identified; or
 
-                   (ba)  the following requirements are met:
+                    (ba)  the following requirements are met:
 
                               (i)  the first decision was that the action was not a controlled action because of a provision of a bilateral agreement and a management arrangement or an authorisation process that is a bilaterally accredited management arrangement or a bilaterally accredited authorisation process for the purposes of the agreement;
 
-                             (ii)  the provision of the agreement no longer operates in relation to the action, or the management arrangement or authorisation process is no longer in force under, or set out in, a law of a State or a self‑governing Territory identified in or under the agreement; or
+                             (ii)  the provision of the agreement no longer operates in relation to the action, or the management arrangement or authorisation process is no longer in force under, or set out in, a law of a State or a self-governing Territory identified in or under the agreement; or
 
                      (c)  the following requirements are met:
 
@@ -5922,7 +5922,7 @@ Limited power to vary or substitute decisions
 
 Note 1:       Subsection 75(1) provides for decisions about whether an action is a controlled action and what the controlling provisions for the action are.
 
-Note 2:       A person (other than a Minister of a State or self‑governing Territory) may request the Minister to reconsider a decision made under subsection 75(1) about an action on the basis of a matter referred to in any of paragraphs 78(1)(a) to (ca). See section 78A.
+Note 2:       A person (other than a Minister of a State or self-governing Territory) may request the Minister to reconsider a decision made under subsection 75(1) about an action on the basis of a matter referred to in any of paragraphs 78(1)(a) to (ca). See section 78A.
 
 Note 3:       If the Minister decides to revoke a decision under subsection (1) and substitute a new decision for it, the Minister is not required to carry out the processes referred to in sections 73 and 74 again before making the new decision.
 
@@ -5970,9 +5970,9 @@ Effect of change of designated proponent
 
 ##### <a id="78A"></a>78A  Request for reconsideration of decision by person other than State or Territory Minister
 
-             (1)  A person (other than a Minister of a State or self‑governing Territory) may request the Minister to reconsider a decision made under subsection 75(1) about an action on the basis of a matter referred to in any of paragraphs 78(1)(a) to (ca).
+             (1)  A person (other than a Minister of a State or self-governing Territory) may request the Minister to reconsider a decision made under subsection 75(1) about an action on the basis of a matter referred to in any of paragraphs 78(1)(a) to (ca).
 
-Note:          Section 79 deals with requests for reconsideration by a Minister of a State or self‑governing Territory.
+Note:          Section 79 deals with requests for reconsideration by a Minister of a State or self-governing Territory.
 
              (2)  A request under subsection (1) must:
 
@@ -6028,7 +6028,7 @@ Inviting other Commonwealth Ministers to provide information
 
 Inviting comments from appropriate State or Territory Minister
 
-             (5)  If the request relates to an action proposed to be taken in a State or self‑governing Territory and the Environment Minister thinks the action may have an impact on a matter protected by a provision of Division 1 of Part 3 (about matters of national environmental significance), the Environment Minister must:
+             (5)  If the request relates to an action proposed to be taken in a State or self-governing Territory and the Environment Minister thinks the action may have an impact on a matter protected by a provision of Division 1 of Part 3 (about matters of national environmental significance), the Environment Minister must:
 
                      (a)  inform the appropriate Minister of the State or Territory of the request; and
 
@@ -6088,7 +6088,7 @@ The Minister must do so as soon as practicable, and in any case within 28 days a
 
 ##### <a id="79"></a>79  Reconsideration of decision on request by a State or Territory
 
-             (1)  This section applies if the Minister (the **_Environment Minister_**) has made a decision under subsection 75(1) about whether a provision of Division 1 of Part 3 is a controlling provision for an action proposed to be taken in a State or a self‑governing Territory.
+             (1)  This section applies if the Minister (the **_Environment Minister_**) has made a decision under subsection 75(1) about whether a provision of Division 1 of Part 3 is a controlling provision for an action proposed to be taken in a State or a self-governing Territory.
 
 Note 1:       Division 1 of Part 3 deals with requirements for approvals for actions involving matters of national environmental significance.
 
@@ -6132,11 +6132,11 @@ For actions that are to be assessed under this Part, the Minister must choose on
 
              (aa)     an assessment on referral information (see Division 3A);
 
-              (b)     an assessment on preliminary documentation (see Division 4);
+               (b)     an assessment on preliminary documentation (see Division 4);
 
                (c)     a public environment report (see Division 5);
 
-              (d)     an environmental impact statement (see Division 6);
+               (d)     an environmental impact statement (see Division 6);
 
                (e)     a public inquiry (see Division 7).
 
@@ -6198,7 +6198,7 @@ on the matter.
 
              (1)  This Part does not apply in relation to an action if:
 
-                     (a)  the action is to be taken in a State or self‑governing Territory; and
+                     (a)  the action is to be taken in a State or self-governing Territory; and
 
                      (b)  a bilateral agreement between the Commonwealth and the State or Territory declares that actions in a class that includes the action need not be assessed under this Part; and
 
@@ -6212,7 +6212,7 @@ Note 2A:    An action will be in a class of actions declared not to need a
 
 Note 3:       Division 3 of Part 5 explains how the operation of a bilateral agreement may be ended or suspended. Also, under section 49, bilateral agreements do not operate in relation to actions in Commonwealth areas or in the Great Barrier Reef Marine Park, or actions taken by the Commonwealth or a Commonwealth agency, unless they expressly provide that they do.
 
-             (2)  If the action is to be taken in 2 or more States or self‑governing Territories, this section does not operate unless it operates in relation to each of those States or Territories.
+             (2)  If the action is to be taken in 2 or more States or self-governing Territories, this section does not operate unless it operates in relation to each of those States or Territories.
 
 ##### <a id="84"></a>84  This Part does not apply if action covered by declaration
 
@@ -6288,11 +6288,11 @@ The Minister must choose one of the following ways of assessing the relevant imp
 
              (aa)     an assessment on referral information;
 
-              (b)     an assessment on preliminary documentation;
+               (b)     an assessment on preliminary documentation;
 
                (c)     a public environment report;
 
-              (d)     an environmental impact statement;
+               (d)     an environmental impact statement;
 
                (e)     a public inquiry.
 
@@ -6336,7 +6336,7 @@ Accredited assessment process
 
              (4)  The Minister may decide on an assessment by an accredited assessment process only if the Minister is satisfied that:
 
-                     (a)  the process is to be carried out under a law of the Commonwealth, a State or a self‑governing Territory; and
+                     (a)  the process is to be carried out under a law of the Commonwealth, a State or a self-governing Territory; and
 
                      (b)  the process and the law meet the standards (if any) prescribed by the regulations; and
 
@@ -6384,7 +6384,7 @@ Running of time may be suspended by agreement
 
              (1)  If the Minister believes on reasonable grounds that the information given to the Minister in relation to an action is not enough to allow the Minister to make an informed decision on the approach to be used for assessment of the relevant impacts of the action, the Minister may request the designated proponent to provide specified information relevant to making the decision.
 
-             (2)  Without limiting subsection (1), if the action is to be taken in a State or self‑governing Territory, the Minister may request the designated proponent of the action to provide information about:
+             (2)  Without limiting subsection (1), if the action is to be taken in a State or self-governing Territory, the Minister may request the designated proponent of the action to provide information about:
 
                      (a)  whether the relevant impacts of the action have been, or are being, assessed by the State or Territory; and
 
@@ -6432,7 +6432,7 @@ Effect of revocation and substitution
 
                             (ia)  the designated proponent of the action (if the designated proponent is not the person proposing to take the action); and
 
-                             (ii)  if the action is to be taken in a State or self‑governing Territory and a controlling provision for the action is in Division 1 of Part 3 (which deals with matters of national environmental significance)—the appropriate Minister of the State or Territory; and
+                             (ii)  if the action is to be taken in a State or self-governing Territory and a controlling provision for the action is in Division 1 of Part 3 (which deals with matters of national environmental significance)—the appropriate Minister of the State or Territory; and
 
                      (b)  publish notice of the decision in accordance with the regulations.
 
@@ -6472,9 +6472,9 @@ Note 2:       Subparagraph (1)(a)(ii) also applies to actions to b
 
                              (ii)  a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
 
-                     (b)  the Secretary is satisfied is commercial‑in‑confidence.
+                     (b)  the Secretary is satisfied is commercial-in-confidence.
 
-          (3B)  The Secretary must not be satisfied that a part of the draft recommendation report is commercial‑in‑confidence unless a person demonstrates to the Secretary that:
+          (3B)  The Secretary must not be satisfied that a part of the draft recommendation report is commercial-in-confidence unless a person demonstrates to the Secretary that:
 
                      (a)  release of the information in that part would cause competitive detriment to the person; and
 
@@ -6650,7 +6650,7 @@ Note:          See also subsection 96A(3).
 
              (3)  Tailored guidelines may also provide for the draft report to include information about other certain and likely impacts of the action if:
 
-                     (a)  the action is to be taken in a State or self‑governing Territory; and
+                     (a)  the action is to be taken in a State or self-governing Territory; and
 
                      (b)  the appropriate Minister of the State or Territory has asked the Minister administering this section to ensure that the draft report includes information about those other impacts to help the State or Territory, or an agency of the State or Territory, make decisions about the action; and
 
@@ -6694,7 +6694,7 @@ Designated proponent’s obligations
 
                              (ii)  if the PER guidelines are tailored guidelines that require the draft report to include information about other impacts—those other impacts; and
 
-                   (ab)  give the draft report to the Minister; and
+                    (ab)  give the draft report to the Minister; and
 
                      (b)  obtain the Minister’s approval for publication of the draft report; and
 
@@ -6810,7 +6810,7 @@ Note:          See also subsection 101A(3).
 
              (3)  Tailored guidelines may also provide for the draft statement to include information about other certain and likely impacts of an action if:
 
-                     (a)  the action is to be taken in a State or self‑governing Territory; and
+                     (a)  the action is to be taken in a State or self-governing Territory; and
 
                      (b)  the appropriate Minister of the State or Territory has asked the Minister administering this section to ensure that the draft statement includes information about those other impacts to help the State or Territory, or an agency of the State or Territory, make decisions about the action; and
 
@@ -6854,7 +6854,7 @@ Designated proponent’s obligations
 
                              (ii)  if the EIS guidelines are tailored guidelines that require the draft statement to include information about other impacts—those other impacts; and
 
-                   (ab)  give the draft statement to the Minister; and
+                    (ab)  give the draft statement to the Minister; and
 
                      (b)  obtain the Minister’s approval for publication of the draft statement; and
 
@@ -6952,7 +6952,7 @@ Note 2:       Subdivision E contains more provisions about the basis
 
              (4)  For the purposes of paragraph (3)(b), the Minister may specify other certain or likely impacts of the action if:
 
-                     (a)  the action is to be taken in a State or self‑governing Territory; and
+                     (a)  the action is to be taken in a State or self-governing Territory; and
 
                      (b)  the appropriate Minister of the State or Territory has asked the Minister administering this section to ensure that the inquiry reports on those other impacts to help the State or Territory, or an agency of the State or Territory, make decisions about the action; and
 
@@ -7062,7 +7062,7 @@ Offence
 
 Note:          Subsection 4B(3) of the _Crimes Act 1914_ lets a court fine a body corporate up to 5 times the maximum amount the court could fine a person under this subsection.
 
-No privilege against self‑incrimination
+No privilege against self-incrimination
 
              (4)  An individual is not excused from answering a question or producing a document on the ground that answering the question or producing the document would tend to incriminate the individual or to expose the individual to a penalty.
 
@@ -7316,11 +7316,11 @@ Relationship of subsections (3), (4) and (5)
 
 ##### <a id="123"></a>123  Basis of appointment
 
-             (1)  A commissioner is to be appointed on a full‑time basis or a part‑time basis.
+             (1)  A commissioner is to be appointed on a full-time basis or a part-time basis.
 
-             (2)  A commissioner appointed on a full‑time basis must not engage in paid employment outside the duties of the commissioner’s office without the Minister’s approval.
+             (2)  A commissioner appointed on a full-time basis must not engage in paid employment outside the duties of the commissioner’s office without the Minister’s approval.
 
-             (3)  A commissioner appointed on a part‑time basis must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the commissioner’s duties.
+             (3)  A commissioner appointed on a part-time basis must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of the commissioner’s duties.
 
 ##### <a id="124"></a>124  Remuneration
 
@@ -7332,11 +7332,11 @@ Relationship of subsections (3), (4) and (5)
 
 ##### <a id="125"></a>125  Leave of absence
 
-             (1)  A commissioner appointed on a full‑time basis has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A commissioner appointed on a full-time basis has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a commissioner appointed on a full‑time basis leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a commissioner appointed on a full-time basis leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The commissioner (the **_presiding commissioner_**) appointed to preside at an inquiry may grant leave of absence to any other commissioner for the inquiry on the terms and conditions that the presiding commissioner determines, if the other commissioner has been appointed on a part‑time basis.
+             (3)  The commissioner (the **_presiding commissioner_**) appointed to preside at an inquiry may grant leave of absence to any other commissioner for the inquiry on the terms and conditions that the presiding commissioner determines, if the other commissioner has been appointed on a part-time basis.
 
 ##### <a id="126"></a>126  Resignation
 
@@ -7360,15 +7360,15 @@ Relationship of subsections (3), (4) and (5)
 
                      (b)  the commissioner fails, without reasonable excuse, to comply with section 128 (about disclosure of interests); or
 
-                     (c)  the Minister becomes aware that the commissioner has a pecuniary or other interest in the subject‑matter of the inquiry and the Minister considers that the commissioner should not continue to participate in the conduct of the inquiry.
+                     (c)  the Minister becomes aware that the commissioner has a pecuniary or other interest in the subject-matter of the inquiry and the Minister considers that the commissioner should not continue to participate in the conduct of the inquiry.
 
-             (3)  The Minister must terminate the appointment of a commissioner on a full‑time basis if:
+             (3)  The Minister must terminate the appointment of a commissioner on a full-time basis if:
 
                      (a)  the commissioner is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
                      (b)  the commissioner engages, except with the Minister’s approval, in paid employment outside the duties of his or her office.
 
-             (4)  The Minister must terminate the appointment of a commissioner on a part‑time basis if:
+             (4)  The Minister must terminate the appointment of a commissioner on a part-time basis if:
 
                      (a)  the commissioner is absent, except on leave of absence, from 3 consecutive meetings of his or her commission (if it consists of 2 or more commissioners); or
 
@@ -7500,15 +7500,15 @@ This does not limit the comments such a Minister may give.
 
                             (ia)  is a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
 
-                             (ii)  the Minister is satisfied contains information that is commercial‑in‑confidence; or
+                             (ii)  the Minister is satisfied contains information that is commercial-in-confidence; or
 
                      (b)  information that:
 
                               (i)  is of such a nature that its inclusion in a document would cause that document to be an exempt document of the kind referred to in subparagraph (a)(i); or
 
-                             (ii)  the Minister is satisfied is commercial‑in‑confidence.
+                             (ii)  the Minister is satisfied is commercial-in-confidence.
 
-             (5)  The Minister must not be satisfied that information (including information in a document) is commercial‑in‑confidence unless a person demonstrates to the Minister that:
+             (5)  The Minister must not be satisfied that information (including information in a document) is commercial-in-confidence unless a person demonstrates to the Minister that:
 
                      (a)  release of the information would cause competitive detriment to the person; and
 
@@ -7546,7 +7546,7 @@ This does not limit the comments such a Minister may give.
 
                      (d)  if:
 
-                              (i)  the action is to be taken in a State or self‑governing Territory; and
+                              (i)  the action is to be taken in a State or self-governing Territory; and
 
                              (ii)  a controlling provision for the action is in Division 1 of Part 3 (about matters of national environmental significance); and
 
@@ -7558,7 +7558,7 @@ This does not limit the comments such a Minister may give.
 
 ##### <a id="132A"></a>132A  Requesting notice from appropriate State or Territory Minister about certain actions
 
-             (1)  This section applies to an action that is to be taken in a State or self‑governing Territory only if the action:
+             (1)  This section applies to an action that is to be taken in a State or self-governing Territory only if the action:
 
                      (a)  is to be taken by a person for the purposes of trade or commerce:
 
@@ -7726,7 +7726,7 @@ Examples of kinds of conditions that may be attached
 
                              (ii)  repairing or mitigating damage to a matter protected by a provision of Part 3 for which the approval has effect (whether or not the damage may or will be, or has been, caused by the action); and
 
-                   (ab)  conditions requiring a specified financial contribution to be made to a person for the purpose of supporting activities of a kind mentioned in paragraph (aa); and
+                    (ab)  conditions requiring a specified financial contribution to be made to a person for the purpose of supporting activities of a kind mentioned in paragraph (aa); and
 
                      (a)  conditions relating to any security to be given by the holder of the approval by bond, guarantee or cash deposit:
 
@@ -7738,7 +7738,7 @@ Examples of kinds of conditions that may be attached
 
                      (b)  conditions requiring the holder of the approval to insure against any specified liability of the holder to the Commonwealth for measures taken by the Commonwealth under section 499 in relation to the approved action; and
 
-                     (c)  conditions requiring a person taking the action to comply with conditions specified in an instrument (including any kind of authorisation) made or granted under a law of a State or self‑governing Territory or another law of the Commonwealth; and
+                     (c)  conditions requiring a person taking the action to comply with conditions specified in an instrument (including any kind of authorisation) made or granted under a law of a State or self-governing Territory or another law of the Commonwealth; and
 
                      (d)  conditions requiring an environmental audit of the action to be carried out periodically by a person who can be regarded as being independent from any person whose taking of the action is approved; and
 
@@ -7780,11 +7780,11 @@ Considerations in deciding on condition
 
              (4)  In deciding whether to attach a condition to an approval, the Minister must consider:
 
-                     (a)  any relevant conditions that have been imposed, or the Minister considers are likely to be imposed, under a law of a State or self‑governing Territory or another law of the Commonwealth on the taking of the action; and
+                     (a)  any relevant conditions that have been imposed, or the Minister considers are likely to be imposed, under a law of a State or self-governing Territory or another law of the Commonwealth on the taking of the action; and
 
                     (aa)  information provided by the person proposing to take the action or by the designated proponent of the action; and
 
-                     (b)  the desirability of ensuring as far as practicable that the condition is a cost‑effective means for the Commonwealth and a person taking the action to achieve the object of the condition.
+                     (b)  the desirability of ensuring as far as practicable that the condition is a cost-effective means for the Commonwealth and a person taking the action to achieve the object of the condition.
 
 Effect of conditions requiring compliance with conditions specified in another instrument
 
@@ -7838,9 +7838,9 @@ Validity of decision
 
                              (ii)  a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
 
-                     (b)  the Secretary is satisfied is commercial‑in‑confidence.
+                     (b)  the Secretary is satisfied is commercial-in-confidence.
 
-             (5)  The Secretary must not be satisfied that a part of the report is commercial‑in‑confidence unless a person demonstrates to the Secretary that:
+             (5)  The Secretary must not be satisfied that a part of the report is commercial-in-confidence unless a person demonstrates to the Secretary that:
 
                      (a)  release of the information in that part would cause competitive detriment to the person; and
 
@@ -7870,9 +7870,9 @@ Factors to be taken into account
 
                      (b)  the assessment report (if any) relating to the action; and
 
-                   (ba)  if Division 3A of Part 8 (assessment on referral information) applies to the action—the finalised recommendation report relating to the action given to the Minister under subsection 93(5); and
+                    (ba)  if Division 3A of Part 8 (assessment on referral information) applies to the action—the finalised recommendation report relating to the action given to the Minister under subsection 93(5); and
 
-                   (bc)  if Division 4 of Part 8 (assessment on preliminary documentation) applies to the action:
+                    (bc)  if Division 4 of Part 8 (assessment on preliminary documentation) applies to the action:
 
                               (i)  the documents given to the Minister under subsection 95B(1), or the statement given to the Minister under subsection 95B(3), as the case requires, relating to the action; and
 
@@ -7990,7 +7990,7 @@ the Minister must, in deciding whether to so approve the taking of the action, h
 
              (1)  A person whose taking of an action has been approved under this Part must not contravene any condition attached to the approval.
 
-                    Civil penalty:          
+                    Civil penalty:            
 
                      (a)  for an individual—1,000 penalty units, or such lower amount as is prescribed by the regulations;
 
@@ -8084,7 +8084,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  the Minister believes it is necessary to revoke, vary or add a condition to protect the matter from the impact; or
 
-                   (ba)  all of the following conditions are satisfied:
+                    (ba)  all of the following conditions are satisfied:
 
                               (i)  the action has had a significant impact on a matter protected by a provision of Part 3 for which the approval has effect, or the Minister believes the action will have such an impact;
 
@@ -8374,7 +8374,7 @@ on the matter protected by each provision of Part 3 for which the approval has
 
           (1A)  The agreement may also provide for the assessment of other certain and likely impacts of actions under the policy, plan or program if:
 
-                     (a)  the actions are to be taken in a State or self‑governing Territory; and
+                     (a)  the actions are to be taken in a State or self-governing Territory; and
 
                      (b)  the appropriate Minister of the State or Territory has asked the Minister administering this section to ensure that the assessment deal with those other impacts to help the State or Territory, or an agency of the State or Territory, make decisions about the actions; and
 
@@ -8422,7 +8422,7 @@ Note 1:       If the impacts of actions under a policy, plan or prog
 
 Note 2:       If the Minister endorses a policy, plan or program embodied in a management arrangement or an authorisation process, the Minister may declare under section 33, or make a bilateral agreement declaring, that actions approved in accordance with the management arrangement or authorisation process do not need approval for the purposes of a specified provision of Part 3.
 
-             (3)  If the agreement relates to actions to be taken in a State or self‑governing Territory, the Minister must tell the appropriate Minister of the State or Territory:
+             (3)  If the agreement relates to actions to be taken in a State or self-governing Territory, the Minister must tell the appropriate Minister of the State or Territory:
 
                      (a)  that the agreement has been made; and
 
@@ -8608,7 +8608,7 @@ Note:          For the meaning of **_endorsed policy, plan or 
 
                      (d)  a reprocessing facility.
 
-### Division 2—Assessment of Commonwealth‑managed fisheries
+### Division 2—Assessment of Commonwealth-managed fisheries
 
 ##### <a id="147"></a>147  Simplified outline of this Division
 
@@ -8618,7 +8618,7 @@ Note:          For the meaning of **_endorsed policy, plan or 
 
 The Australian Fisheries Management Authority must make agreements under Division 1 for the assessment of actions in fisheries managed under the _Fisheries Management Act 1991_. An agreement must be made whenever it is proposed to make a management plan or a determination not to have a plan. An agreement must be made within 5 years of the commencement of this Act for all fisheries that did not have plans at that commencement.
 
-The Minister administering the _Torres Strait__Fisheries Act 1984_ must make agreements under Division 1 for the assessment of actions permitted by policies or plans for managing fishing in Torres Strait. All policies or plans must be covered by an agreement within 5 years after the commencement of this Act.
+The Minister administering the _Torres  Strait__Fisheries Act 1984_ must make agreements under Division 1 for the assessment of actions permitted by policies or plans for managing fishing in Torres Strait. All policies or plans must be covered by an agreement within 5 years after the commencement of this Act.
 
 A further agreement for assessment must be made if the impact of the actions is significantly greater than assessed under an earlier agreement.
 
@@ -8638,7 +8638,7 @@ Plans under the Fisheries Management Act 1991
 
 Plans under the Torres Strait Fisheries Act 1984
 
-             (2)  Before the Minister administering the _Torres Strait__Fisheries Act 1984_ determines a plan of management for a fishery under section 15A of that Act, he or she must:
+             (2)  Before the Minister administering the _Torres  Strait__Fisheries Act 1984_ determines a plan of management for a fishery under section 15A of that Act, he or she must:
 
                      (a)  make an agreement under section 146 with the Minister (the **_Environment Minister_**) administering this section for assessment of the impacts of actions under the plan on each matter protected by a provision of Part 3; and
 
@@ -8662,7 +8662,7 @@ Fisheries managed under the Fisheries Management Act 1991
 
                      (b)  for which there were not plans of management in force under that Act when this Act commenced.
 
-Two‑thirds of fisheries to be covered by agreements in 3 years 
+Two-thirds of fisheries to be covered by agreements in 3 years 
 
              (2)  Before the day that is the third anniversary of this Act commencing, the Australian Fisheries Management Authority must make agreements with the Minister under section 146 for assessment of the impacts of actions on each matter protected by a provision of Part 3, being actions that are permitted under the Authority’s policies for managing at least 2/3 of the fisheries. 
 
@@ -8710,7 +8710,7 @@ Further assessment for management arrangements under the Fisheries Management Ac
 
 Further assessment for policy or plan for Torres Strait fishing
 
-             (3)  The Minister administering the _Torres Strait__Fisheries Act 1984_ must make another agreement under section 146 in relation to the policy or plan for managing fishing (as defined in the _Torres Strait__Fisheries Act 1984_) in an area of Australian jurisdiction (as defined in that Act).
+             (3)  The Minister administering the _Torres  Strait__Fisheries Act 1984_ must make another agreement under section 146 in relation to the policy or plan for managing fishing (as defined in the _Torres  Strait__Fisheries Act 1984_) in an area of Australian jurisdiction (as defined in that Act).
 
 ##### <a id="153"></a>153  Minister must make declaration if he or she endorses plan or policy
 
@@ -8866,7 +8866,7 @@ Note:          The Minister may request further information fo
 
              (2)  If:
 
-                     (a)  the request to accept the varied proposal related to an action that is to be taken in a State or self‑governing Territory; and
+                     (a)  the request to accept the varied proposal related to an action that is to be taken in a State or self-governing Territory; and
 
                      (b)  a controlling provision for the action is in Division 1 of Part 3 (which deals with matters of national environmental significance); and
 
@@ -8934,7 +8934,7 @@ Publication of notice
 
              (1)  A provision of this Chapter that is expressed to apply in relation to actions taken or to be taken in a State also applies in the same way to actions taken or to be taken on, under or over the seabed vested in the State by section 4 of the _Coastal Waters (State Title) Act 1980_.
 
-             (2)  So far as a provision of this Chapter that is expressed to apply in relation to actions taken or to be taken in a self‑governing Territory relates to the Northern Territory, the provision also applies in the same way to actions taken or to be taken on, under or over the seabed vested in the Northern Territory by section 4 of the _Coastal Waters (Northern Territory Title) Act 1980_.
+             (2)  So far as a provision of this Chapter that is expressed to apply in relation to actions taken or to be taken in a self-governing Territory relates to the Northern Territory, the provision also applies in the same way to actions taken or to be taken on, under or over the seabed vested in the Northern Territory by section 4 of the _Coastal Waters (Northern Territory Title) Act 1980_.
 
 ### Division 3—Exemptions
 
@@ -9050,11 +9050,11 @@ A Commonwealth agency or employee must consider advice from the Minister before 
 
                (a)     providing foreign aid;
 
-              (b)     managing aircraft operations in airspace;
+               (b)     managing aircraft operations in airspace;
 
                (c)     adopting or implementing a major development plan for an airport;
 
-              (d)     an action prescribed by the regulations.
+               (d)     an action prescribed by the regulations.
 
 The agency or employee must inform the Minister of the proposal to authorise the action.
 
@@ -9064,11 +9064,11 @@ The environmental impacts of the action must be assessed in accordance with a de
 
              (aa)     an assessment on referral information under Division 3A;
 
-              (b)     an assessment on preliminary documentation under Division 4 of Part 8;
+               (b)     an assessment on preliminary documentation under Division 4 of Part 8;
 
                (c)     a public environment report under Division 5 of Part 8;
 
-              (d)     an environmental impact statement under Division 6 of Part 8;
+               (d)     an environmental impact statement under Division 6 of Part 8;
 
                (e)     an inquiry under Division 7 of Part 8.
 
@@ -9228,11 +9228,11 @@ Note:          See, for example, subsections 94(6A) and 95(3A)
 
                     (aa)  a finalised recommendation report under Division 3A of Part 8 (as applied by section 162) relating to the action; or
 
-                   (ab)  the documents given to the Minister under subsection 95B(1) (as applied by section 162), or the statement given to the Minister under subsection 95B(3) (as applied by section 162), as the case requires, relating to the action; or
+                    (ab)  the documents given to the Minister under subsection 95B(1) (as applied by section 162), or the statement given to the Minister under subsection 95B(3) (as applied by section 162), as the case requires, relating to the action; or
 
                     (ac)  a finalised public environment report under Division 5 of Part 8 (as applied by section 162) relating to the action; or
 
-                   (ad)  a finalised environmental impact statement under Division 6 of Part 8 (as applied by section 162) relating to the action; or
+                    (ad)  a finalised environmental impact statement under Division 6 of Part 8 (as applied by section 162) relating to the action; or
 
                      (b)  a report of an inquiry under Division 7 of Part 8 (as applied by section 162) relating to the action.
 
@@ -9248,7 +9248,7 @@ Note:          See, for example, subsections 94(6A) and 95(3A)
 
 ##### <a id="166"></a>166  This Subdivision applies if Ministers agree it should
 
-             (1)  This Subdivision applies if the Minister and a Minister of a State or self‑governing Territory agree that it should apply in relation to an action that:
+             (1)  This Subdivision applies if the Minister and a Minister of a State or self-governing Territory agree that it should apply in relation to an action that:
 
                      (a)  is to be taken in the State or Territory by a constitutional corporation; or
 
@@ -9268,13 +9268,13 @@ Note:          See, for example, subsections 94(6A) and 95(3A)
 
              (2)  This section applies to the adoption or implementation of a policy, plan or program in the same way as it applies to any other action.
 
-             (3)  Despite subsection (1), this Subdivision does not apply in relation to an action to be taken in 2 or more States or self‑governing Territories unless there is an agreement between the Minister and a Minister of each of those States and Territories that this Subdivision should apply in relation to the action.
+             (3)  Despite subsection (1), this Subdivision does not apply in relation to an action to be taken in 2 or more States or self-governing Territories unless there is an agreement between the Minister and a Minister of each of those States and Territories that this Subdivision should apply in relation to the action.
 
 ##### <a id="167"></a>167  Making an agreement
 
 Power to make agreement
 
-             (1)  The Minister may make a written agreement with a Minister of a State or self‑governing Territory to apply this Subdivision in relation to an action to be taken in the State or Territory.
+             (1)  The Minister may make a written agreement with a Minister of a State or self-governing Territory to apply this Subdivision in relation to an action to be taken in the State or Territory.
 
 Prerequisites for making agreement
 
@@ -9288,7 +9288,7 @@ Minister must not make an agreement that gives preference
 
                      (b)  by a person for the purposes of trade or commerce between Australia and another country or between 2 States.
 
-##### <a id="168"></a>168  Content of an agreement
+##### <a id="168"></a>168  Content of an agreement
 
 Generally
 
@@ -9404,7 +9404,7 @@ Minister must give copy of report to State or Territory Minister
 
                      (d)  each decision (if any) in the immediately preceding week under Division 3 of Part 8 about which approach is to be used for assessment of the relevant impacts of an action;
 
-                   (da)  each draft recommendation report and invitation (if any) published in the immediately preceding week under Division 3A of Part 8 (about assessment on referral information);
+                    (da)  each draft recommendation report and invitation (if any) published in the immediately preceding week under Division 3A of Part 8 (about assessment on referral information);
 
                      (e)  the information and invitations (if any) published in the immediately preceding week under Division 4 of Part 8 (about assessment on preliminary documentation);
 
@@ -9416,7 +9416,7 @@ Minister must give copy of report to State or Territory Minister
 
                       (i)  each finalised recommendation report given to the Minister under Division 3A of Part 8 in the immediately preceding week;
 
-                    (ia)  each recommendation report given to the Minister in the immediately preceding week under section 95C, 100 or 105;
+                     (ia)  each recommendation report given to the Minister in the immediately preceding week under section 95C, 100 or 105;
 
                       (j)  any other matter prescribed by the regulations.
 
@@ -9428,19 +9428,19 @@ Minister must give copy of report to State or Territory Minister
 
              (3)  A person who is given a direction under subsection (1) must not contravene the direction.
 
-                    Civil penalty:          100 penalty units.
+                    Civil penalty:            100 penalty units.
 
-##### <a id="170BA"></a>170BA  Designated proponent may request Minister to permit commercial‑in‑confidence information not to be disclosed
+##### <a id="170BA"></a>170BA  Designated proponent may request Minister to permit commercial-in-confidence information not to be disclosed
 
              (1)  This section applies in relation to the assessment documentation that must be published by the designated proponent of an action to which Division 4, 5 or 6 of Part 8 applies.
 
-             (2)  The designated proponent may request the Minister, in writing, to permit the designated proponent not to publish so much of the assessment documentation relating to the action as the designated proponent considers is commercial‑in‑confidence.
+             (2)  The designated proponent may request the Minister, in writing, to permit the designated proponent not to publish so much of the assessment documentation relating to the action as the designated proponent considers is commercial-in-confidence.
 
              (3)  A request under subsection (2) must include the information prescribed by the regulations.
 
-             (4)  If the Minister is satisfied that a part of the assessment documentation relating to the action is commercial‑in‑confidence, the Minister may, by written notice to the designated proponent, permit the designated proponent not to publish that part of the assessment documentation.
+             (4)  If the Minister is satisfied that a part of the assessment documentation relating to the action is commercial-in-confidence, the Minister may, by written notice to the designated proponent, permit the designated proponent not to publish that part of the assessment documentation.
 
-             (5)  The Minister must not be satisfied that a part of the assessment documentation relating to the action is commercial‑in‑confidence unless a person demonstrates to the Minister that:
+             (5)  The Minister must not be satisfied that a part of the assessment documentation relating to the action is commercial-in-confidence unless a person demonstrates to the Minister that:
 
                      (a)  release of the information in that part would cause competitive detriment to the person; and
 
@@ -9450,7 +9450,7 @@ Minister must give copy of report to State or Territory Minister
 
                      (d)  the information in that part is not readily discoverable.
 
-             (6)  If the Minister permits the designated proponent not to publish a part of the assessment documentation that the Minister considers is commercial‑in‑confidence, the provision of Division 4, 5 or 6 of Part 8 that requires the designated proponent to publish the assessment documentation has effect as if it did not require the publication of that part of the assessment documentation.
+             (6)  If the Minister permits the designated proponent not to publish a part of the assessment documentation that the Minister considers is commercial-in-confidence, the provision of Division 4, 5 or 6 of Part 8 that requires the designated proponent to publish the assessment documentation has effect as if it did not require the publication of that part of the assessment documentation.
 
              (7)  In this section:
 
@@ -9504,11 +9504,11 @@ may withdraw the referral, by written notice to the Minister.
 
 ### Division 1—Identifying and monitoring biodiversity
 
-##### <a id="171"></a>171  Identifying and monitoring biodiversity
+##### <a id="171"></a>171  Identifying and monitoring biodiversity
 
-             (1)  The Minister may, on behalf of the Commonwealth, co‑operate with, and give financial or other assistance to, any person for the purpose of identifying and monitoring components of biodiversity.
+             (1)  The Minister may, on behalf of the Commonwealth, co-operate with, and give financial or other assistance to, any person for the purpose of identifying and monitoring components of biodiversity.
 
-             (2)  Without limiting subsection (1), the co‑operation and assistance may include co‑operation and assistance in relation to all or any of the following:
+             (2)  Without limiting subsection (1), the co-operation and assistance may include co-operation and assistance in relation to all or any of the following:
 
                      (a)  identifying and monitoring components of biodiversity that are important for its conservation and ecologically sustainable use;
 
@@ -9584,7 +9584,7 @@ may withdraw the referral, by written notice to the Minister.
 
 ##### <a id="174"></a>174  Inventories and surveys to be updated
 
-                   The Minister must take reasonable steps to ensure that the inventories and surveys prepared under this Division are maintained in an up‑to‑date form.
+                   The Minister must take reasonable steps to ensure that the inventories and surveys prepared under this Division are maintained in an up-to-date form.
 
 ### Division 2—Bioregional plans
 
@@ -9592,9 +9592,9 @@ may withdraw the referral, by written notice to the Minister.
 
              (1)  The Minister may prepare a bioregional plan for a bioregion that is within a Commonwealth area. In preparing the plan, the Minister must carry out public consultation on a draft of the plan in accordance with the regulations.
 
-             (2)  The Minister may, on behalf of the Commonwealth, co‑operate with a State or a self‑governing Territory, an agency of a State or of a self‑governing Territory, or any other person in the preparation of a bioregional plan for a bioregion that is not wholly within a Commonwealth area.
+             (2)  The Minister may, on behalf of the Commonwealth, co-operate with a State or a self-governing Territory, an agency of a State or of a self-governing Territory, or any other person in the preparation of a bioregional plan for a bioregion that is not wholly within a Commonwealth area.
 
-             (3)  The co‑operation may include giving financial or other assistance.
+             (3)  The co-operation may include giving financial or other assistance.
 
              (4)  A bioregional plan may include provisions about all or any of the following:
 
@@ -9602,7 +9602,7 @@ may withdraw the referral, by written notice to the Minister.
 
                      (b)  important economic and social values;
 
-                   (ba)  heritage values of places;
+                    (ba)  heritage values of places;
 
                      (c)  objectives relating to biodiversity and other values;
 
@@ -9684,7 +9684,7 @@ is not eligible to be included in that or any other category, or is eligible to 
 
                      (a)  it is not critically endangered or endangered; and
 
-                     (b)  it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria.
+                     (b)  it is facing a high risk of extinction in the wild in the medium-term future, as determined in accordance with the prescribed criteria.
 
              (6)  A native species is eligible to be included in the **_conservation dependent_** category at a particular time if, at that time:
 
@@ -9742,7 +9742,7 @@ is not eligible to be included in that or any other category, or is eligible to 
 
                      (a)  it is not critically endangered nor endangered; and
 
-                     (b)  it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria.
+                     (b)  it is facing a high risk of extinction in the wild in the medium-term future, as determined in accordance with the prescribed criteria.
 
 ##### <a id="183"></a>183  Listing of key threatening processes
 
@@ -9798,25 +9798,25 @@ Including similar species to an eligible species
 
                      (a)  it so closely resembles in appearance, at any stage of its biological development, a species that is eligible to be included in that category (see subsection 179(3)) that it is difficult to differentiate between the 2 species; and
 
-                     (b)  this difficulty poses an additional threat to the last‑mentioned species; and
+                     (b)  this difficulty poses an additional threat to the last-mentioned species; and
 
-                     (c)  it would substantially promote the objects of this Act if the first‑mentioned species were regarded as critically endangered.
+                     (c)  it would substantially promote the objects of this Act if the first-mentioned species were regarded as critically endangered.
 
              (4)  The Minister may include a native species in the endangered category if satisfied that:
 
                      (a)  it so closely resembles in appearance, at any stage of its biological development, a species that is eligible to be included in that category (see subsection 179(4)) that it is difficult to differentiate between the 2 species; and
 
-                     (b)  this difficulty poses an additional threat to the last‑mentioned species; and
+                     (b)  this difficulty poses an additional threat to the last-mentioned species; and
 
-                     (c)  it would substantially promote the objects of this Act if the first‑mentioned species were regarded as endangered.
+                     (c)  it would substantially promote the objects of this Act if the first-mentioned species were regarded as endangered.
 
              (5)  The Minister may include a native species in the vulnerable category if satisfied that:
 
                      (a)  it so closely resembles in appearance, at any stage of its biological development, a species that is eligible to be included in that category (see subsection 179(5)) that it is difficult to differentiate between the 2 species; and
 
-                     (b)  this difficulty poses an additional threat to the last‑mentioned species; and
+                     (b)  this difficulty poses an additional threat to the last-mentioned species; and
 
-                     (c)  it would substantially promote the objects of this Act if the first‑mentioned species were regarded as vulnerable.
+                     (c)  it would substantially promote the objects of this Act if the first-mentioned species were regarded as vulnerable.
 
 ##### <a id="187"></a>187  Amending list of ecological communities
 
@@ -9906,7 +9906,7 @@ the only matters the Scientific Committee may consider are matters relating to:
 
                      (c)  the survival of either species; or
 
-                     (d)  the effect that the inclusion in the list of the first‑mentioned species is having, or could have, on the survival of either species.
+                     (d)  the effect that the inclusion in the list of the first-mentioned species is having, or could have, on the survival of either species.
 
 ##### <a id="189A"></a>189A  Certain information may be kept confidential
 
@@ -9994,9 +9994,9 @@ the member must take reasonable steps to ensure that the copy given to the perso
 
                    The Minister must ensure that:
 
-                     (a)  up‑to‑date copies of the lists referred to in sections 178, 181 and 183 are available for free to the public on request; and
+                     (a)  up-to-date copies of the lists referred to in sections 178, 181 and 183 are available for free to the public on request; and
 
-                     (b)  an up‑to‑date copy of the lists are available on the internet.
+                     (b)  an up-to-date copy of the lists are available on the internet.
 
 Note:          The copies of the lists made publicly available may not contain certain information kept confidential under section 189A.
 
@@ -10010,17 +10010,17 @@ Note:          The copies of the lists made publicly available
 
 This Subdivision sets out the usual process for including an item in a list referred to in section 178, 181 or 183, or transferring an item from one category in one of those lists to another category in the list.
 
-The usual process involves an annual cycle that revolves around 12‑month periods known as assessment periods. The Minister determines the start of the first assessment period (see section 194C).
+The usual process involves an annual cycle that revolves around 12-month periods known as assessment periods. The Minister determines the start of the first assessment period (see section 194C).
 
 The usual process involves the following steps for each assessment period for a list:
 
                (a)     the Minister may determine conservation themes (this step is optional) (see section 194D);
 
-              (b)     the Minister invites people to nominate items for inclusion in the list referred to in section 178, 181 or 183, and gives the nominations to the Scientific Committee (see sections 194E and 194F);
+               (b)     the Minister invites people to nominate items for inclusion in the list referred to in section 178, 181 or 183, and gives the nominations to the Scientific Committee (see sections 194E and 194F);
 
                (c)     the Scientific Committee prepares, and gives to the Minister, a list of items (which will mostly be items that have been nominated) that it thinks should be assessed (see sections 194G to 194J);
 
-              (d)     the Minister finalises the list of items that are to be assessed (see sections 194K and 194L);
+               (d)     the Minister finalises the list of items that are to be assessed (see sections 194K and 194L);
 
                (e)     the Scientific Committee invites people to make comments about the item in the finalised list (see section 194M);
 
@@ -10092,7 +10092,7 @@ Note:          Nominations can be for the transfer of an item 
 
                      (c)  must identify the assessment period to which the notice relates; and
 
-                     (d)  must specify a date (the **_cut‑off date_**) by which nominations must be received, which must be at least 40 business days after the notice has been published as required by paragraph (a); and
+                     (d)  must specify a date (the **_cut-off date_**) by which nominations must be received, which must be at least 40 business days after the notice has been published as required by paragraph (a); and
 
                      (e)  must specify, or refer to, the information requirements, and the manner and form requirements, that, under regulations referred to in paragraphs (3)(b) and (c), apply to making nominations; and
 
@@ -10114,9 +10114,9 @@ Note:          Nominations can be for the transfer of an item 
 
 Nominations in relation to first assessment period
 
-             (1)  Within 30 business days after the cut‑off date specified in the notice under subsection 194E(1) for the first assessment period, the Minister must give the Scientific Committee the nominations that the Minister:
+             (1)  Within 30 business days after the cut-off date specified in the notice under subsection 194E(1) for the first assessment period, the Minister must give the Scientific Committee the nominations that the Minister:
 
-                     (a)  had received before the end of that cut‑off date; and
+                     (a)  had received before the end of that cut-off date; and
 
                      (b)  had not already forwarded to the Scientific Committee, under section 191 (as in force before the commencement of this section), to assess; and
 
@@ -10126,11 +10126,11 @@ Nominations in relation to first assessment period
 
 Nominations in relation to later assessment periods
 
-             (2)  Within 30 business days after the cut‑off date (the **_current cut‑off date_**) specified in the notice under subsection 194E(1) for an assessment period (other than the first) for a Subdivision A List, the Minister must give the Scientific Committee the nominations that were received by the Minister in the period:
+             (2)  Within 30 business days after the cut-off date (the **_current cut-off date_**) specified in the notice under subsection 194E(1) for an assessment period (other than the first) for a Subdivision A List, the Minister must give the Scientific Committee the nominations that were received by the Minister in the period:
 
-                     (a)  starting immediately after the end of the cut‑off date specified in the notice under subsection 194E(1) for the immediately preceding assessment period for the Subdivision A List; and
+                     (a)  starting immediately after the end of the cut-off date specified in the notice under subsection 194E(1) for the immediately preceding assessment period for the Subdivision A List; and
 
-                     (b)  ending at the end of the current cut‑off date for the Subdivision A List;
+                     (b)  ending at the end of the current cut-off date for the Subdivision A List;
 
 other than any such nominations that the Minister has rejected under subsection (3).
 
@@ -10258,7 +10258,7 @@ Definition
 
                             (iii)  reasons supporting those views; and
 
-                     (e)  must specify the date (the **_cut‑off date_**) by which comments must be received, which must be at least 30 business days after the notice has been published as required by paragraph (a); and
+                     (e)  must specify the date (the **_cut-off date_**) by which comments must be received, which must be at least 30 business days after the notice has been published as required by paragraph (a); and
 
                       (f)  must specify, or refer to, the manner and form requirements that, under regulations referred to in paragraph (4)(b), apply to making comments; and
 
@@ -10296,7 +10296,7 @@ Definition
 
              (3)  The Scientific Committee is not required to take a comment referred to in paragraph (2)(a) into account if:
 
-                     (a)  the Committee does not receive the comment until after the cut‑off date specified in the notice under subsection 194M(1) in relation to the item; or
+                     (a)  the Committee does not receive the comment until after the cut-off date specified in the notice under subsection 194M(1) in relation to the item; or
 
                      (b)  the Committee considers that regulations referred to in paragraph 194M(4)(b) have not been complied with in relation to the comment.
 
@@ -10372,7 +10372,7 @@ Additional requirements if Minister decides not to include item
 
                    In performing its functions under this Subdivision, the Scientific Committee may obtain advice from a person with expertise relevant to the inclusionof an item in a Subdivision A List.
 
-##### <a id="194S"></a>194S  Co‑ordination with Australian Heritage Council—Committee undertaking assessment
+##### <a id="194S"></a>194S  Co-ordination with Australian Heritage Council—Committee undertaking assessment
 
              (1)  This section applies if:
 
@@ -10410,7 +10410,7 @@ the Committee must take that assessment into account in finalising the assessmen
 
              (8)  Subsection (2), paragraph (4)(a) and subsections (5) and (7) have effect despite section 189B.
 
-##### <a id="194T"></a>194T  Co‑ordination with Australian Heritage Council—Committee given assessment to Minister
+##### <a id="194T"></a>194T  Co-ordination with Australian Heritage Council—Committee given assessment to Minister
 
              (1)  This section applies if:
 
@@ -10578,13 +10578,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  is taken in accordance with a management arrangement or authorisation process that is an accredited management arrangement or an accredited authorisation process for the purposes of the declaration; or
 
-                   (da)  an action that:
+                    (da)  an action that:
 
                               (i)  is an action, or one of a class of actions, declared by the Minister under section 37A not to require an approval under Part 9 for the purposes of subsection 18(1), (2), (3), (4), (5), or (6) or 18A(1) or (2); and
 
                              (ii)  is taken in accordance with the bioregional plan to which the declaration relates; or
 
-                   (db)  in the case of sections 196B, 196C, 196D and 196E—an action that is trading, keeping or moving a member of a listed threatened species or a listed ecological community, if:
+                    (db)  in the case of sections 196B, 196C, 196D and 196E—an action that is trading, keeping or moving a member of a listed threatened species or a listed ecological community, if:
 
                               (i)  when the member of the species or community was taken, the species or community was not a listed threatened species or a listed threatened ecological community, as the case requires; and
 
@@ -10594,7 +10594,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                       (f)  an action that is reasonably necessary to prevent a risk to human health; or
 
-                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self‑governing Territory, that is reasonably necessary for the purposes of law enforcement; or
+                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self-governing Territory, that is reasonably necessary for the purposes of law enforcement; or
 
                      (h)  an action that is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
 
@@ -10668,7 +10668,7 @@ Note 3:       The conditions of a permit may require the holder of t
 
                      (b)  the action is in a class of actions:
 
-                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self‑governing Territory; and
+                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self-governing Territory; and
 
                              (ii)  that the agreement or arrangement provides is to be notified to the Secretary by the agency.
 
@@ -10874,9 +10874,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  a plan of management, or a policy, regime or any other arrangement, for a fishery, that is:
 
-                              (i)  made by a State or self‑governing Territory; and
+                              (i)  made by a State or self-governing Territory; and
 
-                             (ii)  in force under a law of the State or self‑governing Territory; or
+                             (ii)  in force under a law of the State or self-governing Territory; or
 
                      (d)  a regime determined in writing by the Australian Fisheries Management Authority under the _Fisheries Administration Act 1991_ for managing a fishery for which a plan of management (within the meaning of section 17 of the _Fisheries Management Act 1991_) is not in force; or
 
@@ -11092,13 +11092,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  is taken in accordance with a management arrangement or an authorisation process that is an accredited management arrangement or an accredited authorisation process for the purposes of the declaration; or
 
-                   (da)  an action that:
+                    (da)  an action that:
 
                               (i)  is an action, or one of a class of actions, declared by the Minister under section 37A not to require an approval under Part 9 for the purposes of subsection 20(1) or 20A(1) or (2); and
 
                              (ii)  is taken in accordance with the bioregional plan to which the declaration relates; or
 
-                   (db)  in the case of sections 211B, 211C, 211D and 211E—an action that is trading, keeping or moving a member of a listed migratory species, if:
+                    (db)  in the case of sections 211B, 211C, 211D and 211E—an action that is trading, keeping or moving a member of a listed migratory species, if:
 
                               (i)  when the member of the species was taken, the species was not a listed migratory species; and
 
@@ -11108,7 +11108,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                       (f)  an action that is reasonably necessary to prevent a risk to human health; or
 
-                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self‑governing Territory, that is reasonably necessary for the purposes of law enforcement; or
+                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self-governing Territory, that is reasonably necessary for the purposes of law enforcement; or
 
                      (h)  an action that is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
 
@@ -11202,7 +11202,7 @@ Note 3:       The conditions of a permit may require the holder of t
 
                      (b)  the action is in a class of actions:
 
-                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self‑governing Territory; and
+                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self-governing Territory; and
 
                              (ii)  that the agreement or arrangement provides is to be notified to the Secretary by the agency.
 
@@ -11346,9 +11346,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  a plan of management, or a policy, regime or any other arrangement, for a fishery, that is:
 
-                              (i)  made by a State or self‑governing Territory; and
+                              (i)  made by a State or self-governing Territory; and
 
-                             (ii)  in force under a law of the State or self‑governing Territory; or
+                             (ii)  in force under a law of the State or self-governing Territory; or
 
                      (d)  a regime determined in writing by the Australian Fisheries Management Authority under the _Fisheries Administration Act 1991_ for managing a fishery for which a plan of management (within the meaning of section 17 of the _Fisheries Management Act 1991_) is not in force; or
 
@@ -11448,7 +11448,7 @@ Note:          This subsection is subject to subsection 5(3).
 
              (1)  The regulations may declare the whole, or a specified part, of the coastal waters of a State or the Northern Territory to be prescribed waters.
 
-             (2)  Before the Governor‑General makes a regulation under subsection (1), the Minister must obtain the agreement of the relevant Minister of the State or the Northern Territory.
+             (2)  Before the Governor-General makes a regulation under subsection (1), the Minister must obtain the agreement of the relevant Minister of the State or the Northern Territory.
 
 ##### <a id="227"></a>227  Coastal waters
 
@@ -11688,15 +11688,15 @@ Note 2:       Subsection 4B(3) of the _Crimes Act 1914_ lets a court
 
                      (b)  an action provided for by, and taken in accordance with, a recovery plan, or a wildlife conservation plan, made or adopted under Division 5 and in force; or
 
-                   (ba)  an action that is covered by an approval in operation under Part 9 for the purposes of subsection 23(1) or (2), 24A(1), (2), (3) or (4), 24B(1) or (2) or 24C(1), (3), (5) or (7); or
+                    (ba)  an action that is covered by an approval in operation under Part 9 for the purposes of subsection 23(1) or (2), 24A(1), (2), (3) or (4), 24B(1) or (2) or 24C(1), (3), (5) or (7); or
 
-                   (bb)  an action that:
+                    (bb)  an action that:
 
                               (i)  is one of a class of actions declared by the Minister under section 33 not to require an approval under Part 9 for the purposes of subsection 23(1) or (2), 24A(1), (2), (3) or (4), 24B(1) or (2) or 24C(1), (3), (5) or (7); and
 
                              (ii)  is taken in accordance with a management arrangement or an authorisation process that is an accredited management arrangement or an accredited authorisation process for the purposes of the declaration; or
 
-                   (bc)  an action that:
+                    (bc)  an action that:
 
                               (i)  is an action, or one of a class of actions, declared by the Minister under section 37A not to require an approval under Part 9 for the purposes of subsection 23(1) or (2), 24A(1), (2), (3) or (4), 24B(1) or (2) or 24C(1), (3), (5) or (7); and
 
@@ -11706,7 +11706,7 @@ Note 2:       Subsection 4B(3) of the _Crimes Act 1914_ lets a court
 
                      (d)  an action that is reasonably necessary to prevent a risk to human health; or
 
-                     (e)  an action by a Commonwealth agency, or an agency of a State or of a self‑governing Territory, that is reasonably necessary for the purposes of law enforcement; or
+                     (e)  an action by a Commonwealth agency, or an agency of a State or of a self-governing Territory, that is reasonably necessary for the purposes of law enforcement; or
 
                       (f)  an action that is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
 
@@ -11762,7 +11762,7 @@ Note 3:       The conditions of a permit may require the holder of t
 
                      (b)  the action is in a class of actions:
 
-                              (i)  that are specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self‑governing Territory; and
+                              (i)  that are specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self-governing Territory; and
 
                              (ii)  that the agreement or arrangement provides are to be notified to the Secretary by the agency.
 
@@ -11952,9 +11952,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  a plan of management, or a policy, regime or any other arrangement, for a fishery, that is:
 
-                              (i)  made by a State or self‑governing Territory; and
+                              (i)  made by a State or self-governing Territory; and
 
-                             (ii)  in force under a law of the State or self‑governing Territory; or
+                             (ii)  in force under a law of the State or self-governing Territory; or
 
                      (d)  a regime determined in writing by the Australian Fisheries Management Authority under the _Fisheries Administration Act 1991_ for managing a fishery for which a plan of management (within the meaning of section 17 of the _Fisheries Management Act 1991_) is not in force; or
 
@@ -12012,9 +12012,9 @@ the cetacean vests, by force of this section, in the Commonwealth.
 
              (2)  The list, as first established, must contain only the following:
 
-                     (a)  all species in the Family Hydrophiidae (sea‑snakes);
+                     (a)  all species in the Family Hydrophiidae (sea-snakes);
 
-                     (b)  all species in the Family Laticaudidae (sea‑snakes);
+                     (b)  all species in the Family Laticaudidae (sea-snakes);
 
                      (c)  all species in the Family Otariidae (eared seals);
 
@@ -12028,7 +12028,7 @@ the cetacean vests, by force of this section, in the Commonwealth.
 
                      (h)  the species _Dermochelys coriacea_ (leatherback turtles);
 
-                      (i)  all species in the Family Syngnathidae (seahorses, sea‑dragons and pipefish);
+                      (i)  all species in the Family Syngnathidae (seahorses, sea-dragons and pipefish);
 
                       (j)  all species in the Family Solenostomidae (ghost pipefish);
 
@@ -12064,7 +12064,7 @@ the cetacean vests, by force of this section, in the Commonwealth.
 
              (1)  The Minister must not add a marine species to the list unless:
 
-                     (a)  the Minister is satisfied that it is necessary to include the species in the list in order to ensure the long‑term conservation of the species; and
+                     (a)  the Minister is satisfied that it is necessary to include the species in the list in order to ensure the long-term conservation of the species; and
 
                      (b)  the species occurs naturally in a Commonwealth marine area.
 
@@ -12090,7 +12090,7 @@ within 90 days after receiving the Scientific Committee’s advice on the additi
 
 ##### <a id="252"></a>252  Minister to make lists available to the public
 
-                   The Minister must, in accordance with the regulations (if any), make copies of up‑to‑date lists available for purchase, for a reasonable price, at a prescribed place in each State and self‑governing Territory.
+                   The Minister must, in accordance with the regulations (if any), make copies of up-to-date lists available for purchase, for a reasonable price, at a prescribed place in each State and self-governing Territory.
 
 #### Subdivision B—Permit system
 
@@ -12238,13 +12238,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  is taken in accordance with a management arrangement or an authorisation process that is an accredited management arrangement or an accredited authorisation process for the purposes of the declaration; or
 
-                   (da)  an action that:
+                    (da)  an action that:
 
                               (i)  is an action, or one of a class of actions, declared by the Minister under section 37A not to require an approval under Part 9 for the purposes of subsection 23(1) or (2), 24A(1), (2), (3) or (4), 24B(1) or (2) or 24C(1), (3), (5) or (7), 26(1) or (2) or 27A(1), (2), (3) or (4); and
 
                              (ii)  is taken in accordance with the bioregional plan to which the declaration relates; or
 
-                   (db)  in the case of sections 254B, 254C, 254D and 254E—an action that is trading, keeping or moving a member of a listed marine species, if:
+                    (db)  in the case of sections 254B, 254C, 254D and 254E—an action that is trading, keeping or moving a member of a listed marine species, if:
 
                               (i)  when the member of the species was taken, the species was not a listed marine species; and
 
@@ -12254,7 +12254,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                       (f)  an action that is reasonably necessary to prevent a risk to human health; or
 
-                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self‑governing Territory, that is reasonably necessary for the purposes of law enforcement; or
+                     (g)  an action by a Commonwealth agency, or an agency of a State or of a self-governing Territory, that is reasonably necessary for the purposes of law enforcement; or
 
                      (h)  an action that is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
 
@@ -12324,7 +12324,7 @@ Note 3:       The conditions of a permit may require the holder of t
 
                      (b)  the action is in a class of actions:
 
-                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self‑governing Territory; and
+                              (i)  that is specified in an agreement or arrangement between the Secretary and a Commonwealth agency, or an agency of a State or self-governing Territory; and
 
                              (ii)  that the agreement or arrangement provides is to be notified to the Secretary by the agency.
 
@@ -12466,9 +12466,9 @@ Note:          If the action is also the subject of a referral
 
                      (c)  a plan of management, or a policy, regime or any other arrangement, for a fishery, that is:
 
-                              (i)  made by a State or self‑governing Territory; and
+                              (i)  made by a State or self-governing Territory; and
 
-                             (ii)  in force under a law of the State or self‑governing Territory; or
+                             (ii)  in force under a law of the State or self-governing Territory; or
 
                      (d)  a regime determined in writing by the Australian Fisheries Management Authority under the _Fisheries Administration Act 1991_ for managing a fishery for which a plan of management (within the meaning of section 17 of the _Fisheries Management Act 1991_) is not in force; or
 
