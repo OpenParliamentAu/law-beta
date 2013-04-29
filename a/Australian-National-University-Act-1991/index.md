@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00694/Html/7d4dc573-740c-4e7f-bb49-a988a588181f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00316/Html/f9809e02-acc1-4679-81c8-f4e3c59ef469_files/image001.gif)
 
 # Australian National University Act 1991
 
 **Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 26 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1182,7 +1182,7 @@ the person is, in the academic year in which the person would, by the terms of t
 
 The _Australian__National University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 19 December 2003 is not included in this compilation. For subsequent information _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1246,7 +1246,7 @@ of Assent</div>
   <td>
     <div>Part 1 (ss. 1, 2): Royal Assent 
 Parts 2, 3 (ss. 
-3–46) and Part 5 (ss. 60–70): 1 Jan 1993 
+3–46) and Part 5 (ss. 60‑70): 1 Jan 1993 
 Remainder: 1 Jan 1994</div>
   </td>
   <td>
@@ -1354,7 +1354,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
     <div>Schedule 2 (items 20–63): 1 July 2004</div>
   </td>
   <td>
-    <div>Sch. 2 (item 37) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 37)</div>
   </td>
 </tr>
 <tr>
@@ -1371,7 +1371,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
     <div>Schedule 1 (items 191, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td>
-    <div>Sch. 1 (items 212, 213, 215) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 212, 213, 215)</div>
   </td>
 </tr>
 <tr>
@@ -1390,7 +1390,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 4 (items 
-20–22) \[ <i>see</i>Table A]</div>
+20–22)</div>
   </td>
 </tr>
 <tr>
@@ -1424,7 +1424,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 56, 57, 174): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 174)</div>
   </td>
 </tr>
 <tr>
@@ -1493,23 +1493,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 203–207) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2079,38 +2062,6 @@ _(d)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides a
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 203  Subsection 37(1)
-
-Omit “(1)”.
-
-## 204  Paragraph 37(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 205  Subsection 37(1)
-
-Omit “but a person appointed to act during a vacancy may not continue so to act for more than 12 months.”.
-
-## 206  At the end of subsection 37(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 207  Subsection 37(2)
-
-Repeal the subsection.
-
-As at 26 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2266,21 +2217,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
