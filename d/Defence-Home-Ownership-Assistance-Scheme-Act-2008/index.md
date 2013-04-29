@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 22 July 2009
- taking into account amendments up to Act No. 46 of 2009
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -151,12 +151,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [50](#50).          Monthly subsidy—average monthly interest
 
 [51](#51).          Monthly subsidy—loan capital
-
-[51A](#51A).       Monthly subsidy—shared liability between partners for subsidised loans
-
-[51B](#51B).       Monthly subsidy—shared liability between partners for subsidised loans if partner dies etc 
-
-[51C](#51C).       Monthly subsidy—joint and several liability for subsidised loans between non-partners
 
 [52](#52).          Monthly subsidy—average house price
 
@@ -321,7 +315,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
 </tr>
 <tr>
@@ -334,7 +328,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>(b) 1 July 2008.</div>
   </td>
   <td>
-    <div>1 July 2008</div>
+    <div>1 July 2008</div>
   </td>
 </tr></table>
 
@@ -392,11 +386,7 @@ Note:          **_Partner_** is defined in this section. For t
 
                     <a name="due-amount"></a>**_due amount_** has the meaning given by section 67.
 
-                    <a name="effect-servic"></a>**_effective service_**, in relation to a person who is, or has been, a member of the Defence Force, means service in the Defence Force by the person that:
-
-                     (a)  if the person has, at any time before, on or after the commencing day, stopped being a member of the Defence Force, and, more than 5 years later, again become a member of the Defence Force—does not include service before the person again became a member of the Defence Force; and
-
-                     (b)  in any case—is recognised as effective service in accordance with the regulations.
+                    <a name="effect-servic"></a>**_effective service_**, in relation to a person who is, or has been, a member of the Defence Force, means service in the Defence Force by the person in accordance with the regulations.
 
                     <a name="elig"></a>**_eligible_** has the meaning given by section 7.
 
@@ -429,8 +419,6 @@ Note:          **_Unit_** is also defined in this section.
                     <a name="intestaci-law"></a>**_intestacy law_** means a law of, or in force in, a State or Territory that provides for the devolution of the estate of a person who dies intestate.
 
                     <a name="loan-capit"></a>**_loan capital_** has the meaning given by section 51.
-
-                    <a name="loan-limit"></a>**_loan limit_** has the meaning given by section 51 (monthly subsidy—loan capital), as affected by sections 51A and 51B (liability for subsidised loans shared between partners).
 
                     <a name="loan-provid"></a>**_loan provider_** means  a body corporate which makes (or which is to make) loans to persons in relation to which this Act applies (or is to apply).
 
@@ -588,10 +576,6 @@ As a result, the original authorisation of the payment of subsidy may be revoked
 
 Note:          For the definition of **_effective service_**, see section 3.
 
-             (3)  A person is not eligible as a serving member at a particular time if the person is eligible as a rejoining incapacitated member (see section 10) or as a rejoining member (see section 11) at that time.
-
-Note:          If a member of the Defence Force has had a break in service of more than 5 years before rejoining the Defence Force, the member’s service before rejoining the Defence Force no longer counts as effective service (see the definition of **_effective service_** in section 3).
-
 ##### <a id="9"></a>9  Eligibility—incapacitated members
 
                    A person is eligible as an incapacitated member at a particular time if the person:
@@ -606,7 +590,7 @@ Note:          If a member of the Defence Force has had a brea
 
                      (a)  before, on or after the commencing day, stopped being a member of the Defence Force because of a compensable condition; and
 
-                     (b)  before, on or after the commencing day, again became a member of the Defence Force within 5 years after he or she stopped being a member; and
+                     (b)  on or after 1 July 2008, again became a member of the Defence Force within 5 years after he or she stopped being a member; and
 
                      (c)  at the eligibility time:
 
@@ -630,7 +614,7 @@ Note:          For the definition of **_effective service_**, 
 
                      (b)  was eligible immediately before he or she stopped being a member; and
 
-                     (c)  before, on or after the commencing day, again became a member of the Defence Force within 5 years after the day on which the person stopped being a member; and
+                     (c)  on or after 1 July 2008, again became a member of the Defence Force within 5 years after the day on which the person stopped being a member; and
 
                      (d)  is a member of the Defence Force at the eligibility time.
 
@@ -682,17 +666,7 @@ Scope
 
 Decision to give, or to refuse to give, subsidy certificate
 
-             (2)  The Secretary must give a subsidy certificate to the applicant if:
-
-                     (a)  section 17, 18, 19 or 20 applies; and
-
-                     (b)  either:
-
-                              (i)  the applicant has a service credit (see section 46); or
-
-                             (ii)  for a case in which section 18 (surviving partners) applies—the applicant has a service credit, or would, if the subsidy certificate were in force, have a service credit (because of the operation of section 63).
-
-Note:          As soon as a subsidy certificate given under section 18 (surviving partners) comes into force, the surviving partner has the service credit the deceased partner would have had, if he or she had not died (see sections 63 and 64).
+             (2)  The Secretary must give a subsidy certificate to the applicant if section 17, 18, 19 or 20 applies.
 
              (3)  The Secretary:
 
@@ -814,8 +788,6 @@ Note:          Section 77 deals with approved forms.
 
                               (i)  if subsidy becomes payable to the person who holds the certificate—immediately after the end of the first authorisation day for the subsidy;
 
-                            (ia)  if the person who holds the subsidy certificate is not a member of the Defence Force (or has stopped being a member of the Defence Force)—as soon as the person no longer has a service credit (see section 46);
-
                              (ii)  if the certificate is cancelled under section 25—at the time of cancellation;
 
                             (iii)  in any other case—12 months after the certificate was given.
@@ -860,17 +832,13 @@ Note:          Part 5 provides for the administrative review
 
 ##### <a id="26"></a>26  Entitlement—form of subsidy
 
-                   Subsidy is only payable to a person in the form of:
+                   Subsidy may be payable to a person in the form of either or both of the following:
 
-                     (a)  monthly subsidy worked out under section 49; or
+                     (a)  monthly subsidy worked out under section 49;
 
-                     (b)  both of the following:
+                     (b)  a subsidy lump sum worked out under section 54.
 
-                              (i)  monthly subsidy worked out under section 49;
-
-                             (ii)  a subsidy lump sum worked out under section 54.
-
-Note:          A subsidy lump sum is only payable to a member of the Defence Force, and is only payable in relation to the first residential property bought while the person is a member of the Defence Force (see section 34).
+Note:          A subsidy lump sum is only payable to a member of the Defence Force in relation to the first home bought during the person’s membership of the Defence Force (see section 34).
 
 ##### <a id="27"></a>27  Entitlement—authorisation by Secretary
 
@@ -934,9 +902,7 @@ Multiple loans and subsidised borrowers who are partners etc.
 
                      (b)  in relation to more than one house, or interest in land, during different entitlement periods; or
 
-                     (c)  to each of 2 subsidised borrowers in his or her own right in relation to the same loan.
-
-Note:          Special rules may apply for working out the amount of loan capital (which affects the amount of subsidy) if a subsidised borrower and another person are liable in respect of the same subsidised loan (see sections 51A, 51B and 51C).
+                     (c)  to 2 subsidised borrowers (each in their own right) in relation to the same loan, or different loans, while the subsidised borrowers are partners.
 
 #### Subdivision B—When subsidy becomes payable
 
@@ -1028,39 +994,19 @@ Note 2:       In the case of a loan for the purpose of building work
 
                      (e)  the subsidised borrower must have at least the number of months standing to his or her service credit that is stated in the request;
 
-                      (f)  the Secretary must be satisfied that there is a reasonable expectation that monthly subsidy will be payable to the subsidised borrower during an entitlement period of:
+                      (f)  the subsidised borrower, or the subsidised borrower and his or her partner together, must not have, at any time while the subsidised borrower has been a member of the Defence Force:
 
-                              (i)  if the subsidised borrower is, at the time, a member of the Permanent Forces—at least one month; or
+                              (i)  bought an interest in land in Australia, resulting in the borrower (or his or her partner together) holding a 50% or greater interest in the land; and
 
-                             (ii)  if the subsidised borrower is, at the time, a member of the Reserves—at least the number of months remaining in the service year;
-
-                     (g)  subsection (2) (previous home ownership etc.) must not apply.
+                             (ii)  occupied a house on the land as a home at or after the time the interest was bought.
 
 Note:          Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents (for example, in a request under paragraph (1)(a)).
 
-Previous home ownership etc.
+             (2)  Paragraph (1)(f) applies in relation to an interest in land:
 
-             (2)  This subsection applies if all of the following conditions are met:
+                     (a)  no matter whether the interest is held individually, as joint tenants or as tenants in common; and
 
-                     (a)  the subsidised borrower has, at a time when the subsidised borrower was a member of the Defence Force, bought an interest in land in Australia;
-
-                     (b)  the purchase results in the borrower, or the borrower and his or her partner together, holding a 50% or greater interest in the land:
-
-                              (i)  no matter whether the interest is held individually, as joint tenants or tenants in common; and
-
-                             (ii)  no matter whether the interest is legal or equitable;
-
-                     (c)  at some time while such an interest is held:
-
-                              (i)  there is a house on the land; and
-
-                             (ii)  the house is occupied by the borrower or another person as a home, or could be occupied by the borrower or another person as a home;
-
-                     (d)  either:
-
-                              (i)  the interest in land is not the interest in relation to which the request for lump sum subsidy is made; or
-
-                             (ii)  if the interest in land is the interest in relation to which the request for lump sum subsidy is made—the interest was bought before the Secretary gave the borrower the subsidy certificate on the basis of which the lump sum subsidy is requested.
+                     (b)  no matter whether the interest is legal or equitable.
 
 Subsidised borrower is surviving partner
 
@@ -1808,7 +1754,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1816,13 +1762,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -1832,17 +1778,15 @@ Note 2:       The median interest rate  is worked out under section�
 
 Loan capital
 
-             (1)  The **_loan capital_** in respect of which subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period is the lesser of the following amounts:
+             (1)  The **_loan capital_** in respect of which subsidy is payable in relation to a subsidised loan during an entitlement period is the lesser of the following amounts:
 
-                     (a)  the capital amount owing by the subsidised borrower on the subsidised loan on the first authorisation day for that period;
+                     (a)  the capital amount owing on the subsidised loan on the first authorisation day for that period;
 
-                     (b)  the amount of the subsidised borrower’s loan limit (see subsection (2)), as applicable from time to time during the entitlement period.
-
-Note:          Special rules may apply for working out the amount of loan capital if a subsidised borrower and another person are liable in respect of the same subsidised loan (see sections 51A, 51B and 51C).
+                     (b)  the amount of the loan limit for the subsidised loan under this section, as applicable from time to time during the entitlement period.
 
 Loan limit—general rule
 
-             (2)  The **_loan limit_** at a particular time (the **_loan limit time_**) for a subsidised borrower who meets a description in an item in the following table at the loan limit time is as set out in the item according to the years of effective service completed (whether before or after the commencing day) by the borrower as at the loan limit time.
+             (2)  The loan limit at a particular time (the **_loan limit time_**) for a subsidised loan to a subsidised borrower who meets a description in an item in the following table at the loan limit time is as set out in the item according to the years of effective service completed (whether before or after the commencing day) by the borrower as at the loan limit time.
 
 <table>
 <colgroup>
@@ -2028,141 +1972,17 @@ Loan limit—applicable average house price
 
 Note:          The average house price is determined under section 52.
 
-##### <a id="51A"></a>51A  Monthly subsidy—shared liability between partners for subsidised loans 
+Loan limit—partners who are subsidised borrowers in relation to a single subsidised loan
 
-Scope
+             (4)  If 2 subsidised borrowers who are partners are parties to a single subsidised loan, the amount of the loan limit for the loan is the sum of the amounts of the loan limits that would apply in relation to each of the subsidised borrowers if he or she were the sole party to the loan.
 
-             (1)  This section applies to a subsidised borrower if the borrower and his or her partner are parties to a single subsidised loan, whether they are liable jointly and severally, or individually.
+             (5)  The amount of the loan limit for a subsidised loan is not affected if:
 
-Loan capital rules
+                     (a)  it is covered by subsection (4) at a particular time; and
 
-             (2)  The following table has effect for the purposes of section 51:
+                     (b)  either party to the subsidised loan dies after that time.
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="30%">
-  <col width="30%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Shared liability between partners</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If…</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the capital amount owing by the subsidised borrower on the subsidised
-          loan on the first authorisation day for the entitlement period is taken
-          to be…</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the amount of the subsidised borrower’s loan limit at a particular time
-          is…</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>both of the parties to the loan are subsidised borrowers</div>
-  </td>
-  <td>
-    <div>50% of the total capital amount owing on the subsidised loan at that time</div>
-  </td>
-  <td>
-    <div>the average of the amounts of the loan limits that would apply in relation
-      to each of the subsidised borrowers at that time if he or she were the
-      sole party to the loan.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>only one of the parties to the loan is a subsidised borrower</div>
-  </td>
-  <td>
-    <div>100% of the total capital amount owing on the subsidised loan at that
-      time</div>
-  </td>
-  <td>
-    <div>the loan limit that applies under subsection 51(2) at that time.</div>
-  </td>
-</tr></table>
-
-##### <a id="51B"></a>51B  Monthly subsidy—shared liability between partners for subsidised loans if partner dies etc.
-
-Scope
-
-             (1)  This section applies to a subsidised borrower (the **_surviving borrower_**) if:
-
-                     (a)  the borrower’s partner (the **_deceased borrower_**) has died; and
-
-                     (b)  at the time of death, item 1 of the table in subsection 51A(2) applied to the surviving borrower and the deceased borrower because:
-
-                              (i)  they were parties to a single subsidised loan; and
-
-                             (ii)  each of them was a subsidised borrower in his or her own right; and
-
-                     (c)  with effect from the time of death, the entitlement of the deceased borrower to the payment of subsidy in relation to the subsidised loan is transferred to the surviving borrower under section 60 (joint interest in land) or 61 (inherited interest in land).
-
-Loan capital rules
-
-             (2)  At and after the time of death:
-
-                     (a)  item 1 of the table in subsection 51A(2) continues to apply to the surviving borrower, in his or her own right, in relation to the subsidised loan; and
-
-                     (b)  for the purposes of that application, the amount of the surviving borrower’s loan limit at a particular time (the **_loan limit time_**) is the average of the amounts of the loan limits that would apply in relation to the surviving borrower and the deceased borrower at the loan limit time if:
-
-                              (i)  the deceased borrower were still alive, and had the loan limit (under subsection 51(2)) that would have applied to him or her at the time of death if he or she were the sole party to the loan; and
-
-                             (ii)  the surviving borrower had the loan limit (under subsection 51(2)) that would apply to him or her at the loan limit time if he or she were the sole party to the loan.
-
-Note:          This section applies only to the surviving borrower’s entitlement to subsidy in his or her own right, and not to the entitlement transferred from the deceased borrower (as mentioned in paragraph (1)(c)). For how the transferred entitlement applies to the surviving borrower, see sections 64 and 65.
-
-##### <a id="51C"></a>51C  Monthly subsidy—joint and several liability for subsidised loans between non-partners
-
-Scope
-
-             (1)  This section applies to a subsidised borrower if:
-
-                     (a)  the borrower is jointly and severally liable with another person in respect of the subsidised loan; and
-
-                     (b)  the other person is not the borrower’s partner.
-
-Loan capital rules
-
-             (2)  For the purposes of section 51:
-
-                     (a)  the capital amount owing by the subsidised borrower on the subsidised loan on the first authorisation day for the entitlement period is taken to be 50% of the total capital amount owing on the subsidised loan at that time; and
-
-                     (b)  at any particular time, the subsidised borrower has the loan limit that applies under subsection 51(2).
-
-Note 1:       If liability for the subsidised loan is shared between the subsidised borrower and his or her partner, see sections 51A and 51B.
-
-Note 2:       If the subsidised borrower and another person (other than the borrower’s partner) are liable individually in respect of the subsidised loan, section 51 applies in relation to the actual capital amount owing by the borrower on the subsidised loan.
+Note:          Entitlement to subsidy may be transferred from a deceased partner to a surviving partner in certain circumstances, without the requirement for the surviving partner to obtain a new subsidy certificate (see sections 60 and 61).
 
 ##### <a id="52"></a>52  Monthly subsidy—average house price
 
@@ -2196,7 +2016,7 @@ Note 2:       If the subsidised borrower and another person (other t
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -2875,7 +2695,7 @@ Note:          An internal review decision is reviewable by th
 
 ## Part 6—Administration
 
-##### <a id="77"></a>77  Approved forms
+##### <a id="77"></a>77  Approved forms
 
              (1)  This section applies if this Act requires a thing to be in the approved form.
 
@@ -3003,7 +2823,7 @@ Secretary may delegate to authorised Commonwealth contractor
 
              (2)  The Secretary may, by signed instrument, delegate to a senior employee of a person (the **_authorised Commonwealth contractor_**) covered by subsection (3) any or all of the Secretary’s functions or powers under this Act or the regulations, other than a power or function under:
 
-                     (a)  section 74 or 75 (review of decisions); or
+                     (a)  section 73, 74 or 75 (review of decisions); or
 
                      (b)  section 77 (approval of forms).
 
@@ -3077,7 +2897,7 @@ Note:          **_SES employee_** and **_acting SES employee_*
 
 The _Defence Home Ownership Assistance Scheme Act 2008_ as shown in this compilation comprises Act No. 27, 2008 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -3119,7 +2939,7 @@ of Assent</div>
     <div>27, 2008</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
   <td>
     <div>Ss. 3–85: 1 July 2008 
@@ -3143,24 +2963,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2: 20 Mar 2009</div>
   </td>
   <td>
-    <div>Sch. 2 (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2009</div>
-  </td>
-  <td>
-    <div>46, 2009</div>
-  </td>
-  <td>
-    <div>24 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2: 22 July 2009</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 4, 7, 11, 21, 23)</div>
+    <div>Sch. 2 (item 2)</div>
   </td>
 </tr></table>
 
@@ -3172,211 +2975,25 @@ Remainder: Royal Assent</div>
   <col width="68%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 51(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51A–51C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3384,7 +3001,7 @@ Remainder: Royal Assent</div>
     <div>S. 83</div>
   </td>
   <td>
-    <div>am. No. 90, 2008</div>
+    <div>am. No. 90, 2008</div>
   </td>
 </tr></table>
 
@@ -3394,58 +3011,10 @@ Remainder: Royal Assent</div>
 
 _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
-## Schedule 2
+## Schedule 2
 
 ## 2  Application
 
 The amendment made by item 1 applies in relation to agreements covered by subsection 83(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ entered into on or after the commencement of that item.
-
-* * *
-
-_Defence Legislation Amendment Act (No. 1) 2009 (No. 46, 2009)_
-
-## Schedule 2
-
-## 4  Application—rejoining members amendments
-
-The amendments made by this Part apply in relation to:
-
-                     (a)  a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the day the amendments commence; and
-
-                     (b)  the payment of subsidy to a person under that Act during an entitlement period, if the subsidy certificate to which the entitlement period relates was given to the person on or after the day the amendments commence.
-
-_Note:       The amendments commence 28 days after the day this Act receives the Royal Assent._
-
-## 7  Application—subsidy certificates and service credits amendments
-
-(1)        The amendment made by item 5 applies in relation to a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the day the amendment commences.
-
-(2)        The amendment made by item 6 applies in relation to a subsidy certificate given to a person under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
-
-_Note:       The amendments commence 28 days after the day this Act receives the Royal Assent._
-
-## 11  Application—subsidy lump sum amendments
-
-The amendments made by this Part apply in relation to a request for the payment of a subsidy lump sum made under paragraph 34(1)(a) of the _Defence Home Ownership Assistance Scheme Act 2008_, if the request is made on or after the day the amendments commence.
-
-_Note:       The amendments commence 28 days after the day this Act receives the Royal Assent._
-
-## 21  Application—shared liability amendments
-
-The amendments made by this Part apply in relation to the payment of subsidy under the _Defence Home Ownership Assistance Scheme Act 2008_ to a person during an entitlement period that starts on or after the day the amendments commence.
-
-_Note:       The amendments commence 28 days after the day this Act receives the Royal Assent._
-
-## 23  Transitional—delegations amendment
-
-Application
-
-(1)        The amendment made by this Part applies to a delegation given under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
-
-Saving
-
-(2)        A delegation in force under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ immediately before the day the amendment made by this Part commences continues to have effect, on and after that day, as if it were a delegation under that subsection as amended by this Part.
-
-_Note:       The amendment commences 28 days after the day this Act receives the Royal Assent._
 
  
