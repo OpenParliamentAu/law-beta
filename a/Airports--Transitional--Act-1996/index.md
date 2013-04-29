@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00507/Html/6e8cc5f0-3baa-471b-8792-0c9b3d087440_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00368/Html/d683f10c-5312-4fe7-9996-2e127675dfae_files/image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 5 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 10 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -342,7 +342,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Airports (Transitional) Act 1996_.
+                   This Act may be cited as the _Airports (Transitional) Act 1996_.
 
 ##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
@@ -1144,7 +1144,7 @@ this Act.</li>
 
 ### Division 3—Special income tax rules
 
-##### <a id="48A"></a>48A  Definitions
+##### <a id="48A"></a>48A  Definitions
 
                    In this Division:
 
@@ -1334,7 +1334,7 @@ the company may apply to the DAA for a transfer of the benefits of the registrat
 
 ### Division 1—Simplified outline
 
-##### <a id="57"></a>57  Simplified outline
+##### <a id="57"></a>57  Simplified outline
 
                    The following is a simplified outline of this Part:
 
@@ -2597,23 +2597,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 60) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 11 (item 60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
@@ -3309,20 +3292,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 60  Subsection 55(3)
-
-Repeal the subsection.
-
-As at 5 July 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3439,21 +3408,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
