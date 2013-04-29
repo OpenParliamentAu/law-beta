@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 4 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -494,7 +494,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [187](#187).        Duty of witness
 
-[188](#188).        Issue of certificate and ballot papers
+[188](#188).        Issue of certificate and ballot-papers
 
 [189](#189).        Inspection of applications
 
@@ -514,11 +514,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [195A](#195A).     Procedure for dealing with postal vote certificates etc 
 
-[196](#196).        Opening of postal ballot paper
+[196](#196).        Opening of postal ballot-paper
 
 [197](#197).        Failure to post or deliver postal vote application etc 
 
-[198](#198).        Inducing elector to hand over marked ballot paper
+[198](#198).        Inducing elector to hand over marked ballot-paper
 
 [199](#199).        Correction of formal errors
 
@@ -602,25 +602,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [208](#208).        Certified lists of voters [_see_ Note 7]
 
-[209](#209).        Ballot papers
+[209](#209).        Ballot-papers
 
 [209A](#209A).     Official mark
 
-[210](#210).        Printing of Senate ballot papers
+[210](#210).        Printing of Senate ballot-papers
 
-[210A](#210A).     Form of party name on ballot papers
+[210A](#210A).     Form of party name on ballot-papers
 
 [211](#211).        Group voting tickets
 
 [211A](#211A).     Individual voting tickets
 
-[212](#212).        Ballot papers for House of Representatives elections
+[212](#212).        Ballot-papers for House of Representatives elections
 
 [213](#213).        Determination of order of names
 
-[214](#214).        Printing of political party names etc  on ballot papers
+[214](#214).        Printing of political party names etc  on ballot-papers
 
-[215](#215).        Ballot papers to be initialled
+[215](#215).        Ballot-papers to be initialled
 
 [216](#216).        Group voting tickets to be displayed
 
@@ -654,7 +654,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [230](#230).        Errors not to forfeit vote
 
-[231](#231).        Right of elector to receive ballot paper
+[231](#231).        Right of elector to receive ballot-paper
 
 [232](#232).        Voters to be recorded
 
@@ -666,7 +666,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [235](#235).        Provisional votes
 
-[238](#238).        Spoilt ballot papers
+[238](#238).        Spoilt ballot-papers
 
 [239](#239).        Marking of votes in Senate election
 
@@ -696,7 +696,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [250](#250).        Arrangements for the polling in Antarctica
 
-[251](#251).        Ballot papers to be initialled
+[251](#251).        Ballot-papers to be initialled
 
 [252](#252).        Candidates not to take part in polling
 
@@ -706,7 +706,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [255](#255).        Questions to be put to voter at Antarctic station
 
-[256](#256).        Right of Antarctic elector to receive ballot paper
+[256](#256).        Right of Antarctic elector to receive ballot-paper
 
 [257](#257).        List of Antarctic electors to be marked
 
@@ -716,7 +716,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [260](#260).        Result of the polling in Antarctica
 
-[261](#261).        Preservation of ballot papers etc 
+[261](#261).        Preservation of ballot-papers etc 
 
 [262](#262).        Application of Part
 
@@ -730,17 +730,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [266](#266).        Preliminary scrutiny of declaration votes
 
-[267](#267).        Action on objections to ballot papers
+[267](#267).        Action on objections to ballot-papers
 
-[268](#268).        Informal ballot papers
+[268](#268).        Informal ballot-papers
 
 [269](#269).        Formal votes according to group voting ticket
 
 [270](#270).        Certain votes with non-consecutive numbers to be formal
 
-[271](#271).        Officers not to mark ballot papers so that voter can be identified
+[271](#271).        Officers not to mark ballot-papers so that voter can be identified
 
-[272](#272).        Senate ballot papers deemed to be marked according to group voting tickets
+[272](#272).        Senate ballot-papers deemed to be marked according to group voting tickets
 
 [273](#273).        Scrutiny of votes in Senate elections
 
@@ -750,7 +750,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [274](#274).        Scrutiny of votes in House of Representatives elections
 
-[275](#275).        Scrutiny prior to receipt of declaration ballot papers
+[275](#275).        Scrutiny prior to receipt of declaration ballot-papers
 
 [276](#276).        Provisional scrutiny
 
@@ -766,7 +766,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [280](#280).        Powers of officer conducting re-count
 
-[281](#281).        Reservation of disputed ballot papers
+[281](#281).        Reservation of disputed ballot-papers
 
 [282](#282).        Re-count of Senate votes to determine order of election in other circumstances
 
@@ -920,7 +920,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [328](#328).        Printing and publication of electoral advertisements, notices etc 
 
-[328A](#328A).     Publication of electoral advertisements on the internet
+[328A](#328A).     Publication of electoral advertisements on the Internet
 
 [329](#329).        Misleading or deceptive publications etc 
 
@@ -936,9 +936,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [337](#337).        Witnessing electoral papers
 
-[338](#338).        Unlawfully marking ballot papers
+[338](#338).        Unlawfully marking ballot-papers
 
-[339](#339).        Other offences relating to ballot papers etc 
+[339](#339).        Other offences relating to ballot-papers etc 
 
 [340](#340).        Prohibition of canvassing near polling booths
 
@@ -990,7 +990,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [364](#364).        Real justice to be observed
 
-[364A](#364A).     Provision for Court to have regard to certain rejected ballot papers
+[364A](#364A).     Provision for Court to have regard to certain rejected ballot-papers
 
 [365](#365).        Immaterial errors not to vitiate election
 
@@ -1194,7 +1194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="immigr-depart"></a>**_Immigration Department_** means the Department administered by the Minister who administers the _Migration Act 1958_.
 
-                    <a name="issuing-point"></a>**_Issuing point_**, in relation to a polling booth, means a place within the polling booth at which ballot papers are issued to persons voting at the booth.
+                    <a name="issuing-point"></a>**_Issuing point_**, in relation to a polling booth, means a place within the polling booth at which ballot-papers are issued to persons voting at the booth.
 
                     <a name="itiner-elector"></a>**_Itinerant elector_** means an elector who is entitled under section 96 to be treated as an itinerant elector.
 
@@ -1722,7 +1722,7 @@ prepare and furnish to the Minister a report of the operation of Part XX in re
 
              (5)  A person acting as the Electoral Commissioner has, and may exercise, all the powers and shall perform all the functions of the Electoral Commissioner.
 
-##### <a id="20"></a>20  Australian Electoral Officers for States
+##### <a id="20"></a>20  Australian Electoral Officers for States
 
              (1)  There shall be an Australian Electoral Officer for each State who shall, subject to the directions of the Electoral Commissioner, be the principal electoral officer in the State.
 
@@ -2320,7 +2320,7 @@ shall be taken, for the purposes of this Part, not to be an elector.
 
 ##### <a id="56"></a>56  States and Australian Capital Territory to be distributed into Electoral Divisions
 
-                   Each State and the Australian Capital   Territory shall be distributed into Electoral Divisions.
+                   Each State and the Australian Capital Territory shall be distributed into Electoral Divisions.
 
 ##### <a id="56A"></a>56A  Certain Territories to be included in same Division
 
@@ -2620,7 +2620,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
                    At any time before the publication of the notice referred to in paragraph 68(1)(c), a Redistribution Committee for a State or the Australian Capital Territory may, whether by issuing a statement to the media or otherwise, make publicly known the outline of its plan for the proposed redistribution of the State or Territory.
 
-##### <a id="68"></a>68  Notice of proposed redistribution
+##### <a id="68"></a>68  Notice of proposed redistribution
 
              (1)  A Redistribution Committee for a State or the Australian Capital Territory shall, as soon as practicable after it has made its proposed redistribution of the State or Territory:
 
@@ -2862,7 +2862,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
              (2)  The Minister shall cause copies of the suggestions, comments, proposed redistribution, reasons, objections, written record and determination referred to in subsection (1) to be laid before each House of the Parliament within 5 sitting days of that House after receiving a copy of them.
 
-##### <a id="76"></a>76  Mini-redistribution
+##### <a id="76"></a>76  Mini-redistribution
 
              (1)  Where, on a day (in this section referred to as the **_relevant day_**) on which the Governor-General causes writs (in this section referred to as the **_writs_**) for a general election to be issued, the number (in this section referred to as the **_present entitlement of the State_**) of members of the House of Representatives to be chosen in a State at the general election differs from the number (in this section referred to as the **_previous entitlement of the State_**) of Divisions in accordance with which the State is for the time being distributed, a redistribution of the State into Divisions shall take place under this section.
 
@@ -3251,12 +3251,8 @@ Other access
       candidate is seeking election</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after the close of the Rolls; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after the close of the Rolls; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3267,24 +3263,14 @@ Other access
     <div>a registered political party</div>
   </td>
   <td>
-    <div>
-      (a) a copy of the latest print of the Roll for each State and Territory;
-        and
-    </div>
-    <div>
-      (b) a copy of the Roll for each State and Territory
-    </div>
+    <div>(a) a copy of the latest print of the Roll for each State and Territory;
+      and</div>
+    <div>(b) a copy of the Roll for each State and Territory</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after a general election; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) as soon as practicable after a general election; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3298,15 +3284,9 @@ Other access
     <div>a copy of the habitation index for each Division</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after a general election; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) as soon as practicable after a general election; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3320,15 +3300,9 @@ Other access
     <div>a copy of a habitation index</div>
   </td>
   <td>
-    <div>
-      (a) on request by the party; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) on request by the party; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3343,15 +3317,9 @@ Other access
       election</div>
   </td>
   <td>
-    <div>
-      (a) on request by the party; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) on request by the party; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3367,15 +3335,9 @@ Other access
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the party; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) on request by the party; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3390,15 +3352,9 @@ Other access
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the party; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9); and
-    </div>
-    <div>
-      (c) subject to subsection (3).
-    </div>
+    <div>(a) on request by the party; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9); and</div>
+    <div>(c) subject to subsection (3).</div>
   </td>
 </tr>
 <tr>
@@ -3413,13 +3369,9 @@ Other access
       or Territory used in a Senate election</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after the result of the Senate election is
-        declared under section 283; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after the result of the Senate election is
+      declared under section 283; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3430,21 +3382,13 @@ Other access
     <div>a Senator for a State or Territory</div>
   </td>
   <td>
-    <div>
-      (a) 3 copies of the latest print of the Roll for the State or Territory;
-        and
-    </div>
-    <div>
-      (b) a copy of the Roll for the State or Territory
-    </div>
+    <div>(a) 3 copies of the latest print of the Roll for the State or Territory;
+      and</div>
+    <div>(b) a copy of the Roll for the State or Territory</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after a general election; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after a general election; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3459,16 +3403,10 @@ Other access
       the House of Representatives for a Division in the State or Territory</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after the member of the House of Representatives
-        is declared elected for the Division under section 284; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) the Senator is not entitled to a copy of the same list under item 7.
-    </div>
+    <div>(a) as soon as practicable after the member of the House of Representatives
+      is declared elected for the Division under section 284; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) the Senator is not entitled to a copy of the same list under item 7.</div>
   </td>
 </tr>
 <tr>
@@ -3483,12 +3421,8 @@ Other access
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the Senator; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) on request by the Senator; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3504,12 +3438,8 @@ Other access
       election in which the Senator was elected</div>
   </td>
   <td>
-    <div>
-      (a) on request by the Senator; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) on request by the Senator; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3524,13 +3454,9 @@ Other access
       member is elected</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after the member is declared elected under
-        section 284; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after the member is declared elected under
+      section 284; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3541,21 +3467,13 @@ Other access
     <div>a member of the House of Representatives</div>
   </td>
   <td>
-    <div>
-      (a) 3 copies of the latest print of the Roll for the Division for which
-        the member was elected; and
-    </div>
-    <div>
-      (b) a copy of the Roll for the Division for which the member is elected
-    </div>
+    <div>(a) 3 copies of the latest print of the Roll for the Division for which
+      the member was elected; and</div>
+    <div>(b) a copy of the Roll for the Division for which the member is elected</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after a general election; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after a general election; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3571,16 +3489,10 @@ Other access
       for a Senate election</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after the result of the Senate election is
-        declared under section 283; and
-    </div>
-    <div>
-      (b) without charge; and
-    </div>
-    <div>
-      (c) the member is not entitled to a copy of the same list under item 11.
-    </div>
+    <div>(a) as soon as practicable after the result of the Senate election is
+      declared under section 283; and</div>
+    <div>(b) without charge; and</div>
+    <div>(c) the Senator is not entitled to a copy of the same list under item 11.</div>
   </td>
 </tr>
 <tr>
@@ -3595,12 +3507,8 @@ Other access
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the member; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) on request by the member; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3616,12 +3524,8 @@ Other access
       election in which the member was elected</div>
   </td>
   <td>
-    <div>
-      (a) on request by the member; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) on request by the member; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3638,12 +3542,8 @@ Other access
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the member; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) on request by the member; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3654,22 +3554,14 @@ Other access
     <div>an electoral authority of a State or Territory</div>
   </td>
   <td>
-    <div>
-      (a) any information on a Roll; and
-    </div>
-    <div>
-      (b) any other information that an arrangement under section 84 allows
-        or requires the Electoral Commission to provide to the authority
-    </div>
+    <div>(a) any information on a Roll; and</div>
+    <div>(b) any other information that an arrangement under section 84 allows
+      or requires the Electoral Commission to provide to the authority</div>
   </td>
   <td>
-    <div>
-      (a) an arrangement under section 84 allows or requires the information
-        to be provided to the authority; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) an arrangement under section 84 allows or requires the information
+      to be provided to the authority; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr></table>
 
@@ -3738,12 +3630,8 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll</div>
   </td>
   <td>
-    <div>
-      (a) as soon as practicable after a general election; and
-    </div>
-    <div>
-      (b) without charge.
-    </div>
+    <div>(a) as soon as practicable after a general election; and</div>
+    <div>(b) without charge.</div>
   </td>
 </tr>
 <tr>
@@ -3755,26 +3643,16 @@ Information on Rolls may be provided to particular people and organisations
       a health screening program</div>
   </td>
   <td>
-    <div>
-      (a) a copy of a Roll (or an extract of a Roll); and
-    </div>
-    <div>
-      (b) if the Electoral Commission wishes—information about:
-    </div>
+    <div>(a) a copy of a Roll (or an extract of a Roll); and</div>
+    <div>(b) if the Electoral Commission wishes—information about:</div>
     <div>(i) the sex of; or</div>
     <div>(ii) the age range that covers;</div>
-    <div>
-      a person included on the Roll
-    </div>
+    <div>a person included on the Roll</div>
     <div>See also subsection (5).</div>
   </td>
   <td>
-    <div>
-      (a) on request by the person or organisation; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) on request by the person or organisation; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr>
 <tr>
@@ -3788,12 +3666,8 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>
-      (a) on request by the person or organisation; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) on request by the person or organisation; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr>
 <tr>
@@ -3804,27 +3678,17 @@ Information on Rolls may be provided to particular people and organisations
     <div>a prescribed authority</div>
   </td>
   <td>
-    <div>
-      (a) any information on a Roll; and
-    </div>
-    <div>
-      (b) if the Electoral Commission wishes—information about:
-    </div>
+    <div>(a) any information on a Roll; and</div>
+    <div>(b) if the Electoral Commission wishes—information about:</div>
     <div>(i) the sex of; or</div>
     <div>(ii) the date of birth of; or</div>
     <div>(iii) the occupation of;</div>
-    <div>
-      a person whose name is included on the Roll
-    </div>
+    <div>a person whose name is included on the Roll</div>
   </td>
   <td>
-    <div>
-      (a) the provision of the information is authorised by the regulations;
-        and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) the provision of the information is authorised by the regulations;
+      and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr>
 <tr>
@@ -3841,12 +3705,8 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>
-      (a) on request by the person or organisation; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) on request by the person or organisation; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr>
 <tr>
@@ -3855,25 +3715,17 @@ Information on Rolls may be provided to particular people and organisations
   </td>
   <td>
     <div>a prescribed person or organisation that:</div>
-    <div>
-      (a) is a reporting entity or an agent of a reporting entity; and
-    </div>
-    <div>
-      (b) carries out applicable customer identification procedures under the
-        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
-
+    <div>(a) is a reporting entity or an agent of a reporting entity; and</div>
+    <div>(b) carries out applicable customer identification procedures under the
+      <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
     </div>
   </td>
   <td>
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>
-      (a) on request by the person or organisation; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) on request by the person or organisation; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr>
 <tr>
@@ -3882,12 +3734,8 @@ Information on Rolls may be provided to particular people and organisations
   </td>
   <td>
     <div>a prescribed person or organisation that, under an arrangement with:</div>
-    <div>
-      (a) a reporting entity; or
-    </div>
-    <div>
-      (b) an agent of a reporting entity;
-    </div>
+    <div>(a) a reporting entity; or</div>
+    <div>(b) an agent of a reporting entity;</div>
     <div>provides information for the purpose of facilitating the carrying out
       of applicable customer identification procedures under the
       <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
@@ -3897,12 +3745,8 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>
-      (a) on request by the person or organisation; and
-    </div>
-    <div>
-      (b) on payment of the fee (if any) payable under subsection (9).
-    </div>
+    <div>(a) on request by the person or organisation; and</div>
+    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
   </td>
 </tr></table>
 
@@ -6332,11 +6176,11 @@ the candidate may set out in his or her nomination the address recorded in that 
 
                      (b)  a commonly accepted variation of that name (including an abbreviation or truncation of that name or an alternative form of that name).
 
-             (4)  A nomination shall include a statement of the form in which the candidate’s name or candidates’ names, as the case may be, is or are to be printed on the ballot papers for the election.
+             (4)  A nomination shall include a statement of the form in which the candidate’s name or candidates’ names, as the case may be, is or are to be printed on the ballot-papers for the election.
 
              (5)  Where:
 
-                     (a)  persons to be nominated as candidates in a Senate election wish to have their names grouped in the ballot papers; and
+                     (a)  persons to be nominated as candidates in a Senate election wish to have their names grouped in the ballot-papers; and
 
                      (b)  those persons have been endorsed for that election by different registered political parties;
 
@@ -6370,9 +6214,9 @@ to set out his or her address on a nomination paper.
 
              (1)  Two or more candidates for election to the Senate may make a joint request:
 
-                     (a)  that their names be grouped in the ballot papers; or
+                     (a)  that their names be grouped in the ballot-papers; or
 
-                     (b)  that their names be grouped in the ballot papers in a specified order.
+                     (b)  that their names be grouped in the ballot-papers in a specified order.
 
              (2)  A request under subsection (1) shall be in writing, signed by the candidates, and shall be given to the Australian Electoral Officer with the nomination or nominations of the candidates.
 
@@ -6380,7 +6224,7 @@ to set out his or her address on a nomination paper.
 
 ##### <a id="169"></a>169  Notification of party endorsement
 
-             (1)  The registered officer of a registered political party may request that the name, or the registered abbreviation of the name, of that party be printed on the ballot papers for an election adjacent to the name of a candidate who has been endorsed by that party.
+             (1)  The registered officer of a registered political party may request that the name, or the registered abbreviation of the name, of that party be printed on the ballot-papers for an election adjacent to the name of a candidate who has been endorsed by that party.
 
              (3)  A request under subsection (1) shall be in writing, signed by the person making the request, and shall:
 
@@ -6394,13 +6238,13 @@ to set out his or her address on a nomination paper.
 
                      (b)  the candidates propose to have a group voting ticket registered for the purposes of that election;
 
-the request may include a further request that the name of the registered political party that endorsed the candidates, or a composite name formed from the registered names of the registered political parties that endorsed the candidates, be printed on the ballot papers adjacent to the square printed in relation to the group in accordance with subsection 211(5).
+the request may include a further request that the name of the registered political party that endorsed the candidates, or a composite name formed from the registered names of the registered political parties that endorsed the candidates, be printed on the ballot-papers adjacent to the square printed in relation to the group in accordance with subsection 211(5).
 
              (5)  In this section, **_registered abbreviation_**, in relation to the name of a registered political party, has the same meaning as in section 210A.
 
 ##### <a id="169A"></a>169A  Notification of independent candidacy
 
-             (1)  A candidate in an election may request that the word “Independent” be printed adjacent to the candidate’s name on the ballot papers for use in that election.
+             (1)  A candidate in an election may request that the word “Independent” be printed adjacent to the candidate’s name on the ballot-papers for use in that election.
 
              (2)  A request under subsection (1) shall be in writing, signed by the candidate, and shall be given to the Australian Electoral Officer or the Divisional Returning Officer, as the case requires, with the nomination of the candidate.
 
@@ -6482,7 +6326,7 @@ in legal tender or in a cheque drawn by a bank or other financial institution on
 
 ##### <a id="171"></a>171  Form of consent to act
 
-                   The consent of the person nominated to act if elected and the declaration referred to in paragraph 170(1)(b) shall be sufficient if the person signs the form of consent and declaration at the foot of the nomination paper, but the Australian Electoral Officer or Divisional Returning Officer receiving the nomination may accept any other form of consent and declaration whether accompanying the nomination paper or not that the officer deems satisfactory, and such acceptance shall be final.
+                   The consent of the person nominated to act if elected and the declaration referred to in paragraph 170(a)(ii) shall be sufficient if the person signs the form of consent and declaration at the foot of the nomination paper, but the Australian Electoral Officer or Divisional Returning Officer receiving the nomination may accept any other form of consent and declaration whether accompanying the nomination paper or not that the officer deems satisfactory, and such acceptance shall be final.
 
 ##### <a id="172"></a>172  Rejection of nominations and requests
 
@@ -6500,7 +6344,7 @@ in legal tender or in a cheque drawn by a bank or other financial institution on
 
                               (i)  if the total number of votes polled in the candidate’s favour as first preferences is at least 4% of the total number of votes polled in favour of the candidates in the election as first preferences; or
 
-                             (ii)  in a case where the name of the candidate is included, in ballot papers used in the election, in a group in pursuance of section 168—if the sum of the votes polled in favour of each of the candidates included in the group as first preferences is at least 4% of the total number of votes polled in favour of the candidates in the election as first preferences; or
+                             (ii)  in a case where the name of the candidate is included, in ballot-papers used in the election, in a group in pursuance of section 168—if the sum of the votes polled in favour of each of the candidates included in the group as first preferences is at least 4% of the total number of votes polled in favour of the candidates in the election as first preferences; or
 
                      (b)  in the case of a House of Representatives election, if the total number of votes polled in the candidate’s favour as first preferences is at least 4% of the total number of votes polled in favour of the candidates in the election as first preferences;
 
@@ -6828,7 +6672,7 @@ the DRO shall register the claimant as a general postal voter.
 
 ##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
 
-             (1)  As soon as a DRO for a Division receives ballot papers for a Senate election or a House of Representatives election, or both, as the case may be, the DRO must send or arrange for the delivery of postal voting papers to each registered general postal voter for the Division.
+             (1)  As soon as a DRO for a Division receives ballot-papers for a Senate election or a House of Representatives election, or both, as the case may be, the DRO must send or arrange for the delivery of postal voting papers to each registered general postal voter for the Division.
 
              (2)  In this section:
 
@@ -6836,7 +6680,7 @@ the DRO shall register the claimant as a general postal voter.
 
                      (a)  a postal vote certificate printed on an envelope; and
 
-                     (b)  one postal ballot paper for a Senate election or one postal ballot paper for a House of Representatives election, or both, as the case requires; and
+                     (b)  one postal ballot-paper for a Senate election or one postal ballot-paper for a House of Representatives election, or both, as the case requires; and
 
                      (c)  if the envelope on which the postal vote certificate is printed is not itself addressed to the DRO for the Division for which the general postal voter is registered—an envelope addressed to that DRO.
 
@@ -6858,13 +6702,13 @@ the DRO shall register the claimant as a general postal voter.
 
              (2)  The person who witnesses the signature of the elector to the application shall sign the application in his or her own handwriting and write on the application the date of signature.
 
-##### <a id="188"></a>188  Issue of certificate and ballot papers
+##### <a id="188"></a>188  Issue of certificate and ballot-papers
 
              (1)  A DRO or Assistant Returning Officer who receives an application, properly signed and witnessed, for a postal vote must (unless the application fails to meet the deadline as mentioned in subsection 184(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (3) and (4) of this section applies:
 
                      (a)  a postal vote certificate printed on an envelope; and
 
-                     (b)  one postal ballot paper for a Senate election or one postal ballot paper for a House of Representatives election, or both, as the case requires; and
+                     (b)  one postal ballot-paper for a Senate election or one postal ballot-paper for a House of Representatives election, or both, as the case requires; and
 
                      (c)  if the envelope on which the postal vote certificate is printed is not itself addressed to:
 
@@ -6894,15 +6738,15 @@ Note:          If the application is received after 6 pm on th
 
 ##### <a id="189"></a>189  Inspection of applications
 
-             (1)  A DRO who issues a postal vote certificate and postal ballot paper shall:
+             (1)  A DRO who issues a postal vote certificate and postal ballot-paper shall:
 
-                     (a)  write on the application the date of issue of the certificate and ballot paper; and
+                     (a)  write on the application the date of issue of the certificate and ballot-paper; and
 
                      (b)  if the DRO is not the appropriate DRO, send the application to the appropriate DRO.
 
-             (2)  An Assistant Returning Officer who issues a postal vote certificate and postal ballot paper shall:
+             (2)  An Assistant Returning Officer who issues a postal vote certificate and postal ballot-paper shall:
 
-                     (a)  write on the application the date of issue of the certificate and ballot paper; and
+                     (a)  write on the application the date of issue of the certificate and ballot-paper; and
 
                      (b)  deal with the application in accordance with subsection 228(8).
 
@@ -7004,7 +6848,7 @@ Definitions
 
              (1)  A DRO or Assistant Returning Officer shall allocate a number to each application for a postal vote and shall number each postal vote certificate with a number corresponding to the number of the application.
 
-             (2)  The DRO or Assistant Returning Officer who issues a ballot paper shall initial the top of the front of the paper.
+             (2)  The DRO or Assistant Returning Officer who issues a ballot-paper shall initial the top of the front of the paper.
 
 ##### <a id="192"></a>192  Form of postal vote certificate
 
@@ -7038,13 +6882,13 @@ Definitions
 
              (1)  The following requirements for postal voting shall be substantially observed:
 
-                     (a)  the elector shall show the unsigned postal vote certificate and the unmarked postal ballot paper to an authorised witness;
+                     (a)  the elector shall show the unsigned postal vote certificate and the unmarked postal ballot-paper to an authorised witness;
 
                      (b)  except in the case of an elector registered as a general postal voter on the ground set out in paragraph 184A(2)(e) or (f), the elector shall sign the postal vote certificate in the presence of the authorised witness;
 
                      (c)  the authorised witness shall sign the certificate as witness, adding the date and an indication of the capacity in which the witness acts;
 
-                     (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot paper, fold the ballot paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
+                     (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot-paper, fold the ballot-paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
 
                      (e)  the elector shall post or deliver the envelope to the appropriate DRO;
 
@@ -7068,11 +6912,11 @@ Definitions
 
              (2)  In spite of paragraph (1)(e), where:
 
-                     (a)  a ballot paper, if posted before the close of the poll, would be unlikely to reach the appropriate DRO within 13 days after polling day; or
+                     (a)  a ballot-paper, if posted before the close of the poll, would be unlikely to reach the appropriate DRO within 13 days after polling day; or
 
-                     (b)  a ballot paper, if it were to be delivered to the appropriate DRO, would be unlikely to reach the DRO before the close of the poll;
+                     (b)  a ballot-paper, if it were to be delivered to the appropriate DRO, would be unlikely to reach the DRO before the close of the poll;
 
-the envelope containing the ballot paper may:
+the envelope containing the ballot-paper may:
 
                      (c)  before the close of the poll be addressed to, and posted or delivered to, any other DRO or to an Assistant Returning Officer at a place outside Australia; or
 
@@ -7094,15 +6938,15 @@ the envelope containing the ballot paper may:
 
                              (ii)  a member of the staff of the Electoral Commission (not being the holder of a particular office referred to in subparagraph (i)) who is engaged under the _Public Service Act 1999_ as an ongoing APS employee within the meaning of that Act, or who is employed under paragraph 35(1)(b) of this Act.
 
-             (3)  A person to whom an envelope containing a ballot paper is posted, delivered or handed under subsection (2) shall deal with the envelope and ballot paper according to sections 195A and 228.
+             (3)  A person to whom an envelope containing a ballot-paper is posted, delivered or handed under subsection (2) shall deal with the envelope and ballot-paper according to sections 195A and 228.
 
 ##### <a id="195"></a>195  Duty of authorised witnesses etc.
 
                    Except at the request of the elector, a person shall not:
 
-                     (a)  interfere with an elector in relation to the marking of a postal ballot paper; or
+                     (a)  interfere with an elector in relation to the marking of a postal ballot-paper; or
 
-                     (b)  do anything that would enable the person or any other person to find out how an elector marked a postal ballot paper.
+                     (b)  do anything that would enable the person or any other person to find out how an elector marked a postal ballot-paper.
 
                     Penalty:  $1,000.
 
@@ -7128,9 +6972,9 @@ the envelope containing the ballot paper may:
 
              (2)  Where:
 
-                     (a)  a DRO receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot paper issued in respect of a Division other than the Division for which the DRO is appointed; or
+                     (a)  a DRO receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper issued in respect of a Division other than the Division for which the DRO is appointed; or
 
-                     (b)  an officer receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot paper;
+                     (b)  an officer receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper;
 
 the DRO or officer shall:
 
@@ -7283,15 +7127,15 @@ the DRO or officer must (after complying with the other requirements of subsecti
 
              (7)  Instructions referred to in paragraphs (6)(b) and (d) are not legislative instruments.
 
-##### <a id="196"></a>196  Opening of postal ballot paper
+##### <a id="196"></a>196  Opening of postal ballot-paper
 
              (1)  A person other than:
 
-                     (a)  the DRO for the Division in respect of which a postal ballot paper has been issued; or
+                     (a)  the DRO for the Division in respect of which a postal ballot-paper has been issued; or
 
                      (b)  an officer acting at the direction of the DRO;
 
-shall not open an envelope that purports to contain a postal ballot paper on which a vote has been recorded.
+shall not open an envelope that purports to contain a postal ballot-paper on which a vote has been recorded.
 
                     Penalty:  $500.
 
@@ -7305,15 +7149,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  an application for a postal vote; or
 
-                     (b)  an envelope apparently containing a postal ballot paper;
+                     (b)  an envelope apparently containing a postal ballot-paper;
 
 for posting or delivery to an officer shall post or deliver the application or envelope, as the case may be, as soon as practicable.
 
                     Penalty:  $1,000.
 
-##### <a id="198"></a>198  Inducing elector to hand over marked ballot paper
+##### <a id="198"></a>198  Inducing elector to hand over marked ballot-paper
 
-                   A person shall not induce an elector to hand over to the person a postal ballot paper on which a vote has been recorded.
+                   A person shall not induce an elector to hand over to the person a postal ballot-paper on which a vote has been recorded.
 
                     Penalty:  $1,000.
 
@@ -7329,7 +7173,7 @@ is satisfied that the application or certificate contains a formal error, the of
 
 ##### <a id="200"></a>200  Mistakes
 
-             (1)  A postal vote shall not be rejected because only the surname of a candidate has been written on the ballot paper if no other candidate has the same surname.
+             (1)  A postal vote shall not be rejected because only the surname of a candidate has been written on the ballot-paper if no other candidate has the same surname.
 
              (2)  A postal vote shall not be rejected because of a mistake in spelling if the elector’s intention is clear.
 
@@ -7487,17 +7331,17 @@ may be removed from the pre-poll voting office by a member of the Australian Fed
 
                      (a)  a pre-poll vote certificate; and
 
-                     (b)  one ballot paper for a Senate election or one ballot paper for a House of Representatives election, or both, as the case requires.
+                     (b)  one ballot-paper for a Senate election or one ballot-paper for a House of Representatives election, or both, as the case requires.
 
-             (2)  Before issuing the ballot paper, the officer shall initial the top of the front of the paper.
+             (2)  Before issuing the ballot-paper, the officer shall initial the top of the front of the paper.
 
              (3)  The elector shall sign the pre-poll vote certificate in the presence of the issuing officer.
 
              (4)  The issuing officer shall then sign the pre-poll vote certificate as witness, adding the date.
 
-             (5)  The elector shall then, in the presence of the issuing officer but so that the officer cannot see the vote, mark his or her vote on the ballot paper, fold the ballot paper and return it to the issuing officer.
+             (5)  The elector shall then, in the presence of the issuing officer but so that the officer cannot see the vote, mark his or her vote on the ballot-paper, fold the ballot-paper and return it to the issuing officer.
 
-             (6)  The issuing officer shall immediately place the ballot paper in the envelope bearing the pre-poll vote certificate, fasten the envelope and, until the envelope is dealt with under section 228, keep the envelope in a ballot-box.
+             (6)  The issuing officer shall immediately place the ballot-paper in the envelope bearing the pre-poll vote certificate, fasten the envelope and, until the envelope is dealt with under section 228, keep the envelope in a ballot-box.
 
              (7)  If the elector satisfies the officer that the elector cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the elector may, according to the directions of the elector, do any of the following acts:
 
@@ -7507,17 +7351,17 @@ may be removed from the pre-poll voting office by a member of the Australian Fed
 
                      (c)  complete the certificate;
 
-                     (d)  mark the elector’s vote on the ballot paper;
+                     (d)  mark the elector’s vote on the ballot-paper;
 
-                     (e)  fold the ballot paper and return it to the officer.
+                     (e)  fold the ballot-paper and return it to the officer.
 
              (8)  Directions under subsection (7) may be given by reference to a how-to-vote card.
 
-             (9)  An elector to whom a pre-poll vote certificate and ballot paper have been issued is not entitled:
+             (9)  An elector to whom a pre-poll vote certificate and ballot-paper have been issued is not entitled:
 
                      (a)  to vote at a polling booth; or
 
-                     (b)  to remove the certificate or ballot paper from the office of the officer who issued it.
+                     (b)  to remove the certificate or ballot-paper from the office of the officer who issued it.
 
 ##### <a id="200F"></a>200F  Form of pre-poll vote certificate
 
@@ -7531,7 +7375,7 @@ may be removed from the pre-poll voting office by a member of the Australian Fed
 
 ##### <a id="200G"></a>200G  Record of issue of pre-poll voting papers
 
-             (1)  Where the DRO for a Division issues a pre-poll vote certificate and ballot paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot paper and the name of the person and shall allocate a number to the record.
+             (1)  Where the DRO for a Division issues a pre-poll vote certificate and ballot-paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot-paper and the name of the person and shall allocate a number to the record.
 
              (2)  Where:
 
@@ -7541,11 +7385,11 @@ may be removed from the pre-poll voting office by a member of the Australian Fed
 
                      (c)  an Assistant Returning Officer at a place outside Australia;
 
-issues a pre-poll vote certificate and ballot paper, he or she shall:
+issues a pre-poll vote certificate and ballot-paper, he or she shall:
 
-                     (d)  make a record of the date of issue of the certificate and ballot paper, the name of the person to whom the certificate and ballot paper were issued and the name of the Division for which the person is enrolled and shall allocate a number to the record; and
+                     (d)  make a record of the date of issue of the certificate and ballot-paper, the name of the person to whom the certificate and ballot-paper were issued and the name of the Division for which the person is enrolled and shall allocate a number to the record; and
 
-                     (e)  deal with the record of the issue of the certificate and ballot paper in accordance with section 228.
+                     (e)  deal with the record of the issue of the certificate and ballot-paper in accordance with section 228.
 
              (3)  Records made by a DRO under subsection (1) and records forwarded to the DRO under section 228 shall be open to public inspection at the office of the DRO during ordinary office hours from and including the third day after polling day until the election can no longer be questioned.
 
@@ -7553,11 +7397,11 @@ issues a pre-poll vote certificate and ballot paper, he or she shall:
 
              (1)  A person other than:
 
-                     (a)  the DRO for the Division in respect of which a pre-poll vote ballot paper has been issued; or
+                     (a)  the DRO for the Division in respect of which a pre-poll vote ballot-paper has been issued; or
 
                      (b)  an officer acting at the direction of the DRO;
 
-shall not open an envelope containing a ballot paper given to an officer under subsection 200E(5) or (7).
+shall not open an envelope containing a ballot-paper given to an officer under subsection 200E(5) or (7).
 
                     Penalty:  $500.
 
@@ -7567,7 +7411,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="200K"></a>200K  Obligations of persons present when pre-poll vote cast
 
-                   A person who is present when an elector signs a pre-poll vote certificate or marks a ballot paper in the presence of an officer:
+                   A person who is present when an elector signs a pre-poll vote certificate or marks a ballot-paper in the presence of an officer:
 
                      (a)  shall obey all directions of the officer; and
 
@@ -7577,7 +7421,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  shall not assist the elector or in any way interfere with the elector in relation to the elector’s vote; and
 
-                            (iii)  shall not do anything that would enable the person to find out how the elector marked the ballot paper.
+                            (iii)  shall not do anything that would enable the person to find out how the elector marked the ballot-paper.
 
                     Penalty:  $1,000.
 
@@ -7587,7 +7431,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="202"></a>202  Mistakes
 
-             (1)  A pre-poll vote shall not be rejected because only the surname of a candidate has been written on the ballot paper if no other candidate has the same surname.
+             (1)  A pre-poll vote shall not be rejected because only the surname of a candidate has been written on the ballot-paper if no other candidate has the same surname.
 
              (2)  A pre-poll vote shall not be rejected because of a mistake in spelling if the elector’s intention is clear.
 
@@ -7627,15 +7471,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  for the Senate election referred to in subsection (1):
 
-                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot-paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
 
-                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 239; and
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot-paper, would satisfy the requirements of section 239; and
 
                      (b)  for the general election referred to in subsection (1):
 
-                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot-paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
 
-                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 240.
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot-paper, would satisfy the requirements of section 240.
 
              (4)  The regulations may provide for offences in relation to the electronically assisted voting method, and may prescribe penalties for those offences. A prescribed penalty must not exceed 50 penalty units.
 
@@ -7659,15 +7503,15 @@ Note:          Pre-poll votes are a kind of declaration vote. 
 
              (2)  For the purposes of this Act as it applies because of subsection (1):
 
-                     (a)  a vote record is to be treated as if it were a pre-poll vote ballot paper; and
+                     (a)  a vote record is to be treated as if it were a pre-poll vote ballot-paper; and
 
-                     (b)  the placing of a vote record in an envelope as mentioned in subsection 202AD(2) is to be treated as if it were the placing of a ballot paper in an envelope under subsection 200E(6); and
+                     (b)  the placing of a vote record in an envelope as mentioned in subsection 202AD(2) is to be treated as if it were the placing of a ballot-paper in an envelope under subsection 200E(6); and
 
                      (c)  a declaration on an envelope as mentioned in subsection 202AD(2) is to be treated as if it were a pre-poll vote certificate; and
 
                      (d)  a record made as mentioned in section 202AC is to be treated as if it were a record made under subsection 200G(2).
 
-             (3)  If a person casts a vote using the electronically assisted voting method, the requirements of this Act relating to the person’s right to receive a ballot paper are taken to have been satisfied.
+             (3)  If a person casts a vote using the electronically assisted voting method, the requirements of this Act relating to the person’s right to receive a ballot-paper are taken to have been satisfied.
 
              (4)  The regulations may make additional provisions relating to how this Act applies in relation to votes cast using the electronically assisted voting method.
 
@@ -7719,15 +7563,15 @@ to vote by a remote electronic voting method at those elections.
 
                      (a)  for the Senate election referred to in subsection (1):
 
-                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot-paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
 
-                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 239; and
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot-paper, would satisfy the requirements of section 239; and
 
                      (b)  for the general election referred to in subsection (1):
 
-                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot-paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
 
-                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 240.
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot-paper, would satisfy the requirements of section 240.
 
              (4)  The regulations may provide for offences in relation to the remote electronic voting method, and may prescribe penalties for those offences. A prescribed penalty must not exceed 50 penalty units.
 
@@ -7773,9 +7617,9 @@ to vote by a remote electronic voting method at those elections.
 
 ##### <a id="202AL"></a>202AL  How this Act applies in relation to voting using the remote electronic voting method
 
-             (1)  This Act applies to a printed vote record in the same way as it would apply if that vote record were a ballot paper.
+             (1)  This Act applies to a printed vote record in the same way as it would apply if that vote record were a ballot-paper.
 
-             (2)  If a person casts a vote using the remote electronic voting method, the requirements of this Act relating to the person’s right to receive a ballot paper are taken to have been satisfied.
+             (2)  If a person casts a vote using the remote electronic voting method, the requirements of this Act relating to the person’s right to receive a ballot-paper are taken to have been satisfied.
 
              (3)  The regulations may make additional provisions relating to how this Act applies in relation to votes cast using the remote electronic voting method.
 
@@ -7833,7 +7677,7 @@ to vote by a remote electronic voting method at those elections.
 
                      (a)  provide and furnish proper polling booths and ballot-boxes; and
 
-                     (b)  provide ballot papers and all necessary certified lists of voters.
+                     (b)  provide ballot-papers and all necessary certified lists of voters.
 
              (2)  If the proceedings on the day of nomination stand adjourned to polling day, the Electoral Commission, in pursuance of its powers under section 35, shall immediately appoint a presiding officer to preside at each polling place and all necessary deputy presiding officers and assistant presiding officers.
 
@@ -7843,7 +7687,7 @@ to vote by a remote electronic voting method at those elections.
 
              (5)  Any deputy presiding officer or assistant presiding officer may, subject to the direction of the presiding officer, exercise all or any of the powers of the presiding officer, and shall, in respect of the exercise of those powers, be deemed to be the presiding officer.
 
-             (7)  The polling booths and ballot-boxes provided for the purposes of an election may be used for the purposes of any other election, or of a referendum, held on the same day, but the ballot papers for each election and the referendum shall be distinctively coloured.
+             (7)  The polling booths and ballot-boxes provided for the purposes of an election may be used for the purposes of any other election, or of a referendum, held on the same day, but the ballot-papers for each election and the referendum shall be distinctively coloured.
 
 ##### <a id="204"></a>204  Substitute
 
@@ -7861,7 +7705,7 @@ to vote by a remote electronic voting method at those elections.
 
 ##### <a id="206"></a>206  Separate voting compartments
 
-                   Polling booths shall have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot papers, and each voting compartment shall be furnished with a pencil for the use of voters.
+                   Polling booths shall have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot-papers, and each voting compartment shall be furnished with a pencil for the use of voters.
 
 ##### <a id="207"></a>207  Ballot-boxes
 
@@ -7885,59 +7729,59 @@ to vote by a remote electronic voting method at those elections.
 
              (3)  The Electoral Commissioner must arrange for the delivery to the presiding officer at each polling place, before the start of voting, a copy of the certified list of voters for the Division for which the polling place is appointed.
 
-##### <a id="209"></a>209  Ballot papers
+##### <a id="209"></a>209  Ballot-papers
 
-             (1)  Ballot papers to be used in a Senate election shall be in Form E in Schedule 1.
+             (1)  Ballot-papers to be used in a Senate election shall be in Form E in Schedule 1.
 
-             (2)  Ballot papers to be used in a House of Representatives election shall be in Form F in Schedule 1.
+             (2)  Ballot-papers to be used in a House of Representatives election shall be in Form F in Schedule 1.
 
-             (3)  Ballot papers must have a green background colour for House of Representatives elections and a white background colour for Senate elections and are to be printed using black type face of a kind ordinarily used in Commonwealth Government publications.
+             (3)  Ballot-papers must have a green background colour for House of Representatives elections and a white background colour for Senate elections and are to be printed using black type face of a kind ordinarily used in Commonwealth Government publications.
 
-             (5)  The ballot papers to be used for postal voting shall have the words “Postal Ballot paper” as a heading and shall contain the following directions: 
+             (5)  The ballot-papers to be used for postal voting shall have the words “Postal Ballot-paper” as a heading and shall contain the following directions: 
 
-“Fold the ballot paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope.”.
+“Fold the ballot-paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope.”.
 
-             (6)  Before issuing a ballot paper for a Senate election, an officer shall, if the particulars are not already printed on the ballot paper, write on the ballot paper:
+             (6)  Before issuing a ballot-paper for a Senate election, an officer shall, if the particulars are not already printed on the ballot-paper, write on the ballot-paper:
 
                      (a)  the name of the State or Territory in which the election is to be held;
 
                      (b)  the number of candidates to be elected;
 
-                     (c)  the numbers required to complete the **_Directions_** on the ballot paper;
+                     (c)  the numbers required to complete the **_Directions_** on the ballot-paper;
 
-                     (d)  the full names of all candidates arranged in the same way as would be required if the names were being printed on the ballot paper; and
+                     (d)  the full names of all candidates arranged in the same way as would be required if the names were being printed on the ballot-paper; and
 
-                     (e)  the information that would be required by section 214 to be printed on the ballot paper if the ballot paper were being printed.
+                     (e)  the information that would be required by section 214 to be printed on the ballot-paper if the ballot-paper were being printed.
 
-             (7)  Before issuing a ballot paper for a House of Representatives election, an officer shall, if the particulars are not already printed on the ballot paper, write on the ballot paper:
+             (7)  Before issuing a ballot-paper for a House of Representatives election, an officer shall, if the particulars are not already printed on the ballot-paper, write on the ballot-paper:
 
                      (a)  the name of the State or Territory, and the name of the Division, in which the election is to be held;
 
-                     (b)  the numbers required to complete the **_Directions_** on the ballot paper;
+                     (b)  the numbers required to complete the **_Directions_** on the ballot-paper;
 
-                     (c)  the full names of all candidates for the Division in the same order as would be required if the ballot paper were being printed; and
+                     (c)  the full names of all candidates for the Division in the same order as would be required if the ballot-paper were being printed; and
 
-                     (d)  the information that would be required by section 214 to be printed on the ballot paper if the ballot paper were being printed.
+                     (d)  the information that would be required by section 214 to be printed on the ballot-paper if the ballot-paper were being printed.
 
-             (8)  Before issuing a ballot paper that is to be used for postal voting, a DRO or Assistant Returning Officer shall ensure that the words and directions required by subsection (5) are printed or written on the ballot paper.
+             (8)  Before issuing a ballot-paper that is to be used for postal voting, a DRO or Assistant Returning Officer shall ensure that the words and directions required by subsection (5) are printed or written on the ballot-paper.
 
 ##### <a id="209A"></a>209A  Official mark
 
-                   The official mark for the authentication of ballot papers is either:
+                   The official mark for the authentication of ballot-papers is either:
 
                      (a)  a water mark consisting of a representation of a shield having within it the letters “CA” intertwined; or
 
                      (b)  an overprinting of the paper in a particular manner, and using words, a design or a logo, approved by the Electoral Commission.
 
-##### <a id="210"></a>210  Printing of Senate ballot papers
+##### <a id="210"></a>210  Printing of Senate ballot-papers
 
-             (1)  In printing the ballot papers to be used in a Senate election:
+             (1)  In printing the ballot-papers to be used in a Senate election:
 
-                     (a)  the names of candidates by whom requests have been made under section 168 shall be printed in groups on the ballot papers in accordance with the requests and before the names of candidates who have not made such requests;
+                     (a)  the names of candidates by whom requests have been made under section 168 shall be printed in groups on the ballot-papers in accordance with the requests and before the names of candidates who have not made such requests;
 
                      (b)  the order of the names of the candidates, who have only made a request under paragraph 168(1)(a), must be determined by the Australian Electoral Officer in accordance with section 213;
 
-                     (c)  the order of the several groups in the ballot papers shall be determined by the Australian Electoral Officer in accordance with section 213;
+                     (c)  the order of the several groups in the ballot-papers shall be determined by the Australian Electoral Officer in accordance with section 213;
 
                      (d)  the order of the names of the candidates whose names are not included in any group shall be determined by the Australian Electoral Officer in accordance with section 213;
 
@@ -7947,7 +7791,7 @@ to vote by a remote electronic voting method at those elections.
 
              (2)  Where a candidate in a Senate election has given notice of intention to lodge a statement under section 211A, subsection (1) applies, and the Australian Electoral Officer shall make the determinations required by that subsection, as if the candidate were a group of candidates who had made a request under section 168.
 
-             (3)  The names of candidates not included in a group shall be printed on the ballot papers according to the following rules:
+             (3)  The names of candidates not included in a group shall be printed on the ballot-papers according to the following rules:
 
                      (a)  unless paragraph (b) applies, the names of the candidates must be printed in a single column;
 
@@ -7955,17 +7799,17 @@ to vote by a remote electronic voting method at those elections.
 
                      (c)  if the names of the candidates are printed in 2 or more columns, none of the columns may be longer than the longest column containing the names of candidates included in groups.
 
-##### <a id="210A"></a>210A  Form of party name on ballot papers
+##### <a id="210A"></a>210A  Form of party name on ballot-papers
 
              (1)  In this section, **_registered abbreviation_**, in relation to the name of a registered political party, means the abbreviation (if any) of the name of the party entered in the Register of Political Parties.
 
-             (2)  Subject to subsection (3), where a provision of this Part requires the name of a registered political party to be printed on ballot papers for use in an election, the name to be so printed is the name of the party entered in the Register of Political Parties.
+             (2)  Subject to subsection (3), where a provision of this Part requires the name of a registered political party to be printed on ballot-papers for use in an election, the name to be so printed is the name of the party entered in the Register of Political Parties.
 
-             (3)  Where, under section 169, the registered officer of a registered political party has requested that the registered abbreviation of the name of that party be printed on the ballot papers for an election adjacent to the name of a candidate, a provision referred to in subsection (2) applies as if a reference to the name of a registered political party were a reference to the registered abbreviation of that name.
+             (3)  Where, under section 169, the registered officer of a registered political party has requested that the registered abbreviation of the name of that party be printed on the ballot-papers for an election adjacent to the name of a candidate, a provision referred to in subsection (2) applies as if a reference to the name of a registered political party were a reference to the registered abbreviation of that name.
 
-             (4)  The names of registered political parties, or abbreviations of such names, printed adjacent to the names of candidates on ballot papers for use in an election shall be printed in capital letters in type that is uniform in size and style for all the names of those parties or abbreviations of those names.
+             (4)  The names of registered political parties, or abbreviations of such names, printed adjacent to the names of candidates on ballot-papers for use in an election shall be printed in capital letters in type that is uniform in size and style for all the names of those parties or abbreviations of those names.
 
-             (5)  The names of registered political parties, or abbreviations of such names, printed adjacent to squares printed, in accordance with subsection 211(5), on ballot papers for use in an election shall be printed in capital letters in type that is uniform in size and style for all names and abbreviations so printed.
+             (5)  The names of registered political parties, or abbreviations of such names, printed adjacent to squares printed, in accordance with subsection 211(5), on ballot-papers for use in an election shall be printed in capital letters in type that is uniform in size and style for all names and abbreviations so printed.
 
 ##### <a id="211"></a>211  Group voting tickets
 
@@ -7977,11 +7821,11 @@ to vote by a remote electronic voting method at those elections.
 
                      (b)  give the preferences to the candidates lodging the statement in the same order.
 
-             (3)  Without limiting the generality of subsection (1) or (2), a statement for the purposes of either of those subsections may specify an order of preferences by setting out the names of all the candidates in the election in the groups, and in the order, in which they would be set out in a ballot paper with squares opposite to each name and with a number in each square showing that order of preferences.
+             (3)  Without limiting the generality of subsection (1) or (2), a statement for the purposes of either of those subsections may specify an order of preferences by setting out the names of all the candidates in the election in the groups, and in the order, in which they would be set out in a ballot-paper with squares opposite to each name and with a number in each square showing that order of preferences.
 
              (4)  Where a group of candidates in a Senate election lodges a statement in accordance with subsection (1) or (2) in relation to the election, that group of candidates shall be taken to have a group voting ticket, or 2 or 3 group voting tickets, as the case requires, registered for the purposes of the election, being the order of preferences, or the orders of preferences, given in that statement, as the case may be.
 
-             (5)  Where a group of candidates in a Senate election has a group voting ticket, or 2 or 3 group voting tickets, registered for the purposes of that election, a square shall be printed on the ballot papers for use in the election above the names of those candidates.
+             (5)  Where a group of candidates in a Senate election has a group voting ticket, or 2 or 3 group voting tickets, registered for the purposes of that election, a square shall be printed on the ballot-papers for use in the election above the names of those candidates.
 
           (5A)  A group of candidates who have lodged a statement under subsection (1) or (2) may, at any time before the period for lodging the statement expires, amend, withdraw or replace the statement by giving written notice to the Australian Electoral Officer.
 
@@ -7991,7 +7835,7 @@ to vote by a remote electronic voting method at those elections.
 
                      (b)  where the members of the group have been endorsed by different registered political parties, by the registered officers of all those parties;
 
-                     (c)  in a case to which neither paragraph (a) nor paragraph (b) applies, by the candidate whose name first appears in the group on the ballot paper; or
+                     (c)  in a case to which neither paragraph (a) nor paragraph (b) applies, by the candidate whose name first appears in the group on the ballot-paper; or
 
                      (d)  in any case, by a person authorised by all the members of the group, by written instrument given to the Australian Electoral Officer with the nomination or nominations of members of the group, to sign such a statement on behalf of the group.
 
@@ -8023,25 +7867,25 @@ the candidate may lodge with the Australian Electoral Officer a written statemen
 
              (5)  A candidate is not entitled to lodge a statement under subsection (1) or (2) unless there was lodged with the nomination of the candidate written notice by the candidate that the candidate proposed to lodge a statement under this section.
 
-             (6)  Where a candidate in a Senate election has lodged a statement under subsection (1) or (2), a square shall be printed on the ballot papers for use in the election above the name of the candidate.
+             (6)  Where a candidate in a Senate election has lodged a statement under subsection (1) or (2), a square shall be printed on the ballot-papers for use in the election above the name of the candidate.
 
              (7)  Where:
 
                      (a)  a candidate has lodged a statement under subsection (1) or (2); and
 
-                     (b)  subsection 214(1) requires that the name of a registered political party be printed adjacent to the name of the candidate on the ballot papers;
+                     (b)  subsection 214(1) requires that the name of a registered political party be printed adjacent to the name of the candidate on the ballot-papers;
 
-the name of that party shall also be printed on the ballot papers adjacent to the square printed on the ballot papers in relation to that candidate in accordance with subsection (6).
+the name of that party shall also be printed on the ballot-papers adjacent to the square printed on the ballot-papers in relation to that candidate in accordance with subsection (6).
 
              (8)  Where:
 
                      (a)  a candidate has lodged a statement under subsection (1) or (2); and
 
-                     (b)  subsection 214(3) requires that the word “Independent” be printed adjacent to the name of the candidate on ballot papers;
+                     (b)  subsection 214(3) requires that the word “Independent” be printed adjacent to the name of the candidate on ballot-papers;
 
-the word “Independent” and the name of the candidate must also be printed on the ballot papers adjacent to the square printed on the ballot papers in accordance with subsection (6).
+the word “Independent” and the name of the candidate must also be printed on the ballot-papers adjacent to the square printed on the ballot-papers in accordance with subsection (6).
 
-             (9)  Without limiting the generality of subsection (1) or (2), a statement for the purposes of either of those subsections may specify an order of preferences by setting out the names of all the candidates in the election in the groups, and in the order, in which they would be set out in a ballot paper with squares opposite to each name and with a number in each square showing that order of preferences.
+             (9)  Without limiting the generality of subsection (1) or (2), a statement for the purposes of either of those subsections may specify an order of preferences by setting out the names of all the candidates in the election in the groups, and in the order, in which they would be set out in a ballot-paper with squares opposite to each name and with a number in each square showing that order of preferences.
 
            (10)  Where a candidate has lodged a statement under subsection (1) or (2), section 216 applies as if the candidate were a group that had a group voting ticket, or 2 or 3 group voting tickets, as the case requires, registered for the purposes of the election, being the order of preferences, or the orders of preferences, given in that statement, as the case may be, and as if the statement had been lodged under section 211.
 
@@ -8049,11 +7893,11 @@ the word “Independent” and the name of the candidate must also be printed on
 
            (12)  A candidate who has lodged a statement under subsection (1) or (2) may, at any time before the period for lodging the statement expires, amend, withdraw or replace the statement by giving written notice to the Australian Electoral Officer. The notice must be signed by the candidate.
 
-##### <a id="212"></a>212  Ballot papers for House of Representatives elections
+##### <a id="212"></a>212  Ballot-papers for House of Representatives elections
 
-                   In printing the ballot papers to be used in a House of Representatives election:
+                   In printing the ballot-papers to be used in a House of Representatives election:
 
-                     (a)  the order of the names of the candidates in the ballot papers shall be determined by the Divisional Returning Officer in accordance with section 213;
+                     (a)  the order of the names of the candidates in the ballot-papers shall be determined by the Divisional Returning Officer in accordance with section 213;
 
                      (b)  where similarity in the names of 2 or more candidates is likely to cause confusion, the names of those candidates may be arranged with such description or addition as will distinguish them from one another; and
 
@@ -8061,7 +7905,7 @@ the word “Independent” and the name of the candidate must also be printed on
 
 ##### <a id="213"></a>213  Determination of order of names
 
-             (1)  Where under section 210 or 212 a person is required to determine in accordance with this section the order of the names of candidates or of groups in ballot papers to be used in an election:
+             (1)  Where under section 210 or 212 a person is required to determine in accordance with this section the order of the names of candidates or of groups in ballot-papers to be used in an election:
 
                      (a)  the person shall, at the declaration time for the election, at the place where nominations for the election were publicly produced and before all persons present at that place:
 
@@ -8101,7 +7945,7 @@ the word “Independent” and the name of the candidate must also be printed on
 
                     <a name="declar-time"></a>**_declaration time_** for an election has the meaning given by subsection 175(2).
 
-##### <a id="214"></a>214  Printing of political party names etc. on ballot papers
+##### <a id="214"></a>214  Printing of political party names etc. on ballot-papers
 
              (1)  Where a person:
 
@@ -8109,7 +7953,7 @@ the word “Independent” and the name of the candidate must also be printed on
 
                      (b)  a request has been made in respect of the candidate under section 169;
 
-the name of that party shall be printed adjacent to the name of the candidate on ballot papers for use in the election.
+the name of that party shall be printed adjacent to the name of the candidate on ballot-papers for use in the election.
 
              (2)  Where:
 
@@ -8117,23 +7961,23 @@ the name of that party shall be printed adjacent to the name of the candidate on
 
                      (b)  a request has been made in respect of the candidates under section 168;
 
-the following requirements shall be observed in the printing of the ballot papers for use in the election:
+the following requirements shall be observed in the printing of the ballot-papers for use in the election:
 
-                     (c)  the registered name of the party by which each candidate was endorsed shall be printed adjacent to the name of that candidate on the ballot papers;
+                     (c)  the registered name of the party by which each candidate was endorsed shall be printed adjacent to the name of that candidate on the ballot-papers;
 
-                     (d)  where all the candidates were endorsed by the same party and a square is printed, in accordance with subsection 211(5), on the ballot papers in relation to the candidates, the registered name of that party shall be printed on the ballot papers adjacent to that square;
+                     (d)  where all the candidates were endorsed by the same party and a square is printed, in accordance with subsection 211(5), on the ballot-papers in relation to the candidates, the registered name of that party shall be printed on the ballot-papers adjacent to that square;
 
-                     (e)  where the request under section 169 included a request that a composite name be printed adjacent to the square printed, in accordance with subsection 211(5), on the ballot papers in relation to the candidates, that composite name shall be printed on the ballot papers adjacent to that square.
+                     (e)  where the request under section 169 included a request that a composite name be printed adjacent to the square printed, in accordance with subsection 211(5), on the ballot-papers in relation to the candidates, that composite name shall be printed on the ballot-papers adjacent to that square.
 
-             (3)  Where a candidate in an election has made a request under section 169A, the word “Independent” shall be printed adjacent to the name of the candidate on the ballot papers.
+             (3)  Where a candidate in an election has made a request under section 169A, the word “Independent” shall be printed adjacent to the name of the candidate on the ballot-papers.
 
-##### <a id="215"></a>215  Ballot papers to be initialled
+##### <a id="215"></a>215  Ballot-papers to be initialled
 
-             (1)  A ballot paper must not be delivered to a voter without first being initialled by the proper officer on the top of the front of the ballot paper.
+             (1)  A ballot-paper must not be delivered to a voter without first being initialled by the proper officer on the top of the front of the ballot-paper.
 
-             (2)  An exact account of all initialled ballot papers must be kept.
+             (2)  An exact account of all initialled ballot-papers must be kept.
 
-             (3)  To avoid doubt, this section also applies to a ballot paper that is a photocopy of an original ballot paper.
+             (3)  To avoid doubt, this section also applies to a ballot-paper that is a photocopy of an original ballot-paper.
 
 ##### <a id="216"></a>216  Group voting tickets to be displayed
 
@@ -8147,7 +7991,7 @@ the following requirements shall be observed in the printing of the ballot paper
 
                      (a)  group voting tickets in vertical columns; and
 
-                     (b)  the tickets in the same order from the top of each column as the order on the ballot papers for the groups who lodged the tickets; and
+                     (b)  the tickets in the same order from the top of each column as the order on the ballot-papers for the groups who lodged the tickets; and
 
                      (c)  the tickets lodged by the same group in the same column.
 
@@ -8155,7 +7999,7 @@ the following requirements shall be observed in the printing of the ballot paper
 
                      (a)  each group voting ticket starting on a separate page of the pamphlet; and
 
-                     (b)  the tickets in the same order from the start of the pamphlet as the order on the ballot papers for the groups who lodged the tickets; and
+                     (b)  the tickets in the same order from the start of the pamphlet as the order on the ballot-papers for the groups who lodged the tickets; and
 
                      (c)  the tickets lodged by the same group on consecutive pages.
 
@@ -8253,7 +8097,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (3)  When visiting the patient, the presiding officer shall:
 
-                     (a)  take to the patient a ballot-box, a ballot paper, and anything else necessary to enable the patient to vote; and
+                     (a)  take to the patient a ballot-box, a ballot-paper, and anything else necessary to enable the patient to vote; and
 
                      (b)  be accompanied by a polling official and such scrutineers (if any) as wish to attend.
 
@@ -8283,7 +8127,7 @@ an electoral visitor shall visit the patient for the purpose of taking the patie
 
              (4)  When visiting the patient, the electoral visitor shall:
 
-                     (a)  take to the patient a ballot-box, a ballot paper, and anything else necessary to enable the patient to vote; and
+                     (a)  take to the patient a ballot-box, a ballot-paper, and anything else necessary to enable the patient to vote; and
 
                      (b)  be accompanied by a polling official and such scrutineers (if any) as wish to attend.
 
@@ -8319,7 +8163,7 @@ The literature may include how-to-vote cards.
 
                      (b)  paragraph 233(a) were omitted and the following paragraph were substituted:
 
-                           “(a)  mark his or her vote on the ballot paper in a manner that ensures the secrecy of the vote;”;
+                           “(a)  mark his or her vote on the ballot-paper in a manner that ensures the secrecy of the vote;”;
 
                      (c)  paragraph 233(c) were omitted; and
 
@@ -8337,7 +8181,7 @@ The literature may include how-to-vote cards.
 
                      (b)  the references in that subsection to a polling booth were references to the special hospital.
 
-             (6)  Where an elector has voted under section 224 or 225 in an election, any postal ballot paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
+             (6)  Where an elector has voted under section 224 or 225 in an election, any postal ballot-paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot-paper of the voter shall not be admitted in the scrutiny in relation to the election.
 
              (7)  The Divisional Returning Officer for a Division shall, not later than 4 p.m. on the day before polling day, display prominently in his or her office a notice specifying the hospitals in the Division that are polling places and indicating the periods during which votes will be taken under section 224 at each hospital.
 
@@ -8385,7 +8229,7 @@ Note:          Subsections 93(8), (8AA) and (9) deal with who 
 
              (4)  When visiting a prison, an electoral visitor shall:
 
-                     (a)  take to the prison a ballot-box, ballot papers and anything else necessary for the taking of votes at the prison; and
+                     (a)  take to the prison a ballot-box, ballot-papers and anything else necessary for the taking of votes at the prison; and
 
                      (b)  subject to subsection (5), be accompanied by a polling official and such scrutineers (if any) as wish to attend.
 
@@ -8443,7 +8287,7 @@ as are fixed by or under the arrangements applicable to the prison.
 
                      (a)  the team shall have:
 
-                              (i)  ballot-boxes, ballot papers, group voting tickets registered for the purposes of the election and such other things as are necessary for the votes of electors to be taken at the station; and
+                              (i)  ballot-boxes, ballot-papers, group voting tickets registered for the purposes of the election and such other things as are necessary for the votes of electors to be taken at the station; and
 
                              (ii)  the “how-to-vote” cards (if any) supplied to it by the candidates;
 
@@ -8483,17 +8327,17 @@ as are fixed by or under the arrangements applicable to the prison.
 
            (10)  At the end of the last visit made by a leader for the purposes of this section, the leader shall, in the presence of a member of his or her team and any scrutineers who may be in attendance, publicly close, fasten, seal and take charge of each ballot-box used by the leader for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer.
 
-           (11)  Where an elector has voted under this section in an election, any postal ballot paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
+           (11)  Where an elector has voted under this section in an election, any postal ballot-paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot-paper of the voter shall not be admitted in the scrutiny in relation to the election.
 
 ##### <a id="228"></a>228  Forwarding of declaration votes
 
-             (1)  A presiding officer at a polling place shall forward to the Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer any ballot-boxes containing envelopes bearing certificates or declarations made by persons who have cast declaration votes and which purport to contain the ballot papers of such voters, together with records that the presiding officer has made in accordance with paragraph 195A(2)(e) and subsection 232(2).
+             (1)  A presiding officer at a polling place shall forward to the Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer any ballot-boxes containing envelopes bearing certificates or declarations made by persons who have cast declaration votes and which purport to contain the ballot-papers of such voters, together with records that the presiding officer has made in accordance with paragraph 195A(2)(e) and subsection 232(2).
 
           (1A)  A pre-poll voting officer who:
 
-                     (a)  receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot paper; or
+                     (a)  receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper; or
 
-                     (b)  places a ballot paper in an envelope under subsection 200E(6);
+                     (b)  places a ballot-paper in an envelope under subsection 200E(6);
 
 shall forward the envelope, together with the record made under paragraph 195A(2)(e) or subsection 200G(2), as the case may be, in relation to the receipt or issue of the envelope, to the Divisional Returning Officer for the Division for which the pre-poll voting officer is appointed.
 
@@ -8533,11 +8377,11 @@ shall forward the envelope, together with the record made under paragraph 195A(2
 
                      (b)  maintain a locked and sealed ballot-box labelled so as to identify it as a declaration vote ballot-box; and
 
-                     (c)  keep in that ballot-box, until the scrutiny, all envelopes bearing a certificate or declaration and purporting to contain a ballot paper recording a declaration vote in relation to his or her Division that, in accordance with subsection (5A), are received within sufficient time to be taken into account in the scrutiny.
+                     (c)  keep in that ballot-box, until the scrutiny, all envelopes bearing a certificate or declaration and purporting to contain a ballot-paper recording a declaration vote in relation to his or her Division that, in accordance with subsection (5A), are received within sufficient time to be taken into account in the scrutiny.
 
           (5A)  An envelope referred to in paragraph (5)(c) is received by a DRO within sufficient time to be taken into account in the scrutiny if it is received by the DRO within 13 days after the close of the poll (whether directly from the voter or from another DRO or a person referred to in subsection (7) or (9)).
 
-             (6)  Before placing in the ballot-box maintained under subsection (5) an envelope purporting to contain a postal ballot paper and delivered to a Divisional Returning Officer which is received after the close of the poll and which does not bear evidence sufficient to satisfy the Divisional Returning Officer that the vote contained in the envelope was recorded before the close of the poll, the Divisional Returning Officer shall endorse on the envelope the date of its receipt and shall initial the endorsement.
+             (6)  Before placing in the ballot-box maintained under subsection (5) an envelope purporting to contain a postal ballot-paper and delivered to a Divisional Returning Officer which is received after the close of the poll and which does not bear evidence sufficient to satisfy the Divisional Returning Officer that the vote contained in the envelope was recorded before the close of the poll, the Divisional Returning Officer shall endorse on the envelope the date of its receipt and shall initial the endorsement.
 
              (7)  Where envelopes bearing certificates or declarations, or records, relating to a particular Division are, with the approval of the Australian Electoral Officer for the State or Territory that includes that Division, delivered to a person other than the Divisional Returning Officer for that Division, that person shall, as soon as practicable, deliver them, or cause them to be delivered, to that Divisional Returning Officer.
 
@@ -8571,9 +8415,9 @@ the person’s claim to vote shall be rejected.
 
                    No omission in the Roll or in the certified list of voters of any Christian or given name, or entry of a wrong Christian or given name, sex, date of birth or address and no mistake in the spelling of any surname, shall warrant the rejection at any polling of any claim to vote if the voter is sufficiently identified in the opinion of the presiding officer, and no female elector shall be disqualified from voting under the name appearing on the Roll because her surname has been changed by marriage.
 
-##### <a id="231"></a>231  Right of elector to receive ballot paper
+##### <a id="231"></a>231  Right of elector to receive ballot-paper
 
-             (1)  The presiding officer or a polling official shall at the polling hand to each person claiming to vote a ballot paper duly initialled by the presiding officer:
+             (1)  The presiding officer or a polling official shall at the polling hand to each person claiming to vote a ballot-paper duly initialled by the presiding officer:
 
                      (a)  if the name under which the person claims to vote is on the certified list of voters for the polling place and the person’s answers to the prescribed questions show that he or she is entitled to vote; or
 
@@ -8583,17 +8427,17 @@ the person’s claim to vote shall be rejected.
 
 ##### <a id="232"></a>232  Voters to be recorded
 
-             (1)  The presiding officer or a polling official at a polling place shall, immediately upon handing a ballot paper to a person whose name is on the certified list of voters for the polling place, place a mark against the person’s name on that list.
+             (1)  The presiding officer or a polling official at a polling place shall, immediately upon handing a ballot-paper to a person whose name is on the certified list of voters for the polling place, place a mark against the person’s name on that list.
 
              (2)  The presiding officer at a polling place shall make a record of the name of each elector who casts a declaration vote at the polling place and, in the case of an absent voter, of the Division for which the elector declares under subsection 222(1) or (1A) that he or she is enrolled, and shall, at the close of the poll, forward the record, duly certified by the presiding officer, in accordance with section 228.
 
 ##### <a id="233"></a>233  Vote to be marked in private
 
-             (1)  Except as otherwise prescribed the voter upon receipt of the ballot paper shall without delay:
+             (1)  Except as otherwise prescribed the voter upon receipt of the ballot-paper shall without delay:
 
-                     (a)  retire alone to some unoccupied compartment of the booth, and there, in private, mark his or her vote on the ballot paper;
+                     (a)  retire alone to some unoccupied compartment of the booth, and there, in private, mark his or her vote on the ballot-paper;
 
-                     (b)  fold the ballot paper so as to conceal his or her vote and:
+                     (b)  fold the ballot-paper so as to conceal his or her vote and:
 
                               (i)  if the voter is not an absent voter—deposit it in the ballot-box; or
 
@@ -8601,11 +8445,11 @@ the person’s claim to vote shall be rejected.
 
                      (c)  quit the booth.
 
-             (2)  A presiding officer shall enclose each ballot paper of an absent voter returned to the presiding officer under subsection (1) in the envelope bearing the declaration made by the voter under subsection 222(1) or (1A), securely fasten the envelope and place it in the ballot-box.
+             (2)  A presiding officer shall enclose each ballot-paper of an absent voter returned to the presiding officer under subsection (1) in the envelope bearing the declaration made by the voter under subsection 222(1) or (1A), securely fasten the envelope and place it in the ballot-box.
 
 ##### <a id="234"></a>234  Assistance to certain voters
 
-             (1)  If any voter satisfies the presiding officer that his or her sight is so impaired or that the voter is so physically incapacitated or illiterate that he or she is unable to vote without assistance, the presiding officer shall permit a person appointed by the voter to enter an unoccupied compartment of the booth with the voter, and mark, fold, and deposit the voter’s ballot paper.
+             (1)  If any voter satisfies the presiding officer that his or her sight is so impaired or that the voter is so physically incapacitated or illiterate that he or she is unable to vote without assistance, the presiding officer shall permit a person appointed by the voter to enter an unoccupied compartment of the booth with the voter, and mark, fold, and deposit the voter’s ballot-paper.
 
           (1A)  A presiding officer who is visiting a patient under section 224 or 225 for the purpose of taking the patient’s vote must explain to the patient the effect of subsection (1) of this section.
 
@@ -8615,9 +8459,9 @@ the person’s claim to vote shall be rejected.
 
                      (b)  if the voter so desires, in the presence of a person appointed by such voter, instead of a polling official;
 
-shall mark, fold, and deposit his or her ballot paper.
+shall mark, fold, and deposit his or her ballot-paper.
 
-             (3)  Without limiting the generality of subsection (2), a voter to whom that subsection applies may indicate to the presiding officer the manner in which the voter wishes the presiding officer to mark his or her ballot paper by presenting to the presiding officer a statement in writing (which may be, or include, a how-to-vote card) that specifies the manner in which the ballot paper is to be marked.
+             (3)  Without limiting the generality of subsection (2), a voter to whom that subsection applies may indicate to the presiding officer the manner in which the voter wishes the presiding officer to mark his or her ballot-paper by presenting to the presiding officer a statement in writing (which may be, or include, a how-to-vote card) that specifies the manner in which the ballot-paper is to be marked.
 
              (4)  Where subsection (1) applies in relation to an absent or provisional voter, the presiding officer shall:
 
@@ -8641,17 +8485,17 @@ shall mark, fold, and deposit his or her ballot paper.
 
              (3)  Subject to subsection (5), the voter:
 
-                     (a)  must mark his or her vote on the ballot paper in the presence of a polling official; and
+                     (a)  must mark his or her vote on the ballot-paper in the presence of a polling official; and
 
-                     (b)  must fold the ballot paper so as to conceal the names of the candidates, and hand the ballot paper to the polling official.
+                     (b)  must fold the ballot-paper so as to conceal the names of the candidates, and hand the ballot-paper to the polling official.
 
-             (4)  The polling official must ensure that the folded ballot paper is immediately returned to the polling place and put in the ballot-box in the presence of any scrutineers who were present when the voter voted.
+             (4)  The polling official must ensure that the folded ballot-paper is immediately returned to the polling place and put in the ballot-box in the presence of any scrutineers who were present when the voter voted.
 
-             (5)  If the voter also satisfies the presiding officer that he or she is unable to vote without assistance, the presiding officer may, with the voter’s consent, allow a polling official to mark and fold the voter’s ballot paper.
+             (5)  If the voter also satisfies the presiding officer that he or she is unable to vote without assistance, the presiding officer may, with the voter’s consent, allow a polling official to mark and fold the voter’s ballot-paper.
 
-             (6)  The voter must indicate to the polling official how the voter wishes the polling official to mark the voter’s ballot paper.
+             (6)  The voter must indicate to the polling official how the voter wishes the polling official to mark the voter’s ballot-paper.
 
-             (7)  Without limiting the methods by which the voter may indicate, for the purposes of subsection (6), how the voter wishes to vote, the voter may present to the polling official a statement in writing (which may be, or include, a how-to-vote card) specifying how the ballot paper is to be marked.
+             (7)  Without limiting the methods by which the voter may indicate, for the purposes of subsection (6), how the voter wishes to vote, the voter may present to the polling official a statement in writing (which may be, or include, a how-to-vote card) specifying how the ballot-paper is to be marked.
 
              (8)  If subsection (5) applies to an absent or provisional voter, the polling official must:
 
@@ -8703,11 +8547,11 @@ Note:          The regulations are made under subsection (9)
 
              (4)  The polling official shall then sign the declaration as witness, adding the date.
 
-             (5)  Before issuing a ballot paper to the person, a polling official shall give the person a statement in writing in the approved form explaining the effect of this section and indicating the steps that will be taken if the person casts a provisional vote.
+             (5)  Before issuing a ballot-paper to the person, a polling official shall give the person a statement in writing in the approved form explaining the effect of this section and indicating the steps that will be taken if the person casts a provisional vote.
 
-             (6)  A person who casts a provisional vote shall fold the ballot paper and hand it to the polling official who issued it.
+             (6)  A person who casts a provisional vote shall fold the ballot-paper and hand it to the polling official who issued it.
 
-             (7)  The polling official shall, in the presence of the voter, without unfolding the ballot paper, place it in the envelope bearing the voter’s declaration, fasten the envelope and place the envelope in the ballot-box.
+             (7)  The polling official shall, in the presence of the voter, without unfolding the ballot-paper, place it in the envelope bearing the voter’s declaration, fasten the envelope and place the envelope in the ballot-box.
 
              (8)  The Assistant Returning Officer who opens the ballot-box shall deal with the envelope according to section 228.
 
@@ -8721,37 +8565,37 @@ Regulations
 
            (10)  The regulations may impose additional requirements in relation to identification for provisional voting.
 
-##### <a id="238"></a>238  Spoilt ballot papers
+##### <a id="238"></a>238  Spoilt ballot-papers
 
-             (1)  If any voter before depositing a ballot paper in the ballot-box satisfies the presiding officer that he or she has spoilt the ballot paper by mistake or accident, the voter may, on giving it up, receive a new ballot paper from the presiding officer, who shall there and then cancel the spoilt ballot paper.
+             (1)  If any voter before depositing a ballot-paper in the ballot-box satisfies the presiding officer that he or she has spoilt the ballot-paper by mistake or accident, the voter may, on giving it up, receive a new ballot-paper from the presiding officer, who shall there and then cancel the spoilt ballot-paper.
 
-             (2)  If any voter voting in a manner that will involve a ballot paper being placed in an envelope satisfies the officer who issued the ballot paper that, before the ballot paper was placed in the relevant envelope, he or she spoilt the ballot paper by mistake or accident, the voter may, on giving up the spoilt ballot paper to the officer, receive a new ballot paper from the officer, who shall there and then cancel the spoilt ballot paper.
+             (2)  If any voter voting in a manner that will involve a ballot-paper being placed in an envelope satisfies the officer who issued the ballot-paper that, before the ballot-paper was placed in the relevant envelope, he or she spoilt the ballot-paper by mistake or accident, the voter may, on giving up the spoilt ballot-paper to the officer, receive a new ballot-paper from the officer, who shall there and then cancel the spoilt ballot-paper.
 
-             (3)  An officer who has cancelled a spoilt ballot paper shall:
+             (3)  An officer who has cancelled a spoilt ballot-paper shall:
 
-                     (a)  write “spoilt” on the back of the ballot paper;
+                     (a)  write “spoilt” on the back of the ballot-paper;
 
-                     (b)  place the ballot paper in an envelope, seal the envelope and write on the envelope an indication of the type of ballot paper enclosed and that it is spoilt; and
+                     (b)  place the ballot-paper in an envelope, seal the envelope and write on the envelope an indication of the type of ballot-paper enclosed and that it is spoilt; and
 
                      (c)  sign the envelope.
 
-             (4)  The envelopes containing spoilt ballot papers cancelled at a polling place shall be sealed up in a parcel which shall be given to the Divisional Returning Officer for the Division after the close of the poll.
+             (4)  The envelopes containing spoilt ballot-papers cancelled at a polling place shall be sealed up in a parcel which shall be given to the Divisional Returning Officer for the Division after the close of the poll.
 
 ##### <a id="239"></a>239  Marking of votes in Senate election
 
-             (1)  Subject to subsection (2), in a Senate election a person shall mark his or her vote on the ballot paper by:
+             (1)  Subject to subsection (2), in a Senate election a person shall mark his or her vote on the ballot-paper by:
 
                      (a)  writing the number 1 in the square opposite the name of the candidate for whom the person votes as his or her first preference; and
 
                      (b)  writing the numbers 2, 3, 4 (and so on, as the case requires) in the squares opposite the names of all the remaining candidates so as to indicate the order of the person’s preference for them.
 
-             (2)  A vote may be marked on a ballot paper by writing the number 1 in a square (if any) printed on the ballot paper under subsection 211(5) or 211A(6).
+             (2)  A vote may be marked on a ballot-paper by writing the number 1 in a square (if any) printed on the ballot-paper under subsection 211(5) or 211A(6).
 
-             (3)  Where a voter has marked a tick or cross in a square printed on a ballot paper under subsection 211(5) or 211A(6), the voter shall be regarded as having written the number 1 in the square.
+             (3)  Where a voter has marked a tick or cross in a square printed on a ballot-paper under subsection 211(5) or 211A(6), the voter shall be regarded as having written the number 1 in the square.
 
-             (4)  Where a candidate dies between the date of nomination and polling day, and the number of candidates remaining is greater than the number of candidates to be elected, a ballot paper shall not be informal by reason only:
+             (4)  Where a candidate dies between the date of nomination and polling day, and the number of candidates remaining is greater than the number of candidates to be elected, a ballot-paper shall not be informal by reason only:
 
-                     (a)  of the inclusion on the ballot paper of the name of the deceased candidate;
+                     (a)  of the inclusion on the ballot-paper of the name of the deceased candidate;
 
                      (b)  of the marking of any consecutive number opposite that name; or
 
@@ -8759,7 +8603,7 @@ Regulations
 
 ##### <a id="240"></a>240  Marking of votes in House of Representatives election
 
-             (1)  In a House of Representatives election a person shall mark his or her vote on the ballot paper by:
+             (1)  In a House of Representatives election a person shall mark his or her vote on the ballot-paper by:
 
                      (a)  writing the number 1 in the square opposite the name of the candidate for whom the person votes as his or her first preference; and
 
@@ -9031,21 +8875,21 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  If, in the case of a Senate election, the proceedings stand adjourned to polling day, an Australian Electoral Officer for a State on the Roll for which there is an Antarctic elector in relation to the election shall immediately cause to be transmitted to the Antarctic Returning Officer at whose station the elector is based:
 
-                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot papers for use in relation to the election to be held in the State; and
+                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot-papers for use in relation to the election to be held in the State; and
 
                      (b)  the name of the elector and the particulars relating to the elector that are entered on the Roll for the State.
 
              (2)  If, in the case of a House of Representatives election, the proceedings on the day of nomination stand adjourned to polling day, a Divisional Returning Officer on the Roll for whose Division there is an Antarctic elector in relation to the election shall immediately cause to be transmitted to the Antarctic Returning Officer at whose station the elector is based:
 
-                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot papers for use in relation to the election to be held in the Division; and
+                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot-papers for use in relation to the election to be held in the Division; and
 
                      (b)  the name of the elector and the particulars relating to the elector that are entered on the Roll for the Division.
 
              (3)  Where information is transmitted by an Australian Electoral Officer or a Divisional Returning Officer to an Antarctic Returning Officer in pursuance of this section, both the Australian Electoral Officer or the Divisional Returning Officer, as the case may be, and the Antarctic Returning Officer shall, immediately after the transmission, cause a statement in writing of the information transmitted to be prepared.
 
-             (4)  Sections 209, 210, 212, 213 and 214 apply in relation to ballot papers prepared under this section as if a reference in sections 210, 212 and 214 to the printing of ballot papers were a reference to such preparation.
+             (4)  Sections 209, 210, 212, 213 and 214 apply in relation to ballot-papers prepared under this section as if a reference in sections 210, 212 and 214 to the printing of ballot-papers were a reference to such preparation.
 
-##### <a id="251"></a>251  Ballot papers to be initialled
+##### <a id="251"></a>251  Ballot-papers to be initialled
 
                    Section 215 applies to the polling at a station in Antarctica as if the reference in that section to the proper officer were a reference to the Antarctic Returning Officer for that station.
 
@@ -9075,13 +8919,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  If a person claiming to vote refuses to answer fully a question put to him or her under this section, the person’s claim to vote at the station shall be rejected.
 
-##### <a id="256"></a>256  Right of Antarctic elector to receive ballot paper
+##### <a id="256"></a>256  Right of Antarctic elector to receive ballot-paper
 
-                   The Antarctic Returning Officer or the Assistant Antarctic Returning Officer for a station shall, at the polling, give to each person claiming to vote at the station a ballot paper for the Division or State, as the case requires, for which the person is enrolled, duly initialled by the Antarctic Returning Officer, if the name under which the person claims to vote has been transmitted to the Antarctic Returning Officer in pursuance of paragraph 250(1)(b) or (2)(b), as the case may be, and the person’s claim to vote is not rejected.
+                   The Antarctic Returning Officer or the Assistant Antarctic Returning Officer for a station shall, at the polling, give to each person claiming to vote at the station a ballot-paper for the Division or State, as the case requires, for which the person is enrolled, duly initialled by the Antarctic Returning Officer, if the name under which the person claims to vote has been transmitted to the Antarctic Returning Officer in pursuance of paragraph 250(1)(b) or (2)(b), as the case may be, and the person’s claim to vote is not rejected.
 
 ##### <a id="257"></a>257  List of Antarctic electors to be marked
 
-                   Immediately upon giving a ballot paper to the person claiming to vote, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the officer under subsection 250(3) the fact that the ballot paper has been given to that person.
+                   Immediately upon giving a ballot-paper to the person claiming to vote, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the officer under subsection 250(3) the fact that the ballot-paper has been given to that person.
 
 ##### <a id="258"></a>258  Application of sections 233 and 234
 
@@ -9101,7 +8945,7 @@ Note:          A defendant bears an evidential burden in relat
 
                               (i)  particulars of each elector enrolled for a State who has voted in elections held in the State in the poll taken at the station;
 
-                             (ii)  unless subparagraph (iii) applies—particulars of the marking of each ballot paper; and
+                             (ii)  unless subparagraph (iii) applies—particulars of the marking of each ballot-paper; and
 
                             (iii)  if the Antarctic Returning Officer is unable clearly to read or understand the particulars referred to in subparagraph (ii)—a statement to that effect together with such information relating to those particulars as the Antarctic Returning Officer thinks sufficient to explain that inability; and
 
@@ -9111,23 +8955,23 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  Upon receipt of the particulars referred to in subparagraph 259(b)(ii), an Australian Electoral Officer shall forthwith:
 
-                     (a)  initial the top of the front of a ballot paper appropriate for the State or Division for which the vote was cast; and
+                     (a)  initial the top of the front of a ballot-paper appropriate for the State or Division for which the vote was cast; and
 
-                     (b)  cause those particulars to be transcribed onto the ballot paper;
+                     (b)  cause those particulars to be transcribed onto the ballot-paper;
 
-                     (c)  seal the ballot paper in an envelope;
+                     (c)  seal the ballot-paper in an envelope;
 
                      (d)  sign the envelope; and
 
-                     (e)  cause to be sent to the Divisional Returning Officer for the Division to which the ballot paper relates the envelope containing the ballot paper.
+                     (e)  cause to be sent to the Divisional Returning Officer for the Division to which the ballot-paper relates the envelope containing the ballot-paper.
 
-             (2)  An officer shall not mark a ballot paper under this section in a manner that is likely to enable the ballot paper to be identified as representing the vote of an Antarctic elector.
+             (2)  An officer shall not mark a ballot-paper under this section in a manner that is likely to enable the ballot-paper to be identified as representing the vote of an Antarctic elector.
 
              (3)  Upon receipt of information under subsection (1), an Australian Electoral Officer shall forthwith:
 
                      (a)  cause a statement in writing of that information to be prepared; and
 
-                     (b)  cause to be sent to each Divisional Returning Officer for a Division to which a ballot paper referred to in paragraph (1)(b) relates particulars of the Antarctic electors who have voted in the election in relation to the Division.
+                     (b)  cause to be sent to each Divisional Returning Officer for a Division to which a ballot-paper referred to in paragraph (1)(b) relates particulars of the Antarctic electors who have voted in the election in relation to the Division.
 
              (4)  A reference in Part XVIII to scrutiny:
 
@@ -9139,11 +8983,11 @@ Note:          A defendant bears an evidential burden in relat
 
                              (ii)  the transmission of any information to or from Antarctica.
 
-             (5)  For the purposes of subsections 273(4) and 274(4), a ballot paper marked in accordance with paragraph (1)(b) shall be deemed to have been used for voting in pursuance of Part XVA (Pre-poll voting).
+             (5)  For the purposes of subsections 273(4) and 274(4), a ballot-paper marked in accordance with paragraph (1)(b) shall be deemed to have been used for voting in pursuance of Part XVA (Pre-poll voting).
 
-##### <a id="261"></a>261  Preservation of ballot papers etc.
+##### <a id="261"></a>261  Preservation of ballot-papers etc.
 
-             (1)  As soon as practicable after the close of the poll for an election, the Antarctic Returning Officer for each station shall forward to the Electoral Commission a copy of the statements prepared by the officer under subsection 250(3) and paragraph 259(c) and the ballot papers used for voting at the station.
+             (1)  As soon as practicable after the close of the poll for an election, the Antarctic Returning Officer for each station shall forward to the Electoral Commission a copy of the statements prepared by the officer under subsection 250(3) and paragraph 259(c) and the ballot-papers used for voting at the station.
 
              (2)  The documents to which this subsection applies that are used at or in connection with an election shall be preserved in accordance with directions of the Commission for the purposes of this subsection until:
 
@@ -9157,9 +9001,9 @@ whichever last occurs.
 
                      (a)  the statements referred to in subsection 250(3), paragraph 259(c) and paragraph 260(3)(a);
 
-                     (b)  the ballot papers referred to in paragraph 260(1)(b); and
+                     (b)  the ballot-papers referred to in paragraph 260(1)(b); and
 
-                     (c)  the ballot papers prepared by an Antarctic Returning Officer and used for voting in Antarctica.
+                     (c)  the ballot-papers prepared by an Antarctic Returning Officer and used for voting in Antarctica.
 
 ##### <a id="262"></a>262  Application of Part
 
@@ -9175,7 +9019,7 @@ whichever last occurs.
 
              (1)  A candidate may appoint scrutineers to represent the candidate at the scrutiny.
 
-             (2)  A candidate is not entitled to be represented at the scrutiny at a particular counting centre by a number of scrutineers that is greater than the number of officers who are engaged in a scrutiny or counting of ballot papers at that centre.
+             (2)  A candidate is not entitled to be represented at the scrutiny at a particular counting centre by a number of scrutineers that is greater than the number of officers who are engaged in a scrutiny or counting of ballot-papers at that centre.
 
              (3)  The appointment of a scrutineer under this section to represent a candidate at a counting centre:
 
@@ -9185,7 +9029,7 @@ whichever last occurs.
 
           (3A)  A person who is present at the scrutiny in the capacity of a scrutineer shall wear a badge, supplied by the Electoral Commission, that identifies the person as a scrutineer.
 
-             (4)  In this section, **_counting centre_** means any premises at which a scrutiny or counting of ballot papers is to be, or is being, conducted.
+             (4)  In this section, **_counting centre_** means any premises at which a scrutiny or counting of ballot-papers is to be, or is being, conducted.
 
 ##### <a id="265"></a>265  Scrutiny, how conducted
 
@@ -9199,7 +9043,7 @@ whichever last occurs.
 
                      (d)  The scrutiny may be adjourned from time to time as may be necessary until the counting of the votes is complete.
 
-             (2)  During a scrutiny, the scrutineers must be allowed to inspect, in addition to the preference votes being counted in the scrutiny, any other preference vote given for a candidate unless, in the opinion of the Assistant Returning Officer, DRO or Australian Electoral Officer, as the case may be, this would unreasonably delay the scrutiny.
+             (2)  During a scrutiny, the scrutineers must be allowed to inspect, in addition to the preference votes being counted in the scrutiny, any other preference vote given for a candidate unless, in the opinion of the assistant Returning Officer, DRO or Australian Electoral Officer, as the case may be, this would unreasonably delay the scrutiny.
 
 ##### <a id="266"></a>266  Preliminary scrutiny of declaration votes
 
@@ -9207,9 +9051,9 @@ whichever last occurs.
 
                      (a)  all written applications for postal votes have been produced;
 
-                     (b)  all envelopes received by the DRO before the end of 13 days after the close of the poll and purporting to contain postal ballot papers have been dealt with under this section; and
+                     (b)  all envelopes received by the DRO before the end of 13 days after the close of the poll and purporting to contain postal ballot-papers have been dealt with under this section; and
 
-                     (c)  all other envelopes received by officers prior to the close of the poll and purporting to contain ballot papers bearing declaration votes have been dealt with under this section.
+                     (c)  all other envelopes received by officers prior to the close of the poll and purporting to contain ballot-papers bearing declaration votes have been dealt with under this section.
 
              (2)  The DRO shall give notice of the commencement of a preliminary scrutiny as follows:
 
@@ -9223,15 +9067,15 @@ whichever last occurs.
 
              (5)  For the purposes of this Part, anything done under this section in relation to an election shall be taken to be part of the scrutiny in relation to the election.
 
-##### <a id="267"></a>267  Action on objections to ballot papers
+##### <a id="267"></a>267  Action on objections to ballot-papers
 
-             (1)  If a scrutineer objects to a ballot paper as being informal, the officer conducting the scrutiny shall mark the ballot paper **_admitted_** or **_rejected_** according to the officer’s decision to admit or reject the ballot paper.
+             (1)  If a scrutineer objects to a ballot-paper as being informal, the officer conducting the scrutiny shall mark the ballot-paper **_admitted_** or **_rejected_** according to the officer’s decision to admit or reject the ballot-paper.
 
-             (2)  Nothing in this section shall prevent the officer conducting the scrutiny from rejecting any ballot paper as being informal although it is not objected to.
+             (2)  Nothing in this section shall prevent the officer conducting the scrutiny from rejecting any ballot-paper as being informal although it is not objected to.
 
-##### <a id="268"></a>268  Informal ballot papers
+##### <a id="268"></a>268  Informal ballot-papers
 
-             (1)  A ballot paper shall (except as otherwise provided by section 239, and by the regulations relating to voting by post) be informal if:
+             (1)  A ballot-paper shall (except as otherwise provided by section 239, and by the regulations relating to voting by post) be informal if:
 
                      (a)  subject to subsection (2), it is not authenticated by the initials of the presiding officer or by the presence of the official mark;
 
@@ -9245,33 +9089,33 @@ whichever last occurs.
 
                      (d)  it has upon it any mark or writing (not authorized by this Act or the regulations to be put upon it) by which, in the opinion of the Divisional Returning Officer, the voter can be identified: 
 
-                    Provided that paragraph (d) shall not apply to any mark or writing placed upon the ballot paper by an officer, notwithstanding that the placing of the mark or writing upon the ballot paper is a contravention of this Act; or
+                    Provided that paragraph (d) shall not apply to any mark or writing placed upon the ballot-paper by an officer, notwithstanding that the placing of the mark or writing upon the ballot-paper is a contravention of this Act; or
 
-                     (e)  in the case of an absent vote—the ballot paper is not contained in an envelope bearing a declaration made by the elector under subsection 222(1) or (1A).
+                     (e)  in the case of an absent vote—the ballot-paper is not contained in an envelope bearing a declaration made by the elector under subsection 222(1) or (1A).
 
-             (2)  A ballot paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot paper is satisfied that it is an authentic ballot paper on which a voter has marked a vote.
+             (2)  A ballot-paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot-paper is satisfied that it is an authentic ballot-paper on which a voter has marked a vote.
 
-             (3)  A ballot paper shall not be informal for any reason other than the reasons specified in this section, but shall be given effect to according to the voter’s intention so far as that intention is clear.
+             (3)  A ballot-paper shall not be informal for any reason other than the reasons specified in this section, but shall be given effect to according to the voter’s intention so far as that intention is clear.
 
 ##### <a id="269"></a>269  Formal votes according to group voting ticket
 
-             (1)  A ballot paper in a Senate election shall not be informal by virtue of paragraph 268(1)(b) if the voter has marked a vote on the ballot paper in accordance with subsection 239(2).
+             (1)  A ballot-paper in a Senate election shall not be informal by virtue of paragraph 268(1)(b) if the voter has marked a vote on the ballot-paper in accordance with subsection 239(2).
 
-             (2)  If a ballot paper in a Senate election:
+             (2)  If a ballot-paper in a Senate election:
 
                      (a)  has been marked in accordance with subsection 239(2); and
 
                      (b)  has been marked in accordance with paragraph 239(1)(a) so that, if it were not marked in accordance with subsection 239(2), it would not be informal by virtue of paragraph 268(1)(b);
 
-the ballot paper shall, for the purposes of sections 272 and 273, be deemed not to have been marked in accordance with subsection 239(2).
+the ballot-paper shall, for the purposes of sections 272 and 273, be deemed not to have been marked in accordance with subsection 239(2).
 
-             (3)  For the purposes of this section and sections 272 and 273, a voter shall not be taken to have marked a vote in accordance with subsection 239(2) if the voter has placed a preference mark in 2 or more of the squares printed on the ballot paper in accordance with subsection 211(5) or 211A(6).
+             (3)  For the purposes of this section and sections 272 and 273, a voter shall not be taken to have marked a vote in accordance with subsection 239(2) if the voter has placed a preference mark in 2 or more of the squares printed on the ballot-paper in accordance with subsection 211(5) or 211A(6).
 
              (4)  In this section, **_preference mark_** means a tick, a cross or the figure 1.
 
 ##### <a id="270"></a>270  Certain votes with non-consecutive numbers to be formal
 
-             (1)  Where a ballot paper in a Senate election:
+             (1)  Where a ballot-paper in a Senate election:
 
                      (a)  has the number 1 in the square opposite to the name of a candidate and does not have that number in the square opposite to the name of another candidate;
 
@@ -9285,7 +9129,7 @@ the ballot paper shall, for the purposes of sections 272 and 273, be deemed no
 
 then:
 
-                     (d)  the ballot paper shall not be informal by virtue of that paragraph;
+                     (d)  the ballot-paper shall not be informal by virtue of that paragraph;
 
                      (e)  the number 1 shall be taken to express the voter’s first preference;
 
@@ -9295,73 +9139,73 @@ then:
 
              (3)  In considering, for the purposes of subsection (1) whether numbers are in a sequence of consecutive numbers, any number that is repeated shall be disregarded.
 
-##### <a id="271"></a>271  Officers not to mark ballot papers so that voter can be identified
+##### <a id="271"></a>271  Officers not to mark ballot-papers so that voter can be identified
 
-                   Except as authorized by this Act or the regulations, an officer shall not place upon any ballot paper any mark or writing which would enable any person to identify the voter by whom it is used.
+                   Except as authorized by this Act or the regulations, an officer shall not place upon any ballot-paper any mark or writing which would enable any person to identify the voter by whom it is used.
 
                     Penalty:  $1,000.
 
-##### <a id="272"></a>272  Senate ballot papers deemed to be marked according to group voting tickets
+##### <a id="272"></a>272  Senate ballot-papers deemed to be marked according to group voting tickets
 
              (1)  For the purposes of section 273, where:
 
-                     (a)  a ballot paper in a Senate election has been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
+                     (a)  a ballot-paper in a Senate election has been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
 
                      (b)  the candidates in that group have only one group voting ticket registered for the purposes of that election;
 
-that ballot paper shall be deemed to have been marked in accordance with that ticket.
+that ballot-paper shall be deemed to have been marked in accordance with that ticket.
 
              (2)  For the purposes of section 273, where:
 
-                     (a)  in a Senate election, a ballot paper has, or ballot papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
+                     (a)  in a Senate election, a ballot-paper has, or ballot-papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
 
                      (b)  the candidates in that group have 2 group voting tickets registered for the purposes of that election;
 
 then:
 
-                     (c)  if the number of ballot papers is an even number—half of the ballot papers shall be taken to have been marked in accordance with one of the tickets and the other half in accordance with the other ticket; or
+                     (c)  if the number of ballot-papers is an even number—half of the ballot-papers shall be taken to have been marked in accordance with one of the tickets and the other half in accordance with the other ticket; or
 
-                     (d)  if the number of ballot papers is not an even number:
+                     (d)  if the number of ballot-papers is not an even number:
 
-                              (i)  one of the ballot papers shall be deemed to have been marked in accordance with whichever of the 2 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
+                              (i)  one of the ballot-papers shall be deemed to have been marked in accordance with whichever of the 2 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
 
-                             (ii)  half the remainder (if any) of the ballot papers shall be deemed to have been marked in accordance with one of the tickets and the other half in accordance with the other ticket.
+                             (ii)  half the remainder (if any) of the ballot-papers shall be deemed to have been marked in accordance with one of the tickets and the other half in accordance with the other ticket.
 
              (3)  For the purposes of section 273 where:
 
-                     (a)  in a Senate election a ballot paper has, or ballot papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
+                     (a)  in a Senate election a ballot-paper has, or ballot-papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
 
                      (b)  the candidates in that group have 3 group voting tickets registered for the purposes of that election;
 
 then:
 
-                     (c)  if the number of ballot papers is a number divisible by 3 without any remainder—one-third of the ballot papers shall be taken to have been marked in accordance with one of the tickets, one-third of the ballot papers shall be taken to have been marked in accordance with another one of the tickets and the other one-third in accordance with the other ticket;
+                     (c)  if the number of ballot-papers is a number divisible by 3 without any remainder—one-third of the ballot-papers shall be taken to have been marked in accordance with one of the tickets, one-third of the ballot-papers shall be taken to have been marked in accordance with another one of the tickets and the other one-third in accordance with the other ticket;
 
-                     (d)  if there is only one ballot paper or the number of ballot papers is a number divisible by 3 with a remainder of 1:
+                     (d)  if there is only one ballot-paper or the number of ballot-papers is a number divisible by 3 with a remainder of 1:
 
-                              (i)  the ballot paper or one of the ballot papers shall be deemed to have been marked in accordance with whichever of the 3 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
+                              (i)  the ballot-paper or one of the ballot-papers shall be deemed to have been marked in accordance with whichever of the 3 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
 
-                             (ii)  one-third of the remainder of the ballot papers (if any) shall be deemed to have been marked in accordance with one of the tickets, one-third of that remainder shall be deemed to have been marked in accordance with another one of the tickets and the other one-third of that remainder shall be deemed to have been marked in accordance with the other ticket; or
+                             (ii)  one-third of the remainder of the ballot-papers (if any) shall be deemed to have been marked in accordance with one of the tickets, one-third of that remainder shall be deemed to have been marked in accordance with another one of the tickets and the other one-third of that remainder shall be deemed to have been marked in accordance with the other ticket; or
 
-                     (e)  if there are 2 ballot papers or the number of ballot papers is a number divisible by 3 with a remainder of 2:
+                     (e)  if there are 2 ballot-papers or the number of ballot-papers is a number divisible by 3 with a remainder of 2:
 
-                              (i)  one of the ballot papers shall be taken to have been marked in accordance with whichever of the 3 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory;
+                              (i)  one of the ballot-papers shall be taken to have been marked in accordance with whichever of the 3 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory;
 
-                             (ii)  one of the ballot papers shall be taken to have been marked in accordance with whichever of the other 2 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
+                             (ii)  one of the ballot-papers shall be taken to have been marked in accordance with whichever of the other 2 tickets is determined by lot by the Australian Electoral Officer for the relevant State or Territory; and
 
-                            (iii)  one-third of the remainder of the ballot papers (if any) shall be deemed to have been marked in accordance with one of the tickets, one-third of that remainder shall be deemed to have been marked in accordance with another one of the tickets and the other one-third of that remainder shall be deemed to have been marked in accordance with the other ticket.
+                            (iii)  one-third of the remainder of the ballot-papers (if any) shall be deemed to have been marked in accordance with one of the tickets, one-third of that remainder shall be deemed to have been marked in accordance with another one of the tickets and the other one-third of that remainder shall be deemed to have been marked in accordance with the other ticket.
 
              (4)  Subsection (5) applies if, and only if, effect cannot be given to subsection (2) or (3), as the case requires, for any reason.
 
              (5)  For the purposes of section 273, where:
 
-                     (a)  a ballot paper in a Senate election has been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
+                     (a)  a ballot-paper in a Senate election has been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the names of candidates in a group; and
 
                      (b)  the candidates in that group have 2 or 3 group voting tickets registered for the purposes of that election;
 
-then, to the extent that the preferences shown in each ticket commencing with the first preference are the same, the voter shall be taken to have marked the ballot paper so as to express those preferences and the voter shall be taken not to have expressed any further preferences.
+then, to the extent that the preferences shown in each ticket commencing with the first preference are the same, the voter shall be taken to have marked the ballot-paper so as to express those preferences and the voter shall be taken not to have expressed any further preferences.
 
-             (6)  Where, in a Senate election, a ballot paper has, or ballot papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the name of a candidate who has lodged a statement under section 211A, this section applies to that ballot paper or those ballot papers as if:
+             (6)  Where, in a Senate election, a ballot-paper has, or ballot-papers have, been marked in accordance with subsection 239(2) by a mark having been placed in a square printed above the name of a candidate who has lodged a statement under section 211A, this section applies to that ballot-paper or those ballot-papers as if:
 
                      (a)  a reference to the candidates in a group were a reference to the candidate;
 
@@ -9381,61 +9225,61 @@ then, to the extent that the preferences shown in each ticket commencing with th
 
                     (ab)  check the accuracy of the statement forwarded with the ballot-box by the presiding officer, electoral visitor or mobile polling team leader by:
 
-                              (i)  removing the ballot papers from the box;
+                              (i)  removing the ballot-papers from the box;
 
                              (ii)  counting, but not inspecting, them; and
 
-                            (iii)  recording the number of ballot papers removed from the box;
+                            (iii)  recording the number of ballot-papers removed from the box;
 
-                     (b)  reject all informal ballot papers, and arrange the unrejected ballot papers under the names of the respective candidates by placing in a separate parcel all those on which a first preference is indicated for the same candidate;
+                     (b)  reject all informal ballot-papers, and arrange the unrejected ballot-papers under the names of the respective candidates by placing in a separate parcel all those on which a first preference is indicated for the same candidate;
 
-                     (c)  count the first preference votes given for each candidate on all unrejected ballot papers;
+                     (c)  count the first preference votes given for each candidate on all unrejected ballot-papers;
 
-                     (d)  make out and sign a statement (which may be countersigned by a polling official, and, if they so desire, by such scrutineers as are present) setting out the number of first preference votes given for each candidate, and the number of informal ballot papers;
+                     (d)  make out and sign a statement (which may be countersigned by a polling official, and, if they so desire, by such scrutineers as are present) setting out the number of first preference votes given for each candidate, and the number of informal ballot-papers;
 
-                     (e)  place in a separate parcel all the ballot papers which have been rejected as informal;
+                     (e)  place in a separate parcel all the ballot-papers which have been rejected as informal;
 
                       (f)  transmit the following information, in an expeditious manner, to the Divisional Returning Officer:
 
                               (i)  the number of first preference votes given for each candidate; and
 
-                             (ii)  the total number of ballot papers rejected as informal;
+                             (ii)  the total number of ballot-papers rejected as informal;
 
                      (g)  seal up the parcels and indorse on each parcel a description of the contents thereof, and permit any scrutineers present, if they so desire, to countersign the indorsement; and
 
                      (h)  transmit the parcels to the Divisional Returning Officer with the least possible delay, together with the statement specified in paragraph (d).
 
-             (3)  The Divisional Returning Officer shall open all ballot-boxes not opened by an Assistant Returning Officer, and shall conduct the scrutiny of the ballot papers contained therein in the manner aforesaid as far as applicable.
+             (3)  The Divisional Returning Officer shall open all ballot-boxes not opened by an Assistant Returning Officer, and shall conduct the scrutiny of the ballot-papers contained therein in the manner aforesaid as far as applicable.
 
-             (4)  The Divisional Returning Officer shall, in the manner prescribed by this Act or the Regulations, examine, count, and deal with all ballot papers used for casting declaration votes.
+             (4)  The Divisional Returning Officer shall, in the manner prescribed by this Act or the Regulations, examine, count, and deal with all ballot-papers used for casting declaration votes.
 
              (5)  The Divisional Returning Officer for a Division shall:
 
-                     (a)  open the sealed parcels of ballot papers received from the Assistant Returning Officers in or for the Division, and shall make a fresh scrutiny of the ballot papers contained in the parcels, and for this purpose the officer shall have the same powers as if the fresh scrutiny were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny;
+                     (a)  open the sealed parcels of ballot-papers received from the Assistant Returning Officers in or for the Division, and shall make a fresh scrutiny of the ballot-papers contained in the parcels, and for this purpose the officer shall have the same powers as if the fresh scrutiny were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny;
 
-                     (b)  reject all informal ballot papers and place them in a separate parcel, together with all informal ballot papers rejected under subsections (3) and (4);
+                     (b)  reject all informal ballot-papers and place them in a separate parcel, together with all informal ballot-papers rejected under subsections (3) and (4);
 
-                     (c)  arrange the unrejected ballot papers so scrutinized, together with the ballot papers scrutinized pursuant to subsections (3) and (4), under the names of the respective candidates by placing in one parcel under the name of each candidate all the ballot papers marked in accordance with subsection 239(2) on which a first preference is indicated for that candidate and in another parcel under the name of that candidate all the other ballot papers on which a first preference is indicated for that candidate;
+                     (c)  arrange the unrejected ballot-papers so scrutinized, together with the ballot-papers scrutinized pursuant to subsections (3) and (4), under the names of the respective candidates by placing in one parcel under the name of each candidate all the ballot-papers marked in accordance with subsection 239(2) on which a first preference is indicated for that candidate and in another parcel under the name of that candidate all the other ballot-papers on which a first preference is indicated for that candidate;
 
-                     (d)  count the first preference votes given for each candidate on such ballot papers, and transmit the following information, in an expeditious manner, to the Australian Electoral Officer:
+                     (d)  count the first preference votes given for each candidate on such ballot-papers, and transmit the following information, in an expeditious manner, to the Australian Electoral Officer:
 
                               (i)  the number of first preference votes given for each candidate:
 
-                                        (A)  on ballot papers marked in accordance with subsection 239(2); and
+                                        (A)  on ballot-papers marked in accordance with subsection 239(2); and
 
-                                        (B)  on all other ballot papers; and
+                                        (B)  on all other ballot-papers; and
 
-                             (ii)  the total number of ballot papers rejected as informal;
+                             (ii)  the total number of ballot-papers rejected as informal;
 
                      (e)  seal up the parcels and indorse on each parcel a description of the contents thereof, and permit any scrutineers present, if they so desire, to countersign the indorsement; and
 
-                      (f)  transmit with the least possible delay the parcels of unrejected ballot papers marked otherwise than in accordance with subsection 239(2) to the Australian Electoral Officer and inform the Australian Electoral Officer, in an expeditious manner, of the transmission.
+                      (f)  transmit with the least possible delay the parcels of unrejected ballot-papers marked otherwise than in accordance with subsection 239(2) to the Australian Electoral Officer and inform the Australian Electoral Officer, in an expeditious manner, of the transmission.
 
-             (6)  Nothing in this section shall be taken to require the Australian Electoral Officer to retain in separate parcels ballot papers received from different Divisional Returning Officers indicating first preferences for a particular candidate.
+             (6)  Nothing in this section shall be taken to require the Australian Electoral Officer to retain in separate parcels ballot-papers received from different Divisional Returning Officers indicating first preferences for a particular candidate.
 
              (7)  Where, for the purposes of the succeeding provisions of this section:
 
-                     (a)  the number of ballot papers or votes in any category is required to be ascertained;
+                     (a)  the number of ballot-papers or votes in any category is required to be ascertained;
 
                      (b)  a quota, a transfer value or the order of standing of continuing candidates in a poll is required to be determined; or
 
@@ -9449,7 +9293,7 @@ the Australian Electoral Officer for the State shall ascertain the number, deter
 
                      (a)  the number of surplus votes of the elected candidate shall be divided by the number of first preference votes received by the candidate and the resulting fraction shall be the transfer value;
 
-                     (b)  the total number of ballot papers of the elected candidate that express the first preference vote for that candidate and the next available preference for a particular continuing candidate shall be multiplied by the transfer value, the number so obtained (disregarding any fraction) shall be added to the number of first preference votes of the continuing candidate and all those ballot papers shall be transferred to the continuing candidate;
+                     (b)  the total number of ballot-papers of the elected candidate that express the first preference vote for that candidate and the next available preference for a particular continuing candidate shall be multiplied by the transfer value, the number so obtained (disregarding any fraction) shall be added to the number of first preference votes of the continuing candidate and all those ballot-papers shall be transferred to the continuing candidate;
 
 and any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of any such transfer shall be elected.
 
@@ -9457,7 +9301,7 @@ and any continuing candidate who has received a number of votes equal to or grea
 
            (11)  Where a continuing candidate has received a number of votes equal to or greater than the quota on the completion of a transfer under subsection (9) or (10) of the surplus votes of a particular elected candidate, no votes of any other candidate shall be transferred to the continuing candidate.
 
-           (12)  For the purposes of the application of paragraphs (9)(a) and (b) in relation to a transfer under subsection (10) or (14) of the surplus votes of an elected candidate, each ballot paper of the elected candidate that was obtained by the candidate on a transfer under this section shall be dealt with as if any vote it expressed for the elected candidate were a first preference vote, as if the name of any other candidate previously elected or excluded had not been on the ballot paper and as if the numbers indicating subsequent preferences had been altered accordingly.
+           (12)  For the purposes of the application of paragraphs (9)(a) and (b) in relation to a transfer under subsection (10) or (14) of the surplus votes of an elected candidate, each ballot-paper of the elected candidate that was obtained by the candidate on a transfer under this section shall be dealt with as if any vote it expressed for the elected candidate were a first preference vote, as if the name of any other candidate previously elected or excluded had not been on the ballot-paper and as if the numbers indicating subsequent preferences had been altered accordingly.
 
            (13)  Where, after the counting of first preference votes or the transfer of surplus votes (if any) of elected candidates, no candidate has, or fewer than the number of candidates required to be elected have, received a number of votes equal to the quota:
 
@@ -9513,7 +9357,7 @@ and the ballot papers of the excluded candidate or candidates must be distribute
 
          (13C)  Notwithstanding any other provision of this section (other than subsection (18)), where a candidate or candidates has or have been elected and there are surplus votes as a result of that election, paragraphs (13A)(a), (b), (c) and (d) may be applied as if references in those paragraphs to notional votes were references to adjusted notional votes.
 
-           (14)  Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of a transfer under subsection (13) or (15) of ballot papers of an excluded candidate or candidates, as the case may be, shall be elected, and, unless all the vacancies have been filled, the surplus votes (if any) of the candidate so elected shall be transferred in accordance with paragraphs (9)(a) and (b), except that, where the candidate so elected is elected before all the ballot papers of the excluded candidate or candidates, as the case may be, have been transferred, the surplus votes (if any) of the candidate so elected shall not be transferred until the remaining ballot papers of the excluded candidate or candidates, as the case may be, have been transferred in accordance with paragraphs (13AA)(a) and (b) to continuing candidates.
+           (14)  Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of a transfer under subsection (13) or (15) of ballot-papers of an excluded candidate or candidates, as the case may be, shall be elected, and, unless all the vacancies have been filled, the surplus votes (if any) of the candidate so elected shall be transferred in accordance with paragraphs (9)(a) and (b), except that, where the candidate so elected is elected before all the ballot-papers of the excluded candidate or candidates, as the case may be, have been transferred, the surplus votes (if any) of the candidate so elected shall not be transferred until the remaining ballot-papers of the excluded candidate or candidates, as the case may be, have been transferred in accordance with paragraphs (13AA)(a) and (b) to continuing candidates.
 
            (15)  Subject to subsection (17) where, after the transfer of all of the ballot papers of an excluded candidate or the excluded candidates, as the case may be, no continuing candidate has received a number of votes greater than the quota:
 
@@ -9523,13 +9367,13 @@ and the ballot papers of the excluded candidate or candidates must be distribute
 
 and the ballot papers of the excluded candidate or candidates must be transferred in accordance with subsection (13AA).
 
-           (16)  Where a candidate is elected during a transfer of ballot papers under subsection (13) or (15), no other ballot papers of an excluded candidate or candidates, as the case may be, shall be transferred to the candidate so elected.
+           (16)  Where a candidate is elected during a transfer of ballot-papers under subsection (13) or (15), no other ballot-papers of an excluded candidate or candidates, as the case may be, shall be transferred to the candidate so elected.
 
            (17)  In respect of the last vacancy for which two continuing candidates remain, the continuing candidate who has the larger number of votes shall be elected notwithstanding that that number is below the quota, and if those candidates have an equal number of votes the Australian Electoral Officer for the State shall have a casting vote but shall not otherwise vote at the election.
 
            (18)  Notwithstanding any other provision of this section, where the number of continuing candidates is equal to the number of remaining unfilled vacancies, those candidates shall be elected.
 
-           (19)  At the conclusion of the scrutiny, the Australian Electoral Officer shall place in parcels all the ballot papers transmitted to the officer under subsection (5), seal up the parcels and indorse on each parcel a description of the contents thereof.
+           (19)  At the conclusion of the scrutiny, the Australian Electoral Officer shall place in parcels all the ballot-papers transmitted to the officer under subsection (5), seal up the parcels and indorse on each parcel a description of the contents thereof.
 
            (20)  For the purposes of this Act and the _Representation Act 1983_:
 
@@ -9543,11 +9387,11 @@ and the ballot papers of the excluded candidate or candidates must be transferre
 
            (23)  Where, after any count under this section, a candidate obtains surplus votes, those surplus votes shall not be transferred before the transfer of any surplus votes obtained by any other candidate on an earlier count.
 
-           (25)  Where a candidate is elected by reason that the number of first preference votes received by the candidate, or the aggregate of first preference votes received by the candidate and all other votes obtained by the candidate on transfers under this section, is equal to the quota, all the ballot papers expressing those votes shall be set aside as finally dealt with.
+           (25)  Where a candidate is elected by reason that the number of first preference votes received by the candidate, or the aggregate of first preference votes received by the candidate and all other votes obtained by the candidate on transfers under this section, is equal to the quota, all the ballot-papers expressing those votes shall be set aside as finally dealt with.
 
-           (26)  A ballot paper shall be set aside as exhausted where on a transfer it is found that the paper expresses no preference for any continuing candidate.
+           (26)  A ballot-paper shall be set aside as exhausted where on a transfer it is found that the paper expresses no preference for any continuing candidate.
 
-           (27)  In any case to which subsection 239(4) applies, a vote indicated on a ballot paper opposite the name of a deceased candidate shall be counted to the candidate next in the order of the voter’s preference, and the numbers indicating subsequent preferences shall be deemed to be altered accordingly.
+           (27)  In any case to which subsection 239(4) applies, a vote indicated on a ballot-paper opposite the name of a deceased candidate shall be counted to the candidate next in the order of the voter’s preference, and the numbers indicating subsequent preferences shall be deemed to be altered accordingly.
 
            (28)  For the purposes of this section:
 
@@ -9559,7 +9403,7 @@ and the ballot papers of the excluded candidate or candidates must be transferre
 
                              (ii)  on distribution from another excluded candidate at a transfer value of 1 vote; or
 
-                     (c)  a transfer under paragraph (13AA)(b) of all ballot papers received by the excluded candidate or candidates, as the case may be, at a particular transfer value;
+                     (c)  a transfer under paragraph (13AA)(b) of all ballot-papers received by the excluded candidate or candidates, as the case may be, at a particular transfer value;
 
 each constitutes a separate transfer.
 
@@ -9583,7 +9427,7 @@ each constitutes a separate transfer.
 
                     <a name="vacanc-shortfal"></a>**_vacancy shortfall_**, in relation to a particular stage during the scrutiny in a Senate election, means the aggregate of the shortfalls of that number of leading candidates equal to the number of remaining unfilled vacancies, the leading candidates being ascertained by taking the continuing candidate who stands highest in the poll, the continuing candidate who stands next highest in the poll, and so on in the order in which the continuing candidates stand in the poll.
 
-           (30)  In this section, a reference to votes, or ballot papers, as the case may be, of or obtained or received by a candidate includes votes, or ballot papers, as the case may be, obtained or received by the candidate on any transfer under this section.
+           (30)  In this section, a reference to votes, or ballot-papers, as the case may be, of or obtained or received by a candidate includes votes, or ballot-papers, as the case may be, obtained or received by the candidate on any transfer under this section.
 
            (31)  For the purposes of this section, at any time after the counting of first preference votes the order of standing of the continuing candidates in the poll shall be determined as follows:
 
@@ -9599,23 +9443,23 @@ Determination that computerised scrutiny applies
 
              (1)  The scrutiny of votes in a Senate election for a particular State or Territory may be conducted by complying with the requirements set out in this section.
 
-Processing of ballot papers by Assistant Returning Officers
+Processing of ballot-papers by Assistant Returning Officers
 
-             (2)  Each Assistant Returning Officer must deal with ballot-boxes and ballot papers in the manner required by subsection 273(2).
+             (2)  Each Assistant Returning Officer must deal with ballot-boxes and ballot-papers in the manner required by subsection 273(2).
 
-Processing of ballot papers by Divisional Returning Officers
+Processing of ballot-papers by Divisional Returning Officers
 
-             (3)  Each Divisional Returning Officer must deal as follows with all ballot papers received by him or her:
+             (3)  Each Divisional Returning Officer must deal as follows with all ballot-papers received by him or her:
 
-                     (a)  reject any of the wholly above-the-line ballot papers that are informal and arrange the unrejected ones into parcels by placing under the name of each candidate all the ballot papers on which a first preference is indicated for that candidate;
+                     (a)  reject any of the wholly above-the-line ballot-papers that are informal and arrange the unrejected ones into parcels by placing under the name of each candidate all the ballot-papers on which a first preference is indicated for that candidate;
 
-                     (b)  reject any informal ballot papers that have no mark at all on them, and any other ballot papers that are obviously informal, and place the rejected ballot papers in one or more parcels;
+                     (b)  reject any informal ballot-papers that have no mark at all on them, and any other ballot-papers that are obviously informal, and place the rejected ballot-papers in one or more parcels;
 
-                     (c)  place in a parcel or parcels all the ballot papers received by the Divisional Returning Officer, other than:
+                     (c)  place in a parcel or parcels all the ballot-papers received by the Divisional Returning Officer, other than:
 
-                              (i)  the unrejected wholly above-the-line ballot papers; and
+                              (i)  the unrejected wholly above-the-line ballot-papers; and
 
-                             (ii)  the ballot papers rejected as informal;
+                             (ii)  the ballot-papers rejected as informal;
 
                      (d)  seal up all the parcels and endorse on each parcel a description of the contents, and permit any scrutineers present, if they so desire, to countersign the endorsement;
 
@@ -9623,13 +9467,13 @@ Processing of ballot papers by Divisional Returning Officers
 
                       (f)  transmit the following information to the Australian Electoral Officer:
 
-                              (i)  the number of first preference votes given for each candidate on unrejected wholly above-the-line ballot papers;
+                              (i)  the number of first preference votes given for each candidate on unrejected wholly above-the-line ballot-papers;
 
-                             (ii)  the total number of ballot papers rejected as informal.
+                             (ii)  the total number of ballot-papers rejected as informal.
 
-Processing of ballot papers received by Australian Electoral Officer
+Processing of ballot-papers received by Australian Electoral Officer
 
-             (4)  The Australian Electoral Officer must scrutinise all the ballot papers received by him or her, and must reject the informal ones.
+             (4)  The Australian Electoral Officer must scrutinise all the ballot-papers received by him or her, and must reject the informal ones.
 
 Determining election result
 
@@ -9639,29 +9483,29 @@ Rights of scrutineers
 
              (6)  For proceedings under subsections (4) and (5) of this section, the requirements of paragraph 265(1)(c) are met if the scrutineers have access to:
 
-                     (a)  a record of the preferences on the ballot papers that have been received by the Australian Electoral Officer and whose details have been stored in the computer (including informal ballot papers, and formal ballot papers that are not sequentially numbered); and
+                     (a)  a record of the preferences on the ballot-papers that have been received by the Australian Electoral Officer and whose details have been stored in the computer (including informal ballot-papers, and formal ballot-papers that are not sequentially numbered); and
 
-                     (b)  a record of the ballot papers that are notionally transferred, or exhausted, at each count; and
+                     (b)  a record of the ballot-papers that are notionally transferred, or exhausted, at each count; and
 
                      (c)  a record of the progress of the count of the votes, at each count.
 
 Modified rules for re-count
 
-             (7)  If ballot papers that are to be re-counted under section 278 are in the possession of the Australian Electoral Officer immediately before the re-count begins, the Australian Electoral Officer must deal with those ballot papers as follows:
+             (7)  If ballot-papers that are to be re-counted under section 278 are in the possession of the Australian Electoral Officer immediately before the re-count begins, the Australian Electoral Officer must deal with those ballot-papers as follows:
 
-                     (a)  open the parcels (for those ballot papers that are in parcels) in the presence of a person appointed or engaged under the _Public Service Act 1999_ and of any scrutineer who attends;
+                     (a)  open the parcels (for those ballot-papers that are in parcels) in the presence of a person appointed or engaged under the _Public Service Act 1999_ and of any scrutineer who attends;
 
-                     (b)  scrutinise all the ballot papers, and make a decision on each one either to admit it or reject it;
+                     (b)  scrutinise all the ballot-papers, and make a decision on each one either to admit it or reject it;
 
-                     (c)  after scrutinising all the ballot papers, restore the ones that were in parcels to their original covers, and place the remaining ballot papers in a parcel or parcels;
+                     (c)  after scrutinising all the ballot-papers, restore the ones that were in parcels to their original covers, and place the remaining ballot-papers in a parcel or parcels;
 
                      (d)  seal up all the parcels and write on each cover:
 
-                              (i)  the number of ballot papers contained in the cover; and
+                              (i)  the number of ballot-papers contained in the cover; and
 
-                             (ii)  a statement that all the ballot papers have been the subject of decisions by the Australian Electoral Officer;
+                             (ii)  a statement that all the ballot-papers have been the subject of decisions by the Australian Electoral Officer;
 
-                     (e)  sign the cover of each parcel and permit other persons who were present when the ballot papers were scrutinised to add their signatures.
+                     (e)  sign the cover of each parcel and permit other persons who were present when the ballot-papers were scrutinised to add their signatures.
 
              (8)  If:
 
@@ -9677,13 +9521,13 @@ Definitions
 
            (10)  In this section:
 
-                    <a name="divid-line"></a>**_dividing line_** means the line on the ballot paper that separates the voting method described in subsection 239(1) from the voting method described in subsection 239(2).
+                    <a name="divid-line"></a>**_dividing line_** means the line on the ballot-paper that separates the voting method described in subsection 239(1) from the voting method described in subsection 239(2).
 
-                    <a name="wholli-abov-line-ballot-paper"></a>**_wholly above-the-line ballot paper_** means a ballot paper that:
+                    <a name="wholli-abov-line-ballot-paper"></a>**_wholly above-the-line ballot-paper_** means a ballot-paper that:
 
                      (a)  has one or more numbers, ticks, crosses or other marks above the dividing line; and
 
-                     (b)  has no marks on the ballot paper below the dividing line.
+                     (b)  has no marks on the ballot-paper below the dividing line.
 
 ##### <a id="273B"></a>273B  Combination of manual and computer scrutiny permitted
 
@@ -9701,31 +9545,31 @@ Definitions
 
                     (ab)  check the accuracy of the statement of the presiding officer, electoral visitor or mobile polling team leader by:
 
-                              (i)  removing the ballot papers from the box;
+                              (i)  removing the ballot-papers from the box;
 
                              (ii)  counting, but not inspecting, them; and
 
-                            (iii)  recording the number of ballot papers removed from the box;
+                            (iii)  recording the number of ballot-papers removed from the box;
 
-                     (b)  reject all informal ballot papers, and arrange the unrejected ballot papers under the names of the respective candidates by placing in a separate parcel all those on which a first preference is indicated for the same candidate;
+                     (b)  reject all informal ballot-papers, and arrange the unrejected ballot-papers under the names of the respective candidates by placing in a separate parcel all those on which a first preference is indicated for the same candidate;
 
-                     (c)  count the first preference votes given for each candidate on all unrejected ballot papers;
+                     (c)  count the first preference votes given for each candidate on all unrejected ballot-papers;
 
-                     (d)  make out and sign a statement (which may be countersigned by a polling official, and, if they so desire, by such scrutineers as are present) setting out the number of first preference votes given for each candidate, and the number of informal ballot papers;
+                     (d)  make out and sign a statement (which may be countersigned by a polling official, and, if they so desire, by such scrutineers as are present) setting out the number of first preference votes given for each candidate, and the number of informal ballot-papers;
 
-                     (e)  place in a separate parcel all the ballot papers which have been rejected as informal;
+                     (e)  place in a separate parcel all the ballot-papers which have been rejected as informal;
 
                       (f)  transmit the following information, in an expeditious manner, to the Divisional Returning Officer:
 
                               (i)  the number of first preference votes given for each candidate; and
 
-                             (ii)  the total number of ballot papers rejected as informal;
+                             (ii)  the total number of ballot-papers rejected as informal;
 
                      (g)  seal up the parcels and indorse on each parcel a description of the contents thereof, and permit any scrutineers present, if they so desire, to countersign the indorsement; and
 
                      (h)  transmit the parcels to the Divisional Returning Officer with the least possible delay, together with the statement specified in paragraph (d).
 
-          (2A)  If, in a House of Representatives election, there are more than 2 candidates for a Division, the Australian Electoral Officer for the State or Territory that includes the Division must, in writing, direct each Assistant Returning Officer for the Division, and the Divisional Returning Officer for the Division, to conduct a count of preference votes (other than first preference votes) on the ballot papers that, in the opinion of the Australian Electoral Officer, will best provide an indication of the candidate most likely to be elected for the Division.
+          (2A)  If, in a House of Representatives election, there are more than 2 candidates for a Division, the Australian Electoral Officer for the State or Territory that includes the Division must, in writing, direct each Assistant Returning Officer for the Division, and the Divisional Returning Officer for the Division, to conduct a count of preference votes (other than first preference votes) on the ballot-papers that, in the opinion of the Australian Electoral Officer, will best provide an indication of the candidate most likely to be elected for the Division.
 
           (2B)  An Assistant Returning Officer to whom a direction is given under subsection (2A) must:
 
@@ -9739,19 +9583,19 @@ in the manner specified in the direction.
 
                      (a)  at the time of the fresh scrutiny under subsection (7); and
 
-                     (b)  at the time at which the Divisional Returning Officer examines and counts ballot papers recording declaration votes other than ballot papers recording declaration votes that were examined and counted at the time of the fresh scrutiny.
+                     (b)  at the time at which the Divisional Returning Officer examines and counts ballot-papers recording declaration votes other than ballot-papers recording declaration votes that were examined and counted at the time of the fresh scrutiny.
 
-             (3)  The Divisional Returning Officer shall open all ballot-boxes not opened by an Assistant Returning Officer, and shall conduct the scrutiny of the ballot papers contained therein in the manner aforesaid as far as applicable.
+             (3)  The Divisional Returning Officer shall open all ballot-boxes not opened by an Assistant Returning Officer, and shall conduct the scrutiny of the ballot-papers contained therein in the manner aforesaid as far as applicable.
 
-             (4)  The Divisional Returning Officer shall, in the manner prescribed by this Act or the Regulations, examine, count, and deal with all ballot papers used for casting declaration votes.
+             (4)  The Divisional Returning Officer shall, in the manner prescribed by this Act or the Regulations, examine, count, and deal with all ballot-papers used for casting declaration votes.
 
              (7)  The Divisional Returning Officer:
 
-                     (a)  shall open the sealed parcels of ballot papers received from the Assistant Returning Officers in or for the Division;
+                     (a)  shall open the sealed parcels of ballot-papers received from the Assistant Returning Officers in or for the Division;
 
-                     (b)  shall make a fresh scrutiny of the ballot papers contained in the parcels, and, for the purpose of that scrutiny, shall have the same powers as if it were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny;
+                     (b)  shall make a fresh scrutiny of the ballot-papers contained in the parcels, and, for the purpose of that scrutiny, shall have the same powers as if it were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny;
 
-                     (c)  from the result of the scrutiny of the votes counted under the provisions of subsections (3) and (4), and the fresh scrutiny conducted under the provisions of this subsection, shall ascertain the total number of first preference votes given for each candidate and the number of informal ballot papers; and
+                     (c)  from the result of the scrutiny of the votes counted under the provisions of subsections (3) and (4), and the fresh scrutiny conducted under the provisions of this subsection, shall ascertain the total number of first preference votes given for each candidate and the number of informal ballot-papers; and
 
                     (ca)  must then proceed with the scrutiny and the counting of the votes as follows:
 
@@ -9761,9 +9605,9 @@ in the manner specified in the direction.
 
                      (d)  if, after applying subsection (7AA), subparagraph (7AA)(b)(i) applies, shall proceed with the scrutiny and the counting of the votes as follows:
 
-                              (i)  the candidate who has received the fewest first preference votes shall be excluded, and each ballot paper counted to the candidate shall be counted to the candidate next in the order of the voter’s preference;
+                              (i)  the candidate who has received the fewest first preference votes shall be excluded, and each ballot-paper counted to the candidate shall be counted to the candidate next in the order of the voter’s preference;
 
-                             (ii)  the process of excluding the candidate who has the fewest votes, and counting each of his or her ballot papers to the unexcluded candidate next in the order of the voter’s preference, shall be repeated until only 2 candidates remain in the count; and
+                             (ii)  the process of excluding the candidate who has the fewest votes, and counting each of his or her ballot-papers to the unexcluded candidate next in the order of the voter’s preference, shall be repeated until only 2 candidates remain in the count; and
 
                             (iii)  if, following the exclusion of candidates under this paragraph, a candidate has an absolute majority of votes, that candidate shall be elected.
 
@@ -9777,7 +9621,7 @@ in the manner specified in the direction.
 
                              (ii)  if the total number of first preference votes for all the candidates, other than the first and second ranked candidates, is less than the number of first preference votes for the second ranked candidate—exclude all the candidates other than the first and second ranked candidates;
 
-                     (c)  if subparagraph (b)(ii) applies—count each ballot paper of an excluded candidate to whichever of the first or second ranked candidates is earlier in the order of preference expressed on the ballot paper.
+                     (c)  if subparagraph (b)(ii) applies—count each ballot-paper of an excluded candidate to whichever of the first or second ranked candidates is earlier in the order of preference expressed on the ballot-paper.
 
         (7AB)  The ranking of candidates under paragraph (7AA)(a) is to be done as follows: 
 
@@ -9785,9 +9629,9 @@ in the manner specified in the direction.
 
                      (b)  if 2 or more candidates have an equal number of first preference votes, the ranking as between those candidates is to be decided, by lot, by the Divisional Returning Officer.
 
-        (7AC)  If, following the exclusion of candidates under subparagraph (7AA)(b)(ii) and the count of ballot papers under paragraph (7AA)(c), a candidate has an absolute majority of votes, that candidate is elected.
+        (7AC)  If, following the exclusion of candidates under subparagraph (7AA)(b)(ii) and the count of ballot-papers under paragraph (7AA)(c), a candidate has an absolute majority of votes, that candidate is elected.
 
-          (7A)  The fresh scrutiny referred to in paragraph (7)(b) shall, if the Australian Electoral Officer for the State or Territory that includes the relevant Division so directs in writing, include a scrutiny of such preferences (other than first preferences), on such of the ballot papers, as are required by the direction, and shall be conducted in the manner specified in the direction.
+          (7A)  The fresh scrutiny referred to in paragraph (7)(b) shall, if the Australian Electoral Officer for the State or Territory that includes the relevant Division so directs in writing, include a scrutiny of such preferences (other than first preferences), on such of the ballot-papers, as are required by the direction, and shall be conducted in the manner specified in the direction.
 
              (9)  If, on any count other than the final count:
 
@@ -9797,35 +9641,35 @@ in the manner specified in the direction.
 
 the candidate to be excluded is the candidate with less votes than any of the other lowest ranking candidates at the last count at which one of those candidates had less votes than any of the others, but, if there has been no such count, the Divisional Returning Officer must decide by lot which of them is to be excluded.
 
-          (9A)  If, in the final count, 2 or more candidates have an equal number of votes, the Divisional Returning Officer shall make a fresh scrutiny of the votes scrutinised under subsection (7) and a fresh scrutiny of all declaration ballot papers rejected at the preliminary scrutiny.
+          (9A)  If, in the final count, 2 or more candidates have an equal number of votes, the Divisional Returning Officer shall make a fresh scrutiny of the votes scrutinised under subsection (7) and a fresh scrutiny of all declaration ballot-papers rejected at the preliminary scrutiny.
 
           (9B)  If, after the fresh scrutinies referred to in subsection (9A), a candidate has received an absolute majority of votes, that candidate shall be elected.
 
           (9C)  If, after the fresh scrutinies referred to in subsection (9A), 2 or more candidates have an equal number of votes, the Divisional Returning Officer shall give to the Electoral Commissioner written notice that the election cannot be decided.
 
-           (10)  Subject to subsection (11), in this section an absolute majority of votes means a greater number than one-half of the whole number of ballot papers other than informal ballot papers.
+           (10)  Subject to subsection (11), in this section an absolute majority of votes means a greater number than one-half of the whole number of ballot-papers other than informal ballot-papers.
 
            (12)  The Divisional Returning Officer shall:
 
-                     (a)  place in a separate parcel all the ballot papers which have been rejected as informal;
+                     (a)  place in a separate parcel all the ballot-papers which have been rejected as informal;
 
-                     (b)  place in a separate parcel all the unrejected ballot papers; and
+                     (b)  place in a separate parcel all the unrejected ballot-papers; and
 
                      (c)  seal up the parcels and indorse on each parcel a description of the contents thereof, and permit any scrutineers present, if they so desire, to countersign the indorsement.
 
-##### <a id="275"></a>275  Scrutiny prior to receipt of declaration ballot papers
+##### <a id="275"></a>275  Scrutiny prior to receipt of declaration ballot-papers
 
                    Where the Australian Electoral Officer, in the case of a Senate election, or the Divisional Returning Officer, in the case of a House of Representatives election, is satisfied that the votes:
 
-                     (a)  on any ballot papers issued at some remote polling place in connexion with the election which have not been received by the Divisional Returning Officer; or
+                     (a)  on any ballot-papers issued at some remote polling place in connexion with the election which have not been received by the Divisional Returning Officer; or
 
-                     (b)  on ballot papers used for casting declaration votes and not dealt with under section 266;
+                     (b)  on ballot-papers used for casting declaration votes and not dealt with under section 266;
 
-cannot, having regard to the number of those ballot papers, possibly affect the result of the election, the Australian Electoral Officer, in the case of a Senate election, or the Divisional Returning Officer, in the case of a House of Representatives election, may, subject to the concurrence of the Electoral Commissioner, proceed with the scrutiny without awaiting the receipt of the ballot papers, or completing the action, as the case may be.
+cannot, having regard to the number of those ballot-papers, possibly affect the result of the election, the Australian Electoral Officer, in the case of a Senate election, or the Divisional Returning Officer, in the case of a House of Representatives election, may, subject to the concurrence of the Electoral Commissioner, proceed with the scrutiny without awaiting the receipt of the ballot-papers, or completing the action, as the case may be.
 
 ##### <a id="276"></a>276  Provisional scrutiny
 
-             (1)  Where a Divisional Returning Officer in a House of Representatives election has counted all votes on ballot papers (other than ballot papers referred to in paragraph 275(b)) and section 275 does not apply, he or she may, if directed to do so by the Australian Electoral Officer, proceed, in a manner specified in the directions, with a scrutiny of second and later preferences shown on the ballot papers.
+             (1)  Where a Divisional Returning Officer in a House of Representatives election has counted all votes on ballot-papers (other than ballot-papers referred to in paragraph 275(b)) and section 275 does not apply, he or she may, if directed to do so by the Australian Electoral Officer, proceed, in a manner specified in the directions, with a scrutiny of second and later preferences shown on the ballot-papers.
 
              (2)  If the Divisional Returning Officer in a House of Representatives election did not proceed with a scrutiny under paragraph 274(7)(d) because subparagraph 274(7AA)(b)(ii) applied, the Divisional Returning Officer must, when directed by the Australian Electoral Officer, proceed with the scrutiny and the counting of the votes as set out in subparagraphs 274(7)(d)(i) and (ii).
 
@@ -9835,71 +9679,71 @@ cannot, having regard to the number of those ballot papers, possibly affect the 
 
 ##### <a id="278"></a>278  Re-count at Senate elections
 
-             (1)  At any time before the declaration of the result of a Senate election the Australian Electoral Officer may, on the written request of any candidate setting forth the reasons for the request, or of the officer’s own motion, direct or conduct a re-count of the ballot papers contained in any parcel or in any other category determined by the Australian Electoral Officer.
+             (1)  At any time before the declaration of the result of a Senate election the Australian Electoral Officer may, on the written request of any candidate setting forth the reasons for the request, or of the officer’s own motion, direct or conduct a re-count of the ballot-papers contained in any parcel or in any other category determined by the Australian Electoral Officer.
 
-             (2)  If the Australian Electoral Officer refuses a request of a candidate under subsection (1), the candidate may, in writing, appeal to the Electoral Commissioner to direct a re-count of the ballot papers to which the request relates, and the Electoral Commissioner has a discretion either to direct a re-count of the ballot papers or refuse to direct a re-count.
+             (2)  If the Australian Electoral Officer refuses a request of a candidate under subsection (1), the candidate may, in writing, appeal to the Electoral Commissioner to direct a re-count of the ballot-papers to which the request relates, and the Electoral Commissioner has a discretion either to direct a re-count of the ballot-papers or refuse to direct a re-count.
 
 ##### <a id="279"></a>279  Re-count at House of Representatives elections
 
-                   At any time before the declaration of the result of a House of Representatives election the Divisional Returning Officer may, on the request of any candidate setting forth the reasons for the request, or of the officer’s own motion, and shall, if so directed by the Electoral Commissioner or the Australian Electoral Officer, re-count the ballot papers contained in any parcel or in any other category determined by the Australian Electoral Officer or the Electoral Commissioner.
+                   At any time before the declaration of the result of a House of Representatives election the Divisional Returning Officer may, on the request of any candidate setting forth the reasons for the request, or of the officer’s own motion, and shall, if so directed by the Electoral Commissioner or the Australian Electoral Officer, re-count the ballot-papers contained in any parcel or in any other category determined by the Australian Electoral Officer or the Electoral Commissioner.
 
 ##### <a id="279A"></a>279A  Notice of re-count
 
-                   Before re-counting any ballot papers, the DRO shall send to each candidate notice of the date, time and place fixed for the re-count.
+                   Before re-counting any ballot-papers, the DRO shall send to each candidate notice of the date, time and place fixed for the re-count.
 
 ##### <a id="279B"></a>279B  Conduct of re-count
 
-             (1)  At the time and place fixed for the re-count and in the presence of any scrutineers who attend and of a person appointed or engaged under the _Public Service Act 1999_, the DRO shall open every sealed parcel of ballot papers to be re-counted and count the votes in the parcel.
+             (1)  At the time and place fixed for the re-count and in the presence of any scrutineers who attend and of a person appointed or engaged under the _Public Service Act 1999_, the DRO shall open every sealed parcel of ballot-papers to be re-counted and count the votes in the parcel.
 
-             (2)  A parcel containing ballot papers to be re-counted shall be opened without destroying or rendering illegible any writing on the parcel and the contents of the parcel shall not be allowed to become mixed with ballot papers from any other parcel.
+             (2)  A parcel containing ballot-papers to be re-counted shall be opened without destroying or rendering illegible any writing on the parcel and the contents of the parcel shall not be allowed to become mixed with ballot-papers from any other parcel.
 
-             (3)  After the votes in a parcel have been counted, the DRO shall replace the ballot papers in their original cover, reseal and refasten the cover, place the resealed parcel in a new cover, and seal and fasten the new cover.
+             (3)  After the votes in a parcel have been counted, the DRO shall replace the ballot-papers in their original cover, reseal and refasten the cover, place the resealed parcel in a new cover, and seal and fasten the new cover.
 
              (4)  The DRO shall write on the new cover a statement of the fact and date of the re-count of the votes in the cover and, along with such of the persons present who choose to add their signatures, shall sign the statement.
 
-             (5)  The DRO shall place any ballot papers reserved for the decision of the Australian Electoral Officer in a sealed and fastened parcel bearing the signatures of the DRO and the scrutineers who choose to add their signatures and a note of the number of ballot papers in the parcel, the name of the Division and the date.
+             (5)  The DRO shall place any ballot-papers reserved for the decision of the Australian Electoral Officer in a sealed and fastened parcel bearing the signatures of the DRO and the scrutineers who choose to add their signatures and a note of the number of ballot-papers in the parcel, the name of the Division and the date.
 
              (6)  The DRO shall place the parcel in a sealed and fastened outer cover addressed to the Australian Electoral Officer and, without delay, send the parcel to the Australian Electoral Officer by hand, registered post or courier service.
 
              (7)  The Australian Electoral Officer shall open the parcel in the presence of a person appointed or engaged under the _Public Service Act 1999_ and of any scrutineer who attends and shall:
 
-                     (a)  scrutinise the ballot papers; and
+                     (a)  scrutinise the ballot-papers; and
 
-                     (b)  mark each ballot paper “admitted” or “rejected” according to his or her decision.
+                     (b)  mark each ballot-paper “admitted” or “rejected” according to his or her decision.
 
-             (8)  After scrutinising all the ballot papers, the Australian Electoral Officer shall restore them to their original cover, refasten and reseal the cover, and write on the cover:
+             (8)  After scrutinising all the ballot-papers, the Australian Electoral Officer shall restore them to their original cover, refasten and reseal the cover, and write on the cover:
 
-                     (a)  the number of ballot papers contained in the cover; and
+                     (a)  the number of ballot-papers contained in the cover; and
 
-                     (b)  a statement that all ballot papers have been the subject of decisions by him or her.
+                     (b)  a statement that all ballot-papers have been the subject of decisions by him or her.
 
-             (9)  The Australian Electoral Officer shall sign the cover, along with such other persons present when the ballot papers were scrutinised as choose to add their signatures.
+             (9)  The Australian Electoral Officer shall sign the cover, along with such other persons present when the ballot-papers were scrutinised as choose to add their signatures.
 
            (10)  The Australian Electoral Officer shall then enclose the parcel in a new cover, fasten and seal the cover and send the parcel to the DRO by hand, registered post or courier service.
 
-           (11)  The Australian Electoral Officer shall inform the DRO in writing of the numbers of ballot papers admitted or rejected by him or her, and the DRO shall complete the re-count on the basis of the Australian Electoral Officer’s decision.
+           (11)  The Australian Electoral Officer shall inform the DRO in writing of the numbers of ballot-papers admitted or rejected by him or her, and the DRO shall complete the re-count on the basis of the Australian Electoral Officer’s decision.
 
-           (12)  The receipt of a parcel of ballot papers by the DRO or the Australian Electoral Officer shall be acknowledged in writing.
+           (12)  The receipt of a parcel of ballot-papers by the DRO or the Australian Electoral Officer shall be acknowledged in writing.
 
 ##### <a id="280"></a>280  Powers of officer conducting re-count
 
-                   The officer conducting a re-count shall have the same powers as if the re-count were the scrutiny, and may reverse any decision in relation to the scrutiny as to the allowance and admission or disallowance and rejection of any ballot paper.
+                   The officer conducting a re-count shall have the same powers as if the re-count were the scrutiny, and may reverse any decision in relation to the scrutiny as to the allowance and admission or disallowance and rejection of any ballot-paper.
 
-##### <a id="281"></a>281  Reservation of disputed ballot papers
+##### <a id="281"></a>281  Reservation of disputed ballot-papers
 
-             (1)  The officer conducting a re-count may, and at the request of any scrutineer shall, reserve any ballot paper for the decision of the Australian Electoral Officer.
+             (1)  The officer conducting a re-count may, and at the request of any scrutineer shall, reserve any ballot-paper for the decision of the Australian Electoral Officer.
 
-             (2)  The Australian Electoral Officer shall decide whether any ballot paper so reserved is to be allowed and admitted or disallowed and rejected.
+             (2)  The Australian Electoral Officer shall decide whether any ballot-paper so reserved is to be allowed and admitted or disallowed and rejected.
 
-             (3)  In the event of the validity of the election being disputed, the Court of Disputed Returns may consider any ballot papers which were reserved for the decision of the Australian Electoral Officer, but shall not order any further re-count of the whole or any part of the ballot papers in connexion with the election unless it is satisfied that the re-count is justified.
+             (3)  In the event of the validity of the election being disputed, the Court of Disputed Returns may consider any ballot-papers which were reserved for the decision of the Australian Electoral Officer, but shall not order any further re-count of the whole or any part of the ballot-papers in connexion with the election unless it is satisfied that the re-count is justified.
 
 ##### <a id="282"></a>282  Re-count of Senate votes to determine order of election in other circumstances
 
-             (1)  Where the scrutiny in an election of Senators for a State held following a dissolution of the Senate under section 57 of the Constitution has been completed, the Australian Electoral Officer for that State shall conduct a re-count of the ballot papers in the election in accordance with subsections 273(7) to (30) (inclusive) as if:
+             (1)  Where the scrutiny in an election of Senators for a State held following a dissolution of the Senate under section 57 of the Constitution has been completed, the Australian Electoral Officer for that State shall conduct a re-count of the ballot-papers in the election in accordance with subsections 273(7) to (30) (inclusive) as if:
 
                      (a)  in subsection 273(8) “half” were inserted before “the number of candidates”; and
 
-                     (b)  the only names of candidates appearing on the ballot papers were the names of the candidates elected at the election and the numbers indicating preferences had been altered accordingly.
+                     (b)  the only names of candidates appearing on the ballot-papers were the names of the candidates elected at the election and the numbers indicating preferences had been altered accordingly.
 
              (2)  Sections 280 and 281 do not apply in relation to a re-count under subsection (1).
 
@@ -9907,11 +9751,11 @@ cannot, having regard to the number of those ballot papers, possibly affect the 
 
              (4)  Where, in a Senate election:
 
-                     (a)  an elector has marked a ballot paper according to subsection 239(2); and
+                     (a)  an elector has marked a ballot-paper according to subsection 239(2); and
 
-                     (b)  the elector has also marked the ballot paper in such a way that, had it not been marked according to subsection 239(2), the ballot paper would have been informal;
+                     (b)  the elector has also marked the ballot-paper in such a way that, had it not been marked according to subsection 239(2), the ballot-paper would have been informal;
 
-the ballot paper shall be treated, for the purposes of this section, as if the only marking on the ballot paper were the marking according to subsection 239(2).
+the ballot-paper shall be treated, for the purposes of this section, as if the only marking on the ballot-paper were the marking according to subsection 239(2).
 
 ## Part XIX—The return of the writs
 
@@ -9935,13 +9779,13 @@ the ballot paper shall be treated, for the purposes of this section, as if the o
 
              (2)  Where the Divisional Returning Officer:
 
-                     (a)  is satisfied that certain ballot papers, issued at some remote polling place in connexion with the election, cannot reach the Divisional Returning Officer for the purpose of the scrutiny without unduly delaying the declaration of the poll, or
+                     (a)  is satisfied that certain ballot-papers, issued at some remote polling place in connexion with the election, cannot reach the Divisional Returning Officer for the purpose of the scrutiny without unduly delaying the declaration of the poll, or
 
                      (b)  cannot complete the inquiries required by section 266 without unduly delaying the declaration of the poll, and
 
-                     (c)  in either case, is satisfied that the votes recorded on those ballot papers could not possibly affect the result of the election;
+                     (c)  in either case, is satisfied that the votes recorded on those ballot-papers could not possibly affect the result of the election;
 
-the Divisional Returning Officer may, subject to the concurrence of the Electoral Commissioner, declare the result of the election without awaiting the receipt of the ballot papers or the completion of inquiries, as the case may be.
+the Divisional Returning Officer may, subject to the concurrence of the Electoral Commissioner, declare the result of the election without awaiting the receipt of the ballot-papers or the completion of inquiries, as the case may be.
 
           (2A)  As soon as practicable after all votes cast in a House of Representatives election have been dealt with, the Divisional Returning Officer shall send to the Electoral Commissioner a written statement setting out the number of votes received by each candidate in the election.
 
@@ -9959,7 +9803,7 @@ the Divisional Returning Officer may, subject to the concurrence of the Electora
 
 ##### <a id="285"></a>285  Correction of errors
 
-             (1)  Any delay, error, or omission in the printing, preparation, issue, transmission, or return of any roll, writ, ballot papers, or certified list of voters, may be remedied, removed, rectified, and supplied by proclamation specifying the matter dealt with, and providing for the course to be followed, and such course shall be valid and sufficient.
+             (1)  Any delay, error, or omission in the printing, preparation, issue, transmission, or return of any roll, writ, ballot-papers, or certified list of voters, may be remedied, removed, rectified, and supplied by proclamation specifying the matter dealt with, and providing for the course to be followed, and such course shall be valid and sufficient.
 
              (2)  For the purposes of subsection (1), a certificate attached to a writ under section 283 or 284 is taken to form part of the writ.
 
@@ -10057,7 +9901,7 @@ and ended 30 days after polling day in the election.
 
                      (b)  an annual subscription paid to a political party, to a State branch of a political party or to a division of a State branch of a political party by a person in respect of the person’s membership of the party, branch or division.
 
-                    <a name="group"></a>**_group_** means a group of 2 or more candidates nominated for election to the Senate who have their names grouped in the ballot papers in accordance with section 168.
+                    <a name="group"></a>**_group_** means a group of 2 or more candidates nominated for election to the Senate who have their names grouped in the ballot-papers in accordance with section 168.
 
                     <a name="journal"></a>**_journal_** means a newspaper, magazine or other periodical, whether published for sale or for distribution without charge.
 
@@ -10175,7 +10019,7 @@ and ended 30 days after polling day in the election.
 
              (3)  During any period during which there is no appointment in force under subsection (1) of an agent of a candidate, the candidate shall be taken to be his or her own agent for the purposes of this Part.
 
-             (4)  During any period during which there is no appointment in force under subsection (2) of an agent of a group, the candidate whose name is to appear first in the group in the ballot papers shall be taken to be the agent of the group for the purposes of this Part.
+             (4)  During any period during which there is no appointment in force under subsection (2) of an agent of a group, the candidate whose name is to appear first in the group in the ballot-papers shall be taken to be the agent of the group for the purposes of this Part.
 
 ##### <a id="290"></a>290  Requisites for appointment
 
@@ -10497,7 +10341,7 @@ Abbreviation of party names
 
              (4)  The Electoral Commission may, by notice published in the _Gazette_, determine that a specified abbreviation of the name of a party is a **_special abbreviation_** of the name of the party for the purposes of this section.
 
-             (5)  The Electoral Commission must publish a copy of a notice under subsection (4) on the internet.
+             (5)  The Electoral Commission must publish a copy of a notice under subsection (4) on the Internet.
 
              (6)  Before making a determination under subsection (4) in relation to a party, the Electoral Commission must consult the party.
 
@@ -10551,7 +10395,7 @@ the payment may be made to another member of the group as if the other member we
 
              (2)  The agent of each person (including a member of a group) who was a candidate in an election or by-election shall, within 15 weeks after the polling day in the election, furnish to the Electoral Commission a return, in an approved form, setting out the total amount or value of all gifts, the number of persons who made gifts, and the relevant details of each gift, received by the person during the disclosure period for the election.
 
-             (3)  Subject to subsection (3A), the agent of each group shall, within 15 weeks after the polling day in the election in relation to which the members of the group had their names grouped in the ballot papers, furnish to the Electoral Commission a return, in an approved form, setting out the total amount or value of all gifts, the number of persons who made gifts, and the relevant details of each gift, received by the group during the disclosure period for the election.
+             (3)  Subject to subsection (3A), the agent of each group shall, within 15 weeks after the polling day in the election in relation to which the members of the group had their names grouped in the ballot-papers, furnish to the Electoral Commission a return, in an approved form, setting out the total amount or value of all gifts, the number of persons who made gifts, and the relevant details of each gift, received by the group during the disclosure period for the election.
 
           (3A)  In the case of a group all of whose members were endorsed by the same registered political party, a gift received by the group shall be taken to have been received:
 
@@ -10935,7 +10779,7 @@ Note 3:       The dollar amount mentioned in this section is indexed
 
 ### Division 5—Disclosure of electoral expenditure
 
-##### <a id="308"></a>308  Interpretation
+##### <a id="308"></a>308  Interpretation
 
              (1)  In this Division, **_electoral expenditure_**, in relation to an election, means expenditure incurred (whether or not incurred during the election period) on:
 
@@ -10973,7 +10817,7 @@ Note 3:       The dollar amount mentioned in this section is indexed
 
              (2)  The agent of each person who was a candidate in an election (not being a member of a group) shall, before the expiration of 15 weeks after the polling day in the election, furnish to the Electoral Commission a return, in an approved form, setting out details of all electoral expenditure in relation to the election incurred by or with the authority of the candidate.
 
-             (3)  The agent of each group shall, before the expiration of 15 weeks after the polling day in an election in relation to which the members of the group have their names grouped in the ballot papers, furnish to the Electoral Commission a return, in an approved form, setting out details of all electoral expenditure in relation to the election incurred by or with the authority of members of the group.
+             (3)  The agent of each group shall, before the expiration of 15 weeks after the polling day in an election in relation to which the members of the group have their names grouped in the ballot-papers, furnish to the Electoral Commission a return, in an approved form, setting out details of all electoral expenditure in relation to the election incurred by or with the authority of members of the group.
 
 ##### <a id="311A"></a>311A  Annual returns of income and expenditure of Commonwealth Departments
 
@@ -11041,9 +10885,9 @@ it is sufficient compliance with this Division if the return sets out details of
 
 ##### <a id="314AA"></a>314AA  Interpretation
 
-                   In this Division:
+             (1)  In this Division:
 
-                    <a name="amount"></a>**_amount_** includes the value of a gift, loan or bequest.
+                    <a name="amount"></a>**_amount_** includes the value of a gift, loan or or bequest.
 
 ##### <a id="314AB"></a>314AB  Annual returns by registered political parties
 
@@ -11473,7 +11317,7 @@ the authorized officer may make an application to a magistrate for the issue of 
 
 and a person who complies with this subsection shall not, by reason of the omission of those particulars, be taken, for the purposes of subsection 315(2), to have furnished a return that is incomplete.
 
-             (2)  Where the Electoral Commission has been informed under paragraph (1)(c) or subsection (3) that a person can supply particulars that have not been included in a return, the Electoral Commission may, by notice in writing served on that person, require the person to furnish to the Electoral Commission, within the period specified in the notice and in writing, those particulars and, subject to subsection (3), the person shall comply with that requirement.
+             (2)  Where the Electoral Commission has been informed under paragraph (1)(c) or (3)(c) that a person can supply particulars that have not been included in a return, the Electoral Commission may, by notice in writing served on that person, require the person to furnish to the Electoral Commission, within the period specified in the notice and in writing, those particulars and, subject to subsection (3), the person shall comply with that requirement.
 
              (3)  If a person who is required to furnish particulars under subsection (2) considers that he or she is unable to obtain some or all of the particulars, the person shall give to the Electoral Commission a written notice:
 
@@ -11633,13 +11477,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -11809,7 +11653,7 @@ as a candidate in an election for the House of Representatives or the Senate.
 
                               (i)  that bear the name and address of the sender; and
 
-                             (ii)  that do not contain a representation or purported representation of a ballot paper for use in an election for the Parliament; or
+                             (ii)  that do not contain a representation or purported representation of a ballot-paper for use in an election for the Parliament; or
 
                      (d)  an article included in a prescribed class of articles.
 
@@ -11823,15 +11667,15 @@ as a candidate in an election for the House of Representatives or the Senate.
 
                     <a name="elector-video-record"></a>**_electoral video recording_** means a video recording that contains electoral matter.
 
-##### <a id="328A"></a>328A  Publication of electoral advertisements on the internet
+##### <a id="328A"></a>328A  Publication of electoral advertisements on the Internet
 
              (1)  A person commits an offence if:
 
                      (a)  either:
 
-                              (i)  the person publishes an electoral advertisement on the internet; or
+                              (i)  the person publishes an electoral advertisement on the Internet; or
 
-                             (ii)  the person causes, permits or authorises an electoral advertisement to be published on the internet; and
+                             (ii)  the person causes, permits or authorises an electoral advertisement to be published on the Internet; and
 
                      (b)  the electoral advertisement is intended to affect voting in an election; and
 
@@ -11841,7 +11685,7 @@ as a candidate in an election for the House of Representatives or the Senate.
 
                     Penalty:  10 penalty units.
 
-             (2)  Subsection (1) does not apply if the matter published on the internet forms part of a general commentary on a website.
+             (2)  Subsection (1) does not apply if the matter published on the Internet forms part of a general commentary on a website.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -11965,29 +11809,29 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The _Criminal Code Act 1995_ contains defences for offences involving mistake or ignorance.
 
-##### <a id="338"></a>338  Unlawfully marking ballot papers
+##### <a id="338"></a>338  Unlawfully marking ballot-papers
 
-                   Except where expressly authorized by this Act, a person (other than the elector to whom the ballot paper has been lawfully issued) shall not mark a vote or make any mark or writing on the ballot paper of any elector.
+                   Except where expressly authorized by this Act, a person (other than the elector to whom the ballot-paper has been lawfully issued) shall not mark a vote or make any mark or writing on the ballot-paper of any elector.
 
                     Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-##### <a id="339"></a>339  Other offences relating to ballot papers etc.
+##### <a id="339"></a>339  Other offences relating to ballot-papers etc.
 
              (1)  A person shall not:
 
-                     (a)  impersonate any person with the intention of securing a ballot paper to which the impersonator is not entitled; or
+                     (a)  impersonate any person with the intention of securing a ballot-paper to which the impersonator is not entitled; or
 
                      (b)  impersonate any person with the intention of voting in that other person’s name; or
 
-                     (c)  fraudulently do an act that results in the destruction or defacement of any nomination paper or ballot paper; or
+                     (c)  fraudulently do an act that results in the destruction or defacement of any nomination paper or ballot-paper; or
 
-                     (d)  fraudulently put any ballot paper or other paper into the ballot-box; or
+                     (d)  fraudulently put any ballot-paper or other paper into the ballot-box; or
 
-                     (e)  fraudulently take any ballot paper out of any polling booth or counting centre; or
+                     (e)  fraudulently take any ballot-paper out of any polling booth or counting centre; or
 
-                     (g)  supply ballot papers without authority; or
+                     (g)  supply ballot-papers without authority; or
 
-                     (h)  do an act that results in the unlawful destruction of, taking of, opening of, or interference with, ballot-boxes or ballot papers.
+                     (h)  do an act that results in the unlawful destruction of, taking of, opening of, or interference with, ballot-boxes or ballot-papers.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -12133,7 +11977,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     Penalty:  $1,000.
 
-             (2)  A person who, without lawful authority, proof whereof shall lie upon the person, makes on or in any ballot paper, or on or in any paper purporting to be a ballot paper, an official mark, shall be deemed to have a forged ballot paper, and shall be punishable accordingly.
+             (2)  A person who, without lawful authority, proof whereof shall lie upon the person, makes on or in any ballot-paper, or on or in any paper purporting to be a ballot-paper, an official mark, shall be deemed to have a forged ballot-paper, and shall be punishable accordingly.
 
              (3)  All paper bearing an official mark, and all instruments capable of making on or in paper an official mark, made, used, or in the possession of any person without lawful authority (proof whereof shall lie upon the person) shall be forfeited to the Commonwealth, and may without warrant be seized by a member of the Australian Federal Police or a member of the police force of a State or Territory and destroyed or dealt with as prescribed.
 
@@ -12209,7 +12053,7 @@ Note:          A defendant bears a legal burden in relation to
 
                     <a name="authorised-person"></a>**_authorised person_** means a person acting at the request of the person in charge of premises.
 
-                    <a name="count-centr"></a>**_counting centre_** means premises being used for the purpose of the preliminary scrutiny of declaration votes or the scrutiny of ballot papers.
+                    <a name="count-centr"></a>**_counting centre_** means premises being used for the purpose of the preliminary scrutiny of declaration votes or the scrutiny of ballot-papers.
 
 ##### <a id="351"></a>351  Publication of matter regarding candidates
 
@@ -12219,7 +12063,7 @@ Note:          A defendant bears a legal burden in relation to
 
                      (b)  expressly or impliedly advocated or suggested:
 
-                              (i)  in the case of an election of Senators for any State—that a voter should place in the square opposite the name of a candidate on a ballot paper a number not greater than the number of Senators to be elected; or
+                              (i)  in the case of an election of Senators for any State—that a voter should place in the square opposite the name of a candidate on a ballot-paper a number not greater than the number of Senators to be elected; or
 
                              (ii)  in the case of an election of a Member of the House of Representatives—that that candidate is the candidate for whom the first preference vote should be given;
 
@@ -12351,7 +12195,7 @@ Note:          A defendant bears an evidential burden in relat
 
                       (ii)  To compel the attendance of witnesses and the production of documents;
 
-                     (iii)  To grant to any party to a petition leave to inspect in the presence of a prescribed officer the rolls and other documents (except ballot papers) used at or in connexion with any election and to take, in the presence of the prescribed officer, extracts from those rolls and documents;
+                     (iii)  To grant to any party to a petition leave to inspect in the presence of a prescribed officer the rolls and other documents (except ballot-papers) used at or in connexion with any election and to take, in the presence of the prescribed officer, extracts from those rolls and documents;
 
                      (iv)  To examine witnesses on oath;
 
@@ -12377,7 +12221,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  The Court shall inquire whether or not the petition is duly signed, and so far as Rolls and voting are concerned may inquire into the identity of persons, and whether their votes were improperly admitted or rejected, assuming the Roll to be correct, but the Court shall not inquire into the correctness of any Roll.
 
-             (2)  Where the Court makes inquiries in relation to ballot papers marked in Antarctica pursuant to the provisions of Part XVII, a statement of the particulars of the marking of the ballot papers prepared by an Australian Electoral Officer under subsection 260(3) is, unless the Court otherwise orders, conclusive evidence of the particulars stated.
+             (2)  Where the Court makes inquiries in relation to ballot-papers marked in Antarctica pursuant to the provisions of Part XVII, a statement of the particulars of the marking of the ballot-papers prepared by an Australian Electoral Officer under subsection 260(3) is, unless the Court otherwise orders, conclusive evidence of the particulars stated.
 
 ##### <a id="362"></a>362  Voiding election for illegal practices etc.
 
@@ -12407,13 +12251,13 @@ unless the Court is satisfied that the result of the election was likely to be a
 
                    The Court shall be guided by the substantial merits and good conscience of each case without regard to legal forms or technicalities, or whether the evidence before it is in accordance with the law of evidence or not.
 
-##### <a id="364A"></a>364A  Provision for Court to have regard to certain rejected ballot papers
+##### <a id="364A"></a>364A  Provision for Court to have regard to certain rejected ballot-papers
 
                    In making its decision on a petition, the Court may:
 
-                     (a)  have regard to postal ballot papers rejected at the preliminary scrutiny because of paragraph 7 of Schedule 3 if the Court is satisfied that the votes marked on the ballot papers were recorded prior to the close of the poll; and
+                     (a)  have regard to postal ballot-papers rejected at the preliminary scrutiny because of paragraph 7 of Schedule 3 if the Court is satisfied that the votes marked on the ballot-papers were recorded prior to the close of the poll; and
 
-                     (b)  have regard to any declaration vote ballot papers (including postal ballot papers) rejected at the preliminary scrutiny if the Court is of the opinion that the ballot papers should not have been rejected.
+                     (b)  have regard to any declaration vote ballot-papers (including postal ballot-papers) rejected at the preliminary scrutiny if the Court is of the opinion that the ballot-papers should not have been rejected.
 
 ##### <a id="365"></a>365  Immaterial errors not to vitiate election
 
@@ -12423,7 +12267,7 @@ Provided that where any elector was, on account of the absence or error of, or o
 
 ##### <a id="365A"></a>365A  Election not affected by failure of delivery arrangement
 
-             (1)  This section applies if a DRO or Assistant Returning Officer, under section 188, arranges for delivery of a certificate and ballot paper instead of posting them.
+             (1)  This section applies if a DRO or Assistant Returning Officer, under section 188, arranges for delivery of a certificate and ballot-paper instead of posting them.
 
              (2)  The Court of Disputed Returns must not:
 
@@ -12439,15 +12283,15 @@ on the ground of a failure of the arrangement for delivery.
 
                    The Court of Disputed Returns shall not declare that a person returned as elected was not duly elected, or declare an election void, by reason only that:
 
-                     (a)  there was printed, on a ballot paper, or ballot papers, used in the election the name, or an abbreviation of the name, of a political party adjacent to the name of a candidate or group of candidates;
+                     (a)  there was printed, on a ballot-paper, or ballot-papers, used in the election the name, or an abbreviation of the name, of a political party adjacent to the name of a candidate or group of candidates;
 
                      (b)  the name, or abbreviation of the name, of a political party so printed was misspelt or the name, or abbreviation of the name, of a political party so printed was otherwise inaccurate or incorrect;
 
-                     (c)  there was not printed on ballot papers used in the election, the name, or an abbreviation of the name, of a political party adjacent to the name of a candidate or group of candidates; or
+                     (c)  there was not printed on ballot-papers used in the election, the name, or an abbreviation of the name, of a political party adjacent to the name of a candidate or group of candidates; or
 
                      (d)  an officer failed to comply with the provisions of section 210A or 214 in relation to the election.
 
-##### <a id="367"></a>367  Evidence that person not permitted to vote
+##### <a id="367"></a>367  Evidence that person not permitted to vote
 
                    On the trial of any petition the Court shall not admit the evidence of any witness that the witness was not permitted to vote in any election during the hours of polling on polling day unless the witness satisfies the Court:
 
@@ -12627,7 +12471,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
                      (a)  an electoral advertisement, handbill, pamphlet, notice or video recording that includes a statement that it was authorised by a specified person is admissible as evidence of that fact; and
 
-                    (aa)  an electoral advertisement published on the internet that includes a statement that it was authorised by a specified person is admissible as evidence of that fact; and
+                    (aa)  an electoral advertisement published on the Internet that includes a statement that it was authorised by a specified person is admissible as evidence of that fact; and
 
                      (b)  a printed electoral advertisement, handbill, pamphlet or notice that includes a statement that a specified person or firm was the printer is admissible as evidence of that fact; and
 
@@ -12681,7 +12525,7 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
 ##### <a id="390A"></a>390A  Claims for enrolment etc. not to be subject to warrants
 
-             (1)  A warrant issued under section 3E of the _Crimes Act 1914_ does not authorise the seizure of a claim for enrolment or transfer of enrolment in the possession of the Electoral Commission or of an officer.
+             (1)  A warrant issued under section 10 of the _Crimes Act 1914_ does not authorise the seizure of a claim for enrolment or transfer of enrolment in the possession of the Electoral Commission or of an officer.
 
              (2)  In this section:
 
@@ -12725,7 +12569,7 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
              (1)  In this section, **_electoral documents_** includes:
 
-                     (a)  ballot papers; and
+                     (a)  ballot-papers; and
 
                      (b)  certified lists of voters; and
 
@@ -12739,7 +12583,7 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
                      (g)  lists prepared under section 245.
 
-             (2)  An Australian Electoral Officer is responsible for the safe custody, in accordance with the directions of the Electoral Commissioner, of ballot papers transmitted to him or her in accordance with paragraph 273(5)(f) until the ballot papers are destroyed.
+             (2)  An Australian Electoral Officer is responsible for the safe custody, in accordance with the directions of the Electoral Commissioner, of ballot-papers transmitted to him or her in accordance with paragraph 273(5)(f) until the ballot-papers are destroyed.
 
              (3)  The DRO for a Division is responsible for the safe custody, in accordance with the directions of the Electoral Commissioner, of electoral documents used in the Division in connection with an election until the documents are destroyed.
 
@@ -12791,7 +12635,7 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
                      (b)  prescribing the procedure in relation to the imposition and recovery of penalties for offences against the compulsory enrolment or compulsory voting provisions of this Act; and
 
-                     (c)  the grounds upon which postal ballot papers are to be rejected as informal; and
+                     (c)  the grounds upon which postal ballot-papers are to be rejected as informal; and
 
                      (d)  requiring electors who are registered in accordance with section 185 as general postal voters for a Division to notify the Divisional Returning Officer for the Division of any change in address or of any other circumstances relevant to the elector’s registration under that section as a general postal voter for the Division; and
 
@@ -12825,7 +12669,7 @@ To the Australian Electoral Officer for the Territory of [_here insert name of T
 
 GREETING.
 
-We command you to cause election to be made according to law of 2 Senators for our Territory of [_here insert name of Territory_] to serve in the Senate of the Parliament of the Commonwealth of Australia from and after the date of their election. And we appoint the                                                       day of                     20            as the day for the close of the Rolls. And we appoint the                                            day of                                            20            , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                                  day of                     20            , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor-General in and over our said Commonwealth of Australia on or before the                                                day of                                     20            .
+We command you to cause election to be made according to law of 2 Senators for our Territory of [_here insert name of Territory_] to serve in the Senate of the Parliament of the Commonwealth of Australia from and after the date of their election. And we appoint the                                                       day of                     20            as the day for the close of the Rolls. And we appoint the                                            day of                                            20            , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                                  day of                     20            , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor-General in and over our said Commonwealth of Australia on or before the                                                day of                                     20            .
 
 Witness [_here insert the Governor-General’s title_] at [_here insert place_] the
  day of                                     in the year of our Lord Two thousand and                      
@@ -12945,7 +12789,7 @@ as enrolled</div>
   <td>
     <div>Form of Christian or given
 
-names to appear on ballot paper</div>
+names to appear on ballot-paper</div>
   </td>
 </tr>
 <tr>
@@ -12982,7 +12826,7 @@ and I declare that:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Senator for the above \[State/Territory] if elected.
 
-I wish my Christian or given names to appear on the ballot paper in the form shown above. 
+I wish my Christian or given names to appear on the ballot-paper in the form shown above. 
 
                                                                                                [_Signature of candidate_]
 
@@ -13029,7 +12873,7 @@ as enrolled</div>
   <td>
     <div>Form of Christian or given
 
-names to appear on ballot paper</div>
+names to appear on ballot-paper</div>
   </td>
 </tr>
 <tr>
@@ -13067,7 +12911,7 @@ and I declare that:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Senator for the above \[State/Territory] if elected.
 
-I wish my Christian or given names to appear on the ballot paper in the form shown above.
+I wish my Christian or given names to appear on the ballot-paper in the form shown above.
 
                                                                                                [_Signature of candidate_]
 
@@ -13156,7 +13000,7 @@ and declares as follows:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Senator for the above \[State/Territory] if elected.
 
-Each of the candidates named below requests that the Christian or given names of the candidate appear on the ballot paper in the form shown below.
+Each of the candidates named below requests that the Christian or given names of the candidate appear on the ballot-paper in the form shown below.
 
 <table>
 <colgroup>
@@ -13178,7 +13022,7 @@ as enrolled
   <td rowspan="2">
     <div>
       Form of Christian or
-      given names to appear on ballot paper
+      given names to appear on ballot-paper
     </div>
   </td>
   <td>
@@ -13282,7 +13126,7 @@ and declares as follows:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Senator for the above \[State/Territory] if elected.
 
-Each of the candidates named below requests that the Christian or given names of the candidate appear on the ballot paper in the form shown below.
+Each of the candidates named below requests that the Christian or given names of the candidate appear on the ballot-paper in the form shown below.
 
 <table>
 <colgroup>
@@ -13303,7 +13147,7 @@ as enrolled
   </td>
   <td rowspan="2">
     <div>
-      Form of Christian or given names to appear on ballot paper
+      Form of Christian or given names to appear on ballot-paper
     </div>
   </td>
   <td>
@@ -13469,7 +13313,7 @@ as enrolled</div>
   <td>
     <div>Form in which Christian or given
 
-names to appear on ballot paper</div>
+names to appear on ballot-paper</div>
   </td>
 </tr>
 <tr>
@@ -13507,7 +13351,7 @@ and I declare that:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Member of the House of Representatives for the above Division if elected.
 
-I wish my Christian or given names to appear on the ballot paper in the form shown above.
+I wish my Christian or given names to appear on the ballot-paper in the form shown above.
 
                                                                                                [_Signature of candidate_]
 
@@ -13554,7 +13398,7 @@ given names</div>
   <td>
     <div>Form in which Christian or given
 
-names to appear on ballot paper</div>
+names to appear on ballot-paper</div>
   </td>
 </tr>
 <tr>
@@ -13592,7 +13436,7 @@ and I declare that:
 
 ·<span style="font:7.0pt " new="">         </span>I consent to act as a Member of the House of Representatives for the above Division if elected.
 
-I wish my Christian or given names to appear on the ballot paper in the form shown above.
+I wish my Christian or given names to appear on the ballot-paper in the form shown above.
 
                                                                                                [_Signature of candidate_]
 
@@ -13608,7 +13452,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13644,8 +13488,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:7"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:58"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:57"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:56"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:13"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:10"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:14"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:11"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:9"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:8"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:12"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:5"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:7"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:58"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:57"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:56"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:13"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:10"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:14"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:11"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:9"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:8"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:12"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:5"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13729,7 +13573,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:37"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:6"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:55"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:6"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:55"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:54"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:53"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:52"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13746,7 +13590,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:41"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:40"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:39"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:38"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13810,7 +13654,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13821,7 +13665,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:65"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13831,7 +13675,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:66"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13841,7 +13685,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:67"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13850,7 +13694,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:61"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2009C00396/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13932,33 +13776,33 @@ and allow the scrutineers to inspect both signatures.
 
                      (b)  in another group, the envelopes that do not meet those requirements.
 
-              5.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 24, exclude from further scrutiny the ballot papers contained in envelopes that do not meet the requirements of paragraph 6.
+              5.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 24, exclude from further scrutiny the ballot-papers contained in envelopes that do not meet the requirements of paragraph 6.
 
               6.  An envelope meets the requirements of this paragraph if the DRO is satisfied:
 
-                     (a)  in the case of an envelope purporting to contain a postal ballot paper, other than an envelope sent under section 186 to a registered general postal voter who was registered on the ground specified in paragraph 184A(2)(e) or (f), that the signature on the certificate is that of the elector and that:
+                     (a)  in the case of an envelope purporting to contain a postal ballot-paper, other than an envelope sent under section 186 to a registered general postal voter who was registered on the ground specified in paragraph 184A(2)(e) or (f), that the signature on the certificate is that of the elector and that:
 
                               (i)  the signature purports to be witnessed by an authorised witness; or
 
                              (ii)  the signature is taken to be witnessed by an authorised witness because of subsection 194(1A); and
 
-                     (b)  in the case of an envelope purporting to contain a pre-poll vote ballot paper, that the certificate has been signed in accordance with section 200E and that the signature purports to be witnessed by the officer who issued the certificate; and
+                     (b)  in the case of an envelope purporting to contain a pre-poll vote ballot-paper, that the certificate has been signed in accordance with section 200E and that the signature purports to be witnessed by the officer who issued the certificate; and
 
-                     (c)  in the case of an envelope purporting to contain an absent vote ballot paper or a provisional vote ballot paper, that the certificate has been signed in accordance with section 222 or 235 or subsection 234(4), as the case requires, and that the signature purports to be witnessed in accordance with that section or subsection, as the case may be; and
+                     (c)  in the case of an envelope purporting to contain an absent vote ballot-paper or a provisional vote ballot-paper, that the certificate has been signed in accordance with section 222 or 235 or subsection 234(4), as the case requires, and that the signature purports to be witnessed in accordance with that section or subsection, as the case may be; and
 
-                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot paper—if the elector (other than an elector to whom subsection 104(4) applies) did not provide evidence of his or her identity in accordance with section 235 at the time of casting the vote, the elector has provided that evidence by the first Friday following the polling day for that election; and
+                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot-paper—if the elector (other than an elector to whom subsection 104(4) applies) did not provide evidence of his or her identity in accordance with section 235 at the time of casting the vote, the elector has provided that evidence by the first Friday following the polling day for that election; and
 
-                    (cb)  in the case of an envelope purporting to contain a postal ballot paper, a pre-poll vote ballot paper, an absent vote ballot paper or a provisional vote ballot paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_; and
+                    (cb)  in the case of an envelope purporting to contain a postal ballot-paper, a pre-poll vote ballot-paper, an absent vote ballot-paper or a provisional vote ballot-paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_; and
 
-                     (d)  in the case of an envelope purporting to contain a ballot paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 260(1); and
+                     (d)  in the case of an envelope purporting to contain a ballot-paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 260(1); and
 
-                     (e)  in the case of an envelope purporting to contain a postal ballot paper, that the vote marked on the ballot paper was recorded prior to the close of the poll.
+                     (e)  in the case of an envelope purporting to contain a postal ballot-paper, that the vote marked on the ballot-paper was recorded prior to the close of the poll.
 
             6A.  If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
 
                      (a)  treat only one of the envelopes, as selected by the DRO, as meeting the requirements of paragraph 6; and
 
-                     (b)  exclude from further scrutiny the ballot papers contained in the other envelope or envelopes, without opening the envelope or envelopes; and
+                     (b)  exclude from further scrutiny the ballot-papers contained in the other envelope or envelopes, without opening the envelope or envelopes; and
 
                      (c)  seal up in a parcel the envelope or envelopes excluded from further scrutiny by subparagraph (b); and
 
@@ -13968,15 +13812,15 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
             6B.  Paragraphs 23 and 24 do not apply to envelopes excluded from further scrutiny because of subparagraph 6A(b).
 
-              7.  Where the envelope purporting to contain a postal ballot paper bears a postmark that includes a date after polling day, the vote marked on the ballot paper shall be taken not to have been recorded prior to the close of the poll.
+              7.  Where the envelope purporting to contain a postal ballot-paper bears a postmark that includes a date after polling day, the vote marked on the ballot-paper shall be taken not to have been recorded prior to the close of the poll.
 
-            7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
+            7A.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of the poll if:
 
-                     (a)  in the case of a ballot paper taken to be witnessed because of subsection 194(1A)—the envelope purporting to contain the ballot paper does not bear a legible postmark; or
+                     (a)  in the case of a ballot-paper taken to be witnessed because of subsection 194(1A)—the envelope purporting to contain the ballot-paper does not bear a legible postmark; or
 
-                     (b)  in any other case—the envelope purporting to contain the ballot paper does not bear a legible postmark and the signature of the witness bears a date after polling day.
+                     (b)  in any other case—the envelope purporting to contain the ballot-paper does not bear a legible postmark and the signature of the witness bears a date after polling day.
 
-              8.  An envelope purporting to contain an absent vote ballot paper or a provisional vote ballot paper or a pre-poll vote ballot paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 232(2) or section 200G, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot paper was properly issued. 
+              8.  An envelope purporting to contain an absent vote ballot-paper or a provisional vote ballot-paper or a pre-poll vote ballot-paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 232(2) or section 200G, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot-paper was properly issued. 
 
               9.  The DRO shall seal up in a parcel the envelopes that do not meet the requirements of paragraph 6 and shall write on the parcel a description of its contents, the name of the Division and the date of commencement of the preliminary scrutiny.
 
@@ -14024,27 +13868,27 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (c)  a referendum not held concurrently with a general election. 
 
-             15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot papers contained in envelopes referred to in subparagraphs 10(d) and 11(c). 
+             15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot-papers contained in envelopes referred to in subparagraphs 10(d) and 11(c). 
 
              16.  The DRO shall seal up in a parcel the envelopes referred to in subparagraphs 10(d) and 11(c) and shall write on the parcel a description of the contents, the name of the Division and the date.
 
-             17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny. 
+             17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot-papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny. 
 
-             18.  Ballot papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) or 11(a) or (b) shall be placed in a ballot-box by themselves for further scrutiny. 
+             18.  Ballot-papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) or 11(a) or (b) shall be placed in a ballot-box by themselves for further scrutiny. 
 
-             19.  A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(c) shall be placed in the ballot-box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny. 
+             19.  A ballot-paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(c) shall be placed in the ballot-box referred to in paragraph 18 for further scrutiny. A ballot-paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny. 
 
-             20.  The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date. 
+             20.  The DRO shall seal up in a parcel ballot-papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date. 
 
-             21.  Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection. 
+             21.  Where a ballot-paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection. 
 
-             22.  For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper. 
+             22.  For the purposes of paragraph 17, an envelope that contains a ballot-paper for a referendum shall be dealt with as if it did not contain that ballot-paper. 
 
-             23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot papers that are required, under that scrutiny, to be placed in a ballot-box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must: 
+             23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot-papers that are required, under that scrutiny, to be placed in a ballot-box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must: 
 
-                     (a)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 24, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 24; and 
+                     (a)  open the parcel of envelopes that contains the ballot-papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 24, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 24; and 
 
-                     (b)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 15 and subject to the operation of this paragraph and paragraph 25, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 25\. 
+                     (b)  open the parcel of envelopes that contains the ballot-papers that are, under paragraph 15 and subject to the operation of this paragraph and paragraph 25, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 25\. 
 
              24.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(a), paragraphs 3 to 22, inclusive, reapply in relation to those votes as if: 
 
@@ -16019,24 +15863,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 8–14) and Schedule 4 (items 1–5): Royal Assent 
-Schedule 4 (items 6–175) and Schedule 5 (item 137): <i>(y)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 3 of the _Commonwealth Electoral Act 1946_ provides as follows:
@@ -16464,111 +16290,6 @@ _(x)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-_(y)_ Subsection 2(1) (items 29–31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      29\. Schedule 4, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      30\. Schedule 4, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 29.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
 The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984) appears in the Table below. For repealed provisions up to and including Act No. 45, 1984 _see_ the Repeal Table.
 
 ## Table of Amendments
@@ -16615,7 +16336,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; Nos. 45, 46 and 120, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 94, 1998; No. 34, 2001; Nos. 34 and 78, 2004; No. 65, 2006; No. 22, 2007; No. 144, 2008; No. 8, 2010</div>
+    <div>am. No. 144, 1983; Nos. 45, 46 and 120, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 94, 1998; No. 34, 2001; Nos. 34 and 78, 2004; No. 65, 2006; No. 22, 2007; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -18191,7 +17912,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2004; Nos. 65 and 170, 2006; Nos. 22 and 52, 2007; No. 8, 2010</div>
+    <div>am. No. 115, 2004; Nos. 65 and 170, 2006; Nos. 22 and 52, 2007</div>
   </td>
 </tr>
 <tr>
@@ -19616,7 +19337,7 @@ rep. No. 35, 1987</div>
     <div>S. 166</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19669,14 +19390,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 169</div>
   </td>
   <td>
@@ -19704,7 +19417,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -19713,14 +19426,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 35, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19776,7 +19481,7 @@ rep. No. 35, 1987</div>
     <div>S. 171</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -19808,7 +19513,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 34, 2001; No. 115, 2004; No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 34, 2001; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -20104,7 +19809,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -20121,14 +19826,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20152,7 +19849,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20184,7 +19881,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -20216,7 +19913,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; No. 8, 2010</div>
+    <div>am. No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -20320,7 +20017,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
+    <div>am. No. 34, 2001; No. 78, 2004; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20341,14 +20038,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 195A</div>
   </td>
   <td>
@@ -20360,15 +20049,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2007; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 196</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20400,7 +20081,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2001; No. 8, 2010</div>
+    <div>am. No. 109, 2001</div>
   </td>
 </tr>
 <tr>
@@ -20417,22 +20098,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 198</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20457,14 +20122,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20497,14 +20154,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20616,7 +20265,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; No. 8, 2010</div>
+    <div>am. No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -20641,14 +20290,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20680,7 +20321,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2001; No. 8, 2010</div>
+    <div>am. No. 109, 2001</div>
   </td>
 </tr>
 <tr>
@@ -20689,14 +20330,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20741,14 +20374,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part XVB</b></div>
   </td>
   <td>
@@ -20773,55 +20398,7 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>S. 202AA</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AB</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 202AC, 202AD</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AE</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AF</div>
+    <div>Ss. 202AA–202AF</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
@@ -20837,55 +20414,7 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>S. 202AG</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AH</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 202AI–202AK</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AL</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AM</div>
+    <div>Ss. 202AG–202AM</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
@@ -20912,7 +20441,7 @@ rep. No. 35, 1987</div>
     <div>S. 203</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 219, 1992; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990; No. 219, 1992</div>
   </td>
 </tr>
 <tr>
@@ -20937,14 +20466,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 167, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 206</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20981,14 +20502,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 209</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 209</div>
   </td>
   <td>
@@ -21000,7 +20513,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -21021,22 +20534,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 210</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 210</div>
   </td>
   <td>
@@ -21048,15 +20545,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 19, 1940; No. 48, 1965; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 210A</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 19, 1940; No. 48, 1965; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991</div>
   </td>
 </tr>
 <tr>
@@ -21065,14 +20554,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 35, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21096,7 +20577,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 35, 1987; No. 94, 1998; No. 34, 2001; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 35, 1987; No. 94, 1998; No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -21112,15 +20593,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 34, 2001; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 212</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -21129,14 +20602,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21152,15 +20617,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 214</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -21189,22 +20646,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 215</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 215</div>
   </td>
   <td>
@@ -21217,14 +20658,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 34, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21249,14 +20682,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>rs. No. 35, 1987; No. 34, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21341,14 +20766,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 225</div>
   </td>
   <td>
@@ -21360,7 +20777,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -21376,7 +20793,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -21392,7 +20809,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -21424,7 +20841,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990 (as am. by No. 167, 1991); No. 167, 1991; No. 166, 1995; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990 (as am. by No. 167, 1991); No. 167, 1991; No. 166, 1995</div>
   </td>
 </tr>
 <tr>
@@ -21448,7 +20865,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998; No. 78, 2004; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -21493,18 +20910,10 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 231</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 231</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -21520,7 +20929,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 24, 1990; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 35, 1987; No. 24, 1990; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21528,7 +20937,7 @@ rep. No. 35, 1987</div>
     <div>S. 233</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21544,7 +20953,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21560,7 +20969,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21584,7 +20993,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21637,18 +21046,10 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 238</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 238</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990 (as am. by No. 167, 1991); No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990 (as am. by No. 167, 1991)</div>
   </td>
 </tr>
 <tr>
@@ -21656,7 +21057,7 @@ rep. No. 35, 1987</div>
     <div>S. 239</div>
   </td>
   <td>
-    <div>am. No. 31, 1919; No. 9, 1934; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 31, 1919; No. 9, 1934; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -21680,7 +21081,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -21797,31 +21198,7 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>S. 250</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 251</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 251–254</div>
+    <div>Ss. 250–254</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
@@ -21837,14 +21214,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 256</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 256, 257</div>
   </td>
   <td>
@@ -21856,7 +21225,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -21880,12 +21249,12 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 260</div>
+    <div>Ss. 260, 261</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
@@ -21896,31 +21265,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 34, 2001; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 261</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 261</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1990; No. 34, 2001; No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -21952,7 +21297,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -21960,7 +21305,7 @@ rep. No. 35, 1987</div>
     <div>S. 265</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 219, 1992; No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 219, 1992; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -21984,15 +21329,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 1999; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 267</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 134, 1999</div>
   </td>
 </tr>
 <tr>
@@ -22000,15 +21337,7 @@ rep. No. 35, 1987</div>
     <div>S. 267</div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 268</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22016,7 +21345,7 @@ rep. No. 35, 1987</div>
     <div>S. 268</div>
   </td>
   <td>
-    <div>am. No. 31, 1919; No. 14, 1922; No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 31, 1919; No. 14, 1922; No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -22032,7 +21361,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22048,15 +21377,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 271</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -22064,15 +21385,7 @@ rep. No. 35, 1987</div>
     <div>S. 271</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 272</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983</div>
   </td>
 </tr>
 <tr>
@@ -22088,7 +21401,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 8, 2010</div>
+    <div>am. No. 35, 1987</div>
   </td>
 </tr>
 <tr>
@@ -22104,16 +21417,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 9, 1934; No. 17, 1948; No. 144, 1983; Nos. 45 and 133, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to 
-s. 273A(2)–(4)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 9, 1934; No. 17, 1948; No. 144, 1983; Nos. 45 and 133, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22129,7 +21433,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); No. 8, 2010</div>
+    <div>am. Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332)</div>
   </td>
 </tr>
 <tr>
@@ -22153,15 +21457,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 275</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22177,7 +21473,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22193,7 +21489,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -22217,7 +21513,7 @@ s. 273A(2)–(4)</div>
     <div>Ss. 278, 279</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22226,14 +21522,6 @@ s. 273A(2)–(4)</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22249,23 +21537,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 280</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 281</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -22273,7 +21545,7 @@ s. 273A(2)–(4)</div>
     <div>S. 281</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22289,7 +21561,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22313,7 +21585,7 @@ s. 273A(2)–(4)</div>
     <div>S. 284</div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 10, 1949; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 34, 2001; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 10, 1949; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22321,7 +21593,7 @@ s. 273A(2)–(4)</div>
     <div>S. 285</div>
   </td>
   <td>
-    <div>am. No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22401,7 +21673,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 67, 1985; No. 35, 1987; No. 24, 1990; No. 180, 1991; Nos. 45 and 105, 1992; No. 42, 1995; No. 60, 1996; No. 94, 1998; No. 134, 1999; No. 55, 2001; Nos. 81 and 105, 2002; No. 65, 2006; No. 54, 2009; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 67, 1985; No. 35, 1987; No. 24, 1990; No. 180, 1991; Nos. 45 and 105, 1992; No. 42, 1995; No. 60, 1996; No. 94, 1998; No. 134, 1999; No. 55, 2001; Nos. 81 and 105, 2002; No. 65, 2006; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -22497,7 +21769,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -22814,14 +22086,6 @@ s. 273A(2)–(4)</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 300</div>
   </td>
   <td>
@@ -22897,7 +22161,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 203, 1991; No. 45, 1992; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 203, 1991; No. 45, 1992; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -23113,7 +22377,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 203, 1991; No. 45, 1992; No. 42, 1995; No. 94, 1998; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 203, 1991; No. 45, 1992; No. 42, 1995; No. 94, 1998; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -23291,7 +22555,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 42, 1995; No. 134, 1999; No. 8, 2010</div>
+    <div>am. No. 42, 1995; No. 134, 1999</div>
   </td>
 </tr>
 <tr>
@@ -23523,7 +22787,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 45, 1992; No. 8, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 45, 1992</div>
   </td>
 </tr>
 <tr>
@@ -23787,15 +23051,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 167, 1991; No. 94, 1998; No. 34, 2001; No. 78, 2004; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 328A</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 35, 1987; No. 167, 1991; No. 94, 1998; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -23804,14 +23060,6 @@ rs. No. 65, 2006</div>
   </td>
   <td>
     <div>ad. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -23992,26 +23240,10 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 338</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 338</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 339</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -24035,7 +23267,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 137, 2000; No. 109, 2001; No. 115, 2004; No. 8, 2010</div>
+    <div>am. No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 137, 2000; No. 109, 2001; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -24107,7 +23339,7 @@ rs. No. 65, 2006</div>
     <div>S. 346</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 8, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -24139,7 +23371,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2007; No. 8, 2010</div>
+    <div>am. No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -24187,7 +23419,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 167, 1991; No. 109, 2001; No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 167, 1991; No. 109, 2001; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -24315,7 +23547,7 @@ rs. No. 65, 2006</div>
     <div>S. 360</div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 144, 1983; No. 8, 2010</div>
+    <div>am. No. 14, 1922; No. 144, 1983</div>
   </td>
 </tr>
 <tr>
@@ -24323,7 +23555,7 @@ rs. No. 65, 2006</div>
     <div>S. 361</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 8, 2010</div>
+    <div>am. No. 144, 1983</div>
   </td>
 </tr>
 <tr>
@@ -24352,26 +23584,10 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 364A</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 364A</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -24392,14 +23608,6 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 366</div>
   </td>
   <td>
@@ -24411,7 +23619,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 8, 2010</div>
+    <div>am. No. 35, 1987</div>
   </td>
 </tr>
 <tr>
@@ -24611,7 +23819,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2006; No. 8, 2010</div>
+    <div>am. No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -24704,14 +23912,6 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 391</div>
   </td>
   <td>
@@ -24771,7 +23971,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 8, 2010</div>
+    <div>am. No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -24795,7 +23995,7 @@ rs. No. 65, 2006</div>
     <div>S. 395</div>
   </td>
   <td>
-    <div>am. No. 10, 1924; No. 93, 1966; No. 144, 1983; No. 157, 2007; No. 8, 2010</div>
+    <div>am. No. 10, 1924; No. 93, 1966; No. 144, 1983; No. 157, 2007</div>
   </td>
 </tr>
 <tr>
@@ -24843,7 +24043,7 @@ rs. No. 65, 2006</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 24, 1990; Statutory Rules 1995 No. 21; No. 34, 2001; No. 78, 2004; No. 8, 2010</div>
+    <div>am. No. 24, 1990; Statutory Rules 1995 No. 21; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -24875,7 +24075,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 8, 2010</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008)</div>
   </td>
 </tr></table>
 
