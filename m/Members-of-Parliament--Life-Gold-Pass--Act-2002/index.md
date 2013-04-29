@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image001.gif)
 
 # Members of Parliament (Life Gold Pass) Act 2002
 
 **Act No. 110 of 2002 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 8 March 2012
  taking into account amendments up to Act No. 4 of 2012
 
 The text of any of those amendments not in force
@@ -349,7 +349,7 @@ follows:</li>
 
                (a)     a former Prime Minister is entitled to a maximum of 40 domestic return trips per year;
 
-              (b)     other pass‑holders are entitled to a maximum of 10 domestic return trips per year.
+              (b)     other pass‑holders are entitled to a maximum of 25 domestic return trips per year.
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act also deals with
 
@@ -738,7 +738,7 @@ Entitlements
     <div>a former member who is the holder of a Life Gold Pass</div>
   </td>
   <td>
-    <div>a maximum of 10 domestic return trips per year.</div>
+    <div>a maximum of 25 domestic return trips per year.</div>
   </td>
 </tr>
 <tr>
@@ -750,7 +750,7 @@ Entitlements
       is the holder of a Life Gold Pass</div>
   </td>
   <td>
-    <div>a maximum of 10 domestic return trips per year, so long as each trip is
+    <div>a maximum of 25 domestic return trips per year, so long as each trip is
       for the purpose of accompanying or joining the former member.</div>
   </td>
 </tr>
@@ -828,7 +828,7 @@ Pro‑rata adjustments
 
 ## Part 4—Spouses or de facto partners of sitting members
 
-##### <a id="12"></a>12  Spouses or de facto partners of sitting members
+##### <a id="12"></a>12  Spouses or de facto partners of sitting members
 
 Scope
 
@@ -905,7 +905,7 @@ Entitlements
       office as Prime Minister</div>
   </td>
   <td>
-    <div>a maximum of 10 domestic return trips to Canberra per year, so long as
+    <div>a maximum of 25 domestic return trips to Canberra per year, so long as
       each trip is for the purpose of accompanying or joining the member.</div>
   </td>
 </tr></table>
@@ -1061,7 +1061,7 @@ Pro‑rating of entitlement
 
           (2A)  For the purposes of paragraph (2)(a), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image002.gif)
 
 where:
 
@@ -1706,7 +1706,7 @@ Transitional number
 
              (3)  For the purposes of this clause, the **_transitional number_** is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image003.gif)
 
              (4)  A number worked out using the formula is to be rounded to the nearest whole number that is greater than zero (rounding up in the case exactly half‑way between 2 whole numbers).
 
@@ -1798,7 +1798,7 @@ Transitional number
 
              (4)  For the purposes of this clause, the **_transitional number_** is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image004.gif)
 
              (5)  A number worked out using the formula is to be rounded to the nearest whole number that is greater than zero (rounding up in the case exactly half‑way between 2 whole numbers).
 
@@ -1929,7 +1929,7 @@ First transitional number
 
              (5)  For the purposes of this clause, the **_first transitional number_** is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image003.gif)
 
              (6)  A number worked out using the formula is to be rounded to the nearest whole number that is greater than zero (rounding up in the case exactly half‑way between 2 whole numbers).
 
@@ -1937,7 +1937,7 @@ Second transitional number
 
              (7)  For the purposes of this clause, the **_second transitional number_** is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image004.gif)
 
              (8)  A number worked out using the formula is to be rounded to the nearest whole number that is greater than zero (rounding up in the case exactly half‑way between 2 whole numbers).
 
@@ -2071,7 +2071,7 @@ Pro‑rating formula
 
              (2)  The pro‑rating formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00523/Html/4649ed35-0a64-4c9e-a0d7-4aa5ada0be1f_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00282/Html/c9b2cc18-1683-4255-b60f-a076aa445b2a_files/image005.gif)
 
 where:
 
@@ -2175,7 +2175,7 @@ Remainder: Royal Assent</div>
     <div>6 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 6–8): 1 July 2012 
+    <div>Schedule 1 (items 1, 6–8): \[ <i>see</i>Note 2 and Table A] 
 Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
   </td>
   <td>
@@ -2220,7 +2220,7 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 4, 2012</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2265,15 +2265,7 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
+    <div>Ss. 9A, 9B</div>
   </td>
   <td>
     <div>ad. No. 144, 2008</div>
@@ -2308,7 +2300,7 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 4, 2012</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2340,7 +2332,7 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 4, 2012</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2353,15 +2345,7 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
+    <div>Ss. 13, 14</div>
   </td>
   <td>
     <div>am. No. 144, 2008</div>
@@ -2457,20 +2441,34 @@ Schedule 1 (items 2–5, 9, 10): Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
+    <div>Ss. 28, 29</div>
   </td>
   <td>
     <div>am. No. 144, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012 (No. 4, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 1  Section 3
+
+Omit “25 domestic return trips”, substitute “10 domestic return trips”.
+
+## 6  Subsection 11(2) (table items 1 and 2)
+
+Omit “25”, substitute “10”.
+
+## 7  Subsection 12(2) (table item 3)
+
+Omit “25”, substitute “10”.
+
+As at 8 March 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2512,23 +2510,9 @@ Application of amendments to widows and widowers
 
 * * *
 
-_Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012 (No. 4, 2012)_
+_Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012 (No. 4, 2012)_
 
 ## Schedule 1
-
-## 8  Application of items 6 and 7
-
-To avoid doubt:
-
-                     (a)  item 6 of this Schedule applies to every former member who is a holder of a Life Gold Pass, and the spouse or de facto partner of such a member, whether the former member became a holder of a Life Gold Pass before, on or after the commencement of that item; and
-
-                     (b)  item 7 of this Schedule applies to the spouse or de facto partner of every member who:
-
-                              (i)  has never held office as Prime Minister; and
-
-                             (ii)  has satisfied the relevant qualifying period for the issue of a Life Gold Pass;
-
-                            whether the member satisfied those requirements before, on or after the commencement of that item.
 
 ## 9  Entitlements for the transition period
 
@@ -2570,8 +2554,26 @@ the Commonwealth is liable to pay a reasonable amount of compensation to the per
 
 (3)       In this item:
 
-**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 **_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+The following provision commences on 1 July 2012:
+
+## Schedule 1
+
+## 8  Application of items 6 and 7
+
+To avoid doubt:
+
+                     (a)  item 6 of this Schedule applies to every former member who is a holder of a Life Gold Pass, and the spouse or de facto partner of such a member, whether the former member became a holder of a Life Gold Pass before, on or after the commencement of that item; and
+
+                     (b)  item 7 of this Schedule applies to the spouse or de facto partner of every member who:
+
+                              (i)  has never held office as Prime Minister; and
+
+                             (ii)  has satisfied the relevant qualifying period for the issue of a Life Gold Pass;
+
+                            whether the member satisfied those requirements before, on or after the commencement of that item.
 
  
