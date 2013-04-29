@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00122/Html/a447ad32-9de3-4816-8433-4c2cad1950d9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00823/Html/TransferofPrisoners1983WD02_image001.gif)
 
 # Transfer of Prisoners Act 1983
 
 **Act No. 95 of 1983 as amended**
 
-This compilation was prepared on 4 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 20 December 2010
+ taking into account amendments up to Act No. 143 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Transferred sentences
 
-[19](#19).          Transferred sentences—non‑parole periods
+[19](#19).          Transferred sentences—non-parole periods
 
 [20](#20).          Transferred sentences—reductions and remissions
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -134,9 +134,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in the case of a State other than the Australian Capital Territory or the Northern Territory—the Minister of the State who is responsible for the administration of the State transfer law of that State; and
 
-                    (aa)  in respect of the Australian Capital Territory—the Minister for that Territory who is responsible for the administration of the law of that Territory relating to the interstate transfer of prisoners; and
+                    (aa)  in respect of the Australian   Capital Territory—the Minister for that Territory who is responsible for the administration of the law of that Territory relating to the interstate transfer of prisoners; and
 
-                     (b)  in the case of the Northern Territory—the person holding Ministerial office under section 36 of the _Northern Territory__(Self‑Government) Act 1978_ who is responsible for the administration of the State transfer law of the Northern Territory.
+                     (b)  in the case of the Northern   Territory—the person holding Ministerial office under section 36 of the _Northern   Territory__(Self-Government) Act 1978_ who is responsible for the administration of the State transfer law of the Northern Territory.
 
                     <a name="commonwealth-prison"></a>**_Commonwealth prisoner_** means a person who is either a federal prisoner or a Territory prisoner and includes a prisoner upon whom a sentence of imprisonment was imposed for an offence against a law of the Northern Territory and who was, before 12 June 1985, removed to the State of South Australia under section 3 of the _Removal of Prisoners (Territories) Act 1923_.
 
@@ -160,9 +160,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Australian Capital Territory; or
+                     (a)  in relation to the Australian   Capital Territory—the Legislative Assembly for the Australian Capital   Territory; or
 
-                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—the Legislative Assembly of the Northern Territory.
 
                     <a name="prison"></a>**_prison_** includes:
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="remand-prison"></a>**_remand prisoner_** means a person who has been charged with an offence against a law of the Commonwealth and who has been remanded in custody for that offence.
 
-                    <a name="remov-act"></a>**_Removal Act_** means the _Removal of Prisoners (Australian Capital Territory) Act 1968_ or the _Removal of Prisoners (Territories) Act 1923_.
+                    <a name="remov-act"></a>**_Removal Act_** means the _Removal of Prisoners (__Australian Capital Territory__) Act 1968_ or the _Removal of Prisoners (Territories) Act 1923_.
 
                     <a name="return-transfer-order"></a>**_return transfer order_** means an order for the transfer of a prisoner made under section 14, 16A or 16C.
 
@@ -218,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="state-sentenc-imprison"></a>**_State sentence of imprisonment_** means a sentence of imprisonment for an offence against a law of a State.
 
-                    <a name="territori"></a>**_Territory_** means Norfolk Island, the Territory of Christmas Island, the Territory of Cocos (Keeling) Islands or the Jervis Bay Territory.
+                    <a name="territori"></a>**_Territory_** means Norfolk Island, the Territory  of Christmas Island, the Territory of Cocos (Keeling) Islands or the Jervis Bay  Territory.
 
                     <a name="territori-prison"></a>**_Territory prisoner_** means a person upon whom a Territory sentence of imprisonment has been imposed but does not include a person who is a federal prisoner.
 
@@ -238,17 +238,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="transfer-sentenc"></a>**_transferred sentence_**, in relation to a prisoner, means a transferred State sentence of that prisoner or a transferred Territory sentence of that prisoner.
 
-                    <a name="transfer-state-sentenc"></a>**_transferred State sentence_**, in relation to a prisoner who is transferred to a Territory in pursuance of a transfer order or a State order of transfer, or both, means a sentence of imprisonment that, in accordance with subsection 18(2), is taken to have been imposed upon that prisoner under, and for an offence against, a law of that last‑mentioned Territory.
+                    <a name="transfer-state-sentenc"></a>**_transferred State sentence_**, in relation to a prisoner who is transferred to a Territory in pursuance of a transfer order or a State order of transfer, or both, means a sentence of imprisonment that, in accordance with subsection 18(2), is taken to have been imposed upon that prisoner under, and for an offence against, a law of that last-mentioned Territory.
 
-                    <a name="transfer-territori-sentenc"></a>**_transferred Territory sentence_**, in relation to a prisoner who is transferred from one State or Territory to another State or Territory in pursuance of a transfer order, means a sentence of imprisonment that, in accordance with subsection 18(1), is taken to have been imposed upon that prisoner under, and for an offence against, a law of the last‑mentioned State or Territory.
+                    <a name="transfer-territori-sentenc"></a>**_transferred Territory sentence_**, in relation to a prisoner who is transferred from one State or Territory to another State or Territory in pursuance of a transfer order, means a sentence of imprisonment that, in accordance with subsection 18(1), is taken to have been imposed upon that prisoner under, and for an offence against, a law of the last-mentioned State or Territory.
 
-                    <a name="translat-sentenc"></a>**_translated sentence_**, in relation to a prisoner whose transfer from one State to another State is authorized by a complementary State order of transfer made under the State transfer law of that first‑mentioned State, means a State sentence of imprisonment that, in accordance with the provisions of the State transfer law of the second‑mentioned State that correspond to the provisions of Part V of this Act, is taken to have been imposed upon that prisoner under a law of that second‑mentioned State.
+                    <a name="translat-sentenc"></a>**_translated sentence_**, in relation to a prisoner whose transfer from one State to another State is authorized by a complementary State order of transfer made under the State transfer law of that first-mentioned State, means a State sentence of imprisonment that, in accordance with the provisions of the State transfer law of the second-mentioned State that correspond to the provisions of Part V of this Act, is taken to have been imposed upon that prisoner under a law of that second-mentioned State.
 
                     <a name="trial-transfer-order"></a>**_trial transfer order_** means an order for the transfer of a prisoner of the kind referred to in section 8 or 9.
 
                     <a name="welfar-transfer-order"></a>**_welfare transfer order_** means an order for the transfer of a prisoner made under section 6.
 
-             (2)  For the purposes of this Act, a complementary State order of transfer corresponds to a transfer order if the first‑mentioned order is made for the same purposes as the second‑mentioned order.
+             (2)  For the purposes of this Act, a complementary State order of transfer corresponds to a transfer order if the first-mentioned order is made for the same purposes as the second-mentioned order.
 
              (3)  A reference in this Act to a person upon whom a sentence of imprisonment has been imposed does not include a reference to a person who has completed serving that sentence.
 
@@ -332,9 +332,9 @@ then, for the purposes of subsection (15) and of this subsection, the directio
 
                      (b)  a sentence of imprisonment imposed in default of payment of a fine ordered to be paid upon the conviction of a person for an offence;
 
-                     (c)  a sentence of, or an order or direction for, the imprisonment or detention of a person during the pleasure of the Queen, the Governor‑General, a Governor of a State or the Administrator of a Territory made upon the conviction of that person for an offence on the ground (in whatever terms expressed) that the person has been declared to be a habitual criminal;
+                     (c)  a sentence of, or an order or direction for, the imprisonment or detention of a person during the pleasure of the Queen, the Governor-General, a Governor of a State or the Administrator of a Territory made upon the conviction of that person for an offence on the ground (in whatever terms expressed) that the person has been declared to be a habitual criminal;
 
-                     (d)  an order or direction for the imprisonment or detention of a person during the pleasure of the Queen, the Governor‑General, the Governor of a State or the Administrator of a Territory upon the acquittal of the person of an offence on the ground of unsoundness of mind or insanity, being an order or direction by virtue of which the person is detained in a prison.
+                     (d)  an order or direction for the imprisonment or detention of a person during the pleasure of the Queen, the Governor-General, the Governor of a State or the Administrator of a Territory upon the acquittal of the person of an offence on the ground of unsoundness of mind or insanity, being an order or direction by virtue of which the person is detained in a prison.
 
            (18)  A reference in this Act to a conviction of a person for an offence includes a reference to an acquittal of that person of the offence on the ground of unsoundness of mind or insanity.
 
@@ -348,7 +348,7 @@ then, for the purposes of subsection (15) and of this subsection, the directio
 
 ##### <a id="4"></a>4  Application of Act to certain external Territories
 
-                   This Act extends to Norfolk Island, the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
+                   This Act extends to Norfolk Island, the Territory  of Christmas Island and the Territory of Cocos (Keeling) Islands.
 
 ##### <a id="5"></a>5  Declaration of State transfer laws
 
@@ -358,23 +358,23 @@ then, for the purposes of subsection (15) and of this subsection, the directio
 
 ##### <a id="6"></a>6  Transfer of Commonwealth prisoner on welfare grounds
 
-             (1)  Subject to this section, upon application made in writing to the Attorney‑General by a Commonwealth prisoner serving a federal, Territory or State sentence of imprisonment in a prison of a State or Territory, the Attorney‑General may, in his or her discretion, make an order in writing for the transfer of the prisoner from that State or Territory to another State or Territory.
+             (1)  Subject to this section, upon application made in writing to the Attorney-General by a Commonwealth prisoner serving a federal, Territory or State sentence of imprisonment in a prison of a State or Territory, the Attorney-General may, in his or her discretion, make an order in writing for the transfer of the prisoner from that State or Territory to another State or Territory.
 
              (2)  An application made by a Commonwealth prisoner under subsection (1) shall set out such matters with respect to the welfare of the prisoner as the prisoner considers relevant.
 
-             (3)  In exercising his or her powers under subsection (1) to make an order for the transfer of a prisoner, the Attorney‑General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (3)  In exercising his or her powers under subsection (1) to make an order for the transfer of a prisoner, the Attorney-General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner.
 
-             (4)  The Attorney‑General shall not make an order under subsection (1) for the transfer of a prisoner to a State unless the appropriate Minister of that State has consented in writing to the transfer.
+             (4)  The Attorney-General shall not make an order under subsection (1) for the transfer of a prisoner to a State unless the appropriate Minister of that State has consented in writing to the transfer.
 
-             (5)  The Attorney‑General is not required to consider an application made by a prisoner under subsection (1) for transfer from a State or Territory to another State or Territory if the prisoner has previously made application under that subsection for transfer to that other State or Territory within the period of one year immediately preceding the making of the first‑mentioned application.
+             (5)  The Attorney-General is not required to consider an application made by a prisoner under subsection (1) for transfer from a State or Territory to another State or Territory if the prisoner has previously made application under that subsection for transfer to that other State or Territory within the period of one year immediately preceding the making of the first-mentioned application.
 
 ##### <a id="7"></a>7  Revocation of welfare transfer orders
 
-             (1)  Where a welfare transfer order has been made in respect of a Commonwealth prisoner, the Attorney‑General:
+             (1)  Where a welfare transfer order has been made in respect of a Commonwealth prisoner, the Attorney-General:
 
                      (a)  may, of his or her own motion; and
 
@@ -382,7 +382,7 @@ then, for the purposes of subsection (15) and of this subsection, the directio
 
 by order in writing served, at any time before the commencement of the execution of that transfer order, upon the Superintendent or other officer in charge of the prison in which the prisoner is detained, revoke that transfer order.
 
-             (2)  In exercising his or her powers under subsection (1) to revoke, of his or her own motion, an order for the transfer of a prisoner, the Attorney‑General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (2)  In exercising his or her powers under subsection (1) to revoke, of his or her own motion, an order for the transfer of a prisoner, the Attorney-General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
@@ -400,11 +400,11 @@ by order in writing served, at any time before the commencement of the execution
 
                      (b)  the warrant relates to a charge or charges in respect of an offence or offences against a law of the Commonwealth or of a Territory; and
 
-                     (c)  the Attorney‑General certifies in writing that it is desirable in the interests of the administration of justice that the prisoner be transferred from the State or Territory in which he or she is imprisoned to another State or Territory to stand trial for the charge or charges to which the warrant relates;
+                     (c)  the Attorney-General certifies in writing that it is desirable in the interests of the administration of justice that the prisoner be transferred from the State or Territory in which he or she is imprisoned to another State or Territory to stand trial for the charge or charges to which the warrant relates;
 
-the Attorney‑General may, either of his or her own motion or upon written request to do so being made to him or her by the prisoner, apply to a court of summary jurisdiction in the State or Territory in which the prisoner is imprisoned for an order for the transfer of the prisoner to that other State or Territory.
+the Attorney-General may, either of his or her own motion or upon written request to do so being made to him or her by the prisoner, apply to a court of summary jurisdiction in the State or Territory in which the prisoner is imprisoned for an order for the transfer of the prisoner to that other State or Territory.
 
-             (2)  The Attorney‑General shall not make an application under subsection (1) for an order for the transfer of a prisoner imprisoned in one State to another State unless the Attorney‑General of that other State has consented, in writing, to the transfer.
+             (2)  The Attorney-General shall not make an application under subsection (1) for an order for the transfer of a prisoner imprisoned in one State to another State unless the Attorney-General of that other State has consented, in writing, to the transfer.
 
              (3)  An application under subsection (1) for an order for the transfer of a prisoner shall be accompanied by a copy of the warrant concerned, by the certificate referred to in paragraph (1)(c) and by such consent (if any) as are required under this section in relation to the transfer.
 
@@ -416,11 +416,11 @@ the Attorney‑General may, either of his or her own motion or upon written requ
 
                      (b)  the warrant relates to a charge or charges in respect of an offence or offences against a law of the State in which the warrant was issued; and
 
-                     (c)  the Attorney‑General of the State in which the warrant was issued certifies in writing that it is desirable in the interests of the administration of justice that the prisoner be transferred from the State or Territory in which he or she is imprisoned to the State in which the warrant was issued to stand trial for the charge or charges to which the warrant relates;
+                     (c)  the Attorney-General of the State in which the warrant was issued certifies in writing that it is desirable in the interests of the administration of justice that the prisoner be transferred from the State or Territory in which he or she is imprisoned to the State in which the warrant was issued to stand trial for the charge or charges to which the warrant relates;
 
-that Attorney‑General may, of his or her own motion or upon written request to do so being made to him or her by the prisoner, apply to a court of summary jurisdiction in the State or Territory in which the prisoner is imprisoned for an order for the transfer of the prisoner to the State in which the warrant was issued.
+that Attorney-General may, of his or her own motion or upon written request to do so being made to him or her by the prisoner, apply to a court of summary jurisdiction in the State or Territory in which the prisoner is imprisoned for an order for the transfer of the prisoner to the State in which the warrant was issued.
 
-             (2)  The Attorney‑General of a State shall not make an application under subsection (1) for an order for the transfer of a Commonwealth prisoner imprisoned in another State or in a Territory to the first‑mentioned State unless he or she has obtained the consent, in writing, of the Attorney‑General of the Commonwealth to the transfer.
+             (2)  The Attorney-General of a State shall not make an application under subsection (1) for an order for the transfer of a Commonwealth prisoner imprisoned in another State or in a Territory to the first-mentioned State unless he or she has obtained the consent, in writing, of the Attorney-General of the Commonwealth to the transfer.
 
              (3)  An application under subsection (1) for an order for the transfer of a prisoner shall be accompanied by a copy of the warrant concerned, by the certificate referred to in paragraph (1)(c) and by the consent required under this section in relation to the transfer.
 
@@ -520,17 +520,17 @@ the court may, by order in writing served, at any time before the commencement o
 
              (1)  At a hearing of a proceeding under section 10 in relation to an application for a trial transfer order, the applicant and the prisoner to whom the application relates are each entitled to appear or to be represented by a legal practitioner.
 
-             (2)  At a hearing of a proceeding under section 11 in respect of the review of a decision granting or refusing to grant an application under section 8 for a trial transfer order, or a proceeding under section 12 for the revocation of a trial transfer order made under section 8, the Attorney‑General and the prisoner to whom the application or trial transfer order relates are each entitled to appear or to be represented by a legal practitioner.
+             (2)  At a hearing of a proceeding under section 11 in respect of the review of a decision granting or refusing to grant an application under section 8 for a trial transfer order, or a proceeding under section 12 for the revocation of a trial transfer order made under section 8, the Attorney-General and the prisoner to whom the application or trial transfer order relates are each entitled to appear or to be represented by a legal practitioner.
 
-             (3)  At a hearing of a proceeding under section 11 in respect of the review of a decision granting or refusing to grant an application under section 9 for a trial transfer order, or a proceeding under section 12 for the revocation of a trial transfer order made under section 9, the applicant for the trial transfer order, the Attorney‑General and the prisoner to whom the application or trial transfer order relates are each entitled to appear or to be represented by a legal practitioner.
+             (3)  At a hearing of a proceeding under section 11 in respect of the review of a decision granting or refusing to grant an application under section 9 for a trial transfer order, or a proceeding under section 12 for the revocation of a trial transfer order made under section 9, the applicant for the trial transfer order, the Attorney-General and the prisoner to whom the application or trial transfer order relates are each entitled to appear or to be represented by a legal practitioner.
 
 ### Division 2—Return of prisoner
 
 ##### <a id="14"></a>14  Return of prisoner
 
-             (1)  Where a prisoner is, in pursuance of a trial transfer order or a State order of transfer or both, transferred to a State or Territory to stand trial for a charge in respect of an offence against a law of the Commonwealth or of that State or Territory, the Attorney‑General shall, if:
+             (1)  Where a prisoner is, in pursuance of a trial transfer order or a State order of transfer or both, transferred to a State or Territory to stand trial for a charge in respect of an offence against a law of the Commonwealth or of that State or Territory, the Attorney-General shall, if:
 
-                     (a)  the Attorney‑General is satisfied that that charge and such other charges (if any) as have been laid against the prisoner (whether before or after the prisoner was so transferred):
+                     (a)  the Attorney-General is satisfied that that charge and such other charges (if any) as have been laid against the prisoner (whether before or after the prisoner was so transferred):
 
                               (i)  in respect of offences against laws of the Commonwealth that are triable in that State or Territory; or
 
@@ -544,33 +544,33 @@ the court may, by order in writing served, at any time before the commencement o
 
 by notice in writing served on the prisoner, inform the prisoner that unless:
 
-                     (d)  the prisoner applies to the Attorney‑General in accordance with subsection (2) by such date as is specified in the notice, being a date later than 14 days after service of the notice, for an order declaring the prisoner to be an exempt prisoner; and
+                     (d)  the prisoner applies to the Attorney-General in accordance with subsection (2) by such date as is specified in the notice, being a date later than 14 days after service of the notice, for an order declaring the prisoner to be an exempt prisoner; and
 
-                     (e)  the Attorney‑General makes that order;
+                     (e)  the Attorney-General makes that order;
 
-the Attorney‑General may make an order in writing for the transfer of the prisoner from that State or Territory back to the State or Territory from which he or she has been transferred in pursuance of that trial transfer order or order of transfer.
+the Attorney-General may make an order in writing for the transfer of the prisoner from that State or Territory back to the State or Territory from which he or she has been transferred in pursuance of that trial transfer order or order of transfer.
 
-             (2)  Subject to this section, upon application made to the Attorney‑General by a prisoner upon whom a notice has been served under subsection (1), the Attorney‑General may, in his or her discretion, make an order declaring the prisoner to be an exempt prisoner.
+             (2)  Subject to this section, upon application made to the Attorney-General by a prisoner upon whom a notice has been served under subsection (1), the Attorney-General may, in his or her discretion, make an order declaring the prisoner to be an exempt prisoner.
 
              (3)  An application made by a prisoner under subsection (2) shall set out such matters with respect to the welfare of the prisoner as the prisoner considers relevant.
 
-             (4)  In exercising his or her powers under subsection (2) to make an order declaring a prisoner to be an exempt prisoner, the Attorney‑General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (4)  In exercising his or her powers under subsection (2) to make an order declaring a prisoner to be an exempt prisoner, the Attorney-General shall have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner.
 
-             (5)  Where a prisoner upon whom a notice has been served under subsection (1) is, at the time when the notice is served upon him or her, serving a sentence of imprisonment in a State, the Attorney‑General shall not make an order declaring that prisoner to be an exempt prisoner unless the appropriate Minister of that State has consented in writing to the making of that order.
+             (5)  Where a prisoner upon whom a notice has been served under subsection (1) is, at the time when the notice is served upon him or her, serving a sentence of imprisonment in a State, the Attorney-General shall not make an order declaring that prisoner to be an exempt prisoner unless the appropriate Minister of that State has consented in writing to the making of that order.
 
              (6)  Subject to subsections (8A) and (9), if:
 
                      (a)  a prisoner upon whom a notice has been served under subsection (1) fails to apply in accordance with the notice for an order declaring him or her to be an exempt prisoner; or
 
-                     (b)  a prisoner upon whom a notice has been served under subsection (1) applies in accordance with the notice for such an order but the Attorney‑General refuses to make the order so sought;
+                     (b)  a prisoner upon whom a notice has been served under subsection (1) applies in accordance with the notice for such an order but the Attorney-General refuses to make the order so sought;
 
-the Attorney‑General shall make the order for the transfer of the prisoner that is set out in the notice unless:
+the Attorney-General shall make the order for the transfer of the prisoner that is set out in the notice unless:
 
-                     (c)  the Attorney‑General has ceased to be satisfied with respect to the matter referred to in paragraph (1)(a); or
+                     (c)  the Attorney-General has ceased to be satisfied with respect to the matter referred to in paragraph (1)(a); or
 
                      (d)  paragraph (1)(b) or (c) has ceased to apply in relation to the prisoner.
 
@@ -578,19 +578,19 @@ the Attorney‑General shall make the order for the transfer of the prisoner tha
 
              (8)  For the purpose of determining, under subsection (1), whether a term of imprisonment to which a prisoner is sentenced in a State or Territory expires on a later day than the last day of any federal sentence, transferred sentence or translated sentence of the prisoner, a sentence of imprisonment for an indeterminate period shall be taken to expire on a later day than the last day of any sentence of imprisonment for a finite period.
 
-          (8A)  Despite subsection (6), the Attorney‑General is not required to make an order for the transfer of a prisoner under that subsection from New South Wales to another State or to a Territory if:
+          (8A)  Despite subsection (6), the Attorney-General is not required to make an order for the transfer of a prisoner under that subsection from New South Wales to another State or to a Territory if:
 
                      (a)  the prisoner has been removed to New South Wales under the _Removal of Prisoners (Australian Capital Territory) Act 1968_; and
 
-                     (b)  the prisoner has not applied for an order declaring him or her to be an exempt prisoner but, if he or she had so applied, the Attorney‑General would have made such an order.
+                     (b)  the prisoner has not applied for an order declaring him or her to be an exempt prisoner but, if he or she had so applied, the Attorney-General would have made such an order.
 
-             (9)  Notwithstanding subsection (6), the Attorney‑General is not required to make an order for the transfer of a prisoner under that subsection from a State or Territory to another State or Territory if he or she has made an order under section 6 for the transfer of the prisoner from the first‑mentioned State or Territory to a State or Territory other than the second‑mentioned State or Territory.
+             (9)  Notwithstanding subsection (6), the Attorney-General is not required to make an order for the transfer of a prisoner under that subsection from a State or Territory to another State or Territory if he or she has made an order under section 6 for the transfer of the prisoner from the first-mentioned State or Territory to a State or Territory other than the second-mentioned State or Territory.
 
 ##### <a id="15"></a>15  Revocation of return transfer orders
 
-                   Where a return transfer order has been made under section 14 for the transfer of a prisoner from a State or Territory, the Attorney‑General shall, by order in writing served, at any time before the commencement of the execution of the transfer order, upon the Superintendent or other officer in charge of the prison in which the prisoner is detained, revoke that transfer order if:
+                   Where a return transfer order has been made under section 14 for the transfer of a prisoner from a State or Territory, the Attorney-General shall, by order in writing served, at any time before the commencement of the execution of the transfer order, upon the Superintendent or other officer in charge of the prison in which the prisoner is detained, revoke that transfer order if:
 
-                     (a)  the Attorney‑General has ceased to be satisfied with respect to the matter referred to in paragraph 14(1)(a); or
+                     (a)  the Attorney-General has ceased to be satisfied with respect to the matter referred to in paragraph 14(1)(a); or
 
                      (b)  paragraph 14(1)(b) or (c) has ceased to apply in relation to the prisoner.
 
@@ -602,7 +602,7 @@ the Attorney‑General shall make the order for the transfer of the prisoner tha
 
              (2)  An order made under subsection (1) may be served upon the Superintendent or officer to whom it is directed in whatever State or Territory he or she may be and he or she shall thereupon produce, in such custody as he or she thinks fit, the person referred to in the order at the time and place specified in the order.
 
-             (3)  Where a person who is undergoing a sentence or sentences of imprisonment in any State or Territory is, in pursuance of an order under this section, produced in another State or Territory, he or she shall, while in that other State or Territory in compliance with that order, be deemed to be undergoing the first‑mentioned sentence or sentences of imprisonment, and the officer in whose custody he or she is has the same powers, in relation to the detention and disposition of that person, as the Superintendent or officer to whom the order was directed has in the first‑mentioned State or Territory.
+             (3)  Where a person who is undergoing a sentence or sentences of imprisonment in any State or Territory is, in pursuance of an order under this section, produced in another State or Territory, he or she shall, while in that other State or Territory in compliance with that order, be deemed to be undergoing the first-mentioned sentence or sentences of imprisonment, and the officer in whose custody he or she is has the same powers, in relation to the detention and disposition of that person, as the Superintendent or officer to whom the order was directed has in the first-mentioned State or Territory.
 
              (4)  Without limiting the generality of paragraph 30(b):
 
@@ -616,41 +616,41 @@ the Attorney‑General shall make the order for the transfer of the prisoner tha
 
                      (a)  a prisoner is transferred to a State or Territory under an order made under section 16 to attend a proceeding in that State or Territory; and
 
-                     (b)  the Attorney‑General is satisfied that the proceeding (including any retrial that may have been ordered and any appeal or review arising from that proceeding or any such retrial) has been dealt with according to law; and
+                     (b)  the Attorney-General is satisfied that the proceeding (including any retrial that may have been ordered and any appeal or review arising from that proceeding or any such retrial) has been dealt with according to law; and
 
                      (c)  the prisoner has not been sentenced in that State or Territory to a term of imprisonment for an offence against a law of the Commonwealth or of that State or Territory that expires on a day later than the last day of any federal sentence, transferred sentence or translated sentence of the prisoner;
 
-the Attorney‑General shall serve a notice on the prisoner under subsection (2).
+the Attorney-General shall serve a notice on the prisoner under subsection (2).
 
              (2)  A notice shall state that unless:
 
-                     (a)  the prisoner applies to the Attorney‑General under subsection (3) by such date as is specified in the notice for an order declaring the prisoner to be an exempt prisoner; and
+                     (a)  the prisoner applies to the Attorney-General under subsection (3) by such date as is specified in the notice for an order declaring the prisoner to be an exempt prisoner; and
 
-                     (b)  the Attorney‑General makes that order;
+                     (b)  the Attorney-General makes that order;
 
-the Attorney‑General will make an order for the transfer of the prisoner from that State or Territory back to the State or Territory from which the prisoner has been transferred under section 16.
+the Attorney-General will make an order for the transfer of the prisoner from that State or Territory back to the State or Territory from which the prisoner has been transferred under section 16.
 
-             (3)  Subject to this section, upon application made to the Attorney‑General by a prisoner upon whom a notice has been served, the Attorney‑General may make an order declaring the prisoner to be an exempt prisoner.
+             (3)  Subject to this section, upon application made to the Attorney-General by a prisoner upon whom a notice has been served, the Attorney-General may make an order declaring the prisoner to be an exempt prisoner.
 
              (4)  An application shall set out such matters with respect to the welfare of the prisoner as the prisoner considers relevant.
 
-             (5)  The Attorney‑General shall, in deciding whether to make an order declaring a prisoner to be an exempt prisoner, have regard to all matters that the Attorney‑General considers relevant, including, but without limiting the generality of the foregoing:
+             (5)  The Attorney-General shall, in deciding whether to make an order declaring a prisoner to be an exempt prisoner, have regard to all matters that the Attorney-General considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner.
 
-             (6)  The Attorney‑General shall not make an order declaring a prisoner who is serving a sentence of imprisonment in a State to be an exempt prisoner unless the appropriate Minister of that State has consented in writing to the making of that order.
+             (6)  The Attorney-General shall not make an order declaring a prisoner who is serving a sentence of imprisonment in a State to be an exempt prisoner unless the appropriate Minister of that State has consented in writing to the making of that order.
 
              (7)  Where:
 
                      (a)  a prisoner fails to apply in accordance with a notice for an order declaring the prisoner to be an exempt prisoner; or
 
-                     (b)  a prisoner applies for such an order in accordance with a notice but the Attorney‑General refuses to make the order;
+                     (b)  a prisoner applies for such an order in accordance with a notice but the Attorney-General refuses to make the order;
 
-the Attorney‑General shall make the order for the transfer of the prisoner that is set out in the notice unless:
+the Attorney-General shall make the order for the transfer of the prisoner that is set out in the notice unless:
 
-                     (c)  the Attorney‑General has ceased to be satisfied with respect to the matter referred to in paragraph (1)(b); or
+                     (c)  the Attorney-General has ceased to be satisfied with respect to the matter referred to in paragraph (1)(b); or
 
                      (d)  paragraph (1)(c) has ceased to apply in relation to the prisoner.
 
@@ -662,21 +662,21 @@ the Attorney‑General shall make the order for the transfer of the prisoner tha
 
 ##### <a id="16B"></a>16B  Transfer of prisoner on security grounds
 
-             (1)  The Attorney‑General may make an order in writing for the transfer of:
+             (1)  The Attorney-General may make an order in writing for the transfer of:
 
                      (a)  a prisoner serving a federal sentence of imprisonment in a prison of a State or Territory; or
 
                      (b)  a remand prisoner in a prison of a State or Territory;
 
-to another State or Territory if the Attorney‑General believes on reasonable grounds that it is necessary in the interests of security.
+to another State or Territory if the Attorney-General believes on reasonable grounds that it is necessary in the interests of security.
 
-             (2)  In exercising his or her powers under subsection (1) to make an order, the Attorney‑General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (2)  In exercising his or her powers under subsection (1) to make an order, the Attorney-General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner or remand prisoner.
 
-             (3)  The Attorney‑General must not make an order under subsection (1) for the transfer of the prisoner or remand prisoner unless both:
+             (3)  The Attorney-General must not make an order under subsection (1) for the transfer of the prisoner or remand prisoner unless both:
 
                      (a)  the appropriate Minister of the State or Territory in which the prisoner or remand prisoner is in prison; and
 
@@ -694,11 +694,11 @@ have consented in writing to the transfer.
 
                              (ii)  a return transfer order under this section (unless it orders a transfer to the originating State or Territory); and
 
-                     (b)  the Attorney‑General reviews the order; and
+                     (b)  the Attorney-General reviews the order; and
 
-                     (c)  as a result of the review, the Attorney‑General believes on reasonable grounds that, if he or she were now to consider the transfer of the prisoner or remand prisoner to the State or Territory, the order would not be made;
+                     (c)  as a result of the review, the Attorney-General believes on reasonable grounds that, if he or she were now to consider the transfer of the prisoner or remand prisoner to the State or Territory, the order would not be made;
 
-the Attorney‑General may make an order in writing for the transfer of the prisoner or remand prisoner from that State or Territory back to:
+the Attorney-General may make an order in writing for the transfer of the prisoner or remand prisoner from that State or Territory back to:
 
                      (d)  the State or Territory from which he or she has been transferred pursuant to that order; or
 
@@ -708,21 +708,21 @@ the Attorney‑General may make an order in writing for the transfer of the pris
 
                              (ii)  any other State or Territory to which the prisoner or remand prisoner has been transferred, pursuant either to a security transfer order or to a return transfer order under this section, since his or her transfer from the originating State or Territory.
 
-             (2)  The Attorney‑General must conduct a review of an order referred to in paragraph (1)(a), within 3 months after:
+             (2)  The Attorney-General must conduct a review of an order referred to in paragraph (1)(a), within 3 months after:
 
-                     (a)  the day on which the Attorney‑General made the order; and
+                     (a)  the day on which the Attorney-General made the order; and
 
-                     (b)  the day on which the Attorney‑General last reviewed the order;
+                     (b)  the day on which the Attorney-General last reviewed the order;
 
-unless the Attorney‑General has made an order under subsection (1) after a review of that order.
+unless the Attorney-General has made an order under subsection (1) after a review of that order.
 
-             (3)  In exercising his or her powers under subsection (1) to make an order, the Attorney‑General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (3)  In exercising his or her powers under subsection (1) to make an order, the Attorney-General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner or remand prisoner.
 
-             (4)  The Attorney‑General must not make an order under subsection (1) for the transfer of the prisoner or remand prisoner unless both:
+             (4)  The Attorney-General must not make an order under subsection (1) for the transfer of the prisoner or remand prisoner unless both:
 
                      (a)  the appropriate Minister of the State or Territory in which the prisoner or remand prisoner is in prison; and
 
@@ -736,27 +736,27 @@ have consented in writing to the transfer.
 
 ##### <a id="16D"></a>16D  Transfer for court proceedings—general
 
-             (1)  If a security transfer order, or a return transfer order under section 16C, has been made in relation to a prisoner or remand prisoner, the Attorney‑General may make an order in writing for:
+             (1)  If a security transfer order, or a return transfer order under section 16C, has been made in relation to a prisoner or remand prisoner, the Attorney-General may make an order in writing for:
 
                      (a)  the transfer of the prisoner or remand prisoner from the State or Territory in which the prisoner or remand prisoner is in prison to another State or Territory to appear in proceedings before a court in that other State or Territory; and
 
-                     (b)  the transfer of the prisoner or remand prisoner from the other State or Territory back to the first‑mentioned   State or Territory as soon as practicable after that appearance has concluded.
+                     (b)  the transfer of the prisoner or remand prisoner from the other State or Territory back to the first-mentioned  State or Territory as soon as practicable after that appearance has concluded.
 
              (2)  However:
 
-                     (a)  the Attorney‑General must not make an order under subsection (1) if the Attorney‑General believes on reasonable grounds that it is contrary to the interests of security; and
+                     (a)  the Attorney-General must not make an order under subsection (1) if the Attorney-General believes on reasonable grounds that it is contrary to the interests of security; and
 
                      (b)  this section does not apply in relation to the appearance of a remand prisoner in proceedings for the offence with which he or she is charged and for which he or she has been remanded in custody; and
 
                      (c)  this section does not apply once the prisoner or remand prisoner has been returned to the originating State or Territory (within the meaning of section 16C).
 
-             (3)  In exercising his or her powers under subsection (1) to make an order, the Attorney‑General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
+             (3)  In exercising his or her powers under subsection (1) to make an order, the Attorney-General must have regard to all matters that he or she considers relevant, including, but without limiting the generality of the foregoing:
 
                      (a)  the administration of justice; and
 
                      (b)  the welfare of the prisoner or remand prisoner.
 
-             (4)  The Attorney‑General must not make an order under subsection (1) for the transfers of the prisoner or remand prisoner unless both:
+             (4)  The Attorney-General must not make an order under subsection (1) for the transfers of the prisoner or remand prisoner unless both:
 
                      (a)  the appropriate Minister of the State or Territory in which the prisoner or remand prisoner is in prison at the time the order is made; and
 
@@ -774,7 +774,7 @@ have consented in writing to the transfers.
 
                      (c)  the remand prisoner is in prison in another State or Territory;
 
-the Attorney‑General must make an order in writing for:
+the Attorney-General must make an order in writing for:
 
                      (d)  the transfer of the remand prisoner from the other State or Territory to the State or Territory in which he or she is required to appear; and
 
@@ -782,9 +782,9 @@ the Attorney‑General must make an order in writing for:
 
              (2)  However:
 
-                     (a)  the Attorney‑General is not required to make an order under subsection (1) if:
+                     (a)  the Attorney-General is not required to make an order under subsection (1) if:
 
-                              (i)  the Attorney‑General believes on reasonable grounds that it is essential in the interests of security that the order not be made; and
+                              (i)  the Attorney-General believes on reasonable grounds that it is essential in the interests of security that the order not be made; and
 
                              (ii)  the court that remanded the remand prisoner in custody orders that his or her detention may continue; and
 
@@ -798,7 +798,7 @@ the Attorney‑General must make an order in writing for:
 
                      (b)  an order (other than an order by a court) must not be made under a State transfer law for the transfer of the prisoner or remand prisoner to another State or Territory;
 
-unless the Attorney‑General has consented in writing to the transfer.
+unless the Attorney-General has consented in writing to the transfer.
 
              (2)  This section does not apply once the prisoner or remand prisoner has been returned to the originating State or Territory (within the meaning of section 16C).
 
@@ -842,11 +842,11 @@ unless the Attorney‑General has consented in writing to the transfer.
 
 any period of imprisonment served by the prisoner in respect of the sentence of imprisonment to which the transferred sentence is attributable has the effect that it would have if the prisoner had served it in respect of the transferred sentence.
 
-##### <a id="19"></a>19  Transferred sentences—non‑parole periods
+##### <a id="19"></a>19  Transferred sentences—non-parole periods
 
-             (1)  Where a prisoner upon whom a sentence or sentences of imprisonment has or have been imposed under, and for an offence or offences against, a law of a Territory, being a sentence or sentences in respect of which a minimum term of imprisonment has been fixed, is transferred, in pursuance of a transfer order, to a State or Territory, then, in the application of the provisions of the law of that State or Territory relating to the fixing of minimum terms of imprisonment, those provisions have effect upon his or her being so transferred as if, in lieu of any minimum term of imprisonment that would or might have been fixed by or under those provisions in relation to the transferred sentence or the transferred sentences, there had been fixed the first‑mentioned minimum term of imprisonment.
+             (1)  Where a prisoner upon whom a sentence or sentences of imprisonment has or have been imposed under, and for an offence or offences against, a law of a Territory, being a sentence or sentences in respect of which a minimum term of imprisonment has been fixed, is transferred, in pursuance of a transfer order, to a State or Territory, then, in the application of the provisions of the law of that State or Territory relating to the fixing of minimum terms of imprisonment, those provisions have effect upon his or her being so transferred as if, in lieu of any minimum term of imprisonment that would or might have been fixed by or under those provisions in relation to the transferred sentence or the transferred sentences, there had been fixed the first-mentioned minimum term of imprisonment.
 
-             (2)  Where a prisoner upon whom a sentence or sentences of imprisonment has or have been imposed under, and for an offence or offences against, a law of a State, being a sentence or sentences in respect of which a minimum term of imprisonment has been fixed, is transferred, in pursuance of a transfer order or a State order of transfer or both, to a Territory, then, in the application of the provisions of the law of that Territory relating to the fixing of minimum terms of imprisonment, those provisions have effect upon his or her being so transferred as if, in lieu of any minimum term of imprisonment that would or might have been fixed by or under those provisions in relation to the transferred State sentence or the transferred State sentences, there had been fixed the first‑mentioned minimum term of imprisonment.
+             (2)  Where a prisoner upon whom a sentence or sentences of imprisonment has or have been imposed under, and for an offence or offences against, a law of a State, being a sentence or sentences in respect of which a minimum term of imprisonment has been fixed, is transferred, in pursuance of a transfer order or a State order of transfer or both, to a Territory, then, in the application of the provisions of the law of that Territory relating to the fixing of minimum terms of imprisonment, those provisions have effect upon his or her being so transferred as if, in lieu of any minimum term of imprisonment that would or might have been fixed by or under those provisions in relation to the transferred State sentence or the transferred State sentences, there had been fixed the first-mentioned minimum term of imprisonment.
 
              (3)  Except as expressly provided, nothing in this section affects the application, in accordance with section 18:
 
@@ -886,27 +886,27 @@ any period of imprisonment served by the prisoner in respect of the sentence of 
 
                      (b)  the Superintendent or other officer shall, forthwith upon receipt of the amount by him or her, remit the amount:
 
-                              (i)  in a case where the sentence of default imprisonment was imposed under a law of the Commonwealth or a Territory—to the Attorney‑General; and
+                              (i)  in a case where the sentence of default imprisonment was imposed under a law of the Commonwealth or a Territory—to the Attorney-General; and
 
                              (ii)  in a case where the sentence of default imprisonment was imposed under a law of a State—to the appropriate Minister of that State; and
 
                             (iii)  in a case where the sentence of default imprisonment was imposed under Part 7 of the _Service and Execution of Process Act 1992_:
 
-                                        (A)  if the sentence was imposed by reason of the non‑payment of the whole or a part of a fine that had been imposed for an offence against a law of the Commonwealth or of a Territory—to the Attorney‑General; or
+                                        (A)  if the sentence was imposed by reason of the non-payment of the whole or a part of a fine that had been imposed for an offence against a law of the Commonwealth or of a Territory—to the Attorney-General; or
 
-                                        (B)  if the sentence was imposed by reason of the non‑payment of the whole or a part of a fine that had been imposed for an offence against a law of a State—to the appropriate Minister of that State.
+                                        (B)  if the sentence was imposed by reason of the non-payment of the whole or a part of a fine that had been imposed for an offence against a law of a State—to the appropriate Minister of that State.
 
 ##### <a id="22"></a>22  Territory sentences cease to have effect on transfer
 
-                   Where a prisoner upon whom a sentence of imprisonment has been imposed under, and for an offence against, a law of a Territory is transferred, in pursuance of a transfer order, to a State or Territory, that sentence ceases, for the purposes of this Act and of any law of that first‑mentioned Territory, upon the prisoner’s being so transferred, to have effect in that first‑mentioned Territory except for the purpose of any appeal against, or review of, any conviction, judgment, sentence or minimum term of imprisonment made, imposed or fixed by a court of that first‑mentioned Territory.
+                   Where a prisoner upon whom a sentence of imprisonment has been imposed under, and for an offence against, a law of a Territory is transferred, in pursuance of a transfer order, to a State or Territory, that sentence ceases, for the purposes of this Act and of any law of that first-mentioned Territory, upon the prisoner’s being so transferred, to have effect in that first-mentioned Territory except for the purpose of any appeal against, or review of, any conviction, judgment, sentence or minimum term of imprisonment made, imposed or fixed by a court of that first-mentioned Territory.
 
 ##### <a id="23"></a>23  Federal sentences—reductions and remissions
 
-                   Where a Commonwealth prisoner is transferred, in pursuance of a transfer order, from a State or Territory to another State or Territory, then, in the application of the provisions of the law of that last‑mentioned State or Territory by virtue of section 19AA of the _Crimes Act 1914_, those provisions have effect upon his or her being so transferred as if he or she were entitled, upon his or her so being transferred:
+                   Where a Commonwealth prisoner is transferred, in pursuance of a transfer order, from a State or Territory to another State or Territory, then, in the application of the provisions of the law of that last-mentioned State or Territory by virtue of section 19AA of the _Crimes Act 1914_, those provisions have effect upon his or her being so transferred as if he or she were entitled, upon his or her so being transferred:
 
-                     (a)  in lieu of any period or periods of reduction or remission of his or her federal sentence to which he or she would otherwise be entitled under that law in that application upon being so transferred—to a period or periods of reduction or remission of his or her federal sentence equivalent to the period or periods of reduction or remission of his or her sentence to which he or she was entitled under the law of the first‑mentioned State or Territory in its application, by virtue of that section of that Act, immediately before being so transferred; and
+                     (a)  in lieu of any period or periods of reduction or remission of his or her federal sentence to which he or she would otherwise be entitled under that law in that application upon being so transferred—to a period or periods of reduction or remission of his or her federal sentence equivalent to the period or periods of reduction or remission of his or her sentence to which he or she was entitled under the law of the first-mentioned State or Territory in its application, by virtue of that section of that Act, immediately before being so transferred; and
 
-                     (b)  in lieu of any period or periods of reduction or remission of a minimum term of imprisonment fixed under section 19AB, 19AC or 19AR, as the case may be, of that Act in relation to his or her federal sentence to which he or she would otherwise be entitled under that law in that application upon being so transferred—to a period or periods of reduction or remission of that minimum term of imprisonment equivalent to the period or periods of reduction or remission of that minimum term of imprisonment to which he or she was entitled under the law of the first‑mentioned State or Territory in its application, by virtue of section 19 of that Act, immediately before being so transferred.
+                     (b)  in lieu of any period or periods of reduction or remission of a minimum term of imprisonment fixed under section 19AB, 19AC or 19AR, as the case may be, of that Act in relation to his or her federal sentence to which he or she would otherwise be entitled under that law in that application upon being so transferred—to a period or periods of reduction or remission of that minimum term of imprisonment equivalent to the period or periods of reduction or remission of that minimum term of imprisonment to which he or she was entitled under the law of the first-mentioned State or Territory in its application, by virtue of section 19 of that Act, immediately before being so transferred.
 
 ##### <a id="24"></a>24  Royal prerogative of mercy
 
@@ -926,9 +926,9 @@ be exercised by the Queen or the Governor of that State as if that offence were 
 
                      (b)  in relation to a transferred sentence attributable to a sentence imposed in respect of such an offence;
 
-be exercised by the Queen or the Governor‑General as if that offence were an offence against the law of the Territory to which the prisoner has been transferred.
+be exercised by the Queen or the Governor-General as if that offence were an offence against the law of the Territory to which the prisoner has been transferred.
 
-             (4)  The reference in subsection (2) to the Governor of a State is, in respect of the Australian Capital Territory, a reference to the Governor‑General.
+             (4)  The reference in subsection (2) to the Governor of a State is, in respect of the Australian Capital Territory, a reference to the Governor-General.
 
 ## Part VI—Miscellaneous
 
@@ -950,9 +950,9 @@ then:
 
 ##### <a id="26"></a>26  Escape of prisoners from lawful custody
 
-             (1)  Section 47 of the _Crimes Act 1914_ applies to a State prisoner in lawful custody in accordance with section 25 of this Act as if a reference in the definition of **_federal criminal detention_** in section 45A of that Act to an offence against a law of the Commonwealth were a reference to an offence against a law of the Commonwealth or of a State.
+             (1)  Section 47 of the _Crimes Act 1914_ applies to a State prisoner in lawful custody in accordance with section 25 as if a reference in that section of that Act to an offence against a law of the Commonwealth were a reference to an offence against a law of the Commonwealth or of a State.
 
-             (2)  Section 47 of the _Crimes Act 1914_ applies to a prisoner in lawful custody in pursuance of a transfer order (whether or not the person is also in lawful custody in pursuance of a State order of transfer) as if a reference in the definition of **_federal criminal detention_** in section 45A of that Act to an offence against a law of the Commonwealth were a reference to an offence against a law of the Commonwealth or of a State or Territory.
+             (2)  Section 47 of the _Crimes Act 1914_ applies to a prisoner in lawful custody in pursuance of a transfer order (whether or not the person is also in lawful custody in pursuance of a State order of transfer) as if a reference in that section to an offence against a law of the Commonwealth were a reference to an offence against a law of the Commonwealth or of a State or Territory.
 
 ##### <a id="27"></a>27  Escape charges may be dealt with in other courts
 
@@ -980,7 +980,7 @@ the court before which the person is brought, being a court in a State or Territ
 
 ##### <a id="29"></a>29  Delegation
 
-             (1)  The Attorney‑General may, either generally or as otherwise provided in the instrument of delegation, by writing signed by him or her, delegate to a person all or any of his or her powers under this Act other than this power of delegation or the powers under Part IV.
+             (1)  The Attorney-General may, either generally or as otherwise provided in the instrument of delegation, by writing signed by him or her, delegate to a person all or any of his or her powers under this Act other than this power of delegation or the powers under Part IV.
 
           (1A)  However, a delegation under subsection (1) does not extend to the power:
 
@@ -998,9 +998,9 @@ in any case:
 
                       (f)  in which making or revoking the order, making the application, giving the consent or serving the notice would involve consideration of questions of security.
 
-             (2)  A power delegated under subsection (1), when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Attorney‑General.
+             (2)  A power delegated under subsection (1), when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Attorney-General.
 
-             (3)  A delegation under subsection (1) does not prevent the exercise of a power by the Attorney‑General.
+             (3)  A delegation under subsection (1) does not prevent the exercise of a power by the Attorney-General.
 
              (4)  The appropriate Minister of a State may, either generally or as otherwise provided in the instrument of delegation, by writing signed by him or her, delegate to a person all or any of his or her powers under this Act other than this power of delegation or the powers under Part IV.
 
@@ -1036,7 +1036,7 @@ may, if it is satisfied that it would be unjust or oppressive not to do so, make
 
                      (a)  the transfer of the person from one State or Territory to another State or Territory; and
 
-                     (b)  the re‑calculation of any sentence imposed upon the person, of any minimum term of imprisonment fixed in relation to any such sentence or of the remission or reduction of any such sentence or minimum term of imprisonment; and
+                     (b)  the re-calculation of any sentence imposed upon the person, of any minimum term of imprisonment fixed in relation to any such sentence or of the remission or reduction of any such sentence or minimum term of imprisonment; and
 
                      (c)  staying or suspending the operation of any provision of this Act or of any action taken under a provision of this Act.
 
@@ -1054,7 +1054,7 @@ may, if it is satisfied that it would be unjust or oppressive not to do so, make
 
 ##### <a id="33"></a>33  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1249,7 +1249,7 @@ Schedule 51 (item 5): 15 Dec 2001 <i>(f)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑terrorism Act (No. 2) 2004</div>
+    <div>Anti-terrorism Act (No. 2) 2004</div>
   </td>
   <td>
     <div>124, 2004</div>
@@ -1316,34 +1316,17 @@ Schedule 4 (items 492–494): 4 July 2008</div>
   <td>
     <div>Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 29, 30): 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Transfer of Prisoners Act 1983_ was amended by Part XV (sections 117–119) only of the _Defence Legislation Amendment Act 1984_, subsection 2(8) of which provides as follows:
 
                  (8)   Part XV shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of the _Transfer of Prisoners Act 1983_.
 
-_(b)_     The _Transfer of Prisoners Act 1983_ was amended by sections 68–73 only of the _Crimes Legislation Amendment Act 1987_, subsections 2(1) and (6) of which provide as follows:
+_(b)_    The _Transfer of Prisoners Act 1983_ was amended by sections 68–73 only of the _Crimes Legislation Amendment Act 1987_, subsections 2(1) and (6) of which provide as follows:
 
                  (1)   Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation.
 
-                 (6)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (6)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Transfer of Prisoners Act 1983_ was amended by section 34 only of the _Crimes Legislation Amendment Act (No. 2) 1989_, subsections 2(13) and (14) of which provide as follows:
 
@@ -1624,14 +1607,6 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td>
@@ -1687,7 +1662,7 @@ Omit “and”.
 
 Repeal the subparagraph.
 
-As at 4 March 2011 the amendments are not incorporated in this compilation.
+As at 20 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
