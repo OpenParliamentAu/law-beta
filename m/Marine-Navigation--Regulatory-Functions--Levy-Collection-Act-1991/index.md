@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00039/Html/MarineNavRegFunLevyCollAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00534/Html/MarineNavRegFunLevyCollAct1991_WD02_image001.gif)
 
 # Marine Navigation (Regulatory Functions) Levy Collection Act 1991
 
 **Act No. 41 of 1991 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 15 October 2008
+ taking into account amendments up to Act No. 94 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -312,26 +312,6 @@ of Assent</div>
   <td>
     <div></div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 4, 5): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -365,26 +345,5 @@ of Assent</div>
     <div>am. No. 94, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 4  Section 9
-
-Before “Any”, insert “(1)”.
-
-## 5  At the end of section 9
-
-Add:
-
-             (2)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
-As at 2 February 2010 the amendments are not incorporated in this compilation.
 
  
