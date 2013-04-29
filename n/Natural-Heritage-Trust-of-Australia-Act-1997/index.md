@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00228/Html/13978de3-8465-4d76-bcd8-05c2893cd63a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00338/Html/NaturalHeritTrustofAust1997WD02_image001.gif)
 
 # Natural Heritage Trust of Australia Act 1997
 
 **Act No. 76 of 1997 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -46,7 +46,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Primary objective of the National Vegetation Initiative
 
-[11](#11).          Primary objective of the Murray‑Darling 2001 Project
+[11](#11).          Primary objective of the Murray-Darling 2001 Project
 
 [12](#12).          Primary objectives of the National Land and Water Resources Audit
 
@@ -114,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Natural Heritage Ministerial Board
 
-[41](#41).          Estimates [_see_ Note 2]
+[41](#41).          Estimates
 
 [42](#42).          Minimum balance in the Account after 30 June 2001
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Delegation by Minister
 
-[46](#46).          Delegation by Agriculture Minister
+[46](#46).          Delegation by Minister for Primary Industries and Energy
 
 [47](#47).          Acceptance of gifts etc 
 
@@ -154,11 +154,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    It is essential that government leadership be demonstrated, and that the Australian community be involved, in relation to these matters.
 
-                   The Commonwealth Government should work cooperatively with State governments to achieve effective outcomes in matters relating to environmental protection, natural resources management and sustainable agriculture. Those cooperative working relationships should involve entering into inter‑governmental agreements which reflect the support of the States for the purposes of the Natural Heritage Trust of Australia Account and promote the development of complementary policies and programs.
+                   The Commonwealth Government should work cooperatively with State governments to achieve effective outcomes in matters relating to environmental protection, natural resources management and sustainable agriculture. Those cooperative working relationships should involve entering into inter-governmental agreements which reflect the support of the States for the purposes of the Natural Heritage Trust of Australia Account and promote the development of complementary policies and programs.
 
                    Australia’s rural community should have a key role in the ecologically sustainable management of Australia’s natural resources.
 
-                   Australia’s natural environment is central to Australia’s and Australians’ health and non‑material well‑being and to Australia’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
+                   Australia’s natural environment is central to Australia’s and Australians’ health and non-material well-being and to Australia’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
 
                    A comprehensive, integrated response to these matters is necessary. 
 
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Natural Heritage Trust of Australia Act 1997_.
+                   This Act may be cited as the _Natural Heritage Trust of__Australia__Act 1997_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -230,11 +230,11 @@ Note:          An amount standing to the credit of the Account
 
 Fixed income—uninvested amounts
 
-             (2)  Within 28 days after the end of a financial year, there is to be credited to the Account, in respect of the financial year, an amount equal to the fixed‑income percentage of the uninvested amount standing to the credit of the Account as at the end of the financial year.
+             (2)  Within 28 days after the end of a financial year, there is to be credited to the Account, in respect of the financial year, an amount equal to the fixed-income percentage of the uninvested amount standing to the credit of the Account as at the end of the financial year.
 
-Fixed‑income percentage
+Fixed-income percentage
 
-             (3)  For the purposes of the application of subsection (2) to a particular financial year, the **_fixed‑income percentage_** is:
+             (3)  For the purposes of the application of subsection (2) to a particular financial year, the **_fixed-income percentage_** is:
 
                      (a)  if the financial year begins on or before 1 July 2001:
 
@@ -280,7 +280,7 @@ an amount equal to the excess must be debited from the Account.
 
                      (a)  the National Vegetation Initiative;
 
-                     (b)  the Murray‑Darling 2001 Project;
+                     (b)  the Murray-Darling 2001 Project;
 
                      (c)  the National Land and Water Resources Audit;
 
@@ -306,7 +306,7 @@ an amount equal to the excess must be debited from the Account.
 
                      (a)  the National Vegetation Initiative;
 
-                     (b)  the Murray‑Darling 2001 Project;
+                     (b)  the Murray-Darling 2001 Project;
 
                      (c)  the National Land and Water Resources Audit;
 
@@ -328,7 +328,7 @@ an amount equal to the excess must be debited from the Account.
 
 ##### <a id="10"></a>10  Primary objective of the National Vegetation Initiative
 
-                   For the purposes of this Act, the primary objective of the National Vegetation Initiative is to reverse the long‑term decline in the extent and quality of Australia’s native vegetation cover by:
+                   For the purposes of this Act, the primary objective of the National Vegetation Initiative is to reverse the long-term decline in the extent and quality of Australia’s native vegetation cover by:
 
                      (a)  conserving remnant native vegetation; and
 
@@ -336,9 +336,9 @@ an amount equal to the excess must be debited from the Account.
 
                      (c)  restoring, by means of revegetation, the environmental values and productive capacity of Australia’s degraded land and water.
 
-##### <a id="11"></a>11  Primary objective of the Murray‑Darling 2001 Project
+##### <a id="11"></a>11  Primary objective of the Murray-Darling 2001 Project
 
-                   For the purposes of this Act, the primary objective of the Murray‑Darling 2001 Project is to contribute to the rehabilitation of the Murray‑Darling Basin, with a view to achieving a sustainable future for the Basin, its natural systems and its communities.
+                   For the purposes of this Act, the primary objective of the Murray-Darling 2001 Project is to contribute to the rehabilitation of the Murray-Darling Basin, with a view to achieving a sustainable future for the Basin, its natural systems and its communities.
 
 ##### <a id="12"></a>12  Primary objectives of the National Land and Water Resources Audit
 
@@ -392,7 +392,7 @@ an amount equal to the excess must be debited from the Account.
 
                      (a)  the economic viability of agricultural production;
 
-                     (b)  the social viability and well‑being of rural communities;
+                     (b)  the social viability and well-being of rural communities;
 
                      (c)  the ecologically sustainable use of Australia’s biodiversity;
 
@@ -438,13 +438,13 @@ an amount equal to the excess must be debited from the Account.
 
                               (i)  the Minister;
 
-                             (ii)  the Agriculture Minister; or
+                             (ii)  the Minister for Primary Industries and Energy; or
 
                      (b)  jointly by both of the following Ministers on behalf of the Commonwealth:
 
                               (i)  the Minister;
 
-                             (ii)  the Agriculture Minister.
+                             (ii)  the Minister for Primary Industries and Energy.
 
              (4)  An agreement under subsection (2) may establish a framework under which the Commonwealth and the State are to work cooperatively to achieve both common and complementary outcomes in relation to:
 
@@ -474,13 +474,13 @@ Note:          **_State_** is given an extended meaning by sec
 
                               (i)  the Minister;
 
-                             (ii)  the Agriculture Minister; or
+                             (ii)  the Minister for Primary Industries and Energy; or
 
                      (b)  jointly by both of the following Ministers on behalf of the Commonwealth:
 
                               (i)  the Minister;
 
-                             (ii)  the Agriculture Minister.
+                             (ii)  the Minister for Primary Industries and Energy.
 
              (4)  This section does not affect the operation of Part 3 of the _Rural Adjustment Act 1992._
 
@@ -500,15 +500,15 @@ Note:          **_State_** is given an extended meaning by sec
 
                      (a)  the following core objectives:
 
-                              (i)  to enhance individual and community well‑being and welfare by following a path of economic development that safeguards the welfare of future generations;
+                              (i)  to enhance individual and community well-being and welfare by following a path of economic development that safeguards the welfare of future generations;
 
                              (ii)  to provide for equity within and between generations;
 
-                            (iii)  to protect biological diversity and maintain essential ecological processes and life‑support systems; and
+                            (iii)  to protect biological diversity and maintain essential ecological processes and life-support systems; and
 
                      (b)  the following guiding principles:
 
-                              (i)  decision‑making processes should effectively integrate both long‑term and short‑term economic, environmental, social and equity considerations;
+                              (i)  decision-making processes should effectively integrate both long-term and short-term economic, environmental, social and equity considerations;
 
                              (ii)  if there are threats of serious or irreversible environmental damage, lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
 
@@ -518,7 +518,7 @@ Note:          **_State_** is given an extended meaning by sec
 
                              (v)  the need to maintain and enhance international competitiveness in an environmentally sound manner should be recognised;
 
-                            (vi)  cost‑effective and flexible measures should be adopted;
+                            (vi)  cost-effective and flexible measures should be adopted;
 
                            (vii)  decisions and actions should provide for broad community involvement on issues which affect the community.
 
@@ -640,7 +640,7 @@ Note:          The principles of ecologically sustainable deve
 
              (2)  A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-             (3)  A Committee member holds office on a part‑time basis.
+             (3)  A Committee member holds office on a part-time basis.
 
              (4)  The performance of the functions of the Committee is not affected only because of there being a vacancy or vacancies in the membership of the Committee.
 
@@ -710,11 +710,11 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (a)  the Minister; and
 
-                     (b)  the Agriculture Minister.
+                     (b)  the Minister for Primary Industries and Energy.
 
              (2)  The functions of the Natural Heritage Ministerial Board are as follows:
 
-                     (a)  to provide a forum in which the Minister and the Agriculture Minister are to consult with each other about all matters relating to the Account;
+                     (a)  to provide a forum in which the Minister and the Minister for Primary Industries and Energy are to consult with each other about all matters relating to the Account;
 
                      (b)  to prepare estimates under section 41;
 
@@ -722,7 +722,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                               (i)  the primary objective of the National Vegetation Initiative; and
 
-                             (ii)  the primary objective of the Murray‑Darling 2001 Project; and
+                             (ii)  the primary objective of the Murray-Darling 2001 Project; and
 
                             (iii)  the primary objectives of the National Land and Water Resources Audit; and
 
@@ -734,7 +734,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                            (vii)  sustainable agriculture; and
 
-                          (viii)  natural resources management.
+                           (viii)  natural resources management.
 
              (3)  For the purposes of this section, each of the following decisions is taken to be a matter that relates to the Account:
 
@@ -742,13 +742,13 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (b)  a decision relating to the investment of an amount standing to the credit of the Account;
 
-                     (c)  a decision to make a recommendation to the Governor‑General about the making of regulations under this Act;
+                     (c)  a decision to make a recommendation to the Governor-General about the making of regulations under this Act;
 
                      (d)  a decision under this Act;
 
                      (e)  a decision under any other law of the Commonwealth, to the extent that the law relates to the Account.
 
-##### <a id="41"></a>41  Estimates [_see_ Note 2]
+##### <a id="41"></a>41  Estimates
 
              (1)  The Natural Heritage Ministerial Board must prepare estimates of debits from the Account that are to be made for purposes of the Account.
 
@@ -764,7 +764,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (b)  such other matters as the Natural Heritage Ministerial Board considers relevant.
 
-             (4)  Money must not be debited from the Reserve for a purpose of the Reserve otherwise than in accordance with estimates prepared under this section.
+             (4)  Money must not be debited from the Reserve for a purpose of the Account otherwise than in accordance with estimates prepared under this section.
 
 ##### <a id="42"></a>42  Minimum balance in the Account after 30 June 2001
 
@@ -780,7 +780,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (b)  if the result of that multiplication is not an amount of whole dollars—round up the result to the nearest whole dollar.
 
-             (5)  For the purposes of this section, the **_indexation factor_** for a financial year is the factor (being a number not less than 1) specified in relation to that year in a written determination made by the Finance Minister for the purposes of this subsection.
+             (5)  For the purposes of this section, the **_indexation factor_** for a financial year is the factor (being a number not less than 1) specified in relation to that year in a written determination made by the Minister for Finance for the purposes of this subsection.
 
 ##### <a id="43"></a>43  Annual report about the Account
 
@@ -790,47 +790,47 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (b)  financial statements relating to those operations; and
 
-                     (c)  the Auditor‑General’s report or reports under section 44 on the financial statements; and
+                     (c)  the Auditor-General’s report or reports under section 44 on the financial statements; and
 
                      (d)  a report on the effectiveness of the administration of this Act during the financial year ended on that date in achieving the outcomes sought in agreements entered into under subsection 19(2).
 
-             (2)  The report mentioned in paragraph (1)(a) must comply with written guidelines issued by the Finance Minister.
+             (2)  The report mentioned in paragraph (1)(a) must comply with written guidelines issued by the Minister for Finance.
 
-             (3)  The financial statements must comply with written guidelines issued by the Finance Minister.
+             (3)  The financial statements must comply with written guidelines issued by the Minister for Finance.
 
              (4)  The Minister must cause copies of the annual report to be laid before each House of the Parliament within 15 sitting days of that House after the completion of the preparation of the annual report.
 
-             (5)  The Agriculture Minister must give the Minister such information as the Minister requires to enable the Minister to comply with the Minister’s obligations under subsection (1).
+             (5)  The Minister for Primary Industries and Energy must give the Minister such information as the Minister requires to enable the Minister to comply with the Minister’s obligations under subsection (1).
 
              (6)  The obligations imposed by this section are in addition to, and not instead of, obligations imposed by any other law of the Commonwealth.
 
 ##### <a id="44"></a>44  Audit of annual financial statements of the Account
 
-             (1)  As soon as practicable after financial statements are prepared in accordance with subsection 43(1), the statements must be given to the Auditor‑General.
+             (1)  As soon as practicable after financial statements are prepared in accordance with subsection 43(1), the statements must be given to the Auditor-General.
 
-             (2)  As soon as practicable after receiving the financial statements, the Auditor‑General must examine the statements and report in accordance with this section to the Minister.
+             (2)  As soon as practicable after receiving the financial statements, the Auditor-General must examine the statements and report in accordance with this section to the Minister.
 
-             (3)  In the report, the Auditor‑General must state whether, in the Auditor‑General’s opinion, the financial statements:
+             (3)  In the report, the Auditor-General must state whether, in the Auditor-General’s opinion, the financial statements:
 
                      (a)  have been prepared in accordance with guidelines in force under subsection 43(3); and
 
                      (b)  give a true and fair view of the matters required by those guidelines.
 
-If the Auditor‑General is not of that opinion, the Auditor‑General must state the reasons.
+If the Auditor-General is not of that opinion, the Auditor-General must state the reasons.
 
-             (4)  If the Auditor‑General is of the opinion that failing to prepare the financial statements in accordance with the guidelines has a quantifiable financial effect, the Auditor‑General must quantify that financial effect and state the amount.
+             (4)  If the Auditor-General is of the opinion that failing to prepare the financial statements in accordance with the guidelines has a quantifiable financial effect, the Auditor-General must quantify that financial effect and state the amount.
 
-             (5)  If the Auditor‑General is of the opinion that the Secretary of a Department has contravened an obligation relating to the keeping of accounts or records, the Auditor‑General must state particulars of the contravention.
+             (5)  If the Auditor-General is of the opinion that the Secretary to a Department has contravened an obligation relating to the keeping of accounts or records, the Auditor-General must state particulars of the contravention.
 
-             (6)  If the Auditor‑General is of the opinion that the Auditor‑General did not obtain all necessary information and explanations, the Auditor‑General must state particulars of the shortcoming.
+             (6)  If the Auditor-General is of the opinion that the Auditor-General did not obtain all necessary information and explanations, the Auditor-General must state particulars of the shortcoming.
 
-             (7)  Instead of preparing a single report, the Auditor‑General may prepare an initial report and one or more later supplementary reports.
+             (7)  Instead of preparing a single report, the Auditor-General may prepare an initial report and one or more later supplementary reports.
 
 ##### <a id="45"></a>45  Delegation by Minister
 
              (1)  The Minister may, by writing, delegate to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  the Director of National Parks (within the meaning of the _Environment Protection and Biodiversity Conservation Act 1999_); or
 
@@ -844,21 +844,21 @@ all or any of the Minister’s powers under:
 
              (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
 
-##### <a id="46"></a>46  Delegation by Agriculture Minister
+##### <a id="46"></a>46  Delegation by Minister for Primary Industries and Energy
 
-             (1)  The Agriculture Minister may, by writing, delegate to:
+             (1)  The Minister for Primary Industries and Energy may, by writing, delegate to:
 
-                     (a)  the Secretary of the Agriculture Department; or
+                     (a)  the Secretary to the Department of Primary Industries and Energy; or
 
-                     (b)  an SES employee or acting SES employee (whether or not in the Agriculture Department);
+                     (b)  an SES employee or acting SES employee (whether or not in the Department of Primary Industries and Energy);
 
-all or any of the powers conferred on the Agriculture Minister by:
+all or any of the powers conferred on the Minister for Primary Industries and Energy by:
 
                      (c)  this Act (other than section 40 or 41); or
 
                      (d)  any other law of the Commonwealth, to the extent that that law relates to the Account.
 
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Agriculture Minister.
+             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister for Primary Industries and Energy.
 
 ##### <a id="47"></a>47  Acceptance of gifts etc.
 
@@ -888,13 +888,13 @@ the advertisement must include a statement to the effect that the proceeds of th
 
 ##### <a id="50"></a>50  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-##### <a id="53"></a>53  External Territories
+##### <a id="53"></a>53  External  Territories
 
                    This Act extends to all the external Territories.
 
@@ -918,10 +918,6 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                      (e)  horticulture.
 
-                    <a name="agricultur-depart"></a>**_Agriculture Department_** means the Department administered by the Agriculture Minister.
-
-                    <a name="agricultur-minist"></a>**_Agriculture Minister_** means the Minister administering Part 2 of the _Natural Resources Management (Financial Assistance) Act 1992_.
-
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes:
 
                      (a)  the external Territories; and
@@ -936,8 +932,6 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                     <a name="exclus-econom-zone"></a>**_exclusive economic zone_** means the exclusive economic zone (within the meaning of the _Seas and Submerged Lands Act 1973_), adjacent to the coast of Australia or the coast of an external Territory.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="horticultur"></a>**_horticulture_** includes the production of a horticultural product (within the meaning of the _Horticulture Marketing and Research and Development Services Act 2000_).
 
                     <a name="natur-heritag-ministeri-board"></a>**_Natural Heritage Ministerial Board_** means the Natural Heritage Ministerial Board established by section 40.
@@ -948,7 +942,7 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                      (a)  an amount received by the Commonwealth directly or indirectly from:
 
-                              (i)  the sale‑scheme trustee (within the meaning of the _Telstra Corporation Act 1991_); or
+                              (i)  the sale-scheme trustee (within the meaning of the _Telstra Corporation Act 1991_); or
 
                              (ii)  an investor in Telstra;
 
@@ -962,13 +956,13 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                     <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
-                    <a name="wast-minimis"></a>**_waste minimisation_** includes reduction of use, re‑use and recycling.
+                    <a name="wast-minimis"></a>**_waste minimisation_** includes reduction of use, re-use and recycling.
 
 # Notes to the _Natural Heritage Trust of Australia Act 1997_
 
 ### Note 1
 
-The _Natural Heritage Trust of Australia Act 1997_ as shown in this compilation comprises Act No. 76, 1997 amended as indicated in the Tables below.
+The _Natural Heritage Trust of__Australia__Act 1997_ as shown in this compilation comprises Act No. 76, 1997 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1032,7 +1026,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1055): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    <div>Schedule 2 (item 1055): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1083,7 +1077,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 683–685): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    <div>Schedule 1 (items 683–685): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1139,41 +1133,23 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 159–167), Schedule 6 (items 79, 80) and Schedule 7 (items 103, 104): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Natural Heritage Trust of Australia Act 1997_ was amended by Schedule 2 (item 1055) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 2 (item 1055) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
 
-_(b)_     The _Natural Heritage Trust of Australia Act 1997_ was amended by Schedule 4 (item 73) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(b)_    The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 4 (item 73) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
-_(c)_     The _Natural Heritage Trust of Australia Act 1997_ was amended by Schedule 1 (items 
- 683–685) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 1 (items 683–685) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(d)_     The _Natural Heritage Trust of Australia Act 1997_ was amended by Schedule 2 (item 3) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
+_(d)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 2 (item 3) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
@@ -1197,10 +1173,10 @@ Note:          See sections 12 and 13 for the transfer day, 
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div><b> Provision affected </b></div>
     </td>
     <td>
-      <div>How affected</div>
+      <div><b> How affected </b></div>
     </td>
   </tr>
 </thead>
@@ -1254,15 +1230,7 @@ Note:          See sections 12 and 13 for the transfer day, 
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 4, 5</div>
   </td>
   <td>
     <div>rs. No. 8, 2005</div>
@@ -1334,31 +1302,7 @@ Note:          See sections 12 and 13 for the transfer day, 
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
+    <div>Ss. 18–21</div>
   </td>
   <td>
     <div>am. No. 8, 2005</div>
@@ -1422,47 +1366,7 @@ Note:          See sections 12 and 13 for the transfer day, 
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
+    <div>Ss. 24–29</div>
   </td>
   <td>
     <div>rs. No. 8, 2005</div>
@@ -1510,15 +1414,7 @@ Note:          See sections 12 and 13 for the transfer day, 
 </tr>
 <tr>
   <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
+    <div>Ss. 40, 41</div>
   </td>
   <td>
     <div>am. No. 8, 2005</div>
@@ -1537,7 +1433,7 @@ Note:          See sections 12 and 13 for the transfer day, 
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1553,7 +1449,7 @@ Note:          See sections 12 and 13 for the transfer day, 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1566,26 +1462,10 @@ Note:          See sections 12 and 13 for the transfer day, 
 </tr>
 <tr>
   <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 45</div>
   </td>
   <td>
-    <div>am. Nos. 92 and 146, 1999; No. 8, 2005; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. Nos. 92 and 146, 1999; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1593,7 +1473,7 @@ Note:          See sections 12 and 13 for the transfer day, 
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 146, 1999; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1657,21 +1537,9 @@ Note:          See sections 12 and 13 for the transfer day, 
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 163, 2000; No. 8, 2005; No. 5, 2011</div>
+    <div>am. No. 146, 1999; No. 163, 2000; No. 8, 2005</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Subsection 41(4)—Schedule 1 (item 242) of the Financial Framework Legislation Amendment Act 2005 (No. 8, 2005) provides as follows:_
-
-## Schedule 1
-
-## 242  Subsection 41(4)
-
-Omit “Reserve”, substitute “Account”.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ## Table A
 
