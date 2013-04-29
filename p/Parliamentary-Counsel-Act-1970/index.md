@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00345/Html/cb32d434-e3a0-4beb-a14f-12df1abb131d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00787/Html/b4d9c24a-7191-4dae-b633-3de4ecda9e44_files/image001.gif)
 
 # Parliamentary Counsel Act 1970
 
 **Act No. 8 of 1970 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 27 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The First Parliamentary Counsel or a Second Parliamentary Counsel may resign by writing signed and delivered to the Governor‑General.
 
-##### <a id="9"></a>9  First or Second Parliamentary Counsel not to undertake other work
+##### <a id="9"></a>9  First or Second Parliamentary Counsel not to undertake other work
 
                    The First Parliamentary Counsel or a Second Parliamentary Counsel shall not engage in practice as a barrister or solicitor or engage in paid employment outside the duties of his or her office.
 
@@ -140,15 +140,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  during any period, or during all periods, when the person holding that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person who is eligible for appointment as a Second Parliamentary Counsel to act in an office of Second Parliamentary Counsel:
 
                      (a)  during a vacancy in that office; or
 
                      (b)  during any period, or during all periods, when the person holding an office of Second Parliamentary Counsel is absent from duty or from Australia, is acting in the office of First Parliamentary Counsel or is, for any other reason, unable to perform the functions of his or her office of Second Parliamentary Counsel.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (8)  The validity of anything done (whether before or after the commencement of this section) by a person who purported to act in the office of First Parliamentary Counsel shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion to act had not arisen or had ceased.
 
 ##### <a id="16"></a>16  Staff
 
@@ -442,7 +440,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 903, 904) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 903, 904) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -665,15 +663,7 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 1988; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 15(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -701,6 +691,26 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 903  At the end of subsections 15(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 904  Subsection 15(8)
+
+Repeal the subsection.
+
+As at 27 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -717,6 +727,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
