@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00878/Html/PrimIndExciseLevies1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00754/Html/PrimIndExciseLevies1999_WD02_image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 24 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 23 November 2010
+ taking into account amendments up to Act No. 122 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3741,9 +3741,9 @@ is less than the prescribed minimum amount for that levy year, levy is not impos
 
                    In this Schedule:
 
-                    <a name="corpor"></a>**_Corporation_** means the Wine Australia Corporation established by the _Wine Australia Corporation Act 1980_.
+                    <a name="corpor"></a>**_Corporation_** means the Australian Wine and Brandy Corporation established by the _Australian Wine and Brandy Corporation Act 1980_.
 
-                    <a name="declar-winemak-organis"></a>**_declared winemakers’ organisation_** has the same meaning as in the _Wine Australia Corporation Act 1980_.
+                    <a name="declar-winemak-organis"></a>**_declared winemakers’ organisation_** has the same meaning as in the _Australian Wine and Brandy Corporation Act 1980_.
 
                     <a name="dri-grape"></a>**_dried grapes_** means grapes containing less than 60% of moisture.
 
@@ -3837,13 +3837,13 @@ amounts, or amounted, to not less than 5 tonnes.
 
              (1)  The Corporation may make recommendations to the Minister in relation to regulations to be made for the purposes of paragraph 7(1)(a) of this Schedule.
 
-             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Wine Australia Corporation Act 1980_.
+             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Australian Wine and Brandy Corporation Act 1980_.
 
              (3)  Before the Governor-General makes regulations for the purposes of paragraph 7(1)(a) of this Schedule, the Minister must take into consideration:
 
                      (a)  any relevant recommendation made to the Minister under subclause (1); and
 
-                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Wine Australia Corporation Act 1980_.
+                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Australian Wine and Brandy Corporation Act 1980_.
 
              (4)  A declared winemakers’ organisation may make recommendations to the Minister with respect to regulations to be made for the purposes of the definition of **_research amount_** in subclause 7(2).
 
@@ -4328,23 +4328,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1: 18 Nov 2010 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 15–17): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -4989,26 +4972,10 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 </tr>
 <tr>
   <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>C. 7</div>
   </td>
   <td>
     <div>am. No. 5, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 9</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
