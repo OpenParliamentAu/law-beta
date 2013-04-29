@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00567/Html/HealthInsurCommReformSeparFunct97_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00093/Html/HealthInsurCommReformSeparFunct97_image001.gif)
 
 # Health Insurance Commission (Reform and Separation of Functions) Act 1997
 
 **Act No. 159 of 1997 as amended**
 
-This compilation was prepared on 13 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -206,9 +206,7 @@ Part provides for the transfer of Medibank Private from the Health Insurance
 
 Commission to a new company (in this Part called the **_nominated company_**).
 
-Medibank Private was a part of the Commission as at the commencement of this
-
-Part.</li>
+Medibank Private was a part of the Commission as at the commencement of this Part.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•    At
 
@@ -1282,23 +1280,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 62–67): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(3) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
@@ -1311,7 +1292,7 @@ _(a)_ Subsection 2(3) of the _Health Insurance Commission (Reform and Separation
 
                          made by this Act commence immediately after the commencement of Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_.
 
- Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ commenced on 1 Janu ary 1998.
+ Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ commenced on 1 January 1998.
 
 _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ was amended by Schedule 3 (items 210–215) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
@@ -1505,35 +1486,6 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the section.
 
-As at 13 August 2010 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Health Insurance Commission (Reform and Separation of Functions) Act 1997</h9>
-
-## 62  Subsection 18(10) (definition of _goods_)
-
-## 63  Subsection 18(10) (definition of _services_)
-
-## 64  Subsection 18(10) (definition of _supply_)
-
-## 65  Subsection 20(8) (definition of _goods_)
-
-## 66  Subsection 20(8) (definition of _services_)
-
-## 67  Subsection 20(8) (definition of _supply_)
-
-As at 13 August 2010 the amendments are not incorporated in the compilation.
+As at 28 March 2008 the amendment is not incorporated in this compilation.
 
  
