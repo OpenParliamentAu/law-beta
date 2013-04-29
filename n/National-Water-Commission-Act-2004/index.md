@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2012C00252/Html/53eb20b0-70d2-4cca-9cf9-79a776fa972a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00842/Html/eba8ccd7-28ea-42cb-8849-654f2982fa01_files/image001.gif)
 
 # National Water Commission Act 2004
 
 **Act No. 156 of 2004 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
-[**Note**: This Act ceases to be in force on 30 June 2012, _see_ section 39]
+[**Note:** This Act ceases to be in force on 30 June 2012, _see_ section 39]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -286,7 +286,7 @@ Parties to the NWI include the Commonwealth
 
 ## Part 3—Constitution of the NWC
 
-##### <a id="8"></a>8  Constitution of the NWC
+##### <a id="8"></a>8  Constitution of the NWC
 
              (1)  The NWC consists of:
 
@@ -312,7 +312,7 @@ Note:          The Chair is also a Commissioner: see the defin
 
              (1)  A Commissioner is to be appointed by the Governor‑General by written instrument, on either a full‑time or part‑time basis.
 
-Note:          A Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A Commissioner can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  A Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
@@ -330,7 +330,7 @@ Note:          A Commissioner  may be reappointed: see section
 
 ##### <a id="12"></a>12  Acting appointments
 
-                   The Minister may appoint a person to act as a Commissioner:
+             (1)  The Minister may appoint a person to act as a Commissioner:
 
                      (a)  during a vacancy in the office of the Commissioner, whether or not an appointment has previously been made to the office; or
 
@@ -338,7 +338,17 @@ Note:          A Commissioner  may be reappointed: see section
 
 Note 1:       The Chair is also a Commissioner: see the definition of **_Commissioner_** in section 4.
 
-Note 2:       For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note 2:       See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="13"></a>13  Remuneration
 
@@ -466,7 +476,7 @@ Disclosure to be recorded in the minutes of the meeting
 
 ##### <a id="23"></a>23  The CEO
 
-                   There is to be a Chief Executive Officer (**_CEO_**) of the NWC.
+                   There is to be a Chief Executive Officer (**_CEO_**) of the NWC.
 
 ##### <a id="24"></a>24  Functions of the CEO
 
@@ -488,7 +498,7 @@ Disclosure to be recorded in the minutes of the meeting
 
              (1)  The CEO is to be appointed by the Minister by written instrument, on either a full‑time or part‑time basis.
 
-Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The CEO can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
@@ -496,13 +506,23 @@ Note:          The CEO  may be reappointed: see section 33AA
 
 ##### <a id="26"></a>26  Acting CEO
 
-                   The Minister may appoint a person to act as the CEO:
+             (1)  The Minister may appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of the CEO, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="27"></a>27  Remuneration
 
@@ -570,13 +590,13 @@ Additional ground: part‑time CEO
 
 ##### <a id="33"></a>33  Disclosure of interests
 
-                   The CEO must give written notice to the Minister of any direct or indirect pecuniary interest that the CEO has or acquires and that conflicts or could conflict with the proper performance of the CEO’s functions.
+                   The CEO must give written notice to the Minister of any direct or indirect pecuniary interest that the CEO has or acquires and that conflicts or could conflict with the proper performance of the CEO’s functions.
 
 ##### <a id="34"></a>34  Delegation
 
                    The CEO may, in writing, delegate any of his or her functions to an SES employee or acting SES employee of the NWC staff.
 
-Note 1:       Section 2B of the _Acts Interpretation Act 1901_ contains the definitions of **_SES employee_** and **_acting SES employee_**.
+Note 1:       Section 17AA of the _Acts Interpretation Act 1901_ contains the definitions of **_SES employee_** and **_acting SES employee_**.
 
 Note 2:       See also sections 34AA to 34A of the _Acts Interpretation Act 1901_, which contain extra rules about delegations.
 
@@ -808,7 +828,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 837–845) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 837–845) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -837,14 +857,6 @@ Remainder: Royal Assent</div>
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -853,101 +865,69 @@ Remainder: Royal Assent</div>
   <td>
     <div>am. No. 138, 2007</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 34</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 837  Subsection 11(1) (note)
+
+Repeal the note, substitute:
+
+Note:          A Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 838  Subsection 12(1)
+
+Omit “(1)”.
+
+## 839  Subsection 12(1) (note 2)
+
+Repeal the note, substitute:
+
+Note 2:       For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 840  Subsection 12(2)
+
+Repeal the subsection.
+
+## 841  Subsection 25(1) (note)
+
+Repeal the note, substitute:
+
+Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 842  Subsection 26(1)
+
+Omit “(1)”.
+
+## 843  Subsection 26(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 844  Subsection 26(2)
+
+Repeal the subsection.
+
+## 845  Section 34 (note 1)
+
+Omit “Section 17AA”, substitute “Section 2B”.
+
+As at 19 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
