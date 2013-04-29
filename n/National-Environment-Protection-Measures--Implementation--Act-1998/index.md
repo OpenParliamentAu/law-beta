@@ -1,9 +1,8 @@
 
 National Environment Protection Measures (Implementation) Act 1998
 Act No. 129 of 1998 as amended
-This compilation was prepared on 21 October 2002  taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 30 July 2001  taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -654,29 +653,11 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 339): 15 July 2001 (see Gazette 2001, No. S285) (b)
 Ss. 4‑14
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
-86, 2002
-11 Oct 2002
-Schedule 6 (items 40, 41): [see (c) and Note 2]
-—
 (a)	The National Environment Protection Measures (Implementation) Act 1998 was amended by Schedule 1 (items 104 and 105) only of the Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(c) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the latest of the following days:
 	(c)	the day on which item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 commences.
 (b)	The National Environment Protection Measures (Implementation) Act 1998 was amended by Schedule 3 (item 339) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(c)	The National Environment Protection Measures (Implementation) Act 1998 was amended by Schedule 6 (items 40 and 41) only of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (item 5) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-5.  Schedules 6 and 7
-At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
-[see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -687,17 +668,6 @@ S. 6A
 ad. No. 15, 2001
 S. 29 	
 am. No. 15, 2001
-Note 2
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
-The following amendments commence on 11 April 2003 unless proclaimed earlier:
-Schedule 6
-40  At the end of subsection 14(4)
-Add:
-	; (e)	the Proceeds of Crime Act 2002.
-41  At the end of subsection 19(4)
-Add:
-	; (e)	the Proceeds of Crime Act 2002.
-As at 21 October 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001 (No. 15, 2001)
