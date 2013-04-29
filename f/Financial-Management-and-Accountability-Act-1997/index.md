@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00073/Html/9d0d60ef-4c91-4fe7-a71c-3efc42a9f5cc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00128/Html/FinanMgmtAccount1997WD02_image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 11 January 2011
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1418,30 +1418,13 @@ Remainder: 7 Apr 2006</div>
   <td>
     <div>Sch. 1 (items 68–74)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 8: \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Management and Accountability Act 1997_ was amended by Schedule 1 (items 1–33) only of the _Financial Management Legislation Amendment Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   If this Act receives the Royal Assent before 1 May 1999, then this Act commences on 1 July 1999.
 
-_(b)_     The _Financial Management and Accountability Act 1997_ was amended by Schedule 1 (item 481) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Financial Management and Accountability Act 1997_ was amended by Schedule 1 (item 481) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -2143,114 +2126,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
-
-The following amendments commence on 17 December 2011 unless proclaimed earlier:
-
-## Schedule 8
-
-## 1  Part 2 (heading)
-
-Repeal the heading, substitute:
-
-## Part 2—General provisions about definitions
-
-## 2  Section 5 (definition of _Special Account_)
-
-Repeal the note.
-
-_Note:       The heading to section 31 is replaced by the heading “Retaining prescribed receipts”._
-
-## 3  Part 5 (heading)
-
-Repeal the heading, substitute:
-
-## Part 5—Borrowing, investment and involvement in companies
-
-## 4  At the end of Part 5
-
-Add:
-
-##### <a id="39A"></a>39A  Minister must inform Parliament of involvement in a company by the Commonwealth or a prescribed body
-
-             (1)  The Minister who has the responsibility for any of the following events must table a notice of the event in each House of the Parliament as soon as practicable after the event occurs:
-
-                     (a)  the Commonwealth or a prescribed body forms, or participates in forming, a company;
-
-                     (b)  the Commonwealth or a prescribed body acquires shares in a company (either by purchase or subscription) or disposes of shares in a company;
-
-                     (c)  the Commonwealth or a prescribed body becomes a member of a company;
-
-                     (d)  a variation occurs in the rights attaching to company shares held by the Commonwealth or a prescribed body;
-
-                     (e)  a variation occurs in rights of the Commonwealth or a prescribed body as a member of a company;
-
-                      (f)  the Commonwealth or a prescribed body ceases to be a member of a company.
-
-             (2)  The notice must be in the form, and contain the particulars, set out in the regulations.
-
-             (3)  This section does not apply to:
-
-                     (a)  an event mentioned in paragraphs (1)(a) to (f) that occurs in relation to:
-
-                              (i)  an authorised investment made under section 39; or
-
-                             (ii)  an investment made under the _Future Fund Act 2006_; or
-
-                     (b)  anything that results from the transfer to a Minister of any property that is to be dealt with as unclaimed property under Part 9.7 of the _Corporations Act 2001_; or
-
-                     (c)  a company that is conducted for the purposes of an intelligence or security agency (within the meaning given by section 85ZL of the _Crimes Act 1914_).
-
-             (4)  In this section:
-
-                    <a name="compani"></a>**_company_** includes a body of a kind prescribed by the regulations for the purposes of this section.
-
-                    <a name="prescrib-bodi"></a>**_prescribed body_** means a body corporate that is, or is included in, an Agency.
-
-## 5  After Part 6
-
-Insert:
-
-## Part 6A—Interjurisdictional agencies
-
-##### <a id="43A"></a>43A  Interjurisdictional agencies
-
-             (1)  The regulations may prescribe:
-
-                     (a)  an Agency to be an interjurisdictional agency for the purposes of this section; and
-
-                     (b)  the persons who comprise an interjurisdictional agency (including employees of a State, for example); and
-
-                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional agency.
-
-             (2)  The regulations may provide for the following:
-
-                     (a)  a Chief Executive of an interjurisdictional agency to give to a State/Territory Minister the reports, documents and information in relation to the operations of an interjurisdictional agency that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
-
-                     (b)  the types of reports, documents and information that a State/Territory Minister may require under paragraph (a);
-
-                     (c)  the circumstances in which a State/Territory Minister may require a Chief Executive to give to the State/Territory Minister the reports, documents and information mentioned in paragraph (b);
-
-                     (d)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (c).
-
-## 5A  Subsection 44(3) (definition of _proper use_)
-
-After “effective”, insert “, economical”.
-
-_Note:       The heading to section 44 is altered by omitting “efficient, effective and ethical use”, and substituting “proper use”._
-
-## 6  Section 62(1)
-
-After “make Orders”, insert “or a function under subsection 39A(1)”.
-
-## 7  Section 62A(1)
-
-After “this Act”, insert “, except a function under subsection 39A(1)”.
-
-As at 11 January 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2367,7 +2242,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2377,7 +2252,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -2419,7 +2294,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2427,7 +2302,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -2443,7 +2318,7 @@ _Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
 
 ## 13  Saving—agreements for “net appropriations”
 
-(2)       Despite the amendment made by item 8, section 31 of the _Financial Management and Accountability Act 1997_ (as in force immediately before the commencement of that item) continues to apply after that commencement in relation to agreements entered into before that commencement.
+(2)        Despite the amendment made by item 8, section 31 of the _Financial Management and Accountability Act 1997_ (as in force immediately before the commencement of that item) continues to apply after that commencement in relation to agreements entered into before that commencement.
 
 ## 14  Application—repayments by the Commonwealth
 
@@ -2483,9 +2358,9 @@ _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
 ## 68  Application—receipt and spending of public money by outsiders
 
-(1)       The amendment made by item 20 applies in relation to agreements or arrangements entered into on or after the commencement of that item.
+(1)        The amendment made by item 20 applies in relation to agreements or arrangements entered into on or after the commencement of that item.
 
-(2)       Subsection 12(2) of the _Financial Management and Accountability Act 1997_(as inserted by this Act) applies in relation to agreements or arrangements entered into on or after the commencement of this item.
+(2)        Subsection 12(2) of the _Financial Management and Accountability Act 1997_(as inserted by this Act) applies in relation to agreements or arrangements entered into on or after the commencement of this item.
 
 ## 69  Application—drawing rights
 
@@ -2495,19 +2370,19 @@ The amendments made by items 32 and 33 apply in relation to drawing rights iss
 
 Despite the repeal of section 35 of the _Financial Management and Accountability Act 1997_ made by this Schedule, that section (as in force immediately before the commencement of item 39) continues to apply on and after that commencement in relation to payments that were authorised before that commencement.
 
-## 71  Transitional—investment of public money
+## 71  Transitional—investment of public money
 
-(1)       If the corporation referred to in subsection 39(7) of the _Financial Management and Accountability Act 1997_(as in force immediately before the commencement of item 44) held an investment under section 39 of that Act immediately before the commencement of that item, the investment is taken, on and after the commencement of that item, to be held by the Finance Minister on behalf of the Commonwealth.
+(1)        If the corporation referred to in subsection 39(7) of the _Financial Management and Accountability Act 1997_(as in force immediately before the commencement of item 44) held an investment under section 39 of that Act immediately before the commencement of that item, the investment is taken, on and after the commencement of that item, to be held by the Finance Minister on behalf of the Commonwealth.
 
-(2)       If the corporation referred to in subsection 39(8) of the _Financial Management and Accountability Act 1997_(as in force immediately before the commencement of item 44) held an investment under section 39 of that Act immediately before the commencement of that item, the investment is taken, on and after the commencement of that item, to be held by the Treasurer on behalf of the Commonwealth.
+(2)        If the corporation referred to in subsection 39(8) of the _Financial Management and Accountability Act 1997_(as in force immediately before the commencement of item 44) held an investment under section 39 of that Act immediately before the commencement of that item, the investment is taken, on and after the commencement of that item, to be held by the Treasurer on behalf of the Commonwealth.
 
 ## 72  Transitional—audit committees
 
-(1)       This item applies to an audit committee established in accordance with section 46 of the _Financial Management and Accountability Act 1997_ before the commencement of this item and in existence immediately before that commencement.
+(1)        This item applies to an audit committee established in accordance with section 46 of the _Financial Management and Accountability Act 1997_ before the commencement of this item and in existence immediately before that commencement.
 
-(2)       The audit committee continues in existence on and after that commencement for the purposes of section 46 of that Act, as amended by this Act.
+(2)        The audit committee continues in existence on and after that commencement for the purposes of section 46 of that Act, as amended by this Act.
 
-(3)       However, if the audit committee does not comply with section 46 of that Act, as amended by this Act, the Chief Executive concerned must take whatever steps are necessary to ensure that the committee does so comply.
+(3)        However, if the audit committee does not comply with section 46 of that Act, as amended by this Act, the Chief Executive concerned must take whatever steps are necessary to ensure that the committee does so comply.
 
 ## 73  Saving—provision of information
 
