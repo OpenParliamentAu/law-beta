@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 6 July 2010
+ taking into account amendments up to Act No. 92 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -68,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable**
 
-[9](#9).            Overview of rules about non‑payability
+[9](#9).            Overview of rules about non-payability
 
 [9A](#9A).         Farm household support not payable if exceptional circumstances relief payment is payable
 
@@ -76,7 +76,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Assets test
 
-[11](#11).          Full‑time students
+[11](#11).          Full-time students
 
 [12](#12).          Multiple entitlement exclusion
 
@@ -200,15 +200,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52](#52).          Termination by the Secretary—failure to comply with an activity plan
 
-**Part 9A—Farm help re‑establishment grant scheme**
+**Part 9A—Farm help re-establishment grant scheme**
 
-[52A](#52A).       Farm help re‑establishment grant scheme
+[52A](#52A).       Farm help re-establishment grant scheme
 
 [52AA](#52AA).    Where there is a return to farming
 
-[52AB](#52AB).    Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur
+[52AB](#52AB).    Secretary may require re-establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur
 
-[52AC](#52AC).    Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming
+[52AC](#52AC).    Secretary may require re-establishment grant recipient to give a statement about whether returned to farming
 
 **Part 9B—Farm help advice and training scheme**
 
@@ -252,7 +252,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## An Act relating to:
 
-##     (a)   the provision of income support and advice to farmers who may not have a long‑term productive, sustainable and profitable future in the sector; and
+##     (a)   the provision of income support and advice to farmers who may not have a long-term productive, sustainable and profitable future in the sector; and
 
 ##     (b)   the provision of financial incentives to farmers to leave farming; and
 
@@ -330,7 +330,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="dairi-exit-payment"></a>**_dairy exit payment_** means a payment under the DEP scheme.
 
-                    <a name="dairi-type-grant"></a>**_dairy‑type grant_** means a re‑establishment grant designated under the farm help re‑establishment grant scheme as a dairy‑type grant.
+                    <a name="dairi-type-grant"></a>**_dairy-type grant_** means a re-establishment grant designated under the farm help re-establishment grant scheme as a dairy-type grant.
 
                     <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
@@ -370,7 +370,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="farm-help-advic-train-scheme"></a>**_farm help advice and training scheme_** means the scheme referred to in section 52B.
 
-                    <a name="farm-help-re-establish-grant-scheme"></a>**_farm help re‑establishment grant scheme_** means the scheme referred to in section 52A.
+                    <a name="farm-help-re-establish-grant-scheme"></a>**_farm help re-establishment grant scheme_** means the scheme referred to in section 52A.
 
                     <a name="farm-help-scheme-payment-commenc-dai"></a>**_farm help scheme payment commencement day_** is the day on which item 2 of Schedule 1 to the _Farm Household Support Amendment Act 2000_ commenced.
 
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  payments of farm help income support;
 
-                     (b)  payments of re‑establishment grants;
+                     (b)  payments of re-establishment grants;
 
                      (c)  payments of farm help advice and training grants.
 
@@ -402,13 +402,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Note:          The expression is defined for the purposes of that section in section 19B of that Act.
 
-                    <a name="off-farm-salari-wage"></a>**_off‑farm salary and wages_** has the meaning given by subsection 24A(7).
+                    <a name="off-farm-salari-wage"></a>**_off-farm salary and wages_** has the meaning given by subsection 24A(7).
 
                     <a name="maximum-fortnightli-rate"></a>**_maximum fortnightly rate_**, in relation to a person, means the rate determined by the Secretary under Division 1 of Part 4 to be the maximum fortnightly rate at which farm household support may be paid to the person.
 
                     <a name="ra-scheme"></a>**_RAS scheme_** means a scheme of assistance established and operated by a State or Territory under the agreement between the Commonwealth and that State or Territory executed on behalf of the Commonwealth under section 4 of the _States Grants (Rural Adjustment) Act 1988_.
 
-                    <a name="re-establish-grant"></a>**_re‑establishment grant_** means a grant under the farm help re‑establishment grant scheme.
+                    <a name="re-establish-grant"></a>**_re-establishment grant_** means a grant under the farm help re-establishment grant scheme.
 
                     <a name="sale-farm-enterpris"></a>**_sale of a farm enterprise_** means a transaction as a result of which the rights or interests of a person in:
 
@@ -426,11 +426,11 @@ are transferred to another person.
 
                     <a name="small-busi"></a>**_small business_** means a business with less than 100 employees.
 
-Note:          Subsection (3) sets out how this is to be worked out where there are part‑time employees.
+Note:          Subsection (3) sets out how this is to be worked out where there are part-time employees.
 
                     <a name="youth-train-allow"></a>**_youth training allowance_** means a youth training allowance under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998.
 
-             (3)  In counting employees for the purposes of the definition of **_small business_** in subsection (2), take part‑time employees into account as an appropriate fraction of a full‑time equivalent.
+             (3)  In counting employees for the purposes of the definition of **_small business_** in subsection (2), take part-time employees into account as an appropriate fraction of a full-time equivalent.
 
 ##### <a id="4"></a>4  Certificate of inability to obtain finance
 
@@ -464,7 +464,7 @@ Note:          Subsection (3) sets out how this is to be wor
 
                      (a)  in relation to farm household support—the Secretary of the Department of Primary Industries and Energy; and
 
-                     (b)  in relation to  dairy exit payments, farm help income support or re‑establishment grants—the Secretary of the Department of Social Security.
+                     (b)  in relation to  dairy exit payments, farm help income support or re-establishment grants—the Secretary of the Department of Social Security.
 
 ##### <a id="5"></a>5  Severe financial hardship
 
@@ -502,7 +502,7 @@ Object of farm help income support
 
                      (b)  are unlikely to obtain a loan from a finance institution;
 
-while they take action to improve their long term financial situation by improving the financial performance of their farm enterprise, finding alternative sources of income or re‑establishing themselves outside farming.
+while they take action to improve their long term financial situation by improving the financial performance of their farm enterprise, finding alternative sources of income or re-establishing themselves outside farming.
 
 ##### <a id="6AA"></a>6AA  Application of the _Criminal Code_
 
@@ -722,7 +722,7 @@ Minister’s determination
 
                              (ii)  secure alternative sources of income;
 
-                            (iii)  re‑establish himself or herself outside farming.
+                            (iii)  re-establish himself or herself outside farming.
 
           (1A)  A person is qualified for farm help income support even though the person does not satisfy subparagraph (1)(c)(ii), if the Secretary determines in writing that the person’s gross income from the farm enterprise during the qualifying period is significantly  diminished because of:
 
@@ -782,7 +782,7 @@ Note:          Some examples of cases in which the Secretary m
 
 ### Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable
 
-##### <a id="9"></a>9  Overview of rules about non‑payability
+##### <a id="9"></a>9  Overview of rules about non-payability
 
              (1)  Farm household support is not payable to a person for a period during which the person is qualified for farm household support if during that period:
 
@@ -790,7 +790,7 @@ Note:          Some examples of cases in which the Secretary m
 
                      (a)  no determination by the Secretary that the value of the person’s assets does not exceed the person’s assets value limit has effect (see section 10); or
 
-                     (b)  the person is a full‑time student (see section 11); or
+                     (b)  the person is a full-time student (see section 11); or
 
                      (c)  another support payment is being paid to the person (see section 12); or
 
@@ -800,7 +800,7 @@ Note:          Some examples of cases in which the Secretary m
 
                      (a)  no determination by the Secretary that the value of the person’s assets does not exceed the person’s assets value limit has effect (see section 10); or
 
-                     (b)  the person is a full‑time student (see section 11); or
+                     (b)  the person is a full-time student (see section 11); or
 
                      (c)  another support payment is being paid to the person (see section 12); or
 
@@ -812,7 +812,7 @@ Note:          Some examples of cases in which the Secretary m
 
                      (b)  no determination by the Secretary that the value of the person’s assets does not exceed the person’s asset value limit has effect (see section 10); or
 
-                     (c)  the person is a full‑time student (see section 11); or
+                     (c)  the person is a full-time student (see section 11); or
 
                      (d)  another support payment is being paid to the person (see section 12); or
 
@@ -866,9 +866,9 @@ Note:          See section 50 for automatic termination of f
 
                              (ii)  if subparagraph (i) does not apply—at the end of 6 months from the operative day.
 
-##### <a id="11"></a>11  Full‑time students
+##### <a id="11"></a>11  Full-time students
 
-             (1)  Subject to subsection (2), farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person who is enrolled in a full‑time course of education or of vocational training for the period that:
+             (1)  Subject to subsection (2), farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person who is enrolled in a full-time course of education or of vocational training for the period that:
 
                      (a)  starts when the person starts the course; and
 
@@ -882,7 +882,7 @@ Note:          See section 50 for automatic termination of f
 
                                         (A)  wishes to withdraw from the course; or
 
-                                        (B)  wishes to withdraw from a number of subjects so that the person’s course will no longer be a full‑time course; and
+                                        (B)  wishes to withdraw from a number of subjects so that the person’s course will no longer be a full-time course; and
 
                      (c)  includes periods of vacation.
 
@@ -924,13 +924,13 @@ unless:
 
              (5)  Farm household support, exceptional circumstances relief payment or farm help income support is not payable to a person for a period if a payment has been or may be made in respect of the person for that period under:
 
-                     (a)  a prescribed educational scheme other than the ABSTUDY Tertiary Scheme to the extent that it applies to part‑time students; or
+                     (a)  a prescribed educational scheme other than the ABSTUDY Tertiary Scheme to the extent that it applies to part-time students; or
 
                      (b)  the scheme to provide an allowance known as the Maintenance Allowance for Refugees.
 
              (6)  If:
 
-                     (a)  a person enrols in a full‑time course of education; and
+                     (a)  a person enrols in a full-time course of education; and
 
                      (b)  a payment under a scheme referred to in subsection (5) may be made in respect of the person;
 
@@ -976,7 +976,7 @@ the claim is taken not to have been made.
 
                      (b)  be in accordance with a form approved in writing by:
 
-                              (i)  in the case of a claim for farm household support—the Secretary of the Department of Primary Industries and Energy; or
+                              (i)  in the case of a claim for farm household support—the Secretary to the Department of Primary Industries and Energy; or
 
                              (ii)  in the case of a claim for exceptional circumstances relief payment or farm help income support—the Secretary.
 
@@ -1180,7 +1180,7 @@ may, at any time, declare in writing the fortnightly rate at which the person wi
 
              (3)  In calculating a rate referred to in subsection (1), exempt livestock proceeds are to be disregarded.
 
-$20,000 in off‑farm salary and wages disregarded
+$20,000 in off-farm salary and wages disregarded
 
              (4)  For the purposes of calculating a rate referred to in subsection (1) for a person, for a fortnight all or part of which falls during the period:
 
@@ -1188,37 +1188,37 @@ $20,000 in off‑farm salary and wages disregarded
 
                      (b)  ending at the end of 30 June 2009, or, if a later day is prescribed, at the end of that later day (the **_closing day_**);
 
-disregard the off‑farm salary and wages of the person, or if the person is a member of a couple, the off‑farm salary and wages of the person and the person’s partner, in the amount worked out under subsections (5) and (6).
+disregard the off-farm salary and wages of the person, or if the person is a member of a couple, the off-farm salary and wages of the person and the person’s partner, in the amount worked out under subsections (5) and (6).
 
              (5)  Except in a case to which subsection (6) applies, for a fortnight which falls in whole or in part in a particular financial year, disregard the lesser of:
 
-                     (a)  the total amount of off‑farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, for the fortnight; and
+                     (a)  the total amount of off-farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, for the fortnight; and
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
-                            **_amount previously disregarded in that financial year_** means the total amount of off‑farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, already disregarded in calculating a rate referred to in subsection (1) for the person for fortnights that fall in whole or in part in that financial year, because of a previous application, or previous applications, of this subsection and subsection (4).
+                            **_amount previously disregarded in that financial year_** means the total amount of off-farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, already disregarded in calculating a rate referred to in subsection (1) for the person for fortnights that fall in whole or in part in that financial year, because of a previous application, or previous applications, of this subsection and subsection (4).
 
                             **_number of days remaining in that financial year_** means the number of days in the period beginning at the start of the fortnight, and ending at the end of 30 June in that financial year.
 
              (6)  If the closing day is not 30 June, then for a fortnight which falls in whole or in part in the period beginning at the start of the immediately preceding 1 July and ending at the end of the closing day, disregard the lesser of:
 
-                     (a)  the total amount of off‑farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, for the fortnight; and
+                     (a)  the total amount of off-farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, for the fortnight; and
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
-                            **_amount previously disregarded in the period_** means the total amount of off‑farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, already disregarded in calculating a rate referred to in subsection (1) for the person for fortnights that fall in whole or in part in the period, because of a previous application, or previous applications, of this subsection and subsection (4).
+                            **_amount previously disregarded in the period_** means the total amount of off-farm salary and wages of the person or, if the person is a member of a couple, of the person and the person’s partner, already disregarded in calculating a rate referred to in subsection (1) for the person for fortnights that fall in whole or in part in the period, because of a previous application, or previous applications, of this subsection and subsection (4).
 
                             **_number of days remaining in the period_** means the number of days in the period beginning at the start of the fortnight, and ending at the end of the closing day.
 
-             (7)  A person’s **_off‑farm salary and wages_** are salary and wages that are not earned from work that is in any way related to a farm enterprise in respect of which the person or, where the person is a member of a couple, the person’s partner, is a farmer.
+             (7)  A person’s **_off-farm salary and wages_** are salary and wages that are not earned from work that is in any way related to a farm enterprise in respect of which the person or, where the person is a member of a couple, the person’s partner, is a farmer.
 
 Farmers hardship bonus disregarded
 
@@ -1280,9 +1280,9 @@ $20,000 in salary and wages from other sources disregarded—whole financial yea
 
              (5)  For the purposes of calculating a rate referred to in subsection (1) for a person, for a fortnight all or part of which falls during:
 
-                     (b)  the 2007‑08 financial year; or
+                     (b)  the 2007-08 financial year; or
 
-                   (ba)  the 2008‑09 financial year; or
+                    (ba)  the 2008-09 financial year; or
 
                      (c)  if 30 June in a later year is prescribed as the closing day for the purposes of this section, a later financial year that ends at the end of that closing day;
 
@@ -1294,7 +1294,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
@@ -1318,7 +1318,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
@@ -1408,7 +1408,7 @@ Certain superannuation contributions disregarded
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1416,7 +1416,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1426,7 +1426,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1514,7 +1514,7 @@ the amount is to be increased by 0.5 cent.
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -1630,9 +1630,9 @@ farm household support, exceptional circumstances relief payment or farm help in
 
              (2)  If a person is receiving farm household support, exceptional circumstances relief payment or farm help income support, and the person:
 
-                     (a)  starts a full‑time course of education or of vocational training; or
+                     (a)  starts a full-time course of education or of vocational training; or
 
-                     (b)  resumes study on a deferred full‑time course of education or of vocational training;
+                     (b)  resumes study on a deferred full-time course of education or of vocational training;
 
 farm household support, exceptional circumstances relief payment or farm help income support, as the case requires, ceases to be payable to the person immediately before the day on which the person starts, or resumes study on, the course.
 
@@ -1660,7 +1660,7 @@ farm household support, exceptional circumstances relief payment or farm help in
 
 ##### <a id="45"></a>45  Automatic termination—recipient not complying with section 41 notification obligations
 
-             If:
+              If:
 
                      (a)  a person who is receiving farm household support, exceptional circumstances relief payment or farm help income support is given a notice under section 41; and
 
@@ -1766,9 +1766,9 @@ farm help income support ceases to be payable immediately after the end of that 
 
              (2)  Farm help income support ceases to be payable on the day on which the determination is made.
 
-## Part 9A—Farm help re‑establishment grant scheme
+## Part 9A—Farm help re-establishment grant scheme
 
-##### <a id="52A"></a>52A  Farm help re‑establishment grant scheme
+##### <a id="52A"></a>52A  Farm help re-establishment grant scheme
 
              (1)  The Minister may, by written instrument:
 
@@ -1780,11 +1780,11 @@ farm help income support ceases to be payable immediately after the end of that 
 
                      (b)  provide for the implementation and regulation of the scheme.
 
-On and after the farm help scheme payment commencement day, the scheme is to be known as the **_farm help re‑establishment grant scheme_** and a grant is to be known as a **_re‑establishment grant_**.
+On and after the farm help scheme payment commencement day, the scheme is to be known as the **_farm help re-establishment grant scheme_** and a grant is to be known as a **_re-establishment grant_**.
 
              (2)  Without limiting subsection (1), the scheme may deal with:
 
-                     (a)  the circumstances in which people are qualified to apply for re‑establishment grants; and
+                     (a)  the circumstances in which people are qualified to apply for re-establishment grants; and
 
                      (b)  the procedure for applying for a grant; and
 
@@ -1794,13 +1794,13 @@ On and after the farm help scheme payment commencement day, the scheme is to be 
 
                      (e)  the method for paying a grant.
 
-             (3)  The scheme may provide for the Secretary to direct a person who has applied for a re‑establishment grant to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
+             (3)  The scheme may provide for the Secretary to direct a person who has applied for a re-establishment grant to obtain advice as specified in the direction. The direction must be consistent with the guidelines contained in the farm help advice and training scheme (see paragraph 52B(3)(a)).
 
              (4)  If the Secretary gives a direction referred to in subsection (3), the Secretary must arrange for the provision of assistance to the person under the farm help advice and training scheme (see paragraph 52B(3)(b)) for the purpose of complying with the direction.
 
-             (5)  The consequences for the payability of a re‑establishment grant to a person who does not comply with a direction referred to in subsection (3) are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
+             (5)  The consequences for the payability of a re-establishment grant to a person who does not comply with a direction referred to in subsection (3) are as determined in accordance with the provisions of the farm help advice and training scheme referred to in paragraph 52B(3)(c).
 
-          (5A)  The scheme may provide for the disclosure of dairy‑type grant information:
+          (5A)  The scheme may provide for the disclosure of dairy-type grant information:
 
                      (a)  to the Dairy Adjustment Authority in connection with the administration of:
 
@@ -1814,7 +1814,7 @@ On and after the farm help scheme payment commencement day, the scheme is to be 
 
           (5B)  In subsection (5A):
 
-                    <a name="dairi-type-grant-inform"></a>**_dairy‑type grant information_** means information disclosed or obtained for the purposes of the administration of dairy‑type grants.
+                    <a name="dairi-type-grant-inform"></a>**_dairy-type grant information_** means information disclosed or obtained for the purposes of the administration of dairy-type grants.
 
              (6)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -1822,15 +1822,15 @@ On and after the farm help scheme payment commencement day, the scheme is to be 
 
                    If:
 
-                     (a)  a person has received a farm help re‑establishment grant; and
+                     (a)  a person has received a farm help re-establishment grant; and
 
                      (b)  the person, or the person’s partner, acquires a right or interest in a farm enterprise within 5 years after receiving the grant;
 
 the Commonwealth may recover an amount equal to the grant as a debt due to the Commonwealth.
 
-##### <a id="52AB"></a>52AB  Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur
+##### <a id="52AB"></a>52AB  Secretary may require re-establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur
 
-             (1)  The Secretary may give a person to whom a farm help re‑establishment grant has been paid a notice that requires the person to inform the Department if a specified event or change of circumstances occurs.
+             (1)  The Secretary may give a person to whom a farm help re-establishment grant has been paid a notice that requires the person to inform the Department if a specified event or change of circumstances occurs.
 
              (2)  An event or change of circumstances is not to be specified in a notice under subsection (1) unless:
 
@@ -1862,9 +1862,9 @@ the Commonwealth may recover an amount equal to the grant as a debt due to the C
 
                      (b)  the day on which the person becomes aware that the event or change of circumstances is likely to occur.
 
-##### <a id="52AC"></a>52AC  Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming
+##### <a id="52AC"></a>52AC  Secretary may require re-establishment grant recipient to give a statement about whether returned to farming
 
-             (1)  The Secretary may give a person to whom a farm help re‑establishment grant has been paid a notice that requires the person to give the Department a statement about whether the person, or the person’s partner, has acquired a right or interest in a farm enterprise within 5 years after receiving the grant.
+             (1)  The Secretary may give a person to whom a farm help re-establishment grant has been paid a notice that requires the person to give the Department a statement about whether the person, or the person’s partner, has acquired a right or interest in a farm enterprise within 5 years after receiving the grant.
 
              (2)  A person must not refuse or fail to comply with a notice under subsection (1).
 
@@ -1892,7 +1892,7 @@ the Commonwealth may recover an amount equal to the grant as a debt due to the C
 
                      (a)  formulate a scheme under which farmers and their families are provided with assistance for the purpose of doing one or more of the following:
 
-                              (i)  obtaining advice to assist farmers to assess their long‑term prospects;
+                              (i)  obtaining advice to assist farmers to assess their long-term prospects;
 
                              (ii)  obtaining training;
 
@@ -1920,7 +1920,7 @@ The scheme is to be known as the **_farm help advice and training scheme_** and 
 
              (3)  The scheme must:
 
-                     (a)  set out guidelines for the giving of directions under subsection 13A(1), or under the farm help re‑establishment grants scheme, requiring people to obtain advice; and
+                     (a)  set out guidelines for the giving of directions under subsection 13A(1), or under the farm help re-establishment grants scheme, requiring people to obtain advice; and
 
                      (b)  provide for assistance to people for the purpose of complying with such directions; and
 
@@ -1996,7 +1996,7 @@ The scheme is to be known as the **_DEP scheme_** and a payment is to be known a
 
              (1)  The purpose of this section is to set out how other laws apply in relation to:
 
-                     (a)  payments under the pilot scheme, known as the Farm Family Support Scheme, to provide support for farmers facing hardship to meet their household expenses and to help them assess the long‑term future of their farm enterprises; and
+                     (a)  payments under the pilot scheme, known as the Farm Family Support Scheme, to provide support for farmers facing hardship to meet their household expenses and to help them assess the long-term future of their farm enterprises; and
 
                      (b)  things done in connection with that scheme.
 
@@ -2006,11 +2006,11 @@ The scheme is to be known as the **_DEP scheme_** and a payment is to be known a
 
                      (b)  sections 79A and 160AAA of the _Income Tax Assessment Act 1936_;
 
-                     (c)  sections 53‑10 and 53‑15 of the _Income Tax Assessment Act 1997_;
+                     (c)  sections 53-10 and 53-15 of the _Income Tax Assessment Act 1997_;
 
                      (d)  section 64 of the _Small Superannuation Accounts Act 1995_;
 
-                     (e)  sections 547B, 573A and 1061ZK, points 1067G‑F3 and 1067G‑G3 of the Youth Allowance Rate Calculator in Part 3.5, and sections 1130B, 1131, 1227A and 1231A of the _Social Security Act 1991_;
+                     (e)  sections 547B, 573A and 1061ZK, points 1067G-F3 and 1067G-G3 of the Youth Allowance Rate Calculator in Part 3.5, and sections 1130B, 1131, 1227A and 1231A of the _Social Security Act 1991_;
 
                       (f)  section 106B of the _Social Security (Administration) Act 1999_;
 
@@ -2034,13 +2034,13 @@ Example:    Paragraph (g)—sections 84, 84A, 92 and 92A of the _A New
 
              (1)  The Secretary may by signed instrument delegate to an officer all or any of his or her powers under this Act.
 
-             (2)  The Secretary of the Department of Primary Industries and Energy may, by signed writing, delegate to an officer of that Department all or any of his or her powers under this Act.
+             (2)  The Secretary to the Department of Primary Industries and Energy may, by signed writing, delegate to an officer of that Department all or any of his or her powers under this Act.
 
              (3)  The Secretary may, in accordance with service arrangements, delegate in writing all or any of his or her powers under this Act to the CEO or an employee of the Agency.
 
              (4)  In this section:
 
-                    <a name="act"></a>**_this Act_** includes the DEP scheme, the farm help re‑establishment grant scheme and the farm help advice and training scheme.
+                    <a name="act"></a>**_this Act_** includes the DEP scheme, the farm help re-establishment grant scheme and the farm help advice and training scheme.
 
 ##### <a id="53A"></a>53A  Delegation by Secretary: references to the Secretary and the Department
 
@@ -2072,7 +2072,7 @@ as the case requires.
 
              (8)  In this section:
 
-                    <a name="act"></a>**_this Act_** includes the DEP scheme, the farm help re‑establishment grant scheme and the farm help advice and training scheme.
+                    <a name="act"></a>**_this Act_** includes the DEP scheme, the farm help re-establishment grant scheme and the farm help advice and training scheme.
 
 ##### <a id="54"></a>54  General power to obtain information
 
@@ -2168,9 +2168,9 @@ the court order does not apply to the saved amount (if any) in the account.
 
 _Method statement_
 
-Step 1.   Work out the total amount payable to the person in respect of the relevant payment type that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
+Step 1.    Work out the total amount payable to the person in respect of the relevant payment type that has been paid to the credit of the account during the 4 week period immediately before the court order came into force.
 
-Step 2.   Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the saved amount.
+Step 2.    Subtract from that amount the total amount withdrawn from the account during the same 4 week period: the result is the saved amount.
 
 * * *
 
@@ -2204,7 +2204,7 @@ the amount so paid may be recovered by the Commonwealth as a debt due to the Com
 
              (2)  If:
 
-                     (a)  an amount purporting to be an amount of re‑establishment grant payable under the farm help re‑establishment grant scheme (other than a dairy‑type grant) has been paid to a person; and
+                     (a)  an amount purporting to be an amount of re-establishment grant payable under the farm help re-establishment grant scheme (other than a dairy-type grant) has been paid to a person; and
 
                      (a)  some or all of the amount was not payable to the person under the scheme;
 
@@ -2212,7 +2212,7 @@ the amount so paid may be recovered by the Commonwealth as a debt due to the Com
 
           (2A)  If:
 
-                     (a)  an amount purporting to be an amount of dairy‑type grant has been paid to a person; and
+                     (a)  an amount purporting to be an amount of dairy-type grant has been paid to a person; and
 
                      (b)  some or all of the amount was not payable to the person;
 
@@ -2230,21 +2230,21 @@ Note:          A debt due to the Commonwealth under this secti
 
 ##### <a id="57"></a>57  Source of funds for payments
 
-             (1)  Payments of farm household support payable in the financial year ending 30 June 1993 are to be made out of money appropriated under Item 4 of Subdivision 2 of Division 931 in Schedule 4 to the _Appropriation Act (No. 2) 1992‑93_ and so much of that money as is required for making those payments is taken to have been appropriated accordingly.
+             (1)  Payments of farm household support payable in the financial year ending 30 June 1993 are to be made out of money appropriated under Item 4 of Subdivision 2 of Division 931 in Schedule 4 to the _Appropriation Act (No. 2) 1992-93_ and so much of that money as is required for making those payments is taken to have been appropriated accordingly.
 
              (2)  Payments of farm household support payable in any subsequent financial year are to be made out of money appropriated by the Parliament for that purpose.
 
              (3)  Exceptional circumstances relief payment is to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-             (4)  Farm help scheme payments (other than dairy‑type grants) are to be made out of money appropriated by the Parliament for the purpose of such payments.
+             (4)  Farm help scheme payments (other than dairy-type grants) are to be made out of money appropriated by the Parliament for the purpose of such payments.
 
-             (5)  Dairy exit payments and dairy‑type grants are to be made out of the Dairy Structural Adjustment Fund.
+             (5)  Dairy exit payments and dairy-type grants are to be made out of the Dairy Structural Adjustment Fund.
 
 ##### <a id="57A"></a>57A  Payments to RAS authorities—reimbursement of costs of issuing drought exceptional circumstances certificates
 
              (1)  This section applies if a RAS authority incurs costs (whether before or after the commencement of this section) in connection with the issue of drought exceptional circumstances certificates.
 
-             (2)  The Secretary of the Department of Primary Industries and Energy may authorise payments to the RAS authority by way of reimbursement of those costs.
+             (2)  The Secretary to the Department of Primary Industries and Energy may authorise payments to the RAS authority by way of reimbursement of those costs.
 
              (3)  A payment under this section is to be made out of money appropriated by the Parliament for the purposes of this section.
 
@@ -2254,7 +2254,7 @@ Note:          A debt due to the Commonwealth under this secti
 
 ##### <a id="58"></a>58  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing all matters:
+             (1)  The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2272,7 +2272,7 @@ Note:          A debt due to the Commonwealth under this secti
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
- For access to the wording of the amendments made by this Part, see Act No. 241, 1992.
+ For access to the wording of the amendments made by this Part, _see_ Act No. 241, 1992.
 
 * * *
 
@@ -2388,7 +2388,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
     <div>164, 1994</div>
@@ -3102,7 +3102,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -3185,23 +3185,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 7 (items 59, 60): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3215,13 +3198,13 @@ _(a)_     The _Farm Household Support Act 1992_ was amended by Part 5 
 
                  (6)   Subsections 40(2) and 46(1), paragraph 57(a) and Part 5 commence on 20 September 1994, immediately after the commencement of Part 3 of the _Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994_.
 
-_(b)_     The _Farm Household Support Act 1992_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsections 2(1) and (4) of which provide as follows:
+_(b)_    The _Farm Household Support Act 1992_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsections 2(1) and (4) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (4)   The amendment made by this Act to section 52 of the _Farm Household Support Act 1992_ commences on 20 September 1994.
 
-_(c)_     The _Farm Household Support Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(c)_     The _Farm Household Support Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
@@ -3277,7 +3260,7 @@ _(o)_ The _Farm Household Support Act 1992_ was amended by Schedule 7 (items�
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
 
 _(p)_ The _Farm Household Support Act 1992_ was amended by Schedule 6 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
@@ -4124,18 +4107,10 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
+    <div>Ss. 14, 15</div>
   </td>
   <td>
     <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5345,7 +5320,7 @@ Div. 1 of Part 4</div>
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003; No. 5, 2011</div>
+    <div>am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
@@ -5462,14 +5437,6 @@ Div. 1 of Part 4</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 59</div>
   </td>
   <td>
@@ -5506,9 +5473,9 @@ In this Schedule:
 
 ## 2  Continued effect of drought exceptional circumstances certificates and continued payment of relief pursuant to such certificates
 
-(1)       A drought exceptional circumstances certificate referred to in section 8A of the previous FHS Act that was in force immediately before the commencement of this Act has effect, for the remainder of the period specified in it, as if it were an exceptional circumstances certificate referred to in section 8A of the amended FHS Act.
+(1)        A drought exceptional circumstances certificate referred to in section 8A of the previous FHS Act that was in force immediately before the commencement of this Act has effect, for the remainder of the period specified in it, as if it were an exceptional circumstances certificate referred to in section 8A of the amended FHS Act.
 
-(2)       Subject to the provisions of the amended FHS Act, exceptional circumstances relief payment is to be paid to the person to whom the certificate was issued for the remainder of the period specified in the certificate as if the person’s claim for drought relief payment were a claim for exceptional circumstances relief payment.
+(2)        Subject to the provisions of the amended FHS Act, exceptional circumstances relief payment is to be paid to the person to whom the certificate was issued for the remainder of the period specified in the certificate as if the person’s claim for drought relief payment were a claim for exceptional circumstances relief payment.
 
 ## 3  Treatment of undetermined claims for drought relief
 
@@ -5534,9 +5501,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -5546,9 +5513,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -5556,9 +5523,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5568,9 +5535,9 @@ _Farm Household Support Amendment Act 2000 (No. 144, 2000)_
 
 ## 1  Restart beneficiaries automatically entitled to farm help
 
-(1)       A person who was receiving restart income support immediately before the farm help scheme payment commencement day is, on and after that day, entitled to receive farm help income support without making a claim under Part 3 of the amended FHS Act.
+(1)        A person who was receiving restart income support immediately before the farm help scheme payment commencement day is, on and after that day, entitled to receive farm help income support without making a claim under Part 3 of the amended FHS Act.
 
-(2)       Farm help income support is then payable to the person subject to the provisions of the amended FHS Act.
+(2)        Farm help income support is then payable to the person subject to the provisions of the amended FHS Act.
 
 ## 2  Payments of restart income support taken to be farm help income support
 
@@ -5578,7 +5545,7 @@ A payment of restart income support made before the farm help scheme payment com
 
                      (a)  sections 8D and 8E of the amended FHS Act;
 
-                     (b)  the farm help re‑establishment grant scheme;
+                     (b)  the farm help re-establishment grant scheme;
 
                      (c)  the farm help advice scheme;
 
@@ -5586,11 +5553,11 @@ A payment of restart income support made before the farm help scheme payment com
 
 ## 3  Effect of directions etc.
 
-If, before the farm help scheme payment commencement day, the Secretary gave a direction to a person under section 13A of the _Farm Household Support Act 1992_, or under the restart re‑establishment grant scheme, section 13A and section 52A of the amended FHS Act and the farm help advice scheme apply, after that day, as if the direction had been given to the person under section 13A of the amended FHS Act, or under the farm help re‑establishment grant scheme, as the case requires.
+If, before the farm help scheme payment commencement day, the Secretary gave a direction to a person under section 13A of the _Farm Household Support Act 1992_, or under the restart re-establishment grant scheme, section 13A and section 52A of the amended FHS Act and the farm help advice scheme apply, after that day, as if the direction had been given to the person under section 13A of the amended FHS Act, or under the farm help re-establishment grant scheme, as the case requires.
 
 ## 4  Claims made but not determined before farm help scheme payment commencement day
 
-A claim for restart income support, or an application or request for a restart re‑establishment grant made, but not determined, before the farm help scheme payment commencement day is to be treated, after the farm help scheme payment commencement day, as if it were a claim for farm help income support, or an application or request for a farm help re‑establishment grant, as the case requires.
+A claim for restart income support, or an application or request for a restart re-establishment grant made, but not determined, before the farm help scheme payment commencement day is to be treated, after the farm help scheme payment commencement day, as if it were a claim for farm help income support, or an application or request for a farm help re-establishment grant, as the case requires.
 
 ## 5  References to decisions in section 20
 
@@ -5608,7 +5575,7 @@ Subsections 53(4) and 53A(8) of the _Farm Household Support Act 1992_ are taken,
 
                      (b)  ending on the farm help scheme payment commencement day;
 
-included a reference to the restart advice scheme and the restart re‑establishment grant scheme (within the meaning of the _Farm Household Support Act 1992_ as in force immediately before the farm help scheme payment commencement day).
+included a reference to the restart advice scheme and the restart re-establishment grant scheme (within the meaning of the _Farm Household Support Act 1992_ as in force immediately before the farm help scheme payment commencement day).
 
 * * *
 
@@ -5636,11 +5603,11 @@ Section 119 of the _Dairy Produce Act 1986_ as in force before the commencemen
 
 ## 129  Final annual reports
 
-(1)       For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
+(1)        For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
 
-(2)       For the purposes of this item, the final reporting period is to be treated as a financial year.
+(2)        For the purposes of this item, the final reporting period is to be treated as a financial year.
 
-(3)       In this item:
+(3)        In this item:
 
 **_final reporting period_** means the period that:
 
@@ -5664,9 +5631,9 @@ In this Part:
 
 ## 31  Certificates of inability to obtain finance
 
-(1)       The amendments made by items 4, 5 and 6 apply to certificates of inability to obtain finance issued after commencement.
+(1)        The amendments made by items 4, 5 and 6 apply to certificates of inability to obtain finance issued after commencement.
 
-(2)       If:
+(2)        If:
 
                      (a)  a certificate of inability to obtain finance was issued to a farmer before commencement; and
 
@@ -5674,7 +5641,7 @@ In this Part:
 
 then the certificate has effect for 13 months from the day on which it was issued.
 
-(3)       However, the certificate ceases to have effect if:
+(3)        However, the certificate ceases to have effect if:
 
                      (a)  a finance institution makes a loan available to the farmer; or
 
@@ -5686,11 +5653,11 @@ The amendment made by item 8 applies to claims lodged, or taken to have been l
 
 ## 33  Activity plan directions under section 13B
 
-(1)       The amendments made by items 11, 12, 13 and 15 apply in relation to claims for farm help income support made after commencement.
+(1)        The amendments made by items 11, 12, 13 and 15 apply in relation to claims for farm help income support made after commencement.
 
-(2)       Despite the amendments made to section 13B of the Principal Act by items 11, 12, 13 and 15, that section, as in force immediately before commencement, continues in force after commencement, in relation to claims for farm help income support made before commencement, as if the amendments had not been made.
+(2)        Despite the amendments made to section 13B of the Principal Act by items 11, 12, 13 and 15, that section, as in force immediately before commencement, continues in force after commencement, in relation to claims for farm help income support made before commencement, as if the amendments had not been made.
 
-(3)       Despite the amendments made to section 13B of the Principal Act by items 11, 12, 13 and 15, an activity plan direction that:
+(3)        Despite the amendments made to section 13B of the Principal Act by items 11, 12, 13 and 15, an activity plan direction that:
 
                      (a)  was given, before commencement, under section 13B of the Principal Act; and
 
@@ -5698,23 +5665,23 @@ The amendment made by item 8 applies to claims lodged, or taken to have been l
 
 continues in force after commencement, as if the amendments had not been made.
 
-## 34  Activity plan directions under the farm help re‑establishment grant scheme
+## 34  Activity plan directions under the farm help re-establishment grant scheme
 
-(1)       The amendments made by items 17, 18, 20 and 26 apply in relation to claims for re‑establishment grant made after commencement.
+(1)        The amendments made by items 17, 18, 20 and 26 apply in relation to claims for re-establishment grant made after commencement.
 
-(2)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, those subsections, as in force immediately before commencement, continue in force after commencement in relation to claims for re‑establishment grant made before commencement, as if the repeal had not been made.
+(2)        Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, those subsections, as in force immediately before commencement, continue in force after commencement in relation to claims for re-establishment grant made before commencement, as if the repeal had not been made.
 
-(3)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, the provisions of the farm help re‑establishment grant scheme that:
+(3)        Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, the provisions of the farm help re-establishment grant scheme that:
 
                      (a)  were made under those subsections; and
 
                      (b)  were in force immediately before commencement;
 
-continue in force after commencement in relation to claims for re‑establishment grant made before commencement, as if the repeal had not been made.
+continue in force after commencement in relation to claims for re-establishment grant made before commencement, as if the repeal had not been made.
 
-(4)       Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, an activity plan direction that:
+(4)        Despite the repeal of subsections 52A(3A), (3B) and (3C) of the Principal Act made by item 17, an activity plan direction that:
 
-                     (a)  was given, before commencement, under a provision of the farm help re‑establishment grant scheme that was made under those subsections; and
+                     (a)  was given, before commencement, under a provision of the farm help re-establishment grant scheme that was made under those subsections; and
 
                      (b)  was in force immediately before commencement;
 
@@ -5722,7 +5689,7 @@ continues in force after commencement, as if the repeal had not been made.
 
 ## 35  Farm help advice and training scheme
 
-(1)       Despite the repeal of subsection 52B(1) of the Principal Act made by item 23, the farm help advice scheme (the **_old scheme_**):
+(1)        Despite the repeal of subsection 52B(1) of the Principal Act made by item 23, the farm help advice scheme (the **_old scheme_**):
 
                      (a)  made under that subsection; and
 
@@ -5730,15 +5697,15 @@ continues in force after commencement, as if the repeal had not been made.
 
 continues in force after commencement as if it were made under that subsection (as substituted by this Act) and called the farm help advice and training scheme (the **_new scheme_**).
 
-(2)       The amendments made by items 1, 2, 3, 9, 10, 14, 16, 19, 21, 22, 23, 24, 28 and 29 apply in relation to claims for farm help advice and training grant made after commencement.
+(2)        The amendments made by items 1, 2, 3, 9, 10, 14, 16, 19, 21, 22, 23, 24, 28 and 29 apply in relation to claims for farm help advice and training grant made after commencement.
 
-(3)       A person who, immediately before commencement, was eligible to receive assistance under the old scheme is taken, immediately after commencement, to be eligible to receive farm help advice and training grant under the new scheme, and any payments made to the person under the old scheme are taken to have been made under the new scheme.
+(3)        A person who, immediately before commencement, was eligible to receive assistance under the old scheme is taken, immediately after commencement, to be eligible to receive farm help advice and training grant under the new scheme, and any payments made to the person under the old scheme are taken to have been made under the new scheme.
 
-(4)       A person who, immediately before commencement, was eligible to receive farm help retraining grant under the farm help re‑establishment grant scheme is taken, immediately after commencement, to be eligible to receive farm help advice and training grant under the new scheme, and any payments of farm help retraining grant made to the person under the farm help re‑establishment grant scheme are taken to have been made under the new scheme.
+(4)        A person who, immediately before commencement, was eligible to receive farm help retraining grant under the farm help re-establishment grant scheme is taken, immediately after commencement, to be eligible to receive farm help advice and training grant under the new scheme, and any payments of farm help retraining grant made to the person under the farm help re-establishment grant scheme are taken to have been made under the new scheme.
 
-(5)       If a payment under the new scheme is to be made to a person covered by subitem (3) or (4), the Secretary may direct the person to develop, and act in accordance with, an individual activity plan as specified in the direction.
+(5)        If a payment under the new scheme is to be made to a person covered by subitem (3) or (4), the Secretary may direct the person to develop, and act in accordance with, an individual activity plan as specified in the direction.
 
-(6)       The Principal Act, and instruments made under the Principal Act, apply to a direction given under subitem (5) as if it were an activity plan direction given under subsection 13B(1) of the Principal Act.
+(6)        The Principal Act, and instruments made under the Principal Act, apply to a direction given under subitem (5) as if it were an activity plan direction given under subsection 13B(1) of the Principal Act.
 
 ## 36  Application of item 27
 
@@ -5758,9 +5725,9 @@ In this Schedule:
 
 ## 24  Farm help income support
 
-(1)       The amendments made by items 1, 2, 3, 6, 7, 8, 9, 11, 12, 13, 20, 21 and 22 of this Schedule apply in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
+(1)        The amendments made by items 1, 2, 3, 6, 7, 8, 9, 11, 12, 13, 20, 21 and 22 of this Schedule apply in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
 
-(2)       The amendment made by item 14 of this Schedule, to the extent that it relates to the insertion of sections 51 and 52 of the Principal Act, applies in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
+(2)        The amendment made by item 14 of this Schedule, to the extent that it relates to the insertion of sections 51 and 52 of the Principal Act, applies in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
 
 ## 25  Exceptional circumstances relief payment
 
@@ -5768,15 +5735,15 @@ The amendment made by item 8 of this Schedule applies in relation to exception
 
 ## 26  Interaction between exceptional circumstances relief payment and farm help income support
 
-(1)       The amendments made by items 10 and 15 of this Schedule apply where the exceptional circumstances relief payment that resulted in farm help income support not being payable to a person was received under a claim made on or after the commencement of this item.
+(1)        The amendments made by items 10 and 15 of this Schedule apply where the exceptional circumstances relief payment that resulted in farm help income support not being payable to a person was received under a claim made on or after the commencement of this item.
 
-(2)       The amendment made by item 14 of this Schedule, to the extent that it relates to the insertion of section 50 of the Principal Act, applies where the exceptional circumstances relief payment that resulted in farm help income support not being payable to a person was received under a claim made on or after the commencement of this item.
+(2)        The amendment made by item 14 of this Schedule, to the extent that it relates to the insertion of section 50 of the Principal Act, applies where the exceptional circumstances relief payment that resulted in farm help income support not being payable to a person was received under a claim made on or after the commencement of this item.
 
 ## 27  Activity plan directions under section 13B
 
-(1)       Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, that section, as in force immediately before the commencement of that item, continues in force on and after commencement, in relation to farm help income support where a claim for that support was made before commencement, as if the repeal had not occurred.
+(1)        Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, that section, as in force immediately before the commencement of that item, continues in force on and after commencement, in relation to farm help income support where a claim for that support was made before commencement, as if the repeal had not occurred.
 
-(2)       Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, an activity plan direction that:
+(2)        Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, an activity plan direction that:
 
                      (a)  was given, before the commencement of that item, under section 13B of the Principal Act; and
 
@@ -5784,7 +5751,7 @@ The amendment made by item 8 of this Schedule applies in relation to exception
 
 continues in force after that commencement, as if the repeal had not occurred.
 
-(3)       Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, the consequences of failure to comply with an activity plan direction that:
+(3)        Despite the repeal of section 13B of the Principal Act by item 11 of this Schedule, the consequences of failure to comply with an activity plan direction that:
 
                      (a)  was given, before the commencement of that item, under that section; and
 
@@ -5792,11 +5759,11 @@ continues in force after that commencement, as if the repeal had not occurred.
 
 continue to be determined by the method provided under the farm help advice and training scheme as in force immediately before that commencement.
 
-## 28  Farm help re‑establishment scheme
+## 28  Farm help re-establishment scheme
 
-(1)       The amendments made by items 4, 5, 8, 16 and 17 of this Schedule apply in relation to the farm help re‑establishment scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
+(1)        The amendments made by items 4, 5, 8, 16 and 17 of this Schedule apply in relation to the farm help re-establishment scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
 
-(2)       Despite:
+(2)        Despite:
 
                      (a)  the amendments of subsection 3(2) of the Principal Act made by items 4 and 5 of this Schedule; and
 
@@ -5804,13 +5771,13 @@ continue to be determined by the method provided under the farm help advice and 
 
                      (c)  the insertion of section 52AA of the Principal Act made by item 17 of this Schedule;
 
-section 52A of the Principal Act and instruments made under that section, as in force immediately before the commencement of those items, continue in force on and after that commencement, in relation to a farm help re‑establishment grant where the claim for the grant was made before that commencement, as if the amendments and insertion had not been made.
+section 52A of the Principal Act and instruments made under that section, as in force immediately before the commencement of those items, continue in force on and after that commencement, in relation to a farm help re-establishment grant where the claim for the grant was made before that commencement, as if the amendments and insertion had not been made.
 
 ## 29  Farm help advice and training scheme
 
-(1)       The amendments of section 52B of the Principal Act made by items 18 and 19 of this Schedule apply in relation to the farm help advice and training scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
+(1)        The amendments of section 52B of the Principal Act made by items 18 and 19 of this Schedule apply in relation to the farm help advice and training scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
 
-(2)       Despite the amendments of section 52B of the Principal Act made by items 18 and 19 of this Schedule, that section and instruments made under that section, as in force immediately before the commencement of those items, continue in force on and after that commencement, in relation to farm help advice and training grants where the claim for the grant was made before that commencement, as if the amendments had not been made.
+(2)        Despite the amendments of section 52B of the Principal Act made by items 18 and 19 of this Schedule, that section and instruments made under that section, as in force immediately before the commencement of those items, continue in force on and after that commencement, in relation to farm help advice and training grants where the claim for the grant was made before that commencement, as if the amendments had not been made.
 
 * * *
 
@@ -5826,9 +5793,9 @@ In this Part:
 
 ## 8  Farm help income support
 
-(1)       The amendments made by items 1, 3 and 4 of this Schedule apply in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
+(1)        The amendments made by items 1, 3 and 4 of this Schedule apply in relation to farm help income support where the claim for that support is made on or after the commencement of this item.
 
-(2)       Despite subitem (1), if:
+(2)        Despite subitem (1), if:
 
                      (a)  a person makes a claim for farm help income support on or after the commencement of this item; and
 
@@ -5842,11 +5809,11 @@ the amendments made by items 1, 3 and 4 of this Schedule do not apply for the 
 
 The amendments made by items 1 and 2 of this Schedule apply in relation to exceptional circumstances relief payment where the claim for that payment is made on or after the commencement of this item.
 
-## 10  Farm help re‑establishment scheme
+## 10  Farm help re-establishment scheme
 
-(1)       The amendment made by item 6 of this Schedule applies in relation to the farm help re‑establishment scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
+(1)        The amendment made by item 6 of this Schedule applies in relation to the farm help re-establishment scheme where a claim for a grant under the scheme is made on or after the commencement of this item.
 
-(2)       Despite the insertion of sections 52AB and 52AC of the Principal Act made by item 6 of this Schedule, section 52A of the Principal Act and instruments made under that section, as in force immediately before the commencement of that item, continue in force on and after that commencement, in relation to a farm help re‑establishment grant where the claim for the grant was made before that commencement, as if the amendment and insertion had not been made.
+(2)        Despite the insertion of sections 52AB and 52AC of the Principal Act made by item 6 of this Schedule, section 52A of the Principal Act and instruments made under that section, as in force immediately before the commencement of that item, continue in force on and after that commencement, in relation to a farm help re-establishment grant where the claim for the grant was made before that commencement, as if the amendment and insertion had not been made.
 
 * * *
 
@@ -5882,13 +5849,13 @@ In this Part:
 
 ## 21  Person already receiving payment in the nature of exceptional circumstances relief payment
 
-(1)       This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
+(1)        This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
 
                      (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
 
                      (b)  payability criteria similar to those in Division 2 of Part 2 of the Principal Act.
 
-(2)       The following applies:
+(2)        The following applies:
 
                      (a)  the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act;
 
@@ -5902,7 +5869,7 @@ In this Part:
 
                              (ii)  if subparagraph (i) does not apply—until the end of 6 months from the commencing day.
 
-(3)       The Secretary may, by determination in writing, revoke or vary a determination that:
+(3)        The Secretary may, by determination in writing, revoke or vary a determination that:
 
                      (a)  because of paragraph (2)(b), the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
 
@@ -5910,13 +5877,13 @@ In this Part:
 
 in circumstances in which the Secretary could have revoked or varied a determination actually made under those subsections.
 
-(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
+(4)        Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
 
-(5)       A determination made under subitem (3) is not a legislative instrument.
+(5)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 22  Person applying for payment in the nature of exceptional circumstances relief before commencement
 
-(1)       This item applies if, before the commencing day, a person applies for a payment on the basis that the following are satisfied:
+(1)        This item applies if, before the commencing day, a person applies for a payment on the basis that the following are satisfied:
 
                      (a)  qualification criteria similar to those in subsection 8A(5) of the Principal Act, inserted by item 10 of this Schedule;
 
@@ -5924,7 +5891,7 @@ in circumstances in which the Secretary could have revoked or varied a determina
 
 but is not receiving payment on that basis immediately before the commencing day.
 
-(2)       The person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act, and to have made the claim on the commencing day.
+(2)        The person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act, and to have made the claim on the commencing day.
 
 * * *
 
@@ -5948,17 +5915,17 @@ The amendments made by items 10 to 17 of this Schedule apply in relation to ex
 
 ## 22  Transitional—amounts disregarded before commencing day
 
-Amounts that were disregarded for the 2007‑08 financial year under subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act before the commencing day are to be treated, after the commencing day, as if the amounts had been disregarded for that financial year under that subsection (as amended by this Schedule).
+Amounts that were disregarded for the 2007-08 financial year under subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act before the commencing day are to be treated, after the commencing day, as if the amounts had been disregarded for that financial year under that subsection (as amended by this Schedule).
 
 ## 23  Transitional—person already receiving payment in the nature of exceptional circumstances relief payment
 
-(1)       This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
+(1)        This item applies if, immediately before the commencing day, a person is receiving a payment on the basis that the following are satisfied:
 
                      (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
                      (b)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule).
 
-(2)       The following apply:
+(2)        The following apply:
 
                      (a)  the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act;
 
@@ -5972,7 +5939,7 @@ Amounts that were disregarded for the 2007‑08 financial year under subsection 
 
                              (ii)  if subparagraph (i) does not apply—until the end of 6 months from the commencing day.
 
-(3)       The Secretary may, by determination in writing, revoke or vary a determination that:
+(3)        The Secretary may, by determination in writing, revoke or vary a determination that:
 
                      (a)  because of paragraph (2)(b) of this item, the Secretary is taken to have made under subsection 19(2) of the Principal Act; or
 
@@ -5980,13 +5947,13 @@ Amounts that were disregarded for the 2007‑08 financial year under subsection 
 
 in circumstances in which the Secretary could have revoked or varied a determination actually made under those subsections.
 
-(4)       Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) of this item in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
+(4)        Sections 53 and 53A of the Principal Act apply in relation to a determination under subitem (3) of this item in the same way as they apply in relation to a determination under subsection 19(2) or 10(1) of the Principal Act.
 
-(5)       A determination made under subitem (3) of this item is not a legislative instrument.
+(5)        A determination made under subitem (3) of this item is not a legislative instrument.
 
 ## 24  Transitional—person applying for payment in the nature of exceptional circumstances relief before commencing day
 
-(1)       This item applies if, on or after 25 September 2007 and before the commencing day, a person applies for a payment on the basis that the following are satisfied:
+(1)        This item applies if, on or after 25 September 2007 and before the commencing day, a person applies for a payment on the basis that the following are satisfied:
 
                      (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
@@ -5994,7 +5961,7 @@ in circumstances in which the Secretary could have revoked or varied a determina
 
 but is not receiving payment on that basis immediately before the commencing day.
 
-(2)       On the commencing day, the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act.
+(2)        On the commencing day, the person is taken to have made a proper claim for exceptional circumstances relief payment for the purposes of Part 3 of the Principal Act.
 
 ## 25  Definitions
 
@@ -6004,29 +5971,29 @@ In this Part:
 
 **_excess amount_** has the meaning given by subitem 27(1).
 
-**_pre‑commencement payment_** has the meaning given by subitem 26(1).
+**_pre-commencement payment_** has the meaning given by subitem 26(1).
 
 **_Principal Act_** means the _Farm Household Support Act 1992_.
 
-## 26  Past payments in the nature of exceptional circumstances relief payment
+## 26  Past payments in the nature of exceptional circumstances relief payment
 
-(1)       This item applies if, before the commencing day, a person received a payment (a **_pre‑commencement payment_**) on the basis that the following were satisfied in respect of a period starting on or after 25 September 2007 and ending before the commencing day:
+(1)        This item applies if, before the commencing day, a person received a payment (a **_pre-commencement payment_**) on the basis that the following were satisfied in respect of a period starting on or after 25 September 2007 and ending before the commencing day:
 
                      (a)  qualification criteria that are the same as those in subsection 8A(7) of the Principal Act (as inserted by this Schedule);
 
                      (b)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule).
 
-(2)       A pre‑commencement payment may be recovered by the Commonwealth from the person to whom the payment was made as a debt due to the Commonwealth.
+(2)        A pre-commencement payment may be recovered by the Commonwealth from the person to whom the payment was made as a debt due to the Commonwealth.
 
-(3)       A person to whom a pre‑commencement payment was made is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
+(3)        A person to whom a pre-commencement payment was made is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
 
-(4)       The Commonwealth may set‑off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
+(4)        The Commonwealth may set-off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
 
-(5)       The Commonwealth may set‑off classes of debt under subsection (4).
+(5)        The Commonwealth may set-off classes of debt under subsection (4).
 
-(6)       If:
+(6)        If:
 
-                     (a)  a pre‑commencement payment has been paid to a person in respect of a period; and
+                     (a)  a pre-commencement payment has been paid to a person in respect of a period; and
 
                      (b)  the person did not satisfy, in respect of that period:
 
@@ -6034,23 +6001,23 @@ In this Part:
 
                              (ii)  payability criteria that are the same as those in Division 2 of Part 2 of the Principal Act (as amended by this Schedule);
 
-the pre‑commencement payment may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
+the pre-commencement payment may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
-(7)       If:
+(7)        If:
 
-                     (a)  a pre‑commencement payment has been paid to a person in respect of a period; and
+                     (a)  a pre-commencement payment has been paid to a person in respect of a period; and
 
-                     (b)  the amount of the pre‑commencement payment (the **_paid amount_**) is greater than the amount (the **_payable amount_**) that would have been payable to the person in respect of that period had the payment been calculated by applying section 24AA of the Principal Act (as amended by this Schedule) to the person as if the person were qualified for exceptional circumstances relief payment under subsection 8A(7) of that Act (as inserted by this Schedule);
+                     (b)  the amount of the pre-commencement payment (the **_paid amount_**) is greater than the amount (the **_payable amount_**) that would have been payable to the person in respect of that period had the payment been calculated by applying section 24AA of the Principal Act (as amended by this Schedule) to the person as if the person were qualified for exceptional circumstances relief payment under subsection 8A(7) of that Act (as inserted by this Schedule);
 
 an amount equal to the difference between the paid amount and the payable amount may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
-(8)       A debt that is recoverable under subitem (6) or (7) is, for the purposes of sections 1227A and 1231A of the _Social Security Act 1991_, taken to be a debt that is recoverable under section 56 of the Principal Act in respect of an amount of exceptional circumstances relief payment.
+(8)        A debt that is recoverable under subitem (6) or (7) is, for the purposes of sections 1227A and 1231A of the _Social Security Act 1991_, taken to be a debt that is recoverable under section 56 of the Principal Act in respect of an amount of exceptional circumstances relief payment.
 
-(9)       Subitems (6) and (7) do not, by implication, affect the recovery or set‑off of overpayments of exceptional circumstances relief payment under the Principal Act.
+(9)        Subitems (6) and (7) do not, by implication, affect the recovery or set-off of overpayments of exceptional circumstances relief payment under the Principal Act.
 
 ## 27  Rate of past payments of exceptional circumstances relief payment
 
-(1)       This item applies if, before the commencing day:
+(1)        This item applies if, before the commencing day:
 
                      (a)  a person received a payment on the basis that, in respect of a period starting on or after 25 September 2007 and ending before the commencing day, the person satisfied:
 
@@ -6062,15 +6029,15 @@ an amount equal to the difference between the paid amount and the payable amount
 
                      (c)  had the payment been calculated using the formula in that subsection as in force before the commencing day, all or some of the payment (the **_excess amount_**) would not have been payable to the person.
 
-(2)       An excess amount may be recovered by the Commonwealth from the person to whom the payment was made as a debt due to the Commonwealth.
+(2)        An excess amount may be recovered by the Commonwealth from the person to whom the payment was made as a debt due to the Commonwealth.
 
-(3)       A person to whom an excess amount was paid is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
+(3)        A person to whom an excess amount was paid is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
 
-(4)       The Commonwealth may set‑off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
+(4)        The Commonwealth may set-off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
 
-(5)       The Commonwealth may set‑off classes of debt under subsection (4).
+(5)        The Commonwealth may set-off classes of debt under subsection (4).
 
-(6)       If:
+(6)        If:
 
                      (a)  an excess amount has been paid to a person in respect of a period; and
 
@@ -6082,7 +6049,7 @@ an amount equal to the difference between the paid amount and the payable amount
 
 the excess amount may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
-(7)       If:
+(7)        If:
 
                      (a)  an excess amount has been paid to a person as, or as part of, a payment mentioned in subitem (1) in respect of a period; and
 
@@ -6092,29 +6059,29 @@ the excess amount may be recovered by the Commonwealth from the person as a debt
 
 an amount equal to the difference between the paid amount and the payable amount may be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
-(8)       A debt that is recoverable under subitem (6) or (7) is, for the purposes of sections 1227A and 1231A of the _Social Security Act 1991_, taken to be a debt that is recoverable under section 56 of the Principal Act in respect of an amount of exceptional circumstances relief payment.
+(8)        A debt that is recoverable under subitem (6) or (7) is, for the purposes of sections 1227A and 1231A of the _Social Security Act 1991_, taken to be a debt that is recoverable under section 56 of the Principal Act in respect of an amount of exceptional circumstances relief payment.
 
-(9)       Subitems (6) and (7) do not, by implication, affect the recovery or set‑off of overpayments of exceptional circumstances relief payment under the Principal Act.
+(9)        Subitems (6) and (7) do not, by implication, affect the recovery or set-off of overpayments of exceptional circumstances relief payment under the Principal Act.
 
-(10)     Despite subitems (2) and (3), if, before the commencing day, an amount was disregarded for the 2007‑08 financial year in a calculation that used a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule, then the amount is to be treated, after the commencing day, as if it had been disregarded for that financial year under that subsection.
+(10)      Despite subitems (2) and (3), if, before the commencing day, an amount was disregarded for the 2007-08 financial year in a calculation that used a formula that is the same as that in subsection 24A(5) or (6) or subsection 24AA(6) or (8) of the Principal Act as amended by this Schedule, then the amount is to be treated, after the commencing day, as if it had been disregarded for that financial year under that subsection.
 
 ## 28  Ancillary benefits relating to the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_
 
-(1)       If, before the commencing day, a thing (other than the payment of money) was done:
+(1)        If, before the commencing day, a thing (other than the payment of money) was done:
 
-                     (a)  as if a pre‑commencement payment or an excess amount were exceptional circumstances relief payment under the Principal Act; and
+                     (a)  as if a pre-commencement payment or an excess amount were exceptional circumstances relief payment under the Principal Act; and
 
                      (b)  as if either or both of the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_ operated in relation to the payment;
 
-then the thing is, for all purposes, taken to be as valid, and always to have been as valid, as it would have been if the pre‑commencement payment or excess amount had been exceptional circumstances relief payment under the Principal Act as amended by this Schedule and the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_ had operated.
+then the thing is, for all purposes, taken to be as valid, and always to have been as valid, as it would have been if the pre-commencement payment or excess amount had been exceptional circumstances relief payment under the Principal Act as amended by this Schedule and the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_ had operated.
 
-(2)       If an amount of money has been paid by the Commonwealth because a thing referred to in subitem (1) was done, the amount may be recovered by the Commonwealth from the person to whom the amount was paid as a debt due to the Commonwealth.
+(2)        If an amount of money has been paid by the Commonwealth because a thing referred to in subitem (1) was done, the amount may be recovered by the Commonwealth from the person to whom the amount was paid as a debt due to the Commonwealth.
 
-(3)       A person to whom an amount referred to in subitem (2) was paid is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
+(3)        A person to whom an amount referred to in subitem (2) was paid is entitled, on the commencement of this item, to be paid by the Commonwealth an amount equal to the amount of the debt due to it by the person under subitem (2).
 
-(4)       The Commonwealth may set‑off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
+(4)        The Commonwealth may set-off the amount of a debt due to it by a person under subitem (2) against an amount that is payable to that person under subitem (3).
 
-(5)       The Commonwealth may set‑off classes of debt under subsection (4).
+(5)        The Commonwealth may set-off classes of debt under subsection (4).
 
 ## 29  Appropriation
 
@@ -6134,7 +6101,7 @@ _Household Stimulus Package Act (No. 2) 2009 (No. 4, 2009)_
 
 ## 1  Administrative scheme for household stimulus payments
 
-(1)       Subject to this item, a Minister administering:
+(1)        Subject to this item, a Minister administering:
 
                      (a)  the _A New Tax System (Family Assistance) Act 1999_; or
 
@@ -6146,7 +6113,7 @@ _Household Stimulus Package Act (No. 2) 2009 (No. 4, 2009)_
 
 may, by legislative instrument, determine a scheme under which household stimulus payments may be made to persons in particular circumstances. The Minister may, by legislative instrument, vary or revoke the scheme.
 
-(2)       The circumstances in which the scheme provides for payments must be:
+(2)        The circumstances in which the scheme provides for payments must be:
 
                      (a)  circumstances:
 
@@ -6160,7 +6127,7 @@ may, by legislative instrument, determine a scheme under which household stimulu
 
                              (ii)  that occur in the period starting on 1 July 2008 and ending on the day on which that Division ceases to have effect under section 665ZZE of that Act.
 
-(3)       Without limiting the generality of subitem (1), the scheme may deal with the following:
+(3)        Without limiting the generality of subitem (1), the scheme may deal with the following:
 
                      (a)  the circumstances in which payments are to be made;
 
@@ -6172,9 +6139,9 @@ may, by legislative instrument, determine a scheme under which household stimulu
 
                      (e)  administrative matters, such as determination of entitlement and how and when payments will be made.
 
-(4)       Without limiting the generality of subparagraph (2)(a)(i), circumstances in which the provisions referred to in that subparagraph do not produce appropriate results may include the circumstance of an FTB child (within the meaning of the _A New Tax System (Family Assistance) Act 1999_) aged 19 or 20 on 3 February 2009.
+(4)        Without limiting the generality of subparagraph (2)(a)(i), circumstances in which the provisions referred to in that subparagraph do not produce appropriate results may include the circumstance of an FTB child (within the meaning of the _A New Tax System (Family Assistance) Act 1999_) aged 19 or 20 on 3 February 2009.
 
-(5)       Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+(5)        Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 * * *
 
@@ -6184,7 +6151,7 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 
 ## 102  Application
 
-(1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
 * * *
 
@@ -6196,7 +6163,7 @@ _Tax Laws Amendment (Transfer of Provisions) Act 2010 (No. 79, 2010)_
 
 The amendments made by Parts 1 and 2 of this Schedule (other than item 2) apply to assessments for:
 
-                     (a)  the 2010‑11 income year; and
+                     (a)  the 2010-11 income year; and
 
                      (b)  later income years.
 
@@ -6210,5 +6177,7 @@ _Farm Household Support Amendment (Ancillary Benefits) Act 2010
 ## 2  Application
 
 Section 52D of the _Farm Household Support Act 1992_ applies to the doing of things (including the making of payments) in connection with the Farm Family Support Scheme before, on or after the commencement of that section.
+
+ 
 
  
