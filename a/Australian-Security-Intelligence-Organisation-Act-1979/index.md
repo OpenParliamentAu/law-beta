@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2007C00091/Html/ASIO1979_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00004/Html/ASIO1979_WD02_image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 22 February 2007
- taking into account amendments up to Act No. 3 of 2007
+This compilation was prepared on 30 December 2006
+ taking into account amendments up to Act No. 148 of 2006
 
-**\[Note: Division 3 of Part III ceases to be in force on****22 July 2016****,  _see_ section 34ZZ]**
+**\[Note: Division 3 of Part III ceases to be in force on****22 July  2016****,  _see_ section 34ZZ]**
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -4624,23 +4624,6 @@ Schedule 3A (items 10–22): <i>(s)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007</div>
-  </td>
-  <td>
-    <div>3, 2007</div>
-  </td>
-  <td>
-    <div>19 Feb 2007</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): \[ <i>see</i> <i>(t)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -4979,80 +4962,6 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
       30 December 2006
 
 (paragraph (a) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(t)_ Subsection 2(1) (item 2) of the _Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 to 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the day after the end of the period of 6 months beginning on the day
-        on which this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) the day on which the Convention on the Marking of Plastic Explosives
-        for the Purpose of Detection, done at Montreal on 1 March 1991, comes into
-        force for Australia.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-    <div>
-      The Minister must announce by notice in the
-        <i>Gazette</i>the day on which the Convention comes into force for
-      Australia
-        .
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -7736,28 +7645,6 @@ _(t)_ Subsection 2(1) (item 2) of the _Law and Justice Legislation Amendment (
     <div>am. No. 122, 1986; No. 161, 1999; No. 77, 2003; No. 54, 2006</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007 (No. 3, 2007)_
-
-The following amendment commences on the later of 19 August 2007 and the day on which the Convention on the Marking of Plastic Explosives for the Purpose of Detection, done at Montreal on 1 March 1991, comes into force for Australia. However, the amendment may not commence at all, _see_ section 2(1) (item 2):
-
-## Schedule 3
-
-## 2  Section 4 (definition of _terrorism offence_)
-
-Repeal the definition, substitute:
-
-                    <a name="terror-offenc"></a>**_terrorism offence_** means:
-
-                     (a)  an offence against Subdivision A of Division 72 of the _Criminal Code_; or
-
-                     (b)  an offence against Part 5.3 of the _Criminal Code_.
-
-Note:          A person can commit a terrorism offence against Part 5.3 of the _Criminal Code_ even if no terrorist act (as defined in that Part) occurs.
-
-As at 22 February 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
