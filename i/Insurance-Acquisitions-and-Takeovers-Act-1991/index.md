@@ -1,7 +1,7 @@
 
 Insurance Acquisitions and Takeovers Act 1991
 Act No. 6 of 1992 as amended
-This compilation was prepared on 11 July 2002 taking into account amendments up to Act No. 37 of 2002
+This compilation was prepared on 1 July 2002 taking into account amendments up to Act No. 121 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -16,7 +16,7 @@ Part 1—Preliminary	1
 5	What is contrary to the public interest	8
 6	Entering into an agreement or arrangement	9
 7	Associates	9
-8	Proposals to acquire shares or assets	10
+8	Proposals to acquire shares or assets	11
 9	Meaning of entitled to acquire	11
 10	Meaning of interest in an asset	11
 11	Meaning of interest in a share	12
@@ -33,63 +33,67 @@ Division 1—Interpretation	18
 35	Interpretation	18
 36	Meaning of trigger proposal—proposals to acquire or lease assets of Australian‑registered insurance companies	18
 37	When trigger proposal carried out	21
-Division 2—Notification	22
+Division 2—Notification and time limits	22
 38	Compulsory notification of trigger proposal	22
-40	Trigger proposal must not be carried out before a go‑ahead decision is given	22
-Division 3—Go‑ahead decisions	24
-41	Unconditional or conditional go‑ahead decision	24
-Division 4—Permanent restraining orders and divestment orders	25
-43	Permanent restraining order	25
-44	Divestment order	25
-45	Offence of contravening permanent restraining order or divestment order	26
-46	Publication of orders	26
-47	When orders come into operation	26
-48	Revocation of orders	27
-Part 4—Control of agreements relating to the directorate of Australian‑registered insurance companies	28
-Division 1—Interpretation	28
-49	Interpretation	28
-50	Meaning of trigger proposal—agreements relating to the directorate of Australian‑registered insurance companies	28
-51	When trigger proposal carried out	29
-Division 2—Notification	30
-52	Compulsory notification of trigger proposal	30
-54	Trigger proposal must not be carried out before a go‑ahead decision is given	30
-Division 3—Go‑ahead decisions	32
-55	Unconditional or conditional go‑ahead decision	32
-Division 4—Permanent restraining orders and divestment orders	33
-57	Permanent restraining order	33
-58	Divestment order	33
-59	Offence of contravening permanent restraining order or divestment order	34
-60	Publication of orders	34
-61	When orders come into operation	34
-62	Revocation of orders	34
-Part 5—Judicial enforcement of Ministerial orders	35
-63	Federal Court may enforce Ministerial orders	35
-Part 6—Anti‑avoidance	37
-64	Anti‑avoidance	37
-Part 7—Decision‑making principles	38
-65	Decision‑making principles	38
-Part 8—Review of decisions	39
-66	Reconsideration of reviewable decision	39
-67	Review of decisions by Administrative Appeals Tribunal	39
-68	Statements to accompany notification of decisions	41
-Part 9—Miscellaneous	42
-69	Delegation	42
-70	Concurrent operation of State/Territory laws	42
-71	Validity of acts done in contravention of this Act	42
-72	Minister’s consent for criminal proceedings	42
-73	Minister may obtain information and documents	42
-75	APRA Act secrecy provisions apply	44
-76	Conduct by directors, servants and agents	44
-77	Company’s financial statements to be prima facie evidence of value of its assets	46
-78	Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance	46
-79	Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision	47
-80	Foreign Acquisitions and Takeovers Act 1975 and this Act to operate independently of each other	48
-81	Transitional—pre‑commencement acquisitions etc.	48
-82	Regulations	49
-Part 10—Consequential amendments	50
-83	Consequential amendments	50
-Schedule—Consequential amendments	51
-Notes		53
+39	30‑day time limit for Minister to make a decision	22
+40	Trigger proposal must not be carried out before a go‑ahead decision is given or time limit runs out	23
+Division 3—Go‑ahead decisions	25
+41	Unconditional or conditional go‑ahead decision	25
+Division 4—Temporary restraining orders, permanent restraining orders and divestment orders	26
+42	Temporary restraining order	26
+43	Permanent restraining order	28
+44	Divestment order	29
+45	Offence of contravening temporary restraining order, permanent restraining order or divestment order	30
+46	Publication of orders	30
+47	When orders come into operation	30
+48	Revocation of orders	30
+Part 4—Control of agreements relating to the directorate of Australian‑registered insurance companies	32
+Division 1—Interpretation	32
+49	Interpretation	32
+50	Meaning of trigger proposal—agreements relating to the directorate of Australian‑registered insurance companies	32
+51	When trigger proposal carried out	33
+Division 2—Notification and time limits	34
+52	Compulsory notification of trigger proposal	34
+53	30‑day time limit for Minister to make a decision	34
+54	Trigger proposal must not be carried out before a go‑ahead decision is given or time limit runs out	35
+Division 3—Go‑ahead decisions	37
+55	Unconditional or conditional go‑ahead decision	37
+Division 4—Temporary restraining orders, permanent restraining orders and divestment orders	38
+56	Temporary restraining order	38
+57	Permanent restraining order	40
+58	Divestment order	41
+59	Offence of contravening temporary restraining order, permanent restraining order or divestment order	41
+60	Publication of orders	42
+61	When orders come into operation	42
+62	Revocation of orders	42
+Part 5—Judicial enforcement of Ministerial orders	43
+63	Federal Court may enforce Ministerial orders	43
+Part 6—Anti‑avoidance	45
+64	Anti‑avoidance	45
+Part 7—Decision‑making principles	46
+65	Decision‑making principles	46
+Part 8—Review of decisions	47
+66	Reconsideration of reviewable decision	47
+67	Review of decisions by Administrative Appeals Tribunal	47
+68	Statements to accompany notification of decisions	49
+Part 9—Miscellaneous	50
+69	Delegation	50
+70	Concurrent operation of State/Territory laws	50
+71	Validity of acts done in contravention of this Act	50
+72	Minister’s consent for criminal proceedings	50
+73	Minister may obtain information and documents	50
+75	APRA Act secrecy provisions apply	52
+76	Conduct by directors, servants and agents	52
+77	Company’s financial statements to be prima facie evidence of value of its assets	54
+78	Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance	54
+79	Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision	55
+80	Foreign Acquisitions and Takeovers Act 1975 and this Act to operate independently of each other	56
+81	Transitional—pre‑commencement acquisitions etc.	56
+82	Regulations	57
+Part 10—Consequential amendments	58
+83	Consequential amendments	58
+Schedule—Consequential amendments	59
+Notes		61
 An Act relating to the control of Australian‑registered insurance companies, and for other purposes
 Part 1—Preliminary
   
@@ -110,8 +114,10 @@ To protect the public interest in a number of ways, including:
 	(c)	preventing the undue concentration of economic power in the Australian general insurance industry, in the Australian life insurance industry or in the Australian financial system. 
 Simplified outline of Act
 A proposal must be notified to the Minister.
-A proposal can be stopped if the Minister makes a permanent restraining order.
-A proposal can be carried out if the Minister makes a go‑ahead decision.
+A proposal can be stopped if the Minister makes a temporary restraining order or a permanent restraining order. 
+A proposal can be carried out if:
+	(a)	the Minister makes a go‑ahead decision; or 
+	(b)	the Minister takes no action before a time limit runs out. 
 If an unauthorised proposal is carried out, the Minister can make a divestment order.
 This Act is enforced by criminal sanctions and court orders. 
 4  Interpretation
@@ -186,7 +192,7 @@ relative, in relation to a person, means:
 	(c)	a parent or remoter lineal ancestor of the person; or
 	(d)	a son, daughter or remoter issue of the person; or
 	(e)	a brother or sister of the person.
-reviewable decision means a decision of the Minister under Part 3 or 4 or paragraph 66(1)(b).
+reviewable decision means a decision of the Minister under Part 3 or 4 (other than section 42 or 56) or paragraph 66(1)(b).
 share, in relation to a company, means a share in the share capital of the company, and includes:
 	(a)	stock into which any or all of the share capital of the company has been converted; or
 	(b)	an interest in such a share or in such stock.
@@ -341,6 +347,7 @@ conditional go‑ahead decision means a go‑ahead decision that is subject to c
 divestment order means an order under section 44.
 go‑ahead decision means a decision under subsection 41(1).
 permanent restraining order means an order under section 43.
+temporary restraining order means an order under section 42.
 trigger proposal has the meaning given by section 36.
 36  Meaning of trigger proposal—proposals to acquire or lease assets of Australian‑registered insurance companies
 		If any of the following paragraphs applies:
@@ -385,7 +392,7 @@ the proposal is a trigger proposal for the purposes of this Part.
 	(c)	acquire interests, rights or benefits as mentioned in paragraph 36(c), (d) or (e);
 the person is, or each of the persons are, taken to have carried out a trigger proposal.
 
-Division 2—Notification
+Division 2—Notification and time limits
 38  Compulsory notification of trigger proposal
 		If:
 	(a)	a person carries out a trigger proposal; and
@@ -395,11 +402,26 @@ Division 2—Notification
 	(ii)	the person had reasonable grounds to suspect that the proposal concerned was a trigger proposal but did not make all reasonable efforts to ascertain whether it was a trigger proposal;
 the person is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
-40  Trigger proposal must not be carried out before a go‑ahead decision is given
+39  30‑day time limit for Minister to make a decision
+		If:
+	(a)	before the acquisition, or before entering into the arrangement, as the case may be, the person concerned gave to the Minister a notice in the prescribed form stating the person’s intention to acquire the assets, interests, rights or benefits or to enter into the arrangement, as the case requires; and
+	(b)	30 days pass after the day on which the Minister receives the notice and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person before the end of 10 days after the day on which the decision is made; or
+	(B)	made a temporary restraining order or a permanent restraining order in relation to the acquisition or arrangement specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person has not carried out the proposal;
+the Minister is not empowered:
+	(c)	to make a temporary restraining order, a permanent restraining order or a divestment order in relation to the acquisition or arrangement, as the case requires; or
+	(d)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
+40  Trigger proposal must not be carried out before a go‑ahead decision is given or time limit runs out
 		If:
 	(a)	a person carries out a trigger proposal; and
-	(b)	the Minister did not give a go‑ahead decision in relation to the proposal before the relevant acquisition occurred or the relevant arrangement was entered into;
-the person commits an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
+	(b)	before the acquisition or before entering into the arrangement, the person gave to the Minister a notice in the prescribed form stating the person’s intention to acquire the assets, interests, rights or benefits or to enter into the arrangement, as the case may be; and
+	(c)	the person acquired the assets, interests, rights or benefits, or entered into the arrangement, before:
+	(i)	the end of 40 days after the date on which the Minister received the notice; or
+	(ii)	the date on which written advice of a go‑ahead decision is given in relation to the proposal specified in the notice;
+		whichever first occurs;
+the person is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
 Division 3—Go‑ahead decisions
@@ -415,9 +437,40 @@ Division 3—Go‑ahead decisions
 	(d)	the person does not comply with the conditions;
 the person is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
-	(4)	If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
+	(4)	If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a temporary restraining order or a permanent restraining order in relation to the trigger proposal.
 
-Division 4—Permanent restraining orders and divestment orders
+Division 4—Temporary restraining orders, permanent restraining orders and divestment orders
+42  Temporary restraining order
+	(1)	The Minister may make an order (in this Part called a temporary restraining order) prohibiting the proposed acquisition or prohibiting the entering into of the proposed arrangement, as the case may be, to which the trigger proposal relates.
+	(2)	The Minister’s powers under subsection (1) are to be exercised for the purpose of enabling due consideration to be given to the question whether a go‑ahead decision or permanent restraining order should be made.
+	(3)	A temporary restraining order has effect for such period, not exceeding 60 days after the order comes into operation, as is specified in the order.
+	(4)	If:
+	(a)	before the acquisition, or before entering into the arrangement, as the case may be, the person concerned gave to the Minister a notice in the prescribed form stating the person’s intention to acquire the assets, interests, rights or benefits or to enter into the arrangement, as the case requires; and
+	(b)	before the end of 30 days after the day on which the Minister receives the notice, the Minister makes a temporary restraining order in relation to the acquisition or arrangement specified in the notice; and
+	(c)	the temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(d)	60 days pass after the day on which the temporary restraining order is published and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person before the end of 10 days after the day on which the decision is made; or
+	(B)	made a further temporary restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; or
+	(C)	made a permanent restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person has not carried out the proposal;
+the Minister is not empowered:
+	(e)	to make a temporary restraining order, permanent restraining order or divestment order in relation to the acquisition or arrangement; or
+	(f)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
+	(5)	If:
+	(a)	before the acquisition, or before entering into the arrangement, as the case may be, the person concerned gave to the Minister a notice in the prescribed form stating the person’s intention to acquire the assets, interests, rights or benefits or to enter into the arrangement, as the case requires; and
+	(b)	before the end of 30 days after the day on which the Minister receives the notice, the Minister makes a temporary restraining order in relation to the acquisition or arrangement specified in the notice; and
+	(c)	the temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(d)	before the end of 60 days after the day on which the temporary restraining order is published, the Minister makes a further temporary restraining order in relation to the acquisition or arrangement specified in the notice; and
+	(e)	the further temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made and before the first‑mentioned temporary retraining order ceases to have effect; and
+	(f)	60 days pass after the day on which the further temporary restraining order is published and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person before the end of 10 days after the day on which the decision is made; or
+	(B)	made a permanent restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person has not carried out the proposal;
+the Minister is not empowered:
+	(g)	to make a temporary restraining order, permanent restraining order or divestment order in relation to the acquisition or arrangement; or
+	(h)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
 43  Permanent restraining order
 		If the Minister is satisfied that the result of a trigger proposal would be contrary to the public interest, the Minister may make an order (in this Part called a permanent restraining order) prohibiting the proposed acquisition or prohibiting the entering into of the proposed arrangement, as the case may be, to which the trigger proposal relates.
 44  Divestment order
@@ -435,16 +488,16 @@ the Minister may, for remedial purposes, make an order (in this Part called a di
 the Minister must not make a divestment order in relation to the proposal unless:
 	(c)	the person is convicted of a breach of condition offence in relation to the acquisition or arrangement; or
 	(d)	an order is made under section 19B of the Crimes Act 1914 in relation to the person in respect of a breach of condition offence in relation to the acquisition or arrangement.
-45  Offence of contravening permanent restraining order or divestment order
-		A person who contravenes a permanent restraining order or divestment order is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
+45  Offence of contravening temporary restraining order, permanent restraining order or divestment order
+		A person who contravenes a temporary restraining order, permanent restraining order or divestment order is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 46  Publication of orders
-		A permanent restraining order or divestment order under this Part is to be in writing signed by the Minister and has no effect unless it is published in the Gazette within 10 days after the day on which it is made.
+		A temporary restraining order, permanent restraining order or divestment order under this Part is to be in writing signed by the Minister and has no effect unless it is published in the Gazette within 10 days after the day on which it is made.
 47  When orders come into operation
-	(1)	A a permanent restraining order comes into operation on the day on which it is published in the Gazette.
+	(1)	A temporary restraining order or a permanent restraining order comes into operation on the day on which it is published in the Gazette.
 	(2)	A divestment order comes into operation on such date as is specified in the order, being a date not earlier than 30 days after the date of publication of the order in the Gazette.
 48  Revocation of orders
-	(1)	The Minister may, at any time, by notice published in the Gazette, revoke a permanent restraining order or a divestment order.
+	(1)	The Minister may, at any time, by notice published in the Gazette, revoke a temporary restraining order, a permanent restraining order or a divestment order.
 	(2)	The Minister must not revoke a permanent restraining order or divestment order if the Minister is satisfied that it would be contrary to the public interest to do so.
 
 Part 4—Control of agreements relating to the directorate of Australian‑registered insurance companies
@@ -457,6 +510,7 @@ conditional go‑ahead decision means a go‑ahead decision that is subject to c
 divestment order means an order under section 58.
 go‑ahead decision means a decision under subsection 55(1).
 permanent restraining order means an order under section 57.
+temporary restraining order means an order under section 56.
 trigger proposal has the meaning given by section 50.
 50  Meaning of trigger proposal—agreements relating to the directorate of Australian‑registered insurance companies
 		If:
@@ -482,7 +536,7 @@ the following provisions have effect:
 	(c)	if subparagraph (a)(i) applies—each of the persons is taken to have carried out a trigger proposal;
 	(d)	if subparagraph (a)(ii) applies—the company is taken to have carried out a trigger proposal.
 
-Division 2—Notification
+Division 2—Notification and time limits
 52  Compulsory notification of trigger proposal
 		If:
 	(a)	a person or company carries out a trigger proposal; and
@@ -493,11 +547,26 @@ Division 2—Notification
 	(ii)	the person or company had reasonable grounds to suspect that the proposal concerned was a trigger proposal but did not make all reasonable efforts to ascertain whether it was a trigger proposal;
 the person or company is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
-54  Trigger proposal must not be carried out before a go‑ahead decision is given
+53  30‑day time limit for Minister to make a decision
+		If:
+	(a)	before entering into the agreement, or before the alteration, as the case may be, the person or company concerned gave to the Minister a notice in the prescribed form stating the person’s intention to enter into the agreement, or the proposal to alter the company’s constituent document, as the case requires; and
+	(b)	30 days pass after the day on which the Minister receives the notice and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person or company before the end of 10 days after the day on which the decision is made; or
+	(B)	made a temporary restraining order or a permanent restraining order in relation to the agreement or alteration specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person or company has not carried out the proposal;
+the Minister is not empowered:
+	(c)	to make a temporary restraining order, a permanent restraining order or a divestment order in relation to the agreement or alteration, as the case requires; or
+	(d)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
+54  Trigger proposal must not be carried out before a go‑ahead decision is given or time limit runs out
 		If:
 	(a)	a person or company carries out a trigger proposal; and
-	(b)	the Minister did not give a go‑ahead decision in relation to the proposal before the relevant agreement was entered into or the relevant alteration to the company’s constituent document was made, as the case may be;
-the person or company commits an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
+	(b)	before entering into the agreement, or before the alteration, as the case may be, the person or company concerned gave to the Minister a notice in the prescribed form stating the person’s intention to enter into the agreement, or the proposal to alter the company’s constituent document, as the case requires; and
+	(c)	the person entered into the agreement, or the company altered its constituent document, before:
+	(i)	the end of 40 days after the date on which the Minister received the notice; or
+	(ii)	the date on which written advice of a go‑ahead decision is given in relation to the proposal specified in the notice;
+		whichever first occurs;
+the person or company is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
 Division 3—Go‑ahead decisions
@@ -513,9 +582,40 @@ Division 3—Go‑ahead decisions
 	(d)	the person or company does not comply with the conditions;
 the person or company is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
-	(4)	If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
+	(4)	If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a temporary restraining order or a permanent restraining order in relation to the trigger proposal.
 
-Division 4—Permanent restraining orders and divestment orders
+Division 4—Temporary restraining orders, permanent restraining orders and divestment orders
+56  Temporary restraining order
+	(1)	The Minister may make an order (in this Part called a temporary restraining order) prohibiting the entering into of the proposed agreement or prohibiting the proposed alteration, as the case may be, to which the trigger proposal relates.
+	(2)	The Minister’s powers under subsection (1) are to be exercised for the purpose of enabling due consideration to be given to the question whether a go‑ahead decision or permanent restraining order should be made.
+	(3)	A temporary restraining order has effect for such period, not exceeding 60 days after the order comes into operation, as is specified in the order.
+	(4)	If:
+	(a)	before entering into the agreement, or before the alteration, as the case may be, the person or company concerned gave to the Minister a notice in the prescribed form stating the person’s intention to enter into the agreement, or the proposal to alter the company’s constituent document, as the case requires; and
+	(b)	before the end of 30 days after the day on which the Minister receives the notice, the Minister makes a temporary restraining order in relation to the agreement or alteration specified in the notice; and
+	(c)	the temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(d)	60 days pass after the day on which the temporary restraining order is published and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person before the end of 10 days after the day on which the decision is made; or
+	(B)	made a further temporary restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; or
+	(C)	made a permanent restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person or company has not carried out the proposal;
+the Minister is not empowered:
+	(e)	to make a temporary restraining order, permanent restraining order or divestment order in relation to the agreement or alteration; or
+	(f)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
+	(5)	If:
+	(a)	before entering into the agreement, or before the alteration, as the case may be, the person or company concerned gave to the Minister a notice in the prescribed form stating the person’s intention to enter into the agreement, or the proposal to alter the company’s constituent document, as the case requires; and
+	(b)	before the end of 30 days after the day on which the Minister receives the notice, the Minister makes a temporary restraining order in relation to the agreement or alteration specified in the notice; and
+	(c)	the temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(d)	before the end of 60 days after the day on which the temporary restraining order is published, the Minister makes a further temporary restraining order in relation to the agreement or alteration specified in the notice; and
+	(e)	the further temporary restraining order is published in the Gazette before the end of 10 days after the day on which the order is made and before the first‑mentioned temporary restraining order ceases to have effect; and
+	(f)	60 days pass after the day on which the further temporary restraining order is published and by the end of that period:
+	(i)	the Minister has not:
+	(A)	made a go‑ahead decision in relation to the proposal specified in the notice, being a decision of which written advice is given to the person before the end of 10 days after the day on which the decision is made; or
+	(B)	made a permanent restraining order in relation to the proposal specified in the notice, being an order published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(ii)	the person or company has not carried out the proposal;
+the Minister is not empowered:
+	(g)	to make a temporary restraining order, permanent restraining order or divestment order in relation to the agreement or alteration; or
+	(h)	to make a conditional go‑ahead decision in relation to the proposal specified in the notice.
 57  Permanent restraining order
 		If the Minister is satisfied that the result of a trigger proposal would be contrary to the public interest, the Minister may make an order (in this Part called a permanent restraining order) prohibiting the entering into of the proposed agreement or prohibiting the proposed alteration, as the case may be, to which the trigger proposal relates.
 58  Divestment order
@@ -530,16 +630,16 @@ the Minister may, for remedial purposes, make an order (in this Part called a di
 the Minister must not make a divestment order in relation to the proposal unless:
 	(c)	the person or company is convicted of a breach of condition offence in relation to the agreement or alteration; or
 	(d)	an order is made under section 19B of the Crimes Act 1914 in relation to the person or company in respect of a breach of condition offence in relation to the agreement or alteration.
-59  Offence of contravening permanent restraining order or divestment order
-		A person who contravenes a permanent restraining order or divestment order is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
+59  Offence of contravening temporary restraining order, permanent restraining order or divestment order
+		A person who contravenes a temporary restraining order, permanent restraining order or divestment order is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 60  Publication of orders
-		A permanent restraining order or divestment order under this Part is to be in writing signed by the Minister and has no effect unless it is published in the Gazette within 10 days after the day on which it is made.
+		A temporary restraining order, permanent restraining order or divestment order under this Part is to be in writing signed by the Minister and has no effect unless it is published in the Gazette within 10 days after the day on which it is made.
 61  When orders come into operation
-	(1)	A a permanent restraining order comes into operation on the day on which it is published in the Gazette.
+	(1)	A temporary restraining order or a permanent restraining order comes into operation on the day on which it is published in the Gazette.
 	(2)	A divestment order comes into operation on such date as is specified in the order, being a date not earlier than 30 days after the date of publication of the order in the Gazette.
 62  Revocation of orders
-	(1)	The Minister may, at any time, by notice published in the Gazette, revoke a permanent restraining order or a divestment order.
+	(1)	The Minister may, at any time, by notice published in the Gazette, revoke a temporary restraining order, a permanent restraining order or a divestment order.
 	(2)	The Minister must not revoke a permanent restraining order or divestment order if the Minister is satisfied that it would be contrary to the public interest to do so.
 
 Part 5—Judicial enforcement of Ministerial orders
@@ -774,11 +874,6 @@ Financial Sector (Collection of Data—Consequential and Transitional Provisions
 24 Sept 2001
 Ss. 1‑3: Royal Assent Remainder: 1 July 2002 (see s. 2(2) and Gazette 2002, No. GN24)
 Sch. 2 (item 160)
-Financial Sector Legislation Amendment Act (No. 1) 2002
-37, 2002
-26 June 2002
-Schedule 5: 27 June 2002 (d)
-—
 (a)	The Insurance Acquisitions and Takeovers Act 1991 was amended by Schedule 6 only of the Financial Laws Amendment Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Insurance Acquisitions and Takeovers Act 1991 was amended by Schedule 8 only of the Financial Sector Reform (Amendments and Transitional Provisions) Act 1998, subsection 2(2)(f) of which provides as follows:
@@ -786,20 +881,6 @@ Schedule 5: 27 June 2002 (d)
 	(f)	Schedule 8;
 (c)	The Insurance Acquisitions and Takeovers Act 1991 was amended by Schedule 1 (item 29) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001, subsection 2(4) of which provides as follows:
 	(4)	The remaining items of Schedule 1 to this Act commence on the day specified in subsection 2.2(2) of the Criminal Code.
-(d)	The Insurance Acquisitions and Takeovers Act 1991 was amended by Schedule 5 only of the Financial Sector Legislation Amendment Act (No. 1) 2002, subsection 2(1) (item 5) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-5.  Schedules 5 to 9
-The day after the day on which this Act receives the Royal Assent
-27 June 2002
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -807,14 +888,14 @@ How affected
 Title	
 am. No. 54, 1998
 S. 3	
-am. No. 54, 1998; No. 37, 2002
+am. No. 54, 1998
 S. 4 	
-am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002
+am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001
 S. 19	
 am. No. 54, 1998
 Part 2 (ss. 20–34)	
 rep. No. 54, 1998
-Ss. 20–23	
+Ss. 20‑23
 rep. No. 54, 1998
 S. 24 	
 am. No. 107, 1997
@@ -842,7 +923,7 @@ Note to s. 27
 ad. No. 107, 1997
 
 rep. No. 54, 1998
-Ss. 28–30 	
+Ss. 28‑30 	
 rep. No. 54, 1998
 S. 31 	
 am. No. 107, 1997
@@ -852,76 +933,42 @@ Note to s. 31
 ad. No. 107, 1997
 
 rep. No. 54, 1998
-Ss. 32–34 	
+Ss. 32‑34 	
 rep. No. 54, 1998
-S. 35 	
-am. No. 37, 2002
 S. 36 	
 am. No. 5, 1995
-Heading to Div. 2 of Part 3 	
-rs. No. 37, 2002
 S. 38 	
 am. No. 107, 1997
 Note to s. 38 	
 ad. No. 107, 1997
-S. 39 	
-rep. No. 37, 2002
 S. 40 	
 am. No. 107, 1997
-
-rs. No. 37, 2002
 Note to s. 40 	
 ad. No. 107, 1997
-
-rs. No. 37, 2002
 S. 41 	
-am. No. 107, 1997; No. 37, 2002
+am. No. 107, 1997
 Note to s. 41 	
 ad. No. 107, 1997
-Heading to Div. 4 of Part 3 	
-rs. No. 37, 2002
-S. 42 	
-rep. No. 37, 2002
-Heading to s. 45 	
-am. No. 37, 2002
 S. 45 	
-am. No. 107, 1997; No. 37, 2002
+am. No. 107, 1997
 Note to s. 45 	
 ad. No. 107, 1997
-Ss. 46–49 	
-am. No. 37, 2002
-Heading to Div. 2 of Part 4 	
-rs. No. 37, 2002
 S. 52 	
 am. No. 107, 1997
 Note to s. 52 	
 ad. No. 107, 1997
-S. 53 	
-rep. No. 37, 2002
 S. 54 	
 am. No. 107, 1997
-
-rs. No. 37, 2002
 Note to s. 54 	
 ad. No. 107, 1997
-
-rs. No. 37, 2002
 S. 55 	
-am. No. 107, 1997; No. 37, 2002
+am. No. 107, 1997
 Note to s. 55 	
 ad. No. 107, 1997
-Heading to Div. 4 of Part 4 	
-rs. No. 37, 2002
-S. 56 	
-rep. No. 37, 2002
-Heading to s. 59 	
-am. No. 37, 2002
 S. 59 	
-am. No. 107, 1997; No. 37, 2002
+am. No. 107, 1997
 Note to s. 59 	
 ad. No. 107, 1997
-Ss. 60‑62 	
-am. No. 37, 2002
 Ss. 63–65	
 am. No. 54, 1998
 S. 69	
