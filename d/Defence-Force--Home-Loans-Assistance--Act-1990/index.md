@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 15 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 3 July 2008
+ taking into account amendments up to Act No. 28 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -40,7 +40,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Breaking continuity of service
 
-[8](#8).            Multiple surviving spouses or de facto partners
+[8](#8).            Multiple widows or widowers
 
 [9](#9).            Approval of agreement etc 
 
@@ -88,7 +88,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Calculation of amounts of subsidy
 
-[26](#26).          Joint loans to entitled persons who are spouses or de facto partners
+[26](#26).          Joint loans to entitled persons who are spouses
 
 [27](#27).          Cancellation of subsidy
 
@@ -231,19 +231,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="benchmark-rate"></a>**_benchmark rate_** has the same meaning as in the agreement.
 
-                    <a name="child"></a><a name=""></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if:
+                    <a name="child"></a>**_child_**, in relation to a person, means a child, stepchild or legally  adopted child of the person who is:
 
-                     (a)  he or she is:
+                     (a)  under 16; or
 
-                              (i)  a legally adopted child or a stepchild of the person; or
-
-                             (ii)  a child of the person within the meaning of the _Family Law Act 1975_; and
-
-                     (b)  he or she is:
-
-                              (i)  under 16; or
-
-                             (ii)  a student.
+                     (b)  a student.
 
                     <a name="commenc-dai"></a>**_commencing day_** means the day on which Part 2 commences.
 
@@ -259,7 +251,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
 
                     where:
 
@@ -271,21 +263,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
 
 Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
 
 Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
 
                     <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
 Note:          See section 7 for some special circumstances in which a period of full-time service is taken to have been broken.
-
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="dsh-act"></a>**_DSH Act_** means the _Defence Service Homes Act 1918_.
 
@@ -498,8 +488,6 @@ and who, immediately before the discharge:
 
                     <a name="oper-servic-member"></a>**_operational service member_** means a person who is an operational service member under subsection 3A(1) or (3).
 
-                    <a name="child"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the parent of a person if the person is his or her child because of the definition of **_child_** in this subsection.
-
                     <a name="rejoin-member"></a>**_rejoining member_** means a person who:
 
                      (a)  before, on or after the commencing day resigns, retires or is discharged from the Defence Force; and
@@ -532,6 +520,8 @@ and who, immediately before the discharge:
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
+                    <a name="spous"></a>**_spouse_**, in relation to a person, includes a person of the opposite sex to the person who lives with the person as his or her spouse, on a permanent and _bona fide_ domestic basis, although not legally married to the person.
+
                     <a name="statutori-train-oblig"></a>**_statutory training obligation_** means a period of training in a 12 month period that has been rendered by a person because the person is bound to render that training under the _Defence Act 1903_, the _Naval Defence Act 1910_ or the _Air Force Act 1923_ or in accordance with regulations made under the _Defence Act 1903_, the _Naval Defence Act 1910_ or the _Air Force Act 1923_.
 
                     <a name="student"></a>**_student_** means a person who is:
@@ -552,10 +542,6 @@ and who, immediately before the discharge:
 
                     <a name="subsidi-period"></a>**_subsidy period_**, in relation to a person, means the period to which the person is entitled under section 23.
 
-                    <a name="surviv-spous-de-facto-partner"></a>**_surviving spouse or de facto partner_**, in relation to a deceased person, means a person who was the spouse or de facto partner of the deceased person immediately before the deceased person’s death.
-
-Note:          See also section 8.
-
                     <a name="elig-person"></a><a name="train-period"></a>**_training period_**, in relation to a person covered by paragraph (h) of the definition of **_eligible person_**, means:
 
                      (a)  5 years of effective full-time service; or
@@ -567,6 +553,14 @@ Note:          See also section 8.
                     <a name="warlik-servic"></a>**_warlike service_** means duty declared under subsection 3C(1) to be warlike service.
 
                     <a name="warlik-servic-member"></a>**_warlike service member_** has the meaning given by section 3B.
+
+                    <a name="widow"></a>**_widow_**, in relation to a man, includes a woman who lived with the man as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him.
+
+Note:          See also section 8.
+
+                    <a name="widow"></a>**_widower_**, in relation to a woman, includes a man who lived with the woman as her husband on a permanent and _bona fide_ domestic basis, although not legally married to her.
+
+Note:          See also section 8.
 
 ##### <a id="3A"></a>3A  Operational service member
 
@@ -658,9 +652,9 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                      (a)  the person owns an interest in the house that is more than a half interest; or
 
-                     (b)  the person owns, together with his or her spouse, de facto partner or child or children, an interest in the house that is more than a half interest; or
+                     (b)  the person owns, together with his or her spouse or child or children, an interest in the house that is more than a half interest; or
 
-                     (c)  the person owns an interest in the house that, when added to any other interest in the house owned separately by the person’s spouse, de facto partner or child or children, is more than a half interest.
+                     (c)  the person owns an interest in the house that, when added to any other interest in the house owned separately by the person’s spouse or child or children, is more than a half interest.
 
              (2)  In this section:
 
@@ -670,11 +664,11 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                    For the purposes of this Act, the members of a person's family are:
 
-                     (a)  the person’s spouse or de facto partner; and
+                     (a)  the person’s spouse; and
 
-                     (b)  a child of the person or of the person’s spouse or de facto partner; and
+                     (b)  a child of the person or of the person’s spouse; and
 
-                     (c)  a parent of the person, or of the person’s spouse or de facto partner, who is ordinarily dependent on the person.
+                     (c)  a parent of the person, or of the person’s spouse, who is ordinarily dependent on the person.
 
 ##### <a id="7"></a>7  Breaking continuity of service
 
@@ -688,15 +682,11 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
              (3)  A period of full-time service by a member of the Defence Force is not taken to have been broken by a period described in paragraph (a) or (b) of the definition of **_effective full-time service_** in section 3.
 
-##### <a id="8"></a>8  Multiple surviving spouses or de facto partners
+##### <a id="8"></a>8  Multiple widows or widowers
 
-             (1)  If a deceased person has more than one surviving spouse or de facto partner, the surviving spouse or de facto partner who was living with the person immediately before his or her death is taken, for the purposes of Division 1 of Part 2 and paragraph 29(h), to be the person’s sole surviving spouse or de facto partner.
+             (1)  Where a deceased person is survived by more than one widow or widower, the widow or widower who was living with the person immediately before his or her death is taken, for the purposes of Division 1 of Part 2 and paragraph 29(h), to be the person’s sole surviving widow or widower.
 
-             (2)  For the purposes of subsection (1), the person is taken to have been living with a spouse or de facto partner immediately before the death of the person if they were not living together at that time only because of:
-
-                     (a)  a temporary absence from each other; or
-
-                     (b)  illness or infirmity of either or both of them.
+             (2)  Where, immediately before the death of a person, the person was temporarily living apart from his or her spouse, the person is taken, for the purposes of this section, to have been living with his or her spouse at that time.
 
 ##### <a id="9"></a>9  Approval of agreement etc.
 
@@ -712,7 +702,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
              (2)  An application must be in writing, in the approved form and must be made in accordance with the agreement.
 
-             (3)  An application by a person who is not an eligible person but who is the surviving spouse or de facto partner of a deceased eligible person must be made within 2 years after:
+             (3)  An application by a person who is not an eligible person but who is the widow or widower of a deceased eligible person must be made within 2 years after:
 
                      (a)  if the eligible person was not a member—his or her resignation, retirement or discharge from the Defence Force took effect; or
 
@@ -740,7 +730,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                               (i)  is an eligible person, or was an eligible person when he or she applied for the certificate; or
 
-                             (ii)  is the surviving spouse or de facto partner of such an eligible person; and
+                             (ii)  is the widow or widower of such an eligible person; and
 
                      (c)  if the person is a member (other than an operational service member, a warlike service member, a rejoining member or a person covered by paragraph (h) of the definition of **_eligible person_**)—the person has completed 6 months of effective full-time service after the end of the person’s basic service period; and
 
@@ -758,7 +748,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                      (b)  at least one of those certificates was issued after the day on which the person’s resignation, retirement or discharge from the Defence Force took effect.
 
-             (3)  The Secretary must not issue an entitlement certificate to a person who is a surviving spouse or de facto partner of the kind mentioned in subsection 10(3) (otherwise than on an application under subsection (4) of this section) if:
+             (3)  The Secretary must not issue an entitlement certificate to a person who is a widow or widower of the kind mentioned in subsection 10(3) (otherwise than on an application under subsection (4) of this section) if:
 
                      (a)  where subsection 30(6) applies in relation to the person—one entitlement certificate was previously issued to the person within the period applicable to the person under subsection 10(3); or
 
@@ -830,7 +820,7 @@ may apply to the Secretary for approval of the payment of subsidy in respect of 
 
           (3A)  Subsection (3) does not apply to a person who has been an operational service member under subsection 3A(1).
 
-             (4)  An application by a person who is not an eligible person but who is the surviving spouse or de facto partner of a deceased eligible person must be made within 2 years after:
+             (4)  An application by a person who is not an eligible person but who is the widow or widower of a deceased eligible person must be made within 2 years after:
 
                      (a)  if the eligible person was not a member—his or her resignation, retirement or discharge from the Defence Force took effect; or
 
@@ -844,7 +834,7 @@ may apply to the Secretary for approval of the payment of subsidy in respect of 
 
                      (a)  the person’s subsidy period has not ended; and
 
-                     (b)  the person, or the person’s spouse or de facto partner, is not the owner of a house in Australia (other than that in respect of which the loan was made) being a house acquired after the person obtained the subsidised loan.
+                     (b)  the person, or the person’s spouse, is not the owner of a house in Australia (other than that in respect of which the loan was made) being a house acquired after the person obtained the subsidised loan.
 
 Note:          See section 5.
 
@@ -874,9 +864,9 @@ Note:          See section 5.
 
              (1)  Where:
 
-                     (a)  a subsidised borrower who is the sole owner of the property to which the subsidised loan relates wishes, by a sale or transfer of part of his or her interest in the property, to own the property together with his or her spouse or de facto partner as joint tenants; or
+                     (a)  a subsidised borrower who is the sole owner of the property to which the subsidised loan relates wishes, by a sale or transfer of part of his or her interest in the property, to own the property together with his or her spouse as joint tenants; or
 
-                     (b)  a subsidised borrower who owns the property to which the subsidised loan relates together with his or her spouse or de facto partner, as joint tenants, wishes, by a purchase or transfer of the spouse’s or de facto partner’s interest, to become the sole owner of the property;
+                     (b)  a subsidised borrower who owns the property to which the subsidised loan relates together with his or her spouse, as joint tenants, wishes, by a purchase or transfer of the spouse’s interest, to become the sole owner of the property;
 
 the borrower may apply to the Secretary for approval of the continued payment of subsidy in relation to the property after the sale, purchase or transfer takes place.
 
@@ -888,7 +878,7 @@ the borrower may apply to the Secretary for approval of the continued payment of
 
                      (a)  the proposed sale, purchase or transfer has not been ordered by the Family Court; and
 
-                     (b)  as a result of the proposed sale, purchase or transfer, the property concerned will be owned by the subsidised borrower, or by the subsidised borrower and his or her spouse or de facto partner as joint tenants, and will not be owned by any other person.
+                     (b)  as a result of the proposed sale, purchase or transfer, the property concerned will be owned by the subsidised borrower, or by the subsidised borrower and his or her spouse as joint tenants, and will not be owned by any other person.
 
              (2)  Where the Secretary grants an approval under this section, the Secretary must cause a notice of approval, in the approved form, to be sent to the applicant and to the Bank.
 
@@ -914,13 +904,13 @@ the borrower may apply to the Secretary for approval of the continued payment of
 
                      (c)  each borrower has consented in writing to the recovery by the Commonwealth in accordance with the agreement and this Act of amounts to which subclauses 8.2 and 8.4 of the agreement apply; and
 
-                     (d)  the person, or the person’s spouse or de facto partner, is not the owner of any house in Australia other than that in respect of which the loan was made; and
+                     (d)  the person, or the person’s spouse, is not the owner of any house in Australia other than that in respect of which the loan was made; and
 
 Note:          See section 5.
 
                      (e)  the house in respect of which the loan was made:
 
-                              (i)  is owned by the person, or by the person and the person’s spouse or de facto partner as joint tenants (whether or not the spouse or de facto partner is also an entitled person) and is not owned by any other person; and
+                              (i)  is owned by the person, or by the person and the person’s spouse as joint tenants (whether or not the spouse is also an entitled person) and is not owned by any other person; and
 
                              (ii)  is used by the person as a home for the person and members of his or her family (if any); and
 
@@ -1174,11 +1164,11 @@ whichever ended first.
 
 ##### <a id="24"></a>24  Subsidy period—widows and widowers
 
-             (1)  Subject to this Part, subsidy is payable on a subsidised loan to the surviving spouse or de facto partner of a deceased eligible person while the surviving spouse or de facto partner remains entitled to a subsidy period.
+             (1)  Subject to this Part, subsidy is payable on a subsidised loan to the widow or widower of a deceased eligible person while the widow or widower remains entitled to a subsidy period.
 
-             (2)  Subject to subsection (3), the surviving spouse or de facto partner of a deceased eligible person is at any particular time entitled to a subsidy period that at that time is the same as the period that would have applied at that time under section 23 if the loan had been made to the eligible person.
+             (2)  Subject to subsection (3), the widow or widower of a deceased eligible person is at any particular time entitled to a subsidy period that at that time is the same as the period that would have applied at that time under section 23 if the loan had been made to the eligible person.
 
-             (3)  If the deceased is a prescribed member, subsection (2) applies to the surviving spouse or de facto partner as if the deceased had been an incapacitated person immediately before his or her death.
+             (3)  If the deceased is a prescribed member, subsection (2) applies to the widow or widower as if the deceased had been an incapacitated person immediately before his or her death.
 
              (4)  In this section:
 
@@ -1198,7 +1188,7 @@ whichever ended first.
 
                             (iii)  a law of the Commonwealth prescribed by the regulations.
 
-                    <a name="surviv-spous-de-facto-partner"></a>**_surviving spouse or de facto partner_** does not include a surviving spouse or de facto partner who is an eligible person.
+                    <a name="widow-widow"></a>**_widow or widower_** does not include a widow or widower who is an eligible person.
 
 ##### <a id="25"></a>25  Calculation of amounts of subsidy
 
@@ -1214,7 +1204,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
 
 where:
 
@@ -1222,25 +1212,25 @@ where:
 
                     <a name="rmr"></a>**_RMR_** is the amount worked out under that subsection.
 
-##### <a id="26"></a>26  Joint loans to entitled persons who are spouses or de facto partners
+##### <a id="26"></a>26  Joint loans to entitled persons who are spouses
 
-             (1)  Where a subsidised loan is made to 2 entitled persons jointly, each of whom is the spouse or de facto partner of the other, then:
+             (1)  Where a subsidised loan is made to 2 entitled persons jointly, each of whom is the spouse of the other, then:
 
                      (a)  while both of them remain entitled to a subsidy period, this Act applies in relation to the loan as if the references in paragraphs 14(1)(a), 21(1)(b) and  21(2)(e), and in subsection 22(2), to $80,000 were references to $160,000; and
 
                      (b)  when only one of them remains entitled to a subsidy period, paragraph (a) stops applying and the other provisions of this Act thereafter apply in relation to the loan as if he or she were the sole subsidised borrower.
 
-             (2)  If, when paragraph (1)(a) applies in relation to a loan, one of the spouses or de facto partners dies:
+             (2)  If, when paragraph (1)(a) applies in relation to a loan, one of the spouses dies:
 
                      (a)  this Act continues to apply in relation to the loan in the manner mentioned in that paragraph until:
 
-                              (i)  the end of the subsidy period of the deceased spouse or de facto partner as at the date of death; or
+                              (i)  the end of the subsidy period of the deceased spouse as at the date of death; or
 
-                             (ii)  the end of the subsidy period to which the surviving spouse or de facto partner is separately entitled;
+                             (ii)  the end of the subsidy period to which the widow or widower is separately entitled;
 
                             whichever happens first; and
 
-                     (b)  when one of those things happens, paragraph (a) stops applying and the other provisions of this Act thereafter apply in relation to the loan as if the surviving spouse or de facto partner were the sole subsidised borrower.
+                     (b)  when one of those things happens, paragraph (a) stops applying and the other provisions of this Act thereafter apply in relation to the loan as if the widow or widower were the sole subsidised borrower.
 
 ##### <a id="27"></a>27  Cancellation of subsidy
 
@@ -1300,31 +1290,31 @@ the Secretary may, by written notice given to the person, notify the person that
 
                      (b)  the person’s subsidy period ends;
 
-                     (c)  if the property to which the loan relates is owned by the person and his or her spouse or de facto partner as joint tenants—the joint tenancy is converted into a tenancy in common;
+                     (c)  if the property to which the loan relates is owned by the person and his or her spouse as joint tenants—the joint tenancy is converted into a tenancy in common;
 
-                     (d)  the property to which the loan relates is transferred under an order of the Family Court to the person’s spouse or de facto partner, or former spouse or former de facto partner, or to the person and his or her former spouse or former de facto partner, whether as joint tenants or as tenants in common;
+                     (d)  the property to which the loan relates is transferred under an order of the Family Court to the person’s spouse or former spouse, or to the person and his or her former spouse, whether as joint tenants or as tenants in common;
 
                      (e)  the property to which the loan relates, or any interest in it, is sold or transferred to another person (other than under an order of the Family Court) without an approval under section 18;
 
                       (f)  the person (being a person to whom subsection 30(6) applies) dies;
 
-                     (g)  the person (being a person who is or was an eligible person) dies and does not have a surviving spouse or de facto partner;
+                     (g)  the person (being a person who is or was an eligible person) dies and is not survived by a widow or widower;
 
-                     (h)  the person (being a person who is or was an eligible person) dies and the property to which the loan relates, or any interest in it, is sold or transferred under the person’s will or an intestacy law to someone other than the person's surviving spouse or de facto partner.
+                     (h)  the person (being a person who is or was an eligible person) dies and the property to which the loan relates, or any interest in it, is sold or transferred under the person’s will or an intestacy law to someone other than the person's widow or widower.
 
 ##### <a id="30"></a>30  What happens on the death of a borrower who is an eligible person?
 
              (1)  Where:
 
-                     (a)  a prescribed borrower dies and has a surviving spouse or de facto partner; and
+                     (a)  a prescribed borrower dies and is survived by a widow or widower; and
 
-                     (b)  the house to which the subsidised loan relates was, immediately before the borrower’s death, owned jointly by the borrower and the surviving spouse or de facto partner;
+                     (b)  the house to which the subsidised loan relates was, immediately before the borrower’s death, owned jointly by the borrower and the surviving widow or widower;
 
 then, subject to section 29, subsidy continues to be payable on the loan.
 
              (2)  Where:
 
-                     (a)  a prescribed borrower dies and has a surviving spouse or de facto partner; and
+                     (a)  a prescribed borrower dies and is survived by a widow or widower; and
 
                      (b)  the house to which the subsidised loan relates was, immediately before the borrower’s death, owned solely by the borrower;
 
@@ -1334,7 +1324,7 @@ subsidy on the loan is suspended until the house is sold or transferred under th
 
                      (a)  subsidy is suspended; and
 
-                     (b)  the house to which the subsidised loan relates is transferred under the borrower’s will or an intestacy law to a surviving spouse or de facto partner of the borrower who was living with the borrower immediately before the borrower’s death; and
+                     (b)  the house to which the subsidised loan relates is transferred under the borrower’s will or an intestacy law to a surviving widow or widower of the borrower who was living with the borrower immediately before the borrower’s death; and
 
                      (c)  the house is so transferred subject to the loan;
 
@@ -1344,17 +1334,17 @@ then, subject to section 29, the suspension ends and subsidy is payable on the
 
                      (a)  subsidy is suspended; and
 
-                     (b)  the house to which the subsidised loan relates is transferred under the borrower’s will or an intestacy law to a surviving spouse or de facto partner; and
+                     (b)  the house to which the subsidised loan relates is transferred under the borrower’s will or an intestacy law to a surviving widow or widower who was legally married to the borrower; and
 
                      (c)  the house is so transferred subject to the loan; and
 
-                     (d)  no surviving spouse or de facto partner of the borrower was living with the borrower immediately before the borrower’s death;
+                     (d)  no surviving widow or widower of the borrower was living with the borrower immediately before the borrower’s death;
 
 then, subject to section 29, the suspension ends and subsidy is payable on the loan on and after the day on which the suspension took effect.
 
              (5)  Where subsidy is suspended, the Secretary must cause a written notice of the suspension to be given to the Bank in accordance with the agreement.
 
-             (6)  When subsidy is payable on a  loan under this section, the relevant surviving spouse or de facto partner is to be treated, for the purposes of this Act, as if he or she were the subsidised borrower in relation to the loan.
+             (6)  When subsidy is payable on a  loan under this section, the relevant widow or widower is to be treated, for the purposes of this Act, as if he or she were the subsidised borrower in relation to the loan.
 
              (7)  In this section:
 
@@ -1508,7 +1498,7 @@ the Secretary may, by notice in writing given to the person, reduce the due amou
 
                      (c)  a person who is, or has been, a subsidised borrower;
 
-                     (d)  a surviving spouse or de facto partner, or a family member, of a person covered by paragraph (a), (b) or (c).
+                     (d)  a widow or widower, or a family member, of a person covered by paragraph (a), (b) or (c).
 
              (2)  A person covered by subsection (3) may, for a purpose prescribed by the regulations:
 
@@ -1832,7 +1822,7 @@ SCHEDULES
 
 1.       Schedule A    Table of Franchise Payments
 
-2.       Schedule B     Particulars to be included in certain forms used under the                              Act
+2.       Schedule B     Particulars to be included in certain forms used under the Act
 
 3.       Schedule C     Part D—certificate by Bank manager
 
@@ -2156,7 +2146,7 @@ In this Agreement except where the context otherwise requires:
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
+P = (a — b) ![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
 
 Where 
 
@@ -4079,23 +4069,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 2–46): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 16, 22, 24, 35)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amended by Part 7 (section 88) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, paragraph 2 (1) (f) of which provides as follows:
@@ -4239,7 +4212,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007; Nos. 28 and 144, 2008</div>
+    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007; No. 28, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4284,22 +4257,6 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>Ss. 5, 6</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -4319,7 +4276,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 144, 2008</div>
+    <div>am. No. 152, 1991</div>
   </td>
 </tr>
 <tr>
@@ -4327,7 +4284,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; Nos. 28 and 144, 2008</div>
+    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 28, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4351,31 +4308,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 56, 1996; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17, 18</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
+    <div>am. No. 152, 1991; No. 56, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4384,14 +4317,6 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4423,15 +4348,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 52, 2004; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 26</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
+    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 52, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4439,15 +4356,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. No. 56, 1996; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29, 30</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
+    <div>am. No. 56, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4472,14 +4381,6 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
   <td>
     <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4526,35 +4427,5 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 (2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 4
-
-## 16  Application provision
-
-The amendments of sections 10 and 12 of the _Defence Force (Home Loans Assistance) Act 1990_ made by this Schedule apply in relation to an application for an entitlement certificate made on or after the commencement of this Schedule.
-
-## 22  Application provision
-
-The amendments of sections 14, 15, 17 and 18 of the _Defence Force (Home Loans Assistance) Act 1990_ made by this Schedule apply in relation to an application made under section 14 of that Act on or after the commencement of this Schedule.
-
-## 24  Application provision
-
-If:
-
-                     (a)  a person is an entitled person immediately before the commencement of the amendment of paragraph 20(2)(d) of the _Defence Force (Home Loans Assistance) Act 1990_ made by this Schedule; and
-
-                     (b)  apart from this item, subsidy would not become payable to the person on a loan on or after that commencement; and
-
-                     (c)  subsidy would not become payable to the person on the loan only because of the amendment;
-
-the amendment does not apply in respect of the person and the loan.
-
-## 35  Application provision
-
-To avoid doubt, the amendment of paragraph 29(c) of the _Defence Force (Home Loans Assistance) Act 1990_ made by this Schedule does not apply in relation to a subsidised loan on a property where the ownership of the property was converted from a joint tenancy into a tenancy in common with effect before the commencement of the amendment.
 
  
