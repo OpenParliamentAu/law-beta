@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02961/Html/CwlthServDelAge97_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02960/Html/CwlthServDelAge97_image001.gif)
 
 # Commonwealth Services Delivery Agency Act 1997
 
 **Act No. 31 of 1997 as amended**
 
-This compilation was prepared on 17 October 2001
- taking into account amendments up to Act No. 137 of 2001
+This compilation was prepared on 16 February 2000
+ taking into account amendments up to Act No. 146 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -17,11 +17,9 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title                                                                                             1
 
 [2](#2).            Commencement                                                                                   1
-
-[2A](#2A).         Application of the _Criminal Code_                                                       1
 
 [3](#3).            Definitions                                                                                           1
 
@@ -127,17 +125,13 @@ Prepared by the Office of Legislative Drafting,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Commonwealth Services Delivery Agency Act 1997_.
 
 ##### <a id="2"></a>2  Commencement
 
                    This Act commences on 1 July 1997.
-
-##### <a id="2A"></a>2A  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 ##### <a id="3"></a>3  Definitions
 
@@ -541,8 +535,6 @@ either:
 
                     Penalty:  30 penalty units.
 
-          (1A)  Subsection (1) is an offence of strict liability.
-
              (2)  Subsection (1), so far as it applies in relation to a particular protected name or the protected symbol, does not affect rights conferred by law on a person in relation to:
 
                      (a)  a trade mark that is a registered trade mark for the purposes of the _Trade Marks Act 1995_; or
@@ -609,13 +601,11 @@ that was so registered at the protection time in relation to the name or symbol.
 
 The _Commonwealth Services Delivery Agency Act 1997_ as shown in this compilation comprises Act No. 31, 1997 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
@@ -676,23 +666,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>137, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
 </tr></table>
 
  
@@ -723,14 +696,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3</div>
   </td>
   <td>
@@ -747,25 +712,13 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 38</div>
+    <div></div>
   </td>
   <td>
-    <div>am. No. 137, 2001</div>
+    <div></div>
   </td>
 </tr></table>
 
  
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
