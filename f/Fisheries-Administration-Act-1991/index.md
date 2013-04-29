@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00804/Html/3bc19306-ec47-4486-8182-f02adaa0578c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00286/Html/FishAdmin1991_WD02_image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 14 December 2010
- taking into account amendments up to Act No. 137 of 2010
+This compilation was prepared on 2 July 2008
+ taking into account amendments up to Act No. 36 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,217 +18,217 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects of Act                                                                                      1
+[3](#3).            Objects of Act
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation
 
 **Part 2—Australian Fisheries Management Authority** 
 
     **Division 1—Establishment, functions and powers of Authority**
 
-[5](#5).            Establishment                                                                                       5
+[5](#5).            Establishment
 
-[6](#6).            Objectives                                                                                            5
+[6](#6).            Objectives
 
-[6A](#6A).         Principles of ecologically sustainable development                              6
+[6A](#6A).         Principles of ecologically sustainable development
 
-[7](#7).            Functions                                                                                             6
+[7](#7).            Functions
 
-[8](#8).            Powers                                                                                                 9
+[8](#8).            Powers
 
-[9](#9).            Consultation                                                                                       10
+[9](#9).            Consultation
 
-[10](#10).          Authority is a body corporate                                                             10
+[10](#10).          Authority is a body corporate
 
-[10A](#10A).       Financial liabilities                                                                              11
+[10A](#10A).       Financial liabilities
 
-[10B](#10B).       The Commission and CEO                                                                11
+[10B](#10B).       The Commission and CEO
 
-[10C](#10C).       Minister may give directions to CEO about foreign compliance        12
+[10C](#10C).       Minister may give directions to CEO about foreign compliance
 
     **Division 2—Constitution of Commission**
 
-[11](#11).          Constitution of Commission                                                              13
+[11](#11).          Constitution of Commission
 
     **Division 3—Appointment of commissioners**
 
-[12](#12).          Appointment of commissioners                                                         14
+[12](#12).          Appointment of commissioners
 
-[13](#13).          Deputy Chairperson                                                                           15
+[13](#13).          Deputy Chairperson
 
-[14](#14).          Acting CEO                                                                                       16
+[14](#14).          Acting CEO
 
-[15](#15).          Other employment                                                                              17
+[15](#15).          Other employment
 
-[17](#17).          Remuneration and allowances                                                            17
+[17](#17).          Remuneration and allowances
 
-[18](#18).          Leave of absence                                                                                18
+[18](#18).          Leave of absence
 
-[19](#19).          Resignation                                                                                        19
+[19](#19).          Resignation
 
-[20](#20).          Disclosure of interests to Minister                                                     19
+[20](#20).          Disclosure of interests to Minister
 
-[21](#21).          Termination of appointment                                                               19
+[21](#21).          Termination of appointment
 
-[22](#22).          Terms and conditions of appointment not provided for by Act          21
+[22](#22).          Terms and conditions of appointment not provided for by Act
 
     **Division 4—Operation of Commission**
 
-[23](#23).          Meetings                                                                                            22
+[23](#23).          Meetings
 
-[24](#24).          Disclosure of interests to Commission                                               23
+[24](#24).          Disclosure of interests to Commission
 
-[25](#25).          Decisions without meetings                                                               23
+[25](#25).          Decisions without meetings
 
     **Division 5—Committees**
 
-[54](#54).          Committees                                                                                        25
+[54](#54).          Committees
 
-[55](#55).          Committees other than management advisory committees                  25
+[55](#55).          Committees other than management advisory committees
 
-[56](#56).          Management advisory committees                                                     26
+[56](#56).          Management advisory committees
 
-[57](#57).          Functions of management advisory committees                                 26
+[57](#57).          Functions of management advisory committees
 
-[58](#58).          Powers of management advisory committee etc                                 26
+[58](#58).          Powers of management advisory committee etc 
 
-[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority              27
+[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority
 
-[60](#60).          Constitution of management advisory committees                             27
+[60](#60).          Constitution of management advisory committees
 
-[61](#61).          Acting Chairperson                                                                            28
+[61](#61).          Acting Chairperson
 
-[62](#62).          Appointment of members                                                                   29
+[62](#62).          Appointment of members
 
-[63](#63).          Term of office                                                                                    29
+[63](#63).          Term of office
 
-[64](#64).          Leave of absence                                                                                29
+[64](#64).          Leave of absence
 
-[64A](#64A).       Resignation                                                                                        30
+[64A](#64A).       Resignation
 
-[64B](#64B).       Termination of appointment                                                               30
+[64B](#64B).       Termination of appointment
 
-[64C](#64C).       Disclosure of interests to management advisory committee               30
+[64C](#64C).       Disclosure of interests to management advisory committee
 
-[64D](#64D).       Disclosure of interests to Authority                                                   31
+[64D](#64D).       Disclosure of interests to Authority
 
-[65](#65).          Meetings                                                                                            31
+[65](#65).          Meetings
 
-[65A](#65A).       Decisions without meetings                                                               32
+[65A](#65A).       Decisions without meetings
 
-[66](#66).          Arrangements relating to staff etc                                                       32
+[66](#66).          Arrangements relating to staff etc 
 
-[67](#67).          Remuneration and allowances                                                            32
+[67](#67).          Remuneration and allowances
 
     **Division 6—Staff and consultants**
 
-[68](#68).          Staff                                                                                                   34
+[68](#68).          Staff
 
-[69](#69).          Consultants                                                                                        34
+[69](#69).          Consultants
 
     **Division 7—Corporate and annual operational plans**
 
-[72](#72).          Development of corporate plan                                                          35
+[72](#72).          Development of corporate plan
 
-[73](#73).          Approval of corporate plan                                                                35
+[73](#73).          Approval of corporate plan
 
-[74](#74).          Variation of corporate plan by Authority                                           36
+[74](#74).          Variation of corporate plan by Authority
 
-[75](#75).          Variation at request of Minister                                                          36
+[75](#75).          Variation at request of Minister
 
-[76](#76).          Date of effect of variations                                                                 37
+[76](#76).          Date of effect of variations
 
-[77](#77).          Development of annual operational plan                                            37
+[77](#77).          Development of annual operational plan
 
-[78](#78).          Approval of annual operational plan                                                  38
+[78](#78).          Approval of annual operational plan
 
-[79](#79).          Variation of annual operational plan                                                   38
+[79](#79).          Variation of annual operational plan
 
     **Division 9—Miscellaneous**
 
-[87](#87).          Annual report                                                                                     39
+[87](#87).          Annual report
 
-[89](#89).          Peak industry body to be given copy of report etc                             39
+[89](#89).          Peak industry body to be given copy of report etc 
 
-[90](#90).          Public meetings                                                                                  40
+[90](#90).          Public meetings
 
-[91](#91).          Minister may give directions in exceptional circumstances                40
+[91](#91).          Minister may give directions in exceptional circumstances
 
-[92](#92).          Delegation of functions and powers for which Commission is responsible             42
+[92](#92).          Delegation of functions and powers for which Commission is responsible
 
-[93](#93).          Delegation of functions and powers for which CEO is responsible   42
+[93](#93).          Delegation of functions and powers for which CEO is responsible
 
-[94](#94).          Fees                                                                                                    43
+[94](#94).          Fees
 
-[94A](#94A).       Exemption from tax                                                                            43
+[94A](#94A).       Exemption from tax
 
-[94B](#94B).       The AFMA Special Account                                                             43
+[94B](#94B).       The AFMA Special Account
 
-[94C](#94C).       Credits to the AFMA Special Account                                              43
+[94C](#94C).       Credits to the AFMA Special Account
 
-[94D](#94D).       Purposes of the AFMA Special Account                                           44
+[94D](#94D).       Purposes of the AFMA Special Account
 
-[94E](#94E).        Adjusted levy amounts                                                                       44
+[94E](#94E).        Adjusted levy amounts
 
 **Part 3—The Fishing Industry Policy Council** 
 
     **Division 1—Preliminary**
 
-[95](#95).          Interpretation                                                                                      46
+[95](#95).          Interpretation
 
     **Division 2—Establishment, functions and powers of Council**
 
-[96](#96).          Establishment of Council                                                                   47
+[96](#96).          Establishment of Council
 
-[97](#97).          Objectives                                                                                          47
+[97](#97).          Objectives
 
-[98](#98).          Functions of Council                                                                          47
+[98](#98).          Functions of Council
 
-[99](#99).          Powers of Council                                                                             48
+[99](#99).          Powers of Council
 
-[100](#100).        Industry conferences                                                                          48
+[100](#100).        Industry conferences
 
-[101](#101).        Publication of Council reports                                                            48
+[101](#101).        Publication of Council reports
 
     **Division 3—Constitution and meetings of Council**
 
-[102](#102).        Constitution of Council                                                                      50
+[102](#102).        Constitution of Council
 
-[103](#103).        Acting Chairperson                                                                            51
+[103](#103).        Acting Chairperson
 
-[104](#104).        Deputies of members                                                                         51
+[104](#104).        Deputies of members
 
-[105](#105).        Resignation of members                                                                     52
+[105](#105).        Resignation of members
 
-[106](#106).        Termination of appointments etc                                                        52
+[106](#106).        Termination of appointments etc 
 
-[107](#107).        Disclosure of interests                                                                        53
+[107](#107).        Disclosure of interests
 
-[108](#108).        Meetings                                                                                            53
+[108](#108).        Meetings
 
     **Division 4—Working groups of Council**
 
-[109](#109).        Working groups of Council                                                               55
+[109](#109).        Working groups of Council
 
-[110](#110).        Disclosure of interests of members of working groups                     56
+[110](#110).        Disclosure of interests of members of working groups
 
     **Division 5—Miscellaneous**
 
-[111](#111).        Remuneration and allowances                                                            57
+[111](#111).        Remuneration and allowances
 
-[112](#112).        Arrangements relating to staff etc                                                       57
+[112](#112).        Arrangements relating to staff etc 
 
-[113](#113).        Annual report                                                                                     58
+[113](#113).        Annual report
 
 **Part 4—Miscellaneous**
 
-[114](#114).        Regulations                                                                                        59
+[114](#114).        Regulations
 
 **Notes** 
 
@@ -236,7 +236,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]                
 
                    This Act may be cited as the _Fisheries Administration Act 1991_.
 
@@ -356,7 +356,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (b)  ensuring that the exploitation of fisheries resources and the carrying on of any related activities are conducted in a manner consistent with the principles of ecologically sustainable development (which include the exercise of the precautionary principle), in particular the need to have regard to the impact of fishing activities on non-target species and the long term sustainability of the marine environment; and
 
-                   (ba)  ensuring that:
+                    (ba)  ensuring that:
 
                               (i)  the exploitation in the Australian fishing zone (as defined in the _Fisheries Management Act 1991_) and the high seas of fish stocks in relation to which Australia has obligations under international agreements; and
 
@@ -364,7 +364,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                             are carried on consistently with those obligations; and
 
-                   (bb)  to the extent that Australia has obligations:
+                    (bb)  to the extent that Australia has obligations:
 
                               (i)  under international law; or
 
@@ -404,7 +404,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                              (ii)  are consistent with those obligations;
 
-                   (ab)  to the extent that Australia has obligations:
+                    (ab)  to the extent that Australia has obligations:
 
                               (i)  under international law; or
 
@@ -412,7 +412,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                             in relation to fishing activities by Australian-flagged boats on the high seas that are additional to the obligations referred to in paragraph (aa)—to devise and implement management regimes in relation to those activities that are consistent with those first-mentioned obligations; and
 
-                    (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres Strait__Fisheries Act 1984_;
+                    (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres  Strait__Fisheries Act 1984_;
 
                      (b)  to devise fisheries adjustment programs and fisheries restructuring programs;
 
@@ -420,7 +420,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (d)  to devise exploratory and feasibility programs relating to fishing;
 
-                   (da)  to manage and carry out:
+                    (da)  to manage and carry out:
 
                               (i)  programs referred to in paragraphs (b) and (d) that are devised by the Authority; and
 
@@ -446,7 +446,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                             (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
 
-                   (gb)  to disclose, as authorised (within the meaning of subsection (4)), information, including personal information, relating to the following:
+                    (gb)  to disclose, as authorised (within the meaning of subsection (4)), information, including personal information, relating to the following:
 
                               (i)  possible breaches of the laws of Australia or of a foreign country;
 
@@ -476,7 +476,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                             (vi)  to collect, on behalf of the Commonwealth, a payment in the nature of a community return payable by persons exploiting fisheries resources;
 
-                  (ma)  to take action in accordance with international law to deter the use of vessels on the high seas for activities that contravene or reduce the effectiveness of measures that are for the conservation and management of fish stocks and are established by:
+                   (ma)  to take action in accordance with international law to deter the use of vessels on the high seas for activities that contravene or reduce the effectiveness of measures that are for the conservation and management of fish stocks and are established by:
 
                               (i)  a subregional or regional fisheries management organisation that Australia is a member of; or
 
@@ -638,7 +638,7 @@ Eligibility for appointment
 
                            (vii)  law;
 
-                          (viii)  public sector administration or governance;
+                           (viii)  public sector administration or governance;
 
                             (ix)  such other fields (if any) as are prescribed by the regulations; but
 
@@ -762,9 +762,9 @@ it is a condition of the person’s holding office under this Act that the perso
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Australian Capital Territory; and
+                     (a)  in relation to the Australian   Capital Territory—the Legislative Assembly for the Australian Capital   Territory; and
 
-                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—the Legislative Assembly of the Northern Territory.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -1518,7 +1518,7 @@ Note:          An Appropriation Act may contain a provision to
 
              (1)  The **_adjusted levy amounts_** to be credited to the AFMA Special Account under paragraph 94C(a) are the amounts worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00804/Html/3bc19306-ec47-4486-8182-f02adaa0578c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00286/Html/FishAdmin1991_WD02_image002.gif)
 
                    where:
 
@@ -2155,10 +2155,10 @@ Remainder: Royal Assent</div>
     <div>8, 2006</div>
   </td>
   <td>
-    <div>23 Mar 2006</div>
+    <div>23 Mar 2006</div>
   </td>
   <td>
-    <div>23 Mar 2006</div>
+    <div>23 Mar 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -2172,10 +2172,10 @@ Remainder: Royal Assent</div>
     <div>104, 2007</div>
   </td>
   <td>
-    <div>28 June 2007</div>
+    <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 26 July 2007</div>
+    <div>Schedule 1: 26 July 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -2189,31 +2189,14 @@ Remainder: Royal Assent</div>
     <div>36, 2008</div>
   </td>
   <td>
-    <div>24 June 2008</div>
+    <div>24 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–82, 135–156): 1 July 2008</div>
+    <div>Schedule 1 (items 1–82, 135–156): 1 July 2008</div>
   </td>
   <td>
     <div>Sch. 1 (items 
 135–156) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>137, 2010</div>
-  </td>
-  <td>
-    <div>7 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2221,7 +2204,7 @@ _(a)_     The _Fisheries Administration Act 1991_ was amended by section
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Fisheries Administration Act 1991_ was amended by Schedule 10 (item 84) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule 10 (item 84) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -2263,7 +2246,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006; No. 36, 2008</div>
+    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2319,7 +2302,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2327,7 +2310,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 8, 9</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2335,7 +2318,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 10</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2351,7 +2334,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2359,12 +2342,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 10A–10C</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2372,10 +2355,10 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 2</div>
+    <div>Heading to Div. 2 of Part 2</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2383,12 +2366,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 11</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2396,18 +2379,18 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 2</div>
+    <div>Heading to Div. 3 of Part 2</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Div. 3 of Part 2</div>
+    <div>Div. 3 of Part 2</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2423,7 +2406,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2431,7 +2414,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2439,7 +2422,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 14, 15</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2447,7 +2430,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 16</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2455,7 +2438,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2463,7 +2446,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Subhead. to s. 18(1)</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2471,7 +2454,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2479,7 +2462,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2495,7 +2478,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2503,7 +2486,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 156, 1999; No. 36, 2008</div>
+    <div>am. No. 152, 1997; No. 156, 1999; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2511,12 +2494,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -2524,10 +2507,10 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part 2</div>
+    <div>Heading to Div. 4 of Part 2</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2535,7 +2518,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2543,7 +2526,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Note to s. 23(2)</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2551,7 +2534,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 24</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2559,7 +2542,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 25</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2567,7 +2550,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 26, 27</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2583,7 +2566,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2591,15 +2574,15 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 30–42</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Div. 4 of Part 2</div>
+    <div>Div. 4 of Part 2</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2607,7 +2590,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 43–46</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2623,7 +2606,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2631,7 +2614,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 48, 49</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2647,7 +2630,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2655,7 +2638,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 51–53</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2671,7 +2654,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2687,7 +2670,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2703,7 +2686,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2719,7 +2702,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2727,7 +2710,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 64B–64D</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2735,7 +2718,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 65A</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2743,7 +2726,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2751,12 +2734,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 28, 2004; No. 36, 2008</div>
+    <div>am. No. 120, 1997; No. 28, 2004; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
     <div></div>
@@ -2764,10 +2747,10 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 6 of Part 2</div>
+    <div>Heading to Div. 6 of Part 2</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2775,7 +2758,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 68</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2783,7 +2766,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 69</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2791,7 +2774,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 70, 71</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2799,7 +2782,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2807,15 +2790,15 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 77</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Div. 8 of Part 2</div>
+    <div>Div. 8 of Part 2</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2831,7 +2814,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2847,7 +2830,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2855,7 +2838,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 82</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2871,7 +2854,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2879,7 +2862,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 85, 86</div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2903,7 +2886,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2919,7 +2902,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2935,7 +2918,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2959,7 +2942,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2967,7 +2950,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 89</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2983,7 +2966,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2999,7 +2982,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3007,7 +2990,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 93</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3023,7 +3006,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div></div>
   </td>
   <td>
-    <div>rep. No. 36, 2008</div>
+    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3031,7 +3014,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 94</div>
   </td>
   <td>
-    <div>rs. No. 36, 2008</div>
+    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3039,12 +3022,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>Ss. 94A–94E</div>
   </td>
   <td>
-    <div>ad. No. 36, 2008</div>
+    <div>ad. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3052,7 +3035,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3063,12 +3046,12 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3079,71 +3062,9 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 111</div>
   </td>
   <td>
-    <div>am. No. 36, 2008</div>
+    <div>am. No. 36, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Fisheries Legislation Amendment Act (No. 2) 2010 (No. 137, 2010)_
-
-The following amendments commence on 4 January 2011:
-
-## Schedule 1
-
-## 1  Subsection 4(1)
-
-Insert:
-
-                    <a name="co-manag-arrang"></a>**_co-management arrangement_** has the meaning given in section 88.
-
-## 2  Subsection 4(1)
-
-Insert:
-
-                    <a name="primari-stakehold"></a>**_primary stakeholder_** in relation to a fishery means:
-
-                     (a)  the holder of a fishing concession in the fishery; or
-
-                     (b)  an incorporated body that represents those holders (including a peak body, for example); or
-
-                     (c)  a person prescribed by the regulations.
-
-## 3  Paragraph 7(1)(g)
-
-Repeal the paragraph, substitute:
-
-                    (fa)  to consult and exchange information with an entity in a State, Territory or foreign country that has similar functions to the Authority’s functions;
-
-                     (g)  to make its expertise in fisheries management available to the following entities (including by providing information technology, services or technical experts, for example):
-
-                              (i)  an entity in the Commonwealth, a State, a Territory or a foreign country;
-
-                             (ii)  another person;
-
-## 4  Section 54
-
-Omit “, subject to subsection 56(4),”.
-
-## 5  Subsection 56(4)
-
-Repeal the subsection.
-
-## 6  After section 87
-
-Insert:
-
-##### <a id="88"></a>88  Co-management arrangements
-
-                   The Authority may enter into an arrangement (a **_co-management arrangement_**) with stakeholders in a fishery under which the stakeholders assist the Authority to perform the Authority’s functions and powers for the sustainable management of the fishery.
-
-## 7  After paragraph 93(1)(e)
-
-Insert:
-
-                 or (f)  a primary stakeholder under a co-management arrangement;
-
-As at 14 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3155,11 +3076,11 @@ _Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
 
 ## 12  Transitional
 
-(1)       A sub-committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
+(1)        A sub-committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
 
-(2)       Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
+(2)        Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
 
-(3)       If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
+(3)        If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
 
 * * *
 
@@ -3179,7 +3100,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -3187,12 +3108,14 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+ 
 
  
