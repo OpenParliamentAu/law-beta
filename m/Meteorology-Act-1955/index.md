@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00066/Html/194d3ef1-f19f-4897-afd5-217ec0be6141_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00548/Html/Meteorology55_image001.gif)
 
 # Meteorology Act 1955
 
 **Act No. 6 of 1955 as amended**
 
-This compilation was prepared on 3 March 2008
+This compilation was prepared on 5 September 2007
  taking into account amendments up to Act No. 138 of 2007
 
 The text of any of those amendments not in force 
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -48,7 +48,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="bureau"></a>**_the Bureau_** means the Commonwealth Bureau of Meteorology established by this Act.
 
-                    <a name="director"></a>**_the Director_** means the Director of Meteorology.
+**_the Director_** means the Director of Meteorology.
 
 ##### <a id="4"></a>4  Extension to Territories 
 
@@ -66,25 +66,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The functions of the Bureau are:
 
-                     (a)  the taking and recording of meteorological observations and other observations required for the purposes of meteorology; and
+                     (a)  the taking and recording of meteorological observations and other observations required for the purposes of meteorology; 
 
-                     (b)  the forecasting of weather and of the state of the atmosphere; and
+                     (b)  the forecasting of weather and of the state of the atmosphere;
 
-                     (c)  the issue of warnings of gales, storms and other weather conditions likely to endanger life or property, including weather conditions likely to give rise to floods or bush fires; and
+                     (c)  the issue of warnings of gales, storms and other weather conditions likely to endanger life or property, including weather conditions likely to give rise to floods or bush fires; 
 
-                     (d)  the supply of meteorological information; and
+                     (d)  the supply of meteorological information; 
 
-                     (e)  the publication of meteorological reports and bulletins; and
+                     (e)  the publication of meteorological reports and bulletins; 
 
-                      (f)  the promotion of the use of meteorological information; and
+                      (f)  the promotion of the use of meteorological information; 
 
-                     (g)  the promotion of the advancement of meteorological science, by means of meteorological research and investigation or otherwise; and
+                     (g)  the promotion of the advancement of meteorological science, by means of meteorological research and investigation or otherwise;
 
                      (h)  the furnishing of advice on meteorological matters; and 
 
-                      (i)  co‑operation with the authority administering the meteorological service of any other country (including a Territory specified under subsection 4(2)) in relation to any of the matters specified in the preceding paragraphs of this subsection; and
-
-                      (j)  such other functions as are conferred on the Bureau by any other Act.
+                      (i)  co-operation with the authority administering the meteorological service of any other country (including a Territory specified under subsection 4(2)) in relation to any of the matters specified in the preceding paragraphs of this subsection.
 
              (2)  The Bureau shall perform its functions under this Act in the public interest generally and in particular:
 
@@ -96,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="7"></a>7  Powers of the Director
 
-             (1)  The Director has such powers as are necessary to enable the Bureau to perform its functions under section 6 (including any of its functions under Part 7 of the _Water Act 2007_), and, in particular, may:
+             (1)  The Director has such powers as are necessary to enable the Bureau to perform its functions under the last preceding section, and, in particular, may:
 
                      (a)  establish meteorological offices and observing stations; 
 
@@ -110,11 +108,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Charges 
 
-                   The Director may, subject to any directions of the Minister, make charges for forecasts, information, advice, publications and other matter supplied pursuant to this Act or Part 7 of the _Water Act 2007_.
+                   The Director may, subject to any directions of the Minister, make charges for forecasts, information, advice, publications and other matter supplied in pursuance of this Act.
 
 ##### <a id="9"></a>9  Regulations 
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Meteorology Act 1955_
 
@@ -216,8 +214,7 @@ of Assent</div>
     <div>3 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 3 Mar 2008 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1–4): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -268,16 +265,36 @@ Remainder: Royal Assent</div>
     <div>Ss. 6, 7</div>
   </td>
   <td>
-    <div>am. No. 123, 1973; No. 138, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 138, 2007</div>
+    <div>am. No. 123, 1973</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Water (Consequential Amendments) Act 2007 (No. 138, 2007)_
+
+The following amendments commence on 3 March 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  At the end of paragraphs 6(1)(a) to (g)
+
+Add “and”.
+
+## 2  At the end of subsection 6(1)
+
+Add:
+
+              ; and (j)  such other functions as are conferred on the Bureau by any other Act.
+
+## 3  Subsection 7(1)
+
+Omit “the last preceding section”, substitute “section 6 (including any of its functions under Part 7 of the _Water Act 2007_)”.
+
+## 4  Section 8
+
+Omit “in pursuance of this Act”, substitute “pursuant to this Act or Part 7 of the _Water Act 2007_”.
+
+As at 5 September 2007 the amendments are not incorporated in this compilation.
 
  
