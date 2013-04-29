@@ -1,2243 +1,1148 @@
-**
+# ![](http://www.comlaw.gov.au/Details/C2004C02203/Html/AustNatMartMus90_image001.gif)
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990 
-**
+# Australian National Maritime Museum Act 1990
 
+**Act No. 90 of 1990 as amended**
 
-**
+This compilation was prepared on 22 March 2000 
+ taking into account amendments up to Act No. 156 of 1999
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+## An Act to establish the Australian National Maritime Museum
 
+## Part 1—Preliminary
 
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
+                   This Act may be cited as the _Australian National Maritime Museum Act 1990_.
 
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
-**
+                   This Act commences:
 
-###  Long Title 
-**
-**
+                     (a)  if this Act receives the Royal Assent before 1 July 1989—on 1 July 1989; or
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 1&#151;Preliminary </part>
-**
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Australian National Maritime Museum Act 1990_.
+                     (b)  if this Act receives the Royal Assent on or after 1 July 1989—one month after it receives the Royal Assent.
 
- 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 2  Commencement [_see_ Note 1] 
-This Act commences:
+##### <a id="3"></a>3  Interpretation
 
- 
-<dl compact=""><dl compact="">
+             (1)  In this Act, unless the contrary intention appears:
 
-<dt>(a)</dt><dd>if this Act receives the Royal Assent before 1 July 1989&#151;on 1 July 1989;
+                    <a name="acquir"></a>**_acquire_** means acquire by means of purchase, lease, loan or otherwise.
 
-or</dd>
+                    <a name="appointed-member"></a>**_appointed member_** means a member other than the Director or the naval member.
 
-<dt>(b)</dt><dd>if this Act receives the Royal Assent on or after 1 July 1989&#151;one month
+                    <a name="australia"></a>**_Australia_** includes all external Territories.
 
-after it receives the Royal Assent.
+                    <a name="australian-marin-environ"></a>**_Australian marine environment_** includes the environment of:
 
-</dd>
+                     (a)  the sea above the continental shelf adjacent to the coast of Australia and the bed of that sea; and
 
-</dl></dl>
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+                     (b)  the waters and beds of the lakes, rivers and other internal waters of Australia.
 
-</dd> 
-<dl compact=""><dl compact="">
+                    <a name="australian-maritim-histori"></a>**_Australian maritime history_** includes:
 
-_acquire_ means acquire by means of purchase, lease, loan or
+                     (a)  the history, including biological and geological history, of the Australian marine environment;
 
-otherwise. _appointed member_ means a member other than the Director or the naval member. _Australia_ includes all external Territories. _Australian marine environment_ includes the environment of:  </dl></dl>
+                     (b)  the history of the interaction of human beings with the Australian marine environment;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the history of sea travel by Australians, and by persons to and from Australia, whether for the purpose of migration, trade, exploration, defence or otherwise; and
 
-<dt>(a)</dt><dd>the sea above the continental shelf adjacent to the coast of Australia and
+                     (d)  the history of research into, and the recovery of materials related to, any of the matters referred to in paragraphs (a), (b) and (c).
 
-the bed of that sea; and</dd>
+                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
 
-<dt>(b)</dt><dd>the waters and beds of the lakes, rivers and other internal waters of
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
-Australia.
+                    <a name="council"></a>**_Council_** means the Council of the Australian National Maritime Museum established by section 11.
 
-</dd>
+                    <a name="director"></a>**_Director_** means the Director of the Museum.
 
-</dl></dl></dl>
+                    <a name="fund"></a>**_Fund_** means the Australian National Maritime Museum Fund established by section 44.
 
-<def><dl compact=""><dl compact="">
+                    <a name="maritim-histor-materi"></a>**_maritime historical material_** means material (whether in written form or in any other form) relating to Australian maritime history.
 
-_Australian maritime history_ includes:
+                    <a name="member"></a>**_member_** means a member of the Council.
 
- </dl></dl>
+                    <a name="monei-museum"></a>**_money of the Museum_** includes money standing to the credit of the Fund.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="museum"></a>**_Museum_** means the Australian National Maritime Museum established by section 5.
 
-<dt>(a)</dt><dd>the history, including biological and geological history, of the
+                    <a name="nation-maritim-collect"></a>**_national maritime collection_** means the national collection of maritime historical material referred to in subsection 9 (1).
 
-Australian marine environment;</dd>
+                    <a name="naval-member"></a>**_naval member_** means the member appointed under subsection 17 (2A) by the Chief of Navy.
 
-<dt>(b)</dt><dd>the history of the interaction of human beings with the Australian marine
+                    <a name="vessel"></a>**_vessel_** means any kind of vessel or other craft that is, or has been, used in navigation by water, whether above or below the surface and however propelled or moved.
 
-environment;</dd>
+             (2)  Where, during a period, a place was a Territory referred to in section 122 of the Constitution (including a Territory administered by Australia under a Trusteeship Agreement), then, for the purposes of the definitions of **_Australian marine environment_** and **_Australian maritime history_** in subsection (1), a reference in those definitions to Australia includes a reference to the place during the period when it was such a Territory.
 
-<dt>(c)</dt><dd>the history of sea travel by Australians, and by persons to and from
+##### <a id="4"></a>4  Extension to external Territories
 
-Australia, whether for the purpose of migration, trade, exploration, defence or
+                   This Act extends to all the external Territories.
 
-otherwise; and</dd>
+## Part 2—The Australian National Maritime Museum
 
-<dt>(d)</dt><dd>the history of research into, and the recovery of materials related to,
+##### <a id="5"></a>5  Establishment of Museum
 
-any of the matters referred to in paragraphs (a), (b) and (c).
+             (1)  There is established by this section a museum by the name of the Australian National Maritime Museum.
 
-</dd>
+             (2)  The Museum:
 
-</dl></dl></dl>
+                     (a)  is a body corporate;
 
-<def><dl compact=""><dl compact="">
+                     (b)  shall have a seal; and
 
-_Chairperson_ means the Chairperson of the Council. _continental shelf_ has the same meaning as in the _Seas and Submerged Lands Act 1973_. _Council_ means the Council of the Australian National Maritime Museum established by section 11\. _Director_ means the Director of the Museum. _Fund_ means the Australian National Maritime Museum Fund established by section 44\. _maritime historical material_ means material (whether in written form or in any other form) relating to Australian maritime history. _member_ means a member of the Council. _money of the Museum_ includes money standing to the credit of the Fund. _Museum_ means the Australian National Maritime Museum established by section 5\. _national maritime collection_ means the national collection of maritime historical material referred to in subsection 9 (1). _naval member_ means the member appointed under subsection 17 (2A) by the Chief of Navy. _vessel_ means any kind of vessel or other craft that is, or has been, used in navigation by water, whether above or below the surface and however propelled or moved.  </dl></dl>
+                     (c)  may sue and be sued.
 
-<center>Back to Top</center>
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Museum. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
-<dl compact="">
+             (3)  The seal of the Museum shall be kept in such custody as the Council directs and shall not be used except as authorised by the Council.
 
-<dt>(2)</dt><dd>Where, during a period, a place was a Territory referred to in section 122
+             (4)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Museum appearing on a document and shall presume the document was duly sealed.
 
-of the Constitution (including a Territory administered by Australia under a
+##### <a id="6"></a>6  Functions of Museum
 
-Trusteeship Agreement), then, for the purposes of the definitions of
+                   The functions of the Museum are:
 
-_Australian marine environment_ and _Australian maritime history_ in subsection (1), a reference in those definitions to
+                     (a)  to exhibit, or to make available for exhibition by others, in Australia or elsewhere, material included in the national maritime collection or maritime historical material that is otherwise in the possession of the Museum;
 
-Australia includes a reference to the place during the period when it was such
+                     (b)  to co-operate with other institutions (whether public or private) in the exhibiting, or in the making available for exhibition, of such material;
 
-a Territory.
+                     (c)  to develop, preserve and maintain the national maritime collection in accordance with section 9;
 
-</dd> </dl>
+                     (d)  to disseminate information relating to Australian maritime history and information relating to the Museum and its functions;
 
-**
+                     (e)  to conduct, arrange for and assist research into matters relating to Australian maritime history; and
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 4  Extension to external Territories 
-**
+                      (f)  to develop sponsorship, marketing and other commercial activities relating to the Museum’s functions.
 
- <dl compact="">
+##### <a id="7"></a>7  Powers of Museum
 
-		This Act extends to all the external Territories.
+             (1)  Subject to this Act, the Museum has power to do all things necessary or convenient to be done for or in connection with the performance of its functions and, in particular, has power:
 
- </dl>
+                     (a)  to purchase, commission the creation of or take on hire, deposit or loan, maritime historical material;
 
-<center>**
+                     (b)  to lend or hire out or otherwise deal with maritime historical material;
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 2&#151;The Australian National Maritime Museum </part>
-**</center>
+                     (c)  to recover, or to arrange for or assist in the recovery of, maritime historical material from the Australian marine environment and from other areas;
 
-**
+                     (d)  to dispose of, in accordance with section 10, material included in the national maritime collection and to dispose of maritime historical material that is otherwise in the possession of the Museum;
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 5  Establishment of Museum 
-**
+                     (e)  from time to time as the occasion requires, to exhibit in Australia or elsewhere, material, whether in written form or in any other form and whether relating to Australia or to a foreign country;
 
- <dl compact="">
+                      (f)  to accept gifts, devises, bequests or assignments made to the Museum, whether on trust or otherwise, and whether unconditionally or subject to a condition and, if a gift, devise, bequest or assignment is accepted by the Museum on trust or subject to a condition, to act as trustee or to comply with the condition, as the case may be;
 
-<dt>(1)</dt><dd>There is established by this section a museum by the name of the
+                     (g)  to acquire and operate vessels, whether in Australian waters or otherwise and whether or not the vessels are maritime historical material;
 
-Australian National Maritime Museum.</dd> <dt>(2)</dt><dd>The Museum: </dd> </dl>
+                     (h)  to collect, and make available (whether in writing or in any other form and whether by sale or otherwise), information relating to Australian maritime history;
 
-<dl compact=""><dl compact=""><dl compact="">
+                      (j)  to make available information relating to the Museum and its functions;
 
-<dt>(a)</dt><dd>is a body corporate;</dd>
+                     (k)  to make available (whether by sale or otherwise) reproductions, replicas or other representations (whether in writing or in any other form) of maritime historical material;
 
-<dt>(b)</dt><dd>shall have a seal; and</dd>
+                    (m)  to arrange for the manufacture and distribution of (whether by sale or otherwise), any article or thing bearing a mark, symbol or writing that is associated with the Museum;
 
-<dt>(c)</dt><dd>may sue and be sued.
+                     (n)  to enter into contracts;
 
-</dd>
+                     (o)  to acquire, hold and dispose of real or personal property;
 
-</dl></dl></dl>
+                     (p)  to erect buildings and structures and carry out works;
 
-<dl compact=""><dl compact="">
+                     (q)  to take on leases of land or buildings and to grant leases and sub-leases of land or buildings;
 
-Note:	The _Commonwealth Authorities and Companies Act 1997_
+                      (r)  to fix charges for entry onto any land, or into any building, owned by, or under the control of the Museum, being charges that:
 
-applies to the Museum. That Act deals with matters relating to Commonwealth
+                              (i)  are in addition to the charges fixed by the regulations; and
 
-authorities, including reporting and accountability, banking and investment,
+                             (ii)  relate to special exhibitions or other special events;
 
-and conduct of officers.
+                      (s)  to purchase or take on hire, deposit or loan, and to dispose of or otherwise deal with, furnishings, equipment and other goods;
 
- </dl></dl>
+                      (t)  to raise money for the purposes of the Museum by appropriate means, having regard to the proper performance of the functions of the Museum;
 
-<dl compact="">
+                     (u)  to charge such fees and impose such charges (in addition to the charges fixed by regulations) as are reasonable in respect of services rendered by the Museum;
 
-<dt>(3)</dt><dd>The seal of the Museum shall be kept in such custody as the Council
+                    (w)  to act on behalf of the Commonwealth or of an authority of the Commonwealth in the administration of a trust relating to maritime historical material or related matters; and
 
-directs and shall not be used except as authorised by the Council.</dd> <dt>(4)</dt><dd>All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Museum appearing on a document and shall presume the document was duly sealed. </dd> </dl>
+                     (y)  to appoint agents and attorneys and act as an agent for other persons.
 
-**
+             (2)  The Museum may exercise its powers either alone or jointly with another person or other persons.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 6  Functions of Museum 
-**
+##### <a id="8"></a>8  Land etc. for Museum
 
- <dl compact="">
+             (1)  The Minister may make available to the Museum for the purposes of the Museum:
 
-		The functions of the Museum are:
+                     (a)  such areas of land (including any buildings, structures or other improvements on those areas); and
 
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to exhibit, or to make available for exhibition by others, in Australia or
-
-elsewhere, material included in the national maritime collection or maritime
-
-historical material that is otherwise in the possession of the Museum;</dd>
-
-<dt>(b)</dt><dd>to co-operate with other institutions (whether public or private) in the
-
-exhibiting, or in the making available for exhibition, of such material;</dd>
-
-<dt>(c)</dt><dd>to develop, preserve and maintain the national maritime collection in
-
-accordance with section 9;</dd>
-
-<dt>(d)</dt><dd>to disseminate information relating to Australian maritime history and
-
-information relating to the Museum and its functions;</dd>
-
-<dt>(e)</dt><dd>to conduct, arrange for and assist research into matters relating to
-
-Australian maritime history; and</dd>
-
-<dt>(f)</dt><dd>to develop sponsorship, marketing and other commercial activities relating
-
-to the Museum's functions.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 7  Powers of Museum 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to this Act, the Museum has power to do all things necessary or
-
-convenient to be done for or in connection with the performance of its
-
-functions and, in particular, has power:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to purchase, commission the creation of or take on hire, deposit or loan,
-
-maritime historical material;</dd>
-
-<dt>(b)</dt><dd>to lend or hire out or otherwise deal with maritime historical material;</dd>
-
-<dt>(c)</dt><dd>to recover, or to arrange for or assist in the recovery of, maritime
-
-historical material from the Australian marine environment and from other
-
-areas;</dd>
-
-<dt>(d)</dt><dd>to dispose of, in accordance with section 10, material included in the
-
-national maritime collection and to dispose of maritime historical material
-
-that is otherwise in the possession of the Museum;</dd>
-
-<dt>(e)</dt><dd>from time to time as the occasion requires, to exhibit in Australia or
-
-elsewhere, material, whether in written form or in any other form and whether
-
-relating to Australia or to a foreign country;</dd>
-
-<dt>(f)</dt><dd>to accept gifts, devises, bequests or assignments made to the Museum,
-
-whether on trust or otherwise, and whether unconditionally or subject to a
-
-condition and, if a gift, devise, bequest or assignment is accepted by the
-
-Museum on trust or subject to a condition, to act as trustee or to comply with
-
-the condition, as the case may be;</dd>
-
-<dt>(g)</dt><dd>to acquire and operate vessels, whether in Australian waters or otherwise
-
-and whether or not the vessels are maritime historical material;</dd>
-
-<dt>(h)</dt><dd>to collect, and make available (whether in writing or in any other form
-
-and whether by sale or otherwise), information relating to Australian maritime
-
-history;</dd>
-
-<dt>(j)</dt><dd>to make available information relating to the Museum and its functions;</dd>
-
-<dt>(k)</dt><dd>to make available (whether by sale or otherwise) reproductions, replicas
-
-or other representations (whether in writing or in any other form) of maritime
-
-historical material;</dd>
-
-<dt>(m)</dt><dd>to arrange for the manufacture and distribution of (whether by sale or
-
-otherwise), any article or thing bearing a mark, symbol or writing that is
-
-associated with the Museum;</dd>
-
-<dt>(n)</dt><dd>to enter into contracts;</dd>
-
-<dt>(o)</dt><dd>to acquire, hold and dispose of real or personal property;</dd>
-
-<dt>(p)</dt><dd>to erect buildings and structures and carry out works;</dd>
-
-<dt>(q)</dt><dd>to take on leases of land or buildings and to grant leases and sub-leases
-
-of land or buildings;</dd>
-
-<dt>(r)</dt><dd>to fix charges for entry onto any land, or into any building, owned by, or
-
-under the control of the Museum, being charges that:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>are in addition to the charges fixed by the regulations; and</dd>
-
-<dt>(ii)</dt><dd>relate to special exhibitions or other special events;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(s)</dt><dd>to purchase or take on hire, deposit or loan, and to dispose of or
-
-otherwise deal with, furnishings, equipment and other goods;</dd>
-
-<dt>(t)</dt><dd>to raise money for the purposes of the Museum by appropriate means, having
-
-regard to the proper performance of the functions of the Museum;</dd>
-
-<dt>(u)</dt><dd>to charge such fees and impose such charges (in addition to the charges
-
-fixed by regulations) as are reasonable in respect of services rendered by the
-
-Museum;</dd>
-
-<dt>(w)</dt><dd>to act on behalf of the Commonwealth or of an authority of the
-
-Commonwealth in the administration of a trust relating to maritime historical
-
-material or related matters; and</dd>
-
-<dt>(y)</dt><dd>to appoint agents and attorneys and act as an agent for other persons.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Museum may exercise its powers either alone or jointly with another
-
-person or other persons.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 8  Land etc. for Museum 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may make available to the Museum for the purposes of the
-
-Museum:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>such areas of land (including any buildings, structures or other
-
-improvements on those areas); and</dd>
-
-<dt>(b)</dt><dd>such areas of water;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  such areas of water;
 
 owned or held under lease by, or otherwise under the control of, the Commonwealth as are specified by the Minister by notice in the _Gazette_.
 
-<dl compact="">
+             (2)  The Minister may:
 
-<dt>(2)</dt><dd>The Minister may:
+                     (a)  where the Council so requests, transfer or cause to be transferred to the Museum maritime historical material owned by the Commonwealth; and
 
-</dd> </dl>
+                     (b)  transfer or cause to be transferred to the Museum such other goods or equipment owned by the Commonwealth as the Minister considers would be of use to the Museum.
 
-<center>Back to Top</center>
+             (3)  Where the Minister causes an asset to be transferred to the Museum under subsection (2), the Minister may, by writing signed by him or her, declare that the transfer shall be taken to have had effect from a specified day, not being a day earlier than the day on which this Act commences, and, where the Minister makes such a declaration, it has effect accordingly.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (4)  Where an asset of the Commonwealth is transferred to the Museum under subsection (2), the Museum becomes liable to pay and discharge all debts, liabilities and obligations of the Commonwealth (if any) that existed immediately before the transfer in respect of that asset.
 
-<dt>(a)</dt><dd>where the Council so requests, transfer or cause to be transferred to the
+             (5)  The Minister may, by writing signed by him or her, declare that a specified agreement or a specified instrument:
 
-Museum maritime historical material owned by the Commonwealth; and</dd>
+                     (a)  to which the Commonwealth or the Commonwealth Government is a party; and
 
-<dt>(b)</dt><dd>transfer or cause to be transferred to the Museum such other goods or
-
-equipment owned by the Commonwealth as the Minister considers would be of use
-
-to the Museum.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where the Minister causes an asset to be transferred to the Museum under
-
-subsection (2), the Minister may, by writing signed by him or her, declare that
-
-the transfer shall be taken to have had effect from a specified day, not being
-
-a day earlier than the day on which this Act commences, and, where the Minister
-
-makes such a declaration, it has effect accordingly.</dd> <dt>(4)</dt><dd>Where an asset of the Commonwealth is transferred to the Museum under subsection (2), the Museum becomes liable to pay and discharge all debts, liabilities and obligations of the Commonwealth (if any) that existed immediately before the transfer in respect of that asset.</dd> <dt>(5)</dt><dd>The Minister may, by writing signed by him or her, declare that a specified agreement or a specified instrument: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to which the Commonwealth or the Commonwealth Government is a party; and</dd>
-
-<dt>(b)</dt><dd>that immediately before the commencement of this Act related to a maritime
-
-museum;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  that immediately before the commencement of this Act related to a maritime museum;
 
 has effect, after the commencement of this Act, as if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the Museum were substituted for the Commonwealth or the Commonwealth Government, as the case may be, as a party to the agreement or instrument; and
 
-<dt>(c)</dt><dd>the Museum were substituted for the Commonwealth or the Commonwealth
-
-Government, as the case may be, as a party to the agreement or instrument;
-
-and</dd>
-
-<dt>(d)</dt><dd>any reference in the agreement or instrument to the Commonwealth or the
-
-Commonwealth Government were (except in relation to matters that occurred
-
-before the commencement of this Act) a reference to the Museum;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  any reference in the agreement or instrument to the Commonwealth or the Commonwealth Government were (except in relation to matters that occurred before the commencement of this Act) a reference to the Museum;
 
 and, where the Minister makes such a declaration, it has effect accordingly.
 
-<dl compact="">
+             (6)  The Minister may, by writing signed by him or her, delegate, to the person holding or performing the duties of the office of Secretary to the Department, all or any of the Minister’s powers under this section.
 
-<dt>(6)</dt><dd>The Minister may, by writing signed by him or her, delegate, to the person
+##### <a id="9"></a>9  National maritime collection
 
-holding or performing the duties of the office of Secretary to the Department,
+             (1)  The Museum shall develop a national collection of maritime historical material.
 
-all or any of the Minister's powers under this section.
+             (2)  The national maritime collection shall consist of all maritime historical material in the sole ownership of the Museum that the Council has determined in accordance with subsection (3) should be included in the national maritime collection.
 
-</dd> </dl>
+             (3)  The Council shall, from time to time, determine which of the maritime historical material that comes into the sole ownership of the Museum should be included in the national maritime collection.
 
-**
+             (4)  Any determination made by the Council for the purposes of subsection (3) shall be based upon criteria, and made in accordance with guidelines, approved by the Minister.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 9  National maritime collection 
-**
+             (5)  The Museum shall not sell or otherwise dispose of material included in the national maritime collection except in accordance with section 10.
 
- <dl compact="">
+##### <a id="10"></a>10  Disposal of material in national maritime collection
 
-<dt>(1)</dt><dd>The Museum shall develop a national collection of maritime historical
+             (1)  Subject to subsections (2) and (3), where the Council is satisfied that material included in the national maritime collection:
 
-material.</dd> <dt>(2)</dt><dd>The national maritime collection shall consist of all maritime historical material in the sole ownership of the Museum that the Council has determined in accordance with subsection (3) should be included in the national maritime collection.</dd> <dt>(3)</dt><dd>The Council shall, from time to time, determine which of the maritime historical material that comes into the sole ownership of the Museum should be included in the national maritime collection.</dd> <dt>(4)</dt><dd>Any determination made by the Council for the purposes of subsection (3) shall be based upon criteria, and made in accordance with guidelines, approved by the Minister.</dd> <dt>(5)</dt><dd>The Museum shall not sell or otherwise dispose of material included in the national maritime collection except in accordance with section 10\. </dd> </dl>
+                     (a)  is unfit for the collection; or
 
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 10  Disposal of material in national maritime collection 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsections (2) and (3), where the Council is satisfied that
-
-material included in the national maritime collection:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>is unfit for the collection; or</dd>
-
-<dt>(b)</dt><dd>is not required as part of the collection;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  is not required as part of the collection;
 
 the Council may determine that the material be disposed of by sale, exchange, gift or destruction.
 
-<dl compact="">
+             (2)  The Council shall not determine that material included in the national maritime collection be disposed of until the Council has obtained and considered reports from 2 independent experts setting out the views of those experts on the importance of the material to the national maritime collection.
 
-<dt>(2)</dt><dd>The Council shall not determine that material included in the national
+             (3)  The Council shall not determine that material included in the national maritime collection be disposed of by destruction unless the Council is satisfied that the material cannot be disposed of by sale, exchange or gift.
 
-maritime collection be disposed of until the Council has obtained and
+             (4)  Where:
 
-considered reports from 2 independent experts setting out the views of those
+                     (a)  the Council has determined, in accordance with this section, that material included in the national maritime collection should be disposed of; and
 
-experts on the importance of the material to the national maritime
-
-collection.</dd> <dt>(3)</dt><dd>The Council shall not determine that material included in the national maritime collection be disposed of by destruction unless the Council is satisfied that the material cannot be disposed of by sale, exchange or gift.</dd> <dt>(4)</dt><dd>Where: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Council has determined, in accordance with this section, that material
-
-included in the national maritime collection should be disposed of; and</dd>
-
-<dt>(b)</dt><dd>if the value of the material, as determined in accordance with regulations
-
-made for the purposes of this paragraph, exceeds $20,000, the Minister has
-
-approved of its disposal;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  if the value of the material, as determined in accordance with regulations made for the purposes of this paragraph, exceeds $20,000, the Minister has approved of its disposal;
 
 the Museum may dispose of the material accordingly.
 
-<dl compact="">
+             (5)  In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include particulars of any disposals of material during the financial year to which the report relates.
 
-<dt>(5)</dt><dd>In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include particulars of
+## Part 3—The Council of the Museum
 
-any disposals of material during the financial year to which the report relates.
+### Division 1—Establishment, functions etc. of Council
 
-</dd> </dl>
+##### <a id="11"></a>11  Establishment of Council
 
-<center>**
+                   There is established by this section a council by the name of the Council of the Australian National Maritime Museum.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 3&#151;The Council of the Museum </part>
-**</center>
+##### <a id="12"></a>12  Functions of Council
 
-<center>**
+                   The functions of the Council are to ensure the proper and efficient performance of the functions of the Museum and, subject to section 14, to determine the policy of the Museum with respect to any matter.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<division>Division 1&#151;Establishment, functions etc. of Council </division> 
-**</center>
+##### <a id="13"></a>13  Council may give directions to Director
 
-**
+             (1)  The Council may give directions to the Director regarding the management of the affairs of the Museum.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 11  Establishment of Council 
-**
+             (2)  The Director shall comply with any such directions.
 
- <dl compact="">
+##### <a id="14"></a>14  Directions to Council
 
-		There is established by this section a council by the name of the Council of
+             (1)  The Minister may, by notice in writing to the Chairperson, give directions to the Council with respect to the performance of the functions, or the exercise of the powers, of the Museum.
 
-the Australian National Maritime Museum.
+             (2)  The Council shall comply with any such directions.
 
- </dl>
+             (3)  The Minister shall cause a copy of each direction to be laid before each House of the Parliament within 6 sitting days of that House after the direction is given.
 
-**
+             (4)  A direction that is not laid before each House of the Parliament in accordance with subsection (3) ceases to have effect.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 12  Functions of Council 
-**
+##### <a id="15"></a>15  Committees of Council
 
- <dl compact="">
+             (1)  The Council may constitute such committees as it thinks necessary for the purposes of this Act.
 
-		The functions of the Council are to ensure the proper and efficient
+             (2)  A committee may be constituted wholly by members of the Council or partly by one or more members of the Council and partly by one or more other persons.
 
-performance of the functions of the Museum and, subject to section 14, to
+##### <a id="16"></a>16  Delegation by Council
 
-determine the policy of the Museum with respect to any matter.
+             (1)  The Council may, by resolution, either generally, or as otherwise provided by the resolution, delegate all or any of its powers under this Act to the Director, to any other member or to a member of staff of the Museum.
 
- </dl>
+             (2)  A delegate is, in the exercise of a power so delegated, subject to the directions of the Council.
 
-**
+             (3)  A delegation of a power under this section:
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 13  Council may give directions to Director 
-**
+                     (a)  may be revoked by resolution of the Council (whether or not constituted by the persons constituting the Council at the time the power was delegated); and
 
- <dl compact="">
+                     (b)  continues in force notwithstanding a change in the membership of the Council.
 
-<dt>(1)</dt><dd>The Council may give directions to the Director regarding the management
+### Division 2—Membership and meetings of Council
 
-of the affairs of the Museum.</dd> <dt>(2)</dt><dd>The Director shall comply with any such directions. </dd> </dl>
+##### <a id="17"></a>17  Membership of Council
 
-**
+             (1)  The Council shall consist of the following members:
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 14  Directions to Council 
-**
+                     (a)  the Chairperson;
 
- <dl compact="">
+                     (b)  the Director;
 
-<dt>(1)</dt><dd>The Minister may, by notice in writing to the Chairperson, give directions
+                    (ba)  an officer of the Royal Australian Navy;
 
-to the Council with respect to the performance of the functions, or the
+                     (c)  not fewer than 6 nor more than 9 other members.
 
-exercise of the powers, of the Museum.</dd> <dt>(2)</dt><dd>The Council shall comply with any such directions.</dd> <dt>(3)</dt><dd>The Minister shall cause a copy of each direction to be laid before each House of the Parliament within 6 sitting days of that House after the direction is given.</dd> <dt>(4)</dt><dd>A direction that is not laid before each House of the Parliament in accordance with subsection (3) ceases to have effect. </dd> </dl>
+             (2)  The members referred to in paragraphs (1)(a) and (c) shall be appointed by the Governor-General as part-time members.
 
-**
+          (2A)  The member referred to in paragraph (1)(ba) is to be appointed by the Chief of Navy as a part-time member.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 15  Committees of Council 
-**
+             (3)  An appointed member shall be a person having knowledge and experience with respect to matters relating to Australian maritime history or with respect to any other area of knowledge relevant to the affairs of the Museum.
 
- <dl compact="">
+             (5)  An appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment of the member.
 
-<dt>(1)</dt><dd>The Council may constitute such committees as it thinks necessary for the
+          (5A)  The naval member holds office at the pleasure of the Chief of Navy.
 
-purposes of this Act.</dd> <dt>(2)</dt><dd>A committee may be constituted wholly by members of the Council or partly by one or more members of the Council and partly by one or more other persons. </dd> </dl>
+             (6)  The performance of the functions, or the exercise of the powers, of the Council is not affected merely because:
 
-**
+                     (a)  there is a vacancy in the office of Chairperson or Director; or
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 16  Delegation by Council 
-**
+                    (ab)  there is no member holding office under paragraph (1)(ba); or
 
- <dl compact="">
+                     (b)  the number of persons appointed under paragraph (1)(c) falls below 6 for not longer than 3 months.
 
-<dt>(1)</dt><dd>The Council may, by resolution, either generally, or as otherwise provided
+##### <a id="18"></a>18  Acting members
 
-by the resolution, delegate all or any of its powers under this Act to the
+             (1)  The Minister may appoint a person who is an appointed member to act as Chairperson:
 
-Director, to any other member or to a member of staff of the Museum.</dd> <dt>(2)</dt><dd>A delegate is, in the exercise of a power so delegated, subject to the directions of the Council.</dd> <dt>(3)</dt><dd>A delegation of a power under this section: </dd> </dl>
+                     (a)  during a vacancy in the office of Chairperson (whether or not an appointment has previously been made to the office); or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Chairperson.
 
-<dt>(a)</dt><dd>may be revoked by resolution of the Council (whether or not constituted by
+             (2)  The Minister may appoint a person who is not a member to act as a member referred to in paragraph 17(1)(c):
 
-the persons constituting the Council at the time the power was delegated);
+                     (a)  during a vacancy in the office of the member (whether or not an appointment has previously been made to the office); or
 
-and</dd>
+                     (b)  during any period, or during all periods, when the member is absent from duty or from Australia or is, for any other reason (including the reason that the member is acting as Chairperson), unable to perform the duties of the office of member.
 
-<dt>(b)</dt><dd>continues in force notwithstanding a change in the membership of the
+             (3)  A person appointed under this section to act during a vacancy shall not continue to act for more than 12 months.
 
-Council.
+             (4)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
 
-</dd>
+                     (a)  the occasion for the person’s appointment had not arisen;
 
-</dl></dl></dl>
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
 
-<center>Back to Top</center>
+                     (c)  the person’s appointment had ceased to have effect; or
 
-<center>**
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<division>Division 2&#151;Membership and meetings of Council </division> 
-**</center>
+##### <a id="19"></a>19  Leave of absence
 
-**
+                   The Council may, in accordance with guidelines approved by the Minister, grant to an appointed member, or the naval member, leave of absence from a meeting of the Council upon such terms and conditions as to remuneration or otherwise as the Council determines.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 17  Membership of Council 
-**
+##### <a id="20"></a>20  Resignation
 
- <dl compact="">
+             (1)  An appointed member may resign the office of appointed member by writing signed by the appointed member and delivered to the Governor-General.
 
-<dt>(1)</dt><dd>The Council shall consist of the following members:
+             (2)  The naval member may resign the office of naval member by writing signed by the naval member and delivered to the Chief of Navy.
 
-</dd> </dl>
+##### <a id="21"></a>21  Termination of appointment
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The Governor-General may terminate the appointment of an appointed member by reason of the misbehaviour or physical or mental incapacity of that member.
 
-<dt>(a)</dt><dd>the Chairperson;</dd>
+             (2)  If an appointed member:
 
-<dt>(b)</dt><dd>the Director;</dd>
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-<dt>(ba)</dt><dd>an officer of the Royal Australian Navy;</dd>
+                     (b)  is absent, except on leave granted by the Council in accordance with section 19, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council; or
 
-<dt>(c)</dt><dd>not fewer than 6 nor more than 9 other members.
+                     (c)  contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
 
-</dd>
+the Governor-General shall terminate the appointment of that member.
 
-</dl></dl></dl>
+##### <a id="23"></a>23  Meetings of Council
 
-<dl compact="">
+             (1)  The Chairperson:
 
-<dt>(2)</dt><dd>The members referred to in paragraphs (1)(a) and (c) shall be appointed by
+                     (a)  shall convene such meetings of the Council as are necessary for the efficient conduct of its functions; and
 
-the Governor-General as part-time members.</dd> <dt>(2A)</dt><dd>The member referred to in paragraph (1)(ba) is to be appointed by the Chief of Navy as a part-time member.</dd> <dt>(3)</dt><dd>An appointed member shall be a person having knowledge and experience with respect to matters relating to Australian maritime history or with respect to any other area of knowledge relevant to the affairs of the Museum.</dd> <dt>(5)</dt><dd>An appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment of the member.</dd> <dt>(5A)</dt><dd>The naval member holds office at the pleasure of the Chief of Navy.</dd> <dt>(6)</dt><dd>The performance of the functions, or the exercise of the powers, of the Council is not affected merely because: </dd> </dl>
+                     (b)  shall, on receipt of a written request signed by not fewer than 4 members, convene a meeting of the Council.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  The Minister may at any time convene a meeting of the Council.
 
-<dt>(a)</dt><dd>there is a vacancy in the office of Chairperson or Director; or</dd>
+             (3)  The Chairperson shall preside at all meetings of the Council at which he or she is present.
 
-<dt>(ab)</dt><dd>there is no member holding office under paragraph (1)(ba); or</dd>
+             (4)  In the event of the absence of the Chairperson from a meeting of the Council, the members present shall elect one of their number to preside at that meeting.
 
-<dt>(b)</dt><dd>the number of persons appointed under paragraph (1)(c) falls below 6 for
+             (5)  At a meeting of the Council, a quorum is constituted by a majority of the members.
 
-not longer than 3 months.
+             (6)  Where, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.
 
-</dd>
+             (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
-</dl></dl></dl>
+             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 
-**
+             (9)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 18  Acting members 
-**
+           (10)  The Council shall keep minutes of proceedings at its meetings and shall forward a copy of those minutes to the Minister.
 
- <dl compact="">
+           (11)  If the Council so determines, a member of the Council may participate in, and form part of a quorum at, a meeting of the Council by means of any of the following methods of communication:
 
-<dt>(1)</dt><dd>The Minister may appoint a person who is an appointed member to act as
+                     (a)  telephone;
 
-Chairperson:
+                     (b)  close circuit television;
 
-</dd> </dl>
+                     (c)  any other method of communication determined by the Council.
 
-<dl compact=""><dl compact=""><dl compact="">
+           (12)  A determination of the Council under subsection (11) may be made in respect of a particular meeting, or in respect of all meetings, of the Council.
 
-<dt>(a)</dt><dd>during a vacancy in the office of Chairperson (whether or not an
+           (13)  A member of the Council who participates in a meeting as provided by subsection (11) shall be taken for the purposes of this Part to be present at the meeting.
 
-appointment has previously been made to the office); or</dd>
+           (14)  If the Council so determines, a resolution shall be taken to have been passed at a meeting of the Council if, without meeting, a majority of the members who would, if present at a meeting of the Council and entitled to vote on the resolution at that meeting, have constituted a quorum of the Council indicate agreement with the resolution in accordance with the method determined by the Council.
 
-<dt>(b)</dt><dd>during any period, or during all periods, when the Chairperson is absent
+##### <a id="24"></a>24  Remuneration and allowances
 
-from duty or from Australia or is, for any other reason, unable to perform the
+             (1)  This section applies to a person who is:
 
-functions of the office of Chairperson.
+                     (a)  an appointed member; or
 
-</dd>
+                     (b)  a member of a committee constituted under section 15 (other than a member of the Council).
 
-</dl></dl></dl>
+             (2)  A person to whom this section applies shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, the person shall be paid such remuneration as is prescribed.
 
-<dl compact="">
+             (3)  A person to whom this section applies shall be paid such allowances as are prescribed.
 
-<dt>(2)</dt><dd>The Minister may appoint a person who is not a member to act as a member
+             (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-referred to in paragraph 17(1)(c):
+### Division 3—Strategic plans and annual operational plans
 
-</dd> </dl>
+##### <a id="25"></a>25  Strategic plans
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The Council shall develop, and prepare in writing, for each successive period determined in accordance with subsection (2), a strategic plan setting out the manner in which it is proposed that its functions will be performed during that period.
 
-<dt>(a)</dt><dd>during a vacancy in the office of the member (whether or not an
+             (2)  The first strategic plan prepared in accordance with this section shall be expressed to relate to a period of 3 years commencing on a day occurring within 12 months after the commencement of this Act and each subsequent strategic plan shall be expressed to relate to the period of 3 years commencing at the end of the period to which the immediately preceding strategic plan relates.
 
-appointment has previously been made to the office); or</dd>
+             (3)  A strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the plan.
 
-<dt>(b)</dt><dd>during any period, or during all periods, when the member is absent from
+##### <a id="26"></a>26  Approval and commencement of strategic plans
 
-duty or from Australia or is, for any other reason (including the reason that
+                   A strategic plan prepared under section 25:
 
-the member is acting as Chairperson), unable to perform the duties of the
+                     (a)  shall be submitted to the Minister for approval not less than 3 months, or such lesser period as the Minister, in special circumstances, allows, before the day of commencement of the period to which the strategic plan relates; and
 
-office of member.
+                     (b)  shall come into force on:
 
-</dd>
+                              (i)  the day on which it is approved by the Minister; or
 
-</dl></dl></dl>
+                             (ii)  the day of commencement of the period to which it relates;
 
-<dl compact="">
+whichever is the later.
 
-<dt>(3)</dt><dd>A person appointed under this section to act during a vacancy shall not
+##### <a id="27"></a>27  Variation of strategic plans
 
-continue to act for more than 12 months.</dd> <dt>(4)</dt><dd>Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that: </dd> </dl>
+             (1)  The Council shall from time to time, during the period in respect of which a strategic plan prepared under section 25 is in force, consider whether a variation of the strategic plan is necessary.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  Where the Council considers that a variation of a strategic plan is necessary, the Council may, with the approval of the Minister, vary the strategic plan.
 
-<dt>(a)</dt><dd>the occasion for the person's appointment had not arisen;</dd>
+             (3)  Where a variation of a strategic plan is approved by the Minister the plan as so varied shall continue in force on and after the day on which the variation is so approved as if the plan had originally been approved by the Minister as so varied.
 
-<dt>(b)</dt><dd>there is a defect or irregularity in connection with the person's
+             (4)  A variation of a strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the variation.
 
-appointment;</dd>
+##### <a id="28"></a>28  Annual operational plans
 
-<dt>(c)</dt><dd>the person's appointment had ceased to have effect; or</dd>
+             (1)  The Council shall develop, and prepare in writing, in respect of each financial year ending after the commencement of this Act, an operational plan, setting out particulars of:
 
-<dt>(d)</dt><dd>the occasion for the person to act had not arisen or had ceased.
+                     (a)  the programs the Council proposes to carry out; and
 
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 19  Leave of absence 
-**
-
- <dl compact="">
-
-		The Council may, in accordance with guidelines approved by the Minister,
-
-grant to an appointed member, or the naval member, leave of absence from a
-
-meeting of the Council upon such terms and conditions as to remuneration or
-
-otherwise as the Council determines.
-
- </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 20  Resignation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>An appointed member may resign the office of appointed member by writing
-
-signed by the appointed member and delivered to the Governor-General.</dd> <dt>(2)</dt><dd>The naval member may resign the office of naval member by writing signed by the naval member and delivered to the Chief of Navy. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 21  Termination of appointment 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may terminate the appointment of an appointed member
-
-by reason of the misbehaviour or physical or mental incapacity of that
-
-member.</dd> <dt>(2)</dt><dd>If an appointed member: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
-
-bankrupt or insolvent debtors, compounds with creditors or makes an assignment
-
-of remuneration for their benefit;</dd>
-
-<dt>(b)</dt><dd>is absent, except on leave granted by the Council in accordance with
-
-section 19, from 3 consecutive meetings of the Council otherwise than on
-
-business of the Council undertaken with the approval of the Council; or</dd>
-
-<dt>(c)</dt><dd>contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
-
-</dd>
-
-</dl></dl></dl>
-
-the Governor-General shall terminate the appointment of that member. 
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 23  Meetings of Council 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Chairperson:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>shall convene such meetings of the Council as are necessary for the
-
-efficient conduct of its functions; and</dd>
-
-<dt>(b)</dt><dd>shall, on receipt of a written request signed by not fewer than 4 members,
-
-convene a meeting of the Council.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Minister may at any time convene a meeting of the Council.</dd> <dt>(3)</dt><dd>The Chairperson shall preside at all meetings of the Council at which he or she is present.</dd> <dt>(4)</dt><dd>In the event of the absence of the Chairperson from a meeting of the Council, the members present shall elect one of their number to preside at that meeting.</dd> <dt>(5)</dt><dd>At a meeting of the Council, a quorum is constituted by a majority of the members.</dd> <dt>(6)</dt><dd>Where, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.</dd> <dt>(7)</dt><dd>Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.</dd> <dt>(8)</dt><dd>In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.</dd> <dt>(9)</dt><dd>The Council may regulate the conduct of proceedings at its meetings as it thinks fit.</dd> <dt>(10)</dt><dd>The Council shall keep minutes of proceedings at its meetings and shall forward a copy of those minutes to the Minister.</dd> <dt>(11)</dt><dd>If the Council so determines, a member of the Council may participate in, and form part of a quorum at, a meeting of the Council by means of any of the following methods of communication: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>telephone;</dd>
-
-<dt>(b)</dt><dd>close circuit television;</dd>
-
-<dt>(c)</dt><dd>any other method of communication determined by the Council.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(12)</dt><dd>A determination of the Council under subsection (11) may be made in
-
-respect of a particular meeting, or in respect of all meetings, of the
-
-Council.</dd> <dt>(13)</dt><dd>A member of the Council who participates in a meeting as provided by subsection (11) shall be taken for the purposes of this Part to be present at the meeting.</dd> <dt>(14)</dt><dd>If the Council so determines, a resolution shall be taken to have been passed at a meeting of the Council if, without meeting, a majority of the members who would, if present at a meeting of the Council and entitled to vote on the resolution at that meeting, have constituted a quorum of the Council indicate agreement with the resolution in accordance with the method determined by the Council. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 24  Remuneration and allowances 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>This section applies to a person who is:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an appointed member; or</dd>
-
-<dt>(b)</dt><dd>a member of a committee constituted under section 15 (other than a member
-
-of the Council).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A person to whom this section applies shall be paid such remuneration as
-
-is determined by the Remuneration Tribunal but, if no determination of that
-
-remuneration by the Tribunal is in operation, the person shall be paid such
-
-remuneration as is prescribed.</dd> <dt>(3)</dt><dd>A person to whom this section applies shall be paid such allowances as are prescribed.</dd> <dt>(4)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
-
-<center>**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<division>Division 3&#151;Strategic plans and annual operational plans </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 25  Strategic plans 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Council shall develop, and prepare in writing, for each successive
-
-period determined in accordance with subsection (2), a strategic plan setting
-
-out the manner in which it is proposed that its functions will be performed
-
-during that period.</dd> <dt>(2)</dt><dd>The first strategic plan prepared in accordance with this section shall be expressed to relate to a period of 3 years commencing on a day occurring within 12 months after the commencement of this Act and each subsequent strategic plan shall be expressed to relate to the period of 3 years commencing at the end of the period to which the immediately preceding strategic plan relates.</dd> <dt>(3)</dt><dd>A strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the plan. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 26  Approval and commencement of strategic plans 
-**
-
- <dl compact="">
-
-		A strategic plan prepared under section 25:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>shall be submitted to the Minister for approval not less than 3 months, or
-
-such lesser period as the Minister, in special circumstances, allows, before
-
-the day of commencement of the period to which the strategic plan relates;
-
-and</dd>
-
-<dt>(b)</dt><dd>shall come into force on:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the day on which it is approved by the Minister; or</dd>
-
-<dt>(ii)</dt><dd>the day of commencement of the period to which it relates;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-whichever is the later. 
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 27  Variation of strategic plans 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Council shall from time to time, during the period in respect of which
-
-a strategic plan prepared under section 25 is in force, consider whether a
-
-variation of the strategic plan is necessary.</dd> <dt>(2)</dt><dd>Where the Council considers that a variation of a strategic plan is necessary, the Council may, with the approval of the Minister, vary the strategic plan.</dd> <dt>(3)</dt><dd>Where a variation of a strategic plan is approved by the Minister the plan as so varied shall continue in force on and after the day on which the variation is so approved as if the plan had originally been approved by the Minister as so varied.</dd> <dt>(4)</dt><dd>A variation of a strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the variation. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 28  Annual operational plans 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Council shall develop, and prepare in writing, in respect of each
-
-financial year ending after the commencement of this Act, an operational plan,
-
-setting out particulars of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the programs the Council proposes to carry out; and</dd>
-
-<dt>(b)</dt><dd>the resources the Council proposes to allocate to each program;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the resources the Council proposes to allocate to each program;
 
 during the year in giving effect to the strategic plan that relates, or the intended strategic plan that will relate, to a period that includes that year or a part of that year.
 
-<dl compact="">
+             (2)  If the Minister is of the opinion that an operational plan in relation to a financial year is inconsistent with the strategic plan relating to the period that includes that year or a part of that year, the Minister may, in writing, request the Council to revise the operational plan.
 
-<dt>(2)</dt><dd>If the Minister is of the opinion that an operational plan in relation to
+             (3)  The Council may at any time, revise an operational plan, and shall revise the plan if the Minister requests it under subsection (2) to do so and gives written reasons for the request.
 
-a financial year is inconsistent with the strategic plan relating to the period
+             (4)  An operational plan, or a revision of an operational plan:
 
-that includes that year or a part of that year, the Minister may, in writing,
+                     (a)  shall be submitted to the Minister as soon as practicable; and
 
-request the Council to revise the operational plan.</dd> <dt>(3)</dt><dd>The Council may at any time, revise an operational plan, and shall revise the plan if the Minister requests it under subsection (2) to do so and gives written reasons for the request.</dd> <dt>(4)</dt><dd>An operational plan, or a revision of an operational plan: </dd> </dl>
+                     (b)  comes into force when it is approved, in writing, by the Minister.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (5)  The Minister shall approve an operational plan, or a revision of an operational plan, unless the Minister is of the opinion that the plan, or the plan as proposed to be revised, as the case may be, is inconsistent with the strategic plan.
 
-<dt>(a)</dt><dd>shall be submitted to the Minister as soon as practicable; and</dd>
+##### <a id="29"></a>29  Compliance with plans
 
-<dt>(b)</dt><dd>comes into force when it is approved, in writing, by the Minister.
+                   To the extent that it is practicable to do so and subject to this Act, the Museum shall perform its functions and exercise its powers in a manner that is consistent with, and is designed to give effect to, any strategic plan and any operational plans that are in force.
 
-</dd>
+## Part 4—The Director of the Museum
 
-</dl></dl></dl>
+##### <a id="30"></a>30  Director
 
-<dl compact="">
+             (1)  There shall be a Director of the Museum who shall be appointed by the Governor-General.
 
-<dt>(5)</dt><dd>The Minister shall approve an operational plan, or a revision of an
+             (2)  A person who has attained the age of 65 years shall not be appointed as Director and a person shall not be appointed as Director for a period that extends beyond the day on which the person will attain the age of 65 years.
 
-operational plan, unless the Minister is of the opinion that the plan, or the
+             (3)  The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of appointment of the Director.
 
-plan as proposed to be revised, as the case may be, is inconsistent with the
+             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
-strategic plan.
+##### <a id="31"></a>31  Duties of Director
 
-</dd> </dl>
+             (1)  The Director shall manage the affairs of the Museum subject to the directions of, and in accordance with policies determined by, the Council.
 
-**
+             (2)  All acts and things done in the name of, or on behalf of, the Museum by the Director shall be deemed to have been done by the Museum.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 29  Compliance with plans 
-**
+##### <a id="32"></a>32  Director not to engage in other work
 
- <dl compact="">
+                   The Director shall not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
 
-		To the extent that it is practicable to do so and subject to this Act, the
+##### <a id="33"></a>33  Remuneration and allowances
 
-Museum shall perform its functions and exercise its powers in a manner that is
+             (1)  The Director shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, the Director shall be paid such remuneration as is prescribed.
 
-consistent with, and is designed to give effect to, any strategic plan and any
+             (2)  The Director shall be paid such allowances as are prescribed.
 
-operational plans that are in force.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
- </dl>
+##### <a id="34"></a>34  Leave of absence
 
-<center>**
+             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 4&#151;The Director of the Museum </part>
-**</center>
+             (2)  Subject to subsection (3), the Minister may grant leave of absence to the Director, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-**
+             (3)  The Chairperson may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Chairperson determines, if the period of leave of absence is less than 5 working days.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 30  Director 
-**
+##### <a id="35"></a>35  Resignation
 
- <dl compact="">
+                   The Director may resign the office of Director by writing signed by the Director and delivered to the Governor-General.
 
-<dt>(1)</dt><dd>There shall be a Director of the Museum who shall be appointed by the
+##### <a id="36"></a>36  Termination of appointment
 
-Governor-General.</dd> <dt>(3)</dt><dd>The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of appointment of the Director.</dd> <dt>(4)</dt><dd>The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General. </dd> </dl>
+             (1)  The Governor-General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
 
-<center>Back to Top</center>
+             (2)  If the Director:
 
-**
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 31  Duties of Director 
-**
+                     (b)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
 
- <dl compact="">
+                     (c)  is absent, except on leave granted by the Minister or by the Chairperson in accordance with section 34, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council;
 
-<dt>(1)</dt><dd>The Director shall manage the affairs of the Museum subject to the
+                     (d)  engages in paid employment outside the duties of his or her office without the approval of the Minister; or
 
-directions of, and in accordance with policies determined by, the Council.</dd> <dt>(2)</dt><dd>All acts and things done in the name of, or on behalf of, the Museum by the Director shall be deemed to have been done by the Museum. </dd> </dl>
+                     (e)  contravenes section 37 of this Act, or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_, without reasonable excuse;
 
-**
+the Governor-General shall terminate the appointment of the Director.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 32  Director not to engage in other work 
-**
+##### <a id="37"></a>37  Disclosure of interests
 
- <dl compact="">
+                   The Director shall give a written notice to the Minister of all direct or indirect pecuniary interests that the Director has or acquires in any business or in any body corporate carrying on any business.
 
-		The Director shall not engage in paid employment outside the duties of his or
+##### <a id="38"></a>38  Acting Director
 
-her office except with the approval of the Minister.
+             (1)  The Minister may appoint a person other than a member to act as Director:
 
- </dl>
+                     (a)  during a vacancy in the office of Director (whether or not an appointment has previously been made to the office); or
 
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 33  Remuneration and allowances 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Director shall be paid such remuneration as is determined by the
-
-Remuneration Tribunal but, if no determination of that remuneration by the
-
-Tribunal is in operation, the Director shall be paid such remuneration as is
-
-prescribed.</dd> <dt>(2)</dt><dd>The Director shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 34  Leave of absence 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Director has such recreation leave entitlements as are determined by
-
-the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>Subject to subsection (3), the Minister may grant leave of absence to the Director, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.</dd> <dt>(3)</dt><dd>The Chairperson may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Chairperson determines, if the period of leave of absence is less than 5 working days. </dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 35  Resignation 
-**
-
- <dl compact="">
-
-		The Director may resign the office of Director by writing signed by the
-
-Director and delivered to the Governor-General.
-
- </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 36  Termination of appointment 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may terminate the appointment of the Director by
-
-reason of the misbehaviour or physical or mental incapacity of the Director.</dd> <dt>(2)</dt><dd>If the Director: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
-
-bankrupt or insolvent debtors, compounds with creditors or makes an assignment
-
-of remuneration for their benefit;</dd>
-
-<dt>(b)</dt><dd>is absent from duty, except on leave of absence, for 14 consecutive days
-
-or for 28 days in any 12 months;</dd>
-
-<dt>(c)</dt><dd>is absent, except on leave granted by the Minister or by the Chairperson
-
-in accordance with section 34, from 3 consecutive meetings of the Council
-
-otherwise than on business of the Council undertaken with the approval of the
-
-Council;</dd>
-
-<dt>(d)</dt><dd>engages in paid employment outside the duties of his or her office without
-
-the approval of the Minister; or</dd>
-
-<dt>(e)</dt><dd>contravenes section 37 of this Act, or section 27F or 27J of the
-
-_Commonwealth Authorities and Companies Act 1997_, without reasonable
-
-excuse;
-
-</dd>
-
-</dl></dl></dl>
-
-the Governor-General shall terminate the appointment of the Director. 
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 37  Disclosure of interests 
-**
-
- <dl compact="">
-
-		The Director shall give a written notice to the Minister of all direct or
-
-indirect pecuniary interests that the Director has or acquires in any business
-
-or in any body corporate carrying on any business.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 38  Acting Director 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may appoint a person other than a member to act as Director:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>during a vacancy in the office of Director (whether or not an appointment
-
-has previously been made to the office); or</dd>
-
-<dt>(b)</dt><dd>during any period, or during all periods, when the Director is absent from
-
-duty or from Australia or is, for any other reason, unable to perform the
-
-duties of the office of Director;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Director;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-<dl compact="">
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
 
-<dt>(2)</dt><dd>Anything done by or in relation to a person purporting to act under this
+                     (a)  the occasion for the person’s appointment had not arisen;
 
-section is not invalid on the ground that:
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
 
-</dd> </dl>
+                     (c)  the person’s appointment had ceased to have effect; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
-<dt>(a)</dt><dd>the occasion for the person's appointment had not arisen;</dd>
+##### <a id="39"></a>39  Delegation by Director
 
-<dt>(b)</dt><dd>there is a defect or irregularity in connection with the person's
+                   The Director may, with the approval of the Council, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Director, delegate to a member of the staff of the Museum all or any of the Director’s powers under this Act.
 
-appointment;</dd>
+## Part 5—Staff and Consultants
 
-<dt>(c)</dt><dd>the person's appointment had ceased to have effect; or</dd>
+##### <a id="40"></a>40  Staff
 
-<dt>(d)</dt><dd>the occasion for the person to act had not arisen or had ceased.
+             (1)  Subject to section 41, the staff of the Museum shall be persons engaged under the _Public Service Act 1999_.
 
-</dd>
+             (2)  For the purposes of the _Public Service Act 1999_:
 
-</dl></dl></dl>
+                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
 
-**
+                     (b)  the Director is the Head of that Statutory Agency.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 39  Delegation by Director 
-**
+##### <a id="41"></a>41  Arrangements relating to staff
 
- <dl compact="">
+             (1)  The Director may, on behalf of the Museum, arrange with an Agency Head (within the meaning of the _Public Service Act 1999_), or with a body established for a public purpose by or under a law of the Commonwealth, for the services of officers or employees of the Agency or body to be made available to the Museum.
 
-		The Director may, with the approval of the Council, either generally or as
+             (2)  The Director may, on behalf of the Museum, enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Museum.
 
-otherwise provided by the instrument of delegation, by writing signed by the
+##### <a id="42"></a>42  Engagement of consultants
 
-Director, delegate to a member of the staff of the Museum all or any of the
+             (1)  The Director may, on behalf of the Museum, engage persons having suitable qualifications and experience as consultants to the Museum.
 
-Director's powers under this Act.
+             (2)  The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Director.
 
- </dl>
+## Part 6—Finance
 
-<center>**
+##### <a id="43"></a>43  Appropriation of money
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 5&#151;Staff and Consultants </part>
-**</center>
+             (1)  There is payable to the Museum such money as is appropriated by the Parliament for the purposes of the Museum.
 
-**
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Museum.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 40  Staff 
-**
+##### <a id="44"></a>44  Australian National Maritime Museum Fund
 
- <dl compact="">
+             (1)  There is established by this section a fund by the name of the Australian National Maritime Museum Fund.
 
-<dt>(1)</dt><dd>Subject to section 41, the staff of the Museum shall be persons engaged
+             (2)  Income received from the investment of money standing to the credit of the Fund forms part of the Fund.
 
-under the _Public Service Act 1999_.</dd> <dt>(2)</dt><dd>For the purposes of the _Public Service Act 1999_: </dd> </dl>
+             (3)  There shall be paid into the Fund:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  gifts and bequests of money accepted by the Museum otherwise than on trust; and
 
-<dt>(a)</dt><dd>the Director and the APS employees assisting the Director together
+                     (b)  money received by the Museum (other than money to be held on trust by the Museum) from the disposal of property given, devised, bequeathed or assigned to the Museum.
 
-constitute a Statutory Agency; and</dd>
+             (4)  The payment of money into a bank account maintained by the Museum in accordance with subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ under the name of the Australian National Maritime Museum Fund shall be deemed, for the purposes of subsection (3) of this section, to be a payment of the money into the Fund.
 
-<dt>(b)</dt><dd>the Director is the Head of that Statutory Agency.
+##### <a id="45"></a>45  Application of money
 
-</dd>
+             (1)  The money of the Museum shall be applied only:
 
-</dl></dl></dl>
+                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Museum in the performance of its functions or the exercise of its powers under this Act; and
 
-**
+                     (b)  in payment of any remuneration and allowances payable to any person under this Act.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 41  Arrangements relating to staff 
-**
+             (2)  Subsection (1) does not prevent investment of surplus money of the Museum under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
- <dl compact="">
+##### <a id="47"></a>47  Contracts
 
-<dt>(1)</dt><dd>The Director may, on behalf of the Museum, arrange with an Agency Head
+             (1)  Subject to subsection 10(4), the Museum shall not, except with the approval of the Minister, enter into a contract under which the Museum is to pay or receive:
 
-(within the meaning of the _Public Service Act 1999_), or with a body
+                     (a)  in the case of a contract for the acquisition of any maritime historical material—an amount exceeding $250,000 or, if a higher amount is prescribed for the purposes of this paragraph, an amount exceeding that higher amount; or
 
-established for a public purpose by or under a law of the Commonwealth, for the
+                     (b)  in any other case—an amount exceeding $250,000 or, if a higher amount is prescribed for the purposes of this paragraph, an amount exceeding that higher amount.
 
-services of officers or employees of the Agency or body to be made available to
+             (2)  The Museum shall not, except with the approval of the Minister, enter into a lease of land for a period exceeding 10 years.
 
-the Museum.</dd> <dt>(2)</dt><dd>The Director may, on behalf of the Museum, enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Museum. </dd> </dl>
+             (3)  Subsection (1) does not apply to the investment of money by the Museum in accordance with subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ or paragraph 50(2)(b) of this Act.
 
-**
+##### <a id="48"></a>48  Extra matters to be included in annual report
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 42  Engagement of consultants 
-**
+             (3)  Each annual report prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include:
 
- <dl compact="">
+                     (a)  particulars of each direction given by the Minister to the Council under section 14 of this Act during the financial year to which the report relates;
 
-<dt>(1)</dt><dd>The Director may, on behalf of the Museum, engage persons having suitable
+                     (b)  any operational plan, or revision of an operational plan, that came into force during the financial year; and
 
-qualifications and experience as consultants to the Museum.</dd> <dt>(2)</dt><dd>The terms and conditions of the engagement of a person under subsection <dt>(1)</dt><dd>are such as are determined by the Director. </dd>
+                     (c)  an assessment of the extent to which the Museum’s operations during the financial year have contributed to the objectives set out in the strategic plan and the operational plan that were in force during the financial year.
 
-</dd></dl>
+##### <a id="49"></a>49  Exemption from taxation
 
-<center>Back to Top</center>
+             (1)  The Museum is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
-<center>**
+             (2)  In particular, sales tax is not payable by the Museum, or by any other person, on goods that are for use by the Museum.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 6&#151;Finance </part>
-**</center>
+## Part 7—Miscellaneous
 
-**
+##### <a id="50"></a>50  Trust money etc.
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 43  Appropriation of money 
-**
+             (1)  The Museum shall ensure that any money received or held by the Museum on trust is paid into an account maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not contain any money of the Museum not held on trust.
 
- <dl compact="">
+             (2)  Notwithstanding anything contained in this Act:
 
-<dt>(1)</dt><dd>There is payable to the Museum such money as is appropriated by the
+                     (a)  money or other property held by the Museum on trust or accepted by the Museum subject to a condition shall not be dealt with except in accordance with the obligations of the Museum as trustee of the trust or as the person who has accepted the money or other property subject to the condition, as the case may be; and
 
-Parliament for the purposes of the Museum.</dd> <dt>(2)</dt><dd>The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Museum. </dd> </dl>
+                     (b)  money held by the Museum on trust may be invested:
 
-**
+                              (i)  in any manner in which the Museum is authorised to invest that money by the terms of the trust; or
 
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 44  Australian National Maritime Museum Fund 
-**
+                             (ii)  in any manner in which trust money may, for the time being, be invested under law;
 
- <dl compact="">
+but not otherwise.
 
-<dt>(1)</dt><dd>There is established by this section a fund by the name of the Australian
+##### <a id="51"></a>51  Limits on charges
 
-National Maritime Museum Fund.</dd> <dt>(2)</dt><dd>Income received from the investment of money standing to the credit of the Fund forms part of the Fund.</dd> <dt>(3)</dt><dd>There shall be paid into the Fund: </dd> </dl>
+                   The amount or rate of a charge fixed under this Act shall not be such as to amount to taxation.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="52"></a>52  Operation of certain other laws not affected
 
-<dt>(a)</dt><dd>gifts and bequests of money accepted by the Museum otherwise than on
+                   Nothing in this Act affects the operation of any law (whether passed before or after the commencement of this Act) relating to copyright, to the preservation and use of archival resources or to the rights of members of the public to access to official documents of the Government of the Commonwealth and of its agencies.
 
-trust; and</dd>
+##### <a id="53"></a>53  Supply of liquor
 
-<dt>(b)</dt><dd>money received by the Museum (other than money to be held on trust by the
+             (1)  The regulations may make provision for and in relation to the sale, supply, disposal, possession or control of liquor on or in any land, building or vessel owned by, or under the control of, the Museum.
 
-Museum) from the disposal of property given, devised, bequeathed or assigned to
+             (2)  Regulations referred to in subsection (1) that are in force in respect of land, or a building or vessel, owned by, or under the control of, the Museum, have effect to the exclusion of any provisions of the law of a State or Territory that would otherwise apply.
 
-the Museum.
+             (3)  In this section, **_liquor_** means any liquid containing alcohol ordinarily used, or fit for use, as a beverage.
 
-</dd>
+##### <a id="54"></a>54  Regulations
 
-</dl></dl></dl>
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
-<dl compact="">
+                     (a)  required or permitted by this Act to be prescribed; or
 
-<dt>(4)</dt><dd>The payment of money into a bank account maintained by the Museum in
-
-accordance with subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ under the name of the Australian National Maritime
-
-Museum Fund shall be deemed, for the purposes of subsection (3) of this
-
-section, to be a payment of the money into the Fund.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 45  Application of money 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The money of the Museum shall be applied only:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in payment or discharge of the costs, expenses and other obligations
-
-incurred by the Museum in the performance of its functions or the exercise of
-
-its powers under this Act; and</dd>
-
-<dt>(b)</dt><dd>in payment of any remuneration and allowances payable to any person under
-
-this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Museum
-
-under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 47  Contracts 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection 10(4), the Museum shall not, except with the
-
-approval of the Minister, enter into a contract under which the Museum is to
-
-pay or receive:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a contract for the acquisition of any maritime historical
-
-material&#151;an amount exceeding $250,000 or, if a higher amount is prescribed for
-
-the purposes of this paragraph, an amount exceeding that higher amount; or</dd>
-
-<dt>(b)</dt><dd>in any other case&#151;an amount exceeding $250,000 or, if a higher amount is
-
-prescribed for the purposes of this paragraph, an amount exceeding that higher
-
-amount.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Museum shall not, except with the approval of the Minister, enter into
-
-a lease of land for a period exceeding 10 years.</dd> <dt>(3)</dt><dd>Subsection (1) does not apply to the investment of money by the Museum in accordance with subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ or paragraph 50(2)(b) of this Act. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 48  Extra matters to be included in annual report 
-**
-
- <dl compact="">
-
-<dt>(3)</dt><dd>Each annual report prepared by the members under section 9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ must include:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>particulars of each direction given by the Minister to the Council under
-
-section 14 of this Act during the financial year to which the report relates;</dd>
-
-<dt>(b)</dt><dd>any operational plan, or revision of an operational plan, that came into
-
-force during the financial year; and</dd>
-
-<dt>(c)</dt><dd>an assessment of the extent to which the Museum's operations during the
-
-financial year have contributed to the objectives set out in the strategic plan
-
-and the operational plan that were in force during the financial year.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 49  Exemption from taxation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Museum is not subject to taxation under any law of the Commonwealth or
-
-of a State or Territory.</dd> <dt>(2)</dt><dd>In particular, sales tax is not payable by the Museum, or by any other person, on goods that are for use by the Museum. </dd> </dl>
-
-<center>**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<part>Part 7&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 50  Trust money etc. 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Museum shall ensure that any money received or held by the Museum on
-
-trust is paid into an account maintained under subsection 18(2) of the
-
-_Commonwealth Authorities and Companies Act 1997_ that does not contain
-
-any money of the Museum not held on trust.</dd> <dt>(2)</dt><dd>Notwithstanding anything contained in this Act: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>money or other property held by the Museum on trust or accepted by the
-
-Museum subject to a condition shall not be dealt with except in accordance with
-
-the obligations of the Museum as trustee of the trust or as the person who has
-
-accepted the money or other property subject to the condition, as the case may
-
-be; and</dd>
-
-<dt>(b)</dt><dd>money held by the Museum on trust may be invested:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in any manner in which the Museum is authorised to invest that money by
-
-the terms of the trust; or</dd>
-
-<dt>(ii)</dt><dd>in any manner in which trust money may, for the time being, be invested
-
-under law;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-but not otherwise. 
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 51  Limits on charges 
-**
-
- <dl compact="">
-
-		The amount or rate of a charge fixed under this Act shall not be such as to
-
-amount to taxation.
-
- </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 52  Operation of certain other laws not affected 
-**
-
- <dl compact="">
-
-		Nothing in this Act affects the operation of any law (whether passed before
-
-or after the commencement of this Act) relating to copyright, to the
-
-preservation and use of archival resources or to the rights of members of the
-
-public to access to official documents of the Government of the Commonwealth
-
-and of its agencies.
-
- </dl>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 53  Supply of liquor 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The regulations may make provision for and in relation to the sale,
-
-supply, disposal, possession or control of liquor on or in any land, building
-
-or vessel owned by, or under the control of, the Museum.</dd> <dt>(2)</dt><dd>Regulations referred to in subsection (1) that are in force in respect of land, or a building or vessel, owned by, or under the control of, the Museum, have effect to the exclusion of any provisions of the law of a State or Territory that would otherwise apply.</dd> <dt>(3)</dt><dd>In this section, _liquor_ means any liquid containing alcohol ordinarily used, or fit for use, as a beverage. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990- SECT 54  Regulations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing matters:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
-
-<dt>(b)</dt><dd>necessary or convenient for carrying out or giving effect to this Act;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  necessary or convenient for carrying out or giving effect to this Act;
 
 and, in particular, may make regulations:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  regulating, restricting or prohibiting the entry of persons onto or into any Museum premises, or any part of any Museum premises, and regulating the conduct of persons on or in any Museum premises, or any part of any Museum premises, including making provision for and in relation to the removal of persons from any Museum premises, or any part of any Museum premises;
 
-<dt>(c)</dt><dd>regulating, restricting or prohibiting the entry of persons onto or into
+                     (d)  fixing charges for entering any Museum premises;
 
-any Museum premises, or any part of any Museum premises, and regulating the
+                     (e)  regulating, restricting or prohibiting the making, using, printing, publishing, exhibiting, selling or offering for sale of replicas, photographs, representations or copies of maritime historical material in the ownership or possession of the Museum; and
 
-conduct of persons on or in any Museum premises, or any part of any Museum
+                      (f)  prescribing penalties not exceeding a fine of $500 for offences against the regulations.
 
-premises, including making provision for and in relation to the removal of
+             (2)  In subsection (1):
 
-persons from any Museum premises, or any part of any Museum premises;</dd>
+                    <a name="museum-premis"></a>**_Museum premises_** means an area of land or water, or a building, structure or vessel, being an area, or a building, structure or vessel, as the case may be, that is owned by, or under the control of, the Museum. 
 
-<dt>(d)</dt><dd>fixing charges for entering any Museum premises;</dd>
+# Notes to the _Australian National Maritime Museum Act 1990_
 
-<dt>(e)</dt><dd>regulating, restricting or prohibiting the making, using, printing,
-
-publishing, exhibiting, selling or offering for sale of replicas, photographs,
-
-representations or copies of maritime historical material in the ownership or
-
-possession of the Museum; and</dd>
-
-<dt>(f)</dt><dd>prescribing penalties not exceeding a fine of $500 for offences against
-
-the regulations.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In subsection (1):
-
-</dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_Museum premises_ means an area of land or water, or a building,
-
-structure or vessel, being an area, or a building, structure or vessel, as the
-
-case may be, that is owned by, or under the control of, the Museum.
-
- </dl></dl>
-
-<center>**
-
-###  AUSTRALIAN NATIONAL MARITIME MUSEUM ACT 1990<centreit>Notes to the _Australian National Maritime Museum Act 1990_ </centreit>
-**</center>
-
-**Note 1**
+### Note 1
 
 The _Australian National Maritime Museum Act 1990_ as shown in this compilation comprises Act No. 90, 1990 amended as indicated in the Tables below.
- All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-**Table of Acts**
+### Table of Acts
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian National Maritime Museum Act 1990</i></div>
-
+<tr>
+  <td>
+    <div>Australian National Maritime Museum Act 1990</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>90, 1990</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>20 Nov 1990</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>20 Dec 1990</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</i></div>
-
+<tr>
+  <td>
+    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>179, 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Nov 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Nov 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3(2)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Sales Tax Amendment (Transitional) Act 1992</i></div>
-
+<tr>
+  <td>
+    <div>Sales Tax Amendment (Transitional) Act 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>118, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>30 Sept 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 Oct 1992</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Taxation Laws Amendment Act 1993</i></div>
-
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act 1993</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>17, 1993</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>9 June 1993</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Part 4 (ss. 60, 61): <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Defence Legislation Amendment Act (No. 1) 1997</i></div>
-
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Feb 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 2 (items 6-8): Royal Assent <i>(b)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>152, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Oct 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 2 (items 375-388): 1 Jan 1998 (see <i>Gazette</i>1997, No. GN49) <i>(c)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>146, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 1 (items 211-215): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Corporate Law Economic Reform Program Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>156, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 10 (items 42-44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No.&#160;S114) <i>(e)</i></div>
-
+  <td>
+    <div>Schedule 10 (items 42-44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</i></div>
+</tr></table>
 
-  </td>
-  <td colspan="1" align="left">
-    <div>159, 2001</div>
+ 
 
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Oct 2001</div>
+_(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by Part 4 (sections 60 and 61) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows: 
 
-  </td>
-  <td colspan="1" align="left">
-    <div>29 Oct 2001</div>
+                  (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+         The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
 
-  </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Sales Tax Amendment (Transitional) Act 1992_ was amended by Part 4 (sections 60 and 61) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows: 
+_(b)_    The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 6-8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
-	(2)	Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
+                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-	The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
- _(b)_	The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 6-8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(c)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 375-388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(c)_	The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 375-388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 211-215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-	(2)	Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-_(d)_	The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 211-215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
+_(e)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 42-44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-_(e)_	The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 42-44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
+                             (c)   the items in Schedules 10, 11 and 12.
 
-	(c)	the items in Schedules 10, 11 and 12.
+ 
 
-**Table of Amendments**
+## Table of Amendments
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 1, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Note to s. 5(2)</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 10</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 17</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 1, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 1, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997; No. 156, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 22</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 23</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997; No. 156, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 30</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 159, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 34</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 179, 1991</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 146, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 36</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 152, 1997; No. 156, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 40</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 146, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 41</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 146, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 44</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 45</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 46</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 47</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 179, 1991; No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 48</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 48</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 49</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 179, 1991</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 118, 1992 (as am. by No. 17, 1993)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 50</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
-</tr></table>**Table A**
+</tr></table>
 
-**Application, saving or transitional provisions**
+ 
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001_ (No. 159, 2001)
-
-**Schedule 1** 97  Application of amendments The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-</def>
-
-</def></def>
-
-
+ 
