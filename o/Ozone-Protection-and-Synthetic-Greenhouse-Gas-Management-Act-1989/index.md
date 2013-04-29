@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00195/Html/OzoneProSynthGrnhouseGasMang89_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00125/Html/OzoneProSynthGrnhouseGasMang89_WD02_image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -20,201 +20,201 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objectives
+[3](#3).            Objectives                                                                                            1
 
-[4](#4).            Saving of certain State and Territory laws
+[4](#4).            Saving of certain State and Territory laws                                           2
 
-[5](#5).            Act to bind the Crown
+[5](#5).            Act to bind the Crown                                                                         2
 
-[6](#6).            Extension to external Territories
+[6](#6).            Extension to external Territories                                                          2
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       2
 
 **Part II—Explanation of terms used in the Act**
 
-[7](#7).            Definitions
+[7](#7).            Definitions                                                                                           3
 
-[8](#8).            Quota periods
+[8](#8).            Quota periods                                                                                      7
 
-[8A](#8A).         Licence periods
+[8A](#8A).         Licence periods                                                                                    7
 
-[8B](#8B).         HCFC quotas and reserve HCFC quotas
+[8B](#8B).         HCFC quotas and reserve HCFC quotas                                            7
 
-[9](#9).            Scheduled substances in manufactured products
+[9](#9).            Scheduled substances in manufactured products                                 8
 
-[10](#10).          Quantities expressed in ODP tonnes
+[10](#10).          Quantities expressed in ODP tonnes                                                   8
 
-[12](#12).          Recycling of scheduled substances
+[12](#12).          Recycling of scheduled substances                                                      8
 
-[12A](#12A).       Feedstocks
+[12A](#12A).       Feedstocks                                                                                           9
 
 **Part III—Licences**
 
-[12B](#12B).       Part does not apply to import or export of CFCs, HCFCs and SGGs for use on board ships or aircraft
+[12B](#12B).       Part does not apply to import or export of CFCs, HCFCs and SGGs for use on board ships or aircraft              10
 
-[13](#13).          Unlicensed manufacture, import or export
+[13](#13).          Unlicensed manufacture, import or export                                        10
 
-[13A](#13A).       Licences and what they allow
+[13A](#13A).       Licences and what they allow                                                            11
 
-[14](#14).          Application for licence
+[14](#14).          Application for licence                                                                      13
 
-[15](#15).          Request for further information
+[15](#15).          Request for further information                                                         13
 
-[16](#16).          Grant of licence
+[16](#16).          Grant of licence                                                                                  13
 
-[17](#17).          Deemed refusal of licence
+[17](#17).          Deemed refusal of licence                                                                  15
 
-[18](#18).          Conditions of licences
+[18](#18).          Conditions of licences                                                                        15
 
-[19](#19).          Duration of licences
+[19](#19).          Duration of licences                                                                           17
 
-[19A](#19A).       Termination of licences
+[19A](#19A).       Termination of licences                                                                      17
 
-[19B](#19B).       Transfer of licences
+[19B](#19B).       Transfer of licences                                                                            18
 
-[19C](#19C).       Amendment of licence at request of licensee
+[19C](#19C).       Amendment of licence at request of licensee                                     18
 
-[20](#20).          Cancellation of licence
+[20](#20).          Cancellation of licence                                                                       19
 
-[21](#21).          Surrender of licence
+[21](#21).          Surrender of licence                                                                            20
 
-[22](#22).          Publication of information regarding licences etc 
+[22](#22).          Publication of information regarding licences etc                               20
 
 **Part IV—HCFC quotas**
 
-[23](#23).          Meaning of _licence_ and _licensee_
+[23](#23).          Meaning of _licence_ and _licensee_                                                         21
 
-[24](#24).          How to work out HCFC industry limits
+[24](#24).          How to work out HCFC industry limits                                           21
 
-[25](#25).          How to work out reserve HCFC quota limits
+[25](#25).          How to work out reserve HCFC quota limits                                   22
 
-[26](#26).          Start of first HCFC quota period
+[26](#26).          Start of first HCFC quota period                                                      22
 
-[27](#27).          Application for quota
+[27](#27).          Application for quota                                                                        23
 
-[28](#28).          Allocation of quota
+[28](#28).          Allocation of quota                                                                            23
 
-[29](#29).          Limits on power to allocate reserve HCFC quotas
+[29](#29).          Limits on power to allocate reserve HCFC quotas                           24
 
-[30](#30).          Duration of quotas
+[30](#30).          Duration of quotas                                                                             24
 
-[31](#31).          HCFC quota sizes
+[31](#31).          HCFC quota sizes                                                                             24
 
-[32](#32).          Reserve HCFC quota sizes
+[32](#32).          Reserve HCFC quota sizes                                                                25
 
-[33](#33).          Reserve HCFC quotas: variation or revocation
+[33](#33).          Reserve HCFC quotas: variation or revocation                                 25
 
-[34](#34).          Quotas cease when licences cease
+[34](#34).          Quotas cease when licences cease                                                      26
 
-[35](#35).          Transfer of quotas
+[35](#35).          Transfer of quotas                                                                             26
 
 **Part V—Control of manufacture etc. of products containing or using scheduled substances**
 
-[37](#37).          Persons to whom this Part applies, activities to which this Part applies
+[37](#37).          Persons to whom this Part applies, activities to which this Part applies               27
 
-[38](#38).          Manufacture and import of products in contravention of Schedule 4
+[38](#38).          Manufacture and import of products in contravention of Schedule 4 27
 
-[39](#39).          Regulations concerning manufacture etc  of scheduled substances
+[39](#39).          Regulations concerning manufacture etc  of scheduled substances    28
 
-[40](#40).          Exemptions
+[40](#40).          Exemptions                                                                                        29
 
 **Part VI—Control of imports and exports**
 
-[41](#41).          Montreal Protocol countries
+[41](#41).          Montreal Protocol countries                                                              31
 
-[44](#44).          Import of products containing scheduled substances from non-Montreal Protocol countries
+[44](#44).          Import of products containing scheduled substances from non-Montreal Protocol countries                32
 
-[45](#45).          Import of products manufactured using scheduled substances from non-Montreal Protocol countries
+[45](#45).          Import of products manufactured using scheduled substances from non-Montreal Protocol countries 33
 
 **Part VIA—Controls on disposal, use etc. of scheduled substances**
 
-[45A](#45A).       Regulation of disposal, use etc  of scheduled substances
+[45A](#45A).       Regulation of disposal, use etc  of scheduled substances                  35
 
-[45B](#45B).       Discharge of scheduled substances
+[45B](#45B).       Discharge of scheduled substances                                                    35
 
 **Part VII—Reports and records**
 
-[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment
+[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment                                                                                                           37
 
-[48](#48).          Records to be kept by licensees
+[48](#48).          Records to be kept by licensees                                                        39
 
 **Part VIII—Enforcement** 
 
     **Division 1—Inspectors**
 
-[48A](#48A).       Meaning of _inspector_
+[48A](#48A).       Meaning of _inspector_                                                                         40
 
-[49](#49).          Appointment of inspectors
+[49](#49).          Appointment of inspectors                                                               40
 
-[50](#50).          Identity cards
+[50](#50).          Identity cards                                                                                     40
 
-[51](#51).          Searches to monitor compliance with Act etc 
+[51](#51).          Searches to monitor compliance with Act etc                                   41
 
-[52](#52).          Offence-related searches and seizures
+[52](#52).          Offence-related searches and seizures                                               42
 
-[53](#53).          Warrants may be granted by telephone
+[53](#53).          Warrants may be granted by telephone                                             43
 
-[54](#54).          Power to require information etc 
+[54](#54).          Power to require information etc                                                       45
 
-[55](#55).          Retention of books, records and documents
+[55](#55).          Retention of books, records and documents                                      45
 
     **Division 2—Injunctions**
 
-[56](#56).          Injunctions
+[56](#56).          Injunctions                                                                                         47
 
     **Division 3—Forfeiture of goods**
 
-[57](#57).          Forfeitable goods
+[57](#57).          Forfeitable goods                                                                               49
 
-[58](#58).          Goods forfeited to Commonwealth
+[58](#58).          Goods forfeited to Commonwealth                                                   49
 
-[59](#59).          Power to seize forfeited goods
+[59](#59).          Power to seize forfeited goods                                                          50
 
-[60](#60).          Persons not to move etc  seized goods
+[60](#60).          Persons not to move etc  seized goods                                              50
 
-[61](#61).          Disposal of forfeited goods
+[61](#61).          Disposal of forfeited goods                                                               51
 
     **Division 4—Offences**
 
-[62](#62).          False statements
+[62](#62).          False statements                                                                                52
 
-[63](#63).          Obstruction of inspectors etc 
+[63](#63).          Obstruction of inspectors etc                                                            53
 
-[64](#64).          Failure to answer questions etc 
+[64](#64).          Failure to answer questions etc                                                         53
 
-[65](#65).          Conduct by directors, servants and agents
+[65](#65).          Conduct by directors, servants and agents                                        56
 
 **Part VIIIA—Ozone Protection and SGG Account**
 
-[65A](#65A).       Definitions
+[65A](#65A).       Definitions                                                                                         58
 
-[65B](#65B).       Ozone Protection and SGG Account
+[65B](#65B).       Ozone Protection and SGG Account                                                58
 
-[65C](#65C).       Amounts to be credited to the Account
+[65C](#65C).       Amounts to be credited to the Account                                            58
 
-[65D](#65D).       Purposes of the Account
+[65D](#65D).       Purposes of the Account                                                                   59
 
 **Part IX—Miscellaneous**
 
-[66](#66).          Review of decisions
+[66](#66).          Review of decisions                                                                           60
 
-[67](#67).          Statements to accompany notification of decisions
+[67](#67).          Statements to accompany notification of decisions                          60
 
-[67A](#67A).       Delegation
+[67A](#67A).       Delegation                                                                                          61
 
-[68](#68).          Annual report
+[68](#68).          Annual report                                                                                    61
 
-[69](#69).          Collection of licence levies
+[69](#69).          Collection of licence levies                                                                 61
 
-[69A](#69A).       Implementation of Montreal Protocol—supplementary regulations
+[69A](#69A).       Implementation of Montreal Protocol—supplementary regulations 62
 
-[69B](#69B).       Severability
+[69B](#69B).       Severability                                                                                        62
 
-[70](#70).          Regulations
+[70](#70).          Regulations                                                                                        63
 
 **Schedule 1—Scheduled substances** 
 
@@ -258,23 +258,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 4—Control of manufacture etc. of products containing or using scheduled substances**
 
-[1](#1).            Dry cleaning machinery
+[1](#1).            Dry cleaning machinery                                                                   176
 
-[2](#2).            Automotive air conditioning maintenance kits
+[2](#2).            Automotive air conditioning maintenance kits                                176
 
-[4](#4).            Extruded polystyrene packaging and insulation
+[4](#4).            Extruded polystyrene packaging and insulation                              177
 
-[5](#5).            Aerosol products
+[5](#5).            Aerosol products                                                                             177
 
-[6](#6).            Products containing halon
+[6](#6).            Products containing halon                                                                178
 
-[7](#7).            Rigid polyurethane foam product
+[7](#7).            Rigid polyurethane foam product                                                    178
 
-[8](#8).            Moulded flexible polyurethane foam
+[8](#8).            Moulded flexible polyurethane foam                                               178
 
-[9](#9).            Disposable containers of refrigerants
+[9](#9).            Disposable containers of refrigerants                                              178
 
-[10](#10).          Refrigeration and air conditioning equipment
+[10](#10).          Refrigeration and air conditioning equipment                                  178
 
 **Notes** 
 
@@ -1281,7 +1281,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00195/Html/OzoneProSynthGrnhouseGasMang89_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00125/Html/OzoneProSynthGrnhouseGasMang89_WD02_image002.gif)
 
 where:
 
@@ -1317,7 +1317,7 @@ where:
 
 ##### <a id="34"></a>34  Quotas cease when licences cease
 
-                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
+                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
 
 ##### <a id="35"></a>35  Transfer of quotas
 
@@ -1473,7 +1473,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Example:    If a country is listed in the Register for substance A but not for substance B (both being stage-1 scheduled substances), then subsection 44(1) prohibits the import of substance B from that country but does not apply to the import of substance A from that country.
 
-             (4)  The Minister must ensure that the Register is accessible to the public through the internet.
+             (4)  The Minister must ensure that the Register is accessible to the public through the Internet.
 
              (5)  The Minister may give a written certificate stating that a specified country was, or was not, on a specified date, listed in the Register for a specified substance. The certificate is prima facie evidence of the matters stated in the certificate.
 
@@ -2093,7 +2093,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (iii)  against section 11.1, 11.4 or 11.5 of the _Criminal Code_;
 
-                            being an offence that relates to the regulations.
+                            being an offence that relates to the regulations.
 
 ## Part VIIIA—Ozone Protection and SGG Account
 
@@ -2423,7 +2423,9 @@ _Section 7_
 <tr>
   <td>
     <div>CF
-      3Cl</div>
+      3C
+      l
+    </div>
   </td>
   <td>
     <div>1.0</div>
@@ -8533,8 +8535,7 @@ of Assent</div>
     <div>S. 3 and Schedule 1 (items 1–17, 19–66): 1 Jan 1996 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 
-3(2)–(5), Sch. 1 (item 61) and Sch. 2</div>
+    <div>S. 3(2)–(5), Sch. 1 (item 61) and Sch. 2</div>
   </td>
 </tr>
 <tr>
@@ -8724,23 +8725,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Ozone Protection Amendment Act 1995_ was amended by Schedule 3 (items 11–17) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 3(f) of which provides as follows:
@@ -8766,109 +8750,6 @@ _(d)_     The _Ozone Protection and Synthetic Greenhouse Gas Management 
 _(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 2 (item 14) only of the _Environmental Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Sections 1, 2 and 3 and items 1, 4, 5, 6, 7 and 14 of Schedule 2 commence on the day on which this Act receives the Royal Assent.
-
-_(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -9451,14 +9332,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10097,7 +9970,7 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 
 * * *
 
-_Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (No. 126, 2003)_
+_Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (No. 126, 2003)_
 
 ##### <a id="4"></a>4  Application and transitional
 
