@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image001.gif)
 
 # Carbon Credits (Carbon Farming Initiative) Act 2011
 
 **Act No. 101 of 2011 as amended**
 
-This compilation was prepared on 1 May 2012
+This compilation was prepared on 8 December 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Vacancy in the office of a Domestic Offsets Integrity Committee member
 
-[7](#7).            Electronic notice transmitted to the Regulator
+[7](#7).            Electronic notice transmitted to the Administrator
 
 [8](#8).            Crown to be bound
 
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Registered native title bodies corporate—deemed project proponent
 
-[47](#47).          Regulator to notify Crown lands Minister of declaration of eligible offsets project
+[47](#47).          Administrator to notify Crown lands Minister of declaration of eligible offsets project
 
 [48](#48).          Designation of special native title account
 
@@ -160,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 11—Freehold land rights land**
 
-[52](#52).          Regulator to notify Crown lands Minister of declaration of eligible offsets project
+[52](#52).          Administrator to notify Crown lands Minister of declaration of eligible offsets project
 
     **Division 12—Types of projects**
 
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [129](#129).        Further information
 
-[130](#130).        Regulator may approve application of methodology determination to a project with effect from the start of a reporting period
+[130](#130).        Administrator may approve application of methodology determination to a project with effect from the start of a reporting period
 
         **Subdivision F—Transitional**
 
@@ -540,13 +540,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [184](#184).        Simplified outline
 
-[185](#185).        Regulator may obtain information or documents
+[185](#185).        Administrator may obtain information or documents
 
 [186](#186).        Copying documents—compensation
 
 [187](#187).        Copies of documents
 
-[188](#188).        Regulator may retain documents
+[188](#188).        Administrator may retain documents
 
 [189](#189).        Self‑incrimination
 
@@ -678,7 +678,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [233](#233).        Simplified outline
 
-[234](#234).        Scheme to avoid existing liability to pay administrative penalty
+[234](#234).        Scheme to avoid existing liability to pay administrative 
+ penalty
 
 [235](#235).        Scheme to avoid future liability to pay administrative penalty
 
@@ -696,15 +697,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [239](#239).        Simplified outline
 
-    **Division 2—Decisions of the Regulator**
+    **Division 2—Decisions of the Administrator**
 
 [240](#240).        Reviewable decisions
 
-[241](#241).        Applications for reconsideration of decisions made by delegates of the Regulator
+[241](#241).        Applications for reconsideration of decisions made by delegates of the Administrator
 
-[242](#242).        Reconsideration by the Regulator
+[242](#242).        Reconsideration by the Administrator
 
-[243](#243).        Deadline for reconsideration [_see_ Note 3]
+[243](#243).        Deadline for reconsideration
 
 [244](#244).        Review by the Administrative Appeals Tribunal
 
@@ -713,6 +714,24 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 3—Decisions of the Domestic Offsets Integrity Committee**
 
 [245A](#245A).     Review by the Administrative Appeals Tribunal
+
+**Part 25—Carbon Credits Administrator**
+
+[246](#246).        Carbon Credits Administrator
+
+[247](#247).        Functions of the Administrator
+
+[248](#248).        Acting Administrator
+
+[249](#249).        Delegation by the Administrator
+
+[250](#250).        Administrator to be assisted by APS employees in the Department
+
+[251](#251).        Other persons assisting the Administrator
+
+[252](#252).        Consultants
+
+[253](#253).        Minister may give directions to the Administrator
 
 **Part 26—Domestic Offsets Integrity Committee** 
 
@@ -762,6 +781,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [273](#273).        Disclosure to the Secretary etc 
 
+[274](#274).        Disclosure or use for purposes of development of methodology determinations etc 
+
 [275](#275).        Disclosure to a Royal Commission
 
 [276](#276).        Disclosure to certain persons and bodies
@@ -776,19 +797,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [281](#281).        Disclosure of summaries or statistics
 
-[282](#282).        Disclosure for purposes of law enforcement—protected audit information
+[282](#282).        Disclosure for purposes of law enforcement—protected Administrator information
 
 [283](#283).        Disclosure for purposes of law enforcement—protected DOIC information
 
 [284](#284).        Disclosure for purposes of review of Act
 
+[285](#285).        Disclosure for purposes of review of compliance with Australia’s international obligations
+
 **Part 28—Miscellaneous**
 
-[286](#286).        Miscellaneous functions of the Regulator
+[286](#286).        Miscellaneous functions of the Administrator
 
 [287](#287).        Computerised decision‑making
 
-[288](#288).        Regulator’s power to require further information
+[288](#288).        Administrator’s power to require further information
 
 [289](#289).        Domestic Offsets Integrity Committee’s power to require further information
 
@@ -993,7 +1016,7 @@ must comply with the offsets integrity standards set out in this Act.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act is administered by
 
-the Clean Energy Regulator.</li>
+the Carbon Credits Administrator.</li>
 
 * * *
 
@@ -1008,6 +1031,8 @@ the Clean Energy Regulator.</li>
                     <a name="addition-test"></a>**_additionality test_** has the meaning given by section 41.
 
                     <a name="addition-test-regul"></a>**_additionality test regulations_** means regulations made for the purposes of paragraph 41(1)(a).
+
+                    <a name="administr"></a>**_Administrator_** means the Carbon Credits Administrator.
 
                     <a name="agricultur-emiss-avoid-project"></a>**_agricultural emissions avoidance project_** means a project to avoid any of the following emissions:
 
@@ -1193,7 +1218,7 @@ For this purpose, it is immaterial whether the land is:
 
                     <a name="electron-commun"></a>**_electronic communication_** means a communication by means of guided and/or unguided electromagnetic energy.
 
-                    <a name="electron-notic-transmit-regul"></a>**_electronic notice transmitted to the Regulator_** has the meaning given by section 7.
+                    <a name="electron-notic-transmit-administr"></a>**_electronic notice transmitted to the Administrator_** has the meaning given by section 7.
 
                     <a name="elig-interest"></a>**_eligible interest_**, in relation to an area of land, has the meaning given by section 44, 45 or 45A.
 
@@ -1219,7 +1244,7 @@ For this purpose, it is immaterial whether the land is:
 
                      (g)  giving information in connection with a request;
 
-to the Regulator, where the application, information, notice, submission or request is permitted, but not required, to be made, given or withdrawn, as the case may be, under this Act or the regulations.
+to the Administrator, where the application, information, notice, submission or request is permitted, but not required, to be made, given or withdrawn, as the case may be, under this Act or the regulations.
 
                     <a name="emiss"></a>**_emission_** of greenhouse gas means the release of greenhouse gas into the atmosphere.
 
@@ -1234,6 +1259,16 @@ to the Regulator, where the application, information, notice, submission or requ
                      (b)  omit to perform an act.
 
                     <a name="entrusted-public-offici"></a>**_entrusted public official_** means:
+
+                     (a)  the Administrator; or
+
+                     (b)  a delegate of the Administrator; or
+
+                     (c)  a person assisting the Administrator under section 250; or
+
+                     (d)  a person whose services are made available to the Administrator under section 251; or
+
+                     (e)  a person engaged as a consultant under section 252; or
 
                       (f)  an audit team leader; or
 
@@ -1561,11 +1596,21 @@ Note 1:       See also section 46 (registered native title bodies 
 
 Note 2:       See also section 135 (multiple project proponents).
 
-                    <a name="protect-audit-inform"></a>**_protected audit information_** means protected information that was obtained by a person in the person’s capacity as:
+                    <a name="protect-administr-inform"></a>**_protected Administrator information_** means protected information that was obtained by a person in the person’s capacity as:
 
-                     (a)  an audit team leader; or
+                     (a)  the Administrator; or
 
-                     (b)  a person assisting an audit team leader.
+                     (b)  a delegate of the Administrator; or
+
+                     (c)  a person assisting the Administrator under section 250; or
+
+                     (d)  a person whose services are made available to the Administrator under section 251; or
+
+                     (e)  a person engaged as a consultant under section 252; or
+
+                      (f)  an audit team leader; or
+
+                     (g)  a person assisting an audit team leader.
 
                     <a name="protect-doic-inform"></a>**_protected DOIC information_** means protected information that was obtained by a person in the person’s capacity as:
 
@@ -1604,8 +1649,6 @@ Note 2:       See also section 135 (multiple project proponents).
                     <a name="registri"></a>**_Registry_** means the Australian National Registry of Emissions Units continued in existence under the _Australian National Registry of Emissions Units Act 2011_.
 
                     <a name="registri-account"></a>**_Registry account_** has the same meaning as in the _Australian National Registry of Emissions Units Act 2011_.
-
-                    <a name="regul"></a>**_Regulator_** means the Clean Energy Regulator.
 
                     <a name="regulatori-approv"></a>**_regulatory approval_**, in relation to an offsets project, means an approval, licence or permit (however described) that:
 
@@ -1705,17 +1748,17 @@ Note:          See section 76.
 
 there are taken to be 4 offices of member of the Domestic Offsets Integrity Committee in addition to the Chair of the Domestic Offsets Integrity Committee.
 
-##### <a id="7"></a>7  Electronic notice transmitted to the Regulator
+##### <a id="7"></a>7  Electronic notice transmitted to the Administrator
 
-             (1)  For the purposes of this Act, a notice is an **_electronic notice_** **_transmitted to the Regulator_** if, and only if:
+             (1)  For the purposes of this Act, a notice is an **_electronic notice_** **_transmitted to the Administrator_** if, and only if:
 
-                     (a)  the notice is transmitted to the Regulator by means of an electronic communication; and
+                     (a)  the notice is transmitted to the Administrator by means of an electronic communication; and
 
-                     (b)  if the Regulator requires that the notice be transmitted, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the Regulator’s requirement has been met; and
+                     (b)  if the Administrator requires that the notice be transmitted, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the Administrator’s requirement has been met; and
 
                      (c)  the notice complies with regulations made for the purposes of subsection (2).
 
-             (2)  The regulations may make provision for or in relation to the security and authenticity of notices transmitted to the Regulator by means of an electronic communication.
+             (2)  The regulations may make provision for or in relation to the security and authenticity of notices transmitted to the Administrator by means of an electronic communication.
 
              (3)  Regulations made for the purposes of subsection (2) may deal with:
 
@@ -1725,7 +1768,7 @@ there are taken to be 4 offices of member of the Domestic Offsets Integrity Comm
 
              (4)  Subsection (3) does not limit subsection (2).
 
-             (5)  For the purposes of this Act, if a notice is transmitted to the Regulator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
+             (5)  For the purposes of this Act, if a notice is transmitted to the Administrator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
 
              (6)  Subsection (5) of this section has effect despite section 14A of the _Electronic Transactions Act 1999_.
 
@@ -1791,7 +1834,7 @@ Issue of units
 
                      (b)  the reporting period ends on or before the Kyoto abatement deadline;
 
-the Regulator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
+the Administrator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
 
              (3)  If:
 
@@ -1799,17 +1842,17 @@ the Regulator must, as soon as practicable after the day on which the certificat
 
                      (b)  the reporting period ends on or before the Kyoto abatement deadline;
 
-the Regulator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of non‑Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
+the Administrator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of non‑Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
 
-             (4)  If the reporting period ends after the Kyoto abatement deadline, the Regulator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of non‑Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
+             (4)  If the reporting period ends after the Kyoto abatement deadline, the Administrator must, as soon as practicable after the day on which the certificate was issued, issue to the holder of the certificate a number of non‑Kyoto Australian carbon credit units equal to the number specified in the certificate as the unit entitlement for that certificate.
 
-             (5)  The Regulator must not issue an Australian carbon credit unit to a person in accordance with subsection (2), (3) or (4) unless the person has a Registry account.
+             (5)  The Administrator must not issue an Australian carbon credit unit to a person in accordance with subsection (2), (3) or (4) unless the person has a Registry account.
 
 Note 1:       See also section 49 (issue of Australian carbon credit units to registered native title bodies corporate).
 
 Note 2:       See also section 141 (issue of Australian carbon credit units in relation to projects with multiple project proponents).
 
-             (6)  The Regulator must issue an Australian carbon credit unit to a person in accordance with subsection (2), (3) or (4) by making an entry for the unit in the person’s Registry account the account number of which is specified in the certificate.
+             (6)  The Administrator must issue an Australian carbon credit unit to a person in accordance with subsection (2), (3) or (4) by making an entry for the unit in the person’s Registry account the account number of which is specified in the certificate.
 
 Note 1:       See also section 49 (issue of Australian carbon credit units to registered native title bodies corporate).
 
@@ -1819,7 +1862,7 @@ Note 2:       See also section 141 (issue of Australian carbon cre
 
 ##### <a id="12"></a>12  Application for certificate of entitlement
 
-                   After the end of a reporting period for an eligible offsets project, a person may apply to the Regulator for the issue to the person of a certificate of entitlement in respect of the project for the reporting period.
+                   After the end of a reporting period for an eligible offsets project, a person may apply to the Administrator for the issue to the person of a certificate of entitlement in respect of the project for the reporting period.
 
 Note 1:       For **_eligible offsets project_**, see section 27.
 
@@ -1831,7 +1874,7 @@ Note 2:       For **_reporting period_**, see section 5.
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  set out the account number of a Registry account of the applicant that should be specified in the certificate; and
 
@@ -1859,9 +1902,9 @@ Note 2:       See also section 141 (applications for certificates 
 
 ##### <a id="14"></a>14  Further information
 
-             (1)  The Regulator may, by written notice given to an applicant, require the applicant to give the Regulator, within the period specified in the notice, further information in connection with the application.
+             (1)  The Administrator may, by written notice given to an applicant, require the applicant to give the Administrator, within the period specified in the notice, further information in connection with the application.
 
-             (2)  If the applicant breaches the requirement, the Regulator may, by written notice given to the applicant:
+             (2)  If the applicant breaches the requirement, the Administrator may, by written notice given to the applicant:
 
                      (a)  refuse to consider the application; or
 
@@ -1875,7 +1918,7 @@ Scope
 
 Issue of certificate
 
-             (2)  If the Regulator is satisfied that:
+             (2)  If the Administrator is satisfied that:
 
                      (a)  the applicant is a recognised offsets entity; and
 
@@ -1903,7 +1946,7 @@ Issue of certificate
 
                      (h)  if the regulations specify one or more other eligibility requirements—those requirements are met;
 
-the Regulator must issue a certificate of entitlement in respect of the project for the period.
+the Administrator must issue a certificate of entitlement in respect of the project for the period.
 
 Note:          For **_recognised offsets entity_**, see section 64.
 
@@ -1915,15 +1958,15 @@ Note:          For unit entitlement, see section 16, 17 or 1
 
 Timing
 
-             (5)  The Regulator must take all reasonable steps to ensure that a decision is made on the application:
+             (5)  The Administrator must take all reasonable steps to ensure that a decision is made on the application:
 
-                     (a)  if the Regulator requires the applicant to give further information under subsection 14(1) in relation to the application—within 90 days after the applicant gave the Regulator the information; or
+                     (a)  if the Administrator requires the applicant to give further information under subsection 14(1) in relation to the application—within 90 days after the applicant gave the Administrator the information; or
 
                      (b)  otherwise—within 90 days after the application was made.
 
 Refusal
 
-             (6)  If the Regulator decides to refuse to issue a certificate of entitlement, the Regulator must give written notice of the decision to the applicant.
+             (6)  If the Administrator decides to refuse to issue a certificate of entitlement, the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="16"></a>16  Unit entitlement—sequestration offsets projects other than native forest protection projects
 
@@ -1937,7 +1980,7 @@ Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image002.gif)
 
 where:
 
@@ -1979,7 +2022,7 @@ Unit entitlement—prescribed native forest protection projects
 
              (2)  If the project is a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image003.gif)
 
 where:
 
@@ -2005,7 +2048,7 @@ Unit entitlement—other native forest protection projects
 
              (3)  If the project is not a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image004.gif)
 
 where:
 
@@ -2073,13 +2116,13 @@ Automatic cancellation
 
                      (a)  the unit is cancelled; and
 
-                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
+                     (b)  the Administrator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
 
                      (c)  if the unit is a Kyoto Australian carbon credit unit:
 
-                              (i)  the Minister must, by written notice given to the Regulator, direct the Regulator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
+                              (i)  the Minister must, by written notice given to the Administrator, direct the Administrator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
 
-                             (ii)  the Regulator must comply with a direction under subparagraph (i).
+                             (ii)  the Administrator must comply with a direction under subparagraph (i).
 
              (3)  The Registry must set out a record of each cancellation under subsection (2).
 
@@ -2101,13 +2144,13 @@ No transfer
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may declare
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may
 
-an offsets project to be an eligible offsets project.</li>
+declare an offsets project to be an eligible offsets project.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may vary or
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may vary
 
-revoke a declaration of an eligible offsets project.</li>
+or revoke a declaration of an eligible offsets project.</li>
 
 * * *
 
@@ -2115,9 +2158,9 @@ revoke a declaration of an eligible offsets project.</li>
 
 ##### <a id="22"></a>22  Application for declaration of eligible offsets project
 
-             (1)  A person may apply to the Regulator for the declaration of an offsets project as an eligible offsets project.
+             (1)  A person may apply to the Administrator for the declaration of an offsets project as an eligible offsets project.
 
-Note:          The Regulator has a function of providing advice and assistance in relation to the making of applications: see section 286.
+Note:          The Administrator has a function of providing advice and assistance in relation to the making of applications: see section 286.
 
              (2)  A person is not entitled to make an application before the 28th day after the commencement of this section.
 
@@ -2127,7 +2170,7 @@ Note:          The Regulator has a function of providing advic
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -2143,7 +2186,7 @@ Note:          The Regulator has a function of providing advic
 
                             be accompanied by such a request; and
 
-                      (f)  if an indigenous land use agreement is relevant to the Regulator’s decision on the application—be accompanied by a copy of the agreement; and
+                      (f)  if an indigenous land use agreement is relevant to the Administrator’s decision on the application—be accompanied by a copy of the agreement; and
 
                      (g)  if the project area, or any of the project areas, for the project is covered by a regional natural resource management plan—be accompanied by a statement about whether the project is consistent with the plan; and
 
@@ -2167,9 +2210,9 @@ Note:          For specification by class, see subsection 13(3
 
 ##### <a id="24"></a>24  Further information
 
-             (1)  The Regulator may, by written notice given to an applicant, require the applicant to give the Regulator, within the period specified in the notice, further information in connection with the application.
+             (1)  The Administrator may, by written notice given to an applicant, require the applicant to give the Administrator, within the period specified in the notice, further information in connection with the application.
 
-             (2)  If the applicant breaches the requirement, the Regulator may, by written notice given to the applicant:
+             (2)  If the applicant breaches the requirement, the Administrator may, by written notice given to the applicant:
 
                      (a)  refuse to consider the application; or
 
@@ -2177,7 +2220,7 @@ Note:          For specification by class, see subsection 13(3
 
 ##### <a id="25"></a>25  Withdrawal of application
 
-             (1)  An applicant may withdraw the application at any time before the Regulator makes a decision on the application.
+             (1)  An applicant may withdraw the application at any time before the Administrator makes a decision on the application.
 
              (2)  This Act does not prevent the applicant from making a fresh application.
 
@@ -2187,7 +2230,7 @@ Note:          For specification by class, see subsection 13(3
 
                      (b)  the applicant has paid a fee in relation to the application;
 
-the Regulator must, on behalf of the Commonwealth, refund the application fee.
+the Administrator must, on behalf of the Commonwealth, refund the application fee.
 
 ##### <a id="26"></a>26  Application may be split
 
@@ -2197,13 +2240,13 @@ Scope
 
                      (a)  an application under section 22 has been made, or purportedly made, for a declaration of an offsets project as an eligible offsets project; and
 
-                     (b)  the Regulator is satisfied that the application relates to 2 or more offsets projects.
+                     (b)  the Administrator is satisfied that the application relates to 2 or more offsets projects.
 
 Note:          See also subsection 55(6).
 
 Application may be split
 
-             (2)  The Regulator may, by written notice given to the applicant, determine that this Act has effect as if the applicant had made a separate application under section 22 in relation to each of the offsets projects referred to in paragraph (1)(b) of this section.
+             (2)  The Administrator may, by written notice given to the applicant, determine that this Act has effect as if the applicant had made a separate application under section 22 in relation to each of the offsets projects referred to in paragraph (1)(b) of this section.
 
 ##### <a id="27"></a>27  Declaration of eligible offsets project
 
@@ -2213,7 +2256,7 @@ Scope
 
 Declaration
 
-             (2)  After considering the application, the Regulator may, by writing:
+             (2)  After considering the application, the Administrator may, by writing:
 
                      (a)  declare that the offsets project is:
 
@@ -2241,7 +2284,7 @@ Declaration
 
 Criteria for declaration
 
-             (4)  The Regulator must not declare that the offsets project is an eligible offsets project unless the Regulator is satisfied that:
+             (4)  The Administrator must not declare that the offsets project is an eligible offsets project unless the Administrator is satisfied that:
 
                      (a)  the project is, or is to be, carried on in Australia; and
 
@@ -2325,15 +2368,15 @@ Note:          For specification by class, see subsection 13(3
 
              (6)  Subparagraph (4)(j)(ii) does not apply to a use specified in the regulations.
 
-             (7)  A consent under paragraph (4)(k) must be in a form approved, in writing, by the Regulator.
+             (7)  A consent under paragraph (4)(k) must be in a form approved, in writing, by the Administrator.
 
              (8)  A consent under paragraph (4)(k) may be set out in a registered indigenous land use agreement.
 
              (9)  Subsection (7) does not apply to a consent under paragraph (4)(k) if the consent is set out in a registered indigenous land use agreement.
 
-           (10)  The Regulator must not make a declaration under subsection (2) if the project area is, or any of the project areas are, subject to a carbon maintenance obligation.
+           (10)  The Administrator must not make a declaration under subsection (2) if the project area is, or any of the project areas are, subject to a carbon maintenance obligation.
 
-           (11)  The Regulator must not make a declaration under subsection (2) in relation to a project (the **_new project_**) if:
+           (11)  The Administrator must not make a declaration under subsection (2) in relation to a project (the **_new project_**) if:
 
                      (a)  a notice was given under section 88, 89, 90 or 91 in relation to a project (the **_prior project_**) that is or was:
 
@@ -2349,17 +2392,17 @@ Note:          For specification by class, see subsection 13(3
 
                      (e)  the penalty payable under section 179 in respect of the non‑compliance with the requirement (including any late payment penalty payable under section 180 in relation to the section 179 penalty) has not been paid in full.
 
-           (12)  The Regulator must not declare that the offsets project is an eligible Kyoto project unless the Regulator is satisfied that the project is a Kyoto offsets project.
+           (12)  The Administrator must not declare that the offsets project is an eligible Kyoto project unless the Administrator is satisfied that the project is a Kyoto offsets project.
 
-           (13)  The Regulator must not declare that the offsets project is an eligible non‑Kyoto project unless the Regulator is satisfied that the project is a non‑Kyoto offsets project.
+           (13)  The Administrator must not declare that the offsets project is an eligible non‑Kyoto project unless the Administrator is satisfied that the project is a non‑Kyoto offsets project.
 
 Timing
 
-           (14)  The Regulator must take all reasonable steps to ensure that a decision is made on the application:
+           (14)  The Administrator must take all reasonable steps to ensure that a decision is made on the application:
 
-                     (a)  if the Regulator requires the applicant to give further information under subsection 24(1) in relation to the application—within 90 days after the applicant gave the Regulator the information; or
+                     (a)  if the Administrator requires the applicant to give further information under subsection 24(1) in relation to the application—within 90 days after the applicant gave the Administrator the information; or
 
-                     (b)  if the Regulator requires the applicant to give further information under subsection 94(1) in relation to the offsets project—within 90 days after the applicant gave the Regulator the information; or
+                     (b)  if the Administrator requires the applicant to give further information under subsection 94(1) in relation to the offsets project—within 90 days after the applicant gave the Administrator the information; or
 
                      (c)  otherwise—within 90 days after the application was made.
 
@@ -2381,7 +2424,7 @@ When a declaration takes effect
 
 Notification of declaration
 
-           (17)  As soon as practicable after making a declaration under subsection (2), the Regulator must give a copy of the declaration to:
+           (17)  As soon as practicable after making a declaration under subsection (2), the Administrator must give a copy of the declaration to:
 
                      (a)  the applicant; and
 
@@ -2389,7 +2432,7 @@ Notification of declaration
 
 Refusal
 
-           (18)  If the Regulator decides to refuse to declare the offsets project as an eligible offsets project, the Regulator must give written notice of the decision to the applicant.
+           (18)  If the Administrator decides to refuse to declare the offsets project as an eligible offsets project, the Administrator must give written notice of the decision to the applicant.
 
 Registered indigenous land use agreements
 
@@ -2399,7 +2442,7 @@ Registered indigenous land use agreements
 
                      (b)  a relevant consent under paragraph (4)(k) was set out in a registered indigenous land use agreement;
 
-details of the agreement must not be removed from the Register of Indigenous Land Use Agreements under subparagraph 199C(1)(c)(ii) of the _Native Title Act 1993_ without the written consent of the Regulator.
+details of the agreement must not be removed from the Register of Indigenous Land Use Agreements under subparagraph 199C(1)(c)(ii) of the _Native Title Act 1993_ without the written consent of the Administrator.
 
 Declaration is not legislative instrument
 
@@ -2413,13 +2456,13 @@ Scope
 
                      (a)  an application under section 22 has been made for a declaration of an offsets project as an eligible offsets project; and
 
-                     (b)  the Regulator makes a declaration under section 27 in relation to the project; and
+                     (b)  the Administrator makes a declaration under section 27 in relation to the project; and
 
-                     (c)  the Regulator is not satisfied that all regulatory approvals have been obtained for the project.
+                     (c)  the Administrator is not satisfied that all regulatory approvals have been obtained for the project.
 
 Condition
 
-             (2)  The Regulator must specify in the declaration that the declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project.
+             (2)  The Administrator must specify in the declaration that the declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project.
 
 ### Division 3—Variation of declaration of eligible offsets project
 
@@ -2427,15 +2470,15 @@ Condition
 
 Regulations
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to vary a declaration under section 27 in relation to an offsets project so far as the declaration identifies the project area or project areas.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to vary a declaration under section 27 in relation to an offsets project so far as the declaration identifies the project area or project areas.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to vary a declaration unless the project proponent for the project applies to the Regulator for the variation of the declaration.
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to vary a declaration unless the project proponent for the project applies to the Administrator for the variation of the declaration.
 
              (3)  Regulations made for the purposes of subsection (1) may make provision for or in relation to any or all of the following matters:
 
                      (a)  applications for variations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application;
+                     (b)  the approval by the Administrator of a form for such an application;
 
                      (c)  information that must accompany such an application;
 
@@ -2453,9 +2496,9 @@ Regulations
 
                       (j)  the withdrawal of such an application;
 
-                     (k)  empowering the Regulator:
+                     (k)  empowering the Administrator:
 
-                              (i)  to require an applicant to give the Regulator further information in connection with such an application; and
+                              (i)  to require an applicant to give the Administrator further information in connection with such an application; and
 
                              (ii)  if the applicant breaches the requirement—to refuse to consider the application, or to refuse to take any action, or any further action, in relation to the application.
 
@@ -2463,13 +2506,13 @@ Regulations
 
              (5)  A fee mentioned in paragraph (3)(i) must not be such as to amount to taxation.
 
-             (6)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Regulator must give a copy of the variation to:
+             (6)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Administrator must give a copy of the variation to:
 
                      (a)  the applicant for the variation; and
 
                      (b)  if the declaration relates to a sequestration offsets project—the relevant land registration official.
 
-             (7)  Regulations made for the purposes of subsection (1) must provide that, if the Regulator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Regulator must give written notice of the decision to the applicant for the variation.
+             (7)  Regulations made for the purposes of subsection (1) must provide that, if the Administrator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Administrator must give written notice of the decision to the applicant for the variation.
 
 Registered indigenous land use agreements
 
@@ -2479,7 +2522,7 @@ Registered indigenous land use agreements
 
                      (b)  a consent to the making of the application for the variation was set out in a registered indigenous land use agreement;
 
-details of the agreement must not be removed from the Register of Indigenous Land Use Agreements under subparagraph 199C(1)(c)(ii) of the _Native Title Act 1993_ without the written consent of the Regulator.
+details of the agreement must not be removed from the Register of Indigenous Land Use Agreements under subparagraph 199C(1)(c)(ii) of the _Native Title Act 1993_ without the written consent of the Administrator.
 
 References to eligible offsets project
 
@@ -2489,15 +2532,15 @@ References to eligible offsets project
 
 Regulations
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to vary a declaration under section 27 in relation to an offsets project so far as the declaration identifies the project proponent for the project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to vary a declaration under section 27 in relation to an offsets project so far as the declaration identifies the project proponent for the project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to vary a declaration unless the project proponent for the project applies to the Regulator for the variation of the declaration.
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to vary a declaration unless the project proponent for the project applies to the Administrator for the variation of the declaration.
 
              (3)  Regulations made for the purposes of subsection (1) may make provision for or in relation to any or all of the following matters:
 
                      (a)  applications for variations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application;
+                     (b)  the approval by the Administrator of a form for such an application;
 
                      (c)  information that must accompany such an application;
 
@@ -2509,19 +2552,19 @@ Regulations
 
                      (g)  the withdrawal of such an application;
 
-                     (h)  empowering the Regulator:
+                     (h)  empowering the Administrator:
 
-                              (i)  to require an applicant to give the Regulator further information in connection with such an application; and
+                              (i)  to require an applicant to give the Administrator further information in connection with such an application; and
 
                              (ii)  if the applicant breaches the requirement—to refuse to consider the application, or to refuse to take any action, or any further action, in relation to the application;
 
-                      (i)  empowering the Regulator to require the applicant to give security to the Commonwealth in relation to the fulfilment by the applicant of any requirements to relinquish Australian carbon credit units that may be imposed on the applicant under this Part in relation to the project.
+                      (i)  empowering the Administrator to require the applicant to give security to the Commonwealth in relation to the fulfilment by the applicant of any requirements to relinquish Australian carbon credit units that may be imposed on the applicant under this Part in relation to the project.
 
              (4)  Subsection (3) does not limit subsection (1).
 
              (5)  A fee mentioned in paragraph (3)(f) must not be such as to amount to taxation.
 
-             (6)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Regulator must give a copy of the variation to:
+             (6)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Administrator must give a copy of the variation to:
 
                      (a)  the applicant for the variation; and
 
@@ -2533,7 +2576,7 @@ Regulations
 
                      (b)  if:
 
-                              (i)  the Regulator makes a written determination specifying an earlier day; and
+                              (i)  the Administrator makes a written determination specifying an earlier day; and
 
                              (ii)  the applicant for the variation has consented to the determination of the earlier day;
 
@@ -2541,7 +2584,7 @@ Regulations
 
              (8)  A determination made under subparagraph (7)(b)(i) is not a legislative instrument.
 
-             (9)  Regulations made for the purposes of subsection (1) must provide that, if the Regulator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Regulator must give written notice of the decision to the applicant for the variation.
+             (9)  Regulations made for the purposes of subsection (1) must provide that, if the Administrator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Administrator must give written notice of the decision to the applicant for the variation.
 
 References to eligible offsets project
 
@@ -2555,19 +2598,19 @@ Scope
 
 Regulations
 
-             (2)  The regulations may make provision for and in relation to empowering the Regulator to vary such a declaration by removing such a condition.
+             (2)  The regulations may make provision for and in relation to empowering the Administrator to vary such a declaration by removing such a condition.
 
-             (3)  Regulations made for the purposes of subsection (2) must not empower the Regulator to vary a declaration unless:
+             (3)  Regulations made for the purposes of subsection (2) must not empower the Administrator to vary a declaration unless:
 
-                     (a)  the project proponent for the project applies to the Regulator for the variation of the declaration; and
+                     (a)  the project proponent for the project applies to the Administrator for the variation of the declaration; and
 
-                     (b)  the Regulator is satisfied that the condition has been met.
+                     (b)  the Administrator is satisfied that the condition has been met.
 
              (4)  Regulations made for the purposes of subsection (2) may make provision for or in relation to any or all of the following matters:
 
                      (a)  applications for variations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application;
+                     (b)  the approval by the Administrator of a form for such an application;
 
                      (c)  information that must accompany such an application;
 
@@ -2579,9 +2622,9 @@ Regulations
 
                      (g)  the withdrawal of such an application;
 
-                     (h)  empowering the Regulator:
+                     (h)  empowering the Administrator:
 
-                              (i)  to require an applicant to give the Regulator further information in connection with such an application; and
+                              (i)  to require an applicant to give the Administrator further information in connection with such an application; and
 
                              (ii)  if the applicant breaches the requirement—to refuse to consider the application, or to refuse to take any action, or any further action, in relation to the application.
 
@@ -2589,13 +2632,13 @@ Regulations
 
              (6)  A fee mentioned in paragraph (4)(f) must not be such as to amount to taxation.
 
-             (7)  Regulations made for the purposes of subsection (2) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Regulator must give a copy of the variation to:
+             (7)  Regulations made for the purposes of subsection (2) must provide that, if a declaration of an eligible offsets project is varied in accordance with those regulations, the Administrator must give a copy of the variation to:
 
                      (a)  the applicant for the variation; and
 
                      (b)  if the declaration relates to a sequestration offsets project—the relevant land registration official.
 
-             (8)  Regulations made for the purposes of subsection (2) must provide that, if the Regulator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Regulator must give written notice of the decision to the applicant for the variation.
+             (8)  Regulations made for the purposes of subsection (2) must provide that, if the Administrator decides to refuse to vary a declaration of an eligible offsets project in accordance with an application for variation under those regulations, the Administrator must give written notice of the decision to the applicant for the variation.
 
 References to eligible offsets project
 
@@ -2607,13 +2650,13 @@ References to eligible offsets project
 
 ##### <a id="32"></a>32  Voluntary revocation of declaration of eligible offsets project—units issued
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  one or more Australian carbon credit units have been issued in relation to the project in accordance with Part 2; and
 
-                     (b)  the project proponent for the project applies to the Regulator for the revocation of the declaration; and
+                     (b)  the project proponent for the project applies to the Administrator for the revocation of the declaration; and
 
                      (c)  if the project is a sequestration offsets project—before the application was made, the applicant voluntarily relinquished:
 
@@ -2631,11 +2674,11 @@ Note 2:       See also section 178 (transfer of certain units inst
 
                      (a)  applications for revocations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application.
+                     (b)  the approval by the Administrator of a form for such an application.
 
              (4)  Subsection (3) does not limit subsection (1).
 
-             (5)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (5)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the applicant for the revocation; and
 
@@ -2643,23 +2686,23 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="33"></a>33  Voluntary revocation of declaration of eligible offsets project—no units issued
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  no Australian carbon credit units have been issued in relation to the project in accordance with Part 2; and
 
-                     (b)  the project proponent for the project applies to the Regulator for the revocation of the declaration.
+                     (b)  the project proponent for the project applies to the Administrator for the revocation of the declaration.
 
              (3)  Regulations made for the purposes of subsection (1) may make provision for or in relation to either or both of the following matters:
 
                      (a)  applications for revocations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application.
+                     (b)  the approval by the Administrator of a form for such an application.
 
              (4)  Subsection (3) does not limit subsection (1).
 
-             (5)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (5)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the applicant for the revocation; and
 
@@ -2669,17 +2712,17 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="34"></a>34  Unilateral revocation of declaration of eligible offsets project—regulatory approvals not obtained
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  the declaration is subject to the condition that all regulatory approvals for the project must be obtained before the end of the first crediting period for the project; and
 
-                     (b)  the Regulator is satisfied that the condition has not been met.
+                     (b)  the Administrator is satisfied that the condition has not been met.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the project proponent for the project before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the project proponent for the project before deciding to revoke a declaration.
 
-             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the project proponent; and
 
@@ -2687,17 +2730,17 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="35"></a>35  Unilateral revocation of declaration of eligible offsets project—eligibility requirements not met etc.
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless the Regulator is satisfied that the project does not meet a requirement that is:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless the Administrator is satisfied that the project does not meet a requirement that is:
 
                      (a)  set out in subsection 27(4); and
 
                      (b)  specified in regulations made for the purposes of this paragraph.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the project proponent for the project before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the project proponent for the project before deciding to revoke a declaration.
 
-             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the project proponent; and
 
@@ -2705,17 +2748,17 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="36"></a>36  Unilateral revocation of declaration of eligible offsets project—project proponent ceases to be a recognised offsets entity
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  the project proponent for the project ceases to be a recognised offsets entity; and
 
                      (b)  90 days pass after the cessation, and the person who, at the end of that 90‑day period, is the project proponent for the project is not a recognised offsets entity.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the project proponent for the project before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the project proponent for the project before deciding to revoke a declaration.
 
-             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the project proponent; and
 
@@ -2723,9 +2766,9 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="37"></a>37  Unilateral revocation of declaration of eligible offsets project—person responsible for carrying out project ceases to be the project proponent
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  the person who is responsible for carrying out the project ceases to be the project proponent for the project; and
 
@@ -2735,9 +2778,9 @@ Note 2:       See also section 178 (transfer of certain units inst
 
                              (ii)  a recognised offsets entity.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the project proponent for the project before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the project proponent for the project before deciding to revoke a declaration.
 
-             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the person who is responsible for carrying out the project; and
 
@@ -2745,11 +2788,11 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 ##### <a id="38"></a>38  Unilateral revocation of declaration of eligible offsets project—false or misleading information
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
-                     (a)  information was given by a person to the Regulator in connection with the project; and
+                     (a)  information was given by a person to the Administrator in connection with the project; and
 
                      (b)  the information was:
 
@@ -2763,9 +2806,9 @@ Note 2:       See also section 178 (transfer of certain units inst
 
                      (c)  the information was false or misleading in a material particular.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the project proponent for the project before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the project proponent for the project before deciding to revoke a declaration.
 
-             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Regulator must give a copy of the revocation to:
+             (4)  Regulations made for the purposes of subsection (1) must provide that, if a declaration of an eligible offsets project is revoked in accordance with those regulations, the Administrator must give a copy of the revocation to:
 
                      (a)  the project proponent; and
 
@@ -2875,7 +2918,7 @@ this Act has effect, and is taken always to have had effect, as if the Minister 
 
                    For the purposes of this Act, the **_net total number_** of Australian carbon credit units issued in relation to an eligible offsets project in accordance with Part 2 is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image005.gif)
 
 ### Division 8—Applicable carbon sequestration right
 
@@ -3287,7 +3330,7 @@ then:
 
 Note:          Paragraphs 27(4)(h) and (i) deal with the issue of certificates in relation to Crown land.
 
-##### <a id="47"></a>47  Regulator to notify Crown lands Minister of declaration of eligible offsets project
+##### <a id="47"></a>47  Administrator to notify Crown lands Minister of declaration of eligible offsets project
 
 Scope
 
@@ -3301,11 +3344,11 @@ Scope
 
                      (d)  the project area is not, or the project areas are not, Torrens system land; and
 
-                     (e)  the Regulator makes a declaration under section 27 in relation to the project.
+                     (e)  the Administrator makes a declaration under section 27 in relation to the project.
 
 Notification
 
-             (2)  As soon as practicable after making the declaration, the Regulator must notify the Crown lands Minister of the State or Territory, in writing, of the making of the declaration.
+             (2)  As soon as practicable after making the declaration, the Administrator must notify the Crown lands Minister of the State or Territory, in writing, of the making of the declaration.
 
 ##### <a id="48"></a>48  Designation of special native title account
 
@@ -3317,15 +3360,15 @@ Request for special native title account
 
              (2)  The registered native title body corporate may:
 
-                     (a)  request the Regulator, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, to open a Registry account in the name of the registered native title body corporate; and
+                     (a)  request the Administrator, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, to open a Registry account in the name of the registered native title body corporate; and
 
-                     (b)  request the Regulator to designate that account as the special native title account for the eligible offsets project.
+                     (b)  request the Administrator to designate that account as the special native title account for the eligible offsets project.
 
              (3)  A request under paragraph (2)(b) must:
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -3339,7 +3382,7 @@ Request for special native title account
 
 Designation of special native title account
 
-             (6)  After considering a request under paragraph (2)(b), the Regulator may designate the Registry account as the **_special native title account_** for the eligible offsets project.
+             (6)  After considering a request under paragraph (2)(b), the Administrator may designate the Registry account as the **_special native title account_** for the eligible offsets project.
 
 ##### <a id="49"></a>49  Issue of Australian carbon credit units to special native title account
 
@@ -3359,11 +3402,11 @@ Issue of Australian carbon credit units
 
                      (a)  a special native title account for the project is kept in the name of the registered native title body corporate; and
 
-                     (b)  apart from this subsection, the Regulator is required under section 11 to issue one or more Australian carbon credit units to the registered native title body corporate in relation to the eligible offsets project;
+                     (b)  apart from this subsection, the Administrator is required under section 11 to issue one or more Australian carbon credit units to the registered native title body corporate in relation to the eligible offsets project;
 
 then:
 
-                     (c)  the Regulator must comply with the requirement by issuing the units to the registered native title body corporate and making an entry for the units in the special native title account; and
+                     (c)  the Administrator must comply with the requirement by issuing the units to the registered native title body corporate and making an entry for the units in the special native title account; and
 
                      (d)  subsections 11(5) and (6) do not apply to the issue of the units.
 
@@ -3371,9 +3414,9 @@ then:
 
                      (a)  there is not a special native title account for the project; and
 
-                     (b)  apart from this subsection, the Regulator is required under section 11 to issue one or more Australian carbon credit units to the registered native title body corporate in relation to the eligible offsets project;
+                     (b)  apart from this subsection, the Administrator is required under section 11 to issue one or more Australian carbon credit units to the registered native title body corporate in relation to the eligible offsets project;
 
-the Regulator must not issue the units.
+the Administrator must not issue the units.
 
 ##### <a id="50"></a>50  Units held in special native title account
 
@@ -3397,13 +3440,13 @@ Units held in account
 
 ### Division 11—Freehold land rights land
 
-##### <a id="52"></a>52  Regulator to notify Crown lands Minister of declaration of eligible offsets project
+##### <a id="52"></a>52  Administrator to notify Crown lands Minister of declaration of eligible offsets project
 
 Scope
 
              (1)  This section applies if:
 
-                     (a)  the Regulator makes a declaration under section 27 in relation to an offsets project; and
+                     (a)  the Administrator makes a declaration under section 27 in relation to an offsets project; and
 
                      (b)  the project area is, or any of the project areas are, freehold land rights land in a particular State or Territory; and
 
@@ -3413,7 +3456,7 @@ Scope
 
 Notification
 
-             (2)  As soon as practicable after making the declaration, the Regulator must notify the Crown lands Minister of the State or Territory, in writing, of the making of the declaration.
+             (2)  As soon as practicable after making the declaration, the Administrator must notify the Crown lands Minister of the State or Territory, in writing, of the making of the declaration.
 
 ### Division 12—Types of projects
 
@@ -3565,13 +3608,13 @@ Regulations
 
 Determinations
 
-             (3)  Regulations made for the purposes of subsection (2) may empower the Regulator to determine that, whenever it is necessary to calculate a unit entitlement in relation to the transferor offsets project using the formula in subsection 16(2), that subsection has effect, in relation to the transferor offsets project, as if the net abatement number were decreased by the number specified in the determination.
+             (3)  Regulations made for the purposes of subsection (2) may empower the Administrator to determine that, whenever it is necessary to calculate a unit entitlement in relation to the transferor offsets project using the formula in subsection 16(2), that subsection has effect, in relation to the transferor offsets project, as if the net abatement number were decreased by the number specified in the determination.
 
-             (4)  Regulations made for the purposes of subsection (2) may empower the Regulator to determine that, whenever it is necessary to calculate a unit entitlement in relation to the transferee offsets project using the formula in subsection 16(2), that subsection has effect, in relation to the transferee offsets project, as if the net abatement number were increased by the number specified in the determination.
+             (4)  Regulations made for the purposes of subsection (2) may empower the Administrator to determine that, whenever it is necessary to calculate a unit entitlement in relation to the transferee offsets project using the formula in subsection 16(2), that subsection has effect, in relation to the transferee offsets project, as if the net abatement number were increased by the number specified in the determination.
 
-             (5)  Regulations made for the purposes of subsection (2) may empower the Regulator to determine that, whenever it is necessary to work out the net total number of Australian carbon credit units issued in relation to the transferor offsets project, this Act has effect, in relation to the transferor offsets project, as if the net total number of Australian carbon credit units issued in relation to the project in accordance with Part 2 were decreased by the number specified in the determination.
+             (5)  Regulations made for the purposes of subsection (2) may empower the Administrator to determine that, whenever it is necessary to work out the net total number of Australian carbon credit units issued in relation to the transferor offsets project, this Act has effect, in relation to the transferor offsets project, as if the net total number of Australian carbon credit units issued in relation to the project in accordance with Part 2 were decreased by the number specified in the determination.
 
-             (6)  Regulations made for the purposes of subsection (2) may empower the Regulator to determine that, whenever it is necessary to work out the net total number of Australian carbon credit units issued in relation to the transferee offsets project, this Act has effect, in relation to the transferee offsets project, as if the net total number of Australian carbon credit units issued in relation to the project in accordance with Part 2 were increased by the number specified in the determination.
+             (6)  Regulations made for the purposes of subsection (2) may empower the Administrator to determine that, whenever it is necessary to work out the net total number of Australian carbon credit units issued in relation to the transferee offsets project, this Act has effect, in relation to the transferee offsets project, as if the net total number of Australian carbon credit units issued in relation to the project in accordance with Part 2 were increased by the number specified in the determination.
 
              (7)  Subsections (3) to (6) do not limit subsection (2).
 
@@ -3589,7 +3632,7 @@ Note:          For when an eligible offsets project is subject
 
 Restriction
 
-             (2)  The Regulator must not make or vary another section 27 declaration if doing so would result in the relevant area becoming, or becoming part of, the project area, or any of the project areas, for another eligible offsets project that is not subject to the voluntary automatic unit cancellation regime.
+             (2)  The Administrator must not make or vary another section 27 declaration if doing so would result in the relevant area becoming, or becoming part of, the project area, or any of the project areas, for another eligible offsets project that is not subject to the voluntary automatic unit cancellation regime.
 
 ## Part 4—Recognised offsets entities
 
@@ -3599,15 +3642,15 @@ Restriction
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may recognise
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may
 
-a person as an offsets entity.</li>
+recognise a person as an offsets entity.</li>
 
 * * *
 
 ##### <a id="60"></a>60  Application for recognition as an offsets entity
 
-             (1)  A person may apply to the Regulator for recognition as an offsets entity.
+             (1)  A person may apply to the Administrator for recognition as an offsets entity.
 
              (2)  A person is not entitled to make an application before the 28th day after the commencement of this section.
 
@@ -3617,7 +3660,7 @@ a person as an offsets entity.</li>
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -3631,9 +3674,9 @@ a person as an offsets entity.</li>
 
 ##### <a id="62"></a>62  Further information
 
-             (1)  The Regulator may, by written notice given to an applicant, require the applicant to give the Regulator, within the period specified in the notice, further information in connection with the application.
+             (1)  The Administrator may, by written notice given to an applicant, require the applicant to give the Administrator, within the period specified in the notice, further information in connection with the application.
 
-             (2)  If the applicant breaches the requirement, the Regulator may, by written notice given to the applicant:
+             (2)  If the applicant breaches the requirement, the Administrator may, by written notice given to the applicant:
 
                      (a)  refuse to consider the application; or
 
@@ -3641,7 +3684,7 @@ a person as an offsets entity.</li>
 
 ##### <a id="63"></a>63  Withdrawal of application
 
-             (1)  An applicant may withdraw the application at any time before the Regulator makes a decision on the application.
+             (1)  An applicant may withdraw the application at any time before the Administrator makes a decision on the application.
 
              (2)  This Act does not prevent the applicant from making a fresh application.
 
@@ -3651,7 +3694,7 @@ a person as an offsets entity.</li>
 
                      (b)  the applicant has paid a fee in relation to the application;
 
-the Regulator must, on behalf of the Commonwealth, refund the application fee.
+the Administrator must, on behalf of the Commonwealth, refund the application fee.
 
 ##### <a id="64"></a>64  Recognition as an offsets entity
 
@@ -3661,13 +3704,13 @@ Scope
 
 Recognition
 
-             (2)  After considering the application, the Regulator may, by written notice given to the applicant, recognise the applicant as an offsets entity.
+             (2)  After considering the application, the Administrator may, by written notice given to the applicant, recognise the applicant as an offsets entity.
 
 Criteria for recognition
 
-             (3)  The Regulator must not recognise the applicant as an offsets entity unless:
+             (3)  The Administrator must not recognise the applicant as an offsets entity unless:
 
-                     (a)  the Regulator is satisfied that the applicant is a fit and proper person, having regard to the following:
+                     (a)  the Administrator is satisfied that the applicant is a fit and proper person, having regard to the following:
 
                               (i)  whether the applicant has been convicted of an offence against a law of the Commonwealth, a State or a Territory, where the offence relates to dishonest conduct;
 
@@ -3701,27 +3744,27 @@ Criteria for recognition
 
                           (xvi)  if the applicant is a body corporate—whether an executive officer of the body corporate has breached the _National Greenhouse and Energy Reporting Act 2007_ or regulations under that Act;
 
-                         (xvii)  such other matters (if any) as the Regulator considers relevant; and
+                         (xvii)  such other matters (if any) as the Administrator considers relevant; and
 
-                     (b)  if the applicant is an individual—the Regulator is satisfied that the applicant is not an insolvent under administration; and
+                     (b)  if the applicant is an individual—the Administrator is satisfied that the applicant is not an insolvent under administration; and
 
-                     (c)  if the applicant is a body corporate—the Regulator is satisfied that the applicant is not an externally‑administered body corporate; and
+                     (c)  if the applicant is a body corporate—the Administrator is satisfied that the applicant is not an externally‑administered body corporate; and
 
-                     (d)  if the regulations specify one or more other eligibility requirements—the Regulator is satisfied that those requirements are met.
+                     (d)  if the regulations specify one or more other eligibility requirements—the Administrator is satisfied that those requirements are met.
 
              (4)  Subparagraphs (3)(a)(i) to (xvi) do not limit subparagraph (3)(a)(xvii).
 
 Timing
 
-             (5)  The Regulator must take all reasonable steps to ensure that a decision is made on the application:
+             (5)  The Administrator must take all reasonable steps to ensure that a decision is made on the application:
 
-                     (a)  if the Regulator requires the applicant to give further information under subsection 62(1) in relation to the application—within 90 days after the applicant gave the Regulator the information; or
+                     (a)  if the Administrator requires the applicant to give further information under subsection 62(1) in relation to the application—within 90 days after the applicant gave the Administrator the information; or
 
                      (b)  otherwise—within 90 days after the application was made.
 
 Refusal
 
-             (6)  If the Regulator decides to refuse to recognise the applicant as an offsets entity, the Regulator must give written notice of the decision to the applicant.
+             (6)  If the Administrator decides to refuse to recognise the applicant as an offsets entity, the Administrator must give written notice of the decision to the applicant.
 
 Spent convictions
 
@@ -3731,9 +3774,9 @@ Spent convictions
 
 Cancellation
 
-             (1)  The Regulator may cancel the recognition of a person as an offsets entity if:
+             (1)  The Administrator may cancel the recognition of a person as an offsets entity if:
 
-                     (a)  the Regulator is satisfied that the person is not a fit and proper person, having regard to the following:
+                     (a)  the Administrator is satisfied that the person is not a fit and proper person, having regard to the following:
 
                               (i)  whether the person has been convicted of an offence against a law of the Commonwealth, a State or a Territory, where the offence relates to dishonest conduct;
 
@@ -3767,13 +3810,13 @@ Cancellation
 
                           (xvi)  if the person is a body corporate—whether an executive officer of the body corporate has breached the _National Greenhouse and Energy Reporting Act 2007_ or regulations under that Act;
 
-                         (xvii)  such other matters (if any) as the Regulator considers relevant; or
+                         (xvii)  such other matters (if any) as the Administrator considers relevant; or
 
-                     (b)  if the person is an individual—the Regulator is satisfied that the person is an insolvent under administration; or
+                     (b)  if the person is an individual—the Administrator is satisfied that the person is an insolvent under administration; or
 
-                     (c)  if the person is a body corporate—the Regulator is satisfied that the person is an externally‑administered body corporate; or
+                     (c)  if the person is a body corporate—the Administrator is satisfied that the person is an externally‑administered body corporate; or
 
-                     (d)  if the regulations specify one or more other grounds for cancellation—the Regulator is satisfied that at least one of those grounds is applicable to the person.
+                     (d)  if the regulations specify one or more other grounds for cancellation—the Administrator is satisfied that at least one of those grounds is applicable to the person.
 
              (2)  Subparagraphs (1)(a)(i) to (xvi) do not limit subparagraph (1)(a)(xvii).
 
@@ -3789,9 +3832,9 @@ Scope
 
 Surrender
 
-             (2)  The person may, by written notice given to the Regulator, surrender the person’s recognition.
+             (2)  The person may, by written notice given to the Administrator, surrender the person’s recognition.
 
-             (3)  The surrender takes effect on the day the notice is received by the Regulator or, if a later day is specified in the notice, on that later day.
+             (3)  The surrender takes effect on the day the notice is received by the Administrator or, if a later day is specified in the notice, on that later day.
 
 ##### <a id="67"></a>67  Recognition is not transferable
 
@@ -3835,7 +3878,7 @@ for the project is:</li>
 
 declaration of the project under section 27 took effect.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may, on
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may, on
 
 application by a project proponent, determine a subsequent crediting period for
 
@@ -3843,7 +3886,7 @@ an eligible offsets project that is not a native forest protection project.</li>
 
 * * *
 
-Note:          Under section 15, the Regulator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
+Note:          Under section 15, the Administrator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
 
 ### Division 2—First crediting period
 
@@ -3887,7 +3930,7 @@ Application period
 
 Application
 
-             (3)  During an application period for the project, the project proponent for the project may apply to the Regulator for the determination of a specified period as a subsequent crediting period for the project.
+             (3)  During an application period for the project, the project proponent for the project may apply to the Administrator for the determination of a specified period as a subsequent crediting period for the project.
 
              (4)  The specified period must be:
 
@@ -3907,7 +3950,7 @@ beginning immediately after the end of the relevant crediting period.
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -3921,9 +3964,9 @@ beginning immediately after the end of the relevant crediting period.
 
 ##### <a id="72"></a>72  Further information
 
-             (1)  The Regulator may, by written notice given to an applicant, require the applicant to give the Regulator, within the period specified in the notice, further information in connection with the application.
+             (1)  The Administrator may, by written notice given to an applicant, require the applicant to give the Administrator, within the period specified in the notice, further information in connection with the application.
 
-             (2)  If the applicant breaches the requirement, the Regulator may, by written notice given to the applicant:
+             (2)  If the applicant breaches the requirement, the Administrator may, by written notice given to the applicant:
 
                      (a)  refuse to consider the application; or
 
@@ -3931,7 +3974,7 @@ beginning immediately after the end of the relevant crediting period.
 
 ##### <a id="73"></a>73  Withdrawal of application
 
-             (1)  An applicant may withdraw the application at any time before the Regulator makes a decision on the application.
+             (1)  An applicant may withdraw the application at any time before the Administrator makes a decision on the application.
 
              (2)  This Act does not prevent the applicant from making a fresh application.
 
@@ -3941,7 +3984,7 @@ beginning immediately after the end of the relevant crediting period.
 
                      (b)  the applicant has paid a fee in relation to the application;
 
-the Regulator must, on behalf of the Commonwealth, refund the application fee.
+the Administrator must, on behalf of the Commonwealth, refund the application fee.
 
 ##### <a id="74"></a>74  Determination of subsequent crediting period
 
@@ -3951,9 +3994,9 @@ Scope
 
 Determination
 
-             (2)  After considering the application, the Regulator may, by writing, determine that the period is a subsequent **_crediting period_** for the project for the purposes of this Act.
+             (2)  After considering the application, the Administrator may, by writing, determine that the period is a subsequent **_crediting period_** for the project for the purposes of this Act.
 
-             (3)  The Regulator must not make a determination under subsection (2) unless the Regulator is satisfied that:
+             (3)  The Administrator must not make a determination under subsection (2) unless the Administrator is satisfied that:
 
                      (a)  the applicant is the project proponent for the project; and
 
@@ -3965,11 +4008,11 @@ Determination
 
 Notification of determination
 
-             (4)  As soon as practicable after making a determination under subsection (2), the Regulator must give a copy of the determination to the applicant.
+             (4)  As soon as practicable after making a determination under subsection (2), the Administrator must give a copy of the determination to the applicant.
 
 Refusal
 
-             (5)  If the Regulator decides to refuse to determine that the period is a subsequent crediting period for the project, the Regulator must give written notice of the decision to the applicant.
+             (5)  If the Administrator decides to refuse to determine that the period is a subsequent crediting period for the project, the Administrator must give written notice of the decision to the applicant.
 
 Determination is not a legislative instrument
 
@@ -3987,7 +4030,7 @@ Determination is not a legislative instrument
 
 <li class="BoxList" style="margin-left:21.25pt">•      The project proponent for
 
-an eligible offsets project must give the Regulator an offsets report for a
+an eligible offsets project must give the Administrator an offsets report for a
 
 period that is expressed to be a reporting period for the project.</li>
 
@@ -4009,7 +4052,7 @@ be:</li>
 
               (b)     longer than 5 years.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator must be
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator must be
 
 notified of certain events relating to eligible offsets projects.</li>
 
@@ -4021,7 +4064,7 @@ notified of certain events relating to eligible offsets projects.</li>
 
 Report for first reporting period
 
-             (1)  The project proponent for an eligible offsets project must, in accordance with this section, give the Regulator a written report about the project for a period that:
+             (1)  The project proponent for an eligible offsets project must, in accordance with this section, give the Administrator a written report about the project for a period that:
 
                      (a)  is expressed to be a reporting period for the project; and
 
@@ -4031,11 +4074,11 @@ Report for first reporting period
 
                      (d)  is not longer than 5 years.
 
-Note:          Under section 15, the Regulator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
+Note:          Under section 15, the Administrator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
 
 Reports for subsequent reporting periods
 
-             (2)  The project proponent for an eligible offsets project must, in accordance with this section, give the Regulator a written report about the project for a period that:
+             (2)  The project proponent for an eligible offsets project must, in accordance with this section, give the Administrator a written report about the project for a period that:
 
                      (a)  is expressed to be a reporting period for the project; and
 
@@ -4045,7 +4088,7 @@ Reports for subsequent reporting periods
 
                      (d)  is not longer than 5 years.
 
-Note 1:       Under section 15, the Regulator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
+Note 1:       Under section 15, the Administrator may only issue a certificate of entitlement to Australian carbon credit units in relation to a reporting period for an eligible offsets project if the reporting period is included in a crediting period for the project.
 
 Note 2:       See also section 77.
 
@@ -4065,7 +4108,7 @@ Offsets report requirements
 
                      (d)  be accompanied by such other documents (if any) as are specified in the regulations; and
 
-                     (e)  be given to the Regulator within 3 months after the end of the reporting period.
+                     (e)  be given to the Administrator within 3 months after the end of the reporting period.
 
              (5)  The regulations may provide that a project of a kind specified in the regulations is exempt from paragraph (4)(c).
 
@@ -4107,21 +4150,21 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 Regulations
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to declare that subsection 76(2) does not apply to a particular eligible offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to declare that subsection 76(2) does not apply to a particular eligible offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to make a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to make a declaration unless:
 
                      (a)  the project is a sequestration offsets project; and
 
-                     (b)  the project proponent for the project applies to the Regulator for the declaration; and
+                     (b)  the project proponent for the project applies to the Administrator for the declaration; and
 
-                     (c)  the Regulator is satisfied that the project has reached its maximum carbon sequestration capacity.
+                     (c)  the Administrator is satisfied that the project has reached its maximum carbon sequestration capacity.
 
              (3)  Regulations made for the purposes of subsection (1) may make provision for or in relation to any or all of the following matters:
 
                      (a)  applications for declarations under those regulations;
 
-                     (b)  the approval by the Regulator of a form for such an application;
+                     (b)  the approval by the Administrator of a form for such an application;
 
                      (c)  information that must accompany such an application;
 
@@ -4133,9 +4176,9 @@ Regulations
 
                      (g)  the withdrawal of such an application;
 
-                     (h)  empowering the Regulator:
+                     (h)  empowering the Administrator:
 
-                              (i)  to require an applicant to give the Regulator further information in connection with such an application; and
+                              (i)  to require an applicant to give the Administrator further information in connection with such an application; and
 
                              (ii)  if the applicant breaches the requirement—to refuse to consider the application, or to refuse to take any action, or any further action, in relation to the application.
 
@@ -4163,7 +4206,7 @@ Scope
 
 Notification
 
-             (2)  The person must, within 90 days after the cessation occurs, notify the Regulator, in writing, of the cessation.
+             (2)  The person must, within 90 days after the cessation occurs, notify the Administrator, in writing, of the cessation.
 
 Ancillary contraventions
 
@@ -4191,7 +4234,7 @@ Scope
 
 Notification
 
-             (2)  The person’s legal personal representative must, within 90 days after the death, notify the Regulator, in writing, of the death.
+             (2)  The person’s legal personal representative must, within 90 days after the death, notify the Administrator, in writing, of the death.
 
 Ancillary contraventions
 
@@ -4219,7 +4262,7 @@ Scope
 
                      (a)  there is an eligible offsets project; and
 
-                     (b)  under the applicable methodology determination, the project proponent for the project is subject to a requirement to notify the Regulator of one or more matters relating to the project.
+                     (b)  under the applicable methodology determination, the project proponent for the project is subject to a requirement to notify the Administrator of one or more matters relating to the project.
 
 Notification
 
@@ -4257,7 +4300,7 @@ Notification
 
              (2)  The project proponent for the project must:
 
-                     (a)  notify the Regulator, in writing, of:
+                     (a)  notify the Administrator, in writing, of:
 
                               (i)  a natural disturbance that causes a reversal of the removal; or
 
@@ -4299,7 +4342,7 @@ Notification
 
              (2)  The project proponent for the project must:
 
-                     (a)  notify the Regulator, in writing, of conduct engaged in by a person (other than the project proponent), where the conduct:
+                     (a)  notify the Administrator, in writing, of conduct engaged in by a person (other than the project proponent), where the conduct:
 
                               (i)  is not within the reasonable control of the project proponent; and
 
@@ -4309,7 +4352,7 @@ Notification
 
              (3)  The project proponent for the project must:
 
-                     (a)  notify the Regulator, in writing, of conduct engaged in by a person (other than the project proponent), where the conduct:
+                     (a)  notify the Administrator, in writing, of conduct engaged in by a person (other than the project proponent), where the conduct:
 
                               (i)  is not within the reasonable control of the project proponent; and
 
@@ -4351,7 +4394,7 @@ Scope
 
 Notification
 
-             (2)  The project proponent for the project must, within 90 days after the change, notify the Regulator, in writing, of:
+             (2)  The project proponent for the project must, within 90 days after the change, notify the Administrator, in writing, of:
 
                      (a)  the change; and
 
@@ -4411,7 +4454,7 @@ Scope
 
 Notification
 
-             (2)  The person must, within 90 days after the event, notify the Regulator, in writing, of the event.
+             (2)  The person must, within 90 days after the event, notify the Administrator, in writing, of the event.
 
 Ancillary contraventions
 
@@ -4445,7 +4488,7 @@ Scope
 
 Regulations
 
-             (2)  The regulations may make provision requiring the person to notify the Regulator of a matter.
+             (2)  The regulations may make provision requiring the person to notify the Administrator of a matter.
 
              (3)  Regulations made for the purposes of subsection (2) may make different provision with respect to different project proponents or different recognised offsets entities. This does not limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
@@ -4521,7 +4564,7 @@ Scope
 
                      (a)  a number of Australian carbon credit units have been issued to a person in relation to an eligible offsets project; and
 
-                     (b)  information was given by the person to the Regulator in connection with the project; and
+                     (b)  information was given by the person to the Administrator in connection with the project; and
 
                      (c)  the information was:
 
@@ -4539,7 +4582,7 @@ Scope
 
 Relinquishment
 
-             (2)  If the units mentioned in paragraph (1)(e) are Kyoto Australian carbon credit units, the Regulator may, by written notice given to the person, require the person to relinquish a specified number of Kyoto Australian carbon credit units.
+             (2)  If the units mentioned in paragraph (1)(e) are Kyoto Australian carbon credit units, the Administrator may, by written notice given to the person, require the person to relinquish a specified number of Kyoto Australian carbon credit units.
 
 Note 1:       See also section 177 (transfer of certain units instead of relinquishment of Kyoto Australian carbon credit units).
 
@@ -4547,7 +4590,7 @@ Note 2:       See also section 178 (transfer of certain units inst
 
              (3)  A number specified under subsection (2) must not exceed the number of Kyoto Australian carbon credit units the issue of which was directly or indirectly attributable to the false or misleading information.
 
-             (4)  If the units mentioned in paragraph (1)(e) are non‑Kyoto Australian carbon credit units, the Regulator may, by written notice given to the person, require the person to relinquish a specified number of non‑Kyoto Australian carbon credit units.
+             (4)  If the units mentioned in paragraph (1)(e) are non‑Kyoto Australian carbon credit units, the Administrator may, by written notice given to the person, require the person to relinquish a specified number of non‑Kyoto Australian carbon credit units.
 
              (5)  A number specified under subsection (4) must not exceed the number of non‑Kyoto Australian carbon credit units the issue of which was directly or indirectly attributable to the false or misleading information.
 
@@ -4585,7 +4628,7 @@ Scope
 
 Relinquishment
 
-             (2)  The Regulator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
+             (2)  The Administrator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
 
                      (a)  if the project is an eligible Kyoto project—Kyoto Australian carbon credit units; or
 
@@ -4631,7 +4674,7 @@ Scope
 
 Relinquishment
 
-             (2)  The Regulator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
+             (2)  The Administrator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
 
                      (a)  if the project is an eligible Kyoto project—Kyoto Australian carbon credit units; or
 
@@ -4669,7 +4712,7 @@ Scope
 
                              (ii)  conduct engaged in by a person (other than the project proponent for the project), where the conduct is not within the reasonable control of the project proponent; and
 
-                      (f)  the Regulator is not satisfied that the project proponent has, within a reasonable period, taken reasonable steps to mitigate the effect of the natural disturbance or conduct, as the case may be, on the project; and
+                      (f)  the Administrator is not satisfied that the project proponent has, within a reasonable period, taken reasonable steps to mitigate the effect of the natural disturbance or conduct, as the case may be, on the project; and
 
                      (g)  if the relevant section 27 declaration has never been varied so as to add one or more project areas—the period that has passed since the first occasion on which an Australian carbon credit unit was issued in relation to the project in accordance with Part 2 is shorter than the maximum potential relinquishment period for the project; and
 
@@ -4677,7 +4720,7 @@ Scope
 
 Relinquishment
 
-             (2)  The Regulator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
+             (2)  The Administrator may, by written notice given to the project proponent for the project, require the project proponent to relinquish a specified number of:
 
                      (a)  if the project is an eligible Kyoto project—Kyoto Australian carbon credit units; or
 
@@ -4709,7 +4752,7 @@ Note 2:       See also section 95 (transition of offsets projects)
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -4719,9 +4762,9 @@ Note 2:       See also section 95 (transition of offsets projects)
 
 ##### <a id="94"></a>94  Further information
 
-             (1)  The Regulator may, by written notice given to a person who has made a request under section 92, require the person to give the Regulator, within the period specified in the notice, further information in connection with the request.
+             (1)  The Administrator may, by written notice given to a person who has made a request under section 92, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
 
-             (2)  If the person breaches the requirement, the Regulator may, by written notice given to the person:
+             (2)  If the person breaches the requirement, the Administrator may, by written notice given to the person:
 
                      (a)  refuse to consider:
 
@@ -4743,11 +4786,11 @@ Scope
 
                      (a)  a request under section 92 has been made for a determination under this section in relation to an offsets project; and
 
-                     (b)  under section 27, the Regulator has declared the offsets project to be an eligible offsets project.
+                     (b)  under section 27, the Administrator has declared the offsets project to be an eligible offsets project.
 
 Determination
 
-             (2)  As soon as practicable after making the declaration, the Regulator must consider the request and may, by written notice given to the person who made the request, determine that this Act has effect, in relation to the project, as if:
+             (2)  As soon as practicable after making the declaration, the Administrator must consider the request and may, by written notice given to the person who made the request, determine that this Act has effect, in relation to the project, as if:
 
                      (a)  paragraphs 89(1)(b), 90(1)(b) and 91(1)(b) had not been enacted; and
 
@@ -4755,13 +4798,13 @@ Determination
 
                      (c)  if the project is a landfill legacy emissions avoidance project—paragraph 41(1)(b) had not been enacted.
 
-             (3)  The Regulator must not make a determination under subsection (2) unless the Regulator is satisfied that the project area is or was, or the project areas are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme that is specified in regulations made for the purposes of subparagraph 23(1)(e)(ia).
+             (3)  The Administrator must not make a determination under subsection (2) unless the Administrator is satisfied that the project area is or was, or the project areas are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme that is specified in regulations made for the purposes of subparagraph 23(1)(e)(ia).
 
-             (4)  In making a determination under subsection (2), the Regulator must comply with the regulations.
+             (4)  In making a determination under subsection (2), the Administrator must comply with the regulations.
 
 Refusal
 
-             (5)  If the Regulator refuses to make a determination under subsection (2), the Regulator must give notice of the refusal to the person who made the request for the determination.
+             (5)  If the Administrator refuses to make a determination under subsection (2), the Administrator must give notice of the refusal to the person who made the request for the determination.
 
 Determination is not legislative instrument
 
@@ -4815,9 +4858,9 @@ Scope
 
                             (iv)  the notice required a person to relinquish a particular number of Australian carbon credit units;
 
-                             (v)  the Regulator is satisfied that it is likely that the person will not comply with the requirement within 90 days after the notice was given; or
+                             (v)  the Administrator is satisfied that it is likely that the person will not comply with the requirement within 90 days after the notice was given; or
 
-                     (c)  the Regulator is satisfied that:
+                     (c)  the Administrator is satisfied that:
 
                               (i)  a sequestration offsets project is or was an eligible offsets project; and
 
@@ -4831,7 +4874,7 @@ Scope
 
 Declaration
 
-             (2)  The Regulator may, by writing, declare that:
+             (2)  The Administrator may, by writing, declare that:
 
                      (a)  the area or areas of land are subject to a **_carbon maintenance obligation_**; and
 
@@ -4855,7 +4898,7 @@ Note:          For specification by class, see the _Acts Inter
 
              (5)  Subsection (4) does not limit the ways in which an activity may be specified under paragraph (2)(b).
 
-             (6)  If the Regulator makes a declaration under subsection (2), the Regulator must take all reasonable steps to ensure that a copy of the declaration is given to:
+             (6)  If the Administrator makes a declaration under subsection (2), the Administrator must take all reasonable steps to ensure that a copy of the declaration is given to:
 
                      (a)  the project proponent for the project; and
 
@@ -4947,13 +4990,13 @@ Scope
 
 Variation or revocation
 
-             (2)  The Regulator may, by writing, vary or revoke the declaration.
+             (2)  The Administrator may, by writing, vary or revoke the declaration.
 
-             (3)  The Regulator may do so:
+             (3)  The Administrator may do so:
 
-                     (a)  on the Regulator’s own initiative; or
+                     (a)  on the Administrator’s own initiative; or
 
-                     (b)  on application made to the Regulator by a person.
+                     (b)  on application made to the Administrator by a person.
 
 Application
 
@@ -4961,7 +5004,7 @@ Application
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by the fee (if any) specified in the regulations.
 
@@ -4969,7 +5012,7 @@ Application
 
 Notification of variation or revocation
 
-             (6)  If the Regulator varies or revokes the declaration, the Regulator must take all reasonable steps to ensure that a copy of the variation or revocation is given to:
+             (6)  If the Administrator varies or revokes the declaration, the Administrator must take all reasonable steps to ensure that a copy of the variation or revocation is given to:
 
                      (a)  the project proponent for the project; and
 
@@ -4983,7 +5026,7 @@ Notification of variation or revocation
 
 Refusal
 
-             (8)  If the Regulator decides to refuse to vary or revoke the declaration, the Regulator must give written notice of the decision to the applicant.
+             (8)  If the Administrator decides to refuse to vary or revoke the declaration, the Administrator must give written notice of the decision to the applicant.
 
 Variation or revocation is not a legislative instrument
 
@@ -5001,7 +5044,7 @@ Scope
 
                      (c)  in the case of 2 or more areas—none of the areas is a project area for an eligible offsets project; and
 
-                     (d)  a person applies to the Regulator for the revocation of the relevant subsection 97(2) declaration; and
+                     (d)  a person applies to the Administrator for the revocation of the relevant subsection 97(2) declaration; and
 
                      (e)  if the project is an eligible Kyoto project:
 
@@ -5021,7 +5064,7 @@ Note 2:       See also section 178 (transfer of certain units inst
 
 Revocation
 
-             (2)  The Regulator must, by writing, revoke the declaration.
+             (2)  The Administrator must, by writing, revoke the declaration.
 
 Application
 
@@ -5029,11 +5072,11 @@ Application
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator.
+                     (b)  be in a form approved, in writing, by the Administrator.
 
 Notification of revocation
 
-             (4)  If the Regulator revokes the declaration, the Regulator must take all reasonable steps to ensure that a copy of the revocation is given to:
+             (4)  If the Administrator revokes the declaration, the Administrator must take all reasonable steps to ensure that a copy of the revocation is given to:
 
                      (a)  the project proponent for the project; and
 
@@ -5047,7 +5090,7 @@ Notification of revocation
 
 Refusal
 
-             (6)  If the Regulator decides to refuse to revoke the declaration, the Regulator must give written notice of the decision to the applicant.
+             (6)  If the Administrator decides to refuse to revoke the declaration, the Administrator must give written notice of the decision to the applicant.
 
 Revocation is not a legislative instrument
 
@@ -5065,11 +5108,11 @@ Performance injunctions
 
                      (b)  the refusal or failure was, is or would be a contravention of subsection 97(9) or (10);
 
-the Federal Court may, on the application of the Regulator, grant an injunction requiring the person to do that act or thing.
+the Federal Court may, on the application of the Administrator, grant an injunction requiring the person to do that act or thing.
 
 Restraining injunctions
 
-             (2)  If a person has engaged, is engaging or is proposing to engage, in any conduct in contravention of subsection 97(9) or (10), the Federal Court may, on the application of the Regulator, grant an injunction:
+             (2)  If a person has engaged, is engaging or is proposing to engage, in any conduct in contravention of subsection 97(9) or (10), the Federal Court may, on the application of the Administrator, grant an injunction:
 
                      (a)  restraining the person from engaging in the conduct; and
 
@@ -5083,7 +5126,7 @@ Grant of interim injunction
 
 No undertakings as to damages
 
-             (2)  The Federal Court is not to require the Regulator, as a condition of granting an interim injunction, to give any undertakings as to damages.
+             (2)  The Federal Court is not to require the Administrator, as a condition of granting an interim injunction, to give any undertakings as to damages.
 
 ##### <a id="102"></a>102  Discharge etc. of injunctions
 
@@ -5109,7 +5152,7 @@ Restraining injunctions
 
 ##### <a id="104"></a>104  Other powers of the Federal Court unaffected
 
-                   The powers conferred on the Federal Court under this Division are in addition to, and not instead of, any other powers of the Court, whether conferred by this Act or otherwise.
+                   The powers conferred on the Federal Court under this Division are in addition to, and not instead of, any other powers of the Court, whether conferred by this Act or otherwise.
 
 ## Part 9—Methodology determinations
 
@@ -5167,7 +5210,7 @@ Note:          For declarations of eligible offsets projects, 
 
                      (a)  specified requirements to include specified information relating to the project in each offsets report about the project;
 
-                     (b)  specified requirements to notify one or more matters relating to the project to the Regulator;
+                     (b)  specified requirements to notify one or more matters relating to the project to the Administrator;
 
                      (c)  specified record‑keeping requirements relating to the project;
 
@@ -5741,7 +5784,7 @@ Continuation
 
                      (b)  no other methodology determination applies to the project during the remainder of the crediting period.
 
-             (3)  However, if the Regulator approves, under section 130, the application of another methodology determination to the project, with effect from a particular time, subsection (2) does not apply to the project during so much of the crediting period as occurs after that time.
+             (3)  However, if the Administrator approves, under section 130, the application of another methodology determination to the project, with effect from a particular time, subsection (2) does not apply to the project during so much of the crediting period as occurs after that time.
 
 ##### <a id="126"></a>126  Original methodology determination continues to apply after variation
 
@@ -5753,7 +5796,7 @@ Continuation
 
              (2)  Despite the variation, the original determination continues to apply to the project during the remainder of the crediting period as if the original determination had not been varied.
 
-             (3)  However, if the Regulator approves, under section 130:
+             (3)  However, if the Administrator approves, under section 130:
 
                      (a)  the application of another methodology determination to the project, with effect from a particular time; or
 
@@ -5775,17 +5818,17 @@ Continuation
 
                      (b)  no other methodology determination applies to the project during the remainder of the crediting period.
 
-             (3)  However, if the Regulator approves, under section 130, the application of another methodology determination to the project, with effect from a particular time, subsection (2) does not apply to the project during so much of the crediting period as occurs after that time.
+             (3)  However, if the Administrator approves, under section 130, the application of another methodology determination to the project, with effect from a particular time, subsection (2) does not apply to the project during so much of the crediting period as occurs after that time.
 
 ##### <a id="128"></a>128  Request to approve application of methodology determination to a project with effect from the start of a reporting period
 
-             (1)  During a reporting period for an eligible offsets project, the project proponent for the project may request the Regulator to approve the application of a specified methodology determination to the project with effect from the start of the reporting period.
+             (1)  During a reporting period for an eligible offsets project, the project proponent for the project may request the Administrator to approve the application of a specified methodology determination to the project with effect from the start of the reporting period.
 
              (2)  A request must:
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -5801,15 +5844,15 @@ Continuation
 
 ##### <a id="129"></a>129  Further information
 
-             (1)  The Regulator may, by written notice given to a person who made a request, require the person to give the Regulator, within the period specified in the notice, further information in connection with the request.
+             (1)  The Administrator may, by written notice given to a person who made a request, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
 
-             (2)  If the person breaches the requirement, the Regulator may, by written notice given to the person:
+             (2)  If the person breaches the requirement, the Administrator may, by written notice given to the person:
 
                      (a)  refuse to consider the request; or
 
                      (b)  refuse to take any action, or any further action, in relation to the request.
 
-##### <a id="130"></a>130  Regulator may approve application of methodology determination to a project with effect from the start of a reporting period
+##### <a id="130"></a>130  Administrator may approve application of methodology determination to a project with effect from the start of a reporting period
 
 Scope
 
@@ -5817,17 +5860,17 @@ Scope
 
 Approval
 
-             (2)  After considering the request, the Regulator may, by writing, approve the application of the methodology determination to the project with effect from the start of the reporting period.
+             (2)  After considering the request, the Administrator may, by writing, approve the application of the methodology determination to the project with effect from the start of the reporting period.
 
-             (3)  The Regulator must not give an approval under subsection (2) unless the Regulator is satisfied that the project is covered by the methodology determination.
+             (3)  The Administrator must not give an approval under subsection (2) unless the Administrator is satisfied that the project is covered by the methodology determination.
 
 Notification of approval
 
-             (4)  As soon as practicable after giving an approval under subsection (2), the Regulator must give a copy of the approval to the person who made the request.
+             (4)  As soon as practicable after giving an approval under subsection (2), the Administrator must give a copy of the approval to the person who made the request.
 
 Refusal
 
-             (5)  If the Regulator decides to refuse to approve the application of the methodology determination to the project, the Regulator must give written notice of the decision to the person who made the request.
+             (5)  If the Administrator decides to refuse to approve the application of the methodology determination to the project, the Administrator must give written notice of the decision to the person who made the request.
 
 Approval is not a legislative instrument
 
@@ -6103,9 +6146,9 @@ Scope
 
 Nomination
 
-             (2)  The multiple project proponents may, by joint written notice given to the Regulator, nominate one of them as being their **_nominee_** in relation to the offsets project.
+             (2)  The multiple project proponents may, by joint written notice given to the Administrator, nominate one of them as being their **_nominee_** in relation to the offsets project.
 
-             (3)  The joint written notice must be in a form approved, in writing, by the Regulator.
+             (3)  The joint written notice must be in a form approved, in writing, by the Administrator.
 
              (4)  A notice under subsection (2) may accompany an application under this Act or the regulations. In this case, the nomination is taken to have been given immediately before the application was made.
 
@@ -6115,7 +6158,7 @@ Revocation of nomination
 
                      (a)  a person has been nominated under subsection (2) in relation to an eligible offsets project; and
 
-                     (b)  one of the project proponents for the eligible offsets project, by written notice given to the Regulator, revokes the nomination;
+                     (b)  one of the project proponents for the eligible offsets project, by written notice given to the Administrator, revokes the nomination;
 
 the nomination ceases to be in force.
 
@@ -6149,7 +6192,7 @@ Service of documents
 
 the document is taken to have been given to each of the multiple project proponents.
 
-##### <a id="138"></a>138  Eligible voluntary action taken by nominee
+##### <a id="138"></a>138  Eligible voluntary action taken by nominee
 
 Scope
 
@@ -6181,9 +6224,9 @@ this Act and the regulations have effect as if:
 
 ##### <a id="139"></a>139  Unilateral revocation of declaration of eligible offsets project—failure of multiple project proponents to nominate a nominee
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to revoke a declaration under section 27 in relation to an offsets project.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to revoke a declaration under section 27 in relation to an offsets project.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to revoke a declaration unless:
 
                      (a)  there are 2 or more project proponents (the **_multiple project proponents_**) for the offsets project; and
 
@@ -6195,7 +6238,7 @@ this Act and the regulations have effect as if:
 
                      (e)  90 days pass, and no new nomination under subsection 136(2) is made by the multiple project proponents.
 
-             (3)  Regulations made for the purposes of subsection (1) must require the Regulator to consult the multiple project proponents before deciding to revoke a declaration.
+             (3)  Regulations made for the purposes of subsection (1) must require the Administrator to consult the multiple project proponents before deciding to revoke a declaration.
 
 ##### <a id="140"></a>140  Designation of nominee account
 
@@ -6213,15 +6256,15 @@ Request for nominee account
 
              (2)  The nominee may:
 
-                     (a)  request the Regulator, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, to open a Registry account in the name of the nominee; and
+                     (a)  request the Administrator, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, to open a Registry account in the name of the nominee; and
 
-                     (b)  request the Regulator to designate that account as the nominee account for the eligible offsets project.
+                     (b)  request the Administrator to designate that account as the nominee account for the eligible offsets project.
 
              (3)  A request under paragraph (2)(b) must:
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -6235,7 +6278,7 @@ Request for nominee account
 
 Designation of nominee account
 
-             (6)  After considering a request under paragraph (2)(b), the Regulator may designate the Registry account as the **_nominee account_** for the eligible offsets project.
+             (6)  After considering a request under paragraph (2)(b), the Administrator may designate the Registry account as the **_nominee account_** for the eligible offsets project.
 
 ##### <a id="141"></a>141  Issue of Australian carbon credit units to nominee account
 
@@ -6269,11 +6312,11 @@ Issue of Australian carbon credit units
 
                      (c)  a nominee account for the project is kept in the name of the nominee; and
 
-                     (d)  apart from this subsection, the Regulator is required under section 11 to issue one or more Australian carbon credit units to the multiple project proponents in relation to the eligible offsets project;
+                     (d)  apart from this subsection, the Administrator is required under section 11 to issue one or more Australian carbon credit units to the multiple project proponents in relation to the eligible offsets project;
 
 then:
 
-                     (e)  the Regulator must comply with the requirement by issuing the units to the nominee and making an entry for the units in the nominee account; and
+                     (e)  the Administrator must comply with the requirement by issuing the units to the nominee and making an entry for the units in the nominee account; and
 
                       (f)  subsections 11(5) and (6) do not apply to the issue of the units.
 
@@ -6281,9 +6324,9 @@ then:
 
                      (a)  no nomination made by the multiple project proponents under subsection 136(2) in relation to the project is in force; and
 
-                     (b)  apart from this subsection, the Regulator is required under section 11 to issue one or more Australian carbon credit units to the multiple project proponents in relation to the eligible offsets project;
+                     (b)  apart from this subsection, the Administrator is required under section 11 to issue one or more Australian carbon credit units to the multiple project proponents in relation to the eligible offsets project;
 
-the Regulator must not issue the units.
+the Administrator must not issue the units.
 
 ##### <a id="142"></a>142  Units held in nominee account
 
@@ -6309,7 +6352,7 @@ Instructions by nominee
 
                      (b)  the _Australian National Registry of Emissions Units Act 2011_;
 
-to the Regulator in relation to the nominee account unless:
+to the Administrator in relation to the nominee account unless:
 
                      (c)  the account is kept in the name of the person; and
 
@@ -6337,7 +6380,7 @@ Scope
 
 Updating account details
 
-             (2)  As soon as practicable after receiving the new nomination, the Regulator must make the necessary alterations in the Registry to substitute the name of the new nominee for the name of the old nominee.
+             (2)  As soon as practicable after receiving the new nomination, the Administrator must make the necessary alterations in the Registry to substitute the name of the new nominee for the name of the old nominee.
 
 ### Division 4—Obligations of multiple project proponents
 
@@ -6375,7 +6418,7 @@ Obligations of project proponent
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may issue
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may issue
 
 Australian carbon credit units.</li>
 
@@ -6393,17 +6436,17 @@ Registry accounts for Australian carbon credit units.</li>
 
 ##### <a id="147"></a>147  Issue of Australian carbon credit units
 
-                   The Regulator may, on behalf of the Commonwealth, issue units, to be known as Australian carbon credit units.
+                   The Administrator may, on behalf of the Commonwealth, issue units, to be known as Australian carbon credit units.
 
 ##### <a id="148"></a>148  How Australian carbon credit units are to be issued
 
-             (1)  The Regulator is to issue an Australian carbon credit unit to a person by making an entry for the unit in a Registry account kept by the person.
+             (1)  The Administrator is to issue an Australian carbon credit unit to a person by making an entry for the unit in a Registry account kept by the person.
 
-             (2)  The Regulator must not issue an Australian carbon credit unit to a person unless the person has a Registry account.
+             (2)  The Administrator must not issue an Australian carbon credit unit to a person unless the person has a Registry account.
 
 ##### <a id="149"></a>149  Circumstances in which Australian carbon credit units may be issued
 
-                   The Regulator must not issue an Australian carbon credit unit otherwise than in accordance with Part 2.
+                   The Administrator must not issue an Australian carbon credit unit otherwise than in accordance with Part 2.
 
 ### Division 3—Property in, and transfer of, Australian carbon credit units
 
@@ -6445,9 +6488,9 @@ Registry accounts for Australian carbon credit units.</li>
 
              (1)  A transmission by assignment of an Australian carbon credit unit for which there is an entry in a Registry account is of no force until:
 
-                     (a)  the transferor, by electronic notice transmitted to the Regulator, instructs the Regulator to transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee; and
+                     (a)  the transferor, by electronic notice transmitted to the Administrator, instructs the Administrator to transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee; and
 
-                     (b)  the Regulator complies with that instruction.
+                     (b)  the Administrator complies with that instruction.
 
              (2)  An instruction under paragraph (1)(a) must set out:
 
@@ -6455,7 +6498,7 @@ Registry accounts for Australian carbon credit units.</li>
 
                      (b)  the account number of the transferee’s Registry account.
 
-             (3)  If the Regulator receives an instruction under paragraph (1)(a), the Regulator must comply with the instruction as soon as practicable after receiving it.
+             (3)  If the Administrator receives an instruction under paragraph (1)(a), the Administrator must comply with the instruction as soon as practicable after receiving it.
 
              (4)  The Registry must set out a record of each instruction under paragraph (1)(a).
 
@@ -6469,11 +6512,11 @@ Scope
 
 Effect of transmission
 
-          (1A)  The transmission is of no force until the Regulator transfers the Australian carbon credit unit under subsection (7) or (8).
+          (1A)  The transmission is of no force until the Administrator transfers the Australian carbon credit unit under subsection (7) or (8).
 
 Declaration of transmission
 
-             (2)  The transferee must, within 90 days after the transmission, give the Regulator:
+             (2)  The transferee must, within 90 days after the transmission, give the Administrator:
 
                      (a)  a declaration of transmission; and
 
@@ -6481,19 +6524,19 @@ Declaration of transmission
 
              (3)  A declaration of transmission must be made in accordance with the regulations.
 
-             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, for the Regulator to open a Registry account in the name of the transferee.
+             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request, under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, for the Administrator to open a Registry account in the name of the transferee.
 
-             (5)  If the Regulator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Regulator may extend that period.
+             (5)  If the Administrator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Administrator may extend that period.
 
-             (6)  The Regulator may exercise the power conferred by subsection (5):
+             (6)  The Administrator may exercise the power conferred by subsection (5):
 
-                     (a)  on written application being made to the Regulator by the transferee; or
+                     (a)  on written application being made to the Administrator by the transferee; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Transfer of unit—transferee already has a Registry account
 
-             (7)  If the transferee already has a Registry account, the Regulator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
+             (7)  If the transferee already has a Registry account, the Administrator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
 
 Transfer of unit—transferee does not have a Registry account
 
@@ -6501,13 +6544,13 @@ Transfer of unit—transferee does not have a Registry account
 
                      (a)  the transferee does not already have a Registry account; and
 
-                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, the Regulator has opened a Registry account in the name of the transferee;
+                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1) of the _Australian National Registry of Emissions Units Act 2011_, the Administrator has opened a Registry account in the name of the transferee;
 
-the Regulator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
+the Administrator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
 
 Record
 
-             (9)  If the Regulator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
+             (9)  If the Administrator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
 
 When the transferee is the Commonwealth
 
@@ -6523,15 +6566,15 @@ Notification
 
            (11)  If:
 
-                     (a)  the Regulator decides to:
+                     (a)  the Administrator decides to:
 
                               (i)  extend the 90‑day period mentioned in subsection (2); or
 
                              (ii)  refuse to extend the 90‑day period mentioned in subsection (2); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="154"></a>154  Outgoing international transfers of Australian carbon credit units
 
@@ -6541,7 +6584,7 @@ Scope
 
                      (a)  a person (the **_first person_**) keeps a Registry account in which there is an entry for an Australian carbon credit unit; and
 
-                     (b)  the first person, by electronic notice transmitted to the Regulator, instructs the Regulator to transfer the unit from the Registry account to:
+                     (b)  the first person, by electronic notice transmitted to the Administrator, instructs the Administrator to transfer the unit from the Registry account to:
 
                               (i)  a foreign account kept by another person; or
 
@@ -6557,13 +6600,13 @@ Scope
 
 Compliance with instruction
 
-             (3)  If the Regulator receives an instruction under subsection (1), the Regulator must take such steps as are required by the regulations.
+             (3)  If the Administrator receives an instruction under subsection (1), the Administrator must take such steps as are required by the regulations.
 
-             (4)  Regulations made for the purposes of subsection (3) may require the Regulator to remove the entry for the unit from the relevant Registry account kept by the first person.
+             (4)  Regulations made for the purposes of subsection (3) may require the Administrator to remove the entry for the unit from the relevant Registry account kept by the first person.
 
-             (5)  If the unit is a Kyoto Australian carbon credit unit, regulations made for the purposes of subsection (3) may require the Regulator to transfer an assigned amount unit from a Commonwealth holding account to a voluntary cancellation account.
+             (5)  If the unit is a Kyoto Australian carbon credit unit, regulations made for the purposes of subsection (3) may require the Administrator to transfer an assigned amount unit from a Commonwealth holding account to a voluntary cancellation account.
 
-             (6)  If the Regulator takes steps under subsection (3) in relation to an instruction, the Registry must set out a record of the instruction.
+             (6)  If the Administrator takes steps under subsection (3) in relation to an instruction, the Registry must set out a record of the instruction.
 
              (7)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
@@ -6579,7 +6622,7 @@ Scope
 
                      (a)  a person keeps a Registry account (the **_first Registry account_**) in which there is an entry for an Australian carbon credit unit; and
 
-                     (b)  the person, by electronic notice transmitted to the Regulator, instructs the Regulator to transfer the unit from the first Registry account to another Registry account kept by the person; and
+                     (b)  the person, by electronic notice transmitted to the Administrator, instructs the Administrator to transfer the unit from the first Registry account to another Registry account kept by the person; and
 
                      (c)  the instruction sets out:
 
@@ -6589,7 +6632,7 @@ Scope
 
 Compliance with instruction
 
-             (2)  If a person gives the Regulator an instruction under paragraph (1)(b), the Regulator must comply with the instruction as soon as practicable after receiving it.
+             (2)  If a person gives the Administrator an instruction under paragraph (1)(b), the Administrator must comply with the instruction as soon as practicable after receiving it.
 
              (3)  The Registry must set out a record of the instruction under paragraph (1)(b).
 
@@ -6601,7 +6644,7 @@ Scope
 
                      (a)  a person keeps a Registry account in which there is an entry for a Kyoto Australian carbon credit unit issued to the person; and
 
-                     (b)  before 1 July 2013, the person, by electronic notice transmitted to the Regulator, instructs the Regulator to exchange the unit for whichever of the following units is specified in the instruction:
+                     (b)  before 1 July 2013, the person, by electronic notice transmitted to the Administrator, instructs the Administrator to exchange the unit for whichever of the following units is specified in the instruction:
 
                               (i)  an assigned amount unit;
 
@@ -6617,9 +6660,9 @@ Scope
 
 Compliance with instruction
 
-             (2)  If the Regulator receives an instruction under paragraph (1)(b), the Regulator must take such steps as are required by the regulations.
+             (2)  If the Administrator receives an instruction under paragraph (1)(b), the Administrator must take such steps as are required by the regulations.
 
-             (3)  Regulations made for the purposes of subsection (2) may require the Regulator to:
+             (3)  Regulations made for the purposes of subsection (2) may require the Administrator to:
 
                      (a)  cancel the Kyoto Australian carbon credit unit; and
 
@@ -6669,9 +6712,9 @@ equitable interests in relation to an Australian carbon credit unit.
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator must publish
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator must
 
-certain information about the operation of this Act.</li>
+publish certain information about the operation of this Act.</li>
 
 * * *
 
@@ -6679,7 +6722,7 @@ certain information about the operation of this Act.</li>
 
 ##### <a id="160"></a>160  Information about issue of Australian carbon credit units
 
-                   As soon as practicable after Australian carbon credit units are issued to a person, the Regulator must publish on the Regulator’s website:
+                   As soon as practicable after Australian carbon credit units are issued to a person, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -6687,13 +6730,13 @@ certain information about the operation of this Act.</li>
 
 ##### <a id="161"></a>161  Quarterly reports about issue of Australian carbon credit units
 
-                   As soon as practicable after the end of each quarter, the Regulator must publish on the Regulator’s website the total number of Australian carbon credit units issued during the quarter.
+                   As soon as practicable after the end of each quarter, the Administrator must publish on the Administrator’s website the total number of Australian carbon credit units issued during the quarter.
 
 ##### <a id="162"></a>162  Publication of concise description of the characteristics of Australian carbon credit units
 
-                   The Regulator must:
+                   The Administrator must:
 
-                     (a)  within 6 months after the commencement of this section, publish on the Regulator’s website a statement setting out a concise description of the characteristics of Australian carbon credit units; and
+                     (a)  within 6 months after the commencement of this section, publish on the Administrator’s website a statement setting out a concise description of the characteristics of Australian carbon credit units; and
 
                      (b)  keep that statement up‑to‑date.
 
@@ -6701,7 +6744,7 @@ certain information about the operation of this Act.</li>
 
 ##### <a id="163"></a>163  Information about number of voluntarily cancelled Australian carbon credit units
 
-                   As soon as practicable after one or more Australian carbon credit units held by a person are cancelled under section 173, the Regulator must publish on the Regulator’s website:
+                   As soon as practicable after one or more Australian carbon credit units held by a person are cancelled under section 173, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -6717,7 +6760,7 @@ Scope
 
 Relinquishment requirement
 
-             (2)  The Regulator must publish on the Regulator’s website:
+             (2)  The Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -6725,19 +6768,19 @@ Relinquishment requirement
 
              (3)  If any of the following paragraphs applies:
 
-                     (a)  the decision to require the person to relinquish a specified number of Australian carbon credit units is being reconsidered by the Regulator under section 242;
+                     (a)  the decision to require the person to relinquish a specified number of Australian carbon credit units is being reconsidered by the Administrator under section 242;
 
-                     (b)  the decision to require the person to relinquish a specified number of Australian carbon credit units has been affirmed or varied by the Regulator under section 242, and the decision as so affirmed or varied is the subject of an application for review by the Administrative Appeals Tribunal;
+                     (b)  the decision to require the person to relinquish a specified number of Australian carbon credit units has been affirmed or varied by the Administrator under section 242, and the decision as so affirmed or varied is the subject of an application for review by the Administrative Appeals Tribunal;
 
                      (c)  the decision to require the person to relinquish a specified number of Australian carbon credit units is the subject of an application for review by the Administrative Appeals Tribunal;
 
-the Regulator must:
+the Administrator must:
 
-                     (d)  publish an appropriate annotation on the Regulator’s website; and
+                     (d)  publish an appropriate annotation on the Administrator’s website; and
 
-                     (e)  if paragraph (a) applies—when the Regulator notifies the applicant for reconsideration of the Regulator’s decision on the reconsideration, the Regulator must publish an appropriate annotation on the Regulator’s website; and
+                     (e)  if paragraph (a) applies—when the Administrator notifies the applicant for reconsideration of the Administrator’s decision on the reconsideration, the Administrator must publish an appropriate annotation on the Administrator’s website; and
 
-                      (f)  if paragraph (b) or (c) applies—when the review by the Administrative Appeals Tribunal (including any court proceedings arising out of the review) has been finalised, the Regulator must publish an appropriate annotation on the Regulator’s website.
+                      (f)  if paragraph (b) or (c) applies—when the review by the Administrative Appeals Tribunal (including any court proceedings arising out of the review) has been finalised, the Administrator must publish an appropriate annotation on the Administrator’s website.
 
 ##### <a id="165"></a>165  Information about unpaid administrative penalties
 
@@ -6751,7 +6794,7 @@ Scope
 
 Penalty amount
 
-             (2)  The Regulator must publish on the Regulator’s website:
+             (2)  The Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -6769,7 +6812,7 @@ Scope
 
 Australian carbon credit units relinquished
 
-             (2)  As soon as practicable after receiving the relinquishment notice, the Regulator must publish on the Regulator’s website:
+             (2)  As soon as practicable after receiving the relinquishment notice, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -6779,13 +6822,13 @@ Australian carbon credit units relinquished
 
 ##### <a id="167"></a>167  Register of Offsets Projects
 
-             (1)  The Regulator must keep a register, to be known as the Register of Offsets Projects.
+             (1)  The Administrator must keep a register, to be known as the Register of Offsets Projects.
 
              (2)  The Register of Offsets Projects is to be maintained by electronic means.
 
-             (3)  The Register of Offsets Projects is to be made available for inspection on the Regulator’s website.
+             (3)  The Register of Offsets Projects is to be made available for inspection on the Administrator’s website.
 
-             (4)  The Regulator must ensure that the Register of Offsets Projects is up‑to‑date.
+             (4)  The Administrator must ensure that the Register of Offsets Projects is up‑to‑date.
 
 ##### <a id="168"></a>168  Entries in the Register
 
@@ -6843,7 +6886,7 @@ Australian carbon credit units relinquished
 
                      (o)  if:
 
-                              (i)  the project proponent for the project has requested the Regulator that particular information about the environmental benefits, or community benefits, of the project be set out in the Register of Offsets Projects; and
+                              (i)  the project proponent for the project has requested the Administrator that particular information about the environmental benefits, or community benefits, of the project be set out in the Register of Offsets Projects; and
 
                              (ii)  the request has not been withdrawn; and
 
@@ -6853,7 +6896,7 @@ Australian carbon credit units relinquished
 
                      (p)  if the project is a joint implementation project—such other information relating to the project as is specified in the regulations; and
 
-                     (q)  such other information (if any) relating to the project as the Regulator considers appropriate.
+                     (q)  such other information (if any) relating to the project as the Administrator considers appropriate.
 
              (2)  Paragraph (1)(b) has effect subject to section 169.
 
@@ -6871,9 +6914,9 @@ Australian carbon credit units relinquished
 
              (1)  The Register of Offsets Projects must not set out the project area or project areas for an eligible offsets project if:
 
-                     (a)  the project proponent for the project has requested the Regulator not to set out the project area or project areas in the Register of Offsets Projects; and
+                     (a)  the project proponent for the project has requested the Administrator not to set out the project area or project areas in the Register of Offsets Projects; and
 
-                     (b)  the Regulator is satisfied that:
+                     (b)  the Administrator is satisfied that:
 
                               (i)  the setting out of the project area or project areas could reasonably be expected to substantially prejudice the commercial interests of the project proponent or another person; and
 
@@ -6883,11 +6926,11 @@ Australian carbon credit units relinquished
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator.
+                     (b)  be in a form approved, in writing, by the Administrator.
 
-             (3)  The Regulator must take all reasonable steps to ensure that a decision is made on the request within 30 days after the request was made.
+             (3)  The Administrator must take all reasonable steps to ensure that a decision is made on the request within 30 days after the request was made.
 
-             (4)  If the Regulator decides to refuse the request, the Regulator must give written notice of the decision to the project proponent.
+             (4)  If the Administrator decides to refuse the request, the Administrator must give written notice of the decision to the project proponent.
 
 ## Part 13—Fraudulent conduct
 
@@ -6941,7 +6984,7 @@ Note:          For **_appropriate court_**, see subsection (
 
 Relinquishment
 
-             (2)  The court may, on application made by the Director of Public Prosecutions or the Regulator, order the person:
+             (2)  The court may, on application made by the Director of Public Prosecutions or the Administrator, order the person:
 
                      (a)  to relinquish a specified number of:
 
@@ -6991,7 +7034,7 @@ Conviction
 
 Copy of order
 
-             (7)  A copy of an order under subsection (2) is to be given to the Regulator.
+             (7)  A copy of an order under subsection (2) is to be given to the Administrator.
 
 Appropriate court
 
@@ -7019,13 +7062,13 @@ Spent convictions
 
 registered holder of one or more Australian carbon credit units, the person may
 
-request the Regulator to cancel any or all of those units.</li>
+request the Administrator to cancel any or all of those units.</li>
 
 * * *
 
 ##### <a id="173"></a>173  Voluntary cancellation of Australian carbon credit units
 
-             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
+             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Administrator, request the Administrator to cancel any or all of those units.
 
              (2)  A notice under subsection (1) must:
 
@@ -7033,17 +7076,17 @@ request the Regulator to cancel any or all of those units.</li>
 
                      (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the Australian carbon credit unit or units that are to be cancelled.
 
-             (3)  If the Regulator receives a notice under subsection (1) in relation to an Australian carbon credit unit:
+             (3)  If the Administrator receives a notice under subsection (1) in relation to an Australian carbon credit unit:
 
                      (a)  the unit is cancelled; and
 
-                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
+                     (b)  the Administrator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
 
                      (c)  if the unit is a Kyoto Australian carbon credit unit:
 
-                              (i)  the Minister must, by written notice given to the Regulator, direct the Regulator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
+                              (i)  the Minister must, by written notice given to the Administrator, direct the Administrator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
 
-                             (ii)  the Regulator must comply with a direction under subparagraph (i).
+                             (ii)  the Administrator must comply with a direction under subparagraph (i).
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
@@ -7061,9 +7104,9 @@ request the Regulator to cancel any or all of those units.</li>
 
 registered holder of one or more Australian carbon credit units, the person
 
-may, by electronic notice transmitted to the Regulator, relinquish any or all
+may, by electronic notice transmitted to the Administrator, relinquish any or
 
-of those units.</li>
+all of those units.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      An administrative penalty
 
@@ -7079,7 +7122,7 @@ Note 2:       A person may be required to relinquish Australian carb
 
 ##### <a id="175"></a>175  How Australian carbon credit units are relinquished
 
-             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Regulator, relinquish any or all of those units.
+             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Administrator, relinquish any or all of those units.
 
              (2)  A notice under subsection (1) must:
 
@@ -7105,7 +7148,7 @@ then:
 
                      (c)  the unit is cancelled; and
 
-                     (d)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
+                     (d)  the Administrator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
 
              (4)  If:
 
@@ -7115,7 +7158,7 @@ then:
 
 then:
 
-                     (c)  the Regulator must transfer the unit from the person’s Registry account in which there is an entry for the unit to the Commonwealth relinquished units account; and
+                     (c)  the Administrator must transfer the unit from the person’s Registry account in which there is an entry for the unit to the Commonwealth relinquished units account; and
 
                      (d)  when the unit is transferred to the Commonwealth relinquished units account, property in the unit is transferred to the Commonwealth.
 
@@ -7131,7 +7174,7 @@ then:
 
                      (d)  the unit is cancelled; and
 
-                     (e)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
+                     (e)  the Administrator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
 
              (6)  The Registry must set out a record of each notice under subsection (1).
 
@@ -7143,21 +7186,21 @@ Scope
 
                      (a)  under this Act, a person is subject to a requirement to relinquish a particular number of Australian carbon credit units (the **_relinquishment number_**); and
 
-                     (b)  under section 11, the Regulator is required to issue to the person a particular number of Australian carbon credit units (the **_issue number_**).
+                     (b)  under section 11, the Administrator is required to issue to the person a particular number of Australian carbon credit units (the **_issue number_**).
 
 Deemed relinquishment
 
              (2)  If the issue number exceeds the relinquishment number:
 
-                     (a)  the person is taken, immediately after the issue of the units mentioned in paragraph (1)(b) of this section, to have, by electronic notice transmitted to the Regulator under subsection 175(1), relinquished a number of those units equal to the relinquishment number; and
+                     (a)  the person is taken, immediately after the issue of the units mentioned in paragraph (1)(b) of this section, to have, by electronic notice transmitted to the Administrator under subsection 175(1), relinquished a number of those units equal to the relinquishment number; and
 
-                     (b)  that notice is taken to have specified, as the units that are being relinquished, such units as are determined by the Regulator; and
+                     (b)  that notice is taken to have specified, as the units that are being relinquished, such units as are determined by the Administrator; and
 
                      (c)  that notice is taken to have specified the requirement mentioned in paragraph (1)(a) of this section as the requirement to which the relinquishment relates.
 
              (3)  If the relinquishment number equals or exceeds the issue number:
 
-                     (a)  the person is taken, immediately after the issue of the units mentioned in paragraph (1)(b) of this section, to have, by electronic notice transmitted to the Regulator under subsection 175(1), relinquished all of the units mentioned in paragraph (1)(b) of this section; and
+                     (a)  the person is taken, immediately after the issue of the units mentioned in paragraph (1)(b) of this section, to have, by electronic notice transmitted to the Administrator under subsection 175(1), relinquished all of the units mentioned in paragraph (1)(b) of this section; and
 
                      (b)  that notice is taken to have specified, as the units that are being relinquished, all of the units mentioned in paragraph (1)(b); and
 
@@ -7181,7 +7224,7 @@ Transfer of certain units instead of relinquishment
 
                      (a)  transfer to the Commonwealth an equal number of substitute units; and
 
-                     (b)  by electronic notice transmitted to the Regulator, inform the Regulator that the transfer is instead of the relinquishment of the Kyoto Australian carbon credit units.
+                     (b)  by electronic notice transmitted to the Administrator, inform the Administrator that the transfer is instead of the relinquishment of the Kyoto Australian carbon credit units.
 
 Note:          For **_substitute unit_**, see subsection (6).
 
@@ -7245,7 +7288,7 @@ Transfer of certain units instead of relinquishment
 
                      (a)  transfer to the Commonwealth an equal number of substitute units; and
 
-                     (b)  by electronic notice transmitted to the Regulator, inform the Regulator that the transfer is instead of the relinquishment of the non‑Kyoto Australian carbon credit units.
+                     (b)  by electronic notice transmitted to the Administrator, inform the Administrator that the transfer is instead of the relinquishment of the non‑Kyoto Australian carbon credit units.
 
 Note:          For **_substitute unit_**, see subsection (6).
 
@@ -7309,7 +7352,7 @@ No units relinquished
 
              (2)  If, by the compliance deadline, the person has not relinquished any Australian carbon credit units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image006.gif)
 
 where:
 
@@ -7331,7 +7374,7 @@ Relinquishment of insufficient units
 
 the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image007.gif)
 
 where:
 
@@ -7373,33 +7416,33 @@ on the amount unpaid, computed from that time.
 
 Power to remit
 
-             (2)  The Regulator may remit the whole or a part of an amount payable under subsection (1) if:
+             (2)  The Administrator may remit the whole or a part of an amount payable under subsection (1) if:
 
-                     (a)  the Regulator is satisfied that the person did not contribute to the delay in payment and has taken reasonable steps to mitigate the causes of the delay; or
+                     (a)  the Administrator is satisfied that the person did not contribute to the delay in payment and has taken reasonable steps to mitigate the causes of the delay; or
 
-                     (b)  the Regulator is satisfied:
+                     (b)  the Administrator is satisfied:
 
                               (i)  that the person contributed to the delay but has taken reasonable steps to mitigate the causes of the delay; and
 
                              (ii)  having regard to the nature of the reasons that caused the delay, that it would be fair and reasonable to remit some or all of the amount; or
 
-                     (c)  the Regulator is satisfied that there are special circumstances that make it reasonable to remit some or all of the amount.
+                     (c)  the Administrator is satisfied that there are special circumstances that make it reasonable to remit some or all of the amount.
 
-             (3)  The Regulator may exercise the power conferred by subsection (2):
+             (3)  The Administrator may exercise the power conferred by subsection (2):
 
-                     (a)  on written application being made to the Regulator by a person; or
+                     (a)  on written application being made to the Administrator by a person; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Refusal
 
              (4)  If:
 
-                     (a)  the Regulator decides to refuse to remit the whole or a part of an amount payable under subsection (1); and
+                     (a)  the Administrator decides to refuse to remit the whole or a part of an amount payable under subsection (1); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="181"></a>181  Recovery of penalties
 
@@ -7407,7 +7450,7 @@ the Regulator must give written notice of the decision to the applicant.
 
                      (a)  is a debt due to the Commonwealth; and
 
-                     (b)  may be recovered by the Regulator, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
+                     (b)  may be recovered by the Administrator, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
 
 ##### <a id="182"></a>182  Set‑off
 
@@ -7421,7 +7464,7 @@ the Regulator must give written notice of the decision to the applicant.
 
                              (ii)  the amount is of a kind specified in the regulations;
 
-the Regulator may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
+the Administrator may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
 
 ##### <a id="183"></a>183  Refund of overpayments
 
@@ -7441,7 +7484,7 @@ Interest on overpayment
 
                      (a)  an amount overpaid by a person is refunded by the Commonwealth under subsection (1); and
 
-                     (b)  the overpayment is attributable, in whole or in part, to an error made by the Regulator;
+                     (b)  the overpayment is attributable, in whole or in part, to an error made by the Administrator;
 
 interest calculated in accordance with subsection (3) is payable by the Commonwealth to the person in respect of the amount refunded.
 
@@ -7467,25 +7510,25 @@ interest calculated in accordance with subsection (3) is payable by the Common
 
 <li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">•      The
 
-Regulator may obtain information or documents.</li>
+Administrator may obtain information or documents.</li>
 
 * * *
 
-##### <a id="185"></a>185  Regulator may obtain information or documents
+##### <a id="185"></a>185  Administrator may obtain information or documents
 
 Scope
 
-             (1)  This section applies to a person if the Regulator believes on reasonable grounds that the person has information or a document that is relevant to the operation of this Act or the associated provisions.
+             (1)  This section applies to a person if the Administrator believes on reasonable grounds that the person has information or a document that is relevant to the operation of this Act or the associated provisions.
 
 Requirement
 
-             (2)  The Regulator may, by written notice given to the person, require the person:
+             (2)  The Administrator may, by written notice given to the person, require the person:
 
-                     (a)  to give to the Regulator, within the period and in the manner and form specified in the notice, any such information; or
+                     (a)  to give to the Administrator, within the period and in the manner and form specified in the notice, any such information; or
 
-                     (b)  to produce to the Regulator, within the period and in the manner specified in the notice, any such documents; or
+                     (b)  to produce to the Administrator, within the period and in the manner specified in the notice, any such documents; or
 
-                     (c)  to make copies of any such documents and to produce to the Regulator, within the period and in the manner specified in the notice, those copies.
+                     (c)  to make copies of any such documents and to produce to the Administrator, within the period and in the manner specified in the notice, those copies.
 
              (3)  A period specified under subsection (2) must not be shorter than 14 days after the notice is given.
 
@@ -7513,31 +7556,31 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 No limitation
 
-             (7)  This section is not limited by any other provision of this Act that relates to the powers of the Regulator to obtain information or documents.
+             (7)  This section is not limited by any other provision of this Act that relates to the powers of the Administrator to obtain information or documents.
 
 ##### <a id="186"></a>186  Copying documents—compensation
 
-                   A person is entitled to be paid by the Regulator, on behalf of the Commonwealth, reasonable compensation for complying with a requirement covered by paragraph 185(2)(c).
+                   A person is entitled to be paid by the Administrator, on behalf of the Commonwealth, reasonable compensation for complying with a requirement covered by paragraph 185(2)(c).
 
 ##### <a id="187"></a>187  Copies of documents
 
-             (1)  The Regulator may:
+             (1)  The Administrator may:
 
                      (a)  inspect a document or copy produced under subsection 185(2); and
 
                      (b)  make and retain copies of, or take and retain extracts from, such a document.
 
-             (2)  The Regulator may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 185(2)(c).
+             (2)  The Administrator may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 185(2)(c).
 
-##### <a id="188"></a>188  Regulator may retain documents
+##### <a id="188"></a>188  Administrator may retain documents
 
-             (1)  The Regulator may take, and retain for as long as is necessary, possession of a document produced under subsection 185(2).
+             (1)  The Administrator may take, and retain for as long as is necessary, possession of a document produced under subsection 185(2).
 
-             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Regulator to be a true copy.
+             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Administrator to be a true copy.
 
              (3)  The certified copy must be received in all courts and tribunals as evidence as if it were the original.
 
-             (4)  Until a certified copy is supplied, the Regulator must, at such times and places as the Regulator thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document.
+             (4)  Until a certified copy is supplied, the Administrator must, at such times and places as the Administrator thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document.
 
 ##### <a id="189"></a>189  Self‑incrimination
 
@@ -7647,7 +7690,7 @@ Record‑keeping requirements
 
                      (b)  a copy of the record;
 
-for 7 years after the offsets report was given to the Regulator.
+for 7 years after the offsets report was given to the Administrator.
 
              (3)  If a person is subject to a requirement under regulations made for the purposes of subsection (2), the person must comply with that requirement.
 
@@ -7773,7 +7816,7 @@ premises has certain rights and responsibilities.</li>
 
 ##### <a id="196"></a>196  Appointment of inspectors
 
-             (1)  The Regulator may, in writing, appoint:
+             (1)  The Administrator may, in writing, appoint:
 
                      (a)  a person who:
 
@@ -7785,15 +7828,15 @@ premises has certain rights and responsibilities.</li>
 
 as an inspector for the purposes of this Act.
 
-             (2)  The Regulator must not appoint a person as an inspector unless the Regulator is satisfied that the person has suitable qualifications and experience to properly exercise the powers of an inspector.
+             (2)  The Administrator must not appoint a person as an inspector unless the Administrator is satisfied that the person has suitable qualifications and experience to properly exercise the powers of an inspector.
 
-             (3)  An inspector must, in exercising powers as an inspector, comply with any directions of the Regulator.
+             (3)  An inspector must, in exercising powers as an inspector, comply with any directions of the Administrator.
 
              (4)  If a direction is given under subsection (3) in writing, the direction is not a legislative instrument.
 
 ##### <a id="197"></a>197  Identity cards
 
-             (1)  The Regulator must issue an identity card to an inspector.
+             (1)  The Administrator must issue an identity card to an inspector.
 
 Form of identity card
 
@@ -7811,7 +7854,7 @@ Offence
 
                      (b)  the person ceases to be an inspector; and
 
-                     (c)  the person does not, as soon as practicable after so ceasing, return the identity card to the Regulator.
+                     (c)  the person does not, as soon as practicable after so ceasing, return the identity card to the Administrator.
 
                     Penalty:  1 penalty unit.
 
@@ -8227,11 +8270,11 @@ Protection and immunity
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may require
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may
 
-audits of one or more aspects of a person’s compliance with this Act and the
+require audits of one or more aspects of a person’s compliance with this Act
 
-regulations to be carried out.</li>
+and the regulations to be carried out.</li>
 
 * * *
 
@@ -8245,25 +8288,25 @@ Scope
 
                      (a)  a person is, or has been, the project proponent for an eligible offsets project; and
 
-                     (b)  the Regulator has reasonable grounds to suspect that the person has contravened, is contravening, or is proposing to contravene, this Act or the associated provisions.
+                     (b)  the Administrator has reasonable grounds to suspect that the person has contravened, is contravening, or is proposing to contravene, this Act or the associated provisions.
 
 Audit
 
-             (2)  The Regulator may, by written notice given to the person, require the person to:
+             (2)  The Administrator may, by written notice given to the person, require the person to:
 
                      (a)  appoint as an audit team leader:
 
                               (i)  a registered greenhouse and energy auditor of the person’s choice; or
 
-                             (ii)  if the Regulator specifies a registered greenhouse and energy auditor in the notice—that auditor; or
+                             (ii)  if the Administrator specifies a registered greenhouse and energy auditor in the notice—that auditor; or
 
-                            (iii)  if the Regulator specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
+                            (iii)  if the Administrator specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
 
                      (b)  arrange for the audit team leader to carry out an audit on one or more aspects of the person’s compliance with this Act or the associated provisions; and
 
                      (c)  arrange for the audit team leader to give the person a written report setting out the results of the audit; and
 
-                     (d)  give the Regulator a copy of the audit report on or before the day specified in the notice.
+                     (d)  give the Administrator a copy of the audit report on or before the day specified in the notice.
 
 Note:          For the conduct of an audit under this section, see section 75AA of the _National Greenhouse and Energy Reporting Act 2007_.
 
@@ -8277,7 +8320,7 @@ Note:          For the conduct of an audit under this section,
 
              (4)  A person must provide the audit team leader, and any persons assisting the audit team leader, with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
 
-             (5)  If the Regulator gives a person written notice under subsection (2), the person must comply with the requirements of the notice.
+             (5)  If the Administrator gives a person written notice under subsection (2), the person must comply with the requirements of the notice.
 
 Ancillary contraventions
 
@@ -8301,23 +8344,23 @@ Reimbursement
 
              (8)  If:
 
-                     (a)  the Regulator gives a person a notice under subsection (2); and
+                     (a)  the Administrator gives a person a notice under subsection (2); and
 
                      (b)  in complying with that notice, the person arranges for an audit team leader to carry out an audit on one or more aspects of the person’s compliance with this Act or the associated provisions; and
 
                      (c)  the audit report does not indicate that there is evidence of non‑compliance by the person with this Act or the associated provisions; and
 
-                     (d)  the person requests the Regulator to reimburse the person for reasonable costs incurred by the person in complying with the notice; and
+                     (d)  the person requests the Administrator to reimburse the person for reasonable costs incurred by the person in complying with the notice; and
 
-                     (e)  the Regulator is satisfied that the person would suffer financial hardship if the person were not reimbursed for those costs;
+                     (e)  the Administrator is satisfied that the person would suffer financial hardship if the person were not reimbursed for those costs;
 
-the Regulator may, on behalf of the Commonwealth, reimburse the person for those costs.
+the Administrator may, on behalf of the Commonwealth, reimburse the person for those costs.
 
              (9)  A request under paragraph (8)(d) must:
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  be accompanied by such information as is specified in the regulations; and
 
@@ -8329,9 +8372,9 @@ the Regulator may, on behalf of the Commonwealth, reimburse the person for those
 
 Audit
 
-             (1)  If a person is, or has been, the project proponent for an eligible offsets project, the Regulator may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of the person’s compliance with one or more aspects of this Act or the associated provisions.
+             (1)  If a person is, or has been, the project proponent for an eligible offsets project, the Administrator may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of the person’s compliance with one or more aspects of this Act or the associated provisions.
 
-             (2)  The Regulator must give written notice to the person of a decision to appoint an audit team leader under subsection (1). The notice must:
+             (2)  The Administrator must give written notice to the person of a decision to appoint an audit team leader under subsection (1). The notice must:
 
                      (a)  specify the audit team leader; and
 
@@ -8377,9 +8420,9 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 contravenes a civil penalty provision, and an executive officer of the body
 
-corporate was involved in the contravention, the officer will contravene a
+corporate was involved in the contravention, the officer will contravene a civil
 
-civil penalty provision.</li>
+penalty provision.</li>
 
 * * *
 
@@ -8437,7 +8480,7 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 ##### <a id="219"></a>219  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 * * *
 
@@ -8495,7 +8538,7 @@ Civil enforcement of penalty
 
 ##### <a id="222"></a>222  Who may apply for a civil penalty order
 
-             (1)  Only the Regulator may apply for a civil penalty order.
+             (1)  Only the Administrator may apply for a civil penalty order.
 
              (2)  Subsection (1) does not exclude the operation of the _Director of Public Prosecutions Act 1983_.
 
@@ -8881,7 +8924,7 @@ Objective purpose
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person may give the
 
-Regulator an enforceable undertaking about compliance with this Act or the
+Administrator an enforceable undertaking about compliance with this Act or the
 
 associated provisions.</li>
 
@@ -8889,7 +8932,7 @@ associated provisions.</li>
 
 ##### <a id="237"></a>237  Acceptance of undertakings
 
-             (1)  The Regulator may accept any of the following undertakings:
+             (1)  The Administrator may accept any of the following undertakings:
 
                      (a)  a written undertaking given by a person that the person will, in order to comply with this Act or the associated provisions, take specified action;
 
@@ -8899,11 +8942,11 @@ associated provisions.</li>
 
              (2)  The undertaking must be expressed to be an undertaking under this section.
 
-             (3)  The person may withdraw or vary the undertaking at any time, but only with the consent of the Regulator.
+             (3)  The person may withdraw or vary the undertaking at any time, but only with the consent of the Administrator.
 
-             (4)  The Regulator may, by written notice given to the person, cancel the undertaking.
+             (4)  The Administrator may, by written notice given to the person, cancel the undertaking.
 
-             (5)  The Regulator must publish the undertaking on the Regulator’s website.
+             (5)  The Administrator must publish the undertaking on the Administrator’s website.
 
 ##### <a id="238"></a>238  Enforcement of undertakings
 
@@ -8913,15 +8956,15 @@ associated provisions.</li>
 
                      (b)  the undertaking has not been withdrawn or cancelled; and
 
-                     (c)  the Regulator considers that the person has breached the undertaking;
+                     (c)  the Administrator considers that the person has breached the undertaking;
 
-the Regulator may apply to the Federal Court for an order under subsection (2) of this section.
+the Administrator may apply to the Federal Court for an order under subsection (2) of this section.
 
              (2)  If the Federal Court is satisfied that the person has breached the undertaking, the court may make any or all of the following orders:
 
                      (a)  an order directing the person to comply with the undertaking;
 
-                     (b)  an order directing the person to pay to the Regulator, on behalf of the Commonwealth, an amount up to the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach;
+                     (b)  an order directing the person to pay to the Administrator, on behalf of the Commonwealth, an amount up to the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach;
 
                      (c)  any order that the court considers appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach;
 
@@ -8939,13 +8982,13 @@ the Regulator may apply to the Federal Court for an order under subsection (2)
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of
 
-delegates of the Regulator may be reviewed by the Administrative Appeals
+delegates of the Administrator may be reviewed by the Administrative Appeals
 
-Tribunal following a process of internal reconsideration by the Regulator.</li>
+Tribunal following a process of internal reconsideration by the Administrator.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of the
 
-Regulator may be reviewed by the Administrative Appeals Tribunal.</li>
+Administrator may be reviewed by the Administrative Appeals Tribunal.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of the
 
@@ -8955,11 +8998,11 @@ Appeals Tribunal.</li>
 
 * * *
 
-### Division 2—Decisions of the Regulator
+### Division 2—Decisions of the Administrator
 
 ##### <a id="240"></a>240  Reviewable decisions
 
-                   For the purposes of this Act, each of the following decisions of the Regulator is a **_reviewable decision_**:
+                   For the purposes of this Act, each of the following decisions of the Administrator is a **_reviewable decision_**:
 
 <table>
 <colgroup>
@@ -9195,19 +9238,19 @@ Appeals Tribunal.</li>
   </td>
 </tr></table>
 
-##### <a id="241"></a>241  Applications for reconsideration of decisions made by delegates of the Regulator
+##### <a id="241"></a>241  Applications for reconsideration of decisions made by delegates of the Administrator
 
 Scope
 
-             (1)  This section applies to a reviewable decision if the decision is made by a delegate of the Regulator.
+             (1)  This section applies to a reviewable decision if the decision is made by a delegate of the Administrator.
 
 Application
 
-             (2)  A person affected by a reviewable decision who is dissatisfied with the decision may apply to the Regulator for the Regulator to reconsider the decision.
+             (2)  A person affected by a reviewable decision who is dissatisfied with the decision may apply to the Administrator for the Administrator to reconsider the decision.
 
              (3)  The application must:
 
-                     (a)  be in a form approved in writing by the Regulator; and
+                     (a)  be in a form approved in writing by the Administrator; and
 
                      (b)  set out the reasons for the application; and
 
@@ -9217,37 +9260,37 @@ Application
 
                      (a)  28 days after the applicant is informed of the decision; or
 
-                     (b)  if, either before or after the end of that period of 28 days, the Regulator extends the period within which the application may be made—the extended period.
+                     (b)  if, either before or after the end of that period of 28 days, the Administrator extends the period within which the application may be made—the extended period.
 
              (5)  An approved form of an application may provide for verification by statutory declaration of statements in applications.
 
              (6)  A fee specified under paragraph (3)(c) must not be such as to amount to taxation.
 
-##### <a id="242"></a>242  Reconsideration by the Regulator
+##### <a id="242"></a>242  Reconsideration by the Administrator
 
-             (1)  Upon receiving such an application, the Regulator must:
+             (1)  Upon receiving such an application, the Administrator must:
 
                      (a)  reconsider the decision; and
 
                      (b)  affirm, vary or revoke the decision.
 
-             (2)  The Regulator’s decision on reconsideration of a decision has effect as if it had been made under the provision under which the original decision was made.
+             (2)  The Administrator’s decision on reconsideration of a decision has effect as if it had been made under the provision under which the original decision was made.
 
-             (3)  The Regulator must give to the applicant a written notice stating the Regulator’s decision on the reconsideration.
+             (3)  The Administrator must give to the applicant a written notice stating the Administrator’s decision on the reconsideration.
 
-             (4)  Within 28 days after making the decision on the reconsideration, the Regulator must give the applicant a written statement of the Regulator’s reasons for the decision.
+             (4)  Within 28 days after making the decision on the reconsideration, the Administrator must give the applicant a written statement of the Administrator’s reasons for the decision.
 
-##### <a id="243"></a>243  Deadline for reconsideration [_see_ Note 3]
+##### <a id="243"></a>243  Deadline for reconsideration
 
-             (1)  The Regulator must make its decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
+             (1)  The Administrator must make his or her decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
 
-             (2)  The Regulator is taken, for the purposes of this Part, to have made a decision affirming the original decision if he or she has not informed the applicant of its decision on the reconsideration before the end of the period of 90 days.
+             (2)  The Administrator is taken, for the purposes of this Part, to have made a decision affirming the original decision if he or she has not informed the applicant of his or her decision on the reconsideration before the end of the period of 90 days.
 
 ##### <a id="244"></a>244  Review by the Administrative Appeals Tribunal
 
-             (1)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the Regulator has affirmed or varied the decision under section 242.
+             (1)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the Administrator has affirmed or varied the decision under section 242.
 
-             (2)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the decision was not made by a delegate of the Regulator.
+             (2)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the decision was not made by a delegate of the Administrator.
 
 ##### <a id="245"></a>245  Stay of proceedings for the recovery of an administrative penalty
 
@@ -9265,9 +9308,9 @@ Scope
 
                      (e)  any of the following subparagraphs applies:
 
-                              (i)  the decision to require the person to relinquish a specified number of Australian carbon credit units is being reconsidered by the Regulator under section 242;
+                              (i)  the decision to require the person to relinquish a specified number of Australian carbon credit units is being reconsidered by the Administrator under section 242;
 
-                             (ii)  the decision to require the person to relinquish a specified number of Australian carbon credit units has been affirmed or varied by the Regulator under section 242, and the decision as so affirmed or varied is the subject of an application for review by the Administrative Appeals Tribunal;
+                             (ii)  the decision to require the person to relinquish a specified number of Australian carbon credit units has been affirmed or varied by the Administrator under section 242, and the decision as so affirmed or varied is the subject of an application for review by the Administrative Appeals Tribunal;
 
                             (iii)  the decision to require the person to relinquish a specified number of Australian carbon credit units is the subject of an application for review by the Administrative Appeals Tribunal.
 
@@ -9275,7 +9318,7 @@ Stay of proceedings
 
              (2)  The court may stay the proceedings until:
 
-                     (a)  if subparagraph (1)(e)(i) applies—the Regulator notifies the applicant for reconsideration of the Regulator’s decision on the reconsideration; or
+                     (a)  if subparagraph (1)(e)(i) applies—the Administrator notifies the applicant for reconsideration of the Administrator’s decision on the reconsideration; or
 
                      (b)  if subparagraph (1)(e)(ii) or (iii) applies—the review by the Administrative Appeals Tribunal (including any court proceedings arising out of the review) has been finalised.
 
@@ -9298,6 +9341,108 @@ under any other law to order a stay of proceedings.
                      (a)  a decision under section 112 to refuse to endorse a proposal for a methodology determination;
 
                      (b)  a decision under section 120 to refuse to endorse a proposal for the variation of a methodology determination.
+
+## Part 25—Carbon Credits Administrator
+
+##### <a id="246"></a>246  Carbon Credits Administrator
+
+             (1)  There is to be a Carbon Credits Administrator.
+
+Note:          In this Act, **_Administrator_** means the Carbon Credits Administrator—see section 5.
+
+             (2)  The Administrator is to be a person who is:
+
+                     (a)  an SES employee in the Department; and
+
+                     (b)  specified in a written instrument made by the Secretary.
+
+             (3)  An instrument under paragraph (2)(b) is not a legislative instrument.
+
+##### <a id="247"></a>247  Functions of the Administrator
+
+                   The Administrator has the following functions:
+
+                     (a)  such functions as are conferred on the Administrator by this Act or the regulations;
+
+                     (b)  such functions as are conferred on the Administrator by the _Australian National Registry of Emissions Units Act 2011_ or regulations under that Act;
+
+                     (c)  such functions as are conferred on the Administrator by any other law of the Commonwealth;
+
+                     (d)  to do anything incidental to or conducive to the performance of any of the above functions.
+
+##### <a id="248"></a>248  Acting Administrator
+
+             (1)  The Secretary may, by written instrument, appoint a person to act as the Administrator:
+
+                     (a)  during a vacancy in the office of the Administrator (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Administrator:
+
+                              (i)  is absent from duty or Australia; or
+
+                             (ii)  is, for any reason, unable to perform the duties of the office.
+
+             (2)  A person is not eligible for appointment to act as the Administrator unless the person is eligible for appointment as the Administrator.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+
+##### <a id="249"></a>249  Delegation by the Administrator
+
+             (1)  The Administrator may, by writing, delegate any or all of the Administrator’s functions or powers to:
+
+                     (a)  an SES employee, or acting SES employee, in the Department; or
+
+                     (b)  an APS employee who holds or performs the duties of an Executive Level 2 position, or an equivalent position, in the Department.
+
+             (2)  A delegate must comply with any written directions of the Administrator.
+
+             (3)  Subsection (1) does not apply to a power to make, vary or revoke a legislative instrument.
+
+##### <a id="250"></a>250  Administrator to be assisted by APS employees in the Department
+
+                   The Administrator is to be assisted by APS employees in the Department who are made available for the purpose by the Secretary.
+
+##### <a id="251"></a>251  Other persons assisting the Administrator
+
+                   The Administrator may also be assisted:
+
+                     (a)  by officers and employees of Agencies (within the meaning of the _Public Service Act 1999_) other than the Department; or
+
+                     (b)  by officers and employees of authorities of the Commonwealth; or
+
+                     (c)  by officers and employees of a State or Territory; or
+
+                     (d)  by officers and employees of authorities of a State or Territory;
+
+whose services are made available to the Administrator in connection with the performance of any of his or her functions.
+
+##### <a id="252"></a>252  Consultants
+
+             (1)  The Administrator may, on behalf of the Commonwealth, engage persons having suitable qualifications and experience as consultants to the Administrator.
+
+             (2)  The consultants are to be engaged on the terms and conditions that the Administrator determines in writing.
+
+##### <a id="253"></a>253  Minister may give directions to the Administrator
+
+             (1)  The Minister may, by legislative instrument, give directions to the Administrator in relation to the performance of his or her functions.
+
+Note 1:       For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Note 2:       Section 42 (disallowance) and Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ do not apply to the direction (see sections 44 and 54 of that Act).
+
+             (2)  A direction under subsection (1) must be of a general nature only.
+
+             (3)  The Administrator must comply with a direction under subsection (1).
 
 ## Part 26—Domestic Offsets Integrity Committee
 
@@ -9555,7 +9700,7 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
              (1)  Any or all of the following bodies:
 
-                     (a)  the Regulator;
+                     (a)  the Administrator;
 
                      (b)  the Department;
 
@@ -9611,8 +9756,6 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  to disclose protected information to a court or tribunal.
 
-Note:          See also the _Clean Energy Regulator Act 2011_, which deals with the use and disclosure of information by officials of the Clean Energy Regulator.
-
 ##### <a id="271"></a>271  Disclosure or use for the purposes of this Act or a legislative instrument under this Act
 
                    An entrusted public official may disclose or use protected information if:
@@ -9621,7 +9764,7 @@ Note:          See also the _Clean Energy Regulator Act 2011_,
 
                      (b)  the disclosure or use is for the purposes of the _Australian National Registry of Emissions Units Act 2011_ or a legislative instrument under that Act;
 
-                     (c)  the disclosure or use is for the purposes of the performance of the functions of the Regulator or the Domestic Offsets Integrity Committee under this Act or a legislative instrument under this Act; or
+                     (c)  the disclosure or use is for the purposes of the performance of the functions of the Administrator or the Domestic Offsets Integrity Committee under this Act or a legislative instrument under this Act; or
 
                      (d)  the disclosure or use is in the course of the entrusted public official’s employment or service as an entrusted public official.
 
@@ -9651,11 +9794,63 @@ if the disclosure is for the purposes of:
 
                      (e)  facilitating the development of an international agreement (if any) that is to be the successor (whether immediate or otherwise) to the Kyoto Protocol.
 
+##### <a id="274"></a>274  Disclosure or use for purposes of development of methodology determinations etc.
+
+             (1)  The Administrator may disclose or use protected information that relates to a particular offsets project if:
+
+                     (a)  under section 27, the Administrator has declared the offsets project to be an eligible offsets project; and
+
+                     (b)  more than 7 years have passed since the application under section 22 was made for the declaration; and
+
+                     (c)  the information was:
+
+                              (i)  contained in the application; or
+
+                             (ii)  given in connection with the application; or
+
+                            (iii)  contained in an offsets report about the project; and
+
+                     (d)  the disclosure or use is for the purposes of facilitating the development of either or both of the following:
+
+                              (i)  one or more methodology determinations;
+
+                             (ii)  one or more proposals for methodology determinations.
+
+             (2)  The Administrator may disclose or use protected information if:
+
+                     (a)  the information was:
+
+                              (i)  contained in an application under section 108 for endorsement of a specified proposal for a methodology determination; or
+
+                             (ii)  contained in an application under section 116 for endorsement of a specified proposal for the variation of a methodology determination; or
+
+                            (iii)  given in connection with an application covered by subparagraph (i) or (ii); and
+
+                     (b)  more than 7 years have passed since the application was made; and
+
+                     (c)  the disclosure or use is for the purposes of facilitating the development of either or both of the following:
+
+                              (i)  one or more methodology determinations;
+
+                             (ii)  one or more proposals for methodology determinations.
+
+             (3)  Subsections (1) and (2) do not apply to personal information (within the meaning of the _Privacy Act 1988_).
+
 ##### <a id="275"></a>275  Disclosure to a Royal Commission
 
              (1)  An entrusted public official may disclose protected information to a Royal Commission.
 
-             (2)  The Regulator may, by writing, impose conditions to be complied with in relation to protected audit information disclosed under subsection (1) by:
+             (2)  The Administrator may, by writing, impose conditions to be complied with in relation to protected Administrator information disclosed under subsection (1) by:
+
+                     (a)  the Administrator; or
+
+                     (b)  a delegate of the Administrator; or
+
+                     (c)  a person assisting the Administrator under section 250; or
+
+                     (d)  a person whose services are made available to the Administrator under section 251; or
+
+                     (e)  a person engaged as a consultant under section 252; or
 
                       (f)  an audit team leader; or
 
@@ -9675,7 +9870,9 @@ if the disclosure is for the purposes of:
 
 Scope
 
-             (1)  This section applies if the Regulator is satisfied that particular protected audit information will enable or assist any of the following persons or bodies:
+             (1)  This section applies if the Administrator is satisfied that particular protected Administrator information will enable or assist any of the following persons or bodies:
+
+                     (a)  the Greenhouse and Energy Data Officer;
 
                      (b)  Low Carbon Australia Limited (ACN 141 478 748);
 
@@ -9689,13 +9886,23 @@ to perform or exercise any of the functions or powers of the person or body.
 
 Disclosure
 
+             (2)  The Administrator may disclose that protected Administrator information to the person or body concerned.
+
              (3)  If any of the following individuals:
+
+                     (a)  a delegate of the Administrator;
+
+                     (b)  an individual assisting the Administrator under section 250;
+
+                     (c)  an individual whose services are made available to the Administrator under section 251;
+
+                     (d)  an individual engaged as a consultant under section 252;
 
                      (e)  an individual who is an audit team leader;
 
                       (f)  an individual assisting an audit team leader;
 
-is authorised by the Regulator, in writing, for the purposes of this section, the individual may disclose that protected audit information to the person or body concerned.
+is authorised by the Administrator, in writing, for the purposes of this section, the individual may disclose that protected Administrator information to the person or body concerned.
 
 Secondary disclosure and use
 
@@ -9707,7 +9914,7 @@ Secondary disclosure and use
 
                              (ii)  a member of a prescribed professional disciplinary body; and
 
-                     (b)  protected audit information has been disclosed under subsection (3) to the body; and
+                     (b)  protected Administrator information has been disclosed under subsection (2) or (3) to the body; and
 
                      (c)  the person:
 
@@ -9719,7 +9926,7 @@ Secondary disclosure and use
 
              (5)  Subsection (4) does not apply if:
 
-                     (a)  the disclosure or use is with the consent of the Regulator; and
+                     (a)  the disclosure or use is with the consent of the Administrator; and
 
                      (b)  the disclosure or use is for the purpose of:
 
@@ -9731,7 +9938,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Conditions
 
-             (6)  The Regulator may, by writing, impose conditions to be complied with in relation to protected audit information disclosed under subsection (3).
+             (6)  The Administrator may, by writing, impose conditions to be complied with in relation to protected Administrator information disclosed under subsection (2) or (3).
 
              (7)  A person commits an offence if:
 
@@ -9749,7 +9956,7 @@ Conditions
 
 Scope
 
-             (1)  This section applies if the Regulator is satisfied that particular protected audit information will enable or assist a body corporate that:
+             (1)  This section applies if the Administrator is satisfied that particular protected Administrator information will enable or assist a body corporate that:
 
                      (a)  either:
 
@@ -9771,13 +9978,23 @@ to monitor compliance with, enforce, or perform functions or exercise powers und
 
 Disclosure
 
+             (2)  The Administrator may disclose that protected Administrator information to the body corporate.
+
              (3)  If any of the following individuals:
+
+                     (a)  a delegate of the Administrator;
+
+                     (b)  an individual assisting the Administrator under section 250;
+
+                     (c)  an individual whose services are made available to the Administrator under section 251;
+
+                     (d)  an individual engaged as a consultant under section 252;
 
                      (e)  an individual who is an audit team leader;
 
                       (f)  an individual assisting an audit team leader;
 
-is authorised by the Regulator, in writing, for the purposes of this section, the individual may disclose that protected audit information to the body corporate.
+is authorised by the Administrator, in writing, for the purposes of this section, the individual may disclose that protected Administrator information to the body corporate.
 
 Secondary disclosure and use
 
@@ -9789,7 +10006,7 @@ Secondary disclosure and use
 
                              (ii)  an officer, employee or agent of a body corporate; and
 
-                     (b)  protected audit information has been disclosed under subsection (3) to the body corporate; and
+                     (b)  protected Administrator information has been disclosed under subsection (2) or (3) to the body corporate; and
 
                      (c)  the person:
 
@@ -9801,7 +10018,7 @@ Secondary disclosure and use
 
              (5)  Subsection (4) does not apply if:
 
-                     (a)  the disclosure or use is with the consent of the Regulator; and
+                     (a)  the disclosure or use is with the consent of the Administrator; and
 
                      (b)  the disclosure or use is for the purpose of monitoring compliance with, enforcing, or performing functions or exercising powers under:
 
@@ -9817,7 +10034,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Conditions
 
-             (6)  The Regulator may, by writing, impose conditions to be complied with by the body corporate and its officers, employees and agents in relation to protected audit information disclosed to the body corporate under subsection (3).
+             (6)  The Administrator may, by writing, impose conditions to be complied with by the body corporate and its officers, employees and agents in relation to protected Administrator information disclosed to the body corporate under subsection (2) or (3).
 
              (7)  A person commits an offence if:
 
@@ -9867,23 +10084,33 @@ Meaning of expressions
 
                    Any of the following persons:
 
+                     (a)  the Administrator;
+
+                     (b)  a delegate of the Administrator;
+
+                     (c)  a person assisting the Administrator under section 250;
+
+                     (d)  a person whose services are made available to the Administrator under section 251;
+
+                     (e)  a person engaged as a consultant under section 252;
+
                       (f)  an audit team leader;
 
                      (g)  a person assisting an audit team leader;
 
 may disclose:
 
-                     (h)  summaries of protected audit information; or
+                     (h)  summaries of protected Administrator information; or
 
-                      (i)  statistics derived from protected audit information;
+                      (i)  statistics derived from protected Administrator information;
 
 if those summaries or statistics, as the case may be, are not likely to enable the identification of a person.
 
-##### <a id="282"></a>282  Disclosure for purposes of law enforcement—protected audit information
+##### <a id="282"></a>282  Disclosure for purposes of law enforcement—protected Administrator information
 
 Scope
 
-             (1)  This section applies if the Regulator is satisfied that disclosure of particular protected audit information is reasonably necessary for:
+             (1)  This section applies if the Administrator is satisfied that disclosure of particular protected Administrator information is reasonably necessary for:
 
                      (a)  the enforcement of the criminal law; or
 
@@ -9893,13 +10120,29 @@ Scope
 
 Disclosure
 
+             (2)  The Administrator may disclose that protected Administrator information to:
+
+                     (a)  a Department, agency or authority of the Commonwealth, a State or a Territory; or
+
+                     (b)  an Australian police force;
+
+whose functions include that enforcement or protection, for the purposes of that enforcement or protection.
+
              (3)  If any of the following individuals:
+
+                     (a)  a delegate of the Administrator;
+
+                     (b)  an individual assisting the Administrator under section 250;
+
+                     (c)  an individual whose services are made available to the Administrator under section 251;
+
+                     (d)  an individual engaged as a consultant under section 252;
 
                      (e)  an individual who is an audit team leader;
 
                       (f)  an individual assisting an audit team leader;
 
-is authorised by the Regulator, in writing, for the purposes of this section, the individual may disclose that protected audit information to:
+is authorised by the Administrator, in writing, for the purposes of this section, the individual may disclose that protected Administrator information to:
 
                      (g)  a Department, agency or authority of the Commonwealth, a State or a Territory; or
 
@@ -9917,7 +10160,7 @@ Secondary disclosure and use
 
                              (ii)  an Australian police force; and
 
-                     (b)  protected audit information has been disclosed under subsection (3) to the Department, agency, authority or police force, as the case may be; and
+                     (b)  protected Administrator information has been disclosed under subsection (2) or (3) to the Department, agency, authority or police force, as the case may be; and
 
                      (c)  the person has obtained the information in the person’s capacity as an employee or officer of the Department, agency, authority or police force, as the case may be; and
 
@@ -9931,7 +10174,7 @@ Secondary disclosure and use
 
              (5)  Subsection (4) does not apply if:
 
-                     (a)  the disclosure or use is with the consent of the Regulator; and
+                     (a)  the disclosure or use is with the consent of the Administrator; and
 
                      (b)  the disclosure or use is for the purpose of:
 
@@ -9945,7 +10188,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Conditions
 
-             (6)  The Regulator may, by writing, impose conditions to be complied with in relation to protected audit information disclosed under subsection (3).
+             (6)  The Administrator may, by writing, impose conditions to be complied with in relation to protected Administrator information disclosed under subsection (2) or (3).
 
              (7)  A person commits an offence if:
 
@@ -10055,11 +10298,19 @@ Conditions
 
                      (b)  the disclosure is for the purposes of that review.
 
+##### <a id="285"></a>285  Disclosure for purposes of review of compliance with Australia’s international obligations
+
+             (1)  The Administrator may disclose protected Administrator information to another person for the purpose of facilitating a review of Australia’s compliance with its international obligations relating to reporting of greenhouse gas emissions.
+
+             (2)  In this section:
+
+                    <a name="emiss"></a>**_emission_** of greenhouse gas has the same meaning as in the _National Greenhouse and Energy Reporting Act 2007_.
+
 ## Part 28—Miscellaneous
 
-##### <a id="286"></a>286  Miscellaneous functions of the Regulator
+##### <a id="286"></a>286  Miscellaneous functions of the Administrator
 
-                   The Regulator has the following functions:
+                   The Administrator has the following functions:
 
                      (a)  to monitor compliance with this Act and the associated provisions;
 
@@ -10081,7 +10332,7 @@ Conditions
 
 ##### <a id="287"></a>287  Computerised decision‑making
 
-             (1)  The Regulator may, by legislative instrument, arrange for the use, under the Regulator’s control, of computer programs for any purposes for which the Regulator may, or must, under this Act or the regulations:
+             (1)  The Administrator may, by legislative instrument, arrange for the use, under the Administrator’s control, of computer programs for any purposes for which the Administrator may, or must, under this Act or the regulations:
 
                      (a)  make a decision; or
 
@@ -10089,7 +10340,7 @@ Conditions
 
                      (c)  do anything else related to making a decision or exercising a power or complying with an obligation.
 
-             (2)  For the purposes of this Act and the regulations, the Regulator is taken to have:
+             (2)  For the purposes of this Act and the regulations, the Administrator is taken to have:
 
                      (a)  made a decision; or
 
@@ -10099,17 +10350,17 @@ Conditions
 
 that was made, exercised, complied with or done by the operation of a computer program under such an arrangement.
 
-##### <a id="288"></a>288  Regulator’s power to require further information
+##### <a id="288"></a>288  Administrator’s power to require further information
 
 Applications
 
              (1)  If:
 
-                     (a)  a person makes an application to the Regulator under this Act or the regulations; and
+                     (a)  a person makes an application to the Administrator under this Act or the regulations; and
 
-                     (b)  the Regulator exercises a power, under another provision of this Act or the regulations, to require the applicant to give the Regulator further information in connection with the application;
+                     (b)  the Administrator exercises a power, under another provision of this Act or the regulations, to require the applicant to give the Administrator further information in connection with the application;
 
-the Regulator:
+the Administrator:
 
                      (c)  must ensure that the further information is relevant to the matter to which the application relates; and
 
@@ -10119,11 +10370,11 @@ Requests
 
              (2)  If:
 
-                     (a)  a person makes a request to the Regulator under this Act; and
+                     (a)  a person makes a request to the Administrator under this Act; and
 
-                     (b)  the Regulator exercises a power, under another provision of this Act, to require the person to give the Regulator further information in connection with the request;
+                     (b)  the Administrator exercises a power, under another provision of this Act, to require the person to give the Administrator further information in connection with the request;
 
-the Regulator:
+the Administrator:
 
                      (c)  must ensure that the further information is relevant to the matter to which the request relates; and
 
@@ -10277,9 +10528,9 @@ Instrument is not a legislative instrument
 
                      (d)  a delegate of the Secretary;
 
-                     (e)  the Regulator;
+                     (e)  the Administrator;
 
-                      (f)  a delegate of the Regulator;
+                      (f)  a delegate of the Administrator;
 
                      (g)  an audit team leader;
 
@@ -10345,13 +10596,13 @@ to the fulfilment of Australia’s obligations under paragraph (h) of Article 
 
              (2)  Subsection (1) has effect despite anything in subsection 14(2) of the _Legislative Instruments Act 2003_.
 
-             (3)  If the regulations make provision in relation to a matter by applying, adopting or incorporating, with or without modification, a matter contained in an instrument or writing, the Regulator must ensure that the text of the matter applied, adopted or incorporated is published on the Regulator’s website.
+             (3)  If the regulations make provision in relation to a matter by applying, adopting or incorporating, with or without modification, a matter contained in an instrument or writing, the Administrator must ensure that the text of the matter applied, adopted or incorporated is published on the Administrator’s website.
 
              (4)  Subsection (3) does not apply if the publication would infringe copyright.
 
 ##### <a id="305"></a>305  Administrative decisions under the regulations
 
-                   The regulations may make provision in relation to a matter by conferring a power to make a decision of an administrative character on the Regulator.
+                   The regulations may make provision in relation to a matter by conferring a power to make a decision of an administrative character on the Administrator.
 
 ##### <a id="306"></a>306  Reviews of operation of this Act etc.
 
@@ -10459,7 +10710,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 51–59, 
-61–97, 99, 215A, 220A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+61–97, 99, 215A, 220A): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Schedule 1 (items 257–258A): \[ <i>see</i>Note 2] 
 Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
   </td>
@@ -10472,8 +10723,8 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -10501,15 +10752,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 4, 5</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7</div>
+    <div>S. 5</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -10533,34 +10776,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12–15</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10573,7 +10792,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 16–19</div>
+    <div>Ss. 16–18</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -10589,22 +10808,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -10613,7 +10816,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 22</div>
+    <div>S. 23</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -10621,71 +10824,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 22(1)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23–28</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29–31</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32, 33</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34–38</div>
+    <div>S. 27</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -10709,290 +10848,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 47</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47–49</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 57, 58</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 59–66</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 68</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70–74</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 76(1)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 76(2)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 78–83</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 89–91</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11005,47 +10864,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 93–95</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 97–99</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 100, 101</div>
+    <div>S. 95</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11065,54 +10884,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 125–129</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 130</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11141,82 +10912,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 136</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 139–141</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 143, 144</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 11</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 146</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 147–149</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11237,15 +10936,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 152–154</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 156, 157</div>
+    <div>Ss. 152, 153</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11269,22 +10960,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 159</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -11293,411 +10968,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 160–162</div>
+    <div>S. 162</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 163</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 164–166</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 167–169</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 171</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 172, 173</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 174</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 175–178</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 180–183</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 16</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 184</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 185</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185–187</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 17</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 192</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 18</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 196, 197</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 19</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 213</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 214, 215</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 21</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 222</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 23</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 236–238</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 24</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 239</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of 
-Part 24</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 240</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 241</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 241</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 242</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 242–245</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 25</div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 246–253</div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11726,14 +11000,6 @@ Part 24</div>
 </tr>
 <tr>
   <td>
-    <div>S. 269</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 27</b></div>
   </td>
   <td>
@@ -11742,15 +11008,7 @@ Part 24</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 270</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 271</div>
+    <div>S. 276</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11758,103 +11016,7 @@ Part 24</div>
 </tr>
 <tr>
   <td>
-    <div>S. 274</div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 275–277</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 280, 281</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 282</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 282</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 285</div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 28</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 286</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 286, 287</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 288</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 288</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 297</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 304, 305</div>
+    <div>S. 280</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11864,6 +11026,260 @@ Part 24</div>
 ### Note 2
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Clean Energy Act 2011_:
+
+## Schedule 1
+
+## 51  Section 4
+
+Omit “Carbon Credits Administrator”, substitute “Clean Energy Regulator”.
+
+## 52  Section 5 (definition of _Administrator_)
+
+Repeal the definition.
+
+## 53  Section 5 (definition of _electronic notice transmitted to the Administrator_)
+
+Repeal the definition.
+
+## 54  Section 5
+
+Insert:
+
+                    <a name="electron-notic-transmit-regul"></a>**_electronic notice transmitted to the Regulator_** has the meaning given by section 7.
+
+## 55  Section 5 (paragraphs (a) to (e) of the definition of _entrusted public official_)
+
+Repeal the paragraphs.
+
+## 56  Section 5 (definition of _protected Administrator information_)
+
+Repeal the definition.
+
+## 57  Section 5
+
+Insert:
+
+                    <a name="protect-audit-inform"></a>**_protected audit information_** means protected information that was obtained by a person in the person’s capacity as:
+
+                     (a)  an audit team leader; or
+
+                     (b)  a person assisting an audit team leader.
+
+## 58  Section 5
+
+Insert:
+
+                    <a name="regul"></a>**_Regulator_** means the Clean Energy Regulator.
+
+## 59  Subsection 7(1)
+
+Omit “**_Administrator_**”, substitute “**_Regulator_**”.
+
+## 61  Subsection 243(1)
+
+Omit “his or her”, substitute “its”.
+
+## 62  Subsection 243(2)
+
+Omit “her or she”, substitute “the Regulator”.
+
+## 63  Subsection 243(2)
+
+Omit “his or her”, substitute “its”.
+
+## 64  Part 25
+
+Repeal the Part.
+
+## 65  At the end of section 270
+
+Add:
+
+Note:          See also the _Clean Energy Regulator Act 2011_, which deals with the use and disclosure of information by officials of the Clean Energy Regulator.
+
+## 66  Section 274
+
+Repeal the section.
+
+## 67  Subsection 275(2)
+
+Omit “Administrator” (first occurring), substitute “Regulator”.
+
+## 68  Subsection 275(2)
+
+Omit “protected Administrator information”, substitute “protected audit information”.
+
+## 69  Paragraphs 275(2)(a) to (e)
+
+Repeal the paragraphs.
+
+## 70  Subsection 276(1)
+
+Omit “the Administrator is satisfied that particular protected Administrator information”, substitute “the Regulator is satisfied that particular protected audit information”.
+
+## 71  Paragraph 276(1)(a)
+
+Repeal the paragraph.
+
+## 72  Subsection 276(2)
+
+Repeal the subsection (not including the heading).
+
+## 73  Paragraphs 276(3)(a) to (d)
+
+Repeal the paragraphs.
+
+## 74  Subsection 276(3)
+
+Omit “by the Administrator”, substitute “by the Regulator”.
+
+## 75  Subsection 276(3)
+
+Omit “protected Administrator information”, substitute “protected audit information”.
+
+## 76  Paragraph 276(4)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  protected audit information has been disclosed under subsection (3) to the body; and
+
+## 77  Subsection 276(5)
+
+Omit “Administrator”, substitute “Regulator”.
+
+## 78  Subsection 276(6)
+
+Repeal the subsection, substitute:
+
+Conditions
+
+             (6)  The Regulator may, by writing, impose conditions to be complied with in relation to protected audit information disclosed under subsection (3).
+
+## 79  Subsection 277(1)
+
+Omit “the Administrator is satisfied that particular protected Administrator information”, substitute “the Regulator is satisfied that particular protected audit information”.
+
+## 80  Subsection 277(2)
+
+Repeal the subsection (not including the heading).
+
+## 81  Paragraphs 277(3)(a) to (d)
+
+Repeal the paragraphs.
+
+## 82  Subsection 277(3)
+
+Omit “by the Administrator”, substitute “by the Regulator”.
+
+## 83  Subsection 277(3)
+
+Omit “protected Administrator information”, substitute “protected audit information”.
+
+## 84  Paragraph 277(4)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  protected audit information has been disclosed under subsection (3) to the body corporate; and
+
+## 85  Paragraph 277(5)(a)
+
+Omit “Administrator”, substitute “Regulator”.
+
+## 86  Subsection 277(6)
+
+Repeal the subsection, substitute:
+
+Conditions
+
+             (6)  The Regulator may, by writing, impose conditions to be complied with by the body corporate and its officers, employees and agents in relation to protected audit information disclosed to the body corporate under subsection (3).
+
+## 87  Paragraphs 281(a) to (e)
+
+Repeal the paragraphs.
+
+## 88  Paragraphs 281(h) and (i)
+
+Omit “protected Administrator information”, substitute “protected audit information”.
+
+## 88A  Section 282 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="282"></a>282  Disclosure for purposes of law enforcement—protected audit information
+
+## 89  Subsection 282(1)
+
+Omit “the Administrator is satisfied that disclosure of particular protected Administrator information”, substitute “the Regulator is satisfied that disclosure of particular protected audit information”.
+
+## 90  Subsection 282(2)
+
+Repeal the subsection (not including the heading).
+
+## 91  Paragraphs 282(3)(a) to (d)
+
+Repeal the paragraphs.
+
+## 92  Subsection 282(3)
+
+Omit “by the Administrator”, substitute “by the Regulator”.
+
+## 93  Subsection 282(3)
+
+Omit “protected Administrator information”, substitute “protected audit information”.
+
+## 94  Paragraph 282(4)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  protected audit information has been disclosed under subsection (3) to the Department, agency, authority or police force, as the case may be; and
+
+## 95  Paragraph 282(5)(a)
+
+Omit “Administrator”, substitute “Regulator”.
+
+## 96  Subsection 282(6)
+
+Repeal the subsection, substitute:
+
+Conditions
+
+             (6)  The Regulator may, by writing, impose conditions to be complied with in relation to protected audit information disclosed under subsection (3).
+
+## 97  Section 285
+
+Repeal the section.
+
+## 99  Bulk amendments—references to the Administrator etc.
+
+The _Carbon Credits (Carbon Farming Initiative) Act 2011_ other than the following provisions:
+
+                     (a)  the definition of **_entrusted public official_** in section 5;
+
+                     (b)  the definition of **_protected Administrator information_** in section 5;
+
+                     (c)  Part 25;
+
+                     (d)  sections 274 to 277;
+
+                     (e)  sections 281 and 282;
+
+                      (f)  section 285;
+
+is amended as follows:
+
+                     (g)  by omitting “the Administrator” (wherever occurring) and substituting “the Regulator”;
+
+                     (h)  by omitting “The Administrator” (wherever occurring) and substituting “The Regulator”;
+
+                      (i)  by omitting “the Administrator’s” (wherever occurring) and substituting “the Regulator’s”;
+
+                      (j)  by omitting “The Administrator’s” (wherever occurring) and substituting “The Regulator’s”;
+
+                     (k)  by omitting “**Administrator**” (wherever occurring) and substituting “**Regulator**”;
+
+                      (l)  by omitting “**Administrator’s**” (wherever occurring) and substituting “**Regulator’s**”.
 
 The following amendments commence on 1 July 2012:
 
@@ -11941,25 +11357,15 @@ Government response to recommendations
 
                      (c)  such other persons as the Minister considers relevant.
 
-As at 1 May 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-Subsection 243(2)—Schedule 1 (item 62) of the _Clean Energy (Consequential Amendments) Act 2011_ (No. 132, 2011) provides as follows:
-
-## Schedule 1
-
-## 62  Subsection 243(2)
-
-Omit “her or she”, substitute “the Regulator”.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+As at 8 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following provisions commence at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
