@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 29 June 2012
- taking into account amendments up to Act No. 87 of 2012
+This compilation was prepared on 1 April 2012
+ taking into account amendments up to Act No. 8 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
  and (3B) cease to have effect on 30 June 2015, _see_ section 90(3C)
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [84AAC](#84AAC). Secretary may suspend or revoke approval of authorised optometrist
 
-[84AAD](#84AAD). Review of decisions relating to authorised optometrists [_see_ Note 2]
+[84AAD](#84AAD). Review of decisions relating to authorised optometrists [_see_ Note 2]
 
 [84AAE](#84AAE).  Meaning of _eligible midwife_
 
@@ -286,11 +286,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99ACE](#99ACE).  Flow‑on of 16% price reduction to related brands of combination items
 
-        **Subdivision CA—New brands of pharmaceutical items having drugs with outstanding staged reductions** 
+        **Subdivision CA—New brands of pharmaceutical items having drugs with outstanding staged reductions**
 
-99ACEA Price reduction for new brand of pharmaceutical item having drug with outstanding staged reductions—new brand bioequivalent or biosimilar to existing listed brand
+99ACEAPrice reduction for new brand of pharmaceutical item having 
+ drug with outstanding staged reductions—new brand bioequivalent or biosimilar to existing listed brand
 
-99ACEB New brands of pharmaceutical items having drug with outstanding staged reductions——new brands not bioequivalent or biosimilar to existing listed brand
+99ACEBNew brands of pharmaceutical items having drug with 
+ outstanding staged reductions——new brands not bioequivalent or biosimilar to existing listed brand
 
         **Subdivision D—Other statutory price reductions**
 
@@ -598,7 +600,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [135A](#135A).     Officers to observe secrecy
 
-135AAA Prescribers and approved suppliers must observe secrecy in relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
+135AAAPrescribers and approved suppliers must observe secrecy in 
+ relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
 
 [135AA](#135AA).  Privacy guidelines
 
@@ -1645,7 +1648,7 @@ Note:          Section 105AC requires the person to be notif
 
                     <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="84AAE"></a>84AAE  Meaning of _eligible midwife_
+##### <a id="84AAE"></a>84AAE  Meaning of _eligible midwife_
 
              (1)  For the purposes of this Part, a person is an **_eligible midwife_** if the person:
 
@@ -4643,7 +4646,7 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image002.gif)
 
 Apportioning if quantities different
 
@@ -4753,7 +4756,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -5278,7 +5281,7 @@ this section applies to the listed brand of the pharmaceutical item on 1 Augus
 
              (4)  The percentages prescribed for each brand of the pharmaceutical item must not total more than 25%.
 
-##### <a id="99ACL"></a>99ACL  Staged price reduction: staged reductions under section 99ACK causing statutory price reductions for other brands of pharmaceutical items having the drug
+##### <a id="99ACL"></a>99ACL  Staged price reduction: staged reductions under section 99ACK causing statutory price reductions for other brands of pharmaceutical items having the drug
 
              (1)  This section applies to a listed brand (the **_existing brand_**) of a pharmaceutical item (the **_existing item_**) on a day (the **_reduction day_**) if, on the reduction day:
 
@@ -5658,7 +5661,7 @@ Claimed price reduction
 
 then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image003.gif)
 
 where:
 
@@ -6306,7 +6309,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image004.gif)
 
 where:
 
@@ -6320,7 +6323,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image005.gif)
 
 where:
 
@@ -7434,7 +7437,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image006.gif)
 
 where:
 
@@ -7938,7 +7941,7 @@ shall be deemed for the purposes of this Act to have been engaged in also by the
 
 ##### <a id="135A"></a>135A  Officers to observe secrecy
 
-             (1)  A person shall not, directly or indirectly, except in the performance of duties, or in the exercise of powers or functions, under this Act or for the purpose of enabling a person to perform functions in relation to a medicare program or under the indemnity legislation or the _Personally Controlled Electronic Health Records Act 2012_(whether as a delegate or otherwise), and while the person is, or after the person ceases to be, an officer, divulge or communicate to any person, any information with respect to the affairs of a third person acquired by the first‑mentioned person in the performance of duties, or in the exercise of powers or functions, under this Act.
+             (1)  A person shall not, directly or indirectly, except in the performance of duties, or in the exercise of powers or functions, under this Act or for the purpose of enabling a person to perform functions in relation to a medicare program or under the indemnity legislation, and while the person is, or after the person ceases to be, an officer, divulge or communicate to any person, any information with respect to the affairs of a third person acquired by the first‑mentioned person in the performance of duties, or in the exercise of powers or functions, under this Act.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
@@ -8384,8 +8387,6 @@ Content of guidelines
 
                      (b)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
 
-       (5AA)  Nothing in this section, or in the guidelines issued by the Information Commissioner, prevents the PCEHR System Operator including information to which this section applies in the PCEHR of a consumer.
-
           (5B)  Nothing in this section, or in the guidelines issued by the Information Commissioner, precludes the inclusion, in a database of information:
 
                      (a)  held by the Chief Executive Medicare; and
@@ -8427,10 +8428,6 @@ Definitions
                     <a name="micar-benefit-program"></a>**_Medicare Benefits Program_** means the program for providing Medicare benefits under the _Health Insurance Act 1973_.
 
                     <a name="old-inform"></a>**_old information_** means information to which this section applies that has been held by one or more agencies for at least the preceding 5 years.
-
-                    <a name="pcehr"></a>**_PCEHR_** has the same meaning as in the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name="pcehr-system-oper"></a>**_PCEHR System Operator_**has the same meaning as System Operator has in the _Personally Controlled Electronic Health Records Act 2012_.
 
                     <a name="person-identif-compon"></a>**_personal identification components_**, in relation to information, means so much of the information as includes any of the following:
 
@@ -8946,7 +8943,7 @@ Remainder: Royal Assent</div>
     <div>8 May 1967</div>
   </td>
   <td>
-    <div>21 Apr 1967 ( <i>see</i>s. 2)</div>
+    <div>21 Apr 1967 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -9565,7 +9562,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Ss. 1, 2, 7–10 and 15: 4 Sept 1980 
 S. 3: 1 Nov 1980 
-Ss. 4–6 and 14: 1 Oct 1980 
+Ss. 4–6 and 14: 1 Oct 1980 
 Remainder: 1 Dec 1980 ( <i>see Gazette</i>1980, No. S261)</div>
   </td>
   <td>
@@ -9618,7 +9615,7 @@ Remainder: 1 Dec 1980 ( <i>see Gazette</i>1980, No. S261)</div>
   </td>
   <td>
     <div>Part I (ss. 1, 2): Royal Assent 
-Div. 1 of Part XI (s 36): 1 July 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S118) 
+Div. 1 of Part XI (s. 36): 1 July 1981 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S118) 
 Remainder: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, No. S124)</div>
   </td>
   <td>
@@ -13495,23 +13492,6 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 3) and Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personally Controlled Electronic Health Records (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>64, 2012</div>
-  </td>
-  <td>
-    <div>26 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 31–34): 29 June 2012 ( <i>see</i>F2012L01398)</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -17855,15 +17835,8 @@ _(zzzh)_   Subsection 2(1) (item 7) of the _Human Services Legislation Ame
     <div>Div. 4A of Part V</div>
   </td>
   <td>
-    <div>ad. No. 41, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 60, 1976</div>
+    <div>ad. No. 41, 1970 
+rep. No. 60, 1976</div>
   </td>
 </tr>
 <tr>
@@ -17879,15 +17852,8 @@ _(zzzh)_   Subsection 2(1) (item 7) of the _Human Services Legislation Ame
     <div>Div. 5A of Part V</div>
   </td>
   <td>
-    <div>ad. No. 100, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 1, 1975</div>
+    <div>ad. No. 100, 1968 
+rep. No. 1, 1975</div>
   </td>
 </tr>
 <tr>
@@ -22141,15 +22107,8 @@ rep. No. 32, 2007</div>
     <div>Heading to Div. 5 of Part VI</div>
   </td>
   <td>
-    <div>ad. No. 37, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 1, 2004</div>
+    <div>ad. No. 37, 1998 
+rs. No. 1, 2004</div>
   </td>
 </tr>
 <tr>
@@ -30095,15 +30054,8 @@ Div. 3B of Part VII</div>
     <div>Div. 4 of Part VII</div>
   </td>
   <td>
-    <div>ad. No. 177, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 40, 1981</div>
+    <div>ad. No. 177, 1976 
+rs. No. 40, 1981</div>
   </td>
 </tr>
 <tr>
@@ -30560,23 +30512,9 @@ Part VII</div>
     <div>Div. 4C of Part VII</div>
   </td>
   <td>
-    <div>ad. No. 106, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 75, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 71, 2009</div>
+    <div>ad. No. 106, 1990 
+rep. No. 75, 2000 
+ad. No. 71, 2009</div>
   </td>
 </tr>
 <tr>
@@ -32228,7 +32166,7 @@ rep. No. 211, 1991</div>
   </td>
   <td>
     <div>am. Nos. 63 and 165, 1984; No. 65, 1985; No. 94, 1986; No. 132, 1987; No. 95, 1989; Nos. 3 and 106, 1990; Nos. 88 and 204, 1992; No. 29, 1997; No. 19, 1998; No. 111, 2001; No. 133, 2002; Nos. 17, 50 and 77, 2004; 
-Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 2010; Nos. 5, 32 and 86, 2011; No. 64, 2012</div>
+Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 2010; Nos. 5, 32 and 86, 2011</div>
   </td>
 </tr>
 <tr>
@@ -32284,7 +32222,7 @@ Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 2000; No. 50, 2004; No. 111, 2005; Nos. 51 and 126, 2010; No. 32, 2011; No. 64, 2012</div>
+    <div>am. No. 146, 2000; No. 50, 2004; No. 111, 2005; Nos. 51 and 126, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -32822,7 +32760,7 @@ Repeal the subsection, substitute:
 
              (4)  A determination made under subsection (1), (2), (2A) or (3A) is a legislative instrument.
 
-As at 29 June 2012 the amendments are not incorporated in this compilation.
+As at 1 April 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -32842,7 +32780,7 @@ Despite the repeal of subsection 58CA(3) of the _National Health Act 1953_ by it
 
 * * *
 
-_Social Security Legislation Amendment (Parenting and Other Measures) Act 1997 (No. 197, 1997)_
+_Social Security Legislation Amendment (Parenting and Other Measures) Act 1997 (No. 197, 1997)_
 
 ## Schedule 1
 
@@ -33026,7 +32964,8 @@ The amendments made by items 42 and 43 apply only for the purpose of working o
 
 * * *
 
-_National Health Amendment (Lifetime Health Cover) Act 1999 (No. 130, 1999)_
+_National Health Amendment (Lifetime Health Cover) Act 1999 
+ (No. 130, 1999)_
 
 ## <a id="4"></a>4  Review of operation of Act
 
@@ -33176,7 +33115,8 @@ The Governor‑General may make regulations dealing with matters of a transition
 
 * * *
 
-_Health Legislation Amendment (Gap Cover Schemes) Act 2000 (No. 72, 2000)_
+_Health Legislation Amendment (Gap Cover Schemes) Act 2000 
+ (No. 72, 2000)_
 
 ## <a id="4"></a>4  Review of operation of Act
 
@@ -33214,7 +33154,7 @@ The repeal of Division 4C of Part VII of the _National Health Act 1953_ made
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -33432,7 +33372,7 @@ The amendment of subsections 98(2), (3) and (3A) and 98AA(2) and (3) of the _Nat
 
 * * *
 
-_National Health Amendment (Pharmaceutical Benefits—Budget Measures) Act 2004 (No. 119, 2004)_
+_National Health Amendment (Pharmaceutical Benefits—Budget Measures) Act 2004 (No. 119, 2004)_
 
 ## Schedule 1
 
@@ -33490,7 +33430,8 @@ _National Health Amendment (Prostheses) Act 2005 (No. 31, 2005)_
 
 * * *
 
-_National Health Amendment (Immunisation Program) Act 2005 (No. 140, 2005)_
+_National Health Amendment (Immunisation Program) Act 2005 
+ (No. 140, 2005)_
 
 ## Schedule 1
 
@@ -33524,7 +33465,8 @@ The amendments of section 90 of the _National Health Act 1953_ made by this Pa
 
 * * *
 
-_Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006 (No. 136, 2006)_
+_Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006 
+ (No. 136, 2006)_
 
 ## Schedule 2
 
