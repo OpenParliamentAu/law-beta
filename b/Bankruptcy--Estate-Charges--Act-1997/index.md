@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00254/Html/BankruptcyEstateCharg1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00390/Html/99E95F659D47995ACA2571A2000190D4/$FILE/image001.gif)
 
 # Bankruptcy (Estate Charges) Act 1997
 
 **Act No. 12 of 1997 as amended**
 
-This compilation was prepared on 13 April 2007
- taking into account amendments up to Act No. 43 of 2007
+This compilation was prepared on 4 July 2006
+taking into account amendments up to Act No. 34 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -50,6 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to impose charges in relation to certain matters under the _Bankruptcy Act 1966_
 
 ## Part 1—Preliminary
@@ -66,7 +69,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act to bind the Commonwealth Crown
 
-                   This Act binds the Crown in right of the Commonwealth. However, it does not bind the Crown in right of a State, of the Australian   Capital Territory, of the Northern Territory or of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth. However, it does not bind the Crown in right of a State, of the Australian Capital Territory, of the Northern Territory or of Norfolk Island.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -176,6 +179,7 @@ then the following amounts are not taken into account in determining the amount 
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Bankruptcy (Estate Charges) Act 1997_
 
 ### Note 1
@@ -202,11 +206,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -216,146 +222,136 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Act 1997</div>
-  </td>
-  <td>
-    <div>12, 1997</div>
-  </td>
-  <td>
-    <div>13 March 1997</div>
-  </td>
-  <td>
-    <div>14 Apr 1997 ( <i>see</i> <i>Gazette</i>1997, No. S136)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>158, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div><i>(a)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+<tbody>
+  <tr>
+    <td>
+      <div>Bankruptcy (Estate Charges) Act 1997</div>
+    </td>
+    <td>
+      <div>12, 1997</div>
+    </td>
+    <td>
+      <div>13 March 1997</div>
+    </td>
+    <td>
+      <div>14 Apr 1997 ( <i>see</i> <i>Gazette</i>1997, No. S136)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy (Estate Charges) Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>158, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div><i>(a)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 10–16) 
-S. 2 (as am. by 61, 2002 Sch. 1 \[item 11])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>61, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>( <i>see</i>61, 2002 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>61, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–10, 12, 13): <i>(b)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 12, 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>81, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Dec 2004 ( <i>see</i>s. 2(1) and <i>Gazette</i>2004, No. GN34) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy Legislation Amendment (Fees and Charges) Act 2006</div>
-  </td>
-  <td>
-    <div>34, 2006</div>
-  </td>
-  <td>
-    <div>3 May 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2: 1 July 2006</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>43, 2007</div>
-  </td>
-  <td>
-    <div>10 Apr 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1, (item 4)</div>
-  </td>
-</tr></table>
+S. 2 (as am. by 61, 2002 Sch. 1 \[item 11]) 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy (Estate Charges) Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>61, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>( <i>see</i>61, 2002 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy (Estate Charges) Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>61, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–10, 12, 13): <i>(b)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 12, 13)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy (Estate Charges) Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>81, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 Dec 2004 ( <i>see</i>s. 2(1) and <i>Gazette</i>2004, No. GN34) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy Legislation Amendment (Fees and Charges) Act 2006</div>
+    </td>
+    <td>
+      <div>34, 2006</div>
+    </td>
+    <td>
+      <div>3 May 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2: 1 July 2006</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 3)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ Section 2 of the _Bankruptcy (Estate Charges) Amendment Act 2001_ provides as follows:
 
@@ -403,28 +399,31 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>2\. Schedule 1, items 1 to 10</div>
-  </td>
-  <td>
-    <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 1, items 12 and 13</div>
-  </td>
-  <td>
-    <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>2\. Schedule 1, items 1 to 10</div>
+    </td>
+    <td>
+      <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 1, items 12 and 13</div>
+    </td>
+    <td>
+      <div>Immediately after section 1 of the <i>Bankruptcy (Estate Charges) Amendment Act 2001</i>commences</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -449,174 +448,151 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2001; No. 34, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 61, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 34, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7A</div>
-  </td>
-  <td>
-    <div>am. No. 61, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 61, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 61, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 158, 2001; No. 34, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 158, 2001; No. 61, 2002; No. 81, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 158, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 61, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rs. No. 34, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 7A</div>
+    </td>
+    <td>
+      <div>am. No. 61, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 158, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 61, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 61, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 158, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 158, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Bankruptcy (Estate Charges) Amendment Act 2007 (No. 43, 2007)_
-
-The following amendments commence on 1 July 2007:
-
-## Schedule 1
-
-## 1  Subsection 5(1)
-
-After “169(1B)”, insert “or 185LD(3)”.
-
-## 2  After paragraph 6(1)(aa)
-
-Insert:
-
-                    (ab)  is the administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_; or
-
-## 3  After subsection 6(1A)
-
-Insert:
-
-          (1B)  Charge is not payable by a person in the person’s capacity as administrator of a debt agreement under Part IX of the _Bankruptcy Act 1966_ if the person is the debtor to whom the debt agreement relates.
-
-As at 13 April 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Bankruptcy (Estate Charges) Amendment Act 2001<span style="color:black"> </span>(No. 158, 2001)_
+_Bankruptcy (Estate Charges) Amendment Act 2001<span style="COLOR: black"> </span>(No. 158, 2001)_
 
 ## Schedule 1
 
@@ -666,9 +642,11 @@ The amendment made by item 7 applies to amounts received after the commencing 
 
 The amendment made by item 8 applies to amounts that are applied or dealt with after the commencing time.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Bankruptcy (Estate Charges) Amendment Act 2002<span style="color:black"> </span>(No. 61, 2002)_
+ </div>
+
+_Bankruptcy (Estate Charges) Amendment Act 2002<span style="COLOR: black"> </span>(No. 61, 2002)_
 
 ## Schedule 1
 
@@ -680,7 +658,9 @@ The amendments made by items 1, 2 and 3 apply to interest paid, after the comm
 
 The amendments made by items 4, 5, 6, 7, 8, 9 and 10 apply to amounts received after the commencement of those items.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Bankruptcy (Estate Charges) Amendment Act 2004 (No. 81, 2004)_
 
@@ -722,10 +702,13 @@ as if that amendment had not been made.
 
 as if those amendments had not been made.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Bankruptcy Legislation Amendment (Fees and Charges) Act 2006 
- (No. 34, 2006)_
+(No. 34, 2006)
+_
 
 ## Schedule 2
 
@@ -733,16 +716,5 @@ _Bankruptcy Legislation Amendment (Fees and Charges) Act 2006
 
 The amendments of the _Bankruptcy (Estate Charges) Act 1997_ made by this Schedule apply in relation to the financial year starting on 1 July 2006 and later financial years.
 
-* * *
-
-_Bankruptcy (Estate Charges) Amendment Act 2007 (No. 43, 2007)_
-
-The following provision commences on 1 July 2007:
-
-## Schedule 1
-
-## 4  Application of amendments
-
-The amendments made by this Schedule apply in relation to a debt agreement made as the result of the acceptance of a debt agreement proposal given to the Official Receiver on or after 1 July 2007.
 
  
