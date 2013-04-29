@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image001.gif)
 
 # Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005
 
 **Act No. 154 of 2005 as amended**
 
-This compilation was prepared on 26 March 2007
+This compilation was prepared on 20 September 2006
 
-**\[This Act was amended by SLI 2006 No. 50; Act No. 64 of 2006; No. 8 of 2007]**
+**\[This Act was amended by SLI 2006 No. 50; Act No. 64 of 2006]**
 
 **Amendments from SLI 2006 No. 50**
 
@@ -21,7 +21,7 @@ This compilation was prepared on 26 March 2007
  Schedule 13 (items 15–22) amended Schedule 11 (item 2)
  Schedule 13 (item 23) amended Schedule 11 (item 8)
 
-Schedule 13 (items 1 to 23) commenced on 27 March 2006]
+Schedule 3 (items 1 to 23) commenced on 27 March 2006]
 
 **Amendments from Act No. 64 of 2006**
 
@@ -38,12 +38,6 @@ Schedule 13 (items 1 to 23) commenced on 27 March 2006]
 Schedule 14 (items 4 and 5) commenced immediately after 1 July 2006
  Schedule 14 (items 6–10) commenced immediately after 20 September 2006
  Schedule 14 (items 11 and 12) commenced immediately before 1 July 2006]
-
-**Amendment from Act No. 8 of 2007**
-
-\[Schedule 2 (item 7) amended item 7 of Schedule 19
-
-Schedule 2 (item 7) commenced immediately after 1 July 2006]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -3318,7 +3312,7 @@ Add:
 
 ##### <a id="547AB"></a>547AB  Situations where allowance not payable for failure to comply with certain requirements
 
-                   A youth allowance is not payable to a person if the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 67, 68 or 192 of the Administration Act.
+                   A youth allowance is not payable to a person if the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 67, 68 or 192 of the Administration Act.
 
 ## 46  Subdivision D of Division 2 of Part 2.11 of Chapter 2
 
@@ -4534,7 +4528,7 @@ Add:
 
 _Note:       The heading to section 603F is altered by omitting “from requirement to satisfy activity test” and substituting “—end of person’s maximum exemption period”._
 
-## 59  Section 604
+## 59  Section 604
 
 Repeal the section.
 
@@ -7403,11 +7397,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067G-H27 of:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
 
                       Alice’s partner income reduction under point 1067G-H28 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
 
 ## 3  Points 1067G-H32 and 1067G-H33
 
@@ -7455,7 +7449,7 @@ Insert:
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
 
 where:
 
@@ -7753,7 +7747,7 @@ The amendments made by this Part apply in relation to termination payments to wh
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  Point 1067L-D27
+## 1  Point 1067L-D27
 
 Omit “70%”, substitute “60%”.
 
@@ -7767,11 +7761,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067L-D26 of:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
 
                       Alice’s partner income reduction under point 1067L-D27 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
 
 ## 3  Point 1067L-D32
 
@@ -7869,7 +7863,7 @@ Insert:
 
                     <a name="rundanc-payment"></a>**_redundancy payment_** does not include a qualifying eligible termination payment within the meaning of Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_.
 
-## 19  Point 1067L-D15 (definition of _roll-over_)
+## 19  Point 1067L-D15 (definition of _roll-over_)
 
 After “leave payment”, insert “or lump sum redundancy payment”.
 
@@ -7909,11 +7903,11 @@ _Facts:_ Susan’s partner Colin has an ordinary income of $800\. Assume that th
 
 _Application:_ Colin’s ordinary income exceeds the partner income free area. He therefore has a partner income excess under point 1068-G10 of:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
 
                      Susan’s partner income reduction under point 1068-G11 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
 
 ## 3  Point 1068-G15
 
@@ -7939,7 +7933,7 @@ Note 8:       Some recipients of newstart allowance have a maximum b
 
 ## 7  After point 1068-B4
 
-Insert in Module B:
+Insert in Module C:
 
 Maximum basic rate for certain newstart allowance recipients
 
@@ -7953,7 +7947,7 @@ Maximum basic rate for certain newstart allowance recipients
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2007C00215/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
 
 where:
 
