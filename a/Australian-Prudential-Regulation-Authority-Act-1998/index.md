@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00879/Html/b2a50c89-42ac-422a-b204-c4b9df642cc9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00859/Html/7c096fc3-5080-4d7f-a19e-26319b7896f0_files/image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 1 November 2011
+This compilation was prepared on 24 October 2011
  taking into account amendments up to Act No. 108 of 2011
 
 The text of any of those amendments not in force
@@ -920,19 +920,9 @@ Determination of Commonwealth costs
 
              (1)  The Minister is to make, by legislative instrument, for each financial year, either of the following determinations:
 
-                     (a)  a determination specifying the amount of the levy money payable to the Commonwealth, in respect of levy for that financial year, to cover the costs to the Commonwealth of:
+                     (a)  a determination specifying the amount of the levy money payable to the Commonwealth, in respect of levy for that financial year, to cover the costs to the Commonwealth of providing market integrity and consumer protection functions for prudentially regulated institutions;
 
-                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
-
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account;
-
-                     (b)  a determination, in respect of each class of levy for that financial year, specifying the amount of the levy money payable to the Commonwealth in respect of that class of levy for that financial year, to cover the costs to the Commonwealth of:
-
-                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
-
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account.
-
-Note:          Regulations made under the _Superannuation Industry (Supervision) Act 1993_ and the _Retirement Savings Accounts Act 1997_ provide for the making of determinations about the release of benefits on compassionate grounds.
+                     (b)  a determination, in respect of each class of levy for that financial year, specifying the amount of the levy money payable to the Commonwealth in respect of that class of levy for that financial year, to cover the costs to the Commonwealth of providing market integrity and consumer protection functions for prudentially regulated institutions.
 
 Crediting to APRA Special Account
 
@@ -969,10 +959,6 @@ Definitions
                      (a)  in relation to levy, means any amount paid or payable to the Commonwealth in respect of levy; or
 
                      (b)  in relation to a particular class of levy, means any amount paid or payable to the Commonwealth in respect of that class of levy.
-
-                    <a name="retir-save-account"></a>**_retirement savings account_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
-
-                    <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
 
 ##### <a id="51"></a>51  Charges for APRA’s services etc.
 
@@ -2035,7 +2021,7 @@ Remainder: Royal Assent</div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 17–19, 22): 1 Nov 2011 ( <i>see</i>F2011L02110)</div>
+    <div>Schedule 1 (items 17–19, 22): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 1 (item 22)</div>
@@ -2976,7 +2962,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2008; No. 108, 2011</div>
+    <div>am. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3338,7 +3324,47 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsection.
 
-As at 1 November 2011 the amendments are not incorporated in this compilation.
+As at 24 October 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
+
+The following amendments commence on 1  November 2011 (_see_ F2011L02110):
+
+## Schedule 1
+
+## 17  Paragraphs 50(1)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  a determination specifying the amount of the levy money payable to the Commonwealth, in respect of levy for that financial year, to cover the costs to the Commonwealth of:
+
+                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
+
+                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account;
+
+                     (b)  a determination, in respect of each class of levy for that financial year, specifying the amount of the levy money payable to the Commonwealth in respect of that class of levy for that financial year, to cover the costs to the Commonwealth of:
+
+                              (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
+
+                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account.
+
+Note:          Regulations made under the _Superannuation Industry (Supervision) Act 1993_ and the _Retirement Savings Accounts Act 1997_ provide for the making of determinations about the release of benefits on compassionate grounds.
+
+## 18  Subsection 50(6)
+
+Insert:
+
+                    <a name="retir-save-account"></a>**_retirement savings account_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
+
+## 19  Subsection 50(6)
+
+Insert:
+
+                    <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
+
+As at 24 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3867,6 +3893,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
+
+The following provision commences on 1 November 2011 (_see_ F2011L02110):
 
 ## Schedule 1
 
