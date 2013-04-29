@@ -1,238 +1,84 @@
-**
 
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992 
-**
-
-
-**
-
-###  Compilation Information 
-**
-
-
-
-
-
-
-
-
-
-
-**
-
-###  Long Title 
-**
-
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
-
-		This Act may be cited as the _Superannuation Guarantee Charge Act 1992_.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 2  Commencement 
-<dl compact="">
-
-		This Act commences on 1&#160;July 1992.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 3  Incorporation of the Superannuation Guarantee (Administration) Act 
-<dl compact="">
-
-		The _Superannuation Guarantee (Administration) Act 1992_ is incorporated
-
-and is to be read as one with this Act.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 4  Act binds Crown 
-<dl compact="">
-
-		This Act binds the Crown in right of each State, the Australian Capital
-
-Territory and the Northern Territory.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 5  Imposition of charge 
-<dl compact="">
-
-		Charge is imposed on any superannuation guarantee shortfall of an employer
-
-for a quarter.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 6  Amount of charge 
-<dl compact="">
-
-		The amount of superannuation guarantee charge payable on a superannuation
-
-guarantee shortfall of an employer for a quarter is an amount equal to the
-
-amount of the shortfall.
-
- </dl>
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992- SECT 7  Severability 
-<dl compact="">
-
-		It is the intention of the Parliament that if, but for this section,
-
-section&#160;5 would impose a superannuation guarantee charge on a State that
-
-exceeds the legislative power of the Commonwealth, section&#160;5 of this Act
-
-has effect as if it did not impose that charge.
-
- </dl>
-**
-
-###  SUPERANNUATION GUARANTEE CHARGE ACT 1992<centreit>Notes to the _Superannuation Guarantee Charge Act 1992_ </centreit>
-**
-
-Back to Top
-
-Note 1
 Superannuation Guarantee Charge Act 1992
-
-see
+Act No. 93 of 1992 as amended
+This compilation was prepared on 1 August 2002 taking into account amendments up to Act No. 52 of 2002
+The text of any of those amendments not in force on that date is appended in the Notes section
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+  
+  
+  
+Contents
+1	Short title [see Note 1]	1
+2	Commencement	1
+3	Incorporation of the Superannuation Guarantee (Administration) Act	1
+4	Act binds Crown	1
+5	Imposition of charge	1
+6	Amount of charge	1
+7	Severability	2
+Notes		3
+An Act to impose a charge on any shortfall in the amount contributed by employers to RSAs or superannuation funds for the benefit of employees
+  
+  
+1  Short title [see Note 1]
+		This Act may be cited as the Superannuation Guarantee Charge Act 1992.
+2  Commencement
+		This Act commences on 1 July 1992.
+3  Incorporation of the Superannuation Guarantee (Administration) Act
+		The Superannuation Guarantee (Administration) Act 1992 is incorporated and is to be read as one with this Act.
+4  Act binds Crown
+		This Act binds the Crown in right of each State, the Australian Capital Territory and the Northern Territory.
+5  Imposition of charge
+		Charge is imposed on any superannuation guarantee shortfall of an employer in a year.
+6  Amount of charge
+		The amount of superannuation guarantee charge payable on a superannuation guarantee shortfall of an employer in a year is an amount equal to the amount of the shortfall.
+7  Severability
+		It is the intention of the Parliament that if, but for this section, section 5 would impose a superannuation guarantee charge on a State that exceeds the legislative power of the Commonwealth, section 5 of this Act has effect as if it did not impose that charge.
+Notes to the Superannuation Guarantee Charge Act 1992
+Note 1
+The Superannuation Guarantee Charge Act 1992 as shown in this compilation comprises Act No. 93, 1992 amended as indicated in the Tables below. 
+For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
+Act
+Number  and year
+Date  of Assent
+Date of commencement
+Application, saving or transitional provisions
+Superannuation Guarantee Charge Act 1992
+93, 1992
+30 June 1992
+1 July 1992
 
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Superannuation Guarantee Charge Act 1992_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>93, 1992</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30&#160;June 1992</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1&#160;July 1992</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Retirement Savings Accounts (Consequential Amendments) Act 1997_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>62, 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>28&#160;May 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2&#160;June 1997 ( _see_s. 2 and _Gazette_1997, No. S202)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Superannuation Guarantee Charge Amendment Act 2002_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>52, 2002</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>29 June 2002</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1: 1 July 2003 
-Remainder: Royal Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Sch. 1 (item 3)</div>
-
-  </td>
-</tr>
+Retirement Savings Accounts (Consequential Amendments) Act 1997
+62, 1997
+28 May 1997
+2 June 1997 (see s. 2 and Gazette 1997, No. S202)
+—
+Superannuation Guarantee Charge Amendment Act 2002
+52, 2002
+29 June 2002
+Schedule 1: [see Note 2 and Table A] Remainder: Royal Assent
+Sch. 1 (item 3) 
 Table of Amendments
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+Provision affected
+How affected
+Title	
+am. No. 62, 1997
 
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
 
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Title</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;62, 1997</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 5, 6</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 52, 2002</div>
-
-  </td>
-</tr>
-**
-
-###  Table A 
-**
+Note 2
+Superannuation Guarantee Charge Amendment Act 2002 (No. 52, 2002)
+The following amendments commence on 1 July 2003:
+Schedule 1
+1  Section 5
+Omit “in a year”, substitute “for a quarter”.
+2  Section 6
+Omit “in a year”, substitute “for a quarter”.
+As at 1 August 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
-Superannuation Guarantee Charge Amendment Act 2002
-Schedule&#160;1
+Superannuation Guarantee Charge Amendment Act 2002 (No. 52, 2002)
+The following provision commences on 1 July 2003:
 3  Application of amendments
-Superannuation Guarantee (Administration) Act 1992
-
-
-
-
-
+The amendments made by this Schedule apply in relation to superannuation guarantee shortfalls under the Superannuation Guarantee (Administration) Act 1992 for quarters that commence on or after 1 July 2003.
 
