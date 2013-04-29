@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00002/Html/8c334d41-0256-49b9-a9e2-db46a25e8787_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00898/Html/be26b728-3c8e-41cb-93d7-45bf97c4ad8e_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 3 January 2013
- taking into account amendments up to Act No. 178 of 2012
+This compilation was prepared on 11 December 2012
+ taking into account amendments up to Act No. 176 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -145,8 +145,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised 
- advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -2053,9 +2052,7 @@ Specific things that are not **financial products**
 
                              (ii)  a clearing and settlement facility; or
 
-                            (iii)  a payment system operated as part of a clearing and settlement facility; or
-
-                            (iv)  a derivative trade repository;
+                            (iii)  a payment system operated as part of a clearing and settlement facility;
 
                      (h)  so much of an arrangement as is not a derivative within the meaning of the Corporations Act because of paragraph 761D(3)(a) of that Act;
 
@@ -2103,7 +2100,7 @@ When does a person provide a**financial service**?
 
                       (f)  operate a financial market (see subsection (15)) or clearing and settlement facility (see subsection (17)); or
 
-                     (g)  provide a service (not being the operation of a derivative trade repository) that is otherwise supplied in relation to a financial product (other than a carbon unit, an Australian carbon credit unit or an eligible international emissions unit); or
+                     (g)  provide a service that is otherwise supplied in relation to a financial product (other than a carbon unit, an Australian carbon credit unit or an eligible international emissions unit); or
 
                      (h)  engage in conduct of a kind prescribed in regulations made for the purposes of this paragraph.
 
@@ -4809,8 +4806,6 @@ ASIC may make such investigation as it thinks expedient for the due administrati
 
                      (g)  the provision of a clearing and settlement facility;
 
-                    (ga)  the provision of a derivative trade repository;
-
                       (j)  the giving of advice, analyses or reports about financial products;
 
                      (k)  the provision of compensation arrangements for a financial market.
@@ -5127,9 +5122,9 @@ Note:          A person responding to a notice under subsectio
 
              (1)  ASIC may give to:
 
-                     (a)  the operator of a financial market, clearing and settlement facility or derivative trade repository; or
+                     (a)  the operator of a financial market or clearing and settlement facility; or
 
-                     (b)  a member of the board of the operator of a financial market, clearing and settlement facility or derivative trade repository; or
+                     (b)  a member of the board of the operator of a financial market or clearing and settlement facility; or
 
                      (c)  a person who either carries on or has carried on (either alone or together with any other person or persons) a financial services business, or who is a representative of such a person; or
 
@@ -5141,7 +5136,7 @@ Note:          A person responding to a notice under subsectio
 
 a written notice requiring the production to a specified member or staff member, at a specified place and time, of specified books relating to:
 
-                     (g)  the business or affairs of a financial market, clearing and settlement facility or derivative trade repository; or
+                     (g)  the business or affairs of a financial market or clearing and settlement facility; or
 
                      (h)  a dealing in financial products; or
 
@@ -7003,8 +6998,6 @@ is required to consider a matter in which the person has a direct or indirect pe
 
                      (b)  that is protected information.
 
-Note:          Information given to ASIC under Part 7.5A of the Corporations Act may be taken, for the purpose of this section, to be given in confidence in connection with the performance of ASIC’s functions under that Act: see subsections 903A(5) and (6), and 906A(3) and (4), of the Corporations Act.
-
           (1A)  Disclosing summaries of information or statistics derived from information is authorised use and disclosure of the information provided that information relating to any particular person cannot be found out from those summaries or statistics.
 
              (2)  For the purposes of subsection (1), the disclosure of information as required or permitted by a law of the Commonwealth or a prescribed law of a State or internal Territory is taken to be authorised use and disclosure of the information.
@@ -7117,9 +7110,7 @@ the disclosure of the information to the agency, government, foreign body or dis
 
                      (a)  conducts, or is involved in the supervision of, a financial market; or
 
-                     (b)  is a body corporate that holds an Australian CS facility licence; or
-
-                     (c)  is a body corporate that holds an Australian derivative trade repository licence or that operates a prescribed derivative trade repository.
+                     (b)  is a body corporate that holds an Australian CS facility licence.
 
           (4D)  The Chairperson may impose conditions to be complied with by a body corporate and its officers, employees and agents in relation to information disclosed to the body corporate under subsection (4B).
 
@@ -8853,4 +8844,7155 @@ Purposes or objects of particular standard
 
              (1)  The Minister may give the AUASB a direction about the role of international auditing standards in the Australian auditing standard setting system.
 
-             (2)  Before giving a direction under this section, the Minister must receive and consider a re
+             (2)  Before giving a direction under this section, the Minister must receive and consider a report from the FRC about the desirability of giving the direction.
+
+             (3)  The AUASB must comply with the direction.
+
+##### <a id="234E"></a>234E  Validity of auditing standards
+
+                   A failure to comply with this Division in relation to the making of an auditing standard does not affect the validity of the standard.
+
+### Division 3—Administrative provisions
+
+#### Subdivision A—The Financial Reporting Council
+
+##### <a id="235A"></a>235A  Membership of FRC
+
+             (1)  The members of the FRC are appointed by the Minister in writing. The Minister may appoint a person by specifying an organisation or body that is to choose the person who is appointed.
+
+             (2)  The members hold office on the terms and conditions that are determined by the Minister.
+
+             (3)  The Minister must appoint one of the members to be Chair of the FRC. The appointment must be in writing. The FRC may appoint one of its members to be Deputy Chair of the FRC.
+
+##### <a id="235B"></a>235B  Annual report
+
+             (1)  As soon as practicable after 30 June in each year, and in any event before 31 October, the FRC must give the Minister a report on:
+
+                     (a)  the operations of the FRC and its committees and advisory groups; and
+
+                     (b)  the achievement of the objects set out in section 224;
+
+during the year that ended on 30 June in that year.
+
+             (2)  The report must include details of any advice or feedback that the FRC gave under paragraph 225(2)(b) or (ba) or (2A)(b) or (ba) during the year that ended on that 30 June.
+
+             (3)  The Minister may grant an extension of time in special circumstances.
+
+             (4)  The Minister must table the report in each House of the Parliament as soon as practicable.
+
+##### <a id="235C"></a>235C  Procedure
+
+                   The FRC may determine its own procedural rules (including rules as to notice of meetings, quorum and voting).
+
+#### Subdivision AA—The Office of the AASB
+
+##### <a id="235D"></a>235D  Duties of the Chair of the AASB
+
+             (1)  The Chair of the AASB, under the Minister, is responsible for managing the Office of the AASB.
+
+             (2)  In particular, the Chair of the AASB is responsible for approving:
+
+                     (a)  the AASB’s priorities, business plans and procedures; and
+
+                     (b)  the Office of the AASB’s budgets and staffing arrangements (including level, structure and composition of staffing).
+
+             (3)  If the Chair of the AASB takes action that is inconsistent with any advice the FRC has given under paragraph 225(2)(b) or (ba), he or she must:
+
+                     (a)  make a written record of his or her reasons for not following the advice; and
+
+                     (b)  give a copy of the advice and of his or her reasons to the Minister; and
+
+                     (c)  include a copy of the advice and of his or her reasons in the annual report under section 235J.
+
+##### <a id="235E"></a>235E  Staff of the Office of the AASB
+
+Employment of staff
+
+             (1)  The Chair of the AASB may, on behalf of the Commonwealth, employ such staff under written agreements as the Chair thinks necessary to employ to assist the Office of the AASB in the performance of its functions and the exercise of its powers.
+
+             (2)  The terms and conditions of staff employed under subsection (1) are as determined in writing by the Chair.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Office of the AASB Code of Conduct
+
+             (3)  The Chair of the AASB must determine, in writing, the Office of the AASB Code of Conduct.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+             (4)  The Office of the AASB Code of Conduct applies to the Chair of the AASB and staff appointed under subsection (1).
+
+             (5)  An instrument made under subsection (3) is not a legislative instrument.
+
+Engagement of staff under the Public Service Act 1999
+
+             (6)  Without limiting subsections (1) and (2), staff of the Office of the AASB may be engaged under the _Public Service Act 1999_.
+
+             (7)  For the purposes of the _Public Service Act 1999_:
+
+                     (a)  the Chair of the AASB and the staff of the Office of the AASB referred to in subsection (6) together constitute a Statutory Agency; and
+
+                     (b)  the Chair of the AASB is the Head of that Statutory Agency.
+
+##### <a id="235F"></a>235F  Consultants and persons seconded to the Office of the AASB
+
+             (1)  The Chair of the AASB may, on behalf of the Commonwealth, engage consultants to perform services for the Office of the AASB in connection with the performance of any of its functions.
+
+             (2)  The terms and conditions of engagement are as determined in writing by the Chair.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+             (3)  The Office of the AASB may also be assisted:
+
+                     (a)  by employees of Agencies (within the meaning of the _Public Service Act 1999_); and
+
+                     (b)  by officers and employees of authorities of the Commonwealth; and
+
+                     (c)  by employees of Commonwealth companies (within the meaning of the _Commonwealth Authorities and Companies Act 1997_);
+
+whose services are made available to the Office of the AASB in connection with the performance of any of its functions.
+
+##### <a id="235G"></a>235G  Office of the AASB to have regard to FRC’s advice etc.
+
+                   The Office of the AASB must have regard to the advice and feedback about its budgets and staffing arrangements that the FRC gives under paragraph 225(2)(ba).
+
+##### <a id="235H"></a>235H  Chair not subject to direction by the AASB on certain matters
+
+                   To avoid doubt, the Chair of the AASB is not subject to direction by the AASB in relation to the Chair’s performance of functions, or exercise of powers, under the _Financial Management and Accountability Act 1997_ or the _Public Service Act 1999_ in relation to the Office of the AASB.
+
+##### <a id="235J"></a>235J  Annual report
+
+                   The Chair of the AASB must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report of the operations of the AASB and the Office of the AASB during the financial year.
+
+#### Subdivision B—The Australian Accounting Standards Board
+
+##### <a id="236A"></a>236A  Procedures
+
+             (1)  Meetings of the AASB are to be chaired by:
+
+                     (a)  the Chair; or
+
+                     (b)  the Deputy Chair if the Chair is absent; or
+
+                     (c)  a member chosen by the members present if both the Chair and the Deputy Chair are absent.
+
+             (2)  If a meeting of the AASB, or a part of one of its meetings, concerns the contents of accounting standards or international accounting standards, the meeting or that part of it must be held in public.
+
+             (4)  Otherwise, the AASB may determine its own procedural rules (including rules as to notice of meetings, quorum and voting).
+
+##### <a id="236AA"></a>236AA  AASB to have regard to FRC’s advice etc.
+
+                   The AASB must have regard to the advice and feedback about its priorities, business plans and procedures that the FRC gives under paragraph 225(2)(b).
+
+##### <a id="236B"></a>236B  Appointment of members of the AASB
+
+Appointment of Chair
+
+             (1)  The Minister appoints the Chair of the AASB.
+
+Appointment of other members
+
+             (2)  The FRC appoints the other members of the AASB. The AASB may appoint one of its members to be Deputy Chair of the AASB.
+
+Qualification for appointment
+
+             (3)  A person must not be appointed as a member of the AASB unless their knowledge of, or experience in, business, accounting, law or government qualifies them for the appointment.
+
+Appointment document
+
+             (4)  An appointment under subsection (1) or (2) is to be made in writing.
+
+Period of appointment
+
+             (5)  The appointment document must specify the period of the appointment (not exceeding 5 years). A member holds office for the period specified in the appointment document and is eligible for re‑appointment.
+
+Terms and conditions of appointment
+
+             (6)  The Chair holds office on the terms and conditions that are determined by the Minister. The other members hold office on the terms and conditions determined by the FRC.
+
+##### <a id="236C"></a>236C  Resignation and termination of appointment
+
+Resignation
+
+             (1)  A member of the AASB may resign their appointment by giving a written resignation to:
+
+                     (a)  if the member is the Chair of the AASB—the Minister; or
+
+                     (b)  in any other case—the Chair of the FRC.
+
+Termination of Chair’s appointment
+
+             (2)  The Chair is not to be removed from office except as provided by subsection (3) or (4).
+
+             (3)  The Minister may terminate the appointment of the Chair of the AASB for:
+
+                     (a)  misbehaviour or physical or mental incapacity; or
+
+                     (b)  breach of the terms and conditions of their appointment.
+
+             (4)  The Minister must terminate the appointment of the Chair of the AASB if the Chair:
+
+                     (a)  becomes bankrupt; or
+
+                     (b)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                     (c)  compounds with their creditors; or
+
+                     (d)  makes an assignment of their remuneration or property for the benefit of their creditors; or
+
+                     (e)  contravenes section 237.
+
+Termination of ordinary member’s appointment
+
+             (5)  A member of the AASB (other than the Chair) is not to be removed from office except as provided by subsection (6) or (7).
+
+             (6)  The FRC may terminate the appointment of a member of the AASB (other than the Chair) for:
+
+                     (a)  misbehaviour or physical or mental incapacity; or
+
+                     (b)  breach of the terms and conditions of the member’s appointment.
+
+             (7)  The FRC must terminate the appointment of a member of the AASB (other than the Chair) if the member:
+
+                     (a)  becomes bankrupt; or
+
+                     (b)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                     (c)  compounds with their creditors; or
+
+                     (d)  makes an assignment of their remuneration or property for the benefit of their creditors; or
+
+                     (e)  contravenes section 237.
+
+##### <a id="236D"></a>236D  Acting appointments
+
+             (1)  The Minister may appoint a person to act as Chair of the AASB:
+
+                     (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (2)  The AASB may appoint one of its members to act as Deputy Chair of the AASB:
+
+                     (a)  during a vacancy in the office of Deputy Chair (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Deputy Chair is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (3)  The FRC may appoint a person to act as a member of the AASB (other than the Chair):
+
+                     (a)  during a vacancy in the office of member (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the member is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+##### <a id="236DA"></a>236DA  Disclosure of interests
+
+Disclosure to Minister or Chair of AASB
+
+             (1)  If a member of the AASB has or acquires any direct or indirect pecuniary interest that conflicts or could conflict with the proper performance of the member’s functions, the member must:
+
+                     (a)  if the member is the Chair of the AASB—give written notice of the interest to the Minister; or
+
+                     (b)  if the member is not the Chair of the AASB—give written notice of the interest to the Chair of the AASB.
+
+Disclosure to AASB
+
+             (2)  A member of the AASB who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the AASB must disclose the nature of the interest to a meeting of the AASB.
+
+             (3)  The disclosure under subsection (2) must be made as soon as possible after the relevant facts have come to the member’s knowledge.
+
+             (4)  The disclosure under subsection (2) must be recorded in the minutes of the meeting of the AASB.
+
+             (5)  The member:
+
+                     (a)  must not be present during any deliberation by the AASB on the matter; and
+
+                     (b)  must not take part in any decision of the AASB with respect to the matter;
+
+unless the Minister (if the member is the Chair of the AASB) or the Chair of the AASB (if the member is not the Chair of the AASB) otherwise determines.
+
+#### Subdivision BAA—The Office of the AUASB
+
+##### <a id="236DB"></a>236DB  Duties of the Chair of the AUASB
+
+             (1)  The Chair of the AUASB, under the Minister, is responsible for managing the Office of the AUASB.
+
+             (2)  In particular, the Chair of the AUASB is responsible for approving:
+
+                     (a)  the AUASB’s priorities, business plans and procedures; and
+
+                     (b)  the Office of the AUASB’s budgets and staffing arrangements (including level, structure and composition of staffing).
+
+             (3)  If the Chair of the AUASB takes action that is inconsistent with any advice the FRC has given under paragraph 225(2A)(b) or (ba), he or she must:
+
+                     (a)  make a written record of his or her reasons for not following the advice; and
+
+                     (b)  give a copy of the advice and of his or her reasons to the Minister; and
+
+                     (c)  include a copy of the advice and of his or her reasons in the annual report under section 236DG.
+
+##### <a id="236DC"></a>236DC  Staff of the Office of the AUASB
+
+Employment of staff
+
+             (1)  The Chair of the AUASB may, on behalf of the Commonwealth, employ such staff under written agreements as the Chair thinks necessary to employ to assist the Office of the AUASB in the performance of its functions and the exercise of its powers.
+
+             (2)  The terms and conditions of staff employed under subsection (1) are as determined in writing by the Chair.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Office of the AUASB Code of Conduct
+
+             (3)  The Chair of the AUASB must determine, in writing, the Office of the AUASB Code of Conduct.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+             (4)  The Office of the AUASB Code of Conduct applies to the Chair of the AUASB and staff appointed under subsection (1).
+
+             (5)  An instrument made under subsection (3) is not a legislative instrument.
+
+Engagement of staff under the Public Service Act 1999
+
+             (6)  Without limiting subsections (1) and (2), staff of the Office of the AUASB may be engaged under the _Public Service Act 1999_.
+
+             (7)  For the purposes of the _Public Service Act 1999_:
+
+                     (a)  the Chair of the AUASB and the staff of the Office of the AUASB referred to in subsection (6) together constitute a Statutory Agency; and
+
+                     (b)  the Chair of the AUASB is the Head of that Statutory Agency.
+
+##### <a id="236DD"></a>236DD  Consultants and persons seconded to the Office of the AUASB
+
+             (1)  The Chair of the AUASB may, on behalf of the Commonwealth, engage consultants to perform services for the Office of the AUASB in connection with the performance of any of its functions.
+
+             (2)  The terms and conditions of engagement are as determined in writing by the Chair.
+
+Note:          For variation and revocation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+             (3)  The Office of the AUASB may also be assisted:
+
+                     (a)  by officers and employees of Agencies (within the meaning of the _Public Service Act 1999_); and
+
+                     (b)  by officers and employees of authorities of the Commonwealth; and
+
+                     (c)  by employees of Commonwealth companies (within the meaning of the _Commonwealth Authorities and Companies Act 1997_);
+
+whose services are made available to the Office of the AUASB in connection with the performance of any of its functions.
+
+##### <a id="236DE"></a>236DE  Office of the AUASB to have regard to FRC’s advice etc.
+
+                   The Office of the AUASB must have regard to the advice and feedback about its budgets and staffing arrangements that the FRC gives under paragraph 225(2A)(ba).
+
+##### <a id="236DF"></a>236DF  Chair not subject to direction by the AUASB on certain matters
+
+                   To avoid doubt, the Chair of the AUASB is not subject to direction by the AUASB in relation to the Chair’s performance of functions, or exercise of powers, under the _Financial Management and Accountability Act 1997_ or the _Public Service Act 1999_ in relation to the Office of the AUASB.
+
+##### <a id="236DG"></a>236DG  Annual report
+
+                   The Chair of the AUASB must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report of the operations of the AUASB and the Office of the AUASB during the financial year.
+
+#### Subdivision BA—The Auditing and Assurance Standards Board
+
+##### <a id="236E"></a>236E  Procedures
+
+             (1)  Meetings of the AUASB are to be chaired by:
+
+                     (a)  the Chair; or
+
+                     (b)  the Deputy Chair if the Chair is absent; or
+
+                     (c)  a member chosen by the members present if both the Chair and the Deputy Chair are absent.
+
+             (2)  If a meeting of the AUASB, or a part of one of its meetings, concerns the contents of auditing standards or international auditing standards, the meeting or that part of it must be held in public.
+
+             (4)  Otherwise, the AUASB may determine its own procedural rules (including rules as to notice of meetings, quorum and voting).
+
+##### <a id="236EA"></a>236EA  AUASB to have regard to FRC’s advice etc.
+
+                   The AUASB must have regard to the advice and feedback about its priorities, business plans and procedures that the FRC gives under paragraph 225(2A)(b).
+
+##### <a id="236F"></a>236F  Appointment of members of the AUASB
+
+Appointment of Chair
+
+             (1)  The Minister appoints the Chair of the AUASB.
+
+Appointment of other members
+
+             (2)  The FRC appoints the other members of the AUASB.
+
+             (3)  The AUASB may appoint one of its members to be Deputy Chair of the Board.
+
+Qualification for appointment
+
+             (4)  A person must not be appointed as a member of the AUASB unless their knowledge of, or experience in, business, accounting, auditing, law or government qualifies them for the appointment.
+
+Appointment document
+
+             (5)  An appointment under subsection (1) or (2) is to be made in writing.
+
+Period of appointment
+
+             (6)  The appointment document must specify the period of the appointment (not exceeding 5 years).
+
+             (7)  A member holds office for the period specified in the appointment document and is eligible for re‑appointment.
+
+Terms and conditions of appointment
+
+             (8)  The Chair holds office on the terms and conditions that are determined by the Minister.
+
+             (9)  The other members hold office on the terms and conditions determined by the FRC.
+
+##### <a id="236G"></a>236G  Resignation and termination of appointment
+
+Resignation
+
+             (1)  A member of the AUASB may resign their appointment by giving a written resignation to:
+
+                     (a)  if the member is the Chair of the AUASB—the Minister; or
+
+                     (b)  in any other case—the Chair of the FRC.
+
+Termination of Chair’s appointment
+
+             (2)  The Chair is not to be removed from office except as provided by subsection (3) or (4).
+
+             (3)  The Minister may terminate the appointment of the Chair of the AUASB for:
+
+                     (a)  misbehaviour or physical or mental incapacity; or
+
+                     (b)  breach of the terms and conditions of their appointment.
+
+             (4)  The Minister must terminate the appointment of the Chair of the AUASB if the Chair:
+
+                     (a)  becomes bankrupt; or
+
+                     (b)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                     (c)  compounds with their creditors; or
+
+                     (d)  makes an assignment of their remuneration or property for the benefit of their creditors; or
+
+                     (e)  contravenes section 237.
+
+Termination of ordinary member’s appointment
+
+             (5)  A member of the AUASB (other than the Chair) is not to be removed from office except as provided by subsection (6) or (7).
+
+             (6)  The FRC may terminate the appointment of a member of the AUASB (other than the Chair) for:
+
+                     (a)  misbehaviour or physical or mental incapacity; or
+
+                     (b)  breach of the terms and conditions of the member’s appointment.
+
+             (7)  The FRC must terminate the appointment of a member of the AUASB (other than the Chair) if the member:
+
+                     (a)  becomes bankrupt; or
+
+                     (b)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                     (c)  compounds with their creditors; or
+
+                     (d)  makes an assignment of their remuneration or property for the benefit of their creditors; or
+
+                     (e)  contravenes section 237.
+
+##### <a id="236H"></a>236H  Acting appointments
+
+             (1)  The Minister may appoint a person to act as Chair of the AUASB:
+
+                     (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (2)  The AUASB may appoint one of its members to act as Deputy Chair of the AUASB:
+
+                     (a)  during a vacancy in the office of Deputy Chair (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Deputy Chair is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (3)  The FRC may appoint a person to act as a member of the AUASB (other than the Chair):
+
+                     (a)  during a vacancy in the office of the member (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the member is absent from duty or from Australia, or is for any reason unable to perform the duties of the office.
+
+             (4)  Anything done by, or in relation to, a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+##### <a id="236J"></a>236J  Disclosure of interests
+
+Disclosure to Minister or Chair of AUASB
+
+             (1)  If a member of the AUASB has or acquires any direct or indirect pecuniary interest that conflicts or could conflict with the proper performance of the member’s functions, the member must:
+
+                     (a)  if the member is the Chair of the AUASB—give written notice of the interest to the Minister; or
+
+                     (b)  if the member is not the Chair of the AUASB—give written notice of the interest to the Chair of the AUASB.
+
+Disclosure to AUASB
+
+             (2)  A member of the AUASB who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the AUASB must disclose the nature of the interest to a meeting of the AUASB.
+
+             (3)  The disclosure under subsection (2) must be made as soon as possible after the relevant facts have come to the member’s knowledge.
+
+             (4)  The disclosure under subsection (2) must be recorded in the minutes of the meeting of the AUASB.
+
+             (5)  The member:
+
+                     (a)  must not be present during any deliberation by the AUASB on the matter; and
+
+                     (b)  must not take part in any decision of the AUASB with respect to the matter;
+
+unless the Minister (if the member is the Chair of the AUASB) or the Chair of the AUASB (if the member is not the Chair of the AUASB) otherwise determines.
+
+#### Subdivision C—Confidentiality
+
+##### <a id="237"></a>237  Confidentiality
+
+             (1)  The FRC, the AASB, the Office of the AASB, the AUASB and the Office of the AUASB must take all reasonable measures to protect from unauthorised use or disclosure information given to it in confidence.
+
+             (2)  For the purposes of subsection (1), the disclosure of information is taken to be authorised if the disclosure:
+
+                     (a)  is required or permitted by a law of the Commonwealth or a prescribed law of a State or Territory; or
+
+                     (b)  is made in order to enable an authority or person in a country outside Australia and the external Territories to perform or exercise a function or power that corresponds, or is analogous, to any of the FRC’s, the AASB’s, the Office of the AASB’s, the AUASB’s or the Office of the AUASB’s functions or powers; or
+
+                     (c)  is made to bodies that set international accounting standards or international auditing standards; or
+
+                     (d)  is made to ASIC for the purposes of its performance of its functions under the corporations legislation (other than the excluded provisions); or
+
+                     (e)  is made to the Disciplinary Board for the purposes of its performance of its functions under the corporations legislation; or
+
+                    (ea)  is made to APRA for the purposes of its performance of its functions; or
+
+                      (f)  is made to a professional accounting body for the purposes of its performance of its functions.
+
+## Part 14—The Parliamentary Joint Committee on Corporations and Financial Services
+
+##### <a id="241"></a>241  Membership
+
+             (2)  The Parliamentary Committee consists of 10 members, of whom:
+
+                     (a)  5 are to be senators appointed by the Senate; and
+
+                     (b)  5 are to be members of the House of Representatives appointed by that House.
+
+Note:          The Parliamentary Committee was established by subsection 241(1) of the _Australian Securities and Investments Commission Act 1989_ and is continued in existence by section 261 of this Act.
+
+             (3)  The appointment of members by a House must be in accordance with that House’s practice relating to the appointment of members of that House to serve on joint select committees of both Houses.
+
+             (4)  A person is not eligible for appointment as a member if he or she is:
+
+                     (a)  a Minister; or
+
+                     (b)  the President of the Senate; or
+
+                     (c)  the Speaker of the House of Representatives; or
+
+                     (d)  the Deputy‑President and Chairman of Committees of the Senate; or
+
+                     (e)  the Chairman of Committees of the House of Representatives.
+
+             (5)  A member ceases to hold office:
+
+                     (a)  when the House of Representatives expires or is dissolved; or
+
+                     (b)  if he or she becomes the holder of an office referred to in a paragraph of subsection (4); or
+
+                     (c)  if he or she ceases to be a member of the House by which he or she was appointed; or
+
+                     (d)  if he or she resigns his or her office as provided by subsection (6) or (7), as the case requires.
+
+             (6)  A member appointed by the Senate may resign his or her office by writing signed and delivered to the President of the Senate.
+
+             (7)  A member appointed by the House of Representatives may resign his or her office by writing signed and delivered to the Speaker of that House.
+
+             (8)  A House may appoint one of its members to fill a vacancy among the members of the Parliamentary Committee appointed by that House.
+
+##### <a id="242"></a>242  Powers and proceedings
+
+                   Subject to this Act, all matters relating to the Parliamentary Committee’s powers and proceedings must be determined by resolution of both Houses.
+
+##### <a id="243"></a>243  Duties
+
+                   The Parliamentary Committee’s duties are:
+
+                     (a)  to inquire into, and report to both Houses on:
+
+                              (i)  activities of ASIC or the Panel, or matters connected with such activities, to which, in the Parliamentary Committee’s opinion, the Parliament’s attention should be directed; or
+
+                             (ii)  the operation of the corporations legislation (other than the excluded provisions), or of any other law of the Commonwealth, of a State or Territory or of a foreign country that appears to the Parliamentary Committee to affect significantly the operation of the corporations legislation (other than the excluded provisions); and
+
+                     (b)  to examine each annual report that is prepared by a body established by this Act and of which a copy has been laid before a House, and to report to both Houses on matters that appear in, or arise out of, that annual report and to which, in the Parliamentary Committee’s opinion, the Parliament’s attention should be directed; and
+
+                     (c)  to inquire into any question in connection with its duties that is referred to it by a House, and to report to that House on that question.
+
+## Part 15—Miscellaneous
+
+##### <a id="243B"></a>243B  Offences committed partly in and partly out of the jurisdiction
+
+                   Where:
+
+                     (a)  a person does or omits to do an act outside Australia; and
+
+                     (b)  if that person had done or omitted to do that act in Australia, the person would, by reason of also having done or omitted to do an act in Australia, have been guilty of an offence against this Act;
+
+the person is guilty of that offence.
+
+##### <a id="243D"></a>243D  Financial transaction reports
+
+                   Neither subsection 16(5A) nor (5AA) of the _Financial Transactions Reports Act 1988_ prohibits a cash dealer from communicating or disclosing a fact or information referred to in either of those subsections:
+
+                     (a)  to ASIC; or
+
+                     (b)  to a market licensee; or
+
+                     (c)  to a CS facility licensee; or
+
+                     (d)  to an operator of a market exempted under section 791C of the Corporations Act; or
+
+                     (e)  to an operator of a clearing and settlement facility exempted under section 820C of the Corporations Act; or
+
+                      (f)  in accordance with conditions imposed on an Australian market licence under section 796A of the Corporations Act; or
+
+                     (g)  in accordance with conditions imposed on a CS facility licence under section 825A of the Corporations Act; or
+
+                     (h)  in accordance with conditions on an exemption made under section 791C of the Corporations Act from the requirement to hold an Australian market licence; or
+
+                      (i)  in accordance with conditions on an exemption made under section 820C of the Corporations Act from the requirement to hold an Australian CS facility licence; or
+
+                      (j)  as prescribed by regulations made for the purposes of this paragraph.
+
+##### <a id="243E"></a>243E  Suspicious matters reports under the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_
+
+                   Section 123 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ does not prohibit a person from disclosing a fact or information referred to in that section:
+
+                     (a)  to ASIC; or
+
+                     (b)  to a market licensee; or
+
+                     (c)  to a CS facility licensee; or
+
+                     (d)  to an operator of a market exempted under section 791C of the Corporations Act; or
+
+                     (e)  to an operator of a clearing and settlement facility exempted under section 820C of the Corporations Act; or
+
+                      (f)  in accordance with conditions imposed on an Australian market licence under section 796A of the Corporations Act; or
+
+                     (g)  in accordance with conditions imposed on an Australian CS facility licence under section 825A of the Corporations Act; or
+
+                     (h)  in accordance with conditions on an exemption made under section 791C of the Corporations Act from the requirement to hold an Australian market licence; or
+
+                      (i)  in accordance with conditions on an exemption made under section 820C of the Corporations Act from the requirement to hold an Australian CS facility licence; or
+
+                      (j)  as prescribed by regulations made for the purposes of this paragraph.
+
+##### <a id="244"></a>244  Review by Administrative Appeals Tribunal of certain decisions
+
+             (1)  In this section:
+
+                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+
+             (2)  Applications may be made to the Administrative Appeals Tribunal for review of a decision by ASIC:
+
+                     (a)  to make an order under section 72 or 73; or
+
+                     (b)  to make an order under subsection 75(1) varying an order in force under Division 8 of Part 3; or
+
+                     (c)  to refuse to vary or revoke an order in force under Division 8 of Part 3.
+
+##### <a id="244A"></a>244A  Notice of reviewable decision and review rights
+
+             (1)  This section applies if ASIC makes a decision to which subsection 244(2) applies.
+
+             (2)  Subject to subsection (3), ASIC must take such steps as are reasonable in the circumstances to give to each person whose interests are affected by the decision notice, in writing or otherwise:
+
+                     (a)  of the making of the decision; and
+
+                     (b)  of the person’s right to have the decision reviewed by the Administrative Appeals Tribunal.
+
+             (3)  Subsection (2) does not require ASIC to give notice to a person affected by the decision, or to the persons in a class of persons affected by the decision, if ASIC determines that giving notice to the person or persons is not warranted, having regard to:
+
+                     (a)  the cost of giving notice to the person or persons; and
+
+                     (b)  the way in which the interests of the person or persons are affected by the decision.
+
+             (4)  A failure to comply with this section does not affect the validity of the decision.
+
+             (5)  The fact that a person has not been given notice of the decision because of a determination under subsection (3) constitutes special circumstances for the purposes of subsection 29(6) of the _Administrative Appeals Tribunal Act 1975_.
+
+##### <a id="245"></a>245  Validity of certain actions
+
+                   Nothing done by or in relation to a person who has been appointed to, or appointed to act in, an office under this Act is invalid on the ground that:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
+
+##### <a id="246"></a>246  Liability for damages
+
+             (1)  None of the following:
+
+                    (aa)  the Minister;
+
+                     (a)  ASIC;
+
+                     (b)  CAMAC;
+
+                     (c)  a member of ASIC;
+
+                     (d)  a member of CAMAC;
+
+                     (e)  a member of the Panel;
+
+                      (f)  a person appointed for the purposes of this Act or a prescribed law of the Commonwealth, a State or a Territory;
+
+                     (g)  a staff member or a person who is, or is a member of, an ASIC delegate or is authorised to perform or exercise a function or power of, or on behalf of, ASIC;
+
+                     (h)  a member of the staff referred to in subsection 156(1), a person employed under subsection 156(3), a person engaged under subsection 157(1) or any of the officers, employees and persons who under section 158 are to assist CAMAC;
+
+                      (i)  a person who is:
+
+                              (i)  a member of staff of the Office of the AASB engaged under section 235E; or
+
+                             (ii)  a consultant to the Office of the AASB engaged under section 235F; or
+
+                            (iii)  a person assisting the Office of the AASB under subsection 235F(3);
+
+                      (j)  a person who is:
+
+                              (i)  a member of staff of the Office of the AUASB engaged under section 236DC; or
+
+                             (ii)  a consultant to the Office of the AUASB engaged under section 236DD; or
+
+                            (iii)  a person assisting the Office of the AUASB under subsection 236DD(3);
+
+                     (k)  an officer or employee of an Agency (within the meaning of the _Public Service Act 1999_), or of an authority of the Commonwealth, whose services are made available to the FRC or the Disciplinary Board in connection with the performance or exercise of any of its functions or powers;
+
+                      (l)  a person engaged by an Agency (within the meaning of the _Public Service Act 1999_), or of an authority of the Commonwealth, to provide services to the FRC in connection with the performance or exercise of any of its functions or powers;
+
+is liable to an action or other proceeding for damages for or in relation to an act done or omitted in good faith in performance or purported performance of any function, or in exercise or purported exercise of any power, conferred or expressed to be conferred by or under the corporations legislation, or a prescribed law of the Commonwealth, a State or a Territory.
+
+             (2)  Without limiting paragraph (1)(f), the following are taken to be persons appointed for the purposes of this Act:
+
+                     (a)  a member of the Disciplinary Board;
+
+                     (b)  a member of the FRC or of a committee or advisory group established by the FRC;
+
+                     (c)  a member of the AASB or of a committee, advisory panel or consultative group established by the AASB or by the Office of the AASB;
+
+                     (d)  a member of the AUASB or of a committee, advisory panel or consultative group established by the AUASB or by the Office of the AUASB.
+
+##### <a id="247"></a>247  Duplicate seals
+
+             (1)  As well as ASIC’s common seal, there are to be such duplicates of that seal as ASIC directs.
+
+             (2)  A document to which a duplicate seal of ASIC is affixed is taken to have ASIC’s common seal affixed to it.
+
+##### <a id="248"></a>248  Judicial notice of ASIC’s seal and members’ signatures
+
+             (1)  A court must take judicial notice of ASIC’s common seal affixed to a document and, unless the contrary is established, must presume that it was duly affixed.
+
+             (2)  A court must take judicial notice of:
+
+                     (a)  the official signature of a person who holds or has held, or is acting or has acted in, the office of member, Chairperson or Deputy Chairperson; and
+
+                     (b)  the fact that the person holds or has held, or is acting or has acted in, that office;
+
+if a signature purporting to be the person’s signature appears on an official document.
+
+             (3)  In this section:
+
+                     (a)  **_court_** includes a tribunal; and
+
+                     (b)  a reference, in relation to a tribunal, to taking judicial notice is a reference to taking the same notice as would be taken by a court.
+
+##### <a id="251"></a>251  The regulations
+
+             (1)  The Governor‑General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+             (2)  Regulations providing for allowances and expenses for the purposes of section 89 or subsection 192(6) or 218(4) may provide for those allowances and expenses by reference to a scale of expenses for witnesses who attend before a court specified in the regulations, being a federal court, or the Supreme Court of a State or Territory.
+
+## Part 16—Transition from the old ASIC legislation
+
+### Division 1—Preliminary
+
+##### <a id="253"></a>253  Object of Part
+
+             (1)  The object of this Part is to provide for a smooth transition from the regime provided for in the old ASIC legislation of the States in this jurisdiction and the Northern Territory to the regime provided for in the new ASIC legislation, so that individuals, bodies corporate and other bodies are, to the greatest extent possible, put in the same position immediately after the commencement as they would have been if:
+
+                     (a)  that old ASIC legislation had, from time to time when it was in force, been valid Commonwealth legislation applying throughout the States in this jurisdiction and the Northern Territory; and
+
+                     (b)  the new ASIC legislation (to the extent it contains provisions that correspond to provisions of the old ASIC legislation as in force immediately before the commencement) were a continuation of that old ASIC legislation as so applying.
+
+Note:          The new ASIC legislation contains provisions that correspond to most of the provisions of the old ASIC legislation. Generally, the only exceptions to this are provisions of the old ASIC legislation that related to the fact that the ASIC Law operated separately in each of the States and Territories (rather than as a single national law).
+
+             (2)  The object of this Part is also to provide for a smooth transition from the regime provided for in the old ASIC legislation of the Commonwealth to the regime provided for in the new ASIC legislation as if the new ASIC legislation (to the extent it contains provisions that correspond to provisions of the old ASIC legislation as in force immediately before the commencement) were a continuation of that old ASIC legislation as so applying.
+
+             (3)  In resolving any ambiguity as to the meaning of any of the other provisions of this Part, an interpretation that is consistent with the object of this Part is to be preferred to an interpretation that is not consistent with that object.
+
+##### <a id="254"></a>254  Definitions
+
+             (1)  In this Part:
+
+                    <a name="carri-provision"></a>**_carried over provision_** of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory means a provision of that legislation that:
+
+                     (a)  was in force immediately before the commencement; and
+
+                     (b)  corresponds to a provision of the new ASIC legislation.
+
+                    <a name="commenc"></a>**_commencement_** means the commencement of this Act.
+
+                    <a name="correspond"></a>**_corresponds_** has a meaning affected by subsections (2), (3) and (4).
+
+                    <a name="instrum"></a>**_instrument_** means:
+
+                     (a)  any instrument of a legislative character (including an Act or regulations) or of an administrative character; or
+
+                     (b)  any other document.
+
+                    <a name="liabil"></a>**_liability_** includes a duty or obligation.
+
+                    <a name="made"></a>**_made_** includes issued, given or published.
+
+                    <a name="new-asic-legisl"></a>**_new ASIC legislation_** means:
+
+                     (a)  this Act; and
+
+                     (b)  the new ASIC Regulations (as amended and in force from time to time) and any other regulations made under this Act; and
+
+                     (c)  the laws of the Commonwealth referred to in subparagraphs (a)(ii) and (b)(iii) of the definition of **_old ASIC legislation_**, being those laws as they apply after the commencement; and
+
+                     (d)  the preserved instruments.
+
+                    <a name="new-asic-regul"></a>**_new ASIC Regulations_** means the regulations that, because of section 264, have effect as if they were made under section 251 of this Act.
+
+                    <a name="old-applic-act"></a>**_old application Act_** for a State or the Northern Territory means:
+
+                     (a)  in the case of New South Wales—the _Corporations (New South Wales) Act 1990_ of New South Wales as in force from time to time before the commencement; or
+
+                     (b)  in the case of Victoria—the _Corporations (Victoria) Act 1990_ of Victoria as in force from time to time before the commencement; or
+
+                     (c)  in the case of Queensland—the _Corporations (Queensland) Act 1990_ of Queensland as in force from time to time before the commencement; or
+
+                     (d)  in the case of Western Australia—the _Corporations (Western Australia) Act 1990_ of Western Australia as in force from time to time before the commencement; or
+
+                     (e)  in the case of South Australia—the _Corporations (South Australia) Act 1990_ of South Australia as in force from time to time before the commencement; or
+
+                      (f)  in the case of Tasmania—the _Corporations (Tasmania) Act 1990_ of Tasmania as in force from time to time before the commencement; or
+
+                     (g)  in the case of the Northern Territory—the _Corporations (Northern Territory) Act 1990_ of the Northern Territory as in force from time to time before the commencement.
+
+                    <a name="old-asic-act"></a>**_old ASIC Act_** means the _Australian Securities and Investments Commission Act 1989_ as in force from time to time before the commencement.
+
+                    <a name="old-asic-law"></a>**_old ASIC Law_** of a State in this jurisdiction or the Northern Territory means the ASIC Law or ASC Law of the State or Territory (within the meaning of the application Act of the State or Territory as in force from time to time before the commencement).
+
+                    <a name="old-asic-legisl"></a>**_old ASIC legislation_** means:
+
+                     (a)  when used in relation to the Commonwealth—the following:
+
+                              (i)  the old ASIC Act and old ASIC Regulations, and any instruments made under that Act or those Regulations (including provisions as they had effect as the ASIC Law or ASIC Regulations of the Australian Capital Territory);
+
+                             (ii)  the laws of the Commonwealth as applying of their own force in relation to the old ASIC Act and old ASIC Regulations of the Commonwealth from time to time before the commencement, and any instruments made under those laws as so applying; and
+
+                     (b)  when used in relation to a State in this jurisdiction or the Northern Territory—the following:
+
+                              (i)  the old ASIC Law and old ASIC Regulations of the State or Territory, and any instruments made under that Law or those Regulations; and
+
+                             (ii)  the old application Act for the State or Territory, and any instruments made under that Act; and
+
+                            (iii)  the laws of the Commonwealth as they applied in relation to the old ASIC Law and the old ASIC Regulations of the State or Territory from time to time before the commencement as laws of, or for the government of, that State or Territory because of Part 8 or Division 6 of Part 11 of the old Application Act for that State or Territory, and any instruments made under those laws as so applying.
+
+                    <a name="old-asic-regul"></a>**_old ASIC Regulations_** means:
+
+                     (a)  when used in relation to the Commonwealth—the regulations made under section 251 or 252 of the old ASIC Act as in force from time to time before the commencement (including regulations as they had effect as the ASIC Regulations of the Australian Capital Territory); and
+
+                     (b)  when used in relation to a State in this jurisdiction or the Northern Territory—the ASIC Regulations or ASC Regulations of that State or Territory (within the meaning of the old application Act for the State or Territory) as in force from time to time before the commencement.
+
+                    <a name="old-corpor-legisl"></a>**_old corporations legislation_** has the meaning given by subsection 1371(1) of the _Corporations Act 2001_.
+
+                    <a name="order"></a>**_order_**, in relation to a court, includes any judgment, conviction or sentence of the court.
+
+                    <a name="pre-commenc-right-liabil"></a>**_pre‑commencement right or liability_** has the meaning given by subsection 276(1) or 277(1).
+
+                    <a name="preserv-instrum"></a>**_preserved instrument_** means an instrument that, because of section 275, has effect after the commencement as if it were made under a provision of the new ASIC legislation.
+
+                    <a name="right"></a>**_right_** includes an interest or status.
+
+                    <a name="substitut-right-liabil"></a>**_substituted right or liability_** has the meaning given by subsection 276(2) or 277(3).
+
+                    <a name="part"></a>**_this Part_** includes regulations made for the purposes of any of the provisions of this Part.
+
+             (2)  Subject to subsection (4), for the purposes of this Part, a provision or part (the **_old provision or part_**) of the old ASIC legislation of the Commonwealth, a State or the Northern Territory **_corresponds_** to a provision or part (the **_new provision or part_**) of the new ASIC legislation (and vice versa) if:
+
+                     (a)  the old provision or part and the new provision or part are substantially the same, unless the regulations specify that the 2 provisions or parts do not correspond; or
+
+                     (b)  the regulations specify that the 2 provisions or parts correspond.
+
+Note:          The range of provisions of the new ASIC legislation that may be corresponding provisions for the purposes of this Part is affected by sections 277 and 284, which take certain provisions of the old ASIC legislation to be included in the new ASIC legislation.
+
+             (3)  For the purposes of paragraph (2)(a), differences of all or any of the following kinds are not sufficient to mean that 2 provisions or parts are not substantially the same:
+
+                     (a)  differences in the numbering of the provisions or parts;
+
+                     (b)  differences of a minor technical nature (for example, differences in punctuation, or differences that are attributable to the correction of incorrect cross references);
+
+                     (c)  the fact that one of the provisions refers to a corresponding previous law, or a relevant previous law, and the other does not;
+
+                     (d)  other differences that are attributable to the fact that the new ASIC legislation applies as a Commonwealth law throughout Australia;
+
+                     (e)  other differences of a kind prescribed by the regulations for the purposes of this paragraph.
+
+This subsection is not intended to otherwise limit the circumstances in which 2 provisions or parts are, for the purposes of paragraph (2)(a), substantially the same.
+
+             (4)  The regulations may provide that a specified provision of the old ASIC legislation of the Commonwealth, a State or the Northern Territory does, or does not, correspond to a specified provision of the new ASIC legislation.
+
+##### <a id="255"></a>255  Relationship of Part with State validation Acts
+
+             (1)  This Part applies to an invalid administrative action of a Commonwealth authority or an officer of the Commonwealth (within the meaning of a State validation Act) as if the circumstances that made the authority’s or officer’s action an invalid administrative action had not made the action invalid.
+
+Note:          For the status and effect of invalid administrative actions in relation to times before the commencement, see the State validation Acts.
+
+             (2)  However, if there are other circumstances that affect or may affect the validity of the action, neither this section, nor anything else in this Part, is taken to negate the effect of those other circumstances.
+
+             (3)  If:
+
+                     (a)  a person would have had a right or liability under a provision (the **_old provision_**) of the old ASIC legislation of a State if the circumstances that made the authority’s or officer’s action an invalid administrative action (within the meaning of the State validation Act) of that State had not made the action invalid; and
+
+                     (b)  the effect of that State validation Act in relation to that action is to declare that the person has, and is taken always to have had, the same rights and liabilities as they would have had under the old provision if the invalid administrative action had been taken, or purportedly taken, at the relevant time by a duly authorised State authority or officer of the State (within the meaning of that Act);
+
+this Part applies as if:
+
+                     (c)  a reference to a right or liability arising under the old ASIC legislation included a reference to the right or liability that the person is declared to have by the State validation Act; and
+
+                     (d)  that right or liability arose under the old provision.
+
+             (4)  In this section:
+
+                    <a name="relev-function-power"></a><a name="state-valid-act"></a>**_State validation Act_** means an Act of a State in this jurisdiction under which certain administrative actions (within the meaning of that Act) taken, or purportedly taken, at or before the commencement by Commonwealth authorities or officers of the Commonwealth (within the meaning of that Act) pursuant to functions or powers (the **_relevant functions or powers_**) conferred, or purportedly conferred, by or under laws that include the old application Act for that State have, and are deemed always to have had, the same force and effect for all purposes as they would have had if:
+
+                     (a)  they had been taken, or purportedly taken by a State authority or officer of the State (within the meaning of that Act); and
+
+                     (b)  the relevant functions or powers had been duly conferred on those authorities or officers.
+
+##### <a id="256"></a>256  References to things taken or deemed to be the case etc.
+
+                   If:
+
+                     (a)  a law of a State or Territory in this jurisdiction had effect before the commencement:
+
+                              (i)  to take or deem something to have happened or to be the case, or to have a particular effect, under or for the purposes of the old ASIC legislation (or a provision of that legislation) of the Commonwealth, a State in this jurisdiction or the Northern Territory; or
+
+                             (ii)  to give something an effect for the purposes of the old ASIC legislation (or a provision of that legislation) that it would not otherwise have had; and
+
+                     (b)  that effect was continuing immediately before the commencement;
+
+this Part applies as if that thing had actually happened or were actually the case, or as if that thing actually had that other effect.
+
+##### <a id="257"></a>257  Existence of several versions of the old ASIC legislation does not result in this Part operating to take the same thing to be done several times under the new ASIC legislation etc.
+
+                   If, apart from this section, a provision of this Part (the **_transitional provision_**) would, because the Commonwealth, each State in this jurisdiction and the Northern Territory had its own old ASIC legislation (containing parallel provisions) before the commencement, operate so that:
+
+                     (a)  a particular thing done before the commencement would be taken to be done, or have effect, 2 or more times by, under, or for the purposes of, a provision of the new ASIC legislation; or
+
+                     (b)  a right or liability would be created 2 or more times in respect of a particular event, circumstance or thing that happened before the commencement; or
+
+                     (c)  a particular result or effect would be produced 2 or more times for the purposes of the new ASIC legislation in relation to the same matter;
+
+the transitional provision is taken to operate so that:
+
+                     (d)  if paragraph (a) applies—the thing is taken to be done or have effect only once by, under, or for the purposes of the provision of, the new ASIC legislation; or
+
+                     (e)  if paragraph (b) applies—the right or liability is created only once in respect of the event, circumstance or thing; or
+
+                      (f)  if paragraph (c) applies—the result or effect is produced only once in relation to the matter.
+
+##### <a id="258"></a>258  Penalty units in respect of pre‑commencement conduct remain at $100
+
+             (1)  If, because of this Part, an offence can be prosecuted after the commencement in respect of conduct that occurred before the commencement, the amount of a penalty unit in respect of that offence is $100.
+
+             (2)  This section has effect despite section 4AA of the _Crimes Act 1914_.
+
+##### <a id="259"></a>259  Ceasing to be a referring State does not affect previous operation of this Part
+
+                   If, after the commencement, a State ceases to be a referring State, that does not undo or affect:
+
+                     (a)  the effects that this Part has already had in relation to matters connected with that State; or
+
+                     (b)  the ongoing effect of this Act as it operates because of the effects referred to in paragraph (a).
+
+### Division 2—Carrying over bodies established etc. or persons appointed under the old ASIC Act
+
+##### <a id="260"></a>260  Division has effect subject to Division 7 regulations
+
+                   This Division has effect subject to regulations made for the purposes of Division 7.
+
+##### <a id="261"></a>261  Carrying over bodies established under the old ASIC Act
+
+                   A body that was established under the old ASIC Act continues in existence as if it had been established under this Act.
+
+##### <a id="262"></a>262  Carrying over the Chairman and Deputy Chairman of the Financial Reporting Council
+
+             (1)  A member of the FRC who was Chairman of the FRC immediately before the commencement continues as if he or she had been appointed as Chair of the FRC under this Act.
+
+             (2)  A member of the FRC who was Deputy Chairman of the FRC immediately before the commencement continues as if he or she had been appointed as Deputy Chair of the FRC under this Act.
+
+### Division 3—Carrying over the old ASIC Regulations
+
+##### <a id="263"></a>263  Division has effect subject to Division 7 regulations
+
+                   This Division has effect subject to regulations made for the purposes of Division 7.
+
+##### <a id="264"></a>264  Old ASIC Regulations continue to have effect
+
+                   The old ASIC Regulations that were made for the purposes of provisions of the old ASIC Act that correspond to provisions of this Act and that were in force immediately before the commencement continue to have effect (and may be dealt with) after the commencement as if:
+
+                     (a)  they were regulations in force under section 251 of this Act; and
+
+                     (b)  they were made for the purposes of the corresponding provisions of this Act.
+
+### Division 4—Court proceedings and orders
+
+##### <a id="265"></a>265  Division has effect subject to Division 7 regulations
+
+                   This Division has effect subject to regulations made for the purposes of Division 7.
+
+##### <a id="266"></a>266  Definitions
+
+             (1)  In this Division:
+
+                    <a name="appeal-review-proceing"></a>**_appeal or review proceeding_**, in relation to an order of a court, means a proceeding by way of appeal, or otherwise seeking review, of the order.
+
+                    <a name="enforc-proceing"></a>**_enforcement proceeding_**, in relation to an order made by a court, means:
+
+                     (a)  a proceeding to enforce the order; or
+
+                     (b)  any other proceeding in respect of a breach of the order.
+
+                    <a name="feral-asic-proceing"></a>**_federal ASIC proceeding_** means a proceeding of any of the following kinds that, immediately before the commencement, was before a court:
+
+                     (a)  a proceeding in respect of a matter arising under the _Administrative Decisions (Judicial Review) Act 1977_ involving or related to a decision made under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory;
+
+                     (b)  a proceeding in respect of a matter arising under Division 2 of Part 2 of the old ASIC Act;
+
+                     (c)  a proceeding for a writ of mandamus or prohibition, or an injunction, against an officer or officers of the Commonwealth (within the meaning of section 75 of the Constitution) in relation to a matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied;
+
+                    (ca)  a proceeding in relation to a matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied:
+
+                              (i)  in which the Commonwealth was seeking an injunction or a declaration; or
+
+                             (ii)  to which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, was a party;
+
+                   (cb)  any other proceeding in relation to a matter to which a provision of the old ASIC legislation of a State in this jurisdiction applied that was in the exercise of federal jurisdiction;
+
+                    (cc)  any other proceeding in relation to a matter to which a provision of the old ASIC legislation of the Northern Territory applied that would be covered by paragraph (cb) if the Northern Territory had been a State;
+
+                   (cd)  any other proceeding under the old ASIC legislation of the Commonwealth that was in the exercise of federal jurisdiction;
+
+                     (d)  a proceeding in the court’s accrued federal jurisdiction in relation to a matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied.
+
+                    <a name="interlocutori-applic"></a>**_interlocutory application_** means an application that:
+
+                     (a)  is made during the course of a proceeding; and
+
+                     (b)  is for an order that is incidental to the principal object of that proceeding, including, for example:
+
+                              (i)  an order about the conduct of that proceeding; or
+
+                             (ii)  an order assisting a party to that proceeding to present their case in that proceeding; or
+
+                            (iii)  an order protecting or otherwise dealing with property that is the subject matter of that proceeding;
+
+                            but not including an order making a final determination of existing rights or liabilities.
+
+                    <a name="interlocutori-order"></a>**_interlocutory order_** means:
+
+                     (a)  an order made in relation to an interlocutory application; or
+
+                     (b)  an order or direction about the conduct of a proceeding.
+
+                    <a name="interlocutori-proceing"></a>**_interlocutory proceeding_** means a proceeding:
+
+                     (a)  dealing only with; or
+
+                     (b)  to the extent it deals with;
+
+an interlocutory application.
+
+                    <a name="primari-proceing"></a>**_primary proceeding_** means a proceeding other than an interlocutory proceeding.
+
+                    <a name="proceing"></a>**_proceeding_** means a proceeding, whether criminal or civil, before a court.
+
+             (2)  For the purposes of this Part, if an interlocutory proceeding relates to a proceeding that is itself an interlocutory proceeding, the first‑mentioned proceeding is taken to relate also to the primary proceeding to which the second‑mentioned proceeding relates.
+
+##### <a id="267"></a>267  Treatment of court proceedings under or related to the old ASIC legislation—proceedings other than federal ASIC proceedings
+
+             (1)  This section applies to a proceeding, other than a federal ASIC proceeding, in relation to which the following paragraphs are satisfied:
+
+                     (a)  the proceeding was started in a court before the commencement; and
+
+                     (b)  the proceeding was:
+
+                              (i)  under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; or
+
+                             (ii)  brought as, or connected with, a prosecution for an offence against a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; and
+
+                     (c)  the proceeding was not an enforcement proceeding, or an appeal or review proceeding, in relation to an order of a court; and
+
+                     (d)  the proceeding had not been concluded or terminated before the commencement; and
+
+                     (e)  either:
+
+                              (i)  if the proceeding is a primary proceeding—no final determination of any of the existing rights or liabilities at issue in the proceeding had been made before the commencement; or
+
+                             (ii)  if the proceeding is an interlocutory proceeding—this section applies to the primary proceeding to which the interlocutory proceeding relates.
+
+             (2)  In this section:
+
+                     (a)  the proceeding to which this section applies is called the **_old proceeding_**; and
+
+                     (b)  the provision of the old ASIC legislation referred to in whichever of subparagraphs (1)(b)(i) and (ii) applies is called the **_relevant old provision_**.
+
+             (3)  A proceeding (the **_new proceeding_**) equivalent to the old proceeding is, on the commencement, taken to have been brought in the same court, exercising federal jurisdiction:
+
+                     (a)  if subparagraph (1)(b)(i) applies—under the provision of the new ASIC legislation that corresponds to the relevant old provision; or
+
+                     (b)  if subparagraph (1)(b)(ii) applies—as, or connected with, a prosecution for an offence against the provision of the new ASIC legislation that corresponds to the relevant old provision.
+
+To the extent that the old proceeding, before the commencement, related to pre‑commencement rights or liabilities, the new proceeding relates to the substituted rights and liabilities in relation to those pre‑commencement rights and liabilities.
+
+Note 1:       See sections 276 and 277 for the creation of the substituted rights and liabilities.
+
+Note 2:       In all cases, there will be a provision of the new ASIC legislation that corresponds to the relevant old provision, either because:
+
+(a)    the new ASIC legislation actually contains a provision that corresponds to the relevant old provision; or
+
+(b)    the new ASIC legislation, because of section 277 or 284, is taken to include the relevant old provision (whether with or without modifications), in which case the provision so taken to be included will be the corresponding provision.
+
+             (4)  The following provisions apply in relation to the new proceeding:
+
+                     (a)  the parties to the new proceeding are the same as the parties to the old proceeding;
+
+                     (b)  subject to subsections (5) and (6), and to any order to the contrary made by the court, the court must deal with the continued proceeding as if the steps that had been taken for the purposes of the old proceeding before the commencement had been taken for the purposes of the new proceeding.
+
+             (5)  If:
+
+                     (a)  an interlocutory order was made before the commencement for the purpose of, or in relation to, the old proceeding; and
+
+                     (b)  that interlocutory order was in force immediately before the commencement;
+
+the rights and liabilities of all persons (including rights and liabilities arising wholly or partly because of conduct occurring before the commencement) are declared to be, for all purposes, the same as if the interlocutory order had instead been made by the same court, in the exercise of federal jurisdiction, for the purpose of, or in relation to, the new proceeding.
+
+             (6)  The court may make orders doing all or any of the following:
+
+                     (a)  cancelling or varying rights or liabilities that a person has because of subsection (5);
+
+                     (b)  substituting other rights or liabilities for rights or liabilities a person has because of subsection (5);
+
+                     (c)  adding rights or liabilities to the rights or liabilities a person has because of subsection (5);
+
+                     (d)  enforcing, or otherwise dealing with conduct contrary to, a right or liability a person has because of subsection (5) in the same way as it could enforce, or deal with, the right, liability or conduct if the right or liability had arisen under or because of an order made by the court in the exercise of federal jurisdiction under the new ASIC legislation.
+
+##### <a id="268"></a>268  Treatment of court proceedings under or related to the old ASIC legislation—federal ASIC proceedings
+
+             (1)  This section applies to a proceeding in relation to which the following paragraphs are satisfied:
+
+                     (a)  the proceeding was started in a court before the commencement; and
+
+                     (b)  the proceeding was a federal ASIC proceeding that related to a matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied; and
+
+                     (c)  the proceeding had not been concluded or terminated before the commencement.
+
+             (2)  In this section:
+
+                     (a)  the proceeding to which this section applies is called the **_continued proceeding_**; and
+
+                     (b)  the provision of the old ASIC legislation referred to in paragraph (1)(b) is called the **_relevant old provision_**.
+
+             (3)  Subject to subsection (4):
+
+                     (a)  the continued proceeding continues after the commencement in the same court as if it were, and always had been, a proceeding in relation to a matter to which the provision of the new ASIC legislation that corresponds to the relevant old provision applies; and
+
+                     (b)  to the extent that the proceeding, before the commencement, related to pre‑commencement rights or liabilities, the proceeding, as continued, relates, and is taken always to have related, to the substituted rights and liabilities in relation to those pre‑commencement rights and liabilities.
+
+Note 1:       See sections 276 and 277 for the creation of substituted rights and liabilities.
+
+Note 2:       In all cases, there will be a provision of the new ASIC legislation that corresponds to the relevant old provision, either because:
+
+(a)    the new ASIC legislation actually contains a provision that corresponds to the relevant old provision; or
+
+(b)    the new ASIC legislation, because of section 277 or 284, is taken to include the relevant old provision (whether with or without modifications), in which case the provision so taken to be included will be the corresponding provision.
+
+             (4)  Subject to any order to the contrary made by the court, the court must deal with the continued proceeding as if:
+
+                     (a)  the steps that had been taken for the purposes of the proceeding before the commencement had been taken for the purpose of the proceeding as continued by this section; and
+
+                     (b)  any orders made in relation to the proceeding before the commencement had been made in relation to the proceeding as continued by this section.
+
+##### <a id="268A"></a>268A  Appeals etc. in relation to some former federal corporations proceedings
+
+             (1)  This section applies to a proceeding in relation to which all of the following paragraphs are satisfied:
+
+                     (a)  the proceeding was started in a court before the commencement;
+
+                     (b)  the proceeding was a federal ASIC proceeding that related to matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied;
+
+                     (c)  the proceeding had been concluded or terminated before the commencement.
+
+             (2)  A decision or order made in the proceeding may be appealed against, or otherwise reviewed, as if it had been made in a proceeding that related to a matter to which a provision of this Act applied.
+
+             (3)  An order made in the proceeding may be enforced as if it had been made in a proceeding that related to a matter to which a provision of this Act applied.
+
+##### <a id="268B"></a>268B  Effect of decisions and orders made in federal corporations proceedings before commencement
+
+             (1)  For the avoidance of doubt, if:
+
+                     (a)  a proceeding was started in a court before the commencement; and
+
+                     (b)  the proceeding was a federal ASIC proceeding that related to matter to which a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory applied; and
+
+                     (c)  a decision was made or an order given in the proceeding before the commencement;
+
+the decision or order continues to have effect after the commencement despite the provision of the old ASIC legislation ceasing to have effect.
+
+             (2)  This section does not limit the operation of section 268 in relation to the decision or order.
+
+##### <a id="269"></a>269  References to proceedings and orders in the new ASIC legislation
+
+             (1)  Subject to subsection (5), a reference in the new ASIC legislation to the taking of a proceeding, or a step in a proceeding, in a court under or in relation to a part or provision of the new ASIC legislation includes a reference to the taking of a proceeding, or the equivalent step in a proceeding:
+
+                     (a)  before the commencement under or in relation to the corresponding part or provision of the old ASIC legislation of the Commonwealth, a State or the Northern Territory; or
+
+                     (b)  after the commencement under or in relation to the corresponding part or provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory, as that legislation continues to have effect after the commencement.
+
+             (2)  Subject to subsections (3), (4) and (5), a reference in the new ASIC legislation to an order made by a court under or in relation to a part or provision of the new ASIC legislation includes a reference to an order made:
+
+                     (a)  before the commencement under or in relation to the corresponding part or provision of the old ASIC legislation of the Commonwealth, a State or the Northern Territory; or
+
+                     (b)  after the commencement under or in relation to the corresponding part or provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory, as that legislation continues to have effect after the commencement.
+
+             (3)  Nothing in subsection (2) is taken to produce a result that would:
+
+                     (a)  make a person liable, under the new ASIC legislation, to any penalty (whether civil or criminal) provided for in an order referred to in paragraph (2)(a) or (b); or
+
+                     (b)  enable an enforcement proceeding, or an appeal or review proceeding, in relation to such an order to be taken in a court under the new ASIC legislation; or
+
+                     (c)  enable proceedings by way of appeal, or other review, of such an order to be taken in a court under the new ASIC legislation.
+
+             (4)  If, after the commencement, an order referred to in paragraph (2)(a) or (b) is varied or set aside on appeal or review, subsection (2) applies, or is taken to have applied, from the time from which the variation or setting aside takes or took effect, as if:
+
+                     (a)  if the order is varied—the order had been made as so varied; or
+
+                     (b)  if the order is set aside—the order had not been made.
+
+             (5)  The regulations may provide that subsection (1) or (2) does not apply in relation to a particular reference or class of references in the new ASIC legislation.
+
+### Division 5—Functions and powers of ASIC
+
+##### <a id="270"></a>270  Division has effect subject to Division 7 regulations
+
+                   This Division has effect subject to regulations made for the purposes of Division 7.
+
+##### <a id="271"></a>271  Non‑federal proceedings etc.
+
+             (1)  ASIC has the functions and powers in relation to a non‑federal proceeding that are expressed to be conferred on it by or under a law of the Commonwealth or the Northern Territory.
+
+             (2)  ASIC also has the functions and powers in relation to a non‑federal proceeding that are expressed to be conferred on it by or under a law of a State in this jurisdiction. However, ASIC:
+
+                     (a)  is not subject to any directions in the performance of such functions or the exercise of such powers; and
+
+                     (b)  is not under a duty to perform such functions or exercise such powers.
+
+             (3)  If a Minister of a State or Territory appoints a person to bring or continue a non‑federal proceeding in the State or Territory, ASIC may give the person any information and documents that ASIC has in relation to the proceeding.
+
+             (4)  In this section:
+
+                    <a name="appeal-review-proceing"></a>**_appeal or review proceeding_** has the same meaning as in section 266.
+
+                    <a name="enforc-proceing"></a>**_enforcement proceeding_** has the same meaning as in section 266.
+
+                    <a name="non-feral-proceing"></a>**_non‑federal proceeding_** means:
+
+                     (a)  a proceeding in relation to which paragraphs 267(1)(a), (b) and (d) are satisfied but paragraph 267(1)(e) is not satisfied; or
+
+                    (aa)  a proceeding in relation to which paragraphs 1383(1)(a), (b) and (d) of the _Corporations Act 2001_ are satisfied but paragraph 1383(1)(e) of that Act is not satisfied;
+
+                     (b)  an enforcement proceeding, or an appeal or review proceeding, in relation to an order of a court made before the commencement in relation to a proceeding that was:
+
+                              (i)  under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; or
+
+                            (ia)  under a provision of the old corporations legislation of a State or Territory in this jurisdiction; or
+
+                             (ii)  brought as, or connected with, a prosecution for an offence against a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; or
+
+                            (iii)  brought as, or connected with, a prosecution for an offence against a provision of the old corporations legislation of a State or Territory in this jurisdiction; or
+
+                     (c)  an enforcement proceeding, or an appeal or review proceeding, in relation to an order of a court made after the commencement in relation to a proceeding referred to in paragraph (a) or (aa).
+
+##### <a id="272"></a>272  NCSC’s functions and powers
+
+             (1)  ASIC has the functions and powers expressed to be conferred on the NCSC by or under any Act, as in force immediately before the commencement, that was a relevant Act for the purposes of the _Companies and Securities (Interpretation and Miscellaneous Provisions) Act 1980_ as in force immediately before the commencement.
+
+             (2)  ASIC also has the functions and powers expressed to be conferred on the NCSC by or under any law, as in force immediately before the commencement, of a State or the Northern Territory that corresponds to an Act that was a relevant Act for the purposes of the _Companies and Securities (Interpretation and Miscellaneous Provisions) Act 1980_ as in force immediately before the commencement. However, ASIC:
+
+                     (a)  is not subject to any directions in the performance of such functions or the exercise of such powers; and
+
+                     (b)  is not under a duty to perform such functions or exercise such powers.
+
+### Division 6—General transitional provisions relating to other things done etc. under the old ASIC legislation
+
+##### <a id="273"></a>273  Provisions in this Division have effect subject to the other Divisions
+
+             (1)  This Division has effect subject to:
+
+                     (a)  the provisions of Divisions 2, 3, 4 and 5 (which deal with matters in more specific terms); and
+
+                     (b)  regulations made for the purposes of Division 7.
+
+             (2)  Nothing in this Division applies to:
+
+                     (a)  an order made by a court before the commencement; or
+
+                     (b)  a right or liability under an order made by a court before the commencement; or
+
+                     (c)  a right to:
+
+                              (i)  appeal to a court against an order made by a court before the commencement; or
+
+                             (ii)  apply to a court for review of such an order; or
+
+                            (iii)  bring an appeal or review proceeding, or an enforcement proceeding, within the meaning of section 266, in respect of such an order; or
+
+                     (d)  a proceeding taken (including an appeal, review or enforcement proceeding) in a court before the commencement, or a step in such a proceeding.
+
+Note:          Division 4 deals with court orders and proceedings made or begun before the commencement, and with related matters.
+
+             (3)  Except as mentioned in subsections (1) and (2), nothing in Division 2, 3, 4 or 5, or in regulations made for the purposes of Division 7, is intended to limit the generality of the provisions in this Division.
+
+##### <a id="274"></a>274  Provisions of this Division may have an overlapping effect
+
+                   The provisions of this Division deal at a broad level with concepts and matters in a way that is intended to achieve the object of this Part as set out in section 253\. Some of the provisions of this Division will (depending on the situation) have an effect that overlaps or interacts to some extent with the effect of other provisions of this Division. This is intended, and the provisions of this Division should be not be regarded as dealing with mutually exclusive situations.
+
+##### <a id="275"></a>275  Things done by etc. carried over provisions continue to have effect
+
+             (1)  Subject to this section, a thing that:
+
+                     (a)  was done before the commencement by, under, or for the purposes of, a carried over provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; and
+
+                     (b)  had an ongoing significance (see subsections (4) and (5)) immediately before the commencement for the purposes of that legislation;
+
+has effect (and may be dealt with) after the commencement, for the purposes of the new ASIC legislation, as if it were done by, under, or for the purposes of, the corresponding provision of the new ASIC legislation.
+
+Note:          This section covers all kinds of things done, including things of a coercive nature or done for coercive purposes.
+
+             (2)  Examples of things done include:
+
+                     (a)  the making of an instrument or order (but not including the making of an order by a court); and
+
+                     (b)  the making of an application or claim (but not including the making of an application or claim to a court); and
+
+                     (c)  the granting of an application or claim (but not including the granting of an application or claim by a court); and
+
+                     (d)  the making of an appointment or delegation; and
+
+                     (e)  the commencement of a procedure or the taking of a step in a procedure (including an investigation, but not including the commencement of a proceeding in a court); and
+
+                      (f)  the making of an agreement; and
+
+                     (g)  requiring a person to do, or not to do, something (but not including a requirement contained in an order made by a court); and
+
+                     (h)  the giving of a notice or document.
+
+             (3)  The examples in subsection (2) are not intended to limit the generality of the language of subsection (1).
+
+             (4)  Subject to subsection (5), for the purposes of this section, a thing done by, under, or for the purposes of, a carried over provision of the old ASIC legislation of the Commonwealth, a State or the Northern Territory had an **_ongoing significance_** immediately before the commencement for the purposes of that legislation if:
+
+                     (a)  if the thing done was the making of an instrument or order—the instrument or order was still in force immediately before the commencement; or
+
+                     (b)  if the thing done was the making of an application or claim—the application or claim had not been decided, and had not otherwise ceased to have effect, before the commencement; or
+
+                     (c)  if the thing done was the granting of an application or claim—the thing granted had not been revoked, and had not otherwise ceased to have effect, before the commencement; or
+
+                     (d)  if the thing done was the making of an appointment or delegation—the appointment or delegation had not been revoked, and had not otherwise ceased to have effect, before the commencement; or
+
+                     (e)  if the thing done was the commencement of a procedure or the taking of a step in a procedure—the procedure was still in progress immediately before the commencement or was otherwise still having an effect; or
+
+                      (f)  if the thing done was the making of an agreement—the agreement was still in force immediately before the commencement; or
+
+                     (g)  if the thing done was requiring a person to do, or not to do something—the requirement was still in force immediately before the commencement; or
+
+                     (h)  if the thing done was the giving of a notice or document, or the doing of some other thing—the notice or document (or the giving of the notice or document), or the thing (or the doing of the thing), had an ongoing effect or significance immediately before the commencement for the purposes of the old ASIC legislation of the Commonwealth, the State or the Northern Territory.
+
+             (5)  The regulations may provide that a specified thing done by, under, or for the purposes of, a carried over provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory did, or did not, have an ongoing significance immediately before the commencement for the purposes of that legislation.
+
+##### <a id="276"></a>276  Creation of equivalent rights and liabilities to those that existed before the commencement under carried over provisions of the old ASIC legislation
+
+             (1)  This section applies in relation to a right or liability (the **_pre‑commencement right or liability_**), whether civil or criminal, that:
+
+                     (a)  was acquired, accrued or incurred under a carried over provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; and
+
+                     (b)  was in existence immediately before the commencement.
+
+However, this section does not apply to a right or liability under an order made by a court before the commencement.
+
+             (2)  On the commencement, the person acquires, accrues or incurs a right or liability (the **_substituted right or liability_**), equivalent to the pre‑commencement liability, under the corresponding provision of the new ASIC legislation (as if that provision applied to the conduct or circumstances that gave rise to the pre‑commencement right or liability.
+
+Note:          If a time limit applied in relation to the pre‑commencement right or liability under the old ASIC legislation, that same time limit (calculated from the same starting point) will apply under the new ASIC legislation to the substituted right or liability—see subsection 278(3).
+
+             (3)  A procedure, proceeding or remedy in respect of the right or liability may be instituted after the commencement under the new ASIC legislation (as if that provision applied to the conduct or circumstances that gave rise to the pre‑commencement right or liability).
+
+Note:          For pre‑commencement proceedings in respect of substituted rights and liabilities, see sections 267 and 268.
+
+##### <a id="277"></a>277  Creation of equivalent rights and liabilities to those that existed before the commencement under repealed provisions of the old ASIC legislation
+
+             (1)  This section applies to a right or liability (the **_pre‑commencement right or liability_**), whether civil or criminal, that:
+
+                     (a)  was acquired, accrued or incurred under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory that was no longer in force immediately before the commencement; and
+
+                     (b)  was in existence immediately before the commencement.
+
+However, this section does not apply to a right or liability under an order made by a court before the commencement.
+
+             (2)  For the purposes of subsections (3) and (4), the new ASIC legislation is taken to include:
+
+                     (a)  the provision of the old ASIC legislation (with such modifications (if any) as are necessary) under which the right or liability was acquired, accrued or incurred; and
+
+                     (b)  the other provisions of the old ASIC legislation (with such modifications (if any) as are necessary) that applied in relation to the right or liability.
+
+             (3)  On the commencement, the person acquires, accrues or incurs a right or liability (the **_substituted right or liability_**), equivalent to the pre‑commencement right or liability, under the provision taken to be included in the new ASIC legislation by paragraph (2)(a) (as if that provision applied to the conduct or circumstances that gave rise to the pre‑commencement right or liability).
+
+Note:          If a time limit applied in relation to the pre‑commencement right or liability under the old ASIC legislation, that same time limit (calculated from the same starting point) will apply under the new ASIC legislation to the substituted right or liability—see subsection 278(3).
+
+             (4)  A procedure, proceeding or remedy in respect of the right or liability may be instituted after the commencement under the provisions taken to be included in the new ASIC legislation by subsection (2) (as if those provisions applied to the conduct or circumstances that gave rise to the pre‑commencement right or liability).
+
+Note:          For pre‑commencement proceedings in respect of substituted rights and liabilities, see sections 267 and 268.
+
+##### <a id="278"></a>278  Old ASIC legislation time limits continue to run
+
+             (1)  An old ASIC legislation time limit (see subsection (4)):
+
+                     (a)  the starting point of which:
+
+                              (i)  was known or had been determined before the commencement (whether that starting point occurred or would occur before, on or after the commencement); or
+
+                             (ii)  would have become known, or have been determined, after the commencement if the old ASIC legislation had continued to apply (whether that starting point would have occurred before, on or after the commencement); and
+
+                     (b)  that had not ended at or before the commencement;
+
+continues to run, or starts or started to run, as if that same time limit (starting from the same starting point) were applicable under the new ASIC legislation.
+
+             (2)  If:
+
+                     (a)  under the old ASIC legislation, a process, a status of a person or body, or an instrument, commenced from a particular time before the commencement; and
+
+                     (b)  that process, status or instrument is continued after the commencement for the purposes of the new ASIC legislation by a provision of this Part;
+
+that process, status or instrument as so continued is still taken to have commenced from the time referred to in paragraph (a).
+
+             (3)  If an old ASIC legislation time limit related to a pre‑commencement right or liability, the same time limit applies in relation to the substituted right or liability.
+
+             (4)  In this section:
+
+                    <a name="old-asic-legisl-time-limit"></a>**_old ASIC legislation time limit_** includes:
+
+                     (a)  a period for the doing of a thing specified or determined under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; or
+
+                     (b)  a period specified or determined under a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory as the duration of a particular instrument or status.
+
+##### <a id="279"></a>279  Preservation of significance etc. of events or circumstances
+
+             (1)  An event, circumstance or other thing:
+
+                     (a)  that occurred or arose before the commencement under or as mentioned in a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory; and
+
+                     (b)  that had a particular significance, status or effect for the purposes of a carried over provision of that legislation (including because of an interpretative provision);
+
+has that same significance after the commencement for the purposes of the provision of the new ASIC legislation that corresponds to that carried over provision.
+
+             (2)  Without limiting subsection (1), an event, circumstance or other thing has a particular significance for the purposes of a carried over provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory if:
+
+                     (a)  the carried over provision creates an obligation in respect of the event, circumstance or thing (whenever it arose); or
+
+                     (b)  the carried over provision provides for the event, circumstance or thing to be dealt with in a particular way; or
+
+                     (c)  the carried over provision states that the event, circumstance or thing (whenever it arose) is to be disregarded for the purposes of that provision or not covered by that provision.
+
+##### <a id="280"></a>280  References in the new ASIC legislation generally include references to events, circumstances or things that happened or arose before the commencement
+
+             (1)  Subject to this section, a reference in the new ASIC legislation to an event, circumstance or thing of a particular kind that happens or arises, or that has happened or arisen, is taken to include a reference to an event, circumstance or thing of that kind that happened or arose at a time before the commencement, unless the contrary intention appears. The fact that the provision uses only the present tense in referring to an event, circumstance or thing is not, of itself, to be regarded as an expression of a contrary intention.
+
+             (2)  Nothing in subsection (1) is taken to produce a result that a right or liability exists under a provision of the new ASIC legislation that relates solely to events, circumstances or things that occurred before the commencement.
+
+Note:          Instead, an equivalent right or liability will be created by section 276 or 277.
+
+             (3)  The regulations may provide that subsection (1) does not apply in relation to a particular reference or class of references in the new ASIC legislation.
+
+##### <a id="281"></a>281  References in the new ASIC legislation to that legislation or the new corporations legislation generally include references to corresponding provisions of the old ASIC legislation or old corporations legislation
+
+             (1)  Subject to subsection (4), a reference in the new ASIC legislation to:
+
+                     (a)  an Act, or to regulations or another instrument that is part of the new ASIC legislation; or
+
+                     (b)  a provision or group of provisions of such an Act, regulations or other instrument;
+
+is taken, in relation to events, circumstances or things that happened or arose at a time before the commencement when the old ASIC legislation was in force, to include (in the absence of an express provision to the contrary) a reference to the corresponding part, provision or provisions of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory.
+
+             (2)  Subject to subsection (4), a reference in the new ASIC legislation to:
+
+                     (a)  an Act, or to regulations or some other instrument that is part of the new corporations legislation; or
+
+                     (b)  a provision or group of provisions of such an Act, regulations or other instrument;
+
+is taken, in relation to events, circumstances or things that happened or arose at a time before the commencement when the old corporations legislation was in force, to include (in the absence of an express provision to the contrary) a reference to the corresponding part, provision or provisions of the old corporations legislation of the States and Territories in this jurisdiction.
+
+             (3)  In subsection (2):
+
+                     (a)  **_new corporations legislation_** and **_old corporations legislation_** have the same meanings as they have in Part 10.1 of the Corporations Act; and
+
+                     (b)  the question whether a provision or part of the old corporations legislation corresponds to a provision of part of the new corporations legislation is to be determined in the same way as it is determined for the purposes of Part 10.1 of the Corporations Act.
+
+             (4)  The regulations may provide that subsection (1) or (2) does not apply in relation to a particular reference or class of references in the new ASIC legislation.
+
+##### <a id="282"></a>282  Carrying over references to corresponding previous laws or relevant previous laws
+
+             (1)  If a carried over provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory contained a reference (whether in its own terms or by operation of another provision) to:
+
+                     (a)  a corresponding previous law (as defined for the purposes of that provision or provisions including that provision), or a thing done by, under, or for the purposes of, such a law; or
+
+                     (b)  a relevant previous law (as defined for the purposes of that provision or provisions including that provision), or a thing done by, under, or for the purposes of, such a law;
+
+the corresponding provision of the new ASIC legislation is taken to contain an equivalent reference to that previous law, or to such a thing done by, under, or for the purposes of, that previous law.
+
+             (2)  The following references in the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory are covered by subsection (1) in the same way as they would be if they used the “corresponding previous law” form of words:
+
+                     (a)  the reference in section 15 to a “previous law corresponding to”;
+
+                     (b)  any other references prescribed by the regulations for the purposes of this subsection.
+
+##### <a id="283"></a>283  References to ASIC legislation in instruments
+
+             (1)  Subject to subsection (2), a reference in, or taken immediately before the commencement to be in, an instrument, other than:
+
+                     (a)  an Act of a State, the Australian Capital Territory, the Northern Territory or Norfolk Island; or
+
+                     (b)  an instrument made under such an Act;
+
+to:
+
+                     (c)  an Act, or to regulations or some other instrument, that is part of the old ASIC legislation (whether the reference is in general terms or in relation to the Commonwealth, or a particular State or Territory in this jurisdiction); or
+
+                     (d)  to a provision or group of provisions of such an Act, regulations or other instrument;
+
+is taken, after the commencement, to include a reference to the corresponding part, provision or provisions of the new ASIC legislation (unless there is no such corresponding part, provision or provisions).
+
+Note:          In this Part, **_instrument_** means an instrument of a legislative or administrative character (see the definition in section 254), or any other document.
+
+             (2)  The regulations may do either or both of the following:
+
+                     (a)  provide that subsection (1) does not apply in relation to prescribed references in prescribed instruments;
+
+                     (b)  provide that subsection (1) has effect in relation to prescribed references in prescribed instruments as if, in that subsection, the words “to be” were substituted for the words “to include”.
+
+##### <a id="284"></a>284  Old transitional provisions continue to have their effect
+
+             (1)  Subject to subsection (3), this Act has the same effect, after the commencement, as it would have if:
+
+                     (a)  the transitional provisions (see subsections (6) and (7)) of the old ASIC Act, the old ASIC Law of the States in this jurisdiction and the old ASIC Law of the Northern Territory (as in force from time to time before the commencement) had been part of this Act; and
+
+                     (b)  those transitional provisions produced the same results or effects (to the greatest extent possible) for the purposes of this Act as they produced for the purposes of that Act and those Laws.
+
+             (2)  Without limiting subsection (1) (but subject to subsection (3)), if a transitional provision of the old ASIC Act, the old ASIC Law of the States in this jurisdiction or the old ASIC Law of the Northern Territory could, if it had continued in force after the commencement, have operated to give rise to rights and liabilities (including civil or criminal liabilities) in relation to acts or omissions occurring after the commencement, this Act is taken to include that transitional provision (with such modifications (if any) as are necessary).
+
+Note:          In relation to acts or omissions that occurred before the commencement, equivalent rights or liabilities are created by sections 276 and 277.
+
+             (3)  The regulations may determine how a matter dealt with in a transitional provision of the old ASIC Act, the old ASIC Law of the States in this jurisdiction or the old ASIC Law of the Northern Territory is to be dealt with under or in relation to the new ASIC legislation (including by creating offences). The regulations have effect despite subsections (1) and (2), but subject to subsection (5).
+
+Note:          In creating offences, the regulations are subject to the limitation imposed by section 258.
+
+             (4)  For the purpose of determining whether the new ASIC legislation includes a provision that corresponds to a provision of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory, and for the purpose of any reference in this Part to a corresponding provision of the new ASIC legislation, this Act is taken to include the transitional provisions of the old ASIC legislation of the Commonwealth, a State in this jurisdiction or the Northern Territory, as they have effect because of subsections (1) and (2).
+
+             (5)  Nothing in subsection (1) or (2), or in regulations made for the purposes of subsection (3), is taken to produce a result that a right or liability exists under a transitional provision as it has effect because of subsection (1) or (2), or exists under regulations made for the purposes of subsection (3), that relates solely to events, circumstances or things that occurred before the commencement.
+
+Note:          Instead, an equivalent right or liability will be created by section 276 or 277.
+
+             (6)  Subject to subsection (7), for the purposes of this section, a **_transitional provision_** is any of the following provisions of the old ASIC Act, the old ASIC Law of the States in this jurisdiction and the old ASIC Law of the Northern Territory:
+
+                     (a)  section 12AB;
+
+                     (b)  subsection 12GL(2);
+
+                     (c)  section 12IA;
+
+                     (d)  subsection 13(3);
+
+                     (e)  subsection 13(5);
+
+                      (f)  section 14A;
+
+                     (g)  subsection 51(2);
+
+                     (h)  subsection 68(4);
+
+                      (i)  subsection 68(5);
+
+                      (j)  section 122A;
+
+                     (k)  section 127A;
+
+                      (l)  subsection 246(2);
+
+                    (m)  Part 16;
+
+                     (n)  Part 17;
+
+                     (o)  Part 18.
+
+             (7)  The regulations may provide that certain provisions are to be taken to be included in, or omitted from, the list in subsection (6). The list then has effect as if the provisions were so included in it or omitted from it.
+
+### Division 7—Regulations dealing with transitional matters
+
+##### <a id="285"></a>285  Regulations may deal with transitional matters
+
+             (1)  The regulations may deal with matters of a transitional nature relating to the transition from the application of provisions of the old ASIC legislation of the Commonwealth, a State in this jurisdiction and the Northern Territory to the application of provisions of the new ASIC legislation. The regulations have effect despite anything else in this Part, other than section 258.
+
+             (2)  Without limiting subsection (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+
+                     (a)  by applying (with or without modifications) to the matter:
+
+                              (i)  provisions of the old ASIC legislation, as in force immediately before the commencement or at some earlier time; or
+
+                             (ii)  provisions of the new ASIC legislation; or
+
+                            (iii)  a combination of provisions referred to in subparagraphs (i) and (ii);
+
+                     (b)  by otherwise specifying rules for dealing with the matter;
+
+                     (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of the new ASIC legislation.
+
+             (3)  The regulations may provide that certain provisions of this Part are taken to be modified as set out in the regulations. The provisions then have effect as if they were so modified.
+
+             (4)  Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of this section may be expressed to take effect from a date before the regulations are registered under that Act.
+
+             (5)  In this section:
+
+                    <a name="matter-transition-natur"></a>**_matters of a transitional nature_** also includes matters of an application or saving nature.
+
+## Part 17—Transitional provisions relating to the Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004
+
+##### <a id="285A"></a>285A  Definitions
+
+                   In this Part:
+
+                    <a name="amending-act"></a>**_amending Act_** means the _Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004_.
+
+                    <a name="old-act"></a>**_old Act_** means this Act as in force immediately before the commencement of the amending Act.
+
+                    <a name="schule-commenc"></a>**_Schedule 1 commencement_** means the day on which Schedule 1 to the _Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004_ commences.
+
+##### <a id="286"></a>286  Application of new subsection 225A(5)
+
+                   Subsection 225A(5) applies to audits conducted in relation to financial reports for financial years that end on or after 1 July 2004.
+
+##### <a id="287"></a>287  Application of Part 8 of Schedule 1 to the amending Act
+
+             (1)  The person holding office as the Chairperson of the Companies Auditors and Liquidators Disciplinary Board under paragraph 203(1)(a) of the old Act immediately before the Schedule 1 commencement continues to hold office on and after the Schedule 1 commencement for the remainder of the term of the person’s appointment as if the person had been appointed under paragraph 203(1)(a) of this Act as amended by Part 8 of Schedule 1 to the amending Act.
+
+             (2)  The person holding office as a member of the Companies Auditors and Liquidators Disciplinary Board under paragraph 203(1)(b) of the old Act immediately before the Schedule 1 commencement continues to hold office on and after the Schedule 1 commencement for the remainder of the term of the person’s appointment as if the person had been appointed under paragraph 203(1)(c) of this Act as amended by Part 8 of Schedule 1 to the amending Act.
+
+             (3)  The person holding office as a member of the Companies Auditors and Liquidators Disciplinary Board under paragraph 203(1)(c) of the old Act immediately before the Schedule 1 commencement continues to hold office on and after the Schedule 1 commencement for the remainder of the term of the person’s appointment as if the person had been appointed under paragraph 203(1)(d) of this Act as amended by Part 8 of Schedule 1 to the amending Act.
+
+             (4)  Despite the repeal of section 209 of the old Act by item 146 of Schedule 1 to the amending Act:
+
+                     (a)  a person holding office as a deputy of a member under that section immediately before the Schedule 1 commencement continues to hold office on and after the Schedule 1 commencement for the purposes of a hearing in relation to an application made to the Companies Auditors and Liquidators Disciplinary Board before the Schedule 1 commencement; and
+
+                     (b)  continues on and after the Schedule 1 commencement to be entitled to attend meetings of the Board at which the member is not present and, while so attending, to be taken to be a member of the Board.
+
+             (5)  The amendments made by items 148 and 156 to 175 of Schedule 1 to the amending Act apply to applications made to the Companies Auditors and Liquidators Disciplinary Board on or after the Schedule 1 commencement (regardless of when the circumstances to which the application relates occurred).
+
+##### <a id="288"></a>288  Application of Schedule 3 to the amending Act
+
+                   The amendments made to this Act by Schedule 3 to the amending Act apply to causes of action that arise on or after the day on which that Schedule commences.
+
+## Part 18—Transitional provisions relating to the Corporations Amendment (Corporate Reporting Reform) Act 2010
+
+##### <a id="289"></a>289  Definitions
+
+                   In this Part:
+
+                    <a name="amending-act"></a>**_amending Act_** means the _Corporations Amendment (Corporate Reporting Reform) Act 2010_.
+
+                    <a name="old-act"></a>**_old Act_** means this Act as in force immediately before the commencement of the amending Act.
+
+                    <a name="schule-commenc"></a>**_Schedule 2 commencement_** means the day on which Part 1 of Schedule 2 to the amending Act commences.
+
+                    <a name="transition-period"></a>**_transition period_** means the period:
+
+                     (a)  beginning at the start of the day Part 1 of Schedule 2 to the amending Act commences; and
+
+                     (b)  ending when there is no longer any person holding an appointment as a member of the Companies Auditors and Liquidators Disciplinary Board under paragraph 203(1)(c) or (d) of the old Act.
+
+##### <a id="290"></a>290  Application of Companies Auditors and Liquidators Disciplinary Board amendments
+
+             (1)  The amendments made by items 1 to 5 of Schedule 2 to the amending Act do not apply until after the transition period.
+
+             (2)  During the transition period:
+
+                     (a)  a person holding an appointment as a member of the Companies Auditors and Liquidators Disciplinary Board under paragraph 203(1)(c) or (d) of the old Act immediately before the Schedule 2 commencement continues to hold that appointment on and after that commencement for the remainder of the term of the person’s appointment as if those amendments had not been made; and
+
+                     (b)  paragraph (a) does not prevent the Minister terminating the appointment under section 207 or the person from resigning under section 206; and
+
+                     (c)  there are to be no more than 6 accounting members of the Companies Auditors and Liquidators Disciplinary Board; and
+
+                     (d)  any member appointed after the Schedule 2 commencement:
+
+                              (i)  must be selected by the Minister; and
+
+                             (ii)  must be eligible to be appointed under subsection 203(1B) as inserted by item 5 of Schedule 2 to the amending Act; and
+
+                     (e)  **_accounting member_** means:
+
+                              (i)  a member appointed under paragraph (d); or
+
+                             (ii)  a member appointed under paragraph 203(1)(c) or (d) of the old Act.
+
+             (3)  After the transition period, **_accounting member_** is taken to include a member appointed under paragraph (2)(d).
+
+##### <a id="291"></a>291  Application of pre‑hearing conference amendments
+
+                   The amendments made by items 7 and 8 of Schedule 2 to the amending Act apply in relation to conferences conducted before, on or after the Schedule 2 commencement.
+
+## Part 19—Transitional provisions relating to the Corporations Legislation Amendment (Audit Enhancement) Act 2012
+
+##### <a id="292"></a>292  Definitions
+
+                   In this Part:
+
+                    <a name="amending-act"></a>**_amending Act_** means the _Corporations Legislation Amendment (Audit Enhancement) Act 2012_.
+
+                    <a name="commenc"></a>**_commencement_** means the commencement of Schedule 2 to the amending Act.
+
+##### <a id="293"></a>293  Amendments made by Part 1 of Schedule 2—final report on auditor independence functions
+
+             (1)  Subject to subsection (2), section 235BA, as in force immediately before commencement, continues (despite its repeal) to apply so as to require a report for the period beginning on 1 July 2011 and ending on commencement, as if that period were a year ending on 30 June.
+
+             (2)  The report referred to in subsection (1) must be included in the report, for the year ending on that 30 June, given to the Minister under section 235B.
+
+##### <a id="294"></a>294  Application of amendments made by Parts 2 and 3 of Schedule 2
+
+             (1)  The amendments made by Part 2 of Schedule 2 to the amending Act apply in relation to audit deficiencies identified by ASIC after commencement.
+
+             (2)  The amendment made by Part 3 of Schedule 2 to the amending Act applies in relation to information obtained by ASIC after commencement.
+
+# Notes to the _Australian Securities and Investments Commission Act 2001_
+
+### Note 1
+
+The _Australian Securities and Investments Commission Act 2001_ as shown in this compilation comprises Act No. 51, 2001 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+For application, saving or transitional provisions made by the _Governance Review Implementation (AASB and AUASB) Act 2008_, _see_ Act No. 61, 2008.
+
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="16%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Australian Securities and Investments Commission Act 2001</div>
+  </td>
+  <td>
+    <div>51, 2001</div>
+  </td>
+  <td>
+    <div>28 June 2001</div>
+  </td>
+  <td>
+    <div>15 July 2001 ( <i>see </i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+  </td>
+  <td>
+    <div>55, 2001</div>
+  </td>
+  <td>
+    <div>28 June 2001</div>
+  </td>
+  <td>
+    <div>Ss. 4–14 and Schedule 2 (items 1–11): 15 July 2001 ( <i>see</i>s. 2(2) and <i>Gazette</i>2001, No. S285)</div>
+  </td>
+  <td>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>General Insurance Reform Act 2001</div>
+  </td>
+  <td>
+    <div>119, 2001</div>
+  </td>
+  <td>
+    <div>19 Sept 2001</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 2–7): 1 July 2002</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Services Reform Act 2001</div>
+  </td>
+  <td>
+    <div>122, 2001</div>
+  </td>
+  <td>
+    <div>27 Sept 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2–137): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) Schedule 3 (items 1–4): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
+  </td>
+  <td>
+    <div>123, 2001</div>
+  </td>
+  <td>
+    <div>27 Sept 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 8–215): 11 Mar 2002 ( <i>see</i>s. 2(1), (6) and <i>Gazette</i>2001, No. GN42)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2005</div>
+  </td>
+  <td>
+    <div>100, 2005</div>
+  </td>
+  <td>
+    <div>6 July 2005</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 14, 15): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001</div>
+  </td>
+  <td>
+    <div>146, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 5 (item 1): 15 Dec 2001 <i>(b)</i> 
+Schedule 5 (item 2): <i>(b)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+  </td>
+  <td>
+    <div>159, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 23, 24, 97): 29 Oct 2001</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 97)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Royal Commissions and Other Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>166, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 1A, 2): 1 Oct 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>24, 2003</div>
+  </td>
+  <td>
+    <div>11 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 1, 2): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Enhancement Act 2003</div>
+  </td>
+  <td>
+    <div>41, 2003</div>
+  </td>
+  <td>
+    <div>3 June 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1B, 1C): 1 Jan 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2003</div>
+  </td>
+  <td>
+    <div>116, 2003</div>
+  </td>
+  <td>
+    <div>27 Nov 2003</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–3): 28 Nov 2003 
+Schedule 1 (item 4): <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>140, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 12): <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Services Reform Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>141, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1A–1E): 18 Dec 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004</div>
+  </td>
+  <td>
+    <div>103, 2004</div>
+  </td>
+  <td>
+    <div>30 June 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–36, 
+130–175): 1 July 2004 
+Schedule 2 (items 10, 11): 1 Jan 2005 
+Schedule 3 (items 1, 2): 26 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN28) 
+Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule 12 (item 1): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Treasury Legislation Amendment (Professional Standards) Act 2004</div>
+  </td>
+  <td>
+    <div>118, 2004</div>
+  </td>
+  <td>
+    <div>13 July 2004</div>
+  </td>
+  <td>
+    <div>13 July 2004</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Framework Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>8, 2005</div>
+  </td>
+  <td>
+    <div>22 Feb 2005</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 1 (items 96, 496): Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 4 and Sch. 1 (item 496)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
+  </td>
+  <td>
+    <div>101, 2006</div>
+  </td>
+  <td>
+    <div>14 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 32, 33) and Schedule 6 (items 5–11): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 6 (items 5–11)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+  </td>
+  <td>
+    <div>170, 2006</div>
+  </td>
+  <td>
+    <div>12 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 12): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Securities and Investments Commission Amendment (Audit Inspection) Act 2007</div>
+  </td>
+  <td>
+    <div>1, 2007</div>
+  </td>
+  <td>
+    <div>19 Feb 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–16): 20 Feb 2007</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007</div>
+  </td>
+  <td>
+    <div>32, 2007</div>
+  </td>
+  <td>
+    <div>30 Mar 2007</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 8A): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Governance Review Implementation (Treasury Portfolio Agencies) Act 2007</div>
+  </td>
+  <td>
+    <div>74, 2007</div>
+  </td>
+  <td>
+    <div>5 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–12, 
+40–46, 67) and Schedule 2 (items 1–10, 
+14–20): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 1–10, 
+14–20)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Amendment (Insolvency) Act 2007</div>
+  </td>
+  <td>
+    <div>132, 2007</div>
+  </td>
+  <td>
+    <div>20 Aug 2007</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1) and Schedule 5 (items 1, 2): 31 Dec 2007 ( <i>see</i>F2007L03798)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
+  </td>
+  <td>
+    <div>154, 2007</div>
+  </td>
+  <td>
+    <div>24 Sept 2007</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 1): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Trade Practices Legislation Amendment Act (No. 1) 2007</div>
+  </td>
+  <td>
+    <div>159, 2007</div>
+  </td>
+  <td>
+    <div>24 Sept 2007</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–4, 9): 25 Sept 2007</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 9)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
+  </td>
+  <td>
+    <div>26, 2008</div>
+  </td>
+  <td>
+    <div>23 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 39–42): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>First Home Saver Accounts (Consequential Amendments) Act 2008</div>
+  </td>
+  <td>
+    <div>45, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1, 2): 26 June 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Private Health Insurance Legislation Amendment Act 2008</div>
+  </td>
+  <td>
+    <div>54, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 2): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Governance Review Implementation (AASB and AUASB) Act 2008</div>
+  </td>
+  <td>
+    <div>61, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>1 July 2008</div>
+  </td>
+  <td>
+    <div>Sch. 2 \[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>First Home Saver Accounts (Further Provisions) Amendment Act 2008</div>
+  </td>
+  <td>
+    <div>92, 2008</div>
+  </td>
+  <td>
+    <div>30 Sept 2008</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): 1 Oct 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Trade Practices Legislation Amendment Act 2008</div>
+  </td>
+  <td>
+    <div>116, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–6): 22 Nov 2008</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 6)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment (Financial Services Modernisation) Act 2009</div>
+  </td>
+  <td>
+    <div>108, 2009</div>
+  </td>
+  <td>
+    <div>6 Nov 2009</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1–3K): 6 May 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009</div>
+  </td>
+  <td>
+    <div>135, 2009</div>
+  </td>
+  <td>
+    <div>15 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 1): 1 Apr 2010 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 1) 2010</div>
+  </td>
+  <td>
+    <div>44, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1A, 1, 3–8, 34, 37, 42, 
+44–55): 1 July 2010 
+Schedule 3 (items 9–14, 
+18–32, 57): 15 Apr 2010</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 8)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Amendment (Corporate Reporting Reform) Act 2010</div>
+  </td>
+  <td>
+    <div>66, 2010</div>
+  </td>
+  <td>
+    <div>28 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
+  </td>
+  <td>
+    <div>103, 2010</div>
+  </td>
+  <td>
+    <div>13 July 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–32): 1 Jan 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Amendment (No. 1) Act 2010</div>
+  </td>
+  <td>
+    <div>131, 2010</div>
+  </td>
+  <td>
+    <div>24 Nov 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–3, 22): 13 Dec 2010 ( <i>see</i>F2010L03188)</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 22)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
+  </td>
+  <td>
+    <div>145, 2010</div>
+  </td>
+  <td>
+    <div>16 Dec 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 7): 17 Dec 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 9): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
+  </td>
+  <td>
+    <div>58, 2011</div>
+  </td>
+  <td>
+    <div>28 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 24, 25): <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Carbon Credits (Consequential Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>102, 2011</div>
+  </td>
+  <td>
+    <div>15 Sept 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 5–7): 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
+  </td>
+  <td>
+    <div>127, 2011</div>
+  </td>
+  <td>
+    <div>3 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 4–7): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Clean Energy (Consequential Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>132, 2011</div>
+  </td>
+  <td>
+    <div>18 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 47–49): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+Schedule 1 (item 256A): 1 July 2012</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Competition and Consumer Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>184, 2011</div>
+  </td>
+  <td>
+    <div>6 Dec 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): 1 Jan 2012</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment (Audit Enhancement) Act 2012</div>
+  </td>
+  <td>
+    <div>72, 2012</div>
+  </td>
+  <td>
+    <div>27 June 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations Legislation Amendment (Financial Reporting Panel) Act 2012</div>
+  </td>
+  <td>
+    <div>118, 2012</div>
+  </td>
+  <td>
+    <div>12 Sept 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 2): 1 Oct 2012 ( <i>see</i>F2012L01962)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
+  </td>
+  <td>
+    <div>169, 2012</div>
+  </td>
+  <td>
+    <div>3 Dec 2012</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 20–23): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Treasury Legislation Amendment (Unclaimed Money and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>176, 2012</div>
+  </td>
+  <td>
+    <div>4 Dec 2012</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 1): 5 Dec 2012</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_ Subsection 2(1) (item 34) of the _Statute Law Revision Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      34\. Schedule 2, items 14 and 15
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Financial Services Reform (Consequential Provisions) Act 2001</i>for the
+        commencement of items 57 and 126 of Schedule 1 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      11 March 2002
+    </div>
+  </td>
+</tr></table>
+
+_(b)_ The _Australian Securities and Investments Commission Act 2001_ was amended by Schedule 5 (items 1 and 2) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001_, subsection 2(1) and (3) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
+
+                 (3)   Items 2 and 3 of Schedule 5 commence immediately after the commencement of item 1 of Schedule 1 to the _Financial Services Reform Act 2001_.
+
+ Item 1 of Schedule 1 commenced on 11 March 2002 (_see Gazette_ 2001, No. GN42).
+
+_(c)_ Subsection 2(1) (item 3) of the _Financial Sector Legislation Amendment Act (No. 1) 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the
+        <i>Australian Securities and Investments Commission Act 2001</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      15 July 2001
+    </div>
+  </td>
+</tr></table>
+
+_(d)_ Subsection 2(1) (item 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of sections 3 to 62 of the
+        <i>Legislative Instruments Act 2003</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr></table>
+
+_(e)_ Subsection 2(1) (items 11 and 13) of the _Corporate Law Economic Reform Program (Audit Reform and Corporate Disclosure) Act 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 July 2004; and
+    </div>
+    <div>
+      (b) the day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 July 2004; and
+    </div>
+    <div>
+      (b) the day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      11\. Schedules 8 and 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions covered by table
+        item 9.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      13\. Schedule 11
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions covered by table
+        item 2.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr></table>
+
+_(f)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedules 1 and 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2011
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 103, 2004; No. 118, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4AA</div>
+  </td>
+  <td>
+    <div>ad. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2004; No. 74, 2007; No. 61, 2008; No. 108, 2009; No. 66, 2010; No. 58, 2011; Nos. 72 and 169, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>rs. No. 140, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 1 to s. 8(1) 
+Renumbered Note</div>
+  </td>
+  <td>
+    <div>
+No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 8(1)</div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10A</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 11</div>
+  </td>
+  <td>
+    <div>am. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 45, 2008; No. 135, 2009; No. 127, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12AA</div>
+  </td>
+  <td>
+    <div>rep. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12AD</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12AE</div>
+  </td>
+  <td>
+    <div>am. No. 141, 2003; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BA</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; Nos. 44 and 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BAA</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 32, 2007; Nos. 45 and 54, 2008; Nos. 102 and 132, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BAB</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 2003; No. 108, 2009; Nos. 102 and 132, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BB</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BC</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12BEA</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. BA of Div. 2 of 
+Part 2</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12BF–12BI</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12BK–12BM</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12CA</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12CB</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 116, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 184, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12CC</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 159, 2007; No. 116, 2008; No. 108, 2009; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 184, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DA</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DB</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DB(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12DC</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DC</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DD</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DD(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12DE</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DE</div>
+  </td>
+  <td>
+    <div>rs. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DF</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DF(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DG</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DG(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DG(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DG(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DH</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DH(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12DI, 12DJ</div>
+  </td>
+  <td>
+    <div>rs. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12DK</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DK</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 123, 2001 (as am. by No. 100, 2005)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DK(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DK(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DK(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12DL</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DL</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DL(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12DM</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DM</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12DM(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12DMA, 12DMB</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12DN</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12EA–12EC</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12ED</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 118, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. F of Div. 2 of Part 2</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12FA</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GB</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GBA–12GBD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GCA</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GD</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GE</div>
+  </td>
+  <td>
+    <div>rep. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GF</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; Nos. 103 and 118, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GG</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GH</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GI</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12GI(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12GI(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GJ, 12GK</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GLA</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GLB</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GLC, 12GLD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GM</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 116, 2003; No. 118, 2004; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GN</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GNA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GNB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GNC, 12GND</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GO</div>
+  </td>
+  <td>
+    <div>rs. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision GA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. GA of Div. 2 of 
+Part 2</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GP–12GW</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision GB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. GB of Div. 2 of 
+Part 2</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GXA, 12GXB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GXC</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GXD–12GXG</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision GC</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. GC of Div. 2 of 
+Part 2</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12GY</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12GYA–12GYC</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision H</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12HB</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 44, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12HC</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 132, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 41, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 19(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 21(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 21(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 23(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 24(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 25, 26</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 30(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 30(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 169, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 31(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 1, 2007; No. 169, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 33</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 34(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 35</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35, 36</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 37(9)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 38</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 39</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39B</div>
+  </td>
+  <td>
+    <div>ad. No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 2001; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 41</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 41(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 41(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 41(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 41(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>ad. No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 43</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 43(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 43(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 48(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5A of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50B</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50D</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50E</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 58(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 58(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 58(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 1, 2007; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 64(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65, 66</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 67(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 132, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 73</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73</div>
+  </td>
+  <td>
+    <div>am. Nos. 122 and 123, 2001; No. 108, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 80</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 10</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94</div>
+  </td>
+  <td>
+    <div>am. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 74, 2007; Nos. 44 and 103, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 26, 2008; No. 58, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>rs. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 127</div>
+  </td>
+  <td>
+    <div>am. Nos. 122, 123 and 166, 2001; Nos. 41, 116 and 141, 2003; No. 103, 2004; No. 1, 2007; No. 92, 2008; No. 145, 2010; Nos. 102, 127 and 132, 2011; No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part 7</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 128–132</div>
+  </td>
+  <td>
+    <div>rep. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 8</div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part 8</div>
+  </td>
+  <td>
+    <div>rep. No. 176, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 176, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134</div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 176, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 176, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 136</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 127, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 137</div>
+  </td>
+  <td>
+    <div>am. No. 24, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 138</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 1, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 140–142</div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 9</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 146</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 146</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 1 to s. 146(1)</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 146(1)</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 146A</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 147</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 147A</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 148</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153</div>
+  </td>
+  <td>
+    <div>am. No. 24, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 154</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part 9</div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 156, 157</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 158</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 158</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part 9</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 159</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 159</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 160</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 160</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 161</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 161</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 9</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 162</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 163</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 165</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 101, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 166</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 166</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 167, 168</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 10</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 10</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 172</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 172(1)</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175</div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 192</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 192(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 192(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 192(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 198</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 199(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 200</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 11</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 203</div>
+  </td>
+  <td>
+    <div>am. No. 116, 2003; No. 103, 2004; No. 66, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 205–207</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 209</div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 210</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 66, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210B</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 211–213</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 216</div>
+  </td>
+  <td>
+    <div>am. Nos. 119 and 123, 2001; No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 217</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 218</div>
+  </td>
+  <td>
+    <div>am. No. 119, 2001; No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219, 220</div>
+  </td>
+  <td>
+    <div>am. No. 123, 2001; No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 66, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>am. No. 119, 2001; No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 12</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 12</div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part 12</div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 1 of Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 61, 2008; No. 66, 2010; No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 1 of Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226A</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 227</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 1 to s. 227(1)</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 227(1)</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 3 to s. 227(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. C of 
+Div. 1 of Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 227AA, 227AB</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 227A, 227B</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 231(1)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 232</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 234A, 234B</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 234C</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 234D, 234E</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235B</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235BA</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AA of Div. 3 of 
+Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 235D–235H</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235J</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 236A</div>
+  </td>
+  <td>
+    <div>rs. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236A</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236AA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236DA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. BAA of Div. 3 of 
+Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 236DB–236DG</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. BA of Div. 3 of 
+Part 12</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236E</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236EA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 236F–236H</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236J</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004; No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 3 of 
+Part 12</div>
+  </td>
+  <td>
+    <div>rep. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 238</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 13</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 239AA–239AM</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 239BA–239BC</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 239CA–239CL</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 14</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 14</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 15</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243D</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243E</div>
+  </td>
+  <td>
+    <div>ad. No. 170, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 244</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 246</div>
+  </td>
+  <td>
+    <div>am. No. 122, 2001; No. 103, 2004; No. 61, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 16</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 254</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001; No. 116, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 255</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 268A, 268B</div>
+  </td>
+  <td>
+    <div>ad. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 271, 272</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285</div>
+  </td>
+  <td>
+    <div>am. No. 154, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 17</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 17</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 286–288</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 18</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 18</div>
+  </td>
+  <td>
+    <div>ad. No. 66, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 289–291</div>
+  </td>
+  <td>
+    <div>ad. No. 66, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 19</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 19</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 292</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 293</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 294</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 2012</div>
+  </td>
+</tr></table>
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
+
+##### <a id="4"></a>4  Application of amendments
+
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+
+## Schedule 1
+
+## 97  Application of amendments
+
+The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+
+* * *
+
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+
+             (1)  If:
+
+                     (a)  a decision or action is taken or another thing is made, given or done; and
+
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+
+             (2)  In this section:
+
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+
+## Schedule 1
+
+## 496  Saving provision—Finance Minister’s determinations
+
+If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+
+* * *
+
+_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
+ (No. 101, 2006)_
+
+## Schedule 6
+
+## 5  Application of Schedule 5 amendments
+
+The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
+
+## 6  Object
+
+The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
+
+                     (a)  any act done or omitted to be done; or
+
+                     (b)  any state of affairs existing; or
+
+                     (c)  any period ending;
+
+before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
+
+## 7  Making and amending assessments, and doing other things, in relation to past matters
+
+Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
+
+                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
+
+                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
+
+in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
+
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+
+                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
+
+                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
+
+Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+
+                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
+
+                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
+
+## 8  Saving of provisions about effect of assessments
+
+If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
+
+## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
+
+If:
+
+                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
+
+                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
+
+                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
+
+                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
+
+then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
+
+## 10  Repeals disregarded for the purposes of dependent provisions
+
+If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
+
+## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
+
+This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+* * *
+
+_Governance Review Implementation (Treasury Portfolio Agencies) Act 2007 (No. 74, 2007)_
+
+## Schedule 2
+
+## 1  Definitions
+
+In this Schedule:
+
+**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+**_Agency_** means:
+
+                     (a)  ASIC as established under the _Australian Securities and Investments Commission Act 2001_ immediately before the commencement time; or
+
+                     (b)  CAMAC as established under the _Australian Securities and Investments Commission Act 2001_ immediately before the commencement time; or
+
+                     (c)  APRA as established under the _Australian Prudential Regulation Authority Act 1998_ immediately before the commencement time.
+
+**_Agency head_** means:
+
+                     (a)  in relation to ASIC—the Chairperson of ASIC; or
+
+                     (b)  in relation to CAMAC—the Convenor of CAMAC; or
+
+                     (c)  in relation to APRA—the Chair of APRA.
+
+**_asset_** means:
+
+                     (a)  any legal or equitable estate or interest in real or personal property, whether actual, contingent or prospective; and
+
+                     (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
+
+**_assets official_**, in relation to an asset other than land, means the person or authority who, under a law of the Commonwealth, a State or a Territory, under a trust instrument or otherwise, has responsibility for keeping a register in relation to assets of the kind concerned.
+
+**_commencement time_** means the time when this Schedule commences.
+
+**_financial liability_** means a liability to pay a person an amount, where the amount, or the method for working out the amount, has been determined.
+
+**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+**_land_** means any legal or equitable estate or interest in real property, whether actual, contingent or prospective.
+
+**_land registration official_**, in relation to land, means the Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
+
+**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
+
+**_member_** means:
+
+                     (a)  in relation to ASIC—a member of ASIC; or
+
+                     (b)  in relation to CAMAC—a member of CAMAC; or
+
+                     (c)  in relation to APRA—an APRA member.
+
+## 2  Pre‑existing property, money and financial liabilities
+
+(1)       Subject to items 3, 4 and 5 of this Schedule, any real or personal property or money that is held by ASIC or CAMAC immediately before the commencement time is taken, immediately after that time, to be held by ASIC or CAMAC for and on behalf of the Commonwealth.
+
+(2)       Subject to items 3, 4 and 5 of this Schedule, any financial liabilities of ASIC or CAMAC that exist immediately before the commencement time are taken, immediately after that time, to be liabilities of the Commonwealth.
+
+(3)       If an amount of money (the **_original amount_**) that is held by ASIC immediately before the commencement time is held by ASIC for and on behalf of the Commonwealth immediately after the commencement time, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of ASIC.
+
+(4)       If an amount of money (the **_original amount_**) that is held by CAMAC immediately before the commencement time is held by CAMAC for and on behalf of the Commonwealth immediately after the commencement time, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of CAMAC.
+
+## 3  Trust property held under Part 9.7 of the Corporations Act
+
+Any unclaimed property held, immediately before the commencement time, on trust by ASIC to be dealt with under Part 9.7 of the _Corporations Act 2001_(as in force at that time) is taken, immediately after that time, to be held by ASIC for and on behalf of the Commonwealth to be dealt with in accordance with Part 9.7 of the _Corporations Act 2001_ (as amended by Schedule 1 to this Act).
+
+## 4  Vesting of other assets held on trust by ASIC
+
+(1)       This item applies to any other assets held on trust by ASIC immediately before the commencement time.
+
+(2)       At the commencement time, the assets to which this item applies cease to be assets held on trust by ASIC and become assets held on trust by the Commonwealth, without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to those assets.
+
+_Note:       ASIC may, for and on behalf of the Commonwealth, perform all the duties and exercise all the powers of the Commonwealth as trustee in relation to assets held on trust by the Commonwealth (see subsection 8(6) of the Australian Securities and Investments Commission Act 2001)._
+
+## 5  Vesting of liabilities relating to assets held on trust
+
+(1)       This item applies to the liabilities of ASIC in relation to assets mentioned in item 4 of this Schedule that are held on trust by ASIC immediately before the commencement time.
+
+(2)       At the commencement time, the liabilities to which this item applies cease to be liabilities of ASIC in relation to the assets and become liabilities of the Commonwealth in relation to the assets, without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
+
+## 6  Certificates relating to vesting of land
+
+(1)       This item applies if:
+
+                     (a)  any land vests in the Commonwealth under this Schedule; and
+
+                     (b)  there is lodged with a land registration official a certificate that:
+
+                              (i)  is signed by the Minister; and
+
+                             (ii)  identifies the land, whether by reference to a map or otherwise; and
+
+                            (iii)  states that the land has become vested in the Commonwealth under this Schedule.
+
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 9 of this Schedule._
+
+(2)       The land registration official may:
+
+                     (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
+
+                     (b)  deal with, and give effect to, the certificate.
+
+## 7  Certificates relating to vesting of assets other than land
+
+(1)       This item applies if:
+
+                     (a)  any asset other than land vests in the Commonwealth under this Schedule; and
+
+                     (b)  there is lodged with an assets official a certificate that:
+
+                              (i)  is signed by the Minister; and
+
+                             (ii)  identifies the asset; and
+
+                            (iii)  states that the asset has become vested in the Commonwealth under this Schedule.
+
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 9 of this Schedule._
+
+(2)       The assets official may:
+
+                     (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
+
+                     (b)  make such entries in the register as are necessary having regard to the effect of this Part.
+
+## 8  Substitution of Commonwealth as a party to pending proceedings
+
+If any proceedings relating to an asset covered by item 4 of this Schedule, to which ASIC was a party, were pending in any court or tribunal immediately before the commencement time, the Commonwealth is substituted for ASIC, from the commencement time, as a party to the proceedings.
+
+## 9  Certificates taken to be authentic
+
+A document that appears to be a certificate made or issued under a particular provision of this Schedule:
+
+                     (a)  is taken to be such a certificate; and
+
+                     (b)  is taken to have been properly given;
+
+unless the contrary is established.
+
+## 10  Access to records
+
+For the purposes of the operation of subsection 27L(4) of the _Commonwealth Authorities and Companies Act 1997_ in relation to the books of CAMAC, the reference in that subsection to a Commonwealth authority is to be read, after the commencement time, as a reference to the Convenor.
+
+## 14  Financial statements and other reporting requirements
+
+Reporting requirements
+
+(1)       If:
+
+                     (a)  immediately before the commencement time, a law required an Agency or a member of the Agency to provide a report (whether financial statements or otherwise) for a period; and
+
+                     (b)  the period ends after the commencement time;
+
+the Agency head must provide the report, as required, for so much of the period as occurs before the commencement time.
+
+(2)       If:
+
+                     (a)  under subitem (1), the Agency head is required to provide a report for a part of a period; and
+
+                     (b)  the Agency head is also required to provide a similar report for the remainder of the period;
+
+the Agency head may meet the requirements in a single report for the period.
+
+Outstanding reporting requirements
+
+(3)       If:
+
+                     (a)  a law required the Agency or a member of the Agency to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
+
+                     (b)  the report has not been provided by the commencement time;
+
+the Agency head must provide the report as required.
+
+Application of law to Agency head
+
+(4)       To avoid doubt, if, under this item, an Agency head is required to provide a report under a law, the law applies to the Agency head in respect of the report in the same way as the law would have applied to the Agency or the member of the Agency in respect of the report.
+
+## 15  New annual report requirements to apply from 2007‑2008 and later financial years
+
+Sections 136 and 162 of the _Australian Securities and Investments Commission Act 2001_(as inserted by items 12 and 46 of Schedule 1 to this Act), and item 66 of Schedule 1 to this Act, apply to the 2007‑2008 financial year and later financial years.
+
+## 16  Continuing obligation to keep records
+
+If, immediately before this item commences, an Agency has kept accounting records under subsection 20(1) of the _Commonwealth Authorities and Companies Act 1997_, then, after this item commences, section 20 of that Act (as in force from time to time), continues to apply, in respect of those records, as if the Agency continued to be subject to that Act.
+
+## 17  Constitutional safety net—acquisition of property
+
+(1)       If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+## 18  Exemption from stamp duty and other State or Territory taxes
+
+No stamp duty or other tax is payable under a law of a State or Territory in respect of, or in respect of anything connected with:
+
+                     (a)  the transfer of an asset or liability under this Schedule; or
+
+                     (b)  the operation of this Schedule in any other respect.
+
+## 19  Delegation by Minister
+
+(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule, in relation to an Agency, to the Agency head.
+
+(2)       In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
+
+## 20  Regulations
+
+(1)       The Governor‑General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Schedule to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
+
+(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
+
+* * *
+
+_Trade Practices Legislation Amendment Act (No. 1) 2007 (No. 159, 2007)_
+
+## Schedule 3
+
+## 9  Application of amendments
+
+The amendments made by this Schedule apply in relation to conduct engaged in after the commencement of the amendments in relation to contracts for the supply or acquisition of goods or services made before or after commencement.
+
+* * *
+
+_Trade Practices Legislation Amendment Act 2008 (No. 116, 2008)_
+
+## Schedule 3
+
+## 6  Application of item 5
+
+The amendments made by item 5 of this Schedule apply in relation to conduct engaged in after the commencement of that item, including conduct in relation to contracts for the supply or acquisition of goods or services whether made before or after that commencement.
+
+* * *
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 1) 2010 
+ (No. 44, 2010)_
+
+## Schedule 3
+
+## 8  Application and transitional provisions
+
+(1)       Subdivision BA of Division 2 of Part 2 of the _Australian Securities and Investments Commission Act 2001_ applies to a contract entered into on or after the commencement of this Part of this Schedule.
+
+(2)       That Subdivision does not apply to a contract entered into before the commencement of this Part of this Schedule. However:
+
+                     (a)  if the contract is renewed on or after that commencement—that Subdivision applies to the contract as renewed, on and from the day (the **_renewal day_**) on which the renewal takes effect, in relation to conduct that occurs on or after the renewal day; or
+
+                     (b)  if a term of the contract is varied on or after that commencement, and paragraph (a) has not already applied in relation to the contract—that Subdivision applies to the term as varied, on and from the day (the **_variation day_**) on which the variation takes effect, in relation to conduct that occurs on or after the variation day.
+
+(2A)     If paragraph (2)(b) applies to a term of a contract, subsection 12BF(2) or section 12BK of the _Australian Securities and Investments Commission Act 2001_ applies to the contract.
+
+(3)       Despite paragraphs (2)(a) and (b) and subitem (2A), that Subdivision does not apply to a contract, or a term of a contract, to the extent that the operation of that Subdivision would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph of the Constitution).
+
+* * *
+
+_Corporations Amendment (No. 1) Act 2010 (No. 131, 2010)_
+
+## Schedule 1
+
+## 22  Application of amendment
+
+            The amendment made by item 3 of this Schedule applies in relation to warrants issued after the commencement of this Schedule.
+
+ 
