@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00544/Html/c8a6f85f-71ca-41c3-b642-0aab02442a54_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00210/Html/a486e22e-de1a-4f5c-9ea8-57984324fe48_files/image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 15 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1745,7 +1745,7 @@ Note:          The kind of operations authorised by the AOC in
 
                    An application for an AOC must be in a form approved by CASA.
 
-##### <a id="27AB"></a>27AB  Lodgment of manuals
+##### <a id="27AB"></a>27AB  Lodgment of manuals
 
              (2)  If an applicant for an AOC is (or will be) required by the regulations or Civil Aviation Orders to have any of the following manuals, the applicant must lodge the current or proposed version of the manual concerned:
 
@@ -2361,7 +2361,7 @@ Note:          Section 11J of the Civil Aviation Act 1990 of
 
 Note:          CASA must consult the Director of CAA New Zealand if CASA proposes to take action that would or might affect ANZA activities in New Zealand (see section 26C).
 
-##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
+##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
 
              (1)  The regulations may provide that specified regulations made under this Act do not apply in relation to all or specified ANZA activities in Australian territory authorised by a New Zealand AOC with ANZA privileges.
 
@@ -2457,7 +2457,7 @@ Note:          This subsection may require CASA to endorse a d
 
                     <a name="civil-aviat-authoris"></a>**_civil aviation authorisation_** includes an AOC.
 
-##### <a id="30B"></a>30B  Variation and termination of exclusion order
+##### <a id="30B"></a>30B  Variation and termination of exclusion order
 
              (1)  If a Court makes an order under subsection 30A(1):
 
@@ -6057,27 +6057,10 @@ Schedule 5 (item 137(a)): <i>(y)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 46, 47): 19 Apr 2011</div>
+    <div>Schedule 5 (items 46, 47): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 349–359) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6511,17 +6494,18 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
+<div align="right">
+
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="0%">
-  <col width="52%">
+  <col width="28%">
+  <col width="51%">
   <col width="21%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="2">
+    <td>
       <div>
         <b>
           Provision(s)
@@ -6550,7 +6534,7 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
       2\. Schedule 1
     </div>
   </td>
-  <td colspan="2">
+  <td>
     <div>
       The later of:
     </div>
@@ -6570,13 +6554,9 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
       (paragraph (b) applies)
     </div>
   </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
+
+</div>
 
 _(v)_ Subsection 2(1) (items 2, 3 and 5) of the _Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006_ provides as follows:
 
@@ -10929,68 +10909,6 @@ of Div. 2 of Part IIIA</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 349  Section 55 (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 350  Subsection 62(1)
-
-Omit “(1)”.
-
-## 351  At the end of subsection 62(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 352  Subsection 62(2)
-
-Repeal the subsection.
-
-## 353  Subsection 63(1)
-
-Omit “(1)”.
-
-## 354  At the end of subsection 63(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 355  Subsection 63(2)
-
-Repeal the subsection.
-
-## 356  Subsection 74(1) (note)
-
-Repeal the note, substitute:
-
-Note:          The Director  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 357  Subsection 82(1)
-
-Omit “(1)”.
-
-## 358  At the end of subsection 82(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 359  Subsection 82(2)
-
-Repeal the subsection.
-
-As at 15 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11297,21 +11215,5 @@ _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009
 ## 26  Application of Part 2 of this Schedule
 
 The amendments made by Part 2 of this Schedule apply to copying or disclosure that occurs on or after the commencement of that Part.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
