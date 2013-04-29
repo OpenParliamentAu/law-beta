@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00520/Html/6e968517-0b8b-44e8-8e59-f2b6e3652acc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00221/Html/6d748348-e525-4d8e-a056-67373d666711_files/image001.gif)
 
 # Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011
 
 **Act No. 67 of 2011 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 7 February 2012
  taking into account amendments up to Act No. 156 of 2011
 
 The text of any of those amendments not in force
@@ -465,9 +465,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -532,9 +531,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -599,9 +597,8 @@ Repeal the subitems, substitute:
     <div>10.19C</div>
   </td>
   <td>
-    <div>Compressed natural gas, other than carbon‑rated compressed natural gas
-      and compressed natural gas exempted from excise duty by section 77HA of
-      the
+    <div>Compressed natural gas, other than compressed natural gas exempted from
+      excise duty by section 77HA of the
       <i>Excise Act 1901</i>
     </div>
   </td>
@@ -626,7 +623,7 @@ Repeal the subitems, substitute:
 
                      (c)  no duty of excise had been paid on the goods before that day.
 
-(2)       This item has effect despite subsection 5(2) of the _Excise Tariff Act 1921_.
+(2)       This item has effect despite subsection 5(2) of the _Excise Tariff Act 1921_.
 
 # Notes to the _Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011_
 
@@ -694,7 +691,7 @@ of Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9–11): <i>(a)</i></div>
+    <div>Schedule 2 (items 9–11): \[ <i>see</i> <i>(a)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -787,89 +784,33 @@ _(a)_ Subsection 2(1) (item 3) of the _Clean Energy (Excise Tariff Legislation
   </td>
   <td>
     <div>
-      1 July 2012
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Clean Energy (Excise Tariff Legislation Amendment) Act 2011 
+ (No. 156, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence immediately after 1 July 2012:
+
+## Schedule 2
+
+## 9  Item 9 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+## 10  Item 10 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+## 11  Item 11 of Schedule 1 (new table subitem 10.19C)
+
+After “other than”, insert “carbon‑rated compressed natural gas and”.
+
+As at 7 February 2012 the amendments are not incorporated in this compilation.
 
  
