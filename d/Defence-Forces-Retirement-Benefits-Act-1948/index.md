@@ -1,7 +1,7 @@
 
 Defence Forces Retirement Benefits Act 1948
 Act No. 31 of 1948 as amended
-This compilation was prepared on 5 November 2001 taking into account amendments up to Act No. 141 of 2001
+This compilation was prepared on19 April 2001 taking into account amendments up to Act No. 10 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -18,7 +18,6 @@ Part I—Preliminary	1
 13	Cost of management	8
 15D	Benefits to be paid by Commonwealth after 1 October 1972	9
 25	Cessation of membership	9
-26	Application of the Criminal Code	9
 Part V—Pensions and benefits	10
 Division 1—Grant of pensions and benefits	10
 38	Pension on retirement after 20 years’ service for pension—officers	10
@@ -49,7 +48,7 @@ Division 1—Grant of pensions and benefits	10
 66	Instalments of pension	39
 68	Deduction of unpaid contributions from benefits	40
 69	Re‑engagement etc. of pensioners	40
-71	Absence or desertion	43
+71	Absence or desertion	42
 72	Reduction of gratuity by reason of non‑effective service	43
 73	Special invalidity benefit to members under 18 years of age	43
 Division 2—Commutation of pension	47
@@ -112,7 +111,6 @@ The Schedules	107
 Second Schedule—Pension factors	107
 Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)	108
 Notes		111
-
 An Act to provide Retirement Benefits for Members of the Defence Force of the Commonwealth, and for other purposes
 Part I—Preliminary
   
@@ -221,9 +219,6 @@ and any such period shall be deemed to be a period of service.
 25  Cessation of membership
 	(1)	Subject to subsection (2), a member who retires ceases to be a member, for the purposes of this Act, on the day following the date of his retirement.
 	(2)	Where a contributor retires and, without a break in the continuity of his service, again becomes a member, he shall, for the purposes of this Act, be deemed not to have ceased to be a member by reason of that retirement.
-26  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part V—Pensions and benefits
 Division 1—Grant of pensions and benefits
@@ -556,10 +551,8 @@ so much of his pension as is equivalent to the amount that, but for this subsect
 	(5)	Where a person in receipt of a pension under section 55 or 57 is a contributor under the provisions of the Superannuation Act 1922‑1959, she is, on retirement on pension under that Act, entitled to receive, in addition to that last‑mentioned pension:
 	(a)	the proportion of the pension under section 55 or 57 of this Act that is based upon the contributions paid by her husband; and
 	(b)	the amount (if any) by which the proportion of the pension payable by the Commonwealth under this Act exceeds the proportion of the pension payable by the Commonwealth under the Superannuation Act 1922‑1959.
-	(7)	A person who is a pensioner (other than a pensioner under section 55 or 57) is guilty of an offence if:
-	(a)	the person again becomes a member for the purposes of this Act; and
-	(b)	the person does not, within 14 days after again becoming such a member, notify the board in the prescribed manner.
-Maximum penalty:	$40.
+	(7)	Where a pensioner, other than a pensioner under section 55 or 57, again becomes a member for the purposes of this Act, he shall, within 14 days after he again becomes a member, notify the Board accordingly in such manner as is prescribed.
+Penalty: $40.
 	(8)	Where, by reason of the failure of a pensioner to notify the Board as required by subsection (7), the Board has paid to a pensioner an amount which, under the provisions of this section, should not have been paid, the Board may:
 	(a)	deduct the amount so paid from future payments of pension by such instalments as the Board thinks fit; or
 	(b)	recover the amount so paid by action in a court having civil jurisdiction to the extent of that amount.
@@ -1138,22 +1131,18 @@ Part VII—Miscellaneous
 85A  Attachment of pensions
 	(1)	Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to a pension or other benefit under this Act, the judgment creditor may serve on the Authority a copy of the judgment, certified under the hand of the Registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
 	(2)	Where a copy of a judgment and a statutory declaration are served on the Authority in accordance with subsection (1), the Authority shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him, within such period as is specified in the notice and in such manner as is so specified, to notify the Authority whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Authority, in such manner as is specified in the notice, evidence in support of that fact.
-	(3)	A person is guilty of an offence if:
-	(a)	the person is given a notice under subsection (2); and
-	(b)	the person does not comply with the requirements in the notice.
-Maximum penalty:	$40.
+	(3)	A person to whom a notice is given under subsection (2) shall comply with the requirements contained in the notice.
+Penalty: $40.
 	(4)	If, at the expiration of the period specified in the notice, the Authority is satisfied that an amount is due under the judgment, the Authority may, in its discretion, deduct from the pension or benefit, and pay to the judgment creditor, such sums as do not exceed that amount or, in a case where a payment of pension or benefit becomes payable on or after 1 October 1972, the Authority may, in its discretion, authorize the deduction from the pension or benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions, and those payments, shall be made accordingly.
 	(5)	A deduction shall not be made from:
 	(a)	an instalment of pension payable in respect of a child; or
 	(b)	an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one‑half of the amount that would, but for this section, be payable.
 	(6)	If, after a copy of a judgment given against a pensioner or beneficiary, being a judgment in respect of which the Authority is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same pensioner or beneficiary in favour of the person in whose favour the first‑mentioned judgment was given or in favour of another person is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
 	(7)	A payment made to a judgment creditor in pursuance of this section shall, as between the Board and the pensioner or beneficiary, be deemed to be a payment from the Fund to the pensioner or beneficiary and, in the case of a payment made to the judgment creditor in relation to a payment of pension or benefit that became payable on or after 1 October 1972, shall, as between the Commonwealth and the pensioner or beneficiary, be deemed to be a payment by the Commonwealth to the pensioner or beneficiary.
-	(8)	A judgment creditor is guilty of an offence if:
-	(a)	the judgment creditor serves a copy of a judgment on the Authority under subsection (1); and
-	(b)	the judgment creditor does not notify the Authority immediately the judgment debt is satisfied.
-Maximum penalty:	
-	(c)	if the offender is a natural person—$100 or imprisonment for 3 months; or
-	(d)	if the offender is a body corporate—$500.
+	(8)	A judgment creditor who serves a copy of a judgment on the Authority under subsection (1) shall notify the Authority, immediately the judgment debt is satisfied.
+Penalty:
+	(a)	if the offender is a natural person—$100 or imprisonment for 3 months; or
+	(b)	if the offender is a body corporate—$500.
 	(9)	If the amounts paid in pursuance of this section to a judgment creditor in respect of a judgment exceed, in the aggregate, the amount due under the judgment, the excess is repayable by the judgment creditor to the judgment debtor and, in default of payment, may be recovered by the judgment debtor from the judgment creditor in any court of competent jurisdiction.
 86  Recovery of contributions
 		The Authority may recover contributions under the Act in any court of competent jurisdiction.
@@ -1759,11 +1748,6 @@ Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Ac
 22 Mar 2001
 Schedule 2 (items 49-52, 94, 95): 19 Apr 2001 (h)
 Sch. 2 (items 94, 95) [see Table A]
-Defence Legislation Amendment (Application of Criminal Code) Act 2001
-141, 2001
-1 Oct 2001
-S. 4: Royal Assent (I) Schedule 1 (items 93-97): 2 Oct 2001 (I)
-S. 4 and Sch. (item 95) [see Table A]
 
 (a)	The Defence Forces Retirement Benefits Act 1948 comprises the Defence Forces Retirement Benefits Act 1948 (which was proclaimed to commence on 2 July 1948: see Gazette 1948, p. 2583) as amended by the other Acts specified in the Table of Acts. Many of the amending Acts specified in that table made express provision in relation to the commencement and application of the amendments. By reason that the Defence Force Retirement and Death Benefits Act 1973 has, in the main, superseded the Defence Forces Retirement Benefits Act 1948, references are not made in the table to those provisions. If required, particulars relating to those provisions and to the saving and transitional provisions made by the amending Acts are to be found in the annual volumes of Acts for the respective years in which the amending Acts were enacted. 
 (b)	The Defence Forces Retirement Benefits Act 1959 was amended by section 3 only of the Statute Law Revision (Decimal Currency) Act 1966, subsection 2(1) of which provides as follows: 
@@ -1780,11 +1764,6 @@ S. 4 and Sch. (item 95) [see Table A]
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (h)	The Defence Forces Retirement Benefits Act 1948 was amended by Schedule 2 (items 49-52) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-(i)	The Defence Forces Retirement Benefits Act 1948 was amended by Schedule 1 (items 93-97) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsections 2(1) and (2) of which provide as follows:
-	(1)	Sections 1, 2, 3 and 4 commence on the day on which this Act receives the Royal Assent.
-	(2)	Part 1 of Schedule 1 commences on the later of:
-	(a)	the day on which Chapter 2 of the Criminal Code commences; and
-	(b)	the day after the day on which this Act receives the Royal Assent.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -1916,8 +1895,6 @@ S. 26
 am. No. 73, 1950; No. 29, 1951 
 
 rep. No. 103, 1959 
-
-ad. No. 141, 2001
 S. 27 	
 rs. No. 93, 1952 
 
@@ -2209,7 +2186,7 @@ rs. No. 103, 1959
 
 am. No. 164, 1984 
 S. 69 	
-am. No. 29, 1951; No. 20, 1954; No. 19, 1955; No. 103, 1959; Nos. 98 and 135, 1965; Nos. 55 and 56, 1968; No. 82, 1973; No. 164, 1984; No. 141, 2001 
+am. No. 29, 1951; No. 20, 1954; No. 19, 1955; No. 103, 1959; Nos. 98 and 135, 1965; Nos. 55 and 56, 1968; No. 82, 1973; No. 164, 1984 
 S. 70 	
 rs. No. 103, 1959 
 
@@ -2533,7 +2510,7 @@ am. No. 82, 1973; No. 164, 1984
 S. 85A 	
 ad. No. 98, 1965 
 
-am. No. 135, 1965; No. 82, 1973; No. 164, 1984; No. 104, 1988; No. 141, 2001 
+am. No. 135, 1965; No. 82, 1973; No. 164, 1984; No. 104, 1988 
 S. 86 	
 am. No. 104, 1988 
 S. 86A 	
@@ -2612,13 +2589,5 @@ Example:	Assume that, immediately before the commencement of this item, regulati
 (1)	The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 (2)	In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 (3)	Subitem (2) does not limit the scope of subitem (1).
-
-Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 141, 2000)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-Schedule 1
-95  Saving—regulations
-Regulations that were in effect for the purposes of subsection 69(7) of the Defence Forces Retirement Benefits Act 1948 immediately before the commencement of this item continue to have effect after that time as if they had been made for the purposes of subsection 69(7) of that Act, as in force after that time.
       
 
