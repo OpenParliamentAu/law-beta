@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00220/Html/4303d12d-3732-4635-98fb-0d4fbd1b6d8c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00850/Html/352f9aeb-6d80-4cbe-90f6-aebd775926de_files/image001.gif)
 
 # National Museum of Australia Act 1980
 
 **Act No. 115 of 1980 as amended**
 
-This compilation was prepared on 8 February 2012
+This compilation was prepared on 20 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -132,6 +132,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
+                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+
                     <a name="australian-histori"></a>**_Australian history_** includes:
 
                      (a)  the natural history of Australia; and
@@ -172,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  every external Territory; and
 
-                     (b)  the continental shelf that is adjacent to the coast of Australia or of an external Territory.
+                     (b)  the continental shelf, within the meaning of the _Seas and Submerged Lands Act 1973_, that is adjacent to the coast of Australia or of an external Territory.
 
              (3)  For the purposes of subsection (2), **_external Territory_** includes any territory that was formerly a Territory referred to in section 122 of the Constitution (including a Territory administered by Australia under a Trusteeship Agreement) but has ceased to be a Territory referred to in that section.
 
@@ -450,7 +452,17 @@ the Governor‑General shall terminate the appointment of that member.
 
              (9)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall keep minutes of those proceedings.
 
-Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
+           (10)  If the Council so determines, a member of the Council may participate in, and form part of a quorum at, a meeting of the Council by means of any of the following methods of communication:
+
+                     (a)  telephone;
+
+                     (b)  closed circuit television;
+
+                     (c)  another method of communication determined by the Council.
+
+           (11)  A determination of the Council under subsection (10) may be made in respect of a particular meeting, or in respect of all meetings of the Council.
+
+           (12)  A member of the Council who participates in a meeting as provided by subsection (10) shall be taken for the purposes of this Part to be present at the meeting.
 
            (13)  If the Council so determines, a resolution shall be taken to have been passed at a meeting of the Council if, without meeting, a majority of the number of members of the Council who would, if present at a meeting of the Council and entitled to vote on the resolution at that meeting, have constituted a quorum of the Council indicate agreement with the resolution in accordance with the method determined by the Council.
 
@@ -538,11 +550,29 @@ the Governor‑General shall terminate the appointment of the Director.
 
                      (a)  during a vacancy in the office of the Director, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  subject to this Act, determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Minister.
+
+             (6)  While a person is acting as Director, he or she has and may exercise all the powers, and shall perform all the functions, of the Director under this Act.
 
              (7)  A person who is acting as Director may attend a meeting of the Council and, in relation to a meeting that he or she so attends, shall, for the purposes of this Act, be deemed to be the Director.
+
+             (8)  The appointment of a person under subsection (1) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+
+             (9)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
 ## Part V—Staff and consultants
 
@@ -1033,7 +1063,7 @@ Remainder: Royal Assent</div>
       <div>27 June 2011</div>
     </td>
     <td colspan="2">
-      <div>Schedule 2 (items 825–832) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 825–832) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1151,7 +1181,7 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 193, 1985; No. 20, 1994; No. 152, 1997; Nos. 5 and 46, 2011</div>
+    <div>am. No. 193, 1985; No. 20, 1994; No. 152, 1997; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1319,15 +1349,7 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 60, 1989; No. 43, 1996; No. 152, 1997; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 20(9)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 60, 1989; No. 43, 1996; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1396,26 +1418,10 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>S. 28</div>
+    <div>Ss. 28, 29</div>
   </td>
   <td>
     <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1539,6 +1545,52 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 825  Subsection 3(1) (definition of _appoint_)
+
+Repeal the definition.
+
+## 826  Paragraph 3(2)(b)
+
+Omit “, within the meaning of the _Seas and Submerged Lands Act 1973_,”.
+
+## 827  At the end of subsection 20(9)
+
+Add:
+
+Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
+
+## 828  Subsections 20(10) to (12)
+
+Repeal the subsections.
+
+## 829  Paragraph 29(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 830  Subsection 29(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 831  At the end of subsection 29(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 832  Subsections 29(2) to (6), (8) and (9)
+
+Repeal the subsections.
+
+As at 20 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1548,13 +1600,15 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 
 ## Schedule 1
 
-## 97  Application of amendments
+## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
