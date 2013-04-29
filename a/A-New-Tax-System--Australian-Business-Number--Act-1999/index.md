@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00395/Html/32f22297-3db0-4de2-9178-6945137c43b2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00061/Html/714b05c1-ea58-480a-aab5-8c8e306117d3_files/image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 4 January 2012
  taking into account amendments up to Act No. 147 of 2011
 
 The text of any of those amendments not in force 
@@ -849,9 +849,9 @@ Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Ad
 
                      (d)  either:
 
-                              (i)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_; or
+                              (i)  the business name registered for the entity under the law of a State or Territory; or
 
-                             (ii)  if a business name is not registered to the entity—a name used for business purposes by the entity that appeared in the entry relating to the entity in the * Australian Business Register immediately before Part 2 of the _Business Names Registration Act 2011_ commences;
+                             (ii)  if a business name is not registered for the entity—any name used for business purposes by the entity;
 
                      (e)  the date of effect of any GST registration under section 25‑10 of the _A New Tax System (Goods and Services Tax) Act 1999_;
 
@@ -1680,7 +1680,7 @@ Schedule 5 (items 283–287): Royal Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 20 Apr 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2] 
 Schedule 2 (item 27): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
@@ -2316,7 +2316,7 @@ No. 95, 2004</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 95, 2004; No. 154, 2007; No. 88, 2009; Nos. 127 and 147, 2011</div>
+    <div>am. No. 95, 2004; No. 154, 2007; No. 88, 2009; No. 147, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2497,7 +2497,21 @@ No. 95, 2004</div>
 
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
-The following amendment commences on 28 May 2013:
+The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 1  Paragraph 26(3)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  either:
+
+                              (i)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_; or
+
+                             (ii)  if a business name is not registered to the entity—a name used for business purposes by the entity that appeared in the entry relating to the entity in the * Australian Business Register immediately before Part 2 of the _Business Names Registration Act 2011_ commences;
+
+The following amendment commences on the first anniversary of the commencement of Part 2 of the _Business Names Registration Act 2011_:
 
 ## Schedule 2
 
@@ -2507,7 +2521,7 @@ Repeal the paragraph, substitute:
 
                      (d)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_;
 
-As at 20 April 2012 the amendment is not incorporated in this compilation.
+As at 4 January 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
