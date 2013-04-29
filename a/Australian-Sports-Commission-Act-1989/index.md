@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00100/Html/76d22eb3-f94c-40e0-9053-58387b6b6199_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00687/Html/24a986b3-58f7-458f-9768-8968f5f40a2e_files/image001.gif)
 
 # Australian Sports Commission Act 1989
 
 **Act No. 12 of 1989 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 29 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -186,7 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to all external Territories.
+                   This Act extends to all external Territories.
 
 ## Part II—Establishment, objects, functions and powers of the Commission
 
@@ -282,7 +282,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (6)  In this section, **_Australian Olympic Federation_** means the Australian Olympic Federation Incorporated, being an association incorporated on 24 April 1985 under the _Associations Incorporation Act 1985_ of Victoria.
 
-##### <a id="8"></a>8  Powers
+##### <a id="8"></a>8  Powers
 
              (1)  The Commission has power to do all things necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may:
 
@@ -462,25 +462,35 @@ the Minister shall terminate the appointment of the member.
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of Chairperson.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of Chairperson;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
              (2)  The Minister may appoint a member to act as Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia or is, for any reason (including the reason that the Deputy Chairperson is acting as the Chairperson), unable to perform the duties of the office of Deputy Chairperson.
+                     (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia or is, for any reason (including the reason that the Deputy Chairperson is acting as the Chairperson), unable to perform the duties of the office of Deputy Chairperson;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
              (3)  The Minister may appoint a person to act as a member referred to in paragraph 13(1)(c):
 
                      (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when that member is absent from duty or from   Australia or is, for any reason (including the reason that the member is acting as the Chairperson or Deputy Chairperson), unable to perform the duties of the office of member.
+                     (b)  during any period, or during all periods, when that member is absent from duty or from   Australia or is, for any reason (including the reason that the member is acting as the Chairperson or Deputy Chairperson), unable to perform the duties of the office of member;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (4)  Anything done by or in relation to a person purporting to act under subsection (1), (2) or (3) is not invalid because:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="21"></a>21  Meetings of Commission
 
@@ -660,13 +670,23 @@ during that year in giving effect to the strategic plan that relates, or the int
 
 ##### <a id="39"></a>39  Acting Executive Director
 
-                   The Commission may appoint a person (other than a member) to act as Executive Director:
+             (1)  The Commission may appoint a person (other than a member) to act as Executive Director:
 
                      (a)  during a vacancy in the office of Executive Director (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act as Executive Director is not invalid because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act as Executive Director had not arisen or had ceased.
 
 ##### <a id="40"></a>40  Application of sections 32 to 39 to Director
 
@@ -790,7 +810,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (e)  a person employed under section 41;
 
-all or any of the Commission’s powers under this Act, other than the Commission’s powers under sections 22, 23, 25, 26 and 39 and subsections 28(1), 29(1) and 30(1) (including the Commission’s powers under section 39 as that section applies by virtue of section 40).
+all or any of the Commission’s powers under this Act, other than the Commission’s powers under sections 22, 23, 25 and 26 and subsections 28(1), 29(1), 30(1) and 39(1) (including the Commission’s powers under subsection 39(1) as that subsection applies by virtue of section 40).
 
              (2)  The delegate is, in the exercise of a power so delegated, subject to any directions given by the Commission.
 
@@ -1021,7 +1041,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1, 41–43): Royal Assent <i>(b)</i></div>
+    <div>Schedule 4 (items 41–43): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1038,7 +1058,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 496–511): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 2 (items 496–512): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1072,7 +1092,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 260–263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 260–263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1089,7 +1109,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 56–58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    <div>Schedule 10 (items 56–58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1140,7 +1160,7 @@ Remainder: Royal Assent</div>
     <div>7 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–6) and Schedule 2 (items 20, 21): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
+    <div>Schedule 1 (items 4–6) and Schedule 2 (items 20, 21): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
   </td>
   <td>
     <div>Sch. 2 (items 20, 21) \[ <i>see</i>Table A]</div>
@@ -1210,7 +1230,7 @@ Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 259–276) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 259–276) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1221,11 +1241,11 @@ _(a)_     The _Environment, Sport and Territories Legislation Amendment 
 
                  (2)   Item 36 of Schedule 1 is taken to have commenced on the day on which the _Environment, Sport and Territories Legislation Amendment Act 1995_ received the Royal Assent.
 
-_(b)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 4 (items 1, 41–43) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 4 (items 41–43) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 2 (items 496–511) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(c)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 2 (items 496–512) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
@@ -1300,10 +1320,10 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 5(2)</div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>ad. No. 152, 1997</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1391,15 +1411,7 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 20(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 25, 1995</div>
   </td>
 </tr>
 <tr>
@@ -1464,22 +1476,6 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 39</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1772,14 +1768,6 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
 </tr>
 <tr>
   <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56</div>
   </td>
   <td>
@@ -1826,6 +1814,96 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
     <div>rep. No. 25, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 259  Paragraph 20(1)(b)
+
+Omit “Chairperson;”, substitute “Chairperson.”.
+
+## 260  Subsection 20(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 261  At the end of subsection 20(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 262  Paragraph 20(2)(b)
+
+Omit “Deputy Chairperson;”, substitute “Deputy Chairperson.”.
+
+## 263  Subsection 20(2)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 264  At the end of subsection 20(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 265  Paragraph 20(3)(b)
+
+Omit “member;”, substitute “member.”.
+
+## 266  Subsection 20(3)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 267  At the end of subsection 20(3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 268  Subsection 20(4)
+
+Repeal the subsection.
+
+## 269  Subsection 39(1)
+
+Omit “(1)”.
+
+## 270  Paragraph 39(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 271  Subsection 39(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 272  At the end of subsection 39(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 273  Subsection 39(2)
+
+Repeal the subsection.
+
+## 274  Subsection 54(1)
+
+Omit “and 26”, substitute “, 26 and 39”.
+
+## 275  Subsection 54(1)
+
+Omit “, 30(1) and 39(1)”, substitute “and 30(1)”.
+
+## 276  Subsection 54(1)
+
+Omit “subsection 39(1) as that subsection”, substitute “section 39 as that section”.
+
+As at 29 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1959,6 +2037,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
