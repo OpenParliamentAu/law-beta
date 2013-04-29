@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00354/Html/InternationalArbit1974_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00517/Html/InternationalArbit1974_WD02_image001.gif)
 
 # International Arbitration Act 1974
 
-**Act No. 136 of 1974 as amended**
+**Act No. 136 of 1974 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 31 May 2004
+ taking into account amendments up to Act No. 62 of 2004
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,12 +13,12 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary**
 
 [1](#1).            Short title of Principal Act [_see_ Note 1]
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2C](#2C).         Carriage of goods by sea
 
-**Part II—Enforcement of foreign awards**
+**Part II—Enforcement of foreign awards**
 
 [3](#3).            Interpretation
 
@@ -50,13 +50,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Application of Part
 
-**Part III—International Commercial Arbitration** 
+**Part III—International Commercial Arbitration** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary**
 
 [15](#15).          Interpretation
 
-    **Division 2—Model Law**
+    **Division 2—Model Law**
 
 [16](#16).          Model Law to have force of law
 
@@ -70,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Settlement of dispute otherwise than in accordance with Model Law
 
-    **Division 3—Optional provisions**
+    **Division 3—Optional provisions**
 
 [22](#22).          Application of optional provisions
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Costs
 
-    **Division 4—Miscellaneous**
+    **Division 4—Miscellaneous**
 
 [28](#28).          Liability of arbitrator
 
@@ -92,13 +92,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Application of Part
 
-**Part IV—Application of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States** 
+**Part IV—Application of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary**
 
 [31](#31).          Interpretation
 
-    **Division 2—Investment Convention**
+    **Division 2—Investment Convention**
 
 [32](#32).          Application of Investment Convention to Australia
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Recognition of awards
 
-    **Division 3—Miscellaneous**
+    **Division 3—Miscellaneous**
 
 [36](#36).          Evidence relating to Investment Convention
 
@@ -116,17 +116,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          Judiciary Act
 
-**Schedule 1—United Nations Conference on International Commercial Arbitration Convention on the Recognition and Enforcement of Foreign Arbitral Awards** 
+**Schedule 1—United Nations Conference on International Commercial Arbitration Convention on the Recognition and Enforcement of Foreign Arbitral Awards** 
 
-**Schedule 2—UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985)** 
+**Schedule 2—UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985)** 
 
-**Schedule 3—Convention on the Settlement of Investment Disputes Between States and Nationals of Other States** 
+**Schedule 3—Convention on the Settlement of Investment Disputes Between States and Nationals of Other States** 
 
 **Notes** 
 
+ 
+
 ## An Act relating to the recognition and enforcement of foreign arbitral awards, and the conduct of international commercial arbitrations, in Australia, and for related purposes
 
-## Part I—Preliminary
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title of Principal Act [_see_ Note 1]
 
@@ -134,7 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Sections 1, 2 and 3 shall come into operation on the day on which this Act receives the Royal Assent.
+             (1)  Sections 1, 2 and 3 shall come into operation on the day on which this Act receives the Royal Assent.
 
              (2)  The remaining provisions of this Act shall come into operation on a date to be fixed by Proclamation, being a date not earlier than the date on which the Convention enters into force for Australia.
 
@@ -150,11 +152,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Nothing in this Act affects:
 
-                     (a)  the continued operation of section 9 of the _Sea-Carriage of Goods Act 1924_ under subsection 20(2) of the _Carriage of Goods by Sea Act 1991_; or
+                     (a)  the continued operation of section 9 of the _Sea-Carriage of Goods Act 1924_ under subsection 20(2) of the _Carriage of Goods by Sea Act 1991_; or
 
-                     (b)  the operation of section 11 or 16 of the _Carriage of Goods by Sea Act 1991_.
+                     (b)  the operation of section 11 or 16 of the _Carriage of Goods by Sea Act 1991_.
 
-## Part II—Enforcement of foreign awards
+## Part II—Enforcement of foreign awards
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -168,7 +170,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_** includes the Territories.
 
-                    <a name="convent"></a>**_Convention_** means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty-fourth meeting, a copy of the English text of which is set out in Schedule 1.
+                    <a name="convent"></a>**_Convention_** means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty-fourth meeting, a copy of the English text of which is set out in Schedule 1.
 
                     <a name="convent-countri"></a>**_Convention country_** means a country (other than Australia) that is a Contracting State within the meaning of the Convention.
 
@@ -202,11 +204,11 @@ this section applies to the agreement.
 
 on the application of a party to the agreement, the court shall, by order, upon such conditions (if any) as it thinks fit, stay the proceedings or so much of the proceedings as involves the determination of that matter, as the case may be, and refer the parties to arbitration in respect of that matter.
 
-             (3)  Where a court makes an order under subsection (2), it may, for the purpose of preserving the rights of the parties, make such interim or supplementary orders as it thinks fit in relation to any property that is the subject of the matter to which the first-mentioned order relates.
+             (3)  Where a court makes an order under subsection (2), it may, for the purpose of preserving the rights of the parties, make such interim or supplementary orders as it thinks fit in relation to any property that is the subject of the matter to which the first-mentioned order relates.
 
-             (4)  For the purposes of subsections (2) and (3), a reference to a party includes a reference to a person claiming through or under a party.
+             (4)  For the purposes of subsections (2) and (3), a reference to a party includes a reference to a person claiming through or under a party.
 
-             (5)  A court shall not make an order under subsection (2) if the court finds that the arbitration agreement is null and void, inoperative or incapable of being performed.
+             (5)  A court shall not make an order under subsection (2) if the court finds that the arbitration agreement is null and void, inoperative or incapable of being performed.
 
 ##### <a id="8"></a>8  Recognition of foreign awards
 
@@ -220,15 +222,15 @@ on the application of a party to the agreement, the court shall, by order, upon 
 
                      (b)  the country in which the award was made is not, at that time, a Convention country;
 
-subsections (1) and (2) do not have effect in relation to the award unless that person is, at that time, domiciled or ordinarily resident in Australia or in a Convention country.
+subsections (1) and (2) do not have effect in relation to the award unless that person is, at that time, domiciled or ordinarily resident in Australia or in a Convention country.
 
-             (5)  Subject to subsection (6), in any proceedings in which the enforcement of a foreign award by virtue of this Part is sought, the court may, at the request of the party against whom it is invoked, refuse to enforce the award if that party proves to the satisfaction of the court that:
+             (5)  Subject to subsection (6), in any proceedings in which the enforcement of a foreign award by virtue of this Part is sought, the court may, at the request of the party against whom it is invoked, refuse to enforce the award if that party proves to the satisfaction of the court that:
 
-                     (a)  that party, being a party to the arbitration agreement in pursuance of which the award was made, was, under the law applicable to him or her, under some incapacity at the time when the agreement was made;
+                     (a)  that party, being a party to the arbitration agreement in pursuance of which the award was made, was, under the law applicable to him, under some incapacity at the time when the agreement was made;
 
                      (b)  the arbitration agreement is not valid under the law expressed in the agreement to be applicable to it or, where no law is so expressed to be applicable, under the law of the country where the award was made;
 
-                     (c)  that party was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his or her case in the arbitration proceedings;
+                     (c)  that party was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his case in the arbitration proceedings;
 
                      (d)  the award deals with a difference not contemplated by, or not falling within the terms of, the submission to arbitration, or contains a decision on a matter beyond the scope of the submission to arbitration;
 
@@ -236,7 +238,7 @@ subsections (1) and (2) do not have effect in relation to the award unless tha
 
                       (f)  the award has not yet become binding on the parties to the arbitration agreement or has been set aside or suspended by a competent authority of the country in which, or under the law of which, the award was made.
 
-             (6)  Where an award to which paragraph (5)(d) applies contains decisions on matters submitted to arbitration and those decisions can be separated from decisions on matters not so submitted, that part of the award which contains decisions on matters so submitted may be enforced.
+             (6)  Where an award to which paragraph (5)(d) applies contains decisions on matters submitted to arbitration and those decisions can be separated from decisions on matters not so submitted, that part of the award which contains decisions on matters so submitted may be enforced.
 
              (7)  In any proceedings in which the enforcement of a foreign award by virtue of this Part is sought, the court may refuse to enforce the award if it finds that:
 
@@ -248,21 +250,21 @@ subsections (1) and (2) do not have effect in relation to the award unless tha
 
 ##### <a id="9"></a>9  Evidence of awards and arbitration agreements
 
-             (1)  In any proceedings in which a person seeks the enforcement of a foreign award by virtue of this Part, he or she shall produce to the court:
+             (1)  In any proceedings in which a person seeks the enforcement of a foreign award by virtue of this Part, he shall produce to the court:
 
                      (a)  the duly authenticated original award or a duly certified copy; and
 
                      (b)  the original arbitration agreement under which the award purports to have been made or a duly certified copy.
 
-             (2)  For the purposes of subsection (1), an award shall be deemed to have been duly authenticated, and a copy of an award or agreement shall be deemed to have been duly certified, if:
+             (2)  For the purposes of subsection (1), an award shall be deemed to have been duly authenticated, and a copy of an award or agreement shall be deemed to have been duly certified, if:
 
                      (a)  it purports to have been authenticated or certified, as the case may be, by the arbitrator or, where the arbitrator is a tribunal, by an officer of that tribunal, and it has not been shown to the court that it was not in fact so authenticated or certified; or
 
                      (b)  it has been otherwise authenticated or certified to the satisfaction of the court.
 
-             (3)  If a document or part of a document produced under subsection (1) is written in a language other than English, there shall be produced with the document a translation, in the English language, of the document or that part, as the case may be, certified to be a correct translation.
+             (3)  If a document or part of a document produced under subsection (1) is written in a language other than English, there shall be produced with the document a translation, in the English language, of the document or that part, as the case may be, certified to be a correct translation.
 
-             (4)  For the purposes of subsection (3), a translation shall be certified by a diplomatic or consular agent in Australia of the country in which the award was made or otherwise to the satisfaction of the court.
+             (4)  For the purposes of subsection (3), a translation shall be certified by a diplomatic or consular agent in Australia of the country in which the award was made or otherwise to the satisfaction of the court.
 
              (5)  A document produced to a court in accordance with this section is, upon mere production, receivable by the court as _prima facie_ evidence of the matters to which it relates.
 
@@ -280,11 +282,11 @@ subsections (1) and (2) do not have effect in relation to the award unless tha
 
              (1)  The Secretary may, either generally or as otherwise provided by the instrument of delegation, in writing, delegate to the person occupying a specified office in the Department of Foreign Affairs and Trade all or any of the Secretary’s powers under subsection 10(1).
 
-             (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Secretary.
+             (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Secretary.
 
-             (3)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary.
+             (3)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary.
 
-             (4)  The delegation of a power under subsection (1) does not prevent the exercise of the power by the Secretary.
+             (4)  The delegation of a power under subsection (1) does not prevent the exercise of the power by the Secretary.
 
              (5)  In this section, **_Secretary_** means the Secretary to the Department of Foreign Affairs and Trade.
 
@@ -292,29 +294,29 @@ subsections (1) and (2) do not have effect in relation to the award unless tha
 
              (1)  This Part applies to the exclusion of any provisions made by a law of a State or Territory with respect to the recognition of arbitration agreements and the enforcement of foreign awards, being provisions that operate in whole or in part by reference to the Convention.
 
-             (2)  Except as provided in subsection (1), nothing in this Part affects the right of any person to the enforcement of a foreign award otherwise than in pursuance of this Act.
+             (2)  Except as provided in subsection (1), nothing in this Part affects the right of any person to the enforcement of a foreign award otherwise than in pursuance of this Act.
 
 ##### <a id="13"></a>13  Judiciary Act
 
-                   A matter arising under this Part, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903-1973_, be deemed not to be a matter arising directly under a treaty.
+                   A matter arising under this Part, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903-1973_, be deemed not to be a matter arising directly under a treaty.
 
 ##### <a id="14"></a>14  Application of Part
 
                    The application of this Part extends to agreements and awards made before the date fixed under subsection 2(2), including agreements and awards made before the day referred to in subsection 2(1).
 
-## Part III—International Commercial Arbitration
+## Part III—International Commercial Arbitration
 
-### Division 1—Preliminary
+### Division 1—Preliminary
 
 ##### <a id="15"></a>15  Interpretation
 
              (1)  In this Part:
 
-                    <a name="model-law"></a>**_Model Law_** means the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21 June 1985, the English text of which is set out in Schedule 2.
+                    <a name="model-law"></a>**_Model Law_** means the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21 June 1985, the English text of which is set out in Schedule 2.
 
              (2)  Except so far as the contrary intention appears, a word or expression that is used both in this Part and in the Model Law (whether or not a particular meaning is given to it by the Model Law) has, in this Part, the same meaning as it has in the Model Law.
 
-### Division 2—Model Law
+### Division 2—Model Law
 
 ##### <a id="16"></a>16  Model Law to have force of law
 
@@ -336,7 +338,7 @@ subsections (1) and (2) do not have effect in relation to the award unless tha
 
 relating to the Model Law.
 
-             (2)  Subsection (1) does not affect the application of section 15AB of the _Acts Interpretation Act 1901_ for the purposes of interpreting this Part.
+             (2)  Subsection (1) does not affect the application of section 15AB of the _Acts Interpretation Act 1901_ for the purposes of interpreting this Part.
 
 ##### <a id="18"></a>18  Courts specified for purposes of Article 6 of Model Law
 
@@ -360,13 +362,13 @@ The following courts shall be taken to have been specified in Article 6 of the M
 
 ##### <a id="20"></a>20  Chapter VIII of Model Law not to apply in certain cases
 
-                   Where, but for this section, both Chapter VIII of the Model Law and Part II of this Act would apply in relation to an award, Chapter VIII of the Model Law does not apply in relation to the award.
+                   Where, but for this section, both Chapter VIII of the Model Law and Part II of this Act would apply in relation to an award, Chapter VIII of the Model Law does not apply in relation to the award.
 
 ##### <a id="21"></a>21  Settlement of dispute otherwise than in accordance with Model Law
 
                    If the parties to an arbitration agreement have (whether in the agreement or in any other document in writing) agreed that any dispute that has arisen or may arise between them is to be settled otherwise than in accordance with the Model Law, the Model Law does not apply in relation to the settlement of that dispute.
 
-### Division 3—Optional provisions
+### Division 3—Optional provisions
 
 ##### <a id="22"></a>22  Application of optional provisions
 
@@ -382,7 +384,7 @@ The following courts shall be taken to have been specified in Article 6 of the M
 
 as if any reference in that chapter to an arbitral award or an award were a reference to such an order.
 
-##### <a id="24"></a>24  Consolidation of arbitral proceedings
+##### <a id="24"></a>24  Consolidation of arbitral proceedings
 
              (1)  A party to arbitral proceedings before an arbitral tribunal may apply to the tribunal for an order under this section in relation to those proceedings and other arbitral proceedings (whether before that tribunal or another tribunal or other tribunals) on the ground that:
 
@@ -400,7 +402,7 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
                      (c)  that any of the proceedings be stayed pending the determination of any other of the proceedings.
 
-             (3)  Where an application has been made under subsection (1) in relation to 2 or more arbitral proceedings (in this section called the **_related proceedings_**), the following provisions have effect.
+             (3)  Where an application has been made under subsection (1) in relation to 2 or more arbitral proceedings (in this section called the **_related proceedings_**), the following provisions have effect.
 
              (4)  If all the related proceedings are being heard by the same tribunal, the tribunal may make such order under this section as it thinks fit in relation to those proceedings and, if such an order is made, the proceedings shall be dealt with in accordance with the order.
 
@@ -418,15 +420,15 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
                      (c)  if the order is that the related proceedings be consolidated—the arbitrator or arbitrators for the purposes of the consolidated proceedings shall be appointed, in accordance with Articles 10 and 11 of the Model Law, from the members of the tribunals.
 
-             (7)  If the tribunals are unable to make an order under subsection (6), the related proceedings shall proceed as if no application has been made under subsection (1).
+             (7)  If the tribunals are unable to make an order under subsection (6), the related proceedings shall proceed as if no application has been made under subsection (1).
 
              (8)  This section does not prevent the parties to related proceedings from agreeing to consolidate them and taking such steps as are necessary to effect that consolidation.
 
 ##### <a id="25"></a>25  Interest up to making of award
 
-             (1)  Unless the parties to an arbitration agreement have (whether in the agreement or in any other document in writing) otherwise agreed, where an arbitral tribunal determines to make an award for the payment of money (whether on a claim for a liquidated or an unliquidated amount), the tribunal may, subject to subsection (2), include in the sum for which the award is made interest, at such reasonable rate as the tribunal determines on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which the award is made.
+             (1)  Unless the parties to an arbitration agreement have (whether in the agreement or in any other document in writing) otherwise agreed, where an arbitral tribunal determines to make an award for the payment of money (whether on a claim for a liquidated or an unliquidated amount), the tribunal may, subject to subsection (2), include in the sum for which the award is made interest, at such reasonable rate as the tribunal determines on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which the award is made.
 
-             (2)  Subsection (1) does not:
+             (2)  Subsection (1) does not:
 
                      (a)  authorise the awarding of interest upon interest;
 
@@ -454,7 +456,7 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
              (4)  If no provision is made by an award with respect to the costs of the arbitration, a party to the arbitration agreement may, within 14 days after receiving the award, apply to the arbitral tribunal for directions as to the payment of those costs, and thereupon the tribunal shall, after hearing any party who wishes to be heard, amend the award by adding to it such directions as the tribunal thinks proper with respect to the payment of the costs of the arbitration.
 
-### Division 4—Miscellaneous
+### Division 4—Miscellaneous
 
 ##### <a id="28"></a>28  Liability of arbitrator
 
@@ -472,17 +474,17 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
                      (c)  by any other person of that party’s choice.
 
-             (3)  A legal practitioner or a person, referred to in paragraphs (2)(b) or (c) respectively, while acting on behalf of a party to an arbitral proceeding to which Part III applies, including appearing before an arbitral tribunal, shall not thereby be taken to have breached any law regulating admission to, or the practice of, the profession of the law within the legal jurisdiction in which the arbitral proceedings are conducted.
+             (3)  A legal practitioner or a person, referred to in paragraphs (2)(b) or (c) respectively, while acting on behalf of a party to an arbitral proceeding to which Part III applies, including appearing before an arbitral tribunal, shall not thereby be taken to have breached any law regulating admission to, or the practice of, the profession of the law within the legal jurisdiction in which the arbitral proceedings are conducted.
 
-             (4)  Where, subject to the agreement of the parties, an arbitral tribunal conducts proceedings on the basis of documents and other materials, such documents and materials may be prepared and submitted by any legal practitioner or person who would, under subsection (2), be entitled to appear before the tribunal, and, in such a case, subsection (3) shall apply with the same force and effect to such a legal practitioner or person.
+             (4)  Where, subject to the agreement of the parties, an arbitral tribunal conducts proceedings on the basis of documents and other materials, such documents and materials may be prepared and submitted by any legal practitioner or person who would, under subsection (2), be entitled to appear before the tribunal, and, in such a case, subsection (3) shall apply with the same force and effect to such a legal practitioner or person.
 
 ##### <a id="30"></a>30  Application of Part
 
                    This Part does not apply in relation to an international commercial arbitration between parties to an arbitration agreement that was concluded before the commencement of this Part unless the parties have (whether in the agreement or in any other document in writing) otherwise agreed.
 
-## Part IV—Application of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States
+## Part IV—Application of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States
 
-### Division 1—Preliminary
+### Division 1—Preliminary
 
 ##### <a id="31"></a>31  Interpretation
 
@@ -498,7 +500,7 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
                     <a name="depart"></a>**_Department_** means the Department of the Commonwealth primarily responsible for matters relating to foreign affairs.
 
-                    <a name="invest-convent"></a>**_Investment Convention_** means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States signed by Australia on 24 March 1975, the English text of which is set out in Schedule 3.
+                    <a name="invest-convent"></a>**_Investment Convention_** means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States signed by Australia on 24 March 1975, the English text of which is set out in Schedule 3.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
@@ -506,7 +508,7 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
              (3)  A reference in this Part to a numbered Article is a reference to the Article so numbered in the Investment Convention.
 
-### Division 2—Investment Convention
+### Division 2—Investment Convention
 
 ##### <a id="32"></a>32  Application of Investment Convention to Australia
 
@@ -532,13 +534,13 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
              (2)  An award may be enforced in the Supreme Court of a State or Territory as if the award had been made in that State or Territory in accordance with the law of the State or Territory.
 
-### Division 3—Miscellaneous
+### Division 3—Miscellaneous
 
 ##### <a id="36"></a>36  Evidence relating to Investment Convention
 
              (1)  A certificate purporting to be signed by the Secretary and stating that a country specified in the certificate is, or was at a time so specified, a Contracting State is, upon mere production, receivable in any proceedings as _prima facie_ evidence of that fact.
 
-             (2)  The Secretary may, by signed instrument, delegate the power to sign a certificate under subsection (1) to the holder of a specified office in the Department.
+             (2)  The Secretary may, by signed instrument, delegate the power to sign a certificate under subsection (1) to the holder of a specified office in the Department.
 
 ##### <a id="37"></a>37  Representation in proceedings
 
@@ -550,17 +552,17 @@ as if any reference in that chapter to an arbitral award or an award were a refe
 
                      (c)  by any other person of the partyîs choice.
 
-             (2)  A legal practitioner or a person referred to in paragraph (1)(b) or (c) respectively, while acting on behalf of a party to conciliation or arbitration proceedings, is not thereby to be taken to have breached any law regulating admission to, or the practice of, the profession of the law within the legal jurisdiction in which the proceedings are being conducted.
+             (2)  A legal practitioner or a person referred to in paragraph (1)(b) or (c) respectively, while acting on behalf of a party to conciliation or arbitration proceedings, is not thereby to be taken to have breached any law regulating admission to, or the practice of, the profession of the law within the legal jurisdiction in which the proceedings are being conducted.
 
-             (3)  Where conciliation or arbitration proceedings are conducted on the basis of documents and other materials, the documents and materials may be prepared and submitted by any legal practitioner or person who would, under subsection (1), be entitled to appear in those proceedings, and, in such a case, subsection (2) applies with the same force and effect to such a legal practitioner or person.
+             (3)  Where conciliation or arbitration proceedings are conducted on the basis of documents and other materials, the documents and materials may be prepared and submitted by any legal practitioner or person who would, under subsection (1), be entitled to appear in those proceedings, and, in such a case, subsection (2) applies with the same force and effect to such a legal practitioner or person.
 
 ##### <a id="38"></a>38  Judiciary Act
 
-                   A matter arising under this Part, including a question of interpretation of the Investment Convention for the purposes of this Part, is not taken to be a matter arising directly under a treaty for the purposes of section 38 of the _Judiciary Act 1903_.
+                   A matter arising under this Part, including a question of interpretation of the Investment Convention for the purposes of this Part, is not taken to be a matter arising directly under a treaty for the purposes of section 38 of the _Judiciary Act 1903_.
 
-# Schedule 1—United Nations Conference on International Commercial Arbitration Convention on the Recognition and Enforcement of Foreign Arbitral Awards
+# Schedule 1—United Nations Conference on International Commercial Arbitration Convention on the Recognition and Enforcement of Foreign Arbitral Awards
 
-Section 3 
+Section 3 
 
 ARTICLE I
 
@@ -624,7 +626,7 @@ ARTICLE VII
 
 ARTICLE VIII 
 
-1.  This Convention shall be open until 31 December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialized agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
+1.  This Convention shall be open until 31 December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialized agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
 
 2.  This Convention shall be ratified and the instrument of ratification shall be deposited with the Secretary-General of the United Nations.
 
@@ -690,7 +692,7 @@ ARTICLE XVI
 
 2.  The Secretary-General of the United Nations shall transmit a certified copy of this Convention to the States contemplated in article VIII. 
 
-# Schedule 2—UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985)
+# Schedule 2—UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985)
 
 Subsection 15 (1)
 
@@ -714,7 +716,7 @@ Article 1\. _Scope of application_<span style="font-family:Symbol">*</span>
 
 (c)   the parties have expressly agreed that the subject-matter of the arbitration agreement relates to more than one country.
 
-(4)   For the purposes of paragraph (3) of this article:
+(4)   For the purposes of paragraph (3) of this article:
 
 (a)   if a party has more than one place of business, the place of business is that which has the closest relationship to the arbitration agreement;
 
@@ -772,7 +774,7 @@ Article 8\. _Arbitration agreement and substantive claim before court_
 
 (1)   A court before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative or incapable of being performed.
 
-(2)   Where an action referred to in paragraph (1) of this article has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.
+(2)   Where an action referred to in paragraph (1) of this article has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.
 
 Article 9\. _Arbitration agreement and interim measures by court_
 
@@ -790,7 +792,7 @@ Article 11\. _Appointment of arbitrators_
 
 (1)   No person shall be precluded by reason of his nationality from acting as an arbitrator, unless otherwise agreed by the parties. 
 
-(2)   The parties are free to agree on a procedure of appointing the arbitrator or arbitrators, subject to the provisions of paragraphs (4) and (5) of this article.
+(2)   The parties are free to agree on a procedure of appointing the arbitrator or arbitrators, subject to the provisions of paragraphs (4) and (5) of this article.
 
 (3)   Failing such agreement,
 
@@ -808,7 +810,7 @@ Article 11\. _Appointment of arbitrators_
 
 any party may request the court or other authority specified in article 6 to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
 
-(5)   A decision on a matter entrusted by paragraph (3) or (4) of this article to the court or other authority specified in article 6 shall be subject to no appeal. The court or other authority, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
+(5)   A decision on a matter entrusted by paragraph (3) or (4) of this article to the court or other authority specified in article 6 shall be subject to no appeal. The court or other authority, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
 
 Article 12\. _Grounds for challenge_
 
@@ -818,11 +820,11 @@ Article 12\. _Grounds for challenge_
 
 Article 13\. _Challenge procedure_
 
-(1)   The parties are free to agree on a procedure for challenging an arbitrator, subject to the provisions of paragraph (3) of this article.
+(1)   The parties are free to agree on a procedure for challenging an arbitrator, subject to the provisions of paragraph (3) of this article.
 
 (2)   Failing such agreement, a party who intends to challenge an arbitrator shall, within fifteen days after becoming aware of the constitution of the arbitral tribunal or after becoming aware of any circumstance referred to in article 12 (2), send a written statement of the reasons for the challenge to the arbitral tribunal. Unless the challenged arbitrator withdraws from his office or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge.
 
-(3)   If a challenge under any procedure agreed upon by the parties or under the procedure of paragraph (2) of this article is not successful, the challenging party may request, within thirty days after having received notice of the decision rejecting the challenge, the court or other authority specified in article 6 to decide on the challenge, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitral proceedings and make an award.
+(3)   If a challenge under any procedure agreed upon by the parties or under the procedure of paragraph (2) of this article is not successful, the challenging party may request, within thirty days after having received notice of the decision rejecting the challenge, the court or other authority specified in article 6 to decide on the challenge, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitral proceedings and make an award.
 
 Article 14\. _Failure or impossibility to act_
 
@@ -842,7 +844,7 @@ Article 16\. _Competence of arbitral tribunal to rule on its jurisdiction_
 
 (2)   A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence. A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
 
-(3)   The arbitral tribunal may rule on a plea referred to in paragraph (2) of this article either as a preliminary question or in an award on the merits. If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in article 6 to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
+(3)   The arbitral tribunal may rule on a plea referred to in paragraph (2) of this article either as a preliminary question or in an award on the merits. If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in article 6 to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
 
 Article 17\. _Power of arbitral tribunal to order interim measures_
 
@@ -864,7 +866,7 @@ Article 20\. _Place of arbitration_
 
 (1)   The parties are free to agree on the place of arbitration. Failing such agreement, the place of arbitration shall be determined by the arbitral tribunal having regard to the circumstances of the case, including the convenience of the parties.
 
-(2)   Notwithstanding the provisions of paragraph (1) of this article, the arbitral tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of goods, other property or documents.
+(2)   Notwithstanding the provisions of paragraph (1) of this article, the arbitral tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of goods, other property or documents.
 
 Article 21\. _Commencement of arbitral proceedings_
 
@@ -944,11 +946,11 @@ Article 31\. _Form and contents of award_
 
 (3)   The award shall state its date and the place of arbitration as determined in accordance with article 20 (1). The award shall be deemed to have been made at that place. 
 
-(4)   After the award is made, a copy signed by the arbitrators in accordance with paragraph (1) of this article shall be delivered to each party.
+(4)   After the award is made, a copy signed by the arbitrators in accordance with paragraph (1) of this article shall be delivered to each party.
 
 Article 32\. _Termination of proceedings_
 
-(1)   The arbitral proceedings are terminated by the final award or by an order of the arbitral tribunal in accordance with paragraph (2) of this article.
+(1)   The arbitral proceedings are terminated by the final award or by an order of the arbitral tribunal in accordance with paragraph (2) of this article.
 
 (2)   The arbitral tribunal shall issue an order for the termination of the arbitral proceedings when: 
 
@@ -970,11 +972,11 @@ Article 33\. _Correction and interpretation of award; additional award_
 
 If the arbitral tribunal considers the request to be justified, it shall make the correction or give the interpretation within thirty days of receipt of the request. The interpretation shall form part of the award.
 
-(2)   The arbitral tribunal may correct any error of the type referred to in paragraph (1) (a) of this article on its own initiative within thirty days of the date of the award.
+(2)   The arbitral tribunal may correct any error of the type referred to in paragraph (1) (a) of this article on its own initiative within thirty days of the date of the award.
 
 (3)   Unless otherwise agreed by the parties, a party, with notice to the other party, may request, within thirty days of receipt of the award, the arbitral tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted from the award. If the arbitral tribunal considers the request to be justified, it shall make the additional award within sixty days.
 
-(4)   The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation or an additional award under paragraph (1) or (3) of this article.
+(4)   The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation or an additional award under paragraph (1) or (3) of this article.
 
 (5)   The provisions of article 31 shall apply to a correction or interpretation of the award or to an additional award.
 
@@ -982,7 +984,7 @@ CHAPTER VII. RECOURSE AGAINST AWARD
 
 Article 34\. _Application for setting aside as exclusive recourse against arbitral award_
 
-(1)   Recourse to a court against an arbitral award may be made only by an application for setting aside in accordance with paragraphs (2) and (3) of this article.
+(1)   Recourse to a court against an arbitral award may be made only by an application for setting aside in accordance with paragraphs (2) and (3) of this article.
 
 (2)   An arbitral award may be set aside by the court specified in article 6 only if:
 
@@ -1036,9 +1038,9 @@ Article 36\. _Grounds for refusing recognition or enforcement_
 
 (ii)   the recognition or enforcement of the award would be contrary to the public policy of this State.
 
-(2)   If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1) (a) (v) of this article, the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
+(2)   If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1) (a) (v) of this article, the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
 
-# Schedule 3—Convention on the Settlement of Investment Disputes Between States and Nationals of Other States 
+# Schedule 3—Convention on the Settlement of Investment Disputes Between States and Nationals of Other States 
 
 Subsection 31 (1)
 
@@ -1066,7 +1068,7 @@ The Contracting States
 
 **International Centre for Settlement of Investment Disputes**
 
-SECTION 1
+SECTION 1
 
 **Establishment and Organization**
 
@@ -1084,7 +1086,7 @@ _Article 3_
 
 The Centre shall have an Administrative Council and a Secretariat and shall maintain a Panel of Conciliators and a Panel of Arbitrators.
 
-SECTION 2
+SECTION 2
 
 **The Administrative Council**
 
@@ -1116,7 +1118,7 @@ _Article 6_
 
 (g)   approve the annual report on the operation of the Centre.
 
-The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
+The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
 
 (2)   The Administrative Council may appoint such committees as it considers necessary.
 
@@ -1136,7 +1138,7 @@ _Article 8_
 
 Members of the Administrative Council and the Chairman shall serve without remuneration from the Centre. 
 
-SECTION 3
+SECTION 3
 
 **The Secretariat**
 
@@ -1156,7 +1158,7 @@ _Article 11_
 
 The Secretary-General shall be the legal representative and the principal officer of the Centre and shall be responsible for its administration, including the appointment of staff, in accordance with the provisions of this Convention and the rules adopted by the Administrative Council. He shall perform the function of registrar and shall have the power to authenticate arbitral awards rendered pursuant to this Convention, and to certify copies thereof.
 
-SECTION 4
+SECTION 4
 
 **The Panels**
 
@@ -1192,7 +1194,7 @@ _Article 16_
 
 (3)   All designations shall be notified to the Secretary-General and shall take effect from the date on which the notification is received. 
 
-SECTION 5
+SECTION 5
 
 **Financing the Centre**
 
@@ -1200,7 +1202,7 @@ _Article 17_
 
 If the expenditure of the Centre cannot be met out of charges for the use of its facilities, or out of other receipts, the excess shall be borne by Contracting States which are members of the Bank in proportion to their respective subscriptions to the capital stock of the Bank, and by Contracting States which are not members of the Bank in accordance with rules adopted by the Administrative Council.
 
-SECTION 6
+SECTION 6
 
 **Status, Immunities and Privileges**
 
@@ -1224,7 +1226,7 @@ The Centre, its property and assets shall enjoy immunity from all legal process,
 
 _Article 21_
 
-The Chairman, the members of the Administrative Council, persons acting as conciliators or arbitrators or members of a Committee appointed pursuant to paragraph (3) of Article 52, and the officers and employees of the Secretariat
+The Chairman, the members of the Administrative Council, persons acting as conciliators or arbitrators or members of a Committee appointed pursuant to paragraph (3) of Article 52, and the officers and employees of the Secretariat
 
 (a)   shall enjoy immunity from legal process with respect to acts performed by them in the exercise of their functions, except when the Centre waives this immunity;
 
@@ -1232,7 +1234,7 @@ The Chairman, the members of the Administrative Council, persons acting as conci
 
 _Article 22_ 
 
-The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts; provided, however, that sub-paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
+The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts; provided, however, that sub-paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
 
 _Article 23_ 
 
@@ -1246,7 +1248,7 @@ _Article 24_
 
 (2)   Except in the case of local nationals, no tax shall be levied on or in respect of expense allowances paid by the Centre to the Chairman or members of the Administrative Council, or on or in respect of salaries, expense allowances or other emoluments paid by the Centre to officials or employees of the Secretariat.
 
-(3)   No tax shall be levied on or in respect of fees or expense allowances received by persons acting as conciliators, or arbitrators, or members of a Committee appointed pursuant to paragraph (3) of Article 52, in proceedings under this Convention, if the sole jurisdictional basis for such tax is the location of the Centre or the place where such proceedings are conducted or the place where such fees or allowances are paid.
+(3)   No tax shall be levied on or in respect of fees or expense allowances received by persons acting as conciliators, or arbitrators, or members of a Committee appointed pursuant to paragraph (3) of Article 52, in proceedings under this Convention, if the sole jurisdictional basis for such tax is the location of the Centre or the place where such proceedings are conducted or the place where such fees or allowances are paid.
 
 **CHAPTER II**
 
@@ -1258,13 +1260,13 @@ _Article 25_
 
 (2)   “National of another Contracting State” means:
 
-(a    any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
+(a    any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
 
 (b    any juridical person which had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration and any juridical person which had the nationality of the Contracting State party to the dispute on that date and which, because of foreign control, the parties have agreed should be treated as a national of another Contracting State for the purposes of this Convention.
 
 (3)   Consent by a constituent subdivision or agency of a Contracting State shall require the approval of that State unless that State notifies the Centre that no such approval is required.
 
-(4)   Any   Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
+(4)   Any   Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
 
 _Article 26_ 
 
@@ -1274,25 +1276,25 @@ _Article 27_
 
 (1)   No Contracting State shall give diplomatic protection, or bring an international claim, in respect of a dispute which one of its nationals and another Contracting State shall have consented to submit or shall have submitted to arbitration under this Convention, unless such other Contracting State shall have failed to abide by and comply with the award rendered in such dispute.
 
-(2)   Diplomatic protection, for the purposes of paragraph (1), shall not include informal diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute. 
+(2)   Diplomatic protection, for the purposes of paragraph (1), shall not include informal diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute. 
 
 **CHAPTER III**
 
 **Conciliation**
 
-SECTION 1
+SECTION 1
 
 **Request for Conciliation**
 
 _Article 28_
 
-(1)   Any Contracting State or any national of a Contracting  State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
+(1)   Any   Contracting State or any national of a Contracting State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
 (2)   The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to conciliation in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
 (3)   The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
 
-SECTION 2
+SECTION 2
 
 **Constitution of the Conciliation Commission**
 
@@ -1306,15 +1308,15 @@ _Article 29_
 
 _Article 30_ 
 
-If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
+If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
 
 _Article 31_
 
 (1)   Conciliators may be appointed from outside the Panel of Conciliators, except in the case of appointments by the Chairman pursuant to Article 30.
 
-(2)   Conciliators appointed from outside the Panel of Conciliators shall possess the qualities stated in paragraph (1) of Article 14.
+(2)   Conciliators appointed from outside the Panel of Conciliators shall possess the qualities stated in paragraph (1) of Article 14.
 
-SECTION 3
+SECTION 3
 
 **Conciliation Proceedings**
 
@@ -1342,7 +1344,7 @@ Except as the parties to the dispute shall otherwise agree, neither party to a c
 
 **Arbitration**
 
-SECTION 1
+SECTION 1
 
 **Request for Arbitration**
 
@@ -1354,7 +1356,7 @@ _Article 36_
 
 (3)   The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
 
-SECTION 2
+SECTION 2
 
 **Constitution of the Tribunal**
 
@@ -1368,7 +1370,7 @@ _Article 37_
 
 _Article 38_ 
 
-If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
+If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
 
 _Article 39_
 
@@ -1378,9 +1380,9 @@ _Article 40_
 
 (1)   Arbitrators may be appointed from outside the Panel of Arbitrators, except in the case of appointments by the Chairman pursuant to Article 38.
 
-(2)   Arbitrators appointed from outside the Panel of Arbitrators shall possess the qualities stated in paragraph (1) of Article 14.
+(2)   Arbitrators appointed from outside the Panel of Arbitrators shall possess the qualities stated in paragraph (1) of Article 14.
 
-SECTION 3
+SECTION 3
 
 **Powers and Functions of the Tribunal**
 
@@ -1396,7 +1398,7 @@ _Article 42_
 
 (2)   The Tribunal may not bring in a finding of _non liquet_ on the ground of silence or obscurity of the law.
 
-(3)   The provisions of paragraphs (1) and (2) shall not prejudice the power of the Tribunal to decide a dispute _ex aequo et bono_ if the parties so agree.
+(3)   The provisions of paragraphs (1) and (2) shall not prejudice the power of the Tribunal to decide a dispute _ex aequo et bono_ if the parties so agree.
 
 _Article 43_
 
@@ -1424,7 +1426,7 @@ _Article 47_
 
 Except as the parties otherwise agree, the Tribunal may, if it considers that the circumstances so require, recommend any provisional measures which should be taken to preserve the respective rights of either party.
 
-SECTION 4
+SECTION 4
 
 **The Award**
 
@@ -1444,9 +1446,9 @@ _Article 49_
 
 (1)   The Secretary-General shall promptly dispatch certified copies of the award to the parties. The award shall be deemed to have been rendered on the date on which the certified copies were dispatched.
 
-(2)   The Tribunal upon the request of a party made within 45 days after the date on which the award was rendered may after notice to the other party decide any question which it had omitted to decide in the award, and shall rectify any clerical, arithmetical or similar error in the award. Its decision shall become part of the award and shall be notified to the parties in the same manner as the award. The periods of time provided for under paragraph (2) of Article 51 and paragraph (2) of Article 52 shall run from the date on which the decision was rendered.
+(2)   The Tribunal upon the request of a party made within 45 days after the date on which the award was rendered may after notice to the other party decide any question which it had omitted to decide in the award, and shall rectify any clerical, arithmetical or similar error in the award. Its decision shall become part of the award and shall be notified to the parties in the same manner as the award. The periods of time provided for under paragraph (2) of Article 51 and paragraph (2) of Article 52 shall run from the date on which the decision was rendered.
 
-SECTION 5
+SECTION 5
 
 **Interpretation, Revision and Annulment of the Award**
 
@@ -1454,7 +1456,7 @@ _Article 50_
 
 (1)   If any dispute shall arise between the parties as to the meaning or scope of an award, either party may request interpretation of the award by an application in writing addressed to the Secretary-General.
 
-(2)   The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
+(2)   The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
 
 _Article 51_ 
 
@@ -1462,7 +1464,7 @@ _Article 51_
 
 (2)   The application shall be made within 90 days after the discovery of such fact and in any event within three years after the date on which the award was rendered.
 
-(3)   The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter.
+(3)   The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter.
 
 (4)   The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Tribunal rules on such request.
 
@@ -1482,15 +1484,15 @@ _Article 52_
 
 (2)   The application shall be made within 120 days after the date on which the award was rendered except that when annulment is requested on the ground of corruption such application shall be made within 120 days after discovery of the corruption and in any event within three years after the date on which the award was rendered.
 
-(3)   On receipt of the request the Chairman shall forthwith appoint from the Panel of Arbitrators an _ad hoc_ Committee of three persons. None of the members of the Committee shall have been a member of the Tribunal which rendered the award, shall be of the same nationality as any such member, shall be a national of the State party to the dispute or of the State whose national is a party to the dispute, shall have been designated to the Panel of Arbitrators by either of those States, or shall have acted as a conciliator in the same dispute. The Committee shall have the authority to annul the award or any part thereof on any of the grounds set forth in paragraph (1).
+(3)   On receipt of the request the Chairman shall forthwith appoint from the Panel of Arbitrators an _ad hoc_ Committee of three persons. None of the members of the Committee shall have been a member of the Tribunal which rendered the award, shall be of the same nationality as any such member, shall be a national of the State party to the dispute or of the State whose national is a party to the dispute, shall have been designated to the Panel of Arbitrators by either of those States, or shall have acted as a conciliator in the same dispute. The Committee shall have the authority to annul the award or any part thereof on any of the grounds set forth in paragraph (1).
 
 (4)   The provisions of Articles 41-45, 48, 49, 53 and 54, and of Chapters VI and VII shall apply _mutatis mutandis_ to proceedings before the Committee.
 
 (5)   The Committee may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Committee rules on such request.
 
-(6)   If the award is annulled the dispute shall, at the request of either party, be submitted to a new Tribunal constituted in accordance with Section 2 of this Chapter.
+(6)   If the award is annulled the dispute shall, at the request of either party, be submitted to a new Tribunal constituted in accordance with Section 2 of this Chapter.
 
-SECTION 6
+SECTION 6
 
 **Recognition and Enforcement of the Award**
 
@@ -1518,7 +1520,7 @@ CHAPTER V
 
 _Article 56_
 
-(1)   After a Commission or a Tribunal has been constituted and proceedings have begun, its composition shall remain unchanged; provided, however, that if a conciliator or an arbitrator should die, become incapacitated, or resign, the resulting vacancy shall be filled in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
+(1)   After a Commission or a Tribunal has been constituted and proceedings have begun, its composition shall remain unchanged; provided, however, that if a conciliator or an arbitrator should die, become incapacitated, or resign, the resulting vacancy shall be filled in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
 (2)   A member of a Commission or Tribunal shall continue to serve in that capacity notwithstanding that he shall have ceased to be a member of the Panel.
 
@@ -1526,11 +1528,11 @@ _Article 56_
 
 _Article 57_
 
-A party may propose to a Commission or Tribunal the disqualification of any of its members on account of any fact indicating a manifest lack of the qualities required by paragraph (1) of Article 14\. A party to arbitration proceedings may, in addition, propose the disqualification of an arbitrator on the ground that he was ineligible for appointment to the Tribunal under Section 2 of Chapter IV.
+A party may propose to a Commission or Tribunal the disqualification of any of its members on account of any fact indicating a manifest lack of the qualities required by paragraph (1) of Article 14\. A party to arbitration proceedings may, in addition, propose the disqualification of an arbitrator on the ground that he was ineligible for appointment to the Tribunal under Section 2 of Chapter IV.
 
 _Article 58_
 
-The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
+The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
 CHAPTER VI
 
@@ -1544,7 +1546,7 @@ _Article 60_
 
 (1)   Each Commission and each Tribunal shall determine the fees and expenses of its members within limits established from time to time by the Administrative Council and after consultation with the Secretary-General.
 
-(2)   Nothing in paragraph (1) of this Article shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees and expenses of its members.
+(2)   Nothing in paragraph (1) of this Article shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees and expenses of its members.
 
 _Article 61_
 
@@ -1650,7 +1652,7 @@ DONE at Washington in the English, French and Spanish languages, all three texts
 
 ### Note 1
 
-The _International Arbitration Act 1974_ as shown in this compilation comprises Act No. 136, 1974 amended as indicated in the Tables below.
+The _International Arbitration Act 1974_ as shown in this compilation comprises Act No. 136, 1974 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1697,7 +1699,7 @@ of Assent</div>
   <td>
     <div>Ss. 1–3: Royal Assent 
 Remainder: 
-24 June 1975 ( <i>see Gazette</i>1975, No. G24, p. 2)</div>
+24 June 1975 ( <i>see Gazette</i>1975, No. G24, p. 2)</div>
   </td>
   <td>
     <div></div>
@@ -1715,7 +1717,7 @@ Remainder:
   </td>
   <td>
     <div>Parts II–XVII 
-(ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+(ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1747,10 +1749,10 @@ Remainder: Royal Assent</div>
     <div>25, 1989</div>
   </td>
   <td>
-    <div>15 May 1989</div>
+    <div>15 May 1989</div>
   </td>
   <td>
-    <div>12 June 1989</div>
+    <div>12 June 1989</div>
   </td>
   <td>
     <div>—</div>
@@ -1767,8 +1769,8 @@ Remainder: Royal Assent</div>
     <div>18 Dec 1990</div>
   </td>
   <td>
-    <div>Parts 2 and 3 
-(ss. 3–8): 1 June 1991 ( <i>see</i>s. 2(2) and <i>Gazette</i>1991, No. S98) 
+    <div>Parts 2 and 3 
+(ss. 3–8): 1 June 1991 ( <i>see</i>s. 2(2) and <i>Gazette</i>1991, No. S98) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1800,40 +1802,23 @@ Remainder: Royal Assent</div>
     <div>62, 2004</div>
   </td>
   <td>
-    <div>26 May 2004</div>
+    <div>26 May 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 40–42): 27 May 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 348–350): 4 July 2008</div>
+    <div>Schedule 1 (items 40–42): 27 May 2004</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _International Arbitration Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+_(a)_     The _International Arbitration Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of the _Carriage of Goods by Sea Act 1991_, subsection 2(1) of which provides as follows:
+_(b)_ The _International Arbitration Act 1974_ was amended by section 21 only of the _Carriage of Goods by Sea Act 1991_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -1863,12 +1848,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Title</div>
   </td>
   <td>
-    <div>rs. No. 25, 1989</div>
+    <div>rs. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -1876,10 +1861,10 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Heading to Part I</div>
+    <div>Heading to Part I</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1887,7 +1872,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 1</div>
   </td>
   <td>
-    <div>am. No. 25, 1989</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1895,7 +1880,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 62, 2004</div>
+    <div>am. No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1903,7 +1888,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 2A, 2B</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1911,7 +1896,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 2C</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1919,12 +1904,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div></div>
   </td>
   <td>
-    <div>rs. No. 160, 1991</div>
+    <div>rs. No. 160, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -1932,10 +1917,10 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
+    <div>Heading to Part II</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1943,7 +1928,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 25, 1989</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1951,7 +1936,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 4</div>
   </td>
   <td>
-    <div>rep. No. 62, 2004</div>
+    <div>rep. No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1959,7 +1944,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 5, 6</div>
   </td>
   <td>
-    <div>rep. No. 25, 1989</div>
+    <div>rep. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1967,7 +1952,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 25, 1989</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1975,7 +1960,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 19, 1979; No. 25, 1989; No. 73, 2008</div>
+    <div>am. No. 19, 1979; No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1983,7 +1968,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 25, 1989; No. 73, 2008</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1991,7 +1976,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 25, 1989; No. 62, 2004</div>
+    <div>am. No. 25, 1989; No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1999,7 +1984,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 10A</div>
   </td>
   <td>
-    <div>ad. No. 141, 1987</div>
+    <div>ad. No. 141, 1987</div>
   </td>
 </tr>
 <tr>
@@ -2007,7 +1992,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 11</div>
   </td>
   <td>
-    <div>rep. No. 25, 1989</div>
+    <div>rep. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
@@ -2015,12 +2000,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 12–14</div>
   </td>
   <td>
-    <div>am. No. 25, 1989</div>
+    <div>am. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -2028,15 +2013,15 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Part III</div>
+    <div>Part III</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2047,12 +2032,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 15</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2063,12 +2048,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 16–21</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2079,12 +2064,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 22–27</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -2095,12 +2080,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 28–30</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -2108,15 +2093,15 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
 </tr>
 <tr>
   <td>
-    <div>Part IV</div>
+    <div>Part IV</div>
   </td>
   <td>
-    <div>ad. No. 107, 1990</div>
+    <div>ad. No. 107, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2127,12 +2112,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>S. 31</div>
   </td>
   <td>
-    <div>ad. No. 107, 1990</div>
+    <div>ad. No. 107, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2143,12 +2128,12 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 32–35</div>
   </td>
   <td>
-    <div>ad. No. 107, 1990</div>
+    <div>ad. No. 107, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2159,7 +2144,7 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Ss. 33–38</div>
   </td>
   <td>
-    <div>ad. No. 107, 1990</div>
+    <div>ad. No. 107, 1990</div>
   </td>
 </tr>
 <tr>
@@ -2175,33 +2160,35 @@ _(b)_ The _International Arbitration Act 1974_ was amended by section 21 only 
     <div>Heading to Schedule</div>
   </td>
   <td>
-    <div>rep. No. 25, 1989</div>
+    <div>rep. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 1</div>
+    <div>Heading to Schedule 1</div>
   </td>
   <td>
-    <div>ad. No. 25, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1989</div>
+    <div>ad. No. 25, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Schedule 3</div>
+    <div>Schedule 2</div>
   </td>
   <td>
-    <div>ad. No. 107, 1990</div>
+    <div>ad. No. 25, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3</div>
+  </td>
+  <td>
+    <div>ad. No. 107, 1990</div>
   </td>
 </tr></table>
+
+ 
 
  
 * * *
