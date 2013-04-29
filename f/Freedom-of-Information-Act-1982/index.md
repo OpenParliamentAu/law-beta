@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00803/Html/371afa78-1a80-49fb-9dec-7f98629718b9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00488/Html/62d17d20-8b9e-4091-b64c-7983752ac401_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 28 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -176,7 +176,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
 
-[47C](#47C).       Public interest conditional exemptions—deliberative processes
+[47C](#47C).       Public interest conditional exemptions—deliberative 
+ processes
 
 [47D](#47D).       Public interest conditional exemptions—financial or property interests of the Commonwealth or Norfolk Island
 
@@ -400,7 +401,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Onus
 
-[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act 1975_
+[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act  1975_
 
 [62](#62).          Application of section 28 of Administrative Appeals Tribunal Act etc 
 
@@ -3365,7 +3366,7 @@ Sections 53A, 53B and 53C define the terms **_access refusal decision_**, **_a
 
 ##### <a id="53"></a>53  Interpretation
 
-                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non‑existence of the document is not acknowledged.
+                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non‑existence of the document is not acknowledged.
 
 ##### <a id="53A"></a>53A  What is an _access refusal decision_?
 
@@ -4410,7 +4411,7 @@ Offence for failure to comply
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="55S"></a>55S  Information gathering powers—dealings with documents
+##### <a id="55S"></a>55S  Information gathering powers—dealings with documents
 
 What the Information Commissioner may do with documents
 
@@ -8235,23 +8236,6 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
   <td>
     <div>Sch. 4 (item 113) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 635) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Freedom of Information Act 1982_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
@@ -11646,20 +11630,6 @@ After “relations”, insert “etc.”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
-### Note 4
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 635  Subsection 47J(1) (note)
-
-Omit “section 22”, substitute “subsection 2C(1)”.
-
-As at 28 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11804,7 +11774,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 
 * * *
 
-_Classification (Publications, Films and Computer Games) Amendment Act 2007 (No. 27, 2007)_
+_Classification (Publications, Films and Computer Games) Amendment Act 2007
+ (No. 27, 2007)_
 
 ## Schedule 1
 
@@ -11935,22 +11906,6 @@ The _Freedom of Information Act 1982_ has effect, after the commencement of this
                      (a)  documents in respect of commercial activities of Medicare Australia (within the meaning of the _Medicare Australia Act 1973_ as in force before 1 July 2011);
 
                      (b)  documents in respect of commercial activities of the Health Insurance Commission (within the meaning of the _Health Insurance Act 1973_ as in force before 1 October 2005).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ## Table B
 
