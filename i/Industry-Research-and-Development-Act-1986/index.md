@@ -1,7 +1,7 @@
 
 Industry Research and Development Act 1986
 Act No. 89 of 1986 as amended
-This compilation was prepared on 18 June 2002 taking into account amendments up to Act No. 170 of 2001
+This compilation was prepared on 30 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -60,69 +60,67 @@ Division 4—Miscellaneous	25
 38	Repayment of subsidies on breach of agreement	26
 39	Payments to be made to persons incurring cost	26
 Part IIIA—Functions of Board in relation to income tax concessions	27
-39AA	Object of Part	27
 39A	Interpretation	27
-39B	Related companies	29
+39B	Related companies	28
 39C	Exploitation otherwise than on normal commercial terms	29
-39D	Exploitation otherwise than for the benefit of the Australian economy	30
-39E	Adequate Australian content	30
-39EA	Finance scheme guidelines	31
+39D	Exploitation otherwise than for the benefit of the Australian economy	29
+39E	Adequate Australian content	29
+39EA	Finance scheme guidelines	30
 39EB	Guidelines concerning overseas research and development activities	32
 39EC	Applications for provisional certificates	33
-39ED	Board’s decision on application for provisional certificate	34
+39ED	Board’s decision on application for provisional certificate	33
 39EE	Matters to be contained in provisional certificate	35
 39EF	Board’s power to amend or revoke provisional certificate on its own initiative	36
 39F	Registration of Australian research agencies	37
 39FA	Notices about continuing registration of Australian research agencies	39
-39G	Cancellation of registration of research agencies	40
+39G	Cancellation of registration of research agencies	39
 39H	Board to publicise particulars of registered research agencies	40
-39HA	Register of Commercial Government Bodies	41
+39HA	Register of Commercial Government Bodies	40
 39HB	Commercial government bodies guidelines	41
-39HC	Applications for entry on the Register of Commercial Government Bodies	43
+39HC	Applications for entry on the Register of Commercial Government Bodies	42
 39HD	Board’s decision on application for entry on Register of Commercial Government Bodies	43
-39HE	Grant of application for entry on Register of Commercial Government Bodies	45
-39HF	Removal from Register of Commercial Government Bodies	45
-39HG	Applications for advance registration of eligible companies	46
-39HH	Advance registration of eligible companies	47
-39HI	Grounds for refusal of advance registration	47
+39HE	Grant of application for entry on Register of Commercial Government Bodies	44
+39HF	Removal from Register of Commercial Government Bodies	44
+39HG	Applications for advance registration of eligible companies	45
+39HH	Advance registration of eligible companies	46
+39HI	Grounds for refusal of advance registration	46
 39J	Registration of eligible companies	47
 39JA	Registration: eligible companies with a registration history	49
-39JB	Registration: eligible companies with a claim history	50
+39JB	Registration: eligible companies with a claim history	49
 39JC	Registration: eligible companies with a tax loss history	50
-39JD	Applications under section 39J	51
-39JE	Application for extension of time if application otherwise subject to a 6 month limit	52
-39JF	Registration if application for registration made after expiry of period for making application	53
-39K	Grounds for refusal to register eligible companies	54
-39KA	Guidelines concerning plans for research and development activities	54
-39L	Certificate as to research and development activities	55
-39LAA	Certificate as to overseas research and development activities	56
-39LA	Certificate as to core technology	56
-39M	Certificate as to exploitation of results, or Australian content, of activities	56
-39MA	Certificate about ineligible finance schemes	57
-39N	Certificate of non‑compliance	58
-39P	Joint registration	59
-39PA	Limitation of Board’s power to register companies jointly	61
-39PB	Extension of joint registration to complete project	63
-39Q	Copies of certificate to be given to persons affected	65
-39R	Service of notices etc.	65
-39S	Internal review of decisions	66
-39T	Review of decisions by Administrative Appeals Tribunal	67
-39U	Statements to accompany notification of decisions	68
-39V	Tax consequences of variation or revocation of reviewable decisions	69
-Part IV—Finance	70
-40	Money to be appropriated	70
-41	Notice of money available for Board	70
-42	Advances in respect of subsidies	70
-43	Subsidies not to exceed money available	71
-Part V—Miscellaneous	72
-44	Offences	72
-45	Time for prosecutions	72
-46	Annual report	72
-47	Confidentiality	74
-48	Regulations	74
-48A	Fees for making applications etc. under Part IIIA	75
-Part VI—Amendments of Industrial Research and Development Incentives Act 1976	77
-Notes		79
+39JD	Applications under section 39J	50
+39JE	Application for extension of time if application otherwise subject to a 6 month limit	51
+39JF	Registration if application for registration made after expiry of period for making application	52
+39K	Grounds for refusal to register eligible companies	53
+39L	Certificate as to research and development activities	54
+39LAA	Certificate as to overseas research and development activities	54
+39LA	Certificate as to core technology	54
+39M	Certificate as to exploitation of results, or Australian content, of activities	55
+39MA	Certificate about ineligible finance schemes	56
+39N	Certificate of non‑compliance	57
+39P	Joint registration	57
+39PA	Limitation of Board’s power to register companies jointly	60
+39PB	Extension of joint registration to complete project	61
+39Q	Copies of certificate to be given to persons affected	64
+39R	Service of notices etc.	64
+39S	Internal review of decisions	64
+39T	Review of decisions by Administrative Appeals Tribunal	65
+39U	Statements to accompany notification of decisions	66
+39V	Tax consequences of variation or revocation of reviewable decisions	67
+Part IV—Finance	68
+40	Money to be appropriated	68
+41	Notice of money available for Board	68
+42	Advances in respect of subsidies	68
+43	Subsidies not to exceed money available	69
+Part V—Miscellaneous	70
+44	Offences	70
+45	Time for prosecutions	70
+46	Annual report	70
+47	Confidentiality	72
+48	Regulations	72
+48A	Fees for making applications etc. under Part IIIA	72
+Part VI—Amendments of Industrial Research and Development Incentives Act 1976	73
+Notes		75
 An Act to encourage certain research and development
 Part I—Preliminary
   
@@ -485,15 +483,6 @@ Division 4—Miscellaneous
 
 Part IIIA—Functions of Board in relation to income tax concessions
   
-39AA  Object of Part
-	(1)	The object of this Part is to complement the tax incentive provided by sections 73B, 73BA, 73I and 73Y of the Income Tax Assessment Act 1936 by giving the Board the role to determine whether eligible companies satisfy the requirements for the incentive.
-	(2)	The object of sections 73B, 73BA, 73I and 73Y of the Income Tax Assessment Act 1936 is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by:
-	(a)	encouraging the development by eligible companies of innovative products, processes and services; and
-	(b)	increasing investment by eligible companies in defined research and development activities; and
-	(c)	promoting the technological advancement of eligible companies through a focus on innovation or high technical risk in defined research and development activities; and
-	(d)	encouraging the use by eligible companies of strategic research and development planning; and
-	(e)	creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
-The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
 39A  Interpretation
 	(1)	In this Part, unless the contrary intention appears:
 commercial government bodies guidelines means guidelines made under section 39HB.
@@ -566,12 +555,12 @@ scheme means:
 	(b)	it must be shown that the results of the overseas research and development activities will be exploited by the eligible company concerned for the benefit of the Australian economy;
 	(c)	it must be shown that the expenditure:
 	(i)	that is proposed to be incurred by the eligible company in respect of the overseas research and development activities; and
-	(ii)	in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936;
+	(ii)	in respect of which the company proposes to claim a deduction under section 73B of the Income Tax Assessment Act 1936;
 		will not exceed 10% of the total expenditure that the company has incurred or proposes to incur on the project of research and development activities.
 	(3A)	The Board may, at any time, and whether or not within 90 days after the commencement of this Part, by writing, repeal, replace or amend guidelines made under subsection (1).
 	(4)	An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 39EC  Applications for provisional certificates
-	(1)	An eligible company that proposes to incur expenditure in carrying on overseas research and development activities in respect of which it proposes to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936 may apply to the Board for a provisional certificate in respect of the activities.
+	(1)	An eligible company that proposes to incur expenditure in carrying on overseas research and development activities in respect of which it proposes to claim a deduction under section 73B of the Income Tax Assessment Act 1936 may apply to the Board for a provisional certificate in respect of the activities.
 	(2)	The application must:
 	(a)	be in writing; and
 	(b)	describe the project to which the proposed activities relate; and
@@ -579,7 +568,7 @@ scheme means:
 	(d)	state the respective amounts of expenditure proposed to be incurred by the company on the project that relate to:
 	(i)	Australian research and development activities; and
 	(ii)	overseas research and development activities; and
-	(iii)	if the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936 in respect of part only of the expenditure on overseas research and development activities—the amount of that part of the expenditure; and
+	 (iii)	if the company proposes to claim a deduction under section 73B of the Income Tax Assessment Act 1936 in respect of part only of the expenditure on overseas research and development activities—the amount of that part of the expenditure; and
 	(e)	be accompanied by any other information that the Board reasonably requires.
 39ED  Board’s decision on application for provisional certificate
 	(1)	After considering an application under section 39EC, the Board must decide to:
@@ -600,11 +589,11 @@ Note:	Subsection 39S(2) deals with requests to the Board to reconsider decisions
 	(1)	A provisional certificate given to an eligible company under section 39ED must:
 	(a)	describe the overseas research and development activities to which the certificate relates; and
 	(b)	contain a description of the project of research and development activities to which those overseas research and development activities relate; and
-	(c)	state the amount of proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936; and
+	(c)	state the amount of proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B of the Income Tax Assessment Act 1936; and
 	(d)	contain any other matters that the Board considers relevant.
 	(2)	After a provisional certificate is given to a company under section 39ED, the company may apply in writing to the Board for the certificate to be amended so as to vary either or both of the following:
 	(a)	the description of the overseas research and development activities;
-	(b)	the amount of the proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936.
+	(b)	the amount of the proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B of the Income Tax Assessment Act 1936.
 	(3)	If:
 	(a)	such an application is made; and
 	(b)	the provisional certificate is produced to the Board; and
@@ -615,7 +604,7 @@ the Board may amend the certificate accordingly and return the amended certifica
 Note:	For the Board’s power to amend the provisional certificate on application by the company, see subsections 39EE(2) and (3).
 	(2)	If the Board is satisfied that the expenditure (the claimed overseas expenditure):
 	(a)	on the overseas research and development activities to which the certificate relates; and
-	(b)	in respect of which the company has claimed a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936;
+	(b)	in respect of which the company has claimed a deduction under section 73B of the Income Tax Assessment Act 1936;
 exceeds 10% of the total expenditure (the total project expenditure) incurred by the company on the project of research and development activities, the Board may, in writing, determine that the provisional certificate is amended, as specified in the determination, so that it does not cover so much of the overseas research and development activities as resulted in the claimed overseas expenditure exceeding 10% of the total project expenditure.
 	(3)	If the Board makes a determination under subsection (2), the provisional certificate has effect, and is taken always to have had effect, as if it had originally been given as amended in accordance with the determination.
 	(4)	The Board may, in writing, revoke the certificate if the Board is satisfied that the total expenditure incurred by the company on the project of research and development activities consisted solely of expenditure on overseas research and development activities.
@@ -751,7 +740,7 @@ then, at the eligible time, the Board is taken to have made a decision under sub
 	(b)	the company provides to the Board such information in relation to its proposed research and development activities as the Board reasonably requires;
 the Board must grant advance registration to the company, in relation to the activities, in respect of the year or years of income to which the application relates.
 	(2)	If the Board refuses to register a company in respect of a year or years of income, the Board must give notice in writing to the company stating the reasons for the refusal.
-Note:	Advance registration does not remove the need to be registered under section 39J or 39P in order to claim a deduction under section 73B, 73BA, 73BH or 73Y, or a tax offset under section 73I, of the Income Tax Assessment Act 1936 for expenditure in relation to research and development activities.
+Note:	Advance registration does not remove the need to be registered under section 39J or 39P in order to claim a deduction under section 73B of the Income Tax Assessment Act 1936 for expenditure in relation to research and development activities.
 39HI  Grounds for refusal of advance registration
 	(1)	It is a ground on which the Board is entitled to refuse advance registration of an eligible company, in relation to particular research and development activities in respect of a year or years of income, that the activities are not research and development activities.
 	(2)	Subject to subsection (3), the regulations may specify other grounds on which the Board is entitled to refuse advance registration of a company in respect of any year of income or in respect of a particular year or years of income.
@@ -841,21 +830,6 @@ If the applicant lodges a statement in accordance with this subsection, the appl
 	(2)	Subject to subsection (3), the regulations may specify other grounds on which the Board is entitled to refuse to register a company in respect of any year of income or in respect of a particular year of income or years of income.
 	(3)	The regulations may not specify a ground unless it relates to a matter the determination of which under this Part is a function of the Board.
 	(4)	The Board need not, before registering a company, satisfy itself that no grounds exist for refusing the registration.
-39KA  Guidelines concerning plans for research and development activities
-	(1)	The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines setting out the requirements for plans for the purposes of subsection 73B(2BA) of the Income Tax Assessment Act 1936.
-	(1A)	In formulating the guidelines, the Board must ensure that, having regard to the size and complexity of the activities that are to be carried out in accordance with the plans, the guidelines will not impose undue burdens on eligible companies that are small.
-	(2)	The Board must cause the guidelines to be:
-	(a)	published in the Gazette; and
-	(b)	made available on request without charge, to any eligible company.
-	(3)	The requirements may cover the following matters:
-	(a)	who is to make the plans;
-	(b)	who is to approve the plans;
-	(c)	when the plans are to be made;
-	(d)	what the plans are to contain;
-	(e)	how the plans can be amended;
-	(f)	any other matter.
-	(4)	The Board may, at any time, and whether or not within 90 days after the commencement of this section, by writing, repeal, replace or amend guidelines made under subsection (1).
-	(5)	An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 39L  Certificate as to research and development activities
 	(1)	The Board may, and shall if requested in writing by the Commissioner to do so, give to the Commissioner a certificate stating whether particular activities that have been or are being carried on by or on behalf of a person were or are research and development activities.
 	(2)	If the Board issues a certificate to the effect that particular activities were not or are not research and development activities, the Board must give notice in writing to the person concerned stating the reasons for issuing the certificate.
@@ -871,7 +845,7 @@ If the applicant lodges a statement in accordance with this subsection, the appl
 	(1)	Where:
 	(a)	expenditure has been incurred by a company registered under section 39J or 39P:
 	(i)	on particular research and development activities; or
-	(ii)	in the acquisition or construction of plant, an asset or a building, or an extension, alteration or improvement to a building, for use in particular research and development activities; and
+	(ii)	in the acquisition or construction of plant or a building, or an extension, alteration or improvement to a building, for use in particular research and development activities; and
 	(b)	the Board is of the opinion that:
 	(i)	any of the results of those research and development activities have been exploited otherwise than:
 	(A)	on normal commercial terms; or
@@ -909,7 +883,7 @@ the Board may, by notice in writing to the company, require the company to give 
 	(2)	If such a notice is given and the company fails to comply with the notice, the Board may give a certificate to the Commissioner stating that the company has failed to comply with a notice under this section in respect of the activities concerned.
 	(3)	A notice under subsection (1) shall:
 	(a)	state that, if the company fails to comply with the notice within the period specified in the notice, the Board may give a certificate under subsection (2) in respect of the activities to which the notice relates; and
-	(b)	set out the terms of subsections 73B(33A), 73BF(4) and 73BM(4) of the Income Tax Assessment Act 1936.
+	(b)	set out the terms of subsection 73B(33A) of the Income Tax Assessment Act 1936.
 39P  Joint registration
 	(1A)	This section has effect subject to section 39PA.
 	(1)	A person may apply to the Board on behalf of 2 or more eligible companies for the joint registration of those eligible companies in respect of a year of income or years of income in relation to a proposed project or proposed projects comprising or including research and development activities.
@@ -1064,10 +1038,6 @@ Part V—Miscellaneous
 	(c)	shall set out:
 	(i)	the name of each researcher or Australian government body to whom subsidy was paid during the year; and
 	(ii)	the amount of subsidy paid to each researcher or Australian government body in the year; and
-	(ca)	must set out:
-	(i)	the total number of applications during the financial year for registration of eligible companies under section 39J that specified an intention to choose a tax offset under section 73I of the Income Tax Assessment Act 1936; and
-	(ii)	the total amounts of the offsets involved;
-		and must include an analysis of the tax offset scheme, including the tax offset thresholds, for that year; and
 	(d)	shall include particulars of any directions or other matter, particulars of which were published in the Gazette in accordance with this Act during the year; and
 	(e)	must include particulars of any advice given to the Board or a committee by the Minister under section 20A but need not state whether the Board or committee acted in accordance with the advice.
 	(3)	The Minister shall cause a copy of the report given under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister received the report.
@@ -1195,11 +1165,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 276): 15 July 2001 (see Gazette 2001, No. S285) (h)
 Ss. 4‑14
-Taxation Laws Amendment (Research and Development) Act 2001
-170, 2001
-1 Oct 2001
-Schedule 1 (items 2-2B, 7): Royal Assent (i) Schedule 2 (items 45-50): 29 Jan 2001 (i) Schedule 2 (items 85-91): (i)
-Sch. 1 (item 2B) and Sch. 2 (item 51) [see Table A]
 
 (a)	The Industry Research and Development Act 1986 was amended by sections 91‑112 only of the Taxation Laws Amendment Act (No. 5) 1992, subsection 2(1) of which provides as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
@@ -1222,11 +1187,6 @@ Sch. 1 (item 2B) and Sch. 2 (item 51) [see Table A]
 	(2)	Subject to this section, this Act commences at the commencing time.
 (h)	The Industry Research and Development Act 1986 was amended by Schedule 3 (item 276) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(i)	The Industry Research and Development Act 1986 was amended by Schedule 1 (item 2, 2A and 7) and Schedule 2 (items 45-50 and 85-91) only of the Taxation Laws Amendment (Research and Development) Act 2001, section 2 of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(2)	Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
-	(3)	Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of the New Business Tax System (Capital Allowances) Act 2001.
-	The New Business Tax System (Capital Allowances) Act 2001 has 3 commencement dates.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -1283,8 +1243,6 @@ S. 38
 am. No. 66, 1991 
 Part IIIA 	 (ss. 39A‑39R) 
 ad. No. 59, 1988 
-S. 39AA 	
-ad. No. 170, 2001
 S. 39A 	
 ad. No. 59, 1988 
 
@@ -1306,23 +1264,17 @@ am. No. 84, 1995
 S. 39EB 	
 ad. No. 181, 1994 
 
-am. No. 84, 1995; No. 170, 2001 
+am. No. 84, 1995 
 S. 39EC	
 ad. No. 181, 1994 
-
-am. No. 170, 2001
 S. 39ED	
 ad. No. 181, 1994 
 
 am. No. 82, 1996; No. 15, 1999
 S. 39EE	
 ad. No. 181, 1994 
-
-am. No. 170, 2001
 S. 39EF	
 ad. No. 15, 1999
-
-am. No. 170, 2001
 S. 39F 	
 ad. No. 59, 1988 
 
@@ -1351,13 +1303,7 @@ S. 39HE
 ad. No. 224, 1992
 S. 39HF	
 ad. No. 224, 1992
-S. 39HG	
-ad. No. 82, 1996
-S. 39HH	
-ad. No. 82, 1996
-Note to s. 39HH(2)	
-am. No. 170, 2001
-S. 39HI	
+Ss. 39HG‑39HI	
 ad. No. 82, 1996
 S. 39J	
 ad. No. 59, 1988 
@@ -1383,8 +1329,6 @@ S. 39K
 ad. No. 59, 1988 
 
 am. No. 82, 1996
-S. 39KA 	
-ad. No. 170, 2001
 S. 39L 	
 ad. No. 59, 1988 
 
@@ -1398,13 +1342,11 @@ am. No. 66, 1991
 S. 39M 	
 ad. No. 59, 1988 
 
-am. No. 15, 1999; No. 170, 2001
+am. No. 15, 1999
 S. 39MA 	
 ad. No. 224, 1992 
 S. 39N 	
 ad. No. 59, 1988 
-
-am. No. 170, 2001
 S. 39P 	
 ad. No. 59, 1988 
 
@@ -1436,7 +1378,7 @@ am. No. 66, 1991; No. 78, 1996
 S. 44	
 am. No. 137, 2000 
 S. 46 	
-am. No. 66, 1991; No. 78, 1996; No. 170, 2001 
+am. No. 66, 1991; No. 78, 1996 
 S. 47 	
 am. No. 59, 1988; No. 15, 1999
 S. 48A	
@@ -1501,10 +1443,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Taxation Laws Amendment (Research and Development) Act 2001  (No. 170, 2001)
-Schedule 1
-2B  Application
-The amendment made by this Part applies to reports in relation to the financial year commencing on 1 July 2001 and all later financial years.
-
 
