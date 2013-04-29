@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00343/Html/CommSerumlabor1961_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00086/Html/CommSerumlabor1961_image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -806,7 +806,7 @@ without the written approval of the Minister.
 
 ##### <a id="27"></a>27  Act not to affect certain matters relating to staff members
 
-             (1)  This section has effect for the purposes of the application, at any time at or after the transition, of a law, determination, award or industrial agreement in relation to the employment of a staff member.
+             (1)  This section has effect for the purposes of the application, at any time at or after the transition, of a law, determination or industrial instrument in relation to the employment of a staff member.
 
              (2)  Neither his or her contract of employment, nor his or her period of employment, shall be taken to have been broken by the operation of this Act.
 
@@ -826,6 +826,22 @@ without the written approval of the Minister.
 
 CSL shall treat the whole of the first-mentioned period as a period during which the staff member was employed by it.
 
+             (5)  In this section:
+
+                    <a name="industri-instrum"></a>**_industrial instrument_** means any of the following instruments within the meaning given by the _Workplace Relations Act 1996_:
+
+                     (a)  a workplace agreement;
+
+                     (b)  an award or a variation or order affecting an award;
+
+                     (c)  a transitional award or a variation or order affecting a transitional award;
+
+                     (d)  a pre-reform AWA;
+
+                     (e)  a pre-reform certified agreement;
+
+                      (f)  an AWA.
+
 ##### <a id="28"></a>28  Effect of sections 26 and 27
 
                    Sections 26 and 27 are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65(5) or 87(2) of the _Companies Act 1981._
@@ -838,9 +854,23 @@ CSL shall treat the whole of the first-mentioned period as a period during which
 
                      (a)  in accordance with those terms and conditions; or
 
-                     (b)  by or under a law, determination, award or industrial agreement.
+                     (b)  by or under a law, determination or industrial instrument.
 
              (3)  In this section:
+
+                    <a name="industri-instrum"></a>**_industrial instrument_** means any of the following instruments within the meaning given by the _Workplace Relations Act 1996_:
+
+                     (a)  a workplace agreement;
+
+                     (b)  an award or a variation or order affecting an award;
+
+                     (c)  a transitional award or a variation or order affecting a transitional award;
+
+                     (d)  a pre-reform AWA;
+
+                     (e)  a pre-reform certified agreement;
+
+                      (f)  an AWA.
 
                     <a name="term-condition"></a>**_terms and conditions_** includes a term or condition existing because of subsection (1).
 
@@ -1268,7 +1298,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part 1 (ss. 1–4), ss. 7 and 47: Royal Assent 
-Ss. 5 and 6: 22 Feb 1991 
+Ss. 5 and 6: 22 Feb 1991 
 Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
   </td>
   <td>
@@ -1447,23 +1477,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 11 (items 1–4): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -1512,93 +1525,6 @@ _(h)_ The _Commonwealth Serum Laboratories Act 1961_ was amended by Schedule 1
 **_FSR commencement_** means the commencement of item 1 of Schedule 1 to the _Financial Services Reform Act 2001_.
 
                  (6)   Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
-
-_(i)_      Subsection 2(1) (item 33) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      33\. Schedule 11
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
 
 The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after renumbering by the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_ (No. 77, 1990) appears in the Table below. For repealed provisions up to and including Act No. 77, 1990 see the Repeal Table.
 
@@ -2094,7 +2020,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2118,7 +2044,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
