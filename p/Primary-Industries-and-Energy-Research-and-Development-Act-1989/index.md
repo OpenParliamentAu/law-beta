@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00540/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00462/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 3 September 2007
+This compilation was prepared on 10 July 2007
  taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
@@ -99,6 +99,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production
 
 [33](#33).          Expenditure of money of R&amp;D Corporations
+
+[33A](#33A).       Expenditure of money by an R&amp;D Corporation established in respect of forest industries
 
 [34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations
 
@@ -996,6 +998,8 @@ the Minister may, by notice in writing given to the Corporation, give his or her
 
              (3)  A reference in this section to R&amp;D activities that an R&amp;D Corporation proposes to fund includes a reference to R&amp;D activities that the Corporation is prepared, subject to its examination of specific proposals, to fund.
 
+             (4)  If charge imposed on forest products under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed _Forest Industries Research Import Charge Act 1993_ is attached as a levy to an R&amp;D Corporation established in respect of forest industries, the R&amp;D Corporation’s annual operational plan must include, in the broad groupings of R&amp;D activities that the R&amp;D Corporation proposes to fund, R&amp;D activities that are relevant to forest products of a kind that are imported.
+
 ##### <a id="26"></a>26  Approval of annual operational plans
 
              (1)  An annual operational plan of an R&amp;D Corporation (other than the RIR&amp;D Corporation) is to be submitted to the Minister for approval no later than 2 months, or such shorter period as the Minister in special circumstances allows, before the intended day of commencement of the period to which the plan relates.
@@ -1250,11 +1254,21 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                     (da)  in payment to the Commonwealth of amounts payable under subsection 18(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and
 
+                    (db)  if the Corporation is established in respect of forest industries—in payment of amounts for which the R&amp;D Corporation is liable under subsections 10(8) and 11(9) of the _Primary Industries Levies and Charges Collection Act 1991_; and
+
                      (e)  in payment of amounts in respect of expenses (including the payment of remuneration and allowances) incurred by a Selection Committee in performing its function, and exercising its powers, in relation to the selection of directors for appointment to the Corporation; and
 
                       (f)  in making any other payments that the Corporation is authorised or required to make under this Act.
 
              (2)  An R&amp;D Corporation is liable to pay the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of directors for appointment to the Corporation.
+
+##### <a id="33A"></a>33A  Expenditure of money by an R&amp;D Corporation established in respect of forest industries 
+
+                   If charge under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed _Forest__Industries Research Import Charge Act 1993_ is attached to an R&amp;D Corporation established in respect of forest industries:
+
+                     (a)  the proportion of the research component of the charge that is spent on R&amp;D activities must be spent on R&amp;D activities that are relevant to forest products of the kind on which charge under that Act is imposed; and
+
+                     (b)  the proportion referred to in paragraph (a) must be not less than the proportion of the total amounts of all the research components of levies attached to the Corporation and spent by the Corporation on R&amp;D activities.
 
 ##### <a id="34"></a>34  Commonwealth to be paid levy expenses from R&amp;D Corporations
 
@@ -3327,11 +3341,11 @@ _Triticale Levy Collection Act 1988_ \[repealed by Act No. 26, 1991, Sch. 2]
 _Wheat Industry Fund Levy Collection Act 1988_
  \[repealed by Act No. 26, 1991, Sch. 2] \[see Note 2]
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 17, 1990.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 17, 1990
 
 * * *
 
- 
+.
 
 # Notes to the _Primary Industries and Energy Research and Development Act 1989_
 
@@ -3820,9 +3834,7 @@ Remainder: 1 Jan 2003</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 29 June 2007 
-Schedule 2: 3 Sept 2007 ( <i>see</i>F2007L02639) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (items 1–3): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -3968,7 +3980,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 12</div>
+    <div>S.12</div>
   </td>
   <td>
     <div>am. No. 152, 1997</div>
@@ -4019,7 +4031,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 163, 1991 (as am. by No. 43, 1996); No. 94, 1993; No. 32, 1999; No. 123, 2007</div>
+    <div>am. No. 163, 1991 (as am. by No. 43, 1996); No. 94, 1993; No. 32, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4139,7 +4151,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 123, 2007</div>
+    <div>am. No. 94, 1993</div>
   </td>
 </tr>
 <tr>
@@ -4156,14 +4168,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
   </td>
   <td>
     <div>am. No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 123, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4528,14 +4532,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 105</div>
   </td>
   <td>
@@ -4715,6 +4711,28 @@ Repeal the section.
 
 The _Primary Industries and Energy Research and Development Act 1989_ was cited incorrectly and the proposed amendment is not incorporated in this compilation.
 
+### Note 3
+
+_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
+
+The following amendments commence on 28 December 2007 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Subsection 25(4)
+
+Repeal the subsection.
+
+## 2  Paragraph 33(1)(db)
+
+Repeal the paragraph.
+
+## 3  Section 33A
+
+Repeal the section.
+
+As at 10 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4870,5 +4888,7 @@ Despite the amendments of Part 4 of the _Primary Industries and Energy Researc
 ## 35  Application—item 34
 
 The amendment made by item 34 applies in relation to financial years starting on or after the commencement of this item.
+
+ 
 
  
