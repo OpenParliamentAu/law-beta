@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00156/Html/ShippingRegistration1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00043/Html/ShippingRegistration1981_image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 2 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -419,7 +419,7 @@ but does not include a vessel, structure, vehicle or craft declared by the regul
 
              (6)  For the purposes of this Act, strict compliance with a prescribed form is not required and substantial compliance is sufficient.
 
-             (7)  A reference in this Act to an offence against this Act, to an offence against a provision of this Act or to a contravention of, or failure to comply with, a provision of this Act shall be read as including a reference to an offence against section 6 of the _Crimes Act 1914_, or against section 11.1 or 11.4 of the _Criminal Code_, in relation to this Act.
+             (7)  A reference in this Act to an offence against this Act, to an offence against a provision of this Act or to a contravention of, or failure to comply with, a provision of this Act shall be read as including a reference to an offence created by section 6, 7 or 7A of the _Crimes Act 1914_ in relation to this Act.
 
              (8)  In this Act, a reference to a ship includes a reference to every thing or article belonging to or to be used in connection with, or necessary for the operation and safety of, the ship.
 
@@ -681,7 +681,7 @@ whichever first happens.
 
                             whichever first happens.
 
-             (4)  If, while a provisional registration certificate granted in respect of a ship under subsection (1) or (2) is in effect, application is made in the manner prescribed, the Registrar may, by notice in writing served on the applicant, extend, in relation to the certificate, the period referred to in subparagraph (3)(a)(ii) or (3)(b)(ii), as the case requires, and, in that event, the reference in that subparagraph to the period of 6 months shall be read as a reference to that period as so extended.
+             (4)  If, while a provisional registration certificate granted in respect of a ship under subsection (1) or (2) is in effect, application is made in the manner prescribed, the Registrar may, by notice in writing served on the applicant, extend, in relation to the certificate, the period referred to in subparagraph (paragraph (3)(a)(ii) or (3)(b)(ii), as the case requires, and, in that event, the reference in that subparagraph to the period of 6 months shall be read as a reference to that period as so extended.
 
              (5)  The person who has possession of a provisional registration certificate granted in respect of a ship under subsection (1) or (2) shall:
 
@@ -943,7 +943,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                             (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transfer.
 
-             (4)  Subsection (3) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (3)(a)(ii) or (3)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transfer.
+             (4)  Subsection (3) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (paragraph (3)(a)(ii) or (3)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transfer.
 
              (5)  Bills of sale lodged under this section shall be registered in the order of their lodgment.
 
@@ -969,7 +969,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                             (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transmission.
 
-             (3)  Subsection (2) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (2)(a)(ii) or (2)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transmission.
+             (3)  Subsection (2) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (paragraph (2)(a)(ii) or (2)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transmission.
 
 ##### <a id="37A"></a>37A  Delivery of registration certificate on transfer etc.
 
@@ -1239,7 +1239,7 @@ and may at any time terminate such an appointment.
 
 Note:          Since 1992 all entries in the Register have been made electronically.
 
-             (2)  The Registrar may also, to the extent that the Register has been maintained in electronic form, provide for it to be inspected electronically otherwise than at the Registration Office by using the internet or another communications network that is prescribed by the regulations.
+             (2)  The Registrar may also, to the extent that the Register has been maintained in electronic form, provide for it to be inspected electronically otherwise than at the Registration Office by using the Internet or another communications network that is prescribed by the regulations.
 
              (3)  A person may, on payment of the prescribed fee (if any), inspect the Register at any reasonable time during the hours when the Registration Office is open for business and, on payment of a prescribed fee, is entitled to be provided with a copy of, or an extract from, any entry on the Register.
 
@@ -2271,40 +2271,6 @@ Schedule 4 (item 6): 6 Oct 2006</div>
 33–38) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-    </td>
-    <td>
-      <div>4, 2010</div>
-    </td>
-    <td>
-      <div>19 Feb 2010</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 11 (item 16): 20 Feb 2010</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2010</div>
-    </td>
-    <td>
-      <div>8, 2010</div>
-    </td>
-    <td>
-      <div>1 Mar 2010</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 5 (item 137(a)): <i>(j)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -2369,109 +2335,6 @@ _(i)_      The _Shipping Registration Act 1981_ was amended by Schedul
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -2508,7 +2371,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001; No. 4, 2010</div>
+    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2905,14 +2768,6 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 58</div>
   </td>
   <td>
@@ -3253,7 +3108,7 @@ Omit “, 66”.
 
 Omit “, 66”.
 
-As at 5 March 2010 the amendments are not incorporated in this compilation.
+As at 2 February 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
