@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00365/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00185/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 8 June 2010
- taking into account amendments up to Act No. 56 of 2010
+This compilation was prepared on 9 March 2010
+ taking into account amendments up to Act No. 42 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,141 +20,141 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Provision of correlative relief
+[3A](#3A).         Provision of correlative relief                                                               4
 
-[3B](#3B).         Application of the _Criminal Code_
+[3B](#3B).         Application of the _Criminal Code_                                                       5
 
-[3C](#3C).         Meaning of _relevant tax_
+[3C](#3C).         Meaning of _relevant tax_                                                                       5
 
 **Part II—Administration**
 
-[4](#4).            General administration of Act
+[4](#4).            General administration of Act                                                             7
 
-[7](#7).            Annual report
+[7](#7).            Annual report                                                                                      7
 
-[8](#8).            Secrecy
+[8](#8).            Secrecy                                                                                                 7
 
 **Part IIA—Interest on early payments**
 
-[8A](#8A).         Entitlement to interest
+[8A](#8A).         Entitlement to interest                                                                       10
 
-[8B](#8B).         Interest period
+[8B](#8B).         Interest period                                                                                   11
 
-[8C](#8C).         Rate of interest
+[8C](#8C).         Rate of interest                                                                                  11
 
-[8D](#8D).         No double entitlement to interest
+[8D](#8D).         No double entitlement to interest                                                      11
 
 **Part IIB—Interest on overpayments resulting from assessments**
 
-[8E](#8E).          Entitlement to interest—ordinary taxpayers
+[8E](#8E).          Entitlement to interest—ordinary taxpayers                                     12
 
-[8F](#8F).          Interest period—ordinary taxpayers
+[8F](#8F).          Interest period—ordinary taxpayers                                                 13
 
-[8G](#8G).         Entitlement to interest—full self-assessment taxpayers
+[8G](#8G).         Entitlement to interest—full self-assessment taxpayers                   15
 
-[8H](#8H).         Interest period—full self-assessment taxpayer
+[8H](#8H).         Interest period—full self-assessment taxpayer                                 16
 
-[8I](#8I).           Rate of interest
+[8I](#8I).           Rate of interest                                                                                  17
 
-[8K](#8K).         Interpretation
+[8K](#8K).         Interpretation                                                                                     17
 
 **Part IIC—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Assessment and Collection) Act 1997**
 
-[8L](#8L).          Interpretation
+[8L](#8L).          Interpretation                                                                                     18
 
-[8M](#8M).        Entitlement to interest
+[8M](#8M).        Entitlement to interest                                                                       18
 
-[8N](#8N).         Period of interest
+[8N](#8N).         Period of interest                                                                               18
 
-[8P](#8P).          Rate of interest
+[8P](#8P).          Rate of interest                                                                                  19
 
 **Part IID—Interest on overpayments resulting from certain amendments of assessments made under the Termination Payments Tax (Assessment and Collection) Act 1997**
 
-[8Q](#8Q).         Interpretation
+[8Q](#8Q).         Interpretation                                                                                     20
 
-[8R](#8R).         Entitlement to interest
+[8R](#8R).         Entitlement to interest                                                                       20
 
-[8S](#8S).          Period of interest
+[8S](#8S).          Period of interest                                                                               20
 
-[8T](#8T).         Rate of interest
+[8T](#8T).         Rate of interest                                                                                  21
 
 **Part IIE—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997**
 
-[8U](#8U).         Interpretation
+[8U](#8U).         Interpretation                                                                                     22
 
-[8V](#8V).         Entitlement to interest
+[8V](#8V).         Entitlement to interest                                                                       22
 
-[8W](#8W).        Period of interest
+[8W](#8W).        Period of interest                                                                               23
 
-[8X](#8X).         Rate of interest
+[8X](#8X).         Rate of interest                                                                                  23
 
 **Part IIF—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Assessment and Collection) Act 1997**
 
-[8Y](#8Y).         Interpretation
+[8Y](#8Y).         Interpretation                                                                                     24
 
-[8Z](#8Z).         Entitlement to interest
+[8Z](#8Z).         Entitlement to interest                                                                       24
 
-[8ZA](#8ZA).      Period of interest
+[8ZA](#8ZA).      Period of interest                                                                               25
 
-[8ZB](#8ZB).       Rate of interest
+[8ZB](#8ZB).       Rate of interest                                                                                  25
 
 **Part IIG—Interest on certain amounts of tax on no-TFN contributions income of superannuation providers**
 
-[8ZC](#8ZC).       Interpretation
+[8ZC](#8ZC).       Interpretation                                                                                     26
 
-[8ZD](#8ZD).      Entitlement to interest
+[8ZD](#8ZD).      Entitlement to interest                                                                       26
 
-[8ZE](#8ZE).       Period of interest
+[8ZE](#8ZE).       Period of interest                                                                               27
 
-[8ZF](#8ZF).       Rate of interest
+[8ZF](#8ZF).       Rate of interest                                                                                  27
 
 **Part III—Interest on overpayments resulting from decisions to which this Act applies**
 
-[9](#9).            Entitlement to interest
+[9](#9).            Entitlement to interest                                                                       28
 
-[10](#10).          Amount of interest
+[10](#10).          Amount of interest                                                                            30
 
-[11](#11).          Limit on overpayment of interest where correlative relief in respect of foreign income tax
+[11](#11).          Limit on overpayment of interest where correlative relief in respect of foreign income tax    30
 
 **Part IIIA—Interest on overpayments resulting from certain remissions, refunds and credits**
 
-[12A](#12A).       Entitlement to interest
+[12A](#12A).       Entitlement to interest                                                                       32
 
-[12B](#12B).       Period of interest
+[12B](#12B).       Period of interest                                                                               33
 
-[12C](#12C).       Rate of interest
+[12C](#12C).       Rate of interest                                                                                  33
 
 **Part IIIAA—Delayed refund interest on running balance account (RBA) surpluses**
 
-[12AA](#12AA).    Entitlement to interest for RBA surpluses after notification of BAS amount
+[12AA](#12AA).    Entitlement to interest for RBA surpluses after notification of BAS amount        34
 
-[12AB](#12AB).    Entitlement to interest for RBA surpluses after request for remission
+[12AB](#12AB).    Entitlement to interest for RBA surpluses after request for remission 34
 
-[12AC](#12AC).    Entitlement to interest for RBA surpluses after request for refund
+[12AC](#12AC).    Entitlement to interest for RBA surpluses after request for refund  35
 
-[12AD](#12AD).    Period of interest for RBA surpluses
+[12AD](#12AD).    Period of interest for RBA surpluses                                                35
 
-[12AE](#12AE).     Rate of interest for RBA surpluses
+[12AE](#12AE).     Rate of interest for RBA surpluses                                                   35
 
-[12AF](#12AF).     Definitions
+[12AF](#12AF).     Definitions                                                                                         35
 
 **Part IIIB—Adjustment of interest**
 
-[12D](#12D).       Interest to be in multiples of 1 cent
+[12D](#12D).       Interest to be in multiples of 1 cent                                                   37
 
-[12E](#12E).        Small amounts of interest not to be paid
+[12E](#12E).        Small amounts of interest not to be paid                                           37
 
-[12F](#12F).        Adjustment where amount to be paid by, or refunded to, person does not exceed 49 cents
+[12F](#12F).        Adjustment where amount to be paid by, or refunded to, person does not exceed 49 cents  37
 
 **Part IV—Miscellaneous**
 
-[15](#15).          Regulations
+[15](#15).          Regulations                                                                                        38
 
 **Notes** 
 
@@ -217,6 +217,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  the _Student Assistance Act 1973_ as in force at a time on or after 1 July 1998.
 
                     <a name="full-self-assess-taxpay"></a>**_full self-assessment taxpayer_** has the same meaning as in subsection 6(1) of the Tax Act.
+
+                    <a name="hec"></a>**_HEC as_**_sessment debt_ has the meaning given by subsection 34(1) of the _Higher Education Funding Act 1988_.
 
                     <a name="incom-tax"></a>**_income tax_** means:
 
@@ -369,6 +371,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
   </td>
   <td>
     <div>Interest under section 102AAM of the Tax Act</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>40</div>
+  </td>
+  <td>
+    <div>Amounts that are treated under subsection 106U(1) of the
+      <i>Higher Education Funding Act 1988</i>as if they were income tax</div>
   </td>
 </tr>
 <tr>
@@ -559,6 +570,8 @@ Note:          A defendant bears an evidential burden in relat
 
                             (ia)  shortfall interest charge under Division 280 in Schedule 1 to the _Taxation Administration Act 1953_; or
 
+                             (ii)  HEC assessment debt; or
+
                            (iia)  compulsory repayment amount; or
 
                             (iii)  FS assessment debt; or
@@ -576,6 +589,8 @@ interest is payable by the Commissioner to the person on the payment, calculated
              (2)  A reference in paragraph (1)(a) to a person making a payment of, or on account of:
 
                      (a)  income tax; or
+
+                     (b)  HEC assessment debt; or
 
                     (ba)  compulsory repayment amount; or
 
@@ -631,7 +646,7 @@ then interest is not payable under this Part on the whole or part of the payment
 
                               (i)  income tax payable under the assessment (after allowing any rebate, except a tax offset that is subject to the refundable tax offset rules, or deduction under subsection 100(2) of the Tax Act and before allowing any crediting, applying or other payment);
 
-                            (iii)  a compulsory repayment amount that is notified in the notice of assessment;
+                            (iii)  an HEC assessment debt or compulsory repayment amount that is notified in the notice of assessment;
 
                             (iv)  an FS assessment debt that is notified in the notice of assessment;
 
@@ -657,7 +672,7 @@ Note:          Division 67 of the _Income Tax Assessment Act
 
 Note:         This is the amount payable under the assessment for the year of income as reduced by any rebate, deduction under subsection 100(2) of the Tax Act, crediting, applying or other payment made before the post-notice crediting.
 
-                            (iii)  a compulsory repayment amount, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post-notice crediting;
+                            (iii)  an HEC assessment debt or compulsory repayment amount, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post-notice crediting;
 
                             (iv)  an FS assessment debt, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post-notice crediting;
 
@@ -1051,6 +1066,8 @@ the interest otherwise payable on the overpayment is reduced by the amount of th
 
                                         (A)  income tax; or
 
+                                        (B)  HEC assessment debt; or
+
                                       (BA)  compulsory repayment amount; or
 
                                         (C)  FS assessment debt; or
@@ -1064,6 +1081,8 @@ interest is payable by the Commissioner to the person on the amount remitted, re
              (2)  A reference in subparagraph (1)(a)(iv) to a person making a payment on account of:
 
                      (a)  income tax; or
+
+                     (b)  HEC assessment debt; or
 
                     (ba)  compulsory repayment amount; or
 
@@ -1129,7 +1148,7 @@ then interest is payable by the Commissioner to the entity on the amount refunde
 
 Note:          Section 12AF defines **_BAS amount_**, **_RBA surplus_** and **_RBA interest day_**.
 
-##### <a id="12AD"></a>12AD  Period of interest for RBA surpluses
+##### <a id="12AD"></a>12AD  Period of interest for RBA surpluses
 
                    Interest under this Part is payable for the period from the end of the RBA interest day until the end of the day on which the refund takes place.
 
@@ -2424,23 +2443,6 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 1) Act 2010</div>
-  </td>
-  <td>
-    <div>56, 2010</div>
-  </td>
-  <td>
-    <div>3 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 37–43): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -2944,7 +2946,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td colspan="2">
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2984,7 +2986,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 100 and 101, 2006; No. 56, 2010</div>
+    <div>am. Nos. 100 and 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3048,7 +3050,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 169, 1995; Nos. 11 and 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006; No. 56, 2010</div>
+    <div>am. No. 169, 1995; Nos. 11 and 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3120,7 +3122,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006; No. 56, 2010</div>
+    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3616,7 +3618,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 178, 1999 (as am. by No. 41, 2005); No. 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006; No. 56, 2010</div>
+    <div>am. No. 11, 1999; No. 178, 1999 (as am. by No. 41, 2005); No. 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
