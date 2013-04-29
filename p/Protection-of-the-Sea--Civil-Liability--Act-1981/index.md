@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00040/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00275/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
 
 # Protection of the Sea (Civil Liability) Act 1981
 
 **Act No. 31 of 1981 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 30 June 2009
+ taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1802,23 +1802,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-    </td>
-    <td>
-      <div>131, 2009</div>
-    </td>
-    <td>
-      <div>14 Dec 2009</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 11): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_ The _Protection of the Sea (Civil Liability) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
@@ -2268,23 +2251,6 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 11  After subsection 22(1A)
-
-Insert:
-
-          (1B)  While a ship is detained under this section, a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
-As at 2 February 2010 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2306,5 +2272,7 @@ _Maritime Legislation Amendment Act 2003 (No. 7, 2003)_
 ## 2  Application of amending resolution
 
 The amendment of subsection 3(1) of the _Protection of the Sea (Civil Liability) Act 1981_ made by this Schedule applies in relation to incidents of a kind described in section 9 of that Act happening after the commencement of this item.
+
+ 
 
  
