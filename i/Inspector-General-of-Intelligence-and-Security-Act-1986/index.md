@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00392/Html/InsGenIntSec1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00475/Html/InsGenIntSec1986_WD02_image001.gif)
 
 # Inspector-General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 12 October 2009
+ taking into account amendments up to Act No. 99 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -955,8 +955,6 @@ Note:          The rules referred to in subsection (2B) regu
 
 The _Inspector-General of Intelligence and Security Act 1986_ as shown in this compilation comprises Act No. 101, 1986 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -1336,24 +1334,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 49–52): \[ <i>see (g)</i>and Note 2] 
-Schedule 7: <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Inspector-General of Intelligence and Security Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(20) of which provides as follows:
@@ -1383,99 +1363,6 @@ _(f)_      The _Inspector-General of Intelligence and Security Act 198
                  (1)   This Act (other than Schedule 3) commences on the day on which it receives the Royal Assent.
 
                  (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
-
-_(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1852,34 +1739,6 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>am. No. 161, 1999; No. 153, 2001; No. 128, 2005</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 6
-
-## 49  Subsection 34(1AA)
-
-Before “section 60A”, insert “Division 9 of Part VII or”.
-
-## 50  Paragraph 34(1AA)(a)
-
-Before “section”, insert “Division or”.
-
-## 51  Subsection 34(5)
-
-Before “section 60A”, insert “Division 9 of Part VII or”.
-
-## 52  After paragraph 34(5)(c)
-
-Insert:
-
-                    (ca)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under Division 9 of Part VII of the _Freedom of Information Act 1982_—for the purposes of that Division; and
-
-As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
