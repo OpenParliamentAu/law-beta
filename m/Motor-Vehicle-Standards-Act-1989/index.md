@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00223/Html/e511e092-6c13-4dbb-9708-5cb99238edbb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00017/Html/MotorVehiclesStandards1989_image001.gif)
 
 # Motor Vehicle Standards Act 1989
 
 **Act No. 65 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29](#29).          Power to require information
 
-[30](#30).          Offence‑related searches and seizures
+[30](#30).          Offence-related searches and seizures
 
 [32](#32).          Failure to answer questions etc 
 
@@ -226,7 +226,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the Territory of Christmas Island; or
 
-                     (b)  the Territory of Cocos (Keeling)  Islands.
+                     (b)  the Territory of Cocos (Keeling) Islands.
 
                     <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
 
@@ -418,7 +418,7 @@ Note:          Part 6 of the _Legislative Instruments Act 20
 
                      (b)  the inspection of steps in the manufacture of road vehicles or vehicle components; or
 
-                   (ba)  the testing and inspection of materials, machinery, appliances, articles or facilities used in the manufacture of road vehicles or vehicle components; or
+                    (ba)  the testing and inspection of materials, machinery, appliances, articles or facilities used in the manufacture of road vehicles or vehicle components; or
 
                      (c)  the operation of facilities used in the carrying out of any testing and inspection referred to in paragraph (a), (b) or (ba) and the assessment of those facilities by inspectors appointed under section 25; or
 
@@ -476,7 +476,7 @@ the Minister may give written approval for identification plates to be placed on
 
                      (b)  the vehicles of that type do not comply with the national standards; and
 
-                     (c)  the Minister is satisfied that the non‑compliance is not only in minor and inconsequential respects; and
+                     (c)  the Minister is satisfied that the non-compliance is not only in minor and inconsequential respects; and
 
                      (d)  the Minister is satisfied that the vehicles of that type comply with the national standards to an extent that makes them suitable for supply to the market;
 
@@ -1116,13 +1116,13 @@ Notice
 
              (2)  The Administrator:
 
-                     (a)  is to be appointed by the Secretary of the Department; and
+                     (a)  is to be appointed by the Secretary to the Department; and
 
                      (b)  is to be an SES employee, or acting SES employee, in the Department.
 
              (3)  An Associate Administrator:
 
-                     (a)  is to be appointed by the Secretary of the Department; and
+                     (a)  is to be appointed by the Secretary to the Department; and
 
                      (b)  is to be a person holding an office in the Department.
 
@@ -1158,7 +1158,7 @@ Notice
 
                      (d)  applications for approval to import a road vehicle or a vehicle component under regulations referred to in subsection 20(3); or
 
-                   (da)  applications under section 21A for an approval, applications under section 21C to renew an approval or applications under section 21E to vary an approval; or
+                    (da)  applications under section 21A for an approval, applications under section 21C to renew an approval or applications under section 21E to vary an approval; or
 
                      (e)  the supply of copies of the national standards in force from time to time; or
 
@@ -1244,7 +1244,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  An inspector is not entitled to make a requirement of a person under subsection (1) unless the inspector produces his or her identity card for inspection by the person.
 
-##### <a id="30"></a>30  Offence‑related searches and seizures
+##### <a id="30"></a>30  Offence-related searches and seizures
 
              (1)  Where an inspector has reasonable grounds for suspecting that there is, or may be within the next 72 hours, on any premises a particular thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
 
@@ -1326,7 +1326,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the refusal or failure was, is, or would be a contravention of this Act or the regulations;
 
-the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first‑mentioned person to do that act or thing.
+the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first-mentioned person to do that act or thing.
 
              (3)  Where an application is made to the court for an injunction under this section, the court may, if in the court’s opinion it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
 
@@ -1336,13 +1336,13 @@ the Federal Court may, on the application of the Minister or any other person, g
 
                      (a)  if the court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
              (6)  The power of the court to grant an injunction requiring a person to do a particular act or thing may be exercised:
 
                      (a)  if the court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
              (7)  Where the Minister makes an application to the court for the grant of an injunction under this section, the court is not to require the Minister or any other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
 
@@ -1364,7 +1364,7 @@ the Federal Court may, on the application of the Minister or any other person, g
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  A reference in subsection (1) or (3) to the state of mind of a person includes a reference to:
 
@@ -1416,11 +1416,11 @@ the Federal Court may, on the application of the Minister or any other person, g
 
                      (a)  a decision of the Minister under section 11; and
 
-                   (ab)  a decision of the Minister under section 13D to refuse an application for an approval; and
+                    (ab)  a decision of the Minister under section 13D to refuse an application for an approval; and
 
                     (ac)  a decision of the Minister under section 13D to specify a condition in an approval; and
 
-                   (ad)  a decision of the Minister under section 13F to vary, cancel or suspend an approval; and
+                    (ad)  a decision of the Minister under section 13F to vary, cancel or suspend an approval; and
 
                      (b)  a decision of the Minister for the purposes of section 14A; and
 
@@ -1428,9 +1428,9 @@ the Federal Court may, on the application of the Minister or any other person, g
 
                      (d)  a decision of the Minister under section 16 to refuse an application for an approval; and
 
-                   (da)  a decision of the Minister under section 16 to specify a condition in an approval; and
+                    (da)  a decision of the Minister under section 16 to specify a condition in an approval; and
 
-                   (db)  a decision of the Minister under section 16A to vary, cancel or suspend an approval; and
+                    (db)  a decision of the Minister under section 16A to vary, cancel or suspend an approval; and
 
                      (e)  a decision of the Minister for the purposes of section 19; and
 
@@ -1466,7 +1466,7 @@ the Federal Court may, on the application of the Minister or any other person, g
 
 ##### <a id="42"></a>42  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1828,23 +1828,6 @@ Remainder: 24 May 2001</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 7 (item 96): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Motor Vehicle Standards Act 1989_ was amended by Part 10 (sections 27–37) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
@@ -2084,7 +2067,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3</div>
+    <div>Heading to Div. 1 of Part 3 .</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2212,7 +2195,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 3</div>
+    <div>Heading to Div. 2 of Part 3 .</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2316,7 +2299,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 4</div>
+    <div>Heading to Div. 1 of Part 4 .</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2404,7 +2387,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 4</div>
+    <div>Heading to Div. 3 of Part 4 .</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2551,7 +2534,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. Nos. 8 and 146, 1999; No. 5, 2011</div>
+    <div>am. Nos. 8 and 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2707,9 +2690,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2719,9 +2702,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2729,9 +2712,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2787,7 +2770,7 @@ Variation, cancellation or suspension of transitional approvals
 
 Making regulations
 
-             (7)  The Governor‑General may make regulations prescribing matters:
+             (7)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this section to be prescribed; or
 
@@ -2806,5 +2789,7 @@ Definition
 ##### <a id="6"></a>6  Application—supply of used imported vehicles
 
                    Section 16 of the _Motor Vehicle Standards Act 1989_ applies to used imported vehicles supplied to the market after the commencement of this Act (regardless of whether the vehicles were imported before or after the commencement of this Act).
+
+ 
 
  
