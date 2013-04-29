@@ -1,849 +1,1502 @@
-![](http://www.comlaw.gov.au/Details/C2005C00484/Html/C1D9A85931AE2E1DCA2570450023A03A/$FILE/image001.gif)
+**
 
-# Electronic Transactions Act 1999
+###  ELECTRONIC TRANSACTIONS ACT 1999 
+**
 
-**Act No. 162 of 1999 as amended**
 
-This compilation was prepared on 15 July 2005
-incorporating amendments up to Act No. 100 of 2005
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
 
 
-# Contents
 
-**Part 1—Introduction**
+**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+###  Long Title 
+**
+**
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+###  ELECTRONIC TRANSACTIONS ACT 1999<part>Part&#160;1&#151;Introduction </part>
+**
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Electronic Transactions Act 1999_.
 
-[3](#3).            Object                                                                                                  1
+ 
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), this Act commences on a day to be fixed by
 
-[4](#4).            Simplified outline                                                                                 1
+Proclamation.</dd> <dt>(2)</dt><dd>If this Act does not commence under subsection&#160;(1) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. </dd> 
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 3  Object 
+The object of this Act is to provide a regulatory framework that:
 
-[5](#5).            Definitions                                                                                           2
+ 
+<dl compact=""><dl compact="">
 
-[6](#6).            Crown to be bound                                                                              3
+<dt>(a)</dt><dd>recognises the importance of the information economy to the future
 
-[7](#7).            External Territories                                                                              4
+economic and social prosperity of Australia; and</dd>
 
-**Part 2—Application of legal requirements to electronic communications** 
+<dt>(b)</dt><dd>facilitates the use of electronic transactions; and</dd>
 
-    **Division 1—General rule about validity of transactions for the purposes of laws of the Commonwealth**
+<dt>(c)</dt><dd>promotes business and community confidence in the use of electronic
 
-[8](#8).            Validity of electronic transactions                                                       5
+transactions; and</dd>
 
-    **Division 2—Requirements under laws of the Commonwealth**
+<dt>(d)</dt><dd>enables business and the community to use electronic communications in
 
-[9](#9).            Writing                                                                                                 6
+their dealings with government.
 
-[10](#10).          Signature                                                                                              8
+</dd>
 
-[11](#11).          Production of document                                                                      9
+</dl></dl>
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 4  Simplified outline 
+The following is a simplified outline of this Act:
 
-[12](#12).          Retention                                                                                           12
+ 
 
-[13](#13).          Exemptions from this Division                                                          14
 
-    **Division 3—Other provisions relating to laws of the Commonwealth**
 
-[14](#14).          Time and place of dispatch and receipt of electronic communications 16
 
-[15](#15).          Attribution of electronic communications                                         17
 
-**Part 3—Miscellaneous**
 
-[16](#16).          Regulations                                                                                        19
 
-**Schedule 1—Exemption of migration and citizenship documents from section 11**
 
-[1](#1).            Exempt migration documents                                                            20
 
-[2](#2).            Exempt citizenship documents                                                          21
 
-[3](#3).            Schedule does not limit section 13                                                     22
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 5  Definitions 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-**Notes** 
+</dd> 
 
+Back to Top
 
-## An Act to facilitate electronic transactions, and for other purposes
+<dl compact=""><dl compact="">
 
-## Part 1—Introduction
+_Commonwealth entity_ means:
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+ </dl></dl>
 
-                   This Act may be cited as the _Electronic Transactions Act 1999_.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dt>(a)</dt><dd>a Minister; or</dd>
 
-             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
+<dt>(b)</dt><dd>an officer or employee of the Commonwealth; or</dd>
 
-             (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+<dt>(c)</dt><dd>a person who holds or performs the duties of an office under a law of the
 
-##### <a id="3"></a>3  Object
+Commonwealth; or</dd>
 
-                   The object of this Act is to provide a regulatory framework that:
+<dt>(d)</dt><dd>an authority of the Commonwealth; or</dd>
 
-                     (a)  recognises the importance of the information economy to the future economic and social prosperity of Australia; and
+<dt>(e)</dt><dd>an employee of an authority of the Commonwealth.
 
-                     (b)  facilitates the use of electronic transactions; and
+</dd>
 
-                     (c)  promotes business and community confidence in the use of electronic transactions; and
+</dl></dl></dl>
 
-                     (d)  enables business and the community to use electronic communications in their dealings with government.
+<def><dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Simplified outline
+_consent_ includes consent that can reasonably be inferred from the
 
-                   The following is a simplified outline of this Act:
+conduct of the person concerned. _data_ includes the whole or part of a computer program within the meaning of the _Copyright Act 1968_. _data storage device_ means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device. _electronic communication_ means:  </dl></dl>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<dl compact=""><dl compact=""><dl compact="">
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     For the purposes of a law of the Commonwealth, a transaction is not invalid because it took place by means of one or more electronic communications.</li>
+<dt>(a)</dt><dd>a communication of information in the form of data, text or images by
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    The following requirements imposed under a law of the Commonwealth can be met in electronic form:</li>
+means of guided and/or unguided electromagnetic energy; or</dd>
 
-               (a)     a requirement to give information in writing;
+<dt>(b)</dt><dd>a communication of information in the form of speech by means of guided
 
-               (b)     a requirement to provide a signature;
+and/or unguided electromagnetic energy, where the speech is processed at its
 
-               (c)     a requirement to produce a document;
+destination by an automated voice recognition system.
 
-               (d)     a requirement to record information;
+</dd>
 
-               (e)     a requirement to retain a document.
+</dl></dl></dl>
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     For the purposes of a law of the Commonwealth, provision is made for determining the time and place of the dispatch and receipt of an electronic communication.</li>
+<def><dl compact=""><dl compact="">
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The purported originator of an electronic communication is bound by it for the purposes of a law of the Commonwealth only if the communication was sent by the purported originator or with the authority of the purported originator.</li></div>
+_information_ means information in the form of data, text, images
 
-##### <a id="5"></a>5  Definitions
+or speech. _information system_ means a system for generating, sending, receiving, storing or otherwise processing electronic communications. _information technology requirements_ includes software requirements. _non-profit body_ means a body that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the body's constitution, prohibited from making any distribution, whether in money, property or otherwise, to its members. _place of business_, in relation to a government, an authority of a government or a non-profit body, means a place where any operations or activities are carried out by that government, authority or body. _transaction_ includes a transaction of a non-commercial nature.  </dl></dl>
 
-             (1)  In this Act, unless the contrary intention appears:
+<dl compact="">
 
-                    <a name="commonwealth-entiti"></a>**_Commonwealth entity_** means:
+<dt>(2)</dt><dd>Before 1&#160;July 2001, in this Act (other than this section):
 
-                     (a)  a Minister; or
+</dd> </dl>
 
-                     (b)  an officer or employee of the Commonwealth; or
+<def><dl compact=""><dl compact="">
 
-                     (c)  a person who holds or performs the duties of an office under a law of the Commonwealth; or
+_law of the Commonwealth_ means a law of the Commonwealth specified
 
-                     (d)  an authority of the Commonwealth; or
+in the regulations.
 
-                     (e)  an employee of an authority of the Commonwealth.
+ </dl></dl>
 
-                    <a name="consent"></a>**_consent_** includes consent that can reasonably be inferred from the conduct of the person concerned.
+**
 
-                    <a name="data"></a>**_data_** includes the whole or part of a computer program within the meaning of the _Copyright Act 1968_.
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 6  Crown to be bound 
+**
 
-                    <a name="data-storag-devic"></a>**_data storage device_** means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
+ <dl compact="">
 
-                    <a name="electron-commun"></a>**_electronic communication_** means:
+		This Act binds the Crown in all its capacities.
 
-                     (a)  a communication of information in the form of data, text or images by means of guided and/or unguided electromagnetic energy; or
+ </dl>
 
-                     (b)  a communication of information in the form of speech by means of guided and/or unguided electromagnetic energy, where the speech is processed at its destination by an automated voice recognition system.
+**
 
-                    <a name="inform"></a>**_information_** means information in the form of data, text, images or speech.
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 7  External Territories 
+**
 
-                    <a name="inform-system"></a>**_information system_** means a system for generating, sending, receiving, storing or otherwise processing electronic communications.
+ <dl compact="">
 
-                    <a name="inform-technologi-requir"></a>**_information technology requirements_** includes software requirements.
+		This Act extends to all the external Territories.
 
-                    <a name="non-profit-bodi"></a>**_non-profit body_** means a body that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the body’s constitution, prohibited from making any distribution, whether in money, property or otherwise, to its members.
+ </dl>
 
-                    <a name="place-busi"></a>**_place of business_**, in relation to a government, an authority of a government or a non-profit body, means a place where any operations or activities are carried out by that government, authority or body.
+<center>**
 
-                    <a name="transact"></a>**_transaction_** includes a transaction of a non-commercial nature.
+###  ELECTRONIC TRANSACTIONS ACT 1999<part>Part&#160;2&#151;Application of legal requirements to electronic communications </part>
+**</center>
 
-             (2)  Before 1 July 2001, in this Act (other than this section):
+<center>**
 
-                    <a name="law-commonwealth"></a>**_law of the Commonwealth_** means a law of the Commonwealth specified in the regulations.
+###  ELECTRONIC TRANSACTIONS ACT 1999<division>Division&#160;1&#151;General rule about validity of transactions for the purposes of laws of the Commonwealth </division> 
+**</center>
 
-##### <a id="6"></a>6  Crown to be bound
+**
 
-                   This Act binds the Crown in all its capacities.
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 8  Validity of electronic transactions 
+**
 
-##### <a id="7"></a>7  External Territories
+ <dl compact="">
 
-                   This Act extends to all the external Territories.
+<dt>(1)</dt><dd>For the purposes of a law of the Commonwealth, a transaction is not
 
-## Part 2—Application of legal requirements to electronic communications
+invalid because it took place wholly or partly by means of one or more
 
-### Division 1—General rule about validity of transactions for the purposes of laws of the Commonwealth
+electronic communications.</dd> <dt>(2)</dt><dd>The general rule in subsection&#160;(1) does not apply in relation to the validity of a transaction to the extent to which another, more specific provision of this Part deals with the validity of the transaction. </dd> </dl>
 
-##### <a id="8"></a>8  Validity of electronic transactions
+<center>Back to Top</center>
 
-             (1)  For the purposes of a law of the Commonwealth, a transaction is not invalid because it took place wholly or partly by means of one or more electronic communications.
+_Exemptions_
 
-             (2)  The general rule in subsection (1) does not apply in relation to the validity of a transaction to the extent to which another, more specific provision of this Part deals with the validity of the transaction.
+<dl compact="">
 
-Exemptions
+<dt>(3)</dt><dd>The regulations may provide that subsection&#160;(1) does not apply to a
 
-             (3)  The regulations may provide that subsection (1) does not apply to a specified transaction.
+specified transaction.</dd> <dt>(4)</dt><dd>The regulations may provide that subsection&#160;(1) does not apply to a specified law of the Commonwealth. </dd> </dl>
 
-             (4)  The regulations may provide that subsection (1) does not apply to a specified law of the Commonwealth.
+<center>**
 
-### Division 2—Requirements under laws of the Commonwealth
+###  ELECTRONIC TRANSACTIONS ACT 1999<division>Division&#160;2&#151;Requirements under laws of the Commonwealth </division> 
+**</center>
 
-##### <a id="9"></a>9  Writing
+**
 
-Requirement to give information in writing
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 9  Writing 
+**
 
-             (1)  If, under a law of the Commonwealth, a person is required to give information in writing, that requirement is taken to have been met if the person gives the information by means of an electronic communication, where:
+ _Requirement to give information in writing_
 
-                     (a)  in all cases—at the time the information was given, it was reasonable to expect that the information would be readily accessible so as to be useable for subsequent reference; and
+<dl compact="">
 
-                     (b)  if the information is required to be given to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that the information be given, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the entity’s requirement has been met; and
+<dt>(1)</dt><dd>If, under a law of the Commonwealth, a person is required to give
 
-                     (c)  if the information is required to be given to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that particular action be taken by way of verifying the receipt of the information—the entity’s requirement has been met; and
+information in writing, that requirement is taken to have been met if the
 
-                     (d)  if the information is required to be given to a person who is neither a Commonwealth entity nor a person acting on behalf of a Commonwealth entity—the person to whom the information is required to be given consents to the information being given by way of electronic communication.
+person gives the information by means of an electronic communication, where:
 
-Permission to give information in writing
+</dd> </dl>
 
-             (2)  If, under a law of the Commonwealth, a person is permitted to give information in writing, the person may give the information by means of an electronic communication, where:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  in all cases—at the time the information was given, it was reasonable to expect that the information would be readily accessible so as to be useable for subsequent reference; and
+<dt>(a)</dt><dd>in all cases&#151;at the time the information was given, it was reasonable to
 
-                     (b)  if the information is permitted to be given to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that the information be given, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the entity’s requirement has been met; and
+expect that the information would be readily accessible so as to be useable for
 
-                     (c)  if the information is permitted to be given to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that particular action be taken by way of verifying the receipt of the information—the entity’s requirement has been met; and
+subsequent reference; and</dd>
 
-                     (d)  if the information is permitted to be given to a person who is neither a Commonwealth entity nor a person acting on behalf of a Commonwealth entity—the person to whom the information is permitted to be given consents to the information being given by way of electronic communication.
+<dt>(b)</dt><dd>if the information is required to be given to a Commonwealth entity, or to
 
-Certain other laws not affected
+a person acting on behalf of a Commonwealth entity, and the entity requires
 
-             (3)  This section does not affect the operation of any other law of the Commonwealth that makes provision for or in relation to requiring or permitting information to be given, in accordance with particular information technology requirements:
+that the information be given, in accordance with particular information
 
-                     (a)  on a particular kind of data storage device; or
+technology requirements, by means of a particular kind of electronic
 
-                     (b)  by means of a particular kind of electronic communication.
+communication&#151;the entity's requirement has been met; and</dd>
 
-Giving information
+<dt>(c)</dt><dd>if the information is required to be given to a Commonwealth entity, or to
 
-             (4)  This section applies to a requirement or permission to give information, whether the expression **_give_**, **_send_** or **_serve_**, or any other expression, is used.
+a person acting on behalf of a Commonwealth entity, and the entity requires
 
-             (5)  For the purposes of this section, **_giving information_** includes, but is not limited to, the following:
+that particular action be taken by way of verifying the receipt of the
 
-                     (a)  making an application;
+information&#151;the entity's requirement has been met; and</dd>
 
-                     (b)  making or lodging a claim;
+<dt>(d)</dt><dd>if the information is required to be given to a person who is neither a
 
-                     (c)  giving, sending or serving a notification;
+Commonwealth entity nor a person acting on behalf of a Commonwealth entity&#151;the
 
-                     (d)  lodging a return;
+person to whom the information is required to be given consents to the
 
-                     (e)  making a request;
+information being given by way of electronic communication.
 
-                      (f)  making a declaration;
+</dd>
 
-                     (g)  lodging or issuing a certificate;
+</dl></dl></dl>
 
-                     (h)  making, varying or cancelling an election;
+_Permission to give information in writing_
 
-                      (i)  lodging an objection;
+<dl compact="">
 
-                      (j)  giving a statement of reasons.
+<dt>(2)</dt><dd>If, under a law of the Commonwealth, a person is permitted to give
 
-Note:          Section 13 sets out exemptions from this section.
+information in writing, the person may give the information by means of an
 
-##### <a id="10"></a>10  Signature
+electronic communication, where:
 
-Requirement for signature
+</dd> </dl>
 
-             (1)  If, under a law of the Commonwealth, the signature of a person is required, that requirement is taken to have been met in relation to an electronic communication if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  in all cases—a method is used to identify the person and to indicate the person’s approval of the information communicated; and
+<dt>(a)</dt><dd>in all cases&#151;at the time the information was given, it was reasonable to
 
-                     (b)  in all cases—having regard to all the relevant circumstances at the time the method was used, the method was as reliable as was appropriate for the purposes for which the information was communicated; and
+expect that the information would be readily accessible so as to be useable for
 
-                     (c)  if the signature is required to be given to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that the method used as mentioned in paragraph (a) be in accordance with particular information technology requirements—the entity’s requirement has been met; and
+subsequent reference; and</dd>
 
-                     (d)  if the signature is required to be given to a person who is neither a Commonwealth entity nor a person acting on behalf of a Commonwealth entity—the person to whom the signature is required to be given consents to that requirement being met by way of the use of the method mentioned in paragraph (a).
+<dt>(b)</dt><dd>if the information is permitted to be given to a Commonwealth entity, or
 
-Certain other laws not affected
+to a person acting on behalf of a Commonwealth entity, and the entity requires
 
-             (2)  This section does not affect the operation of any other law of the Commonwealth that makes provision for or in relation to requiring:
+that the information be given, in accordance with particular information
 
-                     (a)  an electronic communication to contain an electronic signature (however described); or
+technology requirements, by means of a particular kind of electronic
 
-                     (b)  an electronic communication to contain a unique identification in an electronic form; or
+communication&#151;the entity's requirement has been met; and</dd>
 
-                     (c)  a particular method to be used in relation to an electronic communication to identify the originator of the communication and to indicate the originator’s approval of the information communicated.
+<dt>(c)</dt><dd>if the information is permitted to be given to a Commonwealth entity, or
 
-Note:          Section 13 sets out exemptions from this section.
+to a person acting on behalf of a Commonwealth entity, and the entity requires
 
-##### <a id="11"></a>11  Production of document
+that particular action be taken by way of verifying the receipt of the
 
-Requirement to produce a document
+information&#151;the entity's requirement has been met; and</dd>
 
-             (1)  If, under a law of the Commonwealth, a person is required to produce a document that is in the form of paper, an article or other material, that requirement is taken to have been met if the person produces, by means of an electronic communication, an electronic form of the document, where:
+<dt>(d)</dt><dd>if the information is permitted to be given to a person who is neither a
 
-                     (a)  in all cases—having regard to all the relevant circumstances at the time of the communication, the method of generating the electronic form of the document provided a reliable means of assuring the maintenance of the integrity of the information contained in the document; and
+Commonwealth entity nor a person acting on behalf of a Commonwealth entity&#151;the
 
-                     (b)  in all cases—at the time the communication was sent, it was reasonable to expect that the information contained in the electronic form of the document would be readily accessible so as to be useable for subsequent reference; and
+person to whom the information is permitted to be given consents to the
 
-                     (c)  if the document is required to be produced to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that an electronic form of the document be produced, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the entity’s requirement has been met; and
+information being given by way of electronic communication.
 
-                     (d)  if the document is required to be produced to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that particular action be taken by way of verifying the receipt of the document—the entity’s requirement has been met; and
+</dd>
 
-                     (e)  if the document is required to be produced to a person who is neither a Commonwealth entity nor a person acting on behalf of a Commonwealth entity—the person to whom the document is required to be produced consents to the production, by means of an electronic communication, of an electronic form of the document.
+</dl></dl></dl>
 
-Permission to produce a document
+_Certain other laws not affected_
 
-             (2)  If, under a law of the Commonwealth, a person is permitted to produce a document that is in the form of paper, an article or other material, then, instead of producing the document in that form, the person may produce, by means of an electronic communication, an electronic form of the document, where:
+<dl compact="">
 
-                     (a)  in all cases—having regard to all the relevant circumstances at the time of the communication, the method of generating the electronic form of the document provided a reliable means of assuring the maintenance of the integrity of the information contained in the document; and
+<dt>(3)</dt><dd>This section does not affect the operation of any other law of the
 
-                     (b)  in all cases—at the time the communication was sent, it was reasonable to expect that the information contained in the electronic form of the document would be readily accessible so as to be useable for subsequent reference; and
+Commonwealth that makes provision for or in relation to requiring or permitting
 
-                     (c)  if the document is permitted to be produced to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that an electronic form of the document be produced, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the entity’s requirement has been met; and
+information to be given, in accordance with particular information technology
 
-                     (d)  if the document is permitted to be produced to a Commonwealth entity, or to a person acting on behalf of a Commonwealth entity, and the entity requires that particular action be taken by way of verifying the receipt of the document—the entity’s requirement has been met; and
+requirements:
 
-                     (e)  if the document is permitted to be produced to a person who is neither a Commonwealth entity nor a person acting on behalf of a Commonwealth entity—the person to whom the document is permitted to be produced consents to the production, by means of an electronic communication, of an electronic form of the document.
+</dd> </dl>
 
-Integrity of information
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  For the purposes of this section, the integrity of information contained in a document is maintained if, and only if, the information has remained complete and unaltered, apart from:
+<dt>(a)</dt><dd>on a particular kind of data storage device; or</dd>
 
-                     (a)  the addition of any endorsement; or
+<dt>(b)</dt><dd>by means of a particular kind of electronic communication.
 
-                     (b)  any immaterial change;
+</dd>
+
+</dl></dl></dl>
+
+_Giving information_
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>This section applies to a requirement or permission to give information,
+
+whether the expression _give_, _send_ or
+
+_serve_, or any other expression, is used.</dd> <dt>(5)</dt><dd>For the purposes of this section, _giving information_ includes, but is not limited to, the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>making an application;</dd>
+
+<dt>(b)</dt><dd>making or lodging a claim;</dd>
+
+<dt>(c)</dt><dd>giving, sending or serving a notification;</dd>
+
+<dt>(d)</dt><dd>lodging a return;</dd>
+
+<dt>(e)</dt><dd>making a request;</dd>
+
+<dt>(f)</dt><dd>making a declaration;</dd>
+
+<dt>(g)</dt><dd>lodging or issuing a certificate;</dd>
+
+<dt>(h)</dt><dd>making, varying or cancelling an election;</dd>
+
+<dt>(i)</dt><dd>lodging an objection;</dd>
+
+<dt>(j)</dt><dd>giving a statement of reasons.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;13 sets out exemptions from this section.
+
+ </dl></dl>
+
+**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 10  Signature 
+**
+
+ _Requirement for signature_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If, under a law of the Commonwealth, the signature of a person is
+
+required, that requirement is taken to have been met in relation to an
+
+electronic communication if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in all cases&#151;a method is used to identify the person and to indicate the
+
+person's approval of the information communicated; and</dd>
+
+<dt>(b)</dt><dd>in all cases&#151;having regard to all the relevant circumstances at the time
+
+the method was used, the method was as reliable as was appropriate for the
+
+purposes for which the information was communicated; and</dd>
+
+<dt>(c)</dt><dd>if the signature is required to be given to a Commonwealth entity, or to a
+
+person acting on behalf of a Commonwealth entity, and the entity requires that
+
+the method used as mentioned in paragraph&#160;(a) be in accordance with
+
+particular information technology requirements&#151;the entity's requirement has
+
+been met; and</dd>
+
+<dt>(d)</dt><dd>if the signature is required to be given to a person who is neither a
+
+Commonwealth entity nor a person acting on behalf of a Commonwealth entity&#151;the
+
+person to whom the signature is required to be given consents to that
+
+requirement being met by way of the use of the method mentioned in
+
+paragraph&#160;(a).
+
+</dd>
+
+</dl></dl></dl>
+
+_Certain other laws not affected_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>This section does not affect the operation of any other law of the
+
+Commonwealth that makes provision for or in relation to requiring:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an electronic communication to contain an electronic signature (however
+
+described); or</dd>
+
+<dt>(b)</dt><dd>an electronic communication to contain a unique identification in an
+
+electronic form; or</dd>
+
+<dt>(c)</dt><dd>a particular method to be used in relation to an electronic communication
+
+to identify the originator of the communication and to indicate the
+
+originator's approval of the information communicated.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;13 sets out exemptions from this section.
+
+ </dl></dl>
+
+**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 11  Production of document 
+**
+
+ _Requirement to produce a document_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If, under a law of the Commonwealth, a person is required to produce a
+
+document that is in the form of paper, an article or other material, that
+
+requirement is taken to have been met if the person produces, by means of an
+
+electronic communication, an electronic form of the document, where:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in all cases&#151;having regard to all the relevant circumstances at the time
+
+of the communication, the method of generating the electronic form of the
+
+document provided a reliable means of assuring the maintenance of the integrity
+
+of the information contained in the document; and</dd>
+
+<dt>(b)</dt><dd>in all cases&#151;at the time the communication was sent, it was reasonable to
+
+expect that the information contained in the electronic form of the document
+
+would be readily accessible so as to be useable for subsequent reference; and</dd>
+
+<dt>(c)</dt><dd>if the document is required to be produced to a Commonwealth entity, or to
+
+a person acting on behalf of a Commonwealth entity, and the entity requires
+
+that an electronic form of the document be produced, in accordance with
+
+particular information technology requirements, by means of a particular kind
+
+of electronic communication&#151;the entity's requirement has been met; and</dd>
+
+<dt>(d)</dt><dd>if the document is required to be produced to a Commonwealth entity, or to
+
+a person acting on behalf of a Commonwealth entity, and the entity requires
+
+that particular action be taken by way of verifying the receipt of the
+
+document&#151;the entity's requirement has been met; and</dd>
+
+<dt>(e)</dt><dd>if the document is required to be produced to a person who is neither a
+
+Commonwealth entity nor a person acting on behalf of a Commonwealth entity&#151;the
+
+person to whom the document is required to be produced consents to the
+
+production, by means of an electronic communication, of an electronic form of
+
+the document.
+
+</dd>
+
+</dl></dl></dl>
+
+_Permission to produce a document_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If, under a law of the Commonwealth, a person is permitted to produce a
+
+document that is in the form of paper, an article or other material, then,
+
+instead of producing the document in that form, the person may produce, by
+
+means of an electronic communication, an electronic form of the document, where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in all cases&#151;having regard to all the relevant circumstances at the time
+
+of the communication, the method of generating the electronic form of the
+
+document provided a reliable means of assuring the maintenance of the integrity
+
+of the information contained in the document; and</dd>
+
+<dt>(b)</dt><dd>in all cases&#151;at the time the communication was sent, it was reasonable to
+
+expect that the information contained in the electronic form of the document
+
+would be readily accessible so as to be useable for subsequent reference; and</dd>
+
+<dt>(c)</dt><dd>if the document is permitted to be produced to a Commonwealth entity, or
+
+to a person acting on behalf of a Commonwealth entity, and the entity requires
+
+that an electronic form of the document be produced, in accordance with
+
+particular information technology requirements, by means of a particular kind
+
+of electronic communication&#151;the entity's requirement has been met; and</dd>
+
+<dt>(d)</dt><dd>if the document is permitted to be produced to a Commonwealth entity, or
+
+to a person acting on behalf of a Commonwealth entity, and the entity requires
+
+that particular action be taken by way of verifying the receipt of the
+
+document&#151;the entity's requirement has been met; and</dd>
+
+<dt>(e)</dt><dd>if the document is permitted to be produced to a person who is neither a
+
+Commonwealth entity nor a person acting on behalf of a Commonwealth entity&#151;the
+
+person to whom the document is permitted to be produced consents to the
+
+production, by means of an electronic communication, of an electronic form of
+
+the document.
+
+</dd>
+
+</dl></dl></dl>
+
+_Integrity of information_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of this section, the integrity of information contained
+
+in a document is maintained if, and only if, the information has remained
+
+complete and unaltered, apart from:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the addition of any endorsement; or</dd>
+
+<dt>(b)</dt><dd>any immaterial change;
+
+</dd>
+
+</dl></dl></dl>
 
 which arises in the normal course of communication, storage or display.
 
-Certain other laws not affected
+_Certain other laws not affected_
 
-             (4)  This section does not affect the operation of any other law of the Commonwealth that makes provision for or in relation to requiring or permitting electronic forms of documents to be produced, in accordance with particular information technology requirements:
+<dl compact="">
 
-                     (a)  on a particular kind of data storage device; or
+<dt>(4)</dt><dd>This section does not affect the operation of any other law of the
 
-                     (b)  by means of a particular kind of electronic communication.
+Commonwealth that makes provision for or in relation to requiring or permitting
 
-Exemption—migration and citizenship documents
+electronic forms of documents to be produced, in accordance with particular
 
-             (5)  Schedule 1 has effect.
+information technology requirements:
 
-Copyright 
+</dd> </dl>
 
-             (6)  The following provisions have effect:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the generation of an electronic form of a document for the purposes of:
+<dt>(a)</dt><dd>on a particular kind of data storage device; or</dd>
 
-                              (i)  this section; or
+<dt>(b)</dt><dd>by means of a particular kind of electronic communication.
 
-                             (ii)  a law of a State or Territory that corresponds to this section;
+</dd>
 
-                            does not constitute an infringement of the copyright in a work or other subject matter embodied in the document;
+</dl></dl></dl>
 
-                     (b)  the production, by means of an electronic communication, of an electronic form of a document for the purposes of:
+<center>Back to Top</center>
 
-                              (i)  this section; or
+_Exemptionmigration and citizenship documents_
 
-                             (ii)  a law of a State or Territory that corresponds to this section;
+<dl compact="">
 
-                            does not constitute an infringement of the copyright in a work or other subject matter embodied in the document.
+<dt>(5)</dt><dd>Schedule&#160;1 has effect.
 
-Note:          Section 13 sets out exemptions from this section.
+</dd> </dl>
 
-##### <a id="12"></a>12  Retention
+_Copyright_
 
-Recording of information
+<dl compact="">
 
-             (1)  If, under a law of the Commonwealth, a person is required to record information in writing, that requirement is taken to have been met if the person records the information in electronic form, where:
+<dt>(6)</dt><dd>The following provisions have effect:
 
-                     (a)  in all cases—at the time of the recording of the information, it was reasonable to expect that the information would be readily accessible so as to be useable for subsequent reference; and
+</dd> </dl>
 
-                     (b)  if the regulations require that the information be recorded, in electronic form, on a particular kind of data storage device—that requirement has been met.
+<dl compact=""><dl compact=""><dl compact="">
 
-Retention of written document
+<dt>(a)</dt><dd>the generation of an electronic form of a document for the purposes of:
 
-             (2)  If, under a law of the Commonwealth, a person is required to retain, for a particular period, a document that is in the form of paper, an article or other material, that requirement is taken to have been met if the person retains an electronic form of the document throughout that period, where:
+</dd>
 
-                     (a)  in all cases—having regard to all the relevant circumstances at the time of the generation of the electronic form of the document, the method of generating the electronic form of the document provided a reliable means of assuring the maintenance of the integrity of the information contained in the document; and
+</dl></dl></dl>
 
-                     (b)  in all cases—at the time of the generation of the electronic form of the document, it was reasonable to expect that the information contained in the electronic form of the document would be readily accessible so as to be useable for subsequent reference; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  if the regulations require that the electronic form of the document be retained on a particular kind of data storage device—that requirement has been met.
+<dt>(i)</dt><dd>this section; or</dd>
 
-             (3)  For the purposes of subsection (2), the integrity of information contained in a document is maintained if, and only if, the information has remained complete and unaltered, apart from:
+<dt>(ii)</dt><dd>a law of a State or Territory that corresponds to this section;
 
-                     (a)  the addition of any endorsement; or
+</dd>
 
-                     (b)  any immaterial change;
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		does not constitute an infringement of the copyright in a work or other
+
+subject matter embodied in the document.
+
+<dt>(b)</dt><dd>the production, by means of an electronic communication, of an electronic
+
+form of a document for the purposes of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>this section; or</dd>
+
+<dt>(ii)</dt><dd>a law of a State or Territory that corresponds to this section;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		does not constitute an infringement of the copyright in a work or other
+
+subject matter embodied in the document.
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;13 sets out exemptions from this section.
+
+ </dl></dl>
+
+**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 12  Retention 
+**
+
+ _Recording of information_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If, under a law of the Commonwealth, a person is required to record
+
+information in writing, that requirement is taken to have been met if the
+
+person records the information in electronic form, where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in all cases&#151;at the time of the recording of the information, it was
+
+reasonable to expect that the information would be readily accessible so as to
+
+be useable for subsequent reference; and</dd>
+
+<dt>(b)</dt><dd>if the regulations require that the information be recorded, in electronic
+
+form, on a particular kind of data storage device&#151;that requirement has been
+
+met.
+
+</dd>
+
+</dl></dl></dl>
+
+_Retention of written document_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If, under a law of the Commonwealth, a person is required to retain, for a
+
+particular period, a document that is in the form of paper, an article or other
+
+material, that requirement is taken to have been met if the person retains an
+
+electronic form of the document throughout that period, where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in all cases&#151;having regard to all the relevant circumstances at the time
+
+of the generation of the electronic form of the document, the method of
+
+generating the electronic form of the document provided a reliable means of
+
+assuring the maintenance of the integrity of the information contained in the
+
+document; and</dd>
+
+<dt>(b)</dt><dd>in all cases&#151;at the time of the generation of the electronic form of the
+
+document, it was reasonable to expect that the information contained in the
+
+electronic form of the document would be readily accessible so as to be useable
+
+for subsequent reference; and</dd>
+
+<dt>(c)</dt><dd>if the regulations require that the electronic form of the document be
+
+retained on a particular kind of data storage device&#151;that requirement has been
+
+met.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of subsection&#160;(2), the integrity of information
+
+contained in a document is maintained if, and only if, the information has
+
+remained complete and unaltered, apart from:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the addition of any endorsement; or</dd>
+
+<dt>(b)</dt><dd>any immaterial change;
+
+</dd>
+
+</dl></dl></dl>
 
 which arises in the normal course of communication, storage or display.
 
-Retention of electronic communications
+_Retention of electronic communications_
 
-             (4)  If, under a law of the Commonwealth, a person (the **_first person_**) is required to retain, for a particular period, information that was the subject of an electronic communication, that requirement is taken to be met if the first person retains, or causes another person to retain, in electronic form, the information throughout that period, where:
+<dl compact="">
 
-                     (a)  in all cases—at the time of commencement of the retention of the information, it was reasonable to expect that the information would be readily accessible so as to be useable for subsequent reference; and
+<dt>(4)</dt><dd>If, under a law of the Commonwealth, a person (the _first person_) is required to retain, for a particular period, information
 
-                     (b)  in all cases—having regard to all the relevant circumstances at the time of commencement of the retention of the information, the method of retaining the information in electronic form provided a reliable means of assuring the maintenance of the integrity of the information contained in the electronic communication; and
+that was the subject of an electronic communication, that requirement is taken
 
-                     (c)  in all cases—throughout that period, the first person also retains, or causes the other person to retain, in electronic form, such additional information obtained by the first person as is sufficient to enable the identification of the following:
+to be met if the first person retains, or causes another person to retain, in
 
-                              (i)  the origin of the electronic communication;
+electronic form, the information throughout that period, where:
 
-                             (ii)  the destination of the electronic communication;
+</dd> </dl>
 
-                            (iii)  the time when the electronic communication was sent;
+<dl compact=""><dl compact=""><dl compact="">
 
-                            (iv)  the time when the electronic communication was received; and
+<dt>(a)</dt><dd>in all cases&#151;at the time of commencement of the retention of the
 
-                     (d)  in all cases—at the time of commencement of the retention of the additional information covered by paragraph (c), it was reasonable to expect that the additional information would be readily accessible so as to be useable for subsequent reference; and
+information, it was reasonable to expect that the information would be readily
 
-                     (e)  if the regulations require that the information be retained, in electronic form, on a particular kind of data storage device—that requirement is met throughout that period.
+accessible so as to be useable for subsequent reference; and</dd>
 
-             (5)  For the purposes of subsection (4), the integrity of information that was the subject of an electronic communication is maintained if, and only if, the information has remained complete and unaltered, apart from:
+<dt>(b)</dt><dd>in all cases&#151;having regard to all the relevant circumstances at the time
 
-                     (a)  the addition of any endorsement; or
+of commencement of the retention of the information, the method of retaining
 
-                     (b)  any immaterial change;
+the information in electronic form provided a reliable means of assuring the
+
+maintenance of the integrity of the information contained in the electronic
+
+communication; and</dd>
+
+<dt>(c)</dt><dd>in all cases&#151;throughout that period, the first person also retains, or
+
+causes the other person to retain, in electronic form, such additional
+
+information obtained by the first person as is sufficient to enable the
+
+identification of the following:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the origin of the electronic communication;</dd>
+
+<dt>(ii)</dt><dd>the destination of the electronic communication;</dd>
+
+<dt>(iii)</dt><dd>the time when the electronic communication was sent;</dd>
+
+<dt>(iv)</dt><dd>the time when the electronic communication was received; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>in all cases&#151;at the time of commencement of the retention of the
+
+additional information covered by paragraph&#160;(c), it was reasonable to
+
+expect that the additional information would be readily accessible so as to be
+
+useable for subsequent reference; and</dd>
+
+<dt>(e)</dt><dd>if the regulations require that the information be retained, in electronic
+
+form, on a particular kind of data storage device&#151;that requirement is met
+
+throughout that period.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>For the purposes of subsection&#160;(4), the integrity of information that
+
+was the subject of an electronic communication is maintained if, and only if,
+
+the information has remained complete and unaltered, apart from:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the addition of any endorsement; or</dd>
+
+<dt>(b)</dt><dd>any immaterial change;
+
+</dd>
+
+</dl></dl></dl>
 
 which arises in the normal course of communication, storage or display.
 
-Copyright
+_Copyright_
 
-             (6)  The generation of an electronic form of a document for the purposes of:
+<dl compact="">
 
-                     (a)  this section; or
+<dt>(6)</dt><dd>The generation of an electronic form of a document for the purposes of:
 
-                     (b)  a law of a State or Territory that corresponds to this section;
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>this section; or</dd>
+
+<dt>(b)</dt><dd>a law of a State or Territory that corresponds to this section;
+
+</dd>
+
+</dl></dl></dl>
 
 does not constitute an infringement of the copyright in a work or other subject matter embodied in the document.
 
-Note:          Section 13 sets out exemptions from this section.
+<dl compact=""><dl compact="">
 
-##### <a id="13"></a>13  Exemptions from this Division
+Note:	Section&#160;13 sets out exemptions from this section.
 
-Exemptions under the regulations
+ </dl></dl>
 
-             (1)  The regulations may provide that this Division, or a specified provision of this Division, does not apply to a specified requirement.
+<center>Back to Top</center>
 
-             (2)  The regulations may provide that this Division, or a specified provision of this Division, does not apply to a specified permission.
+**
 
-             (3)  The regulations may provide that this Division, or a specified provision of this Division, does not apply to a specified law of the Commonwealth.
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 13  Exemptions from this Division 
+**
 
-Exemptions for courts and tribunals
+ _Exemptions under the regulations_
 
-             (4)  This Division does not apply to the practice and procedure of a court or tribunal. For this purpose, **_practice and procedure_** includes all matters in relation to which rules of court may be made.
+<dl compact="">
 
-Evidence Act 1995 etc. not affected
+<dt>(1)</dt><dd>The regulations may provide that this Division, or a specified provision
 
-             (5)  This Division does not affect the operation of:
+of this Division, does not apply to a specified requirement.</dd> <dt>(2)</dt><dd>The regulations may provide that this Division, or a specified provision of this Division, does not apply to a specified permission.</dd> <dt>(3)</dt><dd>The regulations may provide that this Division, or a specified provision of this Division, does not apply to a specified law of the Commonwealth. </dd> </dl>
 
-                     (a)  the _Evidence Act 1995_; or
+_Exemptions for courts and tribunals_
 
-                     (b)  a law of a State or Territory that corresponds to the _Evidence Act 1995_; or
+<dl compact="">
 
-                     (c)  a law of a State or Territory, or a rule of common law, that makes provision for the way in which evidence is given in proceedings in a court.
+<dt>(4)</dt><dd>This Division does not apply to the practice and procedure of a court or
 
-### Division 3—Other provisions relating to laws of the Commonwealth
+tribunal. For this purpose, _practice and procedure_ includes all
 
-##### <a id="14"></a>14  Time and place of dispatch and receipt of electronic communications
+matters in relation to which rules of court may be made.
 
-Time of dispatch
+</dd> </dl>
 
-             (1)  For the purposes of a law of the Commonwealth, if an electronic communication enters a single information system outside the control of the originator, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the dispatch of the electronic communication occurs when it enters that information system.
+_Evidence Act 1995 etc. not affected_
 
-             (2)  For the purposes of a law of the Commonwealth, if an electronic communication enters successively 2 or more information systems outside the control of the originator, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the dispatch of the electronic communication occurs when it enters the first of those information systems.
+<dl compact="">
 
-Time of receipt
+<dt>(5)</dt><dd>This Division does not affect the operation of:
 
-             (3)  For the purposes of a law of the Commonwealth, if the addressee of an electronic communication has designated an information system for the purpose of receiving electronic communications, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the time of receipt of the electronic communication is the time when the electronic communication enters that information system.
+</dd> </dl>
 
-             (4)  For the purposes of a law of the Commonwealth, if the addressee of an electronic communication has not designated an information system for the purpose of receiving electronic communications, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the time of receipt of the electronic communication is the time when the electronic communication comes to the attention of the addressee.
+<dl compact=""><dl compact=""><dl compact="">
 
-Place of dispatch and receipt
+<dt>(a)</dt><dd>the _Evidence Act 1995_; or</dd>
 
-             (5)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the originator and the addressee of an electronic communication:
+<dt>(b)</dt><dd>a law of a State or Territory that corresponds to the _Evidence Act 1995_; or</dd>
 
-                     (a)  the electronic communication is taken to have been dispatched at the place where the originator has its place of business; and
+<dt>(c)</dt><dd>a law of a State or Territory, or a rule of common law, that makes
 
-                     (b)  the electronic communication is taken to have been received at the place where the addressee has its place of business.
+provision for the way in which evidence is given in proceedings in a court.
 
-             (6)  For the purposes of the application of subsection (5) to an electronic communication:
+</dd>
 
-                     (a)  if the originator or addressee has more than one place of business, and one of those places has a closer relationship to the underlying transaction—it is to be assumed that that place of business is the originator’s or addressee’s only place of business; and
+</dl></dl></dl>
 
-                     (b)  if the originator or addressee has more than one place of business, but paragraph (a) does not apply—it is to be assumed that the originator’s or addressee’s principal place of business is the originator’s or addressee’s only place of business; and
+<center>**
 
-                     (c)  if the originator or addressee does not have a place of business—it is to be assumed that the originator’s or addressee’s place of business is the place where the originator or addressee ordinarily resides.
+###  ELECTRONIC TRANSACTIONS ACT 1999<division>Division&#160;3&#151;Other provisions relating to laws of the Commonwealth </division> 
+**</center>
 
-Exemptions
+**
 
-             (7)  The regulations may provide that this section does not apply to a specified electronic communication.
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 14  Time and place of dispatch and receipt of electronic communications 
+**
 
-             (8)  The regulations may provide that this section does not apply to a specified law of the Commonwealth.
+_Time of dispatch_
 
-##### <a id="15"></a>15  Attribution of electronic communications
+<dl compact="">
 
-             (1)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the purported originator and the addressee of an electronic communication, the purported originator of the electronic communication is bound by that communication only if the communication was sent by the purported originator or with the authority of the purported originator.
+<dt>(1)</dt><dd>For the purposes of a law of the Commonwealth, if an electronic
 
-             (2)  Subsection (1) is not intended to affect the operation of a law (whether written or unwritten) that makes provision for:
+communication enters a single information system outside the control of the
 
-                     (a)  conduct engaged in by a person within the scope of the person’s actual or apparent authority to be attributed to another person; or
+originator, then, unless otherwise agreed between the originator and the
 
-                     (b)  a person to be bound by conduct engaged in by another person within the scope of the other person’s actual or apparent authority.
+addressee of the electronic communication, the dispatch of the electronic
 
-Exemptions
+communication occurs when it enters that information system.</dd> <dt>(2)</dt><dd>For the purposes of a law of the Commonwealth, if an electronic communication enters successively 2 or more information systems outside the control of the originator, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the dispatch of the electronic communication occurs when it enters the first of those information systems. </dd> </dl>
 
-             (3)  The regulations may provide that this section does not apply to a specified electronic communication.
+_Time of receipt_
 
-             (4)  The regulations may provide that this section does not apply to a specified law of the Commonwealth.
+<dl compact="">
 
-Certain provisions of the Evidence Act 1995 etc. not affected
+<dt>(3)</dt><dd>For the purposes of a law of the Commonwealth, if the addressee of an
 
-             (5)  This section does not affect the operation of:
+electronic communication has designated an information system for the purpose
 
-                     (a)  section 87 or 88 of the _Evidence Act 1995_; or
+of receiving electronic communications, then, unless otherwise agreed between
 
-                     (b)  a law of a State or Territory that corresponds to section 87 or 88 of the _Evidence Act 1995_; or
+the originator and the addressee of the electronic communication, the time of
 
-                     (c)  a law of a State or Territory, or a rule of common law, that provides for a statement made by a person to be treated as an admission made by a party to a proceeding in a court.
+receipt of the electronic communication is the time when the electronic
 
-## Part 3—Miscellaneous
+communication enters that information system.</dd> <dt>(4)</dt><dd>For the purposes of a law of the Commonwealth, if the addressee of an electronic communication has not designated an information system for the purpose of receiving electronic communications, then, unless otherwise agreed between the originator and the addressee of the electronic communication, the time of receipt of the electronic communication is the time when the electronic communication comes to the attention of the addressee. </dd> </dl>
 
-##### <a id="16"></a>16  Regulations
+_Place of dispatch and receipt_
 
-                   The Governor-General may make regulations prescribing matters:
+<dl compact="">
 
-                     (a)  required or permitted by this Act to be prescribed; or
+<dt>(5)</dt><dd>For the purposes of a law of the Commonwealth, unless otherwise agreed
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+between the originator and the addressee of an electronic communication:
 
+</dd> </dl>
 
-# Schedule 1—Exemption of migration and citizenship documents from section 11
+<dl compact=""><dl compact=""><dl compact="">
 
-_Note:       See subsection 11(5)._
+<dt>(a)</dt><dd>the electronic communication is taken to have been dispatched at the place
 
-##### <a id="1"></a>1  Exempt migration documents
+where the originator has its place of business; and</dd>
 
-             (1)  Section 11 does not apply to a document required or permitted to be produced in connection with:
+<dt>(b)</dt><dd>the electronic communication is taken to have been received at the place
 
-                     (a)  the operation of a provision of a migration law that relates to:
+where the addressee has its place of business.
 
-                              (i)  an application for, or the grant of, a visa; or
+</dd>
 
-                             (ii)  the cancellation of a visa; or
+</dl></dl></dl>
 
-                            (iii)  the deportation of a person; or
+<center>Back to Top</center>
 
-                     (b)  the application of a migration law to a non-citizen who:
+<dl compact="">
 
-                              (i)  does not hold, or is reasonably suspected of not holding, a visa; or
+<dt>(6)</dt><dd>For the purposes of the application of subsection&#160;(5) to an
 
-                             (ii)  seeks to enter Australia unlawfully, or is reasonably suspected of seeking to enter Australia unlawfully; or
+electronic communication:
 
-                            (iii)  seeks to enter the migration zone unlawfully, or is reasonably suspected of seeking to enter the migration zone unlawfully; or
+</dd> </dl>
 
-                     (c)  the operation of Division 2, 5, 8 or 11 of Part 2 of the _Migration Act 1958_; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the operation of Division 1.4, 1.4A or 1.4B of Part 1 of the Migration Regulations 1994.
+<dt>(a)</dt><dd>if the originator or addressee has more than one place of business, and
 
-             (2)  An expression used in paragraph (1)(a) or (b) and in the _Migration Act 1958_ has the same meaning in that paragraph as it has in that Act.
+one of those places has a closer relationship to the underlying transaction&#151;it
 
-             (3)  In this clause:
+is to be assumed that that place of business is the originator's or addressee's
 
-                    <a name="migrat-law"></a>**_migration law_** means:
+only place of business; and</dd>
 
-                     (a)  the _Migration Act 1958_; or
+<dt>(b)</dt><dd>if the originator or addressee has more than one place of business, but
 
-                     (b)  regulations under that Act.
+paragraph&#160;(a) does not apply&#151;it is to be assumed that the originator's or
 
-##### <a id="2"></a>2  Exempt citizenship documents
+addressee's principal place of business is the originator's or addressee's only
 
-             (1)  Section 11 does not apply to a document required or permitted to be produced in connection with:
+place of business; and</dd>
 
-                     (a)  ascertaining whether a person is, or remains, an Australian citizen; or
+<dt>(c)</dt><dd>if the originator or addressee does not have a place of business&#151;it is to
 
-                     (b)  the operation of a provision of a citizenship law that relates to:
+be assumed that the originator's or addressee's place of business is the place
 
-                              (i)  registration; or
+where the originator or addressee ordinarily resides.
 
-                             (ii)  an application for, or the grant of, a certificate of Australian citizenship; or
+</dd>
 
-                            (iii)  the inclusion of the name of a child in a certificate of Australian citizenship; or
+</dl></dl></dl>
 
-                            (iv)  the amendment, replacement, cancellation or surrender of a certificate of Australian citizenship; or
+_Exemptions_
 
-                             (v)  an application for, or the issue of, an evidentiary certificate; or
+<dl compact="">
 
-                            (vi)  the cancellation or surrender of an evidentiary certificate; or
+<dt>(7)</dt><dd>The regulations may provide that this section does not apply to a
 
-                           (vii)  the renunciation of Australian citizenship; or
+specified electronic communication.</dd> <dt>(8)</dt><dd>The regulations may provide that this section does not apply to a specified law of the Commonwealth. </dd> </dl>
 
-                           (viii)  the deprivation of Australian citizenship; or
+**
 
-                     (c)  the revocation of a certificate of Australian citizenship; or
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 15  Attribution of electronic communications 
+**
 
-                     (d)  the operation of a provision of a citizenship law that relates to:
+ <dl compact="">
 
-                              (i)  an application for, or the issue of, a declaratory certificate of citizenship; or
+<dt>(1)</dt><dd>For the purposes of a law of the Commonwealth, unless otherwise agreed
 
-                             (ii)  the return of a declaratory certificate of citizenship; or
+between the purported originator and the addressee of an electronic
 
-                            (iii)  the keeping of a register; or
+communication, the purported originator of the electronic communication is
 
-                            (iv)  the correction of an entry in a register; or
+bound by that communication only if the communication was sent by the purported
 
-                             (v)  the cancellation of an entry in a register; or
+originator or with the authority of the purported originator.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) is not intended to affect the operation of a law (whether written or unwritten) that makes provision for: </dd> </dl>
 
-                            (vi)  the giving of an extract of an entry in a register; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                           (vii)  the return of an extract of an entry in a register; or
+<dt>(a)</dt><dd>conduct engaged in by a person within the scope of the person's actual or
 
-                     (e)  the operation of regulation 4 of the Australian Citizenship Regulations.
+apparent authority to be attributed to another person; or</dd>
 
-             (2)  An expression used in paragraph (1)(b) or (c) and in the _Australian Citizenship Act 1948_ has the same meaning in that paragraph as it has in that Act.
+<dt>(b)</dt><dd>a person to be bound by conduct engaged in by another person within the
 
-             (3)  An expression used in paragraph (1)(d) and in the Australian Citizenship Regulations has the same meaning in that paragraph as it has in those regulations.
+scope of the other person's actual or apparent authority.
 
-             (4)  In this clause:
+</dd>
 
-                    <a name="citizenship-law"></a>**_citizenship law_** means:
+</dl></dl></dl>
 
-                     (a)  the _Australian Citizenship Act 1948_; or
+_Exemptions_
 
-                     (b)  regulations under that Act.
+<dl compact="">
 
-##### <a id="3"></a>3  Schedule does not limit section 13
+<dt>(3)</dt><dd>The regulations may provide that this section does not apply to a
 
-                   This Schedule does not, by implication, limit section 13 (which deals with exemptions from Division 2 of Part 2).
+specified electronic communication.</dd> <dt>(4)</dt><dd>The regulations may provide that this section does not apply to a specified law of the Commonwealth. </dd> </dl>
 
+_Certain provisions of the Evidence Act 1995 etc. not affected_
 
-# Notes to the _Electronic Transactions Act 1999_
+<dl compact="">
 
-### Note 1
+<dt>(5)</dt><dd>This section does not affect the operation of:
 
-The _Electronic Transactions Act 1999_ as shown in this compilation comprises Act No. 162, 1999 amended as indicated in the Tables below.
+</dd> </dl>
 
-### Table of Acts
+<dl compact=""><dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(a)</dt><dd>section&#160;87 or 88 of the _Evidence Act 1995_; or</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody></tbody></table>
+<dt>(b)</dt><dd>a law of a State or Territory that corresponds to section&#160;87 or 88 of
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+the _Evidence Act 1995_; or</dd>
 
-<tbody>
-  <tr>
-    <td>
-      <div>Electronic Transactions Act 1999</div>
-    </td>
-    <td>
-      <div>162, 1999</div>
-    </td>
-    <td>
-      <div>10 Dec 1999</div>
-    </td>
-    <td>
-      <div>15 March 2000 ( <i>see Gazette</i>1999, No. GN10)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2005</div>
-    </td>
-    <td>
-      <div>100, 2005</div>
-    </td>
-    <td>
-      <div>6 July 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 13): <i>(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-_(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        9\. Schedule 1, item 13
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of paragraph 11(6)(a) of the
-          <i>Electronic Transactions Act 1999</i>.
-      </div>
-    </td>
-    <td>
-      <div>
-        15 March 2000
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>am. No. 100, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
- 
+<dt>(c)</dt><dd>a law of a State or Territory, or a rule of common law, that provides for
+
+a statement made by a person to be treated as an admission made by a party to a
+
+proceeding in a court.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999<part>Part&#160;3&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999- SECT 16  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations prescribing matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999Schedule&#160;1&#151;Exemption of migration and citizenship documents from section&#160;11 
+**</center>
+
+ Note:	See subsection 11(5).
+
+1  Exempt migration documents
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Section&#160;11 does not apply to a document required or permitted to be
+
+produced in connection with:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the operation of a provision of a migration law that relates to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an application for, or the grant of, a visa; or</dd>
+
+<dt>(ii)</dt><dd>the cancellation of a visa; or</dd>
+
+<dt>(iii)</dt><dd>the deportation of a person; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the application of a migration law to a non-citizen who:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>does not hold, or is reasonably suspected of not holding, a visa; or</dd>
+
+<dt>(ii)</dt><dd>seeks to enter Australia unlawfully, or is reasonably suspected of
+
+seeking to enter Australia unlawfully; or</dd>
+
+<dt>(iii)</dt><dd>seeks to enter the migration zone unlawfully, or is reasonably suspected
+
+of seeking to enter the migration zone unlawfully; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the operation of Division&#160;2, 5, 8 or 11 of Part&#160;2 of the
+
+_Migration Act 1958_; or</dd>
+
+<dt>(d)</dt><dd>the operation of Division&#160;1.4, 1.4A or 1.4B of Part&#160;1 of the
+
+Migration Regulations 1994.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An expression used in paragraph&#160;(1)(a) or (b) and in the _Migration Act 1958_ has the same meaning in that paragraph as it has in that Act.</dd> <dt>(3)</dt><dd>In this clause: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_migration law_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Migration Act 1958_; or</dd>
+
+<dt>(b)</dt><dd>regulations under that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+2  Exempt citizenship documents
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Section&#160;11 does not apply to a document required or permitted to be
+
+produced in connection with:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>ascertaining whether a person is, or remains, an Australian citizen; or</dd>
+
+<dt>(b)</dt><dd>the operation of a provision of a citizenship law that relates to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>registration; or</dd>
+
+<dt>(ii)</dt><dd>an application for, or the grant of, a certificate of Australian
+
+citizenship; or</dd>
+
+<dt>(iii)</dt><dd>the inclusion of the name of a child in a certificate of Australian
+
+citizenship; or</dd>
+
+<dt>(iv)</dt><dd>the amendment, replacement, cancellation or surrender of a certificate of
+
+Australian citizenship; or</dd>
+
+<dt>(v)</dt><dd>an application for, or the issue of, an evidentiary certificate; or</dd>
+
+<dt>(vi)</dt><dd>the cancellation or surrender of an evidentiary certificate; or</dd>
+
+<dt>(vii)</dt><dd>the renunciation of Australian citizenship; or</dd>
+
+<dt>(viii)</dt><dd>the deprivation of Australian citizenship; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the revocation of a certificate of Australian citizenship; or</dd>
+
+<dt>(d)</dt><dd>the operation of a provision of a citizenship law that relates to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an application for, or the issue of, a declaratory certificate of
+
+citizenship; or</dd>
+
+<dt>(ii)</dt><dd>the return of a declaratory certificate of citizenship; or</dd>
+
+<dt>(iii)</dt><dd>the keeping of a register; or</dd>
+
+<dt>(iv)</dt><dd>the correction of an entry in a register; or</dd>
+
+<dt>(v)</dt><dd>the cancellation of an entry in a register; or</dd>
+
+<dt>(vi)</dt><dd>the giving of an extract of an entry in a register; or</dd>
+
+<dt>(vii)</dt><dd>the return of an extract of an entry in a register; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>the operation of regulation 4 of the Australian Citizenship Regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An expression used in paragraph&#160;(1)(b) or (c) and in the
+
+_Australian Citizenship Act 1948_ has the same meaning in that paragraph
+
+as it has in that Act.</dd> <dt>(3)</dt><dd>An expression used in paragraph&#160;(1)(d) and in the Australian Citizenship Regulations has the same meaning in that paragraph as it has in those regulations.</dd> <dt>(4)</dt><dd>In this clause: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_citizenship law_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Australian Citizenship Act 1948_; or</dd>
+
+<dt>(b)</dt><dd>regulations under that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+3  Schedule does not limit section&#160;13
+
+<dl compact="">
+
+		This Schedule does not, by implication, limit section&#160;13 (which deals
+
+with exemptions from Division&#160;2 of Part&#160;2).
+
+ </dl>
+
+<center>**
+
+###  ELECTRONIC TRANSACTIONS ACT 1999<centreit>Notes to the _Electronic Transactions Act 1999_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Electronic Transactions Act 1999_ as shown in this compilation comprises Act No.&#160;162, 1999 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Electronic Transactions Act 1999</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>162, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Dec 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>15&#160;March 2000: ( <i>see Gazette</i>1999, No. GN10)</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>
+
+</def>
+
+</def>
+
+</def></def></def>
+
+
+
+
