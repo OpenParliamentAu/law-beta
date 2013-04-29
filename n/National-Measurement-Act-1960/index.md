@@ -1,7 +1,7 @@
 
-National Measurement Act 1960
+National Measurement Act 1960 
 Act No. 64 of 1960 as amended 
-This compilation was prepared on 29 October 2001  taking into account amendments up to Act No. 159 of 2001
+This compilation was prepared on 22 March 2000  taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -15,7 +15,6 @@ Part I—Preliminary	1
 4A	Application of Act—utility meters used for trade	6
 5	Act to bind the Crown	7
 6	Extension of Act to Territories	7
-6A	Application of the Criminal Code	7
 Part II—Units and standards of measurement	8
 7	Australian legal units of measurement	8
 7A	Regulations may prescribe Australian legal units of measurement etc.	8
@@ -47,89 +46,90 @@ Division 1—Executive Director	20
 18AH	Duties	20
 18AI	Appointment	20
 18AJ	Term of office etc.	20
-18AK	Executive Director not to engage in other paid employment	20
+18AK	Executive Director not to engage in other paid employment	21
 18AL	Remuneration and allowances	21
 18AM	Leave of absence	21
 18AN	Resignation	21
 18AO	Disclosure of interests	21
 18AP	Acting Executive Director	21
 18AQ	Exclusion of Executive Director etc. from certain deliberations	23
-18AR	Terms and conditions of appointment not provided for by Act	23
-Division 2—Staff	24
-18A	Officers and employees	24
-Part V—Finance	25
-18B	Moneys payable to Commission	25
-18D	Application of money	25
-18F	Contracts	25
-Part VA—Utility meters	26
-Division 1—Preliminary	26
-18G	Overview of Part	26
-18H	Definitions	26
-Division 2—Requirements for use of utility meters for trade	28
-18K	Overview of Division	28
-18L	Utility meters used for trade to be verified	28
-18M	Installing unverified utility meters	29
-18N	Supplying unverified utility meters	29
-18P	Inaccurate use of utility meters	29
-18Q	Using or supplying inaccurate utility meter	30
-18R	Transactions by utility meters to be in prescribed units of measurement	31
-Division 3—Verification of utility meters	32
-18S	Overview	32
-18T	Meaning of verification	32
-18U	Who is permitted to verify utility meters?	32
-18V	Requirements for verification	33
-18W	Standards of measurements to be used for verification	33
-18X	Offences relating to verification	33
-18Y	Repairer to obliterate verification mark	35
-Division 4—Verifiers of utility meters	36
-18Z	Overview	36
-18ZA	Commission is a verifying authority	36
-18ZB	Application for approval as a verifying authority of utility meters	36
-18ZC	Appointment of verifying authorities	37
-18ZD	Conditions on appointment of verifying authorities	37
-18ZE	Commission must allocate verification marks	38
-18ZF	Commission to keep register of verification marks	38
-18ZG	Notice to verifying authority of intention to take disciplinary action	39
-18ZH	Commission may seek further information	39
-18ZI	Commission must consider authority’s submission and information in making a decision under section 18ZJ	39
-18ZJ	Taking of disciplinary action against a verifying authority	39
-18ZK	Review of decisions	40
-Division 5—Enforcement	41
-18ZL	Overview of Division	41
-Subdivision A—Appointment of authorised officers and identity cards	41
-18ZM	Appointment of authorised officers	41
-18ZN	Identity cards	42
-Subdivision B—Powers of authorised officers	42
-18ZO	Powers available to authorised officers for monitoring compliance	42
-18ZP	Offence powers	43
-18ZQ	General powers of authorised officers under this Part	44
-18ZR	Authorised officer may request persons to answer questions	45
-Subdivision C—Obligations of authorised officers	46
-18ZS	Authorised officer must produce identity card on request	46
-18ZT	Details of warrant to be given to occupier etc.	46
-18ZU	Consent	46
-18ZV	Announcement before entry	47
-18ZW	Compensation for damage to electronic equipment	47
-18ZX	Copies of seized things to be provided	47
-18ZY	Receipts for things seized under warrant	48
-18ZZ	Retention of seized things	48
-18ZZA	Magistrate may permit a thing to be retained	49
-Subdivision D—Occupier’s rights and responsibilities	50
-18ZZB	Occupier entitled to be present during search	50
-18ZZC	Occupier to provide authorised officer with all facilities and assistance	50
-Subdivision E—Warrants	50
-18ZZD	Monitoring warrants	50
-18ZZE	Offence related warrants	51
-18ZZF	Offence related warrants by telephone	52
-Part VI—Miscellaneous	54
-19	Maintaining of standards of measurement etc. before regulations prescribing units take effect	54
-19A	Patterns of instruments	54
-19AAA	Tolerances	56
-19AAB	Measuring instrument—accordance with pattern	56
-19AA	Liability to taxation	57
-19B	Offences	57
-20	Regulations	57
-Notes		61
+18AR	Terms and conditions of appointment not provided for by Act	24
+Division 2—Staff	25
+18A	Officers and employees	25
+Part V—Finance	26
+18B	Moneys payable to Commission	26
+18D	Application of money	26
+18F	Contracts	26
+Part VA—Utility meters	27
+Division 1—Preliminary	27
+18G	Overview of Part	27
+18H	Definitions	27
+18J	Application of Criminal Code	29
+Division 2—Requirements for use of utility meters for trade	30
+18K	Overview of Division	30
+18L	Utility meters used for trade to be verified	30
+18M	Installing unverified utility meters	31
+18N	Supplying unverified utility meters	31
+18P	Inaccurate use of utility meters	31
+18Q	Using or supplying inaccurate utility meter	32
+18R	Transactions by utility meters to be in prescribed units of measurement	33
+Division 3—Verification of utility meters	34
+18S	Overview	34
+18T	Meaning of verification	34
+18U	Who is permitted to verify utility meters?	34
+18V	Requirements for verification	35
+18W	Standards of measurements to be used for verification	35
+18X	Offences relating to verification	35
+18Y	Repairer to obliterate verification mark	37
+Division 4—Verifiers of utility meters	38
+18Z	Overview	38
+18ZA	Commission is a verifying authority	38
+18ZB	Application for approval as a verifying authority of utility meters	38
+18ZC	Appointment of verifying authorities	39
+18ZD	Conditions on appointment of verifying authorities	39
+18ZE	Commission must allocate verification marks	40
+18ZF	Commission to keep register of verification marks	40
+18ZG	Notice to verifying authority of intention to take disciplinary action	41
+18ZH	Commission may seek further information	41
+18ZI	Commission must consider authority’s submission and information in making a decision under section 18ZJ	41
+18ZJ	Taking of disciplinary action against a verifying authority	41
+18ZK	Review of decisions	42
+Division 5—Enforcement	43
+18ZL	Overview of Division	43
+Subdivision A—Appointment of authorised officers and identity cards	43
+18ZM	Appointment of authorised officers	43
+18ZN	Identity cards	44
+Subdivision B—Powers of authorised officers	44
+18ZO	Powers available to authorised officers for monitoring compliance	44
+18ZP	Offence powers	45
+18ZQ	General powers of authorised officers under this Part	46
+18ZR	Authorised officer may request persons to answer questions	47
+Subdivision C—Obligations of authorised officers	48
+18ZS	Authorised officer must produce identity card on request	48
+18ZT	Details of warrant to be given to occupier etc.	48
+18ZU	Consent	48
+18ZV	Announcement before entry	49
+18ZW	Compensation for damage to electronic equipment	49
+18ZX	Copies of seized things to be provided	49
+18ZY	Receipts for things seized under warrant	50
+18ZZ	Retention of seized things	50
+18ZZA	Magistrate may permit a thing to be retained	51
+Subdivision D—Occupier’s rights and responsibilities	52
+18ZZB	Occupier entitled to be present during search	52
+18ZZC	Occupier to provide authorised officer with all facilities and assistance	52
+Subdivision E—Warrants	52
+18ZZD	Monitoring warrants	52
+18ZZE	Offence related warrants	53
+18ZZF	Offence related warrants by telephone	54
+Part VI—Miscellaneous	56
+19	Maintaining of standards of measurement etc. before regulations prescribing units take effect	56
+19A	Patterns of instruments	56
+19AAA	Tolerances	58
+19AAB	Measuring instrument—accordance with pattern	58
+19AA	Liability to taxation	59
+19B	Offences	59
+20	Regulations	59
+Notes to the National Measurement Act 1960	63
 
 An Act relating to Weights and Measures
 Part I—Preliminary
@@ -226,9 +226,6 @@ Exception—this Act does not apply to reverification
 		This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island and any authority constituted by or under a law of the Commonwealth or of a State or Territory.
 6  Extension of Act to Territories
 		This Act extends to all the Territories.
-6A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences created by this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Units and standards of measurement
   
@@ -398,6 +395,7 @@ Division 1—Executive Director
 	(3)	All acts and things done in the name of, or on behalf of, the Commission by the Executive Director shall be deemed to have been done by the Commission.
 18AI  Appointment
 	(1)	The Executive Director shall be appointed by the Commission.
+	(2)	A person who has attained 65 years of age shall not be appointed as Executive Director.
 	(3)	The appointment of a person as Executive Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
 18AJ  Term of office etc.
 	(1)	The Executive Director:
@@ -503,6 +501,8 @@ verification mark means a mark allocated for use by the Commission under section
 verifier means a person to whom the Commission has allocated a verification mark under section 18ZE.
 	(2)	For the purposes of this Part, a meter gives an inaccurate measurement if the meter does not operate within the appropriate limits of error that are permitted under the regulations.
 	(3)	A reference in this Part to a person marking a utility meter with a verification mark includes the marking of the utility meter itself, the affixing of a label to the utility meter or the marking of a label affixed to the utility meter.
+18J  Application of Criminal Code
+		Chapter 2 of the Criminal Code applies to all offences against this Part.
 
 Division 2—Requirements for use of utility meters for trade
 18K  Overview of Division
@@ -979,7 +979,7 @@ by the Commission or, on behalf of the Commission, by a department of State of t
 	(b)	that a measuring instrument is in accordance with a pattern so approved.
 Penalty:	$6,000.
 20  Regulations
-	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
 	(aa) 	providing for the verification of standards of measurement; and
 	(a)	providing for or in relation to the issuing of certificates in respect of the verification of standards of measurement, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be evidence of the matters stated in it; and
 	(b)	providing that a reference standard of measurement of a particular denomination that was found, upon verification, not to be greater or less than that denomination by an amount exceeding an amount specified in the regulations is, unless otherwise stated in the certificate issued in respect of the verification of the standard, to be deemed to be of a value equal to its denomination; and
@@ -1106,16 +1106,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (item 101): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
 —
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001
-140, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4 [see Table A]
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-159, 2001
-1 Oct 2001
-29 Oct 2001
-Sch. 1 (item 97) [see Table A]
 (a)	The National Measurement Act 1960 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsections 2(1) and (30) of which provide as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 	(30)	The amendment of subsection 3(3) of the National Measurement Act 1960 made by this Act shall be deemed to have come into operation immediately after the commencement of the Weights and Measures (National Standards) Amendment Act 1984.
@@ -1132,11 +1122,12 @@ Sch. 1 (item 97) [see Table A]
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
 (e)	The National Measurement Act 1960 was amended by Schedule 1 (item 21) only of the Industry, Science and Tourism Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(f)	The National Measurement Act 1960 was amended by Schedule 2 (items 995‑1003) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+(f)	The National Measurement Act 1960 was amended by Schedule 2 (items 995‑1003) only of the Audit (Transitional and Miscellaneous) Amendments Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (g)	The National Measurement Act 1960 was amended by Schedule 10 (item 101) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
 	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 	(c)	the items in Schedules 10, 11 and 12. 
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -1155,8 +1146,6 @@ S. 4A
 ad. No. 9, 1999
 S. 5	
 am. No. 77, 1984
-S. 6A	
-ad. No. 140, 2001
 Heading to Part II	
 ad. No. 158, 1978
 S. 7	
@@ -1243,18 +1232,12 @@ ad. No. 158, 1978
 rs. No. 141, 1987
 Heading to Div. 1 of Part IV	
 ad. No. 141, 1987
-Ss. 18AG‑18AH	
+Ss. 18AG‑18AI	
 ad. No. 141, 1987
-S. 18AI	
-ad. No. 141, 1987
-
-am. No. 159, 2001
 S. 18AJ	
 ad. No. 141, 1987
 
 am. No. 90, 1998
-
-rep. No. 140, 2001
 S. 18AK	
 ad. No. 141, 1987
 S. 18AL	
@@ -1335,6 +1318,7 @@ ad. No. 158, 1978
 rep. No. 152, 1997
 S. 20	
 am. No. 77, 1984; No. 168, 1992; No. 90, 1998; No. 9, 1999
+
 Table A
 Application, saving or transitional provisions
 National Measurement Amendment (Utility Meters) Act 1999 (No. 9, 1999)
@@ -1342,13 +1326,4 @@ Schedule 1
 14  Application
 Gas, electricity and water meters in use for trade on the commencement of this Schedule are taken to be verified under Part VA and the National Measurement Act 1960 as in force on and after that commencement applies to them accordingly.
 
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)
-Schedule 1
-97  Application of amendments
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
