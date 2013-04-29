@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image001.gif)
 
 # Fringe Benefits Tax Assessment Act 1986
 
 **Act No. 39 of 1986 as amended**
 
-This compilation was prepared on 13 November 2012
- taking into account amendments up to Act No. 142 of 2012
+This compilation was prepared on 7 February 2012
+ taking into account amendments up to Act No. 129 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 78A
@@ -26,7 +26,8 @@ The operation of amendments that have been incorporated may be
                                      Note 2
                                      Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -160,25 +161,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision B—Taxable value of living‑away‑from‑home allowance fringe benefits**
 
-[31](#31).          Taxable value—employee maintains a home in Australia
-
-[31A](#31A).       Taxable value—fly‑in fly‑out and drive‑in drive‑out employees
-
-[31B](#31B).       Taxable value—any other case
-
-        **Subdivision C—Related provisions**
-
-[31C](#31C).       Maintaining a home in Australia
-
-[31D](#31D).       First 12 months employee is required to live away from home
-
-[31E](#31E).        Fly‑in fly‑out and drive‑in drive‑out requirements
-
-[31F](#31F).        Declarations
-
-[31G](#31G).       Substantiating related expenses
-
-[31H](#31H).       Exempt food component
+[31](#31).          Taxable value of living‑away‑from‑home allowance fringe benefits
 
     **Division 8—Airline transport fringe benefits** 
 
@@ -578,7 +561,7 @@ Years of tax before year of tax 2000‑2001
 
              (1)  An employer’s **_fringe benefits taxable amount_** for a year of tax earlier than the year of tax beginning on 1 April 2000 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image002.gif)
 
 Note:          Other provisions affect the fringe benefits taxable amount. For example, see section 124 (about assessments).
 
@@ -592,13 +575,13 @@ Subsection (1B) amount
 
           (1B)  The **_subsection (1B) amount_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image003.gif)
 
 Subsection (1C) amount
 
           (1C)  The **_subsection (1C) amount_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image004.gif)
 
 Increase in fringe benefits taxable amount for year of tax 2000‑2001 and later years
 
@@ -646,13 +629,13 @@ Individual grossed‑up type 1 non‑exempt amount
 
            (1F)  For the purposes of step 1 in the method statement in subsection (1E), the **_individual grossed‑up type 1 non‑exempt amount_** of an employee in relation to the employer for the year of tax is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image005.gif)
 
 Individual grossed‑up type 2 non‑exempt amount
 
           (1G)  For the purposes of step 1 in the method statement in subsection (1E), the **_individual grossed‑up type 2 non‑exempt amount_** of an employee in relation to the employer for the year of tax is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image006.gif)
 
 Working out the type 1 individual base non‑exempt amount
 
@@ -1090,7 +1073,7 @@ Note:       Section 86‑60 of the _Income Tax Assessment Act 1997
 
              (1)  Subject to this Part, where one or more car fringe benefits in relation to an employer in relation to a year of tax relate to a particular car held by a particular person (in this section referred to as the **_provider_**), the taxable value of that fringe benefit, or the aggregate of the taxable values of those fringe benefits, as the case may be, in relation to that year of tax, is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image007.gif)
 
 Note:          For special rules for the years of tax starting on 1 April 2011, 1 April 2012 and 1 April 2013, see item 9 of Schedule 5 to the _Tax Laws Amendment (2011 Measures No. 5) Act 2011_.
 
@@ -1104,7 +1087,7 @@ Note:          For special rules for the years of tax starting
 
                     <a name=""></a>**_B_** is:
 
-                                        (A)  in a case where the commencement of the year of tax is later than the fourth anniversary of the earliest holding time—![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image008.gif); or
+                                        (A)  in a case where the commencement of the year of tax is later than the fourth anniversary of the earliest holding time—![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image008.gif); or
 
                                         (B)  in any other case—1; and
 
@@ -1114,7 +1097,7 @@ Note:          For special rules for the years of tax starting
 
                     <a name=""></a>**_B_** is:
 
-                                        (A)  in a case where the commencement of the year of tax is later than the fourth anniversary of the earliest holding time—![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image008.gif); or
+                                        (A)  in a case where the commencement of the year of tax is later than the fourth anniversary of the earliest holding time—![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image008.gif); or
 
                                         (B)  in any other case—1; and
 
@@ -1154,7 +1137,7 @@ Note:          For special rules for the years of tax starting
 
              (2)  Subject to this Part, where an election is made under subsection (1), the taxable value, or the aggregate of the taxable values, as the case requires, of the car fringe benefits in relation to the employer in relation to the year of tax that relate to the car while it was held by a particular person (in this section referred to as the **_provider_**) during a particular period (in this section referred to as the **_holding period_**) in the year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image009.gif)
 
 where:
 
@@ -1296,7 +1279,7 @@ this Act (other than section 162G) applies, and shall be deemed always to have
 
           (1A)  For the purposes of this Subdivision, the amount of depreciation that is deemed to have been incurred by a person in respect of a car in respect of the period (in this subsection called the **_holding period_**) during a year of tax while the car was held by the person is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image010.gif)
 
 where:
 
@@ -1308,7 +1291,7 @@ where:
 
              (1)  For the purposes of this Subdivision, the amount of depreciation that is deemed to have been incurred by a person in respect of a car in respect of a year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image011.gif)
 
 where:
 
@@ -1326,7 +1309,7 @@ where:
 
        (1AA)  The formula for working out the amount of **_B_** for the person and the car for subsection (1) is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image012.gif)
 
                    where:
 
@@ -1336,7 +1319,7 @@ where:
 
           (1B)  For the purposes of this Subdivision, the amount of interest that is deemed to have been incurred by a person in respect of a car in respect of the period (in this subsection called the **_holding period_**) during a year of tax while the car was held by the person is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image013.gif)
 
 where:
 
@@ -1348,7 +1331,7 @@ where:
 
              (2)  For the purposes of this Subdivision, the amount of interest that is deemed to have been incurred by a person in respect of a car in respect of a year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image011.gif)
 
 where:
 
@@ -1368,7 +1351,7 @@ where:
 
              (1)  In this Subdivision, the **_depreciated value_** of a car at a particular time (the **_relevant time_**) is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image014.gif)
 
 where:
 
@@ -1571,7 +1554,7 @@ the making of the loan is an exempt benefit in relation to the current year of t
 
                    (ba)  the amount (in this subsection called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                             where:
 
@@ -1623,7 +1606,7 @@ the making of the loan is an exempt benefit in relation to the current year of t
 
 the taxable value, but for Division 14, of the loan fringe benefit in relation to the year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image016.gif)
 
 where:
 
@@ -1651,9 +1634,9 @@ where:
 
                             (iii)  the notional deduction;
 
-                            (iv)  if it would be concluded that the amount of interest that has accrued on the loan in respect of the loan period would have been the same even if the loan fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the loan fringe benefit in relation to the year of tax;
+                            (iv)  if it would be concluded that the amount of interest that has accrued on the loan in respect of the loan period would have been the same even if the loan fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the loan fringe benefit in relation to the year of tax;
 
-                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the notional amount of interest in relation to the loan in relation to the year of tax; or
+                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the notional amount of interest in relation to the loan in relation to the year of tax; or
 
                      (h)  where:
 
@@ -1665,9 +1648,9 @@ where:
 
                             whichever of the following amounts is applicable:
 
-                            (iii)  if it would be concluded that the amount of interest that has accrued on the loan in respect of the loan period would have been the same even if the loan fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the loan fringe benefit in relation to the year of tax;
+                            (iii)  if it would be concluded that the amount of interest that has accrued on the loan in respect of the loan period would have been the same even if the loan fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the loan fringe benefit in relation to the year of tax;
 
-                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the notional amount of interest in relation to the loan in relation to the year of tax; or
+                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the notional amount of interest in relation to the loan in relation to the year of tax; or
 
                       (i)  if, under subsection 138(3), the loan fringe benefit is deemed to have been provided to the recipient only—the amount calculated in accordance with subsection (5).
 
@@ -1706,7 +1689,7 @@ this Act applies, and shall be deemed always to have applied, as if the amount r
 
              (5)  For the purposes of paragraph (1)(i) (which applies to a loan fringe benefit that, under subsection 138(3), is deemed to have been provided to an employee only), the amount is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image018.gif)
 
 where:
 
@@ -1749,31 +1732,25 @@ the making of the payment referred to in paragraph (a), or the reimbursement r
 
                    Where:
 
-                     (a)  an expense payment benefit is provided in a year of tax to a current employee of an employer in respect of his or her employment; and
+                     (a)  an expense payment benefit is provided in a year of tax to a current employee of an employer in respect of his or her employment;
 
-                     (b)  the recipients expenditure is in respect of accommodation for eligible family members; and
+                     (b)  the recipients expenditure is in respect of accommodation for eligible family members;
 
-                   (ba)  the accommodation is not provided while the employee is undertaking travel in the course of performing the duties of that employment; and
+                   (ba)  the accommodation is not provided while the employee is undertaking travel in the course of performing the duties of that employment;
 
-                     (c)  the accommodation is required solely because the duties of that employment require the employee to live away from his or her normal residence; and
+                     (c)  the accommodation is required solely by reason that the employee is required to live away from his or her usual place of residence in order to perform the duties of that employment; and
 
-                     (d)  the employee satisfies:
+                     (d)  the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out:
 
-                              (i)  sections 31C (about maintaining an Australian home) and 31D (about the first 12 months); or
+                              (i)  the employee’s usual place of residence; and
 
-                             (ii)  section 31E (about fly‑in fly‑out and drive‑in drive‑out requirements); and
-
-                     (e)  the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out:
-
-                              (i)  if the employee satisfies sections 31C and 31D—the matters in subparagraphs 31F(1)(a)(i) to (iii); or
-
-                             (ii)  if the employee satisfies section 31E—the matters in subparagraphs 31F(1)(b)(i) to (iii);
+                             (ii)  the place at which the employee actually resided while living away from his or her usual place of residence;
 
 the benefit is an exempt benefit in relation to the year of tax.
 
 ##### <a id="22"></a>22  Exempt car expense payment benefits
 
-                   Where:
+                   Where:
 
                      (a)  an expense payment benefit provided to an employee of an employer in respect of his or her employment is constituted by the reimbursement of the employee, in whole or in part, in respect of an amount of a Division 28 car expense incurred by the employee in relation to a car owned by, or leased to, the employee;
 
@@ -1865,7 +1842,7 @@ would have been calculated under whichever of sections 48 and 49 is applicable
 
                    (ba)  the amount (in this subsection called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                         where:
 
@@ -1945,7 +1922,7 @@ would have been calculated under whichever of sections 48 and 49 is applicable
 
 the taxable value, but for Division 14, of the expense payment fringe benefit in relation to the year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image019.gif)
 
 where:
 
@@ -1977,13 +1954,13 @@ where:
 
                             (iii)  the notional deduction;
 
-                            (iv)  if it would be concluded that the amount of the providers portion would have been the same even if the recipients expenditure were not incurred in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the expense payment fringe benefit in relation to the year of tax;
+                            (iv)  if it would be concluded that the amount of the providers portion would have been the same even if the recipients expenditure were not incurred in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the expense payment fringe benefit in relation to the year of tax;
 
                              (v)  if subparagraph (iv) does not apply:
 
-                                        (A)  in the case of an in‑house expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the expense payment fringe benefit in relation to the year of tax; or
+                                        (A)  in the case of an in‑house expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the expense payment fringe benefit in relation to the year of tax; or
 
-                                        (B)  in the case of an external expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the recipients expenditure; or
+                                        (B)  in the case of an external expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the recipients expenditure; or
 
                      (k)  where:
 
@@ -1995,13 +1972,13 @@ where:
 
                             whichever of the following amounts is applicable:
 
-                            (iii)  if it would be concluded the amount of the providers portion would have been the same even if the recipients expenditure were not incurred in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the expense payment fringe benefit in relation to the year of tax;
+                            (iii)  if it would be concluded the amount of the providers portion would have been the same even if the recipients expenditure were not incurred in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the expense payment fringe benefit in relation to the year of tax;
 
                             (iv)  if subparagraph (iii) does not apply:
 
-                                        (A)  in the case of an in‑house expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this Subdivision and Division 14 and the recipients contribution, would be the taxable value of the expense payment fringe benefit in relation to the year of tax; or
+                                        (A)  in the case of an in‑house expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this Subdivision and Division 14 and the recipients contribution, would be the taxable value of the expense payment fringe benefit in relation to the year of tax; or
 
-                                        (B)  in the case of an external expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the recipients expenditure; or
+                                        (B)  in the case of an external expense payment fringe benefit—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the recipients expenditure; or
 
                       (l)  if, under subsection 138(3), the expense payment fringe benefit is deemed to have been provided to the recipient only—the amount calculated in accordance with subsection (9).
 
@@ -2061,7 +2038,7 @@ this Act applies, and shall be deemed always to have applied, as if the amount r
 
              (9)  For the purposes of paragraph (1)(l) (which applies to an expense payment fringe benefit that, under subsection 138(3), is deemed to have been provided to an employee only), the amount is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image018.gif)
 
 where:
 
@@ -2115,7 +2092,7 @@ where:
 
                      (c)  in any other case—the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image020.gif)
 
                             where:
 
@@ -2131,7 +2108,7 @@ where:
 
                      (a)  if the current year of tax is a base year of tax in relation to the recipients current housing right—the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image021.gif)
 
                             where:
 
@@ -2255,7 +2232,7 @@ by the sum of:
 
                              (ii)  additional expenses (not being deductible expenses) incurred by the employee, and other additional disadvantages to which the employee is subject, during a period;
 
-                            by reason that the duties of that employment require the employee to live away from his or her normal residence;
+                            by reason that the employee is required to live away from his or her usual place of residence in order to perform the duties of that employment;
 
 the payment of the whole, or of the part, as the case may be, of the allowance constitutes a benefit provided by the employer to the employee at that time.
 
@@ -2271,171 +2248,23 @@ the payment of the whole, or of the part, as the case may be, of the allowance c
 
                      (e)  no part of the allowance is covered by subsection (1); and
 
-                      (f)  it would be concluded that the whole or a part of the allowance is in the nature of compensation to the employee for disadvantages to which the employee is subject, during a period, by reason that the duties of that employment require the employee to live away from his or her usual place of residence;
+                      (f)  it would be concluded that the whole or a part of the allowance is in the nature of compensation to the employee for disadvantages to which the employee is subject, during a period, by reason that the employee is required to live away from his or her usual place of residence in order to perform the duties of that employment;
 
 the payment of the whole of the allowance constitutes a benefit provided by the employer to the employee at that time.
 
 #### Subdivision B—Taxable value of living‑away‑from‑home allowance fringe benefits
 
-##### <a id="31"></a>31  Taxable value—employee maintains a home in Australia
+##### <a id="31"></a>31  Taxable value of living‑away‑from‑home allowance fringe benefits
 
-             (1)  This section applies to a living‑away‑from‑home allowance fringe benefit covered by subsection 30(1) in relation to a year of tax to the extent that the employee satisfies all of the following for the fringe benefit and the period to which it relates:
+                   Subject to this Part, the taxable value of a living‑away‑from‑home allowance fringe benefit in relation to a year of tax is:
 
-                     (a)  section 31C (about maintaining an Australian home);
+                     (a)  if the fringe benefit is covered by subsection 30(1)—the amount of the recipients allowance reduced by:
 
-                     (b)  section 31D (about the first 12 months);
+                              (i)  any exempt accommodation component; and
 
-                     (c)  section 31F (about declarations).
+                             (ii)  any exempt food component; or
 
-             (2)  Subject to this Part, the taxable value of the fringe benefit in relation to the year of tax is the amount of the fringe benefit reduced by:
-
-                     (a)  any exempt accommodation component; and
-
-                     (b)  any exempt food component.
-
-             (3)  Paragraph (2)(b) does not apply to the extent that the fringe benefit relates to a period during which the employee resumes living at his or her normal residence.
-
-             (4)  Neither paragraph (2)(a) nor (b) applies to the extent that the period to which the fringe benefit relates happens while the 12‑month period referred to in subsection 31D(1) is paused.
-
-Note:          The employer may pause that 12‑month period (see paragraph 31D(2)(a)).
-
-##### <a id="31A"></a>31A  Taxable value—fly‑in fly‑out and drive‑in drive‑out employees
-
-             (1)  This section applies to a living‑away‑from‑home allowance fringe benefit covered by subsection 30(1) in relation to a year of tax to the extent that the employee satisfies all of the following for the fringe benefit and the period to which it relates:
-
-                     (a)  the requirement that the employee has residential accommodation at or near his or her usual place of employment;
-
-                     (b)  section 31E (about extra requirements for these employees);
-
-                     (c)  section 31F (about declarations).
-
-             (2)  Subject to this Part, the taxable value of the fringe benefit in relation to the year of tax is the amount of the fringe benefit reduced by:
-
-                     (a)  any exempt accommodation component; and
-
-                     (b)  any exempt food component.
-
-##### <a id="31B"></a>31B  Taxable value—any other case
-
-             (1)  This section applies to a living‑away‑from‑home allowance fringe benefit in relation to a year of tax to the extent that neither section 31 nor 31A applies to the fringe benefit and the period to which it relates.
-
-             (2)  Subject to this Part, the taxable value of the fringe benefit in relation to the year of tax is the amount of the fringe benefit.
-
-#### Subdivision C—Related provisions
-
-##### <a id="31C"></a>31C  Maintaining a home in Australia
-
-                   The employee satisfies this section if:
-
-                     (a)  the place in Australia where the employee usually resides when in Australia:
-
-                              (i)  is a unit of accommodation in which the employee or the employee’s spouse has an ownership interest (within the meaning of the _Income Tax Assessment Act 1997_); and
-
-                             (ii)  continues to be available for the employee’s immediate use and enjoyment during the period that the duties of that employment require the employee to live away from it; and
-
-                     (b)  it is reasonable to expect that the employee will resume living at that place when that period ends.
-
-##### <a id="31D"></a>31D  First 12 months employee is required to live away from home
-
-             (1)  The employee satisfies this section if the fringe benefit relates only to all or part of the first 12 months that the duties of that employment require the employee to live away from the place in Australia where he or she usually resides when in Australia.
-
-             (2)  Each of the following paragraphs applies for the purposes of subsection (1):
-
-                     (a)  the employer may pause the 12‑month period;
-
-                     (b)  start a separate 12‑month period if:
-
-                              (i)  the employer later requires the employee to live at another location for the purposes of that employment; and
-
-                             (ii)  it would be unreasonable to expect the employee to commute to that other location from an earlier location for which the employer provided a benefit of the same kind to the employee;
-
-                     (c)  other changes in the nature of that employment are irrelevant;
-
-                     (d)  treat as one employer any of the employee’s earlier employers that is or has been an associate of the current employer.
-
-##### <a id="31E"></a>31E  Fly‑in fly‑out and drive‑in drive‑out requirements
-
-                   The employee satisfies this section if:
-
-                     (a)  the employee, on a regular and rotational basis:
-
-                              (i)  works for a number of days and has a number of days off (but not the same days in consecutive weeks); and
-
-                             (ii)  on completion of the working days, travels from his or her usual place of employment to his or her normal residence and, on completion of the days off, returns to that usual place of employment; and
-
-                     (b)  the basis of work described in paragraph (a) is customary for employees performing similar duties in that industry; and
-
-                     (c)  it would be unreasonable to expect the employee to travel on a daily basis on work days between:
-
-                              (i)  his or her usual place of employment; and
-
-                             (ii)  his or her normal residence;
-
-                            having regard to the location of those places; and
-
-                     (d)  it is reasonable to expect that the employee will resume living in his or her normal residence when the duties of that employment no longer require him or her to live away from it.
-
-##### <a id="31F"></a>31F  Declarations
-
-             (1)  The employee satisfies this section if the employee gives the employer a declaration, in a form approved by the Commissioner, purporting to set out:
-
-                     (a)  for a fringe benefit to which section 31 (about employees who maintain an Australian home) applies:
-
-                              (i)  the address of the place in Australia where the employee usually resides when in Australia; and
-
-                             (ii)  that section 31C is satisfied for that place; and
-
-                            (iii)  the address of each place where the employee actually resided during the period to which the benefit relates; or
-
-                     (b)  for a fringe benefit to which section 31A (about employees who fly‑in fly‑out or drive‑in drive‑out) applies:
-
-                              (i)  the address of the employee’s usual place of residence; and
-
-                             (ii)  that paragraph 31E(d) is satisfied for the employee’s normal residence; and
-
-                            (iii)  the address of each place where the employee actually resided during the period to which the benefit relates.
-
-             (2)  The employee must give the employer the declaration before the declaration date for the year of tax during which the benefit was provided.
-
-##### <a id="31G"></a>31G  Substantiating related expenses
-
-             (1)  This section applies to the following expenses incurred by the employee:
-
-                     (a)  an expense for the accommodation of eligible family members during the period to which a living‑away‑from‑home allowance fringe benefit relates;
-
-                     (b)  an expense for food or drink for eligible family members during the period to which a living‑away‑from‑home allowance fringe benefit relates, if the total of those food or drink expenses for that period exceeds the amount the Commissioner considers reasonable.
-
-             (2)  The employee substantiates the expense if the employee:
-
-                     (a)  before the declaration date for the year of tax during which the fringe benefit was provided, gives the employer:
-
-                              (i)  documentary evidence of the expense, or a copy; or
-
-                             (ii)  a declaration, in a form approved by the Commissioner, purporting to set out information about the expense; and
-
-                     (b)  if the employee gives a declaration under subparagraph (a)(ii)—retains documentary evidence of the expense for a period of 5 years starting at that declaration date.
-
-Note:          Substantiating expenses increases the exempt accommodation component, and exempt food component, for working out the taxable value of the relevant fringe benefit.
-
-##### <a id="31H"></a>31H  Exempt food component
-
-             (1)  The **_exempt food component_**, in relation to a living‑away‑from‑home allowance fringe benefit, is so much of the result of subsection (2) as is equal to the total of the expenses that:
-
-                     (a)  are incurred by the employee for food or drink for eligible family members during the period to which the fringe benefit relates; and
-
-                     (b)  if section 31G applies to the expenses—are substantiated under that section.
-
-             (2)  Work out the result of the following:
-
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image022.gif)
-
-where:
-
-                    <a name="applic-statutori-food-total"></a>**_applicable statutory food total_** means the total of the statutory food amounts for eligible family members for the period to which the fringe benefit relates, reduced (but not below zero) by any amount that:
-
-                     (a)  might reasonably be expected to be the total normal food or drink expenses for those eligible family members had they remained living in their normal residence during that period; and
-
-                     (b)  was taken into account in working out the food component.
+                     (b)  if the fringe benefit is covered by subsection 30(2)—the amount of the recipients allowance.
 
 ### Division 8—Airline transport fringe benefits
 
@@ -2467,7 +2296,7 @@ the provision of that transport and any incidental services provided on board th
 
                    Subject to this Part, the taxable value of an airline transport fringe benefit in relation to a year of tax is the stand‑by value of the recipients transport reduced by the amount of the recipients contribution.
 
-##### <a id="34"></a>34  Reduction of taxable value—_otherwise deductible_ rule
+##### <a id="34"></a>34  Reduction of taxable value—_otherwise deductible_ rule
 
              (1)  Where:
 
@@ -2477,7 +2306,7 @@ the provision of that transport and any incidental services provided on board th
 
                    (ba)  the amount (in this subsection called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                             where:
 
@@ -2541,7 +2370,7 @@ reduced by the amount of the recipients contribution.
 
                      (c)  the amount (in this section called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                             where:
 
@@ -2647,13 +2476,13 @@ If an employer elects that this Subdivision applies, the taxable value of meal e
 
              (1)  If the employer elects that this Subdivision applies for an FBT year then, despite any other provision of this Act, the taxable value of meal entertainment fringe benefits for the employer for the FBT year is worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image022.gif)
 
 Note:          This means that the employer’s **_aggregate fringe benefits amount_**(see section 5C) for the FBT year will include a proportion of the expenses incurred by the employer for the provision of meal entertainment for all persons in the FBT year. The proportion is worked out on the basis of the 12 week register.
 
              (2)  The **_register percentage_** is the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image023.gif)
 
 where:
 
@@ -2850,7 +2679,7 @@ Method of working out average cost
 
              (3)  The **_average cost_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image024.gif)
 
 where:
 
@@ -2870,7 +2699,7 @@ Fees must be representative
 
              (1)  For the purposes of this Division, if the operator of a commercial parking station provides all‑day parking in the ordinary course of business to members of the public on a weekly, monthly, yearly or other periodic basis, the operator is taken to charge a fee for all‑day parking on a particular day during the period equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image025.gif)
 
 where:
 
@@ -2936,7 +2765,7 @@ Method
 
 _Step 1_:    Work out an amount using the following formula, for each space for which there is, in the FBT year, at least one car parking benefit for an employee covered by the election:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image026.gif)
 
 _Step 2_:    Work out the total of all the amounts calculated under Step 1 (the **_total statutory benefit_**).
 
@@ -2958,15 +2787,15 @@ Formula to reduce total statutory benefits
 
              (2)  If this section applies, the total statutory benefit (see Step 2 in subsection 39FA(4)) is multiplied by the following fraction:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image028.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image027.gif)
 
              (3)  The **_average number of employees_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image029.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image028.gif)
 
              (4)  The **_average number of eligible spaces_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image030.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image029.gif)
 
              (5)  The**_parking period_** is the period:
 
@@ -3032,7 +2861,7 @@ Under this Subdivision, an employer may keep a 12 week register of car parking p
 
                    Despite any other provision of this Act (other than this section), the total taxable value of the employer’s car parking fringe benefits for employees covered by the election for the FBT year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image031.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image030.gif)
 
 ##### <a id="39GC"></a>39GC  Meaning of _total value of car parking benefits (register)_
 
@@ -3208,7 +3037,7 @@ reduced by the amount of the recipients contribution.
 
                    (ba)  the amount (in this subsection called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                             where:
 
@@ -3266,7 +3095,7 @@ reduced by the amount of the recipients contribution.
 
 the taxable value, but for Division 14, of the property fringe benefit in relation to the year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image016.gif)
 
 where:
 
@@ -3294,9 +3123,9 @@ where:
 
                             (iii)  the notional deduction;
 
-                            (iv)  if it would be concluded that the amount of the recipients contribution would have been the same even if the property fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the property fringe benefit in relation to the year of tax;
+                            (iv)  if it would be concluded that the amount of the recipients contribution would have been the same even if the property fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the property fringe benefit in relation to the year of tax;
 
-                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the property fringe benefit in relation to the year of tax; or
+                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the property fringe benefit in relation to the year of tax; or
 
                       (j)  where:
 
@@ -3308,9 +3137,9 @@ where:
 
                             whichever of the following amounts is applicable:
 
-                            (iii)  if it would be concluded that the amount of the recipients contribution would have been the same even if the property fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the property fringe benefit in relation to the year of tax;
+                            (iii)  if it would be concluded that the amount of the recipients contribution would have been the same even if the property fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the property fringe benefit in relation to the year of tax;
 
-                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the property fringe benefit in relation to the year of tax; or
+                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the property fringe benefit in relation to the year of tax; or
 
                      (k)  if, under subsection 138(3), the property fringe benefit is deemed to have been provided to the recipient only—the amount calculated in accordance with subsection (5).
 
@@ -3348,7 +3177,7 @@ this Act applies, and shall be deemed always to have applied, as if the amount r
 
              (5)  For the purposes of paragraph (1)(k) (which applies to a property fringe benefit that, under subsection 138(3), is deemed to have been provided to an employee only), the amount is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image018.gif)
 
 where:
 
@@ -3459,25 +3288,21 @@ the benefit is an exempt benefit.
 
              (5)  Where:
 
-                     (a)  a residual benefit consisting of the subsistence, during a year of tax, of a lease or licence in respect of a unit of accommodation is provided to an employee of an employer in respect of his or her employment; and
+                     (a)  a residual benefit consisting of the subsistence, during a year of tax, of a lease or licence in respect of a unit of accommodation is provided to an employee of an employer in respect of his or her employment;
 
-                     (b)  the unit of accommodation is for the accommodation of eligible family members and is provided solely because the duties of that employment require the employee to live away from his or her normal residence; and
-
-                   (ba)  the employee satisfies:
-
-                              (i)  sections 31C (about maintaining an Australian home) and 31D (about the first 12 months); or
-
-                             (ii)  section 31E (about fly‑in fly‑out and drive‑in drive‑out requirements); and
+                     (b)  the unit of accommodation is for the accommodation of eligible family members and is provided solely by reason that the employee is required to live away from his or her usual place of residence in order to perform the duties of that employment;
 
                      (c)  the accommodation is not provided while the employee is undertaking travel in the course of performing the duties of that employment; and
 
-                     (d)  any of the following conditions is satisfied:
+                     (d)  either of the following conditions is satisfied:
 
                               (i)  subsection (7) applies in relation to the provision of transport for the employee in connection with travel in the period in the year of tax when the lease or licence subsisted, being travel between the employee’s usual place of residence and the employee’s usual place of employment;
 
-                             (ii)  if the employee satisfies sections 31C and 31D—the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out the matters in subparagraphs 31F(1)(a)(i) to (iii);
+                             (ii)  the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out:
 
-                            (iii)  if the employee satisfies section 31E—the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out the matters in subparagraphs 31F(1)(b)(i) to (iii);
+                                        (A)  the employee’s usual place of residence; and
+
+                                        (B)  the place at which the employee actually resided while living away from his or her usual place of residence;
 
 the benefit is an exempt benefit in relation to the year of tax.
 
@@ -3677,7 +3502,7 @@ reduced by the amount of the recipients contribution insofar as it relates to th
 
                    (ba)  the amount (in this subsection called the **_notional deduction_**) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image015.gif)
 
                             where:
 
@@ -3735,7 +3560,7 @@ reduced by the amount of the recipients contribution insofar as it relates to th
 
 the taxable value, but for Division 14, of the residual fringe benefit in relation to the year of tax is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image016.gif)
 
 where:
 
@@ -3763,9 +3588,9 @@ where:
 
                             (iii)  the notional deduction;
 
-                            (iv)  if it would be concluded that the amount of the recipients contribution would have been the same even if the residual fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the residual fringe benefit in relation to the year of tax;
+                            (iv)  if it would be concluded that the amount of the recipients contribution would have been the same even if the residual fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the residual fringe benefit in relation to the year of tax;
 
-                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the residual fringe benefit in relation to the year of tax; or
+                             (v)  if subparagraph (iv) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the residual fringe benefit in relation to the year of tax; or
 
                       (j)  where:
 
@@ -3777,9 +3602,9 @@ where:
 
                             whichever of the following amounts is applicable:
 
-                            (iii)  if it would be concluded that the amount of the recipients contribution would have been the same even if the residual fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the residual fringe benefit in relation to the year of tax;
+                            (iii)  if it would be concluded that the amount of the recipients contribution would have been the same even if the residual fringe benefit were not applied or used in producing assessable income of the recipient—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14, would be the taxable value of the residual fringe benefit in relation to the year of tax;
 
-                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the residual fringe benefit in relation to the year of tax; or
+                            (iv)  if subparagraph (iii) does not apply—33![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image017.gif)% of the amount that, but for this subsection and Division 14 and the recipients contribution, would be the taxable value of the residual fringe benefit in relation to the year of tax; or
 
                      (k)  if, under subsection 138(3), the residual fringe benefit is deemed to have been provided to the recipient only—the amount calculated in accordance with subsection (5).
 
@@ -3818,7 +3643,7 @@ this Act applies, and shall be deemed always to have applied, as if the amount r
 
              (5)  For the purposes of paragraph (1)(k) (which applies to a residual fringe benefit that, under subsection 138(3), is deemed to have been provided to an employee only), the amount is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image018.gif)
 
 where:
 
@@ -3938,9 +3763,9 @@ a benefit provided in respect of the employment of the employee is an exempt ben
 
 Note:          Subsection 65J(5) explains:
 
-(a)    which societies are non‑profit societies for the purposes of section 65J; and
+(a)           which societies are non‑profit societies for the purposes of section 65J; and
 
-(b)    which associations are non‑profit associations for the purposes of section 65J.
+(b)           which associations are non‑profit associations for the purposes of section 65J.
 
              (5)  A benefit provided in respect of the employment of an employee is an exempt benefit if:
 
@@ -4864,13 +4689,13 @@ Endorsed funds
 
                      (c)  if there is no other long service award benefit provided in, or in respect of, any year of tax in respect of that employment in recognition of a different recognised long service period of the employee that is shorter than the current recognised long service period—the sum of the notional taxable values of the current long service award benefit and any other long service award benefits provided in, or in respect of, any year of tax in respect of the employment of the employee in recognition of the current recognised long service period does not exceed the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image032.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image031.gif)
 
                             where RLS is the number of whole years in the recognised long service period of the employee that was recognised by the provision of the current long service award benefit; and
 
                      (d)  if paragraph (c) does not apply—the sum of the notional taxable values of the current long service award benefit and any other long service award benefits provided in, or in respect of, any year of tax in respect of the employment of the employee in recognition of the current recognised long service period does not exceed the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image033.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image032.gif)
 
                             where:
 
@@ -5392,7 +5217,7 @@ whichever is the less.
 
              (3)  Where subsection (1) applies, in relation to 2 or more years of tax, in relation to 2 or more fringe benefits relating to a particular holiday for a particular family member, subsection (1) has effect, in relation to each of those years of tax, as if the reference in paragraph (1)(d) to the benchmark travel amount in relation to that fringe benefit, or those fringe benefits, in relation to the holiday for the family member were a reference to the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image034.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image033.gif)
 
 where:
 
@@ -5772,23 +5597,17 @@ Note:          Sections 85‑15, 85‑20 and 86‑60 of the 
 
              (1)  Where:
 
-                     (a)  a living‑away‑from‑home food fringe benefit, or 2 or more living‑away‑from‑home food fringe benefits, in relation to an employer in relation to a year of tax relates or relate to a particular employee; and
+                     (a)  a living‑away‑from‑home food fringe benefit, or 2 or more living‑away‑from‑home food fringe benefits, in relation to an employer in relation to a year of tax relates or relate to a particular employee;
 
-                     (b)  the fringe benefit or fringe benefits are equivalent to the food component of a living‑away‑from‑home allowance fringe benefit in respect of a particular period in the year of tax; and
+                     (b)  the fringe benefit or fringe benefits are equivalent to the food component of a living‑away‑from‑home allowance fringe benefit in respect of a particular period in the year of tax;
 
                      (c)  that food component exceeds the sum of the statutory food amounts in respect of eligible family members in respect of that period; and
 
-                     (d)  the employee satisfies:
+                     (d)  the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out particulars of:
 
-                              (i)  sections 31C (about maintaining an Australian home) and 31D (about the first 12 months); or
+                              (i)  the employee’s usual place of residence during that period; and
 
-                             (ii)  section 31E (about fly‑in fly‑out and drive‑in drive‑out requirements); and
-
-                   (da)  the employee gives to the employer, before the declaration date, a declaration, in a form approved by the Commissioner, purporting to set out:
-
-                              (i)  if the employee satisfies sections 31C and 31D—the matters in subparagraphs 31F(1)(a)(i) to (iii); or
-
-                             (ii)  if the employee satisfies section 31E—the matters in subparagraphs 31F(1)(b)(i) to (iii);
+                             (ii)  the place at which the employee actually resided during that period;
 
 the following provisions apply:
 
@@ -5922,7 +5741,7 @@ the fringe benefit is an amortised fringe benefit.
 
              (3)  If the overall amortisation period has not come to an end before the end of a particular year of tax (in this subsection called the **_current year of tax_**), the amortised amount, in relation to the current year of tax, of the amortised fringe benefit is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image035.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image034.gif)
 
 where:
 
@@ -5934,7 +5753,7 @@ where:
 
              (4)  If the overall amortisation period comes to an end during a particular year of tax (in this subsection called the **_current year of tax_**), the amortised amount, in relation to the current year of tax, of the amortised fringe benefit is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image035.gif)
 
 where:
 
@@ -6066,7 +5885,7 @@ the fringe benefit is a reducible fringe benefit.
 
              (2)  If an employer is a rebatable employer for a year of tax earlier than the year of tax beginning on 1 April 2000, the employer is entitled to a rebate of tax in the employer’s assessment for the year of tax equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image037.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image036.gif)
 
 where:
 
@@ -6080,7 +5899,7 @@ Rebate for year of tax 2000‑2001 and later years
 
           (2A)  If an employer is a rebatable employer for the year of tax beginning on 1 April 2000 or a later year of tax, the employer is entitled to a rebate of tax in the employer’s assessment for the year of tax concerned equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image038.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image037.gif)
 
 where:
 
@@ -6124,13 +5943,13 @@ Individual grossed‑up type 1 non‑rebatable amount
 
           (2C)  For the purposes of step 1 in the method statement in subsection (2B), the **_individual grossed‑up type 1 non‑rebatable amount_** of an employee in relation to the employer for the year of tax is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image039.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image038.gif)
 
 Individual grossed‑up type 2 non‑rebatable amount
 
           (2D)  For the purposes of step 1 in the method statement in subsection (2B), the **_individual grossed‑up type 2 non‑rebatable amount_** of an employee in relation to the employer for the year of tax is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00823/Html/ce21eea0-22b0-45e6-a93c-5d6add098693_files/image040.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00222/Html/4f41a01e-2cd5-4c39-b233-8d5aeccf642c_files/image039.gif)
 
 Working out the type 1 individual base non‑rebatable amount
 
