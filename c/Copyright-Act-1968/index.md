@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00265/Html/a73b5db9-175b-47ac-a8dc-f96ae8e0f1cf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00750/Html/46f8b061-a4e7-45f8-9ae7-046b1eef5345_files/image001.gif)
 
 # Copyright Act 1968
 
 **Act No. 63 of 1968 as amended**
 
-This compilation was prepared on 21 February 2012
+This compilation was prepared on 15 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -195,8 +195,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Interpretation
 
-[48A](#48A).       Copying by Parliamentary libraries for members of 
- Parliament
+[48A](#48A).       Copying by Parliamentary libraries for members of Parliament
 
 [49](#49).          Reproducing and communicating works by libraries and archives for users
 
@@ -1338,7 +1337,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 195ABC Nature of the identification of performer
 
-195ABD  dentification of performer to be clear and reasonably prominent or audible
+195ABD  Identification of performer to be clear and reasonably prominent or audible
 
 195ABE What is a reasonably prominent identification
 
@@ -1356,9 +1355,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [195AH](#195AH).  Act of false attribution of authorship of altered cinematograph film
 
-    **Division 3A—Right not to have performership falsely attributed** 
+    **Division 3A—Right not to have performership falsely attributed**
 
-195AHA  Performer’s right not to have performership falsely attributed
+195AHA  Performer’s right not to have performership falsely 
+ attributed
 
 195AHB  Acts of false attribution of performership
 
@@ -3381,7 +3381,7 @@ to the effect that the customer does not intend to use the book for a purpose me
 
                      (b)  the importation does not, under this section, constitute an infringement of copyright in a published work;
 
-                   the use of the book for any such purpose does not constitute an infringement of the copyright in the work and subsection 38(1) does not apply to the book.
+                   the use of the book for any such purpose does not constitute an infringement of the copyright in the work and subsection 38(1) does not apply to the book.
 
              (7)  Subsection (2) does not apply to the importation of a copy of a hardback version of a non‑infringing book into Australia if the copyright owner, or his or her licensee or agent, is able to supply in Australia enough copies of a paperback version of the book to fill any reasonable order.
 
@@ -4385,7 +4385,7 @@ be taken to have been previously made in, or imported into, Australia with the l
 
 ##### <a id="64"></a>64  Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records
 
-                   For the purpose of any provision of this Act relating to imported articles, in determining whether the making of a record made outside Australia would have constituted an infringement of copyright if the record had been made in Australia by the importer, sections 55 and 59 shall be disregarded.
+                   For the purpose of any provision of this Act relating to imported articles, in determining whether the making of a record made outside Australia would have constituted an infringement of copyright if the record had been made in   Australia by the importer, sections 55 and 59 shall be disregarded.
 
 ### Division 7—Acts not constituting infringements of copyright in artistic works
 
@@ -4556,7 +4556,7 @@ by embodying that, or any other, corresponding design in a product.
 
 ##### <a id="78"></a>78  References to all of joint authors
 
-                   Subject to this Division, a reference in this Act to the author of a work shall, unless otherwise expressly provided by this Act, be read, in relation to a work of joint authorship, as a reference to all the authors of the work.
+                   Subject to this Division, a reference in this Act to the author of a work shall, unless otherwise expressly provided by this Act, be read, in relation to a work of joint authorship, as a reference to all the authors of the work.
 
 ##### <a id="79"></a>79  References to any one or more of joint authors
 
@@ -5004,7 +5004,7 @@ Note:          A new owner of the copyright in a sound recordi
 
 ##### <a id="100A"></a>100A  Interpretation
 
-                   In this Division, **_audio‑visual item_** means a sound recording, a cinematograph film, a sound broadcast or a television broadcast.
+                   In this Division, **_audio‑visual item_** means a sound recording, a cinematograph film, a sound broadcast or a television broadcast.
 
 ##### <a id="101"></a>101  Infringement by doing acts comprised in copyright
 
@@ -5414,7 +5414,7 @@ Relationship with the rest of this Division
 
              (4)  For the purposes of subsection (3), the regulations may specify different dates in relation to different classes of sound recordings or cinematograph films.
 
-##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
+##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
 
              (1)  This section applies if a person makes a cinematograph film or sound recording of a broadcast solely for private and domestic use by watching or listening to the material broadcast at a time more convenient than the time when the broadcast is made.
 
@@ -6719,7 +6719,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                      (b)  whether the plaintiff is the owner of the copyright or the exclusive licensee—take into account any pecuniary remedy already awarded to the other party under section 115 in respect of that infringement, or any right of action exercisable by the other party under that section in respect of that infringement, as the case requires.
 
-##### <a id="123"></a>123  Apportionment of profits between owner and exclusive licensee
+##### <a id="123"></a>123  Apportionment of profits between owner and exclusive licensee
 
                    Where:
 
@@ -8887,7 +8887,7 @@ unless the contrary is established.
 
 #### Subdivision H—Extra court orders
 
-##### <a id="133"></a>133  Destruction or delivery up of infringing copies etc.
+##### <a id="133"></a>133  Destruction or delivery up of infringing copies etc.
 
              (1)  This section applies if:
 
@@ -9255,7 +9255,7 @@ the court may order the objector to pay to that defendant such amount as the cou
 
 ##### <a id="135AK"></a>135AK  Immunity of the Commonwealth
 
-                   The Commonwealth is not liable for any loss or damage suffered by a person:
+                   The Commonwealth is not liable for any loss or damage suffered by a person:
 
                      (a)  because of the seizure of copies, or the failure of the CEO to seize copies, under this Division; or
 
@@ -13665,7 +13665,15 @@ Acting appointment
 
                      (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (8)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="170A"></a>170A  Other staff of the Tribunal
 
@@ -14339,7 +14347,7 @@ Note:          See also section 191B, which deals with the c
 
 ##### <a id="190"></a>190  Moral rights conferred on individuals
 
-                   Only individuals have moral rights.
+                   Only individuals have moral rights.
 
 ##### <a id="191"></a>191  Director, producer and screenwriter of cinematograph film
 
@@ -16487,7 +16495,7 @@ the ownership by that person of the manuscript is evidence that that person is t
 
                      (b)  the exclusive right to communicate the work or an adaptation of the work to the public.
 
-##### <a id="247"></a>247  Contributions to periodicals
+##### <a id="247"></a>247  Contributions to periodicals
 
                    Where:
 
@@ -16871,7 +16879,7 @@ the amount of any damages referred to in paragraph (b) that, apart from this s
 
                    Jurisdiction is conferred on the Federal Court of Australia with respect to actions under section 248J.
 
-##### <a id="248MA"></a>248MA  Jurisdiction of Federal Magistrates Court
+##### <a id="248MA"></a>248MA  Jurisdiction of Federal Magistrates Court
 
                    Jurisdiction is conferred on the Federal Magistrates Court with respect to actions under section 248J.
 
@@ -19367,7 +19375,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 445, 446) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 445, 446) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -20115,8 +20123,7 @@ _(x)_     Subsection 2(1) (items 2, 3 and 7–10) of the _Copyright Am
     </div>
     <div>
       (b) the time the
-        <i>Archives Amendment Act 2006</i>commences.
-    </div>
+        <i>Archives Amendment Act 2006</i>commences.</div>
     <div>
       However, the provision(s) do not commence at all if the event mentioned
         in paragraph (b) does not occur.
@@ -25765,42 +25772,4 @@ rep. No. 158, 2006</div>
     <div><b>Part VI</b></div>
   </td>
   <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 136</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 26, 1982; No. 78, 1986; No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 138</div>
-  </td>
+    <div>
