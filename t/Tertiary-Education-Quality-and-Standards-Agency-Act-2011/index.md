@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00527/Html/11f9d79b-3f59-4350-afa9-51a204317234_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00452/Html/a8e5b42f-0a2b-4b91-8dd3-42a5119bfc43_files/image001.gif)
 
 # Tertiary Education Quality and Standards Agency Act 2011
 
 **Act No. 73 of 2011 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 18 May 2012
  taking into account amendments up to Act No. 9 of 2012
 
 The text of any of those amendments not in force
@@ -4574,7 +4574,7 @@ Note:          A defendant bears an evidential burden in relat
 
                              (ii)  of a kind specified in the Information Guidelines for the purposes of this section; or
 
-                     (e)  in the case of a registered provider (within the meaning of the _Education Services for Overseas Students Act 2000_)—the TPS Director, within the meaning of that Act; or
+                     (e)  in the case of a registered provider (within the meaning of the _Education Services for Overseas Students Act 2000_)—the Fund Manager, or the operator of an applicable tuition assurance scheme, within the meaning of that Act; or
 
                       (f)  a regulatory authority of another country that has responsibility relating to the quality or regulation of higher education.
 
@@ -4936,7 +4936,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 39, 44, 62): 1 July 2012</div>
+    <div>Schedule 1 (items 39, 44, 62): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 44, 62)</div>
@@ -5090,45 +5090,29 @@ _(a)_     Subsection 2(1) (item 11) of the _Tertiary Education Quality
   <td>
     <div>am. No. 74, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189</div>
-  </td>
-  <td>
-    <div>am. No. 9, 2012</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 39  Paragraph 189(1)(e)
+
+Omit “the Fund Manager, or the operator of an applicable tuition assurance scheme,”, substitute “the TPS Director,”.
+
+As at 18 May 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
+
+The following provisions commence on 1 July 2012:
 
 ## Schedule 1
 
