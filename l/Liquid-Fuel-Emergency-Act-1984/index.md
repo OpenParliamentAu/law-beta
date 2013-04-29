@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00593/Html/LiquidFuelEmergAct84_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00684/Html/LiquidFuelEmergAct84_image001.gif)
 
 # Liquid Fuel Emergency Act 1984
 
 **Act No. 5 of 1984 as amended**
 
-This compilation was prepared on 16 August 2010 
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 21 December 2007 
+ taking into account amendments up to Act No. 86 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1662,7 +1662,7 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
                    To avoid doubt, guidelines under this Act may be made at any time (whether or not during a period of national liquid fuel emergency).
 
-##### <a id="41A"></a>41A  Variation or revocation of instruments
+##### <a id="41A"></a>41A  Variation or revocation of instruments
 
              (1)  The following instruments may be varied or revoked in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_:
 
@@ -1989,23 +1989,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 99) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 1, 74): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -2481,26 +2464,6 @@ _(b)_    The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence
   </td>
 </tr></table>
 
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Liquid Fuel Emergency Act 1984</h9>
-
-## 74  Section 43 (including the note) (wherever occurring)
-
-_Note:       The heading to section 43 is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
-
-As at 16 August 2010 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2524,5 +2487,7 @@ _Liquid Fuel Emergency Amendment Act 2007 (No. 86, 2007)_
 (1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
 
 (2)        Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations made under this item may be expressed to take effect before the day they are registered under that Act.
+
+ 
 
  
