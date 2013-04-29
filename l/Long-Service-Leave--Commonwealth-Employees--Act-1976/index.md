@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 23 November 2009
- taking into account amendments up to Act No. 110 of 2009
+This compilation was prepared on 15 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -74,7 +74,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Amendment of the _Meat Inspection Arrangements Act 1964_
 
+[25A](#25A).       Schedule 1
+
 [26](#26).          Regulations
+
+**Schedule 1—Amendments** 
+
+Telstra (Transition to Full Private Ownership) Act 2005                                 41
 
 **Notes** 
 
@@ -236,7 +242,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                               (i)  if the public authority has, for the purposes of this Act, fixed an age, less than 60 years, as the minimum retiring age in respect of a class of employees in which an employee is included—the age so fixed; or
 
-                             (ii)  if subparagraph (i) does not apply in relation to the employee—the age of 60 years; or
+                             (ii)  if subparagraph (paragraph (i) does not apply in relation to the employee—the age of 60 years; or
 
                      (c)  in the case of any other employee:
 
@@ -244,7 +250,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                              (ii)  if, under the terms and conditions of his or her employment, an age that is less than 60 years of age is fixed as the age upon the attainment of which he or she may retire from his or her employment and the age so fixed is less than the age fixed as the age upon the attainment of which he or she is required to retire from his or her employment or no age is fixed as the age upon the attainment of which he or she is required to retire from his or her employment—the age fixed as the age upon the attainment of which he or she may retire from his or her employment; or
 
-                            (iii)  if subparagraph (i) or (ii) does not apply in relation to the employee—the age of 60 years.
+                            (iii)  if subparagraph (paragraph (i) or (ii) does not apply in relation to the employee—the age of 60 years.
 
 ##### <a id="5"></a>5  Application of the Act
 
@@ -258,7 +264,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                      (b)  a local governing body that was or is established by or under a law of a State.
 
-             (2)  This section has effect as if the Australian Capital Territory and the Northern Territory were States.
+             (2)  This section has effect as if the Australian   Capital Territory and the Northern Territory were States.
 
 ##### <a id="7"></a>7  Regulations with respect to previous service with prescribed authorities etc.
 
@@ -506,7 +512,7 @@ and he or she is required to devote the whole of his or her time to the duties o
 
                     <a name="australian-staf-assist-group"></a>**_Australian Staffing Assistance Group_** means the body established under that name by the _Papua New Guinea__(Staffing Assistance) Act 1973_.
 
-                    <a name="papua-new-guinea"></a>**_Papua New Guinea_** has the same meaning as it had in the _Papua New Guinea Act 1949_ as in force on 15 September 1975.
+                    <a name="papua-new-guinea"></a>**_Papua New Guinea_** has the same meaning as it had in the _Papua New Guinea__Act 1949_ as in force on 15 September 1975.
 
                     <a name="relev-servic"></a>**_relevant service_** means:
 
@@ -696,7 +702,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image002.gif)
 
                             where:
 
@@ -706,7 +712,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image003.gif)
 
                             where:
 
@@ -716,7 +722,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image004.gif)
 
                             where:
 
@@ -770,7 +776,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00319/Html/LongServiceLeaveCE1976WD02_image005.gif)
 
                                    where:
 
@@ -870,15 +876,15 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
                               (i)  the approving authority may authorize payment to a dependant of the employee of an amount equal to, or payment to 2 or more dependants of the employee of amounts aggregating, the excess;
 
-                             (ii)  if the approving authority has not authorized a payment to a dependant, or payments to dependants, under subparagraph (i), the approving authority may authorize payment of an amount equal to the excess to the legal personal representative of the employee; and
+                             (ii)  if the approving authority has not authorized a payment to a dependant, or payments to dependants, under subparagraph (paragraph (i), the approving authority may authorize payment of an amount equal to the excess to the legal personal representative of the employee; and
 
-                            (iii)  if the approving authority has not authorized any payment under subparagraph (i) or (ii) within 12 months after the commencement of this Act or, if it has been directed that the death of the employee is to be presumed to have occurred, within 12 months after the date on which that direction was given, the approving authority shall authorize payment of an amount equal to the excess to the legal personal representative of the employee;
+                            (iii)  if the approving authority has not authorized any payment under subparagraph (paragraph (i) or (ii) within 12 months after the commencement of this Act or, if it has been directed that the death of the employee is to be presumed to have occurred, within 12 months after the date on which that direction was given, the approving authority shall authorize payment of an amount equal to the excess to the legal personal representative of the employee;
 
                      (b)  if the employee has died after ceasing to be an employee—the approving authority shall authorize payment of an amount equal to the excess to the legal personal representative of the employee; or
 
                      (c)  in any other case—the approving authority shall authorize payment of an amount equal to the excess to the employee.
 
-             (2)  Where there are 2 or more dependants of a deceased employee in relation to whom paragraph (1)(a) applies, the approving authority shall, in exercising the power conferred on it by subparagraph (1)(a)(i), have regard to the respective losses suffered by those dependants as a result of the loss of earnings of the employee.
+             (2)  Where there are 2 or more dependants of a deceased employee in relation to whom paragraph (1)(a) applies, the approving authority shall, in exercising the power conferred on it by subparagraph (paragraph (1)(a)(i), have regard to the respective losses suffered by those dependants as a result of the loss of earnings of the employee.
 
              (3)  In subsection (1), a reference to the relevant provisions is a reference to any of the following provisions:
 
@@ -938,9 +944,142 @@ For access to the wording of the amendment made by this section, _see_ Act No.�
 
 * * *
 
+##### <a id="25A"></a>25A  Schedule 1
+
+                   The Act that is specified in Schedule 1 is amended as set out in the applicable items in the Schedule.
+
 ##### <a id="26"></a>26  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+
+# Schedule 1—Amendments
+
+<h9 class="ActHead9">Telstra (Transition to Full Private Ownership) Act 2005</h9>
+
+## 1  Subsection 2(1) (table item 3)
+
+Repeal the item, substitute:
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>3\. Schedule 1, items 41 to 51</div>
+  </td>
+  <td>
+    <div>The designated day declared under section 3.</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3A. Schedule 1, item 52</div>
+  </td>
+  <td>
+    <div>The third anniversary of the designated day declared under section 3.</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3B. Schedule 1, items 53 to 65</div>
+  </td>
+  <td>
+    <div>The designated day declared under section 3.</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr></table>
+
+## 2  Item 59 of Schedule 1 (new definition of _Long Service Leave Act_)
+
+After “before”, insert “the third anniversary of”.
+
+## 3  Item 64 of Schedule 1 (paragraph (a) of the definition of _combined service period_ in new subsection 9A(2))
+
+Omit “was, immediately before”, substitute “is, immediately before the third anniversary of”.
+
+## 4  Item 64 of Schedule 1 (paragraph (b) of the definition of _combined service period_ in new subsection 9A(2))
+
+After “on”, insert “the third anniversary of”.
+
+## 5  Item 64 of Schedule 1 (definition of _post-sale long service leave rights_ in new subsection 9A(2))
+
+Omit “the designated day in relation to service on or after that day.”, substitute “the third anniversary of the designated day in relation to service on or after that anniversary.”.
+
+## 6  Item 64 of Schedule 1 (new subsection 9B(1))
+
+Omit “was”, substitute “is”.
+
+## 7  Item 64 of Schedule 1 (new subsection 9B(2))
+
+Omit “was” (first occurring), substitute “is”.
+
+## 8  Item 64 of Schedule 1 (new subsection 9B(2))
+
+After “before”, insert “the third anniversary of”.
+
+## 9  Item 64 of Schedule 1 (new subsection 9B(2))
+
+Omit “was” (second occurring), substitute “is”.
+
+## 10  Item 64 of Schedule 1 (new subsection 9B(4))
+
+After “after”, insert “the third anniversary of”.
+
+## 11  Item 64 of Schedule 1 (new subsection 9C(2))
+
+Omit “was” (first occurring), substitute “is”.
+
+## 12  Item 64 of Schedule 1 (new subsection 9C(2))
+
+After “before”, insert “the third anniversary of”.
+
+## 13  Item 64 of Schedule 1 (new subsection 9C(2))
+
+Omit “was” (second occurring), substitute “is”.
+
+## 14  Item 64 of Schedule 1 (new subsection 9D(1))
+
+Omit “was” (first occurring), substitute “is”.
+
+## 15  Item 64 of Schedule 1 (new subsection 9D(1))
+
+After “before”, insert “the third anniversary of”.
+
+## 16  Item 64 of Schedule 1 (new subsection 9D(1))
+
+Omit “was” (second occurring), substitute “is”.
+
+## 17  Item 64 of Schedule 1 (new subsection 9D(2))
+
+After “after”, insert “the third anniversary of”.
+
+## 18  Item 64 of Schedule 1 (new subsection 9E(1))
+
+After “on” (wherever occurring), insert “the third anniversary of”.
+
+## 19  Item 64 of Schedule 1 (new section 9G)
+
+After “before”, insert “the third anniversary of”.
+
+## 20  Item 64 of Schedule 1 (new section 9G)
+
+Omit “was”, substitute “is”.
+
+## 21  Item 64 of Schedule 1 (new paragraph 9G(b))
+
+After “after”, insert “the third anniversary of”.
 
 # Notes to the _Long Service Leave (Commonwealth Employees) Act 1976_
 
@@ -1551,23 +1690,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Long Service Leave Legislation Amendment (Telstra) Act 2009</div>
-  </td>
-  <td>
-    <div>110, 2009</div>
-  </td>
-  <td>
-    <div>16 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 23 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
@@ -1895,26 +2017,10 @@ No. 43, 1996</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 1</div>
   </td>
   <td>
     <div>ad. No. 122, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2009</div>
   </td>
 </tr></table>
 
