@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00445/Html/40EE365191D683C1CA2571AE000CF8E7/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00177/Html/7EC12A236C10D2F2CA2571550081B560/$FILE/image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 13 July 2006
-taking into account amendments up to Act No. 86 of 2006
+This compilation was prepared on 20 April 2006
+taking into account amendments up to Act No. 10 of 2006
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -1051,7 +1051,7 @@ access in that form may be refused and access given in another form.
 
              (2)  Where a record is withheld in accordance with subsection (1), a copy shall be provided where, in the opinion of the Director–General, it is practicable to do so without detriment to the proper preservation or safe custody of the record.
 
-##### <a id="38"></a>38  Access to part of exempt record
+##### <a id="38"></a>38  Access to part of exempt record
 
                    Where a record that would otherwise be required to be made available for public access under this Part is an exempt record, the Archives may, where it is reasonably practicable to do so, make arrangements for part of, or a copy of part of, that record to which access could be given without disclosing information or matter by reason of which the record is an exempt record to be made available for public access in accordance with this Part.
 
@@ -1127,7 +1127,7 @@ the Archives shall, for the purpose of enabling an application to be made to the
 
                    For the purposes of this Division, unless the contrary intention appears, a certificate given under subsection 34(3) in respect of a record as described in an application for access shall be deemed to be a certificate given in respect of the record so described notwithstanding that the certificate does not acknowledge the existence or non–existence of the record so described.
 
-##### <a id="42"></a>42  Internal reconsideration of decisions
+##### <a id="42"></a>42  Internal reconsideration of decisions
 
              (1)  Where a person has made an application to which section 40 applies and is dissatisfied with the decision on the application, he or she may, within 28 days after the day on which notice of the decision was given to him or her or within such further period as the Archives allows, apply in writing to the Archives for a reconsideration of the decision.
 
@@ -2213,23 +2213,6 @@ Remainder: Royal Assent
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
-    </td>
-    <td>
-      <div>86, 2006</div>
-    </td>
-    <td>
-      <div>30 June, 2006</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 1 (item 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
   <tr height="0">
     <td></td>
     <td></td>
@@ -2851,31 +2834,6 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
 </tbody></table>
 
 
-### Note 2
-
-_Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006 (No. 86, 2006)_
-
-The following amendments commence on 30 December 2006 unless proclaimed earlier:
-
-## Schedule 1
-
-## 2  After paragraph 33(1A)(b)
-
-Insert:
-
-                    (ba)  a person who is providing, or has provided, confidential information to:
-
-                              (i)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
-
-                             (ii)  a staff member of ACLEI (within the meaning of that Act); or
-
-                            (iii)  a special investigator for the purposes of Division 4 of Part 12 of that Act;
-
-                            in relation to such a matter; or
-
-As at 13 July 2006 the amendments are not incorporated in this compilation.
-
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2884,7 +2842,7 @@ _Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)_
 
 ## Schedule 3
 
-## 20  Definition
+## 20  Definition
 
 In this Part:
 
