@@ -1,14 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2012C00068/Html/6f912bc2-03ae-402e-9f82-cff57caf81ab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00858/Html/0af28153-39e3-48a5-ab25-214291187b52_files/image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006
 
 **Act No. 16 of 2006 as amended**
 
-**\[Note: This Act is to be repealed by Act No. 112 of 2011 on the later of 1 November 2013 and the 15th day of the month following the month in which the total of the amounts received by the Commonwealth reaches $30.6 million or a lesser amount is specified in the _Gazette_ (_see_ subsection 2(1) (item 7))**
+**\[Note: This Act is to be repealed by Act No. 112 of 2011 on the later of 1 November 2013 and the 15th day of the month following the month in which the total of the amounts received by the Commonwealth reaches $30.6 million or a lesser amount is specified in the _Gazette_ (_see_ subsection 2(1) (item 7))**
 
-**For application provision _see_ Act No. 112 of 2011, Schedule 4 (item 22)]**
+**For application provision _see_ Act No. 112 of 2011, Schedule 4 (item 22)]**
 
-This compilation was prepared on 1 January 2012
+This compilation was prepared on 21 October 2011
  taking into account amendments up to Act No. 111 of 2011
 
 The text of any of those amendments not in force
@@ -286,7 +286,7 @@ Amount of fee
       a title; and</div>
     <div>(b) assuming that item 1 had applied, the amount of the fee would have
       been more than the amount prescribed by the regulations; and</div>
-    <div>(c) the parties to the transfer satisfy the Titles Administrator that:</div>
+    <div>(c) the parties to the transfer satisfy the Designated Authority that:</div>
     <div>(i) the parties are related bodies corporate within the meaning of the <i>Corporations Act 2001</i>; and</div>
       <div>(ii) the transfer was executed solely for the purpose of a reorganisation of the corporations concerned or any of them or solely for the purpose of securing the better administration of the corporations concerned or any of them; and</div>
       <div>(iii) the transfer was not executed substantially for the purpose of avoiding or reducing the fees that would, apart from this item, be payable under this section on the entry in the Register of a memorandum of the transfer</div>
@@ -376,7 +376,7 @@ Amount of fee
     <div>(e) the dealing has an effect of the kind referred to in item 1, 2, 4
       or 5 of the table in section 486 of the
       <i>Offshore Petroleum and Greenhouse Gas Storage Act 2006</i>; and</div>
-    <div>(f) the Titles Administrator is satisfied that the dealing was not made
+    <div>(f) the Designated Authority is satisfied that the dealing was not made
       under another dealing that relates to that title, where a fee has been
       paid under this section in relation to an entry of the approval of the
       other dealing</div>
@@ -398,7 +398,7 @@ Amount of fee
   <td>
     <div>1.5% of the amount worked out by dividing the value of the consideration
       for the dealing by the number of titles in relation to which the dealing
-      is approved by the Titles Administrator</div>
+      is approved by the Designated Authority</div>
   </td>
 </tr>
 <tr>
@@ -413,12 +413,12 @@ Amount of fee
       licence, infrastructure licence or pipeline licence; and</div>
     <div>(d) the value of the interest is greater than the amount worked out by
       dividing the value of the consideration for the dealing by the number of
-      titles in relation to which the dealing is approved by the Titles Administrator;
+      titles in relation to which the dealing is approved by the Designated Authority;
       and</div>
     <div>(e) the dealing has an effect of the kind referred to in item 1, 2, 4
       or 5 of the table in section 486 of the
       <i>Offshore Petroleum and Greenhouse Gas Storage Act 2006</i>; and</div>
-    <div>(f) the Titles Administrator is satisfied that the dealing was not made
+    <div>(f) the Designated Authority is satisfied that the dealing was not made
       under another dealing that relates to any of those titles, where a fee
       has been paid under this section in relation to an entry of the approval
       of the other dealing</div>
@@ -454,7 +454,7 @@ Amount of fee
     <div>(c) apart from this item, the amount of the fee imposed by this section
       on the entry would have been more than the amount prescribed by the regulations;
       and</div>
-    <div>(d) the parties to the dealing satisfy the Titles Administrator that:</div>
+    <div>(d) the parties to the dealing satisfy the Designated Authority that:</div>
     <div>(i) the parties are related bodies corporate within the meaning of the <i>Corporations Act 2001</i>; and</div>
       <div>(ii) the dealing was entered into solely for the purpose of a reorganisation of the corporations concerned or any of them or solely for the purpose of securing the better administration of the corporations concerned or any of them; and</div>
       <div>(iii) the dealing was not entered into substantially for the purpose of avoiding or reducing the fees that would, apart from this item, be payable under this section on the entry of approval of the dealing</div>
@@ -468,7 +468,7 @@ Amount of fee
 
 Deduction from the value of the consideration for a dealing
 
-             (4)  For the purposes of subsection (2), deduct from the value of the consideration for a dealing the value, as determined by the Titles Administrator, of any exploration works that were, as at the date of the instrument evidencing the dealing:
+             (4)  For the purposes of subsection (2), deduct from the value of the consideration for a dealing the value, as determined by the Designated Authority, of any exploration works that were, as at the date of the instrument evidencing the dealing:
 
                      (a)  to be carried out under the dealing; and
 
@@ -476,7 +476,7 @@ Deduction from the value of the consideration for a dealing
 
 Deduction from the value of the interest in a petroleum production licence
 
-             (5)  For the purposes of subsection (2), deduct from the value of the interest in a petroleum production licence the value, as determined by the Titles Administrator, of any exploration works that were, as at the date of the instrument evidencing the dealing:
+             (5)  For the purposes of subsection (2), deduct from the value of the interest in a petroleum production licence the value, as determined by the Designated Authority, of any exploration works that were, as at the date of the instrument evidencing the dealing:
 
                      (a)  to be carried out under the dealing; and
 
@@ -897,7 +897,7 @@ of Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Ss. 3–8 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
+    <div>Ss. 3–8 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -915,7 +915,7 @@ Remainder: Royal Assent</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 1 and Schedule 2: 22 Nov 2008 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1 and Schedule 2: 22 Nov 2008 ( <i>see</i>s. 2(1)) 
 Schedule 3: <i>(a)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -934,7 +934,7 @@ Remainder: Royal Assent</div>
     <div>8 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 66): 9 Oct 2009</div>
+    <div>Schedule 1 (item 66): 9 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -951,11 +951,11 @@ Remainder: Royal Assent</div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 7, 8)</div>
+    <div>Sch. 1 (items 7, 8)</div>
   </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registr
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 119, 2008; No. 111, 2011</div>
+    <div>am. No. 119, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1234,7 +1234,7 @@ _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registr
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 119, 2008; No. 111, 2011</div>
+    <div>am. No. 119, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1334,11 +1334,47 @@ _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registr
   </td>
 </tr></table>
 
+### Note 2
+
+_Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Act 2011 (No. 111, 2011)_
+
+The following amendments commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
+
+## Schedule 1
+
+## 1  Subsection 5(2) (paragraph (c) of the cell at table item 4, column headed “In this case...”)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+## 2  Subsection 6(2) (paragraph (f) of the cell at table item 2, column headed “In this case...”)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+## 3  Subsection 6(2) (table item 3, column headed “the amount of the fee is...”)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+## 4  Subsection 6(2) (paragraphs (d) and (f) of the cell at table item 4, column headed “In this case...”)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+## 5  Subsection 6(2) (paragraph (d) of the cell at table item 6, column headed “In this case...”)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+## 6  Subsections 6(4) and (5)
+
+Omit “Designated Authority”, substitute “Titles Administrator”.
+
+As at 21 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Act 2011 (No. 111, 2011)_
+
+The following provisions commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
 
 ## Schedule 1
 
