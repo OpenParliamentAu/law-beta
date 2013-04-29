@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00648/Html/9ee6c9da-36d2-4207-9f9f-099fbdf7a715_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00639/Html/74cebcda-e52f-46da-aa6b-16d0dd1be3f1_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 3 September 2012
+This compilation was prepared on 27 June 2012
  taking into account amendments up to Act No. 72 of 2012
 
 The text of any of those amendments not in force
@@ -1270,7 +1270,7 @@ that is conducting, or that has conducted, audits undertaken for the purposes of
 
                              (ii)  is acting, or has acted, in any other capacity on behalf of;
 
-                            the first‑mentioned person.
+                            the first‑mentioned person.
 
                     <a name="engag-conduct"></a>**_engage in conduct_**:
 
@@ -5691,7 +5691,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  Nothing in this section affects the operation of the _Director of Public Prosecutions Act 1983_.
 
-##### <a id="50"></a>50  ASIC may cause civil proceeding to be begun
+##### <a id="50"></a>50  ASIC may cause civil proceeding to be begun
 
                    Where, as a result of an investigation or from a record of an examination (being an investigation or examination conducted under this Part), it appears to ASIC to be in the public interest for a person to begin and carry on a proceeding for:
 
@@ -7083,9 +7083,7 @@ is required to consider a matter in which the person has a direct or indirect pe
 
                      (d)  the Reserve Bank of Australia;
 
-                     (e)  the Clean Energy Regulator;
-
-                      (f)  the Climate Change Authority.
+                     (e)  the Clean Energy Regulator.
 
           (2B)  Disclosing information to a Royal Commission (within the meaning of the _Royal Commissions Act 1902_) is authorised use and disclosure of the information.
 
@@ -8955,7 +8953,7 @@ Purposes or objects of particular standard
 
 ##### <a id="234C"></a>234C  FRC views
 
-                   In performing its functions, the AUASB must follow the broad strategic direction determined by the FRC under paragraph 225(2A)(c).
+                   In performing its functions, the AUASB must follow the broad strategic direction determined by the FRC under paragraph 225(2A)(c).
 
 ##### <a id="234D"></a>234D  International auditing standards
 
@@ -11950,7 +11948,7 @@ Schedule 3 (items 9–14,
   </td>
   <td>
     <div>Schedule 1 (items 47–49): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
-Schedule 1 (item 256A): 1 July 2012</div>
+Schedule 1 (item 256A): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -16056,6 +16054,22 @@ Part 12</div>
     <div>ad. No. 72, 2012</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 256A  At the end of subsection 127(2A)
+
+Add:
+
+                    ; (f)  the Climate Change Authority.
+
+As at 27 June 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
