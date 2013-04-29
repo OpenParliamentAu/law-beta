@@ -1,1148 +1,197 @@
-**
+**<b>
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 
-**
+### <center><name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - Reprinted as at 30 June 1982 (HISTACT CHAP 497 #DATE 30:06:1982) </name></center>
+</b>** *1* The Papua New Guinea (Staffing Assistance) Act 1973 as shown in this reprint comprises Act No. 70, 1973 amended as indicated in the Tables below.<lf> <lf>    (The citation "Papua New Guinea (Staffing Assistance) Act 1973" is provided for by the Amendments Incorporation Act 1905 and the Acts Citation Act 1976.)<lf> <lf>                                  Table of Acts<lf> <lf> ----------------------------------------------------------------------------- <lf> Application, saving<lf>                            Number     Date      Date of             or<lf> transitional Act                    and year   of Assent commencement provisions<lf> ----------------------------------------------------------------------------- Papua New Guinea<lf>     (Staffing<lf>     Assistance) Act 1973   70, 1973   18 June<lf>                                       1973      1 Dec 1973 (see<lf>                                                 Gazette 1973, No.<lf>                                                 178A, p. 1)<lf>     Papua New Guinea<lf>     (Staffing<lf>     Assistance) Act 1975   100, 1975  9 Sept<lf>                                       1975      9 Sept 1975         Ss. 11 and<lf>                                                                     12<lf>     Papua New Guinea<lf>     (Staffing<lf>     Assistance)<lf>     Termination Act 1976<lf> <lf>      as<lf>      amended<lf>      by                    69, 1976   9 June<lf>                                       1976      Ss. 3 (a), (c) and<lf>                                                 (f), 4-7, 13-16,<lf>                                                 20, 22, 24, 25 and<lf>                                                 31-33: 1 July 1976<lf>                                                 Remainder: Royal<lf>                                                 Assent              Ss. 23-34<lf>                                                                     (s. 23 am.<lf>                                                                     by 36, 1978, s. 3)<lf> <lf>      Administrative<lf>     Changes<lf>     (Consequential<lf>     Provisions) Act 1978   36, 1978   12 June<lf>                                       1978      12 June 1978        S. 8<lf>     Administrative<lf>     Changes<lf>     (Consequential<lf>     Provisions) Act 1978   36, 1978   12 June<lf>                                       1978      12 June 1978        S. 8<lf> ----------------------------------------------------------------------------- Table of Amendments<lf> <lf> ad. = added or inserted am. = amended rep. = repealed rs. =repealed and<lf>                                    substitued<lf> ----------------------------------------------------------------------------- <lf>     Provision affected       How affected<lf> ----------------------------------------------------------------------------- S. 3 . . . . . . . . .   am. No. 100, 1975; No. 69, 1976<lf> <lf>     Part II (ss. 4-11) . .   rep. No. 69, 1976<lf> <lf>     Ss. 4-11 . . . . . . .   rep. No. 69, 1976<lf> <lf>     Ss. 12, 13 . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 14  . . . . . . . .   am. No. 100, 1975<lf>                              rep. No. 69, 1976<lf> <lf>     Ss. 15-18  . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 19  . . . . . . . .   am. No. 100, 1975; No. 69, 1976<lf> <lf>     Part IV (ss. 20-33)  .   rep. No. 69, 1976<lf> <lf>     Part IV (ss. 20, 21) .   ad. No. 69, 1976<lf> <lf>     S. 20  . . . . . . . .   rs. No. 69, 1976<lf> <lf>     S. 21  . . . . . . . .   am. No. 100, 1975<lf>                              rs. No. 69, 1976<lf>                              am. No. 36, 1978<lf> <lf>     Ss. 22, 23 . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 24  . . . . . . . .   am. No. 100, 1975<lf>                              rep. No. 69, 1976<lf> <lf>     Ss. 25-28  . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 28A . . . . . . . .   ad. No. 100, 1975<lf>                              rep. No. 69, 1976<lf> <lf>     Ss. 29-33  . . . . . .   rep. No. 69, 1976<lf> <lf>     Ss. 34-37  . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 38  . . . . . . . .   am. No. 100, 1975; No. 69, 1976<lf> <lf>     S. 39  . . . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 40  . . . . . . . .   rs. No. 69, 1976<lf> <lf>     Part VII (ss. 41-47) .   rep. No. 69, 1976<lf> <lf>     Ss. 41-47  . . . . . .   rep. No. 69, 1976<lf> <lf>     Part VIII (ss. 48-53)    rep. No. 69, 1976<lf> <lf>     Ss. 48-53  . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 54  . . . . . . . .   rs. No. 69, 1976<lf> <lf>     S. 55  . . . . . . . .   rep. No. 69, 1976<lf> <lf>     Ss. 56-58  . . . . . .   am. No. 69, 1976<lf> <lf>     S. 59  . . . . . . . .   rep. No. 69, 1976<lf> <lf>     Ss. 60, 61 . . . . . .   am. No. 69, 1976<lf> <lf>     S. 62  . . . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 62A . . . . . . . .   ad. No. 100, 1975<lf> <lf>     S. 63  . . . . . . . .   rep. No. 69, 1976<lf> <lf>     S. 64  . . . . . . . .   am. No. 69, 1976<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-###  Compilation Information 
-**
+<lf>                               PART  I-PRELIMINARY<lf> <p><lf> Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Interpretation<lf> <p><lf>                   PART  III-COMPENSATION  ON  TERMINATION  OF EMPLOYMENT<lf> <p><lf> <p>  19\.      Benefits under Part III<lf> <p><lf>              PART  IV-ADMINISTRATION  OF  SUPERANNUATION  AND  OTHER BENEFITS<lf> <p><lf> <p>  20\.      Commissioner to administer Parts V and VI<lf> <p>  21\.      Annual reports<lf> <p><lf>                                   PART  V-SUPERANNUATION<lf> <p><lf> <p>  38\.      Regulations relating to superannuation<lf> <p><lf>                                PART  VI-RETIREMENT  BENEFITS<lf> <p><lf> <p>  40\.      Regulations relating to contract officers' benefits<lf> <p><lf>                                   PART  IX-MISCELLANEOUS<lf> <p><lf> <p>  54\.      Review of decisions of Commissioner<lf> <p>  56\.      Desertion by pensioner of wife or children<lf> <p>  57\.      Recovery of contributions, &c.<lf> <p>  58\.      Arrangements for reimbursement of Commonwealth by certain authorities </p><p>  60\.      No assignment of benefits<lf> <p>  61\.      Attachment of benefits<lf> <p>  62A.     Payments may be made by Papua New Guinea<lf> <p>  64\.      Delegations<lf> <p>  65\.      Regulations<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act relating to the Provision by Australia of Staffing Assistance for Papua New Guinea and Preservation of Rights of certain Persons presently employed in Papua New Guinea </sect>
+**<b>
 
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 1\. Short title </name>
+</b>** 
 
+## SECT
+<sect>                               PART  I-PRELIMINARY<lf> 
 
+  1\. This Act may be cited as the Papua New Guinea (Staffing Assistance) Act 1973.*1* 
 
+<lf> See notes to first article of this CHAPTER. </lf>
+</lf></sect>
+**<b>
 
-**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 2\. Commencement </name>
+</b>** 
 
-###  Long Title 
-**
-**
+## SECT
+<sect>   2\. This Act shall come into operation on a date to be fixed by Proclamation.*1* 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;I&#151;Preliminary </part>
-**
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Papua New Guinea (Staffing Assistance) Act 1973_.
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
- 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on a date to be fixed by Proclamation.
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 3\. Interpretation </name>
+</b>** 
 
- 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears-<lf> <lf>   "appropriate Board" means-<lf> <lf>      (a)  in relation to the Superannuation Fund-the Superannuation Board; and<lf> <lf>      (b)  in relation to the Benefits Fund-the Benefits Board;<lf> <lf>   "Benefits Board" means the Contract Officers (Papua New Guinea) Retirement Benefits Board that was constituted by section 23;<lf> <lf>   "Benefits Fund" means the Contract Officers' Benefits Fund that was continued in existence by section 39;<lf> <lf>   "Board" means the Benefits Board or the Superannuation Board, as the case requires;<lf> <lf>   "Commissioner" has the same meaning as in the Superannuation Act 1976;<lf> <lf>   "prescribed date" means the date of commencement of this Act;<lf> <lf>   "Provident Account" means the Papua New Guinea Provident Account that was continued in existence by section 36;<lf> <lf>   "Reserve Units of Pension Account" means the Reserve Units of Pension Account that was continued in existence by section 37;<lf> <lf>   "Superannuation Board" means the Papua New Guinea Superannuation Board that was continued in existence by section 20;<lf> <lf>   "Superannuation Fund" means the Papua New Guinea Superannuation Fund that was continued in existence by section 34;<lf> <lf>   (2) In this Act, unless the contrary intention appears-<lf> <lf>   (b)  where an expression is given a particular meaning, other parts of speech and grammatical forms of the same expression have corresponding meanings. 
 
-</dd> 
-<dl compact=""><dl compact="">
+<lf>   (3) In this Act, a reference to Papua New Guinea, in relation to a time after Papua New Guinea becomes an independent sovereign state, is a reference to the Independent State of Papua New Guinea. <p><lf> </lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-_Board_ means the Superannuation Board. _Commissioner_ has the same meaning as in the _Superannuation Act 1976_. _prescribed date_ means the date of commencement of this Act. _Provident Account_ means the Papua New Guinea Provident Account that was continued in existence by section&#160;36\. _Reserve Units of Pension Account_ means the Reserve Units of Pension Account that was continued in existence by section&#160;37\. _Superannuation Board_ means the Papua New Guinea Superannuation Board that was continued in existence by section&#160;20\. _Superannuation Fund_ means the Papua New Guinea Superannuation Fund that was continued in existence by section&#160;34\.  </dl></dl>
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 19\. Benefits under Part III </name>
+</b>** 
 
-<dl compact="">
+## SECT
+<sect>             PART  III-COMPENSATION  ON  TERMINATION  OF  EMPLOYMENT<lf> 
 
-<dt>(2)</dt><dd>In this Act, unless the contrary intention appears:
+  19\. (1) Where a person has made an election under section 13 of this Act as in force before 1 July 1976 or the employment of a person has been terminated under section 14 of this Act as so in force, the person is entitled to the prescribed benefits. 
 
-</dd> </dl>
+<lf>   (2) Regulations under sub-section (1) shall be made with a view to giving effect to such recommendations of the Simpson Report as have been accepted by the Commonwealth and the Government of Papua New Guinea, but nothing in this sub-section prevents the regulations from providing for greater benefits than those recommended in that Report. <p><lf>   (2A) Regulations under sub-section (1) may include provision for deferred benefits in specified circumstances. <p><lf>   (3) The regulations may make different provision in relation to elections made, and employment terminated, under different provisions of this Part. <p><lf>   (4) In this section, "the Simpson Report" means the report relating to employment security for overseas officers of the Public Service of Papua New Guinea made by Mr. A. M. Simpson, C.M.G., to the Minister for External Territories and the Chief Minister of Papua New Guinea and dated 23rd October, 1972\. <p><lf> </lf></p></lf></p></lf></p></lf></p></lf>
+</lf></sect>
+**<b>
 
-<dl compact=""><dl compact=""><dl compact="">
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 20\. Commissioner to administer Parts V and VI </name>
+</b>** 
 
-<dt>(b)</dt><dd>where an expression is given a particular meaning, other parts of speech
+## SECT
+<sect>        PART  IV-ADMINISTRATION  OF  SUPERANNUATION  AND  OTHER  BENEFITS<lf> 
 
-and grammatical forms of the same expression have corresponding meanings.
+  20\. The responsibility for the general administration of Parts V and VI is vested in the Commissioner. 
 
-</dd>
+<lf> </lf>
+</lf></sect>
+**<b>
 
-</dl></dl></dl>
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 21\. Annual reports </name>
+</b>** 
 
-<dl compact="">
+## SECT
+<sect>   21\. (1) The Commissioner shall, as soon as practicable after each 30 June, prepare a report on the general administration and operation of Parts V, VI and IX during the year ended on that date, and furnish the report to the Minister for Finance. 
 
-<dt>(3)</dt><dd>In this Act, a reference to Papua New Guinea, in relation to a time after
+<lf>   (2) The Minister for Finance shall cause a copy of the Commissioner's report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister for Finance. <p><lf> </lf></p></lf>
+</sect>
+**<b>
 
-Papua New Guinea becomes an independent sovereign state, is a reference to the
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 38\. Regulations relating to superannuation </name>
+</b>** 
 
-Independent State of Papua New Guinea.
+## SECT
+<sect>                              PART  V-SUPERANNUATION<lf> 
 
-</dd> </dl>
+  38\. (1) The regulations may make provision for and in relation to-<lf> <lf>   (a)  contributions to be paid to the Commonwealth by persons (including persons who have ceased to be employed under Part II in specified circumstances) who, immediately before the prescribed date, were required or permitted to contribute to the Papua New Guinea Superannuation Fund or the Papua New Guinea Provident Account under the Superannuation Ordinance;<lf> <lf>   (b)  payments to be made by the Commonwealth to and in relation to-<lf> <lf>       (i)  persons referred to in paragraph (a); and<lf> <lf>      (ii)  persons who, immediately before the prescribed date, were entitled to pension in accordance with the Superannuation Ordinance or in accordance with the Superannuation Ordinance 1917-1955 of the Territory of Papua or the Superannuation Ordinance 1928-1955 of the Territory of New Guinea, as the case may be; and<lf> <lf>   (c)  matters incidental to or connected with matters referred to in paragraphs (a) and (b). <p><lf> </lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></sect>
+**<b>
 
-<center>**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 40\. Regulations relating to contract officers' benefits </name>
+</b>** 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;III&#151;Compensation on termination of employment </part>
-**</center>
+## SECT
+<sect>                          PART  VI-RETIREMENT  BENEFITS<lf> 
 
-**
+  40\. The regulations may make provision for and in relation to-<lf> <lf>   (a)  contributions to be paid to the Commonwealth by persons who, at any time before the commencement of this section, were contributors to the Benefits Fund; <lf> <lf>   (b)  payments to be made by the Commonwealth to and in relation to those persons; and<lf> <lf>   (c)  matters incidental to or connected with matters referred to in paragraphs (a) and (b). <p><lf> </lf></p></lf></lf></lf></lf></lf></lf>
+</lf></sect>
+**<b>
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 19  Benefits under Part&#160;III 
-**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 54\. Review of decisions of Commissioner </name>
+</b>** 
 
-<center>Back to Top</center>
+## SECT
+<sect>                              PART  IX-MISCELLANEOUS<lf> 
 
- <dl compact="">
+  54\. (1) In this section-<lf> <lf>   "decision" has the same meaning as in the Administrative Appeals Tribunal Act 1975;<lf> <lf>   "decision of the Commissioner" means a decision of the Commissioner, or a delegate of the Commissioner, under this Act. <p><lf>   (2) A person who is affected by a decision of the<lf> <lf> Commissioner and is dis-satisfied with the decision may, by notice in writing given to the Commissioner within a period of 30 days after the date on which the decision first comes to the notice of the person, or within such further period as the Commissioner allows, request the Commissioner to reconsider the decision. <p><lf>   (3) There shall be set out in the request the ground on which the request is made. <p><lf>   (4) Upon receipt of the request, the Commissioner shall reconsider the decision, and may either confirm the decision or vary the decision in such manner as he thinks fit. <p><lf>   (5) The Commissioner shall, by notice in writing sent or delivered to the person who made the request, inform the person of the result of his reconsideration of the decision. <p><lf>   (6) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Commissioner that have been confirmed or varied under sub-section (4). <p><lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></lf></p></lf></lf></lf></lf>
+</lf></sect>
+**<b>
 
-<dt>(1)</dt><dd>Where a person has made an election under section&#160;13 of this Act as
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 56\. Desertion by pensioner of wife or children </name>
+</b>** 
 
-in force before 1&#160;July 1976 or the employment of a person has been
+## SECT
+<sect>   56\. (1) Where a pensioner deserts his wife or leaves her without means of support, the wife may, from time to time, apply to a court of summary jurisdiction and, on proof that the wife has been deserted or left without means of support, the court may order the payment to the wife, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner. 
 
-terminated under section&#160;14 of this Act as so in force, the person is
+<lf>   (2) Where a pensioner whose wife is dead or divorced deserts any of his children who are dependent on him, or leaves them without means of support, the guardian of the children, or the Commissioner, may, from time to time, apply to a court of summary jurisdiction and, on proof that any child of the pensioner who is dependent on him has been deserted or left without means of support, the court may order the payment to the guardian of the child, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner. <p><lf>   (3) The Commissioner shall comply with any order made under this section and the amount of the pension payable to the pensioner shall be reduced by the amount payable in pursuance of the order. <p><lf>   (4) In this section, "pension" means a pension payable under this Act. <p><lf> </lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
 
-entitled to the prescribed benefits.</dd> <dt>(2)</dt><dd>Regulations under subsection&#160;(1) shall be made with a view to giving effect to such recommendations of the Simpson Report as have been accepted by the Commonwealth and the Government of Papua New Guinea, but nothing in this subsection prevents the regulations from providing for greater benefits than those recommended in that Report.</dd> <dt>(2A)</dt><dd>Regulations under subsection&#160;(1) may include provision for deferred benefits in specified circumstances.</dd> <dt>(3)</dt><dd>The regulations may make different provision in relation to elections made, and employment terminated, under different provisions of this Part.</dd> <dt>(4)</dt><dd>In this section, _the Simpson Report_ means the report relating to employment security for overseas officers of the Public Service of Papua New Guinea made by Mr. A. M. Simpson, C.M.G., to the Minister for External Territories and the Chief Minister of Papua New Guinea and dated 23rd October, 1972\. </dd> </dl>
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 57\. Recovery of contributions, &c. </name>
+</b>** 
 
-<center>**
+## SECT
+<sect>   57\. The Commissioner may recover any arrears of contributions, and any interest on arrears of contributions, under this Act in a court of competent jurisdiction as a debt. 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;IV&#151;Administration of superannuation and other benefits </part>
-**</center>
+<lf> </lf>
+</sect>
+**<b>
 
-**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 58\. Arrangements for reimbursement of Commonwealth by certain authorities </name>
+</b>** 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 20  Commissioner to administer Part&#160;V 
-**
+## SECT
+<sect>   58\. Where benefits have been, are or may become payable under Part V or VI to or in relation to a person who was or is required or permitted to contribute to the Superannuation Fund, the Provident Account or the Benefits Fund or to the Commonwealth and, while being so required or permitted, was or is receiving a salary from an authority of Papua New Guinea, the Minister may enter into an arrangement with that authority providing for the reimbursement of the Commonwealth in respect of payments made by the Commonwealth in respect of those benefits. 
 
- <dl compact="">
+<lf> </lf>
+</sect>
+**<b>
 
-		The responsibility for the general administration of Part&#160;V is vested in
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 60\. No assignment of benefits </name>
+</b>** 
 
-the Commissioner.
+## SECT
+<sect>   60\. Subject to section 61, a benefit under Part V or VI is not capable of being assigned or charged or of passing by operation of law, and any moneys paid or payable out of the Superannuation Fund, the Provident Account, the Reserve Units of Pension Account or the Benefits Fund or by the Commonwealth on the death of a person are not liable to be applied or made available in payment of his debts or liabilities. 
 
- </dl>
+<lf> </lf>
+</sect>
+**<b>
 
-**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 61\. Attachment of benefits </name>
+</b>** 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 21  Annual reports 
-**
+## SECT
+<sect>   61\. (1) Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to benefit under Part V, the judgment creditor may serve on the Commissioner, in the manner prescribed, a copy of the judgment, certified under the hand of the registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment. 
 
- <dl compact="">
+<lf>   (2) Where a copy of a judgment and a statutory declaration are served on the Commissioner in accordance with sub-section (1), the Commissioner shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him to notify the Commissioner within the period, and in the manner, specified in the notice, whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Commissioner, in the manner specified in the notice, evidence in support of that fact. <p><lf>   (3) A person to whom a notice is given under sub-section (2) shall comply with the requirements contained in the notice. <p><lf>   Penalty: Forty dollars. <p><lf>   (4) If, at the expiration of the period specified in the notice, the Commissioner is satisfied that an amount is due under the judgment, the Commissioner may, in his discretion, deduct from the benefit, and pay to the judgment creditor, such sums as do not exceed that amount. <p><lf>   (5) A deduction shall not be made from-<lf> <lf>   (a)  an instalment of pension payable in respect of a child; or<lf> <lf>   (b)  an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one-half of the amount that would, but for this section, be payable. <p><lf>   (6) If, after a copy of a judgment given against a beneficiary, being a judgment in respect of which the Commissioner is satisfied that an amount is due, has been served in accordance with sub-section (1), a copy of another judgment given (whether before or after the first-mentioned judgment) against the same beneficiary in favour of the person in whose favour the first-mentioned judgment was given or in favour of another person is served under that sub-section, the Commissioner shall not make a payment in accordance with this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first-mentioned judgment has been paid. <p><lf>   (7) A payment made to a judgment creditor in accordance with this section shall, as between the Commissioner and the beneficiary, be deemed to be a payment under Part V to the beneficiary. <p><lf>   (8) A judgment creditor who serves a copy of a judgment on the Commissioner under sub-section (1) shall notify the Commissioner, in the manner prescribed, immediately the judgment debt is satisfied. <p><lf>   Penalty: One hundred dollars or imprisonment for three months. <p><lf>   (9) If the amounts paid in accordance with this section to a judgment creditor in respect of a judgment exceed, in the aggregate, the amount due under the judgment, the excess is repayable by the judgment creditor to the judgment debtor and, in default of payment, may be recovered by the judgment debtor from the judgment creditor in a court of competent jurisdiction. <p><lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></lf></lf></lf></p></lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
 
-<dt>(1)</dt><dd>The Commissioner shall, as soon as practicable after each 30&#160;June,
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 62A. Payments may be made by Papua New Guinea </name>
+</b>** 
 
-prepare a report on the general administration and operation of Parts V and IX
+## SECT
+<sect>   62A. Where the whole or part of any benefit payable to a person under this Act is paid to that person by the Government of Papua New Guinea out of the moneys of that Government, the amount of that benefit that would, but for this section, be payable under this Act by Australia to that person shall be reduced by the amount so paid. 
 
-during the year ended on that date, and furnish the report to the Minister for
+<lf> </lf>
+</sect>
+**<b>
 
-Finance.</dd> <dt>(2)</dt><dd>The Minister for Finance shall cause a copy of the Commissioner's report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister for Finance. </dd> </dl>
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 64\. Delegations </name>
+</b>** 
 
-<center>**
+## SECT
+<sect>   64\. (1) The Minister or the Commissioner may, by instrument in writing, delegate to a person, either generally or otherwise as provided by the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation). 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;V&#151;Superannuation </part>
-**</center>
+<lf>   (2) A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation and, when so exercised or performed, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Minister or by the Commissioner, as the case may be. <p><lf>   (3) A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister or by the Commissioner, as the case may be. <p><lf> </lf></p></lf></p></lf>
+</sect>
+**<b>
 
-**
+### <name>PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 - SECT. 65\. Regulations </name>
+</b>** 
 
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 38  Regulations relating to superannuation 
-**
+## SECT
+<sect>   65\. (1) The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or to be provided for by regulation, or that are necessary or convenient to be prescribed for giving effect to this Act, and, in particular-<lf> <lf>   (a)  for enabling a specified officer of the Public Service of the Commonwealth to delegate his powers and functions under regulations made for the purposes of Part II; and<lf> <lf>   (b)  for prescribing penalties not exceeding a fine of One hundred dollars for offences against the regulations. 
 
- <dl compact="">
-
-<dt>(1)</dt><dd>The regulations may make provision for and in relation to:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>contributions to be paid to the Commonwealth by persons (including persons
-
-who have ceased to be employed under Part&#160;II in specified circumstances)
-
-who, immediately before the prescribed date, were required or permitted to
-
-contribute to the Papua New Guinea Superannuation Fund or the Papua New Guinea
-
-Provident Account under the Superannuation Ordinance;</dd>
-
-<dt>(b)</dt><dd>payments to be made by the Commonwealth to and in relation to:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>persons referred to in paragraph&#160;(a); and</dd>
-
-<dt>(ii)</dt><dd>persons who, immediately before the prescribed date, were entitled to
-
-pension in accordance with the Superannuation Ordinance or in accordance with
-
-the _Superannuation Ordinance 1917-1955_ of the Territory of Papua or the
-
-_Superannuation Ordinance 1928-1955_ of the Territory of New Guinea, as
-
-the case may be; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>matters incidental to or connected with matters referred to in
-
-paragraphs&#160;(a) and (b).
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;IX&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 54  Review of decisions of Commissioner 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>In this section:
-
-</dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_decision_ has the same meaning as in the _Administrative Appeals Tribunal Act 1975_. _decision of the Commissioner_ means a decision of the Commissioner, or a delegate of the Commissioner, under this Act.  </dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A person who is affected by a decision of the Commissioner and is
-
-dissatisfied with the decision may, by notice in writing given to the
-
-Commissioner within a period of 30 days after the date on which the decision
-
-first comes to the notice of the person, or within such further period as the
-
-Commissioner allows, request the Commissioner to reconsider the decision.</dd> <dt>(3)</dt><dd>There shall be set out in the request the ground on which the request is made.</dd> <dt>(4)</dt><dd>Upon receipt of the request, the Commissioner shall reconsider the decision, and may either confirm the decision or vary the decision in such manner as he thinks fit.</dd> <dt>(5)</dt><dd>The Commissioner shall, by notice in writing sent or delivered to the person who made the request, inform the person of the result of his reconsideration of the decision.</dd> <dt>(6)</dt><dd>Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Commissioner that have been confirmed or varied under subsection&#160;(4). </dd> </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 56  Desertion by pensioner of wife or children 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a pensioner deserts his wife or leaves her without means of support,
-
-the wife may, from time to time, apply to a court of summary jurisdiction and,
-
-on proof that the wife has been deserted or left without means of support, the
-
-court may order the payment to the wife, during such period as it thinks fit,
-
-of the whole or part of the pension which otherwise would be payable to the
-
-pensioner.</dd> <dt>(2)</dt><dd>Where a pensioner whose wife is dead or divorced deserts any of his children who are dependent on him, or leaves them without means of support, the guardian of the children, or the Commissioner, may, from time to time, apply to a court of summary jurisdiction and, on proof that any child of the pensioner who is dependent on him has been deserted or left without means of support, the court may order the payment to the guardian of the child, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner.</dd> <dt>(3)</dt><dd>The Commissioner shall comply with any order made under this section and the amount of the pension payable to the pensioner shall be reduced by the amount payable in pursuance of the order.</dd> <dt>(4)</dt><dd>In this section, _pension_ means a pension payable under this Act. </dd> </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 57  Recovery of contributions etc. 
-**
-
- <dl compact="">
-
-		The Commissioner may recover any arrears of contributions, and any interest
-
-on arrears of contributions, under this Act in a court of competent
-
-jurisdiction as a debt.
-
- </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 58  Arrangements for reimbursement of Commonwealth by certain authorities 
-**
-
-<dl compact="">
-
-		Where benefits have been, are or may become payable under Part&#160;V to or
-
-in relation to a person who was or is required or permitted to contribute to
-
-the Superannuation Fund or the Provident Account or to the Commonwealth and,
-
-while being so required or permitted, was or is receiving a salary from an
-
-authority of Papua New Guinea, the Minister may enter into an arrangement with
-
-that authority providing for the reimbursement of the Commonwealth in respect
-
-of payments made by the Commonwealth in respect of those benefits.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 60  No assignment of benefits 
-**
-
- <dl compact="">
-
-		Subject to section&#160;61, a benefit under Part&#160;V is not capable of
-
-being assigned or charged or of passing by operation of law, and any moneys
-
-paid or payable out of the Superannuation Fund, the Provident Account or the
-
-Reserve Units of Pension Account or by the Commonwealth on the death of a
-
-person are not liable to be applied or made available in payment of his debts
-
-or liabilities.
-
- </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 61  Attachment of benefits 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a judgment given by a court for the payment of a sum of money has
-
-not been fully satisfied by the judgment debtor and the judgment debtor is
-
-entitled to benefit under Part&#160;V, the judgment creditor may serve on the
-
-Commissioner, in the manner prescribed, a copy of the judgment, certified under
-
-the hand of the registrar or other proper officer of the court by which the
-
-judgment was given, and a statutory declaration by the judgment creditor
-
-stating that the judgment has not been fully satisfied by the judgment debtor
-
-and specifying the amount due by the judgment debtor under the judgment.</dd> <dt>(2)</dt><dd>Where a copy of a judgment and a statutory declaration are served on the Commissioner in accordance with subsection&#160;(1), the Commissioner shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him to notify the Commissioner within the period, and in the manner, specified in the notice, whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Commissioner, in the manner specified in the notice, evidence in support of that fact.</dd> <dt>(3)</dt><dd>A person to whom a notice is given under subsection&#160;(2) shall comply with the requirements contained in the notice. </dd> </dl>
-
-Penalty:	Forty dollars.
-
-<dl compact="">
-
-<dt>(4)</dt><dd>If, at the expiration of the period specified in the notice, the
-
-Commissioner is satisfied that an amount is due under the judgment, the
-
-Commissioner may, in his discretion, deduct from the benefit, and pay to the
-
-judgment creditor, such sums as do not exceed that amount.</dd> <dt>(5)</dt><dd>A deduction shall not be made from: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an instalment of pension payable in respect of a child; or</dd>
-
-<dt>(b)</dt><dd>an instalment of any other pension if the deduction will reduce the amount
-
-of the instalment payable to less than one-half of the amount that would, but
-
-for this section, be payable.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(6)</dt><dd>If, after a copy of a judgment given against a beneficiary, being a
-
-judgment in respect of which the Commissioner is satisfied that an amount is
-
-due, has been served in accordance with subsection&#160;(1), a copy of another
-
-judgment given (whether before or after the first-mentioned judgment) against
-
-the same beneficiary in favour of the person in whose favour the
-
-first-mentioned judgment was given or in favour of another person is served
-
-under that subsection, the Commissioner shall not make a payment in accordance
-
-with this section to the judgment creditor under the other judgment in respect
-
-of the amount due under that judgment until the amount due under the
-
-first-mentioned judgment has been paid.</dd> <dt>(7)</dt><dd>A payment made to a judgment creditor in accordance with this section shall, as between the Commissioner and the beneficiary, be deemed to be a payment under Part&#160;V to the beneficiary.</dd> <dt>(8)</dt><dd>A judgment creditor who serves a copy of a judgment on the Commissioner under subsection&#160;(1) shall notify the Commissioner, in the manner prescribed, immediately the judgment debt is satisfied. </dd> </dl>
-
-Penalty:	One hundred dollars or imprisonment for three months.
-
-<dl compact="">
-
-<dt>(9)</dt><dd>If the amounts paid in accordance with this section to a judgment creditor
-
-in respect of a judgment exceed, in the aggregate, the amount due under the
-
-judgment, the excess is repayable by the judgment creditor to the judgment
-
-debtor and, in default of payment, may be recovered by the judgment debtor from
-
-the judgment creditor in a court of competent jurisdiction.
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 62A  Payments may be made by Papua New Guinea 
-**
-
- <dl compact="">
-
-		Where the whole or part of any benefit payable to a person under this Act is
-
-paid to that person by the Government of Papua New Guinea out of the moneys of
-
-that Government, the amount of that benefit that would, but for this section,
-
-be payable under this Act by Australia to that person shall be reduced by the
-
-amount so paid.
-
- </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 64  Delegations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister or the Commissioner may, by instrument in writing, delegate
-
-to a person, either generally or otherwise as provided by the instrument of
-
-delegation, all or any of his powers and functions under this Act (except this
-
-power of delegation).</dd> <dt>(2)</dt><dd>A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation and, when so exercised or performed, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Minister or by the Commissioner, as the case may be.</dd> <dt>(3)</dt><dd>A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister or by the Commissioner, as the case may be. </dd> </dl>
-
-**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 65  Regulations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing all matters that by this Act are required or permitted to be
-
-prescribed or to be provided for by regulation, or that are necessary or
-
-convenient to be prescribed for giving effect to this Act, and, in particular:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>for enabling a specified officer of the Public Service of the Commonwealth
-
-to delegate his powers and functions under regulations made for the purposes of
-
-Part&#160;II; and</dd>
-
-<dt>(b)</dt><dd>for prescribing penalties not exceeding a fine of One hundred dollars for
-
-offences against the regulations.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The power to make regulations conferred by this Act shall not be taken, by
-
-implication, not to include the power to make provision for or in relation to a
-
-matter by reason only of the fact that:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>provision is made by this Act in relation to that matter or another
-
-matter; or</dd>
-
-<dt>(b)</dt><dd>power is expressly conferred by this Act to make provision by regulation
-
-for or in relation to another matter.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>The power to make regulations conferred by this Act may be exercised:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to all cases to which the power extends, or in relation to all
-
-those cases subject to specified exceptions, or in relation to any specified
-
-cases or classes of case; and</dd>
-
-<dt>(b)</dt><dd>so as to make, as respects the cases in relation to which it is exercised,
-
-the same provision for all those cases or a different provision for different
-
-cases or classes of case.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The power conferred by this Act to make modifications by regulation
-
-includes the power to omit any matter or add any new matter.</dd> <dt>(5)</dt><dd>The limitation imposed by subsection&#160;(1) on the penalties that may be prescribed by regulation does not prevent the regulations from requiring a person to make a statutory declaration. </dd> </dl>
-
-<center>**
-
-###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<centreit>Notes to the _Papua New Guinea (Staffing Assistance) Act 1973_ </centreit>
-**</center>
-
-<center>Back to Top</center>
-
-**Note 1**
-
-The _Papua New Guinea (Staffing Assistance) Act 1973_ as shown in this compilation comprises Act No.&#160;70, 1973 amended as indicated in the Tables below.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr></table>
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Papua New Guinea (Staffing Assistance) Act 1973</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>70, 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>18&#160;June 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Dec 1973 ( <i>see Gazette</i>1973, No.&#160;178A)</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Papua New Guinea (Staffing Assistance) Act 1975</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>100, 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>9 Sept 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>9 Sept 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 11 and 12</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Papua New Guinea (Staffing Assistance) Termination Act 1976</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>69, 1976</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>9&#160;June 1976</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 3(a), (c), (f), 4-7, 13-16, 20, 22, 24, 25 and 31-33: 1&#160;July 1976 
-Remainder: Royal Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 23 (am. by 36, 1978, s. 3) 
-Ss. 24-34</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>36, 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 8</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>36, 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 8</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Superannuation Legislation Amendment Act 1990</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>40, 1990</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>7&#160;June 1990</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Part&#160;5 (ss. 107-113): Royal Assent <i>(a)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Papua New Guinea (Staffing Assistance) Act 1973_ was amended by Part&#160;5 (sections&#160;107-113) only of the _Superannuation Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
-
-	(1)	The following provisions:
-
-	(a)	Parts&#160;1 and 2, sections&#160;6, 69, 70, 71, 94 and 98 and Part&#160;5, of this Act; 
-
-		commence on the day on which this Act receives the Royal Assent.
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975; No.&#160;69, 1976; No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;II 
-(ss. 4-11)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 4-11</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 12, 13</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 14</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 15-18</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 19</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975; No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;IV 
-(ss. 20-33)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;IV 
-(ss. 20, 21)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 20</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 21</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;36, 1978; No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 22, 23</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 24</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 25-28</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 28A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;100, 1975</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 29-33</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 34-37</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 38</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;100, 1975; No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 39</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;VI (s. 40)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 40</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.69, 1976 
-rep. No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part VII 
-(ss. 41-47)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 41-47</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part VIII 
-(ss. 48-53)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 48-53</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 54</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 55</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 56, 57</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 58</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am No.&#160;69, 1976; No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 59</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 60</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;69, 1976; No.&#160;40, 1990</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 61</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 62</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 62A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;100, 1975</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 63</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;69, 1976</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 64</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;69, 1976</div>
-
-  </td>
-</tr></table>
-
-</def>
-
-
+<lf>   (2) The power to make regulations conferred by this Act shall not be taken, by implication, not to include the power to make provision for or in relation to a matter by reason only of the fact that-<lf> <lf>   (a)  provision is made by this Act in relation to that matter or another matter; or<lf> <lf>   (b)  power is expressly conferred by this Act to make provision by regulation for or in relation to another matter. <p><lf>   (3) The power to make regulations conferred by this Act may be exercised-<lf> <lf>   (a)  in relation to all cases to which the power extends, or in relation to all those cases subject to specified exceptions, or in relation to any specified cases or classes of case; and<lf> <lf>   (b)  so as to make, as respects the cases in relation to which it is exercised, the same provision for all those cases or a different provision for different cases or classes of case. <p><lf>   (4) The power conferred by this Act to make modifications by regulation includes the power to omit any matter or add any new matter. <p><lf>   (5) The limitation imposed by sub-section (1) on the penalties that may be prescribed by regulation does not prevent the regulations from requiring a person to make a statutory declaration. <p><lf> ------------------------------------------------------------------------------ -- </lf></p></lf></p></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></sect>
