@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00291/Html/d936d49a-ca1d-4ed7-adc0-70797dbb01ec_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00207/Html/HearServAdminAct1997WD02_image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 5 April 2007
+ taking into account amendments up to Act No. 32 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 <li class="BoxList" style="margin-left:21.25pt">•     This
 
-Act sets up a scheme under which hearing services are provided to voucher‑holders
+Act sets up a scheme under which hearing services are provided to voucher-holders
 
 by contracted service providers.</li>
 
@@ -184,7 +184,7 @@ may be issued to participants in the voucher system.</li>
 
 Minister may accredit service providers and engage accredited service providers
 
-to provide hearing services to voucher‑holders.</li>
+to provide hearing services to voucher-holders.</li>
 
 * * *
 
@@ -246,7 +246,7 @@ to provide hearing services to voucher‑holders.</li>
 
                     <a name="voucher"></a>**_voucher_** means a voucher issued under section 10.
 
-                    <a name="voucher-holder"></a>**_voucher‑holder_** means a participant in the voucher system who holds a voucher.
+                    <a name="voucher-holder"></a>**_voucher-holder_** means a participant in the voucher system who holds a voucher.
 
                     <a name="voucher-rule"></a>**_voucher rules_** means rules formulated under section 11.
 
@@ -346,7 +346,7 @@ Minister may determine that specified persons are **_participants in the voucher
 
 Minister may determine that specified hearing services are **_available_**
 
-to a voucher‑holder under a voucher.</li>
+to a voucher-holder under a voucher.</li>
 
 * * *
 
@@ -422,15 +422,15 @@ the Minister is to be known as an **_accredited service provider_**.</li>
 
 Minister may engage an accredited service provider to provide available hearing
 
-services to voucher‑holders. A service provider engaged by the Minister is to
+services to voucher-holders. A service provider engaged by the Minister
 
-be known as a **_contracted service provider_**.</li>
+is to be known as a **_contracted service provider_**.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
 Minister must formulate **_rules of conduct_** that apply to contracted
 
-service providers in relation to the provision of hearing services to voucher‑holders.</li>
+service providers in relation to the provision of hearing services to voucher-holders.</li>
 
 * * *
 
@@ -494,7 +494,7 @@ Note 2:       Accreditation means that the entity is eligible to be 
 
 ##### <a id="17"></a>17  Rules of conduct
 
-             (1)  The Minister must, by written instrument, formulate rules of conduct relating to the provision of hearing services to voucher‑holders.
+             (1)  The Minister must, by written instrument, formulate rules of conduct relating to the provision of hearing services to voucher-holders.
 
              (2)  Rules of conduct have effect only for the purposes of section 18.
 
@@ -502,11 +502,11 @@ Note:          Section 18 provides that compliance with rule
 
              (3)  Rules of conduct may make provision for or in relation to a matter by conferring a power on the Minister. 
 
-             (4)  Rules of conduct may prohibit or regulate the charging of fees or other consideration payable by a voucher‑holder, where the fee or consideration is in respect of the provision by an accredited service provider of a hearing service that is available to the holder under the voucher.
+             (4)  Rules of conduct may prohibit or regulate the charging of fees or other consideration payable by a voucher-holder, where the fee or consideration is in respect of the provision by an accredited service provider of a hearing service that is available to the holder under the voucher.
 
              (5)  Rules of conduct may require an accredited service provider to:
 
-                     (a)  take all reasonable steps to ensure that each individual who (whether in the capacity of employee or otherwise) works, or is to work, for the service provider in the provision of specified hearing services to voucher‑holders holds such qualifications as are ascertained in accordance with the rules; and
+                     (a)  take all reasonable steps to ensure that each individual who (whether in the capacity of employee or otherwise) works, or is to work, for the service provider in the provision of specified hearing services to voucher-holders holds such qualifications as are ascertained in accordance with the rules; and
 
                      (b)  inform the Minister of the names and qualifications of those individuals.
 
@@ -596,7 +596,7 @@ Note:          Section 19B of the _Crimes Act 1914_ empowers
 
 ##### <a id="20"></a>20  Contracted service providers
 
-             (1)  The Minister may, on behalf of the Commonwealth, engage an accredited service provider to provide hearing services to voucher‑holders, where each hearing service is available to the holder under the voucher. An accredited service provider engaged under this section is to be known as a **_contracted service provider_**.
+             (1)  The Minister may, on behalf of the Commonwealth, engage an accredited service provider to provide hearing services to voucher-holders, where each hearing service is available to the holder under the voucher. An accredited service provider engaged under this section is to be known as a **_contracted service provider_**.
 
              (2)  The terms and conditions of the engagement are to be set out in a written agreement between the Minister (on behalf of the Commonwealth) and the contracted service provider. The terms and conditions must be consistent with the accreditation scheme and the rules of conduct.
 
@@ -684,7 +684,7 @@ the entity is liable to repay the amount to the Commonwealth.
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-Minister must establish a complaints‑handling mechanism.</li>
+Minister must establish a complaints-handling mechanism.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -704,7 +704,7 @@ Minister may delegate powers conferred on the Minister by this Act.</li>
 
              (1)  The Minister may, by writing, delegate all or any of the Minister’s functions and powers under this Act to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  any other officer of the Department.
 
@@ -824,17 +824,17 @@ Tribunal following a process of reconsideration by the Minister.</li>
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">·     The
+<li class="BoxList" style="margin-left:21.25pt">·      The
 
 Federal Court may grant injunctions in relation to contraventions of:</li>
 
                (a)     this Act; or
 
-              (b)     the voucher rules; and
+               (b)     the voucher rules; and
 
                (c)     a condition of an accreditation; or
 
-              (d)     an agreement under section 20.
+               (d)     an agreement under section 20.
 
 * * *
 
@@ -1020,7 +1020,7 @@ is made in relation to the service of documents.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-Governor‑General may make regulations for the purposes of this Act.</li>
+Governor-General may make regulations for the purposes of this Act.</li>
 
 * * *
 
@@ -1046,7 +1046,7 @@ Governor‑General may make regulations for the purposes of this Act.</li>
 
 The address must be in Australia.
 
-             (2)  For the purposes of this Act, a document may be given to the person by leaving it at, or by sending it by pre‑paid post to, the nominated address for service.
+             (2)  For the purposes of this Act, a document may be given to the person by leaving it at, or by sending it by pre-paid post to, the nominated address for service.
 
              (3)  Subsection (2) has effect in addition to section 28A of the _Acts Interpretation Act 1901_.
 
@@ -1064,7 +1064,7 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
 ##### <a id="50"></a>50  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1082,11 +1082,11 @@ For all relevant information pertaining to application, saving or transitional p
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1191,23 +1191,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 2 (item 51): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 71): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1343,22 +1326,6 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
   </td>
   <td>
     <div>rep. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
