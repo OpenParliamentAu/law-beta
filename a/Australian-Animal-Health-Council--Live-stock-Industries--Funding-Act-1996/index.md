@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00565/Html/12604006-4de1-4b80-bb09-c81e7ca28477_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00856/Html/8e131ea6-28ea-4834-9640-6d047c9576b3_files/image001.gif)
 
 # Australian Animal Health Council (Live-stock Industries) Funding Act 1996
 
 **Act No. 45 of 1996 as amended**
 
-This compilation was prepared on 29 June 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 24 October 2011
+ taking into account amendments up to Act No. 117 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -92,15 +92,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Transfer of funds to Australian Animal Health Council—levies and charges other than horse disease response levy
 
-Commonwealth payments to Australian Animal Health Council
-
              (1)  The Commonwealth is to pay to the Australian Animal Health Council amounts equal to the following amounts:
 
                      (a)  amounts of Australian Animal Health Council levy collected or received by or on behalf of the Commonwealth on or after 1 July 1996;
 
                      (b)  amounts of penalty paid under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to a failure to pay Australian Animal Health Council levy by the time it became due for payment.
 
-             (2)  The Commonwealth is to pay to the Australian Animal Health Council an amount equal to the sum of the following amounts:
+             (2)  The Commonwealth is to pay to the Australian Animal Health Council an amount equal to the sum of the following amounts less the Commonwealth’s costs in collecting or recovering those amounts and in administering this subsection:
 
                      (a)  amounts of levy or charge:
 
@@ -112,25 +110,15 @@ Commonwealth payments to Australian Animal Health Council
 
                      (b)  amounts of penalty paid under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to a failure to pay levy or charge described in paragraph (a) by the time it became due for payment.
 
-Conditions of Commonwealth payment
+             (3)  A payment (the **_Commonwealth payment_**) under subsection (2) relating to a levy or charge and to an animal product is made subject to the condition that the Australian Animal Health Council apply the Commonwealth payment in accordance with the priorities in subsections (4), (5) and (6) and subject to subsections (7) and (8).
 
-          (2A)  The payments made under subsection (2) are subject to the condition that the Australian Animal Health Council will pay to the Commonwealth an amount equal to the Commonwealth’s costs in:
-
-                     (a)  collecting or recovering the amounts of levy, charge or penalty to which the payments relate; and
-
-                     (b)  administering subsection (2) in relation to the making of the payments.
-
-             (3)  A payment (the **_Commonwealth payment_**) under subsection (2) relating to a levy or charge and to an animal product is made subject to the condition that the Australian Animal Health Council apply the Commonwealth payment in accordance with the priorities in subsections (3A), (4), (5) and (6) and subject to subsections (7) and (8).
-
-          (3A)  The first priority is to apply the Commonwealth payment in making a payment to the Commonwealth for the purpose of discharging any liability of the Australian Animal Health Council under subsection (2A).
-
-             (4)  The second priority is to apply the Commonwealth payment in meeting, or reimbursing the Australian Animal Health Council for meeting, costs the Council incurs:
+             (4)  The first priority is to apply the Commonwealth payment in meeting, or reimbursing the Australian Animal Health Council for meeting, costs the Council incurs:
 
                      (a)  in receiving and applying the Commonwealth payment in accordance with subsection (3); and
 
                      (b)  before or in the financial year in which the Commonwealth payment is made.
 
-             (5)  The third priority is to apply the Commonwealth payment in making, on behalf of the non‑government body that is a party to the EADR agreement and is concerned with the production of the animal product, a payment:
+             (5)  The second priority is to apply the Commonwealth payment in making, on behalf of the non‑government body that is a party to the EADR agreement and is concerned with the production of the animal product, a payment:
 
                      (a)  to the Commonwealth for the purpose of discharging a liability of the body to the Commonwealth that arises under the EADR agreement; or
 
@@ -138,13 +126,13 @@ Conditions of Commonwealth payment
 
 Note:          A payment to Plant Health Australia Limited may be made for the purpose of discharging a liability of the non‑government body concerned with honey production to the Commonwealth relating to a plant disease spread by honey bees if Plant Health Australia Limited is obliged to pay the Commonwealth on behalf of the body.
 
-             (6)  The fourth priority is to apply the Commonwealth payment in:
+             (6)  The third priority is to apply the Commonwealth payment in:
 
                      (a)  making a payment to an organisation that is concerned with research and development relevant to production of the animal product; or
 
                      (b)  taking measures relating to the promotion or maintenance of the health of animals to which the animal product relates.
 
-             (7)  If a body is declared under the relevant Schedule mentioned in subparagraph (2)(a)(i) as the designated body for the animal product, the Australian Animal Health Council is to apply the Commonwealth payment in accordance with the fourth priority only:
+             (7)  If a body is declared under the relevant Schedule mentioned in subparagraph (2)(a)(i) as the designated body for the animal product, the Australian Animal Health Council is to apply the Commonwealth payment in accordance with the third priority only:
 
                      (a)  on request by the body; and
 
@@ -152,61 +140,39 @@ Note:          A payment to Plant Health Australia Limited may
 
              (8)  It is not a contravention of the condition in subsection (3) for the Australian Animal Health Council to apply the Commonwealth payment in accordance with a lower priority if the Council cannot apply the payment in accordance with a higher priority. For this purpose, a priority set out in a later subsection is lower than a priority set out in an earlier subsection.
 
-Recovery of Commonwealth costs
-
-             (9)  An amount payable by the Australian Animal Health Council under subsection (2A):
-
-                     (a)  is a debt due to the Commonwealth; and
-
-                     (b)  may be recovered by the Minister, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
-
-Setting off Council payment to Commonwealth
-
-           (10)  The Commonwealth may set off an amount payable to it under subsection (2A) against a payment the Commonwealth must make under subsection (2).
-
 ##### <a id="4A"></a>4A  Transfer of funds relating to horse disease response levy to Australian Animal Health Council
 
 Commonwealth payment to Australian Animal Health Council
 
-             (1)  The Commonwealth is to make a payment (the **_Commonwealth payment_**) to the Australian Animal Health Council of an amount equal to the sum of the following amounts:
+             (1)  The Commonwealth is to make a payment (the **_Commonwealth payment_**) to the Australian Animal Health Council of an amount equal to the sum of the following amounts less the Commonwealth’s costs in collecting or recovering those amounts and in administering this subsection:
 
                      (a)  horse disease response levy collected or received by the Commonwealth;
 
                      (b)  amounts of penalty paid under section 7 of the _Horse Disease Response Levy Collection Act 2011_ in relation to a failure to pay horse disease response levy by the time it became due for payment.
 
-Conditions of Commonwealth payment
-
-          (1A)  The payments made under subsection (1) are subject to the condition that the Australian Animal Health Council will pay to the Commonwealth an amount equal to the Commonwealth’s costs in:
-
-                     (a)  collecting or recovering the amounts of levy or penalty to which the payments relate; and
-
-                     (b)  administering subsection (1) in relation to the making of the payments.
+Condition on Commonwealth payment
 
              (2)  The Commonwealth payment is subject to the condition that the Australian Animal Health Council apply the payment in accordance with this section.
 
 First priority for applying Commonwealth payment
 
-          (2A)  As first priority, the Australian Animal Health Council is to apply the Commonwealth payment in making a payment to the Commonwealth for the purpose of discharging any liability of the Australian Animal Health Council under subsection (1A).
-
-Second priority for applying Commonwealth payment
-
-             (3)  As second priority, the Australian Animal Health Council is to apply the Commonwealth payment in meeting, or reimbursing the Council for meeting, costs the Council incurs:
+             (3)  As first priority, the Australian Animal Health Council is to apply the Commonwealth payment in meeting, or reimbursing the Council for meeting, costs the Council incurs:
 
                      (a)  in receiving and applying the payment in accordance with this section; and
 
                      (b)  before or in the financial year in which the payment is made.
 
-Third priority for applying Commonwealth payment
+Second priority for applying Commonwealth payment
 
-             (4)  As third priority, the Australian Animal Health Council is to apply the Commonwealth payment in making to the Commonwealth a payment (the **_Council payment_**) as follows, depending on whether, when the Commonwealth payment was made, a non‑government body concerned with the horse industry was party to the EADR agreement:
+             (4)  As second priority, the Australian Animal Health Council is to apply the Commonwealth payment in making to the Commonwealth a payment (the **_Council payment_**) as follows, depending on whether, when the Commonwealth payment was made, a non‑government body concerned with the horse industry was party to the EADR agreement:
 
                      (a)  if such a body was party to the agreement—the Council payment is on behalf of the body for the purpose of discharging a liability of the body to the Commonwealth that arises under the EADR agreement;
 
                      (b)  if there was not such a body party to the agreement—the Council payment is made within 28 days after the Commonwealth payment was made and equals so much of the payment to the Council as the Council has not applied under subsection (3).
 
-Fourth priority for applying Commonwealth payment
+Third priority for applying Commonwealth payment
 
-             (5)  As fourth priority, the Australian Animal Health Council is to apply the Commonwealth payment in:
+             (5)  As third priority, the Australian Animal Health Council is to apply the Commonwealth payment in:
 
                      (a)  making a payment to an organisation that is concerned with research and development relevant to the horse industry; or
 
@@ -222,17 +188,7 @@ Applying for lower priority if higher priority cannot be met
 
              (7)  The Australian Animal Health Council may apply the Commonwealth payment in accordance with a lower priority if the Council cannot apply the payment in accordance with a higher priority. For this purpose, a priority set out in a later subsection is lower than a priority set out in an earlier subsection.
 
-Recovery of Commonwealth costs
-
-          (7A)  An amount payable by the Australian Animal Health Council under subsection (1A):
-
-                     (a)  is a debt due to the Commonwealth; and
-
-                     (b)  may be recovered by the Minister, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
-
 Setting off Council payment to Commonwealth
-
-          (7B)  The Commonwealth may set off an amount payable to it under subsection (1A) against a payment the Commonwealth must make under subsection (1).
 
              (8)  The Commonwealth may set off an amount payable to it under paragraph (4)(b) against a payment the Commonwealth must make under subsection (1).
 
@@ -282,7 +238,7 @@ Reduced liability to repay if future payments cease
 
                      (b)  the Australian Animal Health Council is yet to fully apply one or more Commonwealth payments (as defined in section 4) relating to the animal product;
 
-the Australian Animal Health Council must, before applying those Commonwealth payments in accordance with the fourth priority in that section, apply those Commonwealth payments in paying the Commonwealth as much as possible of that specified amount.
+the Australian Animal Health Council must, before applying those Commonwealth payments in accordance with the third priority in that section, apply those Commonwealth payments in paying the Commonwealth as much as possible of that specified amount.
 
              (6)  The debt is discharged by this subsection to the extent of the difference (if any) between:
 
@@ -332,7 +288,7 @@ Reduced liability to repay if future payments cease
 
                      (b)  the Australian Animal Health Council is yet to fully apply one or more Commonwealth payments described in section 4A;
 
-the Australian Animal Health Council must, before applying those Commonwealth payments in accordance with the fourth priority in that section, apply those Commonwealth payments in paying the Commonwealth as much as possible of that specified amount.
+the Australian Animal Health Council must, before applying those Commonwealth payments in accordance with the third priority in that section, apply those Commonwealth payments in paying the Commonwealth as much as possible of that specified amount.
 
              (6)  The debt is discharged by this subsection to the extent of the difference (if any) between:
 
@@ -427,7 +383,7 @@ of Assent</div>
     <div>17 Dec 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 1 July 1998 ( <i>see</i>s. 2(4) and <i>Gazette</i>1998, No. GN22)</div>
+    <div>Schedule 3 (item 1): 1 July 1998 ( <i>see Gazette</i>1998, No. GN22) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -444,7 +400,7 @@ of Assent</div>
     <div>14 May 1999</div>
   </td>
   <td>
-    <div>Schedule 9: 1 July 1999 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 9: 1 July 1999 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -484,31 +440,22 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–23): 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 23)</div>
-  </td>
 </tr></table>
+
+_(a)_     The _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_ was amended by Schedule 3 (item 1) only of the _Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997_, subsection 2(4) of which provides as follows:
+
+                 (4)   Subject to this section, the remaining provisions of this Act commence on the same day as Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+
+_(b)_     The _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_ was amended by Schedule 9 only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="34%">
-  <col width="66%">
+  <col width="31%">
+  <col width="69%">
 </colgroup>
 
 <thead>
@@ -544,58 +491,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 4(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 122, 2002; No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4A(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4A(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4A(4)</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4A(5)</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4A(8)</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 2012</div>
+    <div>am. No. 122, 2002</div>
   </td>
 </tr>
 <tr>
@@ -604,14 +503,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>ad. No. 117, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
   </td>
 </tr>
 <tr>
@@ -640,49 +531,11 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
     <div>ad. No. 117, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
-  </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Financial Framework Legislation Amendment Act (No. 2) 2012 (No. 82, 2012)_
-
-## Schedule 1  
-
-## 23  Application—sections 4 and 4A of the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_
-
-(1)       The amendments of subsections 4(2) and 4A(1) of the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_ made by this Schedule apply in relation to payments made to the Australian Animal Health Council during:
-
-                     (a)  the month next following the month in which this item commences; or
-
-                     (b)  a later month.
-
-(2)       Subsections 4(2A) and 4A(1A) of the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_ as amended by this Schedule apply in relation to payments made to the Australian Animal Health Council during:
-
-                     (a)  the month next following the month in which this item commences; or
-
-                     (b)  a later month.
 
  
