@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02679/Html/Cheques86_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02678/Html/Cheques86_image001.gif)
 
 # Cheques Act 1986
 
 **Act No. 145 of 1986 as amended**
 
-This compilation was prepared on 26 July 2001 
- taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 23 January 2001 
+ taking into account amendments up to Act No. 44 of 1999
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -67,7 +67,7 @@ Prepared by the Office of Legislative Drafting,
 
 [22](#22).          Cheques payable to bearer                                                                 10
 
-[23](#23).          Conversion of cheque payable to bearer into cheque payable to order 11
+[23](#23).          Conversion of cheque payable to bearer into cheque payable to order 10
 
 [24](#24).          Cheques payable to order of specified person                                  11
 
@@ -121,7 +121,7 @@ Prepared by the Office of Legislative Drafting,
 
 [43](#43).          Indorsement of order cheque payable jointly to 2 or more persons  20
 
-[44](#44).          Indorsement where payee or indorsee misdescribed                         21
+[44](#44).          Indorsement where payee or indorsee misdescribed                         20
 
 [45](#45).          Conditional indorsement                                                                    21
 
@@ -169,15 +169,15 @@ Prepared by the Office of Legislative Drafting,
 
 [62](#62).          External presentment by financial institution                                    30
 
-[62A](#62A).       Internal presentment by drawee institution                                      34
+[62A](#62A).       Internal presentment by drawee institution                                      33
 
-[63](#63).          Presentment by person other than financial institution                    36
+[63](#63).          Presentment by person other than financial institution                    35
 
 [64](#64).          Proper place                                                                                       36
 
 [65](#65).          External presentment of cheques by financial institutions—designated places and designated exhibition places       36
 
-[65A](#65A).       Internal presentment of cheques by financial institutions—notified places             38
+[65A](#65A).       Internal presentment of cheques by financial institutions—notified places             37
 
 [66](#66).          Deposit institution to present cheques promptly                             39
 
@@ -265,33 +265,33 @@ Prepared by the Office of Legislative Drafting,
 
     **Division 1—Presentment and collection of cheques by FCA institutions**
 
-[97](#97).          FCA institution to ensure cheques presented promptly                   64
+[97](#97).          FCA institution to ensure cheques presented promptly                   63
 
-[98](#98).          Protection of FCA financial institution collecting cheque for customer       65
+[98](#98).          Protection of FCA financial institution collecting cheque for customer       64
 
-[99](#99).          Rights of FCA financial institution collecting order cheque not indorsed by payee 66
+[99](#99).          Rights of FCA financial institution collecting order cheque not indorsed by payee 65
 
     **Division 2—Agency cheques**
 
-[100](#100).        Agency cheques                                                                                 67
+[100](#100).        Agency cheques                                                                                 66
 
-[100A](#100A).     Unauthorised signature                                                                      68
+[100A](#100A).     Unauthorised signature                                                                      67
 
 **Part IX—Miscellaneous**
 
-[113](#113).        Payment of unindorsed order cheque as evidence of receipt by payee 69
+[113](#113).        Payment of unindorsed order cheque as evidence of receipt by payee 68
 
-[114](#114).        Signature                                                                                            69
+[114](#114).        Signature                                                                                            68
 
-[115](#115).        Replacement of lost or destroyed cheque                                          69
+[115](#115).        Replacement of lost or destroyed cheque                                          68
 
-[116](#116).        Action on lost or destroyed cheque                                                   72
+[116](#116).        Action on lost or destroyed cheque                                                   71
 
-[117](#117).        Conflict of laws                                                                                 72
+[117](#117).        Conflict of laws                                                                                 71
 
-[118](#118).        Dividend warrants                                                                             74
+[118](#118).        Dividend warrants                                                                             73
 
-[119](#119).        Regulations                                                                                        74
+[119](#119).        Regulations                                                                                        73
 
 **Notes** 
 
@@ -1553,7 +1553,7 @@ Note 2:       For when a cheque has not been settled, see subsection
 
              (2)  For the purposes of this section, a drawee institution becomes a failed financial institution if, and only if:
 
-                     (a)  the institution becomes a body corporate that is an externally administered body corporate within the meaning of the _Corporations Act 2001_ because the institution is, or is likely to become, insolvent; or
+                     (a)  the institution becomes a body corporate that is an externally administered body corporate within the meaning of the Corporations Law because the institution is, or is likely to become, insolvent; or
 
                      (b)  someone takes control of the institution’s property for the benefit of the institution’s creditors because the institution is, or is likely to become, insolvent; or
 
@@ -2281,8 +2281,6 @@ the rights, duties and liabilities of the drawer, indorsers and holder shall be 
 
 The _Cheques Act 1986_ as shown in this compilation comprises Act No. 145, 1986 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -2291,8 +2289,7 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="1%">
+  <col width="18%">
   <col width="22%">
   <col width="14%">
 </colgroup>
@@ -2305,7 +2302,7 @@ All relevant information pertaining to application, saving or transitional provi
     <div>Number 
 and year</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Date 
 of Assent</div>
   </td>
@@ -2326,7 +2323,7 @@ of Assent</div>
   <td>
     <div>11 Dec 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>1 July 1987 ( <i>see Gazette</i>1987, No. S131)</div>
   </td>
   <td>
@@ -2343,7 +2340,7 @@ of Assent</div>
   <td>
     <div>5 June 1987</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>5 June 1987 ( <i>see</i>s. 2)</div>
   </td>
   <td>
@@ -2360,7 +2357,7 @@ of Assent</div>
   <td>
     <div>18 Dec 1987</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: Royal Assent <i>(a)</i></div>
   </td>
   <td>
@@ -2377,7 +2374,7 @@ of Assent</div>
   <td>
     <div>23 June 1994</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Part 4 (ss. 9-34): 16 Dec 1994 ( <i>see Gazette</i>1994, No. S435) <i>(b)</i></div>
   </td>
   <td>
@@ -2394,7 +2391,7 @@ of Assent</div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 2 (item 22): <i>(c)</i></div>
   </td>
   <td>
@@ -2411,7 +2408,7 @@ of Assent</div>
   <td>
     <div>29 June 1998</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 1 (item 26): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
   </td>
   <td>
@@ -2428,7 +2425,7 @@ of Assent</div>
   <td>
     <div>2 July 1998</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 1 (items 1-26, 28-29 and 82-130) and Schedule 2: 1 Dec 1998 ( <i>see Gazette</i>, 1998, S371) <i>(e)</i></div>
   </td>
   <td>
@@ -2448,7 +2445,7 @@ Sch. 2 (items 6, 11 and 31) \[ <i>see</i>Table A]
   <td>
     <div>2 July 1998</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 1 (item 6): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(f)</i> 
 Remainder: 22 July 1998 ( <i>see Gazette</i>1998, No. S365)</div>
   </td>
@@ -2466,7 +2463,7 @@ Remainder: 22 July 1998 ( <i>see Gazette</i>1998, No. S365)</div>
   <td>
     <div>17 June 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 7 (items 5-14): 1 July 1999 \[ <i>see Gazette</i>1999, No. S283) <i>(g)</i></div>
   </td>
   <td>
@@ -2484,7 +2481,7 @@ Sch. (items 22, 23)</div>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
   <td>
@@ -2501,38 +2498,13 @@ Sch. (items 22, 23)</div>
   <td>
     <div>21 Dec 2000</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 1 (item 21): Royal Assent 
 Remainder: 18 Jan 2001</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 4-14 and Schedule 3 (item 97): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
  
@@ -2577,9 +2549,7 @@ _(g)_ The _Cheques Act 1986_ was amended by Schedule 7 (items 5-14) only of 
 
                (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
-_(h)_ The _Cheques Act 1986_ was amended by Schedule 3 (item 97) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+ 
 
 ## Table of Amendments
 
@@ -2976,7 +2946,7 @@ _(h)_ The _Cheques Act 1986_ was amended by Schedule 3 (item 97) only of the _Co
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 76 and 77, 1998; No. 55, 2001</div>
+    <div>am. Nos. 76 and 77, 1998</div>
   </td>
 </tr>
 <tr>
@@ -3453,7 +3423,7 @@ Table A
 
 _Cheques and Payment Orders Amendment Act (No. 76, 1998)_
 
-## Part 3—Transitional provisions
+Part 3**—**Transitional provisions
 
 ## 131  Definitions
 
@@ -3479,7 +3449,7 @@ The old Act, as modified by the Schedule to that Act, continues to apply to:
 
 Regulations in force immediately before the commencement of this Part for the purposes of paragraph (b) of the definition of **_non-bank financial institution_** in subsection 3(1) of the old Act have effect, after that commencement, as if they were regulations for the purposes of paragraph (b) of the definition of **_FCA institution_** in subsection 3(1) of the amended Act.
 
-## Schedule 2—Other amendments of the Cheques and Payment Orders Act 1986
+Schedule 2**—**Other amendments of the Cheques and Payment Orders Act 1986
 
 ## 6  Cheques already converted under subsection 23(1) continue to be cheques payable to order
 
@@ -3497,7 +3467,7 @@ The amendments made by items 28, 29 and 30 apply to cheques that become stale 
 
 _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999  (No. 44, 1999)_
 
-## Schedule 8
+Schedule 8
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
@@ -3564,5 +3534,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 ## 23  Power to make regulations
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+
+##  
 
  
