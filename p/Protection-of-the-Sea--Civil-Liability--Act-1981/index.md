@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00275/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00445/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
 
 # Protection of the Sea (Civil Liability) Act 1981
 
 **Act No. 31 of 1981 as amended**
 
-This compilation was prepared on 30 June 2009
+This compilation was prepared on 25 July 2008
  taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Expenses etc  incurred by Authority charge on ship
 
-[22](#22).          Detention of ships
+[22](#22).          Detection of ships
 
 **Part IVA—Recovery of loss etc. incurred by the Authority because of discharges or threatened discharges from ships**
 
@@ -438,9 +438,7 @@ the Minister may, if it appears proper and reasonable to do so, extend the certi
 
                      (b)  that has a gross tonnage of 400 or more; and
 
-                     (c)  to which Part III does not apply; and
-
-                     (d)  to which Part 3 of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_ does not apply.
+                     (c)  to which Part III does not apply.
 
              (2)  This Part does not apply to a Government ship, other than a Government ship that is being used for commercial purposes.
 
@@ -508,7 +506,7 @@ the Minister may, if it appears proper and reasonable to do so, extend the certi
 
 is a charge on that ship, or on each of those ships, as the case may be.
 
-##### <a id="22"></a>22  Detention of ships
+##### <a id="22"></a>22  Detection of ships
 
              (1)  Subject to subsection (2), where an amount is, by virtue of section 21, a charge on a ship, the ship may be detained by a person authorized in writing by the Minister for the purposes of this section and may be so detained until the amount is paid or security for the payment of the amount is provided to the satisfaction of the Minister.
 
@@ -908,7 +906,7 @@ This is to certify that there is in force in respect of the above-named ship a p
 
 <tr>
   <td>
-    <div><u>Type of Security</u>.............................................................................................</div>
+    <div><u>Type of Security</u>............................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -978,7 +976,7 @@ This is to certify that there is in force in respect of the above-named ship a p
 </tr>
 <tr>
   <td>
-    <div>....................................................................</div>
+    <div>...................................................................</div>
   </td>
 </tr>
 <tr>
@@ -1382,7 +1380,7 @@ This is to certify that there is in force in respect of the above-named ship a p
 
 <tr>
   <td>
-    <div>Type of Security.............................................................................................</div>
+    <div>Type of Security............................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -1422,7 +1420,7 @@ This is to certify that there is in force in respect of the above-named ship a p
 </tr>
 <tr>
   <td>
-    <div>Issued or certified by the Government of...................................................</div>
+    <div>Issued or certified by the Government of..................................................</div>
   </td>
 </tr>
 <tr>
@@ -1569,7 +1567,7 @@ of Assent</div>
     <div>14 Apr 1981</div>
   </td>
   <td>
-    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
+    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
   </td>
   <td>
     <div></div>
@@ -1621,7 +1619,7 @@ of Assent</div>
   </td>
   <td>
     <div>Part IV (ss. 
-35–40): 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(c)</i></div>
+ 35–40): 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(c)</i></div>
   </td>
   <td>
     <div>S. 2 (am. by 95, 1995, s. 3, Part J (item 1))</div>
@@ -1760,8 +1758,8 @@ Remainder: 6 Apr 2001</div>
       <div>19 Mar 2003</div>
     </td>
     <td>
-      <div>Schedule 1 (items 1–6): 1 Nov 2003 
-Schedule 1 (items 7–9): 20 Mar 2003 
+      <div>Schedule 1 (items 1–6): 1 Nov 2003 
+Schedule 1 (items 7–9): 20 Mar 2003 
 Remainder: Royal Assent</div>
     </td>
     <td>
@@ -1796,7 +1794,7 @@ Remainder: Royal Assent</div>
       <div>12 July 2008</div>
     </td>
     <td>
-      <div>Schedule 1 (item 5): 16 June 2009 ( <i>see</i>s. 2(1))</div>
+      <div>Schedule 1 (item 5): \[ <i>see</i>s. 2(1) and Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -2068,31 +2066,7 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
 </tr>
 <tr>
   <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
+    <div>Ss. 19A–19C</div>
   </td>
   <td>
     <div>ad. No. 122, 2000</div>
@@ -2250,6 +2224,22 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
     <div>ad. No. 7, 2003</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
+
+The following amendment commences on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendment may not commence at all, _see_ section 2(1) (item 2):
+
+## Schedule 1
+
+## 5  At the end of subsection 19B(1)
+
+Add:
+
+             ; and (d)  to which Part 3 of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_ does not apply.
+
+As at 25 July 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
