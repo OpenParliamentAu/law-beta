@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00064/Html/ImmigrationEdu1971_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00382/Html/ImmigrationEdu1971_image001.gif)
 
 # Immigration (Education) Act 1971
 
 **Act No. 3 of 1971 as amended**
 
-This compilation was prepared on 8 January 2009
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (3A)  The **applicable fee limit** in relation to a course that a person enrols in during a financial year starting on or after 1 July 1995 is, subject to subsection (3B), the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00064/Html/ImmigrationEdu1971_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00382/Html/ImmigrationEdu1971_image002.gif)
 
 where:
 
@@ -585,23 +585,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 77, 78): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Immigration (Education) Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
@@ -831,28 +814,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>am. Nos. 110 and 216, 1973</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-The following amendments commence on 1 July 2009:
-
-## Schedule 10
-
-## 77  Section 3
-
-Insert:
-
-                    <a name="child"></a>**_child_** of a person has the same meaning as in the Migration Act.
-
-## 78  Section 3
-
-Insert:
-
-                    <a name="parent"></a>**_parent_** of a person has the same meaning as in the Migration Act.
-
-As at 8 January 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
