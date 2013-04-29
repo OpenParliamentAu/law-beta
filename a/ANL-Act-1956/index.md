@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00393/Html/6736ab66-2f99-44bc-bbe6-619acd24331a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00900/Html/7b3b79d6-8586-472c-9acd-7ab65583c084_files/image001.gif)
 
 # ANL Act 1956
 
 **Act No. 41 of 1956 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force
@@ -64,13 +64,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [50](#50).          Protected body may operate under protected company name
 
+[51](#51).          Protected body may operate under protected business name
+
 [52](#52).          Other persons not to use protected names
 
 [53](#53).          Exceptions for pre‑existing rights
 
 [54](#54).          Use of other names by protected bodies
 
-[55](#55).          Registration on Business Names Register
+[55](#55).          Effect on State and Territory laws
 
 **Part V—Staff matters**
 
@@ -408,6 +410,12 @@ as the Minister directs in writing.
 
                    A protected body whose name is a protected company name may operate under the name in a State or Territory even if the name is not registered in relation to the body under a particular law, or any law, in force in the State or Territory.
 
+##### <a id="51"></a>51  Protected body may operate under protected business name
+
+             (1)  A protected body may operate under a protected business name in a State or Territory even if the name is not registered in relation to the body under a particular law, or any law, in force in the State or Territory.
+
+             (2)  Nothing in this section permits more than one body to operate under the same name at the same time in the same State or Territory.
+
 ##### <a id="52"></a>52  Other persons not to use protected names
 
              (1)  A person other than a protected body shall not:
@@ -450,9 +458,9 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                    This Part does not prevent a protected body from operating in a State or Territory under a name other than a protected name.
 
-##### <a id="55"></a>55  Registration on Business Names Register
+##### <a id="55"></a>55  Effect on State and Territory laws
 
-                   This Part does not prevent a protected body from registering a name on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_.
+                   This Part does not prevent a protected body from registering a name under a law of a State or Territory.
 
 ## Part V—Staff matters
 
@@ -612,8 +620,6 @@ except so far as express provision is made by a law of the Commonwealth, State o
 
 The _ANL Act 1956_ as shown in this compilation comprises Act No. 41, 1956 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedule 1 (item 2) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 14 September 2006 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -659,7 +665,7 @@ of Assent</div>
     <div>30 June 1956</div>
   </td>
   <td>
-    <div>1 Oct 1956 ( <i>see Gazette</i>1956, p. 2917)</div>
+    <div>1 Oct 1956 ( <i>see Gazette</i>1956, p. 2917)</div>
   </td>
   <td>
     <div></div>
@@ -932,7 +938,7 @@ of Assent</div>
     <div>22 Dec 1983</div>
   </td>
   <td>
-    <div>27 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S322)</div>
+    <div>27 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i> 1985, No. S322)</div>
   </td>
   <td>
     <div>—</div>
@@ -1018,10 +1024,9 @@ of Assent</div>
   </td>
   <td>
     <div>Part II (ss. 3–12): 26 Jan 1989 
-Part VI (ss. 
-26–31): 1 Jan 1989 ( <i>see Gazette</i>1988 No. S399) 
+Part VI (ss. 26–31): 1 Jan 1989 ( <i>see Gazette</i>1988 No. S399) 
 Part VII (ss. 
-32–37): 14 Nov 1988 
+32–37): 14 Nov 1988 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1039,7 +1044,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Ss. 6, 7(2), 9 and 11: 1 July 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989 No. S210) 
+    <div>Ss. 6, 7(2), 9 and 11: 1 July 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989 No. S210) 
 S. 7(1): 10 June 1989 <i>(g)</i> 
 S. 7(3): 1 July 1989 
 Remainder: Royal Assent</div>
@@ -1111,7 +1116,7 @@ Remainder: Royal Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 5 (item 18) and Schedule 6 (items 5–11): Royal Assent</div>
+    <div>Schedule 5 (item 18) and Schedule 6 (items 5–11): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 
@@ -1129,7 +1134,7 @@ Remainder: Royal Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2, 3): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 2, 3): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2688,26 +2693,10 @@ _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
 </tr>
 <tr>
   <td>
-    <div>S. 51</div>
+    <div>Ss. 51, 52</div>
   </td>
   <td>
     <div>ad. No. 127, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 127, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 1988</div>
   </td>
 </tr>
 <tr>
@@ -2728,26 +2717,10 @@ _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
 </tr>
 <tr>
   <td>
-    <div>S. 54</div>
+    <div>Ss. 54, 55</div>
   </td>
   <td>
     <div>ad. No. 127, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2926,6 +2899,28 @@ _(i)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     <div>rep. No. 127, 1988</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 2  Section 51
+
+Repeal the section.
+
+## 3  Section 55
+
+Repeal the section, substitute:
+
+##### <a id="55"></a>55  Registration on Business Names Register
+
+                   This Part does not prevent a protected body from registering a name on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_.
+
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
