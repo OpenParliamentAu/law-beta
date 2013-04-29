@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00126/Html/CustomsAdmin1985_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00204/Html/CustomsAdmin1985_WD02_image001.gif)
 
 # Customs Administration Act 1985
 
 **Act No. 38 of 1985 as amended**
 
-This compilation was prepared on 25 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 28 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -520,7 +520,7 @@ Additional requirements concerning classes of information
 
                      (a)  an offence created by a provision in this Act or the regulations; or
 
-                     (b)  an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a).
+                     (b)  an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a).
 
              (2)  If it is necessary to prove the state of mind of a body corporate in relation to particular conduct, it is enough to show that:
 
@@ -1074,26 +1074,6 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 10 (item 17): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1466,7 +1446,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 4, 2010</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
