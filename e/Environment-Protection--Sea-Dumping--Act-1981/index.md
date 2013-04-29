@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00789/Html/7d120d43-d5b6-4578-b3e0-f3b08b0eaa95_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00163/Html/EnvProtSeaDumping81_image001.gif)
 
 # Environment Protection (Sea Dumping) Act 1981
 
 **Act No. 101 of 1981 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4A](#4A).         Application of Act in relation to certain waters that are subject to the Torres Strait Treaty
 
-[4B](#4B).         Application of Act in relation to certain waters that are subject to the Australia‑Indonesia Delimitation Treaty
+[4B](#4B).         Application of Act in relation to certain waters that are subject to the Australia-Indonesia Delimitation Treaty
 
 [5](#5).            Exemption
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Fees
 
-[41](#41).          Regulations
+[41](#41).           Regulations
 
 **Notes** 
 
@@ -158,7 +158,7 @@ and includes anything prescribed by the regulations to be an artificial reef for
 
                             (iii)  the Northern Territory or an authority of the Northern Territory; or
 
-                            (iv)  the Administration of Norfolk Island; or
+                            (iv)  the Administration of Norfolk  Island; or
 
                      (b)  is registered in Australia.
 
@@ -172,7 +172,7 @@ and includes anything prescribed by the regulations to be an artificial reef for
 
                             (iii)  the Northern Territory or an authority of the Northern Territory; or
 
-                            (iv)  the Administration of Norfolk Island; or
+                            (iv)  the Administration of Norfolk  Island; or
 
                      (b)  is registered in Australia or flying the Australian flag.
 
@@ -194,7 +194,7 @@ Note:          Section 4A can affect the scope of the defini
 
                      (a)  in relation to a State—that part of the sea that is included in the coastal waters of the State within the meaning of the _Coastal Waters (State Powers) Act 1980_; or
 
-                     (b)  in relation to the Northern Territory—that part of the sea that is included in the coastal waters of the Territory within the meaning of the _Coastal Waters (Northern Territory Powers) Act 1980_.
+                     (b)  in relation to the Northern   Territory—that part of the sea that is included in the coastal waters of the Territory within the meaning of the _Coastal Waters (__Northern   Territory__Powers) Act 1980_.
 
                     <a name="continent-shelf"></a>**_continental shelf_**, in relation to Australia or to an external Territory, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
 
@@ -240,7 +240,7 @@ Note:          Section 4A can affect the scope of the defini
 
                     <a name="owner"></a>**_owner_**, in relation to a vessel, aircraft or platform, includes:
 
-                     (a)  every person who is a co‑owner of the vessel, aircraft or platform or of any part of, or any share in, the vessel, aircraft or platform; and
+                     (a)  every person who is a co-owner of the vessel, aircraft or platform or of any part of, or any share in, the vessel, aircraft or platform; and
 
                      (b)  every person who has the use or control (whether alone or jointly with another person or other persons) of the vessel, aircraft or platform.
 
@@ -254,7 +254,7 @@ Note:          Section 4A can affect the scope of the defini
 
                      (c)  in relation to a platform—the person in charge of the operations conducted on or from the platform.
 
-                    <a name="platform"></a>**_platform_** includes any man‑made structure at sea, whether floating or fixed to the seabed, but does not include a vessel.
+                    <a name="platform"></a>**_platform_** includes any man-made structure at sea, whether floating or fixed to the seabed, but does not include a vessel.
 
                     <a name="protocol"></a>**_Protocol_** means the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, done at London on 7 July 1996, as amended and in force for Australia from time to time.
 
@@ -284,7 +284,7 @@ Note:          The text of the Treaty is set out in Australian
 
              (5)  For the purposes of this Act, where any controlled material is disposed of from a vessel, an aircraft or a platform into part of the seabed or its subsoil, that controlled material shall be taken to have been disposed of into the sea above that part.
 
-##### <a id="4A"></a>4A  Application of Act in relation to certain waters that are subject to the Torres Strait Treaty
+##### <a id="4A"></a>4A  Application of Act in relation to certain waters that are subject to the Torres  Strait Treaty
 
              (1)  For the purposes of this Act, **_Australian waters_** does not include the top hat area unless a notice is in force under subsection (2).
 
@@ -296,9 +296,9 @@ Note:          The notice can be revoked under subsection 33(3
 
                     <a name="top-hat-area"></a>**_top hat area_** means the area described in Article 4.3 of the Torres Strait Treaty.
 
-##### <a id="4B"></a>4B  Application of Act in relation to certain waters that are subject to the Australia‑Indonesia Delimitation Treaty
+##### <a id="4B"></a>4B  Application of Act in relation to certain waters that are subject to the Australia-Indonesia Delimitation Treaty
 
-             (1)  This section commences to have effect when the Australia‑Indonesia Delimitation Treaty enters into force for Australia.
+             (1)  This section commences to have effect when the Australia-Indonesia Delimitation Treaty enters into force for Australia.
 
              (2)  The Minister must not issue a permit in relation to the overlap area unless:
 
@@ -316,7 +316,7 @@ Note:          The notice can be revoked under subsection 33(3
 
                      (b)  an aircraft other than an Australian aircraft; or
 
-                     (c)  a platform, other than a platform that is subject to Australia’s jurisdiction under paragraph 7(b) or (h) of the Australia‑Indonesia Delimitation Treaty;
+                     (c)  a platform, other than a platform that is subject to Australia’s jurisdiction under paragraph 7(b) or (h) of the Australia-Indonesia Delimitation Treaty;
 
 unless:
 
@@ -332,13 +332,13 @@ Note:          The notice can be revoked under subsection 33(3
 
              (7)  In this section:
 
-                    <a name="australia-indonesia-delimit-treati"></a>**_Australia‑Indonesia Delimitation Treaty_** means the Treaty between the Government of Australia and the Government of the Republic of   Indonesia establishing an Exclusive Economic Zone Boundary and Certain Seabed Boundaries done at Perth on 14 March 1997.
+                    <a name="australia-indonesia-delimit-treati"></a>**_Australia-Indonesia Delimitation Treaty_** means the Treaty between the Government of Australia and the Government of the Republic  of Indonesia establishing an Exclusive Economic Zone Boundary and Certain Seabed Boundaries done at Perth on 14 March 1997.
 
-                    <a name="overlap-area"></a>**_overlap area_** means the overlapping area described in Article 7 of the Australia‑Indonesia Delimitation Treaty.
+                    <a name="overlap-area"></a>**_overlap area_** means the overlapping area described in Article 7 of the Australia-Indonesia Delimitation Treaty.
 
 ##### <a id="5"></a>5  Exemption
 
-                   This Act does not apply in relation to the disposal or storage of controlled material (other than a vessel, aircraft or platform) directly arising from, or related to, the exploration, exploitation and associated off‑shore processing, of seabed mineral resources.
+                   This Act does not apply in relation to the disposal or storage of controlled material (other than a vessel, aircraft or platform) directly arising from, or related to, the exploration, exploitation and associated off-shore processing, of seabed mineral resources.
 
 ##### <a id="6"></a>6  Operation of Act
 
@@ -356,7 +356,7 @@ Note:          The notice can be revoked under subsection 33(3
 
 ##### <a id="8"></a>8  Act to bind the Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island but nothing in this Act renders the Commonwealth, a State, the Northern Territory or the Administration of Norfolk Island liable to be prosecuted for an offence.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island but nothing in this Act renders the Commonwealth, a State, the Northern   Territory or the Administration of Norfolk Island liable to be prosecuted for an offence.
 
              (2)  Subsection (1) does not affect any liability of a person in charge of a vessel, aircraft or platform of which the Commonwealth, a State, the Northern Territory or the Administration of Norfolk Island is the owner to be prosecuted for an offence.
 
@@ -982,7 +982,7 @@ the court must assume, unless the contrary is proved, that the exercise of power
 
              (1)  A prescribed court of a State or Territory may:
 
-                     (a)  upon application by the Attorney‑General or by an interested person, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, an offence against section 10A, 10B, 10C, 10D or 10E; and
+                     (a)  upon application by the Attorney-General or by an interested person, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, an offence against section 10A, 10B, 10C, 10D or 10E; and
 
                      (b)  make any order incidental or supplementary to an order made on an application under paragraph (a), including an order as to costs.
 
@@ -1012,7 +1012,7 @@ the court must assume, unless the contrary is proved, that the exercise of power
 
                      (a)  makes a statement that, to his or her knowledge, is false or misleading in a material particular; or
 
-                     (b)  furnishes to an officer or other person doing duty in relation to this Act a document that, to the knowledge of the first‑mentioned person, contains information that is false or misleading in a material particular;
+                     (b)  furnishes to an officer or other person doing duty in relation to this Act a document that, to the knowledge of the first-mentioned person, contains information that is false or misleading in a material particular;
 
 is guilty of an offence against this subsection punishable, on conviction by imprisonment for a term not exceeding 2 years.
 
@@ -1086,9 +1086,9 @@ is guilty of an offence against this subsection punishable, on conviction, by im
 
                      (b)  that a specified permit contained specified terms;
 
-                   (ba)  that a specified permit was revoked, suspended or varied on a specified day;
+                    (ba)  that a specified permit was revoked, suspended or varied on a specified day;
 
-                   (bb)  that the suspension of a specified permit was cancelled on a specified day;
+                    (bb)  that the suspension of a specified permit was cancelled on a specified day;
 
                      (c)  that specified conditions were imposed in respect of a specified permit;
 
@@ -1146,9 +1146,9 @@ is admissible in any proceeding for an offence against this Act as _prima facie_
 
              (4)  The Minister may, if he or she considers it necessary or desirable to do so, waive or remit the payment of part of any fee payable in respect of an application and, if the Minister does so, the fee prescribed in respect of the application shall, for the purposes of subsection (2), be taken to be reduced by the amount waived or remitted.
 
-##### <a id="41"></a>41  Regulations
+##### <a id="41"></a>41   Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular:
 
                      (a)  providing for the manner of service of notices under this Act; and
 
@@ -1156,7 +1156,7 @@ is admissible in any proceeding for an offence against this Act as _prima facie_
 
              (2)  Regulations under subsection (1) may declare that a specified area of sea on the seaward side of the territorial sea of Australia or the territorial sea of an external Territory is included in Australian waters for the purposes of this Act. 
 
-             (3)  Before the Governor‑General makes a regulation prescribing material for the purposes of paragraph (b) of the definition of **_seriously harmful material_** in subsection 4(1), the Minister must be satisfied that the material is capable of causing serious harm to the marine environment.
+             (3)  Before the Governor-General makes a regulation prescribing material for the purposes of paragraph (b) of the definition of **_seriously harmful material_** in subsection 4(1), the Minister must be satisfied that the material is capable of causing serious harm to the marine environment.
 
              (4)  The Minister may be satisfied that material is capable of causing serious harm to the marine environment even though there is no conclusive evidence to prove a causal relationship between the input of the material into the marine environment and serious harm to the marine environment.
 
@@ -1175,10 +1175,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1321,7 +1321,7 @@ Remainder: Royal Assent</div>
     <div>19 Jan 1995</div>
   </td>
   <td>
-    <div>S. 4(2)–(5)</div>
+    <div>S. 4(2)-(5)</div>
   </td>
 </tr>
 <tr>
@@ -1335,7 +1335,7 @@ Remainder: Royal Assent</div>
     <div>7 July 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 27–35): Royal Assent <i>(b)</i></div>
+    <div>Schedule 1 (items 27-35): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 30)</div>
@@ -1352,7 +1352,7 @@ Remainder: Royal Assent</div>
     <div>16 July 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 38–40): 16 July 2000 <i>(c)</i></div>
+    <div>Schedule 3 (items 38-40): 16 July 2000 <i>(c)</i></div>
   </td>
   <td>
     <div>Sch. 3 (item 40)</div>
@@ -1403,7 +1403,7 @@ Remainder: Royal Assent</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 852, 853): 1 Jan 2007 ( <i>see</i>F2006L04046)</div>
+    <div>Schedule 1 (items 852, 853): 1 Jan 2007 ( <i>see</i>F2006L04046)</div>
   </td>
   <td>
     <div>—</div>
@@ -1420,7 +1420,7 @@ Remainder: Royal Assent</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 25–29): 23 May 2009</div>
+    <div>Schedule 2 (items 25–29): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1437,7 +1437,7 @@ Remainder: Royal Assent</div>
     <div>19 Feb 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (item 8): 20 Feb 2010</div>
+    <div>Schedule 11 (item 8): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1454,27 +1454,10 @@ Remainder: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 48): Royal Assent</div>
+    <div>Schedule 5 (item 48): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 563–565) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1482,7 +1465,7 @@ _(a)_     The _Arts, Territories and Environment Legislation Amendment A
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(b)_     The _Environment Protection (Sea Dumping) Act 1981_ was amended by Schedule 1 (items 27–35) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(b)_    The _Environment Protection (Sea Dumping) Act 1981_ was amended by Schedule 1 (items 27-35) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1591,7 +1574,7 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
 </tr>
 <tr>
   <td>
-    <div>Ss. 9A–9C</div>
+    <div>Ss. 9A-9C</div>
   </td>
   <td>
     <div>ad. No. 141, 1986</div>
@@ -1647,7 +1630,7 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
 </tr>
 <tr>
   <td>
-    <div>Ss. 10A–10F</div>
+    <div>Ss. 10A-10F</div>
   </td>
   <td>
     <div>ad. No. 107, 2000</div>
@@ -2062,36 +2045,13 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 563  Subsection 4(1) (paragraph (c) of the definition of _Australian waters_)
-
-Omit “, within the meaning of the _Seas and Submerged Lands Act 1973_,”.
-
-## 564  Subsection 4(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 565  Subsection 4(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-As at 27 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Environment Protection (Sea Dumping) Amendment Act 1993 
- (No. 16, 1994)_
+_Environment Protection (Sea Dumping) Amendment Act 1993 (No. 16, 1994)_
 
-##### <a id="4"></a>4  Declaration by Minister in relation to coastal waters of a State etc.
+## 4  Declaration by Minister in relation to coastal waters of a State etc.
 
              (2)  Subsections (3), (4) and (5) apply to a declaration in relation to a State or the Northern Territory in force under section 9 of the Principal Act immediately before the commencement of this section.
 
@@ -2123,16 +2083,15 @@ _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
 * * *
 
-_Environment and Heritage Legislation Amendment Act 2000 
- (No. 107, 2000)_
+_Environment and Heritage Legislation Amendment Act 2000 (No. 107, 2000)_
 
-##### <a id="4"></a>4  Transitional—continuation of existing permits
+## 4  Transitional—continuation of existing permits
 
                    A permit in force immediately before the commencement of this Act under section 19 of the _Environment Protection (Sea Dumping) Act 1981_ continues in effect as if it had been issued under that Act, as amended by this Act.
 
-##### <a id="5"></a>5  Regulations
+## 5  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2140,20 +2099,6 @@ _Environment and Heritage Legislation Amendment Act 2000
 
              (2)  In particular, regulations may be made for matters of a transitional or saving nature arising from the amendments made by this Act.
 
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+ 
 
  
