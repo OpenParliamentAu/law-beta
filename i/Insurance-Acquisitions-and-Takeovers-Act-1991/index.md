@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00081/Html/InsAcqisTakeovers1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00421/Html/InsAcqisTakeovers1991_WD02HYP_image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -18,165 +18,165 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects of Act and simplified outline of Act                                      1
+[3](#3).            Objects of Act and simplified outline of Act
 
-[4](#4).            Interpretation                                                                                       2
+[4](#4).            Interpretation
 
-[5](#5).            What is contrary to the public interest                                                8
+[5](#5).            What is contrary to the public interest
 
-[6](#6).            Entering into an agreement or arrangement                                          9
+[6](#6).            Entering into an agreement or arrangement
 
-[7](#7).            Associates                                                                                            9
+[7](#7).            Associates
 
-[8](#8).            Proposals to acquire shares or assets                                                10
+[8](#8).            Proposals to acquire shares or assets
 
-[9](#9).            Meaning of _entitled to acquire_                                                           11
+[9](#9).            Meaning of _entitled to acquire_
 
-[10](#10).          Meaning of _interest in an asset_                                                          11
+[10](#10).          Meaning of _interest in an asset_
 
-[11](#11).          Meaning of _interest in a share_                                                           12
+[11](#11).          Meaning of _interest in a share_
 
-[12](#12).          Certain interests in shares to be disregarded                                      13
+[12](#12).          Certain interests in shares to be disregarded
 
-[13](#13).          Voting power                                                                                     13
+[13](#13).          Voting power
 
-[14](#14).          Associate-inclusive control interest in a company                            14
+[14](#14).          Associate-inclusive control interest in a company
 
-[15](#15).          Direct control interests in a company                                               14
+[15](#15).          Direct control interests in a company
 
-[16](#16).          Power to appoint director                                                                 15
+[16](#16).          Power to appoint director
 
-[17](#17).          Deemed notices—options                                                                 16
+[17](#17).          Deemed notices—options
 
-[18](#18).          Application of Act                                                                            16
+[18](#18).          Application of Act
 
-[19](#19).          Severability                                                                                        16
+[19](#19).          Severability
 
 **Part 3—Control of acquisition or leasing of assets of Australian-registered insurance companies** 
 
     **Division 1—Interpretation**
 
-[35](#35).          Interpretation                                                                                     17
+[35](#35).          Interpretation
 
-[36](#36).          Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian-registered insurance companies                                                                                                           17
+[36](#36).          Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian-registered insurance companies
 
-[37](#37).          When trigger proposal carried out                                                     20
+[37](#37).          When trigger proposal carried out
 
     **Division 2—Notification**
 
-[38](#38).          Compulsory notification of trigger proposal                                     21
+[38](#38).          Compulsory notification of trigger proposal
 
-[40](#40).          Trigger proposal must not be carried out before a go-ahead decision is given         21
+[40](#40).          Trigger proposal must not be carried out before a go-ahead decision is given
 
     **Division 3—Go-ahead decisions**
 
-[41](#41).          Unconditional or conditional go-ahead decision                                23
+[41](#41).          Unconditional or conditional go-ahead decision
 
     **Division 4—Permanent restraining orders and divestment orders**
 
-[43](#43).          Permanent restraining order                                                               24
+[43](#43).          Permanent restraining order
 
-[44](#44).          Divestment order                                                                               24
+[44](#44).          Divestment order
 
-[45](#45).          Offence of contravening permanent restraining order or divestment order              25
+[45](#45).          Offence of contravening permanent restraining order or divestment order
 
-[46](#46).          Publication of orders                                                                          25
+[46](#46).          Publication of orders
 
-[47](#47).          When orders come into operation                                                      25
+[47](#47).          When orders come into operation
 
-[48](#48).          Revocation of orders                                                                          26
+[48](#48).          Revocation of orders
 
 **Part 4—Control of agreements relating to the directorate of Australian-registered insurance companies** 
 
     **Division 1—Interpretation**
 
-[49](#49).          Interpretation                                                                                     27
+[49](#49).          Interpretation
 
-[50](#50).          Meaning of _trigger proposal_—agreements relating to the directorate of Australian-registered insurance companies                                                                                                           27
+[50](#50).          Meaning of _trigger proposal_—agreements relating to the directorate of Australian-registered insurance companies
 
-[51](#51).          When trigger proposal carried out                                                     28
+[51](#51).          When trigger proposal carried out
 
     **Division 2—Notification**
 
-[52](#52).          Compulsory notification of trigger proposal                                     29
+[52](#52).          Compulsory notification of trigger proposal
 
-[54](#54).          Trigger proposal must not be carried out before a go-ahead decision is given         29
+[54](#54).          Trigger proposal must not be carried out before a go-ahead decision is given
 
     **Division 3—Go-ahead decisions**
 
-[55](#55).          Unconditional or conditional go-ahead decision                                31
+[55](#55).          Unconditional or conditional go-ahead decision
 
     **Division 4—Permanent restraining orders and divestment orders**
 
-[57](#57).          Permanent restraining order                                                               32
+[57](#57).          Permanent restraining order
 
-[58](#58).          Divestment order                                                                               32
+[58](#58).          Divestment order
 
-[59](#59).          Offence of contravening permanent restraining order or divestment order              33
+[59](#59).          Offence of contravening permanent restraining order or divestment order
 
-[60](#60).          Publication of orders                                                                          33
+[60](#60).          Publication of orders
 
-[61](#61).          When orders come into operation                                                      33
+[61](#61).          When orders come into operation
 
-[62](#62).          Revocation of orders                                                                          33
+[62](#62).          Revocation of orders
 
 **Part 5—Judicial enforcement of Ministerial orders**
 
-[63](#63).          Federal Court may enforce Ministerial orders                                   34
+[63](#63).          Federal Court may enforce Ministerial orders
 
 **Part 6—Anti-avoidance**
 
-[64](#64).          Anti-avoidance                                                                                   36
+[64](#64).          Anti-avoidance
 
 **Part 7—Decision-making principles**
 
-[65](#65).          Decision-making principles                                                               37
+[65](#65).          Decision-making principles
 
 **Part 8—Review of decisions**
 
-[66](#66).          Reconsideration of reviewable decision                                             38
+[66](#66).          Reconsideration of reviewable decision
 
-[67](#67).          Review of decisions by Administrative Appeals Tribunal               38
+[67](#67).          Review of decisions by Administrative Appeals Tribunal
 
-[68](#68).          Statements to accompany notification of decisions                          39
+[68](#68).          Statements to accompany notification of decisions
 
 **Part 9—Miscellaneous**
 
-[69](#69).          Delegation                                                                                          41
+[69](#69).          Delegation
 
-[70](#70).          Concurrent operation of State/Territory laws                                   41
+[70](#70).          Concurrent operation of State/Territory laws
 
-[71](#71).          Validity of acts done in contravention of this Act                            41
+[71](#71).          Validity of acts done in contravention of this Act
 
-[72](#72).          Minister’s consent for criminal proceedings                                     41
+[72](#72).          Minister’s consent for criminal proceedings
 
-[73](#73).          Minister may obtain information and documents                             41
+[73](#73).          Minister may obtain information and documents
 
-[75](#75).          APRA Act secrecy provisions apply                                               43
+[75](#75).          APRA Act secrecy provisions apply
 
-[76](#76).          Conduct by directors, servants and agents                                        43
+[76](#76).          Conduct by directors, servants and agents
 
-[77](#77).          Company’s financial statements to be prima facie evidence of value of its assets  45
+[77](#77).          Company’s financial statements to be prima facie evidence of value of its assets
 
-[78](#78).          Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance                                                                                            45
+[78](#78).          Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance
 
-[79](#79).          Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision                                                                                 46
+[79](#79).          Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision
 
-[80](#80).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other     47
+[80](#80).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other
 
-[81](#81).          Transitional—pre-commencement acquisitions etc                           47
+[81](#81).          Transitional—pre-commencement acquisitions etc 
 
-[82](#82).          Regulations                                                                                        47
+[82](#82).          Regulations
 
 **Part 10—Consequential amendments**
 
-[83](#83).          Consequential amendments                                                               49
+[83](#83).          Consequential amendments
 
 **Schedule—Consequential amendments** 
 
@@ -244,7 +244,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in relation to a company authorised under the _Insurance Act 1973_ to carry on insurance business—the company’s financial year (within the meaning of that Act); or
 
-                     (b)  in relation to a company registered under section 21 of the _Life Insurance Act 1995_—the company’s financial year (within the meaning of that Act).
+                     (b)  in relation to a company registered under the _Life Insurance Act 1995_—the company’s financial year (within the meaning of that Act).
 
                     <a name="acquisit"></a>**_acquisition_** includes an agreement to acquire, but does not include:
 
@@ -272,7 +272,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business; or
 
-                     (b)  a company registered under section 21 of the _Life Insurance Act 1995_;
+                     (b)  a company registered under the _Life Insurance Act 1995_;
 
 but does not include:
 
@@ -298,7 +298,7 @@ but does not include:
 
                               (i)  was authorised under the _Insurance Act 1973_ to carry on insurance business; or
 
-                             (ii)  was registered under section 21 of the _Life Insurance Act 1995_;
+                             (ii)  was registered under the _Life Insurance Act 1995_;
 
                             at the end of the last accounting period of the company before that time—the value of the asset as at the end of that accounting period; or
 
@@ -376,7 +376,7 @@ but does not include:
 
                      (a)  the person’s spouse; or
 
-                     (b)  the person’s de facto partner within the meaning of the _Acts Interpretation Act 1901_; or
+                     (b)  the person’s de facto partner within the meaning of the _Acts Interpretation Act 1901_; or
 
                      (c)  a parent or remoter lineal ancestor of the person; or
 
@@ -396,7 +396,7 @@ Note:          See also subsection (2).
 
                     <a name="total-book-net-liabil"></a>**_total book net liabilities_**, in relation to a company’s contracts of life insurance, in relation to a particular date, means:
 
-                     (a)  if the company was registered under section 21 of the _Life Insurance Act 1995_ at the end of the last accounting period of the company before that date—the total net liabilities in respect of all of the company’s contracts of life insurance as at the end of that accounting period; or
+                     (a)  if the company was registered under the _Life Insurance Act 1995_ at the end of the last accounting period of the company before that date—the total net liabilities in respect of all of the company’s contracts of life insurance as at the end of that accounting period; or
 
                      (b)  in any other case—the total net liabilities in respect of all of the company’s contracts of life insurance as at that date.
 
@@ -632,7 +632,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00081/Html/InsAcqisTakeovers1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00421/Html/InsAcqisTakeovers1991_WD02HYP_image002.gif)
 
 where:
 
@@ -730,7 +730,7 @@ where:
 
                               (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian-registered insurance company under one or more contracts of life insurance where the company is the insurer;
 
-                             (ii)  the company is registered under section 21 of the _Life Insurance Act 1995_;
+                             (ii)  the company is registered under the _Life Insurance Act 1995_;
 
                             (iii)  the sum of:
 
@@ -904,7 +904,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 ### Division 1—Interpretation
 
-##### <a id="49"></a>49  Interpretation
+##### <a id="49"></a>49  Interpretation
 
                    In this Part:
 
@@ -1226,7 +1226,7 @@ request the Minister to reconsider the decision.
 
                    An act is not invalidated by the fact that it constitutes an offence against this Act.
 
-##### <a id="72"></a>72  Minister’s consent for criminal proceedings
+##### <a id="72"></a>72  Minister’s consent for criminal proceedings
 
                    Proceedings for an offence against, or arising out of, this Act must not be instituted without the written consent of the Minister.
 
@@ -1320,7 +1320,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (1)  This section applies if:
 
-                     (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business, or a company registered under section 21 of the _Life Insurance Act 1995_, had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
+                     (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business, or a company registered under the _Life Insurance Act 1995_, had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
 
                      (b)  an amount is shown in those statements as the value of an asset of the company as at the end of the accounting period.
 
@@ -1334,7 +1334,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (1)  This section applies if:
 
-                     (a)  a company registered under section 21 of the _Life Insurance Act 1995_ had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
+                     (a)  a company registered under the _Life Insurance Act 1995_ had, under the _Financial Sector (Collection of Data) Act 2001_, given to APRA copies of financial statements for, or as at the end of, a particular accounting period; and
 
                      (b)  an amount is shown in those statements as the total net liabilities in respect of all of the company’s contracts of life insurance as at the end of the accounting period.
 
@@ -1545,7 +1545,7 @@ of Assent</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419)</div>
+    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr>
 <tr>
@@ -1647,7 +1647,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (item 218): 16 May 2005</div>
+    <div>Schedule 1 (item 218): 16 May 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1664,7 +1664,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 4 (items 41, 42): Royal Assent</div>
+    <div>Schedule 4 (items 41, 42): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1681,10 +1681,10 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 14 (items 112–119): 10 Dec 2008</div>
+    <div>Schedule 14 (items 112–119): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 14 (item 119)</div>
+    <div>Sch. 14 (item 119)</div>
   </td>
 </tr>
 <tr>
@@ -1698,7 +1698,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 209–214): 27 Feb 2010</div>
+    <div>Schedule 1 (items 209–214): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1790,7 +1790,8 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 <tr>
   <td>
     <div>
-      5\. Schedules 5 to 9
+      5\. Schedules 
+      5 to 9
     </div>
   </td>
   <td>
@@ -1857,7 +1858,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002; No. 144, 2008; No. 75, 2009</div>
+    <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2065,7 +2066,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 5, 1995; No. 75, 2009</div>
+    <div>am. No. 5, 1995</div>
   </td>
 </tr>
 <tr>
@@ -2441,12 +2442,12 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 54, 1998; No. 154, 2007</div>
+    <div>am. No. 54, 1998; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 8</b></div>
+    <div><b>Part 8</b></div>
   </td>
   <td>
     <div></div>
@@ -2457,7 +2458,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 38, 2005</div>
+    <div>am. No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2574,14 +2575,6 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 75, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 78</div>
   </td>
   <td>
@@ -2614,14 +2607,6 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 75, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 79</div>
   </td>
   <td>
@@ -2644,6 +2629,40 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>am. No. 54, 1998</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendments commence on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 209  Subsection 4(1) (paragraph (b) of the definition of _accounting period_)
+
+After “under”, insert “section 21 of”.
+
+## 210  Subsection 4(1) (paragraph (b) of the definition of _Australian-registered insurance company_)
+
+After “under”, insert “section 21 of”.
+
+## 211  Subsection 4(1) (subparagraph (a)(ii) of the definition of _book value_)
+
+After “under”, insert “section 21 of”.
+
+## 212  Subsection 4(1) (paragraph (a) of the definition of _total book net liabilities_)
+
+After “under”, insert “section 21 of”.
+
+## 213  Subparagraph 36(c)(ii)
+
+After “under”, insert “section 21 of”.
+
+## 214  Paragraphs 77(1)(a) and 78(1)(a)
+
+After “registered under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
