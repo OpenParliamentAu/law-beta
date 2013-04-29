@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 27 of 2009
+This compilation was prepared on 10 December 2008
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Withdrawal of account balance—individual not an Australian resident
 
-[67A](#67A).       Withdrawal of account balance—former temporary resident
+[67A](#67A).       Withdrawal of account balance—permanent departure from Australia
 
     **Division 6—Withdrawals of account balances after death**
 
@@ -425,8 +425,6 @@ Note:          The Schedule extends the ordinary meaning of **
                     <a name="employ"></a><a name="employe"></a><a name="employ"></a>**_employment_** has a meaning corresponding to **_employee_** and **_employer_**.
 
                     <a name="govern-co-contribut"></a>**_Government co-contribution_** in respect of an individual means a Government co-contribution payable in respect of the individual under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_.
-
-                    <a name="australia"></a><a name="leav"></a>**_leave_****_Australia_** has the same meaning as in the _Migration Act 1958_.
 
                     <a name="person"></a>**_person_** has a meaning affected by sections 87 and 90.
 
@@ -698,13 +696,17 @@ Australian resident for income tax purposes and:</li>
 
                (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia.
 
-_Former temporary resident_
+_Permanent departure from Australia_
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount
 
 standing to the credit of an individual’s account may be debited from the
 
-Special Account if the individual is a former temporary resident.</li>
+Special Account if:</li>
+
+               (a)     the individual was the holder of an eligible temporary residents visa that has expired or been cancelled; and
+
+               (b)     the individual has permanently departed from Australia.
 
 _Death of individual_
 
@@ -1200,9 +1202,9 @@ crediting the net interest amount to the Special Account.</li>
 
 Pool is to be kept within the Special Account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unallocated interest is represented
+<li class="BoxList" style="margin-left:21.25pt">•      Unallocated interest is
 
-by the balance of the Unallocated Interest Pool.</li>
+represented by the balance of the Unallocated Interest Pool.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In special cases, the
 
@@ -1330,7 +1332,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image002.gif)
 
 where:
 
@@ -1354,7 +1356,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image003.gif)
 
 where:
 
@@ -1426,9 +1428,9 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image004.gif)
 
-                            where:
+                            where:
 
                     <a name="alloc-rate"></a>**_Allocation rate_** means the allocation rate for the quarter; and
 
@@ -1440,7 +1442,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1454,7 +1456,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1570,9 +1572,9 @@ Credit to Unallocated Interest Pool
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of
+<li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of withdrawals
 
-withdrawals of account balances: </li>
+of account balances: </li>
 
                (a)     transfers of account balances to superannuation funds or RSAs; 
 
@@ -1598,9 +1600,9 @@ individual’s account will be frozen. </li>
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account will
+<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account
 
-be frozen for 14 days after a deposit is credited to the account. </li>
+will be frozen for 14 days after a deposit is credited to the account. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The delay gives the
 
@@ -1788,7 +1790,7 @@ Definitions
 
 ### Division 5—Direct withdrawals of account balances by individuals
 
-##### <a id="62"></a>62  Simplified outline
+##### <a id="62"></a>62  Simplified outline
 
                    The following is a simplified outline of this Division: 
 
@@ -1804,9 +1806,9 @@ individual’s account may be withdrawn if: </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
-individual’s account may be withdrawn if the individual is in receipt of Commonwealth
+individual’s account may be withdrawn if the individual is in receipt of
 
-income support payments for a sufficient period.</li>
+Commonwealth income support payments for a sufficient period.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
@@ -1828,11 +1830,13 @@ old and is not an Australian resident for income tax purposes and: </li>
 
                (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia. 
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
+<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      The
 
-individual’s account may be withdrawn if the individual is a former temporary
+balance of an individual’s account may be withdrawn if:</li>
 
-resident.</li>
+               (a)     the individual was the holder of an eligible temporary residents visa that has expired or been cancelled; and
+
+               (b)     the individual has permanently departed from Australia.
 
 * * *
 
@@ -2052,7 +2056,7 @@ Definition
 
                     <a name="australia"></a>**_Australia_** has the same meaning as in the _Income Tax Assessment Act 1936_.
 
-##### <a id="67A"></a>67A  Withdrawal of account balance—former temporary resident
+##### <a id="67A"></a>67A  Withdrawal of account balance—permanent departure from Australia
 
 Withdrawal request
 
@@ -2060,17 +2064,11 @@ Withdrawal request
 
                      (a)  the individual gives the Commissioner of Taxation a request (the **_withdrawal request_**) for the withdrawal of the account balance; and
 
-                     (b)  the individual satisfies the Commissioner of Taxation that before, on or after the commencement of this section, the individual:
+                     (b)  the individual satisfies the Commissioner of Taxation that:
 
-                              (i)  was, under the _Migration Act 1958_, the holder of a temporary visa that has ceased to be in effect; and
+                              (i)  the individual was the holder of an eligible temporary residents visa that has expired or been cancelled; and
 
-                             (ii)  left Australia after starting to be the holder of the visa (whether the visa ceased to be in effect before, when or after the person left); and
-
-                     (c)  the individual satisfies the Commissioner of Taxation that the individual:
-
-                              (i)  is not, under the _Migration Act 1958_, the holder of a permanent visa; and
-
-                             (ii)  is neither an Australian citizen nor a New Zealand citizen.
+                             (ii)  the individual has permanently departed from Australia.
 
 Form of withdrawal request
 
@@ -2091,6 +2089,12 @@ Special Account to be debited
 Individual’s account to be debited
 
              (5)  When the payment is made, the individual’s account is debited by the amount of the payment.
+
+Definitions
+
+             (6)  In this section:
+
+                    <a name="elig-temporari-resid-visa"></a>**_eligible temporary residents visa_** has the same meaning as in the _Superannuation Industry (Supervision) Regulations 1994_.
 
 ### Division 6—Withdrawals of account balances after death
 
@@ -2380,9 +2384,9 @@ Note:          This means that an individual’s tax file number
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person who is
 
-dissatisfied with a reviewable decision of the Commissioner of Taxation may seek
+dissatisfied with a reviewable decision of the Commissioner of Taxation may
 
-a reconsideration of the decision. </li>
+seek a reconsideration of the decision. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person who is
 
@@ -2987,23 +2991,6 @@ of Assent</div>
   <td>
     <div>Sch. 4 (item 5)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
-  </td>
-  <td>
-    <div>27, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 53–57): 27 Mar 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Small Superannuation Accounts Act 1995_ was amended by Schedule 2 (item 97) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
@@ -3171,7 +3158,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009</div>
+    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3340,14 +3327,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3723,7 +3702,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 62</div>
   </td>
   <td>
-    <div>am. No. 96, 1999; No. 15, 2002; No. 27, 2009</div>
+    <div>am. No. 96, 1999; No. 15, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3824,14 +3803,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 67A</div>
-  </td>
-  <td>
-    <div>am. No. 27, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subhead. to s. 67A(5)</div>
   </td>
   <td>
@@ -3843,15 +3814,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 67A</div>
   </td>
   <td>
-    <div>ad. No. 15, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 27, 2009</div>
+    <div>ad. No. 15, 2002; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3936,7 +3899,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 76(2)</div>
+    <div>Heading to s. 76(2)</div>
   </td>
   <td>
     <div>am. No. 48, 1998</div>
@@ -4008,7 +3971,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Ss. 91B, 91C</div>
+    <div>Ss. 91B, –91C</div>
   </td>
   <td>
     <div>ad. No. 111, 2003</div>
