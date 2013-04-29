@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00277/Html/CustTariff95Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00018/Html/CustTariff95Vol1_WD02_image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 1 January 2010
+ taking into account amendments up to Act No. 128 of 2009
 
 **Volume 1** includes:       Table of Contents
          User’s guide
@@ -149,7 +149,7 @@ The operation of the Act
 
                    To work out the duty payable on particular goods reference must be made to a Principal Tariff that is set out in Schedule 3\. This tariff classifies goods in accordance with Australia’s international obligations as a party to the World Trade Organization Agreement.
 
-Note:          The text of the Agreement is set out in Australian Treaty Series 1995 No. 8\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note:          The text of the Agreement is set out in Australian Treaty Series 1995 No. 8\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
                    The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3\. However, the rate of duty for US originating goods is determined under Schedule 5, the rate of duty for Thai originating goods is determined under Schedule 6, the rate of duty for Chilean originating goods is determined under Schedule 7 and the rate of duty for ASEAN-Australia-New Zealand (AANZ) originating goods is determined under Schedule 8.
 
@@ -343,7 +343,7 @@ The organisation of the Act
 
 Note 1:       The text in Schedule 3 is based on the wording in the Harmonized Commodity Description and Coding System that is referred to in the International Convention on the Harmonized Commodity Description and Coding System done at Brussels on 14 June 1983.
 
-Note 2:       The text of the Convention is set out in Australian Treaty Series 1988 No. 30\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note 2:       The text of the Convention is set out in Australian Treaty Series 1988 No. 30\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
 ##### <a id="8"></a>8  Application of Schedule 4
 
