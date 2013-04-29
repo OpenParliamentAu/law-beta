@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00022/Html/72b304e7-366b-4553-aa38-ba84300d0148_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00110/Html/2dd7f3e6-d181-46ea-aac5-4d5387fac784_files/image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 8 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -225,7 +226,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Disability Discrimination Act 1992_.
+                   This Act may be cited as the Disability Discrimination Act 1992.
 
 ##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
@@ -444,8 +445,6 @@ Note:          Section 7 (associates) and section 8 (carer
                      (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control.
 
                     <a name="reason-adjust"></a><a name="reason-adjust"></a>**_reasonable adjustment_**: an adjustment to be made by a person is a **_reasonable adjustment_** unless making the adjustment would impose an unjustifiable hardship on the person.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
 
@@ -1041,9 +1040,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (b)  the provision of accommodation if:
 
-                              (i)  the accommodation is provided by a registered charity, or by a voluntary body that is not a charity; and
-
-                            (ia)  the accommodation is provided solely for persons who have a particular disability; and
+                              (i)  the accommodation is provided by a charitable or other voluntary body solely for persons who have a particular disability; and
 
                              (ii)  the person discriminated against does not have that particular disability.
 
@@ -1425,13 +1422,7 @@ Note:          For discrimination in relation to an assistance
 
              (1)  This Part does not:
 
-                     (a)  affect a provision of the governing rules (within the meaning of the _Australian Charities and Not‑for‑profits Commission Act 2012_) of a registered charity, if the provision:
-
-                              (i)  confers charitable benefits; or
-
-                             (ii)  enables charitable benefits to be conferred;
-
-                            wholly or in part on persons who have a disability or a particular disability; or
+                     (a)  affect a provision in a charitable instrument that confers charitable benefits, or enables charitable benefits to be conferred, wholly or in part on persons who have a disability or a particular disability; or
 
                      (b)  render unlawful any act done to give effect to such provision.
 
@@ -1440,6 +1431,8 @@ Note:          For discrimination in relation to an assistance
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
                     <a name="charit-benefit"></a>**_charitable benefits_** means benefits for purposes that are exclusively charitable according to the law in force in any part of Australia.
+
+                    <a name="charit-instrum"></a>**_charitable instrument_** means a deed, will or other document, whether made before or after the commencement of this Act, that confers charitable benefits or enables charitable benefits to be conferred on persons.
 
 ##### <a id="51"></a>51  Pensions and allowances
 
@@ -1693,7 +1686,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (2)  Subsection 4K(2) of the _Crimes Act 1914_ does not apply to this section.
+             (2)  Subsection 4K (2) of the _Crimes Act 1914_ does not apply to this section.
 
 ## Part 6—Disability Discrimination Commissioner
 
@@ -2243,7 +2236,7 @@ No. S328)</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2438,23 +2431,6 @@ Schedule 2 (items 103–105): 8 Jan 2010</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 173–176): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2842,7 +2818,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; Nos. 54 and 70, 2009; No. 46, 2011; No. 169, 2012</div>
+    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; Nos. 54 and 70, 2009; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2967,55 +2943,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009; No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
+    <div>Ss. 23–29</div>
   </td>
   <td>
     <div>am. No. 70, 2009</div>
@@ -3084,14 +3012,6 @@ of Part 2</div>
   </td>
   <td>
     <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -3204,14 +3124,6 @@ of Part 2</div>
   </td>
   <td>
     <div>ad. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
   </td>
 </tr>
 <tr>
