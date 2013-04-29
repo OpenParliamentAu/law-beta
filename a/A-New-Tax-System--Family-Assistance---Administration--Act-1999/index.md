@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 10 January 2013
+This compilation was prepared on 18 December 2012
  taking into account amendments up to Act No. 169 of 2012
 
 The text of any of those amendments not in force
@@ -2106,7 +2106,7 @@ Exemption from tax file number requirement
 
                              (ii)  the determination time is before the end of the income year following the one in which the variation mentioned in that subsection took effect.
 
-##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
+##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
 
 Restriction where previous claim or instalment determination
 
@@ -2422,7 +2422,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
 
 where:
 
@@ -2476,7 +2476,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
 
 where:
 
@@ -4362,7 +4362,7 @@ is not required to lodge an income tax return for the relevant income year.
 
                      (b)  the individual has made an effective request under section 34 for a family tax benefit advance; and
 
-                     (c)  on the advance assessment day, the individual’s Part A rate (disregarding clauses 5 and 25A of Schedule 1 to the Family Assistance Act) is equal to or exceeds the amount that would, under clause 26 of that Schedule, be the FTB child rate if:
+                     (c)  on the advance assessment day, the individual’s Part A rate (disregarding clauses 5 and 25A of Schedule 1 to the Family Assistance Act) is equal to or exceeds the amount that would, under clause 26 of that Schedule, be the FTB child rate for an FTB child who had not turned 18 if:
 
                               (i)  the individual’s Part A rate were required to be worked out using Part 3 of that Schedule; and
 
@@ -4929,7 +4929,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5035,7 +5035,7 @@ the consequence in subsection (3) applies.
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (3).
 
-##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
+##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
 
              (1)  This section applies if:
 
@@ -6429,7 +6429,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
 
 where:
 
@@ -6483,7 +6483,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
 
 where:
 
@@ -10126,7 +10126,7 @@ the amount is a debt due to the Commonwealth by the service immediately before i
 
                    If, under paragraph 200(1)(g), the Secretary requires an approved child care service to remit enrolment advances paid to the service under section 219RA, an amount equal to the advances that the service is required to remit is a debt due to the Commonwealth by the service.
 
-##### <a id="71GB"></a>71GB  Debts arising in respect of business continuity payments paid to service—debt owed by service
+##### <a id="71GB"></a>71GB  Debts arising in respect of business continuity payments paid to service—debt owed by service
 
              (1)  If:
 
@@ -11292,7 +11292,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image004.gif)
 
 where:
 
@@ -11464,7 +11464,7 @@ Note:          To work out when the first individual has satis
 
              (3)  Paragraph (2)(f) does not limit the scope of the review.
 
-##### <a id="105B"></a>105B  Review of instalment determination—taking account of clean energy supplements
+##### <a id="105B"></a>105B  Review of instalment determination—taking account of clean energy supplements
 
              (1)  This section applies if:
 
@@ -14324,4 +14324,11389 @@ Form of application
 
                      (c)  contain any information required by the Secretary; and
 
-                 �
+                     (d)  be accompanied by any documents required by the Secretary; and
+
+                     (e)  in the case where a determination under section 206 is in force—be accompanied by the fee (if any) prescribed by the regulations for the making of applications under subsection (1).
+
+##### <a id="195"></a>195  Approval of child care services
+
+Approval
+
+             (1)  The Secretary must approve a child care service for the purposes of the family assistance law if the Secretary is satisfied that:
+
+                     (a)  an application has been made in accordance with section 194 to have the service approved; and
+
+                     (b)  the service is of the kind stated in the application; and
+
+                   (ba)  if the operator of the service is a large long day care centre operator—the operator is financially viable and is likely to remain so; and
+
+                     (c)  the service satisfies any eligibility rules applicable to the service under paragraph 205(1)(a); and
+
+                     (d)  in the case where the service is covered by a determination in force under section 206—if the service were to be approved, child care places would be allocated to the service under section 207.
+
+          (1A)  For the purpose of paragraph (1)(ba), in determining whether the operator of the child care service is financially viable, and likely to remain so, the Secretary must have regard to any financial information provided under section 219GA in relation to the operator. The Secretary may take into account any other matters he or she considers relevant.
+
+             (3)  If the Secretary approves the service, the Secretary must give the applicant a certificate of approval, stating:
+
+                     (a)  the kind of approved child care service; and
+
+                     (b)  the day from which the approval operates.
+
+             (4)  For the purposes of paragraph (3)(b), the day from which the approval is expressed to operate:
+
+                     (a)  may be a day before the day the Secretary approves the service; but
+
+                     (b)  must not be a day that is earlier than 6 months before the day on which the application for the approval was made.
+
+Refusal
+
+             (5)  The Secretary must refuse to approve a child care service for the purposes of the family assistance law if the Secretary is not satisfied of one or more of the matters referred to in subsection (1).
+
+             (6)  If the Secretary refuses to approve a child care service for the purposes of the family assistance law, the Secretary must give the applicant notice of:
+
+                     (a)  the refusal; and
+
+                     (b)  the reasons for the refusal; and
+
+                     (c)  the applicant’s rights under this Act to seek a review of the refusal decision.
+
+##### <a id="195A"></a>195A  Obligations and permissions of an approved child care service are those of the operator
+
+                   For the purposes of the family assistance law:
+
+                     (a)  when an obligation is imposed by that law on an approved child care service it is taken to be imposed on the person operating the service; and
+
+                     (b)  when a permission is conferred by that law on an approved child care service it is taken to be conferred on the person operating the service.
+
+##### <a id="196"></a>196  Conditions for continued approval—compliance with rules and laws
+
+Eligibility requirements
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service satisfies any eligibility rules that are from time to time applicable to the service under paragraph 205(1)(b).
+
+Compliance with family assistance law
+
+             (2)  It is a condition for the continued approval of an approved child care service that the service not contravene an obligation imposed on the service by the family assistance law (whether or not such a contravention constitutes an offence or is of a civil penalty provision).
+
+Note:          Enforcement under this Division of this and other conditions is not limited or affected by other compliance measures in this Act (for example, infringement notices, proceedings for civil penalty orders and prosecutions).
+
+          (2A)  It is a condition for the continued approval of an approved child care service that the service cooperate with a person exercising powers under sections 219K, 219KA, 219L and 219LA.
+
+          (2B)  It is a condition for the continued approval of an approved child care service that the operator of the service cooperate with a person exercising powers under section 219KA.
+
+Compliance with Commonwealth, State and Territory laws
+
+             (3)  It is a condition for the continued approval of an approved child care service that:
+
+                     (a)  the operation of the service; and
+
+                     (b)  the provision of care by the service; and
+
+                     (c)  the construction of the premises of the service; and
+
+                     (d)  the equipment at the premises of the service;
+
+comply with all applicable requirements imposed by a law of the Commonwealth or a law of the State or Territory in which the service operates.
+
+##### <a id="196A"></a>196A  Conditions for continued approval—financial viability
+
+                   It is a condition for the continued approval of an approved child care service that the operator of the service, if a large long day care centre operator, be likely to remain financially viable.
+
+##### <a id="197"></a>197  Conditions for continued approval—child care places limit not to be exceeded
+
+                   It is a condition for the continued approval of an approved child care service that, if the service is covered by a determination in force under section 206:
+
+                     (a)  child care places are allocated to the service under section 207; and
+
+                     (b)  the service does not provide child care places in excess of the number of any child care places allocated to the service under section 207.
+
+##### <a id="198"></a>198  Conditions for continued approval—compliance with conditions imposed by Minister
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service complies with any instrument in force under this section.
+
+Imposition of other conditions
+
+             (2)  The Minister may, by legislative instrument, impose conditions for the continued approval of a class of approved child care services.
+
+##### <a id="199"></a>199  Conditions for continued approval—compliance with conditions imposed by Secretary
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service complies with any conditions imposed under subsection (2).
+
+             (2)  The Secretary may, by notice to a particular approved child care service, impose conditions for the continued approval of the service.
+
+##### <a id="200"></a>200  Consequences of breach of conditions for continued approval
+
+Sanctions
+
+             (1)  If the Secretary is satisfied that an approved child care service has not complied, or is not complying, with a condition for the continued approval of the service, the Secretary may do one or more of the following:
+
+                     (a)  vary the conditions for the continued approval of the service imposed under subsection 199(2);
+
+                     (b)  impose additional conditions for the continued approval of the service under subsection 199(2);
+
+                     (c)  reduce the number of any child care places allocated to the service under section 207;
+
+                     (d)  suspend the service’s approval;
+
+                     (e)  cancel the service’s approval;
+
+                      (f)  withhold the payment of enrolment advances to the service under section 219RA;
+
+                     (g)  require the remittal to the Secretary of enrolment advances paid to the service under section 219RA;
+
+                     (h)  suspend, for a maximum of 3 weeks, payment under section 219Q or subsection 219QA(2) in respect of fee reduction;
+
+                      (i)  suspend, for a maximum of 3 weeks, payment under section 219QC or subsection 219QD(2) in respect of child care rebate.
+
+Notice of sanction
+
+             (2)  If the Secretary does one or more of the things mentioned in paragraphs (1)(a) to (h), the Secretary must give notice to the service that the Secretary has done so. The notice must specify the day, no earlier than the day on which the notice is given, on which the sanction takes effect.
+
+Revocation of suspension
+
+             (3)  If the Secretary suspends the approval of an approved child service, the Secretary may at any time, by notice to the service, revoke the suspension with effect from the day specified in the notice.
+
+Revocation of enrolment advance withholding
+
+          (3A)  If the Secretary withholds the payment of enrolment advances to the service, the Secretary may at any time, by notice to the service, revoke the withholding with effect from the day specified in the notice.
+
+Revocation of suspension of payment in respect of fee reduction
+
+          (3B)  If the Secretary suspends payment in respect of fee reduction, the Secretary may at any time, by notice to the service revoke the suspension. If the suspension is revoked, all payments under section 219Q or subsection 219QA(2) that would have been paid but for the suspension must be paid.
+
+Revocation of suspension of payment in respect of child care rebate
+
+          (3C)  If the Secretary suspends payment in respect of child care rebate, the Secretary may at any time, by notice to the service revoke the suspension. If the suspension is revoked, all payments under section 219QC or subsection 219QD(2) that would have been paid but for the suspension must be paid.
+
+Secretary to have regard to any Ministerial determination
+
+             (4)  The Secretary must have regard to any determination under subsection (5) in exercising a power under subsection (1) or (3).
+
+Ministerial determination
+
+             (5)  The Minister may, by legislative instrument, determine:
+
+                     (a)  factors to be taken into account by the Secretary in applying subsection (1) to approved child care services; or
+
+                     (b)  factors to be taken into account by the Secretary in specifying the date of effect of a revocation of a suspension under subsection (3).
+
+##### <a id="201"></a>201  Procedure for imposing a sanction
+
+             (1)  Before doing a thing mentioned in paragraphs 200(1)(a) to (i), the Secretary must give a notice to the service concerned that:
+
+                     (a)  states that the Secretary is considering doing the thing; and
+
+                     (b)  sets out the grounds for doing the thing; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the doing of the thing (including the review process provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the service; and
+
+                     (e)  invites the service to make written submissions to the Secretary, within 28 days, stating why the thing should not be done.
+
+             (2)  The Secretary must have regard to any submissions made by the service as mentioned in paragraph (1)(e) in deciding whether to do the thing.
+
+##### <a id="201A"></a>201A  Immediate suspension for certain breaches
+
+             (1)  The Secretary may, by notice given to an approved child care service, suspend the approval of the service if the Secretary reasonably believes that:
+
+                     (a)  the service is not complying with all applicable requirements imposed by a law of the Commonwealth, or of the State or Territory in which the service is situated, relating to child care; or
+
+                     (b)  there is an imminent threat to the health or safety of a child, or children, because of the care provided by the service to the child or children; or
+
+                     (c)  due to urgent circumstances, it is no longer appropriate for the service to provide child care.
+
+             (2)  The Secretary must, in the notice:
+
+                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension is to take effect; and
+
+                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval; and
+
+                     (c)  inform the service of its rights under this Act to seek a review of the decision to suspend the service’s approval.
+
+             (3)  If the Secretary suspends the approval of an approved child care service, the Secretary may at any time, by notice to the service, revoke the suspension with effect from the day specified in the notice.
+
+##### <a id="201B"></a>201B  Publicising sanctions or suspensions
+
+             (1)  If the Secretary:
+
+                     (a)  does one or more of the things mentioned in paragraphs 200(1)(a) to (i); or
+
+                     (b)  suspends the approval of a service under subsection 201A(1);
+
+the Secretary may publicise this in any way the Secretary thinks appropriate.
+
+             (2)  Without limiting subsection (1), the Secretary may publicise information that includes the following:
+
+                     (a)  the name and address of the service;
+
+                     (b)  the name of the operator of the service;
+
+                     (c)  if the information relates to the doing of one or more of the things mentioned in paragraphs 200(1)(a) to (i):
+
+                              (i)  the day when each thing done starts to have effect; and
+
+                             (ii)  the things done; and
+
+                            (iii)  each condition for the continued approval of the service that the service has not complied, or is not complying, with; and
+
+                            (iv)  the day (if any) when each thing done ceases to have effect;
+
+                     (d)  if the information relates to a suspension under subsection 201A(1):
+
+                              (i)  the day when the suspension starts to have effect; and
+
+                             (ii)  the grounds for the suspension; and
+
+                            (iii)  the day (if any) when the suspension ceases to have effect.
+
+##### <a id="202"></a>202  Cancellation
+
+Scope of section
+
+             (1)  This section sets out circumstances, in addition to those in section 200, in which the Secretary may, or must, cancel the approval of an approved child care service.
+
+Cancellation on request
+
+             (2)  The Secretary may cancel an approved child care service’s approval if the service requests the Secretary in writing to do so.
+
+Cancellation if service should not have been approved
+
+             (3)  The Secretary must cancel an approved child care service’s approval if the Secretary is satisfied that the service should not have been approved.
+
+Cancellation if service fails to provide child care for 3 continuous months
+
+             (4)  The Secretary must cancel an approved child care service’s approval if the service fails to provide child care for a continuous period of 3 months, unless the Secretary is satisfied that, because of special circumstances affecting the service, the approval should not be cancelled.
+
+          (4A)  The Secretary must cancel an approved child care service’s approval if the service ceases to be operated by the person on whose application the approval was granted.
+
+Notice to service
+
+             (5)  If the Secretary cancels an approved child care service’s approval under this section, the Secretary must give notice to the service that the Secretary has done so.
+
+Secretary to have regard to any Ministerial determination
+
+             (6)  The Secretary must have regard to any determination under subsection (7) in exercising a power under subsection (2).
+
+Ministerial determination
+
+             (7)  The Minister may, by legislative instrument, determine factors to be taken into account by the Secretary in deciding whether to grant a request under subsection (2).
+
+##### <a id="203"></a>203  Procedure for cancellation
+
+             (1)  Before cancelling an approved child care service’s approval under subsection 202(3) or (4), the Secretary must give a notice to the service that:
+
+                     (a)  states that the Secretary is considering cancelling the service’s approval; and
+
+                     (b)  sets out the grounds on which the cancellation is being considered; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the notice (including the review processes provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the service; and
+
+                     (e)  invites the service to make written submissions to the Secretary, within 28 days, stating why the approval should not be cancelled.
+
+             (2)  The Secretary must have regard to any submissions made by the service as mentioned in paragraph (1)(e) in deciding whether to cancel the approval.
+
+##### <a id="204"></a>204  Notification of matters affecting eligibility for approval
+
+             (1)  If an approved child care service has:
+
+                     (a)  after the service was approved, become aware of any matter existing when the service was approved as a result of which the service should not have been approved; or
+
+                     (b)  become aware of any matter occurring after the service was approved as a result of which a condition for the continued approval of the service has not been complied with;
+
+the service must notify the Secretary in writing of the matter as soon as practicable after becoming aware of it.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  20 penalty units.
+
+##### <a id="204A"></a>204A  Notifying individuals about effect on entitlement to child care benefit of actions by approved child care services
+
+Breach of conditions by approved child care service
+
+             (1)  If the Secretary is satisfied that an approved child care service:
+
+                     (a)  has not complied with a condition for the continued approval of the service; or
+
+                     (b)  is not complying with a condition for the continued approval of the service;
+
+the Secretary may give a notice to an individual whose entitlement to be paid child care benefit may be affected if the Secretary were to suspend or cancel the service’s approval because of the Secretary being so satisfied.
+
+             (2)  A notice under subsection (1) must:
+
+                     (a)  state that the Secretary is satisfied that the service has not complied, or is not complying, with a condition for the continued approval of the service; and
+
+                     (b)  set out the effect on that entitlement if the Secretary were to suspend or cancel the service’s approval because of the Secretary being so satisfied.
+
+A notice under subsection (1) may set out any other information that the Secretary thinks relevant.
+
+Suspension or cancellation of approved child care service’s approval
+
+             (3)  If the Secretary suspends or cancels an approved child care service’s approval, the Secretary may give a notice to an individual whose entitlement to be paid child care benefit may be affected because of the suspension or cancellation.
+
+             (4)  A notice under subsection (3) must:
+
+                     (a)  state that the Secretary has suspended or cancelled the service’s approval; and
+
+                     (b)  set out the effect on that entitlement because of the suspension or cancellation.
+
+A notice under subsection (3) may set out any other information that the Secretary thinks relevant.
+
+Form and manner or way of notice
+
+             (5)  A notice under this section must be in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="205"></a>205  Eligibility rules for child care services
+
+Eligibility rules
+
+             (1)  The Minister may, by legislative instrument, determine:
+
+                     (a)  rules relating to the eligibility of child care services to become approved for the purposes of the family assistance law; and
+
+                     (b)  rules relating to the eligibility of those services to continue to be so approved.
+
+Eligibility rules may deal with who may operate a service and change of operator of a service
+
+             (2)  Without limiting subsection (1), rules made under that subsection may specify requirements:
+
+                     (a)  to be met by the operators and staff of services, including requirements relating to individual suitability to provide child care; and
+
+                     (b)  to be met by the operator of a service if the operation of the service is proposed to be transferred from one operator to another.
+
+Exemption from eligibility rules
+
+             (3)  The Secretary may also determine that one or more of the rules do not apply to:
+
+                     (a)  specified child care services; or
+
+                     (b)  child care services of a specified class or of specified classes.
+
+             (4)  A determination under paragraph (3)(b) is a legislative instrument.
+
+##### <a id="206"></a>206  Guidelines for allocation of child care places to approved child care services
+
+                   The Minister may, by legislative instrument, determine guidelines about the following:
+
+                     (a)  procedures relating to the allocation of child care places to approved child care services;
+
+                     (b)  matters to be taken into account in working out the number (if any) of child care places to be allocated to approved child care services;
+
+                     (c)  the maximum number of places that can be allocated to approved child care services in a specified class;
+
+                     (d)  any other matters to be taken into account in making such an allocation;
+
+                     (e)  procedures relating to the reduction under section 207A of the number of child care places allocated to approved child care services;
+
+                      (f)  matters to be taken into account in working out the number of child care places by which the number of child care places allocated to approved child care services may be reduced under section 207A;
+
+                     (g)  any other matters to be taken into account in reducing, or deciding whether to reduce, under section 207A the number of child care places allocated to approved child care services.
+
+Note:          Guidelines under this section may refer to one or more classes of approved child care services (see subsection 13(3) of the _Legislative Instruments Act 2003_).
+
+##### <a id="207"></a>207  Secretary to allocate child care places
+
+Initial allocation of child care places
+
+             (1)  The Secretary must allocate child care places to an approved child care service covered by a determination in force under section 206\. The Secretary must do so in accordance with the determination.
+
+Additional allocation of child care places
+
+             (2)  If an approved child care service is allocated child care places under subsection (1), the service may apply to the Secretary for an additional allocation of child care places.
+
+             (3)  The application must:
+
+                     (a)  be made in a form and manner required by the Secretary; and
+
+                     (b)  contain any information required by the Secretary; and
+
+                     (c)  be accompanied by any documents required by the Secretary; and
+
+                     (d)  be accompanied by the fee (if any) prescribed by the regulations for the making of applications under subsection (2).
+
+             (4)  The Secretary must, in accordance with the determination under section 206, decide whether or not to grant the application.
+
+             (5)  The Secretary must give the applicant notice of the decision under subsection (4). If the Secretary decides to grant the application, the Secretary must allocate the additional child care places to the applicant.
+
+##### <a id="207A"></a>207A  Reduction of allocation of child care places by unused or unusable places
+
+             (1)  The Secretary may, in accordance with a determination under section 206, reduce the number of child care places allocated to an approved child care service if:
+
+                     (a)  that number exceeds the number of child care places provided by the service; or
+
+                     (b)  that number exceeds the number of child care places that the service is, under a law of a State or Territory, licensed to provide.
+
+The reduction must not be greater than the excess.
+
+             (2)  Before the reduction, the Secretary must (unless subsection (3) applies) give a notice to the service that:
+
+                     (a)  states that the Secretary proposes to make the reduction; and
+
+                     (b)  states the number of places by which the Secretary proposes to reduce the number of places allocated to the service; and
+
+                     (c)  invites the service to make written submissions to the Secretary about the proposed reduction; and
+
+                     (d)  is not inconsistent with a determination under section 206.
+
+             (3)  If the service has informed the Secretary in writing that the number of child care places allocated to the service may be reduced, the Secretary may give the service a notice under subsection (2) before making the reduction.
+
+             (4)  The Secretary must have regard to any submissions made by the service in deciding whether to make the reduction.
+
+             (5)  If the Secretary reduces under this section the number of child care places allocated to an approved child care service, the Secretary must give the service a notice that states:
+
+                     (a)  the number of places by which the number of places allocated to the service is reduced; and
+
+                     (b)  the day on which the reduction takes effect, which must not be earlier than the day on which the notice is given; and
+
+                     (c)  the number of places allocated to the service, taking account of the reduction.
+
+##### <a id="207B"></a>207B  Effect of reduction in allocation of child care places
+
+             (1)  This section explains the effect of a reduction under this Division of the number of child care places allocated to an approved child care service.
+
+Note:          A reduction may be made under section 200 or section 207A.
+
+             (2)  This Division has effect after the reduction as if there had not been allocated to the service the number of places by which the number of places allocated to the service was reduced.
+
+Note:          This affects the operation of paragraph 197(b) for the service. It could also affect the making of allocations of child care places to other approved child care services after the reduction.
+
+### Division 2—Approval as registered carers
+
+##### <a id="209"></a>209  Application for approval as registered carer
+
+Who may apply
+
+             (1)  An individual who provides care, or proposes to provide care, for a child or children may apply to the Secretary to be approved as a registered carer for the purposes of the family assistance law.
+
+Exception—individual operates child care service etc.
+
+             (2)  However, an individual cannot make an application under subsection (1) if the individual:
+
+                     (a)  operates an approved child care service; or
+
+                     (b)  operates a child care service that is receiving financial assistance from the Commonwealth in connection with its operational costs, where the provision of that assistance is administered by the Department; or
+
+                     (c)  provides child care under a contract with an approved family day care service; or
+
+                     (d)  provides child care under a contract with an approved in‑home care service.
+
+Form of application
+
+             (3)  An application under subsection (1) must:
+
+                     (a)  be made in a form and manner; and
+
+                     (b)  contain any information; and
+
+                     (c)  be accompanied by any documents;
+
+required by the Secretary.
+
+##### <a id="210"></a>210  Approval of registered carers
+
+Registration
+
+             (1)  The Secretary must approve an individual as a registered carer for the purposes of the family assistance law if:
+
+                     (a)  the individual has made an application in accordance with section 209; and
+
+                     (b)  the individual either:
+
+                              (i)  meets the age requirement in subsection (2); or
+
+                             (ii)  has a qualification of a kind specified in a determination under subsection (4); and
+
+                     (c)  the Secretary is satisfied that the applicant meets the requirements of section 211.
+
+Age requirement
+
+             (2)  For the purposes of subparagraph (1)(b)(i), an individual meets the age requirement if:
+
+                     (a)  in the case where a determination under subsection (3) is in force—the individual has turned the age specified in the determination; or
+
+                     (b)  in any other case—the individual has turned 18.
+
+             (3)  The Minister may, by legislative instrument, determine that an individual must have turned the age specified in the determination for the individual to be eligible to be approved as a registered carer.
+
+Qualification requirement
+
+             (4)  The Minister may, by legislative instrument, determine that an individual who does not meet the age requirement in subsection (2) must have a qualification of a kind specified in the determination for the individual to be eligible to be approved as a registered carer.
+
+Certificate of approval of registration
+
+             (5)  If the Secretary approves an applicant as a registered carer, the Secretary must give the applicant a certificate of approval.
+
+##### <a id="211"></a>211  Statement that applicant has tax file number
+
+             (1)  An applicant meets the requirements of this section if:
+
+                     (a)  the applicant has a tax file number; and
+
+                     (b)  the application contains a statement to that effect.
+
+             (2)  The Secretary must accept a statement made under paragraph (1)(b) unless the Commissioner of Taxation has informed the Secretary that the applicant does not have a tax file number.
+
+             (3)  This section does not authorise the Secretary:
+
+                     (a)  to require or request a person to quote the person’s tax file number; or
+
+                     (b)  to seek or obtain, in any way, a person’s tax file number; or
+
+                     (c)  to record a person’s tax file number.
+
+             (4)  The Secretary may ask the Commissioner of Taxation to provide information on whether an applicant has a tax file number.
+
+##### <a id="212"></a>212  When approval comes into force
+
+             (1)  An approval of an applicant as a registered carer is taken to have come into force on the later of the following days:
+
+                     (a)  the day on which, in the Secretary’s opinion, the applicant was first eligible to be approved;
+
+                     (b)  the day occurring 12 months before the day on which the application for approval was made.
+
+             (2)  Subject to this Division, an approval remains in force at all times after it came into force.
+
+             (3)  If the Secretary is satisfied that the applicant was not eligible to be approved during a period occurring after the day the applicant’s approval came into force but before the day on which the application was made, the Secretary may determine that the approval is taken not to have been in force during that period.
+
+##### <a id="213"></a>213  Conditions of continued approval
+
+Compliance with child care laws
+
+             (1)  It is a condition for the continued approval of an individual as a registered carer that the provision of care by the individual complies with all applicable requirements imposed by a law of the Commonwealth, or of the State or Territory in which the care is provided, relating to child care.
+
+Conditions imposed by notice on individual
+
+             (2)  The Secretary may, by notice to a particular registered carer, impose other conditions for the continued approval of the carer.
+
+Conditions imposed by Minister
+
+             (3)  The Minister may, by legislative instrument, impose other conditions for the continued approval of individuals as registered carers.
+
+##### <a id="214"></a>214  Consequences of breach of conditions for continued approval
+
+Sanctions
+
+             (1)  If the Secretary is satisfied that a registered carer has not complied, or is not complying, with a condition for the continued approval of the carer, the Secretary may do one or more of the following:
+
+                     (a)  vary the conditions for the continued approval of the carer imposed under subsection 213(2);
+
+                     (b)  impose additional conditions for the continued approval of the carer under subsection 213(2);
+
+                     (c)  suspend the carer’s approval;
+
+                     (d)  cancel the carer’s approval.
+
+Notice of sanction
+
+             (2)  If the Secretary does one or more of the things mentioned in paragraphs (1)(a) to (d), the Secretary must give notice to the registered carer that the Secretary has done so.
+
+Revocation of suspension 
+
+             (3)  If the Secretary suspends the approval of a registered carer, the Secretary may at any time, by notice to the carer, revoke the suspension with effect from the day specified in the notice.
+
+Secretary to have regard to any Ministerial determination
+
+             (4)  The Secretary must have regard to any determination under subsection (5) in exercising a power under subsection (1) or (3).
+
+Ministerial determination
+
+             (5)  The Minister may, by legislative instrument, determine:
+
+                     (a)  factors to be taken into account by the Secretary in applying subsection (1) to registered carers; or
+
+                     (b)  factors to be taken into account by the Secretary in specifying the date of effect of a revocation of a suspension under subsection (3).
+
+##### <a id="215"></a>215  Procedure for imposing a sanction
+
+             (1)  Before doing a thing mentioned in paragraphs 214(1)(a) to (d), the Secretary must give a notice to the registered carer concerned that:
+
+                     (a)  states that the Secretary is considering doing the thing; and
+
+                     (b)  sets out the grounds for doing the thing; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the doing of the thing (including the review process provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the carer; and
+
+                     (e)  invites the carer to make written submissions to the Secretary, within 28 days, stating why the thing should not be done.
+
+             (2)  The Secretary must have regard to any submissions made by the carer as mentioned in paragraph (1)(e) in deciding whether to do the thing.
+
+##### <a id="216"></a>216  Cancellation
+
+Scope of section 
+
+             (1)  This section sets out circumstances, in addition to those in section 214, in which the Secretary must cancel the approval of a registered carer.
+
+Cancellation on request
+
+             (2)  The Secretary must cancel a registered carer’s approval if the carer requests the Secretary in writing to do so.
+
+Cancellation if carer should not have been approved
+
+             (3)  The Secretary must cancel a registered carer’s approval if the Secretary is satisfied that the carer should not have been approved.
+
+Notice to service
+
+             (4)  If the Secretary cancels a registered carer’s approval under this section, the Secretary must give notice to the carer that the Secretary has done so.
+
+##### <a id="217"></a>217  Procedure for cancellation under subsection 216(3)
+
+             (1)  Before cancelling a registered carer’s approval under subsection 216(3), the Secretary must give a notice to the carer that:
+
+                     (a)  states that the Secretary is considering cancelling the carer’s approval; and
+
+                     (b)  sets out the grounds on which the cancellation is being considered; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the notice (including the review processes provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the carer; and
+
+                     (e)  invites the carer to make written submissions to the Secretary, within 28 days, stating why the approval should not be cancelled.
+
+             (2)  The Secretary must have regard to any submissions made by the carer as mentioned in paragraph (1)(e) in deciding whether to cancel the approval.
+
+##### <a id="218"></a>218  Notification of matters affecting eligibility for approval
+
+                   If a registered carer has:
+
+                     (a)  after the carer was approved, become aware of any matter existing when the carer was approved as a result of which the carer should not have been approved; or
+
+                     (b)  become aware of any matter occurring after the carer was approved as a result of which a condition for the continued approval of the carer has not been complied with;
+
+the carer must notify the Secretary in writing of the matter as soon as practicable after becoming aware of it.
+
+                    Penalty:  20 penalty units.
+
+## Part 8A—Obligations, and advances, relating to approved child care services
+
+### Division 1—Obligations relating to approved child care services
+
+#### Subdivision A—Obligations relating to enrolment
+
+##### <a id="219A"></a>219A  Obligation to notify Secretary of enrolment of a child by an individual
+
+             (1)  An approved child care service must notify the Secretary of the enrolment of a child by an individual for care by the service.
+
+             (2)  A child is **_enrolled_** by an individual for care by an approved child care service if the individual enters into an arrangement with the service for the provision of care to the child by the service.
+
+Note:          If 2 individuals each enter into an arrangement for the provision of care to the child by the service, each enrolment will need to be notified to the Secretary.
+
+             (3)  If:
+
+                     (a)  an individual enters into an arrangement for the care of a child by an approved child care service (the **_original arrangement_**); and
+
+                     (b)  the enrolment of the child by the individual for care by the service ceases under section 219AD; and
+
+                     (c)  a session of care is, or sessions of care are, later provided to the child by the service under the original arrangement;
+
+the individual is taken to enter into a new arrangement for the provision of care to the child by the service at the time the session, or the first of the sessions, of care is provided.
+
+Note:          As a result, there will be a new enrolment which will need to be notified to the Secretary.
+
+##### <a id="219AA"></a>219AA  Obligation to notify Secretary of enrolment where approved child care service eligible
+
+             (1)  If an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session or sessions of care provided by the service to a child at risk during a period:
+
+                     (a)  for which the service has given a certificate under subsection 76(2) of that Act; or
+
+                     (b)  during which a determination by the Secretary under subsection 81(4) of that Act in circumstances mentioned in subparagraph 81(4)(b)(ii) of that Act is in effect;
+
+the service must notify the Secretary of the enrolment of the child for care by the service.
+
+             (2)  The child is taken to be **_enrolled_** for care by the service when the session, or the first of the sessions, of care begins.
+
+##### <a id="219AB"></a>219AB  When and how notice to be given
+
+             (1)  A notice under section 219A or 219AA must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  contain any information required by the Secretary.
+
+             (2)  Subject to subsections (3) and (4), the notice must be given no later than:
+
+                     (a)  if the child is enrolled after the day on which the Secretary approves the service—the last day of the week immediately following the first week in which care is provided as a result of the enrolment; or
+
+                     (b)  if the child is enrolled before that day, but after the day from which the approval is expressed to operate—7 days after the day on which the approval is given.
+
+             (3)  If:
+
+                     (a)  a child care service’s approval is suspended at the time a child is enrolled by an individual for care by the service; and
+
+                     (b)  that suspension is later revoked;
+
+the service must give notice of the enrolment under subsection (1) within 7 days after the suspension is revoked.
+
+             (4)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection 219N(1) or (2) for a week (the **_applicable week_**) in respect of one or more enrolments; and
+
+                     (c)  for another enrolment referred to in subsection 219A(1) or 219AA(1), the last day of the period referred to in subsection (2) of this section:
+
+                              (i)  is the last day of the period applicable under subsection 219N(5) in relation to the applicable week; or
+
+                             (ii)  occurs during the initial period;
+
+the notice of the other enrolment must be given no later than:
+
+                     (d)  7 days after the end of the initial period; or
+
+                     (e)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+Example:    A payment is made under section 219RD to an approved child care service for a week starting on the 22nd day of a month. This week is the initial period. Assume no other payments under that section are made to the service.
+
+                   The payment is made because of the service failing to give a report under subsection 219N(1) (in respect of one or more enrolments) for the week starting on the first day of the month. This is the applicable week. Assume the last day for giving the report is the 21st day of the month.
+
+                   For another enrolment, assume the last day for giving notice of the enrolment under subsection (2) of this section is the 21st day of the month or a day occurring in the initial period.
+
+                   The notice in relation to the other enrolment must be given by the end of the week commencing on the 29th day of that month.
+
+##### <a id="219AC"></a>219AC  Failure to notify
+
+Civil penalties
+
+          (1A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give notice under section 219A; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1B)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give notice under section 219AA; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Offences
+
+             (1)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give notice under section 219A; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+                    Penalty:  60 penalty units.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give notice under section 219AA; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsections (1) and (2) are offences of strict liability.
+
+##### <a id="219AD"></a>219AD  When enrolment ceases
+
+             (1)  An enrolment of a child by an individual for care by an approved child care service **_ceases_** if:
+
+                     (a)  the arrangement under which care is provided ceases; or
+
+                     (b)  the service becomes eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session of care provided by the service to the child.
+
+             (2)  If a child is taken to be enrolled for care by an approved child care service under subsection 219AA(2), the enrolment is taken to have **_ceased_**:
+
+                     (a)  if a certificate has been given in respect of the child under subsection 76(2) of the Family Assistance Act, either:
+
+                              (i)  when the period for which a certificate was given ends; or
+
+                             (ii)  if the Secretary makes a determination in circumstances mentioned in subparagraph 81(4)(b)(i) of that Act at the end of the 13 week period mentioned in that subparagraph—when that determination ceases to have effect; or
+
+                     (b)  if the Secretary makes a determination in circumstances mentioned in subparagraph 81(4)(b)(ii) of that Act—when that determination ceases to have effect.
+
+             (3)  The enrolment of a child for care by an approved child care service (whether by an individual or otherwise) is taken to have **_ceased_** if no session of care to the child, over a number of weeks specified by the Secretary by legislative instrument, is reported to the Secretary under section 219N.
+
+             (4)  Different periods may be specified in relation to different kinds of service or types of care.
+
+##### <a id="219AE"></a>219AE  Secretary to confirm receipt of notice
+
+             (1)  Subject to subsection (2), the Secretary must provide confirmation to the approved child care service of the receipt of a notice given under section 219A or section 219AA.
+
+             (2)  The Secretary need not provide that confirmation if:
+
+                     (a)  the notice is given under section 219A in relation to the enrolment of a child by an individual; and
+
+                     (b)  the information contained in the notice is inconsistent with information contained in a claim, or in a document that accompanies a claim, made by an individual in relation to care provided by the service to the child.
+
+             (3)  The Secretary must include in the confirmation details of the record maintained by the Secretary in relation to the enrolment.
+
+             (4)  The confirmation must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219AF"></a>219AF  Obligation to update enrolment information
+
+             (1)  If:
+
+                     (a)  an approved child care service gives notice of enrolment in accordance with sections 219A and 219AB, or sections 219AA and 219AB; and
+
+                     (b)  after the notice is given:
+
+                              (i)  information provided in the notice becomes incorrect; or
+
+                             (ii)  information becomes available that, had it been available at the time the notice was given, should have been included in the notice; or
+
+                            (iii)  information becomes available that, had it been available at the time the notice was given, would have required the notice to have been given in a different form;
+
+the service must notify the Secretary of the correction or available information.
+
+          (1A)  Subject to subsection (1B), the notice must be given within 7 days after the information becomes incorrect or becomes available.
+
+          (1B)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection 219N(1) or (2) for a week (the **_applicable week_**); and
+
+                     (c)  for any enrolment, the last day of the period referred to in subsection (1A) of this section:
+
+                              (i)  is the last day of the period applicable under subsection 219N(5) in relation to the applicable week; or
+
+                             (ii)  occurs during the initial period;
+
+the notice must be given no later than:
+
+                     (d)  7 days after the end of the initial period; or
+
+                     (e)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+             (2)  The notice must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219AG"></a>219AG  Failure to update enrolment information
+
+Civil penalty
+
+          (1A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to notify the Secretary of a correction or available information under section 219AF; and
+
+                     (b)  the service does not notify the Secretary in accordance with that section.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Offence
+
+             (1)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to notify the Secretary of a correction or available information under section 219AF; and
+
+                     (b)  the service does not notify the Secretary in accordance with that section.
+
+                    Penalty:  60 penalty units.
+
+             (2)  Subsection (1) is an offence of strict liability.
+
+#### Subdivision B—Obligations relating to child care benefit by fee reduction
+
+##### <a id="219B"></a>219B  Obligation to pass on fee reductions where individual conditionally eligible
+
+             (1)  This section applies if:
+
+                     (a)  a determination of conditional eligibility for child care benefit by fee reduction under section 50F is in force in respect of an individual (the **_claimant_**) and a child for a session of care provided by an approved child care service to the child in a week; and
+
+                     (b)  the Secretary calculates under section 50Z, or recalculates under section 50ZA, the amount of fee reduction applicable in respect of the session of care; and
+
+                     (c)  the Secretary has notified the service of the amount in accordance with subsection 50Z(3), or the recalculated amount in accordance with subsection 50ZA(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to the claimant, except to the extent that the service is required to remit the amount to the Secretary under section 219QB.
+
+Note 1:       This amount must be passed on, even if the payment of amounts to the service in respect of fee reduction has been suspended under paragraph 200(1)(h).
+
+Note 2:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (2A)  An approved child care service commits an offence if the service contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  If:
+
+                     (a)  the service reduces the amount by which it charges the claimant in respect of the session of care in anticipation of the Secretary’s calculation of the amount applicable in respect of fee reduction for that session (the **_anticipated fee reduction_**); and
+
+                     (b)  the service was an approved child care service at the time the session of care was provided;
+
+the service is taken to have passed on to the claimant an amount equal to the anticipated fee reduction.
+
+             (5)  The amount is taken to have been passed on to the claimant on the day on which the Secretary notified the service of the amount in accordance with subsection 50Z(3) or 50ZA(2)_._
+
+##### <a id="219BA"></a>219BA  Obligation to pass on fee reductions where approved child care service eligible
+
+             (1)  This section applies if:
+
+                     (a)  an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session of care provided by the service to a child at risk; and
+
+                     (b)  the Secretary calculates under section 50ZB, or recalculates under section 50ZC, the amount of child care benefit by fee reduction applicable in respect of the session of care; and
+
+                     (c)  the Secretary has notified the service of the amount in accordance with subsection 50ZB(3), or the recalculated amount in accordance with subsection 50ZC(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to itself, except to the extent that the service is required to remit the amount to the Secretary under section 219QB.
+
+             (4)  If:
+
+                     (a)  the service reduces the amount it charges in respect of the session of care in anticipation of the Secretary’s calculation of the amount applicable in respect of child care benefit by fee reduction for that session (the **_anticipated fee reduction_**); and
+
+                     (b)  the service was an approved child care service at the time the session of care was provided;
+
+the service is taken to have passed on to itself an amount equal to the anticipated fee reduction.
+
+             (5)  The amount is taken to have been passed on on the day on which the Secretary notified the service of the amount in accordance with subsection 50ZB(3) or 50ZC(2).
+
+##### <a id="219BB"></a>219BB  Obligation to charge no more than usual fee—rate determined by child care service or Secretary
+
+             (1)  If:
+
+                     (a)  an approved child care service certifies under subsection 76(1) or (2) of the Family Assistance Act the hourly rate of fee reductions or child care benefit applicable for sessions of care provided by the service to a child during a period; or
+
+                     (b)  the Secretary determines under subsection 81(2), (3) or (4) of the Family Assistance Act the hourly rate of fee reductions or child care benefit for sessions of care an approved child care service provides to a child during a period;
+
+the service must ensure that the fees set for each of those sessions do not exceed the amount of the fees that the service would charge for the same session for the same child if that rate did not apply.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="219BC"></a>219BC  Obligation to charge no more than usual fee—special grandparent rate
+
+             (1)  If a determination is in force under subsection 50T(1) with the effect that an individual is eligible for the special grandparent rate for a child in respect of a session of care provided to the child by an approved child care service, the service must ensure that the fees set for the session do not exceed the amount of the fees that the service would charge for the same session for the same child if that rate did not apply.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="219BD"></a>219BD  Obligation to charge no more than usual fee—Jobs Education and Training (JET) Child Care fee assistance
+
+             (1)  If:
+
+                     (a)  a determination of conditional eligibility for child care benefit by fee reduction under section 50F is in force in respect of an individual and a child for a session of care provided by an approved child care service to the child; and
+
+                     (b)  the service becomes aware that the individual is eligible to receive Jobs Education and Training (JET) Child Care fee assistance in relation to the session of care;
+
+the service must ensure that the fees set for the session do not exceed the amount of the fees that the service would charge an individual who was not eligible for that assistance for the same session for the same child.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (2)  In subsection (1):
+
+                    <a name="job-educ-train-jet-child-care-fee-assist"></a>**_Jobs Education and Training (JET) Child Care fee assistance_** means the payment of that name that is paid by the Commonwealth.
+
+##### <a id="219E"></a>219E  Obligation to provide statements
+
+             (1)  If:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by an approved child care service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions;
+
+the service must, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by the service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions; and
+
+                     (d)  the service does not, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  The statement periods for the service are as follows:
+
+                     (a)  the first statement period is the period of 3 months starting on the day (the **_initial day_**) that is:
+
+                              (i)  the day Schedule 2 to the _Family Assistance Legislation Amendment (Child Care) Act 2010_ commences; or
+
+                             (ii)  if the Secretary approves the service under section 195 of this Act on a day later than the one described in subparagraph (i)—that later day;
+
+                            or, if before or during that 3‑month period the service chooses a shorter period starting on the initial day, the shorter period;
+
+                     (b)  each of the later statement periods is:
+
+                              (i)  the period of 3 months starting on the day after the end of the immediately preceding statement period; or
+
+                             (ii)  if before or during that 3‑month period the service chooses a shorter period starting on that day—the shorter period.
+
+             (5)  The matters required to be set out in a statement for a statement period are:
+
+                     (a)  the start and end of the statement period; and
+
+                     (b)  the amount that would have been the fees payable for the session or sessions of care provided by the service to the child during the statement period if no amount had been passed on under section 219B for the session or sessions; and
+
+                     (c)  the amount of fee reductions required to be passed on under section 219B for the session or sessions; and
+
+                     (d)  any other information the Secretary specifies in the rules (if any) made under subsection (6).
+
+Note:          The amount of fee reductions required to be set out in the statement may be a nil amount (see section 4A).
+
+             (6)  The Secretary may, by legislative instrument, make rules dealing with any of the following matters:
+
+                     (a)  how statements should be given;
+
+                     (b)  to whom the statements should be given;
+
+                     (c)  for particular approved child care services or classes of approved child care services—different statement periods;
+
+                     (d)  other information that must be given in the statements.
+
+Correcting or reissuing statements
+
+             (7)  If:
+
+                     (a)  an approved child care service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions;
+
+the service must, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (8)  An approved child care service commits an offence if:
+
+                     (a)  the service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions; and
+
+                     (c)  the service does not, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+                    Penalty:  60 penalty units.
+
+             (9)  Subsection (8) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+#### Subdivision C—Obligations relating to weekly child care rebate
+
+##### <a id="219EA"></a>219EA  Obligation to pass on weekly child care rebate
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary calculates under section 65EAAA, or recalculates under section 65EAAD, the amount of the child care rebate that is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week; and
+
+                     (b)  the Secretary has notified the service of the amount in accordance with subsection 65EAAB(2), or the recalculated amount in accordance with subsection 65EAAE(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to the individual, except to the extent that the service is required to remit the amount to the Secretary under section 219QE.
+
+Note 1:       This amount must be passed on, even if the payment of child care rebate has been suspended under paragraph 200(1)(i).
+
+Note 2:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (3)  An approved child care service commits an offence if the service contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (6)  If:
+
+                     (a)  the service reduces the amount by which it charges an individual in respect of care in anticipation of the Secretary’s calculation of the amount of child care rebate applicable for the service in respect of the individual and a child for a week; and
+
+                     (b)  the service was an approved child care service at the time the care was provided;
+
+the service is taken to have passed on to the individual an amount equal to the anticipated child care rebate.
+
+             (7)  The amount is taken to have been passed on to the individual on the day on which the Secretary notified the service of the amount in accordance with subsection 65EAAB(2) or 65EAAE(2).
+
+##### <a id="219EB"></a>219EB  Obligation to provide additional material in section 219E statements
+
+             (1)  If:
+
+                     (a)  an approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c);
+
+the service must set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  the approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c); and
+
+                     (c)  the service does not set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code._
+
+             (4)  The additional matters required to be set out in the statement given under section 219E for the statement period are:
+
+                     (a)  the amount of the fees for which the individual to whom the amount is passed on would have been liable for the care if any fee reduction under section 219B had been passed on but no amount of child care rebate had been passed on under section 219EA for the care; and
+
+                     (b)  the amount of child care rebate required to be passed on under section 219EA.
+
+             (5)  If:
+
+                     (a)  an approved child care service has, under subsection (1), included a matter in a statement (the **_earlier statement_**) given to an individual or other person under section 219E in relation to care provided by the service during a statement period; and
+
+                     (b)  under subsection 65EAAE(2), the service is notified on a day (the **_notification day_**) of a recalculated amount in respect of the care;
+
+the service must, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the additional matters specified in subsection (4) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  An approved child care service commits an offence if:
+
+                     (a)  an approved child care service has, under subsection (1), included a matter in a statement (the **_earlier statement_**) given to an individual or other person under section 219E in relation to care provided by the service during a statement period; and
+
+                     (b)  under subsection 65EAAE(2), the service is notified on a day (the **_notification day_**) of a recalculated amount in respect of the care; and
+
+                     (c)  the service does not, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the additional matters specified in subsection (4) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+                    Penalty:  60 penalty units.
+
+             (7)  Subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code._
+
+#### Subdivision D—Obligations relating to records
+
+##### <a id="219F"></a>219F  Obligation to keep records
+
+Records must be kept
+
+             (1)  An approved child care service must keep records as provided for in rules made under subsection (3) of information and events  relating  to the following matters:
+
+                     (a)  an individual’s eligibility for payment of child care benefit under this Act;
+
+                     (b)  the service’s eligibility for payment of child care benefit under this Act in respect of a child at risk;
+
+                     (c)  the service’s compliance with the conditions for the continued approval of approved child care services;
+
+                     (d)  any other matter the Secretary specifies in the record keeping rules made under paragraph (3)(b).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Records to be kept for at least 36 months—civil penalty
+
+             (2)  An approved child care service contravenes this subsection if the service stops keeping the records referred to in subsection (1) before the later of the following times:
+
+                     (a)  the end of the period of 36 months starting at the end of the year in which the care was provided to which the information or event related;
+
+                     (b)  a time ordered by a court during proceedings for an offence against this Act, or for the contravention of a civil penalty provision, if an application for the order is made during:
+
+                              (i)  the period mentioned in paragraph (a); or
+
+                             (ii)  proceedings relevant to a previous application of this paragraph.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Records to be kept for at least 36 months—offence
+
+          (2A)  An approved child care service commits an offence if the service stops keeping the records referred to in subsection (1) before the later of the following times:
+
+                     (a)  the end of the period of 36 months starting at the end of the year in which the care was provided to which the information or event related;
+
+                     (b)  a time ordered by a court during proceedings for an offence against this Act, or for the contravention of a civil penalty provision, if an application for the order is made during:
+
+                              (i)  the period mentioned in paragraph (a); or
+
+                             (ii)  proceedings relevant to a previous application of this paragraph.
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Secretary must make rules
+
+             (3)  The Secretary must, by legislative instrument, make rules relating to the keeping of records specifying:
+
+                     (a)  the kinds of records an approved child care service must keep in relation to a matter listed in subsection (1); and
+
+                     (b)  other matters (if any) in respect of which an approved child care service must keep records.
+
+Meaning of **offence against this Act**
+
+             (4)  In this section:
+
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
+
+##### <a id="219G"></a>219G  Former approved child care service to keep records
+
+Obligation to keep records
+
+             (1)  A person who operates an approved child care service, immediately before the service ceases to be an approved child care service, must keep a record referred to in subsection (2) for the period for which the service would have been required, under section 219F, to keep the record if the service had not ceased to be an approved child care service.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Type of records to be kept
+
+             (2)  The records the person is required to keep are the records that the service was required to keep under section 219F immediately before the service ceased to be an approved child care service.
+
+Notification of premises at which records are kept
+
+             (3)  The person must notify the Secretary in writing, within the period of 14 days beginning on the day after the cessation day, of the premises at which the records are kept on the day after the cessation day.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (3A)  A person commits an offence if the person contravenes subsection (3).
+
+                    Penalty:  60 penalty units.
+
+          (3B)  Subsection (3A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Notification if premises changes
+
+             (4)  If the premises at which the records are kept changes during the period:
+
+                     (a)  beginning on the day after the cessation day; and
+
+                     (b)  ending on the last day the person is required to keep the records under subsection (1);
+
+the person must notify the Secretary in writing of the new premises within the period of 14 days beginning on the day the records begin to be kept at the new premises.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (4A)  A person commits an offence if the person contravenes subsection (4).
+
+                    Penalty:  60 penalty units.
+
+          (4B)  Subsection (4A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  In subsections (3) and (4):
+
+                    <a name="cessat-dai"></a>**_cessation day_** means the day the service ceased to be an approved child care service.
+
+##### <a id="219GA"></a>219GA  Secretary may require financial information relating to large long day care centre operators
+
+             (1)  For the purposes of determining whether a large long day care centre operator is financially viable, and likely to remain so, the Secretary may, by notice in writing, require a person mentioned in subsection (2) to provide financial information in relation to a financial year if the Secretary has reason to believe that the person is capable of giving the information.
+
+             (2)  For the purposes of subsection (1), the Secretary may give a notice to the following persons:
+
+                     (a)  the operator;
+
+                     (b)  a person who, at any time during the financial year, owns 15% or more of:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                     (c)  a person who, at any time during the financial year, is entitled to receive 15% or more of the dividends paid by:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                     (d)  a person who, at any time during the financial year, is owed a debt by the operator;
+
+                     (e)  a person who:
+
+                              (i)  acts, or is accustomed to act; or
+
+                             (ii)  under a contract or an arrangement or understanding (whether formal or informal) is intended or expected to act;
+
+                            in accordance with the directions, instructions or wishes of, or in concert with:
+
+                            (iii)  the operator; or
+
+                            (iv)  if the operator consists of more than one person—any of those persons;
+
+                      (f)  a person who directs or instructs:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            to act in accordance with those directions or instructions;
+
+                     (g)  a person, if:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            acts, or is accustomed to act, so as to give effect to the first‑mentioned person’s wishes;
+
+                     (h)  a person with whom:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            acts, or is accustomed to act, in concert;
+
+                      (i)  a person, if:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            is intended or expected to act under a contract or an arrangement or understanding (whether formal or informal) so as to give effect to the first‑mentioned person’s directions, instructions or wishes;
+
+                      (j)  a person with whom:
+
+                              (i)  the operator; or
+
+                             (ii)  if the operator consists of more than one person—any of those persons;
+
+                            is intended or expected to act in concert under a contract or an arrangement or understanding (whether formal or informal).
+
+             (3)  The Secretary’s notice must specify:
+
+                     (a)  the financial information required; and
+
+                     (b)  the period within which, and the manner in which, the person must comply with the notice.
+
+             (4)  The Secretary may only require financial information that relates to any of the 5 financial years immediately preceding the date of the notice.
+
+             (5)  The period specified under paragraph (3)(b) must be reasonable in all the circumstances.
+
+             (6)  A person who is given a notice under this section must comply with the notice.
+
+Note 1:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
+
+          (6A)  However, a person that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ need not comply with a notice given to the person under this section to the extent that:
+
+                     (a)  the notice requires the person to provide particular financial information to the Secretary; and
+
+                     (b)  the person has provided, or provides, that particular financial information to the Commissioner of the ACNC under that Act before the end of the period specified under paragraph (3)(b).
+
+             (7)  For the purposes of:
+
+                     (a)  paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_; and
+
+                     (b)  paragraph 2.1(g) of National Privacy Principle 2 in Schedule 3 to the _Privacy Act 1988_; and
+
+                     (c)  a provision of a law of a State or Territory that provides that information that is personal may be disclosed if the disclosure is authorised by law;
+
+the disclosure of personal information by a person in response to a notice given under this section is taken to be a disclosure that is authorised by law.
+
+##### <a id="219GB"></a>219GB  Audit of operator of approved child care service
+
+             (1)  If, on the basis of information received under section 219GA, the Secretary has concerns about the financial viability of an operator of an approved child care service, the Secretary may engage an appropriately qualified and experienced expert to carry out an independent audit of the operator.
+
+             (2)  The expert may be assisted by members of an audit team.
+
+##### <a id="219H"></a>219H  Appointment of authorised officers
+
+                   The Secretary may, in writing, appoint an appropriately qualified officer to be an authorised officer for the purposes of the exercise of the powers referred to in section 219K and/or section 219KA.
+
+##### <a id="219J"></a>219J  Identity cards
+
+             (1)  The Secretary must issue an identity card to an authorised officer.
+
+Form of identity card
+
+             (2)  The identity card must:
+
+                     (a)  be in the form approved by the Secretary; and
+
+                     (b)  contain a recent photograph of the authorised officer.
+
+Offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person has been issued with an identity card; and
+
+                     (b)  the person ceases to be an authorised officer; and
+
+                     (c)  the person does not, as soon as practicable after so ceasing, return the identity card to the Secretary.
+
+                    Penalty:  1 penalty unit.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence: card lost or destroyed
+
+             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
+
+Note:          A defendant bears an evidential burden in relation to the matter in this subsection: see subsection 13.3(3) of the _Criminal Code_.
+
+Authorised officer must carry card
+
+             (6)  An authorised officer must carry his or her identity card at all times when exercising powers as an authorised officer.
+
+##### <a id="219K"></a>219K  Power to enter premises to inspect records
+
+Access to inspect records
+
+             (1)  For the purposes of inspecting records referred to in section 219F or 219G, an authorised officer may enter:
+
+                     (a)  in the case of records referred to in subsection 219F(1)—the premises of the approved child care service in respect of which the records are kept at any time during the service’s hours of operation; or
+
+                     (b)  in the case of records referred to in subsection 219G(2)—the premises last notified under section 219G in respect of the records at any reasonable time of a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
+
+Access to monitor compliance
+
+          (1A)  An authorised officer may enter the premises of an approved child care service, at any time during the service’s hours of operation, for the purposes of monitoring the service’s compliance with a condition for the continued approval of the service.
+
+Note:          The authorised officer could also inspect certain records while on the premises (see paragraph (1)(a)).
+
+##### <a id="219KA"></a>219KA  Power to enter premises to carry out an audit
+
+             (1)  For the purposes of carrying out an audit of an operator of an approved child care service, a member of an audit team may enter:
+
+                     (a)  the premises of the approved child care service at any time during the service’s hours of operation; or
+
+                     (b)  any premises of the operator at any reasonable time of a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
+
+             (2)  A member of an audit team must be accompanied by an authorised officer.
+
+##### <a id="219KB"></a>219KB  Report relating to an audit
+
+             (1)  An expert who audits an operator of an approved child care service must prepare and give to the Secretary a report about the affairs of the operator.
+
+             (2)  The expert’s report must deal with the following:
+
+                     (a)  whether the operator’s financial statements are based on proper accounts and records;
+
+                     (b)  whether the statements are in agreement with the accounts and records and show fairly the financial transactions and the state of the operator;
+
+                     (c)  any matter specified by the expert’s terms of engagement;
+
+                     (d)  such other matters arising out of the statements as the expert considers should be reported;
+
+                     (e)  any recommendations relating to maintaining or improving the financial viability of the operator that the expert considers desirable.
+
+##### <a id="219KC"></a>219KC  Responsibilities of authorised officers
+
+             (1)  Entering premises under subsection 219K(1) or (1A) or section 219KA is not authorised unless:
+
+                     (a)  the occupier of the premises, or another person who apparently represents the occupier, has consented to the entry; and
+
+                     (b)  the authorised officer concerned has shown his or her identity card to the occupier or person.
+
+             (2)  An authorised officer must, before obtaining the consent of the occupier or another person in accordance with subsection (1), inform that occupier or person that he or she may refuse consent.
+
+             (3)  A consent has no effect unless the consent is voluntary.
+
+             (4)  A consent may be expressed to be limited to entry during a particular period. If so, the consent has effect for that period unless the consent is withdrawn before the end of that period.
+
+             (5)  A consent that is not limited as mentioned in subsection (4) has effect until the consent is withdrawn.
+
+             (6)  The authorised officer must leave the premises if the consent ceases to have effect.
+
+Cooperation
+
+             (7)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a person exercising powers under section 219K or 219KA. An approved child care service that:
+
+                     (a)  refuses to consent to the entry of a person (after the person shows his or her identity card in the case of an authorised officer); or
+
+                     (b)  withdraws consent for the person to enter the premises;
+
+is not complying with the responsibility.
+
+             (8)  Operators of approved child care services have a responsibility under subsection 196(2B) to cooperate with a person exercising powers under section 219KA. An operator of an approved child care service that:
+
+                     (a)  refuses to consent to the entry of a person (after the person shows his or her identity card in the case of an authorised officer); or
+
+                     (b)  withdraws consent for the person to enter the premises;
+
+is not complying with the responsibility.
+
+             (9)  Failure to comply with the responsibility mentioned in subsection (7) or (8) can result in a sanction being imposed under section 200.
+
+##### <a id="219L"></a>219L  Occupier to provide authorised officer with access to records and assistance
+
+Obligation to produce records referred to in subsection 219F(1)
+
+             (1)  The occupier of premises referred to in paragraph 219K(1)(a), or another person who apparently represents the occupier, must produce to an authorised officer, or any other person assisting the officer, who has entered premises under section 219K, the records referred to in subsection 219F(1).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Obligation to produce records referred to in subsection 219G(2)
+
+             (2)  The occupier of premises referred to in paragraph 219K(1)(b), or another person who apparently represents the occupier, must produce to an authorised officer, or any other person assisting the officer, who has entered premises under section 219K, the records referred to in subsection 219G(2).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (2A)  A person commits an offence if the person contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Obligation to provide reasonable facilities and assistance
+
+             (3)  The occupier, or another person who apparently represents the occupier, must assist the officer with all reasonable facilities and assistance for the effective exercise of the officer’s powers under section 219K.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (3A)  A person commits an offence if the person contravenes subsection (3).
+
+                    Penalty:  10 penalty units.
+
+          (3B)  Subsection (3A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a person exercising powers under subsection (1) or (3). An approved child care service that does not produce records or assist as provided for in those subsections is not complying with the responsibility. Failure to comply with the responsibility can result in a sanction being imposed under section 200.
+
+##### <a id="219LA"></a>219LA  Occupier to provide audit team with access to records and assistance
+
+             (1)  This section applies if a member of an audit team enters premises to carry out an audit.
+
+             (2)  The occupier of premises referred to in section 219KA, or another person who apparently represents the occupier, must produce to a member of the audit team, or an authorised officer accompanying the member, any documents, records or things required by the expert of the audit team for the purposes of the audit.
+
+Note 1:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       Section 137.2 of the _Criminal Code_ creates an offence for providing false or misleading documents.
+
+             (3)  A person commits an offence if the person contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  The occupier of premises referred to in section 219KA, or another person who apparently represents the occupier, must provide a member of the audit team, and an authorised officer accompanying the member, with all reasonable facilities and assistance for the effective exercise of powers under section 219KA.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  A person commits an offence if the person contravenes subsection (5).
+
+                    Penalty:  10 penalty units.
+
+             (7)  Subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (8)  Approved child care services have a responsibility under subsection 196(2A) to cooperate with a member of an audit team and an authorised officer accompanying a member. An approved child care service that does not produce documents, records or things, or provide facilities and assistance, as provided for in subsections (2) and (5) is not complying with the responsibility.
+
+             (9)  Operators of approved child care services have a responsibility under subsection 196(2B) to cooperate with a member of an audit team and an authorised officer accompanying a member. An operator of an approved child care service that does not produce documents, records or things, or provide facilities and assistance, as provided for in subsections (2) and (5) is not complying with the responsibility.
+
+           (10)  Failure to comply with the responsibility mentioned in subsection (8) or (9) can result in a sanction being imposed under section 200.
+
+#### Subdivision E—Obligations to provide information and reports
+
+##### <a id="219M"></a>219M  Obligations if operator decides to stop operating an approved child care service
+
+Obligation to notify Secretary
+
+             (1)  If a person who operates an approved child care service decides to cease operating the service, the operator must, in the manner provided for in subsection (2), notify the Secretary of that decision:
+
+                     (a)  unless paragraph (b) applies—at least 42 days before the operator ceases to operate the service; or
+
+                     (b)  if the operator decides to cease operating the service:
+
+                              (i)  to avoid being in breach of a law of the Commonwealth, a State or a Territory; or
+
+                             (ii)  due to circumstances beyond the operator’s control;
+
+                            as soon as possible after that decision.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  The notice must be given in the form, and in the manner or way, approved by the Secretary.
+
+             (3)  A person commits an offence if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Obligation to give further information on request
+
+             (4)  An operator of an approved child care service contravenes this subsection if:
+
+                     (a)  the operator notifies the Secretary under subsection (1) of the operator’s decision to cease operating the service; and
+
+                     (b)  the Secretary requests the operator, in writing, to give the Secretary specified information about the decision; and
+
+                     (c)  the operator fails to comply with the request in accordance with subsection (6).
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (5)  A person commits an offence if the person contravenes subsection (4).
+
+                    Penalty:  60 penalty units.
+
+             (6)  Information requested under subsection (4) must be given:
+
+                     (a)  in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  within:
+
+                              (i)  if paragraph (1)(a) applies—7 days after the day on which the request was given; or
+
+                             (ii)  otherwise—the period specified in the request.
+
+##### <a id="219N"></a>219N  Obligation to give reports to Secretary
+
+             (1)  For each week in which a session of care is provided by an approved child care service to a child in relation to whom an enrolment has been:
+
+                     (a)  notified to the Secretary in accordance with sections 219A and 219AB; and
+
+                     (b)  confirmed by the Secretary in accordance with section 219AE;
+
+the service must give the Secretary a report in accordance with this section.
+
+             (2)  For each week in which a session of care is provided by an approved child care service to a child in relation to whom an enrolment has been:
+
+                     (a)  notified to the Secretary in accordance with sections 219AA and 219AB; and
+
+                     (b)  confirmed by the Secretary in accordance with section 219AE;
+
+the service must give the Secretary a report in accordance with this section.
+
+             (3)  The report must be made in the form, and in the manner or way, approved by the Secretary.
+
+             (4)  The report must include:
+
+                     (a)  any information required by the Secretary that is relevant to:
+
+                              (i)  determining whether a fee reduction is applicable in relation to the care and, if so, the rate and amount of that fee reduction; or
+
+                             (ii)  making a determination of entitlement, or no entitlement, in relation to the care under Division 4 of Part 3; and
+
+                    (aa)  any information required by the Secretary that is relevant to:
+
+                              (i)  determining whether an individual is eligible to receive child care rebate; or
+
+                             (ii)  determining the amount in which child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, a quarter or an income year; or
+
+                            (iii)  making a determination of entitlement in relation to the care under Division 4AA of Part 3; or
+
+                            (iv)  determining any other matter in relation to the payment of child care rebate to an individual; and
+
+                     (b)  any other information required by the Secretary.
+
+             (5)  Subject to subsection (5AA), the report must be given no later than:
+
+                     (a)  if the week in which the session of care was provided fell wholly before the day on which the enrolment was confirmed—the period of 7 days after the day on which the enrolment was confirmed; and
+
+                     (b)  otherwise—the end of the second week immediately following the week.
+
+       (5AA)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection (1) or (2) of this section within the period applicable under subsection (5) of this section;
+
+the report must be given no later than:
+
+                     (c)  7 days after the end of the initial period; or
+
+                     (d)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+          (5A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give a report under subsection (1) or (2); and
+
+                     (b)  the service does not give the report in accordance with this section.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (6)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give a report under subsection (1) or (2); and
+
+                     (b)  the service does not give the report in accordance with this section.
+
+                    Penalty:  60 penalty units.
+
+             (7)  An approved child care service may:
+
+                     (a)  substitute the report with an updated report at any time; or
+
+                     (b)  if the report was given in circumstances where it was not required to be given—withdraw the report.
+
+             (8)  Subsection (7) does not prevent rules under paragraph 205(1)(b) making provision for, and in relation to, child care services doing either or both of the following:
+
+                     (a)  substituting reports given by the services under this section;
+
+                     (b)  withdrawing reports given by the services under this section.
+
+##### <a id="219NA"></a>219NA  Obligation to provide information to Secretary about number of child care places
+
+             (1)  The Secretary may give an approved child care service a written notice requiring the service to provide information required in order for the Secretary to determine whether to reduce the number of child care places allocated to the service.
+
+             (2)  The notice must specify all of these:
+
+                     (a)  the information required by the Secretary;
+
+                     (b)  the period, or each of the periods, in relation to which the information is required;
+
+                     (c)  when the information in relation to the period, or each of the periods, is required.
+
+             (3)  The notice may specify either or both of these:
+
+                     (a)  the form and manner in which the information is to be provided to the Secretary;
+
+                     (b)  the length of time for which the service must continue to comply with the notice.
+
+             (4)  The service must provide the required information to the Secretary, in relation to the period, or each of the periods, specified in the notice, at the time specified in the notice and in the form and manner (if any) specified in the notice.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (5)  The Secretary may give the service a written notice terminating the effect of the notice under subsection (1).
+
+##### <a id="219NB"></a>219NB  Obligation to provide further information to Secretary about enrolled children
+
+             (1)  If the Secretary, by notice under section 57G, requires an approved child care service to provide further information to the Secretary (further information in relation to aspects of the care provided to children enrolled for care by the service), the service must comply with the notice.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+##### <a id="219P"></a>219P  Obligations of operators of former approved child care services
+
+             (1)  If the approval of a child care service is suspended or cancelled, the person who operated the child care service immediately before the service’s approval was suspended or cancelled must fulfil the obligations under the following provisions in respect of sessions of care that occurred before the approval was suspended or cancelled as if it had not been:
+
+                     (a)  section 219A;
+
+                     (b)  section 219AA;
+
+                     (c)  section 219AF;
+
+                     (d)  section 219B;
+
+                     (e)  section 219BA;
+
+                      (f)  section 219BB;
+
+                     (g)  section 219BC;
+
+                     (h)  section 219BD;
+
+                      (i)  section 219E;
+
+                      (j)  section 219N;
+
+                     (k)  section 219QB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  If the approval of a child care service is suspended or cancelled, the person who operated the child care service immediately before the service’s approval was suspended or cancelled must fulfil the obligations under the following provisions in respect of care that occurred before the approval was suspended or cancelled as if it had not been:
+
+                     (a)  section 219EA;
+
+                     (b)  section 219QE.
+
+             (2)  A person commits an offence if the person contravenes subsection (1) or (1A).
+
+                    Penalty:  60 penalty units.
+
+#### Subdivision F—Miscellaneous
+
+##### <a id="219PA"></a>219PA  Collection, use or disclosure of personal information for financial viability purposes—the _Privacy Act 1988_
+
+                   The collection, use or disclosure of personal information about an individual is taken to be authorised by law for the purposes of the _Privacy Act 1988_ if the collection, use or disclosure is reasonably necessary for the purposes of determining whether a large long day care centre operator is financially viable, and likely to remain so.
+
+### Division 2—Weekly payments in respect of fee reduction to approved child care services
+
+##### <a id="219Q"></a>219Q  Weekly payments in respect of fee reduction
+
+             (1)  If the Secretary, under section 50Z or 50ZB, calculates the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, the Secretary must pay the amount calculated to the credit of a bank account nominated and maintained by the service.
+
+             (2)  If the Secretary, on recalculating under section 50ZA or 50ZC the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, increases the amount, the Secretary must pay to the credit of a bank account nominated and maintained by the service an amount equal to the increase.
+
+             (3)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                   (ba)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (c)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                    (ca)  section 219RE (set off where a payment under section 219RD is made); and
+
+                     (d)  paragraph 200(1)(h) (suspending payment in respect of fee reduction).
+
+##### <a id="219QA"></a>219QA  Payments and set offs where recalculation results in reduced fee reduction
+
+             (1)  This section applies if the Secretary, on recalculating under section 50ZA or 50ZC the amount in which the Secretary considers fee reduction is applicable in respect of a session or sessions of care provided by an approved child care service to a child in a week, reduces the amount (including to nil).
+
+             (2)  The Secretary must pay the amount (if any) as last recalculated to the credit of a bank account nominated and maintained by the service.
+
+             (3)  The amount as calculated, or recalculated, immediately before the last recalculation must be set off against one or more child care service payments that are to be made to the service (the **_first service_**) or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid to an approved child care service under section 219Q or subsection 219QA(2) in relation to a session of care provided by an approved child care service to a child in a week; or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2) or section 219QA, section 219QD, section 219RC or section 219RE, or the imposition of a sanction under paragraph 200(1)(h); and
+
+                     (b)  it is not reasonably practicable for the service to pass on to the claimant or the service itself within the time required under subsection 219B(2) or 219BA(2) the fee reduction in respect of which the amount was or would have been paid;
+
+the service must immediately remit to the Secretary an amount equal to the amount that could not be passed on.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (2)  The amount must be remitted in the manner or way approved by the Secretary.
+
+             (3)  The service must notify the Secretary of the remittal of the amount.
+
+             (4)  The notice must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+### Division 2A—Weekly payments in respect of child care rebate to approved child care services
+
+##### <a id="219QC"></a>219QC  Weekly payments of child care rebate
+
+             (1)  If:
+
+                     (a)  the Secretary, under section 65EAAA, calculates the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week; and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service;
+
+the Secretary must pay the amount calculated to the credit of a bank account nominated and maintained by the service.
+
+             (2)  If:
+
+                     (a)  the Secretary, on recalculating under section 65EAAD the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, increases the amount; and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service;
+
+the Secretary must pay to the credit of a bank account nominated and maintained by the service an amount equal to the increase.
+
+Relationship with other provisions
+
+             (3)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                     (c)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (d)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                     (e)  section 219RE (set off where a payment under section 219RD is made); and
+
+                      (f)  paragraph 200(1)(i) (suspending payment in respect of child care rebate).
+
+##### <a id="219QD"></a>219QD  Payments and set offs where recalculation results in reduced weekly child care rebate
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary, on recalculating under section 65EAAD the amount in which the Secretary considers child care rebate is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week, reduces the amount (including to nil); and
+
+                     (b)  the individual has made an election under paragraph 65EAAAA(1)(b) that is in effect for the week to have child care rebate paid weekly to the approved child care service.
+
+             (2)  The Secretary must pay the amount (if any) as last recalculated to the credit of a bank account nominated and maintained by the service.
+
+             (3)  The amount as calculated, or recalculated, immediately before the last recalculation must be set off against one or more child care service payments that are to be made to the service (the **_first service_**) or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+##### <a id="219QE"></a>219QE  Remitting amounts that cannot be passed on
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid to an approved child care service under section 219QC or subsection 219QD(2) for a week; or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2), section 219QA, section 219QD, section 219RC or section 219RE, or the imposition of a sanction under paragraph 200(1)(i); and
+
+                     (b)  it is not reasonably practicable for the service to pass on to the individual within the time required under subsection 219EA(2) the child care rebate in respect of which the amount was or would have been paid;
+
+the service must immediately remit to the Secretary an amount equal to the amount that could not be passed on.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breach of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  The amount must be remitted in the manner or way approved by the Secretary.
+
+             (4)  The service must notify the Secretary of the remittal of the amount.
+
+             (5)  The notice must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+### Division 3—Enrolment advances
+
+##### <a id="219R"></a>219R  Election to receive enrolment advance
+
+             (1)  An approved child care service, other than an approved occasional care service, may, when giving notice in accordance with section 219A, elect to receive the payment of an enrolment advance in relation to the enrolment.
+
+             (2)  The election must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  include any information required by the Secretary.
+
+##### <a id="219RA"></a>219RA  Payment of enrolment advance
+
+             (1)  If an approved child care service, other than an approved occasional care service:
+
+                     (a)  makes an election in accordance with section 219R in respect of an enrolment; and
+
+                     (b)  the Secretary confirms the enrolment under section 219AE;
+
+the Secretary must pay the amount of the advance to the credit of a bank account nominated and maintained by the service.
+
+Effect of notification of decision to cease operating service
+
+          (1A)  However, the Secretary may decide not to pay the advance to the service under subsection (1) if:
+
+                     (a)  before the day the Secretary proposes to pay the advance, the operator of the service notified the Secretary under subsection 219M(1) of the operator’s decision to cease operating the service; and
+
+                     (b)  before that day, the operator has not notified the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service.
+
+          (1B)  If:
+
+                     (a)  the Secretary does not pay the advance to the service because of subsection (1A); and
+
+                     (b)  the operator of the service notifies the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service; and
+
+                     (c)  the enrolment concerned has not ceased before that notification;
+
+the Secretary must pay the amount of the advance to the credit of a bank account nominated and maintained by the service.
+
+          (1C)  If:
+
+                     (a)  in respect of an enrolment, the Secretary sets off an amount under subsection 219RC(3) against a payment to an approved child care service; and
+
+                     (b)  after the set off, the operator of the applicable service (within the meaning of that subsection) notifies the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the service; and
+
+                     (c)  the enrolment has not ceased before that notification;
+
+then the Secretary may pay an enrolment advance (in respect of the enrolment) equal to the amount worked out in accordance with section 219RB to the credit of a bank account nominated and maintained by that applicable service.
+
+Interpretation
+
+             (2)  This section is subject to:
+
+                     (a)  Part 4 (overpayments and debt recovery); and
+
+                     (b)  section 219QA (set off where amount of applicable fee reduction reduced on recalculation); and
+
+                   (ba)  section 219QD (set off where amount of applicable child care rebate reduced on recalculation); and
+
+                     (c)  section 219RC (set off where enrolment ceases or where notification of decision to cease operating service); and
+
+                    (ca)  section 219RE (set off where a payment under section 219RD is made); and
+
+                     (d)  paragraph 200(1)(f) (withholding enrolment advances).
+
+Notice of payment
+
+             (3)  The Secretary must give the service notice of a payment under this section.
+
+             (4)  Notice of the payment must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219RB"></a>219RB  Amount of enrolment advances
+
+             (1)  The Secretary may, by legislative instrument, determine the amount of the enrolment advance that may be paid in respect of enrolments of a specified class.
+
+             (2)  Without limiting subsection (1), the Secretary may provide for the indexation of enrolment advances.
+
+##### <a id="219RC"></a>219RC  Setting off enrolment advance when enrolment ceases or decision to cease operating service is notified
+
+Enrolment ceases
+
+             (1)  If an enrolment of a child for care by an approved child care service (the **_first service_**) ceases in respect of which:
+
+                     (a)  an enrolment advance was paid; or
+
+                     (b)  an enrolment advance would have been paid but for a set off under subsection 82(2), section 219QA or section 219QD, this section or section 219RE or the imposition of a sanction under paragraph 200(1)(f);
+
+the Secretary must set off an amount equal to the amount of the enrolment advance against one or more child care service payments that are to be made to the first service or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+             (2)  Subsection (1) does not apply in relation to an enrolment advance if subsection (3) has applied in relation to the advance.
+
+Notification of decision to cease operating service
+
+             (3)  If:
+
+                     (a)  an operator of an approved child care service (the **_applicable service_**) notifies the Secretary under subsection 219M(1) of the operator’s decision to cease operating the applicable service; and
+
+                     (b)  either:
+
+                              (i)  an enrolment advance was paid to the applicable service in respect of an enrolment; or
+
+                             (ii)  an enrolment advance would have been so paid but for a set off under subsection 82(2), section 219QA section 219QD, this section or section 219RE or the imposition of a sanction under paragraph 200(1)(f); and
+
+                     (c)  subsection (1) has not applied in relation to the advance; and
+
+                     (d)  the operator has not notified the Secretary (in the form, and in the manner or way, approved by the Secretary) of a decision by the operator to continue operating the applicable service;
+
+the Secretary must set off an amount equal to the amount of the advance against one or more child care service payments that are to be made to the applicable service or to another approved child care service operated by the person who operates the applicable service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+### Division 4—Business continuity payments
+
+##### <a id="219RD"></a>219RD  Business continuity payments
+
+             (1)  The Secretary may determine that a payment is to be made to an approved child care service in relation to a period if:
+
+                     (a)  the service is required to give a report under subsection 219N(1) or (2) for a week in respect of one or more enrolments; and
+
+                     (b)  the service does not give the report for the week within the period applicable under subsection 219N(5); and
+
+                     (c)  the Secretary is satisfied that the failure to give the report is due to circumstances specified in a determination under subsection (2).
+
+Note:          Section 219RE deals with the setting off of payments made under this section.
+
+             (2)  The Minister must, by legislative instrument, make a determination:
+
+                     (a)  specifying circumstances for the purposes of paragraph (1)(c); and
+
+                     (b)  setting out the method of determining the amounts of payments under this section.
+
+The determination may set out any other matters relating to the making of payments under this section that the Minister thinks appropriate.
+
+             (3)  The Secretary must pay the amount of any payment under this section to the credit of a bank account nominated and maintained by the approved child care service.
+
+             (4)  The Secretary must give the approved child care service notice of the payment and of the period to which the payment relates.
+
+             (5)  Notice of the payment must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219RE"></a>219RE  Setting off business continuity payments
+
+                   If a payment is made to an approved child care service (the **_first service_**) under section 219RD, the Secretary must set off an amount equal to the payment against one or more child care service payments that are to be made to the first service or to another approved child care service operated by the person who operates the first service.
+
+Note:          For **_child care service payment_** see subsection 3(1).
+
+## Part 8B—Nominees
+
+### Division 1—Preliminary
+
+##### <a id="219TA"></a>219TA  Definitions
+
+                   In this Part:
+
+                    <a name="correspond-nomine"></a>**_correspondence nominee_** means a person who, by virtue of an appointment in force under section 219TC, is the correspondence nominee of another person.
+
+                    <a name="nomine"></a>**_nominee_** means a correspondence nominee or a payment nominee.
+
+                    <a name="payment-nomine"></a>**_payment nominee_** means a person who, by virtue of an appointment in force under section 219TB, is the payment nominee of another person.
+
+                    <a name="princip"></a>**_principal_**, in relation to a nominee, means the person in relation to whom the nominee was appointed.
+
+                    <a name="relev-benefit"></a>**_relevant benefit_** means:
+
+                     (a)  family tax benefit by instalment; or
+
+                     (b)  family tax benefit for a past period; or
+
+                     (c)  family tax benefit by single payment/in substitution because of the death of another individual; or
+
+                    (ca)  schoolkids bonus; or
+
+                     (d)  baby bonus; or
+
+                      (f)  child care benefit by fee reduction; or
+
+                     (g)  child care benefit for a past period; or
+
+                     (h)  child care benefit by single payment/in substitution; or
+
+                   (ha)  child care rebate; or
+
+                   (hb)  single income family supplement; or
+
+                      (i)  one‑off payment to families; or
+
+                      (j)  economic security strategy payment to families; or
+
+                     (k)  back to school bonus or single income family bonus; or
+
+                      (l)  clean energy advance; or
+
+                    (m)  ETR payment.
+
+### Division 2—Appointment of nominees
+
+##### <a id="219TB"></a>219TB  Appointment of payment nominee
+
+                   Subject to section 219TD, the Secretary may, in writing:
+
+                     (a)  appoint a person (including a body corporate) to be the payment nominee of another person for the purposes of the family assistance law; and
+
+                     (b)  direct that the whole or a specified part of a specified relevant benefit payable to the nominee’s principal be paid to the nominee.
+
+##### <a id="219TC"></a>219TC  Appointment of correspondence nominee
+
+                   Subject to section 219TD, the Secretary may, in writing, appoint a person (including a body corporate) to be the correspondence nominee of another person for the purposes of the family assistance law.
+
+##### <a id="219TD"></a>219TD  Provisions relating to appointments
+
+             (1)  A person may be appointed as the payment nominee and the correspondence nominee of the same person.
+
+             (2)  The Secretary must not appoint a nominee for a person (the **_proposed principal_**) under section 219TB or 219TC except:
+
+                     (a)  with the written consent of the person to be appointed; and
+
+                     (b)  after taking into consideration the wishes (if any) of the proposed principal regarding the making of such an appointment.
+
+             (3)  The Secretary must cause a copy of an appointment under section 219TB or 219TC to be given to:
+
+                     (a)  the nominee; and
+
+                     (b)  the principal.
+
+             (4)  The Secretary must not appoint a payment nominee or correspondence nominee for an approved child care service or for the operator of such a service.
+
+##### <a id="219TE"></a>219TE  Suspension and cancellation of nominee appointments
+
+             (1)  If a person who is a nominee by virtue of an appointment under section 219TB or 219TC informs the Secretary in writing that the person no longer wishes to be a nominee under that appointment, the Secretary must, as soon as practicable, cancel the appointment.
+
+             (2)  If:
+
+                     (a)  the Secretary gives a person who is a nominee a notice under section 219TJ; and
+
+                     (b)  the person informs the Department that:
+
+                              (i)  an event or change of circumstances has occurred or is likely to occur; and
+
+                             (ii)  the event or change of circumstances is likely to have an effect referred to in paragraph 219TJ(1)(b);
+
+the Secretary may suspend or cancel the appointment by virtue of which the person is a nominee.
+
+             (3)  If:
+
+                     (a)  the Secretary gives a person who is a nominee a notice under section 219TJ or 219TK; and
+
+                     (b)  the nominee does not comply with the requirement of the notice;
+
+the Secretary may suspend or cancel the appointment, or each appointment, by virtue of which the person is a nominee.
+
+             (4)  While an appointment is suspended, the appointment has no effect for the purposes of the family assistance law.
+
+             (5)  The Secretary may, at any time, cancel the suspension of an appointment under subsection (2) or (3).
+
+             (6)  The suspension or cancellation of an appointment, and the cancellation of such a suspension, must be in writing.
+
+             (7)  The cancellation of an appointment has effect on and from such day, being later than the day of the cancellation, as is specified in the cancellation.
+
+             (8)  The Secretary must cause a copy of:
+
+                     (a)  a suspension of an appointment; or
+
+                     (b)  a cancellation of an appointment; or
+
+                     (c)  a cancellation of a suspension of an appointment;
+
+to be given to:
+
+                     (d)  the nominee; and
+
+                     (e)  the principal.
+
+### Division 3—Payments to payment nominee
+
+##### <a id="219TF"></a>219TF  Payment of amounts to payment nominee
+
+             (1)  If:
+
+                     (a)  a person has a payment nominee; and
+
+                     (b)  the whole or a part of a relevant benefit is payable to the person; and
+
+                     (c)  the Secretary has given a direction in relation to the relevant benefit under section 219TB;
+
+the relevant benefit is to be paid in accordance with the direction.
+
+             (2)  An amount paid to the payment nominee of a person:
+
+                     (a)  is paid to the payment nominee on behalf of the person; and
+
+                     (b)  is taken, for the purposes of the family assistance law (other than this Part), to have been paid to the person and to have been so paid when it was paid to the nominee.
+
+             (3)  An amount that is to be paid to the payment nominee of a person must be paid to the credit of a bank account nominated and maintained by the nominee.
+
+             (4)  The Secretary may direct that the whole or a part of an amount that is to be paid to a payment nominee be paid to the payment nominee in a different way from that provided for by subsection (3). If the Secretary gives such a direction, an amount to which the direction relates is to be paid in accordance with the direction.
+
+### Division 4—Functions and responsibilities of nominees
+
+##### <a id="219TG"></a>219TG  Actions of correspondence nominee on behalf of principal
+
+             (1)  Subject to section 219TR and subsection (4), any act that may be done by a person under, or for the purposes of, the family assistance law (other than an act for the purposes of Division 2 or 3) may be done by the person’s correspondence nominee.
+
+             (2)  Without limiting subsection (1), an application or claim that may be made under the family assistance law by a person may be made by the person’s correspondence nominee on behalf of the person, and an application or claim so made is taken to be made by the person.
+
+             (3)  An act done by a person’s correspondence nominee under this section has effect, for the purposes of the family assistance law (other than this Part), as if it had been done by the person.
+
+             (4)  If, under a provision of the family assistance law, the Secretary gives a notice to a person who has a correspondence nominee, subsection (1) does not extend to an act that is required by the notice to be done by the person.
+
+##### <a id="219TH"></a>219TH  Giving of notices to correspondence nominee
+
+             (1)  Any notice that the Secretary is authorised or required by the family assistance law to give to a person may be given by the Secretary to the person’s correspondence nominee.
+
+             (2)  The notice:
+
+                     (a)  must, in every respect, be in the same form, and in the same terms, as if it were being given to the person; and
+
+                     (b)  may be given to the correspondence nominee personally or by post or in any other manner approved by the Secretary.
+
+             (3)  If:
+
+                     (a)  under subsection (1), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary afterwards gives the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of the family assistance law as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 219TI ceases to have effect in relation to the nominee notice.
+
+             (4)  If:
+
+                     (a)  under subsection (1), the Secretary gives a notice (the **_nominee notice_**) to a person’s correspondence nominee; and
+
+                     (b)  the Secretary has already given to the person a notice that:
+
+                              (i)  is expressed to be given under the same provision of the family assistance law as the nominee notice; and
+
+                             (ii)  makes the same requirement of the person as the nominee notice;
+
+section 219TI does not have effect in relation to the nominee notice.
+
+##### <a id="219TI"></a>219TI  Compliance by correspondence nominee
+
+             (1)  In this section:
+
+                    <a name="requir"></a>**_requirement_** means a requirement, made by the Secretary under this Act, to:
+
+                     (a)  inform the Secretary of a matter; or
+
+                     (b)  give information, or produce a document, to an officer; or
+
+                     (c)  give a statement to the Secretary.
+
+             (2)  If, under section 219TH, a notice making a requirement of a person is given to the person’s correspondence nominee, the following paragraphs have effect:
+
+                     (a)  for the purposes of the family assistance law, other than this Part, the notice is taken:
+
+                              (i)  to have been given to the person; and
+
+                             (ii)  to have been so given on the day on which the notice was given to the correspondence nominee;
+
+                     (b)  any requirement made of the person may be satisfied by the correspondence nominee;
+
+                     (c)  any act done by the correspondence nominee for the purpose of satisfying a requirement of the notice has effect, for the purposes of the family assistance law (other than Division 3 of Part 6 of this Act), as if it had been done by the person;
+
+                     (d)  if the correspondence nominee fails to satisfy a requirement of the notice, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement.
+
+             (3)  In order to avoid doubt, it is declared as follows:
+
+                     (a)  if the requirement imposes an obligation on the person to inform the Secretary of a matter, or give the Secretary a statement, within a specified period and the correspondence nominee informs the Secretary of the matter, or gives the Secretary the statement, as the case may be, within that period, the person is taken, for the purposes of the family assistance law, to have complied with the requirement set out in the notice;
+
+                     (b)  if the requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period and the correspondence nominee gives the information, or produces the document, as the case may be, to the officer within that period, the person is taken, for the purposes of the family assistance law, to have complied with the requirement set out in the notice;
+
+                     (c)  if the requirement imposes on the person an obligation to inform the Secretary of a matter, or give the Secretary a statement, within a specified period and the correspondence nominee does not inform the Secretary of the matter, or give the Secretary the statement, as the case may be, within that period, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement set out in the notice;
+
+                     (d)  if the requirement imposes an obligation on the person to give information, or produce a document, to an officer within a specified period and the correspondence nominee does not give the information, or produce the document, as the case may be, to the officer within that period, the person is taken, for the purposes of the family assistance law, to have failed to comply with the requirement set out in the notice.
+
+##### <a id="219TJ"></a>219TJ  Notification by nominee of matters affecting ability to act as nominee
+
+             (1)  The Secretary may give a nominee of a person a notice that requires the nominee to inform the Department if:
+
+                     (a)  either:
+
+                              (i)  an event or change of circumstances occurs; or
+
+                             (ii)  the nominee becomes aware that an event or change of circumstances is likely to occur; and
+
+                     (b)  the event or change of circumstances is likely to affect:
+
+                              (i)  the ability of the nominee to act as the payment nominee or correspondence nominee of the person, as the case may be; or
+
+                             (ii)  the ability of the Secretary to give notices to the nominee under this Act; or
+
+                            (iii)  the ability of the nominee to comply with notices given to the nominee by the Secretary under this Act.
+
+             (2)  Subject to subsection (3), a notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the information to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the information to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective merely because it fails to comply with paragraph (2)(c).
+
+             (4)  Subject to subsection (5), the period specified under paragraph (2)(d) must not end earlier than 14 days after:
+
+                     (a)  the day on which the event or change of circumstances occurs; or
+
+                     (b)  the day on which the nominee becomes aware that the event or change of circumstances is likely to occur.
+
+             (5)  If a notice requires the nominee to inform the Department of any proposal by the nominee to leave Australia, subsection (4) does not apply to that requirement.
+
+             (6)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+##### <a id="219TK"></a>219TK  Statement by payment nominee regarding disposal of money
+
+             (1)  The Secretary may give the paymentnominee of a person a notice that requires the nominee to give the Department a statement about a matter relating to the disposal by the nominee of an amount paid to the nominee on behalf of the person.
+
+             (2)  Subject to subsection (3), a notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  may be given personally or by post or by any other means approved by the Secretary; and
+
+                     (c)  must specify how the nominee is to give the statement to the Department; and
+
+                     (d)  must specify the period within which the nominee is to give the statement to the Department.
+
+             (3)  A notice under subsection (1) is not ineffective merely because it fails to comply with paragraph (2)(c).
+
+             (4)  The period specified under paragraph (2)(d) must not end earlier than 14 days after the day on which the notice is given.
+
+             (5)  A statement given in response to a notice under subsection (1) must be in writing and in accordance with a form approved by the Secretary.
+
+             (6)  A nominee must not refuse or fail to comply with a notice under subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (7)  Subsection (6) applies only to the extent to which the person is capable of complying with the notice.
+
+             (8)  Subsection (6) does not apply if the person has a reasonable excuse.
+
+             (9)  An offence against subsection (6) is an offence of strict liability.
+
+           (10)  This section extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality or citizenship.
+
+### Division 5—Other matters
+
+##### <a id="219TL"></a>219TL  Protection of person against liability for actions of nominee
+
+                   Nothing in this Part has the effect of rendering a person guilty of an offence against this Act in respect of any act or omission of the person’s correspondence nominee.
+
+##### <a id="219TM"></a>219TM  Protection of nominee against criminal liability
+
+             (1)  A nominee of a person is not subject to any criminal liability under the family assistance law in respect of:
+
+                     (a)  any act or omission of the person; or
+
+                     (b)  anything done, in good faith, by the nominee in his or her capacity as nominee.
+
+             (2)  This section has effect subject to section 219TK.
+
+##### <a id="219TN"></a>219TN  Duty of nominee to principal
+
+             (1)  It is the duty of a person who is the payment or correspondence nominee of another person at all times to act in the best interests of the principal.
+
+             (2)  A nominee does not commit a breach of the duty imposed by subsection (1) by doing an act if, when the act is done, there are reasonable grounds for believing that it is in the best interests of the principal that the act be done.
+
+             (3)  A nominee does not commit a breach of the duty imposed by subsection (1) by refraining from doing an act if, at the relevant time, there are reasonable grounds for believing that it is in the best interests of the principal that the act be not done.
+
+##### <a id="219TO"></a>219TO  Saving of Secretary’s powers of revocation
+
+                   Nothing in this Part is to be taken to be an expression of a contrary intention for the purposes of subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+##### <a id="219TP"></a>219TP  Saving of Secretary’s powers to give notices to principal
+
+                   Nothing in this Part is intended in any way to limit or affect the Secretary’s powers under other provisions of the family assistance law to give notices to, or make requirements of, a person who has a nominee.
+
+##### <a id="219TQ"></a>219TQ  Notification of nominee where notice given to principal
+
+                   If, under a provision of the family assistance law (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee, the Secretary may inform the correspondence nominee of the giving of the notice and of the terms of the notice.
+
+##### <a id="219TR"></a>219TR  Right of nominee to attend with principal
+
+             (1)  If:
+
+                     (a)  under a provision of the family assistance law (other than a provision of this Part), the Secretary gives a notice to a person who has a correspondence nominee; and
+
+                     (b)  the notice requires the person:
+
+                              (i)  to attend the Department; or
+
+                             (ii)  to attend a particular place; and
+
+                     (c)  the Secretary informs the person’s correspondence nominee of the giving of the notice;
+
+the correspondence nominee may attend the Department or place, as the case may be, with the person if the person so wishes.
+
+             (2)  If a person’s correspondence nominee is a body corporate, the last reference in subsection (1) to the correspondence nominee is to be read as a reference to an officer or employee of the correspondence nominee.
+
+## Part 8C—Civil penalties
+
+### Division 1—Civil penalty orders
+
+##### <a id="219TSB"></a>219TSB  Ancillary contravention of civil penalty provision
+
+                   A person must not:
+
+                     (a)  attempt to contravene a civil penalty provision (other than this subsection); or
+
+                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision (other than this subsection); or
+
+                     (c)  induce, whether by threats or promises or otherwise, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (e)  conspire with others to effect a contravention of a civil penalty provision (other than this subsection).
+
+Note:          This is a civil penalty provision. This Part provides for pecuniary penalties for breaches of civil penalty provisions.
+
+##### <a id="219TSC"></a>219TSC  Civil penalty orders
+
+             (1)  If the Federal Court of Australia or the Federal Magistrates Court is satisfied that a person has contravened a civil penalty provision, the court may, on the application of the Minister, order the person to pay to the Commonwealth such pecuniary penalty, in respect of each contravention, as the court determines to be appropriate.
+
+Note:          These proceedings before the court do not limit, nor are they affected by, other compliance measures in this Act (for example, sanctions under section 200).
+
+             (2)  An order under subsection (1) is to be known as a **_civil penalty order_**.
+
+Determining pecuniary penalty
+
+             (3)  In determining the pecuniary penalty, the court must have regard to all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
+
+                     (c)  the circumstances in which the contravention took place; and
+
+                     (d)  whether the person has previously been found by a court in proceedings under this Act to have engaged in any similar conduct; and
+
+                     (e)  the likely impact of the penalty on:
+
+                              (i)  the person; and
+
+                             (ii)  if the person is an approved child care service—the continued operation of the service.
+
+Civil enforcement of penalty
+
+             (4)  The pecuniary penalty is a civil debt payable to the Commonwealth.
+
+             (5)  The Commonwealth may enforce the order under subsection (1) as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
+
+Note:          If a civil penalty order is made in relation to a person who operates an approved child care service, the Secretary may be able to take further action against the service under section 200.
+
+##### <a id="219TSD"></a>219TSD  Maximum penalties for civil penalty provisions
+
+General rule
+
+             (1)  The pecuniary penalty payable by a person, in respect of the person’s contravention of a civil penalty provision, must not exceed:
+
+                     (a)  if the person is not a body corporate—200 penalty units; or
+
+                     (b)  if the person is a body corporate—400 penalty units.
+
+Exception for certain civil penalty provisions
+
+             (2)  Subsection (1) does not apply to subsection 219L(3) or to a provision of the regulations declared to be a civil penalty provision. The pecuniary penalty payable by a person, in respect of the person’s contravention of subsection 219L(3), must not exceed:
+
+                     (a)  if the person is not a body corporate—30 penalty units; or
+
+                     (b)  if the person is a body corporate—60 penalty units.
+
+Note:          The penalties for contraventions of provisions of the regulations declared to be civil penalty provisions must not exceed 250 penalty units for bodies corporate and 50 penalty units for other persons (see subsection 235(1A)).
+
+##### <a id="219TSE"></a>219TSE  Proceedings may be heard together
+
+                   The Federal Court of Australia or the Federal Magistrates Court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
+
+##### <a id="219TSF"></a>219TSF  Time limit for application for an order
+
+                   Proceedings for a civil penalty order may be started no later than 4 years after the contravention.
+
+##### <a id="219TSG"></a>219TSG  Civil evidence and procedure rules for civil penalty orders
+
+                   The Federal Court of Australia or the Federal Magistrates Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
+
+##### <a id="219TSGA"></a>219TSGA  Conduct contravening more than one civil penalty provision
+
+             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Act against a person in relation to the contravention of any one or more of those provisions.
+
+             (2)  However, the person is not liable to more than one pecuniary penalty under this Act in respect of the same conduct.
+
+Note:          This subsection does not prevent other compliance measures under this Act (for example, sanctions under section 200) from being imposed in respect of the same conduct.
+
+##### <a id="219TSGB"></a>219TSGB  Civil proceedings after criminal proceedings
+
+                   Neither the Federal Court of Australia nor the Federal Magistrates Court may make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
+
+##### <a id="219TSGC"></a>219TSGC  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
+
+                     (a)  the civil proceedings are dismissed; and
+
+                     (b)  costs must not be awarded in relation to the civil proceedings.
+
+##### <a id="219TSGD"></a>219TSGD  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
+
+##### <a id="219TSGE"></a>219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+
+                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+However, this does not apply to criminal proceedings in respect of the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
+
+##### <a id="219TSGF"></a>219TSGF  Minister requiring person to assist in applications for civil penalty orders
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with an application for a civil penalty order; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
+
+                     (a)  it appears to the Minister that the person is unlikely to have:
+
+                              (i)  contravened the civil penalty provision to which the application relates; or
+
+                             (ii)  committed an offence constituted by the same, or substantially the same, conduct as the conduct to which the application relates; and
+
+                     (b)  the Minister suspects or believes that the person can give information relevant to the application.
+
+             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for the person suspected of contravening the civil penalty provision to which the application relates.
+
+             (5)  The Federal Court of Australia or the Federal Magistrates Court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether the application for the civil penalty order has actually been made.
+
+### Division 2—Infringement notices
+
+##### <a id="219TSH"></a>219TSH  Definitions
+
+                   In this Division:
+
+                    <a name="authorised-person"></a>**_authorised person_** means:
+
+                     (a)  the Secretary; or
+
+                     (b)  an officer appointed under section 219TSO.
+
+                    <a name="civil-contravent"></a>**_civil contravention_** means a contravention of a civil penalty provision.
+
+                    <a name="infring-notic"></a>**_infringement notice_** means an infringement notice under section 219TSI.
+
+##### <a id="219TSI"></a>219TSI  When an infringement notice can be given
+
+             (1)  If an authorised person has reasonable grounds to believe that a person has, on a particular day, committed one or more contraventions of a particular civil penalty provision, the authorised person may give to the person an infringement notice relating to those contraventions.
+
+             (2)  An infringement notice must be given within 12 months after the day on which the civil contraventions are alleged to have taken place.
+
+##### <a id="219TSJ"></a>219TSJ  Matters to be included in an infringement notice
+
+             (1)  An infringement notice must:
+
+                     (a)  set out the name of the person to whom the notice is given; and
+
+                     (b)  set out the name of the approved child care service concerned; and
+
+                     (c)  set out the name of the authorised person who gave the notice; and
+
+                     (d)  set out brief details of each of the alleged civil contraventions; and
+
+                     (e)  contain a statement to the effect that the matter or matters will not be dealt with by the Federal Court of Australia or the Federal Magistrates Court if the penalty specified in the notice is paid to the Commonwealth, within:
+
+                              (i)  28 days after the notice is given; or
+
+                             (ii)  if the Secretary allows a longer period—that longer period; and
+
+                      (f)  give an explanation of how payment of the penalty is to be made; and
+
+                     (g)  set out such other matters (if any) as are specified by the regulations.
+
+             (2)  For the purposes of paragraph (1)(d), the brief details must include the following information in relation to each alleged civil contravention:
+
+                     (a)  the date of the alleged contravention;
+
+                     (b)  the civil penalty provision that was allegedly contravened.
+
+##### <a id="219TSK"></a>219TSK  Amount of penalty
+
+Infringement notice given to a body corporate
+
+             (1)  The penalty to be specified in an infringement notice given to a body corporate must be a pecuniary penalty equal to the number of penalty units worked out using the table:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="45%">
+  <col width="46%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Number of penalty units</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>In this case ...</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the number of penalty units is ...</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>30.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 30 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219L(3)</div>
+  </td>
+  <td>
+    <div>4.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219L(3)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 4 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219M(1)
+      or (4)</div>
+  </td>
+  <td>
+    <div>80.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219M(1) or (4)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 80 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>
+      24.
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 24 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr></table>
+
+Infringement notice given to a person other than a body corporate
+
+             (2)  The penalty to be specified in an infringement notice given to a person other than a body corporate must be a pecuniary penalty equal to the number of penalty units worked out using the table:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="45%">
+  <col width="46%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Number of penalty units</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>In this case ...</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the number of penalty units is ...</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>15.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 15 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219L(3)</div>
+  </td>
+  <td>
+    <div>2.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219L(3)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 2 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219M(1)
+      or (4)</div>
+  </td>
+  <td>
+    <div>40.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219M(1) or (4)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 40 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>
+      12.
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 12 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr></table>
+
+##### <a id="219TSL"></a>219TSL  Withdrawal of an infringement notice
+
+             (1)  This section applies if an infringement notice is given to a person.
+
+             (2)  An authorised person may, by written notice (the **_withdrawal notice_**) given to the person, withdraw the infringement notice.
+
+             (3)  To be effective, the withdrawal notice must be given to the person within 28 days after the infringement notice was given.
+
+Refund of penalty if infringement notice withdrawn
+
+             (4)  If:
+
+                     (a)  the penalty specified in the infringement notice is paid; and
+
+                     (b)  the infringement notice is withdrawn after the penalty is paid;
+
+the Commonwealth is liable to refund the penalty.
+
+##### <a id="219TSM"></a>219TSM  What happens if the penalty is paid
+
+             (1)  This section applies if:
+
+                     (a)  an infringement notice relating to one or more alleged civil contraventions is given to a person; and
+
+                     (b)  the penalty is paid in accordance with the infringement notice; and
+
+                     (c)  the infringement notice is not withdrawn.
+
+             (2)  Any liability of the person for the alleged civil contraventions is discharged.
+
+             (3)  Proceedings under Division 1 must not be brought against the person for the alleged civil contraventions.
+
+##### <a id="219TSN"></a>219TSN  Effect of this Division on civil proceedings
+
+                   This Division does not:
+
+                     (a)  require an infringement notice to be given in relation to an alleged civil contravention; or
+
+                     (b)  affect the liability of a person to have proceedings under Division 1 brought against the person for an alleged civil contravention if:
+
+                              (i)  the person does not comply with an infringement notice relating to the contravention; or
+
+                             (ii)  an infringement notice relating to the contravention is not given to the person; or
+
+                            (iii)  an infringement notice relating to the contravention is given to the person and subsequently withdrawn; or
+
+                     (c)  limit the discretion of the Federal Court of Australia or the Federal Magistrates Court to determine the amount of a penalty to be imposed on a person who is found in proceedings under Division 1 to have contravened a civil penalty provision.
+
+Note:          This Division also does not limit, nor is it affected by, other compliance measures in this Act (for example, sanctions under section 200).
+
+##### <a id="219TSO"></a>219TSO  Appointment of authorised person
+
+                   The Secretary may, by writing, appoint an officer of the Department as an authorised person for the purposes of this Division.
+
+##### <a id="219TSP"></a>219TSP  Regulations
+
+                   The regulations may make further provision in relation to infringement notices.
+
+### Division 3—Suspension of approved child care service’s approval
+
+##### <a id="219TSQ"></a>219TSQ  Suspension of approved child care service’s approval
+
+             (1)  The Secretary may, by notice given to a person who operates an approved child care service, suspend the service’s approval if:
+
+                     (a)  10 infringement notices under section 219TSI are given to the person in relation to the service within a period (the **_infringement period_**) of 12 months; and
+
+                     (b)  in relation to each notice, the time for paying the penalty specified in the notice has ended before the end of the infringement period.
+
+             (2)  The notice must:
+
+                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension takes effect; and
+
+                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval.
+
+             (3)  The Secretary may, by notice given to a person who operates the service, revoke the suspension with effect from the day specified in the notice.
+
+## Part 9—Other matters
+
+##### <a id="220"></a>220  General administration of family assistance law
+
+                   The Secretary is, subject to any direction of the Minister, to have the general administration of the family assistance law.
+
+##### <a id="220A"></a>220A  Minister requiring person to assist in criminal proceedings
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with criminal proceedings for an offence against this Act; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
+
+                     (a)  it appears to the Minister that the person is unlikely:
+
+                              (i)  to be a defendant in the proceedings; or
+
+                             (ii)  to have contravened a civil penalty provision constituted by the same, or substantially the same, conduct as the conduct to which the proceedings relates; and
+
+                     (b)  the Minister suspects or believes that the person can give information relevant to the proceedings.
+
+             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for a defendant or likely defendant in the proceedings.
+
+             (5)  A court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether criminal proceedings for the offence have actually begun.
+
+             (7)  In this section:
+
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
+
+##### <a id="221"></a>221  Delegation
+
+             (1)  Subject to this section, the Secretary may delegate to an officer all or any of the powers of the Secretary under the family assistance law, other than the power to engage an expert to carry out an independent audit as mentioned in section 219GB.
+
+             (2)  The Secretary must not delegate such a power to an officer of the Human Services Department, unless the Secretary of the Human Services Department has agreed to the delegation.
+
+             (3)  The Secretary must not delegate the Secretary’s power under subparagraph 168(1)(b)(i) (disclosure of information) except to the Secretary of the Human Services Department, the Chief Executive Centrelink or the Chief Executive Medicare.
+
+             (4)  The Secretary must not delegate to an officer, other than an SES employee or acting SES employee, the Secretary’s powers under either of the following:
+
+                     (a)  section 219GA (Secretary requiring information from person);
+
+                     (b)  Division 2 of Part 8C (infringement notices).
+
+             (5)  The Secretary may delegate to an APS employee in the Department administered by the Minister administering the _Veterans’ Entitlements Act 1986_ all or any of the powers of the Secretary under the family assistance law that relate to the schoolkids bonus, to the extent that eligibility for that bonus is because of a payment of an education allowance under:
+
+                     (a)  the Veterans’ Children Education Scheme; or
+
+                     (b)  the Military Rehabilitation and Compensation Act Education and Training Scheme.
+
+Note:          The expression **_APS employee_** is defined in section 2B of the _Acts Interpretation Act 1901_.
+
+##### <a id="221A"></a>221A  Committees
+
+             (1)  The Minister may in writing establish committees for the purposes of the family assistance law.
+
+Functions
+
+             (2)  A committee has the functions determined in writing by the Minister.
+
+             (3)  A committee must, in performing its functions, comply with any directions given to the committee by the Minister.
+
+Appointments
+
+             (4)  A committee consists of the members appointed in writing by the Minister.
+
+             (5)  A member of a committee holds office on a part‑time basis.
+
+Chair
+
+             (6)  The Minister may designate a member of a committee as the Chair of the committee.
+
+Remuneration and allowances
+
+             (7)  A member of a committee is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
+
+             (8)  A member of a committee is to be paid the allowances that are prescribed by the regulations.
+
+             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
+
+Disclosure of interests
+
+           (10)  A member of a committee must give written notice to the Minister of any direct or indirect pecuniary interest that the member has or acquires and that conflicts or could conflict with the proper performance of the member’s functions.
+
+Resignation
+
+           (11)  A member of a committee may resign his or her appointment by giving the Minister a written resignation.
+
+Termination
+
+           (12)  The Minister may at any time terminate the appointment of a member of a committee.
+
+##### <a id="222"></a>222  Decisions to be in writing
+
+             (1)  A decision of the Minister or of an officer under the family assistance law must be in writing.
+
+             (2)  Such a decision is taken to be in writing if it is made, or recorded, by means of a computer.
+
+##### <a id="223"></a>223  Secretary may arrange for use of computer programs to make decisions
+
+             (1)  The Secretary may arrange for the use, under the Secretary’s control, of computer programs for any purposes for which the Secretary may make decisions under the family assistance law.
+
+             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Secretary.
+
+##### <a id="224"></a>224  Notice of decisions
+
+             (1)  If a notice of a decision of an officer:
+
+                     (a)  affecting a person’s entitlement to be paid family assistance under the family assistance law; or
+
+                     (b)  affecting a person’s conditional eligibility for child care benefit by fee reduction; or
+
+                     (c)  affecting a weekly limit of hours, a CCB %, a schooling %, eligibility for the special grandparent rate or a rate under section 81 of the Family Assistance Act applicable to a person; or
+
+                  (caa)  about the amount of child care rebate applicable in respect of a person and a child for a week under Subdivision AAB of Division 4AA of Part 3; or
+
+                    (ca)  about the amount of child care rebate applicable in respect of a person and a child for a quarter under Subdivision AA of Division 4AA of Part 3;
+
+is:
+
+                     (d)  delivered to a person personally; or
+
+                     (e)  left at the address of the place of residence or business of the person last known to the Secretary; or
+
+                      (f)  sent by prepaid post to the address of the person last known to the Secretary;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the person.
+
+             (2)  Notice of a decision of an officer affecting or about a matter referred to in paragraph (1)(a), (b), (c) or (ca) may be given to a person by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the person at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+##### <a id="224A"></a>224A  Notice of decisions under Part 8 or 8C
+
+             (1)  If a notice of a decision of an officer under Part 8 or 8C  is:
+
+                     (a)  left at the address of the place of business of a child care service last known to the Secretary; or
+
+                     (b)  sent by prepaid post to the address of a child care service last known to the Secretary; or
+
+                     (c)  sent by email to the last known email address of the child care service;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the service.
+
+             (2)  Notice of a decision of an officer under Part 8 or 8C may be given to a service by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the service at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+             (4)  For the purposes of this section, a notice of a decision of an officer under Part 8C is:
+
+                     (a)  an infringement notice under section 219TSI; or
+
+                     (b)  a notice of suspension under section 219TSQ.
+
+##### <a id="225"></a>225  Payment of deductions to Commissioner of Taxation
+
+                   The Secretary must, in accordance with section 218 of the _Income Tax Assessment Act 1936,_ or Subdivision 260‑A in Schedule 1 to the _Taxation Administration Act 1953_, for the purpose of enabling the collection of an amount that is, or may become, payable by a recipient of a payment under this Act:
+
+                     (a)  make deductions from the instalments of, or make a deduction from, the payment; and
+
+                     (b)  pay the amount deducted to the Commissioner of Taxation.
+
+This section does not apply to a payment of child care benefit.
+
+##### <a id="226"></a>226  Setting off family assistance entitlement against tax liability
+
+             (1)  If:
+
+                     (a)  a person is entitled to an amount of family assistance (other than child care benefit); and
+
+                     (b)  the person is liable for an amount of primary tax;
+
+the Commissioner of Taxation may determine that the whole or a part of the entitlement is to be set off against the liability.
+
+             (2)  If the Commissioner of Taxation does so:
+
+                     (a)  the amount of the entitlement and the amount of the liability are reduced accordingly; and
+
+                     (b)  the person is taken to have paid so much of the amount of the tax as is equal to the amount set off against the tax liability at the time when the Commissioner sets off the amount or at any earlier time that the Commissioner determines.
+
+             (3)  This section has effect in spite of anything in any other Act or any other law of the Commonwealth.
+
+##### <a id="227"></a>227  Payment of deductions to Child Support Registrar
+
+             (1)  The Secretary must, in accordance with a notice given to the Secretary under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ in relation to a person:
+
+                     (a)  make deductions from instalment amounts of family tax benefit that the person is entitled to be paid under section 23; or
+
+                     (b)  make a deduction from an amount of family tax benefit that the person is entitled to be paid under section 24;
+
+and pay amounts so deducted to the Child Support Registrar.
+
+             (2)  However, the Secretary must not deduct an amount under subsection (1) in contravention of section 228.
+
+             (3)  If the Secretary deducts an amount under subsection (1), then:
+
+                     (a)  on the day the amount is deducted, the total amount of the child support debts of the person (being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_) is taken to be reduced by an amount equal to the amount deducted; and
+
+                     (b)  on the day the amount is deducted, the person is taken to have been paid an amount of family tax benefit equal to the amount deducted.
+
+             (4)  A deduction under subsection (1) may result in the family tax benefit that the person is entitled to be paid being reduced to nil.
+
+##### <a id="228"></a>228  Maximum deduction
+
+             (1)  This section applies if a notice is given under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ to a person that specifies:
+
+                     (a)  an amount to be deducted from family tax benefit that the person is entitled to be paid on a day or days specified in the notice; or
+
+                     (b)  a method of working out such an amount.
+
+             (2)  The amount deducted on a particular day must not exceed the total amount of the child support debts of the person on that day, being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_.
+
+             (3)  If, on a day specified in the notice, the person has at least one FTB child, or one regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit who is not a designated child support child of the person, the amount deducted on that day must not exceed the difference between:
+
+                     (a)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (b)  the amount of family tax benefit that the person would be entitled to be paid on that day, assuming that each designated child support child of the person was neither an FTB child, nor a regular care child, of the person on that day.
+
+             (4)  If, on a day specified in the notice:
+
+                     (a)  each FTB child, and each regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit is a designated child support child of the person; and
+
+                     (b)  an income support payment or an income support supplement is payable to the person;
+
+the amount deducted on that day must not exceed the difference between:
+
+                     (c)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (d)  the forgone amount in respect of the person’s income support payment or income support supplement.
+
+             (5)  For the purposes of subsection (4), the **_forgone amount_**, in respect of a person’s income support payment or income support supplement, is the amount that represents the difference between:
+
+                     (a)  the amount of the income support payment or the income support supplement that would have been payable to the person if the person had not been entitled to be paid family tax benefit on that day; and
+
+                     (b)  the amount of the income support payment or the income support supplement payable to the person on that day.
+
+             (6)  In this section:
+
+                    <a name="person"></a><a name="design-child-support-child"></a>**_designated child support child_** **_of a person_** has the same meaning as in section 72AB of the _Child Support (Registration and Collection) Act 1988._
+
+                    <a name="incom-support-payment"></a>**_income support payment_** has the same meaning as in the _Social Security Act 1991_.
+
+                    <a name="incom-support-supplem"></a>**_income support supplement_** has the same meaning as in Part IIIA of the _Veterans’ Entitlements Act 1986_.
+
+##### <a id="229"></a>229  Judicial notice of certain matters
+
+             (1)  All courts are to take judicial notice of a signature that purports to be attached or appended to any official document produced under the family assistance law, if the signature is of a person who is or has been an officer.
+
+             (2)  If the signature of a person referred to in subsection (1) purports to be attached or appended to any official document produced under the family assistance law, all courts are to take judicial notice of the fact that the person is, or has been, an officer.
+
+##### <a id="230"></a>230  Documentary evidence
+
+             (1)  If the signature of any person who is or has been an officer purports to be attached or appended to any official document, the document is to be received in all courts as prima facie evidence of the facts and statements contained in it.
+
+             (2)  A statement in writing signed by a person referred to in subsection (1) that another person is or was entitled to, or had received, a payment under this Act on a certain date and of a certain amount is to be received in all courts as prima facie evidence that the person is or was entitled to, or had received, the payment on the date, and of the amount, stated.
+
+##### <a id="231"></a>231  Application of family assistance law to unincorporated bodies
+
+             (1)  The family assistance law applies to an unincorporated body or association (the **_body_**) as if it were a person other than an individual, but it applies with the following 3 changes.
+
+Imposition of obligations
+
+             (2)  Subject to subsection (2A), the first change is that obligations that would be imposed on the body are imposed instead on:
+
+                     (a)  if the body is a partnership—each partner; or
+
+                     (b)  in any other case—each member of the committee of management of the body;
+
+but they may be discharged by any of the partners or any of those members.
+
+          (2A)  If:
+
+                     (a)  an unincorporated body or association is operating an approved child care service; and
+
+                     (b)  a debt becomes due to the Commonwealth by the service under Part 4;
+
+then subsection (2) does not apply in relation to the debt and the debt is taken to be a debt owed by the service.
+
+Note:          One of the effects of this subsection is that subsection 82(2) rather than subsection 82(1) will apply to the debt. Subsection 82(2) provides more ways of recovering debts than subsection 82(1) (for example, setting off debts against advances is permissible).
+
+Commission of offences
+
+             (3)  The second change is that any offence against this Act that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission.
+
+Contravention of civil penalty provisions
+
+             (4)  The third change is that any contravention of a civil penalty provision that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention.
+
+##### <a id="232"></a>232  Annual report
+
+             (1)  As soon as practicable after 30 June in each year, the Secretary must give the Minister a written report on the administrative operation of the family assistance law during the financial year that ended on that 30 June.
+
+             (2)  The Minister is to cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+
+##### <a id="233"></a>233  Appropriation
+
+                   Payments under this Act are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="234"></a>234  Agreements on administrative arrangements
+
+             (1)  The Secretary and the Principal Member may agree on administrative arrangements to further the objectives of Division 2 of Part 5.
+
+             (2)  The Secretary and the Commissioner of Taxation may agree on administrative arrangements to further the objectives of this Act.
+
+##### <a id="235"></a>235  Regulations
+
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient for carrying out or giving effect to this Act.
+
+Offences and civil penalties
+
+          (1A)  Without limiting subsection (1), the regulations may:
+
+                     (a)  prescribe penalties for offences against the regulations that do not exceed a fine of 10 penalty units; and
+
+                     (b)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
+
+                              (i)  for a body corporate—250 penalty units; or
+
+                             (ii)  in any other case—50 penalty units.
+
+Fees
+
+             (2)  Without limiting subsection (1), the regulations may prescribe fees for the making of applications under section 194 or 207\. Any such fees must not be such as to amount to taxation.
+
+Proof of making of claims etc.
+
+             (3)  Without limiting subsection (1), if a provision of the family assistance law provides that the Secretary or another officer may approve:
+
+                     (a)  the form or manner of making or withdrawing any application or claim; or
+
+                     (b)  the way of doing any other thing that is required or permitted to be done for the purposes of that law;
+
+the regulations may make provision for the proof of the making or withdrawing of the application or claim, or the doing of the other thing, for the purposes of any legal proceedings.
+
+Date of effect of review decisions
+
+             (4)  Without limiting subsection (1), the regulations may provide that specified decisions by:
+
+                     (a)  the Secretary under any provision of this Act; or
+
+                     (b)  an authorised review officer, the Social Security Appeals Tribunal, or the Administrative Appeals Tribunal, under Part 5;
+
+that have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment, only have effect from a specified day before the making of the decisions.
+
+# Notes to the _A New Tax System (Family Assistance) (Administration) Act 1999_
+
+### Note 1
+
+The _A New Tax System (Family Assistance) (Administration) Act 1999_ as shown in this compilation comprises Act No. 81, 1999 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_, _see_ Act No. 65, 2010.
+
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="15%">
+  <col width="0%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance) (Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>81, 1999</div>
+  </td>
+  <td>
+    <div>8 July 1999</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: 1 July 2000 ( <i>see</i>s. 2(2))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>179, 1999</div>
+  </td>
+  <td>
+    <div>22 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 5, 6): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999</div>
+  </td>
+  <td>
+    <div>192, 1999</div>
+  </td>
+  <td>
+    <div>23 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 4: 1 July 2000 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>44, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 1): <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>45, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedules 2, 5 and 6: <i>(d)</i></div>
+  </td>
+  <td>
+    <div>Schs. 5 and 6</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services (2000 Budget and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>138, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 7–10): 1 Jan 2001 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001</div>
+  </td>
+  <td>
+    <div>47, 2001</div>
+  </td>
+  <td>
+    <div>12 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–27, 29, 32, 33), Schedule 3 (items 1–15) and Schedule 4 (items 1–8A): 1 July 2001 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>75, 2001</div>
+  </td>
+  <td>
+    <div>30 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1A (items 22–24): 1 July 2002 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>137, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Estimate Tolerance (Transition) Act 2001</div>
+  </td>
+  <td>
+    <div>138, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002</div>
+  </td>
+  <td>
+    <div>95, 2002</div>
+  </td>
+  <td>
+    <div>10 Nov 2002</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 1 July 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>30, 2003</div>
+  </td>
+  <td>
+    <div>15 Apr 2003</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 2 (items 14–51): Royal Assent 
+Schedule 2 (item 72): <i>(g)</i> 
+Schedule 2 (item 83): 1 July 2000 
+Schedule 2 (items 84–86): <i>(g)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>35, 2003</div>
+  </td>
+  <td>
+    <div>24 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 4–6): 24 Apr 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>122, 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 1–4): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>150, 2003</div>
+  </td>
+  <td>
+    <div>19 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 95): <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004</div>
+  </td>
+  <td>
+    <div>33, 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 6)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
+  </td>
+  <td>
+    <div>52, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 9, 10): 1 July 2004 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—Increased Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>59, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9, 10, 11(1)) and Schedule 2 (items 12–33): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 11(1)) and Sch. 2 (items 14, 25, 27, 29, 31, 33)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—One‑off Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>60, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2004 Election Commitments) Act 2004</div>
+  </td>
+  <td>
+    <div>132, 2004</div>
+  </td>
+  <td>
+    <div>8 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 44)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>29, 2005</div>
+  </td>
+  <td>
+    <div>21 Mar 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 8, 9, 10(1)): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>61, 2005</div>
+  </td>
+  <td>
+    <div>26 June 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–6), Schedule 3 (items 2, 3) and Schedule 4 (items 1–30): 1 July 2005 
+Schedule 3 (item 4): 1 Jan 2005 
+Schedule 3 (items 5–10, 
+14–17): 1 Jan 2006 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 12), Sch. 2 (items 
+4–7) and Sch. 3 (items 9, 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>111, 2005</div>
+  </td>
+  <td>
+    <div>6 Sept 2005</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 84–89): 1 Oct 2005</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Welfare to Work) Act 2005</div>
+  </td>
+  <td>
+    <div>150, 2005</div>
+  </td>
+  <td>
+    <div>14 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–17) and Schedule 2 (items 15–35): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 16, 17) and 
+Sch. 2 (item 35)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2005 Measures No. 4) Act 2005</div>
+  </td>
+  <td>
+    <div>160, 2005</div>
+  </td>
+  <td>
+    <div>19 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 11): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance, Social Security and Veterans’ Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>36, 2006</div>
+  </td>
+  <td>
+    <div>3 May 2006</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 5: 4 May 2006 
+Schedule 4: 1 July 2006</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 20), Sch. 4 (item 2) and Sch. 5 (items 6, 7)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>82, 2006</div>
+  </td>
+  <td>
+    <div>30 June 2006</div>
+  </td>
+  <td>
+    <div>Schedule 10: 1 July 2006 
+Schedule 11: 1 July 2002</div>
+  </td>
+  <td>
+    <div>Sch. 11 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>108, 2006</div>
+  </td>
+  <td>
+    <div>27 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2: (items 1, 2) and Schedule 8: (items 40–75): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>146, 2006</div>
+  </td>
+  <td>
+    <div>6 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 73): Royal Assent 
+Schedule 5 (items 78–89) and Schedule 8 (items 92–109, 145(1)): 1 July 2008</div>
+  </td>
+  <td>
+    <div>Sch. 8 (item 145(1)) Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (item 16): <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>82, 2007</div>
+  </td>
+  <td>
+    <div>21 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 2–7, 25–37): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 6 (items 7, 37)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>113, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 12–18, 23): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 23)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>118, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1: <i>(j)</i> 
+Schedule 2: 1 July 2007 
+Schedule 3: 29 June 2007 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 91, 92, 94–96, 97, 98, 99, 101), Sch. 2 (item 9) and Sch. 3 (items 
+39–47) 
+Sch. 1 (item 93) (am. by 34, 2010, Sch. 5 \[item 1]) 
+Sch. 1 (item 96A) (ad. by 34, 2010, Sch. 5 \[item 2]; am. by 34, 2010, Sch. 5 \[item 4]) 
+Sch. 1 (item 97B) (ad. by 34, 2010, Sch. 5 \[item 3]; am. by 34, 2010, Sch. 5 \[item 5] \[as am. by 79, 2011, Sch. 1 \[item 35]]; am. by 34, 2010, Sch. 5 \[items 6, 7]) 
+Sch. 1 (item 97C) (ad. by 34, 2010, Sch. 1 \[item 29]; am. by 25, 2011, Sch. 2 \[item 15]; am. by 79, 2011, Sch. 1 \[item 33])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007— continued</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 102) (ad. by 34, 2010, Sch. 6 \[item 1])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 29), Schedules 5 and 6: ( <i>see</i>34, 2010 below)</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 35): <i>(k)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 15): <i>(n)</i> 
+Schedule 3 (item 9): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 33): 26 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007</div>
+  </td>
+  <td>
+    <div>130, 2007</div>
+  </td>
+  <td>
+    <div>17 Aug 2007</div>
+  </td>
+  <td>
+    <div>18 Aug 2007</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 7) 
+Ss. 4–7 (rep. by 93, 2010, Sch. 1 \[item 3])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010</div>
+  </td>
+  <td>
+    <div>93, 2010</div>
+  </td>
+  <td>
+    <div>29 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3, 4): 31 Dec 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Dental Benefits (Consequential Amendments) Act 2008</div>
+  </td>
+  <td>
+    <div>42, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2, 3): 26 June 2008 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>53, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 14–63): 7 July 2008 
+Schedule 1 (item 64), Schedule 3 and Schedule 5 (items 6–22, 
+24–27, 29–31): Royal Assent Schedule 2 
+(items 13–40): 1 July 2008 
+Schedule 4: 26 June 2008 Schedule 5 (item 23): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 63, 64), Sch. 2 (items 
+32–35, 36(1), 
+37–40), Sch. 3 (items 26, 27), Sch. 4 (items 86, 87) and Sch. 5 (items 
+27, 29–31) 
+Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 15, 39): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 6 (items 10, 11, 13, 15): Royal Assent 
+Schedule 2 (items 16–21, 22(1), 24–34, 43, 44): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>S. 4, Sch. 2 (items 22(1), 34, 44) and Sch. 6 (item 15)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008</div>
+  </td>
+  <td>
+    <div>131, 2008</div>
+  </td>
+  <td>
+    <div>1 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 5–15): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Education Refund) Act 2008</div>
+  </td>
+  <td>
+    <div>141, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 10): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>143, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 10–14): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+12–14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+  </td>
+  <td>
+    <div>144, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 21, 22): 1 July 2009</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Household Stimulus Package Act (No. 2) 2009</div>
+  </td>
+  <td>
+    <div>4, 2009</div>
+  </td>
+  <td>
+    <div>18 Feb 2009</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 4–14): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>48, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2–6, 8–12, 14, 15): 1 July 2009 
+Schedule 1 (items 7, 16): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 12, 14–16)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>49, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–3, 7) and Schedule 3: 1 July 2009 
+Schedule 2 (items 4–6, 8): 1 July 2010 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 2), Sch. 2 (items 7, 8) and Sch. 3 (items 3, 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–15, 
+23–38, 42, 43), Schedule 2 (items 11–22), Schedule 3 and Schedule 5 (items 2–12): Royal Assent 
+Schedule 4 (items 1–9): 25 June 2009 
+Schedule 4 (items 10–14): 24 Dec 2009 
+Schedule 5 (items 13–19): 22 July 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 42, 43), Sch. 2 (items 
+20–22), Sch. 3 (items 2, 5) and Sch. 5 (items 3, 8, 10, 19)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Participation Requirement) Act 2009</div>
+  </td>
+  <td>
+    <div>129, 2009</div>
+  </td>
+  <td>
+    <div>10 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–14): 1 Jan 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 13, 14) (am. by 45, 2010, Sch. 3)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3: ( <i>see</i>45, 2010 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+  </td>
+  <td>
+    <div>4, 2010</div>
+  </td>
+  <td>
+    <div>19 Feb 2010</div>
+  </td>
+  <td>
+    <div>Schedule 10 (items 2, 3): 20 Feb 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>33, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–14): 14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 4: 11 May 2010 
+Schedules 3 and 6: 14 Apr 2010 
+Schedule 5 (items 1–3): 29 June 2007 
+Schedule 5 (items 4–7): 16 May 2009 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 28), Sch. 2 (item 6), Sch. 3 (item 2), Sch. 4 (item 5), Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>38, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–5, 16(1), (2), 18–50, 
+157–163): 11 May 2010 
+Schedule 6 and Schedule 7 (item 8): 1 July 2010</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 
+16(1), (2), 157–163) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–5, 7, 8): Royal Assent 
+Schedule 3: <i>(l)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 7, 8)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>65, 2010</div>
+  </td>
+  <td>
+    <div>28 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 22–38, 100–112) and Schedule 3 (items 1–12): 1 July 2010 
+Schedule 3 (items 13–15): <i>(m)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 
+100–112) and Sch. 3 (item 15) \[ <i>see</i>Note 1]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Paid Parental Leave (Consequential Amendments) Act 2010</div>
+  </td>
+  <td>
+    <div>105, 2010</div>
+  </td>
+  <td>
+    <div>14 July 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 19–28, 30, 31) and Schedule 2 (items 1, 2, 5): 1 Oct 2010 ( <i>see</i>s. 2(1)) 
+Schedule 1 (item 29): 1 Jan 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 1, 2, 5)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 6–8): Royal Assent 
+Schedule 7 (item 16): 19 Apr 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–81): 22 Apr 2011 
+Schedule 2 (items 1–13): <i>(n)</i> 
+Schedule 3 (items 1–8): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+77–81) and Sch. 2 (item 13) 
+S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 19–45, 655): 1 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>34, 2011</div>
+  </td>
+  <td>
+    <div>26 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 16, 17(1)): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 17(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>50, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 13, 17(5)): 1 Jan 2012 
+Schedule 3: 1 July 2011 
+Schedule 5 (item 1): 28 June 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 17(5)) and Sch. 3 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>53, 2011</div>
+  </td>
+  <td>
+    <div>28 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–20), Schedule 2 (items 5–8) and Schedule 5 (items 19–31): 1 July 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+17–20)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–4, 7–32, 34), Schedule 4 (items 3, 5–7) and Schedule 5: 26 July 2011 
+Schedule 2 (item 4) and Schedule 3 (items 1–6): 22 Aug 2011 
+Schedule 4 (item 4): <i>(o)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 34), Sch. 3 (item 6), Sch. 4 (item 7) and Sch. 5 (item 21) 
+S. 2(1) (item 5) (rs. by 32, 2011, Sch. 4 \[item 658]) 
+S. 2(1) (items 
+6–12) (ad. by 32, 2011, Sch. 4 \[item 658])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): 26 July 2011 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 658): <i>(p)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Financial Viability) Act 2011</div>
+  </td>
+  <td>
+    <div>120, 2011</div>
+  </td>
+  <td>
+    <div>14 Oct 2011</div>
+  </td>
+  <td>
+    <div>15 Oct 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 26)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Clean Energy (Household Assistance Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>141, 2011</div>
+  </td>
+  <td>
+    <div>29 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 4–14, 33, 34(1), 47): 14 May 2012 
+Schedule 8 (items 6–17): <i>(r)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 34(1)) and Sch. 8 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment Act 2012</div>
+  </td>
+  <td>
+    <div>49, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–6, 
+15–45, 52), Schedule 3 (items 3–10) and Schedule 6 (items 29–32): 1 July 2012 
+Schedule 2 (items 3, 4) and Schedule 6 (items 26, 27): Royal Assent 
+Schedule 6 (item 28): <i>(s)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 52), Sch. 3 (item 10) and Sch. 6 (item 27)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>50, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–13) and Schedule 2 (items 13–17): 27 May 2012 
+Schedule 1 (item 25) and Schedule 2 (item 22): <i>(t)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>98, 2012</div>
+  </td>
+  <td>
+    <div>29 June 2012</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 14, 17): \[ <i>see</i>Note 2 and Table A] 
+Schedule 7 (item 15): 30 June 2012</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>154, 2012</div>
+  </td>
+  <td>
+    <div>17 Nov 2012</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–28, 
+159–162): 15 Dec 2012 
+Schedule 5 (item 60) and Schedule 6 (item 7): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 
+159–162)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
+  </td>
+  <td>
+    <div>169, 2012</div>
+  </td>
+  <td>
+    <div>3 Dec 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 148): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
+
+_(a)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1 (items 5 and 6) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(b)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 4 only of the _Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999_, subsection 2(3) of which provides as follows:
+
+                 (3)   Schedules 3 and 4 commenced on 1 July 2000.
+
+_(c)_ The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 3 (item 1) only of the _A New Tax System (Tax Administration) Act (No. 1) 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Tax Administration) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(d)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsection 2(4) of which provides as follows:
+
+                 (4)   Schedule 2, items 3 to 5 and 15 to 57 of Schedule 3 and Schedules 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+         The provisions referred to in subsection 2(2) commenced on 1 July 2000.
+
+_(e)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 (items 7–10) only of the _Family and Community Services (2000 Budget and Related Measures) Act 2000_, subsection 2(2)(b) of which provides as follows:
+
+                 (2)   The following provisions:
+
+                              (b)   Schedules 2 and 3;
+
+                         commence on 1 January 2001.
+
+_(f)_      The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1A (items 22–24) only of the _Child Support Legislation Amendment Act 2001_, subsection 2(1A)(a) of which provides as follows:
+
+               (1A)   Items 22, 23, 24, 25 and 26 of Schedule 1A commence on whichever of the following days applies:
+
+                              (a)   if this Act receives the Royal Assent on or before 1 July 2002—on 1 July 2002;
+
+_(g)_     Subsection 2(1) (items 8 and 10) of the _Family and Community Services Legislation Amendment Act 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 52 to 72
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions of the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>referred
+        to in subsection 2(2) of that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 2, items 84 to 86
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr></table>
+
+_(h)_     Subsection 2(1) (item 8) of the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 95 to 103
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 January 2004; and
+    </div>
+    <div>
+      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+        <i>Higher Education Support Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2004
+    </div>
+  </td>
+</tr></table>
+
+_(i)_      Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation__Amendment (2008 Budget and Other Measures)__Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      21\. Schedule 6, items 16 and 17
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of items 73 and 74 of Schedule 5 to
+        the
+        <i>Child Support Legislation Amendment (Reform of the Child Support Scheme—New
+          Formula and Other Measures) Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      6 December 2006
+    </div>
+  </td>
+</tr></table>
+
+_(j)_      Subsection 2(1) (items 2 and 4) of the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 4.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr></table>
+
+_(k)_     Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Family Assistance Legislation Amendment (Child Care) Act 2010</i>for the
+        commencement of item 5 of Schedule 5 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 May 2009
+    </div>
+  </td>
+</tr></table>
+
+_(l)_      Subsection 2(1) (item 3) of the _Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to the
+        <i>Family Assistance Legislation Amendment (Participation Requirement) Act
+          2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2010
+    </div>
+  </td>
+</tr></table>
+
+_(m)_ Subsection 2(1) (item 4) of the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, items 13 to 15
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 6 of Schedule 2 to the
+        <i>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2010
+    </div>
+  </td>
+</tr></table>
+
+_(n)_ Subsection 2(1) (items 25 and 27–32) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      25\. Schedule 2, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      27\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provision(s) covered by table item 25.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      28\. Schedule 3, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      29\. Schedule 3, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      30\. Schedule 3, item 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 3, items 4 and 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      32\. Schedule 3, items 6 to 10
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 6) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if item 655 of Schedule 4 to the
+        <i>Human Services Legislation Amendment Act 2011</i>commences before the
+        day after this Act receives the Royal Assent, the provision(s) do not commence
+        at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr></table>
+
+_(p)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      7B. Schedule 4, Part 6
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+    <div>
+      However, if section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences before the day this Act receives the Royal
+        Assent, the provision(s) do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      25 July 2011
+    </div>
+  </td>
+</tr></table>
+
+_(q)_     Subsection 2(1) (items 3 and 4) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 8 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 2, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      21 April 2011
+    </div>
+  </td>
+</tr></table>
+
+_(r)_     Subsection 2(1) (items 6 and 16) of the **_Clean Energy (Household Assistance Amendments) Act 2011_** provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+        <i>.</i>
+
+    </div>
+    <div>
+      However, if section 3 of the
+        <i>Clean Energy Act 2011</i>does not commence before 14 May 2012, the provision(s)
+        do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      16\. Schedule 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 6.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(s)_     Subsection 2(1) (item 17) of the _Family Assistance and Other Legislation Amendment Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      17\. Schedule 6, item 28
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>Clean Energy (Household Assistance Amendments) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(t)_      Subsection 2(1) (items 3 and 5) of the _Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2012
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2012
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. Nos. 45 and 138, 2000; No. 47, 2001; Nos. 30 and 150, 2003; No. 59, 2004; No. 111, 2005; Nos. 36 and 82, 2006; Nos. 82 and 118, 2007; No. 53, 2008; Nos. 48 and 50, 2009; Nos. 34, 38, 65 and 105, 2010; Nos. 5, 25, 32, 53, 79, 120 and 141, 2011; Nos. 49 and 154, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 179, 1999; No. 45, 2000; No. 122, 2003; No. 33, 2004; No. 63, 2008; No. 48, 2009; No. 38, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 48, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15B</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 16(4)</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 16(5), (6)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 20</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 20</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 20A, 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 137, 2001; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 28B(2), (3)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 29(2)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 129, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 30B</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 31A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 31C, 31D</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31E</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31E</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AA</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2009; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32AB, 32AC</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AD</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32AE</div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AE</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CB of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AF</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AG</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AH</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AI</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AK</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AL</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AM</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005; No. 61, 2005; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32B, 32C</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32D</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32E–32H</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32J</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32K</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 34, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32L</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32M, 32N</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32P</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32Q</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32R</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 61, 2005; No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 95, 2002; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35C, 35D</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35E</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35F</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35G</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 63, 2008; No. 105, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38A</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38B</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38B</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(2)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(3)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 61, 2005; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 53, 2011; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(3)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(7)</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010; No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(2)</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 130, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(5)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 82 and 130, 2007; No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011; Nos. 49 and 98, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AA</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47AB</div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead to s. 47AB(2)</div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AB</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47B</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47C</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49A, 49B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 53, 2008; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49E, 49F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49G, 49H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49K–49N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50D–50G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50K</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50L, 50M</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50P</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50Q</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50R</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50S–50U</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50V</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50W–50Y</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CB of Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50Z</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50Z(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50ZA(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52A–52C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52D, 52E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 52H(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53A–53C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53D, 53E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 53F(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 54A, 54B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision H</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 55</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55AA, 55AB</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55AC</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55B, 55C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision J</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 95, 2002; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision K</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 132, 2004; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision L</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 57B, 57C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 57D, 57E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57G</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision M</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 58A, 58B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision N</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 59A–59C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59G</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision P</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60B</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision Q</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision R</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 62</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 62B, 62C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62CA</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision S</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision T</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision U</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64A(5)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64B(6)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64C(5)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 64D</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64D(2)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64DA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64EA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 65B(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65BA, 65BB</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65D(4)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65DA</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4AA of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AAA of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65EAAAA–65EAAAC</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AAB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AAB of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65EAAA–65EAAD</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAAE</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAAF</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. AA of 
+Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AA of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAA</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EAA(1)</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAB</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAB</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAC</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAC</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EA</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EA(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EA(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EA</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EB</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EB(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EB(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EB</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EC</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EC</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65ECA</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65ED</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EE</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EF</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EF</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65F</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4B of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65G</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4C of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65H</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4CA of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65HA</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4D of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65J</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4E of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65K</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65KA–65KF</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65KG–65KT</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; Nos. 59 and 60, 2004; No. 108, 2006; Nos. 82, 118 and 130, 2007; Nos. 53, 63 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25 and 53, 2011; No. 79, 2011 (as am. by No. 25, 2011); No. 141, 2011; Nos. 49 and 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68A </div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 60, 2004; No. 131, 2008; No. 4, 2009; No. 34, 2010; Nos. 25 and 141, 2011; No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71</div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71(1)</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 59, 2004; No. 82, 2007; No. 141, 2011; Nos. 49 and 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71B</div>
+  </td>
+  <td>
+    <div>rs. No. 30, 2003; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAA</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71CAB(1)</div>
+  </td>
+  <td>
+    <div>rs. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAB</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAC</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CB</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71G</div>
+  </td>
+  <td>
+    <div>rs. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71G(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71G(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71GA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71GB</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71I</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71J</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71K</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71L</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71M</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>rep. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 60, 2004; No. 131, 2008; No. 4, 2009; No. 141, 2011; No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 4, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 77, 78</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 78A, 78B</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 30, 2003; No. 60, 2004; No. 36, 2006; Nos. 113 and 118, 2007; Nos. 53 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25, 79 and 141, 2011; No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 30, 2003; No. 52, 2004; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 84A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 53, 2008; No. 50, 2009; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 86</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 87A</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87B</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 91</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 92A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 113, 2007; No. 53, 2008; No. 50, 2009; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 60, 2004; Nos. 113 and 118, 2007; Nos. 53 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25 and 141, 2011; Nos. 49 and 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 95(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 95(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead to s. 95(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 61, 2005; No. 118, 2007; No. 53, 2008; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 53, 2008; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 138, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>rep. No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part 5</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 104(1)</div>
+  </td>
+  <td>
+    <div>rep. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 118, 2007; No. 53, 2008; No. 50, 2009; No. 34, 2010; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 105A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 29 and 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105B</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; Nos. 60 and 132, 2004; No. 146, 2006; No. 118, 2007; No. 131, 2008; No. 4, 2009; No. 38, 2010; No. 141, 2011; No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 107</div>
+  </td>
+  <td>
+    <div>am. No. 192, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No. 192, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 132, 2004; No. 53, 2011; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 146, 2006; No. 118, 2007; No. 53, 2008; No. 50, 2009; No. 34, 2010; Nos. 25, 32 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 109A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009; No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 146, 2006; No. 118, 2007</div>
+  </td>
