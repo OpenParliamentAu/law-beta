@@ -1,26 +1,27 @@
-![](http://www.comlaw.gov.au/Details/C2011C00957/Html/387c8be9-0682-4af9-86b7-ce41b8544a66_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00554/Html/D925691288B74D5BCA25711C001E21BE/$FILE/image001.gif)
 
 # National Residue Survey (Excise) Levy Act 1998
 
 **Act No. 33 of 1998 as amended**
 
-This compilation was prepared on 19 December 2011
- taking into account amendments up to Act No. 175 of 2011
+This compilation was prepared on 31 August 2005
+taking into account amendments up to Act No. 109 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title \[see Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement \[see Note 1]
 
 [3](#3).            Simplified outline
 
@@ -246,13 +247,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to impose National Residue Survey Levies that are duties of excise
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title \[see Note 1]
 
                    This Act may be cited as the _National Residue Survey (Excise) Levy Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement \[see Note 1]
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
@@ -262,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 •      This Act imposes National Residue Survey Levies that are duties of excise.
 
@@ -270,13 +274,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                (a)     the operative rate of the levy; and
 
-              (b)     the maximum rate of the levy; and
+               (b)     the maximum rate of the levy; and
 
                (c)     the person who is liable to pay the levy; and
 
-              (d)     any exemptions from the levy.
-
-* * *
+               (d)     any exemptions from the levy.</div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -296,11 +298,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Schedule 1—Cattle transactions
 
@@ -308,7 +311,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Schedule:
 
-                    <a name="lot-fed-cattl"></a><a name="licens-dairi-farmer"></a><a name="dairi-cattl"></a><a name="cattl"></a>**_cattle_**, **_dairy cattle_**, **_licensed dairy farmer_** and **_lot‑fed cattle_** have the same respective meanings as in Schedule 3 to the _Primary Industries (Excise) Levies Act 1999_.
+                    <a name="lot-fed-cattl"></a><a name="licens-dairi-farmer"></a><a name="dairi-cattl"></a><a name="cattl"></a>**_cattle_**, **_dairy cattle_**, **_licensed dairy farmer_** and **_lot-fed cattle_** have the same respective meanings as in Schedule 3 to the _Primary Industries (Excise) Levies Act 1999_.
 
              (2)  For the purposes of this Schedule, in determining the weight of a carcase immediately after it has been dressed, no adjustment of that weight is to be made on account of shrinkage.
 
@@ -350,7 +353,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  by devolution on the death of the owner of the cattle; or
 
-                            (iii)  on the happening of events referred to in subsection 70‑100(1) of the _Income Tax Assessment Act 1997_; or
+                            (iii)  on the happening of events referred to in subsection 70-100(1) of the _Income Tax Assessment Act 1997_; or
 
                      (g)  on a leviable bobby calf on which levy under this Schedule  has already been paid; or
 
@@ -378,9 +381,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 is:
 
-                     (c)  32 cents per each head of cattle (other than a head of lot‑fed cattle or a leviable bobby calf) or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate; and
+                     (c)  32 cents per each head of cattle (other than a head of lot-fed cattle or a leviable bobby calf) or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate; and
 
-                    (ca)  32 cents per each head of lot‑fed cattle or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate; and
+                    (ca)  32 cents per each head of lot-fed cattle or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate; and
 
                      (d)  26 cents per each head of cattle that is a leviable bobby calf or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate.
 
@@ -400,7 +403,7 @@ but does not include:
 
                      (d)  a buffalo; or
 
-                     (e)  a head of lot‑fed cattle; or
+                     (e)  a head of lot-fed cattle; or
 
                       (f)  a calf at foot with a cow.
 
@@ -413,6 +416,7 @@ but does not include:
              (2)  The National Residue Survey Levy imposed on the delivery of cattle by paragraph 2(1)(b) is payable by the person who owned the cattle immediately before the delivery.
 
              (3)  The National Residue Survey Levy imposed on the slaughter of cattle by paragraph 2(1)(c) or (d) is payable by the person who owned the cattle at the time of the slaughter.
+
 
 # Schedule 2—Coarse grain
 
@@ -498,7 +502,7 @@ National Residue Survey Levy is not imposed by this Schedule on the grain.
 
                      (a)  the grain is produced by a producer and is processed by or for the producer; and
 
-                     (b)  all the products and by‑products of the processing of that grain are used by the producer for domestic purposes but not for commercial purposes.
+                     (b)  all the products and by-products of the processing of that grain are used by the producer for domestic purposes but not for commercial purposes.
 
           (2A)  If, in a levy year:
 
@@ -525,6 +529,7 @@ National Residue Survey Levy is not imposed by this Schedule on the grain.
 ##### <a id="7"></a>7  Who pays the levy
 
                    The National Residue Survey Levy imposed by this Schedule on leviable coarse grain is payable by the producer of the grain.
+
 
 # Schedule 3—Dairy produce
 
@@ -590,6 +595,9 @@ other than dairy produce referred to in subclause (1).
 
              (2)  The National Residue Survey Levy imposed on relevant dairy produce by subclause 2(2) is payable by the manufacturer of the relevant dairy produce.
 
+ 
+
+
 # Schedule 4—Dried fruits
 
 ##### <a id="1"></a>1  Definitions
@@ -628,6 +636,7 @@ other than dairy produce referred to in subclause (1).
 
                    The National Residue Survey Levy imposed by this Schedule on dried fruits is payable by the producer of the dried fruits.
 
+
 # Schedule 5—Game animals
 
 ##### <a id="1"></a>1  Definitions
@@ -661,90 +670,82 @@ other than dairy produce referred to in subclause (1).
 <thead>
   <tr>
     <td colspan="4">
-      <div>
-        <b>Rate of levy</b>
-      </div>
+      <div><b>Rate of levy</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Class of game animal</b>
-      </div>
+      <div><b>Class of game animal</b></div>
     </td>
     <td>
-      <div>
-        <b>Operative rate of levy</b>
-      </div>
+      <div><b>Operative rate of levy</b></div>
     </td>
     <td>
-      <div>
-        <b>Maximum rate of levy</b>
-      </div>
+      <div><b>Maximum rate of levy</b></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Pigs</div>
-  </td>
-  <td>
-    <div>12 cents per carcase</div>
-  </td>
-  <td>
-    <div>40 cents per carcase</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Goats</div>
-  </td>
-  <td>
-    <div>3 cents per carcase</div>
-  </td>
-  <td>
-    <div>40 cents per carcase</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Kangaroos</div>
-  </td>
-  <td>
-    <div>4 cents per carcase</div>
-  </td>
-  <td>
-    <div>40 cents per carcase</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Other game</div>
-  </td>
-  <td>
-    <div>0 cents per carcase</div>
-  </td>
-  <td>
-    <div>40 cents per carcase</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Pigs</div>
+    </td>
+    <td>
+      <div>12 cents per carcase</div>
+    </td>
+    <td>
+      <div>40 cents per carcase</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Goats</div>
+    </td>
+    <td>
+      <div>3 cents per carcase</div>
+    </td>
+    <td>
+      <div>40 cents per carcase</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Kangaroos</div>
+    </td>
+    <td>
+      <div>4 cents per carcase</div>
+    </td>
+    <td>
+      <div>40 cents per carcase</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Other game</div>
+    </td>
+    <td>
+      <div>0 cents per carcase</div>
+    </td>
+    <td>
+      <div>40 cents per carcase</div>
+    </td>
+  </tr>
+</tbody></table>
 
              (2)  The regulations may prescribe different rates in relation to different kinds of game animals within a class of game animals.
 
@@ -753,6 +754,9 @@ other than dairy produce referred to in subclause (1).
 ##### <a id="4"></a>4  Who pays the levy
 
                    National Residue Survey Levy imposed by this Schedule on the processing of game animals is payable by the producer of the game animals.
+
+ 
+
 
 # Schedule 6—Grain legumes
 
@@ -834,7 +838,7 @@ National Residue Survey Levy is not imposed by this Schedule on the grain legume
 
                      (a)  the grain legumes are processed by or for the producer; and
 
-                     (b)  all the products and by‑products of the processing of those grain legumes are used by the producer for domestic purposes but not for commercial purposes.
+                     (b)  all the products and by-products of the processing of those grain legumes are used by the producer for domestic purposes but not for commercial purposes.
 
              (5)  If, in a levy year:
 
@@ -860,11 +864,12 @@ National Residue Survey Levy is not imposed by this Schedule on the grain legume
 
                    The National Residue Survey Levy imposed by this Schedule on leviable grain legumes is payable by the producer of the grain legumes.
 
+
 # Schedule 7—Honey
 
 ##### <a id="1"></a>1  Definitions
 
-                   In this Schedule:
+                   In this Schedule:
 
                     <a name="honei"></a>**_honey_** means honey that is produced in Australia.
 
@@ -916,6 +921,7 @@ National Residue Survey Levy is not imposed by this Schedule on the grain legume
 
              (2)  The National Residue Survey Levy imposed by this Schedule in relation to the use of honey in the production of other goods is payable by the person using that honey in that production.
 
+
 # Schedule 8—Horse slaughter
 
 ##### <a id="1"></a>1  Imposition of levy
@@ -931,6 +937,7 @@ National Residue Survey Levy is not imposed by this Schedule on the grain legume
 ##### <a id="3"></a>3  Who pays the levy
 
                    The National Residue Survey Levy imposed by this Schedule on the slaughter of horses is payable by the producer of the horses.
+
 
 # Schedule 9—Horticultural products
 
@@ -1122,6 +1129,7 @@ after the commencement of this Schedule.
 
                      (c)  the maturity of trees, shrubs or plants under cultivation for the production of those leviable horticultural products.
 
+
 # Schedule 10—Laying chickens
 
 ##### <a id="1"></a>1  Definitions
@@ -1151,6 +1159,7 @@ after the commencement of this Schedule.
 ##### <a id="4"></a>4  Who pays the levy
 
                    The National Residue Survey Levy imposed by this Schedule on laying chickens is payable by the proprietor of the hatchery where the laying chickens are hatched.
+
 
 # Schedule 11—Livestock slaughter
 
@@ -1188,9 +1197,9 @@ Pigs
 
              (1)  The rate of National Residue Survey Levy imposed by this Schedule on the slaughter of deer is:
 
-                     (a)  if the cold dressed carcase weight of the slaughtered deer is determined—3 cents per kilogram of that weight or, if another rate (not exceeding 10.5 cents) is prescribed by the regulations, the other rate; or
+                     (a)  if the cold dressed carcase weight of the slaughtered deer is determined—3 cents per kilogram of that weight or, if another rate (not exceeding 4 cents) is prescribed by the regulations, the other rate; or
 
-                     (b)  if the hot dressed carcase weight of the slaughtered deer is determined—3 cents per kilogram of that weight or, if another rate (not exceeding 10.5 cents) is prescribed by the regulations, the other rate; or
+                     (b)  if the hot dressed carcase weight of the slaughtered deer is determined—3 cents per kilogram of that weight or, if another rate (not exceeding 4 cents) is prescribed by the regulations, the other rate; or
 
                      (c)  if neither the cold dressed carcase weight nor the hot dressed carcase weight is determined—$1.80 per deer or, if another rate (not exceeding $2.40 per deer) is prescribed by the regulations, the other rate.
 
@@ -1215,6 +1224,7 @@ Buffaloes
 Deer and pigs
 
              (2)  The National Residue Survey Levy imposed by this Schedule on the slaughter of deer or pigs is payable by the producer of the deer or pigs.
+
 
 # Schedule 12—Meat chickens
 
@@ -1243,6 +1253,7 @@ Deer and pigs
 ##### <a id="4"></a>4  Who pays the levy
 
                    The National Residue Survey Levy imposed by this Schedule on meat chickens is payable by the producer of the chickens.
+
 
 # Schedule 13—Oilseeds
 
@@ -1322,7 +1333,7 @@ National Residue Survey Levy is not imposed by this Schedule on the oilseeds.
 
                      (a)  leviable oilseeds are processed by or for the producer of the oilseeds; and
 
-                     (b)  all the products and by‑products of the processing of the oilseeds are used by the producer for domestic purposes but not for commercial purposes;
+                     (b)  all the products and by-products of the processing of the oilseeds are used by the producer for domestic purposes but not for commercial purposes;
 
 National Residue Survey Levy is not imposed by this Schedule on the oilseeds.
 
@@ -1350,6 +1361,7 @@ National Residue Survey Levy is not imposed by this Schedule on the oilseeds.
 
                    The National Residue Survey Levy imposed by this Schedule on leviable oilseeds is payable by the producer of the oilseeds.
 
+
 # Schedule 14—Ratite slaughter
 
 ##### <a id="1"></a>1  Definitions
@@ -1373,6 +1385,7 @@ National Residue Survey Levy is not imposed by this Schedule on the oilseeds.
 ##### <a id="4"></a>4  Who pays the levy
 
                    The National Residue Survey Levy imposed by this Schedule on the slaughter of ratites is payable by the person who owns the ratites when the slaughter takes place.
+
 
 # Schedule 15—Sheep, lambs and goats transactions
 
@@ -1418,7 +1431,7 @@ National Residue Survey Levy is not imposed by this Schedule on the oilseeds.
 
                              (ii)  by devolution on the death of the owner of the sheep, lambs or goats; or
 
-                            (iii)  on the happening of events referred to in subsection 70‑100(1) of the _Income Tax Assessment Act 1997_; or
+                            (iii)  on the happening of events referred to in subsection 70-100(1) of the _Income Tax Assessment Act 1997_; or
 
                       (f)  in such other circumstances (if any) as are prescribed.
 
@@ -1453,6 +1466,7 @@ is 3 cents per each head of goats or, if another rate (not exceeding 8 cents) is
              (2)  The National Residue Survey Levy imposed on the delivery of sheep, lambs or goats by paragraph 2(1)(b) is payable by the person who owned the sheep, lambs or goats immediately before the delivery.
 
              (3)  The National Residue Survey Levy imposed on the slaughter of sheep, lambs or goats by paragraph 2(1)(c) or (d) is payable by the person who owned the sheep, lambs or goats at the time of the slaughter.
+
 
 # Schedule 16—Wheat
 
@@ -1492,7 +1506,7 @@ after the commencement of this Schedule.
 
                      (a)  the wheat is processed by or for the producer; and
 
-                     (b)  all the products and by‑products of the processing of that wheat are used by the producer for domestic purposes but not for commercial purposes.
+                     (b)  all the products and by-products of the processing of that wheat are used by the producer for domestic purposes but not for commercial purposes.
 
              (3)  If the total amount of National Residue Survey Levy that would, apart from this subclause, be imposed by this Schedule on:
 
@@ -1510,13 +1524,14 @@ is less than the prescribed minimum amount for that levy year, National Residue 
 
                    The National Residue Survey Levy imposed by this Schedule on wheat is payable by the producer of the wheat.
 
+
 # Notes to the _National Residue Survey (Excise) Levy Act 1998_
 
 ### Note 1
 
 The _National Residue Survey (Excise) Levy Act 1998_ as shown in this compilation comprises Act No. 33, 1998 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1538,11 +1553,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1552,136 +1569,123 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Act 1998</div>
-  </td>
-  <td>
-    <div>33, 1998</div>
-  </td>
-  <td>
-    <div>17 Apr 1998</div>
-  </td>
-  <td>
-    <div>1 Aug 1998 ( <i>see Gazette</i>1998, No. S382)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>29, 1999</div>
-  </td>
-  <td>
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>1 July 1999 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 17)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 397, 398): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>94, 2003</div>
-  </td>
-  <td>
-    <div>14 Oct 2003</div>
-  </td>
-  <td>
-    <div>14 Oct 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Amendment Act (No. 2) 2003</div>
-  </td>
-  <td>
-    <div>95, 2003</div>
-  </td>
-  <td>
-    <div>14 Oct 2003</div>
-  </td>
-  <td>
-    <div>14 Oct 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>109, 2005</div>
-  </td>
-  <td>
-    <div>29 Aug 2005</div>
-  </td>
-  <td>
-    <div>29 Aug 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Excise) Levy Amendment (Deer) Act 2011</div>
-  </td>
-  <td>
-    <div>175, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>National Residue Survey (Excise) Levy Act 1998</div>
+    </td>
+    <td>
+      <div>33, 1998</div>
+    </td>
+    <td>
+      <div>17 Apr 1998</div>
+    </td>
+    <td>
+      <div>1 Aug 1998 ( <i>see Gazette</i>1998, No. S382)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Residue Survey (Excise) Levy Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>29, 1999</div>
+    </td>
+    <td>
+      <div>14 May 1999</div>
+    </td>
+    <td>
+      <div>1 July 1999 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 17)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 397, 398): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Residue Survey (Excise) Levy Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>94, 2003</div>
+    </td>
+    <td>
+      <div>14 Oct 2003</div>
+    </td>
+    <td>
+      <div>14 Oct 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Residue Survey (Excise) Levy Amendment Act (No. 2) 2003</div>
+    </td>
+    <td>
+      <div>95, 2003</div>
+    </td>
+    <td>
+      <div>14 Oct 2003</div>
+    </td>
+    <td>
+      <div>14 Oct 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Residue Survey (Excise) Levy Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>109, 2005</div>
+    </td>
+    <td>
+      <div>29 Aug 2005</div>
+    </td>
+    <td>
+      <div>29 Aug 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 6)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_ The _National Residue Survey (Excise) Levy Act 1998_ was amended by Schedule 3 (items 397 and 398) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+_(a)_ The _National Residue Survey (Excise) Levy Act 1998_ was amended by Schedule 3 (items 397 and 398) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1699,78 +1703,73 @@ _(a)_ The _National Residue Survey (Excise) Levy Act 1998_ was amended by Schedu
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedules 2–4</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 6</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 7</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999; No. 95, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 9</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999; No. 94, 2003; No. 109, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 10</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 11</div>
-  </td>
-  <td>
-    <div>am. No. 175, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedules 12, 13</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 15</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1999; No. 55, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999; No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedules 2–4</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 6</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 7</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999; No. 95, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 9</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999; No. 94, 2003; No. 109, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 10</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedules 12, 13</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 15</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1999; No. 55, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1816,25 +1815,29 @@ _National Residue Survey (Excise) Levy Amendment Act 1999 (No. 29, 1999)_
 
                      (c)  slaughter of sheep, lambs or goats after the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_National Residue Survey (Excise) Levy Amendment Act 2003 
- (No. 94, 2003)_
+ </div>
+
+_National Residue Survey (Excise) Levy Amendment Act 2003 (No. 94, 2003)_
 
 ## Schedule 1
 
 ## 6  Application
 
-(1)       The amendments made by this Schedule apply to apples and pears sold or used on or after the first day of the month immediately following the month in which this Schedule commences.
+(1)        The amendments made by this Schedule apply to apples and pears sold or used on or after the first day of the month immediately following the month in which this Schedule commences.
 
-(2)       In this item:
+(2)        In this item:
 
 **_month_** means one of the 12 months of a calendar year.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _National Residue Survey (Excise) Levy Amendment Act (No. 2) 2003 
- (No. 95, 2003)_
+(No. 95, 2003)
+_
 
 ## Schedule 1
 
@@ -1842,25 +1845,29 @@ _National Residue Survey (Excise) Levy Amendment Act (No. 2) 2003
 
 The amendments made by this Schedule apply to honey sold after the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_National Residue Survey (Excise) Levy Amendment Act 2005 
- (No. 109, 2005)_
+ </div>
 
-## Schedule 1
+_National Residue Survey (Excise) Levy Amendment Act 2005 (No. 109, 2005)_
+
+## Schedule 1
 
 ## 6  Application of amendments
 
-(1)       The amendments made by this Schedule apply to apples and pears sold or used on or after:
+(1)        The amendments made by this Schedule apply to apples and pears sold or used on or after:
 
                      (a)  if the first day of the first quarter after the Royal Assent quarter is more than 30 days after the day on which this Act receives the Royal Assent—the first day of the first quarter after the Royal Assent quarter; or
 
                      (b)  otherwise—the first day of the second quarter after the Royal Assent quarter.
 
-(2)       In this item:
+(2)        In this item:
 
 **_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of a year.
 
 **_Royal Assent quarter_** means the quarter in which this Act receives the Royal Assent.
+
+
+ 
 
  
