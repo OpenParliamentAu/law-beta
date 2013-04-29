@@ -1,144 +1,148 @@
-![](http://www.comlaw.gov.au/Details/C2010C00814/Html/6dabc016-fc28-46f6-903d-681e791a0c32_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00100/Html/411DF05C6694FBAFCA2571410010EA8A/$FILE/image001.gif)
 
-# Christmas  Island Act 1958
+# Christmas Island Act 1958
 
 **Act No. 41 of 1958 as amended**
 
-This compilation was prepared on 15 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 143 of 2001
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               2
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       4
 
 **Part II—Acceptance of Christmas Island**
 
-[5](#5).            Acceptance of Christmas Island
+[5](#5).            Acceptance of Christmas Island                                                          5
 
-[6](#6).            Transfer of rights, liabilities etc  to Commonwealth
+[6](#6).            Transfer of rights, liabilities etc  to Commonwealth                           5
 
 **Part III—Laws and Legislative Powers** 
 
     **Division 1—Laws of the Territory**
 
-[7](#7).            The laws of the Territory
+[7](#7).            The laws of the Territory                                                                    7
 
-[8](#8).            Operation of existing laws etc 
+[8](#8).            Operation of existing laws etc                                                             7
 
-[8A](#8A).         Application of Western Australian laws
+[8A](#8A).         Application of Western Australian laws                                             8
 
-[8B](#8B).         Minister must table lists of applied Western Australian Acts
+[8B](#8B).         Minister must table lists of applied Western Australian Acts            8
 
-[8C](#8C).         House may terminate application of Western Australian Acts in the Territory
+[8C](#8C).         House may terminate application of Western Australian Acts in the Territory     9
 
-[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act
+[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act 11
 
-[8E](#8E).          Application of Commonwealth Acts
+[8E](#8E).          Application of Commonwealth Acts                                                12
 
-[8G](#8G).         Powers and functions under the applied Western Australian laws
+[8G](#8G).         Powers and functions under the applied Western Australian laws   12
 
-[8H](#8H).         Arrangements with the Government of Western Australia
+[8H](#8H).         Arrangements with the Government of Western Australia               14
 
-[8I](#8I).           Savings
+[8I](#8I).           Savings                                                                                               15
 
-    **Division 2—Legislative Powers of the Governor‑General**
+    **Division 2—Legislative Powers of the Governor-General**
 
-[9](#9).            Legislative powers of the Governor‑General
+[9](#9).            Legislative powers of the Governor-General                                     16
 
-[10](#10).          Tabling of Ordinances in Parliament
+[10](#10).          Tabling of Ordinances in Parliament                                                  16
 
-[10A](#10A).       Ordinance not to be re‑made while required to be tabled
+[10A](#10A).       Ordinance not to be re-made while required to be tabled                  17
 
-[10B](#10B).       Ordinance not to be re‑made while subject to disallowance
+[10B](#10B).       Ordinance not to be re-made while subject to disallowance              18
 
-[10C](#10C).       Disallowed ordinance not to be re‑made unless resolution rescinded or House approves
+[10C](#10C).       Disallowed ordinance not to be re-made unless resolution rescinded or House approves      19
 
-[10D](#10D).       Regulations, rules and by‑laws
+[10D](#10D).       Regulations, rules and by-laws                                                          20
 
 **Part IV—The Judicial System**
 
-[11](#11).          Supreme Court
+[11](#11).          Supreme Court                                                                                   21
 
-[11AAA](#11AAA). Minister may make arrangements with States
+[11AAA](#11AAA). Minister may make arrangements with States                                   21
 
-[11AA](#11AA).    Supreme Court may sit in a State
+[11AA](#11AA).    Supreme Court may sit in a State                                                      21
 
-[11A](#11A).       Registries and Registrars
+[11A](#11A).       Registries and Registrars                                                                    23
 
-[12](#12).          Jurisdiction etc  of the Supreme Court
+[12](#12).          Jurisdiction etc  of the Supreme Court                                              23
 
-[12A](#12A).       Juries outside the Territory
+[12A](#12A).       Juries outside the Territory                                                               23
 
-[12B](#12B).        Offences in relation to jurors
+[12B](#12B).       Offences in relation to jurors                                                            25
 
 **Part IVA—Conferral of Territory Jurisdiction on Western Australian courts etc.**
 
-[14A](#14A).       Definitions
+[14A](#14A).       Definitions                                                                                         27
 
-[14B](#14B).       Conferral of jurisdiction on Western Australian courts and court officers
+[14B](#14B).       Conferral of jurisdiction on Western Australian courts and court officers              27
 
-[14C](#14C).       Transfer of Supreme Court jurisdiction
+[14C](#14C).       Transfer of Supreme Court jurisdiction                                             27
 
-[14D](#14D).       Transfer of pending proceedings
+[14D](#14D).       Transfer of pending proceedings                                                       28
 
-[14E](#14E).        Application of provisions of this Act to courts of Western Australia
+[14E](#14E).        Application of provisions of this Act to courts of Western Australia 29
 
-[14F](#14F).        Savings—jurisdiction of Supreme Court of the Territory on and after transfer day
+[14F](#14F).        Savings—jurisdiction of Supreme Court of the Territory on and after transfer day               30
 
-[14G](#14G).       Abolition of Supreme Court of the Territory [_see_ Note 2]
+[14G](#14G).       Abolition of Supreme Court of the Territory [_see_ Note 2]               30
 
-[14H](#14H).       Transitional provisions after abolition of Supreme Court
+[14H](#14H).       Transitional provisions after abolition of Supreme Court                 30
 
-[14J](#14J).        References to courts of Territory—transitional
+[14J](#14J).        References to courts of Territory—transitional                                31
 
 **Part VI—Miscellaneous**
 
-[17](#17).          Appointment of officers
+[17](#17).          Appointment of officers                                                                    32
 
-[18](#18).          Arrangements in relation to prisoners, mental patients etc 
+[18](#18).          Arrangements in relation to prisoners, mental patients etc               32
 
-[18A](#18A).       Removal of accused to State to stand trial
+[18A](#18A).       Removal of accused to State to stand trial                                         33
 
-[18B](#18B).       Accused to be conveyed to Court
+[18B](#18B).       Accused to be conveyed to Court                                                     33
 
-[18C](#18C).       Return of accused to Territory
+[18C](#18C).       Return of accused to Territory                                                          34
 
-[18D](#18D).       Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_
+[18D](#18D).       Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_                34
 
-[18E](#18E).        Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_
+[18E](#18E).        Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_     34
 
-[18F](#18F).        Repatriation of person tried in a State
+[18F](#18F).        Repatriation of person tried in a State                                               35
 
-[20](#20).          Grant of pardon, remission etc 
+[20](#20).          Grant of pardon, remission etc                                                          35
 
-[21](#21).          Exemption from Customs duties of goods produced in the Territory
+[21](#21).          Exemption from Customs duties of goods produced in the Territory 36
 
-[21A](#21A).       Disposal of land
+[21A](#21A).       Disposal of land                                                                                 36
 
-[22](#22).          Audit
+[22](#22).          Audit                                                                                                  36
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        36
 
 **Schedule—Laws continuing in force in the Territory on and after 1 July 1992** 
 
 **Notes** 
+
 
 ## An Act to provide for the Acceptance of Christmas Island as a Territory under the Authority of the Commonwealth and to provide for the Government of that Territory
 
@@ -174,7 +178,7 @@ BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="christma-island"></a>**_Christmas Island_** means the Island of that name situated in the Indian Ocean in or about latitude 10˚30´ south and longitude 105˚40´ east.
+                    <a name="christma-island"></a>**_Christmas Island_** means the Island of that name situated in the Indian Ocean in or about latitude 10°30´ south and longitude 105°40´ east.
 
                     <a name="constabl"></a>**_constable_** means:
 
@@ -182,7 +186,7 @@ BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and
 
                      (b)  an officer or special officer of the police force of the Territory.
 
-                    <a name="court-offic-western-australia"></a>**_court officer of Western Australia_** means a person holding, or performing the functions or duties of, any of the following offices:
+                    <a name="western-australia"></a><a name="court-offic"></a>**_court officer of_****_Western Australia_** means a person holding, or performing the functions or duties of, any of the following offices:
 
                      (a)  any of the following offices in a court of Western Australia:
 
@@ -228,7 +232,7 @@ BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and
 
                      (g)  the Children’s Court of Western Australia;
 
-                     (h)  the Workers’ Compensation Board of   Western Australia;
+                     (h)  the Workers’ Compensation Board of Western Australia;
 
                       (i)  any other court or tribunal specified in the regulations.
 
@@ -238,7 +242,7 @@ BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and
 
                     <a name="ordin"></a>**_Ordinance_** means an Ordinance made under this Act.
 
-                    <a name="prison"></a>**_prison_** includes a lock‑up or other place of lawful detention.
+                    <a name="prison"></a>**_prison_** includes a lock-up or other place of lawful detention.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar, or the Deputy Registrar, of the Supreme Court.
 
@@ -264,7 +268,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, a law in force in the Territory because of section 8A.
 
-## Part II—Acceptance of Christmas  Island
+## Part II—Acceptance of Christmas Island
 
 ##### <a id="5"></a>5  Acceptance of Christmas Island
 
@@ -314,7 +318,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (4)  In this section:
 
-                    <a name="instrum"></a>**_instruments_** includes regulations, rules and by‑laws.
+                    <a name="instrum"></a>**_instruments_** includes regulations, rules and by-laws.
 
                     <a name="law"></a>**_law_**:
 
@@ -336,7 +340,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (6)  In this section:
 
-                    <a name="provision-law-western-australia"></a>**_provision of the law of Western Australia_**:
+                    <a name="western-australia"></a><a name="provision-law"></a>**_provision of the law of_****_Western Australia_**:
 
                      (a)  includes a principle or rule of common law or equity that is part of the law of Western Australia; and
 
@@ -468,99 +472,71 @@ the following provisions apply:
 
 ##### <a id="8G"></a>8G  Powers and functions under the applied Western Australian laws
 
-Vesting of powers in the Minister
+             (1)  If a power is vested in a person (other than a court officer of Western Australia) or an authority (other than a court of Western Australia) by a Western Australian law in force in the Territory under section 8A, that power is, in relation to the Territory:
 
-             (1)  If a power is vested in:
+                     (a)  vested in the Minister; and
 
-                     (a)  a Minister of Western Australia; or
+                     (b)  only exercisable in accordance with this section.
 
-                     (b)  the Governor of Western Australia; or
+Note:          Under section 19 of the _Acts Interpretation Act 1901_ a power vested in a Minister may be exercised on his or her behalf by another Minister or member of the Executive Council.
 
-                     (c)  the Governor‑in‑Council of Western Australia;
+             (2)  In subsection (1), a power vested in a person or authority by a Western Australian law includes a power vested in the Governor or Governor-in-Council of Western Australia by such a law.
 
-by a Western Australian law in force in the Territory under section 8A, the power is, in relation to the Territory, vested in the Minister instead of the person or authority mentioned in paragraph (a), (b) or (c).
+             (3)  The Minister may, in writing:
 
-             (2)  If:
+                     (a)  direct that a power vested in the Minister under subsection (1) is also to be vested in a specified person or authority, being a person or authority to whom subsection (7) applies; or
 
-                     (a)  a power is vested in a person (other than a court officer of Western Australia) or an authority (other than a court of Western Australia) by a Western Australian law in force in the Territory under section 8A; and
+                     (b)  delegate the power to a specified person, being a person to whom subsection (7) applies.
 
-                     (b)  subsection (1) does not apply to the power;
+             (4)  A person or an authority in whom a power is vested under paragraph (3)(a) may, if the person is so empowered by the Minister in the direction, delegate the power, in writing, to a person to whom subsection (7) applies.
 
-the power is, in relation to the Territory, vested in the Minister instead of the person or authority mentioned in paragraph (a).
+             (5)  If a power under a Western Australian law as in force in the Territory is a power to delegate a power (**_prescribed power_**), the Minister or a person or an authority exercising that power under this section may delegate that prescribed power only to a person to whom subsection (7) applies.
 
-Delegation etc.
+             (6)  The Minister may appoint, on such terms and conditions as are determined by the Minister, such persons as the Minister considers necessary to exercise a power under this section.
 
-             (3)  If a power is vested in the Minister under subsection (1) or (2), the Minister may, in writing:
+             (7)  This subsection applies to the following persons and authorities:
 
-                     (a)  direct that the power is also vested in a specified person or authority; or
+                     (a)  a person holding or exercising the powers of the office of Administrator or Deputy Administrator of the Territory under the _Administration Ordinance 1968_ of the Territory;
 
-                     (b)  delegate the power to a specified person.
+                     (b)  a person holding or exercising the powers of an office established by an Act;
 
-             (4)  A person or authority in whom a power is vested under paragraph (3)(a) may, if the person is so empowered by the Minister in the direction, delegate the power, in writing, to a specified person.
+                     (c)  a person holding or exercising the powers of an office established by a Western Australian law, or a Western Australian law as in force in the Territory under section 8A;
 
-             (5)  If:
+                     (d)  a person holding or exercising the powers of an office established by an Ordinance or a law made under an Ordinance;
 
-                     (a)  a power is vested in the Minister under subsection (2); and
+                     (e)  an authority (whether incorporated or not) established by an Act;
 
-                     (b)  a person, or an authority, who is:
+                      (f)  an authority (whether incorporated or not) established by a Western Australian law, or a Western Australian law as in force in the Territory under section 8A;
 
-                              (i)  an officer or employee of Western Australia; or
+                     (g)  an authority (whether incorporated or not) established by an Ordinance or a law made under an Ordinance;
 
-                             (ii)  an authority of Western Australia; or
+                     (h)  a person appointed or engaged under the _Public Service Act 1999_;
 
-                            (iii)  an officer or employee of an authority of Western Australia;
+                      (i)  a person employed under a Western Australian law, or a Western Australian law as in force in the Territory under section 8A;
 
-                            is subject to an arrangement under section 8H; and
+                      (j)  a person employed under the _Administration Ordinance 1968_ of the Territory;
 
-                     (c)  the power corresponds to a power that the person or authority is authorised, under a law in force in Western Australia, to exercise in, or in a part of, Western Australia:
+                     (k)  a person employed by an authority mentioned in paragraph (e), (f) or (g);
 
-                              (i)  whether in the person’s own right or the authority’s own right; or
+                      (l)  a member of the Defence Force;
 
-                             (ii)  whether in the capacity of a delegate; or
+                    (m)  a member or special member of the Australian Federal Police;
 
-                            (iii)  whether in any other way;
+                     (n)  a person appointed by the Minister under subsection (6).
 
-the Minister is taken to have directed under paragraph (3)(a) that the first‑mentioned power is also vested in the person or authority, as the case may be.
+             (8)  The validity of the exercise of a power under a law by a person or authority under this section is unaffected by the failure of the person or authority to hold a qualification required of a person exercising that power under the law as in force in Western Australia.
 
-             (6)  The Minister may direct that subsection (5) does not apply to a specified power.
+             (9)  This section does not affect the operation of section 8A in relation to the application in or in relation to the Territory of a law (**_subordinate law_**) made under a Western Australian law, whether the subordinate law is made after this section’s commencement or not.
 
-             (7)  A direction under subsection (6) may be unconditional or subject to such conditions (if any) as are specified in the direction.
+           (10)  In this section:
 
-Other matters
-
-             (8)  An instrument under this section may identify a power by reference to a class of powers.
-
-             (9)  The validity of the exercise of a power under a law by a person or authority under this section is unaffected by the failure of the person or authority to hold a qualification required of a person exercising that power under the law as in force in Western Australia.
-
-           (10)  This section does not affect the operation of section 8A in relation to the application in or in relation to the Territory of a law (a **_subordinate law_**) made under a Western Australian law, whether the subordinate law is made after this section’s commencement or not.
-
-           (11)  An instrument under this section is not a legislative instrument.
-
-           (12)  In this section:
-
-                    <a name="author"></a>**_authority_** means:
-
-                     (a)  a body corporate, or an unincorporated body, established for a public purpose; or
-
-                     (b)  an authority (within the ordinary meaning of that expression).
-
-                    <a name="author-western-australia"></a>**_authority of Western Australia_** means an authority established by or under a Western Australian law.
-
-                    <a name="exercis"></a><a name="power"></a>**_power_** includes function or duty, and, in that context, **_exercise_** means perform.
+                    <a name="exercis"></a><a name="power"></a>**_power_** includes function or duty, and in that context, **_exercise_** means perform.
 
 ##### <a id="8H"></a>8H  Arrangements with the Government of Western Australia
 
              (1)  The Commonwealth may enter into arrangements with Western Australia for the effective application and administration of the laws in force in the Territory.
 
-             (2)  Without limiting the generality of subsection (1), such an arrangement may provide for the exercise of powers or the performance of functions or duties by:
-
-                     (a)  an officer or employee of Western Australia; or
-
-                     (b)  an authority of Western Australia (within the meaning of section 8G); or
-
-                     (c)  an officer or employee of an authority of Western Australia (within the meaning of section 8G);
-
-in or in relation to the Territory.
+             (2)  Without limiting the generality of subsection (1), such an arrangement may provide for the exercise of powers or the performance of functions or duties by an officer or authority of Western Australia in or in relation to the Territory.
 
 ##### <a id="8I"></a>8I  Savings
 
@@ -584,11 +560,11 @@ in or in relation to the Territory.
 
                      (c)  the imposition of any penalty, forfeiture or punishment mentioned in paragraph (1)(e).
 
-### Division 2—Legislative Powers of the Governor‑General
+### Division 2—Legislative Powers of the Governor-General
 
-##### <a id="9"></a>9  Legislative powers of the Governor‑General
+##### <a id="9"></a>9  Legislative powers of the Governor-General
 
-             (1)  Subject to this Act, the Governor‑General may make Ordinances for the peace, order and good government of the Territory.
+             (1)  Subject to this Act, the Governor-General may make Ordinances for the peace, order and good government of the Territory.
 
              (2)  Notice of the making of an Ordinance shall be published in the _Gazette_, and an Ordinance shall, unless the contrary intention appears in the Ordinance, come into operation on the date of publication of the notice.
 
@@ -616,7 +592,7 @@ the Ordinance or part, as the case may be, specified in the motion shall thereup
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Ordinance shall, for the purposes of subsections (2) and (3), be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the Ordinance shall, for the purposes of subsections (2) and (3), be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (4)  Where an Ordinance is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (1), the disallowance of the Ordinance or the operation of subsection (1) in relation to the Ordinance, as the case may be, has the same effect as a repeal of the Ordinance.
 
@@ -630,7 +606,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
           (4B)  A reference in subsection (4) or (4A) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (4A) to a law has a corresponding meaning.
 
-##### <a id="10A"></a>10A  Ordinance not to be re‑made while required to be tabled
+##### <a id="10A"></a>10A  Ordinance not to be re-made while required to be tabled
 
              (1)  Where an Ordinance (in this section called the **_original Ordinance_**) has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
 
@@ -644,9 +620,9 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
              (3)  If a provision of an Ordinance is made in contravention of this section, the provision has no effect.
 
-##### <a id="10B"></a>10B  Ordinance not to be re‑made while subject to disallowance
+##### <a id="10B"></a>10B  Ordinance not to be re-made while subject to disallowance
 
-             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (a)  the notice has been withdrawn;
 
@@ -662,7 +638,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
                      (b)  notice of a motion to disallow the Ordinance has been given in that House within 15 sitting days after that day;
 
-no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (c)  the notice has been withdrawn;
 
@@ -680,7 +656,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                     <a name="ordin"></a>**_Ordinance_** includes a part of an Ordinance.
 
-##### <a id="10C"></a>10C  Disallowed ordinance not to be re‑made unless resolution rescinded or House approves
+##### <a id="10C"></a>10C  Disallowed ordinance not to be re-made unless resolution rescinded or House approves
 
                    If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have been disallowed, under section 10, and an Ordinance containing a provision being the same in substance as a provision so disallowed, or deemed to have been disallowed, is made within 6 months after the date of the disallowance, that provision has no effect, unless:
 
@@ -688,7 +664,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (b)  in the case of an Ordinance, or a part of an Ordinance, deemed to have been disallowed—the House of the Parliament in which notice of the motion to disallow the Ordinance or part was given has approved, by resolution, the making of a provision the same in substance as the provision deemed to have been disallowed.
 
-##### <a id="10D"></a>10D  Regulations, rules and by‑laws
+##### <a id="10D"></a>10D  Regulations, rules and by-laws
 
              (1)  All regulations made under an Ordinance or any other law (not being an Act) in force in the Territory shall be laid before each House of the Parliament within 15 sitting days of that House after the day on which the regulations are made and, if they are not so laid before each House of the Parliament, have no effect.
 
@@ -706,7 +682,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (c)  references to a provision of an Ordinance were references to a regulation.
 
-             (3)  In this section, **_regulations_** includes rules and by‑laws.
+             (3)  In this section, **_regulations_** includes rules and by-laws.
 
 ## Part IV—The Judicial System
 
@@ -1020,7 +996,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  for or in relation to the carrying out of any such arrangements and the custody and detention of persons during their removal in pursuance of the arrangements.
 
-             (2)  For the purposes of subsection (1), where the Governor‑General has commuted to a term of imprisonment the sentence of a person who has been sentenced to death by a court having jurisdiction in respect of the Territory, that person shall be deemed to have been sentenced to imprisonment for that term by a court having jurisdiction in respect of the Territory.
+             (2)  For the purposes of subsection (1), where the Governor-General has commuted to a term of imprisonment the sentence of a person who has been sentenced to death by a court having jurisdiction in respect of the Territory, that person shall be deemed to have been sentenced to imprisonment for that term by a court having jurisdiction in respect of the Territory.
 
              (3)  Nothing in this section affects the application, in respect of the Territory, of the _Removal of Prisoners (Territories) Act 1923_.
 
@@ -1100,9 +1076,9 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
 ##### <a id="20"></a>20  Grant of pardon, remission etc.
 
-             (1)  The Governor‑General, acting with the advice of the Minister, may, by warrant signed by the Governor‑General, grant to a person convicted by a court exercising criminal jurisdiction under a law in force in the Territory a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as the Governor‑General thinks fit, of the execution of sentence, and may remit fines, penalties and forfeitures imposed or incurred under a law in force in the Territory.
+             (1)  The Governor-General, acting with the advice of the Minister, may, by warrant signed by the Governor-General, grant to a person convicted by a court exercising criminal jurisdiction under a law in force in the Territory a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as the Governor-General thinks fit, of the execution of sentence, and may remit fines, penalties and forfeitures imposed or incurred under a law in force in the Territory.
 
-             (2)  The Governor‑General, acting with the advice of the Minister, may, by warrant signed by the Governor‑General, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
+             (2)  The Governor-General, acting with the advice of the Minister, may, by warrant signed by the Governor-General, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
 
 ##### <a id="21"></a>21  Exemption from Customs duties of goods produced in the Territory
 
@@ -1128,17 +1104,18 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
 ##### <a id="22"></a>22  Audit
 
-                   The accounts of the Territory shall be subject to inspection and audit by the Auditor‑General for the Commonwealth.
+                   The accounts of the Territory shall be subject to inspection and audit by the Auditor-General for the Commonwealth.
 
 ##### <a id="23"></a>23  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  making provision for and in relation to sittings of the Supreme Court in a State for the purpose of hearing and determining a matter, otherwise than in the exercise of its criminal jurisdiction, if the Court is satisfied that the hearing of the matter outside the Territory is not contrary to the interests of justice; and
 
                      (b)  prescribing penalties, not exceeding a fine of $1,500 or imprisonment for 3 months, for offences against the regulations; and
 
                      (c)  making saving or transitional provisions in relation to the abolition of any court established by an Ordinance. 
+
 
 # Schedule—Laws continuing in force in the Territory on and after 1 July 1992
 
@@ -1172,11 +1149,11 @@ _Migratory Birds Ordinance 1980_
 
 _Phosphate Mining Company of Christmas Island Limited Provident Fund Ordinance 1982_
 
-_Phosphate Mining Corporation of Christmas Island Provident Fund Ordinance 1985_
+_Phosphate Mining Corporation of__Christmas Island__Provident Fund Ordinance 1985_
 
-_Phosphate Mining Corporation of Christmas Island Ordinance 1985_
+_Phosphate Mining Corporation of__Christmas Island__Ordinance 1985_
 
-_Phosphate Mining Corporation of Christmas Island (Winding up) Ordinance 1987_
+_Phosphate Mining Corporation of__Christmas Island__(Winding up) Ordinance 1987_
 
 _Postal and Telegraph Ordinance 1968_
 
@@ -1187,6 +1164,7 @@ _Standard Time and Daylight Saving Time Ordinance 1980_
 _Supreme Court Ordinance 1958_
 
 _Unclaimed Moneys Ordinance 1974_
+
 
 # Notes to the _Christmas Island Act 1958_
 
@@ -1216,11 +1194,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1230,505 +1210,499 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Christmas Island Act 1958</div>
-  </td>
-  <td>
-    <div>41, 1958</div>
-  </td>
-  <td>
-    <div>2 Sept 1958</div>
-  </td>
-  <td>
-    <div>Part I (ss. 1–4): Royal Assent 
-Remainder: 1 Oct 1958 ( <i>see Gazette</i>1958, p. 3185) <i>(a)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Act 1959</div>
-  </td>
-  <td>
-    <div>9, 1959</div>
-  </td>
-  <td>
-    <div>23 Apr 1959</div>
-  </td>
-  <td>
-    <div>14 Jan 1960 ( <i>see</i>s. 2 and <i>Gazette</i>1960, p.47)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Act 1963</div>
-  </td>
-  <td>
-    <div>21, 1963</div>
-  </td>
-  <td>
-    <div>28 May 1963</div>
-  </td>
-  <td>
-    <div>25 June 1963</div>
-  </td>
-  <td>
-    <div>S. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Act 1965</div>
-  </td>
-  <td>
-    <div>131, 1965</div>
-  </td>
-  <td>
-    <div>18 Dec 1965</div>
-  </td>
-  <td>
-    <div>14 Feb 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>174, 1980</div>
-  </td>
-  <td>
-    <div>17 Dec 1980</div>
-  </td>
-  <td>
-    <div>23 Dec 1980 ( <i>see Gazette</i>1980, No. S278)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act 
-(No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Part XII (ss. 76, 77): 4 June 1982 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 23 July 1984 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Administration (Miscellaneous Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>120, 1984</div>
-  </td>
-  <td>
-    <div>18 Oct 1984</div>
-  </td>
-  <td>
-    <div>Part VIII (ss. 
+<tbody>
+  <tr>
+    <td>
+      <div>Christmas Island Act 1958</div>
+    </td>
+    <td>
+      <div>41, 1958</div>
+    </td>
+    <td>
+      <div>2 Sept 1958</div>
+    </td>
+    <td>
+      <div>Part I (ss. 1–4): Royal Assent 
+Remainder: 1 Oct 1958 ( <i>see Gazette</i>1958, p. 3185) <i>(a)</i> 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Act 1959</div>
+    </td>
+    <td>
+      <div>9, 1959</div>
+    </td>
+    <td>
+      <div>23 Apr 1959</div>
+    </td>
+    <td>
+      <div>14 Jan 1960 ( <i>see</i>s. 2 and <i>Gazette</i>1960, p.47)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Act 1963</div>
+    </td>
+    <td>
+      <div>21, 1963</div>
+    </td>
+    <td>
+      <div>28 May 1963</div>
+    </td>
+    <td>
+      <div>25 June 1963</div>
+    </td>
+    <td>
+      <div>S. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Act 1965</div>
+    </td>
+    <td>
+      <div>131, 1965</div>
+    </td>
+    <td>
+      <div>18 Dec 1965</div>
+    </td>
+    <td>
+      <div>14 Feb 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>174, 1980</div>
+    </td>
+    <td>
+      <div>17 Dec 1980</div>
+    </td>
+    <td>
+      <div>23 Dec 1980 ( <i>see Gazette</i>1980, No. S278)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act 
+(No. 1) 1982 
+</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td>
+      <div>Part XII (ss. 76, 77): 4 June 1982 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td>
+      <div>S. 3: 18 July 1983 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 7(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 23 July 1984 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Administration (Miscellaneous Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>120, 1984</div>
+    </td>
+    <td>
+      <div>18 Oct 1984</div>
+    </td>
+    <td>
+      <div>Part VIII (ss. 
 27–31): 1 Oct 1984 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 5(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>120, 1987</div>
-  </td>
-  <td>
-    <div>16 Dec 1987</div>
-  </td>
-  <td>
-    <div>Ss. 3–9, 30–46, 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>S. 5(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>120, 1987</div>
+    </td>
+    <td>
+      <div>16 Dec 1987</div>
+    </td>
+    <td>
+      <div>Ss. 3–9, 30–46, 
 48–55 and 59: Royal Assent 
 Ss. 11, 14, 74 and 75: 1 Mar 1989 ( <i>see Gazette</i>1989, No. S54) 
 Ss. 16–18, 69(b) and 70–73: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S384) 
 S. 47: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) 
 Ss. 56–58: 16 Dec 1987 ( <i>see</i>s. 2(4)) 
 Ss. 60–67: 1 Sept 1988 ( <i>see</i>s. 2(5) and <i>Gazette</i>1988, No. S256) 
-Remainder: 13 Jan 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 1992</div>
-  </td>
-  <td>
-    <div>104, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 3–8, 11–18, 20, 23 and 24: 1 July 1992 
+Remainder: 13 Jan 1988 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territories Law Reform Act 1992</div>
+    </td>
+    <td>
+      <div>104, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 3–8, 11–18, 20, 23 and 24: 1 July 1992 
 Ss. 9, 10, 19, 21 and 22: 29 June 1993 ( <i>see Gazette</i>1993, No. S196) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>211, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>S. 4: <i>(h)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>113, 1994</div>
-  </td>
-  <td>
-    <div>16 Sept 1994</div>
-  </td>
-  <td>
-    <div>16 Sept 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 12): Royal Assent <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>118, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 7–13): Royal Assent <i>(k)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 289–291): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+Remainder: Royal Assent 
+
+</div>
     </td>
     <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[see Table A]</div>
+      <div>—</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Territories Law Reform Act 2010</div>
+      <div>Territories Legislation Amendment Act 1992</div>
     </td>
     <td>
-      <div>139, 2010</div>
+      <div>211, 1992</div>
     </td>
     <td>
-      <div>10 Dec 2010</div>
+      <div>24 Dec 1992</div>
     </td>
     <td>
-      <div>Schedule 2: 11 Dec 2010</div>
+      <div>S. 4: <i>(h)</i> 
+Remainder: Royal Assent 
+</div>
     </td>
     <td>
-      <div>Sch. 2 (items 
-3–5) \[ <i>see</i>Table A]</div>
+      <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>113, 1994</div>
+    </td>
+    <td>
+      <div>16 Sept 1994</div>
+    </td>
+    <td>
+      <div>16 Sept 1994</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 12): Royal Assent <i>(i)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>118, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 7–13): Royal Assent <i>(k)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 289–291): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[see Table A]</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_     By the Christmas Island (Transfer to Australia) Order in Council, 1958 (_see_ Statutory Instruments 1958, Part II, p. 2216) made under the Christmas Island Act, 1958, 1 October 1958 was appointed as the date on which Christmas Island was placed under the authority of Australia.
 
-_(b)_     The _Christmas Island Act 1958_ was amended by Part XII (sections 76 and 77) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+_(b)_    The _Christmas Island Act 1958_ was amended by Part XII (sections 76 and 77) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
 
@@ -1736,15 +1710,15 @@ _(c)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982
 
 _(d)_     The _Christmas Island__Act 1958_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(e)_     The _Christmas Island__Act 1958_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(f)_      The _Christmas Island__Act 1958_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(g)_     The _Christmas Island__Act 1958_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
@@ -1776,6 +1750,7 @@ _(l)_      The _Christmas Island__Act 1958_ was amended by Schedule 
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
+
 ## Table of Amendments
 
 <table>
@@ -1799,669 +1774,583 @@ _(l)_      The _Christmas Island__Act 1958_ was amended by Schedule 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980; No. 120, 1984; No. 120, 1987; Nos. 104 and 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8B–8E</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8F</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8F</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8G</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992; No. 113, 1994; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 8G(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 113, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8H</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8I</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1963; No. 174, 1980; No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 72, 1984; No. 168, 1986; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10A–10C</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10D</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11AAA, 11AA</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IVA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IVA 
-
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980; No. 120, 1984; No. 120, 1987; Nos. 104 and 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part III 
+(ss. 7, 8) 
 </div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14A, 14B</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14C, 14D</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14E</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14E</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14F–14H</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14J</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 174, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 120, 1984; No. 65, 1985; No. 104, 1992; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 174, 1980; No. 120, 1984; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18A–18F</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1959; No. 131, 1965; No. 174, 1980; No. 120, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 174, 1980; No. 120, 1987; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part III 
+(ss. 7, 8, 8A–8I) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8B–8E</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8F</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8F</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8G</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992; No. 113, 1994; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8H, 8I</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1963; No. 174, 1980; No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 72, 1984; No. 168, 1986; No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10A–10C</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10D</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 11AAA, 11AA</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rep. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IVA 
+(ss. 14A–14D) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IVA 
+(ss. 14A–14J) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 14A, 14B</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 14C, 14D</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 14E</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14E</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 14F–14H</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14J</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V (ss. 15A, 16)</div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15A</div>
+    </td>
+    <td>
+      <div>ad. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>rs. No. 174, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 120, 1984; No. 65, 1985; No. 104, 1992; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 174, 1980; No. 120, 1984; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18A–18F</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 9, 1959; No. 131, 1965; No. 174, 1980; No. 120, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 216, 1973; No. 174, 1980; No. 120, 1987; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ### Note 2
 
 S. 14G—The day fixed by Proclamation under section 14G for the abolition of the Supreme Court of Christmas Island is 10 May 2002 (_see Gazette_ 2002, No. GN18).
+
 
 ## Table A
 
@@ -2475,7 +2364,9 @@ _Environment, Sport and Territories Legislation Amendment Act 1997 (No. 118, 1
 
 People who have become Australian citizens under Part V of the _Christmas Island__Act 1958_ continue to be Australian citizens despite the repeal of that Part (subject to other Commonwealth laws relating to citizenship).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
 
@@ -2485,40 +2376,5 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
-
-_Territories Law Reform Act 2010 (No. 139, 2010)_
-
-## Schedule 2
-
-## 3  Transitional—directions under paragraph 8G(3)(a) of the _Christmas Island Act 1958_
-
-(1)       This item applies to a direction if:
-
-                     (a)  the direction was given under paragraph 8G(3)(a) of the _Christmas Island Act 1958_; and
-
-                     (b)  the direction was in force immediately before the commencement of this item.
-
-(2)       The direction has effect, after the commencement of this item, as if it had been given under paragraph 8G(3)(a) of the _Christmas Island Act 1958_ as amended by this Schedule.
-
-## 4  Transitional—delegations under paragraph 8G(3)(b) of the _Christmas Island Act 1958_
-
-(1)       This item applies to a delegation if:
-
-                     (a)  the delegation was made under paragraph 8G(3)(b) of the _Christmas Island Act 1958_; and
-
-                     (b)  the delegation was in force immediately before the commencement of this item.
-
-(2)       The delegation has effect, after the commencement of this item, as if it had been made under paragraph 8G(3)(b) of the _Christmas Island Act 1958_ as amended by this Schedule.
-
-## 5  Transitional—delegations under subsection 8G(4) of the _Christmas Island Act 1958_
-
-(1)       This item applies to a delegation if:
-
-                     (a)  the delegation was made under subsection 8G(4) of the _Christmas Island Act 1958_; and
-
-                     (b)  the delegation was in force immediately before the commencement of this item.
-
-(2)       The delegation has effect, after the commencement of this item, as if it had been made under subsection 8G(4) of the _Christmas Island Act 1958_ as amended by this Schedule.
 
  
