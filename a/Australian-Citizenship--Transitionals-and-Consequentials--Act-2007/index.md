@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2008C00499/Html/AusCitizenshipTransCons2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00384/Html/AusCitizenshipTransCons2007_image001.gif)
 
 # Australian Citizenship (Transitionals and Consequentials) Act 2007
 
 **Act No. 21 of 2007 as amended**
 
-This compilation was prepared on 23 September 2008
+This compilation was prepared on 1 July 2007
 
-**\[This Act was amended by Act No. 63 of 2007; No. 85 of 2008]**
+**\[This Act was amended by Act No. 63 of 2007]**
 
 **Amendments from Act No. 63 of 2007**
 
@@ -14,15 +14,6 @@ This compilation was prepared on 23 September 2008
  Schedule 1 (item 67) repealed item 22 of Schedule 3
 
 Schedule 1 (items 66 and 67) commenced immediately before 1 July 2007]
-
-**Amendments from Act No. 85 of 2008**
-
-\[Schedule 5 (item 17) repealed and substituted item 5B of Schedule 3
- Schedule 5 (item 18) amended item 7 of Schedule 3
-
-Schedule 5 (items 17 and 18) commenced immediately before 1 July 2007]
-
-For application provision _see_ Act No. 85, 2008, Schedule 5 (item 19)
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -91,7 +82,7 @@ Immigration (Education) Act 1971                
 
 Part 1—Provisions relating to the enactment of the Australian Citizenship Act 2007 12
 
-Part 2—Provisions relating to the amendments made by Schedules 1 and 2 to this Act           22
+Part 2—Provisions relating to the amendments made by Schedules 1 and 2 to this Act           21
 
 ## An Act to provide for transitional and consequential matters relating to the enactment of the _Australian Citizenship Act 2007_, and for other purposes
 
@@ -634,15 +625,15 @@ _Note:       The effect of this item is that if a person ceases to b
 
 (2)        Paragraphs 19C(2)(e) and (f) of the new Act apply as if a reference to Subdivision A included a reference to section 10B, 10C or 11 of the old Act (about citizenship by descent).
 
-5B  Citizenship by conferral—persons who are permanent residents at commencement
+## 5B  Citizenship by conferral—persons who are permanent residents at commencement
 
-(1)        This item applies if:
+If:
 
                      (a)  a person is a permanent resident (worked out under the old Act) immediately before the commencement day; and
 
-                     (b)  the person makes an application under subsection 21(1) of the new Act within the period of 3 years beginning on the commencement day.
+                     (b)  the person makes an application under subsection 21(1) of the new Act within the period of 3 years beginning on the commencement day;
 
-(2)        In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
+then, for the purposes of that application, subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
 
              (1)  For the purposes of section 21, a person satisfies the **_residence requirement_** if the person has been present in Australia as a permanent resident for:
 
@@ -661,8 +652,6 @@ _Note:       The effect of this item is that if a person ceases to b
                      (a)  confined in a prison; or
 
                      (b)  confined in a psychiatric institution by order of a court made in connection with proceedings for an offence against an Australian law in relation to the person.
-
-(3)        In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(5), (6) and (11) of the new Act have effect as if the reference in those subsections to “paragraph (1)(c)” were a reference to “subsection (1)” (as applied by subitem (2) of this item).
 
 ## 6  Revocation of citizenship by conferral under the new Act
 
@@ -771,8 +760,6 @@ _Note:       The new application will be assessed under the provisio
                      (a)  the person was engaged in activities during that period that the Minister considers to be beneficial to Australia; and
 
                      (b)  the person was not present in Australia during that period but was a permanent resident during that period.
-
-(9)        In applying section 22 of the new Act to a new application covered by subitem (2), subsections 22(5), (6) and (11) of the new Act have effect as if the reference in those subsections to “paragraph (1)(c)” were a reference to “subsection (1)” (as applied by subitem (8) of this item).
 
 ## 8  Person granted certificate of citizenship under the old Act but not an Australian citizen under the old Act
 
