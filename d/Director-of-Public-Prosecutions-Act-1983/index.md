@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00121/Html/172d9cd8-0194-4eb5-a1b8-c311c9ccd19e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00557/Html/DirPubProsec1983_WD02_image001.gif)
 
 # Director of Public Prosecutions Act 1983
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 4 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Consultation
 
-[8](#8).            Directions and guidelines by Attorney‑General
+[8](#8).            Directions and guidelines by Attorney-General
 
 [9](#9).            Powers of Director
 
@@ -92,8 +92,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Arrangements with the Australian Government Solicitor
 
-[32A](#32A).       Immunity from civil proceedings
-
 [33](#33).          Annual report
 
 [33A](#33A).       Service of process on the Director
@@ -124,7 +122,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a review or rehearing, or a proceeding of the same nature as a review or rehearing.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="associ-director"></a>**_Associate Director_** means the Associate Director of Public Prosecutions.
 
@@ -140,15 +138,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  an appointment made under a law of the Commonwealth; or
 
-                            (iii)  an appointment made, otherwise than under a law of the Commonwealth, by the Governor‑General, by a Minister, or by any other person on behalf of the Executive Government of the Commonwealth or the Administration of a Territory.
+                            (iii)  an appointment made, otherwise than under a law of the Commonwealth, by the Governor-General, by a Minister, or by any other person on behalf of the Executive Government of the Commonwealth or the Administration of a Territory.
 
                     <a name="director"></a>**_Director_** means the Director of Public Prosecutions.
 
                     <a name="law-commonwealth"></a>**_law of the Commonwealth_** includes a law of a Territory, but does not include:
 
-                     (a)  the _Northern Territory__(Self‑Government) Act 1978_;
+                     (a)  the _Northern Territory__(Self-Government) Act 1978_;
 
-                     (b)  the _Norfolk Island Act 1979_; or
+                     (b)  the _Norfolk Island__Act 1979_; or
 
                      (c)  a law made under, or continued in force by, an Act referred to in paragraph (a) or (b).
 
@@ -176,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (aa)  a member of the staff mentioned in subsection 27(1); or
 
-                   (ab)  a person employed under subsection 27(3); or
+                    (ab)  a person employed under subsection 27(3); or
 
                      (b)  a person engaged under subsection 28(1); or
 
@@ -202,17 +200,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  to institute prosecutions on indictment for indictable offences against the laws of the Commonwealth; and
 
-                     (b)  to carry on prosecutions of the kind referred to in paragraph (a) (not being prosecutions instituted by the Attorney‑General or a Special Prosecutor), whether or not instituted by the Director; and
+                     (b)  to carry on prosecutions of the kind referred to in paragraph (a) (not being prosecutions instituted by the Attorney-General or a Special Prosecutor), whether or not instituted by the Director; and
 
-                  (baa)  if the Attorney‑General requests the Director in writing to carry on a prosecution of the kind referred to in paragraph (a) that was instituted by the Attorney‑General—to carry on that prosecution; and
+                  (baa)  if the Attorney-General requests the Director in writing to carry on a prosecution of the kind referred to in paragraph (a) that was instituted by the Attorney-General—to carry on that prosecution; and
 
-                   (ba)  where a person holding office as a Special Prosecutor under the _Special Prosecutors Act 1982_ dies, or ceases for any reason so to hold office and is not forthwith re‑appointed—to carry on prosecutions of the kind referred to in paragraph (a), being prosecutions that:
+                    (ba)  where a person holding office as a Special Prosecutor under the _Special Prosecutors Act 1982_ dies, or ceases for any reason so to hold office and is not forthwith re-appointed—to carry on prosecutions of the kind referred to in paragraph (a), being prosecutions that:
 
                               (i)  were instituted; or
 
                              (ii)  were, at the time when the person died or ceased so to hold office, being carried on;
 
-                            by the person, or by a person acting as a Special Prosecutor under that Act in the place of the first‑mentioned person; and
+                            by the person, or by a person acting as a Special Prosecutor under that Act in the place of the first-mentioned person; and
 
                      (c)  to institute proceedings for the commitment of persons for trial in respect of indictable offences against the laws of the Commonwealth; and
 
@@ -226,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  to take civil remedies on behalf of and in the name of the Commonwealth and authorities of the Commonwealth; or
 
-                             (ii)  to co‑ordinate or supervise the taking of civil remedies by or on behalf of the Commonwealth and authorities of the Commonwealth;
+                             (ii)  to co-ordinate or supervise the taking of civil remedies by or on behalf of the Commonwealth and authorities of the Commonwealth;
 
                             for, or in connection with, recovery, or ensuring the payment, of amounts of tax; and
 
@@ -236,7 +234,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  to carry on proceedings (whether or not instituted by the Director); or
 
-                            (iii)  to co‑ordinate or supervise the institution or carrying on of proceedings;
+                            (iii)  to co-ordinate or supervise the institution or carrying on of proceedings;
 
                             for the recovery of pecuniary penalties under the laws of the Commonwealth; and
 
@@ -244,25 +242,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  to take civil remedies on behalf of and in the name of the Commonwealth and authorities of the Commonwealth; or
 
-                             (ii)  to co‑ordinate or supervise the taking of civil remedies by or on behalf of the Commonwealth and authorities of the Commonwealth; and
+                             (ii)  to co-ordinate or supervise the taking of civil remedies by or on behalf of the Commonwealth and authorities of the Commonwealth; and
 
                       (j)  to consent to prosecutions for offences against the laws of the Commonwealth, being offences of a kind in relation to which an instrument under subsection (4) is in force; and
 
-                    (ja)  to appear in an inquiry by a magistrate held under section 37, or in a proceeding before a magistrate under section 38 or 39, of the _Crimes (Aviation) Act 1991_; and
+                     (ja)  to appear in an inquiry by a magistrate held under section 37, or in a proceeding before a magistrate under section 38 or 39, of the _Crimes (Aviation) Act 1991_; and
 
                      (k)  to appear in proceedings under the _Extradition Act 1988_, the _International War Crimes Tribunals Act 1995_, the _International Criminal Court Act 2002_ or the _Mutual Assistance in Criminal Matters Act 1987_; and
 
-                    (m)  where the Director, with the consent of the Attorney‑General, holds an appointment to prosecute offences against the laws of a State—to institute and carry on, in accordance with the terms of the appointment, prosecutions for such offences; and
+                    (m)  where the Director, with the consent of the Attorney-General, holds an appointment to prosecute offences against the laws of a State—to institute and carry on, in accordance with the terms of the appointment, prosecutions for such offences; and
 
-                  (ma)  if the Director is authorised by or under a law of a State to institute and carry on appeals arising out of prosecutions of offences against the laws of the State, being prosecutions by the Director as mentioned in paragraph (m) or by members of the staff of the Office as mentioned in subsection 17(1)—to institute and carry on such appeals in accordance with requirements of or under that law; and
+                   (ma)  if the Director is authorised by or under a law of a State to institute and carry on appeals arising out of prosecutions of offences against the laws of the State, being prosecutions by the Director as mentioned in paragraph (m) or by members of the staff of the Office as mentioned in subsection 17(1)—to institute and carry on such appeals in accordance with requirements of or under that law; and
 
-                  (mb)  for the purpose of enforcing orders under Chapter 2 of the _Proceeds of Crime Act 2002_:
+                   (mb)  for the purpose of enforcing orders under Chapter 2 of the _Proceeds of Crime Act 2002_:
 
                               (i)  to institute proceedings; or
 
                              (ii)  to carry on proceedings (whether or not instituted by the Director); or
 
-                            (iii)  to co‑ordinate or supervise the institution or carrying on of proceedings;
+                            (iii)  to co-ordinate or supervise the institution or carrying on of proceedings;
 
                      (n)  to do anything incidental or conducive to the performance of any of the functions referred to in paragraphs (a) to (mb) and in subsection (2).
 
@@ -300,13 +298,13 @@ the Director may institute a prosecution on indictment of the person for the ind
 
           (2D)  Subject to subsection (2E), in any other case where the Director considers it appropriate to do so, the Director may institute a prosecution of a person on indictment for an indictable offence against the laws of the Commonwealth in respect of which the person has not been examined or committed for trial.
 
-          (2E)  Notwithstanding anything contained in subsection (2D), the Director may not institute a prosecution of a person on indictment for an offence against the _War Crimes Act 1945_ unless the person has first been examined or committed for trial.
+           (2E)  Notwithstanding anything contained in subsection (2D), the Director may not institute a prosecution of a person on indictment for an offence against the _War Crimes Act 1945_ unless the person has first been examined or committed for trial.
 
            (2F)  If a person is committed for trial before a court (the **_initial court_**) for one or more indictable offences against the laws of the Commonwealth, the Director may institute in another court (the **_later court_**) a prosecution of the person on indictment for any or all of the offences.
 
           (2G)  Subsection (2F) applies even if the Director has instituted a prosecution (the **_initial prosecution_**) before the initial court for any or all of the offences. However, the Director must discontinue the initial prosecution in respect of each offence covered by the prosecution in the later court.
 
-             (3)  The Attorney‑General may, by writing signed by the Attorney‑General, specify a matter or class of matters for the purposes of paragraph (1)(g) or (h) and, where the Attorney‑General so specifies a matter or class of matters, a copy of the instrument specifying that matter or class of matters shall be published in the _Gazette_ when the Attorney‑General considers it appropriate to do so.
+             (3)  The Attorney-General may, by writing signed by the Attorney-General, specify a matter or class of matters for the purposes of paragraph (1)(g) or (h) and, where the Attorney-General so specifies a matter or class of matters, a copy of the instrument specifying that matter or class of matters shall be published in the _Gazette_ when the Attorney-General considers it appropriate to do so.
 
              (4)  A person who has, pursuant to a law of the Commonwealth, the power to consent to prosecutions for offences of a particular kind against the laws of the Commonwealth (not being a person who has that power by virtue of an authorization granted to the person by another person) may, by instrument in writing published in the _Gazette_, authorize the Director to consent to prosecutions for offences of that kind, but the giving of such an authorization does not prevent the giving of a consent by a person who, but for this subsection, would have the power to give a consent.
 
@@ -358,17 +356,17 @@ the Director may institute a prosecution on indictment of the person for the ind
 
                             that course of activity.
 
-             (9)  Where, at the time when the Director first commences to take civil remedies in respect of a particular matter, or first commences to co‑ordinate or supervise the taking of civil remedies in respect of a particular matter, the matter is a relevant matter, the matter shall be deemed, for the purposes of this section, to continue to be a relevant matter while the Director continues to take civil remedies in respect of the matter, or to co‑ordinate or supervise the taking of civil remedies in respect of the matter, as the case may be.
+             (9)  Where, at the time when the Director first commences to take civil remedies in respect of a particular matter, or first commences to co-ordinate or supervise the taking of civil remedies in respect of a particular matter, the matter is a relevant matter, the matter shall be deemed, for the purposes of this section, to continue to be a relevant matter while the Director continues to take civil remedies in respect of the matter, or to co-ordinate or supervise the taking of civil remedies in respect of the matter, as the case may be.
 
 ##### <a id="7"></a>7  Consultation
 
-             (1)  The Director shall, if requested to do so by the Attorney‑General, consult with the Attorney‑General with respect to matters concerning the performance of the Director’s functions or the exercise of the Director’s powers.
+             (1)  The Director shall, if requested to do so by the Attorney-General, consult with the Attorney-General with respect to matters concerning the performance of the Director’s functions or the exercise of the Director’s powers.
 
-             (2)  The Attorney‑General shall, if requested to do so by the Director, consult with the Director with respect to matters concerning the performance of the Director’s functions or the exercise of the Director’s powers.
+             (2)  The Attorney-General shall, if requested to do so by the Director, consult with the Director with respect to matters concerning the performance of the Director’s functions or the exercise of the Director’s powers.
 
-##### <a id="8"></a>8  Directions and guidelines by Attorney‑General
+##### <a id="8"></a>8  Directions and guidelines by Attorney-General
 
-             (1)  In the performance of the Director’s functions and in the exercise of the Director’s powers, the Director is subject to such directions or guidelines as the Attorney‑General, after consultation with the Director, gives or furnishes to the Director by instrument in writing.
+             (1)  In the performance of the Director’s functions and in the exercise of the Director’s powers, the Director is subject to such directions or guidelines as the Attorney-General, after consultation with the Director, gives or furnishes to the Director by instrument in writing.
 
              (2)  Without limiting the generality of subsection (1), directions or guidelines under that subsection may:
 
@@ -378,7 +376,7 @@ the Director may institute a prosecution on indictment of the person for the ind
 
                      (c)  be given or furnished in relation to particular cases.
 
-             (3)  Where the Attorney‑General gives a direction or furnishes a guideline under subsection (1), he or she shall:
+             (3)  Where the Attorney-General gives a direction or furnishes a guideline under subsection (1), he or she shall:
 
                      (a)  as soon as practicable after the time that is the relevant time in relation to the instrument containing the direction or guideline, cause a copy of the instrument to be published in the _Gazette_; and
 
@@ -390,11 +388,11 @@ the Director may institute a prosecution on indictment of the person for the ind
 
                      (a)  an instrument under subsection (1) relates to a matter in relation to which proceedings may be instituted or are being carried on; and
 
-                     (b)  the Attorney‑General is satisfied that the interests of justice require that the contents of the instrument not be disclosed;
+                     (b)  the Attorney-General is satisfied that the interests of justice require that the contents of the instrument not be disclosed;
 
 the relevant time for the purposes of subsection (3) in relation to the instrument is whichever is the earlier of the following times:
 
-                     (c)  the time when the Attorney‑General ceases to be satisfied as to the matter mentioned in paragraph (b); or
+                     (c)  the time when the Attorney-General ceases to be satisfied as to the matter mentioned in paragraph (b); or
 
                      (d)  the time when:
 
@@ -414,15 +412,15 @@ the relevant time for the purposes of subsection (3) in relation to the instru
 
                      (b)  for and on behalf of the Director, by a person authorized by the Director, by instrument in writing, to sign indictments.
 
-             (3)  For the purposes of the performance of his or her functions, the Director may take over a prosecution on indictment for an offence against a law of the Commonwealth, being a prosecution instituted by another person (other than the Attorney‑General or a Special Prosecutor).
+             (3)  For the purposes of the performance of his or her functions, the Director may take over a prosecution on indictment for an offence against a law of the Commonwealth, being a prosecution instituted by another person (other than the Attorney-General or a Special Prosecutor).
 
-          (3A)  Where a person holding office as a Special Prosecutor under the _Special Prosecutors Act 1982_ dies, or ceases for any reason so to hold office and is not forthwith re‑appointed, the Director may, for the purposes of the performance of the Director’s functions, take over a prosecution on indictment for an offence against a law of the Commonwealth, being a prosecution that:
+          (3A)  Where a person holding office as a Special Prosecutor under the _Special Prosecutors Act 1982_ dies, or ceases for any reason so to hold office and is not forthwith re-appointed, the Director may, for the purposes of the performance of the Director’s functions, take over a prosecution on indictment for an offence against a law of the Commonwealth, being a prosecution that:
 
                      (a)  was instituted; or
 
                      (b)  was, at the time when the person died or ceased so to hold office, being carried on;
 
-by the person, or by a person acting as a Special Prosecutor under that Act in the place of the first‑mentioned person.
+by the person, or by a person acting as a Special Prosecutor under that Act in the place of the first-mentioned person.
 
              (4)  Where:
 
@@ -448,7 +446,7 @@ and where the Director takes over such a proceeding, he or she may decline to ca
 
                      (b)  the fact that the person discloses or produces a document or other thing in specified proceedings; or
 
-                   (ba)  any information, document or other thing that is obtained as a direct or indirect consequence of an answer that is given, a statement or disclosure that is made, or a document or other thing that is disclosed or produced, in specified proceedings;
+                    (ba)  any information, document or other thing that is obtained as a direct or indirect consequence of an answer that is given, a statement or disclosure that is made, or a document or other thing that is disclosed or produced, in specified proceedings;
 
 will not be used in evidence against the person, and where the Director gives such an undertaking:
 
@@ -512,13 +510,13 @@ as the case may be, is not admissible in evidence against the person in any civi
 
                      (b)  in respect of specified acts or omissions that constitute, or may constitute, an offence against a law of the Commonwealth.
 
-          (6E)  Where the Director gives to a person an undertaking under subsection (6D), no criminal proceedings shall be instituted in a federal court or in a court of a State or Territory against the person in respect of such an offence or in respect of such acts or omissions.
+           (6E)  Where the Director gives to a person an undertaking under subsection (6D), no criminal proceedings shall be instituted in a federal court or in a court of a State or Territory against the person in respect of such an offence or in respect of such acts or omissions.
 
            (6F)  An undertaking under subsection (6D) may be subject to such conditions (if any) as the Director considers appropriate.
 
-             (7)  Where the Director has instituted or taken over, or is carrying on, a prosecution for an offence against a law of the Commonwealth, the Director may exercise in respect of that prosecution, in addition to such rights of appeal (if any) as are exercisable by him or her otherwise than under this subsection, such rights of appeal (if any) as are exercisable by the Attorney‑General in respect of that prosecution.
+             (7)  Where the Director has instituted or taken over, or is carrying on, a prosecution for an offence against a law of the Commonwealth, the Director may exercise in respect of that prosecution, in addition to such rights of appeal (if any) as are exercisable by him or her otherwise than under this subsection, such rights of appeal (if any) as are exercisable by the Attorney-General in respect of that prosecution.
 
-             (8)  Nothing in subsection (7) prevents the exercise by the Attorney‑General of a right of appeal that, but for that subsection, would be exercisable by the Attorney‑General.
+             (8)  Nothing in subsection (7) prevents the exercise by the Attorney-General of a right of appeal that, but for that subsection, would be exercisable by the Attorney-General.
 
           (8A)  If:
 
@@ -530,7 +528,7 @@ then:
 
                      (c)  in addition to any other rights of appeal the Director has, the Director may exercise, in respect of the proceedings, such rights of appeal as (disregarding the effect of paragraph (d)) are exercisable by the relevant person; and
 
-                     (d)  except where the Attorney‑General is the relevant person—the relevant person cannot exercise those rights of appeal.
+                     (d)  except where the Attorney-General is the relevant person—the relevant person cannot exercise those rights of appeal.
 
           (8B)  If:
 
@@ -560,15 +558,15 @@ the Director, or a person who is entitled to represent the Director in proceedin
 
              (1)  Nothing in this Act affects:
 
-                     (a)  the power of the Attorney‑General, of a person appointed by the Governor‑General or of a Special Prosecutor to prosecute by indictment in his or her own name indictable offences against the laws of the Commonwealth;
+                     (a)  the power of the Attorney-General, of a person appointed by the Governor-General or of a Special Prosecutor to prosecute by indictment in his or her own name indictable offences against the laws of the Commonwealth;
 
-                     (b)  the power of the Attorney‑General, of a person appointed by the Attorney‑General or of a Special Prosecutor to prosecute by information in his or her own name an indictable offence triable before the Supreme Court of the Australian Capital Territory;
+                     (b)  the power of the Attorney-General, of a person appointed by the Attorney-General or of a Special Prosecutor to prosecute by information in his or her own name an indictable offence triable before the Supreme Court of the Australian Capital Territory;
 
-                     (c)  the power under section 61 of the _Judiciary Act 1903_ of the Attorney‑General or of a person appointed by the Attorney‑General;
+                     (c)  the power under section 61 of the _Judiciary Act 1903_ of the Attorney-General or of a person appointed by the Attorney-General;
 
-                     (d)  the power under section 71 of the _Judiciary Act 1903_ of the Attorney‑General or of a person appointed by the Governor‑General;
+                     (d)  the power under section 71 of the _Judiciary Act 1903_ of the Attorney-General or of a person appointed by the Governor-General;
 
-                     (e)  the power under subsection 53(6) of the _Australian Capital Territory Supreme Court Act 1933_ of the Attorney‑General or of a person appointed by the Attorney‑General; or
+                     (e)  the power under subsection 53(6) of the _Australian Capital Territory Supreme Court Act 1933_ of the Attorney-General or of a person appointed by the Attorney-General; or
 
                       (f)  the power of a Special Prosecutor under subsection 8(2) of the _Special Prosecutors Act 1982_.
 
@@ -608,7 +606,7 @@ with respect to the prosecution of offences against the laws of the Commonwealth
 
              (3)  The Director shall:
 
-                     (a)  give to the Attorney‑General a copy of each direction given or guideline furnished under subsection (1); and
+                     (a)  give to the Attorney-General a copy of each direction given or guideline furnished under subsection (1); and
 
                      (b)  include in a report under subsection 33(1):
 
@@ -692,7 +690,7 @@ the Director may appear in person or may be represented:
 
                      (d)  by a member of the staff of the Office who is a legal practitioner;
 
-                   (da)  by a member of the staff of a State or Territory authority who is a legal practitioner;
+                    (da)  by a member of the staff of a State or Territory authority who is a legal practitioner;
 
                      (e)  by counsel or solicitor; or
 
@@ -718,11 +716,11 @@ whether or not he or she would, but for this section, be entitled to practise in
 
 ##### <a id="16A"></a>16A  Prohibition of publication of evidence etc. in certain proceedings
 
-             (1)  Where the Director takes civil remedies, or co‑ordinates or supervises the taking of civil remedies, in respect of a matter, a court may, at any time during or after the taking of civil remedies in respect of the matter, make, in relation to a proceeding in the court that relates to the taking of civil remedies in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
+             (1)  Where the Director takes civil remedies, or co-ordinates or supervises the taking of civil remedies, in respect of a matter, a court may, at any time during or after the taking of civil remedies in respect of the matter, make, in relation to a proceeding in the court that relates to the taking of civil remedies in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
 
-          (1A)  Where the Director institutes or carries on proceedings for the recovery of pecuniary penalties, or co‑ordinates or supervises the institution or carrying on of proceedings for the recovery of pecuniary penalties, in respect of a matter, a court may, at any time during or after the completion of proceedings for the recovery of pecuniary penalties in respect of the matter, make, in relation to a proceeding in the court that relates to the recovery of pecuniary penalties in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
+          (1A)  Where the Director institutes or carries on proceedings for the recovery of pecuniary penalties, or co-ordinates or supervises the institution or carrying on of proceedings for the recovery of pecuniary penalties, in respect of a matter, a court may, at any time during or after the completion of proceedings for the recovery of pecuniary penalties in respect of the matter, make, in relation to a proceeding in the court that relates to the recovery of pecuniary penalties in respect of the matter, such order prohibiting or restricting the publication of particular evidence, or of particular information, as appears to the court to be necessary in order to prevent prejudice to the administration of justice.
 
-       (1AB)  If the Director applies to a court under section 25 of the _Proceeds of Crime Act 2002_ for a restraining order under that Act, the court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters:
+        (1AB)  If the Director applies to a court under section 25 of the _Proceeds of Crime Act 2002_ for a restraining order under that Act, the court may, at any time after the making of the application and before the application is determined, make an order prohibiting or restricting the publication of all or any of the matters:
 
                      (a)  that are referred to in subsection 17(3) or 18(3), paragraph 19(1)(e) or subsection 20(3) (whichever is applicable) of that Act; and
 
@@ -752,29 +750,29 @@ but does not include a criminal proceeding.
 
 ##### <a id="17"></a>17  States may give members of staff of Office prosecution and appeal functions relating to State offences
 
-             (1)  Where a member of the staff of the Office, with the consent of the Attorney‑General, holds an appointment to prosecute offences against the laws of a State, the member may institute and carry on, in accordance with the terms of the appointment, prosecutions for such offences.
+             (1)  Where a member of the staff of the Office, with the consent of the Attorney-General, holds an appointment to prosecute offences against the laws of a State, the member may institute and carry on, in accordance with the terms of the appointment, prosecutions for such offences.
 
-             (2)  If a member of the staff of the Office is authorised by or under a law of a State to institute and carry on appeals arising out of prosecutions of offences against the laws of the State, being prosecutions by the Director as mentioned in paragraph 6(1)(m) or by members of the staff of the Office as mentioned in subsection (1) of this section, the first‑mentioned staff member may institute and carry on such appeals in accordance with requirements of or under that law.
+             (2)  If a member of the staff of the Office is authorised by or under a law of a State to institute and carry on appeals arising out of prosecutions of offences against the laws of the State, being prosecutions by the Director as mentioned in paragraph 6(1)(m) or by members of the staff of the Office as mentioned in subsection (1) of this section, the first-mentioned staff member may institute and carry on such appeals in accordance with requirements of or under that law.
 
 ##### <a id="18"></a>18  Appointment, and terms and conditions of appointment, of Director
 
-             (1)  The Director shall be appointed by the Governor‑General.
+             (1)  The Director shall be appointed by the Governor-General.
 
              (2)  A person shall not be appointed as the Director unless he or she is a legal practitioner and has been a legal practitioner for not less than 5 years.
 
-             (3)  The Director shall be appointed for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (3)  The Director shall be appointed for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
 
-             (5)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (5)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="18A"></a>18A  Appointment etc. of Associate Director
 
-             (1)  The Associate Director must be appointed by the Governor‑General.
+             (1)  The Associate Director must be appointed by the Governor-General.
 
-             (2)  The Associate Director holds office for the period, not longer than 7 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+             (2)  The Associate Director holds office for the period, not longer than 7 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
              (3)  A person must not be appointed as the Associate Director unless he or she is a legal practitioner and has been a legal practitioner for at least 5 years.
 
-             (5)  The Associate Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (5)  The Associate Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="18B"></a>18B  Exercise of powers and functions by Associate Director
 
@@ -800,13 +798,13 @@ but does not include a criminal proceeding.
 
              (1)  The Director and Associate Director have such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Attorney‑General may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Attorney‑General determines.
+             (2)  The Attorney-General may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Attorney-General determines.
 
              (3)  The Director may grant the Associate Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Director determines.
 
 ##### <a id="21"></a>21  Resignation
 
-                   The Director or the Associate Director may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   The Director or the Associate Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="22"></a>22  Director or Associate Director not to undertake other work
 
@@ -814,11 +812,11 @@ but does not include a criminal proceeding.
 
                      (a)  engage in practice as a legal practitioner outside the duties of his or her office; or
 
-                     (b)  without the consent of the Attorney‑General, engage in paid employment outside the duties of his or her office.
+                     (b)  without the consent of the Attorney-General, engage in paid employment outside the duties of his or her office.
 
 ##### <a id="23"></a>23  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director or Associate Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Director or Associate Director for misbehaviour or physical or mental incapacity.
 
              (2)  If the Director or Associate Director:
 
@@ -828,11 +826,11 @@ but does not include a criminal proceeding.
 
                      (c)  engages in practice as a legal practitioner outside the duties of his office;
 
-                     (d)  without the consent of the Attorney‑General, engages in paid employment outside the duties of his or her office; or
+                     (d)  without the consent of the Attorney-General, engages in paid employment outside the duties of his or her office; or
 
                      (e)  fails, without reasonable excuse, to comply with his or her obligations under section 24;
 
-the Governor‑General shall terminate the appointment of the Director or Associate Director, as the case may be.
+the Governor-General shall terminate the appointment of the Director or Associate Director, as the case may be.
 
              (3)  In spite of anything contained in this section, if the Director or Associate Director:
 
@@ -852,7 +850,7 @@ he or she is not capable of being retired from office on the ground of invalidit
 
              (5)  In spite of anything contained in this section, if the Director or Associate Director:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
@@ -860,9 +858,9 @@ he or she is not capable of being retired from office on the ground of invalidit
 
 ##### <a id="24"></a>24  Disclosure of interests
 
-             (1)  The Director shall give written notice to the Attorney‑General of all direct or indirect pecuniary interests that he or she has or acquires in any business whether in Australia or elsewhere or in any body corporate carrying on any such business.
+             (1)  The Director shall give written notice to the Attorney-General of all direct or indirect pecuniary interests that he or she has or acquires in any business whether in Australia or elsewhere or in any body corporate carrying on any such business.
 
-             (2)  The Associate Director must give written notice to the Attorney‑General of all direct and indirect pecuniary interests that the Associate Director has or acquires in any business, whether in Australia or anywhere else, or in any body corporate carrying on any such business.
+             (2)  The Associate Director must give written notice to the Attorney-General of all direct and indirect pecuniary interests that the Associate Director has or acquires in any business, whether in Australia or anywhere else, or in any body corporate carrying on any such business.
 
 ##### <a id="25"></a>25  Oath or affirmation of office
 
@@ -872,7 +870,7 @@ he or she is not capable of being retired from office on the ground of invalidit
 
 ##### <a id="26"></a>26  Acting appointments—Director
 
-             (1)  The Attorney‑General may appoint a person who is eligible for appointment as the Director to act in the office of Director:
+             (1)  The Attorney-General may appoint a person who is eligible for appointment as the Director to act in the office of Director:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
@@ -888,17 +886,17 @@ except when a person appointed under subsection (1) is acting in that position
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (3)  The Attorney‑General may:
+             (3)  The Attorney-General may:
 
                      (a)  determine the terms and conditions, including remuneration and allowances, if any, on which a person is to act under this section; and
 
                      (b)  terminate an appointment under this section at any time.
 
-             (4)  Where a person is acting in the office of Director during a period mentioned in paragraph (1)(b) and that office becomes vacant while that person is so acting, that person may continue so to act until the Attorney‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (4)  Where a person is acting in the office of Director during a period mentioned in paragraph (1)(b) and that office becomes vacant while that person is so acting, that person may continue so to act until the Attorney-General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (5)  Sections 20, 24 and 25 apply in relation to a person appointed under this section to act in the office of Director in like manner as they apply in relation to the Director.
 
-             (6)  The appointment of a person to act in the office of Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Attorney‑General.
+             (6)  The appointment of a person to act in the office of Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Attorney-General.
 
              (7)  While a person is acting in the office of Director, he or she has and may exercise all the powers, and shall perform all the functions, of the Director, and where a person, while so acting, does an act in the exercise or performance of a power or function of the Director, the act shall, for the purposes of this Act, be deemed to have been done by the Director.
 
@@ -908,7 +906,7 @@ except when a person appointed under subsection (1) is acting in that position
 
 ##### <a id="26A"></a>26A  Acting appointments—Associate Director
 
-             (1)  The Attorney‑General may appoint a person who is eligible for appointment as the Associate Director to act in the office of Associate Director:
+             (1)  The Attorney-General may appoint a person who is eligible for appointment as the Associate Director to act in the office of Associate Director:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to it; or
 
@@ -958,15 +956,13 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
 ##### <a id="30"></a>30  Administrative arrangements
 
-             (1)  The Attorney‑General may make an arrangement with the appropriate Minister of the Crown of a State under which the State will, from time to time as agreed upon under the arrangement, make available a person who is an officer or employee of the State or of an authority of the State or a member of the Police Force of the State, to perform services for the Director.
+             (1)  The Attorney-General may make an arrangement with the appropriate Minister of the Crown of a State under which the State will, from time to time as agreed upon under the arrangement, make available a person who is an officer or employee of the State or of an authority of the State or a member of the Police Force of the State, to perform services for the Director.
 
              (2)  An arrangement under subsection (1) may provide for the Commonwealth to reimburse a State with respect to the services of a person or persons to whom the arrangement relates.
 
 ##### <a id="31"></a>31  Delegation by Director
 
-             (1)  The Director may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to a member of the staff of the Office (other than the Associate Director) all or any of his or her functions or powers under this Act, other than those under subsections 6(2D), 9(2) and 9(6D) and this power of delegation.
-
-       (1AA)  If a function is delegated under subsection (1) to a person referred to in paragraph 29(b), the person need not accept the function delegated.
+             (1)  The Director may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to a member of the staff of the Office (other than the Associate Director) all or any of his or her powers under this Act, other than his or her powers under subsections 6(2D), 9(2) and 9(6D) and this power of delegation.
 
           (1A)  The Director may, by writing signed by him or her, delegate to a person who:
 
@@ -978,33 +974,9 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
 the power conferred on the Director by one or more instruments made under subsection 6(4).
 
-          (1B)  The Director may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to:
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Director.
 
-                     (a)  a person performing a similar role under a law of a State or Territory; or
-
-                     (b)  a member of the staff of a State or Territory authority (within the meaning of subsection 15(3)) who is a legal practitioner; or
-
-                     (c)  a person authorised by, or under, a law of a State or Territory to institute or conduct prosecutions for offences against the laws of the State or Territory; or
-
-                     (d)  a person included in a class of persons prescribed by the regulations for the purposes of this paragraph;
-
-all or any of the Director’s functions and powers under the following provisions:
-
-                     (e)  paragraphs 6(1)(a), (b), (c), (d) and (e);
-
-                      (f)  paragraph 6(1)(n) (so far as it relates to the functions covered by paragraph (e) of this subsection);
-
-                     (g)  subsections 6(2A), (2B) and (2C);
-
-                     (h)  subsections 9(7), (8A) and (8B);
-
-                      (i)  other provisions of this Act prescribed by the regulations for the purposes of this paragraph.
-
-          (1C)  If a function is delegated under subsection (1B) to a person, the person need not accept the function delegated.
-
-             (2)  A function or power so delegated, when performed or exercised by the delegate, shall, for the purposes of this Act, be deemed to have been performed or exercised by the Director.
-
-             (3)  A delegation under this section does not prevent the performance of a function or the exercise of a power by the Director.
+             (3)  A delegation under this section does not prevent the exercise of a power by the Director.
 
 ##### <a id="32"></a>32  Arrangements with the Australian Government Solicitor 
 
@@ -1028,45 +1000,11 @@ If such an arrangement is made, the AGS may perform or exercise those functions 
 
                     <a name="ag"></a>**_AGS_** has the meaning it has in Part VIIIB of the _Judiciary Act 1903_.
 
-##### <a id="32A"></a>32A  Immunity from civil proceedings
-
-             (1)  No civil action, suit or proceeding lies against the following persons:
-
-                     (a)  the Director;
-
-                     (b)  a member of the staff of the Office;
-
-                     (c)  a person to whom functions or powers are delegated under section 31;
-
-in relation to an act done, or omitted to be done, in good faith by the person in the performance or exercise, or the purported performance or exercise, of any function, duty or power under, or in relation to, this Act.
-
-             (2)  No civil action, suit or proceeding lies against a person employed under subsection 27(3) in relation to an act done, or omitted to be done, in good faith by the person for the purposes of the performance of the functions of the Director.
-
-Note:          Subsection (1) applies to the extent that the Director’s functions or powers are delegated to a person employed under subsection 27(3).
-
-             (3)  No civil action, suit or proceeding lies against a person referred to in section 29 whose services are made available to the Director in relation to an act done, or omitted to be done, in good faith by the person for the purpose of assisting the Director.
-
-Note:          Subsection (1) applies to the extent that the Director’s functions or powers are delegated to a person referred to in section 29 whose services are made available to the Director.
-
-             (4)  No civil action, suit or proceeding lies against the AGS in relation to an act done, or omitted to be done, in good faith by the AGS in performing a function or exercising a power under an arrangement made under subsection 32(1).
-
-             (5)  No civil action, suit or proceeding lies against:
-
-                     (a)  the Chief Executive Officer of the AGS; or
-
-                     (b)  a person employed under subsection 55ZB(1) of the _Judiciary Act 1903_;
-
-in relation to an act done, or omitted to be done, in good faith by the person in assisting the AGS to perform a function or exercise a power under an arrangement made under subsection 32(1) of this Act.
-
-             (6)  In subsections (4) and (5):
-
-                    <a name="ag"></a>**_AGS_** has the meaning given by subsection 32(4).
-
 ##### <a id="33"></a>33  Annual report
 
-             (1)  The Director shall, as soon as practicable after 30 June in each year, prepare and furnish to the Attorney‑General a report with respect to the operations of the Office during the year that ended on that date.
+             (1)  The Director shall, as soon as practicable after 30 June in each year, prepare and furnish to the Attorney-General a report with respect to the operations of the Office during the year that ended on that date.
 
-             (2)  The Attorney‑General shall cause a copy of a report furnished to him or her under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by him or her.
+             (2)  The Attorney-General shall cause a copy of a report furnished to him or her under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by him or her.
 
 ##### <a id="33A"></a>33A  Service of process on the Director
 
@@ -1078,7 +1016,7 @@ in relation to an act done, or omitted to be done, in good faith by the person i
 
 ##### <a id="34"></a>34  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1102,15 +1040,15 @@ I, A. B., do solemnly and sincerely promise and declare that I will be faithful 
 
 ### Note 1
 
-The _Director of Public Prosecutions Act 1983_ as shown in this compilation comprises Act No. 113, 1983 amended as indicated in the Tables below.
+The _Director of Public Prosecutions Act 1983_ as shown in this compilation comprises Act No. 113, 1983 amended as indicated in the Tables below. 
 
 The _Director of Public Prosecutions Act 1983_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Director of Public Prosecutions Act 1983_ is affected by section 43 of the _CSL Sale Act 1993_ and section 30 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ _see_ Table B.
+The _Director of Public Prosecutions Act 1983_ is affected by section 43 of the _CSL__Sale__Act 1993_ and section 30 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ _see_ Table B.
 
-The _Director of Public Prosecutions Act 1983_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations _see_ Table C.
+The _Director of Public Prosecutions Act 1983_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations _see_ Table C.
 
 ### Table of Acts
 
@@ -1869,32 +1807,15 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3: 3 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Director of Public Prosecutions Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Director of Public Prosecutions Act 1983_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
+_(b)_    The _Director of Public Prosecutions Act 1983_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
-                 (7)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Director of Public Prosecutions Act 1983_ was amended by section 3 only of the _Mutual Assistance in Criminal Matters (Consequential Amendments) Act 1987_, subsection 2(2) of which provides as follows:
 
@@ -1916,7 +1837,7 @@ The _Extradition Act 1988_ came into operation on 1 December 1988 (_see Gazett
 
 _(g)_ The _Director of Public Prosecutions Act 1983_ was amended by Part IX (sections 30 and 31) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(3) of which provides as follows:
 
-                 (3)   Parts VIII, IX and XVI (except the provisions referred to in subsection (9)) commence on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (3)   Parts VIII, IX and XVI (except the provisions referred to in subsection (9)) commence on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(h)_     The _Director of Public Prosecutions Act 1983_ was amended by sections 40–56 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1) and (3) of which provide as follows:
 
@@ -2224,7 +2145,7 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 108, 1989; No. 28, 1991; No. 164, 1992; No. 43, 1996; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); No. 3, 2011</div>
+    <div>am. No. 108, 1989; No. 28, 1991; No. 164, 1992; No. 43, 1996; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332)</div>
   </td>
 </tr>
 <tr>
@@ -2241,14 +2162,6 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
   </td>
   <td>
     <div>am. No. 10, 1984; No. 7, 1999; No. 62, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2308,9 +2221,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -2366,13 +2279,13 @@ _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
 ## Subsection 3(1) (definition of “law of the Commonwealth”):
 
             (a)        before paragraph (a) insert the following paragraph:
 
-                  “(aa)  the _Australian Capital Territory__(Self‑Government) Act 1988_;”.
+                  “(aa)  the _Australian Capital Territory__(Self-Government) Act 1988_;”.
 
             (b)        after “paragraph” in paragraph (c) insert “(aa),”.
 
