@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00670/Html/c998762f-b6cb-40d6-8e52-19a5c7f0b9a7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00545/Html/AusInstMariScience72_WD02_image001.gif)
 
 # Australian Institute of Marine Science Act 1972
 
 **Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 24 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 10 September 2007
+ taking into account amendments up to Act No. 84 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -154,13 +154,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  marine application and use; or
 
-                     (b)  non‑marine application and use.
+                     (b)  non-marine application and use.
 
-                    <a name="appointed"></a>**_appointed_** includes re‑appointed, and re‑appointment has a corresponding meaning.
+                    <a name="appointed"></a>**_appointed_** includes re-appointed, and re-appointment has a corresponding meaning.
 
                     <a name="associated-compani"></a>**_associated company_**, in relation to the Institute, means a company where the Institute is in a position to cast, or control the casting of, 15% or more of the maximum number of votes that might be cast at a general meeting of the company.
 
-                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day‑to‑day operations of the Institute.
+                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the Institute.
 
                     <a name="minist"></a><a name="financ"></a>**_Finance_** **_Minister_** means the Minister administering the _Commonwealth Authorities and Companies Act 1997_.
 
@@ -220,7 +220,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  to arrange for carrying out research and development of that kind; and
 
-                     (d)  to co‑operate with other institutions and persons in carrying out research and development of that kind; and
+                     (d)  to co-operate with other institutions and persons in carrying out research and development of that kind; and
 
                      (e)  to provide any other institution or person with facilities for carrying out research and development of that kind; and
 
@@ -294,9 +294,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  to acquire, hold and dispose of personal property;
 
-                   (ba)  to take on hire, or to accept on loan, equipment (including vessels) or other goods needed for the purposes of the Institute;
+                    (ba)  to take on hire, or to accept on loan, equipment (including vessels) or other goods needed for the purposes of the Institute;
 
-                   (bb)  to lend or to hire out equipment (including vessels) or other goods that are the property of the Institute;
+                    (bb)  to lend or to hire out equipment (including vessels) or other goods that are the property of the Institute;
 
                      (c)  to purchase or take on lease land or buildings, and to erect buildings, necessary for the purposes of the Institute;
 
@@ -310,9 +310,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (h)  to form, and to participate in the formation of, companies;
 
-                   (ha)  to lend money to associated companies of the Institute;
+                    (ha)  to lend money to associated companies of the Institute;
 
-                   (hb)  with the written approval of the Finance Minister, to provide guarantees for the benefit of associated companies of the Institute;
+                    (hb)  with the written approval of the Finance Minister, to provide guarantees for the benefit of associated companies of the Institute;
 
                       (i)  to appoint agents and attorneys, and to act as agents for other persons;
 
@@ -326,7 +326,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  Notwithstanding anything contained in this Act, any money or property held by the Institute upon trust shall be dealt with in accordance with the powers and duties of the Institute as trustee.
 
-             (4)  The Governor‑General may make available, for the purposes of the Institute, any land or buildings owned or held under lease by the Commonwealth.
+             (4)  The Governor-General may make available, for the purposes of the Institute, any land or buildings owned or held under lease by the Commonwealth.
 
 ## Part III—Council of the Institute
 
@@ -346,15 +346,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  the Chief Executive Officer; and
 
-                   (ba)  a member nominated by James Cook University; and
+                    (ba)  a member nominated by James Cook University; and
 
                      (c)  4 other members.
 
-             (2)  The members shall be appointed by the Governor‑General.
+             (2)  The members shall be appointed by the Governor-General.
 
              (3)  At least 3 members shall be persons possessing scientific qualifications.
 
-             (4)  Subject to this Act, each member holds office for such period, not exceeding 5 years, as is specified in the instrument of the member’s appointment and on such terms and conditions as the Governor‑General determines, but is eligible for re‑appointment.
+             (4)  Subject to this Act, each member holds office for such period, not exceeding 5 years, as is specified in the instrument of the member’s appointment and on such terms and conditions as the Governor-General determines, but is eligible for re-appointment.
 
              (5)  An act or decision of the Council is not invalid by reason only of a vacancy or vacancies in the membership of the Council.
 
@@ -364,11 +364,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="14"></a>14  Resignation of members
 
-                   A member may resign from office by writing signed by the member and delivered to the Governor‑General.
+                   A member may resign from office by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="15"></a>15  Termination of appointment
 
-                   The Governor‑General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+                   The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
 
 ##### <a id="16"></a>16  Vacation of office
 
@@ -382,7 +382,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (d)  is covered by subsection (2);
 
-the Governor‑General shall, by notice published in the _Gazette_, declare that the office of the member is vacant, and thereupon the office shall be deemed to be vacant.
+the Governor-General shall, by notice published in the _Gazette_, declare that the office of the member is vacant, and thereupon the office shall be deemed to be vacant.
 
              (2)  A member is covered by this subsection if:
 
@@ -438,7 +438,7 @@ the Governor‑General shall, by notice published in the _Gazette_, declare that
 
 ##### <a id="22"></a>22  Tenure of office
 
-                   Subject to this Act, the Chief Executive Officer holds office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Council determines, but is eligible for re‑appointment.
+                   Subject to this Act, the Chief Executive Officer holds office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Council determines, but is eligible for re-appointment.
 
 ##### <a id="23"></a>23  Functions of Chief Executive Officer
 
@@ -640,7 +640,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="51"></a>51  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations
 
 # Notes to the _Australian Institute of Marine Science Act 1972_
 
@@ -1044,23 +1044,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td colspan="2">
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 179–183) and Schedule 3 (items 10, 11): \[ <i>see </i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1072,9 +1055,9 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -1084,7 +1067,7 @@ _(c)_     The _Australian Institute of Marine Science Act 1972_ was amen
 
 _(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(29) of which provides as follows:
 
-               (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first‑mentioned Act received the Royal Assent.
+               (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.
 
 _(e)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 4 (items 
  28–30) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
@@ -1096,13 +1079,13 @@ _(f)_      The _Australian Institute of Marine Science Act 1972_ was a
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,
 
-_(g)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Australian__Institute__of__Marine   Science Act__1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(h)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -1804,38 +1787,6 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 179  Subsection 30(1)
-
-Omit “(1)”.
-
-## 180  Paragraph 30(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 181  Subsection 30(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 182  At the end of subsection 30(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 183  Subsections 30(2) to (7)
-
-Repeal the subsections.
-
-As at 24 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1854,7 +1805,7 @@ _Research Agencies Legislation Amendment Act 2002 (No. 98, 2002)_
 
 ## Schedule 1
 
-## 11  Transitional—pre‑commencement functions and powers
+## 11  Transitional—pre-commencement functions and powers
 
 In determining the functions and powers that the Institute had before the commencement of this item, the amendments made by this Part are to be disregarded.
 
@@ -1866,36 +1817,20 @@ _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 
 
 ## 12  Application of amendments—Chief Executive Officer
 
-(1)       The amendments and repeals made by this Schedule apply to a person appointed after commencement as Chief Executive Officer.
+(1)        The amendments and repeals made by this Schedule apply to a person appointed after commencement as Chief Executive Officer.
 
-(2)       The instrument of appointment of the current Chief Executive Officer continues in effect after commencement, despite the amendments and repeals made by this Schedule.
+(2)        The instrument of appointment of the current Chief Executive Officer continues in effect after commencement, despite the amendments and repeals made by this Schedule.
 
-(3)       Subject to subitem (4), the old Act continues to apply, in relation to the current Chief Executive Officer, as if the amendments and repeals made by this Schedule had not happened.
+(3)        Subject to subitem (4), the old Act continues to apply, in relation to the current Chief Executive Officer, as if the amendments and repeals made by this Schedule had not happened.
 
-(4)       Subsection 25(2) of the _Australian Institute of Marine Science Act 1972_**,** as amended by this Schedule, has effect after commencement in relation to the current Chief Executive Officer.
+(4)        Subsection 25(2) of the _Australian Institute of Marine Science Act 1972_**,** as amended by this Schedule, has effect after commencement in relation to the current Chief Executive Officer.
 
-(5)       In this item:
+(5)        In this item:
 
 **_commencement_** means the commencement of this item.
 
 **_current Chief Executive Officer_** means the person who, immediately before commencement, held the office of Chief Executive Officer of the Australian Institute of Marine Science under section 21 of the old Act.
 
 **_old Act_** means the _Australian Institute of Marine Science Act 1972_, as in force immediately before commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
