@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image001.gif)
 
 # Carbon Credits (Carbon Farming Initiative) Act 2011
 
 **Act No. 101 of 2011 as amended**
 
-This compilation was prepared on 26 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 17 August 2012
+ taking into account amendments up to Act No. 84 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -695,7 +696,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [242](#242).        Reconsideration by the Regulator
 
-[243](#243).        Deadline for reconsideration
+[243](#243).        Deadline for reconsideration [_see_ Note 2]
 
 [244](#244).        Review by the Administrative Appeals Tribunal
 
@@ -1424,7 +1425,7 @@ It is immaterial whether any of the trees have been established with human assis
 
                      (c)  flood;
 
-                    (ca)  bushfire;
+                     (b)  bushfire;
 
                      (d)  drought;
 
@@ -1746,9 +1747,9 @@ there are taken to be 4 offices of member of the Domestic Offsets Integrity Comm
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      Australian carbon credit
+<li class="BoxList" style="margin-left:21.25pt">•      Australian carbon credit units
 
-units may be issued in relation to an eligible offsets project.</li>
+may be issued in relation to an eligible offsets project.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The number of Australian
 
@@ -1928,7 +1929,7 @@ Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image002.gif)
 
 where:
 
@@ -1970,7 +1971,7 @@ Unit entitlement—prescribed native forest protection projects
 
              (2)  If the project is a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image003.gif)
 
 where:
 
@@ -1996,7 +1997,7 @@ Unit entitlement—other native forest protection projects
 
              (3)  If the project is not a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image004.gif)
 
 where:
 
@@ -2866,7 +2867,7 @@ this Act has effect, and is taken always to have had effect, as if the Minister 
 
                    For the purposes of this Act, the **_net total number_** of Australian carbon credit units issued in relation to an eligible offsets project in accordance with Part 2 is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image005.gif)
 
 ### Division 8—Applicable carbon sequestration right
 
@@ -5736,7 +5737,7 @@ Continuation
 
              (3)  However, if the Regulator approves, under section 130, the application of another methodology determination to the project, with effect from a particular time, subsection (2) does not apply to the project during so much of the crediting period as occurs after that time.
 
-##### <a id="126"></a>126  Original methodology determination continues to apply after variation
+##### <a id="126"></a>126  Original methodology determination continues to apply after variation
 
 Scope
 
@@ -6004,11 +6005,13 @@ Methods determined under the National Greenhouse and Energy Reporting Act 2007
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      If there are multiple project
+<li class="BoxList" style="margin-left:21.25pt">•      If there are multiple
 
-proponents for an offsets project, a reference in this Act to the project
+project proponents for an offsets project, a reference in this Act to the
 
-proponent is to be read as a reference to each of the project proponents.</li>
+project proponent is to be read as a reference to each of the project
+
+proponents.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Multiple project proponents
 
@@ -7252,7 +7255,7 @@ No units relinquished
 
              (2)  If, by the compliance deadline, the person has not relinquished any Australian carbon credit units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image006.gif)
 
 where:
 
@@ -7274,7 +7277,7 @@ Relinquishment of insufficient units
 
 the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00749/Html/40661546-715a-4840-b47e-5b3754a8d3c4_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image007.gif)
 
 where:
 
@@ -7700,11 +7703,11 @@ premises for the purpose of:</li>
 
 consent of the occupier of the premises or under a monitoring warrant.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      An inspector who enters premises
+<li class="BoxList" style="margin-left:21.25pt">•      An inspector who enters
 
-may exercise monitoring powers. The inspector may be assisted by other persons
+premises may exercise monitoring powers. The inspector may be assisted by other
 
-if that assistance is necessary and reasonable.</li>
+persons if that assistance is necessary and reasonable.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The occupier of the
 
@@ -8208,7 +8211,7 @@ Audit
 
                      (d)  give the Regulator a copy of the audit report on or before the day specified in the notice.
 
-Note:          For the conduct of an audit under this section, see section 75 of the _National Greenhouse and Energy Reporting Act 2007_.
+Note:          For the conduct of an audit under this section, see section 75AA of the _National Greenhouse and Energy Reporting Act 2007_.
 
              (3)  The notice must specify:
 
@@ -8448,7 +8451,7 @@ Civil enforcement of penalty
 
 ##### <a id="224"></a>224  Time limit for application for an order
 
-                   Proceedings for a civil penalty order may be started no later than 6 years after the contravention.
+                   Proceedings for a civil penalty order may be started no later than 6 years after the contravention.
 
 ##### <a id="225"></a>225  Civil evidence and procedure rules for civil penalty orders
 
@@ -8626,7 +8629,7 @@ into a scheme:</li>
 
 * * *
 
-##### <a id="234"></a>234  Scheme to avoid existing liability to pay administrative penalty
+##### <a id="234"></a>234  Scheme to avoid existing liability to pay administrative penalty
 
 Intention
 
@@ -8822,11 +8825,11 @@ Objective purpose
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may give the
+<li class="BoxList" style="margin-left:21.25pt">•      A person may give the Regulator
 
-Regulator an enforceable undertaking about compliance with this Act or the
+an enforceable undertaking about compliance with this Act or the associated
 
-associated provisions.</li>
+provisions.</li>
 
 * * *
 
@@ -8880,11 +8883,11 @@ the Regulator may apply to the Federal Court for an order under subsection (2)
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of
+<li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of delegates
 
-delegates of the Regulator may be reviewed by the Administrative Appeals
+of the Regulator may be reviewed by the Administrative Appeals Tribunal
 
-Tribunal following a process of internal reconsideration by the Regulator.</li>
+following a process of internal reconsideration by the Regulator.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of the
 
@@ -9011,8 +9014,7 @@ Appeals Tribunal.</li>
     <div>8</div>
   </td>
   <td>
-    <div>A decision, under regulations made for the purposes of section 57, to
-      make a determination.</div>
+    <div>A decision to make a determination under section 57 or 58.</div>
   </td>
 </tr>
 <tr>
@@ -9181,11 +9183,11 @@ Application
 
              (4)  Within 28 days after making the decision on the reconsideration, the Regulator must give the applicant a written statement of the Regulator’s reasons for the decision.
 
-##### <a id="243"></a>243  Deadline for reconsideration
+##### <a id="243"></a>243  Deadline for reconsideration [_see_ Note 2]
 
              (1)  The Regulator must make its decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
 
-             (2)  The Regulator is taken, for the purposes of this Part, to have made a decision affirming the original decision if the Regulator has not informed the applicant of its decision on the reconsideration before the end of the period of 90 days.
+             (2)  The Regulator is taken, for the purposes of this Part, to have made a decision affirming the original decision if he or she has not informed the applicant of its decision on the reconsideration before the end of the period of 90 days.
 
 ##### <a id="244"></a>244  Review by the Administrative Appeals Tribunal
 
@@ -9357,9 +9359,21 @@ Eligibility
 
 unless the person is eligible for appointment as a Domestic Offsets Integrity Committee member.
 
-Note 1:       See subsection 257(2).
+Note:          See subsection 257(2).
 
-Note 2:       For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="260"></a>260  Procedures
 
@@ -9579,7 +9593,7 @@ if the disclosure is for the purposes of:
 
                              (ii)  the Kyoto Protocol; or
 
-                            (iii)  an international agreement (if any) that is the successor (whether immediate or otherwise) to the Kyoto Protocol; or
+                             (ii)  an international agreement (if any) that is the successor (whether immediate or otherwise) to the Kyoto Protocol; or
 
                      (e)  facilitating the development of an international agreement (if any) that is to be the successor (whether immediate or otherwise) to the Kyoto Protocol.
 
@@ -9891,7 +9905,7 @@ Conditions
 
              (8)  An instrument under subsection (6) is not a legislative instrument.
 
-##### <a id="283"></a>283  Disclosure for purposes of law enforcement—protected DOIC information
+##### <a id="283"></a>283  Disclosure for purposes of law enforcement—protected DOIC information
 
 Scope
 
@@ -10433,40 +10447,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 3): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Clean Energy Legislation Amendment Act 2012</div>
   </td>
   <td>
@@ -10480,111 +10460,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Sch. 3 (item 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 25–28) and Schedule 4 (items 9–11, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
-  </td>
-</tr></table>
-
-_(a)_        Subsection 2(1) (item 8) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 2, item 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Clean Energy (Consequential Amendments) Act 2011</i>for the commencement
-        of Part 1 of Schedule 1 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      2 April 2012
-    </div>
   </td>
 </tr></table>
 
@@ -10621,18 +10496,10 @@ _(a)_        Subsection 2(1) (item 8) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>Ss. 4, 5</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -11869,23 +11736,7 @@ _(a)_        Subsection 2(1) (item 8) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>S. 214</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 214(2)</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215</div>
+    <div>Ss. 214, 215</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11969,7 +11820,7 @@ Part 24</div>
     <div>S. 240</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 136, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11998,31 +11849,7 @@ Part 24</div>
 </tr>
 <tr>
   <td>
-    <div>S. 242</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 243</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011 (as am. by No. 136, 2012)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 244</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 245</div>
+    <div>Ss. 242–245</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -12070,32 +11897,6 @@ Part 24</div>
 </tr>
 <tr>
   <td>
-    <div>S. 259</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 259(3) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 259(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 269</div>
   </td>
   <td>
@@ -12124,14 +11925,6 @@ No. 136, 2012</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 273</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12247,6 +12040,18 @@ No. 136, 2012</div>
   </td>
 </tr></table>
 
+### Note 2
+
+Subsection 243(2)—Schedule 1 (item 62) of the _Clean Energy (Consequential Amendments) Act 2011_ (No. 132, 2011) provides as follows:
+
+## Schedule 1
+
+## 62  Subsection 243(2)
+
+Omit “her or she”, substitute “the Regulator”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -12308,15 +12113,5 @@ If:
                      (b)  immediately before the commencement of this item, the declaration was subject to a condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project;
 
 the declaration has effect, after the commencement of this item, as if the condition were instead a condition that all regulatory approvals must be obtained for the project before the end of the first reporting period for the project.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
