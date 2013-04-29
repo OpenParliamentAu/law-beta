@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image001.gif)
 
 # Superannuation (Productivity Benefit) Act 1988
 
 **Act No. 70 of 1988 as amended**
 
-This compilation was prepared on 1 July 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 22 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,73 +18,73 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3AA](#3AA).      Closure of productivity benefit scheme from 1 July 2006
+[3AA](#3AA).      Closure of productivity benefit scheme from 1 July 2006                  9
 
-[3AB](#3AB).      Modification of productivity benefit scheme from 1 July 2005
+[3AB](#3AB).      Modification of productivity benefit scheme from 1 July 2005         9
 
-[3A](#3A).         Only one benefit in respect of a day of employment
+[3A](#3A).         Only one benefit in respect of a day of employment                        10
 
-[3B](#3B).         Rates of salary
+[3B](#3B).         Rates of salary                                                                                   11
 
-[3C](#3C).         Continuing contributions
+[3C](#3C).         Continuing contributions                                                                   12
 
-[3D](#3D).         Variation of Table
+[3D](#3D).         Variation of Table                                                                              14
 
-[3E](#3E).          Interest factors
+[3E](#3E).          Interest factors                                                                                   14
 
-[3F](#3F).          Qualified employees
+[3F](#3F).          Qualified employees                                                                          14
 
-[4](#4).            Other employers may apply interim benefit
+[4](#4).            Other employers may apply interim benefit                                     15
 
-[4A](#4A).         Arrangements for certain employers
+[4A](#4A).         Arrangements for certain employers                                                 15
 
-[4B](#4B).         Nominated fund
+[4B](#4B).         Nominated fund                                                                                 15
 
-[4C](#4C).         Approved funds
+[4C](#4C).         Approved funds                                                                                15
 
-[4D](#4D).         Nominated and approved superannuation funds to comply with standards
+[4D](#4D).         Nominated and approved superannuation funds to comply with standards           16
 
-[4E](#4E).          Payments of equivalent benefit to declared funds
+[4E](#4E).          Payments of equivalent benefit to declared funds                             16
 
-[4EA](#4EA).       Payments of equivalent benefit to Board
+[4EA](#4EA).       Payments of equivalent benefit to Board                                          16
 
-[4F](#4F).          Payments of contributions to declared funds
+[4F](#4F).          Payments of continuing contributions to declared funds                  17
 
-[4G](#4G).         Interest
+[4G](#4G).         Interest                                                                                               17
 
-[4H](#4H).         Certain employees to become members of nominated fund
+[4H](#4H).         Certain employees to become members of nominated fund              18
 
-[5](#5).            Qualifying service
+[5](#5).            Qualifying service                                                                              18
 
-[6](#6).            When benefit payable
+[6](#6).            When benefit payable                                                                        19
 
-[7](#7).            Employers to pay interim benefit for their employees
+[7](#7).            Employers to pay interim benefit for their employees                     21
 
-[8](#8).            Amount of interim benefit before 1 July 1990
+[8](#8).            Amount of interim benefit before 1 July 1990                                  21
 
-[8A](#8A).         Amount of interim benefit from 1 July 1990
+[8A](#8A).         Amount of interim benefit from 1 July 1990                                    22
 
-[9](#9).            Assignment of benefit
+[9](#9).            Assignment of benefit                                                                        23
 
-[9A](#9A).         Declarations
+[9A](#9A).         Declarations                                                                                       24
 
-[9B](#9B).         Legislative instruments disallowable
+[9B](#9B).         Certain declarations and determinations disallowable etc                  24
 
-[9C](#9C).         Delegation by Minister
+[9C](#9C).         Delegation by Minister                                                                      24
 
-[9D](#9D).         Minister to comply with the _Superannuation Industry (Supervision) Act 1993_
+[9D](#9D).         Minister to comply with the _Superannuation Industry (Supervision) Act 1993_     24
 
-[9E](#9E).          Source of payments
+[9E](#9E).          Source of payments                                                                           24
 
-[9F](#9F).          Employers to ensure membership of funds
+[9F](#9F).          Employers to ensure membership of funds                                       24
 
-[10](#10).          Regulations
+[10](#10).          Regulations                                                                                        25
 
 **Schedule—Table of continuing contributions** 
 
@@ -252,8 +252,6 @@ other than a pay period that has been taken into account in determining the amou
 
                      (d)  if the person was paid on a part-time basis throughout the pay period and received reduced salary throughout the pay period—the fraction obtained by dividing the amount of salary that the person received in respect of that period by the amount that the person would have received in respect of that period if the person had been paid on a full-time basis throughout that period and had not received reduced salary.
 
-                    <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October.
-
                     <a name="rate-salari"></a>**_rate of salary_**, in relation to a remainder employee and a pay period of the employee, has the meaning given by section 3B.
 
                     <a name="ruced-salari"></a>**_reduced salary_** means reduced salary during a period of sick leave or long service leave.
@@ -282,7 +280,7 @@ other than a pay period that has been taken into account in determining the amou
 
                     <a name="yearli-interest-factor"></a>**_yearly interest factor_**, in relation to a qualified employee in respect of whom an interim benefit is payable in relation to the year commencing on 1 January 1988 or a subsequent year, means the number ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image002.gif)
 
 where:
 
@@ -420,9 +418,9 @@ then, for the purposes of subsection (1) in relation to a pay period after the
 
              (2)  Subject to this section, where a fund employee is employed on a part-time basis, the continuing contribution in respect of the employee for a pay period of the employee is the amount calculated using whichever of the following formulas the employee’s designated employer considers to be convenient: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image004.gif)
 
 where:
 
@@ -442,7 +440,7 @@ where:
 
                      (b)  if the employee is on leave without pay for part only of the pay period—the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
                             where:
 
@@ -462,11 +460,11 @@ where:
 
 ##### <a id="3D"></a>3D  Variation of Table
 
-                   The Minister may, by legislative instrument, before the commencement of a period (which may be a period commencing on 1 July 1990), declare that the Table in the Schedule is to have effect in relation to the period as if amounts specified in the declaration were substituted for amounts specified in the Table (whether sums of money or percentages).
+                   The Minister may, before the commencement of a period (which may be a period commencing on 1 July 1990), declare that the Table in the Schedule is to have effect in relation to the period as if amounts specified in the declaration were substituted for amounts specified in the Table (whether sums of money or percentages).
 
 ##### <a id="3E"></a>3E  Interest factors
 
-             (1)  For the purposes of section 8A, the Minister, before each financial year, is to declare, by legislative instrument:
+             (1)  For the purposes of section 8A, the Minister, before each financial year, is to declare:
 
                      (a)  the factor ascertained using a specified formula to be the declared first interest factor for that year; and
 
@@ -480,9 +478,9 @@ where:
 
 ##### <a id="3F"></a>3F  Qualified employees
 
-             (1)  The Minister may, by legislative instrument, declare that a specified class of persons is a class of persons who are qualified employees.
+             (1)  The Minister may declare that a specified class of persons is a class of persons who are qualified employees.
 
-             (2)  The Minister may, by legislative instrument, declare that a specified class of persons is a class of persons who are not qualified employees.
+             (2)  The Minister may declare that a specified class of persons is a class of persons who are not qualified employees.
 
              (3)  A declaration under subsection (1) or (2) takes effect from such day, not earlier than 1 January 1988, as is specified in it.
 
@@ -492,9 +490,9 @@ where:
 
 ##### <a id="4A"></a>4A  Arrangements for certain employers
 
-             (1)  The Minister may, by legislative instrument, declare that a specified class of qualified employees is a class of employees who are neither fund employees nor interim arrangement employees.
+             (1)  The Minister may declare that a specified class of qualified employees is a class of employees who are neither fund employees nor interim arrangement employees.
 
-             (2)  The Minister may, by legislative instrument, declare that specified arrangements about superannuation or similar benefits are to apply to a declared class.
+             (2)  The Minister may declare that specified arrangements about superannuation or similar benefits are to apply to a declared class.
 
              (3)  A declaration under subsection (1) or (2) takes effect from such day, not earlier than 1 January 1988, as is specified in it.
 
@@ -536,33 +534,27 @@ where:
 
                      (b)  where that amount is not paid on the day on which he or she becomes a scheme employee—a contribution in respect of the employee of interest, fixed under section 4G in relation to the Fund, on the amount in respect of each day in the period commencing on the day on which the amount should have been paid and ending on the day immediately before the day when the amount is paid.
 
-##### <a id="4F"></a>4F  Payments of contributions to declared funds
+##### <a id="4F"></a>4F  Payments of continuing contributions to declared funds
 
              (1)  Subject to this section, the designated employer of a fund employee is to pay into the declared fund of which the employee is a member:
 
                      (a)  continuing contributions in respect of the employee in respect of each pay period occurring while the employee is a member of the fund; and
 
-                    (aa)  in respect of the employee in respect of each quarter occurring while the employee is a member of the fund—any contribution that is required to ensure (after taking into account the total contributions paid, under paragraph (a), in respect of the employee and the quarter) that the employer does not have an individual superannuation guarantee shortfall (within the meaning of the _Superannuation Guarantee (Administration) Act 1992_) for the employee for the quarter; and
+                     (b)  where a contribution is not paid on the day on which it is payable under subsection (2)—a contribution in respect of the employee of interest, fixed under section 4G in relation to the fund, on the contribution in respect of each day in the period commencing on the day on which the contribution should have been paid and ending on the day immediately before the day when the amount is paid.
 
-                     (b)  where a contribution under paragraph (a) or (aa) is not paid on or before the day on which it is payable under subsection (2)—a contribution in respect of the employee of interest, fixed under section 4G in relation to the fund, on the contribution in respect of each day in the period commencing on the day on which the contribution should have been paid and ending on the day immediately before the day when the amount is paid.
+             (2)  A continuing contribution in respect of a fund employee payable to a fund for a pay period is payable on:
 
-             (2)  A contribution under paragraph (1)(a) or (aa) in respect of a fund employee payable to a fund is payable:
+                     (a)  where there are arrangements between the employer and the trustees of the fund fixing a day for payment—that day; or
 
-                     (a)  where there are arrangements between the employer and the trustees of the fund fixing a day for payment—on that day; or
-
-                     (b)  in any other case:
-
-                              (i)  for a continuing contribution made under paragraph (1)(a) for a pay period—on the day on which salary for that pay period is payable; or
-
-                             (ii)  for a contribution made under paragraph (1)(aa) for a quarter—by the end of the period of 28 days after the end of the quarter.
+                     (b)  in any other case—the day on which salary for that pay period is payable.
 
              (3)  A designated employer of a fund employee is not required to make a payment of continuing contributions before the first day on which salary is payable to the employee on or after 1 July 1990.
 
-##### <a id="4G"></a>4G  Interest
+##### <a id="4G"></a>4G  Interest
 
-             (1)  For the purposes of sections 4E and 4F, the interest fixed under this section in relation to a fund on a day is the interest calculated in a way determined by the Minister by legislative instrument.
+             (1)  For the purposes of sections 4E and 4F, the interest fixed under this section in relation to a fund on a day is the interest calculated in a way determined by the Minister.
 
-             (2)  For the purpose of section 4EA, the interest fixed under this section in relation to the Fund on a day is the interest calculated in a way determined by the Minister by legislative instrument.
+             (2)  For the purpose of section 4EA, the interest fixed under this section in relation to the Fund on a day is the interest calculated in a way determined by the Minister.
 
 ##### <a id="4H"></a>4H  Certain employees to become members of nominated fund
 
@@ -664,7 +656,7 @@ the benefit is payable to the person.
 
              (1)  The amount of an interim benefit that accumulates in respect of service by a qualified employee in a year commencing on 1 January 1988, 1 January 1989 or 1 January 1990 is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image005.gif)
 
                     <a name="aarc"></a>**_AARC_** is the average annual rate of contribution of the person for that year;
 
@@ -690,11 +682,11 @@ the benefit is payable to the person.
 
              (2)  The amount of interim benefit that accumulates in respect of service by an interim arrangement employee in the year commencing on 1 July 1990 or a subsequent year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00214/Html/SuperProdtvyBeneft88_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image006.gif)
 
 where:
 
-                    <a name="notion-contribut"></a>**_Notional contributions_** means the sum of what would have been the contributions made under paragraphs 4F(1)(a) and (aa) for the employee in respect of the employee’s pay periods and quarters in the year if he or she had been a fund employee in the year.
+                    <a name="notion-contribut"></a>**_Notional contributions_** means the sum of what would have been the continuing contributions for the employee in respect of the employee’s pay periods in the year if he or she had been a fund employee in the year.
 
                     <a name="first-factor"></a>**_First factor_** means the declared first interest factor for the year applied in relation to the employee.
 
@@ -720,9 +712,13 @@ where:
 
                    Declarations, and determinations, under this Act by the Minister are to be in writing signed by the Minister.
 
-##### <a id="9B"></a>9B  Legislative instruments disallowable
+##### <a id="9B"></a>9B  Certain declarations and determinations disallowable etc.
 
-                   Despite anything in section 44 of the _Legislative Instruments Act 2003_, section 42 of that Act applies to a declaration, or determination, under this Act that is a legislative instrument.
+                   Declarations under sections 3D, 3E, 3F and 4A and determinations under section 4G are:
+
+                     (a)  statutory rules for the purposes of the _Statutory Rules Publication Act 1903_; and
+
+                     (b)  disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="9C"></a>9C  Delegation by Minister
 
@@ -1069,25 +1065,9 @@ Ss. 66, 69 and 70: Royal Assent <i>(b)</i></div>
   <td>
     <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 33–38): Royal Assent 
-Schedule 4 (items 3–7): 1 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
+
+ 
 
 _(a)_     The _Superannuation (Productivity Benefit) Act 1988_ was amended by sections 94–106 only of the _Superannuation Legislation Amendment Act 1990_, paragraph 2(1)(a) and subsection 2(3) of which provide as follows:
 
@@ -1260,7 +1240,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005; No. 26, 2008</div>
+    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1305,14 +1285,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4A</div>
   </td>
   <td>
@@ -1324,7 +1296,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 187, 1992; No. 26, 2008</div>
+    <div>am. No. 187, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1369,26 +1341,10 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 4F</div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4F</div>
   </td>
   <td>
     <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1404,7 +1360,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 130, 1991; No. 26, 2008</div>
+    <div>am. No. 130, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1449,14 +1405,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9A</div>
   </td>
   <td>
@@ -1473,14 +1421,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9B</div>
   </td>
   <td>
@@ -1493,14 +1433,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1544,6 +1476,8 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
+ 
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1576,5 +1510,9 @@ _A.C.T. Self-Government (Consequential Provisions) Regulations (as amended)_
 ## Subsection 3(1) (definition of _qualified employee_):
 
 After “Ordinance” in paragraph (c) insert “or enactment”.
+
+ 
+
+ 
 
  
