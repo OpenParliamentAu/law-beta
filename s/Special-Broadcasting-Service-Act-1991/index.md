@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00152/Html/SpecBroadService91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00563/Html/SpecBroadService91WD02_image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 3 June 2008
- taking into account amendments up to Act No. 20 of 2008
+This compilation was prepared on 29 September 200 6
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1761,23 +1761,6 @@ Schedule 2: <i>(h)</i></div>
     <div>Sch. 6 (items 
 5–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Authorities and Companies Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>20, 2008</div>
-  </td>
-  <td>
-    <div>26 May 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 8): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Special Broadcasting Service Act 1991_ was amended by Part 9 (sections 33–35) only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992,_ subsection 2(1) of which provides as follows:
@@ -1987,6 +1970,8 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </div>
   </td>
 </tr></table>
+
+ 
 
 ## Table of Amendments
 
@@ -2411,23 +2396,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div>am. No. 146, 1999</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Commonwealth Authorities and Companies Amendment Act 2008 
- (No. 20, 2008)_
-
-The following amendment commences on 1 July 2008:
-
-## Schedule 2
-
-## 8  Subsection 13(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Sections 28 and 48A of the _Commonwealth Authorities and Companies Act 1997_ apply in relation to the SBS and its Board to the extent that a General Policy Order referred to in those sections does not affect the content or scheduling of programs.
-
-As at 3 June 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
