@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00785/Html/InteMoneAgmts1947WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00439/Html/InteMoneAgmts1947WD02_image001.gif)
 
 # International Monetary Agreements Act 1947
 
 **Act No. 5 of 1947 as amended**
 
-This compilation was prepared on 29 November 2010
- taking into account amendments up to Act No. 133 of 2010
+This compilation was prepared on 2 July 2010
+ taking into account amendments up to Act No. 58 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -53,8 +53,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [8E](#8E).          Contents of national interest statement
 
 [8F](#8F).          Inquiry and report by Joint Standing Committee on Foreign Affairs, Defence and Trade
-
-[9](#9).            Appropriation for Australia to buy extra shares in the Bank
 
 [10](#10).          Annual report
 
@@ -265,14 +263,6 @@ Note:          The condition in paragraph (1)(b) would be sa
 ##### <a id="8F"></a>8F  Inquiry and report by Joint Standing Committee on Foreign Affairs, Defence and Trade
 
                    A national interest statement tabled in the Parliament under section 8D shall stand referred for inquiry and report within two months of the reference to the Joint Standing Committee on Foreign Affairs, Defence and Trade constituted under resolutions of the Senate and the House of Representatives.
-
-##### <a id="9"></a>9  Appropriation for Australia to buy extra shares in the Bank
-
-                   The Consolidated Revenue Fund is appropriated for the purposes of payments by Australia under one or more agreements that:
-
-                     (a)  are made by the Minister, on behalf of Australia, with the Bank, for Australia to buy a total of not more than 7,128 additional shares of the capital stock of the Bank at a price equivalent to 120,635 United States dollars a share; and
-
-                     (b)  contain terms and conditions determined by the Minister.
 
 ##### <a id="10"></a>10  Annual report
 
@@ -4266,23 +4256,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>International Financial Institutions Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>133, 2010</div>
-  </td>
-  <td>
-    <div>24 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 25 Nov 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _International Monetary Agreements Act 1963_ was repealed by section 3 of the _International Monetary Agreements Act 1968_ without a date for its commencement having been fixed. Section 3 commenced on 9 December 1968.
@@ -4548,14 +4521,6 @@ _(a)_     The _International Monetary Agreements Act 1963_ was repealed 
   </td>
   <td>
     <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 133, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5687,7 +5652,7 @@ The Fund shall pay interest on this Note at a rate equal to the combined market 
 
 \[Signatures]
 
-As at 29 November 2010 the amendments are not incorporated in this compilation.
+As at 2 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
