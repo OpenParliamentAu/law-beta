@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C00411/Html/AshmoreCartIslAccept1933_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01916/Html/AshCartIslAcc33_image001.gif)
 
 # Ashmore and Cartier Islands Acceptance Act 1933
 
 **Act No. 60 of 1933 as amended**
 
-This compilation was prepared on 22 October 2001
- taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 13 November 2000
+ taking into account amendments up to Act No. 99 of 1988
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -21,15 +21,13 @@ Prepared by the Office of Legislative Drafting,
 
 [3](#3).            Interpretation                                                                                       2
 
-[4](#4).            Proclamation by Governor-General fixing date on which Order in Council shall come into operation [_see_ Note 2]                                                                                                             2
+[4](#4).            Proclamation by Governor-General fixing date on which Order in Council shall come into operation [_see_ Note 2]  2
 
 [5](#5).            Acceptance of Ashmore Islands and Cartier Island                             2
 
 [6](#6).            Application of Northern Territory laws                                             2
 
-[6A](#6A).         _Criminal Code_ does not apply                                                            2
-
-[7](#7).            Ordinance may amend or repeal adopted laws                                    3
+[7](#7).            Ordinance may amend or repeal adopted laws                                    2
 
 [8](#8).            Application of Commonwealth Acts                                                  3
 
@@ -41,7 +39,7 @@ Prepared by the Office of Legislative Drafting,
 
 [10B](#10B).       Ordinance not to be re-made while subject to disallowance                5
 
-[10C](#10C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves     6
+[10C](#10C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves   6
 
 [10D](#10D).       Regulations, rules and by-laws                                                            7
 
@@ -57,9 +55,9 @@ Prepared by the Office of Legislative Drafting,
 
  
 
-## An Act to provide for the acceptance of Ashmore Islands and Cartier  Island as a Territory under the authority of the Commonwealth, and for the Government thereof
+## An Act to provide for the acceptance of Ashmore Islands and Cartier Island as a Territory under the authority of the Commonwealth, and for the Government thereof
 
-WHEREAS the islands named the Ashmore  Islands and known as Middle, East and West Islands, and also the island named Cartier  Island, being islands situated in the Indian Ocean off the North-West Coast of Australia, are islands over which His Majesty the King has sovereign rights:
+WHEREAS the islands named the Ashmore Islands and known as Middle, East and West Islands, and also the island named Cartier Island, being islands situated in the Indian Ocean off the North-West Coast of Australia, are islands over which His Majesty the King has sovereign rights:
 
 AND WHEREAS by an Order in Council dated the twenty-third day of July, One thousand nine hundred and thirty-one made by His Majesty by virtue and in exercise of the power in that behalf in His Majesty vested, it was ordered that the said Ashmore Islands and Cartier Island should be placed under the authority of the Commonwealth of Australia and that the order should come into operation on such date, after legislation had been passed by the Parliament providing for the acceptance of the said islands and the government thereof, as might be fixed by Proclamation by the Governor-General of the Commonwealth of Australia:
 
@@ -71,7 +69,7 @@ BE it therefore enacted by the King’s Most Excellent Majesty, the Senate, and 
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Ashmore and__Cartier__Islands__Acceptance Act 1933_.
+                   This Act may be cited as the _Ashmore and Cartier Islands Acceptance Act 1933_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -83,7 +81,7 @@ BE it therefore enacted by the King’s Most Excellent Majesty, the Senate, and 
 
                     <a name="ordin"></a>**_Ordinance_** means an Ordinance made under this Act.
 
-                    <a name="island"></a><a name=""></a>**_the_****_Islands_** means the Ashmore Islands and Cartier Island.
+                    <a name="island"></a>**_the Islands_** means the Ashmore Islands and Cartier Island.
 
                     <a name="territori"></a>**_the Territory_** means the Territory of Ashmore and Cartier Islands.
 
@@ -104,10 +102,6 @@ BE it therefore enacted by the King’s Most Excellent Majesty, the Senate, and 
                      (a)  includes a principle or rule of common law or equity; and
 
                      (b)  does not include an Act.
-
-##### <a id="6A"></a>6A  _Criminal Code_ does not apply
-
-                   Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, a law in force in the Territory because of section 6.
 
 ##### <a id="7"></a>7  Ordinance may amend or repeal adopted laws
 
@@ -245,7 +239,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ##### <a id="11A"></a>11A  Arrangements with Northern Territory
 
-                   The Minister may make arrangements with the appropriate Ministers of the Northern Territory for the exercise of powers and the performance of functions in and in relation to the Territory under laws in force in the Territory by officers and employees of the Government of the Northern   Territory and of authorities of the Northern Territory.
+                   The Minister may make arrangements with the appropriate Ministers of the Northern Territory for the exercise of powers and the performance of functions in and in relation to the Territory under laws in force in the Territory by officers and employees of the Government of the Northern Territory and of authorities of the Northern Territory.
 
 ##### <a id="12"></a>12  Courts of Northern Territory to have jurisdiction in Territory
 
@@ -265,9 +259,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ### Note 1
 
-The _Ashmore and Cartier Islands Acceptance Act 1933_ as shown in this compilation comprises Act No. 60, 1933 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+The _Ashmore and Cartier Islands Acceptance Act 1933_ as shown in this compilation comprises Act No. 69, 1933 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -277,8 +269,8 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="23%">
+  <col width="18%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -310,8 +302,8 @@ of Assent</div>
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="23%">
+  <col width="18%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -503,26 +495,7 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[see Table A]</div>
-    </td>
-  </tr>
-</thead></table>
+</tr></table>
 
 _(a)_     The _Ashmore and Cartier Islands Acceptance Act 1933_ was amended by Part V (sections 52 and 53) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
@@ -593,14 +566,6 @@ _(d)_     The _Ashmore and Cartier Islands Acceptance Act 1933_ was amen
   </td>
   <td>
     <div>rs. No. 59, 1978; No. 202, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -677,7 +642,7 @@ _(d)_     The _Ashmore and Cartier Islands Acceptance Act 1933_ was amen
 </tr>
 <tr>
   <td>
-    <div>Ss. 10A–10D</div>
+    <div>Ss. 10A-10D</div>
   </td>
   <td>
     <div>ad. No. 99, 1988</div>
@@ -735,17 +700,5 @@ _(d)_     The _Ashmore and Cartier Islands Acceptance Act 1933_ was amen
 ### Note 2
 
 Section 4—The date fixed was 10 May 1934 (_see Gazette_ 1934, p. 761).
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
-
-##### <a id="4"></a>4  Application of Amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
