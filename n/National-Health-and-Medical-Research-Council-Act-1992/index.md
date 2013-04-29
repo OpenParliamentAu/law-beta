@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2010C00359/Html/NatHeaMedResCou1992WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00354/Html/A30A690CEFB8191ECA25719C008331DA/$FILE/image001.gif)
 
 # National Health and Medical Research Council Act 1992
 
 **Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 1 July 2006
+taking into account amendments up to Act No. 50 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -208,6 +209,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to establish a National Health and Medical Research Council, and for related purposes
 
 ## Part 1—Preliminary
@@ -314,13 +316,13 @@ and includes any unreasonable delay by the CEO or Committee in relation to his, 
 
                     <a name="state-territori-depart"></a>**_State or Territory Department_** means a Department of State of a State or Territory.
 
-                    <a name="territori"></a>**_Territory_** means the Australian Capital   Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** means the Australian Capital Territory or the Northern Territory.
 
                     <a name="work-committe"></a>**_working committee_** means a committee established under section 39.
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of the Australian   Capital Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of the Australian Capital Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="5A"></a>5A  Application of the _Criminal Code_
 
@@ -1760,15 +1762,14 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (b)  necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
+
 # Notes to the _National Health and Medical Research Council Act 1992_
 
 ### Note 1
 
 The _National Health and Medical Research Council Act 1992_ as shown in this compilation comprises Act No. 225, 1992 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1788,11 +1789,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1802,214 +1805,200 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>National Health and Medical Research Council Act 1992</div>
-  </td>
-  <td>
-    <div>225, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>24 June 1993</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Community Services Legislation Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>76, 1993</div>
-  </td>
-  <td>
-    <div>25 Nov 1993</div>
-  </td>
-  <td>
-    <div>Ss. 22 and 23: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
-  </td>
-  <td>
-    <div>149, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 79–81): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 973–984): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 638–644): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 2) 2000</div>
-  </td>
-  <td>
-    <div>6, 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 17)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>111, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 191–201, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>32, 2005</div>
-  </td>
-  <td>
-    <div>22 Mar 2005</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 25–29): 24 Mar 2005</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 27)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td>
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 33–36): 7 Apr 2006</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 36)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Health and Medical Research Council Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>50, 2006</div>
-  </td>
-  <td>
-    <div>9 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 124–143)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 48–51): \[ <i>see</i> <i>(e)</i>and Note 2] 
-Schedule 7: <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>National Health and Medical Research Council Act 1992</div>
+    </td>
+    <td>
+      <div>225, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>24 June 1993</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Community Services Legislation Amendment Act (No. 2) 1993</div>
+    </td>
+    <td>
+      <div>76, 1993</div>
+    </td>
+    <td>
+      <div>25 Nov 1993</div>
+    </td>
+    <td>
+      <div>Ss. 22 and 23: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
+    </td>
+    <td>
+      <div>149, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 79–81): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 973–984): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 638–644): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 2) 2000</div>
+    </td>
+    <td>
+      <div>6, 2000</div>
+    </td>
+    <td>
+      <div>7 Mar 2000</div>
+    </td>
+    <td>
+      <div>7 Mar 2000</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 17)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>111, 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 191–201, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>32, 2005</div>
+    </td>
+    <td>
+      <div>22 Mar 2005</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 25–29): 24 Mar 2005</div>
+    </td>
+    <td>
+      <div>Sch. 4 (item 27)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td>
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 33–36): 7 Apr 2006</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 36)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Health and Medical Research Council Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>50, 2006</div>
+    </td>
+    <td>
+      <div>9 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2006 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 124–143)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_    The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
+
+_(a)_     The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2027,98 +2016,6 @@ _(d)_     The _National Health and Medical Research Council Act 1992_ wa
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2143,1208 +2040,1185 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5B–5E</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9, 10</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12, 13</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2000; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14AA</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14B</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18, 19</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 24</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32–34</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 35(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to s. 35(6)</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 35(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 36</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1993; No. 149, 1995; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43, 44</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44A–44C</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44D–44F</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49, 50</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 51(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005; No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 62</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 8</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70, 71</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 72</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 73–75</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2000; Nos. 30 and 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 10</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 86–91</div>
-  </td>
-  <td>
-    <div>rep. No. 50, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5B–5E</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 3</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part 3</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part 3</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9, 10</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12, 13</div>
+    </td>
+    <td>
+      <div>rs. No. 6, 2000; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14AA</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14B</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>rs. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18, 19</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 24</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 32–34</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 5</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 35(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to s. 35(6)</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 35(7)</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 36</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1993; No. 149, 1995; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 of Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 4 of Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 5</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42A</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 43, 44</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 44A–44C</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 44D–44F</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 6</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 7</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49, 50</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 51</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 51(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005; No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 62</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part 8</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>rs. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 70, 71</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 72</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 73–75</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82</div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000; Nos. 30 and 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 10</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 86–91</div>
+    </td>
+    <td>
+      <div>rep. No. 50, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 5
-
-## 48  Section 4 (definition of _Privacy Commissioner_)
-
-Repeal the definition.
-
-## 49  Subparagraphs 61(4)(b)(i) and (ii)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-## 50  Paragraphs 61(5)(c) and (d)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-## 51  Subsection 61(6)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3358,7 +3232,9 @@ _Health Legislation Amendment Act (No. 2) 2000 (No. 6, 2000)_
 
 The amendments of sections 16, 18 and 19 of the _National Health and Medical Research Council Act 1992_ made by this Schedule apply in relation to strategic plans for periods starting after 30 June 2000.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)_
 
@@ -3368,7 +3244,9 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -3392,10 +3270,13 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
- (No. 32, 2005)_
+
+(No. 32, 2005)_
 
 ## Schedule 4
 
@@ -3403,7 +3284,9 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
 A person who was appointed by the Minister under section 21 of the _National Health and Medical Research Council Act 1992_, as in force immediately before the day Schedules 1 and 2 to this Act commence, continues to hold office, on and after that day, for the balance of the term of the person’s appointment, as if the person had been duly appointed by the Minister as a person having knowledge of the health needs of Aboriginal persons or Torres Strait Islanders in accordance with the requirements of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
 
@@ -3423,10 +3306,13 @@ then, for the purposes of section 52 of the _National Health and Medical Resea
 
                      (d)  if paragraph (b) applies—held and accepted subject to the same condition by the Minister mentioned in that section.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _National Health and Medical Research Council Amendment Act 2006 
- (No. 50, 2006)_
+(No. 50, 2006)
+_
 
 ## Schedule 1
 
@@ -3658,7 +3544,7 @@ Determinations are not legislative instruments
 
 (7)        A determination made under subitem (3) is not a legislative instrument.
 
-## 133  Continued effect of certain instruments made under the old law
+## 133  Continued effect of certain instruments made under the old law
 
 An instrument:
 
@@ -3702,271 +3588,273 @@ continues to have effect from the commencement time as if it were made or given 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>guidelines and advice under paragraph 7(1)(a)</div>
-  </td>
-  <td>
-    <div>paragraph 7(1)(a)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>advice and recommendations under paragraph 7(1)(b)</div>
-  </td>
-  <td>
-    <div>paragraph 7(1)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>recommendations under paragraph 7(1)(c)</div>
-  </td>
-  <td>
-    <div>paragraph 7(1)(c)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>references under subsection 9(1)</div>
-  </td>
-  <td>
-    <div>subsection 5D(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>directions under subsection 10(1)</div>
-  </td>
-  <td>
-    <div>subsection 5E(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>procedures under section 15</div>
-  </td>
-  <td>
-    <div>section 15</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>reviews under subsection 17(1)</div>
-  </td>
-  <td>
-    <div>subsection 17(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>determinations under paragraph 24(1)(a)</div>
-  </td>
-  <td>
-    <div>subsection 43(1) in relation to the Chair of the Council</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>determinations under paragraph 25(1)(a)</div>
-  </td>
-  <td>
-    <div>subsection 43(2) in relation to members of the Council</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>determinations under paragraph 26(2)(b)</div>
-  </td>
-  <td>
-    <div>subsection 44(2) in relation to the Chair of the Council</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>determinations under subsection 26(3)</div>
-  </td>
-  <td>
-    <div>subsection 44(2) in relation to members of the Council (other than the
-      Chair)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>determinations under paragraph 41(2)(a)</div>
-  </td>
-  <td>
-    <div>subsection 43(2) in relation to members of a committee</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>determinations under subsection 42(1)</div>
-  </td>
-  <td>
-    <div>subsection 44(2) in relation to members of a Principal Committee</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>determinations under subsection 42(2A) or (3)</div>
-  </td>
-  <td>
-    <div>subsection 44(2) in relation to members of a working committee</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>determinations under subsection 44C(1)</div>
-  </td>
-  <td>
-    <div>subsection 43(1) in relation to the CEO</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>determinations under section 44E</div>
-  </td>
-  <td>
-    <div>section 44C in relation to the CEO</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>engagements under subsection 46(1)</div>
-  </td>
-  <td>
-    <div>section 46</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>arrangements under paragraph 48(1)(c)</div>
-  </td>
-  <td>
-    <div>subsection 48(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>arrangements under subsection 48(2)</div>
-  </td>
-  <td>
-    <div>subsection 48(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>determinations under subsection 51(2)</div>
-  </td>
-  <td>
-    <div>subsection 51(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>determinations under subsection 70(2)</div>
-  </td>
-  <td>
-    <div>section 44C in relation to the Commissioner</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>determinations under paragraph 74(1)(a)</div>
-  </td>
-  <td>
-    <div>subsection 43(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>determinations under section 75</div>
-  </td>
-  <td>
-    <div>subsection 44(1) in relation to the Commissioner</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>certificates under paragraph 80(5)(a)</div>
-  </td>
-  <td>
-    <div>paragraph 80(5)(a)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>guidelines and advice under paragraph 7(1)(a)</div>
+    </td>
+    <td>
+      <div>paragraph 7(1)(a)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>advice and recommendations under paragraph 7(1)(b)</div>
+    </td>
+    <td>
+      <div>paragraph 7(1)(b)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>recommendations under paragraph 7(1)(c)</div>
+    </td>
+    <td>
+      <div>paragraph 7(1)(c)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>references under subsection 9(1)</div>
+    </td>
+    <td>
+      <div>subsection 5D(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>directions under subsection 10(1)</div>
+    </td>
+    <td>
+      <div>subsection 5E(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>procedures under section 15</div>
+    </td>
+    <td>
+      <div>section 15</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>reviews under subsection 17(1)</div>
+    </td>
+    <td>
+      <div>subsection 17(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>determinations under paragraph 24(1)(a)</div>
+    </td>
+    <td>
+      <div>subsection 43(1) in relation to the Chair of the Council</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>determinations under paragraph 25(1)(a)</div>
+    </td>
+    <td>
+      <div>subsection 43(2) in relation to members of the Council</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>determinations under paragraph 26(2)(b)</div>
+    </td>
+    <td>
+      <div>subsection 44(2) in relation to the Chair of the Council</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>determinations under subsection 26(3)</div>
+    </td>
+    <td>
+      <div>subsection 44(2) in relation to members of the Council (other than the
+        Chair)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>determinations under paragraph 41(2)(a)</div>
+    </td>
+    <td>
+      <div>subsection 43(2) in relation to members of a committee</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>determinations under subsection 42(1)</div>
+    </td>
+    <td>
+      <div>subsection 44(2) in relation to members of a Principal Committee</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>determinations under subsection 42(2A) or (3)</div>
+    </td>
+    <td>
+      <div>subsection 44(2) in relation to members of a working committee</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>determinations under subsection 44C(1)</div>
+    </td>
+    <td>
+      <div>subsection 43(1) in relation to the CEO</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>determinations under section 44E</div>
+    </td>
+    <td>
+      <div>section 44C in relation to the CEO</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>engagements under subsection 46(1)</div>
+    </td>
+    <td>
+      <div>section 46</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>arrangements under paragraph 48(1)(c)</div>
+    </td>
+    <td>
+      <div>subsection 48(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>arrangements under subsection 48(2)</div>
+    </td>
+    <td>
+      <div>subsection 48(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>determinations under subsection 51(2)</div>
+    </td>
+    <td>
+      <div>subsection 51(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>determinations under subsection 70(2)</div>
+    </td>
+    <td>
+      <div>section 44C in relation to the Commissioner</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>determinations under paragraph 74(1)(a)</div>
+    </td>
+    <td>
+      <div>subsection 43(4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>determinations under section 75</div>
+    </td>
+    <td>
+      <div>subsection 44(1) in relation to the Commissioner</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>certificates under paragraph 80(5)(a)</div>
+    </td>
+    <td>
+      <div>paragraph 80(5)(a)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 134  Principal Committees
 
@@ -4079,5 +3967,6 @@ unless the contrary is established.
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
 (2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+
 
  
