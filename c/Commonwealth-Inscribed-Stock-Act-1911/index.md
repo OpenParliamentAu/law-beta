@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02926/Html/CIS11_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02925/Html/CIS11_image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 18 April 2002 
- taking into account amendments up to Act No. 21 of 2002
+This compilation was prepared on 24 May 2001 
+ taking into account amendments up to Act No. 137 of 2000
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -134,8 +134,6 @@ Prepared by the Office of Legislative Drafting,
 [58](#58).          Regulations                                                                                        19
 
 **Notes** 
-
- 
 
 ## An Act to provide for the issue of Stock, Bonds and other Securities by the Commonwealth and for other purposes
 
@@ -487,7 +485,7 @@ all or any of the powers of the Treasurer under sections 14 and 29.
 
 ## Part VI—Miscellaneous
 
-##### <a id="52"></a>52  Investments in stock
+##### <a id="52"></a>52  Investments in stock
 
                    Any person who is authorized to invest money upon any security of the Government of the Commonwealth or of a State may invest such money in stock.
 
@@ -1180,24 +1178,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Inscribed Stock AmendmentAct 2002</div>
-  </td>
-  <td>
-    <div>21, 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see (i)</i>and Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
@@ -1241,95 +1221,6 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(i)_      The _Commonwealth Inscribed Stock Act 1911_ was amended by the _Commonwealth Inscribed Stock Amendment__Act 2002_, subsections 2(1) (provision 2) and (3) of which provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      A single day to be fixed by Proclamation, subject to subsection (3) \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr></table>
-
-                 (3)   If a provision covered by item 2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [_see_ Note 2]
 
 ## Table of Amendments
 
@@ -2188,308 +2079,6 @@ _(i)_      The _Commonwealth Inscribed Stock Act 1911_ was amended by 
     <div>am. No. 21, 1946; No. 72, 1984</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Commonwealth Inscribed Stock Amendment Act 2002 (No. 21, 2002)_
-
-The following amendments commence on 4 October 2002 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Section 3 (definition of _certified copy_)
-
-Repeal the definition, substitute:
-
-                    <a name="certifi-copi"></a>**_certified copy_** of an entry in a Stock Ledger, of an extract of an entry in a Stock Ledger or of a document means a copy of the entry, extract or document that is certified by a prescribed person to be a true copy.
-
-## 2  Section 3
-
-Insert:
-
-                    <a name="clear-settlem-facil"></a>**_clearing and settlement facility_** means a facility that is a clearing and settlement facility for the purposes of Chapter 7 of the _Corporations Act 2001_.
-
-## 3  Section 3 (definition of _Registrar_)
-
-Repeal the definition, substitute:
-
-                    <a name="registrar"></a>**_Registrar_** means a Registrar of Stock or a Deputy Registrar of Stock.
-
-## 4  Section 3 (definition of _stock_)
-
-Repeal the definition, substitute:
-
-                    <a name="stock"></a>**_stock_** means:
-
-                     (a)  stock, Treasury Bonds, Treasury Notes or other prescribed securities created under subsection 4(1); and
-
-                     (b)  stock (however described) created under subsection 4(1) as in force at any time before the commencement of Schedule 1 to the _Commonwealth Inscribed Stock Amendment Act 2002_; and
-
-                     (c)  Treasury Bonds, debentures or other prescribed securities made out under subsection 51A(1) at any time before the commencement of subsection 51A(3).
-
-## 5  Section 3 (definition of _Treasury Bond_)
-
-Repeal the definition, substitute:
-
-                    <a name="treasuri-bond"></a>**_Treasury Bond_** includes a Treasury Fixed Coupon Bond, a Treasury Indexed Bond and an Australian Consolidated Treasury Bond and any coupon issued in connection with a Treasury Bond.
-
-## 6  At the end of section 3
-
-Add:
-
-             (2)  For the purposes of the application of this Act at a time before the commencement of Schedule 1 to the _Financial Services Reform Act 2001_:
-
-                     (a)  a reference in this Act to the operator of a clearing and settlement facility is taken to be a reference to:
-
-                              (i)  a clearing house as defined by section 9 of the _Corporations Act 2001_; or
-
-                             (ii)  the body corporate in relation to which an approval as a clearing house is in force under section 779B of that Act; and
-
-                     (b)  a reference in this Act to the operating rules of a clearing and settlement facility is taken to be a reference to the business rules of a clearing house referred to in paragraph (a).
-
-## 7  Subsection 4(1)
-
-Repeal the subsection, substitute:
-
-             (1)  The Governor-General may, by writing signed by him or her, create stock, Treasury Bonds, Treasury Notes or other prescribed securities from time to time for:
-
-                     (a)  raising money by way of loan; or
-
-                     (b)  converting any loan raised by the Commonwealth into any other loan so raised; or
-
-                     (c)  paying any expenses of carrying this Act into effect that the Governor-General considers are properly payable out of capital.
-
-## 8  At the end of section 7
-
-Add:
-
-             (2)  Stock may be issued by electronic means.
-
-             (3)  Stock may be issued to a person on trust for other persons.
-
-             (4)  To avoid doubt, a person to whom stock may be issued under subsection (3) may be a person who is a Registrar.
-
-             (5)  The Treasurer may, on behalf of the Commonwealth, enter into such contracts or arrangements, or execute such deeds of trust or other instruments as the Treasurer considers to be necessary or convenient for the purposes of, or in connection with, the issue of stock as provided by subsection (3).
-
-_Note:       The heading to section 7 is replaced by the heading “Issue of stock”._
-
-## 9  Section 12
-
-Repeal the section.
-
-## 10  Paragraph 14(b)
-
-Repeal the paragraph.
-
-## 11  Paragraph 14(c)
-
-After “he”, insert “or she”.
-
-## 12  At the end of section 14
-
-Add:
-
-             (2)  Any person may be appointed as a Registrar.
-
-             (3)  To avoid doubt, a person that is:
-
-                     (a)  the operator of a clearing and settlement facility; or
-
-                     (b)  an incorporated company or other body corporate;
-
-may be appointed as a Registrar.
-
-             (4)  A person who holds office as a Registrar must, in the performance of the functions, or the exercise of the powers, of the holder of the office, comply with any relevant requirements:
-
-                     (a)  contained in the instrument appointing the person to the office; or
-
-                     (b)  contained in any contract or arrangement made, or in any deed of trust or other instrument executed, in connection with the appointment; or
-
-                     (c)  made by the regulations.
-
-## 13  Section 15
-
-After “owner of the”, insert “legal interest in the”.
-
-## 14  At the end of section 15
-
-Add:
-
-             (2)  A Stock Ledger may be kept in an electronic form.
-
-## 15  Sections 17 and 18
-
-Repeal the sections, substitute:
-
-##### <a id="17"></a>17  Stock certificates
-
-             (1)  The Registrar must, when requested by a person who is the owner of the legal interest in any stock, issue to the person a certificate stating that the person is the owner of the stock.
-
-             (2)  A certificate issued under subsection (1) is prima facie evidence that the person specified in the certificate is the owner of the legal interest in the stock so specified.
-
-             (3)  The person who is the owner of the legal interest in any stock may dispose of the interest even though a certificate has not been issued to the person under subsection (1).
-
-##### <a id="18"></a>18  Owner of legal interest in stock
-
-                   The person whose name is inscribed in a Stock Ledger as the owner of the stock:
-
-                     (a)  is the owner of the legal interest in the stock; and
-
-                     (b)  has power to transfer the interest as provided by this Act and to give effectual receipts for any money paid to the person by way of consideration.
-
-## 16  Section 19
-
-Omit “his” (wherever occurring), substitute “the”.
-
-## 17  Subsection 19(2)
-
-After “Registrar”, insert “in the capacity as Registrar”.
-
-## 18  Sections 20 and 21
-
-Repeal the sections, substitute:
-
-##### <a id="20"></a>20  Preservation of equitable interests
-
-                   Without prejudice to the provisions of this Act relating to the transfer of the legal interests in stock and notice of trusts, it is the intention of this Act that equitable interests may be enforced against the owners of legal interests in stock in the same way as equitable interests may be enforced against the owners of legal interests in other personal property.
-
-##### <a id="21"></a>21  Stock may not be inscribed in the names of persons under 16 years of age
-
-             (1)  After the commencement of this section, an inscription of stock may not be made in the name of a person who is, or in the joint names of persons any one or more of whom is, under the age of 16 years.
-
-             (2)  However, any stock inscribed at the commencement of this section in the joint names of a person who is under the age of 16 years and one or more other persons may continue to be so inscribed but must not, without the order of a Judge of the Supreme Court of a State or Territory, be transferred until the person reaches that age or dies.
-
-## 19  Subsection 24(1)
-
-Repeal the subsection, substitute:
-
-             (1)  The regulations may make provision for or in relation to the transfer of legal or equitable interests in stock from one person to another person.
-
-          (1A)  The provision that may be made by the regulations under subsection (1) may include either or both of the following:
-
-                     (a)  a provision for transfer of interests by electronic means;
-
-                     (b)  a provision applying a provision of the _Corporations Act 2001_ with or without modifications.
-
-## 20  After section 24
-
-Insert:
-
-##### <a id="24A"></a>24A  Transfer of certain interests in stock
-
-             (1)  The legal interest, and any equitable interests, in any stock may be transferred from one person to another:
-
-                     (a)  in accordance with regulations made for the purposes of subsection 24(1); or
-
-                     (b)  subject to subsection (2), if the stock is inscribed in a Stock Ledger at a Registry where the Registrar is the operator of a clearing and settlement facility—in any way permitted by the operating rules of the facility (which may, if the operating rules so provide, be a way authorised by the _Corporations Act 2001_).
-
-             (2)  The Treasurer may, by written notice given to the operator of a clearing and settlement facility, declare that particular operating rules of the facility are not to apply in respect of the transfer of legal or equitable interests in stock.
-
-##### <a id="24B"></a>24B  Record of equitable interests
-
-                   The regulations may require a Registrar that is the operator of a clearing and settlement facility or is an incorporated company or other body corporate:
-
-                     (a)  to keep a record (which may be a record kept by electronic means) of the ownership of any equitable interests in the stock; and
-
-                     (b)  to comply with any provision made by the regulations in relation to the keeping of such a record.
-
-##### <a id="24C"></a>24C  Inscription in Stock Ledger of names of transferees of legal interests in stock
-
-             (1)  The regulations may make provision for or in relation to the inscription in a Stock Ledger of the name of the transferee of a legal interest in the stock as the owner of the stock.
-
-             (2)  The provision that may be made by regulations for the purposes of subsection (1) in relation to the legal interest in stock inscribed in a Stock Ledger that is kept in an electronic form must be provision for the inscription of the legal interest in an electronic form.
-
-## 21  Section 28
-
-Repeal the section, substitute:
-
-##### <a id="28"></a>28  Transmission application
-
-                   A person to whom the legal interest in stock is transmitted may apply to a Registrar to be inscribed as the owner of the stock in accordance with the regulations.
-
-## 22  Subsection 29(2)
-
-After “he”, insert “or she”.
-
-## 23  Section 30
-
-Repeal the section, substitute:
-
-##### <a id="30"></a>30  Registration of transmission of legal interest
-
-                   If the Registrar at a Registry where particular stock is inscribed is satisfied that the provisions of this Act relating to the transmission of the legal interest in that stock have been complied with, the Registrar must register the transmission by entering particulars of it in the relevant Stock Ledger and inscribe the name of the person to whom the legal interest has been transmitted in the Stock Ledger as the owner of the stock.
-
-## 24  Sections 43 and 44
-
-Repeal the sections, substitute:
-
-##### <a id="43"></a>43  Orders to be carried into effect
-
-                   If an order relating to the legal interest in any stock, or having the effect of vesting the legal interest in any stock in a person, made by the Supreme Court of a State or Territory or a Judge of such a Court is served on the Registrar at the Registry where the stock is inscribed, the Registrar must make any entries in the relevant Stock Ledger that are necessary for the purpose of carrying the order into effect.
-
-##### <a id="44"></a>44  Evidence
-
-             (1)  In any proceeding, a certified copy of:
-
-                     (a)  an entry in a Stock Ledger; or
-
-                     (b)  an extract from an entry in a Stock Ledger; or
-
-                     (c)  a document in the custody of a Registrar that relates to stock;
-
-is admissible in evidence.
-
-             (2)  A document purporting to be a certified copy referred to in subsection (1) is to be taken, unless the contrary is established, to be such a certified copy and to have been duly given.
-
-## 25  Section 49
-
-After “entitled to”, insert “the legal interest in”.
-
-## 26  Subsection 51H(1)
-
-Omit “under his hand”, substitute “signed by the Governor-General”.
-
-## 27  Subsection 51H(1)
-
-After “sections”, insert “4,”.
-
-## 28  Subsection 51H(2)
-
-Omit “under his hand”, substitute “signed by the Treasurer”.
-
-## 29  Paragraph 51H(3)(a)
-
-Omit “him”, substitute “the Treasurer”.
-
-## 30  Subsection 52A(1)
-
-After “Treasury Bonds,” (wherever occurring), insert “Treasury Notes,”.
-
-## 31  After subsection 52A(1)
-
-Insert:
-
-          (1A)  Stamp duty or other tax under any law of the Commonwealth, law of a State or law of a Territory is not payable in respect of any inscription, transfer or transmission of any interest in stock that is effected by electronic means.
-
-## 32  Section 54
-
-Repeal the section, substitute:
-
-##### <a id="54"></a>54  Record of unclaimed interest
-
-             (1)  Each Registrar is to keep a record of the persons:
-
-                     (a)  whose names are entered in a Stock Ledger as the owners of legal interests in stock; and
-
-                     (b)  in respect of whose stock a claim for interest has not been made for at least 10 years.
-
-             (2)  The record may be kept by electronic means.
-
-             (3)  The record must include such particulars of the address, and occupation or description, of each person as are entered in the relevant Stock Ledger.
-
-             (4)  A Registrar must, on payment of the prescribed fee, make the record available for inspection by any person.
-
-As at 18 April 2002 the amendments are not incorporated in this compilation.
 
 Table A
 
