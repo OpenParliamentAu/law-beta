@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00630/Html/TradeMarks1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00533/Html/TradeMarks1995_WD02_image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 1 September 2010
+This compilation was prepared on 2 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2010C00630/Html/TradeMarks1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00533/Html/TradeMarks1995_WD02_image002.gif)
 
 # Contents
 
@@ -325,8 +325,6 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 [82A](#82A).       Linking series registrations
 
 [83](#83).          Amendment of particulars of trade mark entered in Register
-
-[83A](#83A).       Amendment of registered trade mark—inconsistency with international agreements
 
         **Subdivision B—Cancelling registration**
 
@@ -913,7 +911,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the g
 
 ##### <a id="6"></a>6  Definitions 
 
-             (1)  In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="applic"></a>**_applicant_**, in relation to an application, means the person in whose name the application is for the time being proceeding.
 
@@ -995,7 +993,11 @@ Note:          See section 213.
 
                      (e)  in relation to a prescribed application—the day determined in the prescribed way.
 
-                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to goods, means a sign that identifies the goods as originating in a country, or in a region or locality in that country, where a given quality, reputation or other characteristic of the goods is essentially attributable to their geographical origin.
+                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to goods originating in a particular country or in a region or locality of that country, means a sign recognised in that country as a sign indicating that the goods:
+
+                     (a)  originated in that country, region or locality; and
+
+                     (b)  have a quality, reputation or other characteristic attributable to their geographical origin.
 
                     <a name="good-person"></a>**_goods of a person_** means goods dealt with or provided in the course of trade by the person.
 
@@ -1005,7 +1007,7 @@ Note:          See section 213.
 
                      (a)  mode of use; or
 
-                     (b)  use within a territorial area within   Australia; or
+                     (b)  use within a territorial area within Australia; or
 
                      (c)  use in relation to goods or services to be exported.
 
@@ -1102,12 +1104,6 @@ Note:          Sections 201, 202, 203, 204 and 206 deal with
                      (b)  a Sunday; or
 
                      (c)  a public holiday in the Australian   Capital Territory.
-
-                    <a name="world-trade-organ"></a>**_World Trade Organization_** means the body of that name established by the WTO Agreement, done at Marrakesh on 15 April 1994.
-
-Note:          The text of the WTO Agreement is set out in Australian Treaty Series 1995 No. 8 (\[1995] ATS 8). In 2009, the text of an Agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-             (2)  For the purposes of this Act, a reference to a country includes a reference to a member of the World Trade Organization.
 
 ##### <a id="6A"></a>6A  Periods expressed in months
 
@@ -2037,8 +2033,6 @@ if the relevant goods are similar to the designated goods or the use of a trade 
 
                      (a)  the relevant goods originated in the country, region or locality identified by the geographical indication; or
 
-                    (aa)  the sign is not recognised as a geographical indication for the designated goods in the country in which the designated goods originated; or
-
                      (b)  the sign has ceased to be used as a geographical indication for the designated goods in the country in which the designated goods originated; or
 
                      (c)  the applicant, or a predecessor in title of the applicant, used the sign in good faith in respect of the relevant goods, or applied in good faith for the registration of the trade mark in respect of the relevant goods, before:
@@ -2056,14 +2050,6 @@ if the relevant goods are similar to the designated goods or the use of a trade 
                      (a)  although the sign is a geographical indication for the designated goods, it is also a geographical indication for the relevant goods; and
 
                      (b)  the applicant has not used, and does not intend to use, the trade mark in relation to the relevant goods in a way that is likely to deceive or confuse members of the public as to the origin of the relevant goods.
-
-             (4)  An opposition on a ground referred to in subsection (1) also fails if the applicant establishes that:
-
-                     (a)  the sign consists of a word or term that is a geographical indication; and
-
-                     (b)  the word or term is a common English word or term; and
-
-                     (c)  the applicant has not used, and does not intend to use, the trade mark in relation to the relevant goods in a way that is likely to deceive or confuse members of the public as to the origin of the relevant goods.
 
 Note 1:       For **_applicant_**,**_predecessor in title_** and **_geographical indication_** see section 6.
 
@@ -2504,58 +2490,6 @@ Note:          For **_registered owner_**_, registered trade m
              (2)  An appeal lies to the Federal Court from a decision of the Registrar under subsection (1).
 
 Note:          See sections 215 and 216 for amendments of the Register to record changes in addresses for service and in the names of registered owners etc.
-
-##### <a id="83A"></a>83A  Amendment of registered trade mark—inconsistency with international agreements
-
-             (1)  This section applies to a registered trade mark if:
-
-                     (a)  using the trade mark in relation to any or all of the goods or services in respect of which the trade mark is registered would be inconsistent with any relevant obligation of Australia under an international agreement; and
-
-                     (b)  at the time when the particulars of registration of the trade mark were entered in the Register, the obligation did not exist.
-
-             (2)  The registered owner of the registered trade mark may, in writing, request the Registrar to do either or both of the following:
-
-                     (a)  amend the representation of the trade mark as entered in the Register to remove or substitute part (but not the whole) of the representation;
-
-                     (b)  amend the particulars entered in the Register in respect of the trade mark to remove or substitute any or all of the particulars.
-
-             (3)  The Registrar must advertise the request for the amendment in the _Official Journal_.
-
-Note:          In certain circumstances the Registrar need not advertise a request under this subsection (see subsection (7)).
-
-             (4)  A person may, as prescribed, oppose the granting of the request for the amendment on the ground that, if the amendment is made, the trade mark will be substantially identical with, or deceptively similar to:
-
-                     (a)  a trade mark registered in the name of the person in respect of similar or closely related goods or similar or closely related services; or
-
-                     (b)  a trade mark that is being used by the person in respect of similar or closely related goods or similar or closely related services.
-
-Note:          In certain circumstances a person cannot oppose the granting of a request under this subsection (see subsection (7)).
-
-             (5)  The Registrar may grant the request for the amendment if he or she is satisfied that the amendment is reasonable, having regard to:
-
-                     (a)  the extent to which the amendment relates to the inconsistency; and
-
-                     (b)  whether the amendment involves replacing a term (the **_existing term_**) with another term that is recognised by the industry in which the trade mark is used as being a substitute for the existing term; and
-
-                     (c)  if a person has opposed the request for the amendment under subsection (4)—the extent (if any) to which the ground on which the request was opposed has been established; and
-
-                     (d)  in any case—any other relevant circumstance.
-
-             (6)  The Registrar may grant the request for the amendment even if the amendment would:
-
-                     (a)  substantially affect the identity of the trade mark; or
-
-                     (b)  extend the rights that the registered owner has under the registration.
-
-             (7)  If the Registrar is satisfied that the request for the amendment would not be granted even in the absence of opposition under subsection (4):
-
-                     (a)  the Registrar need not advertise the request in accordance with subsection (3); and
-
-                     (b)  the request cannot be opposed, despite subsection (4); and
-
-                     (c)  the Registrar must refuse to grant the request.
-
-             (8)  The registered owner who made the request for amendment, or a person who opposes the request under subsection (4), may appeal to the Federal Court from a decision of the Registrar under this section.
 
 #### Subdivision B—Cancelling registration
 
@@ -3859,7 +3793,7 @@ Note 1:       For **_registered trade mark_** and **_registered owne
 
 Note 2:       For **_authorised user_** see section 8.
 
-##### <a id="146"></a>146  Falsely applying a registered trade mark
+##### <a id="146"></a>146  Falsely applying a registered trade mark
 
              (1)  A person is guilty of an offence if the person:
 
@@ -4513,7 +4447,7 @@ Note:          For **_registered trade mark_** and _registered
 
              (4)  A trade mark that is registered as a defensive trade mark in respect of particular goods or services may be subsequently registered otherwise than as a defensive trade mark in the name of the registered owner in respect of the same goods or services.
 
-##### <a id="186"></a>186  Application of Act
+##### <a id="186"></a>186  Application of Act
 
                    Subject to this Part, the provisions of this Act (other than subsection 20(1), paragraph 27(1)(b), sections 41 and 59, sections 121 and 127, Part 9—Removal of trade mark from Register for non-use and Part 16—Certification Trade Marks) apply to defensive trade marks and so apply as if a reference to a trade mark included a reference to a defensive trade mark.
 
@@ -4729,7 +4663,7 @@ Note:          For the awarding of costs see section 221.
 
 the Registrar is to do the act or thing as soon as practicable.
 
-##### <a id="205"></a>205  Deputy Registrar of Trade Marks
+##### <a id="205"></a>205  Deputy Registrar of Trade Marks
 
              (1)  There is to be at least one Deputy Registrar of Trade Marks.
 
@@ -5797,7 +5731,7 @@ then, except as otherwise provided by this Division or the regulations, this Act
 
 ### Division 4—General
 
-##### <a id="257"></a>257  The Registrar and Deputy Registrar
+##### <a id="257"></a>257  The Registrar and Deputy Registrar
 
                    Persons holding office as Registrar of Trade Marks and Deputy Registrar of Trade Marks immediately before 1 January 1996 continue to hold those respective offices on and after that day.
 
@@ -6170,7 +6104,7 @@ Remainder: Royal Assent</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 70–76, 81, 82): 1 Sept 2010 ( <i>see</i>F2010L02117)</div>
+    <div>Schedule 1 (items 70–76, 81, 82): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 81, 82)</div>
@@ -6187,7 +6121,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 141): \[ <i>see</i>Note 4]</div>
+    <div>Schedule 6 (items 1, 141): \[ <i>see</i>Note 5]</div>
   </td>
   <td>
     <div>—</div>
@@ -6429,7 +6363,7 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006; No. 98, 2010</div>
+    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6789,7 +6723,7 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. No. 114, 2006; No. 98, 2010</div>
+    <div>am. No. 114, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7063,14 +6997,6 @@ Div. 1 of Part 8</div>
   </td>
   <td>
     <div>ad. No. 114, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8236,7 +8162,7 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 1 September 2010 the amendments are not incorporated in this compilation.
+As at 2 August 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8264,9 +8190,118 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 1 September 2010 the amendment is not incorporated in this compilation.
+As at 2 August 2010 the amendment is not incorporated in this compilation.
 
 ### Note 4
+
+_Australian Wine and Brandy Corporation Amendment Act 2010 
+ (No. 98, 2010)_
+
+The following amendments commence on 1 September 2010 (_see_ F2010L02117):
+
+## Schedule 1
+
+## 70  Section 6
+
+Before “In this Act”, insert “(1)”.
+
+## 71  Section 6 (definition of _geographical indication_)
+
+Repeal the definition, substitute:
+
+                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to goods, means a sign that identifies the goods as originating in a country, or in a region or locality in that country, where a given quality, reputation or other characteristic of the goods is essentially attributable to their geographical origin.
+
+## 72  Section 6
+
+Insert:
+
+                    <a name="world-trade-organ"></a>**_World Trade Organization_** means the body of that name established by the WTO Agreement, done at Marrakesh on 15 April 1994.
+
+Note:          The text of the WTO Agreement is set out in Australian Treaty Series 1995 No. 8 (\[1995] ATS 8). In 2009, the text of an Agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+## 73  At the end of section 6
+
+Add:
+
+             (2)  For the purposes of this Act, a reference to a country includes a reference to a member of the World Trade Organization.
+
+## 74  After paragraph 61(2)(a)
+
+Insert:
+
+                    (aa)  the sign is not recognised as a geographical indication for the designated goods in the country in which the designated goods originated; or
+
+## 75  At the end of section 61 (before the notes)
+
+Add:
+
+             (4)  An opposition on a ground referred to in subsection (1) also fails if the applicant establishes that:
+
+                     (a)  the sign consists of a word or term that is a geographical indication; and
+
+                     (b)  the word or term is a common English word or term; and
+
+                     (c)  the applicant has not used, and does not intend to use, the trade mark in relation to the relevant goods in a way that is likely to deceive or confuse members of the public as to the origin of the relevant goods.
+
+## 76  At the end of Subdivision A of Division 1 of Part 8
+
+Add:
+
+##### <a id="83A"></a>83A  Amendment of registered trade mark—inconsistency with international agreements
+
+             (1)  This section applies to a registered trade mark if:
+
+                     (a)  using the trade mark in relation to any or all of the goods or services in respect of which the trade mark is registered would be inconsistent with any relevant obligation of Australia under an international agreement; and
+
+                     (b)  at the time when the particulars of registration of the trade mark were entered in the Register, the obligation did not exist.
+
+             (2)  The registered owner of the registered trade mark may, in writing, request the Registrar to do either or both of the following:
+
+                     (a)  amend the representation of the trade mark as entered in the Register to remove or substitute part (but not the whole) of the representation;
+
+                     (b)  amend the particulars entered in the Register in respect of the trade mark to remove or substitute any or all of the particulars.
+
+             (3)  The Registrar must advertise the request for the amendment in the _Official Journal_.
+
+Note:          In certain circumstances the Registrar need not advertise a request under this subsection (see subsection (7)).
+
+             (4)  A person may, as prescribed, oppose the granting of the request for the amendment on the ground that, if the amendment is made, the trade mark will be substantially identical with, or deceptively similar to:
+
+                     (a)  a trade mark registered in the name of the person in respect of similar or closely related goods or similar or closely related services; or
+
+                     (b)  a trade mark that is being used by the person in respect of similar or closely related goods or similar or closely related services.
+
+Note:          In certain circumstances a person cannot oppose the granting of a request under this subsection (see subsection (7)).
+
+             (5)  The Registrar may grant the request for the amendment if he or she is satisfied that the amendment is reasonable, having regard to:
+
+                     (a)  the extent to which the amendment relates to the inconsistency; and
+
+                     (b)  whether the amendment involves replacing a term (the **_existing term_**) with another term that is recognised by the industry in which the trade mark is used as being a substitute for the existing term; and
+
+                     (c)  if a person has opposed the request for the amendment under subsection (4)—the extent (if any) to which the ground on which the request was opposed has been established; and
+
+                     (d)  in any case—any other relevant circumstance.
+
+             (6)  The Registrar may grant the request for the amendment even if the amendment would:
+
+                     (a)  substantially affect the identity of the trade mark; or
+
+                     (b)  extend the rights that the registered owner has under the registration.
+
+             (7)  If the Registrar is satisfied that the request for the amendment would not be granted even in the absence of opposition under subsection (4):
+
+                     (a)  the Registrar need not advertise the request in accordance with subsection (3); and
+
+                     (b)  the request cannot be opposed, despite subsection (4); and
+
+                     (c)  the Registrar must refuse to grant the request.
+
+             (8)  The registered owner who made the request for amendment, or a person who opposes the request under subsection (4), may appeal to the Federal Court from a decision of the Registrar under this section.
+
+As at 2 August 2010 the amendments are not incorporated in this compilation.
+
+### Note 5
 
 _Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
  (No. 103, 2010)_
@@ -8283,7 +8318,7 @@ The specified provisions of the Acts listed in this Part are amended by omitting
 
 ## 141  Section 6 (definition of _Commission_)
 
-As at 1 September 2010 the amendment is not incorporated in this compilation.
+As at 2 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8601,6 +8636,8 @@ _Note:       Items 19 to 23 commence at the registration commencem
 
 _Australian Wine and Brandy Corporation Amendment Act 2010 
  (No. 98, 2010)_
+
+The following provisions commence on 1 September 2010 (_see_ F2010L02117):
 
 ## Schedule 1
 
