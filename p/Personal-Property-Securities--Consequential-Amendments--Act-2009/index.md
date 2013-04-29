@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00480/Html/PersPropSecConseqAmend2009_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00169/Html/0740631b-3914-4852-a5a1-2130c3e038d1_files/image001.gif)
 
 # Personal Property Securities (Consequential Amendments) Act 2009
 
 **Act No. 131 of 2009 as amended**
 
-This compilation was prepared on 7 July 2010
+This compilation was prepared on 30 January 2012
  taking into account amendments up to Act No. 96 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -28,60 +28,60 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Fisheries Management Act 1991                                                                              5
 
-Torres Strait Fisheries Act 1984                                                                             12
+Torres Strait Fisheries Act 1984                                                                             11
 
 **Schedule 2—Intellectual property legislation** 
 
-Designs Act 2003                                                                                                       14
+Designs Act 2003                                                                                                       13
 
-Patents Act 1990                                                                                                        16
+Patents Act 1990                                                                                                        15
 
-Plant Breeder’s Rights Act 1994                                                                            18
+Plant Breeder’s Rights Act 1994                                                                            17
 
-Trade Marks Act 1995                                                                                              18
+Trade Marks Act 1995                                                                                              17
 
 **Schedule 3—Maritime legislation**
 
-Admiralty Act 1988                                                                                                   22
+Admiralty Act 1988                                                                                                   21
 
-Marine Navigation Levy Collection Act 1989                                                     22
+Marine Navigation Levy Collection Act 1989                                                     21
 
-Marine Navigation (Regulatory Functions) Levy Collection Act 
- 1991                                                                                                                             22
+Marine Navigation (Regulatory Functions) Levy Collection 
+ Act 1991                                                                                                                      21
 
-Navigation Act 1912                                                                                                 22
+Navigation Act 1912                                                                                                 21
 
-Protection of the Sea (Civil Liability) Act 1981                                                 24
+Protection of the Sea (Civil Liability) Act 1981                                                  23
 
-Protection of the Sea (Harmful Anti-fouling Systems) Act 2006                      25
+Protection of the Sea (Harmful Anti‑fouling Systems) Act 2006                      24
 
-Protection of the Sea (Prevention of Pollution from Ships) Act 1983            25
+Protection of the Sea (Prevention of Pollution from Ships) Act 1983            24
 
-Protection of the Sea (Shipping Levy Collection) Act 1981                             25
+Protection of the Sea (Shipping Levy Collection) Act 1981                             24
 
-Shipping Registration Act 1981                                                                             25
+Shipping Registration Act 1981                                                                             24
 
 **Schedule 4—Personal Property Securities Act 2009** 
 
 **Schedule 5—Other legislation** 
 
-Air Services Act 1995                                                                                                45
+Air Services Act 1995                                                                                                44
 
-Bankruptcy Act 1966                                                                                                46
+Bankruptcy Act 1966                                                                                                45
 
-Commonwealth Inscribed Stock Act 1911                                                            49
+Commonwealth Inscribed Stock Act 1911                                                            48
 
-Corporations (Aboriginal and Torres Strait Islander) Act 2006                    49
+Corporations (Aboriginal and Torres Strait Islander) Act 2006                     48
 
-Health Insurance Act 1973                                                                                      50
+Health Insurance Act 1973                                                                                      49
 
-Insurance Act 1973                                                                                                   51
+Insurance Act 1973                                                                                                   50
 
-Privacy Act 1988                                                                                                       51
+Privacy Act 1988                                                                                                       50
 
-Quarantine Act 1908                                                                                                53
+Quarantine Act 1908                                                                                                52
 
-Wool International Act 1993                                                                                   54
+Wool International Act 1993                                                                                  53
 
 **Notes** 
 
@@ -157,7 +157,10 @@ Wool International Act 1993                 �
       <i>Personal Property Securities Act 2009</i>does not commence.</div>
   </td>
   <td>
-    <div> </div>
+    <div>30 January 2012
+
+(
+      <i>see</i>F2011L02397)</div>
   </td>
 </tr>
 <tr>
@@ -261,7 +264,10 @@ Wool International Act 1993                 �
       <i>Personal Property Securities Act 2009</i>does not commence.</div>
   </td>
   <td>
-    <div> </div>
+    <div>30 January 2012
+
+(
+      <i>see</i>F2011L02397)</div>
   </td>
 </tr>
 <tr>
@@ -293,7 +299,10 @@ Wool International Act 1993                 �
       <i>Personal Property Securities Act 2009</i>does not commence.</div>
   </td>
   <td>
-    <div> </div>
+    <div>30 January 2012
+
+(
+      <i>see</i>F2011L02397)</div>
   </td>
 </tr></table>
 
@@ -653,15 +662,9 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-## 17  Application of amendments of the _Fisheries Management Act 1991_
-
-The requirements in sections 31F and 46 of the _Fisheries Management Act 1991_ in relation to the registration of dealings in respect of interests that are PPSA security interests stop applying at the time item 5 of this Schedule commences.
-
-_Note:       Item 5 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
 ## 18  Transitional—item 15
 
-(1)        This item applies if:
+(1)       This item applies if:
 
                      (a)  before the time that item 15 of this Schedule commenced, the Australian Fisheries Management Authority was required to give a person written notification under subsection 50(3) of the _Fisheries Management Act 1991_ (as in force at that time); and
 
@@ -669,7 +672,7 @@ _Note:       Item 5 commences at the registration commencement tim
 
 _Note:       Item 15 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
-(2)        The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
+(2)       The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
 
 <h9 class="ActHead9" style="page-break-after:avoid">Torres Strait Fisheries Act 1984</h9>
 
@@ -779,11 +782,11 @@ Note:          Certain particulars relating to registrations i
 
 ## 7  Application of amendments of the _Designs Act 2003_
 
-(1)        The amendment of the _Designs Act 2003_ made by item 2 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)       The amendment of the _Designs Act 2003_ made by item 2 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)        The amendment of the _Designs Act 2003_ made by item 3 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)       The amendment of the _Designs Act 2003_ made by item 3 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)        The amendments of the _Designs Act 2003_ made by items 4, 5 and 6 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to designs (or interests in designs) that are commenced before the time the items commence.
+(3)       The amendments of the _Designs Act 2003_ made by items 4, 5 and 6 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to designs (or interests in designs) that are commenced before the time the items commence.
 
 _Note:       Items 2 to 6 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
@@ -855,11 +858,11 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 ## 15  Application of amendments of the _Patents Act 1990_
 
-(1)        The amendment of the _Patents Act 1990_ made by item 9 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)       The amendment of the _Patents Act 1990_ made by item 9 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)        The amendment of the _Patents Act 1990_ made by item 10 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)       The amendment of the _Patents Act 1990_ made by item 10 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)        The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
+(3)       The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
 
 _Note:       Items 9 to 13 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
@@ -871,7 +874,7 @@ Add:
 
 Note 1:       The _Personal Property Securities Act 2009_ applies to PBR, and any licence in PBR, as **_intellectual property_** (see paragraph (d) of the definition of that phrase in section 10 of that Act). That Act deals with security interests in personal property, including intellectual property and intellectual property licences.
 
-Note 2:       Section 106 of the _Personal Property Securities Act 2009_ corresponds to subsection 20(3) of this section. Section 106 of that Act provides for security agreements in relation to intellectual property licences (or sub-licences) to be binding on successors in title to the licences (or sub-licences).
+Note 2:       Section 106 of the _Personal Property Securities Act 2009_ corresponds to subsection 20(3) of this section. Section 106 of that Act provides for security agreements in relation to intellectual property licences (or sub‑licences) to be binding on successors in title to the licences (or sub‑licences).
 
 ## 17  At the end of section 25
 
@@ -983,13 +986,13 @@ Note 2:       Certain particulars relating to registrations in respe
 
 ## 24  Application of amendments of the _Trade Marks Act 1995_
 
-(1)        The amendment of the _Trade Marks Act 1995_ made by item 19 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)       The amendment of the _Trade Marks Act 1995_ made by item 19 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)        The amendment of the _Trade Marks Act 1995_ made by item 20 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)       The amendment of the _Trade Marks Act 1995_ made by item 20 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)        The amendments of the _Trade Marks Act 1995_ made by items 21 and 22 of this Schedule do not apply in relation to applications to the Registrar made under section 113 or 117 of that Act before the time the items commence.
+(3)       The amendments of the _Trade Marks Act 1995_ made by items 21 and 22 of this Schedule do not apply in relation to applications to the Registrar made under section 113 or 117 of that Act before the time the items commence.
 
-(4)        The amendment of the _Trade Marks Act 1995_ made by item 23 of this Schedule does not apply in relation to any proceedings in a court or tribunal in relation to trade marks (or interests in trade marks) that are commenced before the time the item commences.
+(4)       The amendment of the _Trade Marks Act 1995_ made by item 23 of this Schedule does not apply in relation to any proceedings in a court or tribunal in relation to trade marks (or interests in trade marks) that are commenced before the time the item commences.
 
 _Note:       Items 19 to 23 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
@@ -1099,7 +1102,7 @@ Insert:
 
           (1B)  While a ship is detained under this section, a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
 
-<h9 class="ActHead9">Protection of the Sea (Harmful Anti-fouling Systems) Act 2006</h9>
+<h9 class="ActHead9">Protection of the Sea (Harmful Anti‑fouling Systems) Act 2006</h9>
 
 ## 12  At the end of section 18
 
@@ -1259,9 +1262,9 @@ Omit “, 66”.
 
 ## 33  Application—items 15, 17 to 19 and 22 to 24
 
-(1)        The amendments of the _Shipping Registration Act 1981_ made by items 15, 17 to 19 and 22 to 24 of this Schedule apply in relation to an interest of a mortgagor in a mortgage of a ship, or of a share in a ship, regardless of when the interest arose.
+(1)       The amendments of the _Shipping Registration Act 1981_ made by items 15, 17 to 19 and 22 to 24 of this Schedule apply in relation to an interest of a mortgagor in a mortgage of a ship, or of a share in a ship, regardless of when the interest arose.
 
-(2)        However, interests that are mortgages registered under the _Shipping Registration Act 1981_ before the time the items covered by subitem (1) commence have the priority between themselves that they would have had under that Act as in force immediately before that time, subject to Chapter 9 (Transitional provisions) of the _Personal Property Securities Act 2009_.
+(2)       However, interests that are mortgages registered under the _Shipping Registration Act 1981_ before the time the items covered by subitem (1) commence have the priority between themselves that they would have had under that Act as in force immediately before that time, subject to Chapter 9 (Transitional provisions) of the _Personal Property Securities Act 2009_.
 
 ## 34  Application—item 20
 
@@ -1436,7 +1439,7 @@ Repeal the subsection, substitute:
 
                      (a)  starting at whichever of the following times is applicable:
 
-                              (i)  if the law of the foreign jurisdiction provides for the perfection (and the effect of perfection or non-perfection) of the security interest—when the security interest last became perfected under that law;
+                              (i)  if the law of the foreign jurisdiction provides for the perfection (and the effect of perfection or non‑perfection) of the security interest—when the security interest last became perfected under that law;
 
                              (ii)  if subparagraph (i) does not apply to the law of the foreign jurisdiction, but that law provides for the public registration or recording of the security interest, or of a notice relating to the security interest—when the security interest, or such a notice, was so registered or recorded (or was last so registered or recorded);
 
@@ -1446,7 +1449,7 @@ Repeal the subsection, substitute:
 
           (2A)  However, a security interest in collateral is not taken to have been continuously perfected under subsection (1) if, immediately before the collateral became located in Australia:
 
-                     (a)  in a case in which the law of the foreign jurisdiction provides for the perfection (and effect of perfection or non-perfection) of the security interest—the security interest was not perfected under that law; or
+                     (a)  in a case in which the law of the foreign jurisdiction provides for the perfection (and effect of perfection or non‑perfection) of the security interest—the security interest was not perfected under that law; or
 
                      (b)  in a case in which paragraph (a) does not apply to the law of the foreign jurisdiction, but that law provides for the public registration or recording of the security interest, or of a notice relating to the security interest—the security interest, or such a notice, was not so registered or recorded.
 
@@ -1470,7 +1473,7 @@ Continuous perfection prior to relocation event
 
                              (ii)  the security agreement providing for the security interest was enforceable against third parties; and
 
-                     (c)  as a result of the occurrence of the relocation event, the perfection (and the effect of perfection or non-perfection) of the security interest becomes governed by the law of Australia.
+                     (c)  as a result of the occurrence of the relocation event, the perfection (and the effect of perfection or non‑perfection) of the security interest becomes governed by the law of Australia.
 
 Note 1:       For when bodies corporate, bodies politic or individuals are located in a jurisdiction, see section 235.
 
@@ -1480,7 +1483,7 @@ Note 2:       For when laws of other jurisdictions govern a security
 
                      (a)  starting at whichever of the following times is applicable:
 
-                              (i)  if the law of the foreign jurisdiction provides for the perfection (and the effect of perfection or non-perfection) of the security interest—when the security interest last became perfected under that law;
+                              (i)  if the law of the foreign jurisdiction provides for the perfection (and the effect of perfection or non‑perfection) of the security interest—when the security interest last became perfected under that law;
 
                              (ii)  if subparagraph (i) does not apply to the law of the foreign jurisdiction, but that law provides for the public registration or recording of the security interest, or of a notice relating to the security interest—when the security interest, or such a notice, was so registered or recorded (or was last so registered or recorded);
 
@@ -1490,7 +1493,7 @@ Note 2:       For when laws of other jurisdictions govern a security
 
           (2A)  However, a security interest is not taken to have been continuously perfected under subsection (1) if, immediately before the relocation event:
 
-                     (a)  in a case in which the law of the foreign jurisdiction provides for the perfection (and effect of perfection or non-perfection) of the security interest—the security interest was not perfected under that law; or
+                     (a)  in a case in which the law of the foreign jurisdiction provides for the perfection (and effect of perfection or non‑perfection) of the security interest—the security interest was not perfected under that law; or
 
                      (b)  in a case in which paragraph (a) does not apply to the law of the foreign jurisdiction, but that law provides for the public registration or recording of the security interest, or of a notice relating to the security interest—the security interest, or such a notice, was not so registered or recorded.
 
@@ -1500,11 +1503,11 @@ Repeal the paragraphs, substitute:
 
 * * *
 
-               (b)     serial number defects;
+              (b)     serial number defects;
 
                (c)     motor vehicles;
 
-               (d)     taking in the ordinary course of business;
+              (d)     taking in the ordinary course of business;
 
                (e)     personal, domestic or household property;
 
@@ -1512,11 +1515,11 @@ Repeal the paragraphs, substitute:
 
                (g)     taking investment instruments or investment entitlements in the ordinary course of trading;
 
-               (h)     investment instruments;
+              (h)     investment instruments;
 
-                (i)     investment entitlements;
+               (i)     investment entitlements;
 
-                (j)     temporarily perfected security interests.
+               (j)     temporarily perfected security interests.
 
 * * *
 
@@ -1626,7 +1629,7 @@ Omit “subsection (1)”, substitute “a requirement under subsection (1) 
 
 Insert:
 
-                    (da)  a unique identifier allocated by the Registrar to a registered financing statement;
+                   (da)  a unique identifier allocated by the Registrar to a registered financing statement;
 
 ## 42  Subsection 235(1)
 
@@ -1666,11 +1669,11 @@ Omit “property is located”, substitute “goods are located”.
 
 Repeal the subsection, substitute:
 
-          (1A)  At a particular time, the perfection, and the effect of perfection or non-perfection, of a security interest in goods is governed by the law of the jurisdiction (other than the law relating to the conflict of laws) in which the goods are located at that time.
+          (1A)  At a particular time, the perfection, and the effect of perfection or non‑perfection, of a security interest in goods is governed by the law of the jurisdiction (other than the law relating to the conflict of laws) in which the goods are located at that time.
 
 Goods that are moved
 
-             (2)  Despite subsections (1) and (1A), the validity, perfection, and the effect of perfection or non-perfection, of a security interest in goods is governed by the law of a particular jurisdiction (the **_destination jurisdiction_**), other than the law relating to the conflict of laws, if:
+             (2)  Despite subsections (1) and (1A), the validity, perfection, and the effect of perfection or non‑perfection, of a security interest in goods is governed by the law of a particular jurisdiction (the **_destination jurisdiction_**), other than the law relating to the conflict of laws, if:
 
                      (a)  at the time (the **_attachment time_**) the security interest attaches, under that law, to the goods, it was reasonable to believe that the goods would be moved to the destination jurisdiction; and
 
@@ -1680,7 +1683,7 @@ Goods that are moved
 
 ## 47  Subsection 238(3)
 
-Omit “Despite subsections (1) and (2),”, substitute “Despite subsections (1) to (2A), the validity, perfection, and the effect of perfection or non-perfection, of”.
+Omit “Despite subsections (1) and (2),”, substitute “Despite subsections (1) to (2A), the validity, perfection, and the effect of perfection or non‑perfection, of”.
 
 ## 48  Paragraph 238(3)(b)
 
@@ -1698,7 +1701,7 @@ Add:
 
 Goods entered on registers of ships
 
-             (4)  Despite subsections (1A) to (3), at a particular time, the perfection, and the effect of perfection or non-perfection, of a security interest in goods is governed by the law of a country if:
+             (4)  Despite subsections (1A) to (3), at a particular time, the perfection, and the effect of perfection or non‑perfection, of a security interest in goods is governed by the law of a country if:
 
                      (a)  the goods are entered in a register of ships maintained by the country containing the names and particulars of ships; and
 
@@ -1772,7 +1775,7 @@ Repeal the subsection.
 
 ## 58  Subsection 317(1)
 
-Omit “(when a non-constitutional security interest becomes a constitutional security interest)”, substitute “(personal property taken free of security interest when Act starts to operate)”.
+Omit “(when a non‑constitutional security interest becomes a constitutional security interest)”, substitute “(personal property taken free of security interest when Act starts to operate)”.
 
 ## 59  Subsection 327(1)
 
@@ -1900,11 +1903,11 @@ Omit “or in a licence”, substitute “, in a licence or in a PPSA security a
 
 Repeal the paragraphs, substitute:
 
-                     (a)  the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
+                     (a)  the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
 
-                     (b)  the operation of the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to be modified; or
+                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to be modified; or
 
-                     (c)  property to which the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
+                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
 
 ## 12  Subsection 301(1)
 
@@ -1972,7 +1975,7 @@ Note 2:       That Act provides for registration in respect of secur
 
 <h9 class="ActHead9">Corporations (Aboriginal and Torres Strait Islander) Act 2006</h9>
 
-## 21  After subsection 453-10(5)
+## 21  After subsection 453‑10(5)
 
 Insert:
 
@@ -1982,7 +1985,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-## 22  After subsection 511-1(5)
+## 22  After subsection 511‑1(5)
 
 Insert:
 
@@ -2204,11 +2207,11 @@ Repeal the subsection.
 
 ## 50  Application of amendments of the _Wool International Act 1993_
 
-(1)        This item applies if immediately before the time item 42 of this Schedule commences, WoolStock Australia Limited had not complied with a request made by a person under paragraph 22L(b) of the _Wool International Act 1993_.
+(1)       This item applies if immediately before the time item 42 of this Schedule commences, WoolStock Australia Limited had not complied with a request made by a person under paragraph 22L(b) of the _Wool International Act 1993_.
 
 _Note:       Item 42 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
-(2)        The requirement to comply with the request stops applying after the time item 42 of this Schedule commences.
+(2)       The requirement to comply with the request stops applying after the time item 42 of this Schedule commences.
 
 # Notes to the _Personal Property Securities (Consequential Amendments) Act 2009_
 
@@ -2276,7 +2279,7 @@ of Assent</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 17): \[ <i>see</i> <i>(a)</i>and Note 2]</div>
+    <div>Schedule 3 (item 17): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2365,26 +2368,49 @@ _(a)_     Subsection 2(1) (item 14) of the _Personal Property Securiti
   </td>
   <td>
     <div>
-      \[
-        <i>see</i>Note 2]
+      30 January 2012
     </div>
   </td>
 </tr></table>
 
-### Note 2
+## Table of Amendments
 
-_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
 
-The following amendment commences immediately after the commencement of item 17 of Schedule 1 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
-
-## Schedule 3
-
-## 17  Item 17 of Schedule 1
-
-Repeal the item.
-
-_Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
-
-As at 7 July 2010 the amendment is not incorporated in this compilation.
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 17</div>
+  </td>
+  <td>
+    <div>rep. No. 96, 2010</div>
+  </td>
+</tr></table>
 
  
