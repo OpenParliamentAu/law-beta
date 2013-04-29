@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00621/Html/e0dab188-9ce4-4481-be70-37a60bbb71cc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00478/Html/c7121e54-1310-4ae9-8a51-1cfd11b80e81_files/image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 27 June 2012
- taking into account amendments up to Act No. 75 of 2012
+This compilation was prepared on 4 June 2012
+ taking into account amendments up to Act No. 26 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -190,7 +190,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                   (caa)  a decision under Subdivision 263‑A (about foreign revenue claims) in Schedule 1 to the _Taxation Administration Act 1953_; or
 
-                    (ca)  in a case where the expression is used in relation to relevant tax of a kind referred to in items 5 to 50 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a taxpayer reducing the liability of the taxpayer to tax other than a decision to give effect to a determination under section 292‑467 of the _Income Tax Assessment Act 1997_; or
+                    (ca)  in a case where the expression is used in relation to relevant tax of a kind referred to in items 5 to 50 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a taxpayer reducing the liability of the taxpayer to tax; or
 
                    (cb)  in a case where the expression is used in relation to fringe benefits tax imposed by the _Fringe Benefits Tax Act 1986_—a decision of the Commissioner to amend an assessment made in relation to an employer reducing the liability of the employer to tax, other than:
 
@@ -224,11 +224,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="incom-tax-criting-amount"></a>**_income tax crediting amount_**, in relation to income tax payable by a person for a year of income, means:
 
-                     (a)  any amount of a credit that does not arise under Division 770 or subsection 292‑420(8) of the _Income Tax Assessment Act 1997_ or under the _International Tax Agreements Act 1953_; or
+                     (a)  any amount of a credit that does not arise under Division 770 of the _Income Tax Assessment Act 1997_ or under the _International Tax Agreements Act 1953_; or
 
                      (b)  any offset under former section 160AQK of the Tax Act; or
 
-                     (c)  any tax offset that is subject to the refundable tax offset rules (other than a tax offset that arises under paragraph 292‑467(2)(b) of the _Income Tax Assessment Act 1997_).
+                     (c)  any tax offset that is subject to the refundable tax offset rules.
 
 Note:          Division 67 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
 
@@ -775,7 +775,7 @@ interest is payable by the Commissioner to the person in accordance with this Pa
 
 ## Part IID—Interest on overpayments resulting from certain amendments of assessments made under the Termination Payments Tax (Assessment and Collection) Act 1997
 
-##### <a id="8Q"></a>8Q  Interpretation
+##### <a id="8Q"></a>8Q  Interpretation
 
                    Expressions used in this Part that are defined in the _Termination Payments Tax (Assessment and Collection) Act 1997_ have the same meanings as in that Act.
 
@@ -1649,7 +1649,7 @@ Schedule 10 (item 3): 19 Dec 1994 ( <i>i</i>)
 Schedule 10 (items 4–6): <i>(i)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (item 10) and Sch. 10 (item 6)</div>
+    <div>Sch. 8 (item 10) and Sch. 10 (item 6)</div>
   </td>
 </tr>
 <tr>
@@ -1683,7 +1683,8 @@ Schedule 10 (items 4–6): <i>(i)</i></div>
     <div>9 Oct 1996</div>
   </td>
   <td>
-    <div>Sch. 3 (item 3)</div>
+    <div>Sch. 3 
+(item 3)</div>
   </td>
 </tr>
 <tr>
@@ -1837,7 +1838,7 @@ Schedule 10 (items 4–6): <i>(i)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 402, 404) 
-Sch. 1 (items 398, 399) (am. by 178, 1999, Sch. 2 (items 
+Sch. 1 (items 398, 399) (am. by 178, 1999, Sch. 2 (items 
 89–91))</div>
   </td>
 </tr>
@@ -1925,7 +1926,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (items 35, 92, 93) \[ <i>see</i>Table A] 
-S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
+S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
   </td>
 </tr>
 <tr>
@@ -1996,7 +1997,8 @@ Schedule 13 (items 2–4): <i>(v)</i>
 Schedule 16 (items 20–37): <i>(v)</i></div>
   </td>
   <td>
-    <div>Sch. 13 (item 6) and Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
+    <div>Sch. 13 (item 6) and 
+Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2081,7 +2083,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>S. 4 and Schedule 4 (items 129–131): 15 Dec 2001 <i>(za)</i></div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
+    <div>S. 4 \[see Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2286,7 +2288,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>Schedule 1 (items 394, 406(1)–(3)): <i>(zf)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2419,7 +2421,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 118, 119): 17 Dec 2010</div>
+    <div>Schedule 2 (items 118, 119): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2490,24 +2492,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>Schedule 1 (items 43–47, 48(1)): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 1 (item 48(1)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012</div>
-  </td>
-  <td>
-    <div>75, 2012</div>
-  </td>
-  <td>
-    <div>27 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 17–20): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 20) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 48(1)) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3011,7 +2996,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; Nos. 12 and 75, 2012</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; No. 12, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3888,7 +3873,7 @@ Add:
 
                      (c)  any general interest charge due and payable in relation to such an instalment.
 
-As at 27 June 2012 the amendments are not incorporated in this compilation.
+As at 4 June 2012 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -3961,7 +3946,7 @@ Note 1:       The decision of the Commissioner to give the notice is
 
 Note 2:       Liabilities under section 282‑18 of the _Private Health Insurance Act 2007_ are relevant tax. See section 3C.
 
-As at 27 June 2012 the amendments are not incorporated in this compilation.
+As at 4 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4319,15 +4304,5 @@ The following provision commences on 1 July 2012:
 ## 48  Application
 
 (1)       The amendments made by this Schedule apply in relation to premiums, and amounts in respect of premiums, paid on and after 1 July 2012.
-
-* * *
-
-_Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012 (No. 75, 2012)_
-
-## Schedule 4
-
-## 20  Application of amendments
-
-The amendments made by this Schedule apply in relation to excess concessional contributions for the financial year beginning on 1 July 2011 and later financial years.
 
  
