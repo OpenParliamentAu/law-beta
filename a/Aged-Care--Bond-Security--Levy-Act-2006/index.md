@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00073/Html/13169a77-2a9a-47d2-beab-9cdab0a50cd8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00062/Html/AgeCareBondSecurLevy2006_image001.gif)
 
 # Aged Care (Bond Security) Levy Act 2006
 
 **Act No. 27 of 2006 as amended**
 
-This compilation was prepared on 20 March 2008
+This compilation was prepared on 21 February 2008
  taking into account amendments up to Act No. 1 of 2008
 
 The text of any of those amendments not in force
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -43,7 +43,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Aged Care (Bond Security) Levy Act 2006_.
+                   This Act may be cited as the _Aged Care (Bond Security) Levy Act 2006_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -132,7 +132,7 @@ Note:          This table relates only to the provisions of th
 
              (1)  This Act applies in all the States and Territories.
 
-             (2)  However, this Act does not apply in any external Territory, except the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
+             (2)  However, this Act does not apply in any external Territory.
 
 ##### <a id="4"></a>4  Binding the Crown
 
@@ -186,7 +186,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="10"></a>10  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -204,9 +204,9 @@ The _Aged Care (Bond Security) Levy Act 2006_ as shown in this compilation compr
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="19%">
+  <col width="21%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -259,51 +259,25 @@ Remainder: Royal Assent</div>
     <div>18 Feb 2008</div>
   </td>
   <td>
-    <div>Schedule 3: 20 Mar 2008</div>
+    <div>Schedule 3: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Aged Care Amendment (2008 Measures No. 1) Act 2008 (No. 1, 2008)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+The following amendment commences on 20 March 2008:
+
+## Schedule 3
+
+## 1  At the end of subsection 3(2)
+
+Add “, except the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands”.
+
+As at 21 February 2008 the amendment is not incorporated in this compilation.
 
  
