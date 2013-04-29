@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00110/Html/2dd7f3e6-d181-46ea-aac5-4d5387fac784_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00747/Html/4749b1f6-2186-4d95-a17c-cfddd11dbd50_files/image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 15 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -381,6 +381,8 @@ To avoid doubt, a **_disability_** that is otherwise covered by this definition 
                     <a name="discrimin"></a>**_discriminate_** has the meaning given by sections 5 and 6.
 
 Note:          Section 7 (associates) and section 8 (carers, assistants, assistance animals and disability aids) extend the concept of discrimination.
+
+                    <a name="docum"></a>**_document_** includes any book, register or other record of information, however compiled, recorded or stored.
 
                     <a name="educ-author"></a>**_educational authority_** means a body or person administering an educational institution.
 
@@ -1742,13 +1744,21 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="120"></a>120  Acting Commissioner
 
-                   The Minister may appoint a person to act as Commissioner:
+             (1)  The Minister may appoint a person to act as Commissioner:
 
                      (a)  during a vacancy in the office of Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Commissioner.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  The validity of anything done by a person purporting to act under an appointment made under subsection (1) is not to be called in question on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ## Part 7—Miscellaneous
 
@@ -2427,7 +2437,7 @@ Schedule 2 (items 103–105): 8 Jan 2010</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 543–546) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 543–546) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2818,7 +2828,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; Nos. 54 and 70, 2009; No. 46, 2011</div>
+    <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50; Nos. 54 and 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3696,22 +3706,6 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 120</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -3774,6 +3768,34 @@ of Part 2</div>
     <div>am. No. 62, 2002; No. 70, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 543  Subsection 4(1) (definition of _document_)
+
+Repeal the definition.
+
+## 544  Subsection 120(1)
+
+Omit “(1)”.
+
+## 545  At the end of subsection 120(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 546  Subsection 120(2)
+
+Repeal the subsection.
+
+As at 15 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4160,6 +4182,8 @@ _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
