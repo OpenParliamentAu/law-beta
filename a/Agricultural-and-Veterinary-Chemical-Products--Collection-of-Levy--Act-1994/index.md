@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image001.gif)
 
 # Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994
 
 **Act No. 41 of 1994 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 6 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -18,111 +18,111 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Extension to certain external Territories
+[4](#4).            Extension to certain external Territories                                               7
 
-[5](#5).            Act to bind Crown
+[5](#5).            Act to bind Crown                                                                               7
 
-[5A](#5A).         Application of the _Criminal Code_
+[5A](#5A).         Application of the _Criminal Code_                                                        7
 
-[6](#6).            Power of APVMA to make certain determinations
+[6](#6).            Power of APVMA to make certain determinations                              7
 
 **Part 2—Liability for levy and penalties** 
 
     **Division 1—Liability for levy from 1 January 1994 to 30 June 2005**
 
-[8](#8).            Liability for levy in respect of disposals during any calendar year from 1994 to 2003
+[8](#8).            Liability for levy in respect of disposals during any calendar year from 1994 to 2003             9
 
-[9](#9).            Liability for levy in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
+[9](#9).            Liability for levy in respect of disposals during the first 6 months of any calendar year from 1995 to 2004            9
 
-[10](#10).          Liability for levy in respect of disposals during the 2004‑2005 financial year
+[10](#10).          Liability for levy in respect of disposals during the 2004‑2005 financial year          11
 
-[11](#11).          Amount of levy imposed in respect of disposals during any calendar year from 1994 to 2003
+[11](#11).          Amount of levy imposed in respect of disposals during any calendar year from 1994 to 2003                11
 
-[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
+[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004                                                                                                           12
 
-[12A](#12A).       Amount of levy imposed in respect of disposals during the 2004‑2005 financial year
+[12A](#12A).       Amount of levy imposed in respect of disposals during the 2004‑2005 financial year             13
 
     **Division 2—Liability for levy for financial years from 1 July 2005**
 
-[12B](#12B).       Liability for levy in respect of disposals during the 2005‑2006 and later financial years
+[12B](#12B).       Liability for levy in respect of disposals during the 2005‑2006 and later financial years          14
 
-[12C](#12C).       Amount of levy imposed in respect of disposals during the 2005‑2006 and later financial years
+[12C](#12C).       Amount of levy imposed in respect of disposals during the 2005‑2006 and later financial years             14
 
     **Division 3—Other rules relating to the levy**
 
-[13](#13).          Payment of levy
+[13](#13).          Payment of levy                                                                                 16
 
-[14](#14).          Late payment penalty
+[14](#14).          Late payment penalty                                                                          16
 
-[14A](#14A).       Understatement penalty
+[14A](#14A).       Understatement penalty                                                                      16
 
 **Part 3—Calculation or assessment of levy**
 
-[15](#15).          Calculation of levy by person liable
+[15](#15).          Calculation of levy by person liable                                                   18
 
-[16](#16).          Assessment of levy by APVMA
+[16](#16).          Assessment of levy by APVMA                                                       19
 
-[17](#17).          Fresh assessments
+[17](#17).          Fresh assessments                                                                              21
 
-[18](#18).          Reconsideration and review of assessments
+[18](#18).          Reconsideration and review of assessments                                       21
 
 **Part 4—Enforcement**
 
-[19](#19).          Levy, late payment penalty and understatement penalty recovered as debts
+[19](#19).          Levy, late payment penalty and understatement penalty recovered as debts              23
 
-[20](#20).          APVMA may require information about disposals of chemical products
+[20](#20).          APVMA may require information about disposals of chemical products                23
 
-[21](#21).          Searches to monitor compliance with Act
+[21](#21).          Searches to monitor compliance with Act                                          25
 
-[22](#22).          Offence‑related searches and seizures
+[22](#22).          Offence‑related searches and seizures                                                25
 
-[23](#23).          Power of inspector to require information or documents
+[23](#23).          Power of inspector to require information or documents                   26
 
-[24](#24).          Offence‑related warrants
+[24](#24).          Offence‑related warrants                                                                    26
 
-[25](#25).          Announcement before entry
+[25](#25).          Announcement before entry                                                               27
 
-[26](#26).          Details of warrant to be given to occupier
+[26](#26).          Details of warrant to be given to occupier                                          28
 
-[27](#27).          Use of equipment to examine or process things
+[27](#27).          Use of equipment to examine or process things                                 28
 
-[28](#28).          Use of electronic equipment at premises
+[28](#28).          Use of electronic equipment at premises                                            29
 
-[29](#29).          Compensation for damage to electronic equipment
+[29](#29).          Compensation for damage to electronic equipment                            30
 
-[30](#30).          Copies of seized things to be provided
+[30](#30).          Copies of seized things to be provided                                               31
 
-[31](#31).          Return of things that are seized
+[31](#31).          Return of things that are seized                                                          31
 
-[32](#32).          Court of summary jurisdiction may permit a thing to be kept
+[32](#32).          Court of summary jurisdiction may permit a thing to be kept             32
 
 **Part 5—Miscellaneous**
 
-[33](#33).          Administrative Appeals Tribunal may review certain decisions by APVMA
+[33](#33).          Administrative Appeals Tribunal may review certain decisions by APVMA          33
 
-[34](#34).          Self‑incrimination
+[34](#34).          Self‑incrimination                                                                               33
 
-[35](#35).          Copying of documents
+[35](#35).          Copying of documents                                                                       34
 
-[36](#36).          Applicant for registration of chemical product to keep records
+[36](#36).          Applicant for registration of chemical product to keep records          34
 
-[38](#38).          Exemptions from liability for damages
+[38](#38).          Exemptions from liability for damages                                               34
 
-[38A](#38A).       Refund of overpayments
+[38A](#38A).       Refund of overpayments                                                                    34
 
-[38B](#38B).       Waiver of amounts
+[38B](#38B).       Waiver of amounts                                                                             35
 
-[38C](#38C).       Rounding of amounts
+[38C](#38C).       Rounding of amounts                                                                         35
 
-[39](#39).          Regulations
+[39](#39).          Regulations                                                                                        35
 
 **Notes** 
 
@@ -153,6 +153,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="australian-product"></a>**_Australian product_** means a chemical product that has been manufactured in Australia, but does not include an imported product.
 
                     <a name="chemic-product"></a>**_chemical product_** means an agricultural chemical product or a veterinary chemical product but does not include such a product that, under the regulations, is exempt from levy.
+
+                    <a name="docum"></a>**_document_** includes a book or other record.
 
                     <a name="give-inform"></a>**_give information_** includes make a statement.
 
@@ -390,7 +392,7 @@ Who is liable to pay the levy
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 8 in respect of leviable disposals of a particular chemical product during a particular calendar year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image002.gif)
 
 where:
 
@@ -410,7 +412,7 @@ Disposals during the first 6 months of any calendar year from 1995 to 2003
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under subsection 9(1) in respect of leviable disposals of a particular chemical product during the first 6 months of a particular calendar year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image003.gif)
 
 where:
 
@@ -428,7 +430,7 @@ Disposals during the first 6 months of 2004
 
              (3)  Subject to subsection (4), the amount of the levy that is payable under subsection 9(1A) in respect of leviable disposals of a particular chemical product during the first 6 months of the calendar year beginning on 1 January 2004 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image004.gif)
 
              (4)  The total of the amounts of the levy that are payable under subsection 9(1A) in respect of leviable disposals of a particular chemical product during those 6 months is not to exceed $12,500.
 
@@ -436,7 +438,7 @@ Disposals during the first 6 months of 2004
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 10 in respect of leviable disposals of a particular chemical product during the financial year beginning on 1 July 2004 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image005.gif)
 
              (2)  The total of the amounts of the levy that are payable under section 10 in respect of leviable disposals of a particular chemical product during that year is not to exceed $25,000.
 
@@ -454,7 +456,7 @@ Disposals during the first 6 months of 2004
 
              (1)  The amount of the levy that is payable under section 12B in respect of leviable disposals of a particular chemical product during a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00138/Html/c623dd19-97ae-493a-a8c3-4cee5ac9d28e_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image006.gif)
 
 where:
 
@@ -1252,7 +1254,7 @@ Schedule 1 (items 28, 30): <i>(e)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 44) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 44) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1617,7 +1619,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 42, 2005; No. 46, 2011</div>
+    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1873,7 +1875,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>rs. No. 42, 2005</div>
+    <div>rep. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2125,6 +2127,20 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 44  Subsection 3(1) (definition of _document_)
+
+Repeal the definition.
+
+As at 6 July 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2208,6 +2224,8 @@ _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
