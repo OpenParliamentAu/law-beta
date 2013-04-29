@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00159/Html/bcc2685e-a23e-49a6-a639-15fae99bc11b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00731/Html/f1672a40-0b15-4d71-b54b-98c3f495e43f_files/image001.gif)
 
 # Do Not Call Register Act 2006
 
 **Act No. 88 of 2006 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 8 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -601,7 +601,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
 Express references in this Act to organisations do not imply that references in this Act to persons do not include bodies politic or corporate.
 
-Note:          Subsection 2C(1) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
+Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
 
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
@@ -2668,7 +2668,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 547) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 547) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2830,7 +2830,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 8, 46 and 103, 2010; No. 46, 2011</div>
+    <div>am. Nos. 8, 46 and 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3106,6 +3106,20 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 547  Section 4 (note at the end of the definition of _organisation_)
+
+Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
+
+As at 8 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3201,6 +3215,8 @@ then:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
