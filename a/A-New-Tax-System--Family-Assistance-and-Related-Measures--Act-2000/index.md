@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image001.gif)
 
 # A New Tax System (Family Assistance and Related Measures) Act 2000
 
 **Act No. 45 of 2000 as amended** 
 
-This compilation was prepared on 24 October 2003
+This compilation was prepared on 13 May 2003
 
-**\[This Act was amended by Act No. 71 of 2001,  Act Nos. 30 and 101 of 2003]** 
+**\[This Act was amended by Act Nos. 71 of 2001 and 30 of 2003]** 
 
 **Amendment from Act No. 71 of 2001** 
 
@@ -14,68 +14,616 @@ This compilation was prepared on 24 October 2003
 
 Schedule 2 (item 1) commenced on 3 May 2000]
 
-**Amendment from Act No. 30 of 2003** 
+**Amendment from Act No. 30 of 2003**
 
 \[Schedule 2 (item 87) amended subsection 2(11)
 
 Schedule 2 (item 87) commenced on 3 May 2000]
 
-**Amendment from Act No. 101 of 2003**
-
-\[Schedule 6 (item 1) repealed Schedule 4 (items 30 and 31)
-
-Schedule 6 (item 1) commenced on 1 July 2000]
-
 Prepared by the Office of Legislative Drafting,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           2
 
-**Schedule 1—Amendment of the A New Tax System (Family Assistance) Act 1999** 
+**Schedule 1—Amendment of the A New Tax System (Family Assistance) Act 1999**
 
-Part 1—Amendments relating to family tax benefit and maternity immunisation allowance      2
+Part 1—Amendments relating to family tax benefit and maternity immunisation allowance      3
 
-Part 2—Amendments relating to child care benefit                                      2
+[22A](#22A).       Exceptions to the operation of section 22                                           4
 
-Part 3—Common provisions relating to family assistance                         2
+[25](#25).          Effect of FTB child being in individual’s care for less then 10% of a period          5
 
-**Schedule 2—Amendment of the A New Tax System (Family Assistance) (Administration) Act 1999** 
+[68](#68).          When the maternity immunisation allowance is shared                       8
 
-Part 1—Amendments relating to family tax benefit, maternity allowance and maternity immunisation allowance                                                                                                          2
+[14A](#14A).       Rate of rent assistance payable to individual who is a relevant shared carer           12
 
-Part 2—Amendments relating to child care benefit                                      2
+[16A](#16A).       Rent paid by a member of an illness separated, respite care or temporarily separated couple               13
 
-Part 3—Common provisions relating to family assistance                         2
+[19A](#19A).       Extended meaning of receiving maintenance income                          13
 
-**Schedule 3—Amendment of Social Security Law** 
+[19B](#19B).       Application of maintenance income test to certain pension and benefit recipients and their partners   13
 
-Social Security Act 1991                                                                                            2
+[20A](#20A).       Annualised amount of maintenance income                                       14
 
-Social Security (Administration) Act 1999                                                             2
+[21](#21).          Maintenance income of members of couple to be added                   18
 
-Social Security (International Agreements) Act 1999                                          2
+[25A](#25A).       Family tax benefit advance to individual                                           19
 
-**Schedule 4—Amendment of other Acts** 
+Part 2—Amendments relating to child care benefit                                            20
 
-A New Tax System (Bonuses for Older Australians) Act 1999                            2
+[10](#10).                                                                                                          23
 
-Child Support (Assessment) Act 1989                                                                      2
+10A    24
 
-Health Insurance Act 1973                                                                                        2
+    **Division 4—Eligibility for child care benefit**
 
-Income Tax Assessment Act 1936                                                                              2
+[41](#41).          Overview of Division                                                                        25
 
-Medicare Levy Act 1986                                                                                             2
+        **Subdivision A—Eligibility of an individual for child care benefit by fee reduction for care provided by an approved child care service**
+
+[42](#42).                                                                               26
+
+[43](#43).                                                                                                          27
+
+        **Subdivision B—Eligibility of an individual for child care benefit for a past period for care provided by an approved child care service**
+
+[44](#44).                                                                                               28
+
+        **Subdivision C—Eligibility of an individual for child care benefit for a past period for care provided by a registered carer** 
+
+45        29
+
+        **Subdivision D—Eligibility of an individual for child care benefit by single payment/in substitution because of the death of another individual** 
+
+46                31
+
+        **Subdivision E—Eligibility of an approved child care service for child care benefit by fee reduction for care provided by the service to a child at risk**
+
+[47](#47).                                                                                                          32
+
+        **Subdivision F—Limitations on conditional eligibility or eligibility for child care benefit for care provided by an approved child care service or a registered carer that do not relate to hours**
+
+[48](#48).                                                 33
+
+[49](#49).                                                                                34
+
+[50](#50).          Person not eligible for child care benefit while an approved child care service’s approval is suspended                34
+
+[51](#51).          Approved child care service not eligible for care provided to a child at risk if Minister so determines  35
+
+        **Subdivision G—Limitations on eligibility for child care benefit for care provided by an approved child care service relating to hours**
+
+[52](#52).          Limit on eligibility for child care benefit relating to hours                 35
+
+[53](#53).          Weekly limit of hours                                                                        37
+
+[54](#54).          Circumstances when a limit of 50 hours applies                               38
+
+[55](#55).          Circumstances when a limit of more than 50 hours applies              42
+
+[56](#56).          Circumstances when 24 hour care limit applies                                45
+
+[57](#57).                                        48
+
+[57A](#57A).       Minister to determine which hours in sessions of care are to count towards the limits          49
+
+[57B](#57B).       Minister may determine rules                                                            50
+
+[57C](#57C).       Certificates to be given and decisions and determinations to be made in accordance with rules             50
+
+[57D](#57D).                          50
+
+[57E](#57E).                                                       51
+
+    **Division 4—Child care benefit** 
+
+        **Subdivision A—Overview of Division**
+
+[69](#69).          Overview of Division                                                                        52
+
+        **Subdivision B—General provisions relating to rate of fee reductions and child care benefit for care provided by an approved child care service**
+
+[70](#70).                   53
+
+71         53
+
+[72](#72).                                                                                        53
+
+[73](#73).          Rate of fee reductions or child care benefit—individual conditionally eligible or eligible under section 43             54
+
+[74](#74).          Rate of child care benefit—individual eligible under section 44        55
+
+[75](#75).          Rate of child care benefit—approved child care service if child at risk 56
+
+        **Subdivision C—Rate of fee reductions and child care benefit if care provided by an approved child care service and child is at risk or individual is in hardship**
+
+[76](#76).          Fee reductions or child care benefit rate certified by an approved child care service              56
+
+[77](#77).          Limitation on service giving certificates for child at risk—13 weeks only              57
+
+[78](#78).          Limitation on service giving certificates for individual in hardship—13 weeks only              58
+
+[79](#79).          Limitation on service giving certificates—reporting period limit      58
+
+[80](#80).          Limitation on service giving certificates for individuals on grounds of hardship—Secretary imposes limit           59
+
+81 60
+
+[82](#82).          Certificate and determination to be made according to rules             63
+
+        **Subdivision D—Care provided by registered carer**
+
+[83](#83).          Rate of child care benefit for care provided by registered carer         64
+
+[84](#84).          Weekly limit on child care benefit for care provided by a registered carer              64
+
+    **Division 5—Indexation**
+
+[85](#85).          Indexation of amounts used in rate calculations                                65
+
+Part 3—Common provisions relating to family assistance                               69
+
+[3A](#3A).         An individual may be in the care of 2 or more other individuals at the same time  70
+
+[3A](#3A).         Working out adjusted taxable income in certain cases where individuals cease to be members of a couple            71
+
+**Schedule 2—Amendment of the A New Tax System (Family Assistance) (Administration) Act 1999**
+
+Part 1—Amendments relating to family tax benefit, maternity allowance and maternity immunisation allowance                                                                                                                              74
+
+[7A](#7A).         Bank account details or statement to be provided for claims for family tax benefit by instalment to be effective 74
+
+[8A](#8A).                                                                                            75
+
+[15](#15).          Restriction on determining claim where tax file number not provided etc               78
+
+[15A](#15A).       Restriction on determining claim where bank account details not provided            79
+
+[25A](#25A).       Secretary’s power to approve a manner of notification                    82
+
+[26A](#26A).       Secretary’s power to require bank account details                            82
+
+[27A](#27A).       Variation of instalment entitlement determination where failure to provide bank account details          84
+
+[28A](#28A).               85
+
+[28B](#28B).                  86
+
+[31A](#31A).       Variation of instalment entitlement determination to reflect revised adjusted taxable income estimates                89
+
+[31B](#31B).       Variation of instalment entitlement determination to reflect revised maintenance income estimates      91
+
+Part 2—Amendments relating to child care benefit                                            93
+
+    **Division 4—Child care benefit** 
+
+        **Subdivision A—Overview of process of fee reductions**
+
+[48](#48).          Overview of process if individual is conditionally eligible for child care benefit by fee reductions        95
+
+        **Subdivision B—Making claims**
+
+[49](#49).          Need for a claim                                                                                 96
+
+[49A](#49A).       Who can make a claim                                                                        97
+
+[49B](#49B).       What may be claimed by an individual                                              97
+
+[49C](#49C).       Form etc  of effective claim by individual                                         97
+
+[49D](#49D).       Deemed claim under subsection 49(2) effective in certain circumstances                99
+
+49E 100
+
+49F                102
+
+[49G](#49G).       Bank account details or statement to be provided for claims by individuals for child care benefit to be effective 104
+
+[49H](#49H).       Restrictions on claims by an individual for payment of child care benefit by fee reduction   105
+
+[49J](#49J).        Restrictions on claim by individual for payment of child care benefit for past period for care provided by an approved child care service                                                                              106
+
+[49K](#49K).       Restrictions on claim by individual for payment of child care benefit for past period for care provided by a registered carer                                                                                                 108
+
+[49L](#49L).        Restrictions on claim by individual for payment of child care benefit by single payment/in substitution because of the death of another individual                                                              109
+
+[49M](#49M).      Restriction on claim by an approved child care service for payment of child care benefit by fee reduction for care provided by the service to a child at risk                                         111
+
+[49N](#49N).       Claims may be withdrawn or varied                                                111
+
+        **Subdivision C—Determinations to be made on claim if individual claims payment of child care benefit by fee reduction**
+
+[50](#50).          Determinations on effective claim                                                   112
+
+[50A](#50A).       Secretary must make determinations                                               112
+
+[50B](#50B).       Determination of conditional eligibility or no entitlement to be made 113
+
+[50C](#50C).       Other determinations to be made if determination of conditional eligibility is made               113
+
+[50D](#50D).       Restriction on when determinations under section 50F or 50G can be made          114
+
+[50E](#50E).        Restriction on determination under section 50F or 50G if bank account details not provided               115
+
+[50F](#50F).        Determination of conditional eligibility                                           116
+
+[50G](#50G).       Determination that no entitlement                                                   116
+
+[50H](#50H).       Determination of weekly limit of hours                                          116
+
+[50J](#50J).        Determination of CCB %                                                                117
+
+[50K](#50K).       Determination of schooling %                                                         117
+
+[50L](#50L).        When determinations are in force                                                    117
+
+[50M](#50M).      Notice of determinations if claimant conditionally eligible              119
+
+[50N](#50N).       When determination of no entitlement is in force                            120
+
+[50P](#50P).        Notice of determination of no entitlement                                       120
+
+        **Subdivision D—Determination of entitlement if individual determined to be conditionally eligible for child care benefit by fee reduction**
+
+[51](#51).          Determination to be made if determination of conditional eligibility in force          120
+
+[51A](#51A).       Secretary must determine entitlement                                             121
+
+[51B](#51B).       Determination of entitlement                                                           121
+
+[51C](#51C).       Determination that no entitlement                                                   121
+
+[51D](#51D).       When determination is in force                                                        122
+
+[51E](#51E).        Notice of determination                                                                   122
+
+        **Subdivision E—Determination of entitlement if individual claims payment of child care benefit for a past period**
+
+[52](#52).          Determination on effective claim                                                     123
+
+[52A](#52A).       Secretary must determine claim                                                       123
+
+[52B](#52B).       Restriction on determining claim where bank account details not provided            123
+
+[52C](#52C).       Restriction on determining claim where tax file number not provided etc               124
+
+[52D](#52D).       Restriction on determining claim for care provided by an approved child care service where tax assessment not made                                                                                                         124
+
+[52E](#52E).        Determination of entitlement—claim for care provided by an approved child care service    125
+
+[52F](#52F).        Determination of entitlement—claim for care provided by a registered carer         125
+
+[52G](#52G).       Determination that no entitlement                                                   125
+
+[52H](#52H).       When a determination is in force                                                     125
+
+[52J](#52J).        Notice of determination                                                                   126
+
+        **Subdivision F—Determination of entitlement if individual claims payment of child care benefit by single payment/in substitution**
+
+[53](#53).          Determination on effective claim                                                     127
+
+[53A](#53A).       Secretary must determine claim                                                       127
+
+[53B](#53B).       Restriction on determining claim where bank account details not provided            127
+
+[53C](#53C).       Restriction on determining claim where tax file number not provided etc               128
+
+[53D](#53D).       Determination of entitlement                                                           128
+
+[53E](#53E).        Determination that no entitlement                                                   128
+
+[53F](#53F).        When a determination is in force                                                     129
+
+[53G](#53G).       Notice of determination                                                                   130
+
+        **Subdivision G—Determination of entitlement if claim by approved child care service for payment of child care benefit by fee reduction for care provided by the service to a child at risk**
+
+[54](#54).          Determination on effective claim                                                     130
+
+[54A](#54A).       Secretary must determine claim                                                       130
+
+[54B](#54B).       Determination of entitlement                                                           131
+
+[54C](#54C).       Determination of weekly limit of hours                                          131
+
+[54D](#54D).       Notice of determination                                                                   132
+
+        **Subdivision H—Matters relating to determinations**
+
+[55](#55).          Determination of CCB % under section 50J may be based on estimate  133
+
+[55A](#55A).       Determination of rate under Subdivision F may be based on estimate 133
+
+[55B](#55B).       CCB % applicable to individual when certain other information not provided       134
+
+[55C](#55C).       CCB % applicable to individual when tax file number information not given         135
+
+[55D](#55D).       Schooling % applicable to individual when certain information not provided         135
+
+        **Subdivision J—Payment**
+
+[56](#56).          Payment in respect of claim for child care benefit by fee reduction if claim by individual     136
+
+[56A](#56A).       Payment of child care benefit for a past period and by single payment/in substitution         136
+
+[56B](#56B).       Payment of child care benefit by fee reduction where claim by an approved child care service             137
+
+        **Subdivision K—Obligations to notify change of circumstances**
+
+[56C](#56C).       Individual’s obligation to notify change of circumstances               138
+
+[56D](#56D).       Approved child care service’s obligation to notify of change of circumstances      142
+
+        **Subdivision L—Secretary’s powers**
+
+[57](#57).          Secretary’s power to approve a manner of notification for the purposes of sections 56C and 56D      145
+
+[57A](#57A).       Secretary’s power to require bank account details                          145
+
+[57B](#57B).       Secretary’s powers to request in claim form tax file number etc  of TFN claim persons        145
+
+[57C](#57C).       Secretary’s power to request tax file numbers etc  of certain TFN claim persons  147
+
+[57D](#57D).       Secretary’s power to request tax file numbers of TFN determination persons       148
+
+[57E](#57E).        Secretary’s power to require immunisation details                         149
+
+[57F](#57F).        Secretary’s power to require data verification information             149
+
+        **Subdivision M—Variations of determinations if failure to provide tax file numbers or bank account details or to meet the immunisation requirement**
+
+[58](#58).          Variation where failure to provide tax file number                          150
+
+[58A](#58A).       Variation where failure to comply with request for bank account details               152
+
+[58B](#58B).       Variation where failure to comply with requirement to meet immunisation requirement       153
+
+        **Subdivision N—Variations of determinations if failure to provide data verification**
+
+[59](#59).          Variation for failure to return the data verification form                 154
+
+[59A](#59A).       Variation for failure to provide information in the data verification form relating to the name and address of the approved child care service                                                              154
+
+[59B](#59B).       Variation for failure to provide information in the data verification form relating to conditional eligibility            155
+
+[59C](#59C).       Variation for failure to provide information in the data verification form relating to schooling %          155
+
+[59D](#59D).       Variation for failure to provide information in the data verification form relating to CCB % 156
+
+[59E](#59E).        Variation where information in the data verification form relating to CCB % affects the CCB %          157
+
+[59F](#59F).        Variation for failure to provide information in the data verification form relating to weekly limit of hours           158
+
+        **Subdivision P—Other variations of determinations relating to  CCB %**
+
+[60](#60).          Variation where entitlement determination for child care benefit for a past period uses minimum taxable income % and claimant gives certain information so that entitlement is recalculated 159
+
+[60A](#60A).       Variation where entitlement determination for child care benefit by single payment/in substitution uses minimum taxable income % and claimant gives certain information so that entitlement is recalculated  160
+
+[60B](#60B).       Variation where minimum taxable income % used under section 55, 55B or 55C as the taxable income % and claimant gives certain information so that CCB % is recalculated                 161
+
+[60C](#60C).       Variation where CCB % calculated under Schedule 2 to Family Assistance Act and Secretary receives information from Commissioner of Taxation                                                               162
+
+[60D](#60D).       Variation where income tax return not lodged                                 163
+
+[60E](#60E).        Variation where estimate of an amount given other than in response to a request by the Secretary is not reasonable                                                                                                         164
+
+        **Subdivision Q—Variation of determinations relating to conditional eligibility and schooling %**
+
+[61](#61).          Variation where schooling % is 85% under section 55D and information about whether the child is a school child provided                                                                                           165
+
+[61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child             166
+
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
+
+[62](#62).          Variation where failure to provide information relevant to conditional eligibility   166
+
+[62A](#62A).       Variation where failure to provide information relevant to CCB % 167
+
+[62B](#62B).       Variation where failure to provide information relevant to schooling % 168
+
+[62C](#62C).       Variation where failure to provide information relevant to a weekly limit of hours                169
+
+        **Subdivision S—Further variations after certain variations that can be undone**
+
+[62D](#62D).       Secretary finds out information after undoing period is over          170
+
+        **Subdivision T—Notice requirement for variations under Subdivision M, N, P, Q, R or S**
+
+[63](#63).          Notice of variation of determinations under Subdivision M, N, P, Q, R or S         170
+
+        **Subdivision U—Variations of determinations of weekly limit of hours because of a circumstance in section 54, 55 or 56 of the Family Assistance Act**
+
+[64](#64).          Determination of weekly limit of hours may be varied                   171
+
+[64A](#64A).       Varying determination so that a limit of 50 hours in a week applies 171
+
+[64B](#64B).       Varying determination so that a limit of more than 50 hours in a week applies      172
+
+[64C](#64C).       Varying determination so that a 24 hour care limit in a week applies 174
+
+[64D](#64D).       Varying determination so that a limit of 20 hours in a week applies 175
+
+[64E](#64E).        Notice of variation of determination under this Subdivision           175
+
+[64F](#64F).        Form of application                                                                         176
+
+        **Subdivision V—Variations of determinations for changes in circumstances**
+
+[65](#65).          Variation of determination of conditional eligibility to reflect changes in conditional eligibility             176
+
+[65A](#65A).       Variation of determination of CCB % to reflect changes in CCB % 177
+
+[65B](#65B).       Variation of determination of CCB % to reflect revised adjusted taxable income estimates   179
+
+[65C](#65C).       Variation of determination of schooling % to reflect changes in schooling %          180
+
+[65D](#65D).       Variation of determination of a weekly limit of hours to reflect changes in weekly limit of hours         181
+
+[65E](#65E).        Notice of variation under this Subdivision                                      182
+
+**Part 8A—Obligations of, and advances to, approved child care services** 
+
+    **Division 1—Obligations of approved child care services**
+
+[219A](#219A).     Obligation to act on notices received or certificates given               183
+
+[219B](#219B).     Obligation to reduce fees of individuals when approved child care service is eligible for child care benefit            188
+
+[219C](#219C).     Obligation to pass on further fee reductions to individuals if notice of service’s entitlement shows entitlement is greater than the fee reductions originally passed on                        189
+
+[219D](#219D).     Obligation if the service receives notice that the service’s approval has been suspended or cancelled   190
+
+[219E](#219E).      Obligation to provide receipts                                                         191
+
+[219F](#219F).      Obligation to keep records                                                               191
+
+[219G](#219G).     Former approved child care service to keep records                       192
+
+[219H](#219H).     Appointment of authorised officers                                                193
+
+[219J](#219J).      Identity cards                                                                                   193
+
+[219K](#219K).     Power to enter premises to inspect records                                    193
+
+[219L](#219L).      Occupier to provide authorised officer with access to records and assistance        194
+
+[219M](#219M).    Obligation to notify Secretary if operator intends to stop operating an approved child care service     195
+
+[219N](#219N).     Obligation to give reports to Secretary                                            195
+
+[219P](#219P).      Former operator of an approved child care service to report          197
+
+    **Division 2—Advances to approved child care services**
+
+[219Q](#219Q).     Secretary may determine advances to be paid to approved child care services       198
+
+[219R](#219R).     Payment of advances                                                                       199
+
+[219S](#219S).      Acquittal of advances paid to approved child care services            199
+
+[219T](#219T).     Notice of determinations to pay and acquit advances                     200
+
+Part 3—Common provisions relating to family assistance                             202
+
+[69](#69).          Special provisions relating to approved child care services             206
+
+71            206
+
+[71A](#71A).       Debts arising in respect of family tax benefit advances                   207
+
+[71B](#71B).       Debts arising in respect of fee reductions or child care benefit where no entitlement             207
+
+[71CDebts arising in respect of child care benefit where overpayment](#71CDebts arising in respect of child care benefit where overpayment). 208
+
+[71DDebt arising in respect of child care benefit where false or misleading statement by individual—debt owed by individual](#71DDebt arising in respect of child care benefit where false or misleading statement by individual—debt owed by individual).                                                                                        208
+
+[71E](#71E).        Debt arising in respect of child care benefit when false or misleading statement etc  by service—debt owed by service                                                                                                         209
+
+[71F](#71F).        Debts arising under more than one provision                                  212
+
+[71G](#71G).       Debts arising in respect of child care benefit where advance paid to service—debt owed by service     213
+
+[71H](#71H).       Debts arising where reporting period limit is exceeded—debt owed by service      214
+
+[82](#82).          Methods of recovery                                                                       214
+
+[84](#84).          Deductions from debtor’s family tax benefit                                   215
+
+[84A](#84A).             216
+
+[87A](#87A).       Setting off debts of an approved child care service against advances to be paid to the service               217
+
+[92](#92).          Deduction by consent from a person’s family tax benefit to meet another person’s debt      219
+
+[92A](#92A).       Setting off arrears of family assistance of person against another person’s debt    219
+
+    **Division 1—Internal review** 
+
+        **Subdivision A—Review initiated by the Secretary**
+
+104 221
+
+[105](#105).        Secretary may review certain decisions on own initiative               222
+
+[106](#106).                                             223
+
+[107](#107).        Date of effect of certain decisions made under section 105             226
+
+        **Subdivision B—Review initiated by the applicant**
+
+[108](#108).        Decisions that may be reviewed under section 109A                      228
+
+[109](#109).        Persons affected by certain child support decisions                       230
+
+[109A](#109A).     Review of certain decisions may be initiated by applicant             231
+
+[109B](#109B).     Notice to be given of decisions under section 109A                        232
+
+[109C](#109C).                                                             233
+
+[109D](#109D).     Review applications—time limits applicable to review of certain decisions           234
+
+[109E](#109E).      Date of effect of certain decisions relating to payment of family tax benefit by instalment   237
+
+[109F](#109F).                                                 238
+
+109G 239
+
+[109H](#109H).                                          240
+
+[111A](#111A).     Review applications—time limits applicable to review by the SSAT of certain decisions     242
+
+[111B](#111B).     Date of effect of certain SSAT decisions relating to payment of family tax benefit by instalment        242
+
+[141A](#141A).     Notice by Secretary of SSAT decision relating to a determination of conditional eligibility for child care benefit by fee reduction etc                                                                                    246
+
+[154A](#154A).     Use of tax file numbers                                                                    249
+
+[175A](#175A).     Knowingly obtaining fee reductions where no conditional eligibility or eligibility  251
+
+[176](#176).        Payment or fee reductions knowingly obtained by fraud                252
+
+**Schedule 3—Amendment of Social Security Law**
+
+Social Security Act 1991                                                                                        254
+
+[127](#127).        Seasonal work carried out in what would have been a seasonal work non-benefit period extending beyond 30 June 2000                                                                                                         256
+
+Social Security (Administration) Act 1999                                                        256
+
+[136](#136).        Notice of decision on review                                                           259
+
+Social Security (International Agreements) Act 1999                                     260
+
+[14A](#14A).       Additional child amounts                                                                 261
+
+**Schedule 4—Amendment of other Acts**
+
+A New Tax System (Bonuses for Older Australians) Act 1999                        262
+
+[19](#19).          Application of social security law                                                   262
+
+Child Support (Assessment) Act 1989                                                                 263
+
+Health Insurance Act 1973                                                                                    264
+
+Income Tax Assessment Act 1936                                                                          265
+
+Medicare Levy Act 1986                                                                                         271
 
 **Schedule 5—Transitional and saving provisions associated with the establishment of a scheme for the payment of family tax benefit, maternity allowance and maternity immunisation allowance** 
 
-**Schedule 6—Transitional provisions associated with the establishment of a scheme for the payment of child care benefit** 
+**Schedule 6—Transitional provisions associated with the establishment of a scheme for the payment of child care benefit**
+
+#  
 
 ## An Act to amend legislation providing for assistance to families, and for related purposes
 
@@ -115,9 +663,9 @@ _\[Assented to 3 May 2000]_
 
 2C
 
-###### Schedule 1—Amendment of the A New Tax System (Family Assistance) Act 1999
+# Schedule 1—Amendment of the A New Tax System (Family Assistance) Act 1999
 
-<h7 class="ActHead7">Part 1—Amendments relating to family tax benefit and maternity immunisation allowance</h7>
+Part 1—Amendments relating to family tax benefit and maternity immunisation allowance
 
 ## 1  Paragraph 21(1)(b)
 
@@ -190,9 +738,9 @@ Exceptions
     <div>5 or more and less than 16</div>
   </td>
   <td>
-    <div>(a) the individual is not undertaking full‑time study and the individual
+    <div>(a) the individual is not undertaking full-time study and the individual
       has adjusted taxable income, for the income year in which the particular
-      time occurs, that equals or exceeds the cut‑out amount (see subsection
+      time occurs, that equals or exceeds the cut-out amount (see subsection
       (2)); or</div>
     <div>(b) the adult is the individual’s partner.</div>
   </td>
@@ -206,7 +754,7 @@ Exceptions
   </td>
   <td>
     <div>(a) the individual has adjusted taxable income, for the income year in
-      which the particular time occurs, that equals or exceeds the cut‑out amount
+      which the particular time occurs, that equals or exceeds the cut-out amount
       (see subsection (2)); or</div>
     <div>(b) the adult is the individual’s partner; or</div>
     <div>(c) the individual, or someone on behalf of the individual, is, at the
@@ -233,7 +781,7 @@ Definition
 
              (2)  In subsection (1):
 
-                    <a name="cut-amount"></a>**_cut‑out amount_** means the sum of:
+                    <a name="cut-amount"></a>**_cut-out amount_** means the sum of:
 
                      (a)  the amount specified in column 2 of item 2 of the table in clause 30 of Schedule 1 divided by 0.3; and
 
@@ -263,9 +811,9 @@ Repeal the section, substitute:
 
                      (b)  one of those other individuals makes, or has made, a claim under Part 3 of the _A New Tax System (Family Assistance) (Administration) Act 1999_ for payment of family tax benefit in respect of the child for some or all of the days in that period; and
 
-                     (c)  the Secretary is satisfied that the child was, or will be, in the care of that last‑mentioned individual for less than 10% of that period;
+                     (c)  the Secretary is satisfied that the child was, or will be, in the care of that last-mentioned individual for less than 10% of that period;
 
-the child is to be taken, despite that subsection, not to be an FTB child of that last‑mentioned individual for any part of that period.
+the child is to be taken, despite that subsection, not to be an FTB child of that last-mentioned individual for any part of that period.
 
              (2)  For the purposes of this section, a child cannot be in the care of more than one of the other individuals referred to in subsection (1) on any particular day.
 
@@ -293,7 +841,7 @@ Omit “the subject amount”, substitute “that much of the subject amount”.
 
 ## 14  Subsection 33(2)
 
-Omit “the subject amount and no‑one else is, or can become, eligible for or entitled to be paid that amount”, substitute “that much of the subject amount and no‑one else is, or can become, eligible for or entitled to be paid any of the subject amount”.
+Omit “the subject amount and no-one else is, or can become, eligible for or entitled to be paid that amount”, substitute “that much of the subject amount and no-one else is, or can become, eligible for or entitled to be paid any of the subject amount”.
 
 ## 15  Subsection 35(1) (table items 2 and 3)
 
@@ -315,7 +863,7 @@ Repeal the items, substitute:
   </td>
   <td>
     <div>(a) the individual has adjusted taxable income, for the income year in
-      which the particular time occurs, that equals or exceeds the cut‑out amount
+      which the particular time occurs, that equals or exceeds the cut-out amount
       (see subsection (3)); or</div>
     <div>(b) the individual, or someone on behalf of the individual, is, at the
       particular time, receiving payments under a prescribed educational scheme.</div>
@@ -394,7 +942,7 @@ Repeal the paragraph, substitute:
 
                      (b)  the individual’s claim for family tax benefit is not a claim to which subclause (2) applies; and
 
-                   (ba)  neither the individual nor the individual’s partner is receiving payments of incentive allowance under clause 36 of Schedule 1A to the _Social Security Act 1991_; and
+                    (ba)  neither the individual nor the individual’s partner is receiving payments of incentive allowance under clause 36 of Schedule 1A to the _Social Security Act 1991_; and
 
 ## 26  Paragraph 13(1)(f) of Schedule 1
 
@@ -520,7 +1068,7 @@ Repeal the table, substitute:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div> <img width="181" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image002.gif"> </div>
+    <div><sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image002.gif"> </sub></div>
   </td>
   <td>
     <div>$2,310.45</div>
@@ -537,7 +1085,7 @@ Repeal the table, substitute:
     <div>Member of a couple other than a person who is partnered (partner in gaol) or a member of an illness separated couple, a respite care couple or a temporarily separated couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="183" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image003.gif"> </span> </div>
+    <div> <sub> <img width="174" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image003.gif"> </sub> </div>
   </td>
   <td>
     <div>$2,310.45</div>
@@ -554,7 +1102,7 @@ Repeal the table, substitute:
     <div>Person who is partnered (partner in gaol) or a member of an illness separated couple or a respite care couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="183" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image004.gif"> </span> </div>
+    <div> <sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image004.gif"> </sub> </div>
   </td>
   <td>
     <div>$2,310.45</div>
@@ -571,7 +1119,7 @@ Repeal the table, substitute:
     <div>Member of a temporarily separated couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="183" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image004.gif"> </span> </div>
+    <div> <sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image004.gif"> </sub> </div>
   </td>
   <td>
     <div>$2,310.45</div>
@@ -638,7 +1186,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div> <img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image005.gif"> </div>
+    <div><sub> <img width="174" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image005.gif"> </sub></div>
   </td>
   <td>
     <div>$1,981.95</div>
@@ -652,7 +1200,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Member of a couple other than a person who is partnered (partner in gaol) or a member of an illness separated couple, a respite care couple or a temporarily separated couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="181" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image006.gif"> </span> </div>
+    <div> <sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image006.gif"> </sub> </div>
   </td>
   <td>
     <div>$1,865.15</div>
@@ -666,7 +1214,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Person who is partnered (partner in gaol) or a member of an illness separated couple or a respite care couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="181" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image007.gif"> </span> </div>
+    <div> <sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image007.gif"> </sub> </div>
   </td>
   <td>
     <div>$1,981.95</div>
@@ -680,7 +1228,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Member of a temporarily separated couple</div>
   </td>
   <td>
-    <div> <span style="position:relative; top:16.0pt"> <img width="181" height="55" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image007.gif"> </span> </div>
+    <div> <sub> <img width="175" height="60" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image007.gif"> </sub> </div>
   </td>
   <td>
     <div>$1,865.15</div>
@@ -751,7 +1299,7 @@ Annualisation of maintenance income other than CMI
 
              (2)  If an individual receives maintenance income (other than CMI) from another individual during any period or periods (the **_relevant period or periods_**) in an income year, the annualised amount of the maintenance income of the individual is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image008.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image008.gif)</sub>
 
 Commencement of relevant period
 
@@ -867,7 +1415,7 @@ Insert:
 
           (2A)  For the capitalisation period in an income year, the annualised amount of an individual’s capitalised maintenance income is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image009.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image009.gif)</sub>
 
 ## 39  Clause 25 of Schedule 1
 
@@ -885,7 +1433,7 @@ _Step 3._   The individual’s Part A rate is:
 
                (a)     the individual’s provisional Part A rate if that rate is equal to or greater than the rate that would be the individual’s income and maintenance tested rate under step 3 of the method statement in clause 3 if the individual’s Part A rate were to be calculated using Part 2; or
 
-              (b)     the rate that would the individual’s income and maintenance tested rate as so calculated if it is greater than the individual’s provisional Part A rate.
+               (b)     the rate that would the individual’s income and maintenance tested rate as so calculated if it is greater than the individual’s provisional Part A rate.
 
 * * *
 
@@ -901,7 +1449,7 @@ Insert:
 
              (3)  In subclause (2), the reference to the individual’s Part A rate includes a reference to a nil rate.
 
-<h7 class="ActHead7">Part 2—Amendments relating to child care benefit</h7>
+Part 2—Amendments relating to child care benefit
 
 ## 42  Subsection 3(1)
 
@@ -1023,9 +1571,9 @@ Absence from all of a session
 
                               (i)  the absence is due to the illness of the child, the individual in whose care the child is, that individual’s partner, or another individual with whom the child lives and a medical certificate covering that illness is obtained from a medical practitioner and given to the service;
 
-                             (ii)  the absence is due to the child’s attendance at a pre‑school;
+                             (ii)  the absence is due to the child’s attendance at a pre-school;
 
-                            (iii)  the absence is due to alternative care arrangements being made for the child because the child does not have to be at school on a pupil‑free day;
+                            (iii)  the absence is due to alternative care arrangements being made for the child because the child does not have to be at school on a pupil-free day;
 
                             (iv)  the absence occurs in circumstances specified in a determination under subsection 11(1) as permitted circumstances for the purpose of this subparagraph;
 
@@ -1117,7 +1665,7 @@ Eligibility of an approved child care service for child care benefit
 
                               (i)  the child meets the immunisation requirements set out in section 6; or
 
-                             (ii)  a pre‑notice period is operating in respect of the individual and the child (see subsection (3)); or
+                             (ii)  a pre-notice period is operating in respect of the individual and the child (see subsection (3)); or
 
                             (iii)  a 63 day notice period is operating in respect of the individual and the child (see section 57E of the Family Assistance Administration Act).
 
@@ -1125,7 +1673,7 @@ Secretary may determine that child is an FTB child
 
              (2)  The Secretary may determine that a child who is not an FTB child of an individual at a particular time is taken to be an FTB child of the individual at that time for the purposes of paragraph (1)(a).
 
-             (3)  In subparagraph (1)(c)(ii), the reference to a **_pre‑notice period_** is a reference to the period of time that ends on the day before a 63 day notice period begins to operate in respect of the individual and the child.
+             (3)  In subparagraph (1)(c)(ii), the reference to a **_pre-notice period_** is a reference to the period of time that ends on the day before a 63 day notice period begins to operate in respect of the individual and the child.
 
 Section subject to Subdivision F
 
@@ -1247,7 +1795,7 @@ If deceased eligible for child care benefit
 
                      (e)  the Secretary considers that the other individual ought to be eligible for that much of the subject amount;
 
-the other individual is eligible for that much of the subject amount and no‑one else is, or can become, eligible for or entitled to be paid any of the subject amount.
+the other individual is eligible for that much of the subject amount and no-one else is, or can become, eligible for or entitled to be paid any of the subject amount.
 
 If deceased conditionally eligible for child care benefit by fee reduction
 
@@ -1263,7 +1811,7 @@ If deceased conditionally eligible for child care benefit by fee reduction
 
                      (e)  the Secretary considers that the other individual ought to be eligible for the amount;
 
-the other individual is eligible for the amount and no‑one else is, or can become, eligible for or entitled to be paid that amount.
+the other individual is eligible for the amount and no-one else is, or can become, eligible for or entitled to be paid that amount.
 
 #### Subdivision E—Eligibility of an approved child care service for child care benefit by fee reduction for care provided by the service to a child at risk
 
@@ -1315,7 +1863,7 @@ Child welfare law
 
 Exempt class of children
 
-             (3)  The Minister may determine that children included in a specified class are children in respect of whom no‑one is eligible for child care benefit under this Division.
+             (3)  The Minister may determine that children included in a specified class are children in respect of whom no-one is eligible for child care benefit under this Division.
 
 Disallowable instrument
 
@@ -1757,7 +2305,7 @@ required by the Secretary.
 
                      (a)  the standard hourly rate set out in item 1 of the table in subclause 4(1) of Schedule 2 applies; and
 
-                     (b)  a part‑time % is 100% under subclause 2(2) of Schedule 2.
+                     (b)  a part-time % is 100% under subclause 2(2) of Schedule 2.
 
 ##### <a id="57B"></a>57B  Minister may determine rules
 
@@ -2143,7 +2691,7 @@ Content of notice
 
              (1)  The hourly rate of child care benefit for care provided to a child by a registered carer is an amount per hour worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image010.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image010.gif)</sub>
 
 where:
 
@@ -2161,9 +2709,9 @@ Section 84 imposes a limit on the amount of child care benefit that may be paid 
 
 ##### <a id="84"></a>84  Weekly limit on child care benefit for care provided by a registered carer
 
-                   The total amount of child care benefit for care provided to a child by a registered carer or carers in a week is not to exceed:
+                   The total amount of child care benefit for care provided to a child by a registered carer or carers in a week is not to exceed:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image011.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image011.gif)</sub>
 
 ### Division 5—Indexation
 
@@ -2171,11 +2719,11 @@ Section 84 imposes a limit on the amount of child care benefit that may be paid 
 
                    Schedule 4 provides for the indexation of certain amounts used in working out rates of family assistance.
 
-## 56  Subclause 2(2) of Schedule 2 (definition of _part‑time %_)
+## 56  Subclause 2(2) of Schedule 2 (definition of _part-time %_)
 
 Repeal the definition, substitute:
 
-                    <a name="part-time"></a>**_part‑time %_** is:
+                    <a name="part-time"></a>**_part-time %_** is:
 
                      (a)  if:
 
@@ -2237,7 +2785,7 @@ _Step 8._   The individual’s **_taxable income %_** is:
 
                (a)     the individual’s provisional taxable income % if it is equal to or greater than the individual’s minimum taxable income %; or
 
-              (b)     the individual’s minimum taxable income % if it is greater than the individual’s provisional taxable income %.
+               (b)     the individual’s minimum taxable income % if it is greater than the individual’s provisional taxable income %.
 
 * * *
 
@@ -2276,7 +2824,7 @@ Repeal the item, substitute:
     <div>no</div>
   </td>
   <td>
-    <div> <img width="233" height="52" src="http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image012.gif"> </div>
+    <div><sub> <img width="227" height="49" src="http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image012.gif"> </sub></div>
   </td>
 </tr></table>
 
@@ -2312,7 +2860,7 @@ Repeal the clause, substitute:
 
                    An individual’s **_minimum taxable income %_** is the percentage worked out in accordance with the following formula and rounded to 2 decimal places:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image013.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image013.gif)</sub>
 
 where:
 
@@ -2320,7 +2868,7 @@ where:
 
                     <a name="standard-hourli-rate"></a>**_standard hourly rate_** is the amount specified in item 1 of the table in subclause 4(1).
 
-<h7 class="ActHead7">Part 3—Common provisions relating to family assistance</h7>
+Part 3—Common provisions relating to family assistance
 
 ## 70  Subsection 3(1) (definition of _CPC rate_)
 
@@ -2388,7 +2936,7 @@ Add:
 
              (2)  If an individual dies before the end of a particular income year, the individual’s adjusted taxable income for that year is to be calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image014.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image014.gif)</sub>
 
 where:
 
@@ -2534,9 +3082,9 @@ Insert:
 
 After “clause 14”, insert “or 14A”.
 
-###### Schedule 2—Amendment of the A New Tax System (Family Assistance) (Administration) Act 1999
+# Schedule 2—Amendment of the A New Tax System (Family Assistance) (Administration) Act 1999
 
-<h7 class="ActHead7">Part 1—Amendments relating to family tax benefit, maternity allowance and maternity immunisation allowance</h7>
+Part 1—Amendments relating to family tax benefit, maternity allowance and maternity immunisation allowance
 
 ## 1  Subsection 3(1) (definition of _instalment period_)
 
@@ -2838,7 +3386,7 @@ Repeal the paragraph, substitute:
 
 _Note:       The heading to subsection 27(4) is replaced by the heading “Statement made by TFN determination person under subsection 26(4)”._
 
-## 32  After subsection 27(4)
+## 32  After subsection 27(4)
 
 Insert:
 
@@ -2880,7 +3428,7 @@ Insert:
 
 ##### <a id="27A"></a>27A  Variation of instalment entitlement determination where failure to provide bank account details
 
-Non‑compliance with requirement
+Non-compliance with requirement
 
              (1)  If:
 
@@ -3084,7 +3632,7 @@ the Secretary must vary the determination so that the claimant’s rate of famil
 
                              (ii)  if the first day of the income year to which the revised estimate relates occurs after the day identified in subparagraph (i) and subparagraph (iii) does not apply—from that first day; or
 
-                            (iii)  if the day after the end of the last instalment period before the variation takes place occurs after the days identified in subparagraphs (i) and (ii)—from the day first‑mentioned in this subparagraph.
+                            (iii)  if the day after the end of the last instalment period before the variation takes place occurs after the days identified in subparagraphs (i) and (ii)—from the day first-mentioned in this subparagraph.
 
              (3)  If:
 
@@ -3134,7 +3682,7 @@ Repeal the subparagraph.
 
 Add:
 
-            ; and (d)  the individual is not an individual to whom subsection (1A) applies.
+             ; and (d)  the individual is not an individual to whom subsection (1A) applies.
 
 ## 47  After subsection 33(1)
 
@@ -3164,7 +3712,7 @@ Repeal the subsection.
 
 Omit “to 228 (which deal with other debts etc.)”, substitute “and 226 (which deal with tax debts)”.
 
-<h7 class="ActHead7">Part 2—Amendments relating to child care benefit</h7>
+Part 2—Amendments relating to child care benefit
 
 ## 53  Subsection 3(1)
 
@@ -3220,7 +3768,7 @@ Insert:
 
 Add:
 
-             (3)  For the purposes of this Act, the **_CPC rate_ (_combined pensioner couple rate_)** at a particular time is twice the amount that is, at that time, the maximum basic rate of age pension payable to a person under the _Social Security Act 1991_ in accordance with item 2 of Table B in point 1064‑B1 of Pension Rate Calculator A in section 1064 of that Act.
+             (3)  For the purposes of this Act, the **_CPC rate_ (_combined pensioner couple rate_)** at a particular time is twice the amount that is, at that time, the maximum basic rate of age pension payable to a person under the _Social Security Act 1991_ in accordance with item 2 of Table B in point 1064-B1 of Pension Rate Calculator A in section 1064 of that Act.
 
              (4)  A reference to a **_determination_** is a reference to a determination as originally made or, if the determination has been varied, as varied.
 
@@ -3994,7 +4542,7 @@ the claim is taken never to have been made.
 
 ##### <a id="52D"></a>52D  Restriction on determining claim for care provided by an approved child care service where tax assessment not made
 
-                   If:
+                   If:
 
                      (a)  the claim is one for payment of child care benefit for a past period for care provided by an approved child care service; and
 
@@ -4110,7 +4658,7 @@ the claim is taken never to have been made.
 
                    If the Secretary is satisfied that the claimant is eligible for child care benefit under section 46 of the Family Assistance Act in respect of the child, the Secretary must determine that the claimant is entitled to be paid child care benefit by single payment/in substitution because of the death of another individual in respect of the child for the amount the Secretary considers the claimant eligible.
 
-##### <a id="53E"></a>53E  Determination that no entitlement
+##### <a id="53E"></a>53E  Determination that no entitlement
 
                    If the Secretary is not satisfied that the claimant is so eligible under section 46 of the Family Assistance Act, the Secretary must determine that the claimant is not entitled, in respect of the child, to be paid child care benefit by single payment/in substitution because of the death of another individual.
 
@@ -4712,7 +5260,7 @@ Statement that an application for a tax file number is pending
 
 ##### <a id="58"></a>58  Variation where failure to provide tax file number
 
-Non‑compliance with request
+Non-compliance with request
 
              (1)  If:
 
@@ -4796,7 +5344,7 @@ the Secretary must vary the determination to undo the effect mentioned in subsec
 
 ##### <a id="58A"></a>58A  Variation where failure to comply with request for bank account details
 
-Non‑compliance with request
+Non-compliance with request
 
              (1)  If:
 
@@ -6244,13 +6792,13 @@ When and how report must be given
 
              (2)  The determination is not ineffective by reason only that any, or all, of the requirements of subsection (1) are not complied with.
 
-<h7 class="ActHead7">Part 3—Common provisions relating to family assistance</h7>
+Part 3—Common provisions relating to family assistance
 
 ## 62  Subsection 3(1)
 
 Insert:
 
-                    <a name="bank"></a>**_Bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the meaning of the _Banking Act 1959_.
+                    <a name="bank"></a>**_Bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the meaning of the _Banking Act 1959_.
 
 ## 63  Subsection 3(1)
 
@@ -6338,7 +6886,7 @@ Omit “assistance”, substitute “tax benefit”.
 
 Insert:
 
-                   (ba)  section 84A (about setting off a person’s entitlement to arrears of family assistance against a debt of the person); and
+                    (ba)  section 84A (about setting off a person’s entitlement to arrears of family assistance against a debt of the person); and
 
 ## 72  Paragraph 66(2)(c)
 
@@ -6432,7 +6980,7 @@ the amount by which the family tax benefit advance exceeds the reduction amount 
 
              (2)  For the purposes of subsection (1), the reduction amount in relation to an individual is an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image015.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image015.gif)</sub>
 
 where:
 
@@ -6810,7 +7358,7 @@ Repeal the section, substitute:
 
                      (a)  a person (the **_debtor_**):
 
-                              (i)  has a debt under this Act or under the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Social Security Act 1947_, the _Social Security Act 1991_ or the _Student Assistance Act 1973_; or
+                              (i)  has a debt under this Act or under the _Data-matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Social Security Act 1947_, the _Social Security Act 1991_ or the _Student Assistance Act 1973_; or
 
                              (ii)  had incurred a debt under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; and
 
@@ -6830,7 +7378,7 @@ the Secretary may deduct the amount from the consenting person’s instalments o
 
                      (a)  a person (the **_debtor_**):
 
-                              (i)  has a debt under this Act or under the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Social Security Act 1947_, the _Social Security Act 1991_ or the _Student Assistance Act 1973_; or
+                              (i)  has a debt under this Act or under the _Data-matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Social Security Act 1947_, the _Social Security Act 1991_ or the _Student Assistance Act 1973_; or
 
                              (ii)  had incurred a debt under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; and
 
@@ -7118,7 +7666,7 @@ the date of the review decision is:
 
 if the review was undertaken because the Commissioner of Taxation had made an assessment of the taxable income for a particular income year of each person:
 
-                     (c)  whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family tax benefit, or CCB %; and
+                     (c)  whose taxable income is relevant in determining the first-mentioned person’s eligibility for, or rate of, family tax benefit, or CCB %; and
 
                      (d)  who was required to lodge an income tax return in respect of that year;
 
@@ -7350,11 +7898,11 @@ Further exceptions
 
                              (ii)  within 13 weeks after the relevant person was notified by the Registrar of the outcome of the review.
 
-             (5)  In subsection (4), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
+             (5)  In subsection (4), a reference to a relevant person, in relation to the person first-mentioned in that subsection, is a reference:
 
-                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, or CCB %; and
+                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first-mentioned person) whose taxable income is relevant in determining the first-mentioned person’s eligibility for, or rate of, family assistance, or CCB %; and
 
-                     (b)  so far as paragraph (4)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
+                     (b)  so far as paragraph (4)(c) is concerned—to any person (including the first-mentioned person) whose entitlement to child support is relevant in determining the first-mentioned person’s rate of family tax benefit.
 
              (6)  In this section:
 
@@ -7402,11 +7950,11 @@ the date of effect of the review decision is:
 
                              (ii)  within 13 weeks after the relevant person was notified by the Registrar of the outcome of the review.
 
-             (4)  In subsection (3), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
+             (4)  In subsection (3), a reference to a relevant person, in relation to the person first-mentioned in that subsection, is a reference:
 
-                     (a)  so far as paragraph (3)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family tax benefit; and
+                     (a)  so far as paragraph (3)(a) or (b) is concerned—to any person (including the first-mentioned person) whose taxable income is relevant in determining the first-mentioned person’s eligibility for, or rate of, family tax benefit; and
 
-                     (b)  so far as paragraph (3)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
+                     (b)  so far as paragraph (3)(c) is concerned—to any person (including the first-mentioned person) whose entitlement to child support is relevant in determining the first-mentioned person’s rate of family tax benefit.
 
 ##### <a id="109F"></a>109F  Withdrawal of review applications
 
@@ -7816,7 +8364,7 @@ Repeal the subsection, substitute:
 
 Add:
 
-            ; and (d)  all persons, irrespective of their nationality, in respect of whom determinations of conditional eligibility for child care benefit by fee reduction are in force; and
+             ; and (d)  all persons, irrespective of their nationality, in respect of whom determinations of conditional eligibility for child care benefit by fee reduction are in force; and
 
                      (e)  all persons, irrespective of their nationality, who are eligible for child care benefit by fee reduction under section 47 of the Family Assistance Act.
 
@@ -7942,9 +8490,9 @@ Repeal the sections.
 
 Repeal the subsection.
 
-###### Schedule 3—Amendment of Social Security Law
+# Schedule 3—Amendment of Social Security Law
 
-<h9 class="ActHead9">Social Security Act 1991</h9>
+Social Security Act 1991
 
 ## 1  Subsection 17(1) (definition of _income cut-out amount_)
 
@@ -7958,7 +8506,7 @@ Add:
 
              (8)  For the purposes of the definition of **_income cut-out amount_** in subsection (1), the formula is as follows:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image016.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image016.gif)</sub>
 
 where:
 
@@ -7966,9 +8514,9 @@ where:
 
 Note:              Point 1064-BA2 refers to **_maximum basic rate_**. **_Maximum basic rate_** depends on a person’s family situation. The rate used here is the rate for a person who is not a member of a couple.
 
-                    <a name="ordinari-free-area-limit"></a>**_ordinary free area limit_** means the amount specified in column 3 of item 1 in Table E‑1 in point 1064‑E4.
+                    <a name="ordinari-free-area-limit"></a>**_ordinary free area limit_** means the amount specified in column 3 of item 1 in Table E-1 in point 1064-E4.
 
-                    <a name="pharmaceut-amount-singl-person"></a>**_pharmaceutical amount for a single person_** means the amount specified in column 3 of item 1 in the Pharmaceutical Allowance Amount Table in point 1064‑C8.
+                    <a name="pharmaceut-amount-singl-person"></a>**_pharmaceutical amount for a single person_** means the amount specified in column 3 of item 1 in the Pharmaceutical Allowance Amount Table in point 1064-C8.
 
 ## 3  Subsection 20(2)
 
@@ -7992,7 +8540,7 @@ Repeal the paragraph, substitute:
 
 Add:
 
-            ; and (d)  the person:
+             ; and (d)  the person:
 
                               (i)  is an Australian resident; or
 
@@ -8002,15 +8550,15 @@ Add:
 
 Omit “$30.00”, substitute “$31.20”.
 
-## 8  Point 1068B‑A2 (method statement, step 7)
+## 8  Point 1068B-A2 (method statement, step 7)
 
 After “plus”, insert “, except where the person is a CDEP Scheme participant in respect of the whole or part of the period for which the rate of payment is being worked out,”.
 
-## 9  Point 1068B‑A3 (method statement, step 7)
+## 9  Point 1068B-A3 (method statement, step 7)
 
 After “plus”, insert “, except where the person is a CDEP Scheme participant in respect of the whole or part of the period for which the rate of payment is being worked out,”.
 
-## 10  Point 1068B‑C2 (first sentence)
+## 10  Point 1068B-C2 (first sentence)
 
 Repeal the sentence, substitute:
 
@@ -8036,17 +8584,17 @@ Omit “child disability allowance”, substitute “carer allowance”.
 
 Add:
 
-##### <a id="127"></a>127  Seasonal work carried out in what would have been a seasonal work non‑benefit period extending beyond 30 June 2000
+##### <a id="127"></a>127  Seasonal work carried out in what would have been a seasonal work non-benefit period extending beyond 30 June 2000
 
 If:
 
-                     (a)  a person was, before 1 July 2000, subject to a seasonal work non‑benefit period under this Act; and
+                     (a)  a person was, before 1 July 2000, subject to a seasonal work non-benefit period under this Act; and
 
-                     (b)  but for the amendments of this Act taking effect on that day, the seasonal work non‑benefit period would have extended for a period (the **_residual period_**) starting on 1 July 2000 and ending at the end of that seasonal work non‑benefit period;
+                     (b)  but for the amendments of this Act taking effect on that day, the seasonal work non-benefit period would have extended for a period (the **_residual period_**) starting on 1 July 2000 and ending at the end of that seasonal work non-benefit period;
 
 then, for the purposes of this Act as in force on and after that day, the residual period is to be treated as if it were a seasonal work preclusion period.
 
-<h9 class="ActHead9">Social Security (Administration) Act 1999</h9>
+Social Security (Administration) Act 1999
 
 ## 16  Subsection 3(5)
 
@@ -8218,7 +8766,7 @@ Omit “the _Student and Youth Assistance Act 1973_ or the _Child Care Payments 
 
 Omit “the _Student and Youth Assistance Act 1973_, the _Child Care Payments Act 1997_”, substitute “the family assistance law, the _Student Assistance Act 1973_”.
 
-<h9 class="ActHead9">Social Security (International Agreements) Act 1999</h9>
+Social Security (International Agreements) Act 1999
 
 ## 56  Paragraphs 13(e), (f) and (g)
 
@@ -8299,9 +8847,9 @@ Insert:
 
              (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-###### Schedule 4—Amendment of other Acts
+# Schedule 4—Amendment of other Acts
 
-<h9 class="ActHead9">A New Tax System (Bonuses for Older Australians) Act 1999</h9>
+A New Tax System (Bonuses for Older Australians) Act 1999
 
 ## 1  Section 19
 
@@ -8339,21 +8887,21 @@ in the same way as that law applies in the making of determinations about, and p
 
 Note:          This section means that the provisions of the social security law dealing with matters such as the following will apply:
 
-·<span style="font:7.0pt " new="">      </span>review of determinations;
+·<span style="font:7.0pt " new="">                      </span>review of determinations;
 
-·<span style="font:7.0pt " new="">      </span>recovery of overpayments;
+·<span style="font:7.0pt " new="">                      </span>recovery of overpayments;
 
-·<span style="font:7.0pt " new="">      </span>delegations;
+·<span style="font:7.0pt " new="">                      </span>delegations;
 
-·<span style="font:7.0pt " new="">      </span>information gathering;
+·<span style="font:7.0pt " new="">                      </span>information gathering;
 
-·<span style="font:7.0pt " new="">      </span>offences relating to false statements;
+·<span style="font:7.0pt " new="">                      </span>offences relating to false statements;
 
-·<span style="font:7.0pt " new="">      </span>evidentiary matters.
+·<span style="font:7.0pt " new="">                      </span>evidentiary matters.
 
-<h9 class="ActHead9">Child Support (Assessment) Act 1989</h9>
+Child Support (Assessment) Act 1989
 
-## 2  Paragraph 39(2)(b) (definition of _base FTB rate_)
+## 2  Paragraph 39(2)(b) (definition of _base FTB rate_)
 
 After “means the base FTB child rate”, insert “for the child”.
 
@@ -8413,7 +8961,7 @@ Repeal the subsections, substitute:
 
 _Note:       The heading to section 151A is altered by omitting “more than the minimum rate of family allowance” and substituting “more than the base rate of family tax benefit Part A”._
 
-<h9 class="ActHead9">Health Insurance Act 1973</h9>
+Health Insurance Act 1973
 
 ## 10  Paragraph 5EAA(b)
 
@@ -8423,17 +8971,17 @@ Repeal the paragraph, substitute:
 
                      (c)  the person’s income excess under Division 4 of Part 2 of that Schedule is nil.
 
-<h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
+Income Tax Assessment Act 1936
 
-## 11  Sub‑subparagraph 23AB(7)(a)(ii)(AA)
+## 11  Sub-subparagraph 23AB(7)(a)(ii)(AA)
 
 Omit “subsection 159L(3A)”, substitute “subsections 159L(3A), (5A) and (5B)”.
 
-## 12  Sub‑subparagraph 23AB(7)(a)(ii)(BA)
+## 12  Sub-subparagraph 23AB(7)(a)(ii)(BA)
 
 Omit “subsection 159J(1AA)”, substitute “subsections 159J(1AA), (3AA) and (3AB)”.
 
-## 13  Sub‑subparagraph 23AB(7)(a)(ii)(D)
+## 13  Sub-subparagraph 23AB(7)(a)(ii)(D)
 
 Omit “subsection 159J(1AA)”, substitute “subsections 159J(1AA), (3AA) and (3AB)”.
 
@@ -8509,7 +9057,7 @@ then:
 
                      (d)  the rebate allowable to the taxpayer in respect of that dependant for the remainder of that year of income is, subject to the operation of subsection (3AB), such part of the relevant rebate amount specified in column 3 of the table in subsection (2) as, in the opinion of the Commissioner, is reasonable in the circumstances.
 
-       (3AB)  If:
+        (3AB)  If:
 
                      (a)  but for this subsection, a taxpayer would be entitled, in his or her assessment in respect of a year of income, to a rebate under this section in respect of a dependant included in class 1 or 2 of the table in subsection (2); and
 
@@ -8521,7 +9069,7 @@ then:
 
 the rebate allowable to the taxpayer for the year of income, or that part of the year of income, (the **_shared care period_**) is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image017.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image017.gif)</sub>
 
 where:
 
@@ -8579,7 +9127,7 @@ then:
 
 the rebate allowable to the taxpayer for the year of income, or that part of the year of income, (the **_shared care period_**) is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2004C01310/Html/ce9c48d5-8384-4794-af3e-cace01e3b77a_files/image017.gif)
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01419/Html/ANTSFARM2000_image017.gif)</sub>
 
 where:
 
@@ -8607,15 +9155,23 @@ the child is to be taken to be a dependant of each parent for the purposes of Pa
 
 ## 29  Application
 
-The amendments of the _Income Tax Assessment Act 1936_ made by this Schedule apply to assessments in relation to the 2000‑2001 year of income and later years of income.
+The amendments of the _Income Tax Assessment Act 1936_ made by this Schedule apply to assessments in relation to the 2000-2001 year of income and later years of income.
 
-<h9 class="ActHead9">Medicare Levy Act 1986</h9>
+Medicare Levy Act 1986
 
-###### Schedule 5—Transitional and saving provisions associated with the establishment of a scheme for the payment of family tax benefit, maternity allowance and maternity immunisation allowance
+## 30  Subsection 8H(2) (paragraph (b) of note 1)
+
+After “family tax benefit”, insert “at the Part B rate”.
+
+## 31  Application
+
+The amendment of the _Medicare Levy Act 1986_ made by this Schedule applies to assessments in relation to the 2000-2001 year of income and later years of income.
+
+# Schedule 5—Transitional and saving provisions associated with the establishment of a scheme for the payment of family tax benefit, maternity allowance and maternity immunisation allowance
 
 ## 1  Definitions
 
-(1)       In this Schedule, unless the contrary intention appears:
+(1)        In this Schedule, unless the contrary intention appears:
 
 **_approved care organisation_** means an organisation that is taken, by virtue of the operation of subitem (2), to be an approved care organisation for the purposes of the Family Assistance Act.
 
@@ -8631,7 +9187,7 @@ The amendments of the _Income Tax Assessment Act 1936_ made by this Schedule app
 
                      (b)  family tax payment; or
 
-                     (c)  parenting payment in the nature of non‑benefit PP (partnered);
+                     (c)  parenting payment in the nature of non-benefit PP (partnered);
 
 payable under the social security law.
 
@@ -8645,21 +9201,21 @@ payable under the social security law.
 
 **_social security law_** means the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_.
 
-(2)       Any organisation that, immediately before 1 July 2000, was an approved care organisation for the purposes of the _Social Security Act 1991_ is taken to have been approved under section 20 of the Family Assistance Act, with effect from that date _,_ as  an approved care organisation, for the purposes of the latter Act.
+(2)        Any organisation that, immediately before 1 July 2000, was an approved care organisation for the purposes of the _Social Security Act 1991_ is taken to have been approved under section 20 of the Family Assistance Act, with effect from that date _,_ as  an approved care organisation, for the purposes of the latter Act.
 
-(3)       For the purposes of this Part, an individual or an approved care organisation is taken to be receiving payments of family benefit under the _Social Security Act 1991_ from the earliest date on which such payments are payable to the individual or to the organisation, as the case requires, even if the first instalment of that benefit is not paid until a later day.
+(3)        For the purposes of this Part, an individual or an approved care organisation is taken to be receiving payments of family benefit under the _Social Security Act 1991_ from the earliest date on which such payments are payable to the individual or to the organisation, as the case requires, even if the first instalment of that benefit is not paid until a later day.
 
 ## 2  Individuals receiving family benefit treated as having lodged effective claim for family tax benefit by instalment
 
-(1)       If, immediately before 1 July 2000, an individual was receiving family benefit, then, with effect from that date, that individual is taken, subject to items 4 and 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+(1)        If, immediately before 1 July 2000, an individual was receiving family benefit, then, with effect from that date, that individual is taken, subject to items 4 and 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
 
-(2)       If, before 1 July 2000, an individual receiving family benefit had provided bank account details for the purposes of making the claim for, or receiving, such benefits, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
+(2)        If, before 1 July 2000, an individual receiving family benefit had provided bank account details for the purposes of making the claim for, or receiving, such benefits, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
 
 ## 3  Approved care organisations receiving family allowance treated as having lodged effective claim for family tax benefit by instalment
 
-(1)       If, immediately before 1 July 2000, an approved care organisation was receiving family allowance, then, with effect from that date, that organisation is taken, subject to item 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+(1)        If, immediately before 1 July 2000, an approved care organisation was receiving family allowance, then, with effect from that date, that organisation is taken, subject to item 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
 
-(2)       If, before 1 July 2000, the organisation had provided bank account details for the purposes of making the claim for, or receiving, such family allowance payments, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
+(2)        If, before 1 July 2000, the organisation had provided bank account details for the purposes of making the claim for, or receiving, such family allowance payments, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
 
 ## 4  Special rules relating to outstanding TFN requirements
 
@@ -8695,9 +9251,9 @@ then, for the purposes of section 27A of the Family Assistance Administration Ac
 
 ## 6  The making of determinations
 
-(1)       On, or as soon as practicable after, 1 July 2000, the Secretary will assess the eligibility for family tax benefit by instalment of each individual, and each approved care organisation, that is taken to have lodged an effective claim.
+(1)        On, or as soon as practicable after, 1 July 2000, the Secretary will assess the eligibility for family tax benefit by instalment of each individual, and each approved care organisation, that is taken to have lodged an effective claim.
 
-(2)       If, for the purposes of making a determination under section 16 of the Family Assistance Administration Act as amended by this Act in relation to an individual or approved care organisation to which subitem (1) refers:
+(2)        If, for the purposes of making a determination under section 16 of the Family Assistance Administration Act as amended by this Act in relation to an individual or approved care organisation to which subitem (1) refers:
 
                      (a)  the Secretary has, before 1 July 2000, sought from an individual or an approved care organisation any information necessary for the purposes of making such a determination; and
 
@@ -8705,7 +9261,7 @@ then, for the purposes of section 27A of the Family Assistance Administration Ac
 
 the Secretary may make a determination under section 19 of the Family Assistance Administration Act as so amended to the effect that the individual or organisation is not entitled to be paid family tax benefit by instalment for each day while the determination is in force.
 
-(3)       For the avoidance of doubt, such a determination does not prevent an individual or organisation that later provides information as required by the Secretary from claiming under the Family Assistance Administration Act as so amended:
+(3)        For the avoidance of doubt, such a determination does not prevent an individual or organisation that later provides information as required by the Secretary from claiming under the Family Assistance Administration Act as so amended:
 
                      (a)  family tax benefit by instalment when that information is so provided; and
 
@@ -8717,7 +9273,7 @@ If, immediately before 1 July 2000, there was in force a direction by the Secret
 
 ## 8  Instalment periods
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual or an approved care organisation was receiving family benefit by way of family allowance or family tax payment immediately before 1 July 2000; and
 
@@ -8731,23 +9287,23 @@ then:
 
                      (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
 
-(2)       If:
+(2)        If:
 
-                     (a)  an individual was not receiving family benefit by way of family allowance immediately before 1 July 2000 but was receiving family benefit by way of non‑benefit PP (partnered) immediately before that date; and
+                     (a)  an individual was not receiving family benefit by way of family allowance immediately before 1 July 2000 but was receiving family benefit by way of non-benefit PP (partnered) immediately before that date; and
 
-                     (b)  that individual received, or last received, a payment of that non‑benefit PP (partnered) in respect of a period commencing less than 14 days before 1 July 2000; and
+                     (b)  that individual received, or last received, a payment of that non-benefit PP (partnered) in respect of a period commencing less than 14 days before 1 July 2000; and
 
                      (c)  the Secretary makes a determination under section 16 of the Family Assistance Administration Act as amended by this Act in respect of the entitlement of that individual to family tax benefit with effect from that day;
 
 then:
 
-                     (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of non‑benefit PP (partnered); and
+                     (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of non-benefit PP (partnered); and
 
                      (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
 
 ## 9  Claims for family benefit that are undetermined as at 1 July 2000
 
-(1)       If:
+(1)        If:
 
                      (a)  before 1 July 2000, a person lodged a claim for family benefit by way of family allowance or family tax payment; and
 
@@ -8761,7 +9317,7 @@ the claim is to be determined under the social security law as in force before 1
 
                      (e)  the claim related only to the period preceding 1 July 2000.
 
-(2)       If:
+(2)        If:
 
                      (a)  before 1 July 2000, a person lodged a claim for family benefit by way of family allowance or family tax payment in anticipation of becoming qualified for that benefit; and
 
@@ -8771,7 +9327,7 @@ the claim is to be determined under the social security law as in force before 1
 
 the claim is to be taken to have lapsed on that date.
 
-(3)       If:
+(3)        If:
 
                      (a)  before 1 July 2000, a person has lodged a claim for parenting payment; and
 
@@ -8783,9 +9339,9 @@ then:
 
                      (d)  the claim is to be determined under the social security law as in force before 1 July 2000 as if the law as so in force had continued: and
 
-                     (e)  if parenting payment would be paid under the law as so in force at the rate applicable for non‑benefit PP (partnered)—the claim is to be determined as if it related only to the period preceding 1 July 2000.
+                     (e)  if parenting payment would be paid under the law as so in force at the rate applicable for non-benefit PP (partnered)—the claim is to be determined as if it related only to the period preceding 1 July 2000.
 
-(4)       If:
+(4)        If:
 
                      (a)  before 1 July 2000, a person lodged a claim for parenting payment in anticipation of becoming qualified for that payment; and
 
@@ -8793,17 +9349,17 @@ then:
 
                      (c)  the person does not become qualified for parenting payment before 1 July 2000; and
 
-                     (d)  if the person were to become qualified for parenting payment on or after that date—it would be parenting payment in the nature of non‑benefit PP (partnered) and not some other form of parenting payment;
+                     (d)  if the person were to become qualified for parenting payment on or after that date—it would be parenting payment in the nature of non-benefit PP (partnered) and not some other form of parenting payment;
 
 the claim is to be taken to have lapsed on that date.
 
 ## 10  Certain claims for family benefit will be admitted on or after 1 July 2000
 
-(1)       In this item:
+(1)        In this item:
 
 **_backdated claim period_** means a period after the occurrence of a particular event during which a claim for family benefit with effect from that event will be allowed.
 
-(2)       If:
+(2)        If:
 
                      (a)  a person did not make a claim for family benefit before 1 July 2000; and
 
@@ -8817,7 +9373,7 @@ then:
 
 ## 11  Transfer of claims for maternity allowance or maternity immunisation allowance from social security law to family assistance law
 
-(1)       If:
+(1)        If:
 
                      (a)  a person claims maternity allowance or maternity immunisation allowance under the social security law before 1 July 2000; and
 
@@ -8825,13 +9381,13 @@ then:
 
 the claim is to be treated as if it were a claim for MAT or MIA under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act and not as such a claim for the corresponding allowance under the _Social Security Act 1991_.
 
-(2)       If a person purports to claim maternity allowance or maternity immunisation allowance under the social security law on or after 1 July 2000, that claim is to be treated as if it were a claim for MAT or MIA, as the case requires, under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act and not as such a claim for the corresponding allowance under the social security law.
+(2)        If a person purports to claim maternity allowance or maternity immunisation allowance under the social security law on or after 1 July 2000, that claim is to be treated as if it were a claim for MAT or MIA, as the case requires, under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act and not as such a claim for the corresponding allowance under the social security law.
 
-(3)       A person who has been paid maternity allowance or maternity immunisation allowance under the social security law  in respect of a particular child cannot claim MAT or MIA for the same child under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act.
+(3)        A person who has been paid maternity allowance or maternity immunisation allowance under the social security law  in respect of a particular child cannot claim MAT or MIA for the same child under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act.
 
 ## 12  Applications for family benefit, maternity allowance or maternity immunisation allowance made after 1 July 2000 on behalf of another person
 
-(1)       If:
+(1)        If:
 
                      (a)  an amount of family benefit is payable to a person; and
 
@@ -8847,7 +9403,7 @@ the claim is to be treated as if it were a claim for MAT or MIA under Division 3
 
 the Secretary may pay the amount to the person who, in the Secretary’s opinion, is best entitled to it.
 
-(2)       If:
+(2)        If:
 
                      (a)  an amount of maternity allowance or maternity immunisation allowance claimed under the social security law is payable to a person in respect of a particular child; and
 
@@ -8863,15 +9419,15 @@ the Secretary may pay the amount to the person who, in the Secretary’s opinion
 
 the Secretary may pay the amount to the person who, in the Secretary’s opinion, is best entitled to it.
 
-(3)       If the Secretary pays an amount under subitem (1) in respect of family benefit of a particular kind claimed under the social security law, the Commonwealth has no further liability to any person in respect of family benefit of that kind under the social security law or in respect of any family benefit of a like kind under the family assistance law.
+(3)        If the Secretary pays an amount under subitem (1) in respect of family benefit of a particular kind claimed under the social security law, the Commonwealth has no further liability to any person in respect of family benefit of that kind under the social security law or in respect of any family benefit of a like kind under the family assistance law.
 
-(4)       If the Secretary pays an amount under subitem (2) in respect of a particular child, the Commonwealth has no further liability to any person in respect of maternity allowance or maternity immunisation allowance under the social security law, or in respect of MAT or MIA under the family assistance law, in respect of that child.
+(4)        If the Secretary pays an amount under subitem (2) in respect of a particular child, the Commonwealth has no further liability to any person in respect of maternity allowance or maternity immunisation allowance under the social security law, or in respect of MAT or MIA under the family assistance law, in respect of that child.
 
-(5)       For the purpose of Part 5 of the Family Assistance Administration Act, a decision of the Secretary under subitem (1) or (2) has effect as if it were a decision of an officer under the family assistance law.
+(5)        For the purpose of Part 5 of the Family Assistance Administration Act, a decision of the Secretary under subitem (1) or (2) has effect as if it were a decision of an officer under the family assistance law.
 
 ## 13  Claims for advance payment under Social Security Law
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual had, under section 864A of the _Social Security Act 1991_ as in force before 1 July 2000, requested a family allowance advance in respect of an advance period, within the meaning of that Act, that ended before 1 July 2000, and all subsequent advance periods; and
 
@@ -8883,7 +9439,7 @@ the grant has effect, in relation to the advance period commencing on 1 July 200
 
                      (d)  it related not to qualification for family allowance advance but rather to an entitlement to family tax benefit advance in relation to the individual’s family tax benefit as determined by the Secretary in accordance with item 6.
 
-(2)       For the avoidance of doubt, an individual who is treated, by virtue of the operation of subitem (1), as having made and been granted a request under section 33 of the Family Assistance Administration Act as amended by this Act, may on 1 July 2000, or at any time after that date, withdraw the request in so far as it is treated as relating to standard advance periods within the meaning of that Act as so amended for which the individual has not been paid a family tax benefit advance.
+(2)        For the avoidance of doubt, an individual who is treated, by virtue of the operation of subitem (1), as having made and been granted a request under section 33 of the Family Assistance Administration Act as amended by this Act, may on 1 July 2000, or at any time after that date, withdraw the request in so far as it is treated as relating to standard advance periods within the meaning of that Act as so amended for which the individual has not been paid a family tax benefit advance.
 
 ## 14  Saving provision relating to information collection
 
@@ -8891,13 +9447,13 @@ If:
 
                      (a)  family benefit, or maternity allowance or maternity immunisation allowance claimed under the social security law, is payable to a person; and
 
-                     (b)  the Secretary decides, on or after  1 July 2000, to seek further information in relation to the benefit or allowance;
+                     (b)  the Secretary decides, on or after 1 July 2000, to seek further information in relation to the benefit or allowance;
 
 the Secretary may, under Division 1 of Part 5 of the _Social Security (Administration) Act 1999_, require the provision of information concerning that benefit or allowance, or concerning the person to whom it is payable, as if that benefit or allowance had continued, on and after 1 July 2000, to be a social security payment as defined for the purposes of the _Social Security (Administration) Act 1999_.
 
 ## 15  Portability
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before 1 July 2000, an individual
 
@@ -8913,13 +9469,13 @@ the Secretary may, under Division 1 of Part 5 of the _Social Security (Administr
 
 the child is not, if that absence extends for a period of 3 years beginning on the first day of the absence, an FTB child at any time after the period of 3 years ends.
 
-(2)       In determining whether the period of absence of the child extends for 3 years beginning on the first day of the child’s absence:
+(2)        In determining whether the period of absence of the child extends for 3 years beginning on the first day of the child’s absence:
 
                      (a)  any return or coming to Australia before 1 July 2000 that would have been disregarded under the _Social Security Act 1991_ as in force before that date had that Act as so in force continued unamended after that date is to be disregarded for the purposes of subitem (1); and
 
                      (b)  any return or coming to Australia on or after 1 July 2000 that would have been disregarded under section 24 of the Family Assistance Act as amended by this Act if that section were to have applied to the person is also to be disregarded for the purposes of that subitem.
 
-(3)       If:
+(3)        If:
 
                      (a)  the child referred to in paragraph (1)(b) is absent from Australia for a continuous period of more than 26 weeks (whether or not that 26 weeks ends before 1 July 2000); and
 
@@ -8927,7 +9483,7 @@ the child is not, if that absence extends for a period of 3 years beginning on t
 
 Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (b) with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
 
-(4)       If:
+(4)        If:
 
                      (a)  the child referred to in paragraph (1)(b) is absent from Australia for a continuous period of more than 26 weeks (whether or not that 26 weeks ends before 1 July 2000); and
 
@@ -8939,9 +9495,9 @@ Schedule 1 to the Family Assistance Act as so amended applies in relation to tha
 
 Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (d) from Australia with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
 
-## 16  Lump sum bereavement payments for certain persons receiving non‑benefit PP (partnered) at death of child
+## 16  Lump sum bereavement payments for certain persons receiving non-benefit PP (partnered) at death of child
 
-(1)       If:
+(1)        If:
 
                      (a)  a child died less than 4 weeks before 1 July 2000; and 
 
@@ -8955,11 +9511,11 @@ so much of the parenting payment as would have been payable in respect of each d
 
                      (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
 
-(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 512A of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+(2)        For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 512A of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
 
 ## 17  Lump sum bereavement payments for certain persons receiving family tax payment at death of child
 
-(1)       If:
+(1)        If:
 
                      (a)  a child died less than 4 weeks before 1 July 2000; and 
 
@@ -8973,11 +9529,11 @@ so much only of the amount of family tax payment that would have been payable in
 
                      (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
 
-(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 900AZZC of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+(2)        For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 900AZZC of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
 
 ## 18  Lump sum bereavement payments for certain persons receiving family allowance at death of child
 
-(1)       If:
+(1)        If:
 
                      (a)  a child died before 1 July 2000; and 
 
@@ -8985,17 +9541,17 @@ so much only of the amount of family tax payment that would have been payable in
 
                      (c)  under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as in force before 1 July 2000, if those Subdivisions had continued in force after that date, the person would, but for this item, have qualified to continue to receive family allowance for a period (the **_bereavement period_**) that starts on the day following the day of the child’s death at the rate that would have been applicable if the child had not died;
 
-so much only of the amount of family allowance that would have been payable in respect of each day of the bereavement period that occurs after  30 June 2000 and that is attributable to that child:
+so much only of the amount of family allowance that would have been payable in respect of each day of the bereavement period that occurs after 30 June 2000 and that is attributable to that child:
 
                      (d)  continues to be payable to the person as if that Subdivision of that Act as so in force had not been repealed but had so provided; and
 
                      (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
 
-(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+(2)        For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
 
-## 19  Set‑offs
+## 19  Set-offs
 
-(1)       If:
+(1)        If:
 
                      (a)  a child dies before 1 July 2000; and
 
@@ -9003,21 +9559,21 @@ so much only of the amount of family allowance that would have been payable in r
 
 the Secretary must, as soon as practicable after learning of the child’s death, review that determination in accordance with section 104 of the Family Assistance Administration Act as so amended.
 
-(2)       If the person continued to receive non‑benefit PP (partnered) after 30 June 2000 in respect of the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 16 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+(2)        If the person continued to receive non-benefit PP (partnered) after 30 June 2000 in respect of the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 16 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
 
-(3)       If the person continued to receive family tax payment after 30 June 2000 and the rate of the payment was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 17 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+(3)        If the person continued to receive family tax payment after 30 June 2000 and the rate of the payment was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 17 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
 
-(4)       If the person continued to receive family allowance after 30 June 2000 and the rate of the allowance was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 18 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+(4)        If the person continued to receive family allowance after 30 June 2000 and the rate of the allowance was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 18 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
 
 ## 20  Bereavement payments in relation to the death of a recipient
 
-(1)       Despite the repeal of section 513A of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for parenting payment in respect of a child who has died, for a period of 13 weeks after the death of that child.
+(1)        Despite the repeal of section 513A of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for parenting payment in respect of a child who has died, for a period of 13 weeks after the death of that child.
 
-(2)       For the purposes of subitem (1), section 513A of the _Social Security Act 1991_ as so continued in force has effect as if the reference in the section to the amount of parenting payment that would have been payable includes a reference to any lump sum that would have been payable because of the operation of item 16.
+(2)        For the purposes of subitem (1), section 513A of the _Social Security Act 1991_ as so continued in force has effect as if the reference in the section to the amount of parenting payment that would have been payable includes a reference to any lump sum that would have been payable because of the operation of item 16.
 
-(3)       Despite the repeal of section 900 of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for family allowance in respect of a child who has died, for a period of 13 weeks after the death of that child.
+(3)        Despite the repeal of section 900 of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for family allowance in respect of a child who has died, for a period of 13 weeks after the death of that child.
 
-(4)       For the purposes of subitem (3), section 900 of the _Social Security Act 1991_ as so continued in force has effect as if the reference:
+(4)        For the purposes of subitem (3), section 900 of the _Social Security Act 1991_ as so continued in force has effect as if the reference:
 
                      (a)  in subsection (1) of that section to the sum of the amounts referred to in paragraphs (f), (g) and (h) of that subsection; and
 
@@ -9025,7 +9581,7 @@ the Secretary must, as soon as practicable after learning of the child’s death
 
 each includes a reference to any lump sum that would have been payable because of the operation of item 18.
 
-(5)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 513A, or section 900, of the _Social Security Act 1991_ as continued in force for the purposes of this item has effect as if it were a decision of an officer under the social security law.
+(5)        For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 513A, or section 900, of the _Social Security Act 1991_ as continued in force for the purposes of this item has effect as if it were a decision of an officer under the social security law.
 
 ## 21  Provision of TFNs in certain circumstances under _Social Security Act 1991_ taken to be provision under Family Assistance Administration Act
 
@@ -9037,11 +9593,11 @@ each includes a reference to any lump sum that would have been payable because o
 
                      (c)  by the Commissioner of Taxation on the authority of the individual;
 
-under a provision of the _Social Security Act 1991_ for a purpose related to a claim for, or to entitlement to, family allowance, family tax payment or parenting payment in the nature of non‑benefit PP (partnered), that tax file number is taken, for the purposes of subsection 154A(1) of the Family Assistance Administration Act as amended by this Act, to have been so provided under a provision of that Act as so amended for the purposes of that Act as so amended.
+under a provision of the _Social Security Act 1991_ for a purpose related to a claim for, or to entitlement to, family allowance, family tax payment or parenting payment in the nature of non-benefit PP (partnered), that tax file number is taken, for the purposes of subsection 154A(1) of the Family Assistance Administration Act as amended by this Act, to have been so provided under a provision of that Act as so amended for the purposes of that Act as so amended.
 
 ## 22  Saving provision—Part A rate of family tax benefit for families with children not subject to family allowance income test
 
-(1)       This item applies to an individual who, immediately before 1 July 2000:
+(1)        This item applies to an individual who, immediately before 1 July 2000:
 
                      (a)  was receiving family allowance under the _Social Security Act 1991_ in respect of a child; and
 
@@ -9049,15 +9605,15 @@ under a provision of the _Social Security Act 1991_ for a purpose related to a c
 
                      (c)  was also receiving either carer allowance or double orphan pension under that Act in respect of that child.
 
-(2)       If, on or after 1 July 2000, an individual to whom this item applies has at least one FTB child in relation to whom the individual continues to receive either carer allowance or double orphan pension under the _Social Security Act 1991_, the Part A rate of family tax benefit payable under the Family Assistance Act as amended by this Act to the individual from time to time on or after that date is a rate equal to:
+(2)        If, on or after 1 July 2000, an individual to whom this item applies has at least one FTB child in relation to whom the individual continues to receive either carer allowance or double orphan pension under the _Social Security Act 1991_, the Part A rate of family tax benefit payable under the Family Assistance Act as amended by this Act to the individual from time to time on or after that date is a rate equal to:
 
                      (a)  unless paragraph (b) applies—the Part A rate of family tax benefit that would be payable to the individual under that Act as so amended; or
 
                      (b)  if the rate referred to in paragraph (a) is less than the rate (the **_saved rate_**) that would have been the individual’s minimum family allowance rate under the _Social Security Act 1991_ immediately before 1 July 2000 if that rate were worked out having regard only to those FTB children of the individual in respect of whom the individual continues to receive either carer allowance or double orphan pension under that Act—the saved rate.
 
-(3)       If, at any time, an individual begins to receive a Part A rate of family tax benefit calculated in accordance with paragraph (2)(a), the person ceases, with effect from that time, to have any entitlement, at any time thereafter, to a Part A rate of family tax benefit at the saved rate.
+(3)        If, at any time, an individual begins to receive a Part A rate of family tax benefit calculated in accordance with paragraph (2)(a), the person ceases, with effect from that time, to have any entitlement, at any time thereafter, to a Part A rate of family tax benefit at the saved rate.
 
-###### Schedule 6—Transitional provisions associated with the establishment of a scheme for the payment of child care benefit
+# Schedule 6—Transitional provisions associated with the establishment of a scheme for the payment of child care benefit
 
 ## 1  Definitions
 
@@ -9105,7 +9661,7 @@ that is made to provide grants to reimburse the costs of fee reductions.
 
 ## 2  Special rules relating to individual entitled to childcare assistance before 1 July 2000
 
-(1)       If, before 1 July 2000:
+(1)        If, before 1 July 2000:
 
                      (a)  a decision has been made in respect of an individual and a child with the effect that the individual is entitled to childcare assistance in respect of the child; and
 
@@ -9117,7 +9673,7 @@ then:
 
                      (d)  the individual is taken to be conditionally eligible under that section, as so in force, at the time that the form was returned.
 
-(2)       If:
+(2)        If:
 
                      (a)  determinations of conditional eligibility, CCB %, a weekly limit of hours and schooling %, would, apart from this subitem, come into force on 1 July 2000 in respect of the individual and the child; and
 
@@ -9127,7 +9683,7 @@ the determinations do not come into force on 1 July 2000.
 
 _Note:       Determinations of conditional eligibility, a weekly limit of hours, CCB % and schooling % are made under sections 50F, 50H, 50J and 50K respectively of the Family Assistance Administration Act as amended by this Act and in force on 1 July 2000._
 
-(3)       If:
+(3)        If:
 
                      (a)  a requirement has been imposed before 1 July 2000 under the childcare assistance scheme in respect of the child of the individual; and
 
@@ -9145,11 +9701,11 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (g)  the requirement is taken to have been imposed, at the time when it was imposed, for the purposes of paragraph 42(1)(c) of the Family Assistance Act as so amended and as so in force.
 
-(4)       If, immediately before 1 July 2000, the child is meeting the immunisation requirements set out in the childcare assistance scheme, then, on 1 July 2000, the child is taken to meet the immunisation requirements in section 6 of the Family Assistance Act, as amended by this Act and in force on that day.
+(4)        If, immediately before 1 July 2000, the child is meeting the immunisation requirements set out in the childcare assistance scheme, then, on 1 July 2000, the child is taken to meet the immunisation requirements in section 6 of the Family Assistance Act, as amended by this Act and in force on that day.
 
 ## 3  Special rules if individual claiming child care rebate and receiving family allowance returns data collection form 
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual makes a claim for childcare rebate in respect of a child within the period commencing on 1 January 1998 and ending on 30 June 2000; and
 
@@ -9163,7 +9719,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (e)  the individual is taken to have made an effective claim under that paragraph, as so in force, at the time that the form was returned.
 
-(2)       If, immediately before 1 July 2000, the child is meeting the immunisation requirements set out in the _Childcare Rebate Act 1993_, then, on I July 2000, the child is taken to meet the immunisation requirements in section 6 of the Family Assistance Act as amended by this Act and in force on that day.
+(2)        If, immediately before 1 July 2000, the child is meeting the immunisation requirements set out in the _Childcare Rebate Act 1993_, then, on I July 2000, the child is taken to meet the immunisation requirements in section 6 of the Family Assistance Act as amended by this Act and in force on that day.
 
 ## 4  Individuals may make a claim for child care benefit by fee reduction before 1 July 2000
 
@@ -9175,9 +9731,9 @@ If an individual makes a claim for child care benefit by fee reduction before 1 
 
 ## 5  Minimum CCB % if individual objects to use of tax file number given previously
 
-(1)       This item applies to an individual referred to in subitems 2(1) and 3(1).
+(1)        This item applies to an individual referred to in subitems 2(1) and 3(1).
 
-(2)       If:
+(2)        If:
 
                      (a)  the tax file number of an individual to which this item applies has been provided to the Secretary:
 
@@ -9201,7 +9757,7 @@ a determination of CCB % under section 50J of the Family Assistance Administrati
 
 ## 6  Special rules relating to status of a child
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before 1 July 2000, a decision is in force under the childcare assistance scheme that a child is taken to be a dependent child; and
 
@@ -9219,7 +9775,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (d)  the decision that the child is taken to be a dependent child is taken to have been a determination that the child is an FTB child of the individual made, at the time referred to in subitem (2), under subsection 42(2) of the Family Assistance Act as so amended and in force.
 
-(2)       The determination referred to in paragraph (1)(d) is taken to have been made on:
+(2)        The determination referred to in paragraph (1)(d) is taken to have been made on:
 
                      (a)  in the case of subparagraph (b)(i)—the day the individual is taken to be conditionally eligible immediately before the time the individual is taken to be so conditionally eligible; and
 
@@ -9229,7 +9785,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
 ## 7  Special rules relating to residence
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before 1 July 2000, a decision is in force under the childcare assistance scheme that an individual is taken to be a resident for childcare assistance purposes with effect that the individual is a resident on 1 July 2000; and
 
@@ -9247,7 +9803,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (d)  the decision that the individual is a resident is taken to have been a determination made, at the time referred to in subitem (2), under section 8 of the Family Assistance Act as so amended and in force.
 
-(2)       The determination is taken to have been made on:
+(2)        The determination is taken to have been made on:
 
                      (a)  in the case of subparagraph (b)(i)—the day the individual is taken to be conditionally eligible, immediately before the time the individual is taken to be so conditionally eligible; and
 
@@ -9281,7 +9837,7 @@ that tax file number is taken to have been provided for the purposes of section 
 
 ## 9  Special rules relating to TFN requirements
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual has been requested, before 1 July 2000, under section 75 of the _Social Security (Administration) Act 1999_ or under the childcare assistance scheme, to provide a tax file number in relation to a claim for, or the receipt of, family allowance or childcare assistance; and
 
@@ -9295,7 +9851,7 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
                      (e)  the request is taken to have been made, at the time when it was made, under section 57B of the Family Assistance Act as so amended and in force.
 
-(2)       If, under a decision made under the childcare assistance scheme, an individual has been exempted, before 1 July 2000, from having to meet the tax file number requirements of the scheme, then, for the purposes of the Family Assistance Administration Act, as amended by this Act:
+(2)        If, under a decision made under the childcare assistance scheme, an individual has been exempted, before 1 July 2000, from having to meet the tax file number requirements of the scheme, then, for the purposes of the Family Assistance Administration Act, as amended by this Act:
 
                      (a)  that Act as so amended is treated as having been in force when the decision that the individual is exempt was made; and
 
@@ -9305,39 +9861,39 @@ then, for the purposes of the Family Assistance Administration Act as amended by
 
 Agreement to which this item relates
 
-(1)       This item applies to a childcare assistance agreement that was in force immediately before 1 July 2000.
+(1)        This item applies to a childcare assistance agreement that was in force immediately before 1 July 2000.
 
 Agreement ceases to operate for grants for fee reductions after 1 July 2000 except in certain circumstances
 
-(2)       Except in the limited circumstances set out in subitem (3) or (4), on and after 1 July 2000, an agreement to which this item applies does not operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided on or after 1 July 2000.
+(2)        Except in the limited circumstances set out in subitem (3) or (4), on and after 1 July 2000, an agreement to which this item applies does not operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided on or after 1 July 2000.
 
 Matters in respect of which agreement continues to operate
 
-(3)       An agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to a session of care that started before 1 July 2000 and continued on that date.
+(3)        An agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to a session of care that started before 1 July 2000 and continued on that date.
 
 _Note 1:    Item 17 continues access to fee reductions under the childcare assistance scheme for care provided during a session of care that started immediately before 1 July 200 and continued on that date._
 
 _Note 2:    In respect of care provided on 1 July 2000, this provision continues the agreement and, in particular, continues the obligations and responsibilities imposed under the agreement, in relation to that care._
 
-(4)       An agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided on or after 1 July 2000, if the care is provided by an outside school hours care service during the period of a school vacation that starts before 1 July 2000 and continues on and after that day.
+(4)        An agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided on or after 1 July 2000, if the care is provided by an outside school hours care service during the period of a school vacation that starts before 1 July 2000 and continues on and after that day.
 
 _Note 1:    Item 18 continues access to fee reductions under the childcare assistance scheme for vacation care provided on and after 1 July 2000 if the vacation started before 1 July 2000._
 
 _Note 2:    In respect of care provided on and after 1 July 2000, this provision continues the agreement and, in particular, continues the obligations and responsibilities imposed under the agreement, in relation to that care._
 
-(5)       On and after 1 July 2000, an agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided before 1 July 2000.
+(5)        On and after 1 July 2000, an agreement to which this item applies does operate, in respect of a grant to reimburse the costs of fee reductions, in relation to care provided before 1 July 2000.
 
 _Note:       In respect of care provided before 1 July 2000, this provision continues the agreement and, in particular, continues the obligations and responsibilities imposed under the agreement, in relation to that care._
 
-(6)       On and after 1 July 2000, an agreement to which this item applies operates for the purposes of other grants (if any) provided for in the agreement.
+(6)        On and after 1 July 2000, an agreement to which this item applies operates for the purposes of other grants (if any) provided for in the agreement.
 
 Commonwealth under no obligation to make further grants under agreement
 
-(7)       The operation of an agreement to which this item applies is limited in that the Commonwealth is under no obligation, on or after  1 July 2000, to make any further grants under the agreement to reimburse the costs of fee reductions.
+(7)        The operation of an agreement to which this item applies is limited in that the Commonwealth is under no obligation, on or after 1 July 2000, to make any further grants under the agreement to reimburse the costs of fee reductions.
 
 Child Care Act, guidelines etc. to be treated as in force
 
-(8)       For the purposes of an agreement to which this item applies in so far as it relates to a grant to reimburse the costs of fee reductions, in relation to care provided as mentioned in subitems (3), (4) and (5):
+(8)        For the purposes of an agreement to which this item applies in so far as it relates to a grant to reimburse the costs of fee reductions, in relation to care provided as mentioned in subitems (3), (4) and (5):
 
                      (a)  on and after 1 July 2000, the _Child Care Act 1972_ is treated as being in force as if the amendments made by Schedule 3 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ had not been made; and
 
@@ -9353,7 +9909,7 @@ Child Care Act, guidelines etc. to be treated as in force
 
 Long day care services
 
-(1)       If:
+(1)        If:
 
                      (a)  a childcare assistance agreement is in force in respect of a long day care service immediately before 1 July 2000; and
 
@@ -9363,23 +9919,23 @@ the service is treated as being an approved centre based long day care service u
 
 Family day care services
 
-(2)       If a childcare assistance agreement is in force in respect of a family day care service immediately before 1 July 2000, the service is treated as being an approved family day care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
+(2)        If a childcare assistance agreement is in force in respect of a family day care service immediately before 1 July 2000, the service is treated as being an approved family day care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
 Occasional care services
 
-(3)       If a childcare assistance agreement is in force in respect of an occasional care service immediately before 1 July 2000, the service is treated as being an approved occasional care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
+(3)        If a childcare assistance agreement is in force in respect of an occasional care service immediately before 1 July 2000, the service is treated as being an approved occasional care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
 Outside school hours care services
 
-(4)       If a childcare assistance agreement is in force in respect of an outside school hours care service immediately before 1 July 2000, the service is treated as being an approved outside school hours care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
+(4)        If a childcare assistance agreement is in force in respect of an outside school hours care service immediately before 1 July 2000, the service is treated as being an approved outside school hours care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
 Requirement of subsection 195(3) of the Family Assistance Administration Act need not be complied with
 
-(5)       For an approved child care service referred to in subitems (1) to (4) (inclusive), the Secretary does not have to comply with the requirement in subsection 195(3) of the Family Assistance Administration Act as amended by this Act to give a certificate in respect of the service.
+(5)        For an approved child care service referred to in subitems (1) to (4) (inclusive), the Secretary does not have to comply with the requirement in subsection 195(3) of the Family Assistance Administration Act as amended by this Act to give a certificate in respect of the service.
 
 If long day care services subject to a sanction (other than suspension) on 30 June 2000, sanction carries over to child care benefit scheme
 
-(6)       If a long day care service is, immediately before 1 July 2000, subject to a sanction, other than suspension, under section 4E  of the _Child Care Act 1972_, the service is treated, on and after 1 July 2000, as being subject to the sanction under section 200 of the Family Assistance Administration Act as amended by this Act .
+(6)        If a long day care service is, immediately before 1 July 2000, subject to a sanction, other than suspension, under section 4E  of the _Child Care Act 1972_, the service is treated, on and after 1 July 2000, as being subject to the sanction under section 200 of the Family Assistance Administration Act as amended by this Act .
 
 ## 12  Special condition of continuing approval of approved child care services referred to in item 11
 
@@ -9393,7 +9949,7 @@ it is a condition for the continued approval of the approved child care service 
 
 ## 13  Debts under childcare assistance agreements to be recoverable under the Family Assistance Administration Act
 
-(1)       If:
+(1)        If:
 
                      (a)  an amount (the **_debt_**), whether described as a debt or not, is to be repaid:
 
@@ -9405,11 +9961,11 @@ it is a condition for the continued approval of the approved child care service 
 
 the debt, whether it arises before, or on or after, 1 July 2000 is recoverable on or after 1 July 2000 under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on 1 July 2000.
 
-(2)       If the debt has been partially recovered under the childcare assistance scheme before 1 July 2000, the balance of the debt may be recovered under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on and after 1 July 2000.
+(2)        If the debt has been partially recovered under the childcare assistance scheme before 1 July 2000, the balance of the debt may be recovered under subsection 82(2) of the Family Assistance Administration Act as amended by this Act and in force on and after 1 July 2000.
 
 ## 14  Minister may terminate childcare assistance agreements
 
-(1)       If:
+(1)        If:
 
                      (a)  a childcare assistance agreement was in force immediately before 1 July 2000; and
 
@@ -9417,7 +9973,7 @@ the debt, whether it arises before, or on or after, 1 July 2000 is recoverable o
 
 the Minister may, on or after 1 July 2000, determine, in writing, that the agreement is ended from a date specified in the determination.
 
-(2)       The determination has effect accordingly.
+(2)        The determination has effect accordingly.
 
 ## 15  Old sanctions to be taken into account by Secretary when considering applications under section 194 of the Family Assistance Administration Act
 
@@ -9433,7 +9989,7 @@ the Secretary may refuse to approve the service under subsection 195(2) of that 
 
 Claims for childcare assistance that are undetermined as at 1 July 2000
 
-(1)       If:
+(1)        If:
 
                      (a)  a person lodged a claim for childcare assistance in respect of care provided before 1 July 2000; and
 
@@ -9443,7 +9999,7 @@ the claim is to be determined after 1 July 2000 under the childcare assistance s
 
 Claims lodged after 1 July 2000 
 
-(2)       Despite the termination of the childcare assistance scheme on 1 July 2000, a person may lodge a claim for childcare assistance before 8 July 2000 if the claim relates to care provided no more than 7 days before the claim is lodged. The claim is to be determined after 1 July 2000 under the childcare assistance scheme as in force immediately before 1 July 2000 as if the scheme, as so in force, had continued in force.
+(2)        Despite the termination of the childcare assistance scheme on 1 July 2000, a person may lodge a claim for childcare assistance before 8 July 2000 if the claim relates to care provided no more than 7 days before the claim is lodged. The claim is to be determined after 1 July 2000 under the childcare assistance scheme as in force immediately before 1 July 2000 as if the scheme, as so in force, had continued in force.
 
 ## 17  Special rules relating to sessions of care
 
@@ -9457,7 +10013,7 @@ If a period of vacation care, within the meaning of the childcare assistance sch
 
 Most registered carers to be treated as registered carers under the child care benefits scheme
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual  was a registered carer under section 49 of the _Childcare Rebate Act 1993_ immediately before 1 July 2000; and
 
@@ -9473,7 +10029,7 @@ the individual is to be treated as being approved as a registered carer under se
 
 Applications for registration as a carer under section 49 of the Childcare Rebate Act that are undetermined as at 1 July 2000
 
-(2)       If:
+(2)        If:
 
                      (a)  a person or body lodged an application for registration as a carer under section 49 of the _Childcare Rebate Act 1993_ before 1 July 2000; and
 
@@ -9489,13 +10045,13 @@ then:
 
 Applications for registration as a carer under section 49 of the Childcare Rebate Act lodged after 1 July 2000
 
-(3)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000 _,_ a person or body may apply, on or after 1 July 2000 and before 1 January 2001, for registration as a carer under section 49 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
+(3)        Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000 _,_ a person or body may apply, on or after 1 July 2000 and before 1 January 2001, for registration as a carer under section 49 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
 
 ## 20  Special rules relating to claims for child care rebate
 
 Claims for child care rebate that are undetermined as at 1 July 2000
 
-(1)       If:
+(1)        If:
 
                      (a)  a person lodged a claim for child care rebate before 1 July 2000; and
 
@@ -9505,17 +10061,17 @@ the claim is to be determined under the _Childcare Rebate Act 1993_ as in force 
 
 Claims for child care rebate made after 1 July 2000 for care provided before 1 July 2000
 
-(2)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, a person may lodge a claim for child care rebate on or after 1 July 2000 and before 1 January 2001 if the claim relates to care provided during a period commencing 2 years before the claim was lodged and ending on 30 June 2000\. The claim is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
+(2)        Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, a person may lodge a claim for child care rebate on or after 1 July 2000 and before 1 January 2001 if the claim relates to care provided during a period commencing 2 years before the claim was lodged and ending on 30 June 2000\. The claim is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
 
-(3)       If a session of care provided by a child care service starts before 1 July 2000 and continues on 1 July 2000, a claim for child care rebate in respect of the session is to be determined under the _Childcare Rebate Act 1993_ as in force immediately before 1 July 2000 as if the Act, as so in force, had continued in force.
+(3)        If a session of care provided by a child care service starts before 1 July 2000 and continues on 1 July 2000, a claim for child care rebate in respect of the session is to be determined under the _Childcare Rebate Act 1993_ as in force immediately before 1 July 2000 as if the Act, as so in force, had continued in force.
 
-(4)       If a period of vacation care provided by an outside school hours care service starts before 1 July 2000 and continues on and after 1 July 2000, a claim for child care rebate in respect of this care is to be determined under the _Childcare Rebate Act 1993_ as in force immediately before 1 July 2000 as if the Act, as so in force, had continued in force.
+(4)        If a period of vacation care provided by an outside school hours care service starts before 1 July 2000 and continues on and after 1 July 2000, a claim for child care rebate in respect of this care is to be determined under the _Childcare Rebate Act 1993_ as in force immediately before 1 July 2000 as if the Act, as so in force, had continued in force.
 
 ## 21  Special rules relating to registration of families
 
 Applications for registration of a family under section 19 of the Childcare Rebate Act that are undetermined as at 1 July 2000
 
-(1)       If:
+(1)        If:
 
                      (a)  an individual lodged an application for registration of a family under section 19 of the _Childcare Rebate Act 1993_ before 1 July 2000; and
 
@@ -9525,11 +10081,11 @@ the application is to be determined under the _Childcare Rebate Act 1993_, as in
 
 Applications for registration of a family under section 19 of the Childcare Rebate Act lodged after 1 July 2000
 
-(2)       Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, an individual may apply, on or after 1 July 2000 and before 1 January 2001, for a family to be registered under section 19 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
+(2)        Despite the repeal of the _Childcare Rebate Act 1993_ on 1 July 2000, an individual may apply, on or after 1 July 2000 and before 1 January 2001, for a family to be registered under section 19 of that Act if the application relates to care provided as mentioned in subitem 20(2), (3) or (4). The application is to be determined under the _Childcare Rebate Act 1993_ as in force before 1 July 2000 as if the Act, as so in force, had continued in force.
 
 ## 22  Health Insurance Commission’s functions and powers in relation to child care rebate to continue for certain matters
 
-(1)       The Health Insurance Commission must deal with the following matters:
+(1)        The Health Insurance Commission must deal with the following matters:
 
                      (a)  applications referred to in item 19;
 
@@ -9545,12 +10101,12 @@ under the _Health Insurance Commission Act 197_ 3 and the _Childcare Rebate Act 
 
                       (f)  the repeal of the _Childcare Rebate Act 1993_.
 
-(2)       In respect of the Commission’s powers under subitem (1), the Commission may, under subsection 55(3) of the _Childcare Rebate Act 1993_ as continued in force, extend the period in which an application may be made for reconsideration of a decision listed in section 53 of that Act, but only until 30 June 2001.
+(2)        In respect of the Commission’s powers under subitem (1), the Commission may, under subsection 55(3) of the _Childcare Rebate Act 1993_ as continued in force, extend the period in which an application may be made for reconsideration of a decision listed in section 53 of that Act, but only until 30 June 2001.
 
 ## 23  Other transitional matters may be provided for in regulations
 
-The Governor‑General may make regulations, not inconsistent with this Schedule, the Family Assistance Administration Act and the Family Assistance Act prescribing other transitional matters, apart from transitional matters provided for in this Schedule, that are necessary or convenient for carrying out or giving effect to the introduction of child care benefit under the family assistance law.
+The Governor-General may make regulations, not inconsistent with this Schedule, the Family Assistance Administration Act and the Family Assistance Act prescribing other transitional matters, apart from transitional matters provided for in this Schedule, that are necessary or convenient for carrying out or giving effect to the introduction of child care benefit under the family assistance law.
 
- 
+      
 
  
