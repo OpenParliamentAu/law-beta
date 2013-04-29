@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00302/Html/6629044a-60ad-411c-8026-6fb50ed6f3cb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00834/Html/19f942c9-def1-4dde-87fa-9cf3d9e67417_files/image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 18 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -102,7 +102,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations
 
-[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]
+[35](#35).          Commonwealth to be reimbursed for refunds of levy 
+ [_see_ Note 2]
 
 [36](#36).          Transfers of money where levies redirected
 
@@ -210,8 +211,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [85](#85).          Acting Executive Director
 
-[86](#86).          Exclusion of Executive Director etc  from certain 
- deliberations
+[86](#86).          Exclusion of Executive Director etc  from certain deliberations
 
     **Division 10—Employees and consultants**
 
@@ -1831,9 +1831,19 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  In its application in relation to a person appointed to act as the Executive Director, section 33A of the _Acts Interpretation Act 1901_ is modified as follows:
 
-             (2)  The appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing delivered to the Chairperson.
+                     (b)  a resignation by the person under paragraph 33A(d) is to be delivered to the Chairperson.
+
+             (3)  Anything done by or in relation to a person purporting to act as Executive Director is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act as Executive Director had not arisen or had ceased.
 
 ##### <a id="86"></a>86  Exclusion of Executive Director etc. from certain deliberations
 
@@ -1909,7 +1919,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  In the exercise of a power delegated by the Corporation, the delegate is subject to the directions of the Corporation.
 
-##### <a id="91"></a>91  Delegation by Executive Director
+##### <a id="91"></a>91  Delegation by Executive Director
 
              (1)  The Executive Director of an R&amp;D Corporation may, by writing, delegate to an employee of the Corporation all or any of his or her powers under this Act.
 
@@ -3217,6 +3227,8 @@ the Trust Account that, for the purposes of section 62A of the _Audit Act 1901
 
                    The Acts specified in Schedule 2 are amended as set out in that Schedule.
 
+ 
+
 # Schedule 1—Abolition of Special Research Council and Special Research Fund
 
 _Section 156_
@@ -3320,6 +3332,8 @@ For access to the wording of the amendments made by this Schedule, _see_ Act No.
 
 * * *
 
+ 
+
 # Notes to the _Primary Industries and Energy Research and Development Act 1989_
 
 ### Note 1
@@ -3333,10 +3347,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="17%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -3793,7 +3807,7 @@ Remainder: 1 Jan 2003</div>
     <div>28 May 2007</div>
   </td>
   <td>
-    <div>Sch. 1 (items 33, 35) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 33, 35) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3843,10 +3857,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 912, 913) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 912, 913) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -4400,15 +4414,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 85</div>
   </td>
   <td>
-    <div>am. No. 102, 1998; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 85(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 102, 1998</div>
   </td>
 </tr>
 <tr>
@@ -4744,11 +4750,34 @@ Repeal the section.
 
 The _Primary Industries and Energy Research and Development Act 1989_ was cited incorrectly and the proposed amendment is not incorporated in this compilation.
 
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 912  At the end of subsection 85(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 913  Subsections 85(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  The appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing delivered to the Chairperson.
+
+As at 18 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No. 32, 1999)_
+_Primary Industries Levies and Charges (Consequential Amendments) Act 1999 
+ (No. 32, 1999)_
 
 ## Schedule 3
 
@@ -4768,7 +4797,7 @@ in a corresponding way to the way in which those regulations apply in relation t
 
                      (e)  in the case of a levy—the corresponding levy imposed by an Act repealed by Part 1 of Schedule 1 to this Act.
 
-## 8  Transitional—regulations
+## 8  Transitional—regulations
 
 Unless the contrary intention appears, regulations made for the purposes of the _Primary Industries and Energy Research and Development Act 1989_ apply, in relation to levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed _Wine Grapes Levy Act 1979_.
 
@@ -4902,6 +4931,8 @@ The amendment made by item 34 applies in relation to financial years starting 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
