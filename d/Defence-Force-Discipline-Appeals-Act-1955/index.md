@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00585/Html/DefForDisAppAct55_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00742/Html/DefForDisAppAct55_image001.gif)
 
 # Defence Force Discipline Appeals Act 1955
 
 **Act No. 16 of 1955 as amended**
 
-This compilation was prepared on 1 October 2007
+This compilation was prepared on 20 December 2006
  taking into account amendments up to Act No. 159 of 2006
 
 The text of any of those amendments not in force 
@@ -74,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Time for lodging appeals etc 
 
-[22](#22).          Frivolous or vexatious appeals by an offender appellant
+[22](#22).          Frivolous or vexatious appeals
 
     **Division 2—Determination of appeals**
 
@@ -85,8 +85,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [25](#25).          Custody of person pending new trial
 
 [26](#26).          Substitution of conviction for alternative offence
-
-[27](#27).          Varying etc  punishments and orders
 
     **Division 3—Incidental powers of Tribunal**
 
@@ -100,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Warrants
 
-[36](#36).          Tribunal may obtain reports to assist in determination of appeals [_see_ Note 2]
+[36](#36).          Tribunal may obtain reports to assist in determination of appeals
 
 [37](#37).          Costs
 
@@ -108,13 +106,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Miscellaneous**
 
-[39](#39).          Representation of offender appellants and hearing of appeals
+[39](#39).          Representation of appellants and hearing of appeals
 
 [40](#40).          Protection and immunity of members of Tribunal and of certain other persons
 
 [41](#41).          Person deemed to have been acquitted
 
-[42](#42).          Defence of appeals by offender appellants
+[42](#42).          Defence of appeals
 
 **Part IV—Offences in relation to Tribunal**
 
@@ -152,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to provide for appeals from the Australian Military Court to a Defence Force Discipline Appeal Tribunal
+## An Act to provide for appeals from courts martial and Defence Force magistrates to a Defence Force Discipline Appeal Tribunal
 
 ## Part I—Preliminary
 
@@ -166,49 +164,33 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+             (1)  In this Act, unless the contrary intention appears:
 
                     <a name="appeal"></a>**_appeal_** means an appeal to the Tribunal under this Act.
 
-                    <a name="australia"></a>**_Australia_** includes the Territories to which this Act extends.
+                    <a name="appel"></a>**_appellant_** means a person who appeals, or applies for leave to appeal, under this Act to the Tribunal.
 
-                    <a name="australian-militari-court"></a>**_Australian Military Court_** means the Australian   Military Court created under the _Defence Force Discipline Act 1982_.
+                    <a name="australia"></a>**_Australia_** includes the Territories to which this Act extends.
 
                     <a name="charg"></a>**_charge_** means a charge of a service offence.
 
-                    <a name="convict"></a>**_conviction_** means a conviction by the Australian   Military Court.
+                    <a name="convict"></a>**_conviction_** means a conviction by a court martial or a Defence Force magistrate.
 
-                    <a name="convict-person"></a>**_convicted person_** means a person who has been convicted by the Australian Military Court.
+                    <a name="convict-person"></a>**_convicted person_** means a person who has been convicted by a court martial or a Defence Force magistrate.
 
                     <a name="court-summari-jurisdict"></a>**_court of summary jurisdiction_**, in relation to a Territory, includes a court of that Territory sitting as a court for the making of summary orders or the summary punishment of offences under the law of the Territory.
 
-                    <a name="court-order"></a>**_court order_** means:
+                    <a name="court-martial"></a>**_court martial_** means a court martial convened under the _Defence Force Discipline Act 1982_.
 
-                     (a)  an order made by the Australian   Military Court under subsection 75(1) of the _Defence Force Discipline Act 1982_; or
-
-                     (b)  an order made by the Australian   Military Court under section 83 of that Act; or
-
-                     (c)  an order made by the Australian   Military Court under section 84 of that Act.
-
-                    <a name="director-militari-prosecut"></a>**_Director of Military Prosecutions_** means the Director of Military Prosecutions established under section 188G of the _Defence Force Discipline Act 1982_.
+                    <a name="defenc-forc-magistr"></a>**_Defence Force magistrate_** means a Defence Force magistrate appointed under section 127 of the _Defence Force Discipline Act 1982_.
 
                     <a name="member-tribun"></a><a name="member"></a>**_member_** or **_member of the Tribunal_** means a member of the Tribunal, and includes the President and Deputy President.
 
-                    <a name="militari-judg"></a>**_Military Judge_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
+                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by a court martial or a Defence Force magistrate on the ground of unsoundness of mind.
 
-                    <a name="offend-appel"></a>**_offender appellant_** means a convicted person or a prescribed acquitted person who:
+                    <a name="prescrib-acquitted-person"></a>**_prescribed acquitted person_** means a person who has been acquitted of a service offence by a court martial or a Defence Force magistrate on the ground of unsoundness of mind.
 
-                     (a)  is a party to an appeal; or
-
-                     (b)  makes an application for leave to appeal;
-
-under this Act to the Tribunal.
-
-                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by the Australian Military Court on the ground of unsoundness of mind.
-
-                    <a name="prescrib-acquitted-person"></a>**_prescribed acquitted person_** means a person who has been acquitted of a service offence by the Australian Military Court on the ground of unsoundness of mind.
-
-                    <a name="punish"></a>**_punishment_** means a punishment imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_.
+                    <a name="review-author"></a><a name="review"></a>**_review_** and **_reviewing authority_** have the same respective meanings as they have in the _Defence Force Discipline Act 1982_.
 
                     <a name="servic-offenc"></a>**_service offence_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
 
@@ -219,6 +201,14 @@ under this Act to the Tribunal.
                     <a name="registrar"></a>**_the Registrar_** means the Registrar of the Tribunal, and includes a deputy of the Registrar appointed under subsection (2) of section 19.
 
                     <a name="tribun"></a>**_the Tribunal_** means the Defence Force Discipline Appeal Tribunal constituted under this Act.
+
+             (2)  For the purposes of this Act, where, in a review under Part IX of the _Defence Force Discipline Act 1982_ of the proceedings before a court martial or a Defence Force magistrate, the reviewing authority:
+
+                     (a)  substitutes for the conviction of a service offence a prescribed acquittal of that service offence or a conviction of another service offence; or
+
+                     (b)  takes such action in relation to the convicted person as could have been taken under Part IV of that Act by the court martial or the Defence Force magistrate;
+
+the conviction or prescribed acquittal so substituted or the action so taken, as the case may be, shall be deemed to have been made or taken, as the case may be, by the court martial or the Defence Force magistrate.
 
 ##### <a id="5"></a>5  Extension of Act to Territories
 
@@ -364,13 +354,13 @@ the Tribunal constituted by the remaining members may, if the hearing has not be
 
                      (b)  the extension of the period within which, under this Act, an appeal or an application for leave to appeal to the Tribunal is required to be lodged;
 
-                     (c)  the granting of legal aid to an offender appellant under the regulations;
+                     (c)  the granting of legal aid to an appellant under the regulations;
 
-                     (d)  the granting of leave to an offender appellant to be present at the hearing of an appeal or matter under this Act;
+                     (d)  the granting of leave to an appellant to be present at the hearing of an appeal or matter under this Act;
 
                      (e)  the allowance of remuneration and allowances under subsection (2) of section 34;
 
-                      (f)  the giving of a direction under subsection (1) of section 37 for the payment of a sum or sums by Australia to an offender appellant or the making of an order under subsection (3) or (3A) of that section for the payment of costs; or
+                      (f)  the giving of a direction under subsection (1) of section 37 for the payment of a sum or sums by Australia to an appellant or the making of an order under subsection (3) of that section for the payment of costs; or
 
                      (g)  a prescribed matter of practice or procedure.
 
@@ -404,11 +394,7 @@ the Tribunal constituted by the remaining members may, if the hearing has not be
 
              (1)  Subject to this Act, a convicted person or a prescribed acquitted person may appeal to the Tribunal against his or her conviction or his or her prescribed acquittal but an appeal on a ground that is not a question of law may not be brought except by leave of the Tribunal.
 
-             (2)  An appeal does not lie to the Tribunal against a prescribed acquittal if, in the proceedings before the Australian Military Court that resulted in the prescribed acquittal, evidence of the unsoundness of mind of the prescribed acquitted person was adduced by the defence.
-
-             (3)  A convicted person may appeal to the Tribunal against a punishment imposed, or a court order made, in respect of his or her conviction.
-
-             (4)  The Director of Military Prosecutions may appeal to the Tribunal against a punishment imposed, or a court order made, in respect of a conviction.
+             (2)  An appeal does not lie to the Tribunal against a prescribed acquittal if, in the proceedings before the court martial or the Defence Force magistrate that resulted in the prescribed acquittal, evidence of the unsoundness of mind of the prescribed acquitted person was adduced by the defence.
 
 ##### <a id="21"></a>21  Time for lodging appeals etc.
 
@@ -418,53 +404,51 @@ the Tribunal constituted by the remaining members may, if the hearing has not be
 
                      (b)  shall be lodged with the Registrar, or with such other person as is prescribed, within the appropriate period, or within such further period as the Tribunal, either before or after the expiration of the appropriate period, allows.
 
-             (2)  In subsection (1), **_appropriate period_**, in relation to proceedings before the Australian Military Court that have resulted in a conviction, a prescribed acquittal, the imposition of a punishment or the making of a court order, means:
+             (2)  In subsection (1), **_appropriate period_**, in relation to proceedings before a service tribunal that have resulted in a conviction or a prescribed acquittal, means the period of 30 days commencing immediately after:
 
-                     (a)  if the appeal or application to appeal is against a conviction—the period of 60 days starting on the day of the conviction; or
+                     (a)  the day on which the results of a review under section 152 of the _Defence Force Discipline Act 1982_ of the proceedings are notified to the convicted person or the prescribed acquitted person; or
 
-                     (b)  if the appeal or application to appeal is against a prescribed acquittal—the period of 60 days starting on the day of the prescribed acquittal; or
+                     (b)  the last day of the period of 30 days after the conviction or prescribed acquittal;
 
-                     (c)  if the appeal is against a punishment or a court order—the period of 60 days starting on the day the punishment is imposed or the court order is made.
+whichever is the earlier.
 
-##### <a id="22"></a>22  Frivolous or vexatious appeals by an offender appellant
+##### <a id="22"></a>22  Frivolous or vexatious appeals
 
-                   If:
+                   Where:
 
-                     (a)  an offender appellant lodges an appeal against a conviction, a punishment or a court order, or an application for leave to appeal against a conviction; and
+                     (a)  the Tribunal dismisses an appeal against a conviction or an application for leave to appeal against a conviction; and
 
-                     (b)  the Tribunal dismisses the appeal or application; and
+                     (b)  it appears to the Tribunal that the appeal or application was frivolous or vexatious;
 
-                     (c)  it appears to the Tribunal that the appeal or application was frivolous or vexatious;
-
-the Tribunal may order that any punishment of imprisonment or detention imposed on the offender appellant in the proceedings in relation to which the appeal or application was brought must be taken to commence on the day on which the Tribunal dismisses the appeal or application.
+the Tribunal may order that any punishment of imprisonment or detention imposed on the appellant or applicant in the proceedings in relation to which the appeal or application was brought shall be taken to commence on the day on which the Tribunal dismisses the appeal or application.
 
 ### Division 2—Determination of appeals
 
 ##### <a id="23"></a>23  Quashing of conviction etc.
 
-             (1)  Subject to subsection (5), where in an appeal against a conviction or prescribed acquittal it appears to the Tribunal:
+             (1)  Subject to subsection (5), where in an appeal it appears to the Tribunal:
 
                      (a)  that the conviction or the prescribed acquittal is unreasonable, or cannot be supported, having regard to the evidence;
 
                      (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction or the prescribed acquittal was wrong in law and that a substantial miscarriage of justice has occurred;
 
-                     (c)  that there was a material irregularity in the course of the proceedings before the Australian Military   Court and that a substantial miscarriage of justice has occurred; or
+                     (c)  that there was a material irregularity in the course of the proceedings before the court martial or the Defence Force magistrate and that a substantial miscarriage of justice has occurred; or
 
                      (d)  that, in all the circumstances of the case, the conviction or the prescribed acquittal is unsafe or unsatisfactory;
 
 it shall allow the appeal and quash the conviction or the prescribed acquittal.
 
-             (2)  Subject to subsection (5), where in an appeal against a conviction or prescribed acquittal it appears to the Tribunal that there is evidence that:
+             (2)  Subject to subsection (5), where in an appeal it appears to the Tribunal that there is evidence that:
 
-                     (a)  was not reasonably available during the proceedings before the Australian Military Court;
+                     (a)  was not reasonably available during the proceedings before the court martial or the Defence Force magistrate;
 
                      (b)  is likely to be credible; and
 
-                     (c)  would have been admissible in the proceedings before the Australian Military Court;
+                     (c)  would have been admissible in the proceedings before the court martial or the Defence Force magistrate;
 
 it shall receive and consider that evidence and, if it appears to the Tribunal that the conviction or the prescribed acquittal cannot be supported having regard to that evidence, it shall allow the appeal and quash the conviction or the prescribed acquittal.
 
-             (3)  Subject to subsection (5), where in an appeal against a conviction it appears to the Tribunal that, at the time of the act or omission the subject of the charge, the offender appellant was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission, the Tribunal shall:
+             (3)  Subject to subsection (5), where in an appeal against a conviction it appears to the Tribunal that, at the time of the act or omission the subject of the charge, the appellant was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission, the Tribunal shall:
 
                      (a)  allow the appeal and quash the conviction;
 
@@ -472,7 +456,7 @@ it shall receive and consider that evidence and, if it appears to the Tribunal t
 
                      (c)  direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
-             (4)  Where in an appeal against a conviction or prescribed acquittal it appears to the Tribunal that the Australian Military Court should have found that the offender appellant, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the Tribunal shall allow the appeal, quash the conviction or prescribed acquittal and direct that the offender appellant be kept in strict custody until the pleasure of the Governor-General is known.
+             (4)  Where in an appeal it appears to the Tribunal that the court martial or the Defence Force magistrate should have found that the appellant, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the Tribunal shall allow the appeal, quash the conviction or prescribed acquittal and direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
 
              (5)  The Tribunal shall not quash a conviction under subsection (3) or (4) if there are grounds for quashing the conviction under subsection (1) or (2).
 
@@ -490,41 +474,23 @@ it shall receive and consider that evidence and, if it appears to the Tribunal t
 
              (1)  Where the Tribunal quashes the conviction of a person of a service offence (in this section referred to as **_the original offence_**) but considers:
 
-                     (a)  that the Military Judge or the military jury could in the proceedings have found the person guilty of another service offence, being:
+                     (a)  that the court martial or the Defence Force magistrate could in the proceedings have found the person guilty of another service offence, being:
 
                               (i)  a service offence that is an alternative offence, within the meaning of section 142 of the _Defence Force Discipline Act 1982_, in relation to the original offence; or
 
-                             (ii)  a service offence with which the person was charged in the alternative and in respect of which the Australian   Military Court did not record a finding; and
+                             (ii)  a service offence with which the person was charged in the alternative and in respect of which the court martial or the Defence Force magistrate did not record a finding; and
 
-                     (b)  that the Military Judge or the military jury, by reason of its, his or her finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other service offence;
+                     (b)  that the court martial or the Defence Force magistrate, by reason of its or his finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other service offence;
 
 the Tribunal may substitute for the conviction of the original offence a conviction of the other service offence.
 
-             (2)  Where under subsection (1) the Tribunal substitutes for the conviction of the original offence a conviction of another service offence, the Tribunal may take such action in relation to the convicted person as could have been taken under Part IV of the _Defence Force Discipline Act 1982_ by the the Australian Military Court if the Court had convicted the person of that other service offence, but the Tribunal:
+             (2)  Where under subsection (1) the Tribunal substitutes for the conviction of the original offence a conviction of another service offence, the Tribunal may take such action in relation to the convicted person as could have been taken under Part IV of the _Defence Force Discipline Act 1982_ by the court martial or the Defence Force magistrate that convicted the convicted person of the original offence if the court martial or Defence Force magistrate had convicted him of that other service offence, but the Tribunal:
 
                      (a)  shall not impose a punishment for that other service offence or make a reparation order with respect to that other service offence unless a punishment was imposed for the original offence or a reparation order was made with respect to the original offence, as the case may be; and
 
                      (b)  shall not impose a punishment for that other service offence that is more severe than the punishment that was imposed for the original offence and shall not make a reparation order with respect to that other service offence that is for an amount that exceeds the amount of the reparation order that was made with respect to the original offence.
 
              (3)  Where, under subsection (2), the Tribunal imposes a punishment of imprisonment or detention, that punishment shall, unless the Tribunal otherwise directs, be deemed to have commenced from the time from which it would have commenced if it had been imposed in the proceedings from which the appeal was brought.
-
-             (4)  In this section, **_military jury_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
-
-##### <a id="27"></a>27  Varying etc. punishments and orders
-
-             (1)  In an appeal against a punishment or a court order, the Tribunal, in its discretion, may:
-
-                     (a)  confirm, quash or vary the punishment or order; and
-
-                     (b)  impose a different punishment or order; and
-
-                     (c)  in the case of a punishment—make a court order; and
-
-                     (d)  in the case of a court order—impose a punishment.
-
-             (2)  Any punishment or court order varied or imposed by the Tribunal under this section has the same effect, and is to be enforced in the same manner, as if it had been imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_.
-
-             (3)  However, Part IV of the _Defence Force Discipline Act 1982_ applies to the Tribunal for the purposes of this section in the same way that it applies to the Australian Military Court for the purposes of that Act.
 
 ### Division 3—Incidental powers of Tribunal
 
@@ -534,9 +500,9 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
                      (a)  appoint a person (who may be a member of the Tribunal) to receive evidence on behalf of the Tribunal and allow the admission of evidence given before, and of documents, books or writings produced to, a person so appointed;
 
-                     (b)  summon a person, who would have been a compellable witness at the trial by the Australian Military Court, by writing under the hand of a member of the Tribunal, to attend the Tribunal or a person appointed by the Tribunal to receive evidence on behalf of the Tribunal, at a time and place named in the summons, and then and there to give evidence and to produce any documents, books or writings in the person’s custody or control which the person is required by the summons to produce;
+                     (b)  summon a person, who would have been a compellable witness at the trial by the court martial or the Defence Force magistrate, by writing under the hand of a member of the Tribunal, to attend the Tribunal or a person appointed by the Tribunal to receive evidence on behalf of the Tribunal, at a time and place named in the summons, and then and there to give evidence and to produce any documents, books or writings in the person’s custody or control which the person is required by the summons to produce;
 
-                     (c)  receive the evidence, if tendered, of any witness, including the offender appellant, who is a competent but not compellable witness and, on the application of the offender appellant, of the husband or wife of the offender appellant in a case where the evidence of the husband or wife could not have been given at the trial except on such an application;
+                     (c)  receive the evidence, if tendered, of any witness, including the appellant, who is a competent but not compellable witness and, on the application of the appellant, of the husband or wife of the appellant in a case where the evidence of the husband or wife could not have been given at the trial except on such an application;
 
                      (d)  where a question arising on an appeal involves prolonged examination of documents or accounts, or a scientific or local investigation, being an examination or investigation which cannot, in the opinion of the Tribunal, conveniently be conducted before the Tribunal—order the reference of the question for inquiry and report to a special commissioner appointed by the Tribunal and act upon the report of the commissioner so far as the Tribunal thinks fit to adopt it; and
 
@@ -572,23 +538,21 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
 ##### <a id="35"></a>35  Warrants
 
-             (1)  The Tribunal may, by writing under the hand of a member of the Tribunal, issue any warrant necessary for the enforcement of any action taken in relation to an offender appellant by the Tribunal.
+             (1)  The Tribunal may, by writing under the hand of a member of the Tribunal, issue any warrant necessary for the enforcement of any action taken in relation to an appellant by the Tribunal.
 
              (2)  Section 170 of the _Defence Force Discipline Act 1982_ applies in relation to a warrant issued under subsection (1) of this section as if it were issued under subsection 170(1) of that Act.
 
-##### <a id="36"></a>36  Tribunal may obtain reports to assist in determination of appeals<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+##### <a id="36"></a>36  Tribunal may obtain reports to assist in determination of appeals
 
-                   Where, upon the hearing of an appeal under this Act against a conviction or a prescribed acquittal by a court martial or a Defence Force magistrate, the Tribunal thinks it necessary or expedient in the interests of justice to do so, the Tribunal may direct such steps to be taken as are necessary to obtain from the Military Judge of the Australian Military Court who heard the case, a report giving his or her opinion upon the case, or upon a point arising in the case, or containing a statement as to any facts the ascertainment of which appears to the Tribunal to be material for the purpose of the determination of the appeal.
+                   Where, upon the hearing of an appeal under this Act against a conviction or a prescribed acquittal by a court martial or a Defence Force magistrate, the Tribunal thinks it necessary or expedient in the interests of justice to do so, the Tribunal may direct such steps to be taken as are necessary to obtain from the person who was the judge advocate of the court martial or from the Defence Force magistrate, a report giving his or her opinion upon the case, or upon a point arising in the case, or containing a statement as to any facts the ascertainment of which appears to the Tribunal to be material for the purpose of the determination of the appeal.
 
 ##### <a id="37"></a>37  Costs
 
-             (1)  Where the Tribunal allows an appeal by an offender appellant, it may, if it thinks fit, direct the payment by the Commonwealth to the offender appellant of such sums as appear to the Tribunal reasonably sufficient to compensate the offender appellant for expenses properly incurred by him or her in the prosecution of his or her appeal, and any proceedings preliminary or incidental to the appeal, or in carrying on his or her defence against the charge or charges out of which the appeal arose.
+             (1)  Where the Tribunal allows an appeal, it may, if it thinks fit, direct the payment by the Commonwealth to the appellant of such sums as appear to the Tribunal reasonably sufficient to compensate the appellant for expenses properly incurred by him or her in the prosecution of his or her appeal, and any proceedings preliminary or incidental to the appeal, or in carrying on his or her defence against the charge or charges out of which the appeal arose.
 
-          (1A)  If the Tribunal dismisses an appeal by the Director of Military Prosecutions, it may, if it thinks fit, order the Commonwealth to pay to the offender appellant the whole or any part of the costs of the appeal that were incurred by the offender appellant.
+             (2)  The Minister for Finance shall pay to an appellant, out of moneys provided by the Parliament for the purpose, any sum which the Commonwealth is directed to pay to the appellant under the last preceding subsection.
 
-             (2)  The Minister for Finance shall pay to an offender appellant, out of moneys provided by the Parliament for the purpose, any sum which the Commonwealth is directed to pay to the offender appellant under subsection (1) or (1A).
-
-             (3)  Where the Tribunal dismisses an appeal by an offender appellant or an application for leave to appeal by an offender appellant, it may, if it thinks fit, order the offender appellant to pay to the Commonwealth the whole or any part of the costs of the appeal or application, including allowances paid to a witness under section 34 and the costs of copying or transcribing any documents for the use of the Tribunal.
+             (3)  Where the Tribunal dismisses an appeal or an application for leave to appeal, it may, if it thinks fit, order the appellant to pay to the Commonwealth the whole or any part of the costs of the appeal or application, including allowances paid to a witness under section 34 and the costs of copying or transcribing any documents for the use of the Tribunal.
 
              (4)  An order made under the last preceding subsection may be enforced in such manner as is prescribed.
 
@@ -602,13 +566,13 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
 ### Division 4—Miscellaneous
 
-##### <a id="39"></a>39  Representation of offender appellants and hearing of appeals
+##### <a id="39"></a>39  Representation of appellants and hearing of appeals
 
-             (1)  An offender appellant may be represented at the hearing of an appeal before the Tribunal to which he or she is a party, or of a matter preliminary or incidental to the appeal, by a legal practitioner.
+             (1)  An appellant may be represented at the hearing of his appeal before the Tribunal, or of a matter preliminary or incidental to the appeal, by a legal practitioner.
 
-             (2)  The Tribunal may hear and determine an appeal, or a matter preliminary or incidental to an appeal, notwithstanding the absence of the offender appellant.
+             (2)  The Tribunal may hear and determine an appeal, or a matter preliminary or incidental to an appeal, notwithstanding the absence of the appellant.
 
-             (3)  An offender appellant is entitled to be present at the hearing of an appeal to which he or she is a party, or of a matter preliminary or incidental to the appeal:
+             (3)  An appellant is entitled to be present at the hearing of his appeal, or of a matter preliminary or incidental to the appeal:
 
                      (a)  in a case in which the regulations so provide; or
 
@@ -622,7 +586,7 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
              (2)  A barrister or solicitor appearing before the Tribunal has the same protection and immunity as a barrister has in appearing for a party in proceedings in the High Court.
 
-             (3)  An offender appellant appearing before the Tribunal has the same protection and immunity as a person who has been convicted of an indictable offence and has appealed to the High Court against the conviction has in appearing before the High Court on the appeal.
+             (3)  An appellant appearing before the Tribunal has the same protection and immunity as a person who has been convicted of an indictable offence and has appealed to the High Court against the conviction has in appearing before the High Court on the appeal.
 
              (4)  Subject to this Act, a witness summoned to attend or appearing before the Tribunal has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities in any civil or criminal proceedings, as a witness in proceedings before the High Court.
 
@@ -634,9 +598,9 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
                      (b)  where the Tribunal quashes a prescribed acquittal of a person of a service offence and does not give a direction with respect to the person under subsection 23(4) or order a new trial of the person for the offence, the person shall be deemed to have been acquitted of the offence without qualification.
 
-##### <a id="42"></a>42  Defence of appeals by offender appellants
+##### <a id="42"></a>42  Defence of appeals
 
-                   The Chief of the Defence Force or a service chief shall arrange the undertaking of the defence of an appeal by an offender appellant under this Act.
+                   The Chief of the Defence Force or a service chief shall arrange the undertaking of the defence of an appeal under this Act.
 
 ## Part IV—Offences in relation to Tribunal
 
@@ -750,7 +714,7 @@ the contempt is punishable by the court to which the application was made as if 
 
 ##### <a id="51"></a>51  Reference of questions of law to Federal Court of Australia
 
-             (1)  The Tribunal may, of its own motion or at the request of the offender appellant or the Director of Military Prosecutions, refer a question of law arising in a proceeding before the Tribunal, not being a proceeding before a single member exercising the powers of the Tribunal, to the Federal Court of Australia for decision.
+             (1)  The Tribunal may, of its own motion or at the request of the appellant or the Chief of the Defence Force or a service chief, refer a question of law arising in a proceeding before the Tribunal, not being a proceeding before a single member exercising the powers of the Tribunal, to the Federal Court of Australia for decision.
 
              (2)  The Federal Court of Australia has jurisdiction to hear and determine a question of law referred to it under this section, and that jurisdiction shall be exercised by that Court constituted as a Full Court.
 
@@ -762,7 +726,7 @@ the contempt is punishable by the court to which the application was made as if 
 
 ##### <a id="52"></a>52  Appeal to Federal Court of Australia from decisions of the Tribunal
 
-             (1)  An offender appellant or the Director of Military Prosecutions may appeal to the Federal Court of Australia on a question of law involved in a decision of the Tribunal in respect of an appeal under this Act, not being a decision given by a single member exercising the powers of the Tribunal.
+             (1)  An appellant or the Chief of the Defence Force or a service chief may appeal to the Federal Court of Australia on a question of law involved in a decision of the Tribunal in respect of an appeal under this Act, not being a decision given by a single member exercising the powers of the Tribunal.
 
              (2)  An appeal under subsection (1) shall be instituted not later than the twenty-eighth day after the day on which a copy of a document setting out the terms of the decision of the Tribunal is furnished to the person or within such further time as the Federal Court of Australia (whether before or after the expiration of that day) allows.
 
@@ -776,7 +740,7 @@ the contempt is punishable by the court to which the application was made as if 
 
                      (b)  an order remitting the case to be heard and decided again by the Tribunal in accordance with the directions of the Court;
 
-                     (c)  an order granting a new trial by the   Australian Military Court; and
+                     (c)  an order granting a new trial by a court martial or a Defence Force magistrate; and
 
                      (d)  where the Court sets aside a decision of the Tribunal quashing a conviction or quashing a prescribed acquittal—an order reinstating the conviction or the prescribed acquittal, as the case may be.
 
@@ -810,15 +774,17 @@ the contempt is punishable by the court to which the application was made as if 
 
                      (c)  for prescribing the forms to be used for the purposes of this Act;
 
-                     (d)  for making provision for or in relation to the granting of legal aid to offender appellants and persons who desire to appeal to the Tribunal under this Act (other than the Director of Military Prosecutions);
+                     (d)  for making provision for or in relation to the granting of legal aid to appellants and persons who desire to appeal to the Tribunal under this Act;
 
-                      (f)  for prescribing the manner in which an offender appellant in custody is to be taken and kept in custody at, and brought back from, a place at which he or she is entitled to be present for the purposes of this Act or to which the Tribunal or a member of the Tribunal may order him or her to be taken for the purpose of any proceedings of the Tribunal;
+                      (f)  for prescribing the manner in which an appellant in custody is to be taken and kept in custody at, and brought back from, a place at which he or she is entitled to be present for the purposes of this Act or to which the Tribunal or a member of the Tribunal may order him or her to be taken for the purpose of any proceedings of the Tribunal;
 
-                     (g)  for making provision for or in relation to the furnishing to the Tribunal, for the purposes of an appeal, or an application for leave to appeal, under this Act against a conviction, a prescribed acquittal, a punishment imposed or a court order made by the Australian   Military Court, of:
+                     (g)  for making provision for or in relation to the furnishing to the Tribunal, for the purposes of an appeal, or an application for leave to appeal, under this Act against a conviction or a prescribed acquittal by a court martial or a Defence Force magistrate, of:
 
-                              (i)  a record of the proceedings of the Australian Military Court; and
+                              (i)  a record of the proceedings of the court martial or Defence Force magistrate;
 
-                             (ii)  documents that were before the Australian Military Court in connection with the proceedings; and
+                             (ii)  a record of any review with respect to the proceedings of the court martial or Defence Force magistrate; and
+
+                            (iii)  documents that were before the court martial, Defence Force magistrate or reviewing authority in connection with the proceedings, or the review of the proceedings, as the case may be;
 
                      (h)  for prescribing penalties, not exceeding a fine of $500 or imprisonment for 3 months, or both, for offences against the regulations; and
 
@@ -1168,11 +1134,11 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Oct 2007 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 20–31, 203–252, 255–262): \[ <i>see</i>Note 2 and Table A] 
+Schedule 3: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 255–262) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 255–262) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1240,7 +1206,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 153, 1982; No. 159, 2006</div>
+    <div>am. No. 153, 1982</div>
   </td>
 </tr>
 <tr>
@@ -1272,7 +1238,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006</div>
+    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982</div>
   </td>
 </tr>
 <tr>
@@ -1440,7 +1406,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 153, 1982; No. 159, 2006</div>
+    <div>am. No. 96, 1975; No. 153, 1982</div>
   </td>
 </tr>
 <tr>
@@ -1533,18 +1499,10 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 22</div>
   </td>
   <td>
-    <div>rs. No. 153, 1982; No. 159, 2006</div>
+    <div>rs. No. 153, 1982</div>
   </td>
 </tr>
 <tr>
@@ -1581,7 +1539,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 </tr>
 <tr>
   <td>
-    <div>Ss. 24, 25</div>
+    <div>Ss. 24–26</div>
   </td>
   <td>
     <div>rs. No. 153, 1982</div>
@@ -1589,39 +1547,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28–30</div>
+    <div>Ss. 27–30</div>
   </td>
   <td>
     <div>rep. No. 153, 1982</div>
@@ -1677,14 +1603,6 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 36</div>
   </td>
   <td>
@@ -1733,18 +1651,10 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 159, 2006</div>
+    <div>am. No. 216, 1973</div>
   </td>
 </tr>
 <tr>
@@ -1752,7 +1662,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 159, 2006</div>
+    <div>am. No. 96, 1975</div>
   </td>
 </tr>
 <tr>
@@ -1761,14 +1671,6 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
   </td>
   <td>
     <div>rs. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1792,7 +1694,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006</div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1920,7 +1822,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006</div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1944,7 +1846,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006</div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2054,15 +1956,337 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 
 ### Note 2
 
-Section 36—Schedule 1 (item 235) of the _Defence Legislation Amendment Act 2006_ (No. 159, 2006) provides as follows:
+_Defence Legislation Amendment Act 2006 (No. 159, 2006)_
 
-## Schedule 1
+The following amendments commence on 1 October 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 20  Subsection 4(1) (definition of _appellant_)
+
+Repeal the definition.
+
+## 21  Subsection 4(1)
+
+Insert:
+
+                    <a name="court-order"></a>**_court order_** means:
+
+                     (a)  an order made by the Australian   Military Court under subsection 75(1) of the _Defence Force Discipline Act 1982_; or
+
+                     (b)  an order made by the Australian   Military Court under section 83 of that Act; or
+
+                     (c)  an order made by the Australian   Military Court under section 84 of that Act.
+
+## 22  Subsection 4(1)
+
+Insert:
+
+                    <a name="director-militari-prosecut"></a>**_Director of Military Prosecutions_** means the Director of Military Prosecutions established under section 188G of the _Defence Force Discipline Act 1982_.
+
+## 23  Subsection 4(1)
+
+Insert:
+
+                    <a name="offend-appel"></a>**_offender appellant_** means a convicted person or a prescribed acquitted person who:
+
+                     (a)  is a party to an appeal; or
+
+                     (b)  makes an application for leave to appeal;
+
+under this Act to the Tribunal.
+
+## 24  Subsection 4(1)
+
+Insert:
+
+                    <a name="punish"></a>**_punishment_** means a punishment imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_.
+
+## 25  At the end of section 20
+
+Add:
+
+             (3)  A convicted person may appeal to the Tribunal against a punishment imposed, or a court order made, in respect of his or her conviction.
+
+             (4)  The Director of Military Prosecutions may appeal to the Tribunal against a punishment imposed, or a court order made, in respect of a conviction.
+
+## 26  Subsection 21(2)
+
+Repeal the subsection, substitute:
+
+             (2)  In subsection (1), **_appropriate period_**, in relation to proceedings before the Australian Military Court that have resulted in a conviction, a prescribed acquittal, the imposition of a punishment or the making of a court order, means:
+
+                     (a)  if the appeal or application to appeal is against a conviction—the period of 60 days starting on the day of the conviction; or
+
+                     (b)  if the appeal or application to appeal is against a prescribed acquittal—the period of 60 days starting on the day of the prescribed acquittal; or
+
+                     (c)  if the appeal is against a punishment or a court order—the period of 60 days starting on the day the punishment is imposed or the court order is made.
+
+## 27  Section 22
+
+Repeal the section, substitute:
+
+##### <a id="22"></a>22  Frivolous or vexatious appeals by an offender appellant
+
+                   If:
+
+                     (a)  an offender appellant lodges an appeal against a conviction, a punishment or a court order, or an application for leave to appeal against a conviction; and
+
+                     (b)  the Tribunal dismisses the appeal or application; and
+
+                     (c)  it appears to the Tribunal that the appeal or application was frivolous or vexatious;
+
+the Tribunal may order that any punishment of imprisonment or detention imposed on the offender appellant in the proceedings in relation to which the appeal or application was brought must be taken to commence on the day on which the Tribunal dismisses the appeal or application.
+
+## 28  At the end of Division 2 of Part III
+
+Add:
+
+##### <a id="27"></a>27  Varying etc. punishments and orders
+
+             (1)  In an appeal against a punishment or a court order, the Tribunal, in its discretion, may:
+
+                     (a)  confirm, quash or vary the punishment or order; and
+
+                     (b)  impose a different punishment or order; and
+
+                     (c)  in the case of a punishment—make a court order; and
+
+                     (d)  in the case of a court order—impose a punishment.
+
+             (2)  Any punishment or court order varied or imposed by the Tribunal under this section has the same effect, and is to be enforced in the same manner, as if it had been imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_.
+
+             (3)  However, Part IV of the _Defence Force Discipline Act 1982_ applies to the Tribunal for the purposes of this section in the same way that it applies to the Australian Military Court for the purposes of that Act.
+
+## 29  After subsection 37(1)
+
+Insert:
+
+          (1A)  If the Tribunal dismisses an appeal by the Director of Military Prosecutions, it may, if it thinks fit, order the Commonwealth to pay to the offender appellant the whole or any part of the costs of the appeal that were incurred by the offender appellant.
+
+## 30  Subsection 51(1)
+
+Omit “the appellant or the Chief of the Defence Force or a service chief”, substitute “the offender appellant or the Director of Military Prosecutions”.
+
+## 31  Subsection 52(1)
+
+Omit “appellant or the Chief of the Defence Force or a service chief”, substitute “offender appellant or the Director of Military Prosecutions”.
+
+## 203  Title
+
+Omit “**courts martial and Defence Force magistrates**”, substitute “**the****Australian Military Court**”.
+
+## 204  Subsection 4(1)
+
+Omit “(1)”.
+
+## 205  Subsection 4(1)
+
+Insert:
+
+                    <a name="australian-militari-court"></a>**_Australian Military Court_** means the Australian   Military Court created under the _Defence Force Discipline Act 1982_.
+
+## 206  Subsection 4(1) (definition of _convicted person_)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 207  Subsection 4(1) (definition of _conviction_)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 208  Subsection 4(1) (definition of _court martial_)
+
+Repeal the definition.
+
+## 209  Subsection 4(1) (definition of _Defence Force magistrate_)
+
+Repeal the definition.
+
+## 210  Subsection 4(1)
+
+Insert:
+
+                    <a name="militari-judg"></a>**_Military Judge_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
+
+## 211  Subsection 4(1) (definition of _prescribed acquittal_)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 212  Subsection 4(1) (definition of _prescribed acquitted person_)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 213  Subsection 4(1) (definition of _review_)
+
+Repeal the definition.
+
+## 214  Subsection 4(1) (definition of _reviewing authority_)
+
+Repeal the definition.
+
+## 215  Subsection 4(2)
+
+Repeal the subsection.
+
+## 216  Paragraphs 17(1)(c), (d) and (f)
+
+Before “appellant”, insert “offender”.
+
+## 217  Paragraph 17(1)(f)
+
+After “(3)”, insert “or (3A)”.
+
+## 218  Subsection 20(2)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 219  Subsection 23(1)
+
+After “an appeal”, insert “against a conviction or prescribed acquittal”.
+
+## 220  Paragraph 23(1)(c)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 221  Subsection 23(2)
+
+After “an appeal”, insert “against a conviction or prescribed acquittal”.
+
+## 222  Paragraphs 23(2)(a) and (c)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 223  Subsection 23(3)
+
+Before “appellant”, insert “offender”.
+
+## 224  Subsection 23(4)
+
+After “an appeal”, insert “against a conviction or prescribed acquittal”.
+
+## 225  Subsection 23(4)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 226  Subsection 23(4)
+
+Before “appellant” (wherever occurring), insert “offender”.
+
+## 227  Paragraph 26(1)(a)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Military Judge or the military jury”.
+
+## 228  Subparagraph 26(1)(a)(ii)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 229  Paragraph 26(1)(b)
+
+Omit “the court martial or the Defence Force magistrate, by reason of its or his”, substitute “the Military Judge or the military jury, by reason of its, his or her”.
+
+## 230  Subsection 26(2)
+
+Omit “court martial or the Defence Force magistrate that convicted the convicted person of the original offence if the court martial or Defence Force magistrate had convicted him”, substitute “the Australian   Military Court if the Court had convicted the person”.
+
+## 231  At the end of section 26
+
+Add:
+
+             (4)  In this section, **_military jury_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
+
+## 232  Paragraph 31(1)(b)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 233  Paragraph 31(1)(c)
+
+Before “appellant” (wherever occurring), insert “offender”.
+
+## 234  Subsection 35(1)
+
+Before “appellant”, insert “offender”.
 
 ## 235  Section 36
 
 Omit “against a conviction or prescribed acquittal by a court martial or a Defence Force magistrate”.
 
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+## 236  Section 36
+
+Omit “the person who was the judge advocate of the court martial or from the Defence Force magistrate”, substitute “the Military Judge of the Australian   Military Court who heard the case”.
+
+## 237  Subsection 37(1)
+
+After “an appeal”, insert “by an offender appellant”.
+
+## 238  Subsections 37(1) and (2)
+
+Before “appellant” (wherever occurring), insert “offender”.
+
+## 239  Subsection 37(2)
+
+Omit “the last preceding subsection”, substitute “subsection (1) or (1A)”.
+
+## 240  Subsection 37(3)
+
+Omit “an appeal or an application for leave to appeal, it may, if it thinks fit, order the appellant”, substitute “an appeal by an offender appellant or an application for leave to appeal by an offender appellant, it may, if it thinks fit, order the offender appellant”.
+
+## 241  Subsection 39(1)
+
+Before “appellant”, insert “offender”.
+
+_Note:       The heading to section 39 is altered by inserting “offender” before “appellants”._
+
+## 242  Subsection 39(1)
+
+Omit “his appeal before the Tribunal”, substitute “an appeal before the Tribunal to which he or she is a party”.
+
+## 243  Subsections 39(2) and (3)
+
+Before “appellant”, insert “offender”.
+
+## 244  Subsection 39(3)
+
+Omit “his appeal”, substitute “an appeal to which he or she is a party”.
+
+## 245  Subsection 40(3)
+
+Before “appellant”, insert “offender”.
+
+## 246  Section 42
+
+After “an appeal”, insert “by an offender appellant”.
+
+_Note:       The heading to section 42 is altered by adding at the end “by offender appellants”._
+
+## 247  Paragraph 52(5)(c)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 248  Paragraph 60(d)
+
+Before “appellants”, insert “offender”.
+
+## 249  At the end of paragraph 60(d)
+
+Add “(other than the Director of Military Prosecutions)”.
+
+## 250  Paragraph 60(f)
+
+Before “appellant”, insert “offender”.
+
+## 251  Paragraph 60(g)
+
+Omit “or a prescribed acquittal by a court martial or a Defence Force magistrate”, substitute “, a prescribed acquittal, a punishment imposed or a court order made by the Australian Military Court”.
+
+## 252  Subparagraphs 60(g)(i), (ii) and (iii)
+
+Repeal the subparagraphs, substitute:
+
+                              (i)  a record of the proceedings of the Australian Military Court; and
+
+                             (ii)  documents that were before the Australian Military Court in connection with the proceedings; and
+
+As at 20 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2079,6 +2303,8 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 * * *
 
 _Defence Legislation Amendment Act 2006 (No. 159, 2006)_
+
+The following provisions commence on 1 October 2007 unless proclaimed earlier:
 
 ## Schedule 1
 
