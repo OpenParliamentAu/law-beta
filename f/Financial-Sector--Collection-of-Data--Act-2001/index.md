@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00517/Html/FinanSectorCollectData2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00459/Html/FinanSectorCollectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 27 July 2010
+This compilation was prepared on 6 July 2010
  taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force
@@ -56,13 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Determination of reporting standards and requirement to provide documents**
 
-[13](#13).          Determination of reporting standards for, and the provision of, certain documents
-
-[13A](#13A).       Copy of reporting standard to be given to financial sector entities and the Minister etc 
-
-[13B](#13B).       Financial sector entity must not disclose that it has been given a copy of a reporting standard etc 
-
-[13C](#13C).       Minister may direct APRA to determine reporting standards
+[13](#13).          APRA may determine reporting standards for, and require provision of, certain documents
 
 [14](#14).          Principal executive officer of financial sector entity (other than a superannuation entity) to notify the entity’s governing body of a failure to provide reporting documents to APRA
 
@@ -71,16 +65,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [16](#16).          Exemptions
 
 [17](#17).          APRA may require the variation of a reporting document or the provision of financial information
-
-    **Division 2A—Auditing of documents**
-
-[17A](#17A).       Application of this Division
-
-[17B](#17B).       Auditor’s functions and duties
-
-[17C](#17C).       Auditor must notify APRA of attempts to unduly influence etc  the auditor
-
-[17D](#17D).       Giving false or misleading information to auditor
 
     **Division 3—Administrative penalties in lieu of prosecution for certain offences**
 
@@ -120,8 +104,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29](#29).          Corporation not to hold out that it is a registered entity
 
-[29A](#29A).       Delegation by Minister
-
 [30](#30).          Regulations
 
 **Part 5—Interpretation**
@@ -154,13 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object of Act
 
-             (1)  The object of this Act is to enable the Australian Prudential Regulation Authority (**_APRA_**) to collect information in order to assist:
-
-                     (a)  APRA in the prudential regulation or monitoring of bodies in the financial sector; and
-
-                     (b)  another financial sector agency to perform its functions or exercise its powers; and
-
-                     (c)  the Minister to formulate financial policy.
+             (1)  The object of this Act is to enable the collection by the Australian Prudential Regulation Authority (**_APRA_**) of information to assist it in the prudential regulation or monitoring of bodies in the financial sector and to facilitate the formulation by the Reserve Bank of monetary policy.
 
              (2)  In order to achieve that object, this Act:
 
@@ -184,19 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  a corporation to which section 5A applies; or
 
-                     (d)  a discretionary mutual fund; or
-
-                     (e)  a person who:
-
-                              (i)  provides a financial service (within the meaning of section 766A of the _Corporations Act 2001_); and
-
-                             (ii)  is not an entity, corporation or fund referred to in paragraphs (a) to (d) of this subsection; or
-
-                      (f)  a person who:
-
-                              (i)  is a participant in a payment system (within the meaning of section 7 of the _Payment Systems (Regulation) Act 1998_); and
-
-                             (ii)  is not an entity, corporation or fund referred to in paragraphs (a) to (d) of this subsection.
+                     (d)  a discretionary mutual fund.
 
              (3)  A **_registered entity_** is a corporation whose name is entered in the Register of Entities kept by APRA under section 8.
 
@@ -227,8 +191,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                              (ii)  included in a class of funds that are declared not to be discretionary mutual funds;
 
                             by regulations made for the purposes of this paragraph.
-
-             (7)  Despite subsection (2), the Reserve Bank is not a **_financial sector entity_**.
 
 ##### <a id="5A"></a>5A  Medical indemnity entities
 
@@ -436,61 +398,25 @@ and the corporation gives information or makes submissions to APRA in support of
 
 ### Division 2—Determination of reporting standards and requirement to provide documents
 
-##### <a id="13"></a>13  Determination of reporting standards for, and the provision of, certain documents
+##### <a id="13"></a>13  APRA may determine reporting standards for, and require provision of, certain documents
 
              (1)  APRA may:
 
-                     (a)  determine, in writing, reporting standards that are required to be complied with by financial sector entities of a kind referred to in paragraphs 5(2)(a) to (d) with respect to any of the following documents (**_reporting documents_**):
+                     (a)  by legislative instrument, determine reporting standards that are required to be complied with by financial sector entities with respect to any of the following documents (**_reporting documents_**):
 
                               (i)  statements, reports, returns, certificates or other documents containing information of a financial or accounting nature relating to the business or activities of the entities;
 
                              (ii)  surveys, reports, returns, certificates or other documents containing other information relating to the business or activities of the entities; and
 
-                     (b)  publish those reporting standards that are legislative instruments in any way that it considers appropriate.
+                     (b)  publish those reporting standards in any way that it considers appropriate.
 
 Note:          When APRA has determined a reporting standard, it has power at any time to revoke or vary the standard (see subsection 33(3) of the _Acts Interpretation Act 1901_).
-
-          (1A)  A reporting standard is a legislative instrument, unless:
-
-                     (a)  APRA considers, on reasonable grounds, that the reporting standard includes confidential information, the publication of which is likely to have a detrimental effect on:
-
-                              (i)  the stability of the financial system; or
-
-                             (ii)  the stability of one or more financial institutions; and
-
-                     (b)  APRA considers, on reasonable grounds, that the information to be contained in the reporting documents is required urgently by APRA for any of the following purposes:
-
-                              (i)  to determine the financial or prudential condition of financial sector entities;
-
-                             (ii)  to determine the nature or level of exposure that financial sector entities have to risks, including risks relating to particular transactions, entities, business sectors, asset classes or events;
-
-                            (iii)  to assess potential threats to the stability of the financial system;
-
-                            (iv)  to assist APRA, the Minister or a financial sector agency to respond to any threats to the stability of the financial system;
-
-                             (v)  to determine what, if any, action should be taken by, or in relation to, one or more financial sector entities; and
-
-                     (c)  the reporting standard does not require the information referred to in paragraph (b) to be given on an ongoing basis.
-
-          (1B)  If the Minister directs APRA under section 13C to determine reporting standards under this subsection in relation to a financial sector entity or financial sector entities, APRA must:
-
-                     (a)  by legislative instrument, determine reporting standards that are required to be complied with by the financial sector entity or entities with respect to any of the following documents (**_reporting documents_**):
-
-                              (i)  statements, reports, returns, certificates or other documents containing information of a financial or accounting nature relating to the business or activities of the entities;
-
-                             (ii)  surveys, reports, returns, certificates or other documents containing other information relating to the business or activities of the entities; and
-
-                     (b)  publish those reporting standards in any way that APRA considers appropriate.
-
-Note:          When APRA has determined a reporting standard, APRA has power at any time to revoke or vary the standard (see subsection 33(3) of the _Acts Interpretation Act 1901_).
 
              (2)  The reporting standards may include matters relating to:
 
                      (a)  the forms of reporting documents; and
 
                      (b)  the information to be contained in reporting documents; and
-
-                    (bb)  the auditing of reporting documents; and
 
                      (c)  the persons who are to sign reporting documents; and
 
@@ -499,12 +425,6 @@ Note:          When APRA has determined a reporting standard, 
                      (e)  the giving of reporting documents to APRA, and the specifying of, or the authorising of APRA to specify, the times before which, or the periods within which, those documents are to be so given; and
 
                       (f)  the discretion of APRA, in particular cases, to vary reporting standards, including, but not limited to, the discretion to vary any times or periods specified in or under the standards as mentioned in paragraph (e).
-
-          (2A)  Without limiting the matters that may be included in the reporting standards under paragraph (2)(b), the matters may relate to information (including personal information or tax file numbers, for example) that APRA requires to perform APRA’s functions under:
-
-                     (a)  Division 2AA of Part II of the _Banking Act 1959_; or
-
-                     (b)  Part VC of the _Insurance Act 1973_.
 
              (3)  The reporting standards may impose:
 
@@ -520,11 +440,7 @@ Note:          When APRA has determined a reporting standard, 
 
                      (b)  if the standards would affect only a particular financial sector entity or particular financial sector entities—the entity or entities concerned.
 
-             (6)  However, subsection (5) does not apply if APRA is satisfied that the delay that would be involved in holding the consultations would:
-
-                     (a)  prejudice the interests of depositors, policy holders or members of the financial sector entity or financial sector entities concerned; or
-
-                     (b)  have a detrimental effect on the stability of the financial system.
+             (6)  Subsection (5) does not apply if APRA is satisfied that the delay that would be involved in holding the consultations would prejudice the interests of depositors, policy holders or members of the financial sector entity or financial sector entities concerned.
 
              (7)  The validity of a reporting standard is not affected by any failure of APRA to hold consultations as required by subsection (5).
 
@@ -537,56 +453,6 @@ Note:          When APRA has determined a reporting standard, 
 Note:          The effect of section 4K of the _Crimes Act 1914_ is that, if a financial sector entity to which subsection (9) applies refuses or fails to comply with a requirement before the time, or within the period, specified in the requirement, the obligation to comply with the requirement continues after that time or that period with daily offences being committed until the requirement is complied with.
 
            (11)  An offence for a contravention of subsection (9) is an offence of strict liability.
-
-##### <a id="13A"></a>13A  Copy of reporting standard to be given to financial sector entities and the Minister etc.
-
-             (1)  If a reporting standard determined under subsection 13(1) is not a legislative instrument, APRA must, as soon as practicable after the reporting standard is determined, give a copy of the standard to:
-
-                     (a)  each financial sector entity that is required to comply with the standard; and
-
-                     (b)  the Minister.
-
-             (2)  At the same time that a copy of the reporting standard is given to a financial sector entity under subsection (1), APRA must give the financial sector entity a written statement that explains the effect of section 13B.
-
-##### <a id="13B"></a>13B  Financial sector entity must not disclose that it has been given a copy of a reporting standard etc.
-
-             (1)  If APRA gives a financial sector entity a copy of a reporting standard under subsection 13A(1), the financial sector entity must not disclose to any person:
-
-                     (a)  that the financial sector entity has been given a copy of the reporting standard; or
-
-                     (b)  any confidential information that is included in the reporting standard.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (2)  However, subsection (1) does not apply if:
-
-                     (a)  the disclosure is to:
-
-                              (i)  APRA for the purposes of APRA performing APRA’s functions under this Act or any other law of the Commonwealth; or
-
-                             (ii)  an employee, officer or contractor of the financial sector entity for the purposes of the employee, officer or contractor performing his or her duties in relation to reporting standards; or
-
-                            (iii)  to a lawyer for the financial sector entity; or
-
-                     (b)  the disclosure is authorised under an Act or another law; or
-
-                     (c)  the confidential information included in the reporting standard has already been lawfully made available to the public from other sources.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
-
-##### <a id="13C"></a>13C  Minister may direct APRA to determine reporting standards
-
-             (1)  The Minister may, in writing, direct APRA to determine reporting standards under subsection 13(1B) that are to be complied with by any of the following:
-
-                     (a)  financial sector entities of a kind referred to in paragraph 5(2)(e), or a class of those entities;
-
-                     (b)  financial sector entities of a kind referred to in paragraph 5(2)(f), or a class of those entities;
-
-                     (c)  a particular financial sector entity of a kind referred to in paragraph 5(2)(e) or (f), or particular financial sector entities of that kind.
-
-             (2)  A direction under subsection (1) is not a legislative instrument.
-
-             (3)  This section does not limit the power of APRA to determine reporting standards under subsection 13(1).
 
 ##### <a id="14"></a>14  Principal executive officer of financial sector entity (other than a superannuation entity) to notify the entity’s governing body of a failure to provide reporting documents to APRA
 
@@ -608,21 +474,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="16"></a>16  Exemptions
 
-             (1)  APRA may, by written notice, exempt a financial sector entity from the requirement to comply with:
+             (1)  APRA may, by legislative instrument, exempt a financial sector entity, or a class or kind of financial sector entities, from the requirement to comply with:
 
                      (a)  all the requirements contained in any one or more applicable reporting standards; or
 
                      (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
 
-          (1A)  A notice under subsection (1) is not a legislative instrument.
-
-          (1B)  APRA may, by legislative instrument, exempt a class or kind of financial sector entities from the requirement to comply with:
-
-                     (a)  all the requirements contained in any one or more applicable reporting standards; or
-
-                     (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
-
-             (2)  An exemption under subsection (1) or (1B) may be unconditional or subject to conditions and may be of indefinite duration or limited in the time of its operation.
+             (2)  An exemption may be unconditional or subject to conditions and may be of indefinite duration or limited in the time of its operation.
 
 ##### <a id="17"></a>17  APRA may require the variation of a reporting document or the provision of financial information
 
@@ -675,96 +533,6 @@ APRA must give the entity written notice revoking or varying the direction, as t
 Note:          The effect of section 4K of the _Crimes Act 1914_ is that, if a financial sector entity refuses or fails to comply with a direction before the time, or within the period, specified in the direction, the obligation to comply with the direction continues after that time or that period with daily offences being committed until the direction is complied with.
 
            (10)  An offence for a contravention of subsection (8) is an offence of strict liability.
-
-### Division 2A—Auditing of documents
-
-##### <a id="17A"></a>17A  Application of this Division
-
-             (1)  This Division applies if a financial sector entity is required to appoint an auditor under reporting standards that relate to the collection of information that APRA requires:
-
-                     (a)  to perform APRA’s functions under:
-
-                              (i)  Division 2AA of Part II of the _Banking Act 1959_; or
-
-                             (ii)  Part VC of the _Insurance Act 1973_; or
-
-                     (b)  to assist a financial sector agency to perform its functions or exercise its powers.
-
-             (2)  Also, this Division applies if a financial sector entity is required to appoint an auditor under reporting standards that APRA issued on the direction of the Minister.
-
-##### <a id="17B"></a>17B  Auditor’s functions and duties
-
-             (1)  The auditor must perform the functions and duties of an auditor that are set out in the reporting standards.
-
-             (2)  The auditor must comply with the reporting standards in performing their functions and duties.
-
-             (3)  The financial sector entity must make any arrangements that are necessary to enable the auditor to perform their functions and duties.
-
-##### <a id="17C"></a>17C  Auditor must notify APRA of attempts to unduly influence etc. the auditor
-
-             (1)  If the auditor is aware of circumstances that amount to:
-
-                     (a)  an attempt by any person to unduly influence, coerce, manipulate or mislead the auditor in connection with the performance of the auditor’s functions or duties; or
-
-                     (b)  an attempt by any person to otherwise interfere with the performance of the auditor’s functions or duties;
-
-the auditor must notify APRA in writing of those circumstances as soon as practicable, and in any case within 28 days, after the auditor becomes aware of those circumstances.
-
-             (2)  The auditor commits an offence if the auditor contravenes subsection (1).
-
-                    Penalty:  Imprisonment for 12 months or 50 penalty units, or both.
-
-##### <a id="17D"></a>17D  Giving false or misleading information to auditor
-
-Offence—person knows the information is false or misleading etc.
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a financial sector entity; or
-
-                             (ii)  an employee, officer or trustee of a financial sector entity; and
-
-                     (b)  the person gives information, or allows information to be given, to an auditor of the financial sector entity; and
-
-                     (c)  the information relates to the affairs of the financial sector entity; and
-
-                     (d)  the person knows that the information:
-
-                              (i)  is false or misleading in a material particular; or
-
-                             (ii)  is missing something that makes the information misleading in a material respect.
-
-                    Penalty:  Imprisonment for 5 years or 200 penalty units, or both.
-
-Offence—person fails to ensure the information is not false or misleading etc.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person is an employee or officer of a financial sector entity; and
-
-                     (b)  the person gives information, or allows information to be given, to an auditor of the financial sector entity; and
-
-                     (c)  the information relates to the affairs of the financial sector entity; and
-
-                     (d)  the information:
-
-                              (i)  is false or misleading in a material particular; or
-
-                             (ii)  is missing something that makes the information misleading in a material respect; and
-
-                     (e)  the person did not take reasonable steps to ensure that the information:
-
-                              (i)  was not false or misleading in a material particular; or
-
-                             (ii)  was not missing something that makes the information misleading in a material respect.
-
-                    Penalty:  Imprisonment for 2 years or 100 penalty units, or both.
-
-Determining whether information is false or misleading
-
-             (3)  If information is given to the auditor in response to a question asked by the auditor, the information and the question must be considered together in determining whether the information is false or misleading.
 
 ### Division 3—Administrative penalties in lieu of prosecution for certain offences
 
@@ -1006,14 +774,6 @@ a non-presidential member of the Administrative Appeals Tribunal must not sit as
 
                     Penalty:  50 penalty units.
 
-##### <a id="29A"></a>29A  Delegation by Minister
-
-                   The Minister may, in writing, delegate all or any of his or her functions or powers under this Act to:
-
-                     (a)  the Secretary of the Department; or
-
-                     (b)  an SES employee, or acting SES employee, in the Department.
-
 ##### <a id="30"></a>30  Regulations
 
                    The Governor-General may make regulations prescribing all matters:
@@ -1044,15 +804,9 @@ a non-presidential member of the Administrative Appeals Tribunal must not sit as
 
                     <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution applies.
 
-                    <a name="financi-sector-agenc"></a>**_financial sector agency_** means:
+                    <a name="financi-sector-entiti"></a>**_financial sector entity_** has the meaning given by subsection 5(2).
 
-                     (a)  ASIC; or
-
-                     (b)  the Reserve Bank; or
-
-                     (c)  a Commonwealth, State or Territory authority prescribed by the regulations.
-
-                    <a name="financi-sector-entiti"></a>**_financial sector entity_** has the meaning given by section 5.
+                    <a name="financi-sector-supervisori-agenc"></a>**_financial sector supervisory agency_** means a person or body having the function, in Australia or in a foreign country, of supervising or regulating financial institutions.
 
                     <a name="foreign-corpor"></a>**_foreign corporation_** means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution.
 
@@ -1066,7 +820,7 @@ a non-presidential member of the Administrative Appeals Tribunal must not sit as
 
                     <a name="regul-entiti"></a>**_regulated entity_** has the meaning given by subsection 5(4).
 
-                    <a name="report-docum"></a>**_reporting document_** means a document of a kind mentioned in subparagraph 13(1)(a)(i) or (ii) or 13(1B)(a)(i) or (ii).
+                    <a name="report-docum"></a>**_reporting document_** means a document of a kind mentioned in subparagraph 13(1)(a)(i) or (ii).
 
                     <a name="report-standard"></a>**_reporting standard_** means a reporting standard determined by APRA under section 13.
 
@@ -1367,7 +1121,7 @@ Remainder: Royal Assent</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 4 (items 7–25): 27 July 2010 
+    <div>Schedule 4 (items 7–25): \[ <i>see</i>Note 2] 
 Schedule 4 (item 37): Royal Assent</div>
   </td>
   <td>
@@ -1415,7 +1169,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 149, 2007; No. 82, 2010</div>
+    <div>am. No. 149, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1423,7 +1177,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 119, 2001; No. 36, 2003; No. 149, 2007; No. 82, 2010</div>
+    <div>am. No. 119, 2001; No. 36, 2003; No. 149, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1476,26 +1230,10 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 154, 2007; No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13A–13C</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2010</div>
+    <div>am. No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1503,31 +1241,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 154, 2007; No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17A–17D</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2010</div>
+    <div>am. No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1556,22 +1270,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -1583,7 +1281,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 149, 2007; No. 25, 2008; No. 82, 2010</div>
+    <div>am. No. 149, 2007; No. 25, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1594,6 +1292,334 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>am. No. 55, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010 (No. 82, 2010)_
+
+The following amendments commence on 27 July 2010:
+
+## Schedule 4
+
+## 7  Subsection 3(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The object of this Act is to enable the Australian Prudential Regulation Authority (**_APRA_**) to collect information in order to assist:
+
+                     (a)  APRA in the prudential regulation or monitoring of bodies in the financial sector; and
+
+                     (b)  another financial sector agency to perform its functions or exercise its powers; and
+
+                     (c)  the Minister to formulate financial policy.
+
+## 8  At the end of subsection 5(2)
+
+Add:
+
+               ; or (e)  a person who:
+
+                              (i)  provides a financial service (within the meaning of section 766A of the _Corporations Act 2001_); and
+
+                             (ii)  is not an entity, corporation or fund referred to in paragraphs (a) to (d) of this subsection; or
+
+                      (f)  a person who:
+
+                              (i)  is a participant in a payment system (within the meaning of section 7 of the _Payment Systems (Regulation) Act 1998_); and
+
+                             (ii)  is not an entity, corporation or fund referred to in paragraphs (a) to (d) of this subsection.
+
+## 9  At the end of section 5
+
+Add:
+
+             (7)  Despite subsection (2), the Reserve Bank is not a **_financial sector entity_**.
+
+## 10  Paragraph 13(1)(a)
+
+Omit “by legislative instrument, determine”, substitute “determine, in writing,”.
+
+_Note:       The heading to section 13 is replaced by “Determination of reporting standards for, and the provision of, certain documents”._
+
+## 11  Paragraph 13(1)(a)
+
+After “financial sector entities”, insert “of a kind referred to in paragraphs 5(2)(a) to (d)”.
+
+## 12  Paragraph 13(1)(b)
+
+After “standards”, insert “that are legislative instruments”.
+
+## 13  After subsection 13(1)
+
+Insert:
+
+          (1A)  A reporting standard is a legislative instrument, unless:
+
+                     (a)  APRA considers, on reasonable grounds, that the reporting standard includes confidential information, the publication of which is likely to have a detrimental effect on:
+
+                              (i)  the stability of the financial system; or
+
+                             (ii)  the stability of one or more financial institutions; and
+
+                     (b)  APRA considers, on reasonable grounds, that the information to be contained in the reporting documents is required urgently by APRA for any of the following purposes:
+
+                              (i)  to determine the financial or prudential condition of financial sector entities;
+
+                             (ii)  to determine the nature or level of exposure that financial sector entities have to risks, including risks relating to particular transactions, entities, business sectors, asset classes or events;
+
+                            (iii)  to assess potential threats to the stability of the financial system;
+
+                            (iv)  to assist APRA, the Minister or a financial sector agency to respond to any threats to the stability of the financial system;
+
+                             (v)  to determine what, if any, action should be taken by, or in relation to, one or more financial sector entities; and
+
+                     (c)  the reporting standard does not require the information referred to in paragraph (b) to be given on an ongoing basis.
+
+          (1B)  If the Minister directs APRA under section 13C to determine reporting standards under this subsection in relation to a financial sector entity or financial sector entities, APRA must:
+
+                     (a)  by legislative instrument, determine reporting standards that are required to be complied with by the financial sector entity or entities with respect to any of the following documents (**_reporting documents_**):
+
+                              (i)  statements, reports, returns, certificates or other documents containing information of a financial or accounting nature relating to the business or activities of the entities;
+
+                             (ii)  surveys, reports, returns, certificates or other documents containing other information relating to the business or activities of the entities; and
+
+                     (b)  publish those reporting standards in any way that APRA considers appropriate.
+
+Note:          When APRA has determined a reporting standard, APRA has power at any time to revoke or vary the standard (see subsection 33(3) of the _Acts Interpretation Act 1901_).
+
+## 14  After paragraph 13(2)(b)
+
+Insert:
+
+                    (bb)  the auditing of reporting documents; and
+
+## 15  After subsection 13(2)
+
+Insert:
+
+          (2A)  Without limiting the matters that may be included in the reporting standards under paragraph (2)(b), the matters may relate to information (including personal information or tax file numbers, for example) that APRA requires to perform APRA’s functions under:
+
+                     (a)  Division 2AA of Part II of the _Banking Act 1959_; or
+
+                     (b)  Part VC of the _Insurance Act 1973_.
+
+## 16  Subsection 13(6)
+
+Repeal the subsection, substitute:
+
+             (6)  However, subsection (5) does not apply if APRA is satisfied that the delay that would be involved in holding the consultations would:
+
+                     (a)  prejudice the interests of depositors, policy holders or members of the financial sector entity or financial sector entities concerned; or
+
+                     (b)  have a detrimental effect on the stability of the financial system.
+
+## 17  After section 13
+
+Insert:
+
+##### <a id="13A"></a>13A  Copy of reporting standard to be given to financial sector entities and the Minister etc.
+
+             (1)  If a reporting standard determined under subsection 13(1) is not a legislative instrument, APRA must, as soon as practicable after the reporting standard is determined, give a copy of the standard to:
+
+                     (a)  each financial sector entity that is required to comply with the standard; and
+
+                     (b)  the Minister.
+
+             (2)  At the same time that a copy of the reporting standard is given to a financial sector entity under subsection (1), APRA must give the financial sector entity a written statement that explains the effect of section 13B.
+
+##### <a id="13B"></a>13B  Financial sector entity must not disclose that it has been given a copy of a reporting standard etc.
+
+             (1)  If APRA gives a financial sector entity a copy of a reporting standard under subsection 13A(1), the financial sector entity must not disclose to any person:
+
+                     (a)  that the financial sector entity has been given a copy of the reporting standard; or
+
+                     (b)  any confidential information that is included in the reporting standard.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  However, subsection (1) does not apply if:
+
+                     (a)  the disclosure is to:
+
+                              (i)  APRA for the purposes of APRA performing APRA’s functions under this Act or any other law of the Commonwealth; or
+
+                             (ii)  an employee, officer or contractor of the financial sector entity for the purposes of the employee, officer or contractor performing his or her duties in relation to reporting standards; or
+
+                            (iii)  to a lawyer for the financial sector entity; or
+
+                     (b)  the disclosure is authorised under an Act or another law; or
+
+                     (c)  the confidential information included in the reporting standard has already been lawfully made available to the public from other sources.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+##### <a id="13C"></a>13C  Minister may direct APRA to determine reporting standards
+
+             (1)  The Minister may, in writing, direct APRA to determine reporting standards under subsection 13(1B) that are to be complied with by any of the following:
+
+                     (a)  financial sector entities of a kind referred to in paragraph 5(2)(e), or a class of those entities;
+
+                     (b)  financial sector entities of a kind referred to in paragraph 5(2)(f), or a class of those entities;
+
+                     (c)  a particular financial sector entity of a kind referred to in paragraph 5(2)(e) or (f), or particular financial sector entities of that kind.
+
+             (2)  A direction under subsection (1) is not a legislative instrument.
+
+             (3)  This section does not limit the power of APRA to determine reporting standards under subsection 13(1).
+
+## 18  Subsection 16(1)
+
+Repeal the subsection, substitute:
+
+             (1)  APRA may, by written notice, exempt a financial sector entity from the requirement to comply with:
+
+                     (a)  all the requirements contained in any one or more applicable reporting standards; or
+
+                     (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
+
+          (1A)  A notice under subsection (1) is not a legislative instrument.
+
+          (1B)  APRA may, by legislative instrument, exempt a class or kind of financial sector entities from the requirement to comply with:
+
+                     (a)  all the requirements contained in any one or more applicable reporting standards; or
+
+                     (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
+
+## 19  Subsection 16(2)
+
+After “exemption”, insert “under subsection (1) or (1B)”.
+
+## 20  After Division 2 of Part 3
+
+Insert:
+
+### Division 2A—Auditing of documents
+
+##### <a id="17A"></a>17A  Application of this Division
+
+             (1)  This Division applies if a financial sector entity is required to appoint an auditor under reporting standards that relate to the collection of information that APRA requires:
+
+                     (a)  to perform APRA’s functions under:
+
+                              (i)  Division 2AA of Part II of the _Banking Act 1959_; or
+
+                             (ii)  Part VC of the _Insurance Act 1973_; or
+
+                     (b)  to assist a financial sector agency to perform its functions or exercise its powers.
+
+             (2)  Also, this Division applies if a financial sector entity is required to appoint an auditor under reporting standards that APRA issued on the direction of the Minister.
+
+##### <a id="17B"></a>17B  Auditor’s functions and duties
+
+             (1)  The auditor must perform the functions and duties of an auditor that are set out in the reporting standards.
+
+             (2)  The auditor must comply with the reporting standards in performing their functions and duties.
+
+             (3)  The financial sector entity must make any arrangements that are necessary to enable the auditor to perform their functions and duties.
+
+##### <a id="17C"></a>17C  Auditor must notify APRA of attempts to unduly influence etc. the auditor
+
+             (1)  If the auditor is aware of circumstances that amount to:
+
+                     (a)  an attempt by any person to unduly influence, coerce, manipulate or mislead the auditor in connection with the performance of the auditor’s functions or duties; or
+
+                     (b)  an attempt by any person to otherwise interfere with the performance of the auditor’s functions or duties;
+
+the auditor must notify APRA in writing of those circumstances as soon as practicable, and in any case within 28 days, after the auditor becomes aware of those circumstances.
+
+             (2)  The auditor commits an offence if the auditor contravenes subsection (1).
+
+                    Penalty:  Imprisonment for 12 months or 50 penalty units, or both.
+
+##### <a id="17D"></a>17D  Giving false or misleading information to auditor
+
+Offence—person knows the information is false or misleading etc.
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is:
+
+                              (i)  a financial sector entity; or
+
+                             (ii)  an employee, officer or trustee of a financial sector entity; and
+
+                     (b)  the person gives information, or allows information to be given, to an auditor of the financial sector entity; and
+
+                     (c)  the information relates to the affairs of the financial sector entity; and
+
+                     (d)  the person knows that the information:
+
+                              (i)  is false or misleading in a material particular; or
+
+                             (ii)  is missing something that makes the information misleading in a material respect.
+
+                    Penalty:  Imprisonment for 5 years or 200 penalty units, or both.
+
+Offence—person fails to ensure the information is not false or misleading etc.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person is an employee or officer of a financial sector entity; and
+
+                     (b)  the person gives information, or allows information to be given, to an auditor of the financial sector entity; and
+
+                     (c)  the information relates to the affairs of the financial sector entity; and
+
+                     (d)  the information:
+
+                              (i)  is false or misleading in a material particular; or
+
+                             (ii)  is missing something that makes the information misleading in a material respect; and
+
+                     (e)  the person did not take reasonable steps to ensure that the information:
+
+                              (i)  was not false or misleading in a material particular; or
+
+                             (ii)  was not missing something that makes the information misleading in a material respect.
+
+                    Penalty:  Imprisonment for 2 years or 100 penalty units, or both.
+
+Determining whether information is false or misleading
+
+             (3)  If information is given to the auditor in response to a question asked by the auditor, the information and the question must be considered together in determining whether the information is false or misleading.
+
+## 21  Before section 30
+
+Insert:
+
+##### <a id="29A"></a>29A  Delegation by Minister
+
+                   The Minister may, in writing, delegate all or any of his or her functions or powers under this Act to:
+
+                     (a)  the Secretary of the Department; or
+
+                     (b)  an SES employee, or acting SES employee, in the Department.
+
+## 22  Section 31
+
+Insert:
+
+                    <a name="financi-sector-agenc"></a>**_financial sector agency_** means:
+
+                     (a)  ASIC; or
+
+                     (b)  the Reserve Bank; or
+
+                     (c)  a Commonwealth, State or Territory authority prescribed by the regulations.
+
+## 23  Section 31 (definition of _financial sector entity_)
+
+Omit “subsection 5(2)”, substitute “section 5”.
+
+## 24  Section 31 (definition of _financial sector supervisory agency_)
+
+Repeal the definition.
+
+## 25  Section 31 (at the end of the definition of _reporting document_)
+
+Add “or 13(1B)(a)(i) or (ii)”.
+
+As at 6 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
