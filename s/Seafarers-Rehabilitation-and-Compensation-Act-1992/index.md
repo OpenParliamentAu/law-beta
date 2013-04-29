@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 15 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 5 June 2009
+ taking into account amendments up to Act No. 37 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -406,6 +406,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="attend-care-servic"></a>**_attendant care services_**, in relation to an employee, means services (other than household services, medical or surgical services or nursing care) required for the essential and regular personal care of the employee.
 
+                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
+
                     <a name="australian-maritim-safeti-author"></a>**_Australian Maritime Safety Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
                     <a name="authorised-insur"></a>**_authorised insurer_** means a general insurer or Lloyd’s underwriter under the _Insurance Act 1973_ or an insurer that carries on State insurance (whether or not the State insurance extends beyond the limits of the State concerned).
@@ -419,6 +421,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="claim"></a>**_claim_** means a claim under Part 5.
 
                     <a name="claimant"></a>**_claimant_**, in relation to a time after the death of a claimant, means the claimant’s legal personal representative.
+
+                    <a name="collect-agreem"></a>**_collective agreement_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="comcar"></a>**_Comcare_** has the same meaning as in the _Safety, Rehabilitation and Compensation Act 1988_.
 
@@ -506,14 +510,6 @@ and includes a ship that belongs to an arm of the Defence Force, but does not in
 
                     <a name="impair"></a>**_impairment_** means the loss, the loss of the use, or the damage or malfunction, of any part of the body or of the whole or part of any bodily system or function.
 
-                    <a name="individu-industri-agreem"></a>**_individual industrial agreement_** means an industrial agreement that applies to only one employee.
-
-                    <a name="industri-instrum"></a>**_industrial instrument_**:
-
-                     (a)  includes an industrial award, determination or agreement; but
-
-                     (b)  does not include an individual industrial agreement.
-
                     <a name="industri-traine"></a>**_industry trainee_** means a person (other than a company trainee) who:
 
                      (a)  although ordinarily employed or engaged as a seafarer, is not so employed or engaged but is undergoing an approved industry training course; or
@@ -554,8 +550,6 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                     <a name="member"></a>**_member_** means a member of the Authority.
 
-                    <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
-
                     <a name="navig-act"></a>**_Navigation Act_** means the _Navigation Act 1912_.
 
                     <a name="non-econom-loss"></a>**_non-economic loss_**, in relation to an employee who has suffered an injury resulting in a permanent impairment, means loss or damage of a non-economic kind suffered by the employee (including pain and suffering, a loss of expectation of life or a loss of the amenities or enjoyment of life) as a result of that injury or impairment and of which the employee is aware.
@@ -579,6 +573,8 @@ but does not include anything suffered by an employee as a result of reasonable 
                      (a)  if the employee is a seafarer—includes the prescribed ship on which the seafarer is employed or engaged; and
 
                      (b)  if the employee is a trainee—includes a ship on which the trainee is required to train as part of an approved industry training course.
+
+                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="prescrib-child"></a>**_prescribed child_** means:
 
@@ -850,13 +846,13 @@ whichever happens first.
 
              (1)  For the purposes of this Act, if an employee who is a seafarer suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount payable weekly to the employee by way of salary under the contract of employment that applied to his or her employment immediately before the injury happened.
 
-             (2)  For the purposes of this Act, if an employee who is a trainee suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount that would have been payable weekly to the employee by way of salary under the industrial instrument or National Employment Standards that, apart from the injury, would have applied to his or her employment immediately after the completion of the training course.
+             (2)  For the purposes of this Act, if an employee who is a trainee suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount that would have been payable weekly to the employee by way of salary under the award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard that, apart from the injury, would have applied to his or her employment immediately after the completion of the training course.
 
-             (3)  For the purposes of this Act, if an employee who is attending a Seafarers Engagement Centre suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount specified in an industrial instrument for the purposes of this subsection.
+             (3)  For the purposes of this Act, if an employee who is attending a Seafarers Engagement Centre suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount specified in a certified agreement for the purposes of this subsection.
 
              (4)  For the purposes of this Act, if an employee (other than an employee to whom subsection (1), (2) or (3) applies) suffers an injury, the employee’s normal weekly earnings are an amount equal to the amount that was payable weekly to the employee by way of salary under the contract of employment that applied to his or her employment immediately before the injury happened.
 
-             (5)  If the amount per week payable to an employee in respect of his or her employment before the injury is increased, or would have been increased, because of the operation of an industrial instrument, the National Employment Standards or a contract of employment if the employee had continued in that employment, because the employee:
+             (5)  If the amount per week payable to an employee in respect of his or her employment before the injury is increased, or would have been increased, because of the operation of an award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard or contract of employment if the employee had continued in that employment, because the employee:
 
                      (a)  reaches a particular age; or
 
@@ -870,7 +866,7 @@ the normal weekly earnings of the employee before the injury, as worked out unde
 
                      (a)  the operation of a law of the Commonwealth, or of a State or Territory; or
 
-                     (b)  the making, alteration or operation of an industrial instrument or the National Employment Standards, or the doing of any other act or thing under such a law;
+                     (b)  the making, alteration or operation of an award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard, or the doing of any other act or thing under such a law;
 
 the normal weekly earnings of the employee before the injury, as worked out under the preceding subsections, must be increased or reduced by the same percentage as that by which that amount per week was so increased or reduced, as the case may be.
 
@@ -1062,7 +1058,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1154,7 +1150,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1268,7 +1264,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image004.gif)
 
 where:
 
@@ -1336,7 +1332,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
            (14)  For the purposes of this section the normal weekly hours of an employee who is not employed on a ship are:
 
-                     (a)  if the industrial instrument or National Employment Standards that apply to the employee specifies the normal weekly hours of an employee—those hours; or
+                     (a)  if the award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard that applies to the employee specifies the normal weekly hours of an employee—those hours; or
 
                      (b)  in any other case—38 hours.
 
@@ -1376,7 +1372,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image005.gif)
 
 where:
 
@@ -1406,7 +1402,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image006.gif)
 
 where:
 
@@ -1444,7 +1440,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image007.gif)
 
 where:
 
@@ -1484,7 +1480,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image008.gif)
 
 where:
 
@@ -1590,7 +1586,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image009.gif)
 
 where:
 
@@ -1702,7 +1698,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image010.gif)
 
 where:
 
@@ -1790,7 +1786,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1818,7 +1814,7 @@ where:
 
              (8)  If an examination is carried out, the person or persons who carried out the examination must give the employer a written assessment of the employee’s capability of undertaking a rehabilitation program, specifying, where appropriate, the kind of program which he or she is capable of undertaking and containing any other information relating to the provision of a rehabilitation program for the employee that the employer may require.
 
-##### <a id="50"></a>50  Provision of rehabilitation programs
+##### <a id="50"></a>50  Provision of rehabilitation programs
 
              (1)  If an employee of an employer is assessed under section 49 as capable of undertaking a rehabilitation program, the employer must, after consulting the employee in relation to:
 
@@ -1842,7 +1838,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2194,7 +2190,7 @@ the employer may, by notice in writing given to the person, require the person t
 
              (6)  In this section:
 
-                    <a name="award"></a>**_award_** means an award, determination, order or agreement by which provision is made for, or in relation to, the grant of any benefits to or in relation to employees or their dependants in respect of injury or disease causing death or incapacity, or in respect of the loss of, or damage to, property, in circumstances connected with the employment of those employees, being an award, determination or order made, or agreement entered into, under a law of the Commonwealth relating to workplace relations.
+                    <a name="award"></a>**_award_** means an award, determination or order by which provision is made for, or in relation to, the grant of any benefits to or in relation to employees or their dependants in respect of injury or disease causing death or incapacity, or in respect of the loss of, or damage to, property, in circumstances connected with the employment of those employees, being an award or order made under a law of the Commonwealth relating to workplace relations.
 
 ## Part 5—Notices and claims
 
@@ -2286,7 +2282,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2530,7 +2526,7 @@ to assist the employer in reconsidering the determination under subsection (5)
 
              (7)  In this section:
 
-                    <a name="industri-panel"></a>**_industry panel_** means an industry panel established under an industrial agreement for the purposes of assisting the employer in reconsidering a determination under this section.
+                    <a name="industri-panel"></a>**_industry panel_** means an industry panel established under a collective agreement or a pre-reform certified agreement for the purposes of assisting the employer in reconsidering a determination under this section.
 
 ##### <a id="79"></a>79  Time limit for reconsideration of determinations
 
@@ -2604,7 +2600,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -3388,7 +3384,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 ##### <a id="137"></a>137  Employees on compensation leave
 
-                   Despite any other Act, or any award, an employee is not entitled to be granted any kind of leave with pay (other than maternity leave with pay) during, or in respect of, any period when the employee is or was on compensation leave, but long service leave entitlements continue to accrue in relation to the employee in accordance with the applicable industrial instrument or National Employment Standards.
+                   Despite any other Act, or any award, an employee is not entitled to be granted any kind of leave with pay (other than maternity leave with pay) during, or in respect of, any period when the employee is or was on compensation leave, but long service leave entitlements continue to accrue in relation to the employee in accordance with the applicable award, determination, collective agreement or pre-reform certified agreement.
 
 ##### <a id="139"></a>139  Compensation where State compensation payable
 
@@ -3400,7 +3396,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image011.gif)
 
 where:
 
@@ -3504,7 +3500,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="143"></a>143  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3960,26 +3956,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 12, 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 111–125): <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4132,62 +4108,6 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
 </tr></table>
 
-_(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 8, items 1 to 130
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -4232,7 +4152,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008; No. 54, 2009</div>
+    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4264,7 +4184,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 5, 1994; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -4416,7 +4336,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 10, 1997; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 10, 1997; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -4544,7 +4464,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -4656,7 +4576,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 60, 1996; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -5034,7 +4954,7 @@ No. 127, 2002</div>
     <div>S. 137</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
