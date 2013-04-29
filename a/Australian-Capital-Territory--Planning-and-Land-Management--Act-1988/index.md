@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00320/Html/AusCapTerPlaLanManAct1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00285/Html/AusCapTerPlaLanManAct1988_WD02_image001.gif)
 
 # Australian Capital Territory (Planning and Land Management) Act 1988
 
 **Act No. 108 of 1988 as amended**
 
-This compilation was prepared on 13 May 2007
+This compilation was prepared on 19 April 2007
  taking into account amendments up to Act No. 59 of 2007
 
 The text of any of those amendments not in force 
@@ -284,8 +284,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="design-area"></a>**_Designated Area_** means an area of land specified in the Plan under section 10.
 
-Note:          Canberra Airport is not a Designated Area: see section 112A of the _Airports Act 1996_.
-
                     <a name="enact"></a>**_enactment_** has the same meaning as in the Self-Government Act.
 
                     <a name="execut"></a>**_Executive_** has the same meaning as in the Self-Government Act.
@@ -407,8 +405,6 @@ Note:          Section 25B of the _Acts Interpretation Act 1
                      (c)  may set out the detailed conditions of planning, design and development in Designated Areas and the priorities in carrying out such planning, design and development; and
 
                      (d)  may set out special requirements for the development of any area (not being a Designated Area), being requirements that are desirable in the interests of the National Capital.
-
-Note:          This Part does not apply in relation to Canberra Airport: see section 112A of the _Airports Act 1996_.
 
 ##### <a id="11"></a>11  Effect of Plan
 
@@ -1613,8 +1609,7 @@ of Assent</div>
     <div>15 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 13 May 2007 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 169A, 170): \[ <i>see</i> Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1786,7 +1781,7 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 118, 1997; No. 59, 2007</div>
+    <div>am. No. 118, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1803,14 +1798,6 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   </td>
   <td>
     <div>am. No. 130, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10</div>
-  </td>
-  <td>
-    <div>ad. No. 59, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1917,6 +1904,28 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
     <div>am. No. 118, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Airports Amendment Act 2007 (No. 59, 2007)_
+
+The following amendments commence on 13 May 2007:
+
+## Schedule 1
+
+## 169A  Section 4 (at the end of the definition of _Designated Area_)
+
+Add:
+
+Note:          Canberra Airport is not a Designated Area: see section 112A of the _Airports Act 1996_.
+
+## 170  At the end of section 10
+
+Add:
+
+Note:          This Part does not apply in relation to Canberra  Airport: see section 112A of the _Airports Act 1996_.
+
+As at 19 April 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
