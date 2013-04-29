@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00823/Html/TransferofPrisoners1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00551/Html/TransferofPrisoners1983WD02_image001.gif)
 
 # Transfer of Prisoners Act 1983
 
 **Act No. 95 of 1983 as amended**
 
-This compilation was prepared on 20 December 2010
- taking into account amendments up to Act No. 143 of 2010
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1078,11 +1078,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1298,23 +1298,6 @@ Schedule 4 (items 492–494): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010</div>
-  </td>
-  <td>
-    <div>143, 2010</div>
-  </td>
-  <td>
-    <div>15 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 3–5): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1646,24 +1629,6 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
   </td>
 </tr></table>
 
-### Note 2
-
-_Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010 (No. 143, 2010)_
-
-The following amendments commence on 15 June 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 3  Subparagraph 21(b)(ii)
-
-Omit “and”.
-
-## 4  Subparagraph 21(b)(iii)
-
-Repeal the subparagraph.
-
-As at 20 December 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1675,17 +1640,5 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010 (No. 143, 2010)_
-
-The following provision commences on 15 June 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 5  Application
-
-Subparagraph 21(b)(iii) of the _Transfer of Prisoners Act 1983_, as in force immediately before the commencement of this item, continues to apply on and after that commencement in relation to a sentence of default imprisonment imposed under Part 7 of the _Service and Execution of Process Act 1992_ before that commencement.
 
  
