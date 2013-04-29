@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00170/Html/6a7c7dc0-1d17-44a8-854a-69bee2516acb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00003/Html/ae4c1195-b761-4371-a3fb-bb43f25f4b4e_files/image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -777,7 +777,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  An appointed member is eligible for re‑appointment.
 
-##### <a id="28"></a>28  Remuneration and allowances of appointed members
+##### <a id="28"></a>28  Remuneration and allowances of appointed members
 
              (1)  An appointed member is to be paid the remuneration that is determined by the Remuneration Tribunal. However, if no determination of that remuneration by the Tribunal is in operation, an appointed member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -1255,17 +1255,9 @@ an authorised employee may direct the Registrar to make an entry in the Register
 
              (3)  For the purposes of priorities amongst creditors and the purposes of the distribution of the proceeds of a sale made under section 67, the statutory lien has effect as a security interest in respect of the aircraft ranking in priority:
 
-                     (a)  after any security interest (other than a security interest that has attached to the aircraft as a circulating asset, within the meaning of the _Personal Property Securities Act 2009_) in respect of the aircraft created before the time of registration of the statutory lien, to the extent that the security interest covers a debt incurred before that time; and
+                     (a)  after any security interest (other than a floating charge) in respect of the aircraft created before the time of registration of the statutory lien, to the extent that the security interest covers a debt incurred before that time; and
 
                      (b)  before any security interest that is not covered by paragraph (a), or to the extent that it is not covered by paragraph (a).
-
-Note:          Part 9.5 of the _Personal Property Securities Act 2009_ deals with security interests that attach to circulating assets. These interests are also described as floating charges.
-
-          (3A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a statutory lien.
-
-Note 1:       The effect of this subsection is that the priority between a statutory lien on an aircraft and a security interest in the aircraft to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
              (4)  A statutory lien is not to be taken by implication to have any effect otherwise than as provided by this Act.
 
@@ -1614,7 +1606,7 @@ of Assent</div>
     <div>30 June 1995</div>
   </td>
   <td>
-    <div>Ss. 13, 14, 16(6), notes to s. 17(3), (4), s. 32(2)(d), (5)(b) and 51: 1 Jan 1998 
+    <div>Ss. 13, 14, 16(6), notes to s. 17(3), (4), s. 32(2)(d), 32(5)(b) and 51: 1 Jan 1998 
 Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
   </td>
   <td>
@@ -1632,7 +1624,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>17 Sept 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–5): 1 Nov 1997 ( <i>see Gazette</i>1997, No. S438)</div>
+    <div>1 Nov 1997 ( <i>see Gazette</i>1997, No. S438)</div>
   </td>
   <td>
     <div>—</div>
@@ -1649,7 +1641,8 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 153): 1 Jan 1998 ( <i>see</i>s. 2(2) and <i>Gazette</i>1997, No. GN49)Schedule 3 (item 1): 30 June 1995</div>
+    <div>Schedule 2 (item 153): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a) 
+ </i>Schedule 3 (item 1): 30 June 1995 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1666,7 +1659,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>23 July 1998</div>
   </td>
   <td>
-    <div>Schedule 3: Royal Assent</div>
+    <div>Schedule 3: Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1683,7 +1676,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 85): 5 Dec 1999 ( <i>see</i>s. 2(1), (2) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (item 85): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1700,7 +1693,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 27): 15 July 2001 ( <i>see</i>s. 2(3) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (item 27): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1717,7 +1710,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 3 (items 33–38): 2 Oct 2001</div>
+    <div>2 Oct 2001</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -1734,7 +1727,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (item 3): <i>(a)</i></div>
+    <div>Schedule 1 (item 3): <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1768,7 +1761,8 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (items 13–18): 1 Mar 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN8)</div>
+    <div>Schedules 1 and 2: 1 Mar 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN8) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1785,7 +1779,8 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>10 Mar 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1) and Schedule 3: 10 Mar 2005 ( <i>see</i>s. 2(1))</div>
+    <div>Schedules 1–3: 10 Mar 2005 ( <i>see</i>s. 2) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (am. by 149, 2004, Sch. 2 \[item 2])</div>
@@ -1819,7 +1814,7 @@ Remainder: 6 July 1995 ( <i>see Gazette</i>1995, No. S270)</div>
     <div>14 Dec 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 2): <i>(b)</i> 
+    <div>Schedule 2 (item 2): <i>(f)</i> 
 Schedule 2 (item 3): Royal Assent</div>
   </td>
   <td>
@@ -1855,8 +1850,8 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–3): Royal Assent 
-Schedule 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854)</div>
+    <div>Schedules 1 and 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3</div>
@@ -1907,7 +1902,7 @@ Schedule 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854)</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 1–4): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 5 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 5 (item 4)</div>
@@ -1965,7 +1960,29 @@ Schedule 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854)</div>
   </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:
+_(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+                 (3)   Schedule 3 commences as follows:
+
+                              (a)   the amendments of the _Air Services Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent.
+
+_(b)_     The _Air Services Act 1995_ was amended by Schedule 3 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(5) of which provides as follows:
+
+                 (5)   The remaining provisions of this Act (including items 9, 10 and 11 of Schedule 1) commence on the day on which this Act receives the Royal Assent.
+
+_(c)_     The _Air Services Act 1995_ was amended by Schedule 1 (item 85) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(d)_ The _Air Services Act 1995_ was amended by Schedule 3 (item 27) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(e)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -2055,7 +2072,7 @@ _(a)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
   </td>
 </tr></table>
 
-_(b)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ provides as follows:
+_(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2434,30 +2451,6 @@ _(b)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 60(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -2496,6 +2489,37 @@ _(b)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>am. No. 130, 1997; No. 39, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 5
+
+## 1  Paragraph 60(3)(a)
+
+Omit “floating charge”, substitute “security interest that has attached to the aircraft as a circulating asset, within the meaning of the _Personal Property Securities Act 2009_”.
+
+## 2  At the end of subsection 60(3)
+
+Add:
+
+Note:          Part 9.5 of the _Personal Property Securities Act 2009_ deals with security interests that attach to circulating assets. These interests are also described as floating charges.
+
+## 3  After subsection 60(3)
+
+Insert:
+
+          (3A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a statutory lien.
+
+Note 1:       The effect of this subsection is that the priority between a statutory lien on an aircraft and a security interest in the aircraft to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+As at 27 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2662,6 +2686,8 @@ _Note:       This item relates to the transfer of airspace managemen
 
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
+
+The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 5
 
