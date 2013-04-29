@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00777/Html/e20e6820-277a-41e3-b8ab-ed5ce4284843_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00157/Html/ddb7d6d1-c21a-4f8d-87cd-dafd705739a9_files/image001.gif)
 
 # Marine Navigation Levy Collection Act 1989
 
 **Act No. 162 of 1989 as amended**
 
-This compilation was prepared on 2 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -40,6 +41,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [11](#11).          Rights of agent etc  who has paid levy
 
 [12](#12).          Regulations
+
+[13](#13).          Amendments of _Lighthouses Act 1911_ [_see_ Note 2]
+
+**Schedule—Amendments of the Lighthouses Act 1911** 
 
 **Notes** 
 
@@ -187,6 +192,26 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
              (2)  Without limiting subsection (1), the regulations may provide for the refund or remission (in whole or in part) of an amount of levy paid or payable in respect of a ship in such circumstances as are specified in the regulations.
 
+##### <a id="13"></a>13  Amendments of _Lighthouses Act 1911_ [_see_ Note 2]
+
+                   The _Lighthouses Act 1911_ is amended as set out in the Schedule.
+
+# Schedule—Amendments of the Lighthouses Act 1911
+
+_Section 13_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilation on ComLaw.
+
+_Lighthouses Act 1911_<span style="font-size:9.0pt"> </span>
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 162, 1989.
+
+* * *
+
 # Notes to the _Marine Navigation Levy Collection Act 1989_
 
 ### Note 1
@@ -236,7 +261,8 @@ of Assent</div>
     <div>18 Dec 1989</div>
   </td>
   <td>
-    <div>1 July 1990 ( <i>see</i>s. 2)</div>
+    <div>1 July 1990 
+( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div></div>
@@ -292,40 +318,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Navigation (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>129, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 19–21): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 47, 48): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -374,46 +366,10 @@ of Assent</div>
   <td>
     <div>am. No. 131, 2009</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
 
-_Navigation (Consequential Amendments) Act 2012 (No. 129, 2012)_
-
-The following amendments commence at the same time as section 3 of the _Navigation Act 2012_:
-
-## Schedule 2
-
-## 19  Section 3 (definition of _marine navigational aid_)
-
-Repeal the definition.
-
-## 20  Section 3 (definition of _sea‑going ship_)
-
-Omit “a marine navigational aid under the control of the Commonwealth”, substitute “an AMSA aid to navigation (as defined in the _Navigation Act 2012_)”.
-
-## 21  Section 3 (definition of _ship_)
-
-Repeal the definition, substitute:
-
-                    <a name="ship"></a>**_ship_** includes every description of vessel used in navigation not ordinarily propelled by oars only.
-
-As at 2 November 2012 the amendments are not incorporated into this compilation.
+Section 13—The amendments made by section 13 have been incorporated in the reprint of the _Lighthouses Act 1911_, which is published separately.
 
  
