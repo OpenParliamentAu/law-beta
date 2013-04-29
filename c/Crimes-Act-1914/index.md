@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00890/Html/9e905f0e-31b0-44a6-9ff0-e388191a6e7e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00767/Html/e89a56e4-377b-45e7-85a8-f7a68307224a_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 4 December 2012
- taking into account amendments up to Act No. 167 of 2012
+This compilation was prepared on 19 October 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 **Volume 1**includes:  Table of Contents
 
@@ -30,7 +30,7 @@ Act Notes
 
 Table of Amendments
 
-Notes 2–5
+Notes 2–4
 
 Table A
 
@@ -74,8 +74,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3J](#3J).          Specific powers available to constables executing warrant
 
-[3JA](#3JA).       Extension of time to re‑enter premises in emergency 
- situations
+[3JA](#3JA).       Extension of time to re‑enter premises in emergency situations
 
 [3K](#3K).         Use of equipment to examine or process things
 
@@ -137,14 +136,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3UK](#3UK).      Sunset provision
 
-    **Division 3B—Powers to require identity information at airports**
-
-[3UL](#3UL).       Definitions—Division 3B
-
-[3UM](#3UM).     Identity information at airports—requirements
-
-[3UN](#3UN).      Identity information at airports—offences relating to section 3UM
-
     **Division 4—Arrest and related matters**
 
 [3V](#3V).         Requirement to furnish name etc 
@@ -187,8 +178,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3ZO](#3ZO).       Identification by means of photographs
 
-[3ZP](#3ZP).       Identification procedures where there is more than one 
- suspect
+[3ZP](#3ZP).       Identification procedures where there is more than one suspect
 
 [3ZQ](#3ZQ).       Descriptions
 
@@ -522,8 +512,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15KM](#15KM).    Return of evidence of assumed identity
 
-[15KN](#15KN).    Protection from criminal liability—officers of issuing 
- agencies
+[15KN](#15KN).    Protection from criminal liability—officers of issuing agencies
 
 [15KO](#15KO).    Indemnity for issuing agencies and officers
 
@@ -921,8 +910,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23C](#23C).       Period of investigation if arrested for a non‑terrorism offence
 
-[23D](#23D).       Application may be made for extension of investigation 
- period
+[23D](#23D).       Application may be made for extension of investigation period
 
 [23DA](#23DA).    Magistrate may extend investigation period
 
@@ -934,8 +922,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23DD](#23DD).    Time during which suspension or delay of questioning may be disregarded—time specified by magistrate
 
-[23DE](#23DE).     Application may be made for extension of investigation 
- period
+[23DE](#23DE).     Application may be made for extension of investigation period
 
 [23DF](#23DF).     Magistrate may extend investigation period
 
@@ -945,8 +932,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3—Obligations of investigating officials**
 
-[23F](#23F).        Cautioning persons who are under arrest or protected 
- suspects
+[23F](#23F).        Cautioning persons who are under arrest or protected suspects
 
 [23G](#23G).       Right to communicate with friend, relative and legal practitioner
 
@@ -2411,124 +2397,6 @@ Declaration or revocation not legislative instruments
              (2)  A declaration under section 3UJ that is in force at the end of 10 years after the day on which this Division commences ceases to be in force at that time.
 
              (3)  A police officer cannot apply for, and the Minister cannot make, a declaration under section 3UJ after the end of 10 years after the day on which this Division commences.
-
-### Division 3B—Powers to require identity information at airports
-
-##### <a id="3UL"></a>3UL  Definitions—Division 3B
-
-                   In this Division:
-
-                    <a name="constitut-airport"></a>**_constitutional airport_** means:
-
-                     (a)  a Commonwealth aerodrome within the meaning of the _Crimes (Aviation) Act 1991_ (see section 3 of that Act); or
-
-                     (b)  another airport, if the airport is in a Territory.
-
-                    <a name="govern-photograph-ident-docum"></a>**_government photographic identity document_** means an identity document providing photographic identification of a person that is issued by:
-
-                     (a)  the government of the Commonwealth or a State or Territory; or
-
-                     (b)  the government of a foreign country or part of a foreign country.
-
-                    <a name="ident-docum"></a>**_identity document_**:
-
-                     (a)  means a document (such as a driver’s licence, birth certificate, credit card or identity card) that evidences or indicates, or can be used to evidence or indicate, a person’s identity or any aspect of a person’s identity; but
-
-                     (b)  does not include a document prescribed by regulation for the purposes of this definition.
-
-##### <a id="3UM"></a>3UM  Identity information at airports—requirements
-
-Scope of section
-
-             (1)  A constable may make a request under this section of a person (a **_suspect_**) if:
-
-                     (a)  the request is made at a constitutional airport; and
-
-                     (b)  the constable reasonably suspects that the suspect has committed, is committing or intends to commit an offence against a law of the Commonwealth, or a law of a State or Territory, punishable by imprisonment for 12 months or more.
-
-             (2)  A constable may also make a request under this section of a person (a **_suspect_**) if:
-
-                     (a)  the request is made at an airport other than a constitutional airport; and
-
-                     (b)  the constable reasonably suspects that the suspect has committed, is committing or intends to commit an offence against a law of the Commonwealth punishable by imprisonment for 12 months or more.
-
-Evidence of identity
-
-             (3)  The constable may request the suspect to give the constable evidence of the suspect’s identity by:
-
-                     (a)  producing a government photographic identity document issued in relation to the suspect, if held by the suspect; and
-
-                     (b)  if the suspect does not produce a government photographic identity document as requested under paragraph (a)—producing another identity document in relation to the suspect, if held by the suspect; and
-
-                     (c)  if the suspect does not produce an identity document as requested under paragraph (a) or (b)—giving the constable the suspect’s name and address.
-
-Constable’s duties
-
-             (4)  The constable must, before making a request under subsection (3):
-
-                     (a)  if the constable is not in uniform:
-
-                              (i)  show the suspect evidence that the constable is a constable; and
-
-                             (ii)  if the suspect requests—comply with subsection (5); and
-
-                     (b)  in any case—inform the suspect that it may be an offence not to comply with the request, or to give the constable a false or misleading document, or false or misleading information, in response to the request.
-
-             (5)  If the constable is not in uniform, the constable must give the suspect any of the following information if requested by the suspect:
-
-                     (a)  the constable’s name;
-
-                     (b)  the address of the constable’s place of duty;
-
-                     (c)  the constable’s identification number (if any);
-
-                     (d)  if the constable has no identification number—the constable’s rank.
-
-##### <a id="3UN"></a>3UN  Identity information at airports—offences relating to section 3UM
-
-Offence by suspect
-
-             (1)  A person commits an offence if:
-
-                     (a)  a constable makes a request of the person under subsection 3UM(3); and
-
-                     (b)  the person fails to comply with the request; and
-
-                     (c)  the constable complies with subsection 3UM(4).
-
-                    Penalty:  20 penalty units.
-
-Note:          The following more serious offences may also apply:
-
-(a)    giving false or misleading information (see section 137.1 of the _Criminal Code_);
-
-(b)    producing a false or misleading document (see section 137.2 of the _Criminal Code_);
-
-(c)    obstructing a Commonwealth public official (see section 149.1 of the _Criminal Code_).
-
-             (2)  Strict liability applies to paragraphs (1)(a) and (c).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Offence by constable
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person is subject to a requirement under subsection 3UM(4); and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct breaches the requirement.
-
-                    Penalty:  5 penalty units.
-
-             (4)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
 
 ### Division 4—Arrest and related matters
 
@@ -4240,7 +4108,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00890/Html/9e905f0e-31b0-44a6-9ff0-e388191a6e7e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00767/Html/e89a56e4-377b-45e7-85a8-f7a68307224a_files/image002.gif)
 
 where:
 
@@ -7604,7 +7472,7 @@ Note:          The chief officer may delegate functions under 
 
              (7)  Subsection (6) does not limit the court’s powers, including, but not limited to, the court’s power to punish for contempt.
 
-##### <a id="15ML"></a>15ML  Disclosure of operative’s identity to presiding officer
+##### <a id="15ML"></a>15ML  Disclosure of operative’s identity to presiding officer
 
              (1)  This section applies if a witness identity protection certificate for an operative in relation to a proceeding is filed in a court.
 
@@ -8060,7 +7928,7 @@ Note:          The chief officer may delegate functions under 
 
 ### Division 3—Cross‑examination
 
-##### <a id="15YE"></a>15YE  Disallowing inappropriate or aggressive cross‑examination
+##### <a id="15YE"></a>15YE  Disallowing inappropriate or aggressive cross‑examination
 
              (1)  The court may disallow a question put to a child witness in cross‑examination in a proceeding if the question is inappropriate or unnecessarily aggressive.
 
@@ -10674,7 +10542,7 @@ the court may, without passing sentence on the person, make an order (in this se
 
              (4)  The court may, on the application of the person, of the probation officer appointed to supervise the person or of the person in charge of the hospital or other place where the treatment is being undertaken, vary the treatment that the person is to undertake.
 
-##### <a id="20BW"></a>20BW  Breach of psychiatric probation orders
+##### <a id="20BW"></a>20BW  Breach of psychiatric probation orders
 
              (1)  Where an order has been made under section 20BV and information is laid before a magistrate, whether before or after the end of the period referred to in paragraph 20BV(3)(a) or (b), alleging that the person has, without reasonable excuse, failed to comply with a condition of the order, the magistrate may:
 
@@ -11886,7 +11754,7 @@ the investigating official must offer the services of another legal practitioner
 
              (2)  In any proceedings, the burden lies on the prosecution to prove whether it was practicable to tape record the giving of that information and the person’s responses (if any).
 
-##### <a id="23V"></a>23V  Tape recording of confessions and admissions
+##### <a id="23V"></a>23V  Tape recording of confessions and admissions
 
              (1)  If a person who is being questioned as a suspect (whether under arrest or not) makes a confession or admission to an investigating official, the confession or admission is inadmissible as evidence against the person in proceedings for any Commonwealth offence unless:
 
