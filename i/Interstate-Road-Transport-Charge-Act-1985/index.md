@@ -1,1171 +1,1082 @@
-![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image001.gif)
+**
 
-# Interstate Road Transport Charge Act 1985
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985 
+**
 
-**Act No. 131 of 1985 as amended**
 
-This compilation was prepared on 6 January 2009
- taking into account amendments up to Act No. 147 of 2008
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interstate Road Transport Act
 
-[4](#4).            Imposition of charge
 
-[5](#5).            Amount of charge
 
-[5A](#5A).         Automatic increase of amounts of charge
+**
 
-[6](#6).            Regulations may decrease amounts of charge
+###  Long Title 
+**
+Interstate Road Transport Act 1985
 
-[7](#7).            Regulations
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-**Schedule** 
+		This Act may be cited as the _Interstate Road Transport Charge Act 1985_.
 
-**Part 1—Interpretation** 
+ </dl>
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-**Part 2—Annual registration charges**
+<dt>(1)</dt><dd>Sections&#160;1 and 2 shall come into operation on the day on which this
 
-[1](#1).            Load carrying vehicles
+Act receives the Royal Assent.</dd> <dt>(2)</dt><dd>Subsection 3 (2) shall come into operation on the day on which section&#160;5 of the _Interstate Road Transport Act 1985_ comes into operation.</dd> <dt>(3)</dt><dd>The remaining provisions of this Act shall come into operation on the day on which Part&#160;III of the _Interstate Road Transport Act 1985_ comes into operation. </dd> </dl>
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 3  Interstate Road Transport Act 
+<dl compact="">
 
-[2](#2).            Load carrying trailer, converter dolly and low loader dolly
+<dt>(1)</dt><dd>The _Interstate Road Transport Act 1985_ is incorporated and shall be
 
-[3](#3).            Buses
+read as one with this Act.</dd> <dt>(2)</dt><dd>Section&#160;5 of the _Interstate Road Transport Act 1985_ applies in relation to this Act in like manner as it applies in relation to Parts II and III of that Act. </dd> </dl>
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 4  Imposition of charge 
+<dl compact="">
 
-**Notes** 
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), a charge is imposed on the registration of
 
-## An Act to impose a charge by way of or in the nature of a tax in respect of the registration of a motor vehicle or trailer under the _Interstate Road Transport Act 1985_
+a motor vehicle or trailer mentioned in Part&#160;2 of the Schedule.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not apply to motor vehicles or trailers, or motor vehicles or trailers included in a class of motor vehicles or trailers, that are exempt from charge under the regulations. </dd> </dl>
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 5  Amount of charge 
+<dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(1)</dt><dd>The amount of charge in respect of the registration of a motor vehicle or
 
-                   This Act may be cited as the _Interstate   Road__Transport Charge Act 1985_.
+trailer referred to in Part&#160;2 of the Schedule in relation to a year
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+commencing on 1&#160;July 1995 and subsequent years is the amount applicable
 
-             (1)  Sections 1 and 2 shall come into operation on the day on which this Act receives the Royal Assent.
+under subsection&#160;(1A) or (1B), as the case may be.</dd> <dt>(1A)</dt><dd>If the registration is for 1 year, the amount of the charge is the amount applicable to motor vehicles or trailers of that kind under the Schedule.</dd> <dt>(1B)</dt><dd>If the registration is for less than 1 year, the amount of the charge is the amount worked out using the formula: </dd> </dl>
+ ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00301/Html/C9B553883C5B9140CA256F71004E3FA3/$FILE/1202.gif)
+<dl compact=""><dl compact="">
 
-             (2)  Subsection 3 (2) shall come into operation on the day on which section 5 of the _Interstate Road__Transport Act 1985_ comes into operation.
+_charge for 1 year_ means the amount that would be the charge if
 
-             (3)  The remaining provisions of this Act shall come into operation on the day on which Part III of the _Interstate   Road__Transport Act 1985_ comes into operation.
+the registration were for 1 year. _period of registration_ means the number of days in the period of the registration.  </dl></dl>
 
-##### <a id="3"></a>3    Interstate Road Transport Act
+<center>Back to Top</center>
 
-             (1)  The _Interstate Road__Transport Act 1985_ is incorporated and shall be read as one with this Act.
+<dl compact=""><dl compact="">
 
-             (2)  Section 5 of the _Interstate Road__Transport Act 1985_ applies in relation to this Act in like manner as it applies in relation to Parts II and III of that Act.
+<dt>(2)</dt><dd>If a motor vehicle or trailer falls within 2 or more categories specified
 
-##### <a id="4"></a>4  Imposition of charge
+in Part&#160;2 of the Schedule, the registration charge for the vehicle is the
 
-             (1)  Subject to subsection (2), a charge is imposed on the registration of a motor vehicle or trailer mentioned in Part 2 of the Schedule.
+higher or highest of the charges that could apply to the vehicle.
 
-             (2)  Subsection (1) does not apply to motor vehicles or trailers, or motor vehicles or trailers included in a class of motor vehicles or trailers, that are exempt from charge under the regulations.
+</dd> </dl></dl>
 
-##### <a id="5"></a>5  Amount of charge
+**
 
-             (1)  The amount of charge in respect of the registration of a motor vehicle or trailer referred to in Part 2 of the Schedule in relation to a year commencing on 1 July 1995 and subsequent years is the amount applicable under subsection (1A) or (1B), as the case may be.
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 5A  Automatic increase of amounts of charge 
+**
 
-          (1A)  If the registration is for 1 year, the amount of the charge is the amount applicable to motor vehicles or trailers of that kind under the Schedule.
+ <dl compact=""><dl compact="">
 
-          (1B)  If the registration is for less than 1 year, the amount of the charge is the amount worked out using the formula:
+<dt>(1)</dt><dd>This section applies to the charges determined in accordance with the
 
-![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image002.gif)
+Schedule (including charges whose amounts have already been changed by a
 
-where:
+previous application or applications of this section or of regulations made for
 
-                    <a name="charg-year"></a>**_charge for 1 year_** means the amount that would be the charge if the registration were for 1 year.
+the purposes of section&#160;6).</dd> <dt>(2)</dt><dd>At the start of 1&#160;July of each year, beginning with 1&#160;July 2002, the amount of each of those charges is increased, from the amount that applied immediately before that 1&#160;July, by the same percentage amount as is determined for the purposes of section&#160;3A of the _Road Transport Charges (Australian Capital Territory) Act 1993_. </dd> </dl></dl>
 
-                    <a name="period-registr"></a>**_period of registration_** means the number of days in the period of the registration.
+<dl compact=""><dl compact="">
 
-             (2)  If a motor vehicle or trailer falls within 2 or more categories specified in Part 2 of the Schedule, the registration charge for the vehicle is the higher or highest of the charges that could apply to the vehicle.
+Note:	In some circumstances, this rule can result in no increases
 
-##### <a id="5A"></a>5A  Automatic increase of amounts of charge
+occurring on a particular 1&#160;July: see Part&#160;4 of the Schedule to the
 
-             (1)  This section applies to the charges determined in accordance with the Schedule (including charges whose amounts have already been changed by a previous application or applications of this section or of regulations made for the purposes of section 6).
+_Road Transport Charges (Australian Capital Territory) Act 1993_.
 
-             (2)  At the start of 1 July of each year, beginning with 1 July 2002, the amount of each of those charges is increased, from the amount that applied immediately before that 1 July, by the same percentage amount as is determined for the purposes of section 3A of the _Road Transport Charges (__Australian Capital Territory__) Act 1993_.
+ </dl></dl>
 
-Note:          In some circumstances, this rule can result in no increases occurring on a particular 1 July: see Part 4 of the Schedule to the _Road Transport Charges (__Australian Capital Territory__) Act 1993_.
+<dl compact=""><dl compact="">
 
-             (3)  As soon as practicable, the Secretary must publish in the _Gazette_ a statement setting out the new amounts of charge that apply under this section.
+<dt>(3)</dt><dd>As soon as practicable, the Secretary must publish in the _Gazette_ a
 
-##### <a id="6"></a>6  Regulations may decrease amounts of charge
+statement setting out the new amounts of charge that apply under this section.
 
-             (1)  The regulations may decrease the amounts of charge that apply under sections 5 and 5A in relation to a year.
+</dd> </dl></dl>
 
-             (2)  Such regulations must not decrease any amount of charge by more than 5% of the amount of charge that would apply in relation to the year if no regulations were made for the purposes of this section in relation to that year.
+**
 
-##### <a id="7"></a>7  Regulations
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 6  Regulations may decrease amounts of charge 
+**
 
-                   The Governor-General may make regulations for the purposes of subsection 4(2) and section 6.
+ <dl compact=""><dl compact="">
 
-# Schedule
+<dt>(1)</dt><dd>The regulations may decrease the amounts of charge that apply under
 
-_Sections 5, 5A and 6_
+sections&#160;5 and 5A in relation to a year.</dd> <dt>(2)</dt><dd>Such regulations must not decrease any amount of charge by more than 5% of the amount of charge that would apply in relation to the year if no regulations were made for the purposes of this section in relation to that year. </dd> </dl></dl>
 
-## Part 1—Interpretation
+**
 
-              1.  In this Schedule:
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985- SECT 7  Regulations 
+**
 
-                    <a name="articulated-bu"></a>**_articulated bus_** means a bus consisting of more than one rigid section with passenger access between the sections and the sections connected to one another so as to allow rotary movement between the sections.
+ <dl compact=""><dl compact="">
 
-                    <a name="axl"></a>**_axle_** means one or more shafts positioned in a line across a vehicle, on which one or more wheels intended to support the vehicle turn.
+		The Governor-General may make regulations for the purposes of subsection 4(2)
 
-                    <a name="axl-group"></a>**_axle group_** means a single axle group, tandem axle group, twinsteer axle group, tri-axle group or quad-axle group.
+and section&#160;6.
 
-                    <a name="bu"></a>**_bus_** means a motor vehicle, built mainly to carry people, that seats more than 9 adults (including the driver).
+ </dl></dl>
 
-                    <a name="bu-type"></a>**_bus (type 1)_** means a rigid bus that has 2 axles and an MRC not exceeding 12 tonnes.
+<center>**
 
-                    <a name="type"></a><a name="bu"></a>**_bus_** **_(type 2)_** means:
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985Schedule 
+**</center>
 
-                     (a)  a rigid bus that has 2 axles and an MRC exceeding 12 tonnes; or
+ Sections&#160;5, 5A and 6
 
-                     (b)  a rigid bus that has 3 axles or 4 axles.
+Part&#160;1&#151;Interpretation
 
-                    <a name="convert-dolli"></a>**_converter dolly_** means a trailer, with one axle group or single axle and a fifth wheel coupling, designed to convert a semi trailer into a dog trailer.
+<dl compact=""><dl compact="">
 
-                    <a name="dog-trailer"></a>**_dog trailer_** means a trailer (including a trailer consisting of a semi trailer and converter dolly) with:
+	1.	In this Schedule:
 
-                     (a)  one axle group or single axle at the front that is steered by connection to the towing vehicle by a drawbar; and
+ </dl></dl>
 
-                     (b)  one axle group or single axle at the rear.
+<def><dl compact=""><dl compact="">
 
-                    <a name="drawbar"></a>**_drawbar_** means a part of a trailer (other than a semi trailer) that connects the trailer body to a coupling for towing purposes.
+_articulated bus_ means a bus consisting of more than one rigid
 
-                    <a name="driver"></a>**_driver_** means the person driving or in control of a motor vehicle.
+section with passenger access between the sections and the sections connected
 
-                    <a name="fifth-wheel-coupl"></a>**_fifth wheel coupling_** means a device, other than the upper rotating element and the kingpin (which are parts of a semi trailer), used with a prime mover, semi trailer or a converter dolly to permit quick coupling and uncoupling and to provide for articulation.
+to one another so as to allow rotary movement between the sections. _axle_ means one or more shafts positioned in a line across a vehicle, on which one or more wheels intended to support the vehicle turn. _axle group_ means a single axle group, tandem axle group, twinsteer axle group, tri-axle group or quad-axle group. _bus_ means a motor vehicle, built mainly to carry people, that seats more than 9 adults (including the driver). _bus (type 1)_ means a rigid bus that has 2 axles and an MRC not exceeding 12 tonnes. _bus_ _(type 2)_ means:  </dl></dl>
 
-                    <a name="load-carri-trailer"></a>**_load carrying trailer_** means a trailer that is carrying a load or that is built to carry a load.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="load-carri-vehicl"></a>**_load carrying vehicle_** means a motor vehicle or trailer designed and constructed to haul or carry goods and wares in addition to any fuel, water, lubricants, tools and any other equipment or accessories necessary for normal operation of the vehicle.
+<dt>(a)</dt><dd>a rigid bus that has 2 axles and an MRC exceeding 12 tonnes; or</dd>
 
-                    <a name="long-combin-prime-mover"></a>**_long combination prime mover_** means a prime mover nominated to haul 2 or more trailers, but does not include a medium combination prime mover.
+<dt>(b)</dt><dd>a rigid bus that has 3 axles or 4 axles.
 
-                    <a name="long-combin-truck"></a>**_long combination truck_** means a truck nominated to haul 2 or more trailers.
+</dd>
 
-                    <a name="low-loader"></a>**_low loader_** means a gooseneck semi trailer with a loading deck no more than 1 metre above the ground.
+</dl></dl></dl>
 
-                    <a name="low-loader-dolli"></a>**_low loader dolly_** means a mass-distributing device that:
+<def><dl compact=""><dl compact="">
 
-                     (a)  is usually coupled between a prime mover and low loader; and
+_converter dolly_ means a trailer, with one axle group or single
 
-                     (b)  consists of a gooseneck rigid frame; and
+axle and a fifth wheel coupling, designed to convert a semi trailer into a dog
 
-                     (c)  does not directly carry any load on itself; and
+trailer. _dog trailer_ means a trailer (including a trailer consisting of a semi trailer and converter dolly) with:  </dl></dl>
 
-                     (d)  is equipped with one or more axles, a kingpin and a fifth wheel coupling.
+<center>Back to Top</center>
 
-                    <a name="mium-combin-prime-mover"></a>**_medium combination prime mover_** means a prime mover nominated to haul 2 semi trailers where the second semi trailer is mounted on the rear of the semi trailer being hauled by the prime mover (a B-double prime mover).
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="mium-combin-truck"></a>**_medium combination truck_** means a truck, other than a short combination truck, nominated to haul one trailer.
+<dt>(a)</dt><dd>one axle group or single axle at the front that is steered by connection
 
-                    <a name="nomin"></a>**_nominated_** means nominated by the person applying for registration.
+to the towing vehicle by a drawbar; and</dd>
 
-                    <a name="operating-mass"></a>**_operating mass_**, in relation to a vehicle, means the maximum mass of the vehicle, including any load, as determined by the Registration Authority having regard to the design and construction of the vehicle or of any of its components.
+<dt>(b)</dt><dd>one axle group or single axle at the rear.
 
-                    <a name="pig-trailer"></a>**_pig trailer_** means a trailer with one axle group or single axle near the middle of its load-carrying surface, and connected to the towing vehicle by a drawbar.
+</dd>
 
-                    <a name="pole-type-trailer"></a>**_pole type trailer_** means a trailer that:
+</dl></dl></dl>
 
-                     (a)  is attached to a towing vehicle by means of a pole or an attachment fitted to a pole; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  is ordinarily used for transporting loads, such as logs, pipes, structural members or other long objects, that are generally capable of supporting themselves like beams between supports.
+_drawbar_ means a part of a trailer (other than a semi trailer)
 
-                    <a name="prime-mover"></a>**_prime mover_** means a motor vehicle designed to haul a semi trailer.
+that connects the trailer body to a coupling for towing purposes. _driver_ means the person driving or in control of a motor vehicle. _fifth wheel coupling_ means a device, other than the upper rotating element and the kingpin (which are parts of a semi trailer), used with a prime mover, semi trailer or a converter dolly to permit quick coupling and uncoupling and to provide for articulation. _load carrying trailer_ means a trailer that is carrying a load or that is built to carry a load. _load carrying vehicle_ means a motor vehicle or trailer designed and constructed to haul or carry goods and wares in addition to any fuel, water, lubricants, tools and any other equipment or accessories necessary for normal operation of the vehicle. _long combination prime mover_ means a prime mover nominated to haul 2 or more trailers, but does not include a medium combination prime mover. _long combination truck_ means a truck nominated to haul 2 or more trailers. _low loader_ means a gooseneck semi trailer with a loading deck no more than 1 metre above the ground. _low loader dolly_ means a mass-distributing device that:  </dl></dl>
 
-                    <a name="quad-axl-group"></a>**_quad-axle group_** means a group of 4 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="semi-trailer"></a>**_semi trailer_** means a trailer (including a pole type trailer) that has:
+<dt>(a)</dt><dd>is usually coupled between a prime mover and low loader; and</dd>
 
-                     (a)  one axle group or single axle towards the rear; and
+<dt>(b)</dt><dd>consists of a gooseneck rigid frame; and</dd>
 
-                     (b)  a means of attachment to a prime mover that results in some of the load being imposed on the prime mover.
+<dt>(c)</dt><dd>does not directly carry any load on itself; and</dd>
 
-                    <a name="short-combin-prime-mover"></a>**_short combination prime mover_** means a prime mover nominated to haul one semi trailer.
+<dt>(d)</dt><dd>is equipped with one or more axles, a kingpin and a fifth wheel coupling.
 
-                    <a name="short-combin-truck"></a>**_short combination truck_** means a truck nominated to haul one trailer where, according to the nomination:
+</dd>
 
-                     (a)  the combination has 6 axles or fewer; and
+</dl></dl></dl>
 
-                     (b)  the maximum total mass that is legally allowable for the combination is 42.5 tonnes or less.
+<def><dl compact=""><dl compact="">
 
-                    <a name="singl-axl"></a>**_single axle_** means an axle not forming part of an axle group.
+_medium combination prime mover_ means a prime mover nominated to
 
-                    <a name="singl-axl-group"></a>**_single axle group_** means a group of 2 or more axles, in which the horizontal distance between the centre-lines of the outermost axles is less than 1 metre.
+haul 2 semi trailers where the second semi trailer is mounted on the rear of
 
-                    <a name="tandem-axl-group"></a>**_tandem axle group_** means a group of at least 2 axles, in which the horizontal distance between the centre-lines of the outermost axles is at least 1 metre but not more than 2 metres.
+the semi trailer being hauled by the prime mover (a B-double prime mover). _medium combination truck_ means a truck, other than a short combination truck, nominated to haul one trailer. _nominated_ means nominated by the person applying for registration. _operating mass_, in relation to a vehicle, means the maximum mass of the vehicle, including any load, as determined by the Registration Authority having regard to the design and construction of the vehicle or of any of its components. _pig trailer_ means a trailer with one axle group or single axle near the middle of its load-carrying surface, and connected to the towing vehicle by a drawbar. _pole type trailer_ means a trailer that:  </dl></dl>
 
-                    <a name="tri-axl-group"></a>**_tri-axle group_** means a group of at least 3 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 2 metres, but not more than 3.2 metres.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="truck"></a>**_truck_** means a rigid motor vehicle that is principally constructed as a load carrying vehicle.
+<dt>(a)</dt><dd>is attached to a towing vehicle by means of a pole or an attachment fitted
 
-                    <a name="truck-type"></a>**_truck (type 1)_** means a truck that:
+to a pole; and</dd>
 
-                     (a)  has 2 axles and an MRC not exceeding 12 tonnes; or
+<dt>(b)</dt><dd>is ordinarily used for transporting loads, such as logs, pipes, structural
 
-                     (b)  has 3 axles and an MRC not exceeding 16.5 tonnes; or
+members or other long objects, that are generally capable of supporting
 
-                     (c)  has 4 or more axles and an MRC not exceeding 20 tonnes.
+themselves like beams between supports.
 
-                    <a name="truck-type"></a>**_truck (type 2)_** means:
+</dd>
 
-                     (a)  a truck that has 2 axles and an MRC exceeding 12 tonnes; or
+</dl></dl></dl>
 
-                     (b)  a truck that has 3 axles and an MRC exceeding 16.5 tonnes; or
+<def><dl compact=""><dl compact="">
 
-                     (c)  a truck that has 4 or more axles and an MRC exceeding 20 tonnes.
+_prime mover_ means a motor vehicle designed to haul a semi
 
-                    <a name="twinsteer-axl-group"></a>**_twinsteer axle group_** means a group of 2 axles:
+trailer. _quad-axle group_ means a group of 4 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres. _semi trailer_ means a trailer (including a pole type trailer) that has:  </dl></dl>
 
-                     (a)  with single tyres; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  fitted to a motor vehicle; and
+<dt>(a)</dt><dd>one axle group or single axle towards the rear; and</dd>
 
-                     (c)  connected to the same steering mechanism; and
+<dt>(b)</dt><dd>a means of attachment to a prime mover that results in some of the load
 
-                     (d)  the horizontal distance between the centre-lines of which is at least 1 metre, but not more than 2 metres.
+being imposed on the prime mover.
 
-              2\.  For the purposes of this Schedule (other than the definitions of **_single axle group_**, **_tandem axle group_**, **_twinsteer axle group_**, **_tri-axle group_** and **_quad-axle group_**):
+</dd>
 
-                     (a)  2 axles not more than one metre apart are to be regarded as one axle; and
+</dl></dl></dl>
 
-                     (b)  3 axles not more than 2 metres apart are to be regarded as 2 axles; and
+<center>Back to Top</center>
 
-                     (c)  4 axles not more than 3.2 metres apart are to be regarded as 3 axles.
+<def><dl compact=""><dl compact="">
 
-              3.  For the purposes of determining the number of trailers that a prime mover or truck may tow:
+_short combination prime mover_ means a prime mover nominated to
 
-                     (a)  a converter dolly and a semi trailer when used together are to be regarded as one trailer; and
+haul one semi trailer. _short combination truck_ means a truck nominated to haul one trailer where, according to the nomination:  </dl></dl>
 
-                     (b)  a low loader dolly and a low loader when used together are to be regarded as one trailer.
+<dl compact=""><dl compact=""><dl compact="">
 
-              4.  Nothing in this Schedule applies to a vehicle with an MRC less than or equal to 4.5 tonnes.
+<dt>(a)</dt><dd>the combination has 6 axles or fewer; and</dd>
 
-## Part 2—Annual registration charges
+<dt>(b)</dt><dd>the maximum total mass that is legally allowable for the combination is
 
-##### <a id="1"></a>1  <span style="font-family:" new="">Load carrying vehicles</span>
+42.5 tonnes or less.
 
-<table>
-<colgroup>
-  <col width="11%">
-  <col width="35%">
-  <col width="13%">
-  <col width="13%">
-  <col width="13%">
-  <col width="15%">
-</colgroup>
+</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Item</div>
-    </td>
-    <td>
-      <div>Vehicle type</div>
-    </td>
-    <td>
-      <div>2-axle</div>
-    </td>
-    <td>
-      <div>3-axle</div>
-    </td>
-    <td>
-      <div>4-axle</div>
-    </td>
-    <td>
-      <div>5-axle</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_single axle_ means an axle not forming part of an axle group. _single axle group_ means a group of 2 or more axles, in which the horizontal distance between the centre-lines of the outermost axles is less than 1 metre. _tandem axle group_ means a group of at least 2 axles, in which the horizontal distance between the centre-lines of the outermost axles is at least 1 metre but not more than 2 metres. _tri-axle group_ means a group of at least 3 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 2 metres, but not more than 3.2 metres. _truck_ means a rigid motor vehicle that is principally constructed as a load carrying vehicle. _truck (type 1)_ means a truck that:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has 2 axles and an MRC not exceeding 12 tonnes; or</dd>
+
+<dt>(b)</dt><dd>has 3 axles and an MRC not exceeding 16.5 tonnes; or</dd>
+
+<dt>(c)</dt><dd>has 4 or more axles and an MRC not exceeding 20 tonnes.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_truck (type 2)_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a truck that has 2 axles and an MRC exceeding 12 tonnes; or</dd>
+
+<dt>(b)</dt><dd>a truck that has 3 axles and an MRC exceeding 16.5 tonnes; or</dd>
+
+<dt>(c)</dt><dd>a truck that has 4 or more axles and an MRC exceeding 20 tonnes.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_twinsteer axle group_ means a group of 2 axles:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>with single tyres; and</dd>
+
+<dt>(b)</dt><dd>fitted to a motor vehicle; and</dd>
+
+<dt>(c)</dt><dd>connected to the same steering mechanism; and</dd>
+
+<dt>(d)</dt><dd>the horizontal distance between the centre-lines of which is at least 1
+
+metre, but not more than 2 metres.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+	2\. 	For the purposes of this Schedule (other than the definitions of
+
+_single axle group_, _tandem axle group_,
+
+_twinsteer axle group_, _tri-axle group_ and
+
+_quad-axle group_):
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>2 axles not more than one metre apart are to be regarded as one axle;
+
+and</dd>
+
+<dt>(b)</dt><dd>3 axles not more than 2 metres apart are to be regarded as 2 axles; and</dd>
+
+<dt>(c)</dt><dd>4 axles not more than 3.2 metres apart are to be regarded as 3 axles.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+	3.	For the purposes of determining the number of trailers that a prime mover
+
+or truck may tow:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a converter dolly and a semi trailer when used together are to be regarded
+
+as one trailer; and</dd>
+
+<dt>(b)</dt><dd>a low loader dolly and a low loader when used together are to be regarded
+
+as one trailer.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+	4.	Nothing in this Schedule applies to a vehicle with an MRC less than or
+
+equal to 4.5 tonnes.
+
+ </dl></dl>
+
+Part&#160;2&#151;Annual registration charges
+
+1  Load carrying vehicles
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Vehicle type</div>
+
+  </th>
+  <th colspan="1" align="right">
+    <div>2-axle</div>
+
+  </th>
+  <th colspan="1" align="right">
+    <div>3-axle</div>
+
+  </th>
+  <th colspan="1" align="right">
+    <div>4-axle</div>
+
+  </th>
+  <th colspan="1" align="right">
+    <div>5-axle</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>1</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Truck (type 1)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$310</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$620</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$930</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$930</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>2</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Truck (type 2)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$516</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$826</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$2 066</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$2 066</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>3</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Short combination truck</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$568</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$2 066</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$2 066</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$2 066</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>4</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Medium combination truck</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$3 925</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$3 925</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$4 235</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$4 235</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>5</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Long combination truck</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 423</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 423</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 423</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 423</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>6</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Short combination prime mover</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$1 343</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$3 512</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$4 545</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$4 545</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>7</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Medium combination prime mover</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$4 132</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 165</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 681</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 681</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>8</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Long combination prime mover</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 165</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 165</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 681</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$5 681</div>
+
   </td>
-</tr></table>
+</tr></table>2 
+<center>Back to Top</center>
+  Load carrying trailer, converter dolly and low loader dolly
+ The amount of the charge applicable to a load carrying trailer, a converter dolly or a low loader dolly is worked out using the formula:
 
-##### <a id="2"></a>2  <span style="font-family:" new="">Load carrying trailer, converter dolly and low loader dolly</span>
+<center><sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00301/Html/C9B553883C5B9140CA256F71004E3FA3/$FILE/1203.gif)</sub></center>
 
-                   The amount of the charge applicable to a load carrying trailer, a converter dolly or a low loader dolly is worked out using the formula:
+3  Buses
 
-![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image003.gif)
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
 
-##### <a id="3"></a>3  <span style="font-family:" new="">Buses</span>
+  </th>
+  <th colspan="1" align="left">
+    <div>Bus type</div>
 
-<table>
-<colgroup>
-  <col width="11%">
-  <col width="31%">
-  <col width="20%">
-  <col width="20%">
-  <col width="19%">
-</colgroup>
+  </th>
+  <th colspan="1" align="right">
+    <div>2-axle</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Item</div>
-    </td>
-    <td>
-      <div>Bus type</div>
-    </td>
-    <td>
-      <div>2-axle</div>
-    </td>
-    <td>
-      <div>3-axle</div>
-    </td>
-    <td>
-      <div>4-axle</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+  <th colspan="1" align="right">
+    <div>3-axle</div>
+
+  </th>
+  <th colspan="1" align="right">
+    <div>4-axle</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>1</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Bus (type 1)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$310</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="right">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="right">
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>2</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Bus (type 2)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$516</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$1 291</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$1 291</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>3</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Articulated bus</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="right">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$516</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$516</div>
+
   </td>
 </tr></table>
 
-# Notes to the _Interstate Road Transport Charge Act 1985_
+<center>**
 
-### Note 1
+###  INTERSTATE ROAD TRANSPORT CHARGE ACT 1985<centreit>Notes to the _Interstate Road Transport Charge Act 1985_ </centreit>
+**</center>
 
-The _Interstate Road__Transport Charge Act 1985_ as shown in this compilation comprises Act No. 131, 1985 amended as indicated in the Tables below.
+**Note 1**
 
-The _Interstate Road__Transport Charge Act 1985_ was amended by the _Interstate Road__Transport Charge Regulations 2001_ (SR 2001 No. 212). The amendments are incorporated in this compilation.
+The _Interstate Road Transport Charge Act 1985_ as shown in this compilation comprises Act No.&#160;131, 1985 amended as indicated in the Tables below.
+ The _Interstate Road Transport Charge Act 1985_ was amended by the _Interstate Road Transport Charge Regulations 2001_ (SR 2001 No.&#160;212). The amendments are incorporated in this compilation.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="0%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Act 1985</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Act 1985</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>131, 1985</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Nov 1985</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>Ss. 1 and 2: Royal Assent 
 Remainder: 1 Jan 1987 ( <i>see</i>s. 3(2), (3) and <i>Gazette</i>1986, No. S661)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1988</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 1988</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>40, 1988</div>
+
   </td>
-  <td>
-    <div>3 June 1988</div>
+  <td colspan="1" align="left">
+    <div>3&#160;June 1988</div>
+
   </td>
-  <td colspan="2">
-    <div>1 July 1988</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1988</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 1991</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>129, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2 Sept 1991</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>15 Nov 1991 ( <i>see Gazette</i>1991, No. S304)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 1995</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>51, 1995</div>
+
   </td>
-  <td>
-    <div>23 June 1995</div>
+  <td colspan="1" align="left">
+    <div>23&#160;June 1995</div>
+
   </td>
-  <td colspan="2">
-    <div>1 July 1995</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1995</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 1998</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>44, 1998</div>
+
   </td>
-  <td>
-    <div>17 June 1998</div>
+  <td colspan="1" align="left">
+    <div>17&#160;June 1998</div>
+
   </td>
-  <td colspan="2">
-    <div>17 June 1998</div>
+  <td colspan="1" align="left">
+    <div>17&#160;June 1998</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 2000</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 2000</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>41, 2000</div>
+
   </td>
-  <td>
-    <div>3 May 2000</div>
+  <td colspan="1" align="left">
+    <div>3&#160;May 2000</div>
+
   </td>
-  <td colspan="2">
-    <div>1 July 2000 ( <i>see Gazette</i>2000, No. S303)</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 2000 ( <i>see Gazette</i>2000, No. S303)</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 34)</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item&#160;34)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 2002</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Interstate Road Transport Charge Amendment Act 2002</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>18, 2002</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4 Apr 2002</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>4 Apr 2002</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act (No. 2) 2008</div>
-  </td>
-  <td>
-    <div>147, 2008</div>
-  </td>
-  <td>
-    <div>11 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10)</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
-## Table of Amendments
+<center>Back to Top</center>
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+**Table of Amendments**
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 41, 2000</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;41, 2000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 40, 1988; No. 129, 1991; No. 44, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 1995</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;40, 1988; No.&#160;129, 1991; No.&#160;44, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 41, 2000</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;51, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;41, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5A</div>
+
   </td>
-  <td>
-    <div>ad. No. 18, 2002</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 18, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>rep. No. 129, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 51, 1995</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;129, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rs. No. 18, 2002</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;51, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 18, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>am. No. 51, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Schedule heading.</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;51, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Note to Schedule heading</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 18, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Schedule</div>
+
   </td>
-  <td>
-    <div>ad. No. 51, 1995</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;51, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 41, 2000; Statutory Rules 2001, No. 212</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;41, 2000; Statutory Rules 2001, No.&#160;212</div>
+
   </td>
 </tr></table>
 
-### Note 2
+**Table A**
 
-_Interstate Road Transport Charge Amendment Act (No. 2) 2008 
- (No. 147, 2008)_
+**Application, saving or transitional provisions**
 
-The following amendments commence on 11 June 2009 unless proclaimed earlier:
+_Interstate Road Transport Charge Amendment Act 2000_ (No.&#160;41, 2000)
 
-## Schedule 1
+**Schedule&#160;1**
 
-## 1  Title
-
-Omit “**motor vehicle or trailer**”, substitute “**vehicle**”.
-
-## 2  After section 3
-
-Insert:
-
-##### <a id="3A"></a>3A  Definitions
-
-                   In this Act:
-
-                    <a name="articulated-bu"></a>**_articulated bus_** means a bus consisting of more than one rigid section with passenger access between the sections and the sections connected to one another so as to allow rotary movement between the sections.
-
-                    <a name="australian-transport-council"></a>**_Australian Transport Council_** has the meaning given by section 4 of the _National Transport Commission Act 2003_.
-
-                    <a name="axl"></a>**_axle_** means one or more shafts positioned in a line across a vehicle, on which one or more wheels intended to support the vehicle turn.
-
-                    <a name="axl-group"></a>**_axle group_** means a single axle group, tandem axle group, twinsteer axle group, tri-axle group or quad-axle group.
-
-                    <a name="doubl-combin"></a>**_B-double combination_** means a combination consisting of a prime mover towing 2 semi trailers.
-
-                    <a name="doubl-lead-trailer"></a>**_B-double lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B-double combination.
-
-                    <a name="tripl-combin"></a>**_B-triple combination_** means a combination consisting of a prime mover towing 3 semi trailers.
-
-                    <a name="tripl-lead-trailer"></a>**_B-triple lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B-triple combination.
-
-                    <a name="tripl-middl-trailer"></a>**_B-triple middle trailer_** means a semi trailer that is nominated for use as the second trailer in a B-triple combination.
-
-                    <a name="bu"></a>**_bus_** means a motor vehicle, built mainly to carry people, that seats more than 9 adults (including the driver).
-
-                    <a name="bu-type"></a>**_bus (type 1)_** means a rigid bus that has 2 axles and an MRC not exceeding 12 tonnes.
-
-                    <a name="bu-type"></a>**_bus (type 2)_** means:
-
-                     (a)  a rigid bus that has 2 axles and an MRC exceeding 12 tonnes; or
-
-                     (b)  a rigid bus that has 3 or 4 axles.
-
-                    <a name="complianc-plate"></a>**_compliance plate_** means a plate authorised to be placed on a vehicle, or taken to have been placed on a vehicle, under the _Motor Vehicle Standards Act 1989_.
-
-                    <a name="convert-dolli"></a>**_converter dolly_** means a trailer with a fifth wheel coupling designed to support a semi trailer for hauling purposes.
-
-                    <a name="dog-trailer"></a>**_dog trailer_** means a trailer with:
-
-                     (a)  a single axle group or single axle at the front that is steered by connection to the towing vehicle by a drawbar; and
-
-                     (b)  a single axle group or single axle at the rear.
-
-                    <a name="drawbar"></a>**_drawbar_** means a part of a trailer (other than a semi trailer) that connects the trailer body to a coupling for towing purposes.
-
-                    <a name="driver"></a>**_driver_** means the person driving or in control of a motor vehicle.
-
-                    <a name="fifth-wheel-coupl"></a>**_fifth wheel coupling_** means a device, other than the upper rotating element and the kingpin (which are parts of a semi trailer), used with a prime mover, semi trailer or a converter dolly to permit quick coupling and uncoupling and to provide for articulation.
-
-                    <a name="lead-trailer"></a>**_lead trailer_**, in a combination, means the trailer that is, or that is to be, attached to the prime mover.
-
-                    <a name="load-carri-vehicl"></a>**_load carrying vehicle_** means a vehicle designed and constructed to haul or carry goods and wares in addition to any fuel, water, lubricants, tools and any other equipment or accessories necessary for normal operation of the vehicle.
-
-                    <a name="load-mass"></a>**_loaded mass_**, in relation to a vehicle, means the sum of the mass of the vehicle and the mass of the load on the vehicle that is imposed on the surface on which the vehicle is standing or running.
-
-                    <a name="long-combin-truck"></a>**_long combination truck_** means a truck nominated to haul 2 or more trailers.
-
-                    <a name="low-loader"></a>**_low loader_** means a gooseneck semi trailer with a loading deck no more than one metre above the ground.
-
-                    <a name="low-loader-dolli"></a>**_low loader dolly_** means a mass-distributing device that:
-
-                     (a)  is usually coupled between a prime mover and low loader; and
-
-                     (b)  consists of a gooseneck rigid frame; and
-
-                     (c)  does not directly carry any load on itself; and
-
-                     (d)  is equipped with one or more axles, a kingpin and a fifth wheel coupling.
-
-                    <a name="mium-combin-truck"></a>**_medium combination truck_** means a truck, other than a short combination truck, nominated to haul one trailer.
-
-                    <a name="mrc"></a>**_MRC_**(short for Mass Rating for Charging), in relation to a vehicle, means:
-
-                     (a)  the maximum mass of the vehicle, including any load, recorded on the compliance plate as the Gross Vehicle Mass, Gross Trailer Mass Rating or Aggregate Trailer Mass of the vehicle; or
-
-                     (b)  in relation to a vehicle for which there is no compliance plate—its operating mass.
-
-                    <a name="multi-combin-prime-mover"></a>**_multi-combination prime mover_** means a prime mover nominated to haul 2 or more trailers.
-
-                    <a name="nomin"></a>**_nominated_** means nominated by the person applying for registration.
-
-                    <a name="operating-mass"></a>**_operating mass_**, in relation to a vehicle, means the maximum mass of the vehicle, including any load, as determined by the Registration Authority having regard to the design and construction of the vehicle or of any of its components.
-
-                    <a name="pig-trailer"></a>**_pig trailer_** means a trailer with a single axle group or single axle near the middle of its load-carrying surface, and connected to the towing vehicle by a drawbar.
-
-                    <a name="pole-type-trailer"></a>**_pole type trailer_** means a trailer that:
-
-                     (a)  is attached to a towing vehicle by means of a pole or an attachment fitted to a pole; and
-
-                     (b)  is ordinarily used for transporting loads, such as logs, pipes, structural members or other long objects, that are generally capable of supporting themselves like beams between supports.
-
-                    <a name="prime-mover"></a>**_prime mover_** means a motor vehicle designed to haul a semi trailer.
-
-                    <a name="quad-axl-group"></a>**_quad-axle group_** means a group of 4 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres.
-
-                    <a name="registr-author"></a>**_Registration Authority_** means the authority that is responsible for registering vehicles.
-
-                    <a name="semi-trailer"></a>**_semi trailer_** means a trailer (including a pole type trailer) that has:
-
-                     (a)  a single axle group or single axle towards the rear; and
-
-                     (b)  a means of attachment to a prime mover or a converter dolly that results in some of the load being imposed on the prime mover, or the converter dolly, as the case may be.
-
-                    <a name="short-combin-prime-mover"></a>**_short combination prime mover_** means a prime mover nominated to haul one semi trailer.
-
-                    <a name="short-combin-truck"></a>**_short combination truck_** means a truck nominated to haul one trailer where, according to the nomination:
-
-                     (a)  the combination has 6 axles or fewer; and
-
-                     (b)  the maximum total mass that is legally allowable for the combination is 42.5 tonnes or less.
-
-                    <a name="singl-axl"></a>**_single axle_** means an axle not forming part of an axle group.
-
-                    <a name="singl-axl-group"></a>**_single axle group_** means a group of 2 or more axles, in which the horizontal distance between the centre-lines of the outermost axles is less than one metre.
-
-                    <a name="tandem-axl-group"></a>**_tandem axle group_** means a group of at least 2 axles, in which the horizontal distance between the centre-lines of the outermost axles is at least one metre but not more than 2 metres.
-
-                    <a name="trailer"></a>**_trailer_** means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle that is being towed.
-
-                    <a name="tri-axl-group"></a>**_tri-axle group_** means a group of at least 3 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 2 metres, but not more than 3.2 metres.
-
-                    <a name="truck"></a>**_truck_** means a rigid motor vehicle that is principally constructed as a load carrying vehicle.
-
-                    <a name="truck-type"></a>**_truck (type 1)_** means a truck that has:
-
-                     (a)  2 axles and an MRC not exceeding 12 tonnes; or
-
-                     (b)  3 axles and an MRC not exceeding 16.5 tonnes; or
-
-                     (c)  4 or more axles and an MRC not exceeding 20 tonnes.
-
-                    <a name="truck-type"></a>**_truck (type 2)_** means a truck that has:
-
-                     (a)  2 axles and an MRC exceeding 12 tonnes; or
-
-                     (b)  3 axles and an MRC exceeding 16.5 tonnes; or
-
-                     (c)  4 or more axles and an MRC exceeding 20 tonnes.
-
-                    <a name="twinsteer-axl-group"></a>**_twinsteer axle group_** means a group of 2 axles:
-
-                     (a)  with single tyres; and
-
-                     (b)  fitted to a motor vehicle; and
-
-                     (c)  connected to the same steering mechanism; and
-
-                     (d)  the horizontal distance between the centre-lines of which is at least one metre, but not more than 2 metres.
-
-                    <a name="vehicl"></a>**_vehicle_** includes a trailer.
-
-##### <a id="3B"></a>3B  Close-spaced axles
-
-             (1)  For the purposes of this Act (other than the definitions of **_single axle group_**, **_tandem axle group_**, **_twinsteer axle group_**, **_tri-axle group_** and **_quad-axle group_**):
-
-                     (a)  2 axles less than one metre apart are to be regarded as one axle; and
-
-                     (b)  3 axles not more than 2 metres apart are to be regarded as 2 axles; and
-
-                     (c)  4 axles not more than 3.2 metres apart are to be regarded as 3 axles.
-
-             (2)  A reference to a distance in subsection (1) is a reference to the horizontal distance between the centre-lines of:
-
-                     (a)  in the case of paragraph (1)(a)—the 2 axles; and
-
-                     (b)  in any other case—the outermost axles.
-
-##### <a id="3C"></a>3C  Determination of number of trailers
-
-             (1)  For the purposes of determining the number of trailers that a prime mover or truck is nominated to haul:
-
-                     (a)  a converter dolly and a semi trailer when used together are to be regarded as one trailer; and
-
-                     (b)  a low loader dolly and a low loader when used together are to be regarded as one trailer.
-
-             (2)  To avoid doubt, nothing in this section affects a requirement that a separate annual registration charge be paid for each converter dolly or low loader dolly and for each semi trailer.
-
-## 3  Subsection 4(1)
-
-Repeal the subsection, substitute:
-
-             (1)  Subject to subsections (2) and (3), a charge is imposed on the registration of a vehicle in a category mentioned in subsection (1A).
-
-          (1A)  For the purposes of subsection (1), a charge is payable in relation to the registration of the following categories of vehicle:
-
-                     (a)  a truck (type 1);
-
-                     (b)  a truck (type 2);
-
-                     (c)  a short combination truck;
-
-                     (d)  a medium combination truck;
-
-                     (e)  a long combination truck;
-
-                      (f)  a short combination prime mover;
-
-                     (g)  a multi-combination prime mover;
-
-                     (h)  a pig trailer;
-
-                      (i)  a dog trailer;
-
-                      (j)  a semi trailer;
-
-                     (k)  a B-double lead trailer;
-
-                      (l)  a B-triple lead trailer;
-
-                    (m)  a B-triple middle trailer;
-
-                     (n)  a converter dolly;
-
-                     (o)  a low loader dolly;
-
-                     (p)  a bus (type 1);
-
-                     (q)  a bus (type 2);
-
-                      (r)  an articulated bus.
-
-## 4  Subsection 4(2)
-
-Omit “motor vehicles or trailers” (wherever occurring), substitute “vehicles”.
-
-## 5  At the end of section 4
-
-Add:
-
-             (3)  Subsection (1) does not apply to vehicles that have an MRC of less than or equal to 4.5 tonnes.
-
-## 6  Subsection 5
-
-Repeal the section, substitute:
-
-##### <a id="5"></a>5  Amount of charge
-
-             (1)  The amount of charge in respect of the registration of a vehicle in a category referred to in subsection 4(1A) is the amount applicable under subsection (2) or (4), as the case may be.
-
-             (2)  If the registration is for a full year, the amount of the charge is the amount for vehicles in that category in relation to the financial year in which the registration comes into force.
-
-Note:          For the definition of **_financial year_**, see paragraph 22(1)(e) of the _Acts Interpretation Act 1901_.
-
-             (3)  For the purposes of subsection (2), the amount of the charge is the amount worked out in accordance with regulations made for the purposes of this section.
-
-             (4)  If the registration is for less than a full year, the amount of the charge is the amount worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image004.gif)
-
-where:
-
-                    <a name="charg-on-year"></a>**_charge for one year_** means the amount that would be the charge in respect of the registration under subsection (2).
-
-                    <a name="period-registr"></a>**_period of registration_** means the number of days in the period of the registration.
-
-             (5)  If a vehicle falls within 2 or more categories of vehicle under subsection 4(1A), the charge in respect of the registration of the vehicle is the higher or highest of the charges that could apply in respect of that registration of that vehicle.
-
-             (6)  Regulations made for the purposes of this section must not take effect earlier than the first day after the end of the period in which the regulations may be disallowed under Part 5 of the _Legislative Instruments Act 2003_.
-
-## 7  Sections 5A and 6
-
-Repeal the sections.
-
-## 8  Section 7
-
-Omit “section 6”, substitute “section 5”.
-
-## 9  Schedule
-
-Repeal the Schedule.
-
-As at 6 January 2009 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Interstate Road Transport Charge Amendment Act 2000 (No. 41, 2000)_
-
-### Schedule 1
-
-## 34  Application of amendments
+**34  Application of amendments**
 
 The amendments made by this Act apply to:
 
-                     (a)  if this Act commences on or before 1 July 2000—charges in respect of the registration of a motor vehicle or trailer that comes into force on or after 1 July 2000; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if this Act commences after 1 July 2000—charges in respect of the registration of a motor vehicle or trailer that comes into force after this Act commences.
+<dt>(a)</dt><dd>if this Act commences on or before 1&#160;July 2000&#151;charges in respect of
 
-* * *
+the registration of a motor vehicle or trailer that comes into force on or
 
-_Interstate Road Transport Charge Amendment Act (No. 2) 2008 
- (No. 147, 2008)_
+after 1&#160;July 2000; or</dd>
 
-_The following provision commences on the 11 June 2009 unless proclaimed earlier:_
+<dt>(b)</dt><dd>if this Act commences after 1&#160;July 2000&#151;charges in respect of the
 
-### Schedule 1
+registration of a motor vehicle or trailer that comes into force after this Act
 
-## 10  Application of amendments
+commences.
 
-(1)        Despite the repeal of section 5 of the _Interstate Road Transport Charge Act 1985_ made by item 6 of this Schedule, the amount of the charge under that section, immediately before this Schedule commences, continues to apply in relation to registrations of vehicles that come into force after this Schedule commences until regulations made for the purposes of section 5 of that Act, as in force immediately after this Schedule commences, take effect.
+</dd>
 
-(2)        Once those regulations take effect, the amendments made by this Schedule apply in relation to registrations of vehicles in a category referred to in subsection 4(1A) of the Interstate Road Transport Charge Act 1985 (as inserted by item 3 of this Schedule) that come into force after this Schedule commences.
+</dl></dl></dl>
 
- 
+</def></def></def></def>
+
+</def></def></def>
+
+</def></def>
+
+
