@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02485/Html/BiologicalControl84_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02484/Html/BiologicalControl84_image001.gif)
 
 # Biological Control Act 1984
 
 **Act No. 139 of 1984 as amended**
 
-This compilation was prepared on 17 August 2001
- taking into account amendments up to Act No. 82 of 2001
+This compilation was prepared on 17 July 2000
+ taking into account amendments up to Act No. 92 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,135 +15,7 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-**Part I—Preliminary**
-
-[1](#1).            Short title [_see_ Note 1]                                                                        1
-
-[2](#2).            Interpretation                                                                                       1
-
-[3](#3).            Biological control                                                                                 4
-
-[4](#4).            Extension of Act to external Territories                                              4
-
-[5](#5).            Saving of other laws                                                                             4
-
-[6](#6).            Act to bind Crown                                                                               5
-
-[7](#7).            Act not limited to agricultural pests                                                    5
-
-[8](#8).            Commonwealth Biological Control Authority                                    5
-
-[9](#9).            Relevant State laws                                                                              5
-
-[10](#10).          Delegation                                                                                            6
-
-**Part II—Target organisms**
-
-[12](#12).          Target organisms                                                                                  7
-
-[13](#13).          Target application                                                                                7
-
-[14](#14).          Withdrawal of target application                                                         8
-
-[15](#15).          Referral of target application to Council                                             8
-
-[16](#16).          Notice of rejection of target application                                              8
-
-[17](#17).          Notice of proposed target organisms                                                   9
-
-[18](#18).          Consideration of submissions relating to target organisms                10
-
-[19](#19).          Inquiries relating to target organisms                                                 10
-
-[20](#20).          Declaration of target organisms                                                         11
-
-**Part III—Agent organisms**
-
-[21](#21).          Agent organisms                                                                                13
-
-[22](#22).          Agent application                                                                              13
-
-[23](#23).          Withdrawal of agent application                                                        14
-
-[24](#24).          Referral of agent application to Council                                            14
-
-[25](#25).          Notice of rejection of agent application                                             14
-
-[26](#26).          Notice of proposed agent organisms                                                 15
-
-[27](#27).          Consideration of submissions relating to agent organisms                16
-
-[28](#28).          Inquiries relating to agent organisms                                                  16
-
-[29](#29).          Declaration of agent organisms                                                          17
-
-**Part IV—Special declarations of target organisms and agent organisms**
-
-[30](#30).          Emergency declarations                                                                     20
-
-[31](#31).          Declarations of existing released organisms                                       21
-
-[32](#32).          Notice of proposed declaration under section 31                              22
-
-[33](#33).          Inquiries relating to declarations under section 31                             23
-
-[34](#34).          Declaration of organisms declared under relevant State law              24
-
-**Part V—Release of agent organisms**
-
-[35](#35).          Release of agent organisms                                                                25
-
-[36](#36).          No legal proceedings to be instituted in respect of release of agent organisms         25
-
-**Part VI—Biological control under State laws**
-
-[37](#37).          Legal proceedings not to be instituted                                               27
-
-**Part VII—Inquiries**
-
-[38](#38).          Commissions of inquiry                                                                    29
-
-[39](#39).          Remuneration of Commissioners                                                       30
-
-[40](#40).          Notice of inquiries                                                                             30
-
-[41](#41).          Procedure at inquiries                                                                        30
-
-[42](#42).          Power to summon witnesses                                                             31
-
-[43](#43).          Failure of witness to attend                                                               31
-
-[44](#44).          Power to administer oath or affirmation                                            32
-
-[45](#45).          Refusal to be sworn or to answer questions                                      32
-
-[46](#46).          Protection of Commissioners and witnesses                                     32
-
-[47](#47).          False or misleading evidence                                                              33
-
-[48](#48).          Contempt of Commission                                                                 33
-
-[49](#49).          Powers of Commission in relation to documents produced              33
-
-[50](#50).          Allowances to witnesses                                                                   34
-
-[51](#51).          Witness not to be prejudiced                                                             34
-
-**Part VIII—Miscellaneous**
-
-[52](#52).          Act not to render other controls illegal                                              36
-
-[53](#53).          Revocation of declarations                                                                 36
-
-[54](#54).          Declarations continue in operation                                                    36
-
-[55](#55).          Service of documents on Authority                                                   36
-
-[56](#56).          Application for review                                                                      37
-
-[57](#57).          Regulations                                                                                        37
-
-**Notes** 
+ 
 
 ## An Act to make provision for the biological control of pests in the Australian Capital Territory, and for related purposes
 
@@ -1155,23 +1027,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001</div>
-  </td>
-  <td>
-    <div>82, 2001</div>
-  </td>
-  <td>
-    <div>11 July 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3: \[ <i>see (f)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -1195,12 +1050,6 @@ _(d)_     The _Biological Control Act 1984_ was amended by Schedule 4 (i
 _(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (items 19-37) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
-
-_(f)_      The _Biological Control Act 1984_ was amended by Schedule 3 only of the _Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001_, subsections 2(2) and (3) of which provide as follows:
-
-                 (2)   The remaining provisions of this Act commence on a day to be fixed by Proclamation. [_see_ Note 2]
-
-                 (3)   If the remaining provisions of this Act do not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period. [_see_ Note 2]
 
 ## Table of Amendments
 
@@ -1361,19 +1210,5 @@ _(f)_      The _Biological Control Act 1984_ was amended by Schedule 3
     <div>am. No. 15, 1998; No. 92, 1999</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001 (No. 82, 2001)_
-
-The following amendment commences on 11 January 2002 unless proclaimed earlier:
-
-## Schedule 3
-
-## 1  Paragraph 5(2)(b)
-
-Omit “the _Wildlife Protection (Regulation of Exports and Imports) Act 1982_”, substitute “Part 13A of the _Environment Protection and Biodiversity Conservation Act 1999_”.
-
-As at 17 August 2001 the amendment is not incorporated in this compilation.
 
  
