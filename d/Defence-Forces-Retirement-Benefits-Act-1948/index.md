@@ -1,9 +1,8 @@
 
 Defence Forces Retirement Benefits Act 1948
 Act No. 31 of 1948 as amended
-This compilation was prepared on 23 December 2003 taking into account amendments up to Act No. 135 of 2003
+This compilation was prepared on 5 November 2001 taking into account amendments up to Act No. 141 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -13,11 +12,11 @@ Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 4	Interpretation	1
-4AA	National serviceman on leave of absence without pay in excess of 30 days	5
+4AA	National serviceman on leave of absence without pay in excess of 30 days	6
 4A	Categories of members	6
 12A	Delegation	8
 13	Cost of management	8
-15D	Benefits to be paid by Commonwealth after 1 October 1972	8
+15D	Benefits to be paid by Commonwealth after 1 October 1972	9
 25	Cessation of membership	9
 26	Application of the Criminal Code	9
 Part V—Pensions and benefits	10
@@ -41,78 +40,79 @@ Division 1—Grant of pensions and benefits	10
 57	Pension on death of pensioner etc.	30
 57A	Set off against widow’s pension in certain circumstances	32
 58	Pensions payable in respect of orphans	33
-58A	Basic rate of pensions	33
+58A	Basic rate of pensions	34
 60	Refund of contributions	34
 62	Children’s pensions	35
 63	Payment of pensions etc. otherwise than to person entitled	35
-64	Special grant of pension	35
+64	Special grant of pension	36
 65	General provisions as to pensions	39
 66	Instalments of pension	39
-68	Deduction of unpaid contributions from benefits	39
+68	Deduction of unpaid contributions from benefits	40
 69	Re‑engagement etc. of pensioners	40
-71	Absence or desertion	42
-72	Reduction of gratuity by reason of non‑effective service	42
+71	Absence or desertion	43
+72	Reduction of gratuity by reason of non‑effective service	43
 73	Special invalidity benefit to members under 18 years of age	43
-Division 2—Commutation of pension	46
-74	Commutation of pension	46
-Part VIB—Application of this Act to pensioners who again become contributors	47
-82E	Application of Part	47
-82F	Contributions	47
-82G	Pension or benefit payable	48
-82GA	Pension rates in special cases	52
-82H	Persons not entitled to double pension and pensions not to be reduced	54
-Part VIC—Preservation of rights of certain members and former members	55
-Division 1—Preliminary	55
-82J	Interpretation	55
-82K	Determinations by the Board	56
-Division 2—Contributors who have preserved rights from previous employment	57
-82L	Transfer value payable in respect of previous employment	57
-82M	Pension payable in respect of previous employment	58
-82N	Deferred benefits applicable in respect of previous employment	59
-82P	Declaration by member who has previously been in employment	59
-82Q	Members with superannuation rights from previous employment	61
-82R	Rights of members who elect to pay transfer value to Board	63
-82S	Category numbers of certain officers to be reduced	66
-Division 3—Preservation of Rights of Contributors Ceasing to be Members	69
-82T	Interpretation	69
-82U	Eligible employment	70
-82V	Public employment	73
-82W	Eligible superannuation schemes	74
-82X	Transfer value	75
-82Y	Deferred benefits	76
-82Z	Election that Division apply	77
-82ZA	Circumstances in which transfer value payable	79
-82ZB	Circumstances in which person entitled to deferred benefits	79
-82ZC	Person who is entitled to rights under this Division not entitled to other retirement benefits	82
-82ZD	Certain former contributors not entitled to benefits under this Division	83
-82ZE	Member who resigned to contest an election	84
-82ZF	Invalid pensioner restored to health	85
-82ZG	Person entitled to deferred benefits again becoming a member	85
-Division 4—Miscellaneous	86
-82ZH	Special provisions affecting former members of certain superannuation schemes	86
-82ZJ	Payments by Commonwealth	92
-Part VID—Pension increases	93
-83	Interpretation	93
-84	Increase in certain pensions	94
-84A	Application of increase to suspended pensions	95
-84B	Adjustment of increases in case of certain pensions	95
-84C	Increases in children’s pensions	96
-84D	Date of payment of increases	97
-84E	Rate of invalidity pension payable on reclassification during a prescribed year	97
-84F	Commutation of pension benefits during a prescribed year	98
-84G	Adjustment of increased rate	99
-84GA	Pensions payable on or after 20 October 1989—variation of rate	100
-Part VII—Miscellaneous	101
-85	Assignment of pensions	101
-85A	Attachment of pensions	101
-86	Recovery of contributions	103
-86A	Cancellation of elections	103
-87	Extension or modification of the Act by regulations	104
-88	Regulations	104
-The Schedules	105
-Second Schedule—Pension factors	105
-Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)	106
-Notes	109
+Division 2—Commutation of pension	47
+74	Commutation of pension	47
+Part VIB—Application of this Act to pensioners who again become contributors	48
+82E	Application of Part	48
+82F	Contributions	48
+82G	Pension or benefit payable	49
+82GA	Pension rates in special cases	53
+82H	Persons not entitled to double pension and pensions not to be reduced	55
+Part VIC—Preservation of rights of certain members and former members	56
+Division 1—Preliminary	56
+82J	Interpretation	56
+82K	Determinations by the Board	57
+Division 2—Contributors who have preserved rights from previous employment	58
+82L	Transfer value payable in respect of previous employment	58
+82M	Pension payable in respect of previous employment	59
+82N	Deferred benefits applicable in respect of previous employment	60
+82P	Declaration by member who has previously been in employment	60
+82Q	Members with superannuation rights from previous employment	62
+82R	Rights of members who elect to pay transfer value to Board	64
+82S	Category numbers of certain officers to be reduced	67
+Division 3—Preservation of Rights of Contributors Ceasing to be Members	70
+82T	Interpretation	70
+82U	Eligible employment	71
+82V	Public employment	74
+82W	Eligible superannuation schemes	75
+82X	Transfer value	76
+82Y	Deferred benefits	77
+82Z	Election that Division apply	78
+82ZA	Circumstances in which transfer value payable	80
+82ZB	Circumstances in which person entitled to deferred benefits	80
+82ZC	Person who is entitled to rights under this Division not entitled to other retirement benefits	83
+82ZD	Certain former contributors not entitled to benefits under this Division	84
+82ZE	Member who resigned to contest an election	86
+82ZF	Invalid pensioner restored to health	86
+82ZG	Person entitled to deferred benefits again becoming a member	86
+Division 4—Miscellaneous	88
+82ZH	Special provisions affecting former members of certain superannuation schemes	88
+82ZJ	Payments by Commonwealth	94
+Part VID—Pension increases	95
+83	Interpretation	95
+84	Increase in certain pensions	96
+84A	Application of increase to suspended pensions	97
+84B	Adjustment of increases in case of certain pensions	97
+84C	Increases in children’s pensions	98
+84D	Date of payment of increases	99
+84E	Rate of invalidity pension payable on reclassification during a prescribed year	99
+84F	Commutation of pension benefits during a prescribed year	100
+84G	Adjustment of increased rate	101
+84GA	Pensions payable on or after 20 October 1989—variation of rate	102
+Part VII—Miscellaneous	103
+85	Assignment of pensions	103
+85A	Attachment of pensions	103
+86	Recovery of contributions	105
+86A	Cancellation of elections	105
+87	Extension or modification of the Act by regulations	106
+88	Regulations	106
+The Schedules	107
+Second Schedule—Pension factors	107
+Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)	108
+Notes		111
+
 An Act to provide Retirement Benefits for Members of the Defence Force of the Commonwealth, and for other purposes
 Part I—Preliminary
   
@@ -1478,7 +1478,7 @@ Defence Forces Retirement Benefits Act 1959
 103, 1959
 4 Dec 1959
 14 Dec 1959
-S. 38 (am. by 67, 1962, s. 14) Ss. 39–43, s. 44 (am. by 15, 1961, s. 3) Ss. 45 and 46, s. 47 (am. by 15, 1961, s. 4; 98, 1965, s. 16) S. 48, s. 49 (am. by 67, 1962, s. 15) S. 50 (am. by 67, 1962, s. 16) S. 50A (ad. by 67, 1962, s. 17) S. 51 (am. by 67, 1962, s. 18) Ss. 52–56, s. 57 (rs. by 98, 1965, s. 17) S. 58 (rs. by 15, 1961, s. 5) S. 58A (ad. by 67, 1962, s. 19) S. 61 (am. by 70, 1966, s. 8; 128, 1968, s. 22(1)) S. 62 (am. by 15, 1961, s. 6) S. 63 (am. by 15, 1961, s. 7; 93, 1966, s. 3) S. 64 (am. by 15, 1961, s. 8; 93, 1966, s. 3) S. 65 (am. by 128, 1968, s. 22(3))Ss. 66–70, S. 71 (am. by 15, 1961, s. 9) Ss. 72–74, s. 75 (am. by 15, 1961, s. 10) Ss. 76 and 77, s. 78 (am. by 15, 1961, s. 11) S. 79 (am. by 15, 1961) S. 79A (ad. by 67, 1962, s. 20) Ss. 80–86
+S. 38 (am. by 67, 1962, s. 14) Ss. 39‑43, s. 44 (am. by 15, 1961, s. 3) Ss. 45 and 46, s. 47 (am. by 15, 1961, s. 4; 98, 1965, s. 16) S. 48, s. 49 (am. by 67, 1962, s. 15) S. 50 (am. by 67, 1962, s. 16) S. 50A (ad. by 67, 1962, s. 17) S. 51 (am. by 67, 1962, s. 18) Ss. 52‑56, s. 57 (rs. by 98, 1965, s. 17) S. 58 (rs. by 15, 1961, s. 5) S. 58A (ad. by 67, 1962, s. 19) S. 61 (am. by 70, 1966, s. 8; 128, 1968, s. 22(1)) S. 62 (am. by 15, 1961, s. 6) S. 63 (am. by 15, 1961, s. 7; 93, 1966, s. 3) S. 64 (am. by 15, 1961, s. 8; 93, 1966, s. 3) S. 65 (am. by 128, 1968, s. 22(3))Ss. 66‑70, S. 71 (am. by 15, 1961, s. 9) Ss. 72‑74, s. 75 (am. by 15, 1961, s. 10) Ss. 76 and 77, s. 78 (am. by 15, 1961, s. 11) S. 79 (am. by 15, 1961) S. 79A (ad. by 67, 1962, s. 20) Ss. 80‑86
 as amended by
 
 
@@ -1493,7 +1493,7 @@ Defence Forces Retirement Benefits Act 1962
 67, 1962
 24 Nov 1962
 (see 67, 1962 below)
-Ss. 22–50
+Ss. 22‑50
 Defence Forces Retirement Benefits Act (No. 2) 1965
 98, 1965
 10 Dec 1965
@@ -1517,8 +1517,8 @@ S. 22(2)
 Defence Forces Retirement Benefits Act 1962
 67, 1962
 24 Nov 1962
-Ss. 11, 15, 18–20: 14 Dec 1959 Remainder: 30 Nov 1962 (see Gazette 1962, p. 4325)
-Ss. 22–39, 40, (as am. by 103, 1963) 41–50
+Ss. 11, 15, 18‑20: 14 Dec 1959 Remainder: 30 Nov 1962 (see Gazette 1962, p. 4325)
+Ss. 22‑39, 40, (as am. by 103, 1963) 41‑50
 as amended by
 
 
@@ -1533,7 +1533,7 @@ Defence Forces Retirement Benefits Act 1963
 103, 1963
 1 Nov 1963
 1 Nov 1963
-Ss. 19–31, s. 32 (am. by 25, 1965, s. 11) Ss. 33–42, s. 43 (am. by 25, 1965, s. 12) S. 44, s. 44A (ad. by 25, 1965, s. 13) Ss. 45–55, s. 56 (am. by 25, 1965, s. 14) Ss. 57–61, s. 61A (ad. by 25, 1965, s. 15; am. by 128, 1968, s. 23(1)) S. 61B (ad. by 25, 1965, s. 15; am. by 128, 1968, s. 23(2)) Ss. 61C–61F (ad. by 25, 1965, s. 15) S. 61G (rs. by 135, 1965, s. 11(1))
+Ss. 19‑31, s. 32 (am. by 25, 1965, s. 11) Ss. 33‑42, s. 43 (am. by 25, 1965, s. 12) S. 44, s. 44A (ad. by 25, 1965, s. 13) Ss. 45‑55, s. 56 (am. by 25, 1965, s. 14) Ss. 57‑61, s. 61A (ad. by 25, 1965, s. 15; am. by 128, 1968, s. 23(1)) S. 61B (ad. by 25, 1965, s. 15; am. by 128, 1968, s. 23(2)) Ss. 61C‑61F (ad. by 25, 1965, s. 15) S. 61G (rs. by 135, 1965, s. 11(1))
 as amended by
 
 
@@ -1548,7 +1548,7 @@ Defence Forces Retirement Benefits Act (No. 3) 1965
 135, 1965
 18 Dec 1965
 14 Feb 1966
-Ss. 7–11
+Ss. 7‑11
 Defence Forces Retirement Benefits Act (No. 3) 1968
 128, 1968
 9 Dec 1968
@@ -1562,7 +1562,7 @@ Defence Forces Retirement Benefits Act 1965
 Defence Forces Retirement Benefits Act (No. 2) 1965
 98, 1965
 10 Dec 1965
-Ss. 4, 6–13 and 20: 24 Sept 1965 Remainder: Royal Assent
+Ss. 4, 6‑13 and 20: 24 Sept 1965 Remainder: Royal Assent
 S. 20 (am. by 70, 1966, s. 9)
 as amended by
 
@@ -1587,8 +1587,8 @@ S. 10
 Defence Forces Retirement Benefits Act 1968
 55, 1968
 25 June 1968
-Ss. 3–41: 19 July 1968 (see Gazette 1968, p. 3801) Remainder: Royal Assent
-S. 30 (am. by 128, 1968, s. 24) Ss. 31–42
+Ss. 3‑41: 19 July 1968 (see Gazette 1968, p. 3801) Remainder: Royal Assent
+S. 30 (am. by 128, 1968, s. 24) Ss. 31‑42
 as amended by
 
 
@@ -1607,8 +1607,8 @@ Ss. 21 and 22
 Defence Forces Retirement Benefits Act (No. 3) 1968
 128, 1968
 9 Dec 1968
-Ss. 5–9, 11–13 and 20–23: 31 Jan 1969 (see Gazette 1969, p. 803) Ss. 10 and 24: 19 July 1968 (see s. 2(3) and Gazette 1968, p. 3801) Remainder: Royal Assent
-Ss. 12(2) and 14–21
+Ss. 5‑9, 11‑13 and 20‑23: 31 Jan 1969 (see Gazette 1969, p. 803) Ss. 10 and 24: 19 July 1968 (see s. 2(3) and Gazette 1968, p. 3801) Remainder: Royal Assent
+Ss. 12(2) and 14‑21
 Defence Forces Retirement Benefits Act 1969
 61, 1969
 5 Sept 1969
@@ -1637,8 +1637,8 @@ Defence Legislation Amendment Act 1984
 Defence Forces Retirement Benefits Act 1973
 82, 1973
 19 June 1973
-Ss. 4(a), 5, 10(1) and (2), 13–24, 25(1), 28(1), 30–32, 33(a)–(e) and (g), 34(a) and (b), 35–37, 40, 41(c), 45, 46, 48–50, 52(b), 53, 54 and 57(1):1 Oct 1972 Remainder: Royal Assent
-Ss. 6(2), 10(2), 25(3), 28(2)–(4), 29(2), 37(2), 57(3), 58 and 59
+Ss. 4(a), 5, 10(1) and (2), 13‑24, 25(1), 28(1), 30‑32, 33(a)‑(e) and (g), 34(a) and (b), 35‑37, 40, 41(c), 45, 46, 48‑50, 52(b), 53, 54 and 57(1):1 Oct 1972 Remainder: Royal Assent
+Ss. 6(2), 10(2), 25(3), 28(2)‑(4), 29(2), 37(2), 57(3), 58 and 59
 Statute Law Revision Act 1973
 216, 1973
 19 Dec 1973
@@ -1647,7 +1647,7 @@ Ss. 9(1) and 10
 Defence Force Re‑organization Act 1975
 96, 1975
 9 Sept 1975
-Part XI (ss. 164–167): 9 Feb 1976 (see Gazette 1975, No. G42,  p. 2) (c)
+Part XI (ss. 164‑167): 9 Feb 1976 (see Gazette 1975, No. G42,  p. 2) (c)
 Ss. 166(2)and 167(2)
 Defence Force (Retirement and Death Benefits Amendments) Act 1977
 13, 1977
@@ -1657,13 +1657,13 @@ Ss. 3 and 4: 1 July 1976 Remainder: Royal Assent
 Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1977
 161, 1977
 10 Nov 1977
-Ss. 5, 11–17, 24, 26, 27(2), 28(2), 34, 35(1), 36, 38–42,  46 and 48: 1 Oct 1972 Remainder: Royal Assent
-Ss. 7(2), 8(2) and 10(2)–(4)
+Ss. 5, 11‑17, 24, 26, 27(2), 28(2), 34, 35(1), 36, 38‑42,  46 and 48: 1 Oct 1972 Remainder: Royal Assent
+Ss. 7(2), 8(2) and 10(2)‑(4)
 Administrative Changes (Consequential Provisions) Act 1978
 36, 1978
 12 June 1978
 12 June 1978
-Ss. 6–9
+Ss. 6‑9
 Defence Force (Retirement and Death Benefits Amendments) Act 1979
 15, 1979
 19 March 1979
@@ -1687,7 +1687,7 @@ Commonwealth Banks Amendment Act 1984
 Defence Legislation Amendment Act 1984
 164, 1984
 25 Oct 1984
-Ss. 1, 2, 16–19, and Part XIV (ss. 115 and 116) and 120: Royal Assent Ss. 23–70 and 72–78: 3 July 1985 (see s. 2(4) and Gazette 1985, No. S255) S. 71: 31 Dec 1982 (see s. 2(3)) Ss. 82, 83, 85 and 87–89: 1 July 1983 Ss. 84 and 86: 1 Oct 1972 Part XI (ss. 108, 109): 1 Jan 1985 Part XV (ss. 117–119): 1 Aug 1984 (see s. 2(8) and Gazette 1984, No. S292) S. 121: 1 Jan 1982 Remainder: 22 Nov 1984
+Ss. 1, 2, 16‑19, and Part XIV (ss. 115 and 116) and 120: Royal Assent Ss. 23‑70 and 72‑78: 3 July 1985 (see s. 2(4) and Gazette 1985, No. S255) S. 71: 31 Dec 1982 (see s. 2(3)) Ss. 82, 83, 85 and 87‑89: 1 July 1983 Ss. 84 and 86: 1 Oct 1972 Part XI (ss. 108, 109): 1 Jan 1985 Part XV (ss. 117‑119): 1 Aug 1984 (see s. 2(8) and Gazette 1984, No. S292) S. 121: 1 Jan 1982 Remainder: 22 Nov 1984
 —
 as amended by
 
@@ -1712,7 +1712,7 @@ Superannuation and Other Benefits Legislation Amendment Act 1986
 Defence Legislation Amendment Act 1987
 65, 1987
 5 June 1987
-Ss. 1–3, 9, 10, 13(1), 23–25, 26(1), 27, 29, 31, 33–36, 42–45, 52–55, 58, 61(1), 62, 69(1), Part IX (ss. 71–74) and Part X (ss. 75–78): Royal Assent Ss. 46 and 47: 19 June 1973 (see s. 2(2)) Ss. 37(1) and Part VI (ss. 50, 51): 10 Nov 1977 (see s. 2(3)) Ss. 37(2) and 38–40: 3 July 1985 Ss. 48, 49, 56 and 57: 5 June 1987 Remainder: 1 July 1988 (see Gazette 1988, No. S173)
+Ss. 1‑3, 9, 10, 13(1), 23‑25, 26(1), 27, 29, 31, 33‑36, 42‑45, 52‑55, 58, 61(1), 62, 69(1), Part IX (ss. 71‑74) and Part X (ss. 75‑78): Royal Assent Ss. 46 and 47: 19 June 1973 (see s. 2(2)) Ss. 37(1) and Part VI (ss. 50, 51): 10 Nov 1977 (see s. 2(3)) Ss. 37(2) and 38‑40: 3 July 1985 Ss. 48, 49, 56 and 57: 5 June 1987 Remainder: 1 July 1988 (see Gazette 1988, No. S173)
 —
 Defence Legislation Amendment Act (No. 2) 1988
 104, 1988
@@ -1732,7 +1732,7 @@ S. 4(2)
 Defence Legislation Amendment Act (No. 2) 1990
 21, 1991
 5 Feb 1991
-Ss. 10–13 and 16–18: 1 July 1990 Remainder: Royal Assent
+Ss. 10‑13 and 16‑18: 1 July 1990 Remainder: Royal Assent
 — 
 Defence Force Superannuation Legislation Amendment Act 1991
 126, 1991
@@ -1757,28 +1757,18 @@ Schedule 2 (items 22, 78 and 105): Royal Assent (g)
 Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001
 10, 2001
 22 Mar 2001
-Schedule 2 (items 49–52, 94, 95): 19 Apr 2001 (h)
+Schedule 2 (items 49-52, 94, 95): 19 Apr 2001 (h)
 Sch. 2 (items 94, 95) [see Table A]
 Defence Legislation Amendment (Application of Criminal Code) Act 2001
 141, 2001
 1 Oct 2001
-S. 4: Royal Assent  Schedule 1 (items 93–97): 15 Dec 2001
-S. 4 and Sch. (item 95) [see Table A] S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))
-as amended by
-
-
-
-
-Defence Legislation Amendment Act 2003
-135, 2003
-17 Dec 2003
-Schedule 2 (item 28): (i)
-—
+S. 4: Royal Assent (I) Schedule 1 (items 93-97): 2 Oct 2001 (I)
+S. 4 and Sch. (item 95) [see Table A]
 
 (a)	The Defence Forces Retirement Benefits Act 1948 comprises the Defence Forces Retirement Benefits Act 1948 (which was proclaimed to commence on 2 July 1948: see Gazette 1948, p. 2583) as amended by the other Acts specified in the Table of Acts. Many of the amending Acts specified in that table made express provision in relation to the commencement and application of the amendments. By reason that the Defence Force Retirement and Death Benefits Act 1973 has, in the main, superseded the Defence Forces Retirement Benefits Act 1948, references are not made in the table to those provisions. If required, particulars relating to those provisions and to the saving and transitional provisions made by the amending Acts are to be found in the annual volumes of Acts for the respective years in which the amending Acts were enacted. 
 (b)	The Defence Forces Retirement Benefits Act 1959 was amended by section 3 only of the Statute Law Revision (Decimal Currency) Act 1966, subsection 2(1) of which provides as follows: 
 	(1)	Subject to the next succeeding subsection, this Act shall come into operation on the first day of December, One thousand nine hundred and sixty‑six.
-(c)	The Defence Forces Retirement Benefits Act 1948 was amended by Part XI (sections 164–167) only of the Defence Force Re‑organization Act 1975, section 2 of which provides as follows: 
+(c)	The Defence Forces Retirement Benefits Act 1948 was amended by Part XI (sections 164‑167) only of the Defence Force Re‑organization Act 1975, section 2 of which provides as follows: 
 	2	This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 (d)	The Defence Legislation Amendment Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(19) of which provides as follows: 
 	(19)	The amendment of Schedule 3 to the Defence Legislation Amendment Act 1984 made by this Act shall be deemed to have come into operation immediately before the commencement of section 95 of that first‑mentioned Act.
@@ -1790,28 +1780,18 @@ Schedule 2 (item 28): (i)
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (h)	The Defence Forces Retirement Benefits Act 1948 was amended by Schedule 2 (items 49-52) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-(i)	Subsection 2(1) (item 9) of the Defence Legislation Amendment Act 2003 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-9.  Schedule 2, item 28
-Immediately after the commencement of section 2 of the Defence Legislation Amendment (Application of Criminal Code) Act 2001
-1 October 2001
+(i)	The Defence Forces Retirement Benefits Act 1948 was amended by Schedule 1 (items 93-97) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsections 2(1) and (2) of which provide as follows:
+	(1)	Sections 1, 2, 3 and 4 commence on the day on which this Act receives the Royal Assent.
+	(2)	Part 1 of Schedule 1 commences on the later of:
+	(a)	the day on which Chapter 2 of the Criminal Code commences; and
+	(b)	the day after the day on which this Act receives the Royal Assent.
 
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 Title 	
 am. No. 55, 1968 
-Part I
-
 S. 3 	
 am. No. 73, 1950; No. 93, 1952 
 
@@ -1864,7 +1844,7 @@ rs. No. 82, 1973
 am. No. 36, 1978 
 
 rep. No. 164, 1984 
-Part III 	
+Part III 	 (ss. 15, 15A‑15D, 16, 18‑21, 21A) 
 rep. No. 91, 1992
 S. 15 	
 am. No. 103, 1959 
@@ -1944,7 +1924,7 @@ rs. No. 93, 1952
 am. No. 103, 1959; No. 164, 1984 
 
 rep. No. 91, 1992 
-Div. 2 of Part IV 	
+Div. 2 of Part IV 	 (ss. 28, 29) 
 rep. No. 103, 1959 
 S. 28 	
 am. No. 73, 1950; No. 20, 1954 
@@ -1960,7 +1940,7 @@ rs. No. 19, 1955
 rep. No. 103, 1959 
 Heading to Div. 3 of Part IV 	
 rep. No. 91, 1992 
-Div. 3 of Part IV 	
+Div. 3 of Part IV 	 (ss. 30, 31) 
 rs. No. 103, 1959 
 S. 30 	
 rs. No. 103, 1959; No. 103, 1963 
@@ -1984,10 +1964,12 @@ ad. No. 67, 1962
 am. No. 164, 1984 
 
 rep. No. 91, 1992 
+Div. 4 of Part IV 	 (ss. 32‑35) 
+rep. No. 103, 1959 
+Div. 4 of Part IV 	 (ss. 32, 33) 
+ad. No. 103, 1959 
 Heading to Div. 4 of Part IV 	
 rep. No. 91, 1992 
-Div. 4 of Part IV 	
-rs. No. 103, 1959 
 S. 32 	
 am. No. 95, 1957; No. 46, 1958 
 
@@ -2028,10 +2010,6 @@ am. No. 103, 1959; No. 82, 1973; No. 164, 1984
 rep. No. 91, 1992 
 S. 37 	
 rep. No. 91, 1992 
-Part V
-
-Division 1
-
 S. 38 	
 am. No. 20, 1954; No. 19, 1955; No. 24, 1956 
 
@@ -2258,11 +2236,9 @@ ad. No. 37, 1949
 am. No. 73, 1950 
 
 rep. No. 103, 1959 
-Division 2
-
 S. 74 	
 am. No. 37, 1949; No. 73, 1950; No. 93, 1952; No. 20, 1954; No. 19, 1955; No. 103, 1959; No. 82, 1973; No. 164, 1984 
-Div. 3 of Part V 	
+Div. 3 of Part V 	 (ss. 74A, 74B) 
 ad. No. 93, 1952 
 rep. No. 82, 1973 
 S. 74A 	
@@ -2277,8 +2253,10 @@ ad. No. 93, 1952
 am. No. 103, 1959 
 
 rep. No. 82, 1973 
-Part VI 	
-rs. No. 103, 1959 
+Part VI 	 (ss. 75‑82) 
+rep. No. 103, 1959 
+Part VI (s. 75) 	
+ad. No. 103, 1959 
 
 rep. No. 82, 1973 
 S. 75 	
@@ -2287,9 +2265,7 @@ am. No. 37, 1949; No. 95, 1957
 rs. No. 103, 1959 
 
 rep. No. 82, 1973 
-Part VIA 	
-ad. No. 73, 1950
-rep. No. 103, 1959
+Part VIA 	 (ss. 76‑81) 
 ad. No. 61, 1969
 rep. No. 91, 1992
 S. 76 	
@@ -2382,21 +2358,24 @@ S. 82
 am. No. 37, 1949 
 
 rep. No. 103, 1959 
+Part VIA 	 (ss. 82A‑82D) 
+ad. No. 73, 1950
+rep. No. 103, 1959
+
+ 
 S. 82A 	
 ad. No. 73, 1950 
 
 am. No. 95, 1957 
 
 rep. No. 103, 1959 
- Ss. 82B–82D 	
+ Ss. 82B‑82D 	
 ad. No. 73, 1950 
 
 rep. No. 103, 1959 
-Part VIB
-
 Heading to Part VIB 	
 am. No. 56, 1968 
-Part VIB 	
+Part VIB 	 (ss. 82G‑82H) 
 ad. No. 93, 1952 
 am. No. 56, 1968
 S. 82E 	
@@ -2421,12 +2400,8 @@ S. 82H
 ad. No. 93, 1952 
 
 am. No. 56, 1968 
-Part VIC
-
-Part VIC 	
+Part VIC 	 (ss. 82J‑82Z, 82ZA‑82ZJ) 
 ad. No. 47, 1971 
-Division 1
-
 S. 82J 	
 ad. No. 47, 1971 
 
@@ -2435,8 +2410,6 @@ S. 82K
 ad. No. 47, 1971 
 
 am. No. 82, 1973 
-Division 2
-
 S. 82L 	
 ad. No. 47, 1971 
 
@@ -2455,13 +2428,7 @@ S. 82R
 ad. No. 47, 1971 
 
 am. No. 161, 1977; No. 164, 1984 
-S. 82S 	
-ad. No. 47, 1971 
-
-am. No. 164, 1984 
-Division 3
-
-S. 82T 	
+Ss. 82S, 82T 	
 ad. No. 47, 1971 
 
 am. No. 164, 1984 
@@ -2507,8 +2474,6 @@ ad. No. 47, 1971
 am. No. 82, 1973 
 
 rs. No. 161, 1977 
-Division 4
-
 S. 82ZH 	
 ad. No. 47, 1971 
 
@@ -2517,9 +2482,7 @@ S. 82ZJ
 ad. No. 47, 1971 
 
 am. No. 82, 1973; No. 164, 1984 
-Part VID
-
-Part VID 	
+Part VID 	 (ss. 83, 84, 84A‑84F) 
 ad. No. 13, 1977 
 S. 83 	
 rep. No. 82, 1973 
@@ -2563,8 +2526,6 @@ S. 84G
 ad. No. 93, 1986 
 S. 84GA 	
 ad. No. 125, 1989 
-Part VII
-
 S. 85 	
 rs. No. 98, 1965 
 
@@ -2583,8 +2544,6 @@ S. 88
 ad. No. 93, 1952 
 
 am. No. 67, 1962; No. 135, 1965; No. 164, 1984 
-Schedules
-
 First Schedule 	
 am. No. 73, 1950 
 
@@ -2661,4 +2620,5 @@ Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 141
 Schedule 1
 95  Saving—regulations
 Regulations that were in effect for the purposes of subsection 69(7) of the Defence Forces Retirement Benefits Act 1948 immediately before the commencement of this item continue to have effect after that time as if they had been made for the purposes of subsection 69(7) of that Act, as in force after that time.
+      
 
