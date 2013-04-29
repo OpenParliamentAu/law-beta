@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image001.gif)
 
 # Excise Tariff Act 1921
 
 **Act No. 26 of 1921 as amended**
 
-This compilation was prepared on 29 July 2011
- taking into account amendments up to Act No. 67 of 2011
+This compilation was prepared on 5 July 2010
+ taking into account amendments up to Act No. 84 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5B](#5B).         Petroleum
 
-[6A](#6A).         Indexation of rates of duty [_see_ Note 2]
+[6A](#6A).         Indexation of rates of duty
 
 [6AB](#6AB).      Applicable petroleum prices
 
@@ -48,11 +48,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6D](#6D).         Duties of excise on intermediate oil
 
-[6E](#6E).          Delayed‑entry oil rate
+[6E](#6E).          Delayed-entry oil rate
 
 [6G](#6G).         Duty payable on blended goods
 
-**The Schedule [_see_ Note 2]** 
+**The Schedule** 
 
 **Notes** 
 
@@ -80,13 +80,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a part of the surface of the earth and a part of the subsoil beneath that part.
 
-                    <a name="biodiesel"></a>**_biodiesel_** means fuel manufactured by chemically altering vegetable oils or animal fats (including recycled oils from these sources) to form mono‑alkyl esters.
+                    <a name="biodiesel"></a>**_biodiesel_** means fuel manufactured by chemically altering vegetable oils or animal fats (including recycled oils from these sources) to form mono-alkyl esters.
 
                     <a name="ceo"></a>**_CEO_** means the Commissioner of Taxation.
 
-                    <a name="delai-entri-oil"></a>**_delayed‑entry oil_** means stabilised crude petroleum oil or condensate (other than oil or condensate in respect of which subitem 20.1 or 21.1 of the Schedule applies) produced from a prescribed source, but not entered for home consumption, before the operative day for that source.
+                    <a name="delai-entri-oil"></a>**_delayed-entry oil_** means stabilised crude petroleum oil or condensate (other than oil or condensate in respect of which subitem 20.1 or 21.1 of the Schedule applies) produced from a prescribed source, but not entered for home consumption, before the operative day for that source.
 
-                    <a name="delai-entri-oil-rate"></a>**_delayed‑entry oil rate_**, in relation to delayed‑entry oil, has the meaning given by section 6E.
+                    <a name="delai-entri-oil-rate"></a>**_delayed-entry oil rate_**, in relation to delayed-entry oil, has the meaning given by section 6E.
 
                     <a name="exempt-offshor-area"></a>**_exempt offshore area_** means a production area, within the meaning of section 5B:
 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="exempt-offshor-field"></a>**_exempt offshore field_** means a field:
 
-                     (a)  that is prescribed by By‑law; and
+                     (a)  that is prescribed by By-law; and
 
                      (b)  that consists of, or encompasses, an exempt offshore area or 2 or more exempt offshore areas.
 
@@ -122,19 +122,19 @@ being a field from which neither petroleum oil nor condensate was produced befor
 
                     <a name="intermedi-area"></a>**_intermediate area_** means an area declared by the Resources Minister, by notice in writing published in the _Gazette_, to be an intermediate area for the purposes of this Act, being an area that contains at least one old accumulation but that does not contain a relevant accumulation which was developed before 23 October 1984.
 
-                    <a name="intermedi-oil"></a>**_intermediate oil_** means stabilized crude petroleum oil (other than new oil, delayed‑entry oil or oil in respect of which subitem 20.1 of the Schedule applies) produced from an intermediate area.
+                    <a name="intermedi-oil"></a>**_intermediate oil_** means stabilized crude petroleum oil (other than new oil, delayed-entry oil or oil in respect of which subitem 20.1 of the Schedule applies) produced from an intermediate area.
 
-                    <a name="new-oil"></a>**_new oil_** means stabilized crude petroleum oil (other than delayed‑entry oil or oil in respect of which subitem 20.1 of the Schedule applies) produced from:
+                    <a name="new-oil"></a>**_new oil_** means stabilized crude petroleum oil (other than delayed-entry oil or oil in respect of which subitem 20.1 of the Schedule applies) produced from:
 
-                     (a)  a relevant accumulation that was discovered on or after 18 September 1975 and before 1 July 1983 by drilling a well that was classified by the Minister, for the purposes of Excise By‑law No. 78, as:
+                     (a)  a relevant accumulation that was discovered on or after 18 September 1975 and before 1 July 1983 by drilling a well that was classified by the Minister, for the purposes of Excise By-law No. 78, as:
 
                               (i)  a new field discovery; or
 
                              (ii)  a new pool (pay) discovery; or
 
-                            (iii)  a deeper‑pool discovery; or
+                            (iii)  a deeper-pool discovery; or
 
-                            (iv)  a shallower‑pool discovery;
+                            (iv)  a shallower-pool discovery;
 
                             subsequent to a determination of the well type by the relevant Energy Minister after drilling and before 1 July 1983; or
 
@@ -158,7 +158,7 @@ Note:          Part IA of the _Petroleum Excise (Prices) Act
 
                     <a name="onshor-field"></a>**_onshore field_** means a field:
 
-                     (a)  that is prescribed by By‑law; and
+                     (a)  that is prescribed by By-law; and
 
                      (b)  that consists of, or encompasses, a production area (within the meaning of section 5B), or 2 or more production areas, that:
 
@@ -170,7 +170,7 @@ Note:          Part IA of the _Petroleum Excise (Prices) Act
 
                     <a name="platform"></a>**_platform_** means a platform for the production of petroleum oil or condensate.
 
-                    <a name="pre-oper-year"></a>**_pre‑operative year_**, in relation to a prescribed source, means the financial year immediately preceding the operative day for that source.
+                    <a name="pre-oper-year"></a>**_pre-operative year_**, in relation to a prescribed source, means the financial year immediately preceding the operative day for that source.
 
                     <a name="prescrib-sourc"></a>**_prescribed source_** means:
 
@@ -178,17 +178,17 @@ Note:          Part IA of the _Petroleum Excise (Prices) Act
 
                      (b)  a prescribed new production area within the meaning of section 6C; or
 
-                   (ba)  a prescribed condensate production area within the meaning of section 6CA; or
+                    (ba)  a prescribed condensate production area within the meaning of section 6CA; or
 
                      (c)  a prescribed intermediate production area within the meaning of section 6D;
 
                    prescribed petroleum produced from which after 1 July in a particular year is exempt from Excise duty because of the _Petroleum Revenue Act 1985_.
 
-                    <a name="pre-threshold-onshor-condens"></a>**_pre‑threshold onshore condensate_** means condensate that is included in pre‑threshold onshore oil and condensate.
+                    <a name="pre-threshold-onshor-condens"></a>**_pre-threshold onshore condensate_** means condensate that is included in pre-threshold onshore oil and condensate.
 
-                    <a name="pre-threshold-onshor-oil"></a>**_pre‑threshold onshore oil_** means stabilised crude petroleum oil that is included in pre‑threshold onshore oil and condensate.
+                    <a name="pre-threshold-onshor-oil"></a>**_pre-threshold onshore oil_** means stabilised crude petroleum oil that is included in pre-threshold onshore oil and condensate.
 
-                    <a name="pre-threshold-onshor-oil-condens"></a>**_pre‑threshold onshore oil and condensate_** means:
+                    <a name="pre-threshold-onshor-oil-condens"></a>**_pre-threshold onshore oil and condensate_** means:
 
                      (a)  if a particular onshore field produces stabilised crude petroleum oil and condensate—stabilised crude petroleum oil and condensate produced from the field after 30 June 1987 that is included in the first 4767.3 megalitres of stabilised crude petroleum oil and condensate produced from the field; or
 
@@ -226,7 +226,7 @@ Note:          Part IA of the _Petroleum Excise (Prices) Act
 
                      (b)  with effect from that date that area became an onshore field for the purposes of that Act as in force at that date;
 
-then, in calculating the first 4767.3 megalitres of stabilised crude petroleum oil produced from that particular onshore field for the purposes of the definition of pre‑threshold onshore oil, all oil that was, before that date, exempt onshore oil produced from that exempt onshore field is to be taken into account.
+then, in calculating the first 4767.3 megalitres of stabilised crude petroleum oil produced from that particular onshore field for the purposes of the definition of pre-threshold onshore oil, all oil that was, before that date, exempt onshore oil produced from that exempt onshore field is to be taken into account.
 
              (2)  For the purposes of this Act, a relevant accumulation shall be taken to be developed when petroleum, within the meaning of section 5B, is recovered from the accumulation for the purpose of:
 
@@ -240,7 +240,7 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
 
                      (a)  a density equal to or greater than 920.0 kg/cubic metre at 15 degrees Celsius as determined by either ASTM D1298 or ASTM D4052; and
 
-                     (b)  a carbon residue, on the whole sample, of at least 2.0 percent mass as determined by ASTM D189 (Conradson Carbon Residue) or by ASTM D4530 (Carbon Residue‑Micro Method); and
+                     (b)  a carbon residue, on the whole sample, of at least 2.0 percent mass as determined by ASTM D189 (Conradson Carbon Residue) or by ASTM D4530 (Carbon Residue-Micro Method); and
 
                      (c)  a minimum kinematic viscosity of 10 centistokes (millimetres squared per second) at 50 degrees Celsius as determined by ASTM D445.
 
@@ -254,7 +254,7 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
 
                              (ii)  Sec. 21 CFR 178.3620 (a) of Title 21, Volume 1 of the United States Code of Federal Regulations (regulations made by the Food and Drug Administration of the United States); and
 
-                     (b)  polyglycol brake fluids that meet the requirements of Australian Standard AS/NZS 1960.1:1995 _Motor vehicle brake fluids—Non‑petroleum type_; and
+                     (b)  polyglycol brake fluids that meet the requirements of Australian Standard AS/NZS 1960.1:1995 _Motor vehicle brake fluids—Non-petroleum type_; and
 
                      (c)  aromatic process oils that meet all of the criteria in the following table:
 
@@ -335,7 +335,7 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
     <div>ASTM D97</div>
   </td>
   <td>
-    <div>‑9°C minimum</div>
+    <div>-9°C minimum</div>
   </td>
 </tr>
 <tr>
@@ -352,13 +352,13 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
 
 ##### <a id="3A"></a>3A  Ministerial guidelines relating to fields
 
-             (1)  The Resources Minister may, by legislative instrument signed by the Minister, make guidelines to be taken into account by the CEO in making By‑laws prescribing a field for the purposes of the definition of **_onshore field_** or **_exempt offshore field_**.
+             (1)  The Resources Minister may, by legislative instrument signed by the Minister, make guidelines to be taken into account by the CEO in making By-laws prescribing a field for the purposes of the definition of **_onshore field_** or **_exempt offshore field_**.
 
-             (2)  In making By‑laws for a purpose described in subsection (1), the CEO must have regard to the guidelines in force at the time.
+             (2)  In making By-laws for a purpose described in subsection (1), the CEO must have regard to the guidelines in force at the time.
 
 ##### <a id="4"></a>4  Time of imposition of Duties of Excise
 
-                   The time of imposition of the Duties of Excise imposed by this Act is the twenty‑fifth day of March, One thousand nine hundred and twenty at nine o’clock in the forenoon reckoned according to the standard time in the State of Victoria, and this Act shall be deemed to have come into operation at that time.
+                   The time of imposition of the Duties of Excise imposed by this Act is the twenty-fifth day of March, One thousand nine hundred and twenty at nine o’clock in the forenoon reckoned according to the standard time in the State of Victoria, and this Act shall be deemed to have come into operation at that time.
 
 ##### <a id="5"></a>5  Duties of Excise
 
@@ -406,7 +406,7 @@ then, in calculating the first 4767.3 megalitres of stabilised crude petroleum o
 
                      (b)  a prescribed new production area within the meaning of section 6C; or
 
-                   (ba)  a prescribed condensate production area within the meaning of section 6CA; or
+                    (ba)  a prescribed condensate production area within the meaning of section 6CA; or
 
                      (c)  a prescribed intermediate production area within the meaning of section 6D.
 
@@ -458,7 +458,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
              (4)  If the factor worked out in relation to an indexation period in accordance with subsection (5) is more than 1, this Act has effect as if, on the first day of the period, there were substituted for each relevant rate a rate of duty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image002.gif)
 
 where:
 
@@ -506,7 +506,7 @@ where:
 
 ##### <a id="6AB"></a>6AB  Applicable petroleum prices
 
-                   For the purposes of section 6B, 6C, 6CA or 6D, at any particular time the applicable petroleum price for a month occurring after 30 June 1997 in respect of stabilized crude petroleum oil or condensate, obtained from a production area, that is, under by‑laws, a prescribed production area, a prescribed new production area, a prescribed condensate production area or a prescribed intermediate production area, as the case requires, for the purposes of that section, is:
+                   For the purposes of section 6B, 6C, 6CA or 6D, at any particular time the applicable petroleum price for a month occurring after 30 June 1997 in respect of stabilized crude petroleum oil or condensate, obtained from a production area, that is, under by-laws, a prescribed production area, a prescribed new production area, a prescribed condensate production area or a prescribed intermediate production area, as the case requires, for the purposes of that section, is:
 
                      (a)  if at that time the final VOLWARE price for stabilized crude petroleum oil or condensate (as the case requires) for the month and an oil producing region that constitutes or includes that production area has been determined under section 7 of the _Petroleum Excise (Prices) Act 1987_—that final VOLWARE price; or
 
@@ -536,13 +536,13 @@ Definitions
 
              (1)  In this section:
 
-                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of old oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of old oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="non-adjusted-previou-year-duti"></a>**_non‑adjusted previous year’s duty_**, in relation to a prescribed production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of old oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="non-adjusted-previou-year-duti"></a>**_non-adjusted previous year’s duty_**, in relation to a prescribed production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of old oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
                     <a name="old-oil"></a>**_old oil_** means stabilised crude petroleum oil in respect of which subitem 20.7 of the Schedule applies.
 
-                    <a name="prescrib-product-area"></a>**_prescribed production area_** means a petroleum production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
+                    <a name="prescrib-product-area"></a>**_prescribed production area_** means a petroleum production area prescribed by by-laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
 
 Introduction
 
@@ -552,7 +552,7 @@ The amount of duty
 
                    Subject to subsection (3A), the amount of duty in respect of old oil produced from a prescribed production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image003.gif)
 
 where:
 
@@ -612,10 +612,10 @@ The debited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilised crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed production area for that first‑mentioned month is greater than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed production area for that first-mentioned month is greater than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a debited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that 
- non‑adjusted previous year’s duty.
+there is a debited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that 
+ non-adjusted previous year’s duty.
 
 The credited adjustment amount
 
@@ -623,15 +623,15 @@ The credited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilised crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed production area for that first‑mentioned month is less than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed production area for that first-mentioned month is less than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a credited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that non‑adjusted previous year’s duty and that adjusted previous year’s duty.
+there is a credited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that non-adjusted previous year’s duty and that adjusted previous year’s duty.
 
 The amount of notional duty for a quantity of oil—more than one petroleum price
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image004.gif)
 
 where:
 
@@ -669,7 +669,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no old oil produced from a particular prescribed production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of old oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the old oil as if each reference in a paragraph of subsection (4) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image005.gif)
 
 where:
 
@@ -687,11 +687,11 @@ Definitions
 
              (1)  In this section:
 
-                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed new production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of new oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed new production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of new oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="non-adjusted-previou-year-duti"></a>**_non‑adjusted previous year’s duty_**, in relation to a prescribed new production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of new oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="non-adjusted-previou-year-duti"></a>**_non-adjusted previous year’s duty_**, in relation to a prescribed new production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of new oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="prescrib-new-product-area"></a>**_prescribed new production area_** means a new petroleum production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
+                    <a name="prescrib-new-product-area"></a>**_prescribed new production area_** means a new petroleum production area prescribed by by-laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
 
 Introduction
 
@@ -701,7 +701,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of new oil produced from a prescribed new production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image006.gif)
 
 where:
 
@@ -725,13 +725,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of new oil produced from a particular prescribed new production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**;
 
 where:
 
@@ -759,9 +759,9 @@ The debited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilised crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed new production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed new production area for that first‑mentioned month is greater than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed new production area for that first-mentioned month is greater than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a debited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non‑adjusted previous year’s duty.
+there is a debited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non-adjusted previous year’s duty.
 
 The credited adjustment amount
 
@@ -769,15 +769,15 @@ The credited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilised crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed new production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed new production area for that first‑mentioned month is less than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed new production area for that first-mentioned month is less than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a credited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that non‑adjusted previous year’s duty and that adjusted previous year’s duty.
+there is a credited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that non-adjusted previous year’s duty and that adjusted previous year’s duty.
 
 The amount of notional duty for a quantity of oil—more than one petroleum price
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed new production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -813,7 +813,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  When no new oil produced from a particular prescribed new production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of new oil produced from the production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the new oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image009.gif)
 
 where:
 
@@ -831,13 +831,13 @@ Definitions
 
              (1)  In this section:
 
-                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed condensate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of condensate produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed condensate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of condensate produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="non-adjusted-previou-year-duti"></a>**_non‑adjusted previous year’s duty_**, in relation to a prescribed condensate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of condensate produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="non-adjusted-previou-year-duti"></a>**_non-adjusted previous year’s duty_**, in relation to a prescribed condensate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of condensate produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="prescrib-condens-product-area"></a>**_prescribed condensate production area_** means a condensate production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
+                    <a name="prescrib-condens-product-area"></a>**_prescribed condensate production area_** means a condensate production area prescribed by by-laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
 
-Note:          A by‑law may be expressed to take effect before the date it is registered under the _Legislative Instruments Act 2003_ (see subsection (13) of this section).
+Note:          A by-law may be expressed to take effect before the date it is registered under the _Legislative Instruments Act 2003_ (see subsection (13) of this section).
 
 Introduction
 
@@ -847,7 +847,7 @@ The amount of duty
 
              (3)  Subject to subsection (4), the amount of duty in respect of condensate produced from a prescribed condensate production area and entered for home consumption during a month of a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image006.gif)
 
 where:
 
@@ -871,13 +871,13 @@ The total amount of notional duty
 
              (5)  The amount of notional duty in respect of condensate produced from a particular prescribed condensate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**;
 
 where:
 
@@ -905,9 +905,9 @@ The debited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for condensate for a month of the immediately preceding financial year and a particular prescribed condensate production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed condensate production area for that first‑mentioned month is greater than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed condensate production area for that first-mentioned month is greater than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a debited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non‑adjusted previous year’s duty.
+there is a debited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non-adjusted previous year’s duty.
 
 The credited adjustment amount
 
@@ -915,15 +915,15 @@ The credited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for condensate for a month of the immediately preceding financial year and a particular prescribed condensate production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed condensate production area for that first‑mentioned month is less than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed condensate production area for that first-mentioned month is less than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a credited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that non‑adjusted previous year’s duty and that adjusted previous year’s duty.
+there is a credited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that non-adjusted previous year’s duty and that adjusted previous year’s duty.
 
 The amount of notional duty for a quantity of condensate—more than one petroleum price
 
              (9)  If, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed condensate production area are not all the same, the amount of the notional duty in respect of a quantity of condensate referred to in subsection (5) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (10)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -959,7 +959,7 @@ The amount of notional duty—dealing with the first year of production
 
            (12)  When no condensate produced from a particular prescribed condensate production area was ever entered for home consumption before the end of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (5), (6) and (10) or (5), (9) and (10), the notional duty in respect of condensate produced from the production area and entered for home consumption during a later month (the **_relevant month_**) of that financial year, those subsections have effect in relation to the condensate as if each reference in a paragraph of subsection (5) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image009.gif)
 
 where:
 
@@ -967,9 +967,9 @@ where:
 
                     <a name=""></a>**_N_** is the number of days in the period commencing on the first day of the financial year and ending on the end of the relevant month.
 
-           (13)  Despite subsection 12(2) of the _Legislative Instruments Act 2003_, a by‑law prescribing a condensate production area may be expressed to take effect before the date it is registered under that Act.
+           (13)  Despite subsection 12(2) of the _Legislative Instruments Act 2003_, a by-law prescribing a condensate production area may be expressed to take effect before the date it is registered under that Act.
 
-        (13A)  Despite section 169 of the _Excise Act 1901_, a by‑law prescribing a condensate production area may have the effect of imposing duty, in relation to condensate entered for home consumption before the date on which the by‑law is published in the _Gazette_, at a rate higher than the rate of duty payable in respect of the condensate on the day on which the condensate was entered for home consumption.
+        (13A)  Despite section 169 of the _Excise Act 1901_, a by-law prescribing a condensate production area may have the effect of imposing duty, in relation to condensate entered for home consumption before the date on which the by-law is published in the _Gazette_, at a rate higher than the rate of duty payable in respect of the condensate on the day on which the condensate was entered for home consumption.
 
 Interpretation of the Schedule
 
@@ -981,11 +981,11 @@ Definitions
 
              (1)  In this section:
 
-                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed intermediate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of intermediate oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="adjusted-previou-year-duti"></a>**_adjusted previous year’s duty_**, in relation to a prescribed intermediate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of intermediate oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that are, at the end of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="non-adjusted-previou-year-duti"></a>**_non‑adjusted previous year’s duty_**, in relation to a prescribed intermediate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of intermediate oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
+                    <a name="non-adjusted-previou-year-duti"></a>**_non-adjusted previous year’s duty_**, in relation to a prescribed intermediate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of intermediate oil produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first-mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="prescrib-intermedi-product-area"></a>**_prescribed intermediate production area_** means an intermediate petroleum production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
+                    <a name="prescrib-intermedi-product-area"></a>**_prescribed intermediate production area_** means an intermediate petroleum production area prescribed by by-laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
 
 Introduction
 
@@ -995,7 +995,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of intermediate oil produced from a prescribed intermediate production area and entered for home consumption during a month of a financial year commencing on or after 1 July 1997 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image010.gif)
 
 where:
 
@@ -1019,13 +1019,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of intermediate oil produced from a particular prescribed intermediate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 8**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 8**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif) 12**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif) 12**B**;
 
 where:
 
@@ -1053,9 +1053,9 @@ The debited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilized crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed intermediate production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed intermediate production area for that first‑mentioned month is greater than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed intermediate production area for that first-mentioned month is greater than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a debited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non‑adjusted previous year’s duty.
+there is a debited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that adjusted previous year’s duty and that non-adjusted previous year’s duty.
 
 The credited adjustment amount
 
@@ -1063,15 +1063,15 @@ The credited adjustment amount
 
                      (a)  during a month of a financial year, a VOLWARE price for stabilized crude petroleum oil for a month of the immediately preceding financial year and a particular prescribed intermediate production area is determined under section 7 of the _Petroleum Excise (Prices) Act 1987_; and
 
-                     (b)  the adjusted previous year’s duty for that prescribed intermediate production area for that first‑mentioned month is less than the non‑adjusted previous year’s duty for that area for that first‑mentioned month;
+                     (b)  the adjusted previous year’s duty for that prescribed intermediate production area for that first-mentioned month is less than the non-adjusted previous year’s duty for that area for that first-mentioned month;
 
-there is a credited adjustment amount for that area for that first‑mentioned month, being an amount equal to the difference between that non‑adjusted previous year’s duty and that adjusted previous year’s duty.
+there is a credited adjustment amount for that area for that first-mentioned month, being an amount equal to the difference between that non-adjusted previous year’s duty and that adjusted previous year’s duty.
 
 The amount of notional duty for a quantity of oil—more than one petroleum price
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a prescribed intermediate production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -1107,7 +1107,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no intermediate oil produced from a particular prescribed intermediate production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of intermediate oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the intermediate oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image011.gif)
 
 where:
 
@@ -1119,29 +1119,29 @@ Interpretation of the Schedule
 
            (10)  The words set out after “, if higher,” in the column headed “Rate of Duty” in subitem 20.6 of the Schedule shall be deemed, for the purposes of this Act or any other law of the Commonwealth, to be a rate of duty.
 
-##### <a id="6E"></a>6E  Delayed‑entry oil rate
+##### <a id="6E"></a>6E  Delayed-entry oil rate
 
              (1)  In this section:
 
                     <a name="applic-petroleum-price"></a>**_applicable petroleum price_** has the same meaning as it has for the purposes of section 6AB.
 
-             (2)  For the purposes of this Act, the delayed‑entry oil rate that applies to delayed‑entry oil from a particular prescribed source is the amount per kilolitre ascertained in accordance with the formula:
+             (2)  For the purposes of this Act, the delayed-entry oil rate that applies to delayed-entry oil from a particular prescribed source is the amount per kilolitre ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image012.gif)
 
 where:
 
-                    <a name=""></a>**_T_** is the applicable petroleum price in relation to the month in which the operative day for that delayed‑entry oil occurs and to the production area constituting that prescribed source if the oil had continued to be covered by section 6B, 6C, 6CA or 6D, whichever is applicable, on and after the operative day.
+                    <a name=""></a>**_T_** is the applicable petroleum price in relation to the month in which the operative day for that delayed-entry oil occurs and to the production area constituting that prescribed source if the oil had continued to be covered by section 6B, 6C, 6CA or 6D, whichever is applicable, on and after the operative day.
 
-                    <a name=""></a>**_U_** is the number of dollars, calculated to 2 decimal places, in the amount of the duties of Excise paid in respect of the crude petroleum oil produced from that source that was entered for home consumption during the pre‑operative year for that source.
+                    <a name=""></a>**_U_** is the number of dollars, calculated to 2 decimal places, in the amount of the duties of Excise paid in respect of the crude petroleum oil produced from that source that was entered for home consumption during the pre-operative year for that source.
 
                     <a name=""></a>**_W_** is:
 
-                     (a)  if the applicable petroleum price was the same in relation to all months of the pre‑operative year and to the production area that is the prescribed source from which the oil was produced—the product of the number of kilolitres of the stabilised crude petroleum oil produced from that source that was entered for home consumption during that pre‑operative year and the number of dollars, calculated to 2 decimal places, in the amount specified in the applicable petroleum price; or
+                     (a)  if the applicable petroleum price was the same in relation to all months of the pre-operative year and to the production area that is the prescribed source from which the oil was produced—the product of the number of kilolitres of the stabilised crude petroleum oil produced from that source that was entered for home consumption during that pre-operative year and the number of dollars, calculated to 2 decimal places, in the amount specified in the applicable petroleum price; or
 
-                     (b)  if the applicable petroleum price was not the same in relation to all months of the pre‑operative year and to that production area—the number ascertained by:
+                     (b)  if the applicable petroleum price was not the same in relation to all months of the pre-operative year and to that production area—the number ascertained by:
 
-                              (i)  working out, in respect of each applicable petroleum price in operation in relation to a month or months of that pre‑operative year and to that production area, the product of the number of dollars, calculated to 2 decimal places, in the amount specified in the applicable petroleum price and the number of kilolitres of the crude petroleum oil produced from that prescribed source that was entered for home consumption during that month or those months; and
+                              (i)  working out, in respect of each applicable petroleum price in operation in relation to a month or months of that pre-operative year and to that production area, the product of the number of dollars, calculated to 2 decimal places, in the amount specified in the applicable petroleum price and the number of kilolitres of the crude petroleum oil produced from that prescribed source that was entered for home consumption during that month or those months; and
 
                              (ii)  adding the products calculated under subparagraph (i).
 
@@ -1149,7 +1149,7 @@ where:
 
              (1)  Duty payable under this Act on goods (the **_blended goods_**) that are classified to subitem 10.7, 10.11, 10.12 or 10.30 of the Schedule is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image013.gif)
 
 where:
 
@@ -1165,7 +1165,7 @@ where:
 
                     <a name="excis-equival-rate"></a>**_excise equivalent rate_** means so much of the rate of Customs duty applicable to goods on their importation into Australia as is equivalent to the rate of excise duty that would be payable on those goods if manufactured in Australia.
 
-# The Schedule <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
+# The Schedule   <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
 
                     <a name="beer"></a>**_beer_** means a brewed beverage that:
 
@@ -1193,7 +1193,7 @@ where:
 
                     <a name="brandi"></a>**_brandy_** means a spirit distilled from grape wine in such a manner that the spirit possesses the taste, aroma and other characteristics generally attributed to brandy.
 
-                    <a name="grape-wine"></a>**_grape wine_** has the same meaning as in Subdivision 31‑A of the _A New Tax System (Wine Equalisation Tax) Act 1999_.
+                    <a name="grape-wine"></a>**_grape wine_** has the same meaning as in Subdivision 31-A of the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
                     <a name="lubric-fluid-oil-product"></a>**_lubricant/fluid/oil products_** means the following:
 
@@ -1229,9 +1229,9 @@ where:
 
                     <a name="tobacco"></a>**_tobacco_** means tobacco leaf subjected to any process other than curing the leaf as stripped from the plant.
 
-                    <a name="wine"></a>**_wine_** has the same meaning as in Subdivision 31‑A of the _A New Tax System (Wine Equalisation Tax) Act 1999_.
+                    <a name="wine"></a>**_wine_** has the same meaning as in Subdivision 31-A of the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
-Items 1 to 3 of this Schedule do not include any liquor that has been produced for non‑commercial purposes, using non‑commercial facilities and equipment, other than a liquor that is, or that contains, any spirit obtained by distillation.
+Items 1 to 3 of this Schedule do not include any liquor that has been produced for non-commercial purposes, using non-commercial facilities and equipment, other than a liquor that is, or that contains, any spirit obtained by distillation.
 
 A reference to alcohol is taken to be a reference to ethyl alcohol.
 
@@ -1243,7 +1243,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
 
                      (c)  subject to the requirements of paragraphs (a) and (b)—may be ascertained in accordance with the rules (if any) made for that purpose under section 65 of the _Excise Act 1901_; and
 
-                     (d)  if the circumstances set out in section 77FA of the _Excise Act 1901_ apply and for the purposes of working out the duty payable on the goods—is to be ascertained in accordance with that last‑mentioned section.
+                     (d)  if the circumstances set out in section 77FA of the _Excise Act 1901_ apply and for the purposes of working out the duty payable on the goods—is to be ascertained in accordance with that last-mentioned section.
 
 <table>
 <colgroup>
@@ -1406,7 +1406,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>1.15</div>
   </td>
   <td>
-    <div>Beer not exceeding 3% by volume of alcohol produced for non‑commercial
+    <div>Beer not exceeding 3% by volume of alcohol produced for non-commercial
       purposes using commercial facilities or equipment</div>
   </td>
   <td>
@@ -1422,7 +1422,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>1.16</div>
   </td>
   <td>
-    <div>Beer exceeding 3% by volume of alcohol produced for non‑commercial purposes
+    <div>Beer exceeding 3% by volume of alcohol produced for non-commercial purposes
       using commercial facilities or equipment</div>
   </td>
   <td>
@@ -1652,7 +1652,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
       <b>(b) topped crude petroleum oil;</b>
     </div>
     <div>
-      <b>(c) refined or semi‑refined liquid products derived from petroleum, other
+      <b>(c) refined or semi-refined liquid products derived from petroleum, other
         than such products for use (other than in an internal combustion engine)
         in refining petroleum condensate or stabilised crude petroleum oil;</b>
     </div>
@@ -2007,7 +2007,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>15.1</div>
   </td>
   <td>
-    <div>Petroleum‑based oils (including lubricant/fluid/oil products) and their
+    <div>Petroleum-based oils (including lubricant/fluid/oil products) and their
       synthetic equivalents but not greases</div>
   </td>
   <td>
@@ -2022,7 +2022,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>15.2</div>
   </td>
   <td>
-    <div>Petroleum‑based oils (including lubricant/fluid/oil products and greases)
+    <div>Petroleum-based oils (including lubricant/fluid/oil products and greases)
       and their synthetic equivalents, recycled for use as oils (including lubricant/fluid/oil
       products) but not greases</div>
   </td>
@@ -2038,7 +2038,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>15.3</div>
   </td>
   <td>
-    <div>Petroleum‑based greases and their synthetic equivalents</div>
+    <div>Petroleum-based greases and their synthetic equivalents</div>
   </td>
   <td>
     <div>$0.05449 per kilogram</div>
@@ -2052,7 +2052,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>15.4</div>
   </td>
   <td>
-    <div>Petroleum‑based oils (including lubricant/fluid/oil products and greases)
+    <div>Petroleum-based oils (including lubricant/fluid/oil products and greases)
       and their synthetic equivalents, recycled for use as greases</div>
   </td>
   <td>
@@ -2092,7 +2092,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>20.1</div>
   </td>
   <td>
-    <div>As prescribed by by‑law</div>
+    <div>As prescribed by by-law</div>
   </td>
   <td>
     <div>Free</div>
@@ -2106,10 +2106,10 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>20.2</div>
   </td>
   <td>
-    <div>Delayed‑entry oil</div>
+    <div>Delayed-entry oil</div>
   </td>
   <td>
-    <div>The delayed‑entry oil rate that applies to the oil</div>
+    <div>The delayed-entry oil rate that applies to the oil</div>
   </td>
 </tr>
 <tr>
@@ -2120,7 +2120,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>20.3</div>
   </td>
   <td>
-    <div>Pre‑threshold onshore oil</div>
+    <div>Pre-threshold onshore oil</div>
   </td>
   <td>
     <div>Free</div>
@@ -2203,7 +2203,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>21.1</div>
   </td>
   <td>
-    <div>As prescribed by by‑law</div>
+    <div>As prescribed by by-law</div>
   </td>
   <td>
     <div>Free</div>
@@ -2217,7 +2217,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>21.2</div>
   </td>
   <td>
-    <div>Pre‑threshold onshore condensate</div>
+    <div>Pre-threshold onshore condensate</div>
   </td>
   <td>
     <div>Free</div>
@@ -3676,7 +3676,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Excise Tariff Amendment (Off‑shore Installations) Act 1982</div>
+    <div>Excise Tariff Amendment (Off-shore Installations) Act 1982</div>
   </td>
   <td>
     <div>54, 1982</div>
@@ -5082,62 +5082,23 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 567, 568) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011</div>
-  </td>
-  <td>
-    <div>67, 2011</div>
-  </td>
-  <td>
-    <div>29 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–7): \[ <i>see</i>Note 4] 
-Schedule 1 (item 8): \[ <i>see</i>Note 4] 
-Schedule 1 (item 9): \[ <i>see</i>Note 4] 
-Schedule 1 (item 10): \[ <i>see</i>Note 4] 
-Schedule 1 (item 11): \[ <i>see</i>Note 4] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The Acts marked _(a)_ in the table contain provisions that relate to the time of commencement of those Acts. To ascertain those provisions, reference should be made to the amending Acts.
 
          The application of amendments made by many of the Acts referred to above is affected by provisions in those Acts with respect to the time of imposition of excise duty imposed by those Acts and their application to specified goods. To ascertain those provisions, reference should be made to the amending Acts.
 
-_(b)_     The _Excise  Tariff Act 1921_ was amended by Part XXXIII (sections 101 and 102) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
+_(b)_    The _Excise  Tariff Act 1921_ was amended by Part XXXIII (sections 101 and 102) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Excise  Tariff Act 1921_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(43) of which provides as follows:
 
-               (43)   The amendments of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_ made by this Act shall be deemed to have come into operation immediately after the commencement of section 1 of that first‑mentioned Act.
+               (43)   The amendments of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_ made by this Act shall be deemed to have come into operation immediately after the commencement of section 1 of that first-mentioned Act.
 
 _(e)_ Subsection 2(2) of the _Industry, Science and Tourism Legislation Amendment Act 1997_ provides as follows:
 
@@ -5262,7 +5223,10 @@ _(m)_    Subsection 2(1) (item 2) of the _Excise Tariff Amendment Act (N
   <td>
     <div>
       7.30 pm
-      (by legal time in the Australian Capital Territory) on 14 May 2002
+      (by legal time in the
+      Australian Capital Territory
+      ) on
+      14 May 2002
     </div>
   </td>
   <td>
@@ -5366,6 +5330,14 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
     </td>
     <td colspan="2">
       <div>How affected</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
 </thead>
@@ -5691,7 +5663,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6B(4), (5) .</div>
+    <div>Subheads. to s. 6B(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5707,7 +5679,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6B(6)–(10)</div>
+    <div>Subheads. to s. 6B(6)–(10).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5731,7 +5703,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6C(1), (2).</div>
+    <div>Subheads. to s. 6C(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5739,7 +5711,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6C(4), (5).</div>
+    <div>Subheads. to s. 6C(4), (5)</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5755,7 +5727,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6C(6)–(10)</div>
+    <div>Subheads. to s. 6C(6)–(10).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5787,7 +5759,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6D(1), (2).</div>
+    <div>Subheads. to s. 6D(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5811,7 +5783,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>Subheads. to s. 6D(6)–(10)</div>
+    <div>Subheads. to s. 6D(6)–(10).</div>
   </td>
   <td>
     <div>ad. No. 78, 1997</div>
@@ -5931,7 +5903,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div>S. 7......................................</div>
+    <div>S. 7.......................................</div>
   </td>
   <td>
     <div>rep. No. 75, 2006</div>
@@ -5962,443 +5934,6 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 ### Note 2
 
 Section 6A of the Act provides for the automatic indexation of the rate of duty of certain excise items. If a rate increases, subsection 6A(8) requires the Chief Executive Officer to publish a notice in the Commonwealth of Australia Gazette of the new rate and the goods to which it applies as soon as practicable after the new rate takes effect. The Act is not updated to reflect the rates set out in the Gazette notices. The updated rates can be found at the Australian Taxation Office’s website, http://www.ato.gov.au – search on “excise rates”.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 567  Paragraph 3(6)(b)
-
-Omit “Australian Standard AS/NZS 1960.1:1995”, substitute “Australian Standard AS 1960.1—2005”.
-
-## 568  Schedule (definition of _territorial sea_)
-
-Repeal the definition.
-
-As at 29 July 2011 the amendments are not incorporated in this compilation.
-
-### Note 4
-
-_Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011 
- (No. 67, 2011)_
-
-The following amendments commence on 1 December 2011:
-
-## Schedule 1
-
-## 1  Subsection 3(1)
-
-Insert:
-
-                    <a name="liquefi-petroleum-ga"></a>**_liquefied petroleum gas_** means:
-
-                     (a)  liquid propane; or
-
-                     (b)  a liquid mixture of propane and butane; or
-
-                     (c)  a liquid mixture of propane and other hydrocarbons that consists mainly of propane; or
-
-                     (d)  a liquid mixture of propane, butane and other hydrocarbons that consists mainly of propane and butane.
-
-## 2  Section 6G
-
-Repeal the section, substitute:
-
-##### <a id="6G"></a>6G  Duty payable on blended goods
-
-             (1)  Work out the duty payable under this Act on goods (the **_blended goods_**) that are classified to subitem 10.7, 10.11, 10.12 or 10.30 of the Schedule as follows:
-
-* * *
-
-_Method statement_
-
-Step 1.   Add up the amount of duty that would be payable on each constituent of the blended goods, that is classified to item 10 of the Schedule, if the constituent had not been included in the blended goods.
-
-Step 2.   Work out the volume, in litres, of the blended goods that is not attributable to those constituents or to water added to manufacture the blended goods.
-
-Step 3.   Multiply the result of step 2 by $0.38143.
-
-Step 4.   Total the results of steps 1 and 3.
-
-Step 5.   Subtract from the total any duty paid on a constituent of the blended goods that is classified to item 10 or 15 of the Schedule.
-
-* * *
-
-             (2)  If a constituent of the blended goods was imported, assume for the purposes of subsection (1) that:
-
-                     (a)  the constituent was manufactured in Australia when it was imported; and
-
-                     (b)  if customs duty was paid on the constituent, there was a payment of excise duty equal to the lesser of the following amounts (or either of them if they are equal):
-
-                              (i)  the amount of excise duty that would have been payable on the constituent had it been manufactured in Australia when it was imported;
-
-                             (ii)  the amount of the customs duty paid.
-
-## 3  Schedule (subparagraph (a)(i) of the cell at table item 10, column headed “Description of goods”)
-
-Omit “and”, substitute “or”.
-
-## 4  Schedule (after paragraph (d) of the cell at table item 10, column headed “Description of goods”)
-
-Insert:
-
-**(da) liquefied petroleum gas;**
-
-**(db) liquefied natural gas;**
-
-**(dc) compressed natural gas;**
-
-## 5  Schedule (paragraph (i) of the cell at table item 10, column headed “Description of goods”)
-
-Omit “**, liquefied petroleum gas**”.
-
-## 6  Schedule (at the end of the cell at table item 10, column headed “Description of goods”)
-
-Add:
-
-**(j) goods covered by section 77HA or 77HB of the _Excise Act 1901_**
-
-## 7  Schedule (after table subitem 10.18)
-
-Insert:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="13%">
-  <col width="46%">
-  <col width="32%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19A</div>
-  </td>
-  <td>
-    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.025 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19B</div>
-  </td>
-  <td>
-    <div>Liquefied natural gas, other than liquefied natural gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.0522 per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19C</div>
-  </td>
-  <td>
-    <div>Compressed natural gas, other than compressed natural gas exempted from
-      excise duty by section 77HA of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.0522 per kilogram</div>
-  </td>
-</tr></table>
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 8  Schedule (table subitems 10.19A, 10.19B and 10.19C)
-
-Repeal the subitems, substitute:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="13%">
-  <col width="46%">
-  <col width="32%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19A</div>
-  </td>
-  <td>
-    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.05 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19B</div>
-  </td>
-  <td>
-    <div>Liquefied natural gas, other than liquefied natural gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.1045 per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19C</div>
-  </td>
-  <td>
-    <div>Compressed natural gas, other than compressed natural gas exempted from
-      excise duty by section 77HA of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.1045 per kilogram</div>
-  </td>
-</tr></table>
-
-The following amendment commences on 1 July 2013:
-
-## Schedule 1
-
-## 9  Schedule (table subitems 10.19A, 10.19B and 10.19C)
-
-Repeal the subitems, substitute:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="13%">
-  <col width="46%">
-  <col width="32%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19A</div>
-  </td>
-  <td>
-    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.075 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19B</div>
-  </td>
-  <td>
-    <div>Liquefied natural gas, other than liquefied natural gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.1567 per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19C</div>
-  </td>
-  <td>
-    <div>Compressed natural gas, other than compressed natural gas exempted from
-      excise duty by section 77HA of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.1567 per kilogram</div>
-  </td>
-</tr></table>
-
-The following amendment commences on 1 July 2014:
-
-## Schedule 1
-
-## 10  Schedule (table subitems 10.19A, 10.19B and 10.19C)
-
-Repeal the subitems, substitute:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="13%">
-  <col width="48%">
-  <col width="30%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19A</div>
-  </td>
-  <td>
-    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.10 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19B</div>
-  </td>
-  <td>
-    <div>Liquefied natural gas, other than liquefied natural gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.209 per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19C</div>
-  </td>
-  <td>
-    <div>Compressed natural gas, other than compressed natural gas exempted from
-      excise duty by section 77HA of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.209 per kilogram</div>
-  </td>
-</tr></table>
-
-The following amendment commences on 1 July 2015:
-
-## Schedule 1
-
-## 11  Schedule (table subitems 10.19A, 10.19B and 10.19C)
-
-Repeal the subitems, substitute:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="13%">
-  <col width="48%">
-  <col width="30%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19A</div>
-  </td>
-  <td>
-    <div>Liquefied petroleum gas, other than liquefied petroleum gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.125 per litre</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19B</div>
-  </td>
-  <td>
-    <div>Liquefied natural gas, other than liquefied natural gas exempted from
-      excise duty by section 77HB of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.2613 per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>10.19C</div>
-  </td>
-  <td>
-    <div>Compressed natural gas, other than compressed natural gas exempted from
-      excise duty by section 77HA of the
-      <i>Excise Act 1901</i>
-    </div>
-  </td>
-  <td>
-    <div>$0.2613 per kilogram</div>
-  </td>
-</tr></table>
-
-As at 29 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6436,7 +5971,7 @@ _Excise Tariff Amendment Act (No. 4) 1997 (No. 169, 1997)_
 
                    The amendments made by this Act apply in respect of goods:
 
-                     (a)  that fall to a paragraph, subparagraph or sub‑subparagraph of the Schedule to the _Excise Tariff Act 1921_ as amended by this Act that is referred to in an item of this Schedule; and
+                     (a)  that fall to a paragraph, subparagraph or sub-subparagraph of the Schedule to the _Excise Tariff Act 1921_ as amended by this Act that is referred to in an item of this Schedule; and
 
                      (b)  that are entered for home consumption on or after the commencement of this Act.
 
@@ -6492,7 +6027,7 @@ _Excise Tariff Amendment Act (No. 5) 1997 (No. 182, 1997)_
 
                    The amendments made by this Act apply in respect of goods:
 
-                     (a)  that fall to a item, sub‑item or paragraph of the Schedule to the _Excise Tariff Act 1921_ as amended by this Act; and
+                     (a)  that fall to a item, sub-item or paragraph of the Schedule to the _Excise Tariff Act 1921_ as amended by this Act; and
 
                      (b)  that are entered for home consumption on or after the commencement of this Act.
 
@@ -6504,9 +6039,9 @@ _Excise Tariff Amendment (Crude Oil) Act 2001 (No. 164, 2001)_
 
 ## 24  Saving provision
 
-(1)       Sections 6AA, 6B and 6C of the _Excise Tariff Act 1921_, as in force immediately before the commencement day, continue to apply in relation to relevant oil produced from a prescribed production area and new oil produced from a prescribed new production area that is entered for home consumption during a month of a financial year ending before that day.
+(1)        Sections 6AA, 6B and 6C of the _Excise Tariff Act 1921_, as in force immediately before the commencement day, continue to apply in relation to relevant oil produced from a prescribed production area and new oil produced from a prescribed new production area that is entered for home consumption during a month of a financial year ending before that day.
 
-(2)       In this item:
+(2)        In this item:
 
 **_commencement day_** means 1 July 2001.
 
@@ -6532,7 +6067,7 @@ In working out the duty payable on blended goods under section 6G of the _Exci
 
 ## 47  Transitional regulations
 
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Act.
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Act.
 
 * * *
 
@@ -6544,15 +6079,15 @@ _Excise Tariff Amendment (Condensate) Act 2008 (No. 109, 2008)_
 
 Application of Schedule (other than items 2, 3, 4, 10, 11 and 12)
 
-(1)       The amendments made by this Schedule (other than items 2, 3, 4, 10, 11 and 12) apply (subject to subitem (2)) in relation to condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
+(1)        The amendments made by this Schedule (other than items 2, 3, 4, 10, 11 and 12) apply (subject to subitem (2)) in relation to condensate produced after midnight (by legal time in the Australian   Capital Territory) on 13 May 2008.
 
-(2)       Section 6CA of the _Excise Tariff Act 1921_ (as inserted by item 27 of this Schedule) applies, in relation to condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008 until midnight (by legal time in the Australian Capital Territory) on 30 June 2008, as if the following modifications were made to that section:
+(2)        Section 6CA of the _Excise Tariff Act 1921_ (as inserted by item 27 of this Schedule) applies, in relation to condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008 until midnight (by legal time in the Australian Capital Territory) on 30 June 2008, as if the following modifications were made to that section:
 
                      (a)  the following definitions were omitted:
 
                               (i)  the definition of **_adjusted previous year’s duty_** in subsection 6CA(1);
 
-                             (ii)  the definition of **_non‑adjusted previous year’s duty_** in subsection 6CA(1);
+                             (ii)  the definition of **_non-adjusted previous year’s duty_** in subsection 6CA(1);
 
                             (iii)  the definition of **_credited adjustment amount_** in subsection 6CA(3);
 
@@ -6560,27 +6095,27 @@ Application of Schedule (other than items 2, 3, 4, 10, 11 and 12)
 
                      (b)  the formula in subsection 6CA(3) were replaced with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image014.gif)
 
                      (c)  subsections 6CA(7) and (8) were omitted.
 
 Application of items 2, 3, 4, 10, 11 and 12
 
-(3)       The amendments made by items 2, 3, 4, 10, 11 and 12 of this Schedule apply in relation to stabilised crude petroleum oil and condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
+(3)        The amendments made by items 2, 3, 4, 10, 11 and 12 of this Schedule apply in relation to stabilised crude petroleum oil and condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
 
-(4)       To avoid doubt, the amendments made by those items do not affect any excise on stabilised crude petroleum oil produced before midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
+(4)        To avoid doubt, the amendments made by those items do not affect any excise on stabilised crude petroleum oil produced before midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
 
-(5)       In determining whether stabilised crude petroleum oil or condensate is included in pre‑threshold onshore oil and condensate, take into account all stabilised crude petroleum oil and condensate produced, whether before or after midnight (by legal time in the Australian Capital Territory) on 13 May 2008, from a particular onshore field.
+(5)        In determining whether stabilised crude petroleum oil or condensate is included in pre-threshold onshore oil and condensate, take into account all stabilised crude petroleum oil and condensate produced, whether before or after midnight (by legal time in the Australian Capital Territory) on 13 May 2008, from a particular onshore field.
 
-(6)       In determining whether stabilised crude petroleum oil or condensate is included in exempt offshore oil and condensate, take into account all stabilised crude petroleum oil and condensate produced, whether before or after midnight (by legal time in the Australian Capital Territory) on 13 May 2008, from a particular exempt offshore field.
+(6)        In determining whether stabilised crude petroleum oil or condensate is included in exempt offshore oil and condensate, take into account all stabilised crude petroleum oil and condensate produced, whether before or after midnight (by legal time in the Australian Capital Territory) on 13 May 2008, from a particular exempt offshore field.
 
 Application of subsection 5(2) of the Excise Tariff Act 1921
 
-(7)       For the purposes of item 21 of the Schedule to the _Excise Tariff Act 1921_ (as amended by item 30 of this Act), paragraphs 5(2)(b) and (2)(c) of the _Excise Tariff Act 1921_ do not apply in relation to condensate produced before midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
+(7)        For the purposes of item 21 of the Schedule to the _Excise Tariff Act 1921_ (as amended by item 30 of this Act), paragraphs 5(2)(b) and (2)(c) of the _Excise Tariff Act 1921_ do not apply in relation to condensate produced before midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
 
 ## 32  Deemed entry for home consumption
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a person produces condensate after  midnight (by legal time in the Australian Capital Territory) on 13 May 2008; and
 
@@ -6588,11 +6123,11 @@ Application of subsection 5(2) of the Excise Tariff Act 1921
 
                      (c)  the person’s grace period has not ended (see subitem (4)).
 
-(2)       For the purposes of the _Excise Tariff Act 1921_(as amended by this Act), the person is taken to have been given a permission under section 61C of the _Excise Act 1901_ to deliver the condensate for home consumption from the prescribed condensate production area from which the condensate is produced.
+(2)        For the purposes of the _Excise Tariff Act 1921_(as amended by this Act), the person is taken to have been given a permission under section 61C of the _Excise Act 1901_ to deliver the condensate for home consumption from the prescribed condensate production area from which the condensate is produced.
 
-(3)       The permission is taken to be revoked at the end of the person’s grace period.
+(3)        The permission is taken to be revoked at the end of the person’s grace period.
 
-(4)       In this item:
+(4)        In this item:
 
 **_grace period_**, in relation to a person, means the period:
 
@@ -6615,44 +6150,5 @@ _Excise Tariff Amendment (2009 Measures No. 1) Act 2009 (No. 73, 2009)_
 ## 3  Application
 
 The amendments of the _Excise Tariff Act 1921_ made by this Schedule apply in relation to beverages manufactured or produced on or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011
- (No. 67, 2011)_
-
-## Schedule 1
-
-## 12  Application of amendments
-
-(1)       The amendments of the Schedule to the _Excise Tariff Act 1921_ made by a Part of this Schedule apply to goods manufactured or produced in Australia on or after the day that Part commenced and goods for which all the following conditions are met:
-
-                     (a)  the goods were manufactured or produced in Australia before that day;
-
-                     (b)  on that day, the goods either:
-
-                              (i)  were subject to the CEO’s control; or
-
-                             (ii)  were in the stock, custody or possession of, or belonged to, a manufacturer or producer of the goods; and
-
-                     (c)  no duty of excise had been paid on the goods before that day.
-
-(2)       This item has effect despite subsection 5(2) of the _Excise Tariff Act 1921_.
 
  
