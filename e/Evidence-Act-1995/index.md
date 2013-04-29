@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00518/Html/835c8485-fc50-4158-a84a-b91d49a6feaa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00320/Html/98f5c8ff-38e7-4043-926e-31c5fec99e8c_files/image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 21 March 2012
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force 
@@ -1564,7 +1564,7 @@ Note:          Section 182 gives this section a wider applic
 
              (3)  The opinion rule does not apply to evidence adduced in accordance with a direction under this section.
 
-##### <a id="51"></a>51  Original document rule abolished
+##### <a id="51"></a>51  Original document rule abolished
 
                    The principles and rules of the common law that relate to the means of proving the contents of documents are abolished.
 
@@ -1638,7 +1638,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2012C00518/Html/835c8485-fc50-4158-a84a-b91d49a6feaa_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00320/Html/98f5c8ff-38e7-4043-926e-31c5fec99e8c_files/image002.gif)
 
  
 
@@ -1910,7 +1910,7 @@ Note:          Subsection (2A) was inserted as a response to
 
 Note:          Clause 4 of Part 2 of the Dictionary is about the availability of persons.
 
-##### <a id="66A"></a>66A  Exception: contemporaneous statements about a person’s health etc.
+##### <a id="66A"></a>66A  Exception: contemporaneous statements about a person’s health etc.
 
                    The hearsay rule does not apply to evidence of a previous representation made by a person if the representation was a contemporaneous representation about the person’s health, feelings, sensations, intention, knowledge or state of mind.
 
@@ -4225,7 +4225,7 @@ Note:          Subsection 169(3) of the NSW Act differs from s
 
              (2)  An affidavit or statement that includes evidence based on knowledge, information or belief must set out the source of the knowledge or information or the basis of the belief.
 
-##### <a id="173"></a>173  Notification of other parties
+##### <a id="173"></a>173  Notification of other parties
 
              (1)  A copy of the affidavit or statement must be served on each party a reasonable time before the hearing of the proceeding.
 
@@ -4907,7 +4907,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                              (v)  a passenger card given to an officer under subregulation 3.01(3) of the Migration Regulations;
 
-                            (vi)  a report referred to in section 46 or 46A of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ that has been given under that section to the Minister administering that Act;
+                            (vi)  a report referred to in section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ that has been given under that section to the Minister administering that Act;
 
                            (vii)  any other document prescribed by the regulations for the purposes of this paragraph.
 
@@ -5727,7 +5727,7 @@ Royal Assent <i>(d)</i></div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 260A): 1 July 2012</div>
+    <div>Schedule 1 (item 260A): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -7175,9 +7175,23 @@ of Part 4.6</div>
     <div>Dictionary</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008; No. 33, 2009; No. 132, 2011</div>
+    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008; No. 33, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 260A  Part 1 of the Dictionary (subparagraph (b)(vi) of the definition of _Commonwealth document_)
+
+After “section 46”, insert “or 46A”.
+
+As at 21 March 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
