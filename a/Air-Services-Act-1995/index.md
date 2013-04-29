@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00510/Html/AirServices1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00044/Html/AirServices1995_WD02_image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 20 July 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 2 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -759,7 +759,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  Without limiting subsection (1), the Board may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
-##### <a id="26"></a>26  Board resolutions without meetings
+##### <a id="26"></a>26  Board resolutions without meetings
 
                    If the Board so determines, a resolution is taken to have been passed at a meeting of the Board if:
 
@@ -1920,23 +1920,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 5 (item 4)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 18–20): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
@@ -2433,32 +2416,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 20 July 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9" style="page-break-after:avoid">Air Services Act 1995</h9>
-
-## 18  Subsection 55(1)
-
-_Note:       The heading to section 55 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
-
-## 19  Paragraph 55(2)(a)
-
-## 20  Subsections 55(3), (4) and (5)
-
-As at 20 July 2010 the amendments are not incorporated in this compilation.
+As at 2 February 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
