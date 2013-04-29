@@ -1,70 +1,65 @@
-![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image001.gif)
 
 # Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003
 
 **Act No. 150 of 2003 as amended**
 
-This compilation was prepared on 30 May 2007
+This compilation was prepared on 23 December 2005
 
 **\[This Act was amended by Act Nos. 45, 114 and 157 of 2004; Nos. 83 and 158 of 2005]**
 
 **Amendments from Act No. 45 of 2004**
 
-\[Schedule 3 (items 63 and 64) and Schedule 5 (item 3) amended item 1 of Schedule 1
- Schedule 3 (items 65–70) amended item 3 of Schedule 1
- Schedule 4 (item 1) repealed Part 4 of Schedule 1
- Schedule 5 (items 4–6) amended item 6 of Schedule 1
- Schedule 5 (items 7–9) amended item 11A of Schedule 1
- Schedule 5 (item 10) inserted item 21A of Schedule 1
-
+\[Schedule 3 (items 63 and 64) and Schedule 5 (item 3) amended Item 1 of Schedule 1
+Schedule 3 (items 65–70) amended Item 3 of Schedule 1
+Schedule 4 (item 1) repealed Part 4 of Schedule 1
+Schedule 5 (items 4–6) amended Item 6 of Schedule 1
+Schedule 5 (items 7–9) amended Item 11A of Schedule 1
+Schedule 5 (item 10) inserted Item 21A of Schedule 1
 Schedule 3 (items 63–70), Schedule 4 (item 1) and Schedule 5 (items 3–10) commenced on 21 April 2004]
 
 **Amendment from Act No. 114 of 2004**
 
 \[Schedule 3 repealed and substituted Schedule 1 (item 5)
-
-Schedule 3 commenced on 13 July 2004]
+Schedule 3 commenced on 
+13 July 2004]
 
 **Amendments from Act No. 157 of 2004**
 
 \[Schedule 2 (item 1) amended Schedule 1 (item 5)
- Schedule 2 (item 2) repealed and substituted Schedule 1 (item 9)
- Schedule 2 (item 3) added Schedule 1 (item 17A)
- Schedule 2 (item 4) amended Schedule 1 (item 20)
- Schedule 2 (items 5–7) amended Schedule 1 (item 22A)
- Schedule 2 (item 8) added Schedule 1 (item 23A)
- Schedule 2 (item 9) amended Schedule 1 (item 24)
-
+Schedule 2 (item 2) repealed and substituted Schedule 1 (item 9)
+Schedule 2 (item 3) added Schedule 1 (item 17A)
+Schedule 2 (item 4) amended Schedule 1 (item 20)
+Schedule 2 (items 5–7) amended Schedule 1 (item 22A)
+Schedule 2 (item 8) added Schedule 1 (item 23A)
+Schedule 2 (item 9) amended Schedule 1 (item 24)
 Schedule 2 (items 1–8) commenced on 17 December 2004
- Schedule 2 (item 9) commenced immediately after <span style="font-size:11.0pt">1 </span>January 2004]
+Schedule 2 (item 9) commenced i
+
+mmediately after <span style="COLOR: black">1 </span>January 2004<span style="COLOR: black">]</span>
 
 **Amendment from Act No. 83 of 2005**
 
-\[Schedule 2 (item 1) amended paragraph 2(c) of Schedule 1
+\[Schedule 2 (item 1) amended Paragraph 2(c) of Schedule 1<span style="COLOR: black">
+Schedule 2 (item 1) commenced i
+</span>mmediately after <span style="FONT-SIZE: 11pt">1 </span>January 2004]
 
-Schedule 2 (item 1) commenced immediately after <span style="font-size:11.0pt">1 </span>January 2004]
+**Amendment from Act No. 158 of 2005**
 
-**Amendments from Act No. 158 of 2005**
-
-\[Schedule 3 (item 21) amended subitem 4(1) of Schedule 1<span style="color:black">
- Schedule 3 (item 22) repealed </span>subitem 4(3) of Schedule 1<span style="color:black">
- Schedule 3 (item 23) amended </span>subitem 8(1) of Schedule 1<span style="color:black">
- Schedule 3 (item 24) repealed </span>subitem 8(3) of Schedule 1
-
-Schedule 3 (items 21–24) commenced on 20 December 2005]
-
-**\[This Act is to be amended by Act No. 72 of 2007]**
-
-**Amendments from Act No. 72 of 2007**
-
-\[Schedule 3 (item 3) amended subitem 1 of Schedule 1
- Schedule 3 (items 4, 5) amended item 6 of Schedule 1
-
-Schedule 3 (items 3–5) commences on 1 January 2008.
- The amendments have not been incorporated]
+\[Schedule 3 (item 21) amended Subitem 4(1) of Schedule 1<span style="COLOR: black">
+Schedule 3 (item 22) repealed 
+</span>Subitem 4(3) of Schedule 1<span style="COLOR: black">
+Schedule 3 (item 23) amended 
+</span>Subitem 8(1) of Schedule 1<span style="COLOR: black">
+Schedule 3 (item 24) repealed 
+</span>Subitem 8(3) of Schedule 1<span style="COLOR: black">
+Schedule 3 (items 21–24) commenced on 
+</span>20 December 2005]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -142,13 +137,14 @@ Taxation Administration Act 1953                
 
 Taxation (Interest on Overpayments and Early Payments) Act 1983             56
 
-Veterans’ Entitlements Act 1986                                                                            58
+Veterans’ Entitlements Act 1986                                                                            57
 
  
 
+
 ## An Act to deal with transitional and consequential matters arising from the enactment of the _Higher Education Support Act 2003_, and for other purposes
 
-[_Assented to__19  December 2003_]
+[_Assented to__19 December 2003_]
 
 The Parliament of Australia enacts:
 
@@ -210,215 +206,217 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>19 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Section 4</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedule 1</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 2, Parts 1 to 3</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Schedule 2, Part 4</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 July 2004; and</div>
-    <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
-      the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Schedule 2, Part 5</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 March 2004; and</div>
-    <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
-      the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 March 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 2, Part 6</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8\. Schedule 2, items 95 to 103</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9\. Schedule 2, item 104</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10\. Schedule 2, items 105 to 108</div>
-  </td>
-  <td>
-    <div>4 April 2002</div>
-  </td>
-  <td>
-    <div>4 April 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11\. Schedule 2, item 109</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12\. Schedule 2, item 110</div>
-  </td>
-  <td>
-    <div>4 April 2002</div>
-  </td>
-  <td>
-    <div>4 April 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13\. Schedule 2, item 111</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-  <td>
-    <div>18 September 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14\. Schedule 2, item 112</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15\. Schedule 2, items 113 to 119A</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2005; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16\. Schedule 2, items 120 to 169</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
-      <i>Higher Education Support Act 2003</i>.</div>
-  </td>
-  <td>
-    <div>1 January 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>19 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Section 4</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedule 1</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 2, Parts 1 to 3</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Schedule 2, Part 4</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 July 2004; and</div>
+      <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
+        the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 July 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 2, Part 5</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 March 2004; and</div>
+      <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
+        the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 March 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 2, Part 6</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8\. Schedule 2, items 95 to 103</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9\. Schedule 2, item 104</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10\. Schedule 2, items 105 to 108</div>
+    </td>
+    <td>
+      <div>4 April 2002</div>
+    </td>
+    <td>
+      <div>4 April 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11\. Schedule 2, item 109</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12\. Schedule 2, item 110</div>
+    </td>
+    <td>
+      <div>4 April 2002</div>
+    </td>
+    <td>
+      <div>4 April 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13\. Schedule 2, item 111</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+    <td>
+      <div>18 September 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14\. Schedule 2, item 112</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15\. Schedule 2, items 113 to 119A</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2005; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16\. Schedule 2, items 120 to 169</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) 1 January 2004; and</div>
+      <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.</div>
+    </td>
+    <td>
+      <div>1 January 2004</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -431,6 +429,7 @@ Note:          This table relates only to the provisions of th
 ##### <a id="4"></a>4  Meanings of expressions defined in the _Higher Education Support Act 2003_
 
                    Expressions used in this Act that are defined in the _Higher Education Support Act 2003_ have in this Act, unless the contrary intention appears, the same meanings as in that Act.
+
 
 ###### Schedule 1—Transitional provisions
 
@@ -525,138 +524,140 @@ A person is not taken, for the purposes of subparagraph (1)(g)(i) of item 1,
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Law</div>
-  </td>
-  <td>
-    <div>$6,283</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Accounting, Administration, Economics, Commerce</div>
-  </td>
-  <td>
-    <div>$5,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Humanities</div>
-  </td>
-  <td>
-    <div>$3,768</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Mathematics, Statistics</div>
-  </td>
-  <td>
-    <div>$5,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Behavioural Science, Social Studies</div>
-  </td>
-  <td>
-    <div>$3,768</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Computing, Built Environment, Health</div>
-  </td>
-  <td>
-    <div>$5,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Foreign Languages, Visual and Performing Arts</div>
-  </td>
-  <td>
-    <div>$3,768</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Engineering, Science, Surveying</div>
-  </td>
-  <td>
-    <div>$5,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Dentistry, Medicine, Veterinary Science</div>
-  </td>
-  <td>
-    <div>$6,283</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>Agriculture</div>
-  </td>
-  <td>
-    <div>$5,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>Education</div>
-  </td>
-  <td>
-    <div>$3,768</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>Nursing</div>
-  </td>
-  <td>
-    <div>$3,768</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Law</div>
+    </td>
+    <td>
+      <div>$6,283</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Accounting, Administration, Economics, Commerce</div>
+    </td>
+    <td>
+      <div>$5,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Humanities</div>
+    </td>
+    <td>
+      <div>$3,768</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Mathematics, Statistics</div>
+    </td>
+    <td>
+      <div>$5,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Behavioural Science, Social Studies</div>
+    </td>
+    <td>
+      <div>$3,768</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Computing, Built Environment, Health</div>
+    </td>
+    <td>
+      <div>$5,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Foreign Languages, Visual and Performing Arts</div>
+    </td>
+    <td>
+      <div>$3,768</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Engineering, Science, Surveying</div>
+    </td>
+    <td>
+      <div>$5,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>Dentistry, Medicine, Veterinary Science</div>
+    </td>
+    <td>
+      <div>$6,283</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>Agriculture</div>
+    </td>
+    <td>
+      <div>$5,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>Education</div>
+    </td>
+    <td>
+      <div>$3,768</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>Nursing</div>
+    </td>
+    <td>
+      <div>$3,768</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          For the funding clusters in which particular units of study are included, see the Commonwealth Grant Scheme Guidelines made for the purposes of section 33-35 of the _Higher Education Support Act 2003_.
 
@@ -828,7 +829,7 @@ In this Part:
 
 <h7 class="ActHead7">Part 5—Avondale College</h7>
 
-## 17  Allocation of Commonwealth Grant Scheme funding to Avondale  College
+## 17  Allocation of Commonwealth Grant Scheme funding to Avondale College
 
 Until the end of the year 2008, Parts 2-2, 2-5 and 3-2 of the _Higher Education Support Act 2003_ apply in relation to Avondale College as if Avondale College were a higher education provider, but not a Table A provider.
 
@@ -1096,6 +1097,7 @@ Insert:
 
                      (c)  for the year 2007—$7,393,000.
 
+
  
 
 <h7 class="ActHead7">Part 2A—HEC repayment thresholds for the 2004-05 year of income</h7>
@@ -1155,105 +1157,107 @@ Add:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>More than $35,000, but less than $38,988</div>
-  </td>
-  <td>
-    <div>4%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>$38,988 or more, but less than $42,973</div>
-  </td>
-  <td>
-    <div>4.5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>$42,973 or more, but less than $45,233</div>
-  </td>
-  <td>
-    <div>5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>$45,233 or more, but less than $48,622</div>
-  </td>
-  <td>
-    <div>5.5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>$48,622 or more, but less than $52,658</div>
-  </td>
-  <td>
-    <div>6%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>$52,658 or more, but less than $55,430</div>
-  </td>
-  <td>
-    <div>6.5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>$55,430 or more, but less than $60,972</div>
-  </td>
-  <td>
-    <div>7%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>$60,972 or more, but less than $65,000</div>
-  </td>
-  <td>
-    <div>7.5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>$65,000 or more</div>
-  </td>
-  <td>
-    <div>8%</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>More than $35,000, but less than $38,988</div>
+    </td>
+    <td>
+      <div>4%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>$38,988 or more, but less than $42,973</div>
+    </td>
+    <td>
+      <div>4.5%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>$42,973 or more, but less than $45,233</div>
+    </td>
+    <td>
+      <div>5%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>$45,233 or more, but less than $48,622</div>
+    </td>
+    <td>
+      <div>5.5%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>$48,622 or more, but less than $52,658</div>
+    </td>
+    <td>
+      <div>6%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>$52,658 or more, but less than $55,430</div>
+    </td>
+    <td>
+      <div>6.5%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>$55,430 or more, but less than $60,972</div>
+    </td>
+    <td>
+      <div>7%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>$60,972 or more, but less than $65,000</div>
+    </td>
+    <td>
+      <div>7.5%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>$65,000 or more</div>
+    </td>
+    <td>
+      <div>8%</div>
+    </td>
+  </tr>
+</tbody></table>
 
 <h7 class="ActHead7">Part 3—Discontinuance of provisions of the Higher Education Funding Act 1988</h7>
 
@@ -2163,13 +2167,13 @@ Omit “If the amount of the debt is $500 or more, the”, substitute “The”.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image002.gif)
 
 ## 116  Subsection 106PA(4) (formula)
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image003.gif)
 
 ## 117  Subsection 106PA(4) (example)
 
@@ -2293,16 +2297,18 @@ Repeal the item, substitute:
   <col width="30%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>higher education assistance</b>
-    </div>
-  </td>
-  <td>
-    <div>26-20</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        <b>higher education assistance</b>
+      </div>
+    </td>
+    <td>
+      <div>26-20</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 138  Section 26-20 (heading)
 
@@ -2392,7 +2398,7 @@ Repeal the paragraph, substitute:
 
 Omit “designated”.
 
-## 150  Paragraph 1061PF(1)(a)
+## 150  Paragraph 1061PF(1)(a)
 
 Repeal the paragraph, substitute:
 
@@ -2519,5 +2525,27 @@ Insert:
                             provided for under the Commonwealth Scholarships Guidelines made for the purposes of Part 2-4 of the _Higher Education Support Act 2003_;
 
  
+
+
+_Minister’s second reading speech made in—_
+
+_House of Representatives on__17 September 2003_
+
+_Senate on__27 October 2003_]
+
+<div>
+
+<table align="left" hspace="0" vspace="0">
+<colgroup>
+  <col width="NaN%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td align="left">
+      <div>(157/03)</div>
+    </td>
+  </tr>
+</tbody></table></div>
 
  
