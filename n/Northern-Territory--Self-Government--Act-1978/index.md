@@ -1,234 +1,198 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00098/Html/7fbdc314-5f87-4441-a1b1-d02590f35332_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00943/Html/b536c647-c0dc-48b3-9b56-062cff0684e7_files/image001.gif)
 
-# Northern Territory (Self‑Government) Act 1978
+# Northern   Territory (Self‑Government) Act 1978
 
-No. 58 of 1978 as amended
+**Act No. 58 of 1978 as amended**
 
-**Compilation start date:**1 January 2013
+This compilation was prepared on 8 December 2011
+ taking into account amendments up to Act No. 166 of 2011
 
-**Includes amendments up to:**Act No. 174, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Northern Territory (Self-Government) Act 1978_ as amended and in force on 1 January 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 7 March 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title                                                                                              2
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    2
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Repeals                                                                                                 2
+[3](#3).            Repeals
 
-[4](#4).            Interpretation                                                                                        2
+[4](#4).            Interpretation
 
 **Part II—Northern Territory of Australia**
 
-[5](#5).            Establishment of body politic                                                               4
+[5](#5).            Establishment of body politic
 
 **Part III—Legislative Assembly** 
 
     **Division 1—Powers of Legislative Assembly**
 
-[6](#6).            Legislative power                                                                                 5
+[6](#6).            Legislative power
 
-[7](#7).            Assent to proposed laws                                                                      5
+[7](#7).            Assent to proposed laws
 
-[8](#8).            Signification of pleasure on proposed law reserved                             6
+[8](#8).            Signification of pleasure on proposed law reserved
 
-[10](#10).          Reason for withholding assent etc  to be tabled in Legislative Assembly 6
+[10](#10).          Reason for withholding assent etc  to be tabled in Legislative Assembly
 
-[11](#11).          Proposal of money votes                                                                      7
+[11](#11).          Proposal of money votes
 
-[12](#12).          Powers, privileges and immunities of Legislative Assembly               7
+[12](#12).          Powers, privileges and immunities of Legislative Assembly
 
     **Division 2—Constitution and membership of Legislative Assembly**
 
-[13](#13).          Legislative Assembly                                                                           8
+[13](#13).          Legislative Assembly
 
-[14](#14).          Qualifications of electors                                                                      8
+[14](#14).          Qualifications of electors
 
-[15](#15).          Writs for elections                                                                                9
+[15](#15).          Writs for elections
 
-[16](#16).          Term of office of member                                                                    9
+[16](#16).          Term of office of member
 
-[17](#17).          Dates of elections                                                                                 9
+[17](#17).          Dates of elections
 
-[18](#18).          Resignation of members of Legislative Assembly                               9
+[18](#18).          Resignation of members of Legislative Assembly
 
-[19](#19).          Filling of casual vacancy                                                                    10
+[19](#19).          Filling of casual vacancy
 
-[20](#20).          Qualifications for election                                                                  10
+[20](#20).          Qualifications for election
 
-[21](#21).          Disqualifications for membership of Legislative Assembly               10
+[21](#21).          Disqualifications for membership of Legislative Assembly
 
     **Division 3—Procedure of Legislative Assembly**
 
-[22](#22).          Sessions of Legislative Assembly                                                      13
+[22](#22).          Sessions of Legislative Assembly
 
-[23](#23).          Quorum                                                                                              13
+[23](#23).          Quorum
 
-[24](#24).          Election of Speaker                                                                            13
+[24](#24).          Election of Speaker
 
-[25](#25).          Acting Speaker—appointment by Legislative Assembly                   14
+[25](#25).          Acting Speaker—appointment by Legislative Assembly
 
-[26](#26).          Acting Speaker—appointment by Administrator                               14
+[26](#26).          Acting Speaker—appointment by Administrator
 
-[27](#27).          Voting in Legislative Assembly                                                         16
+[27](#27).          Voting in Legislative Assembly
 
-[28](#28).          Validation of acts of Legislative Assembly                                        16
+[28](#28).          Validation of acts of Legislative Assembly
 
-[29](#29).          Minutes of proceedings                                                                      16
+[29](#29).          Minutes of proceedings
 
-[30](#30).          Standing rules and orders                                                                   17
+[30](#30).          Standing rules and orders
 
 **Part IV—The Administration**
 
-[31](#31).          Extent of executive power                                                                  18
+[31](#31).          Extent of executive power
 
-[32](#32).          Office of Administrator                                                                      18
+[32](#32).          Office of Administrator
 
-[33](#33).          The Executive Council                                                                       18
+[33](#33).          The Executive Council
 
-[34](#34).          Ministerial offices                                                                              19
+[34](#34).          Ministerial offices
 
-[35](#35).          Transfer of functions to Executive                                                     19
+[35](#35).          Transfer of functions to Executive
 
-[36](#36).          Appointment of Ministers                                                                  19
+[36](#36).          Appointment of Ministers
 
-[37](#37).          Tenure of office                                                                                  19
+[37](#37).          Tenure of office
 
-[38](#38).          Oath to be taken by Member of Council and Minister                       20
+[38](#38).          Oath to be taken by Member of Council and Minister
 
-[40](#40).          Acting Administrator                                                                         20
+[40](#40).          Acting Administrator
 
-[41](#41).          Deputies of Administrator                                                                  21
+[41](#41).          Deputies of Administrator
 
-[42](#42).          Oath to be taken by Administrator etc                                                21
+[42](#42).          Oath to be taken by Administrator etc 
 
 **Part V—Finance**
 
-[43](#43).          Interpretation                                                                                      22
+[43](#43).          Interpretation
 
-[44](#44).          Public moneys                                                                                    22
+[44](#44).          Public moneys
 
-[45](#45).          Withdrawals of public moneys                                                           22
+[45](#45).          Withdrawals of public moneys
 
-[46](#46).          Borrowing from Commonwealth                                                       22
+[46](#46).          Borrowing from Commonwealth
 
-[48](#48).          Commonwealth Auditor‑General may audit Territory accounts         23
+[48](#48).          Commonwealth Auditor‑General may audit Territory accounts
 
 **Part VI—Miscellaneous**
 
-[49](#49).          Trade and commerce with States to be free                                        24
+[49](#49).          Trade and commerce with States to be free
 
-[50](#50).          Acquisition of property to be on just terms                                        24
+[50](#50).          Acquisition of property to be on just terms
 
-[50A](#50A).       Laws concerning euthanasia                                                               24
+[50A](#50A).       Laws concerning euthanasia
 
-[51](#51).          Acts that bind States to bind Northern Territory                                25
+[51](#51).          Acts that bind States to bind Northern Territory
 
-[53](#53).          Application of _Fair Work Act 2009_                                                    25
+[53](#53).          Application of _Fair Work Act 2009_
 
-[54](#54).          Power to confer jurisdiction on Remuneration Tribunal in relation to members etc  26
+[54](#54).          Power to confer jurisdiction on Remuneration Tribunal in relation to members etc 
 
-[55](#55).          Regulations                                                                                        26
+[55](#55).          Regulations
 
 **Part VII—Transitional provisions**
 
-[56](#56).          Interpretation                                                                                      27
+[56](#56).          Interpretation
 
-[57](#57).          Continuance of laws                                                                           27
+[57](#57).          Continuance of laws
 
-[58](#58).          Administrator etc  to continue in office                                              28
+[58](#58).          Administrator etc  to continue in office
 
-[59](#59).          Legislative Assembly etc  to continue                                                28
+[59](#59).          Legislative Assembly etc  to continue
 
-[60](#60).          Functions performed by Legislative Assembly and Executive Council 29
+[60](#60).          Functions performed by Legislative Assembly and Executive Council
 
-[61](#61).          Functions performed by specified persons                                         29
+[61](#61).          Functions performed by specified persons
 
-[63](#63).          Sessions of Legislative Assembly                                                      29
+[63](#63).          Sessions of Legislative Assembly
 
-[64](#64).          Quorum                                                                                              30
+[64](#64).          Quorum
 
-[65](#65).          Remuneration and allowances                                                            30
+[65](#65).          Remuneration and allowances
 
-[66](#66).          Ordinances made but not assented to before commencing date          30
+[66](#66).          Ordinances made but not assented to before commencing date
 
-[67](#67).          References in other laws                                                                    30
+[67](#67).          References in other laws
 
-[68](#68).          Certain provisions of previous Act to continue to operate                  31
+[68](#68).          Certain provisions of previous Act to continue to operate
 
-[69](#69).          Transfers of property etc                                                                    31
+[69](#69).          Transfers of property etc 
 
-[70](#70).          Acquisition of certain land etc                                                            33
+[70](#70).          Acquisition of certain land etc 
 
-[71](#71).          Contracts                                                                                            34
+[71](#71).          Contracts
 
-[72](#72).          Commonwealth to indemnify Territory                                              35
+[72](#72).          Commonwealth to indemnify Territory
 
-[73](#73).          Validity of Ordinances                                                                       35
+[73](#73).          Validity of Ordinances
 
-[74](#74).          Agency arrangements                                                                         35
+[74](#74).          Agency arrangements
 
-[75](#75).          Regulations                                                                                        35
+[75](#75).          Regulations
 
-Schedule 1—Acts repealed
+**Schedule 1—Acts repealed** 
 
-Schedule 2  
+**Schedule 2** 
 
-Schedule 3  
+**Schedule 3** 
 
-Schedule 4  
+**Schedule 4** 
 
-Schedule 5  
+**Schedule 5** 
 
-Schedule 6  
+**Schedule 6** 
 
-Endnotes    
-
-Endnote 1—Legislation history                                                                             43
-
-Endnote 2—Amendment history                                                                          48
-
-Endnote 3—Application, saving and transitional provisions                  50
-
-Euthanasia Laws Act 1997 (No. 17, 1997)                                                           50
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)          50
-
-Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011 (No. 166, 2011)                                                                                                               51
-
-Endnote 4—Uncommenced amendments                                                        52
-
-Endnote 5—Misdescribed amendments                                                            53
-
- 
+**Notes** 
 
 ## An Act to provide for the Government of the Northern Territory of Australia, and for related purposes
 
@@ -236,7 +200,7 @@ WHEREAS the Northern Territory Acceptance Act 1910 provided for the ratifying of
 
 AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any Territory surrendered by any State to and accepted by the Commonwealth:
 
-AND WHEREAS the Parliament has made provision for the government of the Northern Territory by the Northern Territory (Administration) Act 1910 and for a Supreme Court of the Northern Territory of Australia by the Northern Territory Supreme Court Act 1961: [_see_ Endnote 1]
+AND WHEREAS the Parliament has made provision for the government of the Northern Territory by the Northern Territory (Administration) Act 1910 and for a Supreme Court of the Northern Territory of Australia by the Northern Territory Supreme Court Act 1961: [_see_ Note 1]
 
 AND WHEREAS the Parliament considers it desirable, by reason of the political and economic development of the Northern Territory, to confer self‑government on the Territory, and for that purpose to provide, among other things, for the establishment of separate political, representative and administrative institutions in the Territory and to give the Territory control over its own Treasury:
 
@@ -244,11 +208,11 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Northern Territory__(Self‑Government) Act 1978_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
              (1)  Sections 1, 2 and 70 shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -340,7 +304,7 @@ and includes part of any such law or Ordinance.
 
              (2)  The Governor‑General may return the proposed law to the Administrator with amendments that he or she recommends.
 
-             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor‑General and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection 7(2) applies accordingly.
+             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor‑General and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection 7(2) applies accordingly.
 
              (4)  Where the Governor‑General makes a declaration in respect of a proposed law in accordance with subsection (1), the Administrator shall, as soon as practicable after the declaration is made, cause to be published in the _Government Gazette_ of the Territory a notice of the declaration.
 
@@ -512,11 +476,11 @@ whichever first happens.
 
                      (a)  the office of Speaker has become vacant and the Legislative Assembly has not chosen another Speaker to fill the vacancy;
 
-                     (b)  the Speaker is absent or is unable, for any reason, to exercise the powers or perform the functions of the Speaker and the Legislative Assembly has not appointed a person under subsection 25(1);
+                     (b)  the Speaker is absent or is unable, for any reason, to exercise the powers or perform the functions of the Speaker and the Legislative Assembly has not appointed a person under subsection 25(1);
 
-                     (c)  the appointment of a person under subsection 25(1) has ceased to be in force, otherwise than by reason of the absence or inability of the Speaker ceasing, and the Legislative Assembly has not appointed another member under that subsection; or
+                     (c)  the appointment of a person under subsection 25(1) has ceased to be in force, otherwise than by reason of the absence or inability of the Speaker ceasing, and the Legislative Assembly has not appointed another member under that subsection; or
 
-                     (d)  a person appointed under subsection 25(1) is absent or is unable, for any reason, to exercise the powers or perform the functions of the Speaker and the Legislative Assembly has not appointed another person under that subsection;
+                     (d)  a person appointed under subsection 25(1) is absent or is unable, for any reason, to exercise the powers or perform the functions of the Speaker and the Legislative Assembly has not appointed another person under that subsection;
 
 the Administrator may, by instrument in writing, appoint a member of the Legislative Assembly to exercise the powers and perform the functions of the Speaker.
 
@@ -534,7 +498,7 @@ the Administrator may, by instrument in writing, appoint a member of the Legisla
 
                      (e)  in the case of the absence or inability of the Speaker—that absence or inability ceases; or
 
-                      (f)  in the case of the absence or inability of a person appointed under subsection 25(1)—that absence or inability ceases or, if the absence or inability of the Speaker ceases before the absence or inability of that person ceases, the absence or inability of the Speaker ceases;
+                      (f)  in the case of the absence or inability of a person appointed under subsection 25(1)—that absence or inability ceases or, if the absence or inability of the Speaker ceases before the absence or inability of that person ceases, the absence or inability of the Speaker ceases;
 
 whichever first happens.
 
@@ -542,7 +506,7 @@ whichever first happens.
 
              (1)  Questions arising in the Legislative Assembly shall be determined by a majority of votes.
 
-             (2)  Subject to subsection 21(3), the Speaker or other member presiding at any meeting of the Legislative Assembly shall in all cases be entitled to vote and shall also, where there is an equality of votes on any question, have a casting vote.
+             (2)  Subject to subsection 21(3), the Speaker or other member presiding at any meeting of the Legislative Assembly shall in all cases be entitled to vote and shall also, where there is an equality of votes on any question, have a casting vote.
 
 ##### <a id="28"></a>28  Validation of acts of Legislative Assembly
 
@@ -688,7 +652,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (1)  The power of the Legislative Assembly conferred by section 6 in relation to the making of laws does not extend to the making of laws with respect to the acquisition of property otherwise than on just terms.
 
-             (2)  Subject to section 70, the acquisition of any property in the Territory which, if the property were in a State, would be an acquisition to which paragraph 51(xxxi) of the Constitution would apply, shall not be made otherwise than on just terms.
+             (2)  Subject to section 70, the acquisition of any property in the Territory which, if the property were in a State, would be an acquisition to which paragraph 51(xxxi) of the Constitution would apply, shall not be made otherwise than on just terms.
 
 ##### <a id="50A"></a>50A  Laws concerning euthanasia
 
@@ -712,9 +676,9 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ##### <a id="53"></a>53  Application of _Fair Work Act 2009_
 
-             (3)  Until provision to the contrary is made by an Act, the powers of the Fair Work Commission do not extend to employment in respect of which a tribunal established by an enactment before 1 July 1978 has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
+             (3)  Until provision to the contrary is made by an Act, the powers of Fair Work Australia do not extend to employment in respect of which a tribunal established by an enactment before 1 July 1978 has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
 
-             (4)  Provision may be made by enactment for a member of the Fair Work Commission to constitute, or to be a member of, a tribunal established by an enactment before 1 July 1978, and nothing in this section or the _Fair Work Act 2009_ prevents a member of the Fair Work Commission from accepting appointment or performing duties as, or as a member of, such a tribunal.
+             (4)  Provision may be made by enactment for a member of Fair Work Australia to constitute, or to be a member of, a tribunal established by an enactment before 1 July 1978, and nothing in this section or the _Fair Work Act 2009_ prevents a member of Fair Work Australia from accepting appointment or performing duties as, or as a member of, such a tribunal.
 
              (5)  The power of the Legislative Assembly conferred by section 6 in relation to the making of laws does not extend to the making of a law conferring on any court, tribunal, board, body, person or other authority any power in relation to the hearing and determining of disputes, claims or matters relating to terms and conditions of employment.
 
@@ -782,13 +746,13 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
                      (c)  the Speaker holding office immediately before the commencing date continues to hold office.
 
-             (2)  Notwithstanding subsection 17(2) of this Act and the repeal of the previous Act, until the day of the first general election of members of the Legislative Assembly after the commencing date, subsections 4G(2) and (3) of the previous Act shall be deemed to continue in force in relation to the existing Legislative Assembly.
+             (2)  Notwithstanding subsection 17(2) of this Act and the repeal of the previous Act, until the day of the first general election of members of the Legislative Assembly after the commencing date, subsections 4G(2) and (3) of the previous Act shall be deemed to continue in force in relation to the existing Legislative Assembly.
 
              (3)  Notwithstanding the repeal of the previous Act, the standing rules and orders of the existing Legislative Assembly in force immediately before the commencing date continue in force, but may be altered or repealed in accordance with this Act.
 
-             (4)  Until provision is made by enactment for the purposes of subsection 13(2), the Legislative Assembly consists of 19 members.
+             (4)  Until provision is made by enactment for the purposes of subsection 13(2), the Legislative Assembly consists of 19 members.
 
-             (5)  Subsection 13(6) does not apply for the purposes of the continuance in office of a member of the existing Legislative Assembly by virtue of subsection (1) of this section.
+             (5)  Subsection 13(6) does not apply for the purposes of the continuance in office of a member of the existing Legislative Assembly by virtue of subsection (1) of this section.
 
 ##### <a id="60"></a>60  Functions performed by Legislative Assembly and Executive Council
 
@@ -800,21 +764,21 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
 ##### <a id="63"></a>63  Sessions of Legislative Assembly
 
-                   Until provision is made by enactment for the purposes of subsection 22(2), the number of members of the Legislative Assembly required for the purposes of that subsection is 10.
+                   Until provision is made by enactment for the purposes of subsection 22(2), the number of members of the Legislative Assembly required for the purposes of that subsection is 10.
 
 ##### <a id="64"></a>64  Quorum
 
-                   Until provision is made by enactment for the purposes of section 23, the number of members of the Legislative Assembly required for the purposes of that section is 10.
+                   Until provision is made by enactment for the purposes of section 23, the number of members of the Legislative Assembly required for the purposes of that section is 10.
 
 ##### <a id="65"></a>65  Remuneration and allowances
 
-                   Notwithstanding the repeal of the previous Act, until a person receives remuneration, allowances and other entitlements in accordance with an enactment, he or she shall receive in respect of his or her services as a member of the Legislative Assembly, a member of the Council or a Minister of the Territory, as the case may be, remuneration, allowances and other entitlements in accordance with the relevant determination by the Remuneration Tribunal in force immediately before the commencing date, and paragraph 21(2)(e) does not apply in relation to remuneration, allowances and other entitlements so received.
+                   Notwithstanding the repeal of the previous Act, until a person receives remuneration, allowances and other entitlements in accordance with an enactment, he or she shall receive in respect of his or her services as a member of the Legislative Assembly, a member of the Council or a Minister of the Territory, as the case may be, remuneration, allowances and other entitlements in accordance with the relevant determination by the Remuneration Tribunal in force immediately before the commencing date, and paragraph 21(2)(e) does not apply in relation to remuneration, allowances and other entitlements so received.
 
 ##### <a id="66"></a>66  Ordinances made but not assented to before commencing date
 
              (1)  An Ordinance made by the existing Legislative Assembly before the commencing date but not assented to before that date (other than an Ordinance to which subsection (2) applies) shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act.
 
-             (2)  Where, before the commencing date, the Administrator had, in accordance with section 4V or 4W of the previous Act, reserved an Ordinance for the Governor‑General’s pleasure and the Governor‑General had not made a declaration under subsection 4X(1) of that Act in relation to the Ordinance, the Ordinance shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act and to have been reserved for the Governor‑General’s pleasure in accordance with section 7 of this Act.
+             (2)  Where, before the commencing date, the Administrator had, in accordance with section 4V or 4W of the previous Act, reserved an Ordinance for the Governor‑General’s pleasure and the Governor‑General had not made a declaration under subsection 4X(1) of that Act in relation to the Ordinance, the Ordinance shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act and to have been reserved for the Governor‑General’s pleasure in accordance with section 7 of this Act.
 
 ##### <a id="67"></a>67  References in other laws
 
@@ -870,7 +834,7 @@ being interests and property that, in the opinion of the Minister, were so held 
 
 ##### <a id="70"></a>70  Acquisition of certain land etc. 
 
-             (1)  The Minister may, from time to time, recommend to the Governor‑General that any interest in land vested or to be vested in the Territory by subsection 69(2) (including an interest less than, or subsidiary to, such an interest) be acquired from the Territory by the Commonwealth under this section.
+             (1)  The Minister may, from time to time, recommend to the Governor‑General that any interest in land vested or to be vested in the Territory by subsection 69(2) (including an interest less than, or subsidiary to, such an interest) be acquired from the Territory by the Commonwealth under this section.
 
              (2)  The Governor‑General may, on the recommendation of the Minister under subsection (1), authorize the acquisition of the interest for a public purpose approved by the Governor‑General.
 
@@ -900,7 +864,7 @@ to the intent that the legal estate in the interest, and all rights and powers i
 
            (10)  A notice shall not be published under this section after the expiration of one year after the commencing date.
 
-           (11)  Where subsection (4) has effect in relation to an interest in land, that subsection has the like effect in relation to any interest vested in the Territory by subsection 69(4) in respect of minerals in or on that land.
+           (11)  Where subsection (4) has effect in relation to an interest in land, that subsection has the like effect in relation to any interest vested in the Territory by subsection 69(4) in respect of minerals in or on that land.
 
            (12)  This section has effect despite anything contained in the _Lands Acquisition Act 1989_.
 
@@ -920,7 +884,7 @@ to the intent that the legal estate in the interest, and all rights and powers i
 
                      (c)  which relates to a matter specified under section 35;
 
-other than a contract referred to in subsection 69(6).
+other than a contract referred to in subsection 69(6).
 
 ##### <a id="72"></a>72  Commonwealth to indemnify Territory
 
@@ -1000,9 +964,9 @@ _Northern Territory__(Administration) Act 1974_
 
 _Northern Territory__(Administration) Amendment Act 1976_
 
-# Schedule 2  
+# Schedule 2   
 
-_Subsections 13(6) and 42(1)_
+_Subsections 13(6) and 42(1)_
 
                    OATH
 
@@ -1014,7 +978,7 @@ _Subsections 13(6) and 42(1)_
 
 # Schedule 3  
 
-_Subsection 13(6)_
+_Subsection 13(6)_
 
                    OATH
 
@@ -1026,7 +990,7 @@ _Subsection 13(6)_
 
 # Schedule 4  
 
-_Subsection 38(1)_
+_Subsection 38(1)_
 
                    OATH
 
@@ -1038,7 +1002,7 @@ _Subsection 38(1)_
 
 # Schedule 5  
 
-_Subsection 38(2)_
+_Subsection 38(2)_
 
                    OATH
 
@@ -1050,7 +1014,7 @@ _Subsection 38(2)_
 
 # Schedule 6  
 
-_Subsection 42(1)_
+_Subsection 42(1)_
 
                    OATH
 
@@ -1060,438 +1024,275 @@ _Subsection 42(1)_
 
                    I, _A.B_., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, _or_ Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
 
-Endnotes
+# Notes to the _Northern Territory (Self-Government) Act 1978_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Northern Territory (Self‑Government) Act 1978._
+The _Northern Territory__(Self‑Government) Act 1978_ as shown in this compilation comprises Act No. 58, 1978 amended as indicated in the Tables below.
+
+The _Northern Territory__(Self‑Government) Act 1978_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 Preamble—The _Northern Territory__Supreme Court Act 1961_ was repealed by the _Northern Territory__Supreme Court (Repeal) Act 1979_ (No. 85, 1979).
 
+All relevant information pertaining to application, saving or transitional provisions prior to 27 March 1997 is not included in this consolidation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
+  <col width="30%">
+  <col width="15%">
+  <col width="18%">
   <col width="20%">
+  <col width="17%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Northern Territory (Self‑Government) Act 1978
-    </div>
+    <div>Northern Territory (Self‑Government) Act 1978</div>
   </td>
   <td>
-    <div>
-      58, 1978
-    </div>
+    <div>58, 1978</div>
   </td>
   <td>
-    <div>
-      22 June 1978
-    </div>
+    <div>22 June 1978</div>
   </td>
   <td>
-    <div>
-      ss. 1, 2 and 70: Royal Assent
-    </div>
-    <div>
-      Remainder: 1 July 1978
-    </div>
+    <div>Ss. 1, 2 and 70: Royal Assent 
+Remainder: 1 July 1978</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Northern Territory (Self‑Government) Amendment Act 1982
-    </div>
+    <div>Northern Territory (Self‑Government) Amendment Act 1982</div>
   </td>
   <td>
-    <div>
-      130, 1982
-    </div>
+    <div>130, 1982</div>
   </td>
   <td>
-    <div>
-      14 Dec 1982
-    </div>
+    <div>14 Dec 1982</div>
   </td>
   <td>
-    <div>
-      s. 11: 22 June 1978
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>S. 11: 22 June 1978 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Government Solicitor (Consequential Amendments) Act 1984
-    </div>
+    <div>Australian Government Solicitor (Consequential Amendments) Act 1984</div>
   </td>
   <td>
-    <div>
-      10, 1984
-    </div>
+    <div>10, 1984</div>
   </td>
   <td>
-    <div>
-      10 Apr 1984
-    </div>
+    <div>10 Apr 1984</div>
   </td>
   <td>
-    <div>
-      s. 3: 1 July 1984 (
-        <i>see</i>
-        <i>Gazette</i>1984, No. S231)
-        <i>(a)</i>
-
-    </div>
+    <div>S. 3: 1 July 1984 ( <i>see Gazette</i>1984, No. S231) <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      s. 4(1)
-    </div>
+    <div>S. 4(1)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Cocos (Keeling) Islands Self‑Determination (Consequential Amendments)
-        Act 1984
-    </div>
+    <div>Cocos (Keeling) Islands Self‑Determination (Consequential Amendments) Act 1984</div>
   </td>
   <td>
-    <div>
-      46, 1984
-    </div>
+    <div>46, 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      Part VII (ss. 22–26): 6 Apr 1984
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Part VII (ss. 
+22–26): 6 Apr 1984 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Christmas Island Administration (Miscellaneous Amendments) Act 1984
-    </div>
+    <div>Christmas Island Administration (Miscellaneous Amendments) Act 1984</div>
   </td>
   <td>
-    <div>
-      120, 1984
-    </div>
+    <div>120, 1984</div>
   </td>
   <td>
-    <div>
-      18 Oct 1984
-    </div>
+    <div>18 Oct 1984</div>
   </td>
   <td>
-    <div>
-      ss. 27–31: 1 Oct 1984
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Ss. 27–31: 1 Oct 1984 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
   </td>
   <td>
-    <div>
-      65, 1985
-    </div>
+    <div>65, 1985</div>
   </td>
   <td>
-    <div>
-      5 June 1985
-    </div>
+    <div>5 June 1985</div>
   </td>
   <td>
-    <div>
-      s. 3: 3 July 1985
-        <i>(b)</i>
-
-    </div>
+    <div>S. 3: 3 July 1985 <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1986
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
   </td>
   <td>
-    <div>
-      76, 1986
-    </div>
+    <div>76, 1986</div>
   </td>
   <td>
-    <div>
-      24 June 1986
-    </div>
+    <div>24 June 1986</div>
   </td>
   <td>
-    <div>
-      s. 3: Royal Assent
-        <i>(c)</i>
-
-    </div>
+    <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      s. 9
-    </div>
+    <div>S. 9</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations (Consequential Provisions) Act 1988
-    </div>
+    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
   </td>
   <td>
-    <div>
-      87, 1988
-    </div>
+    <div>87, 1988</div>
   </td>
   <td>
-    <div>
-      8 Nov 1988
-    </div>
+    <div>8 Nov 1988</div>
   </td>
   <td>
-    <div>
-      ss. 1 and 2: Royal Assent
-    </div>
-    <div>
-      Remainder: 1 Mar 1989 (
-        <i>see</i>s. 2(2) and
-        <i>Gazette</i>1989, No. S53)
-    </div>
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Lands Acquisition (Repeal and Consequential Provisions) Act 1989
-    </div>
+    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
   </td>
   <td>
-    <div>
-      21, 1989
-    </div>
+    <div>21, 1989</div>
   </td>
   <td>
-    <div>
-      20 Apr 1989
-    </div>
+    <div>20 Apr 1989</div>
   </td>
   <td>
-    <div>
-      9 June 1989 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1989, No. S185)
-    </div>
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Arts, Sport, Environment, Tourism and Territories Legislation Amendment
-        Act 1991
-    </div>
+    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
   </td>
   <td>
-    <div>
-      33, 1991
-    </div>
+    <div>33, 1991</div>
   </td>
   <td>
-    <div>
-      21 Mar 1991
-    </div>
+    <div>21 Mar 1991</div>
   </td>
   <td>
-    <div>
-      <i>
-        (d)
-      </i>
-    </div>
+    <div><i>(d)</i></div>
   </td>
   <td>
-    <div>
-      s. 5
-    </div>
+    <div>S. 5</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 1, 113): Royal Assent
-        <i>(e)</i>
-
-    </div>
+    <div>Schedule 4 (items 1, 113): Royal Assent <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Workplace Relations and Other Legislation Amendment Act 1996
-    </div>
+    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
   </td>
   <td>
-    <div>
-      60, 1996
-    </div>
+    <div>60, 1996</div>
   </td>
   <td>
-    <div>
-      25 Nov 1996
-    </div>
+    <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 19 (item 34): Royal Assent
-        <i>(f)</i>
-
-    </div>
+    <div>Schedule 19 (item 34): Royal Assent <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      s. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])
-    </div>
+    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b> as amended by </b></div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1499,348 +1300,173 @@ Preamble—The _Northern Territory__Supreme Court Act 1961_ was repealed by the 
     <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
   </td>
   <td>
-    <div>
-      77, 1996
-    </div>
+    <div>77, 1996</div>
   </td>
   <td>
-    <div>
-      19 Dec 1996
-    </div>
+    <div>19 Dec 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 1, 2):
-        <i>(g)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Euthanasia Laws Act 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      17, 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      27 Mar 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      27 Mar 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 2) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Judiciary Amendment Act 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      7, 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      31 March 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 3 (items 28, 29): 1 Sept 1999 (
-        <i>see Gazette</i>1999, No. S395)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act
-        2000
-    </div>
-  </td>
-  <td>
-    <div>
-      137, 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      24 Nov 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent
-    </div>
-    <div>
-      Remainder: 24 May 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (items 418, 419) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law Review Act 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      73, 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      3 July 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 4 (items 406–408): 4 July 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Fair Work (State Referral and Consequential and Other Amendments) Act
-        2009
-    </div>
-  </td>
-  <td>
-    <div>
-      54, 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      25 June 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 5 (items 43–47):
-        <i>(h)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law Revision Act 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      5, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      22 Mar 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 5 (items 170, 171) and Schedule 7 (item 105): 19 Apr 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Territories Self‑Government Legislation Amendment (Disallowance and Amendment
-        of Laws) Act 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      166, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      4 Dec 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4 and Schedule 2: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4 \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Fair Work Amendment Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      174, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      4 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 9 (items 1288, 1289): 1 Jan 2013
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr></table>
-
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Gazettal or FRLI registration date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>2006 No. 50</div>
-  </td>
-  <td>
-    <div>17 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 52: 27 Mar 2006 ( <i>see</i>r. 2(b))</div>
+    <div>Schedule 3 (items 1, 2): <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div>Euthanasia Laws Act 1997</div>
+  </td>
+  <td>
+    <div>17, 1997</div>
+  </td>
+  <td>
+    <div>27 Mar 1997</div>
+  </td>
+  <td>
+    <div>27 Mar 1997</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 2) \[see Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Judiciary Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>7, 1999</div>
+  </td>
+  <td>
+    <div>31 March 1999</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 28, 29): 1 Sept 1999 ( <i>see</i> <i>Gazette</i>1999, No. S395) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+  </td>
+  <td>
+    <div>137, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Review Act 2008</div>
+  </td>
+  <td>
+    <div>73, 2008</div>
+  </td>
+  <td>
+    <div>3 July 2008</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 406–408): 4 July 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
+  </td>
+  <td>
+    <div>54, 2009</div>
+  </td>
+  <td>
+    <div>25 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 43–47): <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 170, 171) and Schedule 7 (item 105): 19 Apr 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011</div>
+  </td>
+  <td>
+    <div>166, 2011</div>
+  </td>
+  <td>
+    <div>4 Dec 2011</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 2: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
 </tr></table>
 
-_(a)_             The _Northern Territory (Self‑Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
+_(a)_     The _Northern Territory (Self‑Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsection (2), this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which section 7 of the _Judiciary Amendment Act (No. 2) 1984_ comes into operation.
+                 (1)   Subject to subsection (2), this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which section 7 of the _Judiciary Amendment Act (No. 2) 1984_ comes into operation.
 
-_(b)_             The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
-_(c)_              The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(c)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(d)_             The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991_, subsection 2(2) of which provides as follows:
+_(d)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991_, subsection 2(2) of which provides as follows:
 
-                   (2)  Section 5, the amendment of section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ made by this Act and the repeal of sections 61, 62 and 63 of the _Australian Capital Territory (Self‑Government) Act 1988_ and sections 47, 47A, 47B and 47C of the _Northern Territory (Self‑Government) Act 1978_ effected by this Act commence on 1 July 1991.
+                 (2)   Section 5, the amendment of section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ made by this Act and the repeal of sections 61, 62 and 63 of the _Australian Capital Territory (Self‑Government) Act 1988_ and sections 47, 47A, 47B and 47C of the _Northern Territory (Self‑Government) Act 1978_ effected by this Act commence on 1 July 1991.
 
-_(e)_              The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 4 (items 1 and 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(e)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 4 (items 1 and 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
 
-_(f)_              The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 19 (item 34) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+_(f)_      The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 19 (item 34) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_             The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
+_(g)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
 
-                   (4)  The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
+                 (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
-                  The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
+         The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
 
-_(h)_             Subsection 2(1) (item 13) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
+_(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -1921,646 +1547,432 @@ _(h)_             Subsection 2(1) (item 13) of the _
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009
     </div>
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Northern Territory (Self‑Government) Act 1978__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect</div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      <b>
-        Part I
-      </b>
-    </div>
+    <div><b>Part I</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 5, 2011
-    </div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part III
-      </b>
-    </div>
+    <div><b>Part III</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 7, 8................................
-    </div>
+    <div>Ss. 7, 8</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982; No. 73, 2008
-    </div>
+    <div>am. No. 130, 1982; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9......................................
-    </div>
+    <div>S. 9</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 2011
-    </div>
+    <div>rep. No. 166, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10....................................
-    </div>
+    <div>S. 10</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 2011
-    </div>
+    <div>am. No. 166, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982
-    </div>
+    <div>am. No. 130, 1982</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13....................................
-    </div>
+    <div>S. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. Nos. 46 and 120, 1984
-    </div>
+    <div>am. Nos. 46 and 120, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 16....................................
-    </div>
+    <div>S. 16</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 18....................................
-    </div>
+    <div>S. 18</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 19....................................
-    </div>
+    <div>S. 19</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982
-    </div>
+    <div>am. No. 130, 1982</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 20....................................
-    </div>
+    <div>S. 20</div>
   </td>
   <td>
-    <div>
-      am. No. 65, 1985; No. 73, 2008
-    </div>
+    <div>am. No. 65, 1985; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21....................................
-    </div>
+    <div>S. 21</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982; No. 65, 1985; No. 73, 2008
-    </div>
+    <div>am. No. 130, 1982; No. 65, 1985; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 22....................................
-    </div>
+    <div>S. 22</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 24–26............................
-    </div>
+    <div>Ss. 24–26</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 28, 29............................
-    </div>
+    <div>Ss. 28, 29</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part IV
-      </b>
-    </div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 32, 33............................
-    </div>
+    <div>Ss. 32, 33</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 37, 38............................
-    </div>
+    <div>Ss. 37, 38</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 39....................................
-    </div>
+    <div>S. 39</div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 1985
-    </div>
+    <div>rep. No. 65, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40....................................
-    </div>
+    <div>S. 40</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982; No. 73, 2008
-    </div>
+    <div>am. No. 130, 1982; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 41, 42............................
-    </div>
+    <div>Ss. 41, 42</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part V
-      </b>
-    </div>
+    <div><b>Part V</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 46....................................
-    </div>
+    <div>S. 46</div>
   </td>
   <td>
-    <div>
-      rs. No. 76, 1986
-    </div>
+    <div>rs. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 5, 2011
-    </div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 47....................................
-    </div>
+    <div>S. 47</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982
-    </div>
+    <div>am. No. 130, 1982</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 76, 1986
-    </div>
+    <div>rs. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 33, 1991
-    </div>
+    <div>rep. No. 33, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 47A–47C.......................
-    </div>
+    <div>Ss. 47A–47C</div>
   </td>
   <td>
-    <div>
-      ad. No. 76, 1986
-    </div>
+    <div>ad. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 33, 1991
-    </div>
+    <div>rep. No. 33, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part VI
-      </b>
-    </div>
+    <div><b>Part VI</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 50A.................................
-    </div>
+    <div>S. 50A</div>
   </td>
   <td>
-    <div>
-      ad. No. 17, 1997
-    </div>
+    <div>ad. No. 17, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52....................................
-    </div>
+    <div>S. 52</div>
   </td>
   <td>
-    <div>
-      rep. No. 137, 2000
-    </div>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 53..................
-    </div>
+    <div>Heading to s. 53</div>
   </td>
   <td>
-    <div>
-      am. No. 60, 1996; No. 54, 2009
-    </div>
+    <div>am. No. 60, 1996; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 53....................................
-    </div>
+    <div>S. 53</div>
   </td>
   <td>
-    <div>
-      rs. No. 87, 1988
-    </div>
+    <div>rs. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009; No. 174, 2012
-    </div>
+    <div>am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 53(6)...................
-    </div>
+    <div>Note to s. 53(6)</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 2009
-    </div>
+    <div>ad. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54....................................
-    </div>
+    <div>S. 54</div>
   </td>
   <td>
-    <div>
-      am. No. 43, 1996
-    </div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part VII
-      </b>
-    </div>
+    <div><b>Part VII</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 57, 58............................
-    </div>
+    <div>Ss. 57, 58</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 62....................................
-    </div>
+    <div>S. 62</div>
   </td>
   <td>
-    <div>
-      rep. No. 130, 1982
-    </div>
+    <div>rep. No. 130, 1982</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 65....................................
-    </div>
+    <div>S. 65</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 70....................................
-    </div>
+    <div>S. 70</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999; No. 5, 2011
-    </div>
+    <div>am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 71....................................
-    </div>
+    <div>S. 71</div>
   </td>
   <td>
-    <div>
-      am. No. 130, 1982
-    </div>
+    <div>am. No. 130, 1982</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+## Table A
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Northern Territory (Self‑Government) Act 1978__._
+### Application, saving or transitional provisions
 
-Application, saving and transitional provisions prior to 27 March 1997 is not included in this endnote.
-
-Euthanasia Laws Act 1997 (No. 17, 1997)
+_Euthanasia Laws Act 1997 (No. 17, 1997)_
 
 ## Schedule 1  
 
@@ -2568,7 +1980,9 @@ Euthanasia Laws Act 1997 (No. 17, 1997)
 
 For the avoidance of doubt, the enactment of the Legislative Assembly called the _Rights of the Terminally Ill Act 1995_ has no force or effect as a law of the Territory, except as regards the lawfulness or validity of anything done in accordance therewith prior to the commencement of this Act.
 
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+* * *
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -2598,7 +2012,9 @@ If:
 
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011 (No. 166, 2011)
+* * *
+
+_Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011 (No. 166, 2011)_
 
 ##### <a id="4"></a>4  Objects of Act
 
@@ -2607,17 +2023,5 @@ Territories Self‑Government Legislation Amendment (Disallowance and Amendment 
                      (a)  to remove the Governor‑General’s power, under section 35 of the _Australian Capital Territory (Self‑Government) Act 1988_, to disallow an enactment (or part of an enactment) of the Legislative Assembly for the Australian Capital Territory or to recommend amendments of any enactments; and
 
                      (b)  to remove the Governor‑General’s power, under section 9 of the _Northern Territory (Self‑Government) Act 1978_, to disallow a law (or part of a law) of the Legislative Assembly of the Northern Territory or to recommend amendments of any laws of the Northern Territory.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Northern Territory (Self‑Government) Act 1978_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Northern Territory (Self‑Government) Act 1978_ that have been misdescribed.
-
-There are no misdescribed amendments.
 
  
