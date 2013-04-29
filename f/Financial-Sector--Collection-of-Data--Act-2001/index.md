@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00594/Html/FinanSectorColectData2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00223/Html/FinanSectorColectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 2 October 2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 4 April 2007
+ taking into account amendments up to Act No. 32 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -33,8 +33,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [5A](#5A).         Medical indemnity entities
 
 [6](#6).            Application of _Criminal Code_
-
-[6A](#6A).         Application of Act
 
 **Part 2—Registration of corporations**
 
@@ -126,13 +124,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object of Act
 
-             (1)  The object of this Act is to enable the collection by the Australian Prudential Regulation Authority (**_APRA_**) of information to assist it in the prudential regulation or monitoring of bodies in the financial sector and to facilitate the formulation by the Reserve Bank of monetary policy.
+             (1)  The object of this Act is to enable the collection by the Australian Prudential Regulation Authority (**_APRA_**) of information to assist it in the prudential regulation of bodies in the financial sector and to facilitate the formulation by the Reserve Bank of monetary policy.
 
              (2)  In order to achieve that object, this Act:
 
                      (a)  provides for certain corporations to be registered, and divided into categories, by APRA; and
 
-                     (b)  authorises APRA to determine reporting standards for corporations that are so registered and for certain other bodies that it regulates or monitors and to require them to provide APRA with information about their businesses and activities.
+                     (b)  authorises APRA to determine reporting standards for corporations that are so registered and for certain other bodies that it regulates and to require them to provide APRA with information about their businesses and activities.
 
 ##### <a id="4"></a>4  Extension to external Territories
 
@@ -148,9 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a regulated entity; or
 
-                     (c)  a corporation to which section 5A applies; or
-
-                     (d)  a discretionary mutual fund.
+                     (c)  a corporation to which section 5A applies.
 
              (3)  A **_registered entity_** is a corporation whose name is entered in the Register of Entities kept by APRA under section 8.
 
@@ -159,28 +155,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  a body regulated by APRA (within the meaning of subsection 3(2) of the _Australian Prudential Regulation Authority Act 1998_);
 
                      (c)  a subsidiary of an ADI, or a subsidiary of an authorised NOHC, within the meaning of the _Banking Act 1959_.
-
-             (5)  A **_discretionary mutual fund_** is a fund (however constituted) for making payments on the happening of a specified event (where there is uncertainty as to whether, or when, the event will happen), that is a fund:
-
-                     (a)  to which 2 or more persons contribute, and:
-
-                              (i)  out of which payments may be made in respect of liabilities, losses, damages or expenses of the contributors; and
-
-                             (ii)  that is governed by rules under which any such payment for the benefit of a contributor is subject to a discretion of a person or body; or
-
-                     (b)  that is declared to be a discretionary mutual fund, or included in a class of funds that are declared to be discretionary mutual funds, by regulations made for the purposes of this paragraph.
-
-             (6)  However, a fund (however constituted) is not a discretionary mutual fund if:
-
-                     (a)  a contributor has a right, in law or equity, to a payment of a kind referred to in subparagraph (5)(a)(i); or
-
-                     (b)  the fund is:
-
-                              (i)  declared not to be a discretionary mutual fund; or
-
-                             (ii)  included in a class of funds that are declared not to be discretionary mutual funds;
-
-                            by regulations made for the purposes of this paragraph.
 
 ##### <a id="5A"></a>5A  Medical indemnity entities
 
@@ -201,10 +175,6 @@ Expressions used in paragraph (b) have the same meaning as they have in the _M
                    Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-##### <a id="6A"></a>6A  Application of Act
-
-                   This Act does not apply, in relation to a discretionary mutual fund, to State insurance not extending beyond the limits of the State concerned.
 
 ## Part 2—Registration of corporations
 
@@ -392,7 +362,7 @@ and the corporation gives information or makes submissions to APRA in support of
 
              (1)  APRA may:
 
-                     (a)  by legislative instrument, determine reporting standards that are required to be complied with by financial sector entities with respect to any of the following documents (**_reporting documents_**):
+                     (a)  by writing, determine reporting standards that are required to be complied with by financial sector entities with respect to any of the following documents (**_reporting documents_**):
 
                               (i)  statements, reports, returns, certificates or other documents containing information of a financial or accounting nature relating to the business or activities of the entities;
 
@@ -434,6 +404,8 @@ Note:          When APRA has determined a reporting standard, 
 
              (7)  The validity of a reporting standard is not affected by any failure of APRA to hold consultations as required by subsection (5).
 
+             (8)  Instruments made by APRA under paragraph (1)(a) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
              (9)  If a financial sector entity is required by or under a reporting standard to give a reporting document to APRA before a particular time or within a particular period, the entity must comply with the requirement.
 
                     Penalty:  50 penalty units.
@@ -464,13 +436,15 @@ Note:          The effect of section 4K of the _Crimes Act 1
 
 ##### <a id="16"></a>16  Exemptions
 
-             (1)  APRA may, by legislative instrument, exempt a financial sector entity, or a class or kind of financial sector entities, from the requirement to comply with:
+             (1)  APRA may, by writing, exempt a financial sector entity, or a class or kind of financial sector entities, from the requirement to comply with:
 
                      (a)  all the requirements contained in any one or more applicable reporting standards; or
 
                      (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
 
              (2)  An exemption may be unconditional or subject to conditions and may be of indefinite duration or limited in the time of its operation.
+
+             (3)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="17"></a>17  APRA may require the variation of a reporting document or the provision of financial information
 
@@ -698,8 +672,6 @@ APRA must refund to the person, out of money appropriated by the Parliament, an 
 
                     <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
 
-                    <a name="discretari-mutual-fund"></a>**_discretionary mutual fund_** has the meaning given by subsections 5(5) and (6).
-
                     <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution applies.
 
                     <a name="financi-sector-entiti"></a>**_financial sector entity_** has the meaning given by subsection 5(2).
@@ -925,40 +897,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Discretionary Mutual Funds and Direct Offshore Foreign Insurers) Act 2007</div>
-  </td>
-  <td>
-    <div>149, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–6): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 37–40): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -998,18 +936,10 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 149, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 119, 2001; No. 36, 2003; No. 149, 2007</div>
+    <div>am. No. 119, 2001; No. 36, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1018,14 +948,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
   </td>
   <td>
     <div>ad. No. 36, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1042,54 +964,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
   </td>
   <td>
     <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 149, 2007</div>
   </td>
 </tr>
 <tr>
