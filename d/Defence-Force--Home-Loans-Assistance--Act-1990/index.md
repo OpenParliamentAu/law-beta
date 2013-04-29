@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 3 July 2008
- taking into account amendments up to Act No. 28 of 2008
+This compilation was prepared on 2 July 2007
+ taking into account amendments up to Act No. 81 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -76,8 +76,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          When does subsidy become payable?
 
-[20A](#20A).       Condition of payment of subsidy—subsidy under one scheme only
-
 [21](#21).          Maximum amounts on which subsidy is payable
 
 [22](#22).          Minimum amounts on which subsidy is payable
@@ -111,8 +109,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [35](#35).          Subclause 8 4 of agreement not to be revoked or varied
 
 [36](#36).          Exchange of information
-
-[36A](#36A).       Use and disclosure of personal information
 
 [37](#37).          Delegation
 
@@ -251,7 +247,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
 
                     where:
 
@@ -263,15 +259,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
 
 Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
 
 Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
 
                     <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
@@ -355,15 +351,7 @@ Note:          See section 7 for some special circumstances 
 
                     <a name="famili-court"></a>**_Family Court_** means the Family Court of Australia.
 
-                    <a name="finish-dai"></a>**_finishing day_**:
-
-                     (a)  for the purpose of subsection 12(6), in relation to the issue of an entitlement certificate to a person—means:
-
-                              (i)  if (at the time the decision is made in relation to the issue of an entitlement certificate) the person is an eligible person who is a member of the Defence Force (other than an operational service member)—30 June 2008; or
-
-                             (ii)  in any other case—30 June 2010; and
-
-                     (b)  for the purpose of subsection 15(3)—means 30 June 2010.
+                    <a name="finish-dai"></a>**_finishing day_** means 30 June 2008.
 
                     <a name="govern-author"></a>**_government authority_** means an authority (including a local governing body) established for a public purpose by or under a law of the Commonwealth, or of a State or Territory.
 
@@ -738,9 +726,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                      (e)  if the person is a rejoining member who is not entitled to a subsidy period when he or she becomes a rejoining member—the person has completed 6 months of effective full-time service after becoming a rejoining member; and
 
-                      (f)  the person’s subsidy period has not ended; and
-
-                     (g)  the person has not already been issued with an entitlement certificate on or after 1 July 2008.
+                      (f)  the person’s subsidy period has not ended.
 
              (2)  The Secretary must not issue an entitlement certificate to an eligible person who is not a member, otherwise than on an application made under subsection (4) or (5), if:
 
@@ -951,12 +937,6 @@ Note:          See section 5.
                      (a)  a person is taken to own a house in respect of which a loan is made if the person has an interest in the house as a lessee under a Crown lease granted for a term of more than 50 years; and
 
                      (b)  a person is taken to have bought a house if the person has bought an interest in the house as such a lessee.
-
-##### <a id="20A"></a>20A  Condition of payment of subsidy—subsidy under one scheme only
-
-             (1)  This section applies if subsidy (**_2008 Act subsidy_**) is, or has ever been, payable to a person under the _Defence Home Ownership Assistance Scheme Act 2008_.
-
-             (2)  Subsidy is not payable on a loan to the person under this Act on or after the earliest day the 2008 Act subsidy became payable.
 
 ##### <a id="21"></a>21  Maximum amounts on which subsidy is payable
 
@@ -1204,7 +1184,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
 
 where:
 
@@ -1488,64 +1468,6 @@ the Secretary may, by notice in writing given to the person, reduce the due amou
 
              (2)  The Bank must disclose or give to the Commonwealth, in accordance with the agreement, any information in the Bank's possession that is required to be disclosed or given to the Commonwealth under the agreement.
 
-##### <a id="36A"></a>36A  Use and disclosure of personal information
-
-             (1)  This section applies to personal information about any of the following people:
-
-                     (a)  an applicant for an entitlement certificate;
-
-                     (b)  a person who has been issued with an entitlement certificate (whether or not the certificate is in force);
-
-                     (c)  a person who is, or has been, a subsidised borrower;
-
-                     (d)  a widow or widower, or a family member, of a person covered by paragraph (a), (b) or (c).
-
-             (2)  A person covered by subsection (3) may, for a purpose prescribed by the regulations:
-
-                     (a)  use the personal information; or
-
-                     (b)  disclose the personal information to another person covered by that subsection.
-
-             (3)  This subsection covers the following people:
-
-                     (a)  the Secretary;
-
-                     (b)  a delegate of the Secretary under section 37;
-
-                     (c)  a delegate of the Secretary under the _Defence Home Ownership Assistance Scheme Act 2008_(the **_2008 Act_**) or the _Defence Service Homes Act 1918_ (the **_1918 Act_**);
-
-                     (d)  the Bank, if the Bank has:
-
-                              (i)  received an application for a subsidised loan from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised loan to the person mentioned in paragraph (1)(c) of this section;
-
-                     (e)  a loan provider as defined under section 3 of the 2008 Act, if the loan provider has:
-
-                              (i)  received an application for a subsidised loan (as defined under section 3 of the 2008 Act) from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised loan (as defined under section 3 of the 2008 Act) to the person mentioned in paragraph (1)(c) of this section;
-
-                      (f)  a credit provider as defined under section 4 of the 1918 Act, if the credit provider has:
-
-                              (i)  received an application for a subsidised advance (as defined under section 4 of the 1918 Act) from the person mentioned in paragraph (1)(b) of this section; or
-
-                             (ii)  made a subsidised advance (as defined under section 4 of the 1918 Act) to the person mentioned in paragraph (1)(c) of this section.
-
-             (4)  The use and disclosure of personal information under subsection (2) is taken to be authorised by law for the purposes of:
-
-                     (a)  the _Privacy Act 1988_; and
-
-                     (b)  any provision of a law of a State or Territory that provides that personal information may be used or disclosed if the use or disclosure is authorised by law.
-
-Note:          The authorisation under this subsection is only for the use and disclosure of personal information for a prescribed purpose mentioned in subsection (2).
-
-             (5)  The regulations may prescribe circumstances in which a person may, or must not, use or disclose personal information for the purposes of this section.
-
-             (6)  In this section:
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
-
 ##### <a id="37"></a>37  Delegation
 
                    The Secretary may, by signed instrument, delegate all or any of the Secretary's powers and functions under this Act to a person who is:
@@ -1554,9 +1476,7 @@ Note:          The authorisation under this subsection is only
 
                      (b)  a member (being an officer) of the Defence Force; or
 
-                     (c)  a member, or member of the staff, of the Defence Housing Australia; or
-
-                     (d)  a delegate of the Secretary under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_.
+                     (c)  a member, or member of the staff, of the Defence Housing Australia.
 
 ##### <a id="38"></a>38  Appropriation
 
@@ -2146,7 +2066,7 @@ In this Agreement except where the context otherwise requires:
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2008C00258/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
+P = (a — b) ![](http://www.comlaw.gov.au/Details/C2007C00411/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
 
 Where 
 
@@ -4052,23 +3972,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>28, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–5): 1 July 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amended by Part 7 (section 88) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, paragraph 2 (1) (f) of which provides as follows:
@@ -4212,7 +4115,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007; No. 28, 2008</div>
+    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4284,7 +4187,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 28, 2008</div>
+    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4317,14 +4220,6 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4377,18 +4272,10 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 45, 2006; No. 28, 2008</div>
+    <div>am. No. 45, 2006</div>
   </td>
 </tr></table>
 
