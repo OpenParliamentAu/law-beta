@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00079/Html/AusEnergyMarketAct2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00541/Html/AusEnergyMarketAct2004_image001.gif)
 
 # Australian Energy Market Act 2004
 
 **Act No. 99 of 2004 as amen<span style="color:black">ded</span>**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 20 July 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -20,101 +20,101 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[undefined](#undefined).5pt">1             Short title [_see_ Note 1]
 
-[2](#2).            Commencement
+[undefined](#undefined).5pt">2             Commencement
 
-[3](#3).            Definitions
+[undefined](#undefined).5pt">3             Definitions
 
-[4](#4).            Crown to be bound
+[undefined](#undefined).5pt">4             Crown to be bound
 
-[5](#5).            Extra-territorial operation
+[undefined](#undefined).5pt">5             Extra-territorial operation
 
 **Part 2—Application of energy laws as laws of the Commonwealth** 
 
     **Division 1—Electricity laws**
 
-[6](#6).            Application of National Electricity Law in offshore areas etc 
+[undefined](#undefined).5pt">6             Application of National Electricity Law in offshore areas etc 
 
-[7](#7).            Application of National Electricity Regulations in offshore areas etc 
+[undefined](#undefined).5pt">7             Application of National Electricity Regulations in offshore areas etc 
 
-[9](#9).            Functions and powers of the Australian Energy Market Commission under the National Electricity (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">9             Functions and powers of the Australian Energy Market Commission under the National Electricity (Commonwealth) Law and Regulations
 
-[10](#10).          Functions and powers of the Australian Energy Regulator under the National Electricity (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">10           Functions and powers of the Australian Energy Regulator under the National Electricity (Commonwealth) Law and Regulations
 
-[10A](#10A).       Functions and powers of the Australian Competition Tribunal under the National Electricity (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">10A        Functions and powers of the Australian Competition Tribunal under the National Electricity (Commonwealth) Law and Regulations
 
-[10B](#10B).       Functions and powers of the Commonwealth Minister under the National Electricity (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">10B         Functions and powers of the Commonwealth Minister under the National Electricity (Commonwealth) Law and Regulations
 
-[11](#11).          Interpretation of some expressions in the National Electricity (Commonwealth) Law and Regulations etc 
+[undefined](#undefined).5pt">11           Interpretation of some expressions in the National Electricity (Commonwealth) Law and Regulations etc 
 
     **Division 2—Gas laws** 
 
         **Subdivision A—General**
 
-[11A](#11A).       Application of National Gas Law in offshore areas, certain Territories etc 
+[undefined](#undefined).5pt">11A        Application of National Gas Law in offshore areas, certain Territories etc 
 
-[11B](#11B).       Application of National Gas Regulations in offshore areas, certain Territories etc 
+[undefined](#undefined).5pt">11B         Application of National Gas Regulations in offshore areas, certain Territories etc 
 
-[11C](#11C).       Functions and powers of the Australian Energy Market Commission under the National Gas (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11C         Functions and powers of the Australian Energy Market Commission under the National Gas (Commonwealth) Law and Regulations
 
-[11D](#11D).       Functions and powers of the Australian Energy Regulator under the National Gas (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11D        Functions and powers of the Australian Energy Regulator under the National Gas (Commonwealth) Law and Regulations
 
-[11E](#11E).        Functions and powers of the National Competition Council under the National Gas (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11E         Functions and powers of the National Competition Council under the National Gas (Commonwealth) Law and Regulations
 
-[11F](#11F).        Functions and powers of the Australian Competition Tribunal under the National Gas (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11F         Functions and powers of the Australian Competition Tribunal under the National Gas (Commonwealth) Law and Regulations
 
-[11G](#11G).       Functions and powers of the Commonwealth Minister under the National Gas (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11G         Functions and powers of the Commonwealth Minister under the National Gas (Commonwealth) Law and Regulations
 
-[11H](#11H).       Interpretation of some expressions in the National Gas (Commonwealth) Law and Regulations etc 
+[undefined](#undefined).5pt">11H        Interpretation of some expressions in the National Gas (Commonwealth) Law and Regulations etc 
 
         **Subdivision B—Offshore Western Australian pipelines**
 
-[11J](#11J).        Application of Offshore Western Australian Pipelines Law in offshore area of Western Australia
+[undefined](#undefined).5pt">11J          Application of Offshore Western Australian Pipelines Law in offshore area of Western Australia
 
-[11K](#11K).       Application of Offshore Western Australian Pipelines Regulations in offshore area of Western Australia
+[undefined](#undefined).5pt">11K        Application of Offshore Western Australian Pipelines Regulations in offshore area of Western Australia
 
-[11L](#11L).        Functions and powers of the Australian Energy Market Commission under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11L         Functions and powers of the Australian Energy Market Commission under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
-[11M](#11M).      Functions and powers of the Economic Regulation Authority under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11M        Functions and powers of the Economic Regulation Authority under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
-[11N](#11N).       Functions and powers of the National Competition Council under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11N        Functions and powers of the National Competition Council under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
-[11P](#11P).        Functions and powers of the Australian Competition Tribunal under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11P         Functions and powers of the Australian Competition Tribunal under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
-[11Q](#11Q).       Functions and powers of a Western Australian Minister under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11Q        Functions and powers of a Western Australian Minister under the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
-[11R](#11R).       Interpretation of some expressions in the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations etc 
+[undefined](#undefined).5pt">11R         Interpretation of some expressions in the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations etc 
 
-[11S](#11S).        Inter-governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[undefined](#undefined).5pt">11S         Inter-governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
     **Division 3—Prescribed uniform energy laws**
 
-[12](#12).          Application of other uniform energy laws in offshore areas
+[undefined](#undefined).5pt">12           Application of other uniform energy laws in offshore areas
 
 **Part 3—Miscellaneous**
 
-[13](#13).          Application of the _Administrative Decisions (Judicial Review) Act 1977_
+[undefined](#undefined).5pt">13           Application of the _Administrative Decisions (Judicial Review) Act 1977_
 
-[13A](#13A).       Commonwealth consent to conferral of functions etc  on Commonwealth Minister
+[undefined](#undefined).5pt">13A        Commonwealth consent to conferral of functions etc  on Commonwealth Minister
 
-[13B](#13B).       How duty is imposed
+[undefined](#undefined).5pt">13B         How duty is imposed
 
-[13C](#13C).       When a State/Territory energy law imposes a duty
+[undefined](#undefined).5pt">13C         When a State/Territory energy law imposes a duty
 
-[13D](#13D).       No Commonwealth tax consequences for certain transfers of assets and liabilities etc 
+[undefined](#undefined).5pt">13D        No Commonwealth tax consequences for certain transfers of assets and liabilities etc 
 
-[13E](#13E).        Exemption from State and Territory taxes
+[undefined](#undefined).5pt">13E         Exemption from State and Territory taxes
 
-[13F](#13F).        Legislative instruments
+[undefined](#undefined).5pt">13F         Legislative instruments
 
-[13G](#13G).       Jurisdiction of the Federal Court
+[undefined](#undefined).5pt">13G         Jurisdiction of the Federal Court
 
-[13H](#13H).       Jurisdiction of the Supreme Court of Western Australia
+[undefined](#undefined).5pt">13H        Jurisdiction of the Supreme Court of Western Australia
 
-[13J](#13J).        Jurisdiction of a State or Territory court under a prescribed uniform energy law
+[undefined](#undefined).5pt">13J          Jurisdiction of a State or Territory court under a prescribed uniform energy law
 
-[14](#14).          Regulations
+[undefined](#undefined).5pt">14           Regulations
 
 **Notes** 
 
@@ -245,7 +245,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="australian-energi-market-commiss"></a>**_Australian Energy Market Commission_**means the body established by section 5 of the _Australian Energy Market Commission Establishment Act 2004_ of South Australia.
 
-                    <a name="australian-energi-regul"></a>**_Australian Energy Regulator_** means the body established by section 44AE of the _Competition and Consumer Act 2010_.
+                    <a name="australian-energi-regul"></a>**_Australian Energy Regulator_** means the body established by section 44AE of the _Trade Practices Act 1974_.
 
                     <a name="coastal-water"></a>**_coastal waters_**, in relation to Western Australia, means so much of the scheduled area (within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_) for Western Australia as consists of:
 
@@ -673,11 +673,11 @@ should, as far as possible, include operation in relation to the following:
 
 Note 1:       Section 13C sets out when such a law imposes a duty on the Commonwealth Minister.
 
-Note 2:       Functions and powers conferred, and duties imposed, on the National Competition Council by a State/Territory energy law are dealt with under section 29BA of the _Competition and Consumer Act 2010_.
+Note 2:       Functions and powers conferred, and duties imposed, on the National Competition Council by a State/Territory energy law are dealt with under section 29BA of the _Trade Practices Act 1974_.
 
-Note 3:       Functions and powers conferred, and duties imposed, on the Australian Energy Regulator by a State/Territory energy law are dealt with under section 44AI of the _Competition and Consumer Act 2010_.
+Note 3:       Functions and powers conferred, and duties imposed, on the Australian Energy Regulator by a State/Territory energy law are dealt with under section 44AI of the _Trade Practices Act 1974_.
 
-Note 4:       Functions and powers conferred, and duties imposed, on the Australian Competition Tribunal by a State/Territory energy law are dealt with under section 44ZZM of the _Competition and Consumer Act 2010_.
+Note 4:       Functions and powers conferred, and duties imposed, on the Australian Competition Tribunal by a State/Territory energy law are dealt with under section 44ZZM of the _Trade Practices Act 1974_.
 
              (2)  Subsection (1) does not authorise the conferral of a function or power, or the imposition of a duty, by a State/Territory energy law to the extent to which:
 
@@ -1134,7 +1134,7 @@ Schedule 2 (item 9): <i>(b)</i> </div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 25, 26): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 25, 26): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1416,7 +1416,7 @@ _(c)_Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; Nos. 60 and 117, 2008; No. 17, 2009; No. 103, 2010</div>
+    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; Nos. 60 and 117, 2008; No. 17, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1789,23 +1789,7 @@ _(c)_Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor 
 </tr>
 <tr>
   <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 2–4 to s. 13A(1)</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13B, 13C</div>
+    <div>Ss. 13A–13C</div>
   </td>
   <td>
     <div>ad. No. 45, 2007</div>
@@ -1851,5 +1835,26 @@ _(c)_Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor 
     <div>am. No. 45, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Australian Energy Market Act 2004</h9>
+
+## 25  Section 3 (definition of _Australian Energy Regulator_)
+
+## 26  Subsection 13A(1) (notes 2, 3 and 4)
+
+As at 20 July 2010 the amendments are not incorporated in this compilation.
 
  
