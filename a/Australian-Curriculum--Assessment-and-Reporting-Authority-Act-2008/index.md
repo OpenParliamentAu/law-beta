@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00014/Html/09a36336-d506-4f26-ad8a-6f8bd1dbb8d0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00725/Html/7368b768-37d2-4731-a98c-fe4f947e764f_files/image001.gif)
 
 # Australian Curriculum, Assessment and Reporting Authority Act 2008
 
 **Act No. 136 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 7 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -340,7 +340,7 @@ Note:          For how directions are given see: section 42\
 
              (1)  A member of the Board is to be appointed by the Minister by written instrument.
 
-Note:          A member of the Board is eligible for re‑appointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A member of the Board is eligible for re‑appointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  The Minister can only make the appointment if:
 
@@ -384,7 +384,13 @@ exceeds 6 years.
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to persons acting as the Chair, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  While the Deputy Chair is acting as the Chair:
+
+                     (a)  the Deputy Chair has, and may exercise, all the Chair’s powers, and must perform all the Chair’s functions and duties; and
+
+                     (b)  this Act, and all other Acts, apply to the Deputy Chair as if he or she were the Chair.
+
+             (3)  Anything done by or in relation to the Deputy Chair when purporting to act under subsection (1) is not invalid merely because the occasion to act had not arisen or had ceased.
 
              (4)  The Minister may, by written instrument, appoint a member to act as the Deputy Chair:
 
@@ -398,7 +404,17 @@ Note:          For rules that apply to persons acting as the C
 
                             (iii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (5)  Anything done by or in relation to a person purporting to act under an appointment under subsection (4) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="16"></a>16  Remuneration of members
 
@@ -522,7 +538,7 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
              (1)  The CEO is to be appointed by the Board by written instrument after consultation with the Minister.
 
-Note:          The CEO is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The CEO is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  The CEO holds office on a full‑time basis.
 
@@ -532,7 +548,7 @@ Note:          The CEO is eligible for reappointment: see sect
 
 ##### <a id="26"></a>26  Acting appointments
 
-                   The Board may, after consultation with the Minister, by written instrument appoint a person to act as the CEO:
+             (1)  The Board may, after consultation with the Minister, by written instrument appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of the CEO (whether or not an appointment has previously been made to the office); or
 
@@ -542,7 +558,17 @@ Note:          The CEO is eligible for reappointment: see sect
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="27"></a>27  Other employment
 
@@ -839,7 +865,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 142–150) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 142–150) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11)</div>
@@ -854,123 +880,65 @@ of Assent</div>
   <td></td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 142  Subsection 14(1) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 143  At the end of subsection 15(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Chair, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 144  Subsections 15(2) and (3)
+
+Repeal the subsections.
+
+## 145  At the end of subsection 15(4)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 146  Subsection 15(5)
+
+Repeal the subsection.
+
+## 147  Subsection 25(1) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 148  Subsection 26(1)
+
+Omit “(1)”.
+
+## 149  At the end of subsection 26(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 150  Subsection 26(2)
+
+Repeal the subsection.
+
+As at 7 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
