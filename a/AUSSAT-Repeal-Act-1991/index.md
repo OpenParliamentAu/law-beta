@@ -1,469 +1,524 @@
-![](http://www.comlaw.gov.au/Details/C2006C00519/Html/AUSSATRepeal1991_WD02_image001.gif)
+**
 
-# AUSSAT Repeal Act 1991
+###  AUSSAT REPEAL ACT 1991 
+**
 
-**Act No. 145 of 1991 as amended**
 
-This compilation was prepared on 22 September 2006
- taking into account amendments up to Act No. 101 of 2006
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
 
-**Part 2—Preparing for the sale of AUSSAT**
 
-[4](#4).            Commonwealth guarantee of AUSSAT borrowings
 
-[5](#5).            Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations
 
-[6](#6).            AUSSAT not within the shield of the Crown
+**
 
-[7](#7).            Clarification of AUSSAT’s status for income tax purposes
+###  Long Title 
+**
+AUSSAT Act 1984
+**
 
-**Part 3—Effect of the sale of AUSSAT**
+###  AUSSAT REPEAL ACT 1991<part>Part&#160;1&#151;Preliminary </part>
+**
+###  AUSSAT REPEAL ACT 1991- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[8](#8).            Removal of AUSSAT’s tax losses
+		This Act may be cited as the _AUSSAT Repeal Act 1991_.
 
-[9](#9).            AUSSAT no longer taken to be established for a public purpose
+ </dl>
+###  AUSSAT REPEAL ACT 1991- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[10](#10).          Repeal of the _AUSSAT Act 1984_
+<dt>(1)</dt><dd>Subject to this section, this Act commences on the day on which it
 
-[11](#11).          Consequential amendments of other Acts
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>Part&#160;3 commences, or is taken to have commenced, as the case requires, on a day to be fixed by Proclamation.</dd> <dt>(3)</dt><dd>A Proclamation may fix under subsection&#160;(2) a day that is earlier than the day on which the Proclamation is published in the _Gazette_, but only if the day so fixed is: </dd> </dl>
+<dl compact=""><dl compact="">
 
-[12](#12).          Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
+<dt>(a)</dt><dd>the day after the day on which:
 
-**Part 4—Amendments of Telecommunications Legislation**
+</dd>
 
-[13](#13).          Schedule 2 amendments
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-**Schedule 1—Consequential amendments of other Acts** 
+<dt>(i)</dt><dd>a person (other than the Commonwealth or a nominee of the Commonwealth)
 
-**Schedule 2—Amendments of Telecommunications Legislation** 
+acquires a controlling interest in AUSSAT; or</dd>
 
-**Notes** 
+<dt>(ii)</dt><dd>2 or more such persons together acquire such a controlling interest, or
 
-## An Act to provide for some matters connected with the sale of AUSSAT Pty Ltd, to repeal the _AUSSAT Act 1984_ and amend other Acts following that sale, and to amend other Acts relating to telecommunications
+acquire interests in AUSSAT that together constitute such a controlling
 
-## Part 1—Preliminary
+interest; or
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+</dd>
 
-                   This Act may be cited as the _AUSSAT Repeal Act 1991_.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dt>(b)</dt><dd>some later day.
 
-             (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+</dd>
 
-             (2)  Part 3 commences, or is taken to have commenced, as the case requires, on a day to be fixed by Proclamation.
+</dl></dl>
+<dl compact="">
 
-             (3)  A Proclamation may fix under subsection (2) a day that is earlier than the day on which the Proclamation is published in the _Gazette_, but only if the day so fixed is:
+<dt>(4)</dt><dd>If the commencement of Part&#160;3 is not fixed by a Proclamation
 
-                     (a)  the day after the day on which:
+published in the _Gazette_ within the period of 6 months beginning on the
 
-                              (i)  a person (other than the Commonwealth or a nominee of the Commonwealth) acquires a controlling interest in AUSSAT; or
+day on which this Act receives the Royal Assent, Parts&#160;2 and 3 are
 
-                             (ii)  2 or more such persons together acquire such a controlling interest, or acquire interests in AUSSAT that together constitute such a controlling interest; or
+repealed on the first day after the end of that period.
 
-                     (b)  some later day.
+</dd> </dl>
+###  AUSSAT REPEAL ACT 1991- SECT 3  Interpretation 
+<dl compact="">
 
-             (4)  If the commencement of Part 3 is not fixed by a Proclamation published in the _Gazette_ within the period of 6 months beginning on the day on which this Act receives the Royal Assent, Parts 2 and 3 are repealed on the first day after the end of that period.
+		In this Act, unless the contrary intention appears: 
 
-##### <a id="3"></a>3  Interpretation
+ </dl>
+<dl compact=""><dl compact="">
 
-                   In this Act, unless the contrary intention appears: 
+_AUSSAT_ means AUSSAT Pty Ltd, a company incorporated on
 
-                    <a name="aussat"></a>**_AUSSAT_** means AUSSAT Pty Ltd, a company incorporated on 6 November 1981 under the law in force in the Australian Capital Territory relating to companies, as that company exists from time to time (even if its name is later changed). 
+6&#160;November 1981 under the law in force in the Australian Capital Territory
 
-                    <a name="oblig"></a>**_obligation_** includes a debt or liability.
+relating to companies, as that company exists from time to time (even if its
 
-                    <a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body’s share capital. 
+name is later changed).  _obligation_ includes a debt or liability. _share_, in relation to a body corporate, means a share in the body's share capital.  _transition_ means the commencement of Part&#160;3\.  </dl></dl>
 
-                    <a name="transition"></a>**_transition_** means the commencement of Part 3.
+<center>Back to Top</center>
 
-## Part 2—Preparing for the sale of AUSSAT
+<center>**
 
-##### <a id="4"></a>4  Commonwealth guarantee of AUSSAT borrowings
+###  AUSSAT REPEAL ACT 1991<part>Part&#160;2&#151;Preparing for the sale of AUSSAT </part>
+**</center>
 
-             (1)  The Treasurer may, on the Commonwealth’s behalf, enter into a contract guaranteeing the performance by AUSSAT of one or more of the following:
+**
 
-                     (a)  an obligation to repay an AUSSAT borrowing;
+###  AUSSAT REPEAL ACT 1991- SECT 4  Commonwealth guarantee of AUSSAT borrowings 
+**
 
-                     (b)  an obligation to pay interest (including interest on interest) on an AUSSAT borrowing;
+ <dl compact=""><dl compact="">
 
-                     (c)  an obligation to pay amounts (other than interest) that are specified in the contract and that AUSSAT is liable to pay with respect to an AUSSAT borrowing.
+<dt>(1)</dt><dd>The Treasurer may, on the Commonwealth's behalf, enter into a contract
 
-             (2)  If the Treasurer determines in writing that the Commonwealth guarantees the performance by AUSSAT of specified obligations each of which is of a kind referred to in subsection (1), the Commonwealth guarantees that performance by force of this subsection.
+guaranteeing the performance by AUSSAT of one or more of the following:
 
-             (3)  In this section:
+</dd> </dl></dl>
 
-                    <a name="aussat-borrow"></a>**_AUSSAT borrowing_** means:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  an amount borrowed or raised, or to be borrowed or raised, by AUSSAT; or
+<dt>(a)</dt><dd>an obligation to repay an AUSSAT borrowing;</dd>
 
-                     (b)  an amount of credit obtained, or to be obtained, by AUSSAT.
+<dt>(b)</dt><dd>an obligation to pay interest (including interest on interest) on an
 
-             (4)  This section ceases to have effect, or is taken to have ceased to have effect, as the case requires, at the transition.
+AUSSAT borrowing;</dd>
 
-##### <a id="5"></a>5  Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations
+<dt>(c)</dt><dd>an obligation to pay amounts (other than interest) that are specified in
 
-             (1)  The purpose of this section is to appropriate up to $800,000,000 to pay out existing obligations of AUSSAT. The money appropriated may be paid to AUSSAT as either of, or as a combination of, the following:
+the contract and that AUSSAT is liable to pay with respect to an AUSSAT
 
-                     (a)  additional share capital;
+borrowing.
 
-                     (b)  loan capital.
+</dd>
 
-             (2)  The Minister may authorise the payment to AUSSAT of all or part of the amount subscribed for shares in AUSSAT that have been, or are to be, issued or allotted to the Commonwealth or a nominee of the Commonwealth.
+</dl></dl></dl>
 
-             (3)  The Minister may authorise the payment of money to AUSSAT as a loan made on the Commonwealth’s behalf.
+<dl compact=""><dl compact="">
 
-             (4)  The Minister may determine in writing the terms and conditions of loans made under subsection (3).
+<dt>(2)</dt><dd>If the Treasurer determines in writing that the Commonwealth guarantees
 
-             (5)  A payment under subsection (2) or (3) must be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+the performance by AUSSAT of specified obligations each of which is of a kind
 
-             (6)  The total of all amounts paid under subsections (2) and (3) must not exceed $800,000,000.
+referred to in subsection&#160;(1), the Commonwealth guarantees that
 
-             (7)  AUSSAT must not use money paid to it under subsection (2) or (3) except for the purposes of, or in connection with, one or more of the following:
+performance by force of this subsection.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl></dl>
 
-                     (a)  discharging an obligation of AUSSAT that existed at the commencement of this section;
+<def><dl compact=""><dl compact="">
 
-                     (b)  discharging an obligation of AUSSAT that arises at or after that commencement because of an agreement or arrangement made before that commencement;
+_AUSSAT borrowing_ means:
 
-                     (c)  without limiting paragraph (a) or (b), terminating such an agreement or arrangement.
+ </dl></dl>
 
-             (8)  An authorisation given under subsection (2) or (3) after the transition has no effect, or is taken to have had no effect, as the case requires.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="6"></a>6  AUSSAT not within the shield of the Crown
+<dt>(a)</dt><dd>an amount borrowed or raised, or to be borrowed or raised, by AUSSAT; or</dd>
 
-                   To avoid doubt, AUSSAT:
+<dt>(b)</dt><dd>an amount of credit obtained, or to be obtained, by AUSSAT.
 
-                     (a)  is not, does not form part of, does not represent, and is not an instrumentality or agency of, the Crown; and
+</dd>
 
-                     (b)  is taken never to have been, formed part of, represented, or been an instrumentality or agency of, the Crown.
+</dl></dl></dl>
 
-##### <a id="7"></a>7  Clarification of AUSSAT’s status for income tax purposes
+<dl compact=""><dl compact="">
 
-                   AUSSAT is not, and is taken never to have been, a public authority for the purposes of paragraph 23(d) of the _Income Tax Assessment Act 1936_.
+<dt>(4)</dt><dd>This section ceases to have effect, or is taken to have ceased to have
 
-## Part 3—Effect of the sale of AUSSAT
+effect, as the case requires, at the transition.
 
-##### <a id="8"></a>8  Removal of AUSSAT’s tax losses
+</dd> </dl></dl>
 
-             (1)  Neither a loss that AUSSAT incurred in a year of income ending at or before the transition, nor a part of such a loss, is allowable as a deduction from AUSSAT’s assessable income of a year of income ending at or after the transition.
+**
 
-             (2)  This section has effect despite anything in the _Income Tax Assessment Act 1936_, in particular, former sections 79E, 79F, 80, 80AAA and 80AA of that Act.
+###  AUSSAT REPEAL ACT 1991- SECT 5  Appropriation of up to $800,000,000 to pay out AUSSAT's existing obligations 
+**
 
-          (2A)  AUSSAT cannot deduct from its assessable income for the 1997-98 income year or a later income year, a tax loss (or a part of a tax loss) incurred in an income year ending at or before the transition.
+<dl compact=""><dl compact="">
 
-          (2B)  This section has effect despite anything in the _Income Tax Assessment Act 1997_, in particular, Division 36 of that Act.
+<dt>(1)</dt><dd>The purpose of this section is to appropriate up to $800,000,000 to pay
 
-             (3)  An expression has in this section the same meaning as in the _Income Tax Assessment Act 1936_or the _Income Tax Assessment Act 1997_.
+out existing obligations of AUSSAT. The money appropriated may be paid to
 
-##### <a id="9"></a>9  AUSSAT no longer taken to be established for a public purpose
+AUSSAT as either of, or as a combination of, the following:
 
-             (1)  A law that, if this section had not been enacted, would apply in relation to AUSSAT because AUSSAT was incorporated or established for a public purpose or for a purpose of the Commonwealth does not so apply.
+</dd> </dl></dl>
 
-             (2)  To avoid doubt, subsection (1) does not affect the operation of a law before the transition.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  In subsection (1) and (2): 
+<dt>(a)</dt><dd>additional share capital;</dd>
 
-                    <a name="law"></a>**_law_** means:
+<dt>(b)</dt><dd>loan capital.
 
-                     (a)  a law (whether written or unwritten) of the Commonwealth or of a State or Territory; or
+</dd>
 
-                     (b)  regulations or any other instrument made under such a law.
+</dl></dl></dl>
 
-##### <a id="10"></a>10  Repeal of the _AUSSAT Act 1984_
+<dl compact=""><dl compact="">
 
-                   The _AUSSAT Act 1984_ is repealed.
+<dt>(2)</dt><dd>The Minister may authorise the payment to AUSSAT of all or part of the
 
-##### <a id="11"></a>11  Consequential amendments of other Acts
+amount subscribed for shares in AUSSAT that have been, or are to be, issued or
 
-             (1)  The Acts specified in Schedule 1 are amended as set out in that Schedule.
+allotted to the Commonwealth or a nominee of the Commonwealth.</dd> <dt>(3)</dt><dd>The Minister may authorise the payment of money to AUSSAT as a loan made on the Commonwealth's behalf.</dd> <dt>(4)</dt><dd>The Minister may determine in writing the terms and conditions of loans made under subsection&#160;(3).</dd> <dt>(5)</dt><dd>A payment under subsection&#160;(2) or (3) must be made out of the Consolidated Revenue Fund, which is appropriated accordingly.</dd> <dt>(6)</dt><dd>The total of all amounts paid under subsections&#160;(2) and (3) must not exceed $800,000,000.</dd> <dt>(7)</dt><dd>AUSSAT must not use money paid to it under subsection&#160;(2) or (3) except for the purposes of, or in connection with, one or more of the following: </dd> </dl></dl>
 
-             (2)  If Part 5 of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_ commenced before the transition, or commences at the transition, Schedule 1 to this Act is taken to have been amended immediately before the transition by omitting the amendments of the _Crimes Act 1914_ and of the first-mentioned Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="12"></a>12  Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
+<dt>(a)</dt><dd>discharging an obligation of AUSSAT that existed at the commencement of
 
-             (1)  AUSSAT is not liable after the transition to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the transition.
+this section;</dd>
 
-             (2)  To avoid doubt, subsection (1) does not apply in relation to an amount of levy that was paid before the transition.
+<dt>(b)</dt><dd>discharging an obligation of AUSSAT that arises at or after that
 
-## Part 4—Amendments of Telecommunications Legislation
+commencement because of an agreement or arrangement made before that
 
-##### <a id="13"></a>13  Schedule 2 amendments
+commencement;</dd>
 
-                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
+<dt>(c)</dt><dd>without limiting paragraph&#160;(a) or (b), terminating such an agreement
 
-# Schedule 1—Consequential amendments of other Acts
+or arrangement.
 
-_Section 11_
+</dd>
 
-* * *
+</dl></dl></dl>
 
-**Note:**
+<center>Back to Top</center>
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+<dl compact=""><dl compact="">
 
-Broadcasting Act 1942 
- \[repealed by Act No. 105, 1992, s. 28 as amended by Act No. 120, 2002, 
- Sch. 3]
+<dt>(8)</dt><dd>An authorisation given under subsection&#160;(2) or (3) after the
 
-Commonwealth Borrowing Levy Act 1987
+transition has no effect, or is taken to have had no effect, as the case
 
-Crimes Act 1914
+requires.
 
-Sales Tax (Exemptions and Classifications) Act 1935
- \[repealed by Act No. 101, 2006, Sch. 5]
+</dd> </dl></dl>
 
-Sea Installations Act 1987
+**
 
-Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991
+###  AUSSAT REPEAL ACT 1991- SECT 6  AUSSAT not within the shield of the Crown 
+**
 
-For access to the wording of the amendments made by this Schedule, _see_ Act  No. 145, 1991.
+ <dl compact=""><dl compact="">
 
-* * *
+		To avoid doubt, AUSSAT:
 
-# Schedule 2—Amendments of Telecommunications Legislation 
+ </dl></dl>
 
-_Section 13_
+<dl compact=""><dl compact=""><dl compact="">
 
-* * *
+<dt>(a)</dt><dd>is not, does not form part of, does not represent, and is not an
 
-**Note:**
+instrumentality or agency of, the Crown; and</dd>
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+<dt>(b)</dt><dd>is taken never to have been, formed part of, represented, or been an
 
-Australian and Overseas Telecommunications Corporation Act 1991 [<span style="font-size:9.0pt; font-style:normal">now cited as</span><span style="font-size:9.0pt"> Telstra Corporation Act 1991</span><span style="font-size:9.0pt;font-style:normal">]</span>
+instrumentality or agency of, the Crown.
 
-Telecommunications Act 1991
+</dd>
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 145, 1991.
+</dl></dl></dl>
 
-* * *
+**
 
-# Notes to the _AUSSAT Repeal Act 1991_
+###  AUSSAT REPEAL ACT 1991- SECT 7  Clarification of AUSSAT's status for income tax purposes 
+**
 
-### Note 1
+ <dl compact=""><dl compact="">
 
-The _AUSSAT Repeal Act 1991_ as shown in this compilation comprises Act No. 145, 1991 amended as indicated in the Tables below.
+		AUSSAT is not, and is taken never to have been, a public authority for the
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+purposes of paragraph 23(d) of the _Income Tax Assessment Act 1936_.
 
-### Table of Acts
+ </dl></dl>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<center>**
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+###  AUSSAT REPEAL ACT 1991<part>Part&#160;3&#151;Effect of the sale of AUSSAT </part>
+**</center>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 8  Removal of AUSSAT's tax losses 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Neither a loss that AUSSAT incurred in a year of income ending at or
+
+before the transition, nor a part of such a loss, is allowable as a deduction
+
+from AUSSAT's assessable income of a year of income ending at or after the
+
+transition.</dd> <dt>(2)</dt><dd>This section has effect despite anything in the _Income Tax Assessment Act 1936_, in particular, sections&#160;79E, 79F, 80, 80AAA and 80AA of that Act.</dd> <dt>(2A)</dt><dd>AUSSAT cannot deduct from its assessable income for the 1997-98 income year or a later income year, a tax loss (or a part of a tax loss) incurred in an income year ending at or before the transition.</dd> <dt>(2B)</dt><dd>This section has effect despite anything in the _Income Tax Assessment Act 1997_, in particular, Division&#160;36 of that Act.</dd> <dt>(3)</dt><dd>An expression has in this section the same meaning as in the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_. </dd> </dl></dl>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 9  AUSSAT no longer taken to be established for a public purpose 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A law that, if this section had not been enacted, would apply in relation
+
+to AUSSAT because AUSSAT was incorporated or established for a public purpose
+
+or for a purpose of the Commonwealth does not so apply.</dd> <dt>(2)</dt><dd>To avoid doubt, subsection&#160;(1) does not affect the operation of a law before the transition.</dd> <dt>(3)</dt><dd>In subsection&#160;(1) and (2):  </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_law_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a law (whether written or unwritten) of the Commonwealth or of a State or
+
+Territory; or</dd>
+
+<dt>(b)</dt><dd>regulations or any other instrument made under such a law.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 10  Repeal of the _AUSSAT Act 1984_ 
+**
+
+ <dl compact=""><dl compact="">
+
+		The _AUSSAT Act 1984_ is repealed.
+
+ </dl></dl>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 11  Consequential amendments of other Acts <center>[Back to Top](#top)</center> 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Acts specified in Schedule&#160;1 are amended as set out in that
+
+Schedule.</dd> <dt>(2)</dt><dd>If Part&#160;5 of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_ commenced before the transition, or commences at the transition, Schedule&#160;1 to this Act is taken to have been amended immediately before the transition by omitting the amendments of the _Crimes Act 1914_ and of the first-mentioned Act. </dd> </dl></dl>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 12  Ending AUSSAT's liability under the _Commonwealth Borrowing Levy Act 1987_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>AUSSAT is not liable after the transition to pay an amount of levy imposed
+
+by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken
+
+before the transition.</dd> <dt>(2)</dt><dd>To avoid doubt, subsection&#160;(1) does not apply in relation to an amount of levy that was paid before the transition. </dd> </dl></dl>
+
+<center>**
+
+###  AUSSAT REPEAL ACT 1991<part>Part&#160;4&#151;Amendments of Telecommunications Legislation </part>
+**</center>
+
+**
+
+###  AUSSAT REPEAL ACT 1991- SECT 13  Schedule&#160;2 amendments 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Acts specified in Schedule&#160;2 are amended as set out in that Schedule.
+
+ </dl></dl>
+
+<center>**
+
+###  AUSSAT REPEAL ACT 1991Schedule&#160;1&#151;Consequential amendments of other Acts 
+**</center>
+
+ Section&#160;11
+
+Note:
+ The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+
+_Broadcasting Act 1942_\[repealed by Act No. 105, 1992, s. 28 as amended by Act No. 120, 2002, Sch. 3]
+ _Commonwealth Borrowing Levy Act 1987_
+ _Crimes Act 1914_
+ _Sales Tax (Exemptions and Classifications) Act 1935_
+ _Sea Installations Act 1987_
+ _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_
+
+For access to the wording of the amendments made by this Schedule, _see_ Act  No. 145, 1991\. 
+
+<center>**
+
+###  AUSSAT REPEAL ACT 1991Schedule&#160;2&#151;Amendments of Telecommunications Legislation  
+**</center>
+
+ Section&#160;13 
+
+Note:
+ The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+
+_Australian and Overseas Telecommunications Corporation Act 1991_
+ _Telecommunications Act 1991_
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 145, 1991\. 
+
+<center>**
+
+###  AUSSAT REPEAL ACT 1991<centreit>Notes to the _AUSSAT Repeal Act 1991_ </centreit>
+**</center>
+
+**Note 1**
+
+The _AUSSAT Repeal Act 1991_ as shown in this compilation comprises Act No.&#160;145, 1991 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>AUSSAT Repeal Act 1991</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>AUSSAT Repeal Act 1991</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>145, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Oct 1991</div>
+
   </td>
-  <td>
-    <div>Part 3 (ss. 8–12): 
+  <td colspan="1" align="left">
+    <div>Part&#160;3 (ss. 8-12): 
 1 Feb 1992 ( <i>see Gazette</i>1992, No. S46) 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Income Tax (Consequential Amendments) Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Income Tax (Consequential Amendments) Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>39, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Apr 1997</div>
+
   </td>
-  <td>
-    <div>1 July 1997</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1997</div>
+
   </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 18) and Schedule 6 (items 1, 6–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 6–11)</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr></table>
 
-## Table of Amendments
+**Table of Amendments**
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>am. No. 39, 1997; No. 101,2006</div>
-    </td>
-  </tr>
-</thead></table>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
- 
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-## Table A
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>S. 8</div>
 
-### Application, saving or transitional provisions
+  </th>
+  <th colspan="1" align="left">
+    <div>am. No.&#160;39, 1997</div>
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
- (No. 101, 2006)_
+  </th>
+</tr></table>
 
-## Schedule 6
+</def>
 
-## 1  Application of Schedule 1 and 2 amendments
+</def>
 
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
- 
