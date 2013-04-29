@@ -1,7 +1,7 @@
 
 Military Superannuation and Benefits Act 1991
 Act No. 135 of 1991 as amended
-This compilation was prepared on 30 October 2001 taking into account amendments up to Act No. 141 of 2001
+This compilation was prepared on 19 April 2001 taking into account amendments up to Act No. 10 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -12,7 +12,6 @@ Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-3A	Application of the Criminal Code	2
 Part 2—The Trust Deed	3
 4	Deed to establish Superannuation Scheme etc.	3
 5	Amendment of Trust Deed	3
@@ -119,7 +118,7 @@ Establishment of Incapacity Classification Committee	60
 Membership of Committee	60
 Functions of Committee	60
 Proceedings of Committee	60
-Decisions by Committee	60
+Decisions by Committee	61
 Classification in respect of incapacity	61
 Reclassification in respect of incapacity	61
 Decision as to classification or reclassification to be notified to invalidity retiree	63
@@ -133,7 +132,7 @@ Person may be treated as having been retired on ground of invalidity	67
 Subdivision C—Invalidity Benefits Not Payable	68
 Person classified as Class C	68
 Pre-existing condition	68
-Invalidity due to intentional act	68
+Invalidity due to intentional act	69
 Invalidity arising during absence without leave exceeding 21 days	69
 Division 3—Person Rejoining the Scheme	70
 Suspension of pension of retirement pensioner other than invalidity retiree	70
@@ -220,7 +219,6 @@ Schedule 9—Calculation of member benefit	134
 Schedule 10—Transfer value	135
 Schedule 11—Rates of interest applicable in respect of certain unfunded amounts	136
 Notes		139
-
 An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes
   
 Part 1—Preliminary
@@ -249,9 +247,6 @@ trustee means a person who holds office as a trustee of the Board and includes t
 	(a)	defined, for the purposes of the Rules, in Schedule 1 to the Rules; and
 	(b)	used in a provision of this Act other than the Deed;
 has in that provision the same meaning as it has in the Rules.
-3A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part 2—The Trust Deed
   
@@ -2372,11 +2367,6 @@ Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Ac
 22 Mar 2001 
 Schedule 2 (items 66, 94, 95): 19 Apr 2001 (h)
 Sch. 2 (items 94, 95) [see Table A]
-Defence Legislation Amendment (Application of Criminal Code) Act 2001
-141, 2001
-1 Oct 2001
-S. 4 and Schedule 1 (item 106): 2 Oct 2001 (i)
-S. 4 [see Table A]
 
 (a)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 4 only of the Defence Legislation Amendment Act 1995, subsection 2(1) of which provides as follows:
 	(1)	Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
@@ -2396,17 +2386,10 @@ S. 4 [see Table A]
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
 (h)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 66) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-(i)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 1 (item 106) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(2) of which provides as follows:
-	(2)	Part 1 of Schedule 1 commences on the later of:
-	(a)	the day on which Chapter 2 of the Criminal Code commences; and
-	(b)	the day after the day on which this Act receives the Royal Assent.
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 3A	
-ad. No. 141, 2001
 S. 5 	
 am. No. 82, 1993; No. 43, 1995 
 S. 6 	
@@ -2457,11 +2440,5 @@ Example:	Assume that, immediately before the commencement of this item, regulati
 (1)	The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 (2)	In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 (3)	Subitem (2) does not limit the scope of subitem (1).
-
-Defence Legislation Amendment (Application of Criminal Code) Act 2001  (No. 141, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
       
 
