@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00861/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00749/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
 
 # International Tax Agreements Act 1953
 
 **Act No. 82 of 1953 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 11 November 2010
+ taking into account amendments up to Act No. 115 of 2010
 
 **Volume 1** includes:       Sections 1–24
                                      Schedules 1–24
@@ -608,8 +608,6 @@ for the purpose of determining whether the income may be taxed in Australia in a
 
              (1)  Subject to subsection (2), the Assessment Act is incorporated and shall be read as one with this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
              (2)  The provisions of this Act have effect notwithstanding anything inconsistent with those provisions contained in the Assessment Act (other than Part IVA of that Act) or in an Act imposing Australian tax.
 
 ##### <a id="4AA"></a>4AA  Incorporation of Fringe Benefits Tax Assessment Act
@@ -1160,7 +1158,11 @@ and such a certificate is, in all courts and for all purposes, evidence of the m
 
              (1)  The Commissioner or an officer authorised by the Commissioner may use the information gathering provisions for the purpose of gathering information to be exchanged in accordance with the Commissioner’s obligations under an international agreement.
 
-             (3)  Subsection (1) has effect whether or not the information relates to Australian tax.
+             (2)  Making a record of, and exchanging, information in accordance with the Commissioner’s obligations under an international agreement is not a breach of a provision of a taxation law that prohibits the Commissioner or an officer from making a record of, or disclosing, information.
+
+Example:    An example of such a provision is section 3C of the _Taxation Administration Act 1953_.
+
+             (3)  Subsections (1) and (2) have effect whether or not the information relates to Australian tax.
 
              (4)  In this section:
 
@@ -1329,7 +1331,7 @@ Residence
 
 1       For the purposes of this Convention, a person is a resident of a Contracting State:
 
-         (a)     in the case of the United Kingdom, if the person is a resident of the United   Kingdom for the purposes of United Kingdom tax; and
+         (a)     in the case of the United Kingdom, if the person is a resident of the United Kingdom for the purposes of United Kingdom tax; and
 
          (b)     in the case of Australia, if the person is a resident of Australia for the purposes of Australian tax.
 
@@ -1693,7 +1695,7 @@ Other income
 
 3       Notwithstanding the provisions of paragraphs 1 and 2 of this Article, items of income of a resident of a Contracting State not dealt with in the foregoing Articles of this Convention from sources in the other Contracting State may also be taxed in the other Contracting State.
 
-4       Where, by reason of a special relationship between the person referred to in paragraph 1 of this Article and some other person, or between both of them and some third person, the amount of the income referred to in that paragraph exceeds the amount (if any) which might reasonably have been expected to have been agreed upon between them in the absence of such a relationship, the provisions of this Article shall apply only to the last-mentioned amount.  In such a case, the excess part of the income shall remain taxable according to the laws of each   Contracting State, due regard being had to the other applicable provisions of this Convention.
+4       Where, by reason of a special relationship between the person referred to in paragraph 1 of this Article and some other person, or between both of them and some third person, the amount of the income referred to in that paragraph exceeds the amount (if any) which might reasonably have been expected to have been agreed upon between them in the absence of such a relationship, the provisions of this Article shall apply only to the last-mentioned amount.  In such a case, the excess part of the income shall remain taxable according to the laws of each Contracting State, due regard being had to the other applicable provisions of this Convention.
 
 5       A person may not rely on this Article to obtain relief from taxation if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the rights in respect of which the income is derived to take advantage of this Article by means of that creation or assignment.
 
@@ -1851,7 +1853,7 @@ Termination
 
          DONE in duplicate at Canberra this 21st day of August 2003
 
-FOR THE GOVERNMENT OF                      FOR THE GOVERNMENT OF AUSTRALIA    THE UNITED   KINGDOM OF
+FOR THE GOVERNMENT OF                      FOR THE GOVERNMENT OF AUSTRALIA    THE UNITED KINGDOM OF
 
                                                                       GREAT   BRITAIN AND
 
@@ -4618,7 +4620,7 @@ _(ii)_     in respect of other New Zealand tax, for any income year begi
 
 IN WITNESS WHEREOF the undersigned, being duly authorised, have signed this Convention.
 
-DONE at    Paris     this    26<sup>th</sup>          day of         June       2009, in duplicate in the English language.
+DONE at    Paris     this    26<sup>th</sup>          day of         June       2009, in duplicate in the English language.
 
 FOR AUSTRALIA:                                          FOR NEW ZEALAND:
 
@@ -5528,7 +5530,7 @@ _(ii)_        the petroleum resource rent tax
 
 **GENERAL DEFINITIONS**
 
-1.           For the purposes of this Convention, unless the context otherwise requires:
+1.           For the purposes of this Convention, unless the context otherwise requires:
 
 _a)_                the term “Japan”, when used in a geographical sense, means all the territory of Japan, including its territorial sea, in which the laws relating to Japanese tax are in force, and all the area beyond its territorial sea, including the seabed and subsoil thereof, over which Japan has sovereign rights in accordance with international law and in which the laws relating to Japanese tax are in force;
 
@@ -5758,7 +5760,7 @@ Ships and aircraft shall not be regarded as real property.
 
 **BUSINESS PROFITS**
 
-1.           The profits of an enterprise of a Contracting State shall be taxable only in that Contracting State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein.  If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in that other Contracting State but only so much of them as is attributable to that permanent establishment.
+1.           The profits of an enterprise of a Contracting State shall be taxable only in that Contracting State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein.  If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in that other Contracting State but only so much of them as is attributable to that permanent establishment.
 
 2.           Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises with which it deals.
 
@@ -6012,7 +6014,7 @@ _b)_ the total of the shares alienated by the alienator and such related or conn
 
 5.           Income, profits or gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated by that enterprise in international traffic, or of property (other than real property) pertaining to the operation of such ships or aircraft, shall be taxable only in that Contracting State.
 
-6.           Gains from the alienation of any property other than that referred to in the preceding paragraphs of this Article shall be taxable only in the Contracting State of which the alienator is a resident.
+6.           Gains from the alienation of any property other than that referred to in the preceding paragraphs of this Article shall be taxable only in the Contracting State of which the alienator is a resident.
 
 <u> </u>
 
@@ -6630,7 +6632,7 @@ of Australia
 
                                                                 Masahiko Koumura
 
-                                                        Minister for Foreign Affairs
+                                                        Minister for Foreign Affairs
 
                                                                          of Japan
 
@@ -12758,7 +12760,7 @@ ARTICLE 11
 
      (c)  Except as aforesaid, dividends paid by a company which is a resident ofIreland for the purposes of Irish tax, being dividends to which a resident of Australia is beneficially entitled, shall be exempt from any tax in Ireland which is chargeable on dividends.
 
-(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in Ireland.
+(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in   Ireland.
 
 (4)   The provisions of paragraph (3) of this Article shall not apply where the beneficial owner of the dividends (being a company) is, or is associated with, a company which either alone or together with one or more associated companies controls directly or indirectly 10 per cent or more of the voting power in the company paying the dividends. For the purposes of this paragraph two companies shall be deemed to be associated if one controls directly or indirectly more than 50 per cent of the voting power in the other company, or a third company controls more than 50 per cent of the voting power in both of them.
 
@@ -15540,7 +15542,7 @@ ARTICLE 28
 
      (b)  in Malta:
 
-                     in relation to taxes which are levied for the year of assessment beginning on 1 January in the second calendar year following that in which the notice of termination is given and for subsequent years of assessment.
+                     in relation to taxes which are levied for the year of assessment beginning on 1 January in the second calendar year following that in which the notice of termination is given and for subsequent years of assessment.
 
      IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Agreement.
 
