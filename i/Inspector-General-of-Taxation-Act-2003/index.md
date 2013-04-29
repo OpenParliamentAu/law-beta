@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00327/Html/027b6cee-464b-472c-940c-57763eb47d2e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00542/Html/6bcd0d02-0c25-4f44-8d01-a120f0f62901_files/image001.gif)
 
 # Inspector‑General of Taxation Act 2003
 
 **Act No. 28 of 2003 as amended**
 
-This compilation was prepared on 22 March 2012
+This compilation was prepared on 18 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
@@ -124,9 +124,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Consequential amendments** 
 
-Freedom of Information Act 1982                                                                          30
+Freedom of Information Act 1982                                                                          31
 
-National Crime Authority Act 1984                                                                       30
+National Crime Authority Act 1984                                                                       31
 
 **Notes** 
 
@@ -268,17 +268,17 @@ However, the Inspector‑General is not required to comply with the request.
 
 Note:          For limitations on what may be included in reports under this section, see the following provisions:
 
-(a)    section 22 (information that would be prejudicial to the public interest);
+(a)           section 22 (information that would be prejudicial to the public interest);
 
-(b)    section 23 (taxpayer information);
+(b)           section 23 (taxpayer information);
 
-(c)    section 24 (identifying tax officials);
+(c)           section 24 (identifying tax officials);
 
-(d)    section 25 (criticising the ATO or tax officials);
+(d)           section 25 (criticising the ATO or tax officials);
 
-(e)    section 26 (confidential submissions);
+(e)           section 26 (confidential submissions);
 
-(f)    section 27 (legal professional privilege).
+(f)            section 27 (legal professional privilege).
 
 ##### <a id="11"></a>11  Public release of reports
 
@@ -334,9 +334,9 @@ Process for inviting or making submissions
 
 Note:          For example, the Inspector‑General may:
 
-(a)    advertise in the press or other media seeking written submissions from the public; or
+(a)           advertise in the press or other media seeking written submissions from the public; or
 
-(b)    contact particular people or organisations inviting them to attend a meeting at which they may make oral submissions.
+(b)           contact particular people or organisations inviting them to attend a meeting at which they may make oral submissions.
 
 Submissions may be made publicly available
 
@@ -344,13 +344,13 @@ Submissions may be made publicly available
 
 Note:          For restrictions on the power given by this subsection, see the following provisions:
 
-(a)    section 22 (information that would be prejudicial to the public interest);
+(a)           section 22 (information that would be prejudicial to the public interest);
 
-(b)    section 23 (taxpayer information);
+(b)           section 23 (taxpayer information);
 
-(c)    section 24 (identifying tax officials);
+(c)           section 24 (identifying tax officials);
 
-(d)    section 26 (confidential submissions).
+(d)           section 26 (confidential submissions).
 
 ##### <a id="14"></a>14  Inspector‑General may request Commissioner of Taxation to provide information and documents etc.
 
@@ -718,13 +718,21 @@ Terms and conditions not covered by this Act
 
 ##### <a id="29"></a>29  Acting appointment
 
-                   The Minister may appoint a person to act as the Inspector‑General:
+             (1)  The Minister may appoint a person to act as the Inspector‑General:
 
                      (a)  during a vacancy in the office of Inspector‑General (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Inspector‑General is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="30"></a>30  Remuneration
 
@@ -972,17 +980,17 @@ Annual report to be given to Minister
 
 Note:          For limitations on what may be included in reports under this section, see the following provisions:
 
-(a)    section 22 (information that would be prejudicial to the public interest);
+(a)           section 22 (information that would be prejudicial to the public interest);
 
-(b)    section 23 (taxpayer information);
+(b)           section 23 (taxpayer information);
 
-(c)    section 24 (identifying tax officials);
+(c)           section 24 (identifying tax officials);
 
-(d)    section 25 (criticising the ATO or tax officials);
+(d)           section 25 (criticising the ATO or tax officials);
 
-(e)    section 26 (confidential submissions);
+(e)           section 26 (confidential submissions);
 
-(f)    section 27 (legal professional privilege).
+(f)            section 27 (legal professional privilege).
 
 Details of any subsection 8(2) directions to be included
 
@@ -1022,7 +1030,7 @@ Regulations about fees and allowances for expenses
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
-# Schedule 1—Consequential amendments
+###### Schedule 1—Consequential amendments
 
 <h9 class="ActHead9">Freedom of Information Act 1982</h9>
 
@@ -1058,7 +1066,7 @@ Insert in its appropriate alphabetical position:
   </td>
 </tr></table>
 
-# Notes to the _Inspector-General of Taxation Act 2003_
+# Notes to the _Inspector‑General of Taxation Act 2003_
 
 ### Note 1
 
@@ -1143,7 +1151,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 723–725) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 723–725) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1258,8 +1266,8 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1303,22 +1311,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
@@ -1326,11 +1318,37 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 723  Subsection 29(1)
+
+Omit “(1)”.
+
+## 724  At the end of subsection 29(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 725  Subsection 29(2)
+
+Repeal the subsection.
+
+As at 18 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
