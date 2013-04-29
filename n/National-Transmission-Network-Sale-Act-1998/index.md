@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00001/Html/NatTransNetSaleAct98_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00595/Html/NatTransNetSaleAct98_image001.gif)
 
 # National Transmission Network Sale Act 1998
 
 **Act No. 130 of 1998 as amended**
 
-This compilation was prepared on 1 January 2011
- taking into account amendments up to Act No. 140 of 2010
+This compilation was prepared on 16 August 2010
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,79 +18,79 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Crown to be bound
+[4](#4).            Crown to be bound                                                                              5
 
-[5](#5).            External Territories
+[5](#5).            External Territories                                                                              5
 
-[6](#6).            Extra-territorial operation
+[6](#6).            Extra-territorial operation                                                                    5
 
 **Part 2—Sale of the National Transmission Network**
 
-[7](#7).            Fixtures on non-Commonwealth land
+[7](#7).            Fixtures on non-Commonwealth land                                                  6
 
-[8](#8).            Effect of Lands Acquisition Act on past grants etc  of interests in land
+[8](#8).            Effect of Lands Acquisition Act on past grants etc  of interests in land 6
 
-[9](#9).            Transfer of assets and liabilities
+[9](#9).            Transfer of assets and liabilities                                                          7
 
-[10](#10).          Exemption from stamp duty and other taxes
+[10](#10).          Exemption from stamp duty and other taxes                                      8
 
-[11](#11).          Registration of transfers of land
+[11](#11).          Registration of transfers of land                                                          8
 
-[12](#12).          Part does not place person in breach of contract etc 
+[12](#12).          Part does not place person in breach of contract etc                           9
 
 **Part 3—Access to services etc.**
 
-[13](#13).          Deemed application of telecommunications access regime
+[13](#13).          Deemed application of telecommunications access regime                10
 
-[14](#14).          Nominated services
+[14](#14).          Nominated services                                                                            10
 
-[15](#15).          Nominated customers
+[15](#15).          Nominated customers                                                                        11
 
-[16](#16).          Miscellaneous modifications of telecommunications access regime
+[16](#16).          Miscellaneous modifications of telecommunications access regime  12
 
-[17](#17).          Relationship with other access regimes
+[17](#17).          Relationship with other access regimes                                             13
 
 **Part 4—Restrictions on transfer of assets**
 
-[18](#18).          Minister’s approval required for transfers of original assets or replacement assets
+[18](#18).          Minister’s approval required for transfers of original assets or replacement assets               14
 
 **Part 5—Transmitter licences**
 
-[19](#19).          Transfer of transmitter licences to ABC and SBS
+[19](#19).          Transfer of transmitter licences to ABC and SBS                             15
 
 **Part 6—Powers and immunities of NTC or declared successor**
 
-[20](#20).          Deemed application of telecommunications carrier rules
+[20](#20).          Deemed application of telecommunications carrier rules                  16
 
-[21](#21).          Miscellaneous modifications of telecommunications carrier rules
+[21](#21).          Miscellaneous modifications of telecommunications carrier rules     16
 
 **Part 7—Miscellaneous**
 
-[22](#22).          Declared successors
+[22](#22).          Declared successors                                                                           17
 
-[23](#23).          Delegation
+[23](#23).          Delegation                                                                                          17
 
-[24](#24).          Immunity from State and Territory regulatory laws
+[24](#24).          Immunity from State and Territory regulatory laws                         17
 
-[25](#25).          Application of Competition and Consumer Act to sale of shares in NTC
+[25](#25).          Application of Trade Practices Act to sale of shares in NTC           19
 
-[26](#26).          Lands Acquisition Act does not apply
+[26](#26).          Lands Acquisition Act does not apply                                             19
 
-[27](#27).          Commonwealth records
+[27](#27).          Commonwealth records                                                                     19
 
-[28](#28).          Compensation for acquisition of property
+[28](#28).          Compensation for acquisition of property                                        19
 
-[29](#29).          Disallowable instruments
+[29](#29).          Disallowable instruments                                                                  20
 
-[30](#30).          Regulations
+[30](#30).          Regulations                                                                                        20
 
 **Notes** 
 
@@ -114,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
 
-                    <a name="access-seeker"></a>**_access seeker_** has the same meaning as in Part XIC of the Competition and Consumer Act.
+                    <a name="access-seeker"></a>**_access seeker_** has the same meaning as in Part XIC of the Trade Practices Act.
 
                     <a name="ancillari-servic"></a>**_ancillary service_** means a service that is ancillary to a national broadcasting service and is carried by means of an analog main carrier signal that is used for the transmission of the national broadcasting service.
 
@@ -147,8 +147,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="commun-broadcast-servic"></a>**_community broadcasting service_** has the same meaning as in the Broadcasting Services Act.
 
                     <a name="compani"></a>**_company_** means a body corporate.
-
-                    <a name="competit-consum-act"></a>**_Competition and Consumer Act_** means the _Competition and Consumer Act 2010_.
 
                     <a name="declar-remot-area"></a>**_declared remote area_** means an area specified by the Minister, in writing, for the purposes of this definition.
 
@@ -226,9 +224,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="telecommun-access-regim"></a>**_telecommunications access regime_** means:
 
-                     (a)  Part XIC of the Competition and Consumer Act (as in force immediately before the commencement of Division 1 of Part 2 of Schedule 1 to the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_); and
+                     (a)  Part XIC of the Trade Practices Act; and
 
-                     (b)  any other provisions of the Competition and Consumer Act (as in force immediately before the commencement of Division 1 of Part 2 of Schedule 1 to the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_) that relate to the operation of that Part; and
+                     (b)  any other provisions of the Trade Practices Act that relate to the operation of that Part; and
 
                      (c)  sections 62 and 68, subsection 70(5) and Parts 30, 31 and 32 of the Telecommunications Act; and
 
@@ -245,6 +243,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="telecommun-facil"></a>**_telecommunications facility_** means a facility within the meaning of the Telecommunications Act.
 
                     <a name="telecommun-transmiss-tower"></a>**_telecommunications transmission tower_** has the same meaning as in Part 5 of Schedule 1 to the Telecommunications Act.
+
+                    <a name="trade-practic-act"></a>**_Trade Practices Act_** means the _Trade Practices Act 1974_.
 
 ##### <a id="4"></a>4  Crown to be bound
 
@@ -380,7 +380,7 @@ Note:          The assets and liabilities that can be transfer
 
              (2)  The telecommunications access regime has effect as if:
 
-                     (a)  each nominated service were a declared service within the meaning of Part XIC of the Competition and Consumer Act; and
+                     (a)  each nominated service were a declared service within the meaning of Part XIC of the Trade Practices Act; and
 
                      (b)  each provider of a nominated service were:
 
@@ -388,7 +388,7 @@ Note:          The assets and liabilities that can be transfer
 
                              (ii)  the holder of a carrier licence; and
 
-                     (c)  each nominated customer were a service provider within the meaning of Part XIC of the Competition and Consumer Act.
+                     (c)  each nominated customer were a service provider within the meaning of Part XIC of the Trade Practices Act.
 
 ##### <a id="14"></a>14  Nominated services
 
@@ -458,7 +458,7 @@ Note:          The assets and liabilities that can be transfer
 
 ##### <a id="16"></a>16  Miscellaneous modifications of telecommunications access regime
 
-             (1)  The following provisions of the Competition and Consumer Act do not apply:
+             (1)  The following provisions of the Trade Practices Act do not apply:
 
                      (a)  subsections 152AB(2), (3), (4), (5), (6), (7) and (8);
 
@@ -470,15 +470,15 @@ Note:          The assets and liabilities that can be transfer
 
                      (e)  paragraph 152CQ(1)(b).
 
-             (2)  Subsections 152AR(12) and 152CQ(9) of the Competition and Consumer Act have effect as if “13 September 1996” were replaced by “30 October 1997”.
+             (2)  Subsections 152AR(12) and 152CQ(9) of the Trade Practices Act have effect as if “13 September 1996” were replaced by “30 October 1997”.
 
-             (3)  Section 152AH of the Competition and Consumer Act has effect as if the following matters were substituted for the matter in paragraph 152AH(1)(e):
+             (3)  Section 152AH of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152AH(1)(e):
 
                      (a)  whether the technical and operational quality of the declared service are at least equivalent to the benchmark level;
 
                      (b)  whether the access seeker would receive fault detection, handling and rectification of a technical and operational quality and timing at least equivalent to the benchmark level.
 
-             (4)  Section 152CR of the Competition and Consumer Act has effect as if the following matters were substituted for the matter in paragraph 152CR(1)(f):
+             (4)  Section 152CR of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152CR(1)(f):
 
                      (a)  whether the technical and operational quality of the declared service are at least equivalent to the benchmark level;
 
@@ -486,23 +486,21 @@ Note:          The assets and liabilities that can be transfer
 
              (5)  For the purposes of this section, the **_benchmark level_** is the level specified by the Minister, in writing, for the purposes of this section.
 
-             (6)  A reference in this section to the **_Competition and Consumer Act_** is a reference to that Act as in force immediately before the commencement of Division 1 of Part 2 of Schedule 1 to the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_.
-
 ##### <a id="17"></a>17  Relationship with other access regimes
 
-             (1)  If a nominated service becomes a declared service for the purposes of the telecommunications access regime in accordance with section 152AL of the Competition and Consumer Act, then this Act does not prevent the application of the telecommunications access regime in relation to:
+             (1)  If a nominated service becomes a declared service for the purposes of the telecommunications access regime in accordance with section 152AL of the Trade Practices Act, then this Act does not prevent the application of the telecommunications access regime in relation to:
 
                      (a)  access to the declared service by persons who are not nominated customers; or
 
                      (b)  access to the declared service by nominated customers for purposes other than nominated purposes.
 
-             (2)  A notification must not be given under section 44S of the Competition and Consumer Act in relation to an access dispute if:
+             (2)  A notification must not be given under section 44S of the Trade Practices Act in relation to an access dispute if:
 
                      (a)  the dispute relates to a nominated service; and
 
                      (b)  the third party is a nominated customer who is seeking access for a nominated purpose.
 
-             (3)  The ACCC must not accept an undertaking under section 44ZZA of the Competition and Consumer Act if any of the terms and conditions set out in the undertaking relate to access to a nominated service by a nominated customer for a nominated purpose.
+             (3)  The ACCC must not accept an undertaking under section 44ZZA of the Trade Practices Act if any of the terms and conditions set out in the undertaking relate to access to a nominated service by a nominated customer for a nominated purpose.
 
 ## Part 4—Restrictions on transfer of assets
 
@@ -660,9 +658,9 @@ solely or principally in connection with the provision of a broadcasting service
 
                              (ii)  conducting a particular kind of operation.
 
-##### <a id="25"></a>25  Application of Competition and Consumer Act to sale of shares in NTC
+##### <a id="25"></a>25  Application of Trade Practices Act to sale of shares in NTC
 
-                   For the avoidance of doubt, it is declared that section 50 of the Competition and Consumer Act applies to the acquisition from the Commonwealth of shares in an NTC.
+                   For the avoidance of doubt, it is declared that section 50 of the Trade Practices Act applies to the acquisition from the Commonwealth of shares in an NTC.
 
 ##### <a id="26"></a>26  Lands Acquisition Act does not apply
 
@@ -795,24 +793,7 @@ of Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 169–175): 1 Jan 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010</div>
-  </td>
-  <td>
-    <div>140, 2010</div>
-  </td>
-  <td>
-    <div>15 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 68, 69): <i>(b)</i></div>
+    <div>Schedule 6 (items 169–175): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -825,102 +806,6 @@ _(a)_     The _National Transmission Network Sale Act 1998_ was amended 
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_    Subsection 2(1) (item 5) of the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the start of the day after this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) immediately after the commencement of item 2 of Schedule 5 to the
-        <i>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010.</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2011
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
 ## Table of Amendments
 
 <table>
@@ -943,62 +828,6 @@ _(b)_    Subsection 2(1) (item 5) of the _Telecommunications Legislation A
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. Nos. 103 and 140, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 103, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16</div>
-    </td>
-    <td>
-      <div>am. Nos. 103 and 140, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 103, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 7</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -1007,22 +836,49 @@ _(b)_    Subsection 2(1) (item 5) of the _Telecommunications Legislation A
   <td>
     <div>am. No. 146, 1999</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 25</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 169  Section 3 (definition of _access seeker_)
+
+Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
+
+## 170  Section 3
+
+Insert:
+
+                    <a name="competit-consum-act"></a>**_Competition and Consumer Act_** means the _Competition and Consumer Act 2010_.
+
+## 171  Section 3 (paragraphs (a) and (b) of the definition of _telecommunications access regime_)
+
+Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
+
+## 172  Section 3 (definition of _Trade Practices Act_)
+
+Repeal the definition.
+
+## 173  Paragraphs 13(2)(a) and (c)
+
+Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
+
+## 174  Subsections 16(1), (2), (3) and (4) and 17(1), (2) and (3)
+
+Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
+
+## 175  Section 25
+
+Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
+
+_Note:       The heading to section 25 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
+
+As at 16 August 2010 the amendments are not incorporated in this compilation.
 
  
