@@ -1,7 +1,7 @@
 
 Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 Act No. 97 of 1993 as amended 
-This compilation was prepared on 12 May 2003 taking into account amendments up to Act No. 16 of 2003
+This compilation was prepared on 30 January 2003 taking into account amendments up to Act No. 117 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,7 +9,7 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 Part 2—General provisions	2
@@ -51,50 +51,44 @@ Subdivision B—Tax losses and the Income Tax Assessment Act 1997	27
 26A	Application of this Subdivision	27
 26B	Transfer of tax loss from transferring corporation to receiving corporation	27
 26C	Deduction for tax loss—easing of restrictions on transferring corporation	27
-Division 9—Continuity of partnerships	30
-27	Transfer of an interest in a partnership does not affect continuity of partnership	30
-Schedule 1—Tax losses and the Income Tax Assessment Act 1997	31
-Subdivision 170‑A—Transfer of tax losses from a transferring corporation to a receiving corporation	31
-Guide to Subdivision 170‑A	31
-170‑1	What this Subdivision is about	31
-170‑5	Basic principles for transferring tax losses	32
-Effect of transferring a tax loss	33
-170‑10	When a corporation can transfer a tax loss	33
-170‑15	Income company is taken to have incurred transferred loss	33
-170‑20	Who can deduct transferred loss	33
-170‑23	When income company must maintain same owners and control	34
-170‑25	Tax treatment of consideration for transferred tax loss	34
-Conditions for transfer	35
-170‑28	Financial Corporations (Transfer of Assets and Liabilities) Act 1993 must apply to asset transfer from loss company to income company	35
-170‑32	The loss year	35
-170‑33	The transfer year	35
-170‑35	The loss company	36
-170‑50	Transfer by written agreement	36
-170‑55	Losses must be transferred in order they are incurred	36
-170‑60	Income company cannot transfer transferred tax loss	37
-Effect of agreement to transfer more than can be transferred	37
-170‑65	Agreement transfers as much as can be transferred	37
-170‑70	Amendment of assessments	37
-Special rules for transfer from head company of consolidated group or MEC group	38
-170‑75	Transfer of a tax loss incurred by the head company because of Subdivision 707‑A	38
-Schedule 2—Net capital losses and the Income Tax Assessment Act 1997	39
-Part 1—Replacement of sections 170‑110 to 170‑145	39
-Effect of transferring a net capital loss	39
-170‑110	When a corporation can transfer a net capital loss	39
-170‑115	Who can apply transferred loss	39
-170‑120	Gain company is taken to have made transferred loss	40
-170‑125	Tax treatment of consideration for transferred net capital loss	40
-Conditions for transfer	41
-170‑128	Financial Corporations (Transfer of Assets and Liabilities) Act 1993 must apply to asset transfer from loss company to gain company	41
-170‑132	The loss year	41
-170‑133	The transfer year	41
-170‑135	The loss company	42
-170‑140	The gain company	42
-170‑145	Maximum amount that can be transferred	43
-Part 2—Addition of provisions at the end of Subdivision 170‑B	44
-Special rules for transfer from head company of consolidated group or MEC group	44
-170‑175	Transfer of a net capital loss made by the head company because of Subdivision 707‑A	44
-Notes	47
+Division 9—Continuity of partnerships	29
+27	Transfer of an interest in a partnership does not affect continuity of partnership	29
+Schedule 1—Tax losses and the Income Tax Assessment Act 1997	30
+Subdivision 170‑A—Transfer of tax losses from a transferring corporation to a receiving corporation	30
+Guide to Subdivision 170‑A	30
+170‑1	What this Subdivision is about	30
+170‑5	Basic principles for transferring tax losses	31
+Effect of transferring a tax loss	31
+170‑10	When a corporation can transfer a tax loss	31
+170‑15	Income company is taken to have incurred transferred loss	32
+170‑20	Who can deduct transferred loss	32
+170‑23	When income company must maintain same owners and control	32
+170‑25	Tax treatment of consideration for transferred tax loss	33
+Conditions for transfer	33
+170‑28	Financial Corporations (Transfer of Assets and Liabilities) Act 1993 must apply to asset transfer from loss company to income company	33
+170‑32	The loss year	34
+170‑33	The transfer year	34
+170‑35	The loss company	34
+170‑50	Transfer by written agreement	34
+170‑55	Losses must be transferred in order they are incurred	35
+170‑60	Income company cannot transfer transferred tax loss	35
+Effect of agreement to transfer more than can be transferred	35
+170‑65	Agreement transfers as much as can be transferred	35
+170‑70	Amendment of assessments	36
+Schedule 2—Net capital losses and the Income Tax Assessment Act 1997	36
+Effect of transferring a net capital loss	36
+170‑110	When a corporation can transfer a net capital loss	36
+170‑115	Who can apply transferred loss	37
+170‑120	Gain company is taken to have made transferred loss	37
+170‑125	Tax treatment of consideration for transferred net capital loss	37
+Conditions for transfer	38
+170‑128	Financial Corporations (Transfer of Assets and Liabilities) Act 1993 must apply to asset transfer from loss company to gain company	38
+170‑132	The loss year	38
+170‑133	The transfer year	38
+170‑135	The loss company	39
+170‑140	The gain company	39
+170‑145	Maximum amount that can be transferred	40
+Notes	41
 An Act making provision relating to the transfer of assets and liabilities from and to certain financial corporations
 Part 1—Preliminary
   
@@ -280,7 +274,7 @@ This is in addition to that Subdivision’s effect apart from this section.
 19  For the receiving corporation, asset has necessary connection with Australia
 		Parts 3‑1 and 3‑3 of the Income Tax Assessment Act 1997 apply to an asset acquired by the receiving corporation as a result of a transfer as if the asset had, while it is an asset of the receiving corporation, the necessary connection with Australia.
 20  Transfer of net capital loss 
-	(1A)	In addition to its effect apart from this section, the Income Tax Assessment Act 1997 also has the effect it would have if sections 170‑110 to 170‑145 (which are about transferring net capital losses within wholly‑owned company groups) of that Act were replaced by the provisions in Part 1 of Schedule 2 to this Act (which are a modified version of the rules in those sections) and the provisions in Part 2 of that Schedule were added at the end of Subdivision 170‑B of that Act.
+	(1A)	In addition to its effect apart from this section, the Income Tax Assessment Act 1997 also has the effect it would have if sections 170‑110 to 170‑145 (which are about transferring net capital losses within wholly‑owned company groups) of that Act were replaced by the provisions in Schedule 2 to this Act (which are a modified version of the rules in those sections).
 	(1B)	Subsection (1) does not enable a net capital loss to be transferred in the 1998‑99 year of income or a later year of income.
 	(1)	In addition to its effect apart from this section, section 160ZP of the Income Tax Assessment Act 1936 also has the effect it would have if both of the changes set out in subsections (2) and (3) of this section were made.
 	(2)	The first change is that paragraphs 160ZP(7)(a), (b) and (ba) of the Income Tax Assessment Act 1936 are to be replaced by the following paragraphs:
@@ -434,7 +428,7 @@ Subdivision B—Tax losses and the Income Tax Assessment Act 1997
 26B  Transfer of tax loss from transferring corporation to receiving corporation
 		In addition to its effect apart from this section, the Income Tax Assessment Act 1997 also has the effect it would have if Subdivision 170‑A (which is about transferring tax losses within wholly‑owned company groups) of that Act were replaced by Subdivision 170‑A (which is a modified version of the rules in that Subdivision) in Schedule 1 to this Act.
 26C  Deduction for tax loss—easing of restrictions on transferring corporation
-	(1)	If:
+		If:
 	(a)	this Act applies to one or more transfers by the transferring corporation to the receiving corporation; and
 	(b)	the transferring corporation is taken (otherwise than because of a transfer of a tax loss under section 80G of the Income Tax Assessment Act 1936 or Subdivision 170‑A of the Income Tax Assessment Act 1997) to have incurred a tax loss for a year of income (the loss year); and
 	(c)	the loss year is the income year in which section 26 of this Act commenced or an earlier income year; and
@@ -446,26 +440,12 @@ Subdivision B—Tax losses and the Income Tax Assessment Act 1997
 neither Subdivision 165‑A nor 175‑A of that Act prevents the transferring corporation from deducting that amount.
 Note:	Subdivision 165‑A of the Income Tax Assessment Act 1997 is about the conditions that a company needs to satisfy before it can deduct a tax loss from an earlier income year.
 	Subdivision 175‑A of the Income Tax Assessment Act 1997 is about the Commissioner preventing a company from getting certain tax benefits through its unused tax losses.
-	(2)	Subsection (1) operates on the basis described in subsection (3) if:
-	(a)	the head company of a consolidated group or MEC group incurred a tax loss because of Subdivision 707‑A of the Income Tax Assessment Act 1997; and
-	(b)	the company (the real loss‑maker) that incurred the tax loss apart from that Subdivision is a member of the group in the deduction year; and
-	(c)	disregarding section 701‑1 (the single entity rule) of that Act, this Act applies to one or more transfers by the real loss‑maker to the receiving corporation.
-Note:	In certain cases, Subdivision 707‑A of the Income Tax Assessment Act 1997 treats the head company of a consolidated group or MEC as incurring a tax loss actually incurred by an entity that becomes a member of the group.
-	(3)	Subsection (1) operates as if:
-	(a)	the head company were the transferring corporation in relation to each transfer described in paragraph (1)(a) and this Act applied to each of those transfers; and
-	(b)	the head company incurred the tax loss for the income year for which the real loss‑maker incurred it (apart from Subdivision 707‑A of the Income Tax Assessment Act 1997); and
-	(c)	each reference in that subsection to Subdivision 165‑A of that Act were a reference to that Subdivision as its operation is affected by Subdivision 707‑B of that Act, and by Subdivision 719‑F of that Act (if relevant).
-Note 1:	Subdivision 707‑B of the Income Tax Assessment Act 1997 affects the operation of Subdivision 165‑A of that Act in relation to the deduction of a tax loss incurred by the head company of a consolidated group or MEC group because of Subdivision 707‑A of that Act.
-Note 2:	Subdivision 719‑F of the Income Tax Assessment Act 1997 affects the operation of Subdivision 165‑A of that Act in relation to the deduction of a tax loss incurred by the head company of a MEC group because of Subdivision 707‑A of that Act.
-	(4)	An expression used in this section and in the Income Tax Assessment Act 1997 has the same meaning in this section as it has in that Act. This subsection does not apply to the expressions deduction year, loss year, this Act and transfer.
 
 Division 9—Continuity of partnerships
 27  Transfer of an interest in a partnership does not affect continuity of partnership
 	(1)	This section applies if an interest in a partnership is transferred.
 	(2)	For the purposes of the Income Tax Assessment Act 1936, the transfer does not affect the continuity of the partnership. 
 Schedule 1—Tax losses and the Income Tax Assessment Act 1997
-  
-  
 Subdivision 170‑A—Transfer of tax losses from a transferring corporation to a receiving corporation
 Guide to Subdivision 170‑A
 170‑1  What this Subdivision is about
@@ -490,14 +470,11 @@ Conditions for transfer
 Effect of agreement to transfer more than can be transferred
 170‑65	Agreement transfers as much as can be transferred 
 170‑70	Amendment of assessments
-Special rules for transfer from head company of consolidated group or MEC group
-170‑75  Transfer of a tax loss incurred by the head company because of Subdivision 707‑A
 170‑5  Basic principles for transferring tax losses
 	(1)	A transferring corporation (within the meaning of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993) can transfer a tax loss to a receiving corporation (within the meaning of that Act) so that the receiving corporation can deduct it.
 	(2)	The corporations must be related in such a way that that Act would apply to a transfer of assets from the transferring corporation to the receiving corporation.
 	(3)	The receiving corporation need not have enough assessable income to offset the transferred tax loss.
 	(4)	The tax loss is transferred by an agreement between the 2 corporations. 
-	(5)	Special rules extend the scope of this Subdivision to let the head company of a consolidated group or MEC group transfer in some cases a tax loss the company incurred because of Subdivision 707‑A. The rules do this by modifying the basis on which other provisions of this Subdivision operate.
 Effect of transferring a tax loss
 170‑10  When a corporation can transfer a tax loss
 	(1)	A transferring corporation within the meaning of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 (the loss company) can transfer an amount of its *tax loss for an income year of the loss company (the loss year) to a receiving corporation within the meaning of that Act (the income company) if the conditions in this Subdivision are met.
@@ -567,21 +544,7 @@ Effect of agreement to transfer more than can be transferred
 	(a)	if the agreement to transfer the tax loss is ineffective because the *loss company did not actually incur the loss; or
 	(b)	to the extent that section 170‑65 reduces the transferred amount of a tax loss because the loss company did not actually incur some of it.
 The Commissioner may do so despite section 170 (Amendment of assessments) of the Income Tax Assessment Act 1936.
-Special rules for transfer from head company of consolidated group or MEC group
-170‑75  Transfer of a tax loss incurred by the head company because of Subdivision 707‑A
-	(1)	The other sections of this Subdivision operate in relation to the actual or proposed transfer of a *tax loss on the basis described in this section if:
-	(a)	the *head company of a *consolidated group or *MEC group incurred the tax loss because of Subdivision 707‑A; and
-	(b)	the company (the real loss‑maker) that incurred the tax loss apart from Subdivision 707‑A is a *member of the group at the end of the income year for which it is proposed to transfer the loss under this Subdivision.
-	(2)	The other sections of this Subdivision, except section 170‑28, operate as if:
-	(a)	the *head company were a transferring corporation within the meaning of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993; and
-	(b)	the head company had incurred the *tax loss for the income year for which the real loss‑maker incurred the tax loss (apart from Subdivision 707‑A).
-Note:	This has the effect that (because of subsection 170‑10(1)) those sections operate as if the head company were the loss company and the loss year were the income year for which the real loss‑maker incurred the loss.
-	(3)	Section 170‑28 operates as if:
-	(a)	the real loss‑maker were the *loss company; and
-	(b)	section 701‑1 (the single entity rule) could not affect whether the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 would have applied to the transfer described in section 170‑28.
 Schedule 2—Net capital losses and the Income Tax Assessment Act 1997
-Part 1—Replacement of sections 170‑110 to 170‑145
-  
 Effect of transferring a net capital loss
 170‑110  When a corporation can transfer a net capital loss
 	(1)	A transferring corporation within the meaning of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 (the loss company) can transfer an amount of its *net capital loss for an income year of the loss company (the capital loss year) to a receiving corporation within the meaning of that Act (the gain company) if the conditions in this Subdivision are met.
@@ -644,22 +607,6 @@ other capital losses totalling $10,000; and
 capital gains totalling $20,000;
 	Of the $25,000 loss, the loss company can transfer to the gain company no more than:
 
-Part 2—Addition of provisions at the end of Subdivision 170‑B
-  
-Special rules for transfer from head company of consolidated group or MEC group
-170‑175  Transfer of a net capital loss made by the head company because of Subdivision 707‑A
-	(1)	The other sections of this Subdivision operate in relation to the actual or proposed transfer of a *net capital loss on the basis described in this section if:
-	(a)	the *head company of a *consolidated group or *MEC group made the net capital loss because of Subdivision 707‑A; and
-	(b)	the company (the real loss‑maker) that made the net capital loss apart from Subdivision 707‑A is a *member of the group at the end of the income year for which it is proposed to transfer the loss under this Subdivision.
-	(2)	The other sections of this Subdivision, except section 170‑128, operate as if:
-	(a)	the *head company were a transferring corporation within the meaning of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993; and
-	(b)	the head company had made the *net capital loss for the income year for which the real loss‑maker made the net capital loss (apart from Subdivision 707‑A).
-Note:	This has the effect that (because of subsection 170‑110(1)) those sections operate as if the head company were the loss company and the capital loss year were the income year for which the real loss‑maker made the loss.
-	(3)	Section 170‑128 operates as if:
-	(a)	the real loss‑maker were the *loss company; and
-	(b)	section 701‑1 (the single entity rule) could not affect whether the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 would have applied to the transfer described in section 170‑28.
-	(4)	Subsection 170‑135(2) operates as if the reference in it to Subdivision 165‑CA were a reference to that Subdivision as it operates given the effect of Subdivision 707‑B, and Subdivision 719‑F if relevant, on the operation of Subdivision 165‑A.
-Note:	Subdivision 165‑CA determines whether a net capital loss can be applied by reference to whether Subdivision 165‑A would permit the deduction of a tax loss for the same income year as the net capital loss. Subdivisions 707‑B and 719‑F affect the operation of Subdivision 165‑A in relation to losses made by a company because of Subdivision 707‑A.
 Notes to the Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 Note 1
 The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 as shown in this compilation comprises Act No. 97, 1993 amended as indicated in the Tables below.
@@ -684,7 +631,7 @@ Income Tax (Consequential Amendments) Act 1997
 Taxation Laws Amendment Act (No. 2) 1997
 95, 1997
 30 June 1997
-S. 4 and Schedule 5 (items 14–16): Royal Assent(a)
+Schedule 5 (items 14‑16): (a)
 S. 4 and Sch. 5 (items 15, 16) 
 Financial Laws Amendment Act 1997
 107, 1997
@@ -704,47 +651,47 @@ Schedule 5 (items 2, 4): 30 June 1997 (c)
 Tax Law Improvement Act 1997
 121,1997
 8 July 1997
-Section 4:Royal Assent (d) Schedule 2 (items 38, 39): (d) Schedule 5 (items 95–99): (d)  Schedule 8 (item 52): (d)
+Schedule 2 (Part 4): (dc)  Schedule 5 (items 95‑99): (d)  Schedule 8 (Part 4): (d)
 S. 4 and Sch. 5 (item 99) 
 Taxation Laws Amendment Act (No. 1) 1998
 16, 1998
 16 Apr 1998
-Schedule 9: Royal Assent (e)
+Schedule 9: (e)
 Sch. 9 (item 2) 
 Tax Law Improvement Act (No. 1) 1998
 46, 1998
 22 June 1998
-Schedule 2 (items 540–545): (f)  Schedule 3 (items 22–24): (f)
+Schedule 2 (items 540‑545): (f)  Schedule 3 (items 22‑24): (f)
 S. 4, Sch. 2 (item 545) and Sch. 3 (item 24)
 Financial Sector Reform (Consequential Amendments) Act 1998
 48, 1998
 29 June 1998
-Schedule 1 (items 48–63): 1 July 1998 (see Gazette, 1998, No. S316) (g)
+Schedule 1 (items 48‑63): 1 July 1998 (see Gazette, 1998, No. S316) (g)
 —
 Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
 54, 1998
 29 June 1998
 Schedule 18 (item 46): 1 July 1998 (see Gazette 1998, No. S316) (h)
-—
+Sch. 19 (Part 7)
 New Business Tax System (Integrity and Other Measures) Act 1999
 169, 1999
 10 Dec 1999
-Schedule 5 (items 16–19): 22 Feb 1999 (i)
+Schedule 5 (items 16‑19): 22 Feb 1999 (i)
 —
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000
 24, 2000
 3 Apr 2000
-Schedule 4 (items 1, 3): 1 July 1998 (j) Schedule 4 (items 2, 4–6,  8–11): 22 Dec 1998 (j) Schedule 4 (item 7): Royal Assent (j) Schedule 12 (items 1–3): 3 Apr 2000 (j)
-Sch. 12 (items 1–3)
+Schedule 4 (items 1, 3): 1 July 1998 (i) Schedule 4 (items 2, 4‑6, 8‑11): 22 Dec 1998 (j) Schedule 4 (item 7): Royal Assent (j) Schedule 12 (items 1‑3): 3 Apr 2000 (j)
+Sch. 12 (items 1‑3)
 Corporations (Repeals, Consequentials and Transitionals) Act 2001
 55, 2001
 28 June 2001
-Ss. 4–14 and Schedule 3 (items 187–189): 15 July 2001 (see Gazette 2001, No. S285) (k)
-Ss. 4–14
+Ss. 4‑14 and Schedule 3 (items 187‑189): 15 July 2001 (see Gazette 2001, No. S285) (k)
+Ss. 4‑14
 Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001
 121, 2001
 24 Sept 2001
-Ss. 1–3: Royal Assent Remainder: 1 July 2002 (see s. 2(2) and Gazette 2002 No. GN24)
+Ss. 1‑3: Royal Assent Remainder: 1 July 2002 (see s. 2(2) and Gazette 2002 No. GN24)
 —
 Financial Corporations (Transfer of Assets and Liabilities) Amendment Act 2002
 33, 2002
@@ -756,39 +703,31 @@ New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002
 2 Dec 2002
 Schedule 14 (items 1, 2): (l)
 —
-New Business Tax System (Consolidation and Other Measures) Act) 2003
-16, 2003
-11 Apr 2003
-Schedule 20 (items 1–8): (m)
-Sch. 20 (item 8) [see Table A]
-(a)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (item 14) only of the Taxation Laws Amendment Act (No. 2) 1997, subsection 2(1) of which provides as follows:
+(a)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (items 14‑16) only of the Taxation Laws Amendment Act (No. 2) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Laws Amendment Act 1997, subsections 2(1) and (2A) of which provide follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2A)	Items 1 and 1A of Schedule 4 are taken to have commenced on 22 December 1996.
 (c)	The Financial Laws Amendment Act 1997 was amended by Schedule 5 (items 2 and 4) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000, subsection 2(5) of which provides as follows:
 	(5)	Items 2 and 4 of Schedule 5 are taken to have commenced on 30 June 1997, immediately after the commencement of section 2 of the Financial Laws Amendment Act 1997.
-(d)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (items 38 and 39), Schedule 5 (items 95–98) and Schedule 8 (item 52) only of the Tax Law Improvement Act 1997, subsections 2(1)–(3) of which provide as follows:
+(d)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (Part 4), Schedule 5 (items 95‑99) and Schedule 8 (Part 4) only of the Tax Law Improvement Act 1997, subsections 2(1) and (3) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	 (2)	Schedule 1 commences on 1 July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
 	(3)	Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
 (e)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 9 only of the Taxation Laws Amendment Act (No. 1) 1998, subsection 2(1) of which provides as follows: 
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-(f)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (items 540–544) and Schedule 3 (items 22, 23) only of the Tax Law Improvement Act (No. 1) 1998, subsections 2(1)–(3) of which provide as follows:
+(f)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (items 540‑545) and Schedule 3 (items 22‑24) only of the Tax Law Improvement Act (No. 1) 1998, subsections 2(1)‑(3) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.
 	 (3)	Schedule 3 commences immediately after the commencement of Schedule 2 (except item 4 of it).
-Schedule 1 commenced on 22 June 1998.
-(g) 	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 1 (items 48–63) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
+(g) 	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 1 (items 48‑63) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.
-(h)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 18 (item 46) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act 1998, subsection 2(2)(p) of which provides as follows:
+(h)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 18 (item 12) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act 1998, subsection 2(2)(p) of which provides as follows:
 	(2)	The following provisions of this Act commence on the commencement of the Australian Prudential Regulation Authority Act 1998:
 (p) Schedule 18, other than the items amending the Australian Prudential Regulation Authority Act 1998.
-(i)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (items 16–19) only of the New Business Tax System (Integrity and Other Measures) Act 1999, subsection 2(2) of which provides as follows:
+(i)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (items 16‑19) only of the New Business Tax System (Integrity and Other Measures) Act 1999, subsection 2(2) of which provides as follows:
 	(2)	Schedule 5 is taken to have commenced on 22 February 1999.
-(j)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000, subsections 2(1), (3), (4), (5) (12) and (13) of which provide as follows:
+(j)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000, subsections 2(1), (4), (5) (12) and (13) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	 (3)	Items 1 and 3 of Schedule 4 are taken to have commenced on 1 July 1998, immediately after the commencement of items 51 and 58 of Schedule 1 to the Financial Sector Reform (Consequential Amendments) Act 1998.
 	(4)	Items 2, 4, 5, 6, 8, 9, 10 and 11 of Schedule 4 are taken to have commenced on 22 December 1998.
 	(5)	Items 2 and 4 of Schedule 5 are taken to have commenced on 30 June 1997, immediately after the commencement of section 2 of the Financial Laws Amendment Act 1997.
 	(12)	Part 1 of Schedule 12 commences:
@@ -797,7 +736,7 @@ Schedule 1 commenced on 22 June 1998.
 	(13)	These are the relevant Acts for the purposes of paragraph (12)(a):
 	(a)	this Act;
 	(b)	each of the Acts referred to in the definition of Validation Act in item 1 of Schedule 12 to this Act.
-(k)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 3 (items 187–189) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
+(k)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 3 (items 187‑189) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 (l)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 14 (items 1 and 2) only of the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002, subsection 2(1) (item 9) of which provides as follows:
 	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
@@ -812,16 +751,6 @@ Date/Details
 9.  Schedules 6 to 15
 Immediately after the commencement of Schedule 1 to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002
 24 October 2002
-
-(m)	Subsection 2(1) (item 13) of the New Business Tax System (Consolidation and Other Measures) Act 2003 provides as follows:
-
-Provision(s)
-Commencement
-Date/Details
-13.  Schedules 20 to 23
-Immediately after the commencement of Schedule 1 to the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002
-24 October 2002
-
 Table of Amendments
 ad. = added or inserted     am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -853,7 +782,7 @@ rs. No. 46, 1998
 Heading to s. 20	
 rs. No. 46, 1998
 S. 20	
-am. No. 46, 1998; No. 24, 2000; No. 33, 2002; No. 16, 2003
+am. No. 46, 1998; No. 24, 2000; No. 33, 2002
 S. 21	
 am. Nos. 39 and 121, 1997
 S. 22	
@@ -866,24 +795,18 @@ S. 24
 am. No. 39, 1997; No. 24, 2000; No. 33, 2002
 S. 26	
 am. No. 39, 1997
-Subdiv. B of Div. 8 	 (ss. 26A–26C)
+Subdiv. B of Div. 8 	 (ss. 26A‑26C)
 ad. No. 39, 1997
-Ss. 26A, 26B	
+Ss. 26A‑26C	
 ad. No. 39, 1997
-S. 26C	
-ad. No. 39, 1997
-
-am. No. 16, 2003
 Schedule 1	
 ad. No. 39, 1997
 
-am. No. 169, 1999; No. 24, 2000; No. 33, 2002; No. 16, 2003
+am. No. 169, 1999; No. 24, 2000; No. 33, 2002
 S. 170‑1 	
 ad. No. 39, 1997
 S. 170‑5 	
 ad. No. 39, 1997
-
-am. No. 16, 2003
 S. 170‑10 	
 ad. No. 39, 1997
 S. 170‑15 	
@@ -916,14 +839,10 @@ S. 170‑65
 ad. No. 39, 1997
 S. 170‑70 	
 ad. No. 39, 1997
-S. 170‑75	
-ad. No. 16, 2003
 Schedule 2	
 ad. No. 46, 1998
 
-am. No. 169, 1999; No. 24, 2000; No. 33, 2002; No. 16, 2003
-Heading to Part 1	
-ad. No. 16, 2003
+am. No. 169, 1999; No. 24, 2000; No. 33, 2002
 S. 170‑110 	
 ad. No. 46, 1998
 S. 170‑115 	
@@ -952,10 +871,6 @@ S. 170‑145
 ad. No. 46, 1998
 
 am. No. 169, 1999
-Part 2	
-ad. No. 16, 2003
-S. 170‑175	
-ad. No. 16, 2003
 Table A
 Application, saving or transitional provisions
 Taxation Laws Amendment Act (No. 2) 1997 (No. 95, 1997)
@@ -1023,11 +938,5 @@ Validation Act means any of the following Acts:
 Note:	This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act.
 3  No retrospective criminal liability
 Nothing in this Part or the Validation Acts is taken to make a person criminally liable in respect of acts or omissions of the person before the day on which this Part commences, if the person would not have been so liable had this Part and the Validation Acts not been enacted.
-
-New Business Tax System (Consolidation and Other Measures) Act 2003 (No. 16, 2003)
-Schedule 20
-8  Application
-(1)	The amendments of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 made by this Schedule apply to assessments for the income year including 1 July 2002 and later income years.
-(2)	In this item:
-income year has the same meaning as in the Income Tax Assessment Act 1997.
+      
 
