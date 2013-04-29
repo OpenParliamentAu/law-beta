@@ -1,22 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00481/Html/CAEEB8E0F4E373FBCA2571CD001A70B1/$FILE/ParliamentaryEntitlements1990_WD02_image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
-**Act No. 28 of 1990 as amended**
+**Act No. 28 of 1990**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 17 August 2006
 
 \[Note: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (1997 No. 318 as amended) _see_ Table A]
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -59,6 +59,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 2—Amendment of Remuneration Tribunal Act 1973** 
 
 **Notes** 
+
 
 ## An Act relating to the provision of benefits to Members of each House of the Parliament
 
@@ -118,7 +119,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="senior-offic"></a>**_Senior Officer_** means a Minister, an Opposition Office Holder or a Presiding Officer.
 
-                    <a name="spous"></a>**_spouse_** of a member includes a de facto partner of the member within the meaning of the _Acts Interpretation Act 1901_.
+                    <a name="spous"></a>**_spouse_**, in relation to a member, includes a person who is living with the member as the spouse of the member on a genuine domestic basis although not legally married to the member.
 
                     <a name="annual"></a><a name="year"></a>**_year_** means a financial year, and **_annual_** has a corresponding meaning.
 
@@ -156,7 +157,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00481/Html/CAEEB8E0F4E373FBCA2571CD001A70B1/$FILE/ParliamentaryEntitlements1990_WD02_image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
@@ -206,7 +207,7 @@ then, during that year, the person is entitled only to a proportionate amount of
 
              (1)  In its application to the financial year 1989-90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00481/Html/CAEEB8E0F4E373FBCA2571CD001A70B1/$FILE/ParliamentaryEntitlements1990_WD02_image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
@@ -215,6 +216,7 @@ then, during that year, the person is entitled only to a proportionate amount of
              (3)  An amount worked out under subsection (1) must be rounded to the nearest whole number that is greater than zero.
 
              (4)  If section 6 applies, this section does not.
+
 
 # Schedule 1—Scheduled benefits [_see_ also Table A]
 
@@ -246,160 +248,162 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      1.
-    </div>
-  </td>
-  <td>
-    <div>
-      Transfer of bulk papers to and from Parliament House and the member’s
-        electorate office.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      2.
-    </div>
-  </td>
-  <td>
-    <div>
-      Australian flags and printed material related to national symbols, for
-        presentation to constituents.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3.
-    </div>
-  </td>
-  <td>
-    <div>
-      The cost of postage in relation to Parliamentary or electorate business
-        (other than party business), not exceeding an annual amount of $9,000.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      4.
-    </div>
-  </td>
-  <td>
-    <div>
-      Personalised letterhead stationery.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5.
-    </div>
-  </td>
-  <td>
-    <div>
-      The cost of acquiring publications from the Australian Government Bookshop
-        as approved by the Presiding Officers.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6.
-    </div>
-  </td>
-  <td>
-    <div>
-      Photographic services provided in Parliament House as approved by the
-        Minister.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7.
-    </div>
-  </td>
-  <td>
-    <div>
-      Office accommodation in the electorate, together with equipment and facilities
-        necessary to operate the office, as approved by the Minister.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      8.
-    </div>
-  </td>
-  <td>
-    <div>
-      For travel in
-      Australia
-      for purposes related to Parliamentary or electorate business:
-    </div>
-    <div>(a) the cost of first-class scheduled commercial services; and</div>
-    <div>(b) the use of official cars; and</div>
-      <div>(c) the use of special purpose aircraft as approved by the Minister for Defence.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      9\. (1)
-    </div>
-  </td>
-  <td>
-    <div>
-      For travel overseas as a member of a Parliamentary Delegation within a
-        program approved for each calendar year by the Prime Minister:
-    </div>
-    <div>(a) the cost of travel in accordance with the official itinerary (or, if it is cheaper, a round-the-world ticket); and</div>
-    <div>(b) equipment and clothing allowances equivalent to the appropriate Australian Public Service standard; and</div>
-    <div>(c) the cost of official hospitality extended by the delegation; and</div>
-    <div>(d) the cost of medical and hospital services received by the member; and</div>
-      <div>(e) use of special purpose aircraft as approved by the Prime Minister; and</div>
-      <div>(f) for the leader of a minority party, with the approval of the Prime Minister, the cost of travel, at the appropriate Australian Public Service standard, of a member of staff accompanying the leader.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (2)
-    </div>
-  </td>
-  <td>
-    <div>
-      The class of travel entitlement of the member may be downgraded to offset
-        the cost of the fare of an accompanying spouse or to enable travel to be
-        extended.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10.
-    </div>
-  </td>
-  <td>
-    <div>
-      For former Prime Ministers and Leaders of the Opposition in the House
-        of Representatives, while they are members, additional facilities as approved
-        by the Prime Minister.
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        1.
+      </div>
+    </td>
+    <td>
+      <div>
+        Transfer of bulk papers to and from Parliament House and the member’s
+          electorate office.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        2.
+      </div>
+    </td>
+    <td>
+      <div>
+        Australian flags and printed material related to national symbols, for
+          presentation to constituents.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        3.
+      </div>
+    </td>
+    <td>
+      <div>
+        The cost of postage in relation to Parliamentary or electorate business
+          (other than party business), not exceeding an annual amount of $9,000.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        4.
+      </div>
+    </td>
+    <td>
+      <div>
+        Personalised letterhead stationery.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        5.
+      </div>
+    </td>
+    <td>
+      <div>
+        The cost of acquiring publications from the Australian Government Bookshop
+          as approved by the Presiding Officers.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        6.
+      </div>
+    </td>
+    <td>
+      <div>
+        Photographic services provided in Parliament House as approved by the
+          Minister.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        7.
+      </div>
+    </td>
+    <td>
+      <div>
+        Office accommodation in the electorate, together with equipment and facilities
+          necessary to operate the office, as approved by the Minister.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        8.
+      </div>
+    </td>
+    <td>
+      <div>
+        For travel in
+        Australia
+        for purposes related to Parliamentary or electorate business:
+      </div>
+      <div>(a) the cost of first-class scheduled commercial services; and</div>
+      <div>(b) the use of official cars; and</div>
+        <div>(c) the use of special purpose aircraft as approved by the Minister for Defence.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        9\. (1)
+      </div>
+    </td>
+    <td>
+      <div>
+        For travel overseas as a member of a Parliamentary Delegation within a
+          program approved for each calendar year by the Prime Minister:
+      </div>
+      <div>(a) the cost of travel in accordance with the official itinerary (or, if it is cheaper, a round-the-world ticket); and</div>
+      <div>(b) equipment and clothing allowances equivalent to the appropriate Australian Public Service standard; and</div>
+      <div>(c) the cost of official hospitality extended by the delegation; and</div>
+      <div>(d) the cost of medical and hospital services received by the member; and</div>
+        <div>(e) use of special purpose aircraft as approved by the Prime Minister; and</div>
+        <div>(f) for the leader of a minority party, with the approval of the Prime Minister, the cost of travel, at the appropriate Australian Public Service standard, of a member of staff accompanying the leader.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        (2)
+      </div>
+    </td>
+    <td>
+      <div>
+        The class of travel entitlement of the member may be downgraded to offset
+          the cost of the fare of an accompanying spouse or to enable travel to be
+          extended.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10.
+      </div>
+    </td>
+    <td>
+      <div>
+        For former Prime Ministers and Leaders of the Opposition in the House
+          of Representatives, while they are members, additional facilities as approved
+          by the Prime Minister.
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 2—Parliamentary office-holders and Ministers
 
@@ -415,7 +419,7 @@ _Section 4_
 
      (e)   for an Opposition Office Holder or Presiding Officer, the cost of charter transport; and
 
-     (f)   for the leader of a minority party, the cost of air charter transport, not exceeding an annual amount of $10,000; and
+     (f)    for the leader of a minority party, the cost of air charter transport, not exceeding an annual amount of $10,000; and
 
      (g)   for any Parliamentary office-holder, with the approval of the Minister for Defence, the use of special purpose aircraft.
 
@@ -439,7 +443,7 @@ _Section 4_
 
      (e)   if there is no accompanying spouse, and the Prime Minister so approves, the cost of travel, at the appropriate Australian Public Service standard, of a second member of staff accompanying the Leader or Deputy Leader or Presiding Officer; and
 
-     (f)   the cost of medical and hospital services received overseas by the Leader, Deputy Leader or Presiding Officer.
+     (f)    the cost of medical and hospital services received overseas by the Leader, Deputy Leader or Presiding Officer.
 
      (2)   The whole or part of an entitlement of the Leader or Deputy Leader under subitem (1) in respect of a year may be carried forward to the next year, but not to a later year.
 
@@ -483,9 +487,10 @@ _Section 4_
 
      (e)   a Government or Opposition Whip in the Senate;
 
-     (f)   a Government or Opposition Whip in the House of Representatives;
+     (f)    a Government or Opposition Whip in the House of Representatives;
 
 the cost of postage in relation to official business.
+
 
 # Schedule 2—Amendment of Remuneration Tribunal Act 1973
 
@@ -496,6 +501,7 @@ _Section 13_
 Insert the following definition:
 
                     <a name="allow"></a>**_allowance_** includes, but is not limited to, an annual allowance and a travelling allowance.
+
 
 # Notes to the _Parliamentary Entitlements Act 1990_
 
@@ -521,11 +527,13 @@ The _Parliamentary Entitlements Act 1990_ comprises Act No. 28, 1990 as indica
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -535,82 +543,45 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Parliamentary Entitlements Act 1990</div>
-  </td>
-  <td>
-    <div>28, 1990</div>
-  </td>
-  <td>
-    <div>24 May 1990</div>
-  </td>
-  <td>
-    <div>24 May 1990</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 51): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
+<tbody>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Parliamentary Entitlements Act 1990</div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>28, 1990</div>
     </td>
-  </tr>
-  <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div>24 May 1990</div>
+    </td>
+    <td>
+      <div>24 May 1990</div>
     </td>
     <td>
       <div></div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
-## Table A
+
+Table A
 
 _Parliamentary Entitlements Regulations 1997 (1997 No. 318 as amended by 2003 No. 149; SLI 2005 No. 235; 2006 No. 211)_
 
@@ -884,7 +855,7 @@ substitute
 
          (2)   For the leader of a minority party:
 
-                (a)    the full cost of a home telephone service in   Canberra; and
+                (a)    the full cost of a home telephone service in Canberra; and
 
                (b)    for a dedicated data line associated with the home telephone service:
 
@@ -901,5 +872,10 @@ official business
 insert
 
 , other than postage for a bulk mail-out
+
+ 
+
+
+ 
 
  
