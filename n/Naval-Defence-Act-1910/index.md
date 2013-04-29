@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00055/Html/79B147C883C0D25CCA25712B001D0C28/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00620/Html/560DFD654D0F2C39CA257097001860EB/$FILE/image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 6 March 2006
-taking into account amendments up to Act No. 3 of 2006
+This compilation was prepared on 10 October 2005
+taking into account amendments up to Act No. 121 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -22,59 +22,59 @@ Canberra
 
 **Part I—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[5A](#5A).         Extension of Act to Territories
+[5A](#5A).         Extension of Act to Territories                                                            1
 
-[5B](#5B).         Application of the _Criminal Code_
+[5B](#5B).         Application of the _Criminal Code_                                                       1
 
-[6](#6).            Act does not appropriate money
+[6](#6).            Act does not appropriate money                                                        1
 
 **Part III—The Australian Navy**
 
-[19](#19).          Australian Navy
+[19](#19).          Australian Navy                                                                                  1
 
-[20](#20).          Permanent Navy
+[20](#20).          Permanent Navy                                                                                  1
 
-[21](#21).          Naval Reserve
+[21](#21).          Naval Reserve                                                                                      1
 
-[24](#24).          Voluntary entry
+[24](#24).          Voluntary entry                                                                                   1
 
 **Part IV—The service of the Navy**
 
-[31](#31).          Service of the Permanent Navy
+[31](#31).          Service of the Permanent Navy                                                           1
 
-[32A](#32A).       Service of the Naval Reserve
+[32A](#32A).       Service of the Naval Reserve                                                               1
 
-[33](#33).          Limits of service
+[33](#33).          Limits of service                                                                                  1
 
 **Part V—Cadets**
 
-[38](#38).          Establishment and constitution of the Australian Navy Cadets
+[38](#38).          Establishment and constitution of the Australian Navy Cadets         1
 
-[39](#39).          Administration of the Australian Navy Cadets
+[39](#39).          Administration of the Australian Navy Cadets                                   1
 
 **Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment**
 
-[40](#40).          Interpretation
+[40](#40).          Interpretation                                                                                       1
 
-[42](#42).          Employment of persons in civil capacity
+[42](#42).          Employment of persons in civil capacity                                            1
 
-[42A](#42A).       Determination of conditions of employment
+[42A](#42A).       Determination of conditions of employment                                      1
 
-[42C](#42C).       Public Service Act not to apply
+[42C](#42C).       Public Service Act not to apply                                                          1
 
-[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority
+[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority    1
 
 **Part VII—Miscellaneous**
 
-[44B](#44B).       Delegation
+[44B](#44B).       Delegation                                                                                            1
 
-[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets
+[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets      1
 
-[45](#45).          Regulations
+[45](#45).          Regulations                                                                                          1
 
 **Notes** 
 
@@ -175,7 +175,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  as provided in this section; or
 
-                     (b)  as a result of a call out order under section 50D, 51A, 51AA, 51AB, 51B, 51C or 51CA of the Defence Act.
+                     (b)  as a result of a call out order under section 50D, 51A, 51B or 51C of the Defence Act.
 
              (2)  The regulations must set, or provide for the setting of, training periods for the Naval Reserve.
 
@@ -851,12 +851,12 @@ Remainder: Royal Assent
     </td>
     <td>
       <div>Ss. 1, 2, 16–19, 
-Part XIV (ss. 115, 116) and 120: Royal Assent 
+Part XIV (ss. 115 and 116) and 120: Royal Assent 
 Ss. 23–70 and 72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
 S. 71: 31 Dec 1982 ( <i>see</i>s. 2(3)) 
 Ss. 82, 83 and 87–89: 1 July 1983 
 Ss. 84 and 86: 1 Oct 1972 
-Part XI (ss. 108, 109): 1 Jan 1985 
+Part XI (ss. 108 and 109): 1 Jan 1985 
 Part XV (ss. 
 117–119): 1 Aug 1984 ( <i>see</i>s. 2(8)) 
 S. 121: 1 Jan 1982 
@@ -935,7 +935,7 @@ Ss. 59, 60, 61(2), 63–68, 69(2) and 70: 1 July 1988 ( <i>see Gazette</i>1988
 </div>
     </td>
     <td>
-      <div>S. 64(2)–(5)</div>
+      <div>Ss. 64(2)–(5)</div>
     </td>
   </tr>
   <tr>
@@ -1007,7 +1007,7 @@ Remainder: Royal Assent
       <div>S. 18: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S268) 
 S. 25: 1 Oct 1972 
 Ss. 29 and 36: 1 July 1978 
-Part IX (ss. 52, 53): 18 Dec 1987 
+Part IX (ss. 52 and 53): 18 Dec 1987 
 Remainder: Royal Assent 
 
 </div>
@@ -1170,7 +1170,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i>
       <div>Schedule 19 (item 32): Royal Assent <i>(o)</i></div>
     </td>
     <td>
-      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+      <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3) \[items 1, 2])</div>
     </td>
   </tr>
   <tr>
@@ -1334,12 +1334,12 @@ Remainder: 19 Apr 2001
     </td>
     <td>
       <div>S. 4: Royal Assent 
-Schedule 1 (items 107–109): 15 Dec 2001 
+Schedule 1 (items 107–109): 15 Dec 2001 
 </div>
     </td>
     <td>
       <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28]) 
+S. 2(2) (am. by 135, 2003, Sch. 2 (item 28)) 
 </div>
     </td>
   </tr>
@@ -1413,23 +1413,6 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006</div>
-    </td>
-    <td>
-      <div>3, 2006</div>
-    </td>
-    <td>
-      <div>1 Mar 2006</div>
-    </td>
-    <td>
-      <div>2 Mar 2006</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
  
@@ -1481,7 +1464,7 @@ _(k)_     The _Naval Defence Act 1910_ was amended by section 3 only o
 
          In pursuance of section 2(2) the date of commencement for the repeal of section 23 was 15 December 1990 (_see Gazette_ 1990, No. S312).
 
-_(l)_      The _Naval Defence Act 1910_ was amended by Schedule (Parts 1 and 5) only of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
+_(l)_      The _Naval Defence Act 1910_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
@@ -1495,7 +1478,7 @@ _(m_)    The _Qantas Sale Act 1992_ was amended by section 3 (item 17)
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(n)_     The _Naval Defence Act 1910_ was amended by Schedule 5 only of the _Defence Legislation Amendment Act 1995_, subsection 2(2) of which provides as follows:
+_(n)_     The _Naval Defence Act 1910_ was amended by the _Defence Legislation Amendment Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 1 (except items 3 and 11.3), items 29 and 30 of Schedule 2, and Schedule 5 commence on a day to be fixed by Proclamation.
 
@@ -1503,7 +1486,7 @@ _(o)_     The _Naval Defence Act 1910_ was amended by Schedule 19 (ite
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(p)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
+_(p)_     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
 
                  (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
@@ -3234,7 +3217,7 @@ _(u)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
       <div></div>
     </td>
     <td>
-      <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 1, 1997; No. 119, 2000; No. 10, 2001; No. 3, 2006</div>
+      <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 1, 1997; No. 119, 2000; No. 10, 2001</div>
     </td>
   </tr>
   <tr>
