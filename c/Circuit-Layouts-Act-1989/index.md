@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00729/Html/a9972edc-f56f-4ebb-9956-e3e9373ab407_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00355/Html/d7becac4-43c2-4712-a5be-fddc5a41edb2_files/image001.gif)
 
 # Circuit Layouts Act 1989
 
 **Act No. 28 of 1989 as amended**
 
-This compilation was prepared on 12 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,11 +13,12 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
-**Part I—Preliminary**
+**Part 1—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]
 
@@ -137,11 +138,21 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [48](#48).          Regulations
 
+[49](#49).          Consequential amendments of other Acts
+
+**Schedule—Consequential amendments** 
+
+Copyright Act 1968                                                                                                   24
+
+Designs Act 1906                                                                                                       24
+
+Trade Practices Act 1974                                                                                         24
+
 **Notes** 
 
 ## An Act to provide for the protection of certain layouts for integrated circuits, and for related purposes
 
-## Part I—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -221,7 +232,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="7"></a>7  Application to circuit layouts made before commencement
 
-                   This Act applies in relation to a circuit layout, whether made before or after the commencement of Part II, but an action does not lie under Part III in respect of any act done before that commencement in relation to the layout, a copy of the layout, or an integrated circuit made in accordance with the layout.
+                   This Act applies in relation to a circuit layout, whether made before or after the commencement of Part II, but an action does not lie under Part III in respect of any act done before that commencement in relation to the layout, a copy of the layout, or an integrated circuit made in accordance with the layout.
 
 ##### <a id="8"></a>8  Commercial exploitation
 
@@ -617,6 +628,54 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed for carrying out or giving effect to this Act.
 
+##### <a id="49"></a>49  Consequential amendments of other Acts
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
+
+# Schedule—Consequential amendments
+
+_Section 49_
+
+<h9 class="ActHead9">Copyright Act 1968</h9>
+
+## Subsection 10(1) (definition of _artistic work_)
+
+Add at the end of the definition after paragraph (c) “but does not include a circuit layout within the meaning of the _Circuit Layouts Act 1989_”.
+
+<h9 class="ActHead9">Designs Act 1906</h9>
+
+## Subsection 4(1) (definition of _article_)
+
+Add at the end of the definition “, but does not include an integrated circuit, or part of an integrated circuit, within the meaning of the _Circuit Layouts Act 1989_, or a mask used to make such a circuit”.
+
+## After section 6
+
+Insert the following section in Part I:
+
+<a id="7"></a>7**Certain registrations not to be renewed**
+
+                   In spite of any other provision of this Act, where before the commencement of Part II of the _Circuit Layouts Act 1989_ a design applicable to an integrated circuit, or part of an integrated circuit, within the meaning of that Act, or a design applicable to a mask used to make such a circuit, was registered under this Act, that registration shall not be renewed at any time on or after that commencement.
+
+<h9 class="ActHead9">Trade Practices Act 1974</h9>
+
+## Subparagraph 51(3)(a)(i)
+
+Omit “or of a copyright”, substitute “, of a copyright or of EL rights within the meaning of the _Circuit Layouts Act 1989_,”.
+
+## Subparagraph 51(3)(a)(ii)
+
+Omit “or of a copyright”, substitute “, of a copyright or of such EL rights,”.
+
+## Subparagraph 51(3)(a)(iv)
+
+Omit “or” (last occurring).
+
+## Paragraph 51(3)(a)
+
+Add at the end of the paragraph the following word and subparagraph:
+
+                     ; or (vi)  the eligible layout in which the EL rights subsist.
+
 # Notes to the _Circuit Layouts Act 1989_
 
 ### Note 1
@@ -707,23 +766,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 19, 20): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sections 40–48) only of the _Law and Justice Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
@@ -734,8 +776,8 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -755,14 +797,6 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
@@ -775,22 +809,6 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
   </td>
   <td>
     <div>am. No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -811,34 +829,10 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 42</div>
   </td>
   <td>
     <div>am. No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
