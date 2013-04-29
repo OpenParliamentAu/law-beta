@@ -1,57 +1,56 @@
 
-Snowy Mountains Engineering Corporation Act 1970
-Act No. 39 of 1970 as amended 
-Consolidated as in force on 6 October 1999
-(includes amendments up to Act No. 118 of 1999)
+Snowy Mountains Engineering Corporation Act 1970 
+Act No. 39 of 1970 as amended
+Consolidated as in force on 20 January 1998
+(includes amendments up to Act No. 39 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-3C	Operation of Act	2
-3D	Extension to external Territories	2
-Part IIIA—Creation of capital structure and other steps prior to conversion of SMEC into a public company	3
-18A	Share capital of SMEC	3
-18B	Issue of shares	3
-18C	SMEC to apply to be registered as company etc.	4
-18D	New name of SMEC	5
-Part IV—Conversion of SMEC into a public company	7
-19	Effect of Part—summary	7
-20	SMEC taken to be registered under Companies Act	7
-21	Memorandum and articles of SMEC	8
-22	Membership of SMEC	8
-23	Application of certain provisions of Companies Act	8
-24	Accounting records	9
-25	Accounts	9
-26	Operation of section 25B of Acts Interpretation Act	9
-Part VB—Staff matters	10
-39G	Employment of staff members continues after transition	10
-39H	Act not to affect certain matters relating to staff members	10
-39J	Effect of sections 39G and 39H	11
-39K	 Variation of terms and conditions of employment	11
-Part VC—Taxation matters	12
-39M	Interpretation	12
-39N	Exemptions relating to exempt matters	12
-39P	Authorised person may certify in relation to exemptions	12
-39Q	SMEC taken to have had share capital for purposes of Income Tax Assessment Act	13
-Part VII—Miscellaneous	14
-51	SMEC not public authority etc.	14
-52	Judicial notice of SMEC’s seal	14
-53	Compensation for acquisition of property	14
-55	Regulations	15
-Notes 		17
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+3C	Operation of Act	
+3D	Extension to external Territories	
+Part IIIA—Creation of Capital Structure and Other Steps Prior to Conversion of SMEC into a Public Company	
+18A	Share capital of SMEC	
+18B	Issue of shares	
+18C	SMEC to apply to be registered as company etc.	
+18D	New name of SMEC	
+Part IV—Conversion of SMEC into a Public Company	
+19	Effect of Part—summary	
+20	SMEC taken to be registered under Companies Act	
+21	Memorandum and articles of SMEC	
+22	Membership of SMEC	
+23	Application of certain provisions of Companies Act	
+24	Accounting records	
+25	Accounts	
+26	Operation of section 25B of Acts Interpretation Act	
+Part VB—Staff Matters	
+39G	Employment of staff members continues after transition	
+39H	Act not to affect certain matters relating to staff members	
+39J	Effect of sections 39G and 39H	
+39K	Variation of terms and conditions of employment	
+Part VC—Taxation Matters	
+39M	Interpretation	
+39N	Exemptions relating to exempt matters	
+39P	Authorised person may certify in relation to exemptions	
+39Q	SMEC taken to have had share capital for purposes of Income Tax Assessment Act	
+Part VII—Miscellaneous	
+51	SMEC not public authority etc.	
+52	Judicial notice of SMEC’s seal	
+53	Compensation for acquisition of property	
+55	Regulations	
 
 An Act relating to the constitution of SMEC as a public company, and for other purposes
 Do not delete : Chapter placeholder
 Part I—Preliminary
 Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Snowy Mountains Engineering Corporation Act 1970.
+This Act may be cited as the Snowy Mountains Engineering Corporation Act 1970.
 2  Commencement [see Note 1]
-		This Act shall come into operation on the day on which it receives the Royal Assent.
+This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Interpretation
-		In this Act, unless the contrary intention appears:
+In this Act, unless the contrary intention appears:
 articles means articles of association.
 Australia includes the external Territories.
 authorised person means:
@@ -68,10 +67,10 @@ staff member means a person who, immediately before the transition, is:
 	(b)	an officer or employee of SMEC.
 transition means the commencement of Part IV, being the Part substituted by section 12 of the Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989.
 3C  Operation of Act
-		This Act applies both within and outside Australia.
+This Act applies both within and outside Australia.
 3D  Extension to external Territories
-		This Act extends to all external Territories.
-Part IIIA—Creation of capital structure and other steps prior to conversion of SMEC into a public company
+This Act extends to all external Territories.
+Part IIIA—Creation of Capital Structure and Other Steps Prior to Conversion of SMEC into a Public Company
 Do not delete : Division placeholder
 18A  Share capital of SMEC
 	(1)	As from the commencement of this Part, SMEC shall have a share capital divided into shares of $1 each.
@@ -90,8 +89,8 @@ Issue Price is the number of dollars in the amount that is the sum of:
 	(b)	to nominees of the Commonwealth;
 as the Minister directs in writing.
 	(3)	The issue of shares under subsection (2) discharges in full SMEC’s obligations to repay to the Commonwealth the capital that SMEC has by virtue of section 41.
-	(4)	The shares issued under subsection (2) shall be taken to have been issued for valuable consideration other than cash, being the discharge effected by subsection (3).
-	(5)	If, under the determination made under subsection 18A(2), SMEC is to issue shares under this section at a premium, SMEC shall be taken:
+	 (4)	The shares issued under subsection (2) shall be taken to have been issued for valuable consideration other than cash, being the discharge effected by subsection (3).
+	 (5)	If, under the determination made under subsection 18A(2), SMEC is to issue shares under this section at a premium, SMEC shall be taken:
 	(a)	to have issued at a premium the shares issued under subsection (2); and
 	(b)	to have received for those shares premiums of a total value equal to the amount by which $5,207,807 exceeds the amount of SMEC’s share capital.
 	(6)	An amount equal to the total value of the premiums that SMEC is, under paragraph (5)(b), taken to have received shall be transferred by SMEC to an account maintained by it, to be called the share premium account.
@@ -99,13 +98,13 @@ as the Minister directs in writing.
 18C  SMEC to apply to be registered as company etc.
 	(1)	SMEC shall, before the transition:
 	(a)	apply to the National Companies and Securities Commission under subsection 85(1) of the Companies Act 1981 to be registered as a company limited by shares within the meaning of that Act;
-	(b)	apply to the National Companies and Securities Commission under subsection 55(1) of the Companies Act 1981 for the reservation of the name “Snowy Mountains Engineering Corporation Limited”; and
+	(b)	apply to the National Companies and Securities Commission under subsection 55(1) of the Companies Act 1981 for the reservation of the name Snowy Mountains Engineering Corporation Limited; and
 	(c)	lodge with the National Companies and Securities Commission a proposed memorandum, and proposed articles, for SMEC.
 	(2)	The application mentioned in paragraph (1)(a) shall, subject to the regulations, be accompanied by the documents required by subsection 85(4) of the Companies Act 1981 to accompany such an application.
 	(3)	The applications mentioned in paragraphs (1)(a) and (b) shall be made to the National Companies and Securities Commission by delivering them to the office of the Corporate Affairs Commission for the Australian Capital Territory, and the documents mentioned in paragraph (1)(c) and subsection (2) shall be lodged with the National Companies and Securities Commission by lodging them at that office.
 	(4)	SMEC shall be taken to be entitled to make the applications mentioned in paragraphs (1)(a) and (b), and to lodge the documents mentioned in paragraph (1)(c) and subsection (2).
 	(5)	The National Companies and Securities Commission shall be taken:
-	(a)	to have been required to reserve the name “Snowy Mountains Engineering Corporation Limited” under subsection 55(2) of the Companies Act 1981; and
+	(a)	to have been required to reserve the name Snowy Mountains Engineering Corporation Limited under subsection 55(2) of the Companies Act 1981; and
 	(b)	to have so reserved that name immediately after the making of the application mentioned in paragraph (1)(b).
 18D  New name of SMEC
 	(1)	On the day immediately before the transition, SMEC’s name is, by force of this subsection, changed to Snowy Mountains Engineering Corporation Limited.
@@ -115,12 +114,12 @@ as the Minister directs in writing.
 	(3)	This section has effect in spite of anything in the Companies Act 1981, but nothing in this section prevents:
 	(a)	SMEC from later changing its name under section 65 of that Act; or
 	(b)	the cancellation, under Division 2 of Part III of that Act, of the registration of a name.
-Part IV—Conversion of SMEC into a public company
+Part IV—Conversion of SMEC into a Public Company
 Do not delete : Division placeholder
 19  Effect of Part—summary
-		After the commencement of this Part:
+After the commencement of this Part:
 	(a)	SMEC is a company registered under the  Companies Act 1981;
-	(b)	SMEC’s name is “Snowy Mountains Engineering Corporation Limited”;
+	(b)	SMEC’s name is Snowy Mountains Engineering Corporation Limited;
 	(c)	SMEC is a public company, and a company limited by shares, within the meaning of the Companies Act 1981; and
 	(d)	the Companies Act 1981 applies, subject to this Act, in relation to SMEC.
 20  SMEC taken to be registered under Companies Act
@@ -128,9 +127,9 @@ Do not delete : Division placeholder
 	(a)	to have been required to grant the application mentioned in paragraph 18C(1)(a) of this Act and to register SMEC as a company under subsection 86(2) of the Companies Act 1981;
 	(b)	to have granted the application at the commencement of this Part;
 	(c)	to have so registered SMEC, at the commencement of this Part:
-	(i)	by the name “Snowy Mountains Engineering Corporation Limited”; and
+	(i)	by the name Snowy Mountains Engineering Corporation Limited; and
 	(ii)	in accordance with subsections 86(3) and (4) of the Companies Act 1981, as a public company, and as a company limited by shares, within the meaning of that Act; and
-	(d)	to have registered the name “Snowy Mountains Engineering Corporation Limited” in relation to SMEC at the commencement of this Part, under subsection 55(4) of the Companies Act 1981.
+	(d)	to have registered the name Snowy Mountains Engineering Corporation Limited  in relation to SMEC at the commencement of this Part, under subsection 55(4) of the Companies Act 1981.
 	(2)	The date of commencement of SMEC’s registration as a company under Division 4 of Part III of the Companies Act 1981 shall be taken to be the day of commencement of this Part.
 	(3)	For the purposes of Division 4 of Part III of the Companies Act 1981, SMEC shall be taken to have been on the day before the commencement of this Part, and to be at that commencement, a corporation within the meaning of that Act.
 21  Memorandum and articles of SMEC
@@ -146,20 +145,20 @@ Do not delete : Division placeholder
 	(3)	The Companies Act 1981 applies in relation to the account referred to in subsection 18B(6) as if the account were a share premium account referred to in section 119 of that Act.
 	(4)	For the purposes of section 360 of the Companies Act 1981, a person is not a past member of SMEC merely because he or she was a Director of SMEC or acted as a Director of SMEC before the commencement of this Part.
 24  Accounting records
-		For the purposes of the Companies Act 1981, accounts and records kept under section 63F of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) shall be taken to be accounting records kept by SMEC under a provision of a previous law of the Australian Capital Territory, being a provision corresponding to section 267 of the Companies Act 1981.
+For the purposes of the Companies Act 1981, accounts and records kept under section 63F of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) shall be taken to be accounting records kept by SMEC under a provision of a previous law of the Australian Capital Territory, being a provision corresponding to section 267 of the Companies Act 1981.
 25  Accounts
 	(1)	This section has effect for the purposes of:
 	(a)	the Companies Act 1981; and
 	(b)	the Companies (Transitional Provisions) Act 1981 as it applies in relation to, and in relation to persons and matters associated with, SMEC because of subsection 90(6) of the Companies Act 1981.
-	(2)	A report and financial statements that were prepared under section 63H of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) in relation to a period and furnished to the Minister on a particular day shall be taken to be a profit and loss account of SMEC that was:
+	 (2)	A report and financial statements that were prepared under section 63H of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) in relation to a period and furnished to the Minister on a particular day shall be taken to be a profit and loss account of SMEC that was:
 	(a)	made out in relation to that period; and
 	(b)	laid before SMEC at an annual general meeting of SMEC held on that day.
 26  Operation of section 25B of Acts Interpretation Act
-		Nothing in this Act or in the Companies Act 1981 affects, or is affected by, section 25B of the Acts Interpretation Act 1901 as that section applies in relation to SMEC.
-Part VB—Staff matters
+Nothing in this Act or in the Companies Act 1981 affects, or is affected by, section 25B of the Acts Interpretation Act 1901 as that section applies in relation to SMEC.
+Part VB—Staff Matters
 Do not delete : Division placeholder
 39G  Employment of staff members continues after transition
-		Subject to this Part, each staff member continues, at and after the transition, to be employed by SMEC on the terms and conditions on which he or she was employed by SMEC immediately before the transition.
+Subject to this Part, each staff member continues, at and after the transition, to be employed by SMEC on the terms and conditions on which he or she was employed by SMEC immediately before the transition.
 39H  Act not to affect certain matters relating to staff members
 	(1)	This section has effect for the purposes of the application, at any time at or after the transition, of a law, award, determination or agreement in relation to the employment of a staff member.
 	(2)	Neither his or her contract of employment, nor his or her period of employment, shall be taken to have been broken by the operation of this Act.
@@ -168,11 +167,11 @@ Do not delete : Division placeholder
 	(a)	if the staff member had, immediately before the transition, ceased to be employed by SMEC, it would have been necessary to take into account a period during which the staff member was employed by SMEC or any other person to determine:
 	(i)	an amount payable to the staff member; or
 	(ii)	a benefit to which the staff member would have been entitled;
-		because of his or her so ceasing; and
+		 because of his or her so ceasing; and
 	(b)	but for this subsection, some or all of that period would not have to be taken into account as a period during which the staff member was employed by SMEC;
 SMEC shall treat the whole of the first-mentioned period as a period during which the staff member was employed by it.
 39J  Effect of sections 39G and 39H
-		Sections 39G and 39H are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65(5) or 87(2) of the Companies Act 1981.
+Sections 39G and 39H are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65(5) or 87(2) of the Companies Act 1981.
 39K   Variation of terms and conditions of employment
 	(1)	It is a term of each staff member’s employment after the transition that the terms and conditions of that employment may be varied to the extent to which, and in the manner in which, the terms and conditions of his or her employment could, immediately before the transition, be varied under this Act.
 	(2)	Nothing in this Part prevents the terms and conditions of a staff member’s employment after the transition from being varied:
@@ -184,10 +183,10 @@ vary, in relation to terms and conditions, includes vary by way of:
 	(a)	omitting any of those terms and conditions;
 	(b)	adding to those terms and conditions; or
 	(c)	substituting new terms or conditions for any of those terms and conditions.
-Part VC—Taxation matters
+Part VC—Taxation Matters
 Do not delete : Division placeholder
 39M  Interpretation
-		In this Part:
+In this Part:
 exempt matter means:
 	(a)	the issue of shares under subsection 18B(2);
 	(b)	the reservation of name made by paragraph 18C(5)(b);
@@ -198,11 +197,12 @@ exempt matter means:
 tax includes:
 	(a)	sales tax;
 	(b)	tax imposed by the Debits Tax Act 1982;
+	(c)	fees payable under the Companies (Fees) Act 1981;
 	(d)	stamp duty; and
 	(e)	any other tax, fee, duty, levy or charge;
 but does not include income tax imposed as such by a law of the Commonwealth.
 39N  Exemptions relating to exempt matters
-		Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
+Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
 	(a)	an exempt matter; or
 	(b)	anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter.
 39P  Authorised person may certify in relation to exemptions
@@ -211,13 +211,13 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 	(b)	a specified thing was done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.
 	(2)	For all purposes and in all proceedings, a certificate under subsection (1) is conclusive evidence of the matters certified, unless the contrary is established.
 39Q  SMEC taken to have had share capital for purposes of Income Tax Assessment Act 
-		For the purposes of the Income Tax Assessment Act 1936 and the Income Tax Assessment Act 1997, SMEC shall be taken to have had, at all times before it complied with subsection 18B(2) of this Act, a share capital, all the issued shares in which were, at all such times, beneficially owned by the Commonwealth.
+For the purposes of the Income Tax Assessment Act 1936 and the Income Tax Assessment Act 1997, SMEC shall be taken to have had, at all times before it complied with subsection 18B(2) of this Act, a share capital, all the issued shares in which were, at all such times, beneficially owned by the Commonwealth.
 Part VII—Miscellaneous
 Do not delete : Division placeholder
 51  SMEC not public authority etc.
-		SMEC, as it exists after the transition, shall be taken for the purposes of a law of the Commonwealth or a State or Territory:
+SMEC, as it exists after the transition, shall be taken for the purposes of a law of the Commonwealth or a State or Territory:
 	(a)	not to have been incorporated or established for a public purpose or for a purpose of the Commonwealth; and
-	(b)	not to be a public authority or an instrumentality or agency of the Crown;
+	 (b)	not to be a public authority or an instrumentality or agency of the Crown;
 except so far as express provision is made by a law of the Commonwealth, State or Territory, as the case may be.
 52  Judicial notice of SMEC’s seal
 	(1)	All courts, judges and persons acting judicially shall take judicial notice of the imprint of SMEC’s seal appearing on a document and shall presume that it was duly affixed.
@@ -227,18 +227,21 @@ except so far as express provision is made by a law of the Commonwealth, State o
 	(2)	Any damages or compensation recovered or other remedy given in proceedings that are instituted otherwise than under this section shall be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.
 	(3)	In this section, acquisition of property and just terms have the same respective meanings as in paragraph 51(31) of the Constitution.
 55  Regulations
-		The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
-Notes to the Snowy Mountains Engineering Corporation Act 1970
-Note 1
-The Snowy Mountains Engineering Corporation Act 1970 as shown in this consolidation comprises Act No. 39, 1970 amended as indicated in the Tables below.
+
+
+NOTE
+1. 	The Snowy Mountains Engineering Corporation Act 1970 as shown in this reprint comprises Act No. 39, 1970 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Snowy Mountains Engineering Corporation Act 1970
 39, 1970
 24 June 1970
@@ -304,26 +307,24 @@ Income Tax (Consequential Amendments) Act 1997
 17 Apr 1997
 Schedule 3 (item 112):  (e)
 —
-Statute Stocktake Act 1999
-118, 1999
-22 Sept 1999
-22 Sept 1999
-—
 
 (a)	The Salaries Act 1971 was repealed by section 7 of the Statute Law Revision Act 1973. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.
 (b)	The Snowy Mountains Engineering Corporporation Act 1970 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”
 (c)	The Snowy Mountains Engineering Corporation Act 1970 was amended by section 44 only of the Snowy Mountains Engineering Corporation Limited Sale Act 1993, subsection 2(2) of which provides as follows:
-	(2)	Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
+	“(2)	Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.” 
 (d)	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 2 (item 98) only of the Statute Law Revision Act 1996, subsection 2(2) of which provides as follows:
-	(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+	“(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.”
 	Item 98 is taken to have commenced immediately after the commencement of section 44 of the Snowy Mountains Engineering Corporation Limited Sale Act 1993.
 	Section 44 commenced on 9 November 1993 (see Gazette 1993, No. S334).
-(e)	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 3 (item 112) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:
-	2.	This Act commences on 1 July 1997.
+(e)	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 3 (item 112) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:	
+	“2.	This Act commences on 1 July 1997.” 
 
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
+
 Provision affected
 How affected
 Title	
@@ -474,6 +475,8 @@ am. No. 76, 1986
 rep. No. 66, 1989
 Part VA 	 (ss. 39A-39F)
 ad. No. 66, 1989 rep. No. 54, 1993
+
+
 Ss. 39A-39F	
 ad. No. 66, 1989
 
@@ -488,11 +491,7 @@ ad. No. 66, 1989
 rep. No. 54, 1993 
 Part VC 	 (ss. 39M-39Q)
 ad. No. 66, 1989
-S. 39M	
-ad. No. 66, 1989
-
-am. No. 118, 1999
-Ss. 39N-39Q	
+Ss. 39M-39Q	
 ad. No. 66, 1989
 Part VI 	 (ss. 35-37, 39, 40)
 rep. No. 101, 1985
@@ -570,4 +569,5 @@ ad. No. 66, 1989
 rep. No. 54, 1993
 S. 55	
 ad. No. 101, 1985 
+
 
