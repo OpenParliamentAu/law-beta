@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00589/Html/CwealthInscribStock11_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00095/Html/CwealthInscribStock11_image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 17 December 2009
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 23 February 2009
+ taking into account amendments up to Act No. 3 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -445,23 +445,11 @@ may be appointed as a Registrar.
 
 ##### <a id="24B"></a>24B  Record of equitable interests
 
-             (1)  The regulations may require a Registrar that is the operator of a clearing and settlement facility or is an incorporated company or other body corporate:
+                   The regulations may require a Registrar that is the operator of a clearing and settlement facility or is an incorporated company or other body corporate:
 
                      (a)  to keep a record (which may be a record kept by electronic means) of the ownership of any equitable interests in the stock; and
 
                      (b)  to comply with any provision made by the regulations in relation to the keeping of such a record.
-
-             (2)  Subsection (1) does not apply in relation to the keeping of a record of the ownership of any equitable interest in the stock that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property (including stock). See the following provisions of that Act:
-
-(a)           section 8 (interests to which the Act does not apply);
-
-(b)           section 12 (meaning of **_security interest_**);
-
-(c)           Chapter 9 (transitional provisions).
-
-Note 2:       That Act provides for registration in respect of security interests in personal property, including stock (see Chapter 5 of that Act).
 
 ##### <a id="24C"></a>24C  Inscription in Stock Ledger of names of transferees of legal interests in stock
 
@@ -561,7 +549,7 @@ shall be guilty of an indictable offence.
 
 ##### <a id="51B"></a>51B  Sale of Treasury Bonds
 
-                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
+                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
 
 ##### <a id="51BA"></a>51BA  Breach of terms or conditions of issue of Treasury Bonds
 
@@ -1434,23 +1422,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 19, 20): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
@@ -1494,105 +1465,6 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(i)_      Subsection 2(1) (item 8) of the _Personal Property Securities (Consequential Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 5, items 19 and 20
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the start of the day this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) immediately after the commencement of the
-        <i>Personal Property Securities Act 2009</i>.
-    </div>
-    <div>
-      However, the provisions do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 December 2009
-
-(paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1987,31 +1859,7 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24B</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24C</div>
+    <div>Ss. 24A–24C</div>
   </td>
   <td>
     <div>ad. No. 21, 2002</div>
