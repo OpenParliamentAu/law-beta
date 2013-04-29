@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image001.gif)
 
 # Parliamentary Contributory Superannuation Act 1948
 
 **Act No. 89 of 1948 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4A](#4A).         Transfer value payable in respect of previous employment
 
-[4B](#4B).         Marital or couple relationship
+[4B](#4B).         Marital relationship
 
 [4C](#4C).         Spouse who survives a deceased person
 
@@ -288,13 +288,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="contribut"></a>**_contributions_** means contributions under Part IV.
 
-                    <a name="former-spous"></a>**_former spouse_**, in relation to another person, means a person who previously had had a marital or couple relationship with that other person.
+                    <a name="former-spous"></a>**_former spouse_**, in relation to another person, means a person who previously had had a marital relationship with that other person.
 
                     <a name="hous"></a>**_House_** means a House of the Parliament.
 
                     <a name="life-polici"></a>**_life policy_** has the same meaning as in the _Life Insurance Act 1995_.
-
-                    <a name="marit-coupl-relatship"></a>**_marital or couple relationship_** has the meaning given by section 4B.
 
                     <a name="mical-practition"></a>**_medical practitioner_** means a person registered as a medical practitioner under a law of a State or Territory.
 
@@ -346,15 +344,11 @@ but does not include a Minister of State.
 
                     <a name="particip"></a>**_participant_**, in relation to a superannuation scheme applying in relation to any employment, means any person employed in that employment in respect of whom benefits are applicable under the scheme by reason of his or her being so employed, whether or not he or she has made contributions under the scheme.
 
-                    <a name="partner"></a><a name="partner"></a>**_partner_**: a person is the **_partner_** of another person if the two persons have a relationship as a couple (whether the persons are the same sex or different sexes).
-
                     <a name="period-servic"></a>**_period of service_**, in relation to a person, means (subject to section 20) the period, or the sum of the periods (whether continuous or not), whether before or after the commencement of this Act, during which the person was entitled to parliamentary allowance, and includes any period by which the period of service of the person is deemed to be increased by virtue of subsection 22Q(4).
 
                     <a name="retir-allow"></a>**_retiring allowance_**, in relation to a person, means the retiring allowance payable to the person under this Act and, in the case of a person who ceased or ceases to be a member after 30 June 1980, includes additional retiring allowance (if any) payable to the person under subsection 18(9).
 
                     <a name="salari"></a>**_salary_**, in relation to a Minister of State, does not include any allowance.
-
-                    <a name="spous"></a>**_spouse_** has a meaning affected by section 4C.
 
                     <a name="superannu-guarante-safeti-net-amount"></a>**_superannuation guarantee safety-net amount_** has the meaning given by section 16A.
 
@@ -426,19 +420,19 @@ means the surcharge deduction amount that is specified in the determination made
 
              (4)  Where a transfer value is, by virtue of subsection (3), deemed for the purposes of this Act to have become payable in respect of a person upon the termination of any employment by reason that, upon the termination of that employment, the person was the owner of a life policy, or was entitled to have the rights of the owner of a life policy assigned to him or her, a transfer value shall not be deemed, for those purposes, to have become payable in respect of the person upon the termination of any previous employment by reason that, upon the termination of that previous employment, the person was the owner of that policy, or was entitled to have the rights of the owner of that policy assigned to him or her.
 
-##### <a id="4B"></a>4B  Marital or couple relationship
+##### <a id="4B"></a>4B  Marital relationship
 
-             (1)  For the purposes of this Act, a person had a **_marital or_** **_couple relationship_** with another person at a particular time if the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time.
+             (1)  For the purposes of this Act, a person had a **_marital relationship_** with another person at a particular time if the person ordinarily lived with that other person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at that time.
 
-             (2)  For the purpose of subsection (1), a person is to be regarded as ordinarily living with another person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at a particular time only if:
+             (2)  For the purpose of subsection (1), a person is to be regarded as ordinarily living with another person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at a particular time only if:
 
-                     (a)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of at least 3 years up to that time; or
+                     (a)  the person had been living with that other person as that other person’s husband or wife for a continuous period of at least 3 years up to that time; or
 
-                     (b)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Trust, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
+                     (b)  the person had been living with that other person as that other person’s husband or wife for a continuous period of less than 3 years up to that time and the Trust, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at that time;
 
 whether or not the person was legally married to that other person.
 
-             (3)  For the purposes of this Act, a marital or couple relationship is taken to have begun at the beginning of the continuous period mentioned in paragraph (2)(a) or (b).
+             (3)  For the purposes of this Act, a marital relationship is taken to have begun at the beginning of the continuous period mentioned in paragraph (2)(a) or (b).
 
              (4)  For the purpose of subsection (2), relevant evidence includes, but is not limited to, evidence establishing any of the following:
 
@@ -446,15 +440,11 @@ whether or not the person was legally married to that other person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_, as a kind of relationship prescribed for the purposes of that section;
-
                      (c)  the persons had a child who was:
 
                               (i)  born of the relationship between the persons; or
 
-                             (ii)  adopted by the persons during the period of the relationship; or
-
-                            (iii)  a child of both of the persons within the meaning of the _Family Law Act 1975_;
+                             (ii)  adopted by the persons during the period of the relationship;
 
                      (d)  the persons jointly owned a home which was their usual residence.
 
@@ -478,23 +468,23 @@ whether or not the person was legally married to that other person.
 
              (2)  For the purposes of this Act, a person is a spouse who survives a deceased person if:
 
-                     (a)  the person had a marital or couple relationship with the deceased person at the time of the death of the deceased person (**_the death_**); and
+                     (a)  the person had a marital relationship with the deceased person at the time of the death of the deceased person (**_the death_**); and
 
                      (b)  in the case of a deceased person who was a retired member at the time of the death:
 
-                              (i)  the marital or couple relationship began before the retired member became a retired member; or
+                              (i)  the marital relationship began before the retired member became a retired member; or
 
-                             (ii)  the marital or couple relationship began after the retired member became a retired member but before the retired member reached 60; or
+                             (ii)  the marital relationship began after the retired member became a retired member but before the retired member reached 60; or
 
-                            (iii)  in the case of neither subparagraph (i) nor (ii) applying—the marital or couple relationship had continued for a period of at least 5 years up to the time of the death.
+                            (iii)  in the case of neither subparagraph (i) nor (ii) applying—the marital relationship had continued for a period of at least 5 years up to the time of the death.
 
              (3)  In spite of subsection (2), a person is taken to be a spouse who survives a deceased person if:
 
-                     (a)  the person had previously had a marital or couple relationship with the deceased person; and
+                     (a)  the person had previously had a marital relationship with the deceased person; and
 
-                     (b)  the person did not, at the time of the death, have a marital or couple relationship with the deceased person but was legally married to the deceased person; and
+                     (b)  the person did not, at the time of the death, have a marital relationship with the deceased person but was legally married to the deceased person; and
 
-                     (c)  in the case of a marital or couple relationship that began after the deceased person became a retired member and reached 60—the relationship began at least 5 years before the deceased person’s death; and
+                     (c)  in the case of a marital relationship that began after the deceased person became a retired member and reached 60—the relationship began at least 5 years before the deceased person’s death; and
 
                      (d)  in the Trust’s opinion, the person was wholly or substantially dependent upon the deceased person at the time of the death.
 
@@ -1275,7 +1265,7 @@ the percentage of the rate of parliamentary allowance applicable in relation to 
 
 then, instead of the retiring allowance referred to in paragraph (b), and for so long as the person does not make an election under subsection 18A(1) after the most recent benefit start-up time, the person is entitled to a retiring allowance during his or her life-time at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image002.gif)
 
 where:
 
@@ -1305,7 +1295,7 @@ where:
 
 there is taken to have arisen at the most recent benefit start-up time a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image003.gif)
 
 where:
 
@@ -1329,7 +1319,7 @@ there is taken to have arisen at the commencement time a notional adjustment deb
 
 then, on and after the election day, instead of the retiring allowance referred to in paragraph (b), the person is entitled to a retiring allowance during his or her lifetime at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image004.gif)
 
 where:
 
@@ -1461,7 +1451,7 @@ Notional adjustment debit
 
              (6)  If a person makes an election under subsection (1) on a particular day, there is taken to have arisen at the start of that day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image005.gif)
 
 where:
 
@@ -1489,7 +1479,7 @@ Note:          For the purposes of this section, a person who 
 
                      (a)  in any of the cases mentioned in subsection (5)—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by 10; or
 
-                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image006.gif),
+                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image006.gif),
 
                             where **_x_** is the number of whole months in the period that commenced on the day on which he or she attained the age of 65 years and ended on the day immediately before he or she became entitled to the retiring allowance.
 
@@ -1517,7 +1507,7 @@ Note:          For the purposes of this section, a person who 
 
                      (a)  the percentage of the rate of parliamentary allowance applicable in relation to him or her under section 18 for the purpose of calculating the rate of retiring allowance payable to him or her under that section (other than any additional retiring allowance payable under subsection (9) of that section) shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be applicable in relation to him or her under that section, be ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image007.gif)
 
                             where:
 
@@ -1525,9 +1515,7 @@ Note:          For the purposes of this section, a person who 
 
                             **_s_** is the specified percentage;
 
-                     (b)  if the person is entitled to additional retiring allowance under subsection 18(9), the percentage that is, under that subsection, the relevant percentage for the purpose of ascertaining the additional retiring allowance payable to him or her under that subsection in respect of his or her service in an office shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be the relevant percentage, under that subsection, in respect of his or her service in that office, be ascertained in accordance with the formula 
-
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image008.gif),
+                     (b)  if the person is entitled to additional retiring allowance under subsection 18(9), the percentage that is, under that subsection, the relevant percentage for the purpose of ascertaining the additional retiring allowance payable to him or her under that subsection in respect of his or her service in an office shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be the relevant percentage, under that subsection, in respect of his or her service in that office, be ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image008.gif),
 
                             where:
 
@@ -1567,7 +1555,7 @@ would, within 12 months after having become entitled to that retiring allowance,
 
 there is taken to have arisen at the start of the election day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image009.gif)
 
 where:
 
@@ -1705,11 +1693,7 @@ and the deceased person:
 
                              (ii)  is an eligible child; and
 
-                     (d)  was not or is not survived by a person with whom the deceased person had had a marital or couple relationship and who is:
-
-                              (i)  the natural or adoptive parent of that child; or
-
-                             (ii)  the parent of that child because the child is a child of the person within the meaning of the _Family Law Act 1975_;
+                     (d)  was not or is not survived by a person with whom the deceased person had had a marital relationship and who is the natural or adoptive parent of that child;
 
 then, subject to sections 19ABA and 21AA, benefit in accordance with this section is payable in respect of the child.
 
@@ -1717,13 +1701,11 @@ then, subject to sections 19ABA and 21AA, benefit in accordance with this sect
 
           (2B)  Subsection (2A) does not exclude a child from benefit where:
 
-                     (a)  the child:
+                     (a)  the child was:
 
-                              (i)  was born while the deceased person was having a marital or couple relationship with another person; or
+                              (i)  born while the deceased person was having a marital relationship with another person; or
 
-                             (ii)  was adopted by the deceased person or the deceased person with that other person during the duration of that relationship; or
-
-                            (iii)  was a child of the deceased person, and that other person, within the meaning of the _Family Law Act 1975_; and
+                             (ii)  adopted by the deceased person or the deceased person with that other person during the duration of that relationship; and
 
                      (b)  if that other person had survived the deceased person, that other person would have been entitled to an annuity under section 19.
 
@@ -1745,11 +1727,7 @@ unless the child would, in the Trust’s opinion, have been a dependant of the d
 
              (5)  In this section:
 
-                    <a name="child"></a>**_child_**, in relation to a person, means a child of the person, including:
-
-                     (a)  an adopted child or an ex-nuptial child of the person; and
-
-                     (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
+                    <a name="child"></a>**_child_** in relation to a person, means a child (including an adopted child or an ex-nuptial child) of the person.
 
                     <a name="deceas-person"></a>**_deceased person_** means a deceased person mentioned in paragraph (2)(a) or (b).
 
@@ -2045,11 +2023,11 @@ may, within 3 months after 12 June 1978, by notice in writing signed by the pe
 
                      (a)  if paragraph (b) does not apply to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image010.gif)
 
                      (b)  if the person’s surcharge debt account was in debit when the eligible lump sum amount became payable to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image011.gif)
 
 where:
 
@@ -2315,7 +2293,7 @@ but does not include a member of the Parliament of the State.
 
                      (b)  in relation to a Territory—a person holding, in relation to the Territory, an office corresponding to the office of Minister of the Crown for a State.
 
-                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian   Capital Territory means the Legislative Assembly for the Australian Capital   Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
+                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian Capital   Territory means the Legislative Assembly for the Australian Capital Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
 
                     <a name="relev-benefit"></a>**_relevant benefit_** means:
 
@@ -2363,7 +2341,7 @@ the fortnightly rate at which the relevant benefit would otherwise be payable to
 
           (3A)  For the purposes of working out the reduction of a relevant benefit under subsection (2), the fortnightly rate of parliamentary allowance payable to a member is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image012.gif)
+                    ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image012.gif)
 
           (3B)  For the purpose of the reference in the formula in subsection (3A) to the annual rate of parliamentary allowance, any reductions of a particular member’s entitlement to parliamentary allowance under Division 2 of Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_(salary sacrifice) are to be disregarded.
 
@@ -2531,7 +2509,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image013.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image013.gif)
 
                     <a name="transfer-factor"></a>**_transfer factor_** means the number calculated by dividing the number of whole dollars in the transfer amount by the number of whole dollars in the scheme value.
 
@@ -2575,7 +2553,7 @@ Period of service less than 8 years—retiring allowance (not under subsection 1
 
                      (b)  the **_basic service factor at the operative time_** is the number calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image014.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image014.gif)
 
 Period of service less than 8 years—retiring allowance under paragraph 18(2AA)(b) or (c) or annuity under paragraph 19(1)(a)
 
@@ -2657,7 +2635,7 @@ Where paragraph 18(10B)(b) applies (highest-paid office)
 
              (6)  The weighted factor is calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image015.gif)
 
 where:
 
@@ -2757,7 +2735,7 @@ then the non-member spouse may elect to commute the annuity.
 
              (2)  The contributions in respect of the original interest are reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image016.gif)
 
 where:
 
@@ -2767,7 +2745,7 @@ Note:          Under subsections 20A(2) and 22Q(3), certain am
 
              (3)  Any section 16A amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image017.gif)
 
 where:
 
@@ -2775,13 +2753,13 @@ where:
 
              (4)  Any section 22Q amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image018.gif)
 
 where:
 
                     <a name="section-22q-amount-ot"></a>**_section 22Q amount at OT_** means the section 22Q amount, ascertained at the operative time.
 
-##### <a id="22CH"></a>22CH  Operative time during growth phase—reduction of retiring allowance
+##### <a id="22CH"></a>22CH  Operative time during growth phase—reduction of retiring allowance
 
              (1)  This section applies if:
 
@@ -2795,7 +2773,7 @@ Reduction of basic percentage
 
              (2)  In calculating the annual rate of the affected benefit, the applicable basic percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image019.gif)
 
 where:
 
@@ -2807,7 +2785,7 @@ Reduction of additional percentage
 
              (3)  In calculating the annual rate of the affected benefit, each applicable additional percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image020.gif)
 
 where:
 
@@ -2831,11 +2809,11 @@ Note:          If the same superannuation interest is subject 
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image021.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image021.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image022.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
@@ -2843,17 +2821,17 @@ Note:          If the same superannuation interest is subject 
 
 Example:    Assume 2 splits, with the first split having a basic service factor (BSF) of 0.4 and a transfer factor of 0.5 and the second split having a basic service factor of 0.6 and a transfer factor of 0.5\. Applying the above steps, the replacement number for the formula is 0.4, that is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image023.gif)
 
              (7)  In applying the formula in subsection (3), the component (ASF at OT ´ Transfer factor) is to be replaced by the number calculated using the following steps, based on the chronological order of the operative times (starting with the earliest):
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image024.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image024.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image025.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image025.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
@@ -2877,7 +2855,7 @@ Note:          For example, the reduction will be disregarded 
 
 Note:          Although an associate immediate annuity becomes payable at the operative time, an associate deferred annuity will often not become payable until some time after the operative time.
 
-##### <a id="22CJ"></a>22CJ  Operative time during payment phase—reduction of standard allowance or annuity
+##### <a id="22CJ"></a>22CJ  Operative time during payment phase—reduction of standard allowance or annuity
 
              (1)  If, at the operative time, standard allowance or annuity is payable in respect of the original interest, then the annual rate of that allowance or annuity is reduced to the amount calculated under the Orders.
 
@@ -3593,7 +3571,7 @@ clause 4  applies as if the reference in subclause 4(2) to the preserved basic
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -3609,7 +3587,7 @@ where:
 
              (2)  If the person’s surcharge debt account is in debit at the end of a new scheme contribution period of the person, there is taken to have arisen, at the end of that period, a notional adjustment debit of the person equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image027.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image027.gif)
 
 where:
 
@@ -3625,7 +3603,7 @@ where:
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -4646,25 +4624,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 1 (items 1–15): 
-1 Jan 2009 ( <i>see</i>F2008L04609)</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Sections 10(2), 11(2) and 12 of the _Parliamentary Contributory Superannuation Amendment Act 1981_ were repealed by sections 39–41 of the _Superannuation Laws Amendment Act 1994_ before a date was fixed for their commencement.
@@ -4811,7 +4770,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 36 and 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 5 and 54, 1995; No. 187, 1997; No. 98, 2001; Nos. 58 and 87, 2004; No. 134, 2008</div>
+    <div>am. Nos. 36 and 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 5 and 54, 1995; No. 187, 1997; No. 98, 2001; Nos. 58 and 87, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4832,42 +4791,10 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 4B</div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
+    <div>Ss. 4B, 4C</div>
   </td>
   <td>
     <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5347,7 +5274,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 98, 2001; No. 134, 2008</div>
+    <div>am. No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 98, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6221,73 +6148,5 @@ _Superannuation Budget Measures Act 2004 (No. 106, 2004)_
 ## 11  Application of amendments
 
 (2)        The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-##### <a id="4"></a>4  Entitlements from 1 July 2008
-
-             (1)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under an Act that is amended by Schedule 1, 2, 3 or 5 to this Act if the relevant Schedule had commenced on 1 July 2008; and
-
-                     (b)  because the Schedule did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (2)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Military Superannuation and Benefits Act 1991_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (3)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Superannuation Act 1990_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (4)  A determination by the Finance Minister under this subsection must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  the amount and timing of the replacement payments; or 
-
-                             (ii)  the method of determining the amount and timing of the replacement payments.
-
-             (5)  An application must be in writing in the form approved by the Finance Minister.
-
-             (6)  To avoid doubt, a determination of the Finance Minister that a person is entitled to one or more replacement payments does not affect the entitlements of any other person under an Act amended by Schedule 1, 2, 3 or 5 to this Act, the _Military Superannuation and Benefits Act 1991_ or the _Superannuation Act 1990_.
-
-             (7)  Replacement payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-             (8)  A determination made under this section  is not a legislative instrument.
-
-             (9)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-## Schedule 1
-
-## 15  Application of amendments of the _Parliamentary Contributory Superannuation Act 1948_
-
-The amendments of the _Parliamentary Contributory Superannuation Act 1948_ made by this Schedule apply in relation to a benefit payable under that Act in respect of a person who dies on or after the commencement of this Schedule if the deceased person:
-
-                     (a)  was entitled to a parliamentary allowance at the time of his or her death; or
-
-                     (b)  was entitled to a retiring allowance (whether or not the retiring allowance was immediately payable) at the time of his or her death.
 
  
