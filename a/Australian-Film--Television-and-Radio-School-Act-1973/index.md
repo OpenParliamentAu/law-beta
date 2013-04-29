@@ -1,69 +1,67 @@
 
-Australian Film, Television and Radio School Act 1973
+Australian Film, Television and Radio School Act 1973 
 Act No. 95 of 1973 as amended
-This compilation was prepared on 31 March 2000 taking into account amendments up to Act No. 156 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Consolidated as in force on 24 February 1999
+(includes amendments up to Act No. 152 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-Part II—The Australian Film, Television and Radio School	3
-4	Establishment of School	3
-5	Functions of School	3
-6	Powers of School	4
-Part III—The Council of the School	5
-7	The Council	5
-8	Constitution of Council	5
-9	Members elected by members of staff of School	6
-10	Members elected by students	6
-11	Eligibility for appointment as member	7
-12	Delegation by Council	7
-13	Chair and Deputy Chair of Council	8
-14	Resignation of members	8
-15	Dismissal of members	9
-16	Fees and allowances	9
-17	Leave of absence	9
-18	Vacation of office	9
-20	Meetings of Council	10
-Part IV—Convocation	11
-21	Constitution of Convocation	11
-22	Roll of members	11
-23	Meetings of Convocation	12
-Part V—The Director	13
-24	Director of School	13
-25	Tenure of office	13
-26	Functions of Director	13
-27	Remuneration and allowances of Director	13
-28	Resignation	13
-29	Vacation of office of Director	13
-30	Director not to undertake any other work	14
-31	Acting Director	14
-32	Eligibility of Director and Acting Director	15
-Part VI—Staff	16
-34	Employment of staff of School	16
-35	Terms and conditions of employment of staff	16
-Part VII—Finance	17
-36	Moneys payable to School	17
-39	Application of moneys	17
-40	Power to purchase and dispose of assets	17
-44	Exemption from taxation	18
-Part VIII—Miscellaneous	19
-46	Application of Air Accidents (Commonwealth Liability) Act	19
-47	Inventions etc. of employees	19
-48	Bonuses for discoveries by employees	19
-49	Fees and agreements	19
-50	Fees payable by students	20
-51	Regulations	20
-Notes		21
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+Part II—The Australian Film, Television and Radio School	
+4	Establishment of School	
+5	Functions of School	
+6	Powers of School	
+Part III—The Council of the School	
+7	The Council	
+8	Constitution of Council	
+9	Members elected by members of staff of School	
+10	Members elected by students	
+11	Eligibility for appointment as member	
+12	Delegation by Council	
+13	Chair and Deputy Chair of Council	
+14	Resignation of members	
+15	Dismissal of members	
+16	Fees and allowances	
+17	Leave of absence	
+18	Vacation of office	
+20	Meetings of Council	
+Part IV—Convocation	
+21	Constitution of Convocation	
+22	Roll of members	
+23	Meetings of Convocation	
+Part V—The Director	
+24	Director of School	
+25	Tenure of office	
+26	Functions of Director	
+27	Remuneration and allowances of Director	
+28	Resignation	
+29	Vacation of office of Director	
+30	Director not to undertake any other work	
+31	Acting Director	
+32	Eligibility of Director and Acting Director	
+Part VI—Staff	
+34	Employment of staff of School	
+35	Terms and conditions of employment of staff	
+Part VII—Finance	
+36	Moneys payable to School	
+39	Application of moneys	
+40	Power to purchase and dispose of assets	
+44	Exemption from taxation	
+Part VIII—Miscellaneous	
+46	Application of Air Accidents (Commonwealth Liability) Act	
+47	Inventions etc. of employees	
+48	Bonuses for discoveries by employees	
+49	Fees and agreements	
+50	Fees payable by students	
+51	Regulations	
 
 An Act to establish a Film, Television and Radio School
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Australian Film, Television and Radio School Act 1973.
 2  Commencement [see Note 1]
@@ -71,20 +69,19 @@ Part I—Preliminary
 3  Interpretation
 		In this Act, unless the contrary intention appears:
 Acting Director means a person appointed under section 31 to act as the Director.
-appointed includes re‑appointed, and appointment has a corresponding meaning.
+appointed includes re-appointed, and appointment has a corresponding meaning.
 broadcast means to transmit by way of television or radio, and broadcasting has a corresponding meaning.
 Council means the Council of the Australian Film, Television and Radio School established by section 7.
-Director means the Director of the School appointed under section 24.
-ex‑officio member means a member, being the Director or an Acting Director.
+Director means the Director of the School appointed under section 24.
+ex-officio member means a member, being the Director or an Acting Director.
 member means a member of the Council.
-member of the staff of the School means, except in section 21, a person who is employed on a full‑time basis under section 34, being a person who has been so employed, or whose term of employment is, for a period of 12 months or more.
+member of the staff of the School means, except in section 21, a person who is employed on a full-time basis under section 34, being a person who has been so employed, or whose term of employment is, for a period of 12 months or more.
 program means:
 	(a)	an aggregate of images or sounds, or of images and sounds, embodied in any material; or
 	(b)	an aggregate of images or sounds, or of images and sounds, that is, or is intended to be, broadcast without first having been embodied in any material.
 School means the Australian Film, Television and Radio School established by section 4.
-
 Part II—The Australian Film, Television and Radio School
-  
+Do not delete : Division placeholder
 4  Establishment of School
 	(1)	There is hereby established a school to be known as the Australian Film, Television and Radio School.
 	(2)	The School:
@@ -100,7 +97,7 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the School.
 	(a)	to provide advanced education and training by way of the development of the knowledge and skills required in connexion with the production of programs;
 	(b)	to conduct and encourage research in connexion with the production of programs;
 	(c)	to conduct such seminars and courses of education or training for persons engaged, or to be engaged, directly or indirectly, in connexion with the production of programs as are approved by the Council;
-	(d)	to co‑operate and make arrangements with other institutions and persons for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a);
+	(d)	to co-operate and make arrangements with other institutions and persons for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a);
 	(e)	for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a), to provide facilities for, and to offer the services of the staff of the School to, such other institutions or persons as are approved by the Council;
 	(f)	to make grants of financial assistance to persons to enable or assist those persons to receive education or undergo training of the kind referred to in paragraph (a);
 	(g)	to award such degrees, diplomas and certificates in relation to the passing of examinations or otherwise in relation to the education and training provided by the School as are provided for by the regulations; and
@@ -113,9 +110,8 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the School.
 	(c)	to occupy, use and control any land or building owned or held under lease by the Commonwealth and made available for the purposes of the School;
 	(d)	to acquire, hold and dispose of real or personal property; and
 	(e)	to accept gifts, devises and bequests made to the School, whether on trust or otherwise, and to act as trustee of moneys or other property vested in the School upon trust.
-
 Part III—The Council of the School
-  
+Do not delete : Division placeholder
 7  The Council
 	(1)	The School shall be governed by a council to be known as the Council of the Australian Film, Television and Radio School.
 	(2)	All acts and things done in the name of, or on behalf of, the School by the Council or with the authority of the Council shall be deemed to have been done by the School.
@@ -124,21 +120,21 @@ Part III—The Council of the School
 	(a)	the Director;
 	(b)	a staff member elected by the staff members in the manner prescribed;
 	(c)	a student of the School elected by the students of the School in the manner prescribed;
-	(d)	3 members appointed by the Governor‑General; and
+	(d)	3 members appointed by the Governor-General; and
 	(e)	3 members of Convocation appointed by the Council.
 	(4)	If an appointment of an Acting Director is in force under section 31, the Acting Director may attend meetings of the Council and, for the purposes of those meetings, shall be deemed to be a member of the Council.
 	(5)	An act or decision of the Council is not invalid by reason only of a vacancy or vacancies in the membership of the Council.
 	(6)	The appointment or election of a member is not invalid by reason only of a defect or irregularity in connexion with the appointment or election.
-	(7)	The term of office of a member shall be as provided by this Act, but, subject to section 11, a member is eligible for re‑appointment or re‑election.
+	(7)	The term of office of a member shall be as provided by this Act, but, subject to section 11, a member is eligible for re-appointment or re-election.
 	(8)	Subject to this Act:
 	(a)	a member appointed under paragraph (1)(d) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment; and
 	(b)	a member appointed under paragraph (1)(e) holds office for a period of 3 years.
 	(9)	In this section:
 staff member means a person who:
-	(a)	is employed on a full‑time or part‑time basis under section 34; and
+	(a)	is employed on a full-time or part-time basis under section 34; and
 	(b)	has been so employed, or whose term of employment is, for at least 12 months.
 9  Members elected by members of staff of School
-	(1)	Except as otherwise provided by this section, the member elected under paragraph 8(1)(b) holds office, subject to this Act, for a period of one year and the term of office of the member shall not commence before the expiration of the term of office of the member whose place the first‑mentioned member fills.
+	(1)	Except as otherwise provided by this section, the member elected under paragraph 8(1)(b) holds office, subject to this Act, for a period of one year and the term of office of the member shall not commence before the expiration of the term of office of the member whose place the first-mentioned member fills.
 	(2)	If the member has ceased to hold office before the expiration of his or her term of office, a member shall, if the Minister so directs, be elected under paragraph 8(1)(b) to hold office from the date of his or her election until the expiration of that term.
 	(3)	A member elected under paragraph 8(1)(b) ceases to hold office if he or she ceases to be a member of the staff of the School.
 10  Members elected by students
@@ -160,31 +156,31 @@ staff member means a person who:
 	(5)	A certificate signed by the Chair of the Council stating any matter with respect to a delegation of a power under this section is prima facie evidence of that matter.
 	(6)	A document purporting to be a certificate mentioned in subsection (5) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
 13  Chair and Deputy Chair of Council
-	(1)	Subject to subsection (3), the Governor‑General shall appoint a member of the Council to be the Chair of the Council.
+	(1)	Subject to subsection (3), the Governor-General shall appoint a member of the Council to be the Chair of the Council.
 	(2)	Subject to subsection (3), the Council shall appoint a member of the Council to be the Deputy Chair of the Council.
-	(3)	The Governor‑General shall not appoint as Chair, and the Council shall not appoint as Deputy Chair, an ex‑officio member or a member referred to in paragraph 8(1)(b) or (c).
+	(3)	The Governor-General shall not appoint as Chair, and the Council shall not appoint as Deputy Chair, an ex-officio member or a member referred to in paragraph 8(1)(b) or (c).
 	(4)	The member appointed as Chair or Deputy Chair holds office as Chair or Deputy Chair until the expiration of the member’s term of office as a member that is current at the time of the member’s appointment, but ceases to be the Chair or Deputy Chair if he or she ceases to be a member, and may resign from office as Chair or Deputy Chair by writing signed by the member and delivered:
-	(a)	in the case of the Chair—to the Governor‑General; and
+	(a)	in the case of the Chair—to the Governor-General; and
 	(b)	in the case of the Deputy Chair—to the Chair.
-	(5)	A person is eligible to be re‑appointed as the Chair or Deputy Chair.
+	(5)	A person is eligible to be re-appointed as the Chair or Deputy Chair.
 14  Resignation of members
-		A member, other than an ex‑officio member, may resign from office by writing signed by the member and delivered to the Governor‑General.
+		A member, other than an ex-officio member, may resign from office by writing signed by the member and delivered to the Governor-General.
 15  Dismissal of members
-		The Governor‑General may remove a member, other than an ex‑officio member, from office on the ground of misbehaviour or physical or mental incapacity.
+		The Governor-General may remove a member, other than an ex‑officio member, from office on the ground of misbehaviour or physical or mental incapacity.
 16  Fees and allowances
 	(1)	A member other than the Director shall be paid such fees as are determined by the Remuneration Tribunal.
 	(2)	A member other than the Director shall be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 17  Leave of absence
-	(1)	A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
-	(2)	The Council may grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
-	(3)	The Council may grant a part‑time member leave to be absent from a meeting or meetings of the Council.
+	(1)	Subject to section 87E of the Public Service Act 1922, a full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(2)	The Council may grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
+	(3)	The Council may grant a part-time member leave to be absent from a meeting or meetings of the Council.
 18  Vacation of office
-		If a member, other than an ex‑officio member:
+		If a member, other than an ex-officio member:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 	(b)	is absent without leave of the Council from 3 consecutive meetings of the Council; or
-	(c)	without reasonable excuse, fails to comply with the member’s obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
-the Governor‑General shall remove the member from office.
+	(c)	without reasonable excuse, fails to comply with the member’s obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
+the Governor-General shall remove the member from office.
 20  Meetings of Council
 	(1)	The Council shall hold such meetings as are necessary for the performance of its functions.
 	(2)	The Chair, or if for any reason the Chair is not available, the Deputy Chair:
@@ -199,9 +195,8 @@ the Governor‑General shall remove the member from office.
 	(b)	after the first members have been so elected—5 members.
 	(8)	Questions arising at a meeting of the Council shall be determined by a majority of the votes of the members present.
 	(9)	The member presiding at a meeting of the Council has a deliberative vote, and, in the event of an equality of votes, also has a casting vote.
-
 Part IV—Convocation
-  
+Do not delete : Division placeholder
 21  Constitution of Convocation
 	(1)	Convocation shall consist of:
 	(a)	all members and past members of the Council;
@@ -214,19 +209,18 @@ Part IV—Convocation
 	(3)	In paragraph (1)(b), Interim Council means the Council established on 14th November, 1969, to investigate and report on the form and location of a national film and television training school.
 22  Roll of members
 	(1)	Until Convocation is constituted, the Council shall cause to be kept a roll of all persons who are entitled to become members of Convocation.
-	(2)	When the number of persons so enrolled amounts to 100, the Council shall report the fact to the Governor‑General.
+	(2)	When the number of persons so enrolled amounts to 100, the Council shall report the fact to the Governor-General.
 	(3)	The report referred to in subsection (2) shall be published in the Gazette, and Convocation shall be deemed to be constituted on the day of that publication.
 	(4)	After Convocation has been constituted, the Council shall cause to be kept a roll of all members of Convocation.
 23  Meetings of Convocation
 		Meetings of Convocation may be convened by the Chair of the Council.
-
 Part V—The Director
-  
+Do not delete : Division placeholder
 24  Director of School
-	(1)	There shall be a Director of the School, who shall be appointed by the Governor‑General on the recommendation of the Council.
-	(2)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+	(1)	There shall be a Director of the School, who shall be appointed by the Governor-General on the recommendation of the Council.
+	(2)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 25  Tenure of office
-		The Director shall be appointed for a period not exceeding 7 years, but is eligible for re‑appointment.
+		The Director shall be appointed for a period not exceeding 7 years, but is eligible for re-appointment.
 26  Functions of Director
 		Subject to the general direction of the Council, the Director shall manage the affairs of the School.
 27  Remuneration and allowances of Director
@@ -234,26 +228,26 @@ Part V—The Director
 	(2)	The Director shall be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 28  Resignation
-		The Director may resign from office by writing signed by the Director and delivered to the Governor‑General.
+		The Director may resign from office by writing signed by the Director and delivered to the Governor-General.
 29  Vacation of office of Director
 	(1)	If the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
-	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-	(c)	without reasonable excuse, fails to comply with the Director’s obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
-the Governor‑General shall remove the Director from office.
-	(2)	The Governor‑General may remove the Director from office for misbehaviour or physical or mental incapacity.
+	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+	(c)	without reasonable excuse, fails to comply with the Director’s obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
+the Governor-General shall remove the Director from office.
+	(2)	The Governor-General may remove the Director from office for misbehaviour or physical or mental incapacity.
 30  Director not to undertake any other work
 	(1)	The Director shall not engage in paid employment outside the duties of the Director’s office except with the approval of the Council.
 	(2)	The Council shall not give an approval for the purposes of subsection (1) unless it is satisfied that the paid employment will not interfere with the performance of the duties of the Director under this Act.
 31  Acting Director
-	(1)	The Governor‑General may appoint a person to act as the Director:
+	(1)	The Governor-General may appoint a person to act as the Director:
 	(a)	during a vacancy in the office of Director, whether or not an appointment has previously been made to the office; or
 	(b)	during any period, or during all periods, when the Director is, or is about to be, absent from duty or from Australia or, for any reason, unable to perform the functions of the Director’s office.
-	(2)	The Governor‑General may:
+	(2)	The Governor-General may:
 	(a)	subject to this Act, on the recommendation of the Council, determine the terms and conditions of appointment of an Acting Director; and
 	(b)	at any time terminate such an appointment.
-	(3)	Where a person is acting as the Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs or the vacancy is filled.
-	(4)	The appointment of an Acting Director ceases to have effect if the Acting Director resigns the appointment by writing signed by the Acting Director and delivered to the Governor‑General.
+	(3)	Where a person is acting as the Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Governor-General otherwise directs or the vacancy is filled.
+	(4)	The appointment of an Acting Director ceases to have effect if the Acting Director resigns the appointment by writing signed by the Acting Director and delivered to the Governor-General.
 	(5)	While the appointment of an Acting Director remains in force, the Acting Director has, and may exercise, all the powers and shall perform all the functions of the Director.
 	(7)	Anything done by or in relation to a person purporting to act as the Director under subsection (1) is not invalid on the ground that:
 	(a)	the occasion for the person’s appointment had not arisen;
@@ -263,17 +257,15 @@ the Governor‑General shall remove the Director from office.
 32  Eligibility of Director and Acting Director
 	(1)	A person who has attained the age of 70 years shall not be appointed as the Director or as an Acting Director.
 	(2)	A person shall not be appointed as the Director or as an Acting Director for a period that extends beyond the date on which the person will attain the age of 70 years.
-
 Part VI—Staff
-  
+Do not delete : Division placeholder
 34  Employment of staff of School
 		The School may employ such persons as are necessary for the purposes of this Act.
 35  Terms and conditions of employment of staff
 	(1)	The terms and conditions of employment (in respect of matters not provided for by this Act) of persons employed under section 34 are as determined by the Council.
 	(2)	In subsection (1), terms and conditions include conditions with respect to the duration of employment or with respect to dismissal from employment.
-
 Part VII—Finance
-  
+Do not delete : Division placeholder
 36  Moneys payable to School
 	(1)	There are payable to the School such moneys as are appropriated by the Parliament for the purposes of the School.
 	(2)	The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the School.
@@ -292,9 +284,8 @@ Part VII—Finance
 	(2)	The taking on lease or the purchase of land or buildings required for the purposes of the School shall be effected under the Lands Acquisition Act 1955.
 44  Exemption from taxation
 		The School is not subject to taxation under any law of the Commonwealth or of a State or Territory.
-
 Part VIII—Miscellaneous
-  
+Do not delete : Division placeholder
 46  Application of Air Accidents (Commonwealth Liability) Act
 		The School is a Commonwealth authority for the purposes of the Air Accidents (Commonwealth Liability) Act 1963.
 47  Inventions etc. of employees
@@ -310,17 +301,18 @@ Part VIII—Miscellaneous
 	(1)	Subject to this section, fees are payable to the School, at such rates as, subject to any directions of the Minister, the Council determines for courses of study or instruction of the School, for entry to examinations conducted by the School and for such other facilities or privileges of the School as the Council determines or the Minister directs.
 	(2)	A student who has been granted by the School a scholarship or bursary, is exempt from payment of fees to the extent of the exemption applicable under the scholarship or bursary.
 51  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for:
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for:
 	(a)	the manner and time of convening, holding and adjourning meetings of Convocation;
 	(b)	the quorum of meetings of Convocation;
 	(c)	the appointment, powers and duties of the chair of Convocation;
 	(d)	the conduct and record of the business of meetings of Convocation;
 	(e)	the appointment of committees of Convocation; and
 	(f)	penalties not exceeding a fine of 1 penalty unit for offences against the regulations.
-Notes to the Australian Film, Television and Radio School Act 1973
-Note 1
-The Australian Film, Television and Radio School Act 1973 as shown in this compilation comprises Act No. 95, 1973 amended as indicated in the Tables below. 
+
+NOTES 
+1.	The Australian Film, Television and Radio School Act 1973 as shown in this reprint comprises Act No. 95, 1973 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -361,7 +353,7 @@ Arts, Territories and Environment Legislation Amendment Act 1989
 19 June 1989
 Ss. 11 and 13: 7 Dec 1988 Part 5 (ss.14 and 15): 11 May 1989 (see s. 2(3) and Gazette 1989, No. S164) Remainder: Royal Assent
 S. 5
-Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991
+Arts, Sports, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991
 179, 1991
 25 Nov 1991
 25 Nov 1991
@@ -369,7 +361,7 @@ Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No.
 Communications and the Arts Legislation Amendment Act (No. 1) 1995
 32, 1995
 12 Apr 1995
-S. 3 (items 2‑5): Royal Assent (c)
+S. 3 (items 2-5): Royal Assent (c)
 —
 Statute Law Revision Act 1996
 43, 1996
@@ -379,36 +371,22 @@ Schedule 4 (items 22, 23): Royal Assent (d)
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 238‑246): 1 Jan 1998 (see Gazette 1997, No. GN49) (e)
-—
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 173): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
-—
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 24, 25): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
+Schedule 2 (items 238-246): 1 Jan 1998 (see Gazette 1997, No. GN49) (e)
 —
 
 (a)	The Australian Film, Television and Radio School Act 1973 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”.
 (b)	The Australian Film, Television and Radio School Act 1973 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”.
 (c)	The Australian Film, Television and Radio School Act 1973 was amended by the Communications and the Arts Legislation Amendment Act (No. 1) 1995, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.”.
 (d)	The Australian Film, Television and Radio School Act 1973 was amended by Schedule 4 (items 22, 23) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(e)	The Australian Film, Television and Radio School Act 1973 was amended by Schedule 2 (items 238‑246) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(f)	The Australian Film, Television and Radio School Act 1973 was amended by Schedule 1 (item 173) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-(g)	The Australian Film, Television and Radio School Act 1973 was amended by Schedule 10 (items 24 and 25) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(c)	the items in Schedules 10, 11 and 12.
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”.
+(e)	The Australian Film, Television and Radio School Act 1973 was amended by Schedule 2 (items 238-246) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”.
+
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -448,10 +426,8 @@ rs. No. 76, 1986
 am. No. 43, 1996
 S. 17	
 rs. No. 179, 1991
-
-am. No. 146, 1999
 S. 18	
-am. No. 76, 1986; No. 152, 1997; No. 156, 1999 
+am. No. 76, 1986; No. 152, 1997 
 S. 19	
 rs. No. 76, 1986
 
@@ -473,7 +449,7 @@ am. No. 43, 1996
 S. 28	
 am. No. 76, 1986
 S. 29	
-am. No. 110, 1976; No. 76, 1986; No. 179, 1991; No, 152, 1997; No. 156, 1999
+am. No. 110, 1976; No. 76, 1986; No. 179, 1991; No, 152, 1997
 S. 30	
 am. No. 76, 1986
 S. 31	
@@ -512,4 +488,5 @@ S. 47
 am. No. 76, 1986
 S. 51	
 am. No. 76, 1986; No. 32, 1995; No. 152, 1997
+
 
