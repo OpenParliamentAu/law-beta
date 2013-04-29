@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00382/Html/1E47A1A6F3B48F3DCA257026001390AA/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00309/Html/886B7543DE7DACA5CA256FE80000A79E/$FILE/image001.gif)
 
 # Spam Act 2003
 
 **Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 1 July 2005
-taking into account amendments up to Act No. 45 of 2005
+This compilation was prepared on 15 April 2005
+taking into account amendments up to Act No.45 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -116,7 +116,7 @@ Canberra
 
 [41](#41).          Formal warnings—breach of civil penalty provision
 
-[42](#42).          Additional ACMA functions
+[42](#42).          Additional ACA functions
 
 [43](#43).          Operation of State and Territory laws
 
@@ -128,7 +128,7 @@ Canberra
 
 [47](#47).          Regulations
 
-Schedule 1—Designated commercial electronic messages
+**Schedule 1—Designated commercial electronic messages**
 
 [1](#1).            Object
 
@@ -140,7 +140,7 @@ Schedule 1—Designated commercial electronic messages
 
 [5](#5).            Regulations
 
-Schedule 2—Consent
+**Schedule 2—Consent**
 
 [1](#1).            Object
 
@@ -154,7 +154,7 @@ Schedule 2—Consent
 
 [6](#6).            When withdrawal of consent takes effect
 
-Schedule 3—Infringement notices
+**Schedule 3—Infringement notices**
 
 [1](#1).            Object
 
@@ -177,8 +177,6 @@ Schedule 3—Infringement notices
 [10](#10).          Regulations
 
 **Notes** 
-
- 
 
 
 ## An Act about spam, and for related purposes
@@ -204,41 +202,55 @@ Schedule 3—Infringement notices
   <tr>
     <td colspan="3">
       <div>
-        <b>Commencement information</b>
+        <b>
+          Commencement information
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Column 1</b>
+        <b>
+          Column 1
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 2</b>
+        <b>
+          Column 2
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 3</b>
+        <b>
+          Column 3
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Provision(s)</b>
+        <b>
+          Provision(s)
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Commencement</b>
+        <b>
+          Commencement
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Date/Details</b>
+        <b>
+          Date/Details
+        </b>
       </div>
     </td>
   </tr>
@@ -246,118 +258,179 @@ Schedule 3—Infringement notices
 <tbody>
   <tr>
     <td>
-      <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-        this table</div>
+      <div>
+        1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
+          this table
+      </div>
     </td>
     <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
+      <div>
+        The day on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>12 December 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2\. Sections 3 to 14</div>
-    </td>
-    <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>12 December 2003</div>
+      <div>
+        12 December 2003
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>3\. Parts 2 to 6</div>
+      <div>
+        2\. Sections 3 to 14
+      </div>
     </td>
     <td>
-      <div>On the day after the end of the period of 120 days beginning on the day
-        on which this Act receives the Royal Assent.</div>
+      <div>
+        The day on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>10 April 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4\. Section 41</div>
-    </td>
-    <td>
-      <div>On the day after the end of the period of 120 days beginning on the day
-        on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>10 April 2004</div>
+      <div>
+        12 December 2003
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>5\. Section 42</div>
+      <div>
+        3\. Parts 
+        2 to 6
+      </div>
     </td>
     <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
+      <div>
+        On the day after the end of the period of 120 days beginning on the day
+          on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>12 December 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6\. Sections 43 to 46</div>
-    </td>
-    <td>
-      <div>On the day after the end of the period of 120 days beginning on the day
-        on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>10 April 2004</div>
+      <div>
+        10 April 2004
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>7\. Section 47</div>
+      <div>
+        4\. Section 41
+      </div>
     </td>
     <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
+      <div>
+        On the day after the end of the period of 120 days beginning on the day
+          on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>12 December 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8\. Schedule 1</div>
-    </td>
-    <td>
-      <div>On the day after the end of the period of 120 days beginning on the day
-        on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>10 April 2004</div>
+      <div>
+        10 April 2004
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>9\. Schedule 2</div>
+      <div>
+        5\. Section 42
+      </div>
     </td>
     <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
+      <div>
+        The day on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>12 December 2003</div>
+      <div>
+        12 December 2003
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>10\. Schedule 3</div>
+      <div>
+        6\. Sections 43 to 46
+      </div>
     </td>
     <td>
-      <div>On the day after the end of the period of 120 days beginning on the day
-        on which this Act receives the Royal Assent.</div>
+      <div>
+        On the day after the end of the period of 120 days beginning on the day
+          on which this Act receives the Royal Assent.
+      </div>
     </td>
     <td>
-      <div>10 April 2004</div>
+      <div>
+        10 April 2004
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        7\. Section 47
+      </div>
+    </td>
+    <td>
+      <div>
+        The day on which this Act receives the Royal Assent.
+      </div>
+    </td>
+    <td>
+      <div>
+        12 December 2003
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        8\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        On the day after the end of the period of 120 days beginning on the day
+          on which this Act receives the Royal Assent.
+      </div>
+    </td>
+    <td>
+      <div>
+        10 April 2004
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        9\. Schedule 2
+      </div>
+    </td>
+    <td>
+      <div>
+        The day on which this Act receives the Royal Assent.
+      </div>
+    </td>
+    <td>
+      <div>
+        12 December 2003
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10\. Schedule 3
+      </div>
+    </td>
+    <td>
+      <div>
+        On the day after the end of the period of 120 days beginning on the day
+          on which this Act receives the Royal Assent.
+      </div>
+    </td>
+    <td>
+      <div>
+        10 April 2004
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -392,6 +465,8 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                    In this Act, unless the contrary intention appears:
 
+                    <a name="aca"></a>**_ACA_** means the Australian Communications Authority.
+
                     <a name="account"></a>**_account_** includes:
 
                      (a)  a free account; and
@@ -399,8 +474,6 @@ Note:          The _Telecommunications Act 1997_ contains addi
                      (b)  a pre-paid account; and
 
                      (c)  anything that may reasonably be regarded as the equivalent of an account.
-
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
                     <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Trade Practices Act 1974_.
 
@@ -1278,7 +1351,7 @@ Maximum penalty payable by a person other than a body corporate—prior record
 
 ##### <a id="26"></a>26  Civil action for recovery of pecuniary penalties
 
-             (1)  The ACMA may institute a proceeding in the Federal Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in section 24.
+             (1)  The ACA may institute a proceeding in the Federal Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in section 24.
 
              (2)  A proceeding under subsection (1) may be commenced within 6 years after the contravention.
 
@@ -1296,7 +1369,7 @@ Maximum penalty payable by a person other than a body corporate—prior record
 
                      (b)  the Court is satisfied that another person (the **_victim_**) has suffered loss or damage as a result of any or all of those contraventions;
 
-the Court may, on the application of the ACMA or the victim, make an order that the Court considers appropriate directing the perpetrator to compensate the victim.
+the Court may, on the application of the ACA or the victim, make an order that the Court considers appropriate directing the perpetrator to compensate the victim.
 
              (2)  In determining whether a person (the **_victim_**) has suffered loss or damage as a result of one or more contraventions by another person of section 16 in relation to the sending of one or more commercial electronic messages, and in assessing the amount of compensation payable, the Court may have regard to the following:
 
@@ -1322,7 +1395,7 @@ the Court may, on the application of the ACMA or the victim, make an order that 
 
                      (b)  the Court is satisfied that the person has obtained (whether directly or indirectly) a financial benefit that is reasonably attributable to any or all of those contraventions;
 
-the Court may, on the application of the ACMA, make an order directing the person to pay to the Commonwealth an amount up to the amount of the financial benefit.
+the Court may, on the application of the ACA, make an order directing the person to pay to the Commonwealth an amount up to the amount of the financial benefit.
 
              (2)  The Federal Court may make an order under subsection (1), whether or not it makes an order under section 24.
 
@@ -1346,7 +1419,7 @@ the Court may, on the application of the ACMA, make an order directing the perso
 
 Restraining injunctions
 
-             (1)  If a person has engaged, is engaging or is proposing to engage, in any conduct in contravention of a civil penalty provision, the Federal Court may, on the application of the ACMA, grant an injunction:
+             (1)  If a person has engaged, is engaging or is proposing to engage, in any conduct in contravention of a civil penalty provision, the Federal Court may, on the application of the ACA, grant an injunction:
 
                      (a)  restraining the person from engaging in the conduct; and
 
@@ -1360,7 +1433,7 @@ Performance injunctions
 
                      (b)  the refusal or failure was, is or would be a contravention of a civil penalty provision;
 
-the Federal Court may, on the application of the ACMA, grant an injunction requiring the person to do that act or thing.
+the Federal Court may, on the application of the ACA, grant an injunction requiring the person to do that act or thing.
 
 ##### <a id="33"></a>33  Interim injunctions
 
@@ -1406,7 +1479,7 @@ Performance injunctions
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person may give the ACMA an enforceable undertaking in connection with a matter relating to:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person may give the ACA an enforceable undertaking in connection with a matter relating to:</li>
 
                (a)     commercial electronic messages; or
 
@@ -1414,17 +1487,17 @@ Performance injunctions
 
 ##### <a id="38"></a>38  Acceptance of undertakings
 
-             (1)  The ACMA may accept a written undertaking given by a person for the purposes of this section in connection with a matter relating to:
+             (1)  The ACA may accept a written undertaking given by a person for the purposes of this section in connection with a matter relating to:
 
                      (a)  commercial electronic messages; or
 
                      (b)  address-harvesting software.
 
-             (2)  The person may withdraw or vary the undertaking at any time, but only with the consent of the ACMA.
+             (2)  The person may withdraw or vary the undertaking at any time, but only with the consent of the ACA.
 
 ##### <a id="39"></a>39  Enforcement of undertakings
 
-             (1)  If the ACMA considers that a person who gave an undertaking under section 38 has breached any of its terms, the ACMA may apply to the Federal Court for an order under subsection (2).
+             (1)  If the ACA considers that a person who gave an undertaking under section 38 has breached any of its terms, the ACA may apply to the Federal Court for an order under subsection (2).
 
              (2)  If the Federal Court is satisfied that the person has breached a term of the undertaking, the Court may make any or all of the following orders:
 
@@ -1456,11 +1529,11 @@ Performance injunctions
 
 ##### <a id="41"></a>41  Formal warnings—breach of civil penalty provision
 
-                   The ACMA may issue a formal warning if a person contravenes a civil penalty provision.
+                   The ACA may issue a formal warning if a person contravenes a civil penalty provision.
 
-##### <a id="42"></a>42  Additional ACMA functions
+##### <a id="42"></a>42  Additional ACA functions
 
-                   The ACMA has the following functions:
+                   The ACA has the following functions:
 
                      (a)  to conduct and/or co-ordinate community education programs about either or both of the following:
 
@@ -1755,9 +1828,9 @@ _Note:       See section 30._
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
-                     (a)  the Chair of the ACMA; or
+                     (a)  the Chairman of the ACA; or
 
-                     (b)  a member of the staff of the ACMA appointed under clause 9.
+                     (b)  a member of the staff of the ACA appointed under clause 9.
 
                     <a name="civil-contravent"></a>**_civil contravention_** means a contravention of a civil penalty provision.
 
@@ -1785,11 +1858,11 @@ _Note:       See section 30._
 
                              (ii)  be accompanied by one or more data processing devices that contain, in electronic form, brief details of each of the alleged civil contraventions; and
 
-                     (d)  contain a statement to the effect that the matter or matters will not be dealt with by the Federal Court if the penalty specified in the notice is paid to the ACMA, on behalf of the Commonwealth, within:
+                     (d)  contain a statement to the effect that the matter or matters will not be dealt with by the Federal Court if the penalty specified in the notice is paid to the ACA, on behalf of the Commonwealth, within:
 
                               (i)  28 days after the notice is given; or
 
-                             (ii)  if the ACMA allows a longer period—that longer period; and
+                             (ii)  if the ACA allows a longer period—that longer period; and
 
                      (e)  give an explanation of how payment of the penalty is to be made; and
 
@@ -1824,24 +1897,32 @@ Infringement notice given to a body corporate
   <tr>
     <td colspan="3">
       <div>
-        <b>Number of penalty units</b>
+        <b>
+          Number of penalty units
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Item</b>
+        <b>
+          Item
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>In this case...</b>
+        <b>
+          In this case...
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>the number of penalty units is...</b>
+        <b>
+          the number of penalty units is...
+        </b>
       </div>
     </td>
   </tr>
@@ -1849,74 +1930,110 @@ Infringement notice given to a body corporate
 <tbody>
   <tr>
     <td>
-      <div>1</div>
+      <div>
+        1
+      </div>
     </td>
     <td>
-      <div>the notice relates to a single alleged contravention of subsection 16(1),
-        (6) or (9)</div>
+      <div>
+        the notice relates to a single alleged contravention of subsection 16(1),
+          (6) or (9)
+      </div>
     </td>
     <td>
-      <div>20</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-        of subsection 16(1), (6) or (9)</div>
-    </td>
-    <td>
-      <div>the number obtained by multiplying 20 by the number of alleged contraventions</div>
+      <div>
+        20
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>3</div>
+      <div>
+        2
+      </div>
     </td>
     <td>
-      <div>the notice relates to 50 or more alleged contraventions of subsection
-        16(1), (6) or (9)</div>
+      <div>
+        the notice relates to more than 1, but fewer than 50, alleged contraventions
+          of subsection 16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>1,000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4</div>
-    </td>
-    <td>
-      <div>the notice relates to a single alleged contravention of a civil penalty
-        provision other than subsection 16(1), (6) or (9)</div>
-    </td>
-    <td>
-      <div>10</div>
+      <div>
+        the number obtained by multiplying 20 by the number of alleged contraventions
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>5</div>
+      <div>
+        3
+      </div>
     </td>
     <td>
-      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-        of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
+      <div>
+        the notice relates to 50 or more alleged contraventions of subsection
+          16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>the number obtained by multiplying 10 by the number of alleged contraventions</div>
+      <div>
+        1,000
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>6</div>
+      <div>
+        4
+      </div>
     </td>
     <td>
-      <div>the notice relates to 50 or more alleged contraventions of a civil penalty
-        provision other than subsection 16(1), (6) or (9)</div>
+      <div>
+        the notice relates to a single alleged contravention of a civil penalty
+          provision other than subsection 16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>500</div>
+      <div>
+        10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        5
+      </div>
+    </td>
+    <td>
+      <div>
+        the notice relates to more than 1, but fewer than 50, alleged contraventions
+          of a civil penalty provision other than subsection 16(1), (6) or (9)
+      </div>
+    </td>
+    <td>
+      <div>
+        the number obtained by multiplying 10 by the number of alleged contraventions
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        6
+      </div>
+    </td>
+    <td>
+      <div>
+        the notice relates to 50 or more alleged contraventions of a civil penalty
+          provision other than subsection 16(1), (6) or (9)
+      </div>
+    </td>
+    <td>
+      <div>
+        500
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -1936,24 +2053,32 @@ Infringement notice given to a person other than a body corporate
   <tr>
     <td colspan="3">
       <div>
-        <b>Number of penalty units</b>
+        <b>
+          Number of penalty units
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Item</b>
+        <b>
+          Item
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>In this case...</b>
+        <b>
+          In this case...
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>the number of penalty units is...</b>
+        <b>
+          the number of penalty units is...
+        </b>
       </div>
     </td>
   </tr>
@@ -1961,74 +2086,110 @@ Infringement notice given to a person other than a body corporate
 <tbody>
   <tr>
     <td>
-      <div>1</div>
+      <div>
+        1
+      </div>
     </td>
     <td>
-      <div>the notice relates to a single alleged contravention of subsection 16(1),
-        (6) or (9)</div>
+      <div>
+        the notice relates to a single alleged contravention of subsection 16(1),
+          (6) or (9)
+      </div>
     </td>
     <td>
-      <div>4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-        of subsection 16(1), (6) or (9)</div>
-    </td>
-    <td>
-      <div>the number obtained by multiplying 4 by the number of alleged contraventions</div>
+      <div>
+        4
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>3</div>
+      <div>
+        2
+      </div>
     </td>
     <td>
-      <div>the notice relates to 50 or more alleged contraventions of subsection
-        16(1), (6) or (9)</div>
+      <div>
+        the notice relates to more than 1, but fewer than 50, alleged contraventions
+          of subsection 16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>200</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4</div>
-    </td>
-    <td>
-      <div>the notice relates to a single alleged contravention of a civil penalty
-        provision other than subsection 16(1), (6) or (9)</div>
-    </td>
-    <td>
-      <div>2</div>
+      <div>
+        the number obtained by multiplying 4 by the number of alleged contraventions
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>5</div>
+      <div>
+        3
+      </div>
     </td>
     <td>
-      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-        of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
+      <div>
+        the notice relates to 50 or more alleged contraventions of subsection
+          16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>the number obtained by multiplying 2 by the number of alleged contraventions</div>
+      <div>
+        200
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>6</div>
+      <div>
+        4
+      </div>
     </td>
     <td>
-      <div>the notice relates to 50 or more alleged contraventions of a civil penalty
-        provision other than subsection 16(1), (6) or (9)</div>
+      <div>
+        the notice relates to a single alleged contravention of a civil penalty
+          provision other than subsection 16(1), (6) or (9)
+      </div>
     </td>
     <td>
-      <div>100</div>
+      <div>
+        2
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        5
+      </div>
+    </td>
+    <td>
+      <div>
+        the notice relates to more than 1, but fewer than 50, alleged contraventions
+          of a civil penalty provision other than subsection 16(1), (6) or (9)
+      </div>
+    </td>
+    <td>
+      <div>
+        the number obtained by multiplying 2 by the number of alleged contraventions
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        6
+      </div>
+    </td>
+    <td>
+      <div>
+        the notice relates to 50 or more alleged contraventions of a civil penalty
+          provision other than subsection 16(1), (6) or (9)
+      </div>
+    </td>
+    <td>
+      <div>
+        100
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -2083,7 +2244,7 @@ the Commonwealth is liable to refund the penalty.
 
 ##### <a id="9"></a>9  Appointment of authorised person
 
-                   The ACMA may, by writing, appoint a member of the staff of the ACMA as an authorised person for the purposes of this Schedule.
+                   The ACA may, by writing, appoint a member of the staff of the ACA as an authorised person for the purposes of this Schedule.
 
 ##### <a id="10"></a>10  Regulations
 
@@ -2161,8 +2322,8 @@ of Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (items 121–123) and Schedule 4: 1 July 2005 <i>(a)</i> 
-Schedule 2: <i>(a)</i> 
+      <div>Schedule 1 (items 121–123) and Schedule 4: \[ <i>see (a)</i>and Note 2] 
+Schedule 2: \[ <i>see</i> <i>(a)</i>and Note 2] 
 </div>
     </td>
     <td>
@@ -2255,7 +2416,8 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 2]
       </div>
     </td>
   </tr>
@@ -2273,7 +2435,8 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 2]
       </div>
     </td>
   </tr>
@@ -2291,233 +2454,91 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 1]
       </div>
     </td>
   </tr>
 </tbody></table>
 
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="0%">
-  <col width="67%">
-  <col width="0%">
-</colgroup>
+_Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (No. 45, 2005)_
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td colspan="2">
-      <div>How affected</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 28, 29</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 32</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 6</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37–39</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 7</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 41</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 42</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 42</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Schedule 3</b></div>
-    </td>
-    <td colspan="2">
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 2</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div>C. 4</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div>C. 9</div>
-    </td>
-    <td colspan="2">
-      <div>am. No. 45, 2005</div>
-    </td>
-  </tr>
-  <tr height="0">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody></table>
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 121  Section 4 (definition of _ACA_)
+
+Repeal the definition.
+
+## 122  Section 4
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 123  Clause 2 of Schedule 3 (paragraph (a) of the definition of _authorised person_)
+
+Omit “Chairman”, substitute “Chair”.
+
+The following amendments commence immediately after 1 July 2005 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Amendment of Acts—changing references to the ABA and the ACA into references to the ACMA
+
+The Acts listed in this Schedule are amended as follows:
+
+                     (a)  by omitting “ABA” (wherever occurring) and substituting “ACMA”;
+
+                     (b)  by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
+
+                     (c)  by omitting “**_ABA_**” (wherever occurring) and substituting “**_ACMA_**”;
+
+                     (d)  by omitting “ABA’s” (wherever occurring) and substituting “ACMA’s”;
+
+                     (e)  by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+                      (f)  by omitting “**_ABA_****_’s_**” (wherever occurring) and substituting “**_ACMA’s_**”;
+
+                     (g)  by omitting “ACA” (wherever occurring) and substituting “ACMA”;
+
+                     (h)  by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
+
+                      (i)  by omitting “**_ACA_**” (wherever occurring) and substituting “**_ACMA_**”;
+
+                      (j)  by omitting “ACA’s” (wherever occurring) and substituting “ACMA’s”;
+
+                     (k)  by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+                      (l)  by omitting “**_ACA’s_**” (wherever occurring) and substituting “**_ACMA’s_**”.
+
+_Note 1:    This Schedule commences immediately after the commencement of Schedule 1, and so this item amends the Acts listed in this Schedule, as already amended by Schedule 1._
+
+_Note 2:    The headings to sections, subsections, clauses and subclauses of the Acts listed in this Schedule are altered as follows:_
+
+(a)              by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
+
+(b)              by omitting “_ABA_” (wherever occurring) and substituting “_ACMA_”;
+
+(c)              by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+(d)              by omitting “_ABA__’s_” (wherever occurring) and substituting “_ACMA’s_”;
+
+(e)              by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
+
+(f)               by omitting “_ACA_” (wherever occurring) and substituting “_ACMA_”;
+
+(g)              by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+(h)              by omitting “_ACA’s_” (wherever occurring) and substituting “_ACMA’s_”.
+
+Spam Act 2003
+
+As at 15 April 2005 the amendments are not incorporated in this compilation.
 
 
  
