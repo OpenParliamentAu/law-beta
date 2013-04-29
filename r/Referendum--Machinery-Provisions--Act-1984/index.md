@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 28 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -614,7 +614,7 @@ Note:          For the places at which pre‑poll ordinary vot
 
                     <a name="mobil-poll-team-member"></a>**_mobile polling team member_** means a mobile polling team member appointed under section 51.
 
-                    <a name="northern-territori"></a>**_Northern Territory_** includes the Territory of  Cocos (Keeling) Islands and the Territory of Christmas Island.
+                    <a name="northern-territori"></a>**_Northern Territory_** includes the Territory of Cocos (Keeling) Islands and the Territory of Christmas Island.
 
                     <a name="offic"></a>**_officer_** includes the Electoral Commissioner, the Deputy Electoral Commissioner, the Australian Electoral Officer for a State or Territory, a Divisional Returning Officer, an Assistant Returning Officer, an Assistant Divisional Returning Officer, an Antarctic Returning Officer, an Assistant Antarctic Returning Officer, a presiding officer, a deputy presiding officer, a substitute presiding officer, an assistant presiding officer, a pre‑poll voting officer, a mobile polling team leader and a mobile polling team member, and any other member of the staff of the Electoral Commission who is a delegate of the Electoral Commissioner under subsection 138(2).
 
@@ -730,7 +730,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The Electoral Commission may appoint a person to act as Australian Electoral Officer for the Australian Capital Territory during any period, or during all periods, when the Australian Electoral Officer for the Australian Capital Territory is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  The appointment of a person to act as Australian Electoral Officer for the Australian Capital Territory ceases to have effect if the person delivers to the Electoral Commission a signed notice of resignation.
+
+             (4)  A person acting as Australian Electoral Officer for the Australian Capital Territory has, and may exercise, all the powers, and is to perform all the functions, of the Australian Electoral Officer for the Australian Capital Territory.
+
+             (5)  The validity of anything done by or in relation to a person purporting to act under subsection (1) must not be called in question merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="6"></a>6  Assistant Returning Officers and Assistant Divisional Returning Officers
 
@@ -2970,7 +2982,7 @@ a determination under subsection (1) of this section is taken to be in force i
 
                      (c)  the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall, at all times when voting is being conducted, be present in that part of the station at which the voting is taking place.
 
-             (2)  The voting at a referendum at a station shall not continue beyond 6 pm in the Australian Capital Territory on the voting day for the referendum.
+             (2)  The voting at a referendum at a station shall not continue beyond 6 o’clock in the afternoon by standard time in the Australian Capital Territory on the voting day for the referendum.
 
 ##### <a id="79"></a>79  Entitlement of Antarctic electors to vote at referendum
 
@@ -4115,7 +4127,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4136,7 +4148,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2012C00235/Html/5c267983-d240-4820-a5f0-5f22495d6830_files/image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -5116,7 +5128,7 @@ Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 973–975) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 973–975) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -5509,22 +5521,6 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
   </td>
   <td>
     <div>rs. No. 78, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7004,14 +7000,6 @@ Part IVB</div>
 </tr>
 <tr>
   <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 80</div>
   </td>
   <td>
@@ -7789,6 +7777,30 @@ No. 219, 1992</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 973  At the end of subsection 5(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 974  Subsections 5(3) to (5)
+
+Repeal the subsections.
+
+## 975  Subsection 78(2)
+
+Omit “6 o’clock in the afternoon by standard time”, substitute “6 pm”.
+
+As at 28 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7921,6 +7933,8 @@ The amendments made by this Schedule apply in relation to elections and referend
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
