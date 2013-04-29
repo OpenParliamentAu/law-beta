@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00045/Html/WoolInternational1993WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00558/Html/WoolInternational1993WD02_image001.gif)
 
 # Wool International Act 1993
 
 **Act No. 64 of 1993 as amended**
 
-This compilation was prepared on 3 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 29 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -174,7 +174,7 @@ Note:       WoolStock Australia Limited has previously had the follo
 
                    For each distribution, a registered equity holder is entitled to receive, for each unit of equity, an amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00045/Html/WoolInternational1993WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00558/Html/WoolInternational1993WD02_image002.gif)
 
 Note:          The amount of a distribution is determined under subsection 22P(3).
 
@@ -594,8 +594,7 @@ Remainder: <i>(a)</i></div>
     <div>Schedule 6: Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>Sch. 6 (items 
-10–14)</div>
+    <div>Sch. 6 (items 10–14)</div>
   </td>
 </tr>
 <tr>
@@ -804,23 +803,6 @@ Remainder: 1 July 1997</div>
   <td>
     <div>Sch. 6 (items 
 5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 37–50): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 50) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2281,73 +2263,6 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009 
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 5
-
-## 37  Subsection 22J(1)
-
-Omit “(1)”.
-
-## 38  Subsection 22J(1)
-
-Omit “Subject to this section, a”, substitute “A”.
-
-## 39  At the end of subsection 22J(1)
-
-Add:
-
-Note 1:       A charge over (or another security interest in) a unit of equity in WoolStock Australia Limited may be the subject of a registration in the Personal Property Securities Register under the _Personal Property Securities Act 2009_.
-
-Note 2:       The priority of charges over (or other securities interests in) units of equity is determined in accordance with the _Personal Property Securities Act 2009_.
-
-## 40  Subsections 22J(2) to (7)
-
-Repeal the subsections.
-
-## 41  Section 22K
-
-Repeal the section.
-
-## 42  Paragraph 22L(b)
-
-Repeal the paragraph.
-
-## 43  Subsection 22R(2) (note)
-
-Repeal the note.
-
-## 44  Subsection 22R(3)
-
-Omit “Subject to subsection (4), a”, substitute “A”.
-
-## 45  Subsection 22R(4)
-
-Repeal the subsection.
-
-## 46  Subsection 22S(1)
-
-Omit “(1)”.
-
-## 47  Paragraph 22S(1)(b)
-
-Omit “distribution;”, substitute “distribution.”.
-
-## 48  Paragraph 22S(1)(c)
-
-Repeal the paragraph.
-
-## 49  Subsection 22S(2)
-
-Repeal the subsection.
-
-As at 3 February 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2441,21 +2356,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-* * *
-
-_Personal Property Securities (Consequential Amendments) Act 2009 
- (No. 131, 2009)_
-
-The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 5
-
-## 50  Application of amendments of the _Wool International Act 1993_
-
-(1)        This item applies if immediately before the time item 42 of this Schedule commences, WoolStock Australia Limited had not complied with a request made by a person under paragraph 22L(b) of the _Wool International Act 1993_.
-
-_Note:       Item 42 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
-(2)        The requirement to comply with the request stops applying after the time item 42 of this Schedule commences.
+ 
 
  
