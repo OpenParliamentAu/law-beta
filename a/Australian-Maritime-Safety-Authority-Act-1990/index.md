@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00076/Html/AustMaritSafeAuth90_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00542/Html/AustMaritSafeAuth90_WD02_image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 20 July 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -884,7 +884,7 @@ are guaranteed by the Commonwealth, the obligations become so guaranteed.
 
                      (b)  fixing the penalty for the purposes of subsection (14).
 
-             (2)  This section has effect subject to Part VIIA of the _Competition and Consumer Act 2010_.
+             (2)  This section has effect subject to Part VIIA of the _Trade Practices Act 1974_.
 
              (3)  Before making a determination, the Authority must give the Minister notice in writing of the proposed determination:
 
@@ -896,19 +896,19 @@ are guaranteed by the Commonwealth, the obligations become so guaranteed.
 
              (4)  Where the Authority receives:
 
-                     (a)  a notice under subsection 95L(3) of the _Competition and Consumer Act 2010_ about an inquiry into the supply of services or facilities by the Authority to which the proposed determination relates; or
+                     (a)  a notice under subsection 95L(3) of the _Trade Practices Act 1974_ about an inquiry into the supply of services or facilities by the Authority to which the proposed determination relates; or
 
                      (b)  a notice under section 95ZJ of that Act withdrawing such a notice;
 
 the Authority must inform the Minister in writing of the notice and its contents.
 
-             (5)  Where the Authority is given, under section 95P of the _Competition and Consumer Act 2010_, a report of an inquiry held under that Act in relation to the supply of services or facilities by the Authority, it must give a copy of the report to the Minister.
+             (5)  Where the Authority is given, under section 95P of the _Trade Practices Act 1974_, a report of an inquiry held under that Act in relation to the supply of services or facilities by the Authority, it must give a copy of the report to the Minister.
 
              (6)  The Minister may, within the period referred to in subsection (7), give the Authority notice in writing approving or disapproving the proposed determination, but in doing so, the Minister must have regard to the duties and responsibilities of the Authority.
 
              (7)  The period within which the Minister may give a notice is:
 
-                     (a)  if the Authority has received a notice under subsection 95L(3) of the _Competition and Consumer Act 2010_ about an inquiry into the supply of services or facilities by the Authority to which the proposed determination relates—within 30 days after the Minister receives from the Authority:
+                     (a)  if the Authority has received a notice under subsection 95L(3) of the _Trade Practices Act 1974_ about an inquiry into the supply of services or facilities by the Authority to which the proposed determination relates—within 30 days after the Minister receives from the Authority:
 
                               (i)  a notice under subsection (4) that the Authority has received a notice under section 95ZJ of that Act; or
 
@@ -924,7 +924,7 @@ the Authority must inform the Minister in writing of the notice and its contents
 
                      (b)  the period within which the Minister may give a notice to the Authority under subsection (6) has expired without the Minister having given such a notice.
 
-           (10)  Where the Minister receives from the Authority a copy of a report under section 95P of the _Competition and Consumer Act 2010_ in relation to the supply of services or facilities to which the proposed determination relates, the Minister may, in the notice under subsection (6), disapprove the proposed determination and substitute a fresh determination.
+           (10)  Where the Minister receives from the Authority a copy of a report under section 95P of the _Trade Practices Act 1974_ in relation to the supply of services or facilities to which the proposed determination relates, the Minister may, in the notice under subsection (6), disapprove the proposed determination and substitute a fresh determination.
 
            (11)  A determination so substituted has effect as if it had been made by the Authority in accordance with subsection (9).
 
@@ -1521,7 +1521,7 @@ Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 27–31): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 27–31): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2012,7 +2012,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 88, 1995; No. 134, 2003; No. 103, 2010</div>
+    <div>am. No. 88, 1995; No. 134, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2087,6 +2087,33 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>am. No. 95, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Australian Maritime Safety Authority Act 1990</h9>
+
+## 27  Subsection 47(2)
+
+## 28  Paragraph 47(4)(a)
+
+## 29  Subsection 47(5)
+
+## 30  Paragraph 47(7)(a)
+
+## 31  Subsection 47(10)
+
+As at 20 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
