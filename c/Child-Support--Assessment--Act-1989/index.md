@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image001.gif)
 
 # Child Support (Assessment) Act 1989
 
 **Act No. 124 of 1989 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 3 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -2160,7 +2160,7 @@ Step 7.   Work out the costs of the child for the day under sections 55G a
 
 Step 8.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image002.gif)
 
 * * *
 
@@ -2228,7 +2228,7 @@ Step 1A. Work out the costs of the child for the day under section 55HA.
 
 Step 1B. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image002.gif)
 
 Step 2.   Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2252,7 +2252,7 @@ Note:          If a parent’s percentage of care for a child 
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image003.gif)
 
              (3)  Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2312,7 +2312,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image004.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2350,7 +2350,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image005.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image005.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2390,7 +2390,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non‑parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image006.gif)
 
 Note:          Under section 40B, a non‑parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -2482,7 +2482,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image007.gif)
 
 Single child support case—relevant dependent children
 
@@ -2494,7 +2494,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image008.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -2508,7 +2508,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image009.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -2522,7 +2522,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image010.gif)
 
 Negative result taken to be nil
 
@@ -2614,7 +2614,7 @@ Note:          This section does not limit the power under sec
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image011.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -2642,7 +2642,7 @@ Step 4.   Work out the costs of the child for the day under sections 55G a
 
 Step 5.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image012.gif)
 
 * * *
 
@@ -2658,7 +2658,7 @@ _Method statement_
 
 Step 1.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image013.gif)
 
 Step 2.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -3126,7 +3126,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image014.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -3253,7 +3253,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image015.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -3269,7 +3269,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (2)  The parent’s **_multi‑case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image016.gif)
 
              (3)  For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -4525,7 +4525,7 @@ Note:          The annual rate of child support specified in s
 
              (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image017.gif)
 
           (4A)  For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
 
@@ -4603,7 +4603,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image018.gif)
 
           (6A)  For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
 
@@ -4663,11 +4663,11 @@ Note:          If the Registrar refuses to grant an applicatio
 
              (3)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image019.gif)
 
           (3A)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image020.gif)
 
           (3B)  For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -7715,7 +7715,7 @@ Note:          Section 150A provides for the Registrar to sp
 
              (1)  The Registrar may, in writing, delegate all or any of the Registrar’s powers or functions under this Act to an officer or employee of the Department.
 
-       (1AA)  The Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to the Chief Executive Centrelink.
+       (1AA)  The Registrar may, in accordance with service arrangements, delegate in writing all or any of his or her powers or functions under this Act to the CEO or an employee of the Services Delivery Agency.
 
           (1A)  Without limiting the generality of subsection (1), the Registrar may also, in writing, delegate all or any of the Registrar’s powers or functions to a person engaged by the Registrar for the purposes of Part 6A.
 
@@ -7791,29 +7791,15 @@ Note:          Section 150A provides for the Registrar to sp
 
                      (c)  for the purpose for which the information was communicated under this section.
 
-          (2B)  Subsection (2) does not apply to the making of a record of information with the express or implied authorisation of the person to whom the information relates.
-
              (3)  Subsection (2) does not prevent the Registrar or a person authorised by the Registrar from communicating any protected information:
 
                      (a)  to the Secretary, or an officer or employee of the Department, for the purpose of the administration of this Act; or
 
                      (b)  to the Secretary of the Department or the Veterans’ Affairs Department, or an officer or employee of either Department, for the purpose of the administration of any law of the Commonwealth relating to pensions, allowances or benefits; or
 
-                   (ba)  to:
+                   (ba)  to the CEO or an employee of the Services Delivery Agency for the purpose of the administration of this Act or of any other law of the Commonwealth relating to pensions, allowances or benefits; or
 
-                              (i)  the Chief Executive Centrelink; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                            for the purpose of the administration of this Act or of any other law of the Commonwealth relating to pensions, allowances or benefits; or
-
-                   (bb)  to:
-
-                              (i)  the Chief Executive Medicare; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
-
-                            for the purpose of the performance of functions, or the exercise of powers, in connection with a medicare program; or
+                   (bb)  to the Chief Executive Officer or an employee of Medicare Australia for the purposes of the performance of functions or the exercise of powers under the _Medicare Australia Act 1973_; or
 
                      (c)  to a person performing, as a person to whom this section applies, duties under or in relation to this Act or the Registration and Collection Act, or under regulations made under either Act, for the purpose of enabling the person to perform the duties; or
 
@@ -7865,7 +7851,7 @@ Note:          Section 150A provides for the Registrar to sp
 
                      (c)  to brief a relevant Minister in relation to issues raised or proposed to be raised publicly by or on behalf of the person to whom the information relates so that the Minister can respond by correcting a mistake of fact, a misleading perception or impression, a misleading statement or an incorrectly held opinion; or
 
-                     (d)  to brief a relevant Minister about a possible error or delay on the part of the Registrar or an officer or employee of the Department; or
+                     (d)  to brief a relevant Minister about a possible error or delay on the part of the Child Support Agency; or
 
                      (e)  to brief a relevant Minister about an instance of an anomalous or unusual operation of this Act.
 
@@ -7963,9 +7949,9 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="relev-inform"></a>**_relevant information_** means:
 
-                     (a)  information about a person obtained from the records of the Department or the former Child Support Agency; or
+                     (a)  information about a person obtained from the records of the Department or the Child Support Agency; or
 
-                     (b)  information to the effect that there is no information about a person held in the records of the Department or the former Child Support Agency.
+                     (b)  information to the effect that there is no information about a person held in the records of the Department or the Child Support Agency.
 
 ##### <a id="150A"></a>150A  Applications, notices, elections and replies to be in the manner specified by the Registrar
 
@@ -8133,17 +8119,7 @@ the election has no effect unless and until the overseas authority approves the 
 
 ##### <a id="151A"></a>151A  Procedure where person making election is receiving more than the base rate of family tax benefit Part A
 
-             (1)  As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform:
-
-                     (a)  the Secretary; or
-
-                     (b)  if the Secretary has delegated his or her powers under this section to:
-
-                              (i)  the Chief Executive Centrelink; or
-
-                             (ii)  an officer or employee of the Department;
-
-                            the Chief Executive Centrelink.
+             (1)  As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform the Secretary or, if the Secretary has delegated his or her powers under this section to the CEO or an employee of the Services Delivery Agency, the CEO.
 
              (2)  The Secretary must, by applying clause 10 of Schedule 1 to the Family Assistance Act, decide whether the carer has taken reasonable action to obtain maintenance for the child if it were assumed that:
 
@@ -8159,11 +8135,7 @@ the election has no effect unless and until the overseas authority approves the 
 
              (6)  As soon as practicable after the Secretary decides not to approve the election, the Secretary must give the carer a written notice setting out the decision.
 
-             (7)  The Secretary may, by writing, delegate all or any of his or her powers under this section to:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  an officer or employee of the Department.
+             (7)  The Secretary may, by writing, delegate all or any of his or her powers under this section to an officer of the Department or, in accordance with service arrangements, to the CEO or an employee of the Services Delivery Agency.
 
 ##### <a id="151B"></a>151B  Application for assessment/agreement to continue beyond child’s 18th birthday
 
@@ -8327,7 +8299,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00414/Html/549e4e04-7da4-4c67-8a9b-7e0f3ce8711b_files/image021.gif)
 
 where:
 
@@ -8491,7 +8463,7 @@ the person has acted without reasonable care or with intentional disregard to th
 
                      (b)  who is a resident of a reciprocating jurisdiction.
 
-##### <a id="161"></a>161  Obtaining of information and evidence
+##### <a id="161"></a>161  Obtaining of information and evidence
 
              (1)  The Registrar may, where it is reasonably necessary for the purposes of this Act, by written notice, require a person:
 
@@ -9257,19 +9229,19 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Family Law Reform (Consequential Amendments) Act 1995</div>
+    <div><b>Family Law Reform (Consequential Amendments) Act 1995</b></div>
   </td>
   <td>
-    <div>140, 1995</div>
+    <div><b>140, 1995</b></div>
   </td>
   <td>
-    <div>12 Dec 1995</div>
+    <div><b>12 Dec 1995</b></div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (Part 2): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(d)</i></div>
+    <div><b>Schedule 1 (Part 2): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(d)</i> </b></div>
   </td>
   <td>
-    <div>—</div>
+    <div><b>—</b></div>
   </td>
 </tr>
 <tr>
@@ -10023,7 +9995,7 @@ Schedule 3 (items 32–49): 10 Dec 2008</div>
     <div>25 May 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 4 (items 50–55): 1 July 2011</div>
+    <div>Schedule 4 (items 50–55): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -16659,7 +16631,7 @@ Div. 6 of Part 7</div>
     <div>S. 149</div>
   </td>
   <td>
-    <div>am. No. 151, 1992; No. 43, 1996; No. 29, 1997; No. 146, 1999; No. 75, 2001; No. 32, 2011</div>
+    <div>am. No. 151, 1992; No. 43, 1996; No. 29, 1997; No. 146, 1999; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
@@ -16667,7 +16639,7 @@ Div. 6 of Part 7</div>
     <div>S. 150</div>
   </td>
   <td>
-    <div>am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120, 1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007; Nos. 5 and 32, 2011</div>
+    <div>am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120, 1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -16676,14 +16648,6 @@ Div. 6 of Part 7</div>
   </td>
   <td>
     <div>ad. No. 82, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -16811,7 +16775,7 @@ Div. 6 of Part 7</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2000; No. 75, 2001; No. 32, 2011</div>
+    <div>am. No. 45, 2000; No. 75, 2001</div>
   </td>
 </tr>
 <tr>
@@ -17192,6 +17156,82 @@ Schedule 1</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 50  Subsection 149(1AA)
+
+Repeal the subsection, substitute:
+
+       (1AA)  The Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to the Chief Executive Centrelink.
+
+## 50A  After subsection 150(2A)
+
+Insert:
+
+          (2B)  Subsection (2) does not apply to the making of a record of information with the express or implied authorisation of the person to whom the information relates.
+
+## 51  Paragraphs 150(3)(ba) and (bb)
+
+Repeal the paragraphs, substitute:
+
+                   (ba)  to:
+
+                              (i)  the Chief Executive Centrelink; or
+
+                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
+
+                            for the purpose of the administration of this Act or of any other law of the Commonwealth relating to pensions, allowances or benefits; or
+
+                   (bb)  to:
+
+                              (i)  the Chief Executive Medicare; or
+
+                             (ii)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
+
+                            for the purpose of the performance of functions, or the exercise of powers, in connection with a medicare program; or
+
+## 52  Paragraph 150(4C)(d)
+
+Omit “Child Support Agency”, substitute “Registrar or an officer or employee of the Department”.
+
+## 53  Subsection 150AA(3) (paragraphs (a) and (b) of the definition of _relevant information_)
+
+Before “Child Support Agency”, insert “former”.
+
+## 54  Subsection 151A(1)
+
+Repeal the subsection, substitute:
+
+             (1)  As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform:
+
+                     (a)  the Secretary; or
+
+                     (b)  if the Secretary has delegated his or her powers under this section to:
+
+                              (i)  the Chief Executive Centrelink; or
+
+                             (ii)  an officer or employee of the Department;
+
+                            the Chief Executive Centrelink.
+
+## 55  Subsection 151A(7)
+
+Repeal the subsection, substitute:
+
+             (7)  The Secretary may, by writing, delegate all or any of his or her powers under this section to:
+
+                     (a)  the Chief Executive Centrelink; or
+
+                     (b)  an officer or employee of the Department.
+
+As at 3 June 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -17210,7 +17250,7 @@ _Child Support Legislation Amendment Act 1995 (No. 39, 1995)_
 
 _Child Support (Assessment) Act 1989 (No. 120, 1998)_
 
-##### <a id="4"></a>4  Application
+##### <a id="4"></a>4  Application
 
              (1)  Subject to sections 5 and 6, the amendments of the _Child Support (Assessment) Act 1989_ made by Schedules 1, 3, 5, 8, 9, 13, 14 and 18 do not apply in relation to the 1998‑99 child support year or any earlier child support year.
 
@@ -17711,7 +17751,7 @@ so much only of the amount of family allowance that would have been payable in r
 
 (1)       If:
 
-                     (a)  a child dies before 1 July 2000; and
+                     (a)  a child dies before 1 July  2000; and
 
                      (b)  before the Secretary learns of the death of the child, an individual has begun to receive family tax benefit in respect of the child in accordance with a determination under section 16 of the Family Assistance Administration Act as amended by this Act in respect of any period after 30 June 2000;
 
@@ -18943,7 +18983,7 @@ in respect of an order made, before that time, by a court under Division 4 of 
 
 _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007 (No. 82, 2007)_
 
-##### <a id="4"></a>4  Application, saving and transitional provisions
+##### <a id="4"></a>4  Application, saving and transitional provisions
 
              (1)  If:
 
