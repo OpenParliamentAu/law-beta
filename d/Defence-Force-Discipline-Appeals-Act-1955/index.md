@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00494/Html/DefForDisAppAct55_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00444/Html/DefForDisAppAct55_image001.gif)
 
 # Defence Force Discipline Appeals Act 1955
 
 **Act No. 16 of 1955 as amended**
 
-This compilation was prepared on 20 September 2008
+This compilation was prepared on 16 July 2008
  taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force on that date is appended in the Notes section
@@ -179,9 +179,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="charg"></a>**_charge_** means a charge of a service offence.
 
-                    <a name="convict"></a>**_conviction_** means a conviction by the Australian   Military Court (other than under Part IX of the _Defence Force Discipline Act 1982_).
+                    <a name="convict"></a>**_conviction_** means a conviction by the Australian   Military Court.
 
-                    <a name="convict-person"></a>**_convicted person_** means a person who has been convicted by the Australian Military Court (other than under Part IX of the _Defence Force Discipline Act 1982_).
+                    <a name="convict-person"></a>**_convicted person_** means a person who has been convicted by the Australian Military Court.
 
                     <a name="court-summari-jurisdict"></a>**_court of summary jurisdiction_**, in relation to a Territory, includes a court of that Territory sitting as a court for the making of summary orders or the summary punishment of offences under the law of the Territory.
 
@@ -191,9 +191,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an order made by the Australian   Military Court under section 83 of that Act; or
 
-                     (c)  an order made by the Australian   Military Court under section 84 of that Act;
-
-but does not include an order made in an appeal under Part IX of the _Defence Force Discipline Act 1982_.
+                     (c)  an order made by the Australian   Military Court under section 84 of that Act.
 
                     <a name="director-militari-prosecut"></a>**_Director of Military Prosecutions_** means the Director of Military Prosecutions established under section 188G of the _Defence Force Discipline Act 1982_.
 
@@ -209,11 +207,11 @@ but does not include an order made in an appeal under Part IX of the _Defence 
 
 under this Act to the Tribunal.
 
-                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by the Australian Military Court (other than under Part IX of the _Defence Force Discipline Act 1982_) on the ground of unsoundness of mind.
+                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by the Australian Military Court on the ground of unsoundness of mind.
 
-                    <a name="prescrib-acquitted-person"></a>**_prescribed acquitted person_** means a person who has been acquitted of a service offence by the Australian Military Court (other than under Part IX of the _Defence Force Discipline Act 1982_) on the ground of unsoundness of mind.
+                    <a name="prescrib-acquitted-person"></a>**_prescribed acquitted person_** means a person who has been acquitted of a service offence by the Australian Military Court on the ground of unsoundness of mind.
 
-                    <a name="punish"></a>**_punishment_** means a punishment imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_(other than under Part IX of that Act).
+                    <a name="punish"></a>**_punishment_** means a punishment imposed by the Australian   Military Court under the _Defence Force Discipline Act 1982_.
 
                     <a name="servic-offenc"></a>**_service offence_** has the same meaning as it has in the _Defence Force Discipline Act 1982_.
 
@@ -227,7 +225,7 @@ under this Act to the Tribunal.
 
 ##### <a id="5"></a>5  Extension of Act to Territories
 
-                   This Act extends to all the Territories.
+                   This Act extends to all the Territories.
 
 ##### <a id="5A"></a>5A  Application of the _Criminal Code_
 
@@ -841,7 +839,7 @@ the contempt is punishable by the court to which the application was made as if 
 
              (1)  Nothing in this Act affects the Royal prerogative of mercy.
 
-##### <a id="60"></a>60  Regulations
+##### <a id="60"></a>60  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
@@ -1267,7 +1265,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 21–26): 20 Sept 2008 
+    <div>Schedule 2 (items 21–26): \[ <i>see</i>Note 2] 
 Schedule 7 (items 5–14) and Schedule 8 (items 1, 2, 4, 8): Royal Assent 
 Schedule 7 (item 45): <i>(g)</i></div>
   </td>
@@ -1532,7 +1530,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 6, 2008</div>
+    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2367,6 +2365,42 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides 
     <div>am. No. 153, 1982</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Defence Legislation Amendment Act 2008 (No. 6, 2008)_
+
+The following amendments commence on 20 September 2008:
+
+## Schedule 2
+
+## 21  Section 4 (at the end of the definition of _convicted person_)
+
+Add “(other than under Part IX of the _Defence Force Discipline Act 1982_)”.
+
+## 22  Section 4 (at the end of the definition of _conviction_)
+
+Add “(other than under Part IX of the _Defence Force Discipline Act 1982_)”.
+
+## 23  Section 4 (at the end of the definition of _court order_)
+
+Add:
+
+; but does not include an order made in an appeal under Part IX of the _Defence Force Discipline Act 1982_.
+
+## 24  Section 4 (definition of _prescribed acquittal_)
+
+After “Court”, insert “(other than under Part IX of the _Defence Force Discipline Act 1982_)”.
+
+## 25  Section 4 (definition of _prescribed acquitted person_)
+
+After “Court”, insert “(other than under Part IX of the _Defence Force Discipline Act 1982_)”.
+
+## 26  Section 4 (at the end of the definition of _punishment_)
+
+Add “(other than under Part IX of that Act)”.
+
+As at 16 July 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
